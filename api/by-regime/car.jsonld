@@ -1,0 +1,91 @@
+{
+  "@context": "https://www.ammitto.org/ontology/context.jsonld",
+  "@type": "Index",
+  "slice": "by-regime",
+  "regime": {
+    "@id": "https://www.ammitto.org/regime/car"
+  },
+  "entries": [
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/16723"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/16724"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/16725"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/16752"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/18427"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/18428"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/18429"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/18430"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/18431"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/19100"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/19128"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/19129"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/19929"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/19930"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/20900"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/20901"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/22884"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/22885"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/28980"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/29782"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/39618"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/39756"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/39757"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/39758"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/39760"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/46309"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/46311"
+    }
+  ]
+}

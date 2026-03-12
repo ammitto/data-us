@@ -1,0 +1,61 @@
+---
+id: us/sdn-aero-engine-corp-370
+announcement:
+  title: "Treasury Sanctions Chinese Military Companies"
+  url: "https://home.treasury.gov/news/press-releases/jy1234"
+  publish_date: "2024-01-31"
+  document_type: us/designation
+  authority: us/ofac
+  publisher: us/treasury
+  lang: en
+
+sanction_details:
+  - entity:
+      type: organization
+      uid: "370"
+      name:
+        full_name: "Aero-Engine Corporation of China"
+        script: Latn
+      aliases:
+        - name: "AECC"
+          type: aka
+          category: strong
+        - name: "中国航空发动机集团有限公司"
+          type: aka
+          category: strong
+      identifiers:
+        - type: Website
+          number: "www.aecc.cn"
+          issuing_country: CN
+      addresses:
+        - city: "Beijing"
+          country: "China"
+          country_code: CN
+      remarks: "For additional information on targeting Chinese military companies, see..."
+
+    measures:
+      - type: asset_freeze
+        description:
+          en: "All property and interests in property are blocked and must be reported to OFAC"
+      - type: trade_restriction
+        description:
+          en: "Transactions with this entity are generally prohibited"
+
+    programs:
+      - CMC
+      - UKRAINE
+
+    reasons:
+      - category: "military_support"
+        description:
+          en: "Operating in the defense sector of the Chinese military"
+
+    period:
+      effective_date: "2024-01-31"
+      is_indefinite: true
+
+legal_citations:
+  - legal_instrument_id: us/eo-14024
+    citation_type: legal_basis
+
+group_id: us/cmc-sanctions-2024-01

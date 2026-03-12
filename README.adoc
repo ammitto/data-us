@@ -37,75 +37,426 @@ OFAC administers sanctions under multiple legal authorities:
   * SSI (Sectoral Sanctions Identifications)
   * etc.
 
-== Directory Structure
+== Source Data Structure
+
+The `sources/` directory contains source data organized by type:
 
 ```
-data-us/
-├── downloaded/        # Raw downloaded ZIP/XML files
-├── processed/         # Processed YAML files (one per entity)
-└── README.adoc        # This file
+sources/
+├── sanction-lists/                    # Sanction list announcements
+│   ├── sdn-list/                      # SDN List entries
+│   │   ├── entry-001.yml
+│   │   └── ...
+│   └── consolidated-list/             # Consolidated (non-SDN) entries
+│       └── ...
+├── legal-instruments/                 # Legal instruments
+│   ├── executive-orders/
+│   │   ├── eo-14024.yml
+│   │   └── ...
+│   └── statutes/
+│       └── ...
+└── supporting/                        # Reference data
+    ├── document-types.yml             # Document type definitions
+    └── organizations.yml              # Organization definitions
 ```
 
-== Data Contents
+=== Schema Types
 
-* **Individuals**: Natural persons (sdnType = "Individual")
-* **Entities**: Organizations (sdnType = "Entity")
-* **Vessels**: Ships (sdnType = "Vessel")
+Each YAML file follows one of the schema types:
 
-== Data Format
+. **Announcement Schema** - Standard sanction announcements with `sanction_details`
+. **Legal Instrument Schema** - Executive orders, statutes, regulations
+
+Schema files are located in `schemas/`:
+
+* `schemas/us-announcement.yml` - For sanction list announcements
+* `schemas/us-legal-instrument.yml` - For legal instruments
+* `schemas/document-types.yml` - Supporting schema for document types
+* `schemas/organizations.yml` - Supporting schema for organizations
+
+=== Supporting Data
+
+The `sources/supporting/` directory contains reference data used across the repository:
+
+==== Document Types (`document-types.yml`)
+
+[cols="1,2,2"]
+|===
+| ID | Name (English) | Name (Chinese)
+
+| `us/executive-order`
+| Executive Order
+| 行政命令
+
+| `us/federal-register-notice`
+| Federal Register Notice
+| 联邦公报通知
+
+| `us/public-law`
+| Public Law
+| 公法
+
+| `us/regulation`
+| Regulation
+| 法规
+
+| `us/determination`
+| Determination
+| 认定
+
+| `us/designation`
+| Designation
+| 指定
+
+|===
+
+==== Organizations (`organizations.yml`)
+
+[cols="1,2,2"]
+|===
+| ID | Name | Type
+
+| `us/treasury`
+| Department of the Treasury
+| ministry
+
+| `us/ofac`
+| Office of Foreign Assets Control
+| agency
+
+| `us/state`
+| Department of State
+| ministry
+
+| `us/commerce`
+| Department of Commerce
+| ministry
+
+| `us/bis`
+| Bureau of Industry and Security
+| agency
+
+| `us/whitehouse`
+| The White House
+| authority
+
+|===
+
+== Source Data Format
+
+=== Sanction Announcement Schema
 
 [source,yaml]
 ----
-uid: '12345'
-sdn_type: Individual
-programs:
-  - SDGT
-  - IRAQ2
-primary_name:
-  first: John
-  last: Doe
-aliases:
-  - name: J. Doe
-    type: weak
-identifications:
-  - type: Passport
-    number: A12345678
-    country: XX
-addresses:
-  - street: 123 Main St
-    city: City
-    country: XX
+# yaml-language-server: $schema=../../schemas/us-announcement.yml
+---
+id: us/sdn-2024-001
+announcement:
+  title: "Treasury Sanctions Russian Entities"
+  url: "https://home.treasury.gov/news/press-releases/..."
+  publish_date: "2024-01-15"
+  document_id: "FR Doc. 2024-12345"
+  document_type: us/designation
+  authority: us/ofac
+  publisher: us/treasury
+  lang: en
+  content: |
+    The Department of the Treasury's Office of Foreign Assets Control...
+
+sanction_details:
+  - entity:
+      type: organization
+      uid: "12345"
+      name:
+        full_name: "EXAMPLE CORPORATION LTD"
+        script: Latn
+      aliases:
+        - name: "Example Corp"
+          type: aka
+          category: strong
+      identifiers:
+        - type: Registration Number
+          number: "12345678"
+          issuing_country: RU
+      addresses:
+        - street: "123 Main Street"
+          city: "Moscow"
+          country: "Russia"
+          country_code: RU
+      remarks: "For additional information on..."
+
+    measures:
+      - type: asset_freeze
+        description:
+          en: "All property and interests in property are blocked"
+      - type: trade_restriction
+        description:
+          en: "Trade restrictions apply"
+
+    programs:
+      - UKRAINE
+      - RUS
+
+    reasons:
+      - category: "national_security"
+        description:
+          en: "Operating in the defense sector of the Russian Federation economy"
+
+    period:
+      effective_date: "2024-01-15"
+      is_indefinite: true
+
+legal_citations:
+  - legal_instrument_id: us/eo-14024
+    citation_type: legal_basis
+
+group_id: us/russia-sanctions-2024-01
 ----
 
-== Knowledge Graph Integration
+=== US Program Codes
 
-This repository's processed YAML data feeds into the Ammitto knowledge graph.
+[cols="1,3"]
+|===
+| Code | Description
 
-When the harmonization process runs:
+| `SDGT`
+| Specially Designated Global Terrorist
+
+| `SDT`
+| Specially Designated Terrorist
+
+| `SDNTK`
+| Specially Designated Narcotics Trafficker
+
+| `SDNT`
+| Specially Designated Nationals (Drug Trafficking)
+
+| `CUBA`
+| Cuba Sanctions
+
+| `IRAN`
+| Iran Sanctions
+
+| `IRAQ2`
+| Iraq Sanctions
+
+| `CYBER2`
+| Cyber-related Sanctions
+
+| `RUS`
+| Russia-related Sanctions
+
+| `UKRAINE`
+| Ukraine-related Sanctions
+
+| `SRF`
+| Syria-Related Sanctions
+
+| `NKRK`
+| North Korea Sanctions
+
+|===
+
+=== Entity Types
+
+The US sanctions list contains the following entity types:
+
+Person:: Individual persons subject to sanctions
+Organization:: Legal entities, companies, and organizations
+Vessel:: Ships and maritime vessels
+Aircraft:: Aircraft subject to sanctions
+
+== Validation and Generation
+
+=== Rake Tasks
+
+The repository provides rake tasks for managing the knowledge graph generation:
 
 [source,shell]
 ----
-# Auto-detect all data-* repos and harmonize
-ammitto harmonize --scan --sources-dir /path/to/repos --output-dir ./api/v1
+# Clean all generated API files
+bundle exec rake clean
+
+# Validate source YAML files against schemas
+bundle exec rake validate
+
+# Generate API files from source YAML
+bundle exec rake generate
+
+# Validate and generate in one step
+bundle exec rake build
+
+# Clean and regenerate (recommended for updates)
+bundle exec rake regenerate
 ----
 
-The us data is transformed into:
+=== Validation
 
-* Individual JSON-LD nodes in `api/v1/node/entity/us/{id}.jsonld`
-* Sanction entries in `api/v1/node/entry/us/{id}.jsonld`
-* Lightweight search index entries
-* Facet counts for filtering
+The validation process checks all YAML files against their corresponding schemas:
 
-== Usage
+[source,shell]
+----
+bundle exec rake validate
+----
 
-This data is part of the https://github.com/ammitto/ammitto[Ammitto] sanctions
-screening system.
+== Harmonized Data Format
+
+After harmonization, entities are transformed into JSON-LD format using the
+Ammitto gem's harmonized models.
+
+=== Entity (JSON-LD)
+
+[source,json]
+----
+{
+  "@context": "https://www.ammitto.org/schema/v1/context.jsonld",
+  "@id": "https://www.ammitto.org/entity/us/36",
+  "@type": "OrganizationEntity",
+  "entityType": "organization",
+  "names": [
+    {
+      "@type": "NameVariant",
+      "fullName": "AEROCARIBBEAN AIRLINES",
+      "script": "Latn",
+      "isPrimary": true
+    }
+  ],
+  "sanctionEntryIds": [
+    "https://www.ammitto.org/entry/us/sdn-list/36"
+  ]
+}
+----
+
+=== IRI Structure
+
+All resources use normalized IRIs:
+
+```
+# Entity (list-agnostic)
+https://www.ammitto.org/entity/us/{local_id}
+
+# Entry (list-specific)
+https://www.ammitto.org/entry/us/{list_type}/{local_id}
+
+# List
+https://www.ammitto.org/list/us/{list_type}
+
+# Legal Instrument
+https://www.ammitto.org/legal-instrument/us/{instrument_id}
+
+# Authority
+https://www.ammitto.org/authority/us
+```
+
+=== Available List Types
+
+[cols="1,2"]
+|===
+| List Type | Description
+
+| `sdn-list`
+| Specially Designated Nationals and Blocked Persons
+
+| `consolidated-list`
+| Consolidated Sanctions List (Non-SDN)
+
+| `fse-list`
+| Foreign Sanctions Evaders List
+
+| `ssi-list`
+| Sectoral Sanctions Identifications List
+
+|===
+
+== Knowledge Graph Integration
+
+This repository's source YAML data feeds into the Ammitto knowledge graph
+using a normalized structure.
+
+=== Data Flow Architecture
+
+The harmonization process transforms source YAML data into JSON-LD knowledge graph nodes:
+
+....
+┌─────────────────────┐     ┌─────────────────────┐     ┌─────────────────────┐
+│   Source YAML       │     │   Ammitto Gem       │     │   JSON-LD Output    │
+│   (sources/)        │────▶│   Transformer       │────▶│   (api/)            │
+│                     │     │                     │     │                     │
+│ • Announcement      │     │ • UsAnnouncement    │     │ • Entity nodes      │
+│ • Sanction details  │     │ • UsEntity          │     │ • Entry nodes       │
+│ • Legal instruments │     │ • UsMeasure         │     │ • Regime nodes      │
+└─────────────────────┘     └─────────────────────┘     └─────────────────────┘
+....
+
+=== Output Directory Structure
+
+The `api/` directory contains the generated JSON-LD knowledge graph:
+
+....
+api/
+├── node/
+│   ├── entity/
+│   │   └── us/
+│   │       └── {local_id}.jsonld         # Entity identity data
+│   ├── entry/
+│   │   └── us/
+│   │       ├── sdn-list/
+│   │       │   └── {local_id}.jsonld     # SDN entries
+│   │       └── consolidated-list/
+│   │           └── {local_id}.jsonld     # Non-SDN entries
+│   ├── regime/
+│   │   ├── us_russia.jsonld
+│   │   ├── us_iran.jsonld
+│   │   └── ...
+│   └── authority/
+│       └── us.jsonld
+├── search-index.json                      # Search index
+└── stats.json                             # Statistics
+....
+
+== Directory Structure
+
+```
+.
+├── sources/                # Source YAML data
+│   ├── sanction-lists/     # Sanction announcements
+│   ├── legal-instruments/  # Legal instruments
+│   └── supporting/         # Reference data
+├── schemas/                # JSON Schema definitions
+│   ├── us-announcement.yml
+│   ├── us-legal-instrument.yml
+│   ├── document-types.yml
+│   └── organizations.yml
+├── lib/                    # Ruby libraries
+│   └── ammitto/
+│       └── data_us/
+│           └── validator.rb
+├── api/                    # Generated JSON-LD output
+├── Rakefile                # Build tasks
+└── README.adoc             # This file
+```
+
+== Updating Data
+
+Data is automatically updated via GitHub Actions when OFAC publishes new data.
+
+To manually update:
+
+[source,shell]
+----
+# From the ammitto gem directory
+bundle exec ruby exe/ammitto fetch us --format yaml --output-dir ./sources/sanction-lists/sdn-list
+----
 
 == Related Repositories
 
 * https://github.com/ammitto/ammitto[ammitto] - Main Ruby gem with harmonization
 * https://github.com/ammitto/data[data] - Harmonized knowledge graph output
 * https://github.com/ammitto/ammitto.github.io[ammitto.github.io] - Website with search
+* https://github.com/ammitto/data-cn[data-cn] - China sanctions data
+* https://github.com/ammitto/data-eu[data-eu] - EU sanctions data
+* https://github.com/ammitto/data-un[data-un] - UN sanctions data
+* https://github.com/ammitto/data-uk[data-uk] - UK sanctions data
 
 == License
 

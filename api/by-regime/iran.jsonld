@@ -1,0 +1,1969 @@
+{
+  "@context": "https://www.ammitto.org/ontology/context.jsonld",
+  "@type": "Index",
+  "slice": "by-regime",
+  "regime": {
+    "@id": "https://www.ammitto.org/regime/iran"
+  },
+  "entries": [
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/10465"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/11317"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/11318"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/11319"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/11607"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/11608"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/11609"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/11610"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/11611"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/11612"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/11613"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/11614"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/11615"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/11616"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/11618"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/11619"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/11620"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/11621"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/11622"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/11623"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/11625"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/11626"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/11627"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/11628"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/11629"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/11630"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/11631"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/11632"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/11633"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/11634"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/11635"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/11636"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/11637"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/11638"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/11639"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/11640"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/11641"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/11642"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/11643"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/11644"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/11645"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/12028"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/12032"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/12081"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/12476"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/12477"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/12802"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/12803"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/12929"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/12930"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/12931"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/13115"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/13116"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/13131"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/13133"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/13134"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/13135"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/13136"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/13137"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/13138"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/13140"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/13141"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/13142"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/13143"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/13145"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/13146"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/13147"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15036"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15037"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15038"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15039"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15040"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15041"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15042"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15043"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15044"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15045"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15046"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15047"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15048"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15049"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15050"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15051"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15052"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15053"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15054"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15055"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15056"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15057"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15058"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15059"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15060"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15061"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15062"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15068"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15070"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15073"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15074"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15075"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15076"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15077"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15078"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15079"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15080"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15081"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15082"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15084"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15085"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15086"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15087"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15088"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15089"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15090"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15091"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15092"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15093"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15095"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15117"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15118"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15119"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15120"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15121"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15122"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15123"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15124"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15125"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15126"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15127"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15128"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15129"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15130"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15131"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15132"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15133"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15134"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15135"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15136"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15137"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15138"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15139"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15140"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15141"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15142"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15144"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15145"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15160"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15161"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15162"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15163"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15694"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15695"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15696"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15697"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15719"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15720"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15725"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15727"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15729"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15731"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15732"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15733"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15734"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15735"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15736"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15737"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15738"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15853"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15859"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15902"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15903"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15904"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15905"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15906"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15907"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15908"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15950"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15951"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15952"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15956"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15957"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15961"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15962"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15964"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/15965"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/16004"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/16005"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/16006"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/16007"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/16008"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/16009"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/16011"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/16012"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/16013"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/16014"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/16015"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/16016"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/16017"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/16018"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/16019"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/16020"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/16021"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/16022"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/16023"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/16024"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/16025"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/16026"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/16027"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/16028"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/16029"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/16031"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/16032"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/16033"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/16034"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/16035"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/16036"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/16037"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/16038"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/16039"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/16040"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/16041"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/16119"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/16134"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/16135"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/16136"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/16137"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/16139"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/16140"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/16141"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/16142"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/17154"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/17156"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/17157"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/17158"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/23471"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/24533"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25237"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25257"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25258"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25259"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25260"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25261"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25262"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25263"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25264"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25265"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25266"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25267"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25268"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25269"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25270"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25271"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25272"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25273"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25277"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25278"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25279"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25280"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25281"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25282"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25283"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25284"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25285"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25286"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25287"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25288"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25289"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25290"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25291"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25292"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25293"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25294"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25295"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25296"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25297"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25298"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25299"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25300"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25301"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25302"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25303"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25304"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25305"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25306"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25307"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25309"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25310"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25311"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25312"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25313"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25314"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25315"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25316"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25317"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25319"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25320"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25322"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25335"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25336"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25337"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25338"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25339"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25340"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25341"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25342"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25343"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25344"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25345"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25346"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25347"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25349"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25350"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25351"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25352"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25353"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25354"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25355"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25356"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25357"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25358"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25359"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25360"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25361"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25362"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25363"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25364"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25365"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25366"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25367"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25368"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25369"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25370"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25371"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25372"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25373"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25374"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25376"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25377"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25379"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25380"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25381"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25382"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25383"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25384"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25385"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25386"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25387"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25388"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25389"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25390"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25391"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25392"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25393"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25394"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25396"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25428"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25429"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25430"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25431"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25432"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25434"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25435"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25438"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25439"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25441"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25442"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25444"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25445"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25446"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25447"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25448"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25449"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25450"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25451"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25452"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25453"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25454"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25455"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25456"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25457"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25458"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25459"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25460"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25461"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25462"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25464"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25465"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25466"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25467"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25468"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25469"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25470"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25471"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25472"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25473"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25475"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25477"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25478"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25479"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25480"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25481"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25482"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25483"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25484"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25485"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25486"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25487"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25488"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25489"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25490"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25491"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25492"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25497"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25498"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25499"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25500"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25501"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25502"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25503"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25504"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25505"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25506"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25507"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25508"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25509"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25510"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25511"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25512"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25513"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25514"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25515"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25516"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25517"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25518"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25519"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25520"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25521"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25522"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25523"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25524"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25525"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25526"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25527"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25528"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25529"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25530"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25531"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25532"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25533"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25534"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25535"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25536"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25537"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25538"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25539"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25540"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25541"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25542"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25543"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25544"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25545"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25546"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25547"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25548"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25549"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25550"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25551"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25552"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25553"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25554"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25555"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25556"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25557"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25558"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25559"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25560"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25561"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25562"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25563"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25627"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25628"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25636"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25637"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25638"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25640"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25641"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25642"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25644"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25647"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25649"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25650"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25651"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25653"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25654"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25658"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25659"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25660"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25661"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25662"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25663"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25664"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25708"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25714"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25729"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25736"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25758"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25783"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25797"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25799"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25800"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25801"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25803"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25806"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25829"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25830"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25831"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25832"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25833"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25834"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25835"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25836"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25837"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25838"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25839"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25840"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25841"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25842"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25843"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25844"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25845"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25846"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25847"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25848"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25849"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25850"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25851"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25852"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25853"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25854"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25855"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25856"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25857"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25858"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25859"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25860"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25861"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25877"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25878"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25879"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25880"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25881"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25882"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25883"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25884"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25885"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25886"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25887"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25888"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25889"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25890"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25891"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25892"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25893"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25894"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25895"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25896"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25897"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25898"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25900"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25901"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25902"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25903"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25904"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25905"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25906"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25907"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25908"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25909"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25910"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25911"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25912"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25913"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25914"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25915"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25918"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25919"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25920"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25921"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25922"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25923"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25924"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25925"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25926"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25927"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25928"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25929"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25930"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25931"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25932"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25933"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25934"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25935"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25936"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25937"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25938"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25939"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25940"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25941"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25942"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25943"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25944"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25945"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25946"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25947"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25948"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25949"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25950"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25951"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25952"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25953"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25954"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25955"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25956"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25957"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25958"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25959"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25960"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25961"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25962"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25963"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25964"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25965"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25966"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25967"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25968"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25969"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25970"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/25971"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/26017"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/28003"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/29099"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/29100"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/29102"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/29103"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/29104"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/40716"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/40717"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/44927"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/4632"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/4633"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/4635"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/4639"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/4642"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/56893"
+    }
+  ]
+}

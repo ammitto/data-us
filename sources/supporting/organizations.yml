@@ -1,0 +1,80 @@
+---
+organizations:
+  - id: us/treasury
+    name:
+      en: "United States Department of the Treasury"
+      zh-Hans: "美国财政部"
+    short_name:
+      en: "Treasury"
+      zh-Hans: "财政部"
+    type: ministry
+    url: "https://home.treasury.gov/"
+    country_code: US
+
+  - id: us/ofac
+    name:
+      en: "Office of Foreign Assets Control"
+      zh-Hans: "外国资产控制办公室"
+    short_name:
+      en: "OFAC"
+      zh-Hans: "OFAC"
+    type: agency
+    parent_id: us/treasury
+    url: "https://ofac.treasury.gov/"
+    country_code: US
+
+  - id: us/state
+    name:
+      en: "United States Department of State"
+      zh-Hans: "美国国务院"
+    short_name:
+      en: "State Department"
+      zh-Hans: "国务院"
+    type: ministry
+    url: "https://www.state.gov/"
+    country_code: US
+
+  - id: us/commerce
+    name:
+      en: "United States Department of Commerce"
+      zh-Hans: "美国商务部"
+    short_name:
+      en: "Commerce"
+      zh-Hans: "商务部"
+    type: ministry
+    url: "https://www.commerce.gov/"
+    country_code: US
+
+  - id: us/bis
+    name:
+      en: "Bureau of Industry and Security"
+      zh-Hans: "工业和安全局"
+    short_name:
+      en: "BIS"
+      zh-Hans: "BIS"
+    type: agency
+    parent_id: us/commerce
+    url: "https://www.bis.doc.gov/"
+    country_code: US
+
+  - id: us/whitehouse
+    name:
+      en: "The White House"
+      zh-Hans: "白宫"
+    short_name:
+      en: "White House"
+      zh-Hans: "白宫"
+    type: authority
+    url: "https://www.whitehouse.gov/"
+    country_code: US
+
+  - id: us/federal-register
+    name:
+      en: "Office of the Federal Register"
+      zh-Hans: "联邦公报办公室"
+    short_name:
+      en: "OFR"
+      zh-Hans: "OFR"
+    type: agency
+    url: "https://www.federalregister.gov/"
+    country_code: US
