@@ -1,0 +1,37 @@
+{
+  "@context": "https://www.ammitto.org/ontology/context.jsonld",
+  "@type": "Index",
+  "slice": "by-regime",
+  "regime": {
+    "@id": "https://www.ammitto.org/regime/yemen"
+  },
+  "entries": [
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/17368"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/17386"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/17387"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/17927"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/17928"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/31192"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/31193"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/31194"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/us/sdn-list/31195"
+    }
+  ]
+}

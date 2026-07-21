@@ -1,0 +1,43 @@
+---
+document_types:
+  - id: us/executive-order
+    name:
+      en: "Executive Order"
+      zh-Hans: "行政命令"
+    description:
+      en: "Presidential directive with legal force"
+
+  - id: us/federal-register-notice
+    name:
+      en: "Federal Register Notice"
+      zh-Hans: "联邦公报通知"
+    description:
+      en: "Official notice published in Federal Register"
+
+  - id: us/public-law
+    name:
+      en: "Public Law"
+      zh-Hans: "公法"
+    description:
+      en: "Legislation passed by Congress"
+
+  - id: us/regulation
+    name:
+      en: "Regulation"
+      zh-Hans: "法规"
+    description:
+      en: "Treasury/OFAC regulation"
+
+  - id: us/determination
+    name:
+      en: "Determination"
+      zh-Hans: "认定"
+    description:
+      en: "Official determination by Secretary of State/Treasury"
+
+  - id: us/designation
+    name:
+      en: "Designation"
+      zh-Hans: "指定"
+    description:
+      en: "SDN list designation"

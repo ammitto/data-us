@@ -1,0 +1,147 @@
+---
+$schema: https://json-schema.org/draft/2020-12/schema
+$id: https://www.ammitto.org/schemas/us-legal-instrument.yml
+title: US Legal Instrument
+description: Schema for US legal instruments (Executive Orders, statutes, regulations)
+type: object
+required:
+  - id
+  - title
+  - type
+properties:
+  id:
+    type: string
+    description: Unique identifier for this legal instrument
+    pattern: "^us/[a-z0-9-]+$"
+
+  title:
+    type: string
+    description: Title of the legal instrument
+
+  short_title:
+    type: string
+    description: Short or common name
+
+  url:
+    type: string
+    format: uri
+    description: URL to official source (Federal Register, Congress.gov)
+
+  type:
+    type: string
+    description: Type of legal instrument
+    enum:
+      - executive_order
+      - statute
+      - public_law
+      - regulation
+      - determination
+
+  document_id:
+    type: string
+    description: Official document identifier (e.g., "E.O. 14024")
+
+  executive_order_number:
+    type: string
+    description: Executive Order number (if applicable)
+
+  public_law_number:
+    type: string
+    description: Public Law number (if applicable)
+
+  us_code_citation:
+    type: string
+    description: U.S. Code citation (if applicable)
+
+  publisher:
+    type: string
+    description: Publisher (links to organizations.yml)
+
+  authority:
+    type: string
+    description: Issuing authority (links to organizations.yml)
+
+  publish_date:
+    type: string
+    format: date
+    description: Publication date (YYYY-MM-DD)
+
+  effective_date:
+    type: string
+    format: date
+    description: Date when the instrument takes effect
+
+  expiry_date:
+    type: string
+    format: date
+    description: Date when the instrument expires (if applicable)
+
+  lang:
+    type: string
+    pattern: "^[a-z]{2,3}(-[A-Za-z]{4})?(-[A-Z]{2})?$"
+    description: Language code
+    default: en
+
+  status:
+    type: string
+    description: Current status of the instrument
+    enum:
+      - in_force
+      - not_in_force
+      - revoked
+      - amended
+      - expired
+    default: in_force
+
+  subject:
+    type: array
+    description: Subject areas / countries targeted
+    items:
+      type: string
+
+  regime:
+    type: string
+    description: Sanction regime this instrument relates to
+
+  summary:
+    type: string
+    description: Summary of the instrument
+
+  content:
+    type: array
+    description: Structured content of the instrument
+    items:
+      type: object
+      properties:
+        type:
+          type: string
+          enum: [section, subsection, paragraph, annex]
+        index:
+          type: integer
+        label:
+          type: string
+        title:
+          type: string
+        content:
+          type: array
+          items:
+            type: object
+
+  approval_history:
+    type: array
+    description: Signing/approval history
+    items:
+      type: string
+
+  signing_date:
+    type: string
+    format: date
+    description: Date signed by President
+
+  signing_president:
+    type: string
+    description: President who signed the order
+
+  federal_register_citation:
+    type: string
+    description: Federal Register citation (e.g., "86 FR 12345")
