@@ -1,0 +1,46 @@
+---
+uid: '39362'
+first_name: Oleg Valentinovich
+last_name: BELOZYOROV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '61422'
+    type: a.k.a.
+    category: strong
+    last_name: BELOZEROV
+    first_name: Oleg Valentinovich
+  - uid: '61423'
+    type: a.k.a.
+    category: strong
+    last_name: BELOSEROV
+    first_name: Oleg
+address_list:
+  items:
+  - uid: '58633'
+    country: Russia
+id_list:
+  items:
+  - uid: '28542'
+    id_type: Tax ID No.
+    id_number: '781306504007'
+    id_country: Russia
+  - uid: '155241'
+    id_type: Gender
+    id_number: Male
+  - uid: '174778'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '55239'
+    date_of_birth: 26 Sep 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '55240'
+    place_of_birth: Ventspils, Latvia
+    main_entry: 'true'

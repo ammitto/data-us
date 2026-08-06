@@ -1,0 +1,31 @@
+---
+uid: '52387'
+first_name: Hector Andres
+last_name: OBREGON PEREZ
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+address_list:
+  items:
+  - uid: '80135'
+    country: Venezuela
+id_list:
+  items:
+  - uid: '45448'
+    id_type: Cedula No.
+    id_number: V-17123100
+    id_country: Venezuela
+  - uid: '184089'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '84087'
+    date_of_birth: 29 Aug 1983
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '84171'
+    place_of_birth: Venezuela
+    main_entry: 'true'

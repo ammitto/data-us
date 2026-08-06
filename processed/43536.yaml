@@ -1,0 +1,36 @@
+---
+uid: '43536'
+last_name: DEFENSE INDUSTRIES SYSTEM
+sdn_type: Entity
+program_list:
+  programs:
+  - SUDAN-EO14098
+aka_list:
+  items:
+  - uid: '67467'
+    type: a.k.a.
+    category: strong
+    last_name: MILITARY INDUSTRY CORPORATION
+  - uid: '67468'
+    type: a.k.a.
+    category: weak
+    last_name: DEFENSE INDUSTRIES CORPORATION
+  - uid: '67469'
+    type: a.k.a.
+    category: weak
+    last_name: DEFENSE INDUSTRY SYSTEM
+address_list:
+  items:
+  - uid: '64944'
+    address1: Khartoum North
+    city: Khartoum
+    postal_code: '10783'
+    country: Sudan
+id_list:
+  items:
+  - uid: '163007'
+    id_type: Organization Established Date
+    id_number: '1993'
+  - uid: '163008'
+    id_type: 'Organization Type:'
+    id_number: Defense activities

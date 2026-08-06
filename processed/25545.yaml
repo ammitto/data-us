@@ -1,0 +1,25 @@
+---
+uid: '25545'
+last_name: EP-IBP
+sdn_type: Aircraft
+program_list:
+  programs:
+  - IRAN
+id_list:
+  items:
+  - uid: '129322'
+    id_type: Aircraft Manufacture Date
+    id_number: 06 Jan 1986
+  - uid: '129324'
+    id_type: Aircraft Model
+    id_number: A310
+  - uid: '129326'
+    id_type: Aircraft Operator
+    id_number: Iran Air
+  - uid: '129323'
+    id_type: Aircraft Manufacturer's Serial Number (MSN)
+    id_number: '370'
+  - uid: '129436'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: IRAN AIR)"

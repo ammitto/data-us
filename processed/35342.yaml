@@ -1,0 +1,49 @@
+---
+uid: '35342'
+last_name: VSEROSSISKIY INSTITUT AVIATSIONNYKH MATERIALOV
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '55652'
+    type: a.k.a.
+    category: weak
+    last_name: VIAM
+  - uid: '55653'
+    type: a.k.a.
+    category: strong
+    last_name: ALL-RUSSIAN SCIENTIFIC RESEARCH INSTITUTE OF AVIATION MATERIALS
+  - uid: '55657'
+    type: a.k.a.
+    category: strong
+    last_name: VSEROSSIYSKIY NAUCHNO-ISSLEDOVATELSKIY INSTITUT AVIATSIONNYKH MATERIALOV
+  - uid: '55663'
+    type: a.k.a.
+    category: strong
+    last_name: FEDERAL STATE UNITARY ENTERPRISE ALL-RUSSIAN SCIENTIFIC RESEARCH INSTITUTE
+      OF AVIATION MATERIALS OF THE NATIONAL RESEARCH CENTER KURCHATOV INSTITUTE STATE
+      RESEARCH CENTER OF THE RUSSIAN FEDERATION
+  - uid: '55666'
+    type: a.k.a.
+    category: strong
+    last_name: NRC KURCHATOV INSTITUTE - VIAM
+address_list:
+  items:
+  - uid: '53153'
+    address1: 17, Radio Street
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '25056'
+    id_type: Tax ID No.
+    id_number: '7701024933'
+    id_country: Russia
+  - uid: '147621'
+    id_type: Website
+    id_number: www.viam.ru
+  - uid: '176731'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

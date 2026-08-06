@@ -1,0 +1,41 @@
+---
+uid: '36576'
+last_name: OOO EKOGRUPP
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '57647'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSVENNOSTYU EKOGRUPP
+address_list:
+  items:
+  - uid: '55003'
+    address1: Per. Novopresnenskii D. 3, Floor 1 Komn 9
+    city: Moscow
+    postal_code: '123577'
+    country: Russia
+id_list:
+  items:
+  - uid: '26060'
+    id_type: Tax ID No.
+    id_number: '7703428593'
+    id_country: Russia
+  - uid: '26061'
+    id_type: Registration Number
+    id_number: '1177746569615'
+    id_country: Russia
+  - uid: '26062'
+    id_type: Government Gazette Number
+    id_number: '15945657'
+    id_country: Russia
+  - uid: '174247'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '150387'
+    id_type: Organization Established Date
+    id_number: 18 Jun 2017
+remarks: "(Linked To: CHAYKA, Igor Yuryevich)"

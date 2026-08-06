@@ -1,0 +1,31 @@
+---
+uid: '42029'
+first_name: Ernesto Alonso
+last_name: MACIAS TREVIZO
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '64885'
+    country: Mexico
+id_list:
+  items:
+  - uid: '31454'
+    id_type: C.U.R.P.
+    id_number: MATE960207HCHCRR07
+    id_country: Mexico
+  - uid: '160246'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '60243'
+    date_of_birth: 07 Feb 1996
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '60244'
+    place_of_birth: Chihuahua, Mexico
+    main_entry: 'true'

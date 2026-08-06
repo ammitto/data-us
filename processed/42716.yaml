@@ -1,0 +1,65 @@
+---
+uid: '42716'
+last_name: FEDERAL STATE BUDGETARY EDUCATIONAL INSTITUTION OF HIGHER EDUCATION GROZNY
+  STATE OIL TECHNICAL UNIVERSITY NAMED AFTER ACADEMICIAN M.D. MILLIONSHCHIKOV
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '66187'
+    type: a.k.a.
+    category: strong
+    last_name: FEDERALNOE GOSUDARSTVENNOE BYUDZHETNOE OBRAZOVATELNOE UCHREZHDENIE
+      VYSSHEGO OBRAZOVANIYA GROZNENSKI GOSUDARSTVENNY NEFTYANOI TEKHNICHESKI UNIVERSITET
+      IMENI AKADEMIKA M.D. MILLIONSHCHIKOVA
+  - uid: '66188'
+    type: a.k.a.
+    category: strong
+    last_name: GROZNY STATE OIL TECHNICAL UNIVERSITY
+  - uid: '66189'
+    type: a.k.a.
+    category: strong
+    last_name: GROZNY STATE OIL TECHNICAL UNIVERSITY NAMED AFTER M.D. MILLIONSHIKOVA
+  - uid: '66190'
+    type: a.k.a.
+    category: strong
+    last_name: GGNTU IM. AKAD. M.D. MILLIONSHCHIKOVA FGBOU VO GGNTU IM. AKAD. M. D.
+      MILLIONSHCHIKOVA FGBU
+address_list:
+  items:
+  - uid: '63704'
+    address1: 100, Isaeva av.
+    city: Grozny
+    postal_code: '364024'
+    country: Russia
+  - uid: '63705'
+    address1: 100, prospekt Imeni Khuseina Abubakarovicha Isaeva
+    city: Grozny
+    state_or_province: Chechnya Republic
+    postal_code: '364051'
+    country: Russia
+id_list:
+  items:
+  - uid: '32236'
+    id_type: Registration Number
+    id_number: '1022002549580'
+    id_country: Russia
+  - uid: '32237'
+    id_type: Tax ID No.
+    id_number: '2020000531'
+    id_country: Russia
+  - uid: '32238'
+    id_type: Government Gazette Number
+    id_number: '45267841'
+    id_country: Russia
+  - uid: '161488'
+    id_type: 'Organization Type:'
+    id_number: Higher education
+  - uid: '175447'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '161487'
+    id_type: Organization Established Date
+    id_number: 02 Jun 2000

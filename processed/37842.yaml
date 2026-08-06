@@ -1,0 +1,34 @@
+---
+uid: '37842'
+first_name: Nikolay Valentinovich
+last_name: ANDRIANOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '56701'
+    country: Russia
+id_list:
+  items:
+  - uid: '27137'
+    id_type: Passport
+    id_number: '200227418'
+    id_country: Russia
+  - uid: '152972'
+    id_type: Gender
+    id_number: Male
+  - uid: '174590'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '52971'
+    date_of_birth: 18 Oct 1959
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '52973'
+    place_of_birth: Moscow Region, Russia
+    main_entry: 'true'

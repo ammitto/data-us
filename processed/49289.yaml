@@ -1,0 +1,39 @@
+---
+uid: '49289'
+last_name: SHIP REPAIR YARD OF THE BLACK SEA FLEET OF THE MINISTRY OF DEFENSE OF THE
+  RUSSIAN FEDERATION
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76871'
+    type: a.k.a.
+    category: strong
+    last_name: 13 SUDOREMONTNYI ZAVOD CHERNOMORSKOGO FLOTA MINISTERSTVA OBORONY ROSSIISKOI
+      FEDERATSII
+  - uid: '76872'
+    type: a.k.a.
+    category: strong
+    last_name: 13 SRZ CHF MINOBORONY ROSSII
+address_list:
+  items:
+  - uid: '74254'
+    address1: ul. Kilen-balka D. 1
+    city: Sevastopol
+    postal_code: '299041'
+    country: Ukraine
+id_list:
+  items:
+  - uid: '40521'
+    id_type: Registration Number
+    id_number: '1149204071664'
+    id_country: Russia
+  - uid: '40522'
+    id_type: Tax ID No.
+    id_number: '9203501030'
+    id_country: Russia
+  - uid: '172305'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

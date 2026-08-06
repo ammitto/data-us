@@ -1,0 +1,45 @@
+---
+uid: '42036'
+last_name: ONEFACTOR LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65357'
+    type: a.k.a.
+    category: strong
+    last_name: EDINYFAKTOR OOO
+  - uid: '65358'
+    type: a.k.a.
+    category: strong
+    last_name: YEDINYIFAKTOR OOO
+address_list:
+  items:
+  - uid: '62746'
+    address1: d. 41 pom. 5.62, per. Oruzheiny
+    city: Moscow
+    postal_code: '127006'
+    country: Russia
+id_list:
+  items:
+  - uid: '31469'
+    id_type: Registration Number
+    id_number: '1107746601731'
+    id_country: Russia
+  - uid: '31470'
+    id_type: Tax ID No.
+    id_number: '7729660992'
+    id_country: Russia
+  - uid: '31471'
+    id_type: Government Gazette Number
+    id_number: '66999175'
+    id_country: Russia
+  - uid: '175374'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '160257'
+    id_type: Organization Established Date
+    id_number: 29 Jul 2010
+remarks: "(Linked To: MEGAFON PAO)"

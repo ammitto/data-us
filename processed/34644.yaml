@@ -1,0 +1,67 @@
+---
+uid: '34644'
+last_name: PUBLIC JOINT STOCK COMPANY ALROSA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54235'
+    type: a.k.a.
+    category: strong
+    last_name: AK ALROSA PAO
+  - uid: '54236'
+    type: a.k.a.
+    category: strong
+    last_name: PJSC ALROSA
+  - uid: '54237'
+    type: a.k.a.
+    category: strong
+    last_name: ALROSA GROUP
+address_list:
+  items:
+  - uid: '51860'
+    address1: 24 Ozerkovskaya Naberezhnaya
+    city: Moscow
+    postal_code: '115184'
+    country: Russia
+  - uid: '51861'
+    address1: 6 ulitsa Lenina
+    city: Mirny
+    state_or_province: Republic of Sakha (Yakutia)
+    postal_code: '678174'
+    country: Russia
+id_list:
+  items:
+  - uid: '24235'
+    id_type: Registration Number
+    id_number: '1021400967092'
+    id_country: Russia
+  - uid: '24236'
+    id_type: Tax ID No.
+    id_number: '1433000147'
+    id_country: Russia
+  - uid: '24237'
+    id_type: Legal Entity Number
+    id_number: 894500DKUWVBYZLLE651
+    id_country: Russia
+  - uid: '175158'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '146711'
+    id_type: Executive Order 14024 Directive Information -
+    id_number: 'For more information on directives, please visit the following link:
+      https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives'
+  - uid: '146683'
+    id_type: Executive Order 14024 Directive Information
+    id_number: Subject to Directive 3 - All transactions in, provision of financing
+      for, and other dealings in new debt of longer than 14 days maturity or new equity
+      where such new debt or new equity is issued on or after the 'Effective Date
+      (EO 14024 Directive)' associated with this name are prohibited.
+  - uid: '146827'
+    id_type: 'Listing Date (EO 14024 Directive 3):'
+    id_number: 24 Feb 2022
+  - uid: '146832'
+    id_type: 'Effective Date (EO 14024 Directive 3):'
+    id_number: 26 Mar 2022

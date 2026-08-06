@@ -1,0 +1,79 @@
+---
+uid: '15148'
+last_name: CENTER FOR INNOVATION AND TECHNOLOGY COOPERATION
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+  - IRAN-CON-ARMS-EO
+aka_list:
+  items:
+  - uid: '22250'
+    type: a.k.a.
+    category: weak
+    last_name: CITC
+  - uid: '22251'
+    type: a.k.a.
+    category: strong
+    last_name: TECHNOLOGY COOPERATION OFFICE
+  - uid: '22252'
+    type: a.k.a.
+    category: weak
+    last_name: TCO
+  - uid: '22253'
+    type: a.k.a.
+    category: strong
+    last_name: OFFICE OF SCIENTIFIC AND TECHNICAL COOPERATION
+  - uid: '22255'
+    type: a.k.a.
+    category: strong
+    last_name: PRESIDENCY OFFICE OF SCIENTIFIC AND INDUSTRIAL STUDIES
+  - uid: '22256'
+    type: a.k.a.
+    category: strong
+    last_name: OFFICE OF SCIENTIFIC AND INDUSTRIAL STUDIES
+  - uid: '22280'
+    type: a.k.a.
+    category: weak
+    last_name: POSIS
+  - uid: '22281'
+    type: a.k.a.
+    category: weak
+    last_name: OSIS
+  - uid: '88968'
+    type: a.k.a.
+    category: strong
+    last_name: CENTER FOR PROGRESS AND DEVELOPMENT OF IRAN
+  - uid: '88969'
+    type: a.k.a.
+    category: weak
+    last_name: CPDI
+address_list:
+  items:
+  - uid: '22555'
+    address1: No 7 East Avesta Rd
+    address2: Sheykh Bahaie Street
+    address3: Sheykh Bahaie Sq
+    city: Tehran
+    postal_code: '1995859611'
+    country: Iran
+  - uid: '88093'
+    address1: PO Box 141554671
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '51826'
+    id_type: National ID No.
+    id_number: '14002821290'
+    id_country: Iran
+  - uid: '114238'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '197661'
+    id_type: Organization Established Date
+    id_number: 01 Jan 1983 to 31 Dec 1984
+  - uid: '197979'
+    id_type: Target Type
+    id_number: Government Entity

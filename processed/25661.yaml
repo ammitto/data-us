@@ -1,0 +1,33 @@
+---
+uid: '25661'
+last_name: THE NUCLEAR REACTORS FUEL COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN
+aka_list:
+  items:
+  - uid: '40347'
+    type: a.k.a.
+    category: weak
+    last_name: SUREH
+  - uid: '40348'
+    type: a.k.a.
+    category: weak
+    last_name: SOOREH
+address_list:
+  items:
+  - uid: '38824'
+    address1: 'End of North Kargar Street, Shahid Abtahi Street, (20th), #61'
+    city: Tehran
+    country: Iran
+  - uid: '38825'
+    address1: Esfahan Complex Khalije Fars Blvd., 20 km southeast of Esfahan
+    address2: 'P.O. Box: 81465-1957'
+    country: Iran
+id_list:
+  items:
+  - uid: '129606'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: ATOMIC ENERGY ORGANIZATION OF IRAN)"

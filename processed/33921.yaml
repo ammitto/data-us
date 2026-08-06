@@ -1,0 +1,42 @@
+---
+uid: '33921'
+first_name: Zharko Jovan
+last_name: VESELINOVIC
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '53140'
+    type: a.k.a.
+    category: weak
+    last_name: VESELINOVIC, Zarko
+address_list:
+  items:
+  - uid: '51207'
+    address1: Kralj Peter St.
+    city: Mitrovica
+    country: Kosovo
+id_list:
+  items:
+  - uid: '23838'
+    id_type: Identification Number
+    id_number: '1502145386'
+  - uid: '23839'
+    id_type: Driver's License No.
+    id_number: '2806'
+    id_country: Serbia
+  - uid: '144869'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '44868'
+    date_of_birth: 23 Feb 1985
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '45363'
+    place_of_birth: Dolane Village, Zvecan, Kosovo
+    main_entry: 'true'

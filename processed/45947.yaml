@@ -1,0 +1,38 @@
+---
+uid: '45947'
+first_name: Nikita Aleksandrovich
+last_name: ZAKHAROV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '68383'
+    address1: 272-41 Pushkinskaya St.
+    city: Izhevsk
+    postal_code: '426008'
+    country: Russia
+id_list:
+  items:
+  - uid: '35717'
+    id_type: Tax ID No.
+    id_number: '184101937739'
+    id_country: Russia
+  - uid: '174829'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '166606'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '66608'
+    date_of_birth: 27 Oct 1986
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '66607'
+    place_of_birth: Izhevsk, Russia
+    main_entry: 'true'
+remarks: "(Linked To: ZAKHAROV, Aleksandr Vyacheslavovich)"

@@ -1,0 +1,58 @@
+---
+uid: '32630'
+first_name: Ihar Ryhoravich
+last_name: KENIUKH
+sdn_type: Individual
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '51199'
+    type: a.k.a.
+    category: strong
+    last_name: KENIUKH
+    first_name: Igor Grigorevich
+  - uid: '51200'
+    type: a.k.a.
+    category: strong
+    last_name: KENJUCH
+    first_name: Ihar Ryhoravitj
+  - uid: '51201'
+    type: a.k.a.
+    category: strong
+    last_name: KENJUCH
+    first_name: Igor Grigorjevitj
+address_list:
+  items:
+  - uid: '49345'
+    address1: Budyonnovo, 15-36
+    city: Minsk
+    country: Belarus
+  - uid: '49346'
+    address1: Magnitaya, 30-20
+    city: Minsk
+    country: Belarus
+id_list:
+  items:
+  - uid: '22388'
+    id_type: National ID No.
+    id_number: 3210180H066PB2
+    id_country: Belarus
+  - uid: '22389'
+    id_type: Tax ID No.
+    id_number: AB9050449
+    id_country: Belarus
+  - uid: '142247'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '42245'
+    date_of_birth: 21 Jan 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '42246'
+    place_of_birth: Homel Oblast, Belarus
+    main_entry: 'true'

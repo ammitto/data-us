@@ -1,0 +1,37 @@
+---
+uid: '46617'
+last_name: LIMITED LIABILITY COMPANY TSVETNOY MIR
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '71944'
+    type: a.k.a.
+    category: strong
+    last_name: TSVETNOI MIR
+  - uid: '71945'
+    type: a.k.a.
+    category: weak
+    last_name: COLOR WORLD LTD
+address_list:
+  items:
+  - uid: '69386'
+    address1: Ul. Very Voloshinoi D. 27, Kv. 72
+    city: Mytishchi
+    postal_code: '141014'
+    country: Russia
+id_list:
+  items:
+  - uid: '36589'
+    id_type: Registration Number
+    id_number: '1085029004257'
+    id_country: Russia
+  - uid: '36590'
+    id_type: Tax ID No.
+    id_number: '5029114546'
+    id_country: Russia
+  - uid: '175017'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

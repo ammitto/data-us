@@ -1,0 +1,47 @@
+---
+uid: '49302'
+last_name: REGENT BALTICA COMPANY LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '76891'
+    type: a.k.a.
+    category: strong
+    last_name: REGENT BALTICA CO LTD
+address_list:
+  items:
+  - uid: '74279'
+    address1: Ul. Beloostrovskaya D. 17
+    address2: Kor. 2 BTS
+    address3: Avantazh Of 101
+    city: Saint Petersburg
+    postal_code: '197342'
+    country: Russia
+  - uid: '74281'
+    address1: Ul. Savodovaya D. 117
+    address2: Lit. A, Pomeshch. 3N
+    address3: Office 1
+    city: Saint Petersburg
+    postal_code: '190008'
+    country: Russia
+id_list:
+  items:
+  - uid: '40536'
+    id_type: Registration Number
+    id_number: '1117847326178'
+    id_country: Russia
+  - uid: '40537'
+    id_type: Tax ID No.
+    id_number: '7842457680'
+    id_country: Russia
+  - uid: '172321'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184313'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

@@ -1,0 +1,38 @@
+---
+uid: '50156'
+first_name: Pedro Jose
+last_name: INFANTE APARICIO
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+aka_list:
+  items:
+  - uid: '78220'
+    type: a.k.a.
+    category: weak
+    last_name: APARICIO, Pedro Jose
+address_list:
+  items:
+  - uid: '75907'
+    city: Caracas
+    country: Venezuela
+id_list:
+  items:
+  - uid: '41765'
+    id_type: Cedula No.
+    id_number: V15541220
+    id_country: Venezuela
+  - uid: '177749'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '77750'
+    date_of_birth: 01 Sep 1981
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '77751'
+    place_of_birth: Caracas, Venezuela
+    main_entry: 'true'

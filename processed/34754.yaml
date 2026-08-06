@@ -1,0 +1,38 @@
+---
+uid: '34754'
+last_name: RUSKONSALT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54519'
+    type: a.k.a.
+    category: strong
+    last_name: RUSKONSALT OOO
+address_list:
+  items:
+  - uid: '52084'
+    address1: Ul. Malaya Semenovskaya D. 15/17
+    address2: Korpus 4, Kabinet 5 (6 Floor)
+    city: Moscow
+    postal_code: '107023'
+    country: Russia
+id_list:
+  items:
+  - uid: '24427'
+    id_type: Tax ID No.
+    id_number: '7707327194'
+    id_country: Russia
+  - uid: '24428'
+    id_type: Registration Number
+    id_number: '1037707026940'
+    id_country: Russia
+  - uid: '146209'
+    id_type: Website
+    id_number: rusconsult.ru
+  - uid: '175199'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: SOVCOMBANK OPEN JOINT STOCK COMPANY)"

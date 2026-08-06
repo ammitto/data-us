@@ -1,0 +1,44 @@
+---
+uid: '49193'
+last_name: LIMITED LIABILITY COMPANY AERO-HIT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76685'
+    type: a.k.a.
+    category: strong
+    last_name: LLC AERO-HIT
+address_list:
+  items:
+  - uid: '74048'
+    address1: Sh. Mateveevskoe, D. 28A
+    address2: Pomeshch. 26
+    city: Khabarovsk
+    postal_code: '680031'
+    country: Russia
+id_list:
+  items:
+  - uid: '40346'
+    id_type: Business Registration Number
+    id_number: '1232700009398'
+    id_country: Russia
+  - uid: '40347'
+    id_type: Tax ID No.
+    id_number: '2700012608'
+    id_country: Russia
+  - uid: '40348'
+    id_type: Government Gazette Number
+    id_number: '52200010'
+    id_country: Russia
+  - uid: '172146'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '172148'
+    id_type: 'Organization Type:'
+    id_number: Manufacture of air and spacecraft and related machinery
+  - uid: '172147'
+    id_type: Organization Established Date
+    id_number: '09 Jun 2023'

@@ -1,0 +1,40 @@
+---
+uid: '25650'
+last_name: NOVIN ENERGY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN
+aka_list:
+  items:
+  - uid: '40305'
+    type: a.k.a.
+    category: strong
+    last_name: ENERGY NOVIN COMPANY
+  - uid: '40306'
+    type: a.k.a.
+    category: strong
+    last_name: NOVIN ENERGY CORPORATION
+  - uid: '40307'
+    type: a.k.a.
+    category: strong
+    last_name: ENERGY NOVIN CORPORATION
+  - uid: '40308'
+    type: a.k.a.
+    category: strong
+    last_name: NOVIN ENERGY
+address_list:
+  items:
+  - uid: '38801'
+    city: Tehran
+    country: Iran
+  - uid: '38802'
+    address1: 1st Shaghayegh Bld., North Kargar St.
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '129588'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: ATOMIC ENERGY ORGANIZATION OF IRAN)"

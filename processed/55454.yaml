@@ -1,0 +1,39 @@
+---
+uid: '55454'
+first_name: Aung Ko Ko
+last_name: OO
+sdn_type: Individual
+program_list:
+  programs:
+  - BURMA-EO14014
+  - DPRK
+address_list:
+  items:
+  - uid: '84784'
+    country: Burma
+id_list:
+  items:
+  - uid: '49460'
+    id_type: National ID No.
+    id_number: 12/THAKATA(N)005901
+    id_country: Burma
+  - uid: '49463'
+    id_type: Passport
+    id_number: MI210885
+    id_country: Burma
+  - uid: '192903'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '193078'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '192897'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '92898'
+    date_of_birth: 10 Jan 1971
+    main_entry: 'true'
+remarks: "(Linked To: ROYAL SHUNE LEI COMPANY LIMITED)"

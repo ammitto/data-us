@@ -1,0 +1,41 @@
+---
+uid: '47882'
+last_name: JOINT STOCK COMPANY FAR EAST AND ARCTIC DEVELOPMENT CORPORATION
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74284'
+    type: a.k.a.
+    category: strong
+    last_name: CORPORATION FOR THE DEVELOPMENT OF THE FAR EAST AND THE ARCTIC
+  - uid: '74285'
+    type: a.k.a.
+    category: weak
+    last_name: JSC KRDV
+  - uid: '74287'
+    type: a.k.a.
+    category: weak
+    last_name: JSC FEDC
+address_list:
+  items:
+  - uid: '71678'
+    address1: d. 12 etazh 15 kom. A3, naberezhnaya Presnenskaya
+    city: Moscow
+    postal_code: '123112'
+    country: Russia
+id_list:
+  items:
+  - uid: '38644'
+    id_type: Registration Number
+    id_number: '1057723007407'
+    id_country: Russia
+  - uid: '38645'
+    id_type: Tax ID No.
+    id_number: '7723356562'
+    id_country: Russia
+  - uid: '176511'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

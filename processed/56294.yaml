@@ -1,0 +1,44 @@
+---
+uid: '56294'
+first_name: Saeed
+last_name: PAHLAVANI NEJAD
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '87314'
+    type: a.k.a.
+    category: strong
+    last_name: PAHLEVANINEJAD
+    first_name: Saeed
+address_list:
+  items:
+  - uid: '86136'
+    country: Iran
+id_list:
+  items:
+  - uid: '50309'
+    id_type: Passport
+    id_number: R62734748
+    id_country: Iran
+    expiration_date: 23 Apr 2028
+  - uid: '194404'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '194405'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '94407'
+    date_of_birth: 22 Nov 1968
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '94408'
+    place_of_birth: Isfahan, Iran
+    main_entry: 'true'
+remarks: "(Linked To: IRAN AIRCRAFT MANUFACTURING INDUSTRIAL COMPANY)"

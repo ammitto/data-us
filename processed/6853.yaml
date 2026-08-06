@@ -1,0 +1,63 @@
+---
+uid: '6853'
+last_name: NEW IRISH REPUBLICAN ARMY
+sdn_type: Entity
+program_list:
+  programs:
+  - FTO
+  - SDGT
+aka_list:
+  items:
+  - uid: '4591'
+    type: a.k.a.
+    category: strong
+    last_name: REAL IRISH REPUBLICAN ARMY
+  - uid: '4592'
+    type: a.k.a.
+    category: weak
+    last_name: RIRA
+  - uid: '4593'
+    type: a.k.a.
+    category: strong
+    last_name: 32 COUNTY SOVEREIGNTY COMMITTEE
+  - uid: '4594'
+    type: a.k.a.
+    category: strong
+    last_name: 32 COUNTY SOVEREIGNTY MOVEMENT
+  - uid: '4595'
+    type: a.k.a.
+    category: strong
+    last_name: REAL OGLAIGH NA HEIREANN
+  - uid: '4596'
+    type: a.k.a.
+    category: strong
+    last_name: IRISH REPUBLICAN PRISONERS WELFARE ASSOCIATION
+  - uid: '67726'
+    type: a.k.a.
+    category: weak
+    last_name: REAL IRA
+  - uid: '67727'
+    type: a.k.a.
+    category: weak
+    last_name: NEW IRA
+  - uid: '67728'
+    type: a.k.a.
+    category: weak
+    last_name: NIRA
+  - uid: '67729'
+    type: a.k.a.
+    category: strong
+    last_name: IRA ARMY COUNCIL
+address_list:
+  items:
+  - uid: '65143'
+    country: Ireland
+  - uid: '65144'
+    state_or_province: Northern Ireland
+    country: United Kingdom
+id_list:
+  items:
+  - uid: '163267'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886

@@ -1,0 +1,63 @@
+---
+uid: '37062'
+last_name: NORD PROJECT LLC TRANSPORT COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '58195'
+    type: a.k.a.
+    category: strong
+    last_name: TC NORD PROJECT
+  - uid: '58196'
+    type: a.k.a.
+    category: strong
+    last_name: TK NORD PROJECT
+  - uid: '58197'
+    type: a.k.a.
+    category: weak
+    last_name: NORD PROJECT
+  - uid: '58198'
+    type: a.k.a.
+    category: strong
+    last_name: LLC TC NORD PROJECT
+  - uid: '58199'
+    type: a.k.a.
+    category: weak
+    last_name: LLC NORD PROJECT
+address_list:
+  items:
+  - uid: '55471'
+    address1: Office 410
+    address2: 47 Uritskogo St
+    city: Arkhangelsk
+    postal_code: '163060'
+    country: Russia
+  - uid: '55472'
+    address1: Office 335H
+    address2: Liter A
+    address3: Prospekt Leninskiy 153
+    city: St. Petersburg
+    postal_code: '196247'
+    country: Russia
+  - uid: '55473'
+    address1: Office 308
+    address2: House 71 Korpus 1
+    address3: Naberezhnaya Severnoy Dviny
+    city: Arkhangelsk
+    postal_code: '163069'
+    country: Russia
+id_list:
+  items:
+  - uid: '26362'
+    id_type: Identification Number
+    id_number: IMO 5825809
+  - uid: '26363'
+    id_type: Tax ID No.
+    id_number: '2901201732'
+    id_country: Russia
+  - uid: '174474'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

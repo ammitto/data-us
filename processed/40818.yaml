@@ -1,0 +1,34 @@
+---
+uid: '40818'
+last_name: LIMITED LIABILITY COMPANY AYAKS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63510'
+    type: a.k.a.
+    category: strong
+    last_name: AYAKS OOO
+address_list:
+  items:
+  - uid: '60857'
+    address1: ul. Bolshaya Yakimanka, d. 22
+    address2: pom. XIII chast kom. 3
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '30039'
+    id_type: Tax ID No.
+    id_number: '7706809452'
+    id_country: Russia
+  - uid: '30040'
+    id_type: Registration Number
+    id_number: '1147746522582'
+    id_country: Russia
+  - uid: '174157'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: UDODOV, Aleksandr Yevgenyevich)"

@@ -1,0 +1,50 @@
+---
+uid: '36033'
+last_name: PUBLIC JOINT STOCK COMPANY KRASNOYE SORMOVO SHIPYARD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56723'
+    type: a.k.a.
+    category: strong
+    last_name: KRASNOYE SORMOVO SHIPYARD
+  - uid: '56724'
+    type: a.k.a.
+    category: strong
+    last_name: PJSC FACTORY KRASNOYE SORMOVO
+  - uid: '56728'
+    type: a.k.a.
+    category: strong
+    last_name: PUBLIC JOINT STOCK COMPANY ZAVOD KRASNOYE SORMOVO
+address_list:
+  items:
+  - uid: '54147'
+    address1: 1 Barrikad St.
+    city: Nizhnynovgorod
+    postal_code: '603950'
+    country: Russia
+  - uid: '54148'
+    address1: St. Barricade, 1
+    city: Nizhny Novgorod
+    state_or_province: Nizhny Novgorod Region
+    postal_code: '603003'
+    country: Russia
+id_list:
+  items:
+  - uid: '25424'
+    id_type: Tax ID No.
+    id_number: '5263006629'
+    id_country: Russia
+  - uid: '173331'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '149373'
+    id_type: Website
+    id_number: WWW.KRSORMOVO.NNOV.RU
+  - uid: '149374'
+    id_type: Organization Established Date
+    id_number: 13 May 1994
+remarks: "(Linked To: JOINT STOCK COMPANY UNITED SHIPBUILDING CORPORATION)"

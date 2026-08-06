@@ -1,0 +1,40 @@
+---
+uid: '50806'
+last_name: SMOLENSKOE PROIZVODSTVENNOE OBYEDINENIE ANALITPRIBOR
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79567'
+    type: a.k.a.
+    category: strong
+    last_name: SPO ANALITPRIBOR
+  - uid: '79568'
+    type: a.k.a.
+    category: strong
+    last_name: FSUE SPA ANALITPRIBOR
+address_list:
+  items:
+  - uid: '77110'
+    address1: Ul. Babushkina 3
+    city: Smolensk
+    postal_code: '214031'
+    country: Russia
+id_list:
+  items:
+  - uid: '42739'
+    id_type: Registration Number
+    id_number: '1026701427774'
+    id_country: Russia
+  - uid: '42740'
+    id_type: Tax ID No.
+    id_number: '6731002766'
+    id_country: Russia
+  - uid: '179452'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '179453'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

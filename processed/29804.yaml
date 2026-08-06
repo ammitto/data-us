@@ -1,0 +1,42 @@
+---
+uid: '29804'
+first_name: Mohsen Raeesi
+last_name: NAFTCHI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+aka_list:
+  items:
+  - uid: '46706'
+    type: a.k.a.
+    category: strong
+    last_name: NAFCHI
+    first_name: Mohsen Raeesi
+address_list:
+  items:
+  - uid: '44980'
+    country: Iran
+id_list:
+  items:
+  - uid: '19929'
+    id_type: Passport
+    id_number: P18702755
+    id_country: Iran
+  - uid: '137053'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '136780'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '36778'
+    date_of_birth: 16 Feb 1988
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '36779'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: IRANIAN MINISTRY OF INTELLIGENCE AND SECURITY)"

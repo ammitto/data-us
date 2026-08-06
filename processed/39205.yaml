@@ -1,0 +1,31 @@
+---
+uid: '39205'
+first_name: Anton Viktorovich
+last_name: KOLTSOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '58386'
+    city: Zaporizhzhia
+    country: Ukraine
+id_list:
+  items:
+  - uid: '154983'
+    id_type: Gender
+    id_number: Male
+  - uid: '174763'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '54981'
+    date_of_birth: 24 Jun 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '54982'
+    place_of_birth: Cherepovets, Russia
+    main_entry: 'true'

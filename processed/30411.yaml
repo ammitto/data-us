@@ -1,0 +1,37 @@
+---
+uid: '30411'
+last_name: RAMAN COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13876
+aka_list:
+  items:
+  - uid: '47790'
+    type: a.k.a.
+    category: strong
+    last_name: RAMAN CO.
+address_list:
+  items:
+  - uid: '45997'
+    address1: 4th Floor, No. 29, Daman Afshar St., after Mirdamad Intersection Africa
+      Boulevard Southbound
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '20556'
+    id_type: Registration Number
+    id_number: '9523'
+    id_country: Iran
+  - uid: '20559'
+    id_type: National ID No.
+    id_number: '10100395530'
+    id_country: Iran
+  - uid: '138053'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '138052'
+    id_type: Website
+    id_number: www.ramanco.ir
+remarks: "(Linked To: ISLAMIC REVOLUTION MOSTAZAFAN FOUNDATION)"

@@ -1,0 +1,35 @@
+---
+uid: '44911'
+first_name: Alexander Vyacheslavovich
+last_name: MOZHAEV
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+aka_list:
+  items:
+  - uid: '69454'
+    type: a.k.a.
+    category: weak
+    last_name: GREEN
+  - uid: '69455'
+    type: a.k.a.
+    category: weak
+    last_name: ROCCO
+address_list:
+  items:
+  - uid: '66833'
+    country: Russia
+id_list:
+  items:
+  - uid: '165194'
+    id_type: Gender
+    id_number: Male
+  - uid: '165278'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+date_of_birth_list:
+  items:
+  - uid: '65193'
+    date_of_birth: 02 Oct 1978
+    main_entry: 'true'

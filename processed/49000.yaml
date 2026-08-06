@@ -1,0 +1,31 @@
+---
+uid: '49000'
+first_name: Diego
+last_name: ACOSTA OVALLE
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '74883'
+    country: Mexico
+id_list:
+  items:
+  - uid: '41004'
+    id_type: C.U.R.P.
+    id_number: AOOD900308HCLCVG07
+    id_country: Mexico
+  - uid: '172866'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '72864'
+    date_of_birth: '08 Mar 1990'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '72865'
+    place_of_birth: Coahuila de Zaragoza, Mexico
+    main_entry: 'true'

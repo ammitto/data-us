@@ -1,0 +1,33 @@
+---
+uid: '49327'
+last_name: LENINGRAD LASER SYSTEMS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76939'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO LLS
+address_list:
+  items:
+  - uid: '74324'
+    address1: Ul. Yablochkova D. 20, Lit. Ya. Office 408
+    city: Saint Petersburg
+    postal_code: '197198'
+    country: Russia
+id_list:
+  items:
+  - uid: '40579'
+    id_type: Registration Number
+    id_number: '1167847373209'
+    id_country: Russia
+  - uid: '40580'
+    id_type: Tax ID No.
+    id_number: '7813261308'
+    id_country: Russia
+  - uid: '172364'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

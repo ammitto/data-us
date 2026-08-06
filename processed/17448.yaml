@@ -1,0 +1,59 @@
+---
+uid: '17448'
+first_name: Konstantin
+last_name: MALOFEYEV
+sdn_type: Individual
+program_list:
+  programs:
+  - UKRAINE-EO13660
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '26965'
+    type: a.k.a.
+    category: strong
+    last_name: MALOFEEV
+    first_name: Konstantin Valerevich
+  - uid: '26966'
+    type: a.k.a.
+    category: strong
+    last_name: MALOFEEV
+    first_name: Konstantin Valerievich
+  - uid: '57540'
+    type: a.k.a.
+    category: strong
+    last_name: MALOFEEV
+    first_name: Konstantin Valeryevich
+address_list:
+  items:
+  - uid: '54858'
+    address1: Fian 4-2
+    city: Puschino
+    postal_code: '142290'
+    country: Russia
+id_list:
+  items:
+  - uid: '25945'
+    id_type: National ID No.
+    id_number: '4604189321'
+    id_country: Russia
+  - uid: '151208'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '173864'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '150259'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '16423'
+    date_of_birth: 03 Jul 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '16424'
+    place_of_birth: Pushchino, Moscow, Russia
+    main_entry: 'true'

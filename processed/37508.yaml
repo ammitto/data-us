@@ -1,0 +1,56 @@
+---
+uid: '37508'
+first_name: Evgeny Grigorievich
+last_name: NOVITSKY
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '58775'
+    type: a.k.a.
+    category: strong
+    last_name: NOVITSKI
+    first_name: Evgeni Grigorevich
+  - uid: '58776'
+    type: a.k.a.
+    category: strong
+    last_name: NOVITSKIY
+    first_name: Evgeniy
+  - uid: '58777'
+    type: a.k.a.
+    category: strong
+    last_name: NOVITSKIY
+    first_name: Evgeny Grigorevich
+address_list:
+  items:
+  - uid: '56115'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '26711'
+    id_type: Tax ID No.
+    id_number: '770100160851'
+    id_country: Russia
+  - uid: '26712'
+    id_type: Passport
+    id_number: '515458326'
+    id_country: Russia
+  - uid: '152390'
+    id_type: Gender
+    id_number: Male
+  - uid: '173425'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '52388'
+    date_of_birth: 19 Nov 1957
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '52389'
+    place_of_birth: Asino, Tomoskoi Oblast, Russia
+    main_entry: 'true'

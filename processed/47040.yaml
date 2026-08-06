@@ -1,0 +1,36 @@
+---
+uid: '47040'
+last_name: COVART ENERGY LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '70086'
+    address1: 5/F, Lee Garden Three
+    address2: 1 Sunning Road
+    address3: Causeway Bay
+    city: Hong Kong
+    country: China
+  - uid: '70087'
+    address1: Ofis 417
+    address2: Ul. Maksima Gorkogo 276
+    city: Rostov-na-Donu
+    postal_code: '344019'
+    country: Russia
+id_list:
+  items:
+  - uid: '37233'
+    id_type: Registration Number
+    id_number: '2890985'
+    id_country: Hong Kong
+  - uid: '37234'
+    id_type: Identification Number
+    id_number: IMO 6357849
+  - uid: '176344'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '168180'
+    id_type: Organization Established Date
+    id_number: '08 Nov 2019'

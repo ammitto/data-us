@@ -1,0 +1,38 @@
+---
+uid: '48827'
+last_name: LIMITED TRADE DEVELOPMENT MACHINE GROUP
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76004'
+    type: a.k.a.
+    category: strong
+    last_name: MACHINE GROUP LTD
+  - uid: '76005'
+    type: a.k.a.
+    category: weak
+    last_name: MACHINEGROUP
+address_list:
+  items:
+  - uid: '73406'
+    address1: Ul. Troitskaya D. 9, K. 1
+    address2: Pomeshch. 1/1
+    city: Moscow
+    postal_code: '129090'
+    country: Russia
+id_list:
+  items:
+  - uid: '39879'
+    id_type: Tax ID No.
+    id_number: '7722854163'
+    id_country: Russia
+  - uid: '39880'
+    id_type: Registration Number
+    id_number: '5147746023640'
+    id_country: Russia
+  - uid: '171486'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

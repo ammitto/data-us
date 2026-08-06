@@ -1,0 +1,27 @@
+---
+uid: '25281'
+last_name: IRAN HORMUZ 25
+sdn_type: Vessel
+program_list:
+  programs:
+  - IRAN
+  - NPWMD
+  - IFSR
+aka_list:
+  items:
+  - uid: '39825'
+    type: a.k.a.
+    category: strong
+    last_name: HAYAN
+id_list:
+  items:
+  - uid: '16345'
+    id_type: Vessel Registration Identification
+    id_number: IMO 8422072
+  - uid: '128620'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '129937'
+    id_type: Other Vessel Type
+    id_number: General Cargo
+remarks: "(Linked To: ISLAMIC REPUBLIC OF IRAN SHIPPING LINES)"

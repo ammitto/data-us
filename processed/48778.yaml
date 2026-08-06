@@ -1,0 +1,34 @@
+---
+uid: '48778'
+first_name: Aleksei Vladimirovich
+last_name: PANKRASHKIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '73342'
+    country: Russia
+id_list:
+  items:
+  - uid: '39834'
+    id_type: Tax ID No.
+    id_number: '780617129283'
+    id_country: Russia
+  - uid: '171421'
+    id_type: Gender
+    id_number: Male
+  - uid: '171425'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '71423'
+    date_of_birth: '08 Aug 1974'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '71424'
+    place_of_birth: Shkotovo-17, Russia
+    main_entry: 'true'

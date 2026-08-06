@@ -1,0 +1,38 @@
+---
+uid: '51601'
+last_name: NEWTECK WELL SERVICE LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '80886'
+    type: a.k.a.
+    category: strong
+    last_name: NYUTEKH VELL SERVICE
+address_list:
+  items:
+  - uid: '78629'
+    address1: Ul. Surgutskaya d. 14, str. 1
+    city: Nefteyugansk
+    postal_code: '628309'
+    country: Russia
+id_list:
+  items:
+  - uid: '44077'
+    id_type: Registration Number
+    id_number: '1124205002239'
+    id_country: Russia
+  - uid: '44078'
+    id_type: Tax ID No.
+    id_number: '4205237960'
+    id_country: Russia
+  - uid: '181379'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183510'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

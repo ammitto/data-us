@@ -1,0 +1,36 @@
+---
+uid: '37666'
+last_name: JOINT STOCK COMPANY SHIPBUILDING CORPORATION AK BARS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59008'
+    type: a.k.a.
+    category: strong
+    last_name: JSC SHIPBUILDING CORPORATION AK BARS
+address_list:
+  items:
+  - uid: '56326'
+    address1: Zavodskaya Str., 9a
+    city: Zelenodolsk
+    state_or_province: Republic of Tatarstan
+    postal_code: '422546'
+    country: Russia
+  - uid: '56327'
+    address1: Zavodskaya Str., 5
+    city: Zelenodolsk
+    state_or_province: Republic of Tatarstan
+    postal_code: '422546'
+    country: Russia
+id_list:
+  items:
+  - uid: '26890'
+    id_type: Tax ID No.
+    id_number: '1648040380'
+    id_country: Russia
+  - uid: '173445'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

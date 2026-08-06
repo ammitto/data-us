@@ -1,0 +1,35 @@
+---
+uid: '46448'
+first_name: Myong
+last_name: SO
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+address_list:
+  items:
+  - uid: '69090'
+    city: Vladivostok
+    country: Russia
+id_list:
+  items:
+  - uid: '36336'
+    id_type: Passport
+    id_number: '927320285'
+    id_country: Korea, North
+  - uid: '167223'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '167222'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '167219'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '67221'
+    date_of_birth: 02 Mar 1978
+    main_entry: 'true'
+title: Foreign Trade Bank of the Democratic People's Republic of Korea representative

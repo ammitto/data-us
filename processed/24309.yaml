@@ -1,0 +1,43 @@
+---
+uid: '24309'
+first_name: Nikolai Platonovich
+last_name: PATRUSHEV
+sdn_type: Individual
+program_list:
+  programs:
+  - UKRAINE-EO13661
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54897'
+    type: a.k.a.
+    category: strong
+    last_name: PATRUSHEV
+    first_name: Nikolai
+address_list:
+  items:
+  - uid: '36793'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '126472'
+    id_type: Gender
+    id_number: Male
+  - uid: '173939'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '151223'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+date_of_birth_list:
+  items:
+  - uid: '26470'
+    date_of_birth: 11 Jul 1951
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '26471'
+    place_of_birth: St. Petersburg, Russian Federation
+    main_entry: 'true'

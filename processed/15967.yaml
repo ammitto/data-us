@@ -1,0 +1,46 @@
+---
+uid: '15967'
+first_name: Hossein Nosratollah
+last_name: VAZIRI
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '23918'
+    type: a.k.a.
+    category: strong
+    last_name: VAZIRI
+    first_name: Ahmed
+  - uid: '23919'
+    type: a.k.a.
+    category: strong
+    last_name: VAZIRI
+    first_name: Ahmad
+address_list:
+  items:
+  - uid: '23996'
+    address1: 3-C-C Impiana Condo Jalan, Ulu Klang
+    city: Kuala Lumpur
+    country: Malaysia
+id_list:
+  items:
+  - uid: '8691'
+    id_type: Passport
+    id_number: R19246338
+    id_country: Iran
+  - uid: '114077'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '13542'
+    date_of_birth: 21 Mar 1961
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '13543'
+    place_of_birth: Damghan, Iran
+    main_entry: 'true'

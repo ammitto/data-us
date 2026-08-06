@@ -1,0 +1,48 @@
+---
+uid: '52952'
+first_name: Abbass
+last_name: ASADROUZ
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '82879'
+    type: a.k.a.
+    category: strong
+    last_name: ASADRUZ
+    first_name: Abbas
+  - uid: '82880'
+    type: a.k.a.
+    category: strong
+    last_name: ASDRUZ
+    first_name: Abbas
+address_list:
+  items:
+  - uid: '80925'
+    country: Iran
+id_list:
+  items:
+  - uid: '46086'
+    id_type: Passport
+    id_number: '101133044'
+    id_country: Iran
+    expiration_date: 20 Aug 2029
+  - uid: '184962'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '184951'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '84948'
+    date_of_birth: 23 Mar 1971
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '84949'
+    place_of_birth: Dehdasht, Kohgiluyeh County, Iran
+    main_entry: 'true'
+remarks: "(Linked To: IRANIAN OIL TERMINALS COMPANY)"

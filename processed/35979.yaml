@@ -1,0 +1,49 @@
+---
+uid: '35979'
+first_name: Sergey Vladimirovich
+last_name: KHOTIMSKIY
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56587'
+    type: a.k.a.
+    category: strong
+    last_name: KHOTIMSKI
+    first_name: Sergei Vladimirovich
+  - uid: '56588'
+    type: a.k.a.
+    category: strong
+    last_name: KHOTIMSKIY
+    first_name: Sergey Vladimirovich
+address_list:
+  items:
+  - uid: '53994'
+    address1: Victory Square 1, block B, flat 347
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '25329'
+    id_type: Passport
+    id_number: '716765654'
+    id_country: Russia
+  - uid: '149230'
+    id_type: Gender
+    id_number: Male
+  - uid: '173321'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '49220'
+    date_of_birth: 12 Apr 1978
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '49222'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'
+remarks: "(Linked To: SOVCOMBANK OPEN JOINT STOCK COMPANY)"

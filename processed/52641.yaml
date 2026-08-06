@@ -1,0 +1,49 @@
+---
+uid: '52641'
+last_name: FEDERAL STATE AUTONOMOUS INSTITUTION CONGRESS AND EXHIBITION CENTER PATRIOT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '82463'
+    type: a.k.a.
+    category: strong
+    last_name: FEDERALNOE GOSUDARSTVENNOE AVTONOMNOE UCHREZHDENIE KONGRESSNO VYSTAVOCHNYI
+      TSENTR PATRIOT
+  - uid: '82464'
+    type: a.k.a.
+    category: weak
+    last_name: FGAU KVTS PATRIOT
+  - uid: '82465'
+    type: a.k.a.
+    category: weak
+    last_name: PATRIOT CONGRESS AND EXHIBITION CENTER
+  - uid: '82466'
+    type: a.k.a.
+    category: weak
+    last_name: PATRIOT CEC
+address_list:
+  items:
+  - uid: '80433'
+    address1: str. 2 ter. Park Patriot
+    city: Odintsovsky
+    postal_code: '143070'
+    country: Russia
+id_list:
+  items:
+  - uid: '45722'
+    id_type: Registration Number
+    id_number: '1023601560465'
+    id_country: Russia
+  - uid: '45723'
+    id_type: Tax ID No.
+    id_number: '3666026141'
+    id_country: Russia
+  - uid: '184427'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184428'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

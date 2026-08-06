@@ -1,0 +1,31 @@
+---
+uid: '43777'
+first_name: Carlos Mario
+last_name: LIMON VAZQUEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '65206'
+    country: Mexico
+id_list:
+  items:
+  - uid: '33217'
+    id_type: C.U.R.P.
+    id_number: LIVC030525HSLMZRA2
+    id_country: Mexico
+  - uid: '163353'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '63351'
+    date_of_birth: 25 May 2003
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '63352'
+    place_of_birth: Sinaloa, Mexico
+    main_entry: 'true'

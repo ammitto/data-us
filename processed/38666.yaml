@@ -1,0 +1,61 @@
+---
+uid: '38666'
+first_name: Alexey Yurevich
+last_name: MILCHAKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '60474'
+    type: a.k.a.
+    category: strong
+    last_name: MILCHAKOV
+    first_name: Aleksey Yuryevich
+  - uid: '60475'
+    type: a.k.a.
+    category: strong
+    last_name: MILCHAKOV
+    first_name: Alexei
+  - uid: '60476'
+    type: a.k.a.
+    category: weak
+    last_name: Fritz
+  - uid: '60477'
+    type: a.k.a.
+    category: weak
+    last_name: Serbian
+  - uid: '60478'
+    type: a.k.a.
+    category: weak
+    last_name: Gimler
+  - uid: '60479'
+    type: a.k.a.
+    category: weak
+    last_name: Serb
+address_list:
+  items:
+  - uid: '57726'
+    country: Russia
+  - uid: '57727'
+    country: Ukraine
+id_list:
+  items:
+  - uid: '174702'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '154188'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '54187'
+    date_of_birth: 30 Apr 1991
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '54186'
+    place_of_birth: St. Petersburg, Russia
+    main_entry: 'true'
+remarks: "(Linked To: TASK FORCE RUSICH)"

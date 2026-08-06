@@ -1,0 +1,38 @@
+---
+uid: '50981'
+last_name: PNEVMORESURS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79879'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY PNEUMORESURS
+  - uid: '80230'
+    type: a.k.a.
+    category: strong
+    last_name: ARMATUREN GROUP LIMITED COMPANY
+address_list:
+  items:
+  - uid: '77471'
+    address1: ul. Yakornaya d. 13, lit. a
+    address2: 'pomeshch. 8-n, kom. # 30, office # 401B'
+    city: Saint Petersburg
+    postal_code: '195027'
+    country: Russia
+id_list:
+  items:
+  - uid: '43013'
+    id_type: Registration Number
+    id_number: '1089847164230'
+    id_country: Russia
+  - uid: '43014'
+    id_type: Tax ID No.
+    id_number: '7839380885'
+    id_country: Russia
+  - uid: '179874'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

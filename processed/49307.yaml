@@ -1,0 +1,37 @@
+---
+uid: '49307'
+last_name: LIMITED LIABILITY COMPANY YUZHPOLYMETAL HOLDING
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76901'
+    type: a.k.a.
+    category: weak
+    last_name: YUPKH
+  - uid: '76902'
+    type: a.k.a.
+    category: weak
+    last_name: YPH GROUP
+address_list:
+  items:
+  - uid: '74290'
+    address1: Shosse Varshavskoe D 56
+    city: Moscow
+    postal_code: '117638'
+    country: Russia
+id_list:
+  items:
+  - uid: '40546'
+    id_type: Registration Number
+    id_number: '1167746707358'
+    id_country: Russia
+  - uid: '40547'
+    id_type: Tax ID No.
+    id_number: '7726383028'
+    id_country: Russia
+  - uid: '172326'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

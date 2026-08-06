@@ -1,0 +1,34 @@
+---
+uid: '48497'
+last_name: CYBERSECURITY CENTER LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75368'
+    type: a.k.a.
+    category: weak
+    last_name: OOO TSKB
+address_list:
+  items:
+  - uid: '72767'
+    address1: Generala Martynova St., 3
+    address2: Room 1
+    city: Chelyabinsk
+    postal_code: '454076'
+    country: Russia
+id_list:
+  items:
+  - uid: '39407'
+    id_type: Registration Number
+    id_number: '1207400010905'
+    id_country: Russia
+  - uid: '39408'
+    id_type: Tax ID No.
+    id_number: '7448223757'
+    id_country: Russia
+  - uid: '171298'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

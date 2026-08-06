@@ -1,0 +1,36 @@
+---
+uid: '52718'
+last_name: PAYLINK LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+address_list:
+  items:
+  - uid: '80581'
+    address1: Ul. 2-Ya Entuziastov D. 5, K. 40, Pomeshch. 3/2
+    address2: Vn. Ter. G. Munitsipalnyy Okrug Perovo
+    city: Moscow
+    postal_code: '111024'
+    country: Russia
+id_list:
+  items:
+  - uid: '45861'
+    id_type: Registration Number
+    id_number: '1247700672427'
+    id_country: Russia
+  - uid: '45862'
+    id_type: Tax ID No.
+    id_number: '7720938259'
+    id_country: Russia
+  - uid: '184580'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184581'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '184582'
+    id_type: Organization Established Date
+    id_number: 10 Oct 2024

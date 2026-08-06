@@ -1,0 +1,40 @@
+---
+uid: '15603'
+last_name: FOREIGN TRADE BANK OF THE DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK3
+  - NPWMD
+aka_list:
+  items:
+  - uid: '23182'
+    type: a.k.a.
+    category: strong
+    last_name: NORTH KOREA'S FOREIGN TRADE BANK
+  - uid: '36151'
+    type: a.k.a.
+    category: strong
+    last_name: MOOYOKBANK
+  - uid: '36152'
+    type: a.k.a.
+    category: strong
+    last_name: KOREA TRADE BANK
+address_list:
+  items:
+  - uid: '23293'
+    address1: FTB Building, Jungsong-dong, Central District
+    city: Pyongyang
+    country: Korea, North
+id_list:
+  items:
+  - uid: '112908'
+    id_type: SWIFT/BIC
+    id_number: FTBDKPPY
+  - uid: '135204'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '127948'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210

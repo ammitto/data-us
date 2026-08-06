@@ -1,0 +1,35 @@
+---
+uid: '28524'
+first_name: Luis Alberto
+last_name: PEREZ OLIVAS
+sdn_type: Individual
+program_list:
+  programs:
+  - NICARAGUA
+  - NICARAGUA-NHRAA
+address_list:
+  items:
+  - uid: '43115'
+    city: Chinandega
+    country: Nicaragua
+id_list:
+  items:
+  - uid: '18894'
+    id_type: Passport
+    id_number: C01118568
+    id_country: Nicaragua
+    issue_date: 16 Nov 2011
+    expiration_date: 16 Nov 2021
+  - uid: '134238'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '34236'
+    date_of_birth: '08 Jan 1956'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '34237'
+    place_of_birth: Leon, Nicaragua
+    main_entry: 'true'

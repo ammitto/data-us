@@ -1,0 +1,41 @@
+---
+uid: '48875'
+first_name: Pavel Alexandrovich
+last_name: YAKOVLEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76138'
+    type: a.k.a.
+    category: strong
+    last_name: IAKOVLEV
+    first_name: Pavel Aleksandrovich
+address_list:
+  items:
+  - uid: '73513'
+    country: Russia
+id_list:
+  items:
+  - uid: '39948'
+    id_type: Tax ID No.
+    id_number: '741501315015'
+    id_country: Russia
+  - uid: '171690'
+    id_type: Gender
+    id_number: Male
+  - uid: '171585'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '71583'
+    date_of_birth: 27 Jan 1968
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '71584'
+    place_of_birth: Yekaterinburg, Russia
+    main_entry: 'true'

@@ -1,0 +1,36 @@
+---
+uid: '49172'
+last_name: OOO VALCOM
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76633'
+    type: a.k.a.
+    category: strong
+    last_name: VALKOM
+address_list:
+  items:
+  - uid: '74004'
+    address1: Ul. Lomanaya D.10
+    city: Saint Petersburg
+    postal_code: '196084'
+    country: Russia
+id_list:
+  items:
+  - uid: '40292'
+    id_type: Registration Number
+    id_number: '1027809248818'
+    id_country: Russia
+  - uid: '40293'
+    id_type: Tax ID No.
+    id_number: '7825370005'
+    id_country: Russia
+  - uid: '172114'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '172681'
+    id_type: Organization Established Date
+    id_number: 27 Mar 1997

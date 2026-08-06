@@ -1,0 +1,39 @@
+---
+uid: '50439'
+last_name: LIMITED LIABILITY COMPANY TU RITEYL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78852'
+    type: a.k.a.
+    category: strong
+    last_name: OOO TU RITEIL
+  - uid: '78853'
+    type: a.k.a.
+    category: strong
+    last_name: OOO TU RETAIL
+address_list:
+  items:
+  - uid: '76492'
+    address1: d. 12
+    address2: pomesch. 5/52
+    address3: Naberezhnaya Prenenskaya
+    city: Moscow
+    postal_code: '123112'
+    country: Russia
+id_list:
+  items:
+  - uid: '42237'
+    id_type: Tax ID No.
+    id_number: '7725305764'
+    id_country: Russia
+  - uid: '42238'
+    id_type: Registration Number
+    id_number: '1167746134324'
+    id_country: Russia
+  - uid: '178424'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

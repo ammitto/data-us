@@ -1,0 +1,31 @@
+---
+uid: '58212'
+last_name: UNIDAD CENTRAL DE COOPERACION MEDICA
+sdn_type: Entity
+program_list:
+  programs:
+  - CUBA-EO14404
+aka_list:
+  items:
+  - uid: '90031'
+    type: a.k.a.
+    category: weak
+    last_name: CENTRAL UNIT FOR MEDICAL COOPERATION
+  - uid: '90032'
+    type: a.k.a.
+    category: weak
+    last_name: UCCM
+address_list:
+  items:
+  - uid: '89431'
+    city: Marianao
+    country: Cuba
+id_list:
+  items:
+  - uid: '52837'
+    id_type: Entity Code
+    id_number: '9809'
+    id_country: Cuba
+  - uid: '199843'
+    id_type: Organization Established Date
+    id_number: 30 Sep 1984

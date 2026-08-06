@@ -1,0 +1,41 @@
+---
+uid: '37520'
+last_name: JSC ALL RUSSIAN RESEARCH INSTITUTE OF RADIO ENGINEERING
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '58802'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY VSEROSSIYSKY INSTITUTE FOR SCIENTIFIC RESEARCH
+      RADIOTEKHNIKI
+  - uid: '58803'
+    type: a.k.a.
+    category: weak
+    last_name: VNIIRT
+address_list:
+  items:
+  - uid: '56134'
+    address1: 22 Bolshaya Pochtovaya st.
+    city: Moscow
+    postal_code: '105082'
+    country: Russia
+id_list:
+  items:
+  - uid: '26724'
+    id_type: Tax ID No.
+    id_number: '7701315700'
+    id_country: Russia
+  - uid: '26725'
+    id_type: Registration Number
+    id_number: '1027701015352'
+    id_country: Russia
+  - uid: '173428'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '152422'
+    id_type: Organization Established Date
+    id_number: 06 Nov 2020

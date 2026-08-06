@@ -1,0 +1,52 @@
+---
+uid: '18951'
+last_name: GRUPO WISA, S.A.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '29866'
+    type: a.k.a.
+    category: strong
+    last_name: LA RIVIERA
+address_list:
+  items:
+  - uid: '28827'
+    address1: Calle 15 entre Avenida Santa Isabel y Avenida Roosevelt
+    address2: Zona Libre de Colon
+    city: Colon
+    country: Panama
+  - uid: '28828'
+    address1: Torre Generali
+    address2: Piso 11 y 12
+    address3: Calle 54 Este y Avenida Samuel Lewis
+    city: Panama
+    country: Panama
+  - uid: '29531'
+    country: Colombia
+  - uid: '29533'
+    country: Guatemala
+  - uid: '29534'
+    country: Belize
+  - uid: '29535'
+    country: Costa Rica
+  - uid: '29536'
+    country: El Salvador
+  - uid: '29538'
+    country: Mexico
+  - uid: '29539'
+    country: Bolivia
+  - uid: '29540'
+    country: Honduras
+  - uid: '29541'
+    country: Nicaragua
+  - uid: '29542'
+    country: Uruguay
+id_list:
+  items:
+  - uid: '11277'
+    id_type: 'RUC #'
+    id_number: 645451-1-458900
+    id_country: Panama

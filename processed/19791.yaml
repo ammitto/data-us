@@ -1,0 +1,53 @@
+---
+uid: '19791'
+first_name: Il-U
+last_name: CHO
+sdn_type: Individual
+program_list:
+  programs:
+  - DPRK2
+aka_list:
+  items:
+  - uid: '31234'
+    type: a.k.a.
+    category: strong
+    last_name: CHO
+    first_name: Il Woo
+  - uid: '31235'
+    type: a.k.a.
+    category: strong
+    last_name: CHO
+    first_name: Ch'o'l
+  - uid: '31236'
+    type: a.k.a.
+    category: strong
+    last_name: JO
+    first_name: Chol
+address_list:
+  items:
+  - uid: '30035'
+    country: Korea, North
+id_list:
+  items:
+  - uid: '12134'
+    id_type: Passport
+    id_number: '736410010'
+    id_country: Korea, North
+  - uid: '135051'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '127164'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+date_of_birth_list:
+  items:
+  - uid: '20247'
+    date_of_birth: 10 May 1945
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '20248'
+    place_of_birth: Musan, North Hamgyo'ng Province, North Korea
+    main_entry: 'true'
+title: Director of the Fifth Bureau of the Reconnaissance General Bureau

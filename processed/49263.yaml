@@ -1,0 +1,29 @@
+---
+uid: '49263'
+last_name: BIRTRANS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '74196'
+    address1: Ul. Stepana Shutova D. 4
+    address2: Str. 1
+    address3: E 2 Pom. V K 17 Of 1
+    city: Moscow
+    postal_code: '109380'
+    country: Russia
+id_list:
+  items:
+  - uid: '40471'
+    id_type: Registration Number
+    id_number: '1027739243025'
+    id_country: Russia
+  - uid: '40472'
+    id_type: Tax ID No.
+    id_number: '7721231416'
+    id_country: Russia
+  - uid: '172250'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,36 @@
+---
+uid: '50768'
+last_name: JOINT STOCK COMPANY AIRCRAFT SERVICE COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79491'
+    type: a.k.a.
+    category: weak
+    last_name: AO ASK
+address_list:
+  items:
+  - uid: '77025'
+    address1: Ul. Vereiskaya, D. 39
+    city: Moscow
+    postal_code: '121357'
+    country: Russia
+id_list:
+  items:
+  - uid: '42663'
+    id_type: Registration Number
+    id_number: '1087746709423'
+    id_country: Russia
+  - uid: '42664'
+    id_type: Tax ID No.
+    id_number: '7731595540'
+    id_country: Russia
+  - uid: '179400'
+    id_type: Organization Established Date
+    id_number: 03 Jun 2008
+  - uid: '179401'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

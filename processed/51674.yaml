@@ -1,0 +1,24 @@
+---
+uid: '51674'
+last_name: AMBER 6
+sdn_type: Vessel
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+id_list:
+  items:
+  - uid: '44223'
+    id_type: MMSI
+    id_number: '352001387'
+  - uid: '44224'
+    id_type: Vessel Registration Identification
+    id_number: IMO 9235713
+  - uid: '181698'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183361'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+remarks: "(Linked To: SUNNE CO LIMITED)"

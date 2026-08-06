@@ -1,0 +1,29 @@
+---
+uid: '49474'
+first_name: Arkady Vladimirovich
+last_name: TRACHUK
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '74618'
+    country: Russia
+id_list:
+  items:
+  - uid: '40812'
+    id_type: Tax ID No.
+    id_number: '781105525180'
+    id_country: Russia
+  - uid: '172562'
+    id_type: Gender
+    id_number: Male
+  - uid: '172565'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '72561'
+    date_of_birth: 20 Nov 1966
+    main_entry: 'true'

@@ -1,0 +1,54 @@
+---
+uid: '44559'
+first_name: Sebastien
+last_name: UWIMBABAZI
+sdn_type: Individual
+program_list:
+  programs:
+  - DRCONGO
+aka_list:
+  items:
+  - uid: '69010'
+    type: a.k.a.
+    category: strong
+    last_name: KIMENYI
+    first_name: Gilbert
+  - uid: '69011'
+    type: a.k.a.
+    category: weak
+    last_name: NYEMBO
+  - uid: '69012'
+    type: a.k.a.
+    category: weak
+    last_name: MANZI
+  - uid: '69013'
+    type: a.k.a.
+    category: strong
+    last_name: KIMENYI
+    first_name: Nyembo
+address_list:
+  items:
+  - uid: '66448'
+    city: Rutshuru
+    state_or_province: North Kivu
+    country: Congo, Democratic Republic of the
+id_list:
+  items:
+  - uid: '164756'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '64746'
+    date_of_birth: '1968'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '64748'
+    place_of_birth: Gatoki Cell, Murunda Sector, Rutsiro Commune, Kibuye Prefecture,
+      Rwanda
+    main_entry: 'true'
+  - uid: '64749'
+    place_of_birth: Rutsiro District, Western Province, Rwanda
+    main_entry: 'false'
+remarks: "(Linked To: FORCES DEMOCRATIQUES DE LIBERATION DU RWANDA)"

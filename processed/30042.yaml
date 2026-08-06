@@ -1,0 +1,43 @@
+---
+uid: '30042'
+first_name: Luis Alberto
+last_name: RODRIGUEZ LOPEZ-CALLEJA
+sdn_type: Individual
+program_list:
+  programs:
+  - CUBA
+aka_list:
+  items:
+  - uid: '47044'
+    type: a.k.a.
+    category: strong
+    last_name: RODRIGUEZ LOPEZ-CALLEJAS
+    first_name: Luis Alberto
+address_list:
+  items:
+  - uid: '45267'
+    address1: Calle 49 A Nro. 3626
+    address2: Playa
+    city: Havana
+    country: Cuba
+id_list:
+  items:
+  - uid: '20147'
+    id_type: Passport
+    id_number: A009956
+    id_country: Cuba
+    issue_date: 23 Jan 2017
+    expiration_date: 23 Jan 2029
+  - uid: '137275'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '37273'
+    date_of_birth: 19 Jan 1960
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '37274'
+    place_of_birth: Cuba
+    main_entry: 'true'

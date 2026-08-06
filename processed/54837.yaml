@@ -1,0 +1,25 @@
+---
+uid: '54837'
+last_name: VANI
+sdn_type: Vessel
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '85352'
+    type: a.k.a.
+    category: strong
+    last_name: NEREIDES
+id_list:
+  items:
+  - uid: '48627'
+    id_type: MMSI
+    id_number: '268246102'
+  - uid: '48628'
+    id_type: Vessel Registration Identification
+    id_number: IMO 9264881
+  - uid: '191315'
+    id_type: Vessel Year of Build
+    id_number: '2004'
+remarks: "(Linked To: MARVISE SMC DMCC)"

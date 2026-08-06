@@ -1,0 +1,60 @@
+---
+uid: '10584'
+first_name: Hosein
+last_name: SALIMI
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+  - IRGC
+  - IFSR
+  - SDGT
+aka_list:
+  items:
+  - uid: '10476'
+    type: a.k.a.
+    category: strong
+    last_name: SALAMI
+    first_name: Hossein
+  - uid: '10478'
+    type: a.k.a.
+    category: strong
+    last_name: SALAMI
+    first_name: Hoseyn
+  - uid: '10479'
+    type: a.k.a.
+    category: strong
+    last_name: SALAMI
+    first_name: Hussayn
+address_list:
+  items:
+  - uid: '50121'
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '5122'
+    id_type: Passport
+    id_number: D08531177
+    id_country: Iran
+  - uid: '114223'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '186341'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '143362'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '43361'
+    date_of_birth: '1960'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '43360'
+    place_of_birth: Golpayegan, Isfahan province, Iran
+    main_entry: 'true'
+title: Commander-in-Chief of the Islamic Revolutionary Guard Corps

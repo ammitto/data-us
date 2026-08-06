@@ -1,0 +1,41 @@
+---
+uid: '50003'
+last_name: RESEARCH AND PRODUCTION ASSOCIATION LEPTON
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77945'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO NPO LEPTON
+  - uid: '77946'
+    type: a.k.a.
+    category: strong
+    last_name: AO NPO LEPTON
+  - uid: '77947'
+    type: a.k.a.
+    category: strong
+    last_name: RPA LEPTON
+address_list:
+  items:
+  - uid: '75650'
+    address1: Al. Solnechnaya D. 6, Pomeshch. 6 Komnata 5
+    city: Zelenograd
+    postal_code: '124527'
+    country: Russia
+id_list:
+  items:
+  - uid: '41545'
+    id_type: Registration Number
+    id_number: '1037739124477'
+    id_country: Russia
+  - uid: '41546'
+    id_type: Tax ID No.
+    id_number: '7735003138'
+    id_country: Russia
+  - uid: '178169'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

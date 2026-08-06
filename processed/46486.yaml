@@ -1,0 +1,58 @@
+---
+uid: '46486'
+first_name: Oscar Manuel
+last_name: GASTELUM IRIBE
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '71757'
+    type: a.k.a.
+    category: weak
+    last_name: EL MUSICO
+  - uid: '71758'
+    type: a.k.a.
+    category: weak
+    last_name: SALGADO
+address_list:
+  items:
+  - uid: '69155'
+    address1: 'Monte Rosa #657, Colonia Montebello'
+    city: Culiacan
+    state_or_province: Sinaloa
+    postal_code: '80227'
+    country: Mexico
+  - uid: '69156'
+    address1: 'Rio de la Plata #3041'
+    address2: Colonia Lomas del Boulevard
+    city: Culiacan
+    state_or_province: Sinaloa
+    postal_code: '80110'
+    country: Mexico
+  - uid: '69157'
+    address1: 'Antonio Palafox #1856 Int 42'
+    address2: Colonia Paseos del Sol
+    city: Zapopan
+    state_or_province: Jalisco
+    country: Mexico
+id_list:
+  items:
+  - uid: '36414'
+    id_type: RFC
+    id_number: GAI0741005TQ3
+    id_country: Mexico
+  - uid: '167855'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '67321'
+    date_of_birth: 05 Oct 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '67322'
+    place_of_birth: Jalisco, Mexico
+    main_entry: 'true'

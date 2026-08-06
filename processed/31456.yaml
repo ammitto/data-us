@@ -1,0 +1,47 @@
+---
+uid: '31456'
+first_name: Mikhail Nikolaevich
+last_name: BELOUSOV
+sdn_type: Individual
+program_list:
+  programs:
+  - UKRAINE-EO13685
+aka_list:
+  items:
+  - uid: '49439'
+    type: a.k.a.
+    category: strong
+    last_name: BILOUSOV
+    first_name: Mikhailo Mikolaiovich
+  - uid: '49441'
+    type: a.k.a.
+    category: strong
+    last_name: BELOUSOV
+    first_name: Mikhail Nikolayevich
+address_list:
+  items:
+  - uid: '47492'
+    address1: ul. Balaklavskaya 117
+    address2: kv. 48
+    city: Simferopol
+    state_or_province: Crimea
+    country: Ukraine
+id_list:
+  items:
+  - uid: '154477'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '139921'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '39919'
+    date_of_birth: 26 Nov 1964
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '39920'
+    place_of_birth: Russia
+    main_entry: 'true'

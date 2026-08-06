@@ -1,0 +1,49 @@
+---
+uid: '44022'
+last_name: JOINT STOCK COMPANY STAR
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '68059'
+    type: a.k.a.
+    category: strong
+    last_name: JSC UEC STAR
+  - uid: '68060'
+    type: a.k.a.
+    category: strong
+    last_name: AO ODK-STAR
+address_list:
+  items:
+  - uid: '65515'
+    address1: Ul. Kuibysheva D. 140A
+    city: Perm
+    postal_code: '614990'
+    country: Russia
+id_list:
+  items:
+  - uid: '33408'
+    id_type: Business Registration Number
+    id_number: '1025900895712'
+    id_country: Russia
+  - uid: '33409'
+    id_type: Tax ID No.
+    id_number: '5904100329'
+    id_country: Russia
+  - uid: '163595'
+    id_type: Organization Established Date
+    id_number: '1943'
+  - uid: '163596'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '175736'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '163594'
+    id_type: Website
+    id_number: www.ao-star.ru
+remarks: "(Linked To: IRAN AIRCRAFT MANUFACTURING INDUSTRIAL COMPANY)"

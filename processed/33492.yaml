@@ -1,0 +1,36 @@
+---
+uid: '33492'
+first_name: Sadrach
+last_name: ZELEDON ROCHA
+sdn_type: Individual
+program_list:
+  programs:
+  - NICARAGUA
+address_list:
+  items:
+  - uid: '50791'
+    city: Matagalpa
+    country: Nicaragua
+id_list:
+  items:
+  - uid: '23133'
+    id_type: Passport
+    id_number: C759398
+    id_country: Nicaragua
+  - uid: '23244'
+    id_type: National ID No.
+    id_number: '09058016'
+    id_country: Nicaragua
+  - uid: '144244'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '44243'
+    date_of_birth: '08 Feb 1954'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '44246'
+    place_of_birth: Nicaragua
+    main_entry: 'true'

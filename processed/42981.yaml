@@ -1,0 +1,42 @@
+---
+uid: '42981'
+last_name: LIMITED LIABILITY COMPANY TBS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '66579'
+    type: a.k.a.
+    category: strong
+    last_name: TBS SEMI
+address_list:
+  items:
+  - uid: '64114'
+    address1: Ul. Kievskaya D. 7, Et 4, Komnata 8
+    city: Moscow
+    postal_code: '121059'
+    country: Russia
+  - uid: '64115'
+    address1: Nizhny Susalny Lane 5
+    address2: Building 4
+    city: Moscow
+    postal_code: '105064'
+    country: Russia
+id_list:
+  items:
+  - uid: '32564'
+    id_type: Tax ID No.
+    id_number: '7730660563'
+    id_country: Russia
+  - uid: '32565'
+    id_type: Registration Number
+    id_number: '1127746120622'
+    id_country: Russia
+  - uid: '175497'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '161856'
+    id_type: Organization Established Date
+    id_number: 22 Feb 2012

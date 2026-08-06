@@ -1,0 +1,31 @@
+---
+uid: '48584'
+last_name: JSC AGAT-SYSTEM
+sdn_type: Entity
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '75526'
+    type: a.k.a.
+    category: strong
+    last_name: OTKRYTOYE AKTSIONERNOYE OBSHCHESTVO AGAT-SISTEM
+address_list:
+  items:
+  - uid: '72936'
+    address1: 51 Skoriny str
+    city: Minsk
+    postal_code: '220141'
+    country: Belarus
+id_list:
+  items:
+  - uid: '39535'
+    id_type: Tax ID No.
+    id_number: '100230470'
+    id_country: Belarus
+  - uid: '170856'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
+remarks: "(Linked To: OJSC AGAT-CONTROL SYSTEM-MANAGING COMPANY OF GEOINFORMATION
+  CONTROL SYSTEMS HOLDING)"

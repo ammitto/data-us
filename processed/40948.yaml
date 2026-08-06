@@ -1,0 +1,36 @@
+---
+uid: '40948'
+first_name: Hans Peter
+last_name: BOMATTER
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '61121'
+    city: La Zubia
+    country: Spain
+id_list:
+  items:
+  - uid: '30248'
+    id_type: Passport
+    id_number: F3848406
+    id_country: Switzerland
+  - uid: '176925'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '158604'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '58602'
+    date_of_birth: 19 May 1965
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '58603'
+    place_of_birth: Schattdorf, Switzerland
+    main_entry: 'true'
+remarks: "(Linked To: TAMYNA AG)"

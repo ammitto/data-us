@@ -1,0 +1,47 @@
+---
+uid: '51590'
+last_name: GAZPROMNEFT TECHNOLOGICAL PARTNERSHIPS LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '80869'
+    type: a.k.a.
+    category: weak
+    last_name: INDUSTRIX
+address_list:
+  items:
+  - uid: '78612'
+    address1: Ul. Yakubovicha d. 24
+    address2: lit. A
+    city: Saint Petersburg
+    postal_code: '190000'
+    country: Russia
+  - uid: '78613'
+    address1: ul. Promyshlennaya zd. 19, pomeshch. 403
+    city: Khanty-Mansiysk
+    postal_code: '628011'
+    country: Russia
+id_list:
+  items:
+  - uid: '44058'
+    id_type: Registration Number
+    id_number: '1188617010064'
+    id_country: Russia
+  - uid: '44059'
+    id_type: Tax ID No.
+    id_number: '8601066868'
+    id_country: Russia
+  - uid: '181352'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
+  - uid: '181353'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183506'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

@@ -1,0 +1,53 @@
+---
+uid: '11620'
+last_name: NPC INTERNATIONAL
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN
+  - NPWMD
+  - IFSR
+aka_list:
+  items:
+  - uid: '12333'
+    type: a.k.a.
+    category: strong
+    last_name: NPC INTERNATIONAL COMPANY
+  - uid: '12334'
+    type: a.k.a.
+    category: strong
+    last_name: N P C INTERNATIONAL LTD
+  - uid: '42369'
+    type: a.k.a.
+    category: strong
+    last_name: NPC INTERNATIONAL LIMITED
+address_list:
+  items:
+  - uid: '17438'
+    address1: 5th Floor NIOC House, 4, Victoria Street
+    city: London
+    postal_code: SW1H 0NE
+    country: United Kingdom
+  - uid: '40703'
+    address1: NIOC House, 4 Victoria Street
+    city: London
+    postal_code: SW1H 0NE
+    country: United Kingdom
+  - uid: '40704'
+    address1: 4 Victoria Street
+    city: London
+    postal_code: SW1 H0NB
+    country: United Kingdom
+id_list:
+  items:
+  - uid: '5995'
+    id_type: Registration Number
+    id_number: '02696754'
+    id_country: United Kingdom
+  - uid: '131597'
+    id_type: Website
+    id_number: www.nipc.net
+  - uid: '118995'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: 'all offices worldwide; (Linked To: PERSIAN GULF PETROCHEMICAL INDUSTRY CO.)'

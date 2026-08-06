@@ -1,0 +1,61 @@
+---
+uid: '8883'
+first_name: Muhammad Yunis
+last_name: AHMAD
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAQ2
+aka_list:
+  items:
+  - uid: '8128'
+    type: a.k.a.
+    category: strong
+    last_name: AHMED
+    first_name: Muhammad Yunis
+  - uid: '8129'
+    type: a.k.a.
+    category: strong
+    last_name: AL-AHMED
+    first_name: Muhammad Yunis
+  - uid: '8130'
+    type: a.k.a.
+    category: strong
+    last_name: AL-BADRANI
+    first_name: Muhammad Yunis Ahmad
+  - uid: '8131'
+    type: a.k.a.
+    category: strong
+    last_name: AL-MOALI
+    first_name: Mohammed Yunis Ahmed
+address_list:
+  items:
+  - uid: '10523'
+    address1: Al-Dawar Street
+    city: Bludan
+    country: Syria
+  - uid: '10524'
+    city: Damascus
+    country: Syria
+  - uid: '10525'
+    city: Mosul
+    country: Iraq
+  - uid: '10526'
+    city: Wadi al-Hawi
+    country: Iraq
+  - uid: '10527'
+    city: Dubai
+    country: United Arab Emirates
+  - uid: '10528'
+    city: Al-Hasaka
+    country: Syria
+date_of_birth_list:
+  items:
+  - uid: '4179'
+    date_of_birth: '1949'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '4180'
+    place_of_birth: Al-Mowall, Mosul, Iraq
+    main_entry: 'true'

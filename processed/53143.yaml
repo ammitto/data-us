@@ -1,0 +1,28 @@
+---
+uid: '53143'
+last_name: UNITED TANKERS LTD
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '81105'
+    address1: Trust Company Complex
+    address2: Ajeltake Road
+    city: Majuro
+    state_or_province: Ajeltake Island
+    postal_code: '96960'
+    country: Marshall Islands
+id_list:
+  items:
+  - uid: '46242'
+    id_type: Identification Number
+    id_number: IMO 6424310
+  - uid: '46243'
+    id_type: Company Number
+    id_number: '120747'
+    id_country: Marshall Islands
+  - uid: '185462'
+    id_type: Organization Established Date
+    id_number: 03 Jul 2023

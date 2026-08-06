@@ -1,0 +1,53 @@
+---
+uid: '41977'
+last_name: SIMMETRON ELEKTRONNYE KOMPONENTY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65230'
+    type: a.k.a.
+    category: strong
+    last_name: SIMMETRON EK
+  - uid: '65231'
+    type: a.k.a.
+    category: weak
+    last_name: SYMMETRON
+address_list:
+  items:
+  - uid: '62608'
+    address1: ul. Tallinskaya d. 7
+    city: Saint Petersburg
+    postal_code: '195196'
+    country: Russia
+  - uid: '62609'
+    address1: Leningradskoye shosse, 69, build. 1
+    city: Moscow
+    postal_code: '125445'
+    country: Russia
+  - uid: '62610'
+    address1: Bluchera ul. 71b
+    city: Novosibirsk
+    postal_code: '630073'
+    country: Russia
+  - uid: '62611'
+    address1: Very Khoruzhey ul., 1a
+    address2: office 403
+    city: Minsk
+    postal_code: '220005'
+    country: Belarus
+id_list:
+  items:
+  - uid: '31358'
+    id_type: Registration Number
+    id_number: '1187847001341'
+    id_country: Russia
+  - uid: '31359'
+    id_type: Tax ID No.
+    id_number: '7806296652'
+    id_country: Russia
+  - uid: '173715'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,32 @@
+---
+uid: '34742'
+last_name: BEST2PAY LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '52057'
+    address1: Ul. Professora Popova D. 37
+    address2: Lit. Shch, Pomeshch. 1-N (Komn.127)
+    city: Saint Petersburg
+    postal_code: '197022'
+    country: Russia
+id_list:
+  items:
+  - uid: '24407'
+    id_type: Tax ID No.
+    id_number: '7813531811'
+    id_country: Russia
+  - uid: '24408'
+    id_type: Registration Number
+    id_number: '1127847218674'
+    id_country: Russia
+  - uid: '175194'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '146173'
+    id_type: Website
+    id_number: best2pay.net
+remarks: "(Linked To: SOVCOMBANK OPEN JOINT STOCK COMPANY)"

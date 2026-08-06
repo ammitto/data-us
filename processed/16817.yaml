@@ -1,0 +1,32 @@
+---
+uid: '16817'
+first_name: Yongan
+last_name: HU
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+id_list:
+  items:
+  - uid: '9333'
+    id_type: Passport
+    id_number: E00957550
+    id_country: China
+  - uid: '9334'
+    id_type: National ID No.
+    id_number: '410204197605261014'
+    id_country: China
+  - uid: '9571'
+    id_type: Chinese Commercial Code
+    id_number: 5170 3057 1344
+date_of_birth_list:
+  items:
+  - uid: '15430'
+    date_of_birth: 26 May 1976
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '15431'
+    place_of_birth: China
+    main_entry: 'true'
+remarks: "(Linked To: CEC LIMITED)"

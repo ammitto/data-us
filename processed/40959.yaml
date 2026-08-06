@@ -1,0 +1,37 @@
+---
+uid: '40959'
+last_name: VOSTOCHNAYA VERF JOINT STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63806'
+    type: a.k.a.
+    category: strong
+    last_name: VOSTOCHNAYA VERF PAO
+  - uid: '63807'
+    type: a.k.a.
+    category: strong
+    last_name: AO VOSTOCHNAYA VERF
+address_list:
+  items:
+  - uid: '61149'
+    address1: 1 Geroev Tikhookeantsev St.
+    city: Vladivostok
+    postal_code: '690017'
+    country: Russia
+id_list:
+  items:
+  - uid: '30275'
+    id_type: Registration Number
+    id_number: '1022501797064'
+    id_country: Russia
+  - uid: '30276'
+    id_type: Tax ID No.
+    id_number: '2537009643'
+    id_country: Russia
+  - uid: '175334'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

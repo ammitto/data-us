@@ -1,0 +1,32 @@
+---
+uid: '22610'
+first_name: Mikhail Yur'evich
+last_name: PISKLIN
+sdn_type: Individual
+program_list:
+  programs:
+  - DPRK3
+address_list:
+  items:
+  - uid: '34207'
+    country: Russia
+id_list:
+  items:
+  - uid: '14275'
+    id_type: Passport
+    id_number: 71 0588176
+  - uid: '124077'
+    id_type: Gender
+    id_number: Male
+  - uid: '127238'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '135100'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+date_of_birth_list:
+  items:
+  - uid: '24076'
+    date_of_birth: 01 Dec 1980
+    main_entry: 'true'

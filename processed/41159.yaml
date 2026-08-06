@@ -1,0 +1,42 @@
+---
+uid: '41159'
+first_name: Aleksei Borisovich
+last_name: SUKHODOLOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '64351'
+    type: a.k.a.
+    category: strong
+    last_name: SUKHODOLOV
+    first_name: Alexey Borisovich
+address_list:
+  items:
+  - uid: '61705'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '30678'
+    id_type: Passport
+    id_number: '100137518'
+    id_country: Russia
+  - uid: '159332'
+    id_type: Gender
+    id_number: Male
+  - uid: '173666'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '59328'
+    date_of_birth: 19 Apr 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '59329'
+    place_of_birth: Voronezh, Russia
+    main_entry: 'true'

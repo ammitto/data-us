@@ -1,0 +1,97 @@
+---
+uid: '12598'
+first_name: Muhammad Jibril
+last_name: ABDUL RAHMAN
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '13543'
+    type: a.k.a.
+    category: strong
+    last_name: ABDURRAHMAN
+    first_name: Mohammad Jibril
+  - uid: '13544'
+    type: a.k.a.
+    category: strong
+    last_name: ABDUL RAHMAN
+    first_name: Muhammad Jibriel
+  - uid: '13545'
+    type: a.k.a.
+    category: strong
+    last_name: ABDURRAHMAN
+    first_name: Mohammad Jibriel
+  - uid: '13546'
+    type: a.k.a.
+    category: strong
+    last_name: ARDHAN
+    first_name: Muhamad Ricky
+  - uid: '13547'
+    type: a.k.a.
+    category: strong
+    last_name: ARDHAN BIN MUHAMMAD IQBAL
+    first_name: Muhammad Ricky
+  - uid: '13548'
+    type: a.k.a.
+    category: strong
+    last_name: ARDHAN BIN ABU JIBRIL
+    first_name: Muhammad Ricky
+  - uid: '13549'
+    type: a.k.a.
+    category: weak
+    last_name: YUNUS, Muhammad
+  - uid: '13550'
+    type: a.k.a.
+    category: weak
+    last_name: SYAH, Heris
+address_list:
+  items:
+  - uid: '19810'
+    address1: Jl. M Saidi RT 010 RW 001 Pesanggrahan
+    address2: South Petukangan
+    city: South Jakarta
+    country: Indonesia
+  - uid: '19811'
+    address1: Jl. Nakula of Witana Harja Complex
+    address2: Block C
+    address3: Pamulang
+    city: Tangerang
+    state_or_province: Banten
+    country: Indonesia
+id_list:
+  items:
+  - uid: '7090'
+    id_type: Passport
+    id_number: S335026
+    id_country: Indonesia
+  - uid: '7091'
+    id_type: National ID No.
+    id_number: '3219222002.2181558'
+  - uid: '7092'
+    id_type: Identification Number
+    id_number: '2181558'
+  - uid: '186022'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '8353'
+    date_of_birth: 28 May 1984
+    main_entry: 'true'
+  - uid: '8354'
+    date_of_birth: 03 Dec 1979
+    main_entry: 'false'
+  - uid: '8355'
+    date_of_birth: '08 Aug 1980'
+    main_entry: 'false'
+  - uid: '8356'
+    date_of_birth: 03 Mar 1979
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '8357'
+    place_of_birth: East Lombok, West Nusa Tenggara, Indonesia
+    main_entry: 'true'

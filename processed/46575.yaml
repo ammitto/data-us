@@ -1,0 +1,39 @@
+---
+uid: '46575'
+last_name: SETTLEMENT NON BANK CREDIT ORGANIZATION METALLURG
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '69302'
+    address1: 16 Ivana Babushkina
+    city: Moscow
+    postal_code: '117292'
+    country: Russia
+id_list:
+  items:
+  - uid: '36516'
+    id_type: Registration Number
+    id_number: '1027739246490'
+    id_country: Russia
+  - uid: '36517'
+    id_type: Tax ID No.
+    id_number: '7703010220'
+    id_country: Russia
+  - uid: '167448'
+    id_type: Organization Established Date
+    id_number: '1994'
+  - uid: '177001'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '167447'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '167446'
+    id_type: SWIFT/BIC
+    id_number: MECCRUM1
+  - uid: '167449'
+    id_type: Website
+    id_number: www.metallurgbank.ru

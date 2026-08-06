@@ -1,0 +1,44 @@
+---
+uid: '46915'
+first_name: Sarah Jamal Muhammad
+last_name: AL-SAYYID
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '72533'
+    type: a.k.a.
+    category: strong
+    last_name: GAMAL
+    first_name: Sarah
+  - uid: '72534'
+    type: a.k.a.
+    category: strong
+    last_name: JAMAL
+    first_name: Sarah
+address_list:
+  items:
+  - uid: '69952'
+    country: Egypt
+id_list:
+  items:
+  - uid: '167902'
+    id_type: Gender
+    id_number: Female
+  - uid: '167903'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '67899'
+    date_of_birth: 07 Jul 1985
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '67900'
+    place_of_birth: Egypt
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC STATE OF IRAQ AND THE LEVANT)"

@@ -1,0 +1,32 @@
+---
+uid: '52747'
+first_name: Kecheng
+last_name: YIN
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER3
+address_list:
+  items:
+  - uid: '80639'
+    city: Shanghai
+    country: China
+id_list:
+  items:
+  - uid: '45905'
+    id_type: National ID No.
+    id_number: '340121198612082214'
+    id_country: China
+  - uid: '184671'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '84669'
+    date_of_birth: '08 Dec 1986'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '84670'
+    place_of_birth: Anhui Province, China
+    main_entry: 'true'

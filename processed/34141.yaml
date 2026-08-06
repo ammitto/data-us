@@ -1,0 +1,36 @@
+---
+uid: '34141'
+first_name: Mohammad
+last_name: KARAMI
+sdn_type: Individual
+program_list:
+  programs:
+  - CAATSA - IRAN
+address_list:
+  items:
+  - uid: '51188'
+    state_or_province: Sistan and Baluchistan
+    country: Iran
+id_list:
+  items:
+  - uid: '23803'
+    id_type: Passport
+    id_number: K50849392
+    id_country: Iran
+    expiration_date: 23 Sep 2024
+  - uid: '145431'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '145341'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '45340'
+    date_of_birth: 27 Jan 1966
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '45430'
+    place_of_birth: Iran
+    main_entry: 'true'

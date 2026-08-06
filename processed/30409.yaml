@@ -1,0 +1,61 @@
+---
+uid: '30409'
+last_name: NORTH DRILLING COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13876
+aka_list:
+  items:
+  - uid: '47783'
+    type: a.k.a.
+    category: weak
+    last_name: NDCO
+  - uid: '47784'
+    type: a.k.a.
+    category: strong
+    last_name: NORTH DRILLING PUBLIC JOINT STOCK COMPANY
+  - uid: '47785'
+    type: a.k.a.
+    category: strong
+    last_name: NORTH DRILLING CO
+address_list:
+  items:
+  - uid: '45987'
+    address1: 2127, Valiasr Street, Corner of Del Afrooz Street
+    city: Tehran
+    postal_code: '1511714315'
+    country: Iran
+  - uid: '45988'
+    address1: Arjantin Argentina Square - Alvand St. - 35th St. - No. 8
+    city: Tehran
+    country: Iran
+  - uid: '45989'
+    address1: Sanaat Square - Farhazadi St. - Taavon St. - No. 19
+    city: Tehran
+    country: Iran
+  - uid: '45991'
+    address1: Vozara St. - Baheshti St. - No. 20
+    city: Tehran
+    country: Iran
+  - uid: '45992'
+    address1: Esfandiar St. - Valiasr St. - No. 90
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '20554'
+    id_type: Registration Number
+    id_number: '149235'
+    id_country: Iran
+  - uid: '20555'
+    id_type: National ID No.
+    id_number: '10101920830'
+    id_country: Iran
+  - uid: '138049'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '138048'
+    id_type: Website
+    id_number: www.ndco.ir
+remarks: "(Linked To: ISLAMIC REVOLUTION MOSTAZAFAN FOUNDATION)"

@@ -1,0 +1,44 @@
+---
+uid: '17123'
+first_name: Miroslav Vladimirovich
+last_name: RUDENKO
+sdn_type: Individual
+program_list:
+  programs:
+  - UKRAINE-EO13660
+aka_list:
+  items:
+  - uid: '26307'
+    type: a.k.a.
+    category: strong
+    last_name: RUDENKO
+    first_name: Miroslav
+  - uid: '26308'
+    type: a.k.a.
+    category: strong
+    last_name: RUDENKO
+    first_name: Myroslav
+address_list:
+  items:
+  - uid: '26054'
+    city: Donetsk
+    country: Ukraine
+id_list:
+  items:
+  - uid: '143755'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+date_of_birth_list:
+  items:
+  - uid: '15934'
+    date_of_birth: 21 Jan 1983
+    main_entry: 'true'
+  - uid: '15935'
+    date_of_birth: '1983'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '15936'
+    place_of_birth: Debaltsevo, Donetsk Region, Ukraine
+    main_entry: 'true'

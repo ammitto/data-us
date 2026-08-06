@@ -1,0 +1,33 @@
+---
+uid: '48518'
+last_name: AKTSIONERNOE OBSHCHESTVO BOLKHOVSKII ZAVOD POLUPROVODNIKOVYKH PRIBOROV
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75407'
+    type: a.k.a.
+    category: weak
+    last_name: AO BZPP
+address_list:
+  items:
+  - uid: '72813'
+    address1: Ul. Vasiliya Ermakova D. 17
+    city: Bolkhov
+    postal_code: '303140'
+    country: Russia
+id_list:
+  items:
+  - uid: '39446'
+    id_type: Registration Number
+    id_number: '1025702655890'
+    id_country: Russia
+  - uid: '39448'
+    id_type: Tax ID No.
+    id_number: '5704003487'
+    id_country: Russia
+  - uid: '171346'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

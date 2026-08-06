@@ -1,0 +1,44 @@
+---
+uid: '52643'
+last_name: LIMITED LIABILITY COMPANY SCIENTIFIC PRODUCTION ASSOCIATION TSENTROTEKH
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '82469'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY NPO TSENTROTEKH
+  - uid: '82470'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY URAL GAS CENTRIFUGE MANUFACTURING PLANT
+  - uid: '82472'
+    type: a.k.a.
+    category: strong
+    last_name: OOO URALSKII ZAVOD GAZOVYKH TSENTRIFUG
+address_list:
+  items:
+  - uid: '80436'
+    address1: ZD. 2 ul. Dzerzhinskogo
+    city: Novouralsk
+    postal_code: '620000'
+    country: Russia
+id_list:
+  items:
+  - uid: '45727'
+    id_type: Registration Number
+    id_number: '1076629000690'
+    id_country: Russia
+  - uid: '45728'
+    id_type: Tax ID No.
+    id_number: '6629020796'
+    id_country: Russia
+  - uid: '184432'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
+  - uid: '184431'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

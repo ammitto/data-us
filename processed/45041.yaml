@@ -1,0 +1,38 @@
+---
+uid: '45041'
+last_name: OPEN JOINT STOCK COMPANY BALASHIKHINSKIY LITEYNO MEKHANICHESKIY ZAVOD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69786'
+    type: a.k.a.
+    category: weak
+    last_name: BLMZ
+  - uid: '69787'
+    type: a.k.a.
+    category: strong
+    last_name: BALASHIKHA CASTING MECHANICAL PLANT OJSC
+address_list:
+  items:
+  - uid: '67071'
+    address1: '4'
+    address2: Entuziastov
+    city: Balashikha
+    postal_code: '143912'
+    country: Russia
+id_list:
+  items:
+  - uid: '34748'
+    id_type: Registration Number
+    id_number: '1025000510534'
+    id_country: Russia
+  - uid: '34750'
+    id_type: Tax ID No.
+    id_number: '5001000027'
+    id_country: Russia
+  - uid: '175917'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

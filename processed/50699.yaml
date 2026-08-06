@@ -1,0 +1,27 @@
+---
+uid: '50699'
+last_name: SOTIS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '76872'
+    address1: per. Partiinyi d. 1, k. 58 str. 3, floor 3, pomeshch. i, office 323
+    city: Moscow
+    postal_code: '115093'
+    country: Russia
+id_list:
+  items:
+  - uid: '42549'
+    id_type: Registration Number
+    id_number: '5147746290038'
+    id_country: Russia
+  - uid: '42550'
+    id_type: Tax ID No.
+    id_number: '7706816379'
+    id_country: Russia
+  - uid: '179256'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,44 @@
+---
+uid: '35356'
+last_name: JOINT STOCK COMPANY AVANGARD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '55735'
+    type: a.k.a.
+    category: strong
+    last_name: JSC AVANGARD
+  - uid: '55736'
+    type: a.k.a.
+    category: strong
+    last_name: JC AVANGARD
+  - uid: '55737'
+    type: a.k.a.
+    category: strong
+    last_name: AVANGARD PLASTIK
+address_list:
+  items:
+  - uid: '53185'
+    address1: 78 Oktyabrskaya St.
+    city: Safonovo
+    state_or_province: Smolensk Region
+    postal_code: '215500'
+    country: Russia
+id_list:
+  items:
+  - uid: '25068'
+    id_type: Tax ID No.
+    id_number: '6726504312'
+    id_country: Russia
+  - uid: '147641'
+    id_type: Organization Established Date
+    id_number: 05 Nov 2008
+  - uid: '176745'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '147640'
+    id_type: Website
+    id_number: www.avangard-plastik.ru

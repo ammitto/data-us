@@ -1,0 +1,30 @@
+---
+uid: '40557'
+last_name: LIMITED LIABILITY COMPANY KALEIDOSKOP
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '60407'
+    address1: House 2, Building 2, Paveletskaya square
+    city: Moscow
+    postal_code: '115054'
+    country: Russia
+id_list:
+  items:
+  - uid: '29697'
+    id_type: Tax ID No.
+    id_number: '9705083235'
+    id_country: Russia
+  - uid: '29698'
+    id_type: Registration Number
+    id_number: '5167746427063'
+    id_country: Russia
+  - uid: '176908'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '157799'
+    id_type: Organization Established Date
+    id_number: '09 Dec 2016'

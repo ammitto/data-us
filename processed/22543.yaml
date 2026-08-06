@@ -1,0 +1,41 @@
+---
+uid: '22543'
+last_name: PRIVATE MILITARY COMPANY 'WAGNER'
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13660
+  - RUSSIA-EO14024
+  - CAR
+  - TCO
+aka_list:
+  items:
+  - uid: '35519'
+    type: a.k.a.
+    category: strong
+    last_name: PMC WAGNER
+  - uid: '35520'
+    type: a.k.a.
+    category: strong
+    last_name: CHASTNAYA VOENNAYA KOMPANIYA 'VAGNER'
+  - uid: '35521'
+    type: a.k.a.
+    category: strong
+    last_name: CHVK VAGNER
+  - uid: '62960'
+    type: a.k.a.
+    category: strong
+    last_name: WAGNER GROUP
+address_list:
+  items:
+  - uid: '34081'
+    country: Russia
+id_list:
+  items:
+  - uid: '144091'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '173933'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

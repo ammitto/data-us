@@ -1,0 +1,88 @@
+---
+uid: '30877'
+first_name: Oleksandr
+last_name: ONYSHCHENKO
+sdn_type: Individual
+program_list:
+  programs:
+  - ELECTION-EO13848
+aka_list:
+  items:
+  - uid: '48535'
+    type: a.k.a.
+    category: strong
+    last_name: ONYSHCHENKO
+    first_name: Oleksandr Romanovych
+  - uid: '48536'
+    type: a.k.a.
+    category: strong
+    last_name: KADYROV
+    first_name: Oleksandr Romanovych
+  - uid: '48538'
+    type: a.k.a.
+    category: strong
+    last_name: ONISHCHENKO
+    first_name: Oleksandr Romanovych
+  - uid: '48539'
+    type: a.k.a.
+    category: strong
+    last_name: ONISHCHENKO
+    first_name: Oleksandr
+  - uid: '48541'
+    type: a.k.a.
+    category: strong
+    last_name: ONISHCHENKO
+    first_name: Aleksandr Romanovych
+  - uid: '48543'
+    type: a.k.a.
+    category: strong
+    last_name: KADYROV
+    first_name: Aleksandr Romanovych
+  - uid: '48544'
+    type: a.k.a.
+    category: strong
+    last_name: KADYROV
+    first_name: Oleksandr
+address_list:
+  items:
+  - uid: '46701'
+    country: Germany
+  - uid: '46702'
+    address1: Redutnyi Pereulok 10A
+    city: Kiev
+    country: Ukraine
+  - uid: '46703'
+    address1: UL. Natalii Ushvii 4 G App. 36
+    city: Kiev
+    postal_code: '04108'
+    country: Ukraine
+id_list:
+  items:
+  - uid: '20946'
+    id_type: Passport
+    id_number: '2529210098'
+    id_country: Ukraine
+    expiration_date: 29 Mar 2021
+  - uid: '20947'
+    id_type: Passport
+    id_number: EX600377
+    id_country: Ukraine
+    issue_date: 01 Oct 2013
+    expiration_date: 01 Oct 2023
+  - uid: '20948'
+    id_type: National ID No.
+    id_number: '2529210098'
+    id_country: Ukraine
+  - uid: '138887'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '38886'
+    date_of_birth: 31 Mar 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '38885'
+    place_of_birth: Russia
+    main_entry: 'true'

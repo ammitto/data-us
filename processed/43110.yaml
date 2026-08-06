@@ -1,0 +1,54 @@
+---
+uid: '43110'
+first_name: Sergey Sergeevich
+last_name: KRAVTSOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '66804'
+    type: a.k.a.
+    category: strong
+    last_name: KRAVTSOV
+    first_name: Sergei Sergeevich
+  - uid: '66805'
+    type: a.k.a.
+    category: strong
+    last_name: KRAVTSOV
+    first_name: Sergej Sergeevich
+  - uid: '66806'
+    type: f.k.a.
+    category: strong
+    last_name: BRAUN
+    first_name: Sergey Sergeevich
+address_list:
+  items:
+  - uid: '64320'
+    address1: Karetny Ryad Street
+    address2: House 2
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '32692'
+    id_type: Tax ID No.
+    id_number: '772803716511'
+    id_country: Russia
+  - uid: '175532'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '162091'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '62093'
+    date_of_birth: 17 Mar 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '62092'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'

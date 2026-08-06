@@ -1,0 +1,31 @@
+---
+uid: '51257'
+first_name: Pablo Ernesto
+last_name: LIZANO COLMENTER
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+address_list:
+  items:
+  - uid: '77990'
+    country: Venezuela
+id_list:
+  items:
+  - uid: '43462'
+    id_type: Cedula No.
+    id_number: V12059932
+    id_country: Venezuela
+  - uid: '180395'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '80394'
+    date_of_birth: 15 Sep 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '80397'
+    place_of_birth: Maracaibo, Venezuela
+    main_entry: 'true'

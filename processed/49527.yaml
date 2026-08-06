@@ -1,0 +1,33 @@
+---
+uid: '49527'
+last_name: LIMITED LIABILITY COMPANY MURMANSK TRANSGAZ
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77268'
+    type: a.k.a.
+    category: strong
+    last_name: MURMANSK TRANSGAS LIMITED LIABILITY COMPANY
+address_list:
+  items:
+  - uid: '74746'
+    address1: 4A Spolokhi St.
+    city: Murmansk
+    postal_code: '183025'
+    country: Russia
+id_list:
+  items:
+  - uid: '40886'
+    id_type: Registration Number
+    id_number: '1235100002202'
+    id_country: Russia
+  - uid: '40887'
+    id_type: Tax ID No.
+    id_number: '5190095159'
+    id_country: Russia
+  - uid: '172628'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

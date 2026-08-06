@@ -1,0 +1,42 @@
+---
+uid: '48665'
+last_name: AMS GROUP LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '75698'
+    type: a.k.a.
+    category: strong
+    last_name: AMS GRUPP
+  - uid: '75699'
+    type: a.k.a.
+    category: strong
+    last_name: ANALYTICAL MARKETING CHEMICAL GROUP
+address_list:
+  items:
+  - uid: '73099'
+    address1: Pl. Konstitutsii D. 3, K. 2 Lit. A, Pom. 101N
+    city: Saint Petersburg
+    postal_code: '196247'
+    country: Russia
+id_list:
+  items:
+  - uid: '39660'
+    id_type: Registration Number
+    id_number: '1117847091856'
+    id_country: Russia
+  - uid: '39661'
+    id_type: Tax ID No.
+    id_number: '7810819993'
+    id_country: Russia
+  - uid: '171255'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184425'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

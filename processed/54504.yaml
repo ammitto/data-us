@@ -1,0 +1,53 @@
+---
+uid: '54504'
+first_name: Ricardo
+last_name: HERNANDEZ MEDRANO
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+aka_list:
+  items:
+  - uid: '84816'
+    type: a.k.a.
+    category: weak
+    last_name: El Makabelico
+  - uid: '84817'
+    type: a.k.a.
+    category: weak
+    last_name: Comando Exclusivo
+  - uid: '85631'
+    type: a.k.a.
+    category: weak
+    last_name: HERNANDEZ, Ricardo
+address_list:
+  items:
+  - uid: '83257'
+    city: Nuevo Laredo
+    state_or_province: Tamaulipas
+    country: Mexico
+id_list:
+  items:
+  - uid: '48128'
+    id_type: C.U.R.P.
+    id_number: HEMR910413HTSRDC06
+    id_country: Mexico
+  - uid: '192247'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '190518'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '90516'
+    date_of_birth: 13 Apr 1991
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '90519'
+    place_of_birth: Nuevo Laredo, Tamaulipas, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: CARTEL DEL NORESTE)"

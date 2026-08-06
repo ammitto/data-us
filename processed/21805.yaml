@@ -1,0 +1,41 @@
+---
+uid: '21805'
+last_name: TEHRAN PRISONS ORGANIZATION
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-HR
+aka_list:
+  items:
+  - uid: '34580'
+    type: a.k.a.
+    category: strong
+    last_name: TEHRAN PRISONS AND SECURITY CORRECTIVE MEASURES DEPARTMENT
+  - uid: '34581'
+    type: a.k.a.
+    category: strong
+    last_name: TEHRAN PROVINCE PRISONS
+  - uid: '34582'
+    type: a.k.a.
+    category: strong
+    last_name: TEHRAN PROVINCE PRISONS DEPARTMENT
+  - uid: '34583'
+    type: a.k.a.
+    category: strong
+    last_name: TEHRAN PRISONS
+address_list:
+  items:
+  - uid: '33194'
+    address1: Region 2, Saadat Abad
+    address2: Kooye Faraz, Tehran Province Prisons Department, Level 3
+    city: Tehran
+    postal_code: '1982846176'
+    country: Iran
+id_list:
+  items:
+  - uid: '122885'
+    id_type: Website
+    id_number: Tehranprisons.ir
+  - uid: '122891'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

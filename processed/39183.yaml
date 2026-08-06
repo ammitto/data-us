@@ -1,0 +1,49 @@
+---
+uid: '39183'
+last_name: JOINT STOCK COMPANY RESEARCH CENTER ELINS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '61108'
+    type: a.k.a.
+    category: strong
+    last_name: JSC SCIENTIFIC AND TECHNICAL CENTER ELINS
+  - uid: '61109'
+    type: a.k.a.
+    category: strong
+    last_name: SCIENTIFIC TECHNICAL CENTRE ELINS
+  - uid: '61110'
+    type: a.k.a.
+    category: strong
+    last_name: JSC NAUCHNYY CENTER ELINS
+  - uid: '61111'
+    type: a.k.a.
+    category: strong
+    last_name: ELINS STC JSC
+address_list:
+  items:
+  - uid: '58340'
+    address1: Panfilovsky Pr., 10
+    city: Zelenograd
+    state_or_province: Moscow
+    postal_code: '124460'
+    country: Russia
+id_list:
+  items:
+  - uid: '28407'
+    id_type: Tax ID No.
+    id_number: '7735567832'
+    id_country: Russia
+  - uid: '28408'
+    id_type: Registration Number
+    id_number: '1107746215455'
+    id_country: Russia
+  - uid: '154931'
+    id_type: Organization Established Date
+    id_number: 23 Mar 2010
+  - uid: '174750'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

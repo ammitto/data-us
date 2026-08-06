@@ -1,0 +1,40 @@
+---
+uid: '47402'
+last_name: LIMITED LIABILITY COMPANY RESURS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73298'
+    type: a.k.a.
+    category: weak
+    last_name: LLC RESOURCE
+address_list:
+  items:
+  - uid: '70678'
+    address1: Ul. Aerodromnaya D. 6, Lit. B, Pomeshch. 7.2
+    city: Saint Petersburg
+    postal_code: '197348'
+    country: Russia
+  - uid: '70679'
+    address1: PR-KT Lenina D. 1, Lit. A
+    address2: Izhorskie Zavody Vkhod s Pr. Lenina D. 1
+    address3: Cherez Glavnuyu Prokhodnuyu
+    city: Kolpino
+    postal_code: '196651'
+    country: Russia
+id_list:
+  items:
+  - uid: '37794'
+    id_type: Registration Number
+    id_number: '1127847473533'
+    id_country: Russia
+  - uid: '37795'
+    id_type: Tax ID No.
+    id_number: '7813543768'
+    id_country: Russia
+  - uid: '169735'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

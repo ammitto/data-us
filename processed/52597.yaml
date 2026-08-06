@@ -1,0 +1,42 @@
+---
+uid: '52597'
+first_name: Fangyue
+last_name: LI
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '80343'
+    address1: Vogesenstr. 16
+    city: Hamburg
+    postal_code: '22049'
+    country: Germany
+id_list:
+  items:
+  - uid: '45640'
+    id_type: National ID No.
+    id_number: '610121197704033656'
+    id_country: China
+  - uid: '45641'
+    id_type: Passport
+    id_number: E90597546
+    id_country: China
+  - uid: '184344'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184349'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '84345'
+    date_of_birth: 03 Apr 1977
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '84346'
+    place_of_birth: Xian, China
+    main_entry: 'true'
+remarks: "(Linked To: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTIU ROKEM SERVIS)"

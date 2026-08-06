@@ -1,0 +1,58 @@
+---
+uid: '16450'
+first_name: Lahore
+last_name: JAN
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '24893'
+    type: a.k.a.
+    category: strong
+    last_name: JAN
+    first_name: Lahor
+address_list:
+  items:
+  - uid: '24841'
+    address1: Shop No. 13, Second Floor
+    address2: Sarai Shahzada
+    city: Kabul
+    country: Afghanistan
+  - uid: '24842'
+    address1: Pesha-khowr area of Achin District
+    state_or_province: Nangarhar Province
+    country: Afghanistan
+id_list:
+  items:
+  - uid: '9049'
+    id_type: Tax ID No.
+    id_number: 104-385-2-019
+    id_country: Afghanistan
+  - uid: '9050'
+    id_type: Tazkira National ID Card
+    id_number: '932995'
+    id_country: Afghanistan
+  - uid: '9051'
+    id_type: Tazkira National ID Card
+    id_number: '283528'
+    id_country: Afghanistan
+  - uid: '9052'
+    id_type: Tazkira National ID Card
+    id_number: '128086'
+    id_country: Afghanistan
+date_of_birth_list:
+  items:
+  - uid: '14849'
+    date_of_birth: '1976'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '14850'
+    place_of_birth: Nangarhar, Achin, Pesha, Afghanistan
+    main_entry: 'true'
+  - uid: '14851'
+    place_of_birth: Jalalabad, Afghanistan
+    main_entry: 'false'
+remarks: "(Linked To: LAHORE JAN SHANWARI EXCHANGE)"

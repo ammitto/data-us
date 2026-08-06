@@ -1,0 +1,38 @@
+---
+uid: '50016'
+last_name: FEDERAL STATE GOVERNMENTAL INSTITUTION 4 CENTRAL RESEARCH INSTITUTE OF
+  THE MINISTRY OF DEFENSE OF THE RUSSIAN FEDERATION
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77967'
+    type: a.k.a.
+    category: strong
+    last_name: FGBU 4 TSNII MINOBORONY ROSSII
+  - uid: '77968'
+    type: a.k.a.
+    category: weak
+    last_name: 4 TSNII
+address_list:
+  items:
+  - uid: '75680'
+    address1: Ul. M.K. Tikhonravova (Yubileinyi MKR) D. 29
+    city: Korolev
+    postal_code: '141091'
+    country: Russia
+id_list:
+  items:
+  - uid: '41571'
+    id_type: Registration Number
+    id_number: '1065018010386'
+    id_country: Russia
+  - uid: '41572'
+    id_type: Tax ID No.
+    id_number: '5054086684'
+    id_country: Russia
+  - uid: '178114'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

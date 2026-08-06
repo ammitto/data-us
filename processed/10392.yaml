@@ -1,0 +1,77 @@
+---
+uid: '10392'
+last_name: MINISTRY OF DEFENSE AND ARMED FORCES LOGISTICS
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+  - SDGT
+  - IRAN-CON-ARMS-EO
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '10190'
+    type: a.k.a.
+    category: strong
+    last_name: MINISTRY OF DEFENSE AND SUPPORT FOR ARMED FORCES LOGISTICS
+  - uid: '10191'
+    type: a.k.a.
+    category: strong
+    last_name: MODAFL
+  - uid: '10192'
+    type: a.k.a.
+    category: strong
+    last_name: MODSAF
+  - uid: '42000'
+    type: a.k.a.
+    category: strong
+    last_name: MINISTRY OF DEFENSE FOR ARMED FORCES LOGISTICS
+  - uid: '42001'
+    type: a.k.a.
+    category: strong
+    last_name: MINISTRY OF DEFENSE ARMED FORCES LOGISTICS
+  - uid: '42002'
+    type: a.k.a.
+    category: strong
+    last_name: VEZARAT-E DEFA VA POSHTYBANI-E NIRU-HAYE MOSALLAH
+  - uid: '42003'
+    type: a.k.a.
+    category: strong
+    last_name: MINISTRY OF DEFENCE & ARMED FORCES LOGISTICS
+  - uid: '42004'
+    type: a.k.a.
+    category: strong
+    last_name: GOVERNMENT OF IRAN DEPARTMENT OF DEFENSE
+  - uid: '42005'
+    type: a.k.a.
+    category: strong
+    last_name: VEZARATE DEFA
+address_list:
+  items:
+  - uid: '40340'
+    address1: Ferdowsi Avenue, Sarhang Sakhaei Street
+    city: Tehran
+    country: Iran
+  - uid: '40341'
+    address1: PO Box 11365-8439, Pasdaran Ave.
+    city: Tehran
+    country: Iran
+  - uid: '40342'
+    address1: West side of Dabestan Street, Abbas Abad District
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '186311'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '173820'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '114337'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS (IRGC)-QODS FORCE; Linked
+  To: ROSOBORONEKSPORT OAO)"

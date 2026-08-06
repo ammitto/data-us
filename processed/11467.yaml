@@ -1,0 +1,72 @@
+---
+uid: '11467'
+first_name: Maria del Carmen
+last_name: SUAZA BARCO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNT
+aka_list:
+  items:
+  - uid: '12153'
+    type: a.k.a.
+    category: strong
+    last_name: SUAZA BARCO
+    first_name: Carmen
+address_list:
+  items:
+  - uid: '17087'
+    address1: c/o AGROESPINAL S.A.
+    city: Medellin
+    country: Colombia
+  - uid: '17088'
+    address1: c/o AGROGANADERA LOS SANTOS S.A.
+    city: Medellin
+    country: Colombia
+  - uid: '17089'
+    address1: c/o ASES DE COMPETENCIA Y CIA. S.A.
+    city: Medellin
+    country: Colombia
+  - uid: '17090'
+    address1: c/o CONSTRUCTORA GUADALEST S.A.
+    city: Medellin
+    country: Colombia
+  - uid: '17091'
+    address1: c/o FRANZUL S.A.
+    city: Medellin
+    country: Colombia
+  - uid: '17092'
+    address1: c/o GRUPO FALCON S.A.
+    city: Medellin
+    country: Colombia
+  - uid: '17093'
+    address1: c/o HIERROS DE JERUSALEM S.A.
+    city: Medellin
+    country: Colombia
+  - uid: '17094'
+    address1: Calle Hamburgo No. 214 dpto. 22-3
+    address2: Colonia Juarez
+    city: Mexico City
+    state_or_province: Distrito Federal
+    postal_code: C.P. 06600
+    country: Mexico
+id_list:
+  items:
+  - uid: '5876'
+    id_type: Cedula No.
+    id_number: '32446309'
+    id_country: Colombia
+  - uid: '5877'
+    id_type: VisaNumberID
+    id_number: '2024702'
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '6886'
+    date_of_birth: 06 May 1921
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '6887'
+    place_of_birth: Andes, Antioquia, Colombia
+    main_entry: 'true'

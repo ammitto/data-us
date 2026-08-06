@@ -1,0 +1,35 @@
+---
+uid: '47857'
+last_name: LIMITED LIABILITY COMPANY ENGINEERING CENTER OF ADDITIVE TECHNOLOGIES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74248'
+    type: a.k.a.
+    category: weak
+    last_name: LLC EC AT
+address_list:
+  items:
+  - uid: '71634'
+    address1: 2 Gorbunova Street
+    address2: Building 2
+    address3: Room 719
+    city: Moscow
+    postal_code: '121596'
+    country: Russia
+id_list:
+  items:
+  - uid: '38604'
+    id_type: Registration Number
+    id_number: '1187746029756'
+    id_country: Russia
+  - uid: '38605'
+    id_type: Tax ID No.
+    id_number: '7731395300'
+    id_country: Russia
+  - uid: '169812'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

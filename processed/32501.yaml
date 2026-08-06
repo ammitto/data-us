@@ -1,0 +1,45 @@
+---
+uid: '32501'
+first_name: Leonardo
+last_name: PINEDA ARMENTA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '51020'
+    type: a.k.a.
+    category: weak
+    last_name: EL TWENTY
+  - uid: '51021'
+    type: a.k.a.
+    category: weak
+    last_name: EL VEINTE
+  - uid: '51022'
+    type: a.k.a.
+    category: weak
+    last_name: EL 20
+address_list:
+  items:
+  - uid: '48906'
+    country: Mexico
+id_list:
+  items:
+  - uid: '22280'
+    id_type: C.U.R.P.
+    id_number: PIAL700331HSLNRN00
+    id_country: Mexico
+  - uid: '142120'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '42117'
+    date_of_birth: 31 Mar 1970
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '42118'
+    place_of_birth: Los Mochis, Sinaloa, Mexico
+    main_entry: 'true'

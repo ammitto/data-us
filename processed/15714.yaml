@@ -1,0 +1,36 @@
+---
+uid: '15714'
+last_name: PROMESAS DEL FUTBOL COLOMBIANO S.A.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '23434'
+    type: a.k.a.
+    category: strong
+    last_name: PROFUTCOL S.A.
+address_list:
+  items:
+  - uid: '23496'
+    address1: Calle 83 No. 108-15
+    city: Bogota
+    country: Colombia
+  - uid: '24158'
+    address1: Celta Trade Park
+    address2: Lote 41 Bodega 10
+    address3: Km. 7 Autopista Bogota-Medellin
+    city: Funza
+    state_or_province: Cundinamarca
+    country: Colombia
+id_list:
+  items:
+  - uid: '8470'
+    id_type: 'NIT #'
+    id_number: '9002835705'
+    id_country: Colombia
+  - uid: '8615'
+    id_type: Matricula Mercantil No
+    id_number: '1886854'
+    id_country: Colombia

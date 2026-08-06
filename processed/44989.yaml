@@ -1,0 +1,35 @@
+---
+uid: '44989'
+last_name: UNITED ARCTIC COMPANY LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69655'
+    type: a.k.a.
+    category: strong
+    last_name: OOO OBEDINENNAYA ARKTICHESKAYA KOMPANIYA
+address_list:
+  items:
+  - uid: '66963'
+    address1: d. 3 str. 1 etazh 3 kom. 6
+    address2: per. Kapranova
+    city: Moscow
+    postal_code: '123242'
+    country: Russia
+id_list:
+  items:
+  - uid: '34647'
+    id_type: Registration Number
+    id_number: '1217700432212'
+    id_country: Russia
+  - uid: '34648'
+    id_type: Tax ID No.
+    id_number: '9703047986'
+    id_country: Russia
+  - uid: '175872'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: LIMITED LIABILITY COMPANY CARBON)"

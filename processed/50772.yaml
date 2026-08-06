@@ -1,0 +1,41 @@
+---
+uid: '50772'
+last_name: LIMITED LIABILITY COMPANY AEROMAKS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79502'
+    type: a.k.a.
+    category: strong
+    last_name: AEROMAX GROUP
+  - uid: '79503'
+    type: a.k.a.
+    category: strong
+    last_name: AEROMAX LTD
+address_list:
+  items:
+  - uid: '77034'
+    address1: Per. Milyutinskii D. 13
+    address2: Str. 1, Floor 5, Pomeshch 1, Kom. 12
+    city: Moscow
+    postal_code: '101000'
+    country: Russia
+id_list:
+  items:
+  - uid: '42671'
+    id_type: Registration Number
+    id_number: '1177746007900'
+    id_country: Russia
+  - uid: '42672'
+    id_type: Tax ID No.
+    id_number: '7725347482'
+    id_country: Russia
+  - uid: '179407'
+    id_type: Organization Established Date
+    id_number: '09 Jan 2017'
+  - uid: '179408'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

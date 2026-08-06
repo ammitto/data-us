@@ -1,0 +1,38 @@
+---
+uid: '53337'
+first_name: Sohrab
+last_name: GHAIRAT
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '81368'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '46503'
+    id_type: Passport
+    id_number: '752859643'
+    id_country: Russia
+    expiration_date: 24 Feb 2026
+  - uid: '187638'
+    id_type: Gender
+    id_number: Male
+  - uid: '187641'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '87639'
+    date_of_birth: 06 Sep 1985
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '87640'
+    place_of_birth: Kabul, Afghanistan
+    main_entry: 'true'
+remarks: "(Linked To: AL-JAMAL, Sa'id Ahmad Muhammad)"

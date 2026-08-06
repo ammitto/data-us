@@ -1,0 +1,47 @@
+---
+uid: '34676'
+last_name: SAINT-PETERSBURG INTERNATIONAL BANKING CONFERENCE LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54327'
+    type: a.k.a.
+    category: strong
+    last_name: PSB AVTOFAKTORING
+  - uid: '54448'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY SAINT-PETERSBURG INTERNATIONAL BANKING CONFERENCE
+address_list:
+  items:
+  - uid: '51919'
+    address1: Ul. Smirnovskaya D. 10, Str. 8, Komnata 7
+    city: Moscow
+    postal_code: '109052'
+    country: Russia
+  - uid: '51921'
+    address1: d. 42, Moskovskoe Shosse
+    address2: Sergiev Posad
+    state_or_province: Moscow Oblast
+    postal_code: '141300'
+    country: Russia
+id_list:
+  items:
+  - uid: '24299'
+    id_type: Registration Number
+    id_number: '1105042007806'
+    id_country: Russia
+  - uid: '24300'
+    id_type: Tax ID No.
+    id_number: '5042116461'
+    id_country: Russia
+  - uid: '146060'
+    id_type: Organization Established Date
+    id_number: 30 Dec 2010
+  - uid: '175171'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: PROMSVYAZBANK PUBLIC JOINT STOCK COMPANY)"

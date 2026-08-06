@@ -1,0 +1,53 @@
+---
+uid: '44879'
+last_name: LIMITED LIABILITY COMPANY MACHINE BUILDING PLANT TONAR
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '69757'
+    type: a.k.a.
+    category: strong
+    last_name: OOO MZ TONAR
+  - uid: '69758'
+    type: a.k.a.
+    category: strong
+    last_name: MZ TONAR
+  - uid: '69759'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY PRODUCTION AND COMMERCIAL FIRM TONAR
+address_list:
+  items:
+  - uid: '67056'
+    address1: Ul. 1-Aya Leninskaya D. 76 A
+    city: Srednyaya Matrenka
+    postal_code: '142635'
+    country: Russia
+id_list:
+  items:
+  - uid: '34735'
+    id_type: Tax ID No.
+    id_number: '5034016022'
+    id_country: Russia
+  - uid: '34736'
+    id_type: Government Gazette Number
+    id_number: '48806669'
+    id_country: Russia
+  - uid: '34737'
+    id_type: Registration Number
+    id_number: '1025007458200'
+    id_country: Russia
+  - uid: '175835'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184376'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '165369'
+    id_type: Organization Established Date
+    id_number: 30 Nov 1990

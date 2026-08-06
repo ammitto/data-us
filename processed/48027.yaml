@@ -1,0 +1,41 @@
+---
+uid: '48027'
+last_name: LIMITED LIABILITY COMPANY INZHENERNO TEKHNOLOGICHESKI TSENTR ATM
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74542'
+    type: a.k.a.
+    category: strong
+    last_name: INZHENERNO TEKHNOLOGICHESKII CENTER ATM OOO
+  - uid: '74543'
+    type: a.k.a.
+    category: strong
+    last_name: ETC ATM LIMITED
+  - uid: '74544'
+    type: a.k.a.
+    category: strong
+    last_name: LLC ITTS ATM
+address_list:
+  items:
+  - uid: '71985'
+    address1: ofis 310 vladenie 5A str. 1, shosse Volkovskoe
+    city: Mytishchi
+    postal_code: '141006'
+    country: Russia
+id_list:
+  items:
+  - uid: '38910'
+    id_type: Registration Number
+    id_number: '1089847039590'
+    id_country: Russia
+  - uid: '38911'
+    id_type: Tax ID No.
+    id_number: '7810504175'
+    id_country: Russia
+  - uid: '169668'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,57 @@
+---
+uid: '40220'
+first_name: Abdulwahab Noor
+last_name: ABDI
+sdn_type: Individual
+program_list:
+  programs:
+  - SOMALIA
+aka_list:
+  items:
+  - uid: '62537'
+    type: a.k.a.
+    category: strong
+    last_name: ABDI
+    first_name: Abduwahab Nur
+  - uid: '62538'
+    type: a.k.a.
+    category: strong
+    last_name: ABDI
+    first_name: Abdlwahab Noor
+address_list:
+  items:
+  - uid: '59936'
+    address1: Nasser Square
+    city: Dubai
+    country: United Arab Emirates
+  - uid: '59937'
+    address1: Musheer Building
+    address2: Flat 202
+    address3: Al Rumailah
+    city: Ajman
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '29398'
+    id_type: Identification Number
+    id_number: '784197051728729'
+    id_country: United Arab Emirates
+  - uid: '29399'
+    id_type: Passport
+    id_number: EP3446365
+    id_country: Ethiopia
+    issue_date: 10 Dec 2014
+    expiration_date: '09 Dec 2019'
+  - uid: '157154'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '57155'
+    date_of_birth: 01 Jan 1970
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '57156'
+    place_of_birth: Filtu, Ethiopia
+    main_entry: 'true'

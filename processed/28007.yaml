@@ -1,0 +1,36 @@
+---
+uid: '28007'
+last_name: SERVICIO DE PROTECCION Y VIGILANCIA S.A.
+sdn_type: Entity
+program_list:
+  programs:
+  - NICARAGUA
+aka_list:
+  items:
+  - uid: '44117'
+    type: a.k.a.
+    category: weak
+    last_name: EL GOLIAT
+address_list:
+  items:
+  - uid: '42359'
+    address1: De Los Semaforos De Seminole
+    address2: 3 Cuadras al Sur
+    address3: '2 Cuadras Arriba, 1 Cuadra al Sur, Casa #326'
+    city: Managua
+    country: Nicaragua
+id_list:
+  items:
+  - uid: '18496'
+    id_type: 'RUC #'
+    id_number: J0310000119627
+    id_country: Nicaragua
+  - uid: '133314'
+    id_type: Website
+    id_number: www.elgoliat.com.ni/
+  - uid: '133312'
+    id_type: Email Address
+    id_number: ventas1@elgoliat.com.ni
+  - uid: '133313'
+    id_type: Email Address
+    id_number: facturacion@elgoliat.com.ni

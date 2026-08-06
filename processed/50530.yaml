@@ -1,0 +1,32 @@
+---
+uid: '50530'
+first_name: Miguel Antonio
+last_name: MUNOZ PALACIOS
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+address_list:
+  items:
+  - uid: '76688'
+    city: Caracas
+    country: Venezuela
+id_list:
+  items:
+  - uid: '42399'
+    id_type: Cedula No.
+    id_number: '6186648'
+    id_country: Venezuela
+  - uid: '178804'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '78802'
+    date_of_birth: 12 Jul 1964
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '78803'
+    place_of_birth: Caracas, Venezuela
+    main_entry: 'true'

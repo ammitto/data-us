@@ -1,0 +1,35 @@
+---
+uid: '45924'
+first_name: Ivan Vladimirovich
+last_name: TAVRIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '69849'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '35676'
+    id_type: Tax ID No.
+    id_number: '772738304882'
+    id_country: Russia
+  - uid: '166599'
+    id_type: Gender
+    id_number: Male
+  - uid: '176096'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '66597'
+    date_of_birth: 01 Nov 1976
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '66598'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'

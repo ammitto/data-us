@@ -1,0 +1,42 @@
+---
+uid: '35747'
+first_name: Aleksander Aleksandrovich
+last_name: MIKHEEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56131'
+    type: a.k.a.
+    category: strong
+    last_name: MIKHEEV
+    first_name: Alexander A.
+  - uid: '56132'
+    type: a.k.a.
+    category: strong
+    last_name: MIKHEYEV
+    first_name: Alexander
+address_list:
+  items:
+  - uid: '53605'
+    country: Russia
+id_list:
+  items:
+  - uid: '148759'
+    id_type: Gender
+    id_number: Male
+  - uid: '173225'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '48756'
+    date_of_birth: 18 Nov 1961
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '48757'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'

@@ -1,0 +1,36 @@
+---
+uid: '57348'
+first_name: Jaime Augusto
+last_name: BARRIENTOS CAMAZ
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '87880'
+    city: Villa Canales
+    country: Guatemala
+id_list:
+  items:
+  - uid: '51659'
+    id_type: 'NIT #'
+    id_number: '87457121'
+    id_country: Guatemala
+  - uid: '51660'
+    id_type: License
+    id_number: '2415491320101'
+    id_country: Guatemala
+  - uid: '197279'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '97277'
+    date_of_birth: 07 Mar 1994
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '97278'
+    place_of_birth: Guatemala
+    main_entry: 'true'

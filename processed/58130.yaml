@@ -1,0 +1,48 @@
+---
+uid: '58130'
+last_name: NIKA JET COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+address_list:
+  items:
+  - uid: '89297'
+    address1: Ground Floor, Falsafi Building, No. 1190, Dr. Ali Shariati St. Falsafi
+      Alley, Davoodiyeh
+    city: Tehran
+    postal_code: '1913633593'
+    country: Iran
+  - uid: '89298'
+    address1: Office 102, Floor 10, Almas Tower, Pesiyan St., Moqaddas Ardebili St.,
+      Zaferaniyeh
+    city: Tehran
+    country: Iran
+  - uid: '89299'
+    address1: Floor 3, No. 370, Mirdamad Boulevard, First Alley, Davoudiyeh
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '52718'
+    id_type: National ID No.
+    id_number: '14005551194'
+    id_country: Iran
+  - uid: '52719'
+    id_type: Registration Number
+    id_number: '485863'
+    id_country: Iran
+  - uid: '199646'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '199602'
+    id_type: Website
+    id_number: http://nikajet.com
+  - uid: '199601'
+    id_type: Organization Established Date
+    id_number: 18 Jan 2016
+  - uid: '199681'
+    id_type: 'Organization Type:'
+    id_number: Manufacture of air and spacecraft and related machinery
+remarks: "(Linked To: NAMAZI, Behrouz)"

@@ -1,0 +1,41 @@
+---
+uid: '34491'
+first_name: Roger Antulio
+last_name: SAMAYOA MONTEJO
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '54021'
+    type: a.k.a.
+    category: weak
+    last_name: TULI
+address_list:
+  items:
+  - uid: '51682'
+    country: Guatemala
+id_list:
+  items:
+  - uid: '24114'
+    id_type: C.U.I.
+    id_number: '2344272801331'
+    id_country: Guatemala
+  - uid: '24115'
+    id_type: 'NIT #'
+    id_number: '72405902'
+    id_country: Guatemala
+  - uid: '145880'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '45879'
+    date_of_birth: 07 Oct 1989
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '45881'
+    place_of_birth: Guatemala
+    main_entry: 'true'

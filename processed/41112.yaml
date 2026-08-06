@@ -1,0 +1,50 @@
+---
+uid: '41112'
+first_name: Anton Andreyevich
+last_name: CHEREPENNIKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '64119'
+    type: a.k.a.
+    category: strong
+    last_name: CHEREPENNIKOV
+    first_name: Anton Andreevich
+address_list:
+  items:
+  - uid: '61454'
+    address1: 23-41 Bakuninskaya Street Apt. 100
+    city: Moscow
+    postal_code: '105082'
+    country: Russia
+id_list:
+  items:
+  - uid: '30449'
+    id_type: Tax ID No.
+    id_number: '770106425720'
+    id_country: Russia
+  - uid: '30450'
+    id_type: Passport
+    id_number: '719941129'
+    id_country: Russia
+    expiration_date: 28 Jun 2022
+  - uid: '173642'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '159088'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '59085'
+    date_of_birth: 07 May 1983
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '59086'
+    place_of_birth: Russia
+    main_entry: 'true'
+remarks: "(Linked To: LIMITED LIABILITY COMPANY CITADEL)"

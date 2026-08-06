@@ -1,0 +1,31 @@
+---
+uid: '57955'
+last_name: ALMACENES UNIVERSALES S.A.
+sdn_type: Entity
+program_list:
+  programs:
+  - CUBA-EO14404
+address_list:
+  items:
+  - uid: '88928'
+    address1: Fabrica No. 54 e/ Aspuru y Linea del Ferrocarril
+    address2: Habana Vieja
+    city: Havana
+    country: Cuba
+id_list:
+  items:
+  - uid: '52528'
+    id_type: Tax ID No.
+    id_number: 11.791.301/0001-05
+    id_country: Brazil
+  - uid: '52529'
+    id_type: Entity Code
+    id_number: '60297'
+    id_country: Cuba
+  - uid: '198764'
+    id_type: Organization Established Date
+    id_number: 28 Jan 1994
+  - uid: '198780'
+    id_type: 'Organization Type:'
+    id_number: Cargo handling
+remarks: "(Linked To: GRUPO DE ADMINISTRACION EMPRESARIAL S.A.)"

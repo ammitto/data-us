@@ -1,0 +1,54 @@
+---
+uid: '15955'
+last_name: SHAHID TONDGOYAN PETROCHEMICAL COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+  - IRAN
+aka_list:
+  items:
+  - uid: '23993'
+    type: a.k.a.
+    category: strong
+    last_name: SHAHID TONDGUYAN PETROCHEMICAL COMPANY
+  - uid: '42416'
+    type: a.k.a.
+    category: strong
+    last_name: SHAHID TANDGOOYAN PETROCHEMICAL CO.
+  - uid: '42417'
+    type: a.k.a.
+    category: weak
+    last_name: STPC
+  - uid: '42429'
+    type: a.k.a.
+    category: strong
+    last_name: SHAHID TONDGOOYAN PETROCHEMICAL CO.
+address_list:
+  items:
+  - uid: '23978'
+    address1: Petrochemical Special Economic Zone (PETZONE)
+    country: Iran
+  - uid: '40752'
+    address1: Valiasr Street, Above Vanak Square, Shahid Daman Afshar, Plain No. 50
+    city: Tehran
+    postal_code: '1969753111'
+    country: Iran
+  - uid: '40753'
+    address1: Khuzestan Imam Khomeini Port Special Economic Zone, 4th Shahid Tondgoyan
+      Petrochemical Company
+    postal_code: '6356174196'
+    country: Iran
+  - uid: '40754'
+    address1: P.O. Box 333
+    country: Iran
+id_list:
+  items:
+  - uid: '131630'
+    id_type: Website
+    id_number: www.stpc.ir
+  - uid: '119057'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: PERSIAN GULF PETROCHEMICAL INDUSTRY CO.)"

@@ -1,0 +1,52 @@
+---
+uid: '31971'
+first_name: Yusuf
+last_name: AL-MADANI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '50130'
+    type: a.k.a.
+    category: strong
+    last_name: AL-MADANI
+    first_name: Yusif
+  - uid: '50131'
+    type: a.k.a.
+    category: strong
+    last_name: AL-MADANI
+    first_name: Youssef
+  - uid: '50132'
+    type: a.k.a.
+    category: strong
+    last_name: AL-MADANI
+    first_name: Yousef Ahssan Ismail
+  - uid: '50133'
+    type: a.k.a.
+    category: weak
+    last_name: ABU HUSAYN
+address_list:
+  items:
+  - uid: '48103'
+    country: Yemen
+id_list:
+  items:
+  - uid: '187329'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '140702'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '40700'
+    date_of_birth: '1977'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '40701'
+    place_of_birth: Muhatta Directorate, Hajjah Province, Yemen
+    main_entry: 'true'

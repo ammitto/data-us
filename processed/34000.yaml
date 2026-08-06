@@ -1,0 +1,44 @@
+---
+uid: '34000'
+first_name: Fatima del Rocio
+last_name: MALDONADO LOPEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - TCO
+address_list:
+  items:
+  - uid: '50978'
+    address1: C 3A Oriente 82 A
+    city: Tapachula
+    state_or_province: Chiapas
+    postal_code: '30700'
+    country: Mexico
+id_list:
+  items:
+  - uid: '23659'
+    id_type: C.U.R.P.
+    id_number: MALF900323MCSLPT04
+    id_country: Mexico
+  - uid: '23661'
+    id_type: I.F.E.
+    id_number: MLLPFT90032307M700
+    id_country: Mexico
+  - uid: '23662'
+    id_type: Passport
+    id_number: G40605411
+    id_country: Mexico
+  - uid: '145083'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '45082'
+    date_of_birth: 23 Mar 1990
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '63287'
+    place_of_birth: Chiapas, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: HERNANDEZ SALAS TRANSNATIONAL CRIMINAL ORGANIZATION)"

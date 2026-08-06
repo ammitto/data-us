@@ -1,0 +1,36 @@
+---
+uid: '39680'
+first_name: Morteza
+last_name: PIRI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+address_list:
+  items:
+  - uid: '59123'
+    city: Zahedan
+    country: Iran
+id_list:
+  items:
+  - uid: '28822'
+    id_type: National ID No.
+    id_number: '4072307122'
+    id_country: Iran
+  - uid: '156020'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '156021'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '56088'
+    date_of_birth: 05 Jul 1977
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '56023'
+    place_of_birth: Zabol, Sistan and Baluchistan Province, Iran
+    main_entry: 'true'
+title: Warden of Zahedan Central Prison

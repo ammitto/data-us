@@ -1,0 +1,44 @@
+---
+uid: '26953'
+last_name: BALOCHISTAN LIBERATION ARMY
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+  - FTO
+aka_list:
+  items:
+  - uid: '42631'
+    type: a.k.a.
+    category: strong
+    last_name: BALOCH LIBERATION ARMY
+  - uid: '42632'
+    type: a.k.a.
+    category: weak
+    last_name: BLA
+  - uid: '85731'
+    type: a.k.a.
+    category: strong
+    last_name: MAJEED BRIGADE
+  - uid: '85732'
+    type: a.k.a.
+    category: weak
+    last_name: FATEH SQUAD
+  - uid: '85733'
+    type: a.k.a.
+    category: strong
+    last_name: ZEPHYR INTELLIGENCE RESEARCH AND ANALYSIS BUREAU
+address_list:
+  items:
+  - uid: '40963'
+    state_or_province: Balochistan
+    country: Pakistan
+id_list:
+  items:
+  - uid: '186903'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '192339'
+    id_type: Organization Established Date
+    id_number: '2000'

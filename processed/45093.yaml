@@ -1,0 +1,47 @@
+---
+uid: '45093'
+first_name: Gholamali
+last_name: MOHAMMADI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+aka_list:
+  items:
+  - uid: '69885'
+    type: a.k.a.
+    category: strong
+    last_name: MOHAMMADI
+    first_name: Golamali
+  - uid: '69896'
+    type: a.k.a.
+    category: strong
+    last_name: MOHAMMADI
+    first_name: Gholam'ali
+address_list:
+  items:
+  - uid: '67210'
+    country: Iran
+id_list:
+  items:
+  - uid: '34843'
+    id_type: National ID No.
+    id_number: '0049770926'
+    id_country: Iran
+  - uid: '165518'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '165516'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '65535'
+    date_of_birth: 22 Jun 1963
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '65515'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'
+title: Head of Iran's Prisons Organization

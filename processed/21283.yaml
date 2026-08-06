@@ -1,0 +1,68 @@
+---
+uid: '21283'
+first_name: Muhammad
+last_name: SARWAR
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '33732'
+    type: a.k.a.
+    category: weak
+    last_name: ABU HASHIM
+  - uid: '33733'
+    type: a.k.a.
+    category: strong
+    last_name: HASHIM
+    first_name: Abdul
+  - uid: '33734'
+    type: a.k.a.
+    category: strong
+    last_name: HASHIM
+    first_name: Abul
+  - uid: '33735'
+    type: a.k.a.
+    category: weak
+    last_name: ABU UL-HASHIM
+  - uid: '33736'
+    type: a.k.a.
+    category: strong
+    last_name: RABBANI
+    first_name: Abul Hashim
+  - uid: '33737'
+    type: a.k.a.
+    category: weak
+    last_name: ABU ALI HASHIM
+address_list:
+  items:
+  - uid: '32368'
+    city: Lahore
+    country: Pakistan
+id_list:
+  items:
+  - uid: '13335'
+    id_type: Passport
+    id_number: AK5995921
+    id_country: Pakistan
+    issue_date: 24 Mar 2007
+    expiration_date: 22 Mar 2012
+  - uid: '122111'
+    id_type: Gender
+    id_number: Male
+  - uid: '186590'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '22112'
+    date_of_birth: 01 Jan 1966 to 31 Dec 1968
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '22113'
+    place_of_birth: Sheikhupura, Pakistan
+    main_entry: 'true'
+remarks: "(Linked To: LASHKAR E-TAYYIBA)"

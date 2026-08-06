@@ -1,0 +1,42 @@
+---
+uid: '22609'
+first_name: Hong Ri
+last_name: LI
+sdn_type: Individual
+program_list:
+  programs:
+  - DPRK3
+aka_list:
+  items:
+  - uid: '35643'
+    type: a.k.a.
+    category: strong
+    last_name: RI
+    first_name: Hong-il
+  - uid: '35651'
+    type: a.k.a.
+    category: strong
+    last_name: LI
+    first_name: Hongri
+address_list:
+  items:
+  - uid: '34205'
+    country: China
+id_list:
+  items:
+  - uid: '124083'
+    id_type: Gender
+    id_number: Male
+  - uid: '127237'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '135099'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+date_of_birth_list:
+  items:
+  - uid: '24074'
+    date_of_birth: 05 Jul 1964
+    main_entry: 'true'
+remarks: "(Linked To: RI, Song-hyok)"

@@ -1,0 +1,39 @@
+---
+uid: '47681'
+last_name: JSC SUEK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '73888'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO SIBIRSKAYA UGOLNAYA ENERGETICHESKAYA KOMPANIYA
+address_list:
+  items:
+  - uid: '71276'
+    address1: d. 53 str. 7
+    address2: ul. Dubininskaya
+    city: Moscow
+    postal_code: '115054'
+    country: Russia
+id_list:
+  items:
+  - uid: '38300'
+    id_type: Registration Number
+    id_number: '1027700151380'
+    id_country: Russia
+  - uid: '38301'
+    id_type: Tax ID No.
+    id_number: '7708129854'
+    id_country: Russia
+  - uid: '176419'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184501'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

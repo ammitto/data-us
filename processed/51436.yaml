@@ -1,0 +1,36 @@
+---
+uid: '51436'
+last_name: AO SPETSIALIZIROVANNYI DEPOZITARII INFINITUM
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80657'
+    type: a.k.a.
+    category: strong
+    last_name: INFINITUM ASSET SERVICES
+address_list:
+  items:
+  - uid: '78351'
+    address1: Ul. Shabolovka D. 31, B
+    city: Moscow
+    postal_code: '115162'
+    country: Russia
+id_list:
+  items:
+  - uid: '43763'
+    id_type: Registration Number
+    id_number: '1027739039283'
+    id_country: Russia
+  - uid: '43764'
+    id_type: Tax ID No.
+    id_number: '7705380065'
+    id_country: Russia
+  - uid: '180950'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '182803'
+    id_type: Target Type
+    id_number: Financial Institution

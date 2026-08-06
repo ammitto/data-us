@@ -1,0 +1,57 @@
+---
+uid: '29071'
+first_name: Rania
+last_name: ALDABBAS
+sdn_type: Individual
+program_list:
+  programs:
+  - PAARSSR-EO13894
+aka_list:
+  items:
+  - uid: '45712'
+    type: a.k.a.
+    category: strong
+    last_name: AL DABBAS
+    first_name: Rania Raslan
+  - uid: '45713'
+    type: a.k.a.
+    category: strong
+    last_name: DABAS
+    first_name: Rania Raslan
+  - uid: '45715'
+    type: a.k.a.
+    category: strong
+    last_name: DABBAS
+    first_name: Rania Raslan
+  - uid: '45716'
+    type: a.k.a.
+    category: strong
+    last_name: AL DABAS
+    first_name: Rania Raslan
+address_list:
+  items:
+  - uid: '43942'
+    city: Damascus
+    country: Syria
+  - uid: '43943'
+    city: Dubai
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '19334'
+    id_type: Passport
+    id_number: N003000785
+    id_country: Syria
+  - uid: '135692'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '35696'
+    date_of_birth: 02 Jun 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '35697'
+    place_of_birth: Damascus, Syria
+    main_entry: 'true'

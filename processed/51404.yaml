@@ -1,0 +1,38 @@
+---
+uid: '51404'
+last_name: LAKE FOREST SP Z O O
+sdn_type: Entity
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '80606'
+    type: a.k.a.
+    category: strong
+    last_name: LAKE FOREST SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA
+address_list:
+  items:
+  - uid: '78284'
+    address1: Ul. Solec 18
+    address2: b21
+    city: Warsaw
+    postal_code: 00-410
+    country: Poland
+id_list:
+  items:
+  - uid: '43727'
+    id_type: Registration Number
+    id_number: '367279905'
+    id_country: Poland
+  - uid: '43728'
+    id_type: Tax ID No.
+    id_number: '5272808753'
+    id_country: Poland
+  - uid: '180873'
+    id_type: Organization Established Date
+    id_number: 12 May 2017
+  - uid: '180874'
+    id_type: 'Organization Type:'
+    id_number: Wholesale and retail trade
+remarks: "(Linked To: KARPAVICIUS, Rokas)"

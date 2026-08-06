@@ -1,0 +1,36 @@
+---
+uid: '7164'
+first_name: Manuel
+last_name: AGUIRRE GALINDO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '5338'
+    address1: c/o COMPLEJO TURISTICO OASIS, S.A. DE C.V.
+    city: Rosarito
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '13029'
+    address1: c/o INMOBILIARIA ESPARTA S.A. DE C.V.
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+id_list:
+  items:
+  - uid: '1540'
+    id_type: R.F.C.
+    id_number: AUGM-501102-PM3
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '1325'
+    date_of_birth: 02 Nov 1950
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '5035'
+    place_of_birth: Tijuana, Baja California, Mexico
+    main_entry: 'true'

@@ -1,0 +1,46 @@
+---
+uid: '45817'
+first_name: Andrei Anatolyevich
+last_name: EFREMOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70794'
+    type: a.k.a.
+    category: strong
+    last_name: EFREMOV
+    first_name: Andrey
+address_list:
+  items:
+  - uid: '68209'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '35572'
+    id_type: Tax ID No.
+    id_number: '772642282067'
+    id_country: Russia
+  - uid: '35597'
+    id_type: Passport
+    id_number: '530144516'
+    id_country: Russia
+  - uid: '172959'
+    id_type: Gender
+    id_number: Male
+  - uid: '170576'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '66474'
+    date_of_birth: 06 Sep 1978
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '66475'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'

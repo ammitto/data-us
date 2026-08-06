@@ -1,0 +1,44 @@
+---
+uid: '30410'
+last_name: TALOON COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13876
+aka_list:
+  items:
+  - uid: '47788'
+    type: a.k.a.
+    category: strong
+    last_name: TALOON CO.
+  - uid: '47789'
+    type: a.k.a.
+    category: strong
+    last_name: TALLON COMPANY
+address_list:
+  items:
+  - uid: '45995'
+    address1: Third Floor, No. 204, West Payambar Street, South Shain Boulevard
+    country: Iran
+  - uid: '45996'
+    address1: No. 21, Azarshob Alley, Intersection Hemat, South Janat Abad
+    city: Tehran
+    postal_code: '1473836483'
+    country: Iran
+id_list:
+  items:
+  - uid: '20557'
+    id_type: Registration Number
+    id_number: '132687'
+    id_country: Iran
+  - uid: '20558'
+    id_type: National ID No.
+    id_number: '10101759649'
+    id_country: Iran
+  - uid: '138051'
+    id_type: Website
+    id_number: www.taloon.ir
+  - uid: '138050'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: ISLAMIC REVOLUTION MOSTAZAFAN FOUNDATION)"

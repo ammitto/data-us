@@ -1,0 +1,33 @@
+---
+uid: '44856'
+first_name: Gabriel
+last_name: TEMIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '66748'
+    country: France
+  - uid: '67182'
+    country: Finland
+id_list:
+  items:
+  - uid: '165081'
+    id_type: Gender
+    id_number: Male
+  - uid: '173817'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '65079'
+    date_of_birth: '09 Feb 1980'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '65080'
+    place_of_birth: Tallinn, Estonia
+    main_entry: 'true'
+remarks: "(Linked To: SIBERICA OY)"

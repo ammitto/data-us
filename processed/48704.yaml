@@ -1,0 +1,34 @@
+---
+uid: '48704'
+first_name: Ruslan Viktorovich
+last_name: LABIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '73183'
+    address1: Avenue Dolez 243
+    city: Uccle
+    postal_code: '1180'
+    country: Belgium
+  - uid: '73184'
+    country: Russia
+id_list:
+  items:
+  - uid: '39718'
+    id_type: Tax ID No.
+    id_number: '773576249965'
+    id_country: Russia
+  - uid: '171114'
+    id_type: Gender
+    id_number: Male
+  - uid: '171662'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '71113'
+    date_of_birth: 28 Dec 1988
+    main_entry: 'true'

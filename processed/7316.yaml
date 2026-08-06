@@ -1,0 +1,29 @@
+---
+uid: '7316'
+first_name: Maria Helena
+last_name: RUIZ CASTANO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNT
+address_list:
+  items:
+  - uid: '5709'
+    address1: c/o LADRILLERA LA CANDELARIA LTDA.
+    city: Cali
+    country: Colombia
+id_list:
+  items:
+  - uid: '1648'
+    id_type: Cedula No.
+    id_number: '66901635'
+    id_country: Colombia
+  - uid: '1649'
+    id_type: Passport
+    id_number: '66901635'
+    id_country: Colombia
+date_of_birth_list:
+  items:
+  - uid: '1507'
+    date_of_birth: 17 Nov 1970
+    main_entry: 'true'

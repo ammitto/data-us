@@ -1,0 +1,51 @@
+---
+uid: '12111'
+last_name: IRANIAN MINISTRY OF INTELLIGENCE AND SECURITY
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+  - IRAN-HR
+  - HRIT-IR
+  - IFSR
+  - CYBER2
+  - HOSTAGES-EO14078
+aka_list:
+  items:
+  - uid: '12985'
+    type: a.k.a.
+    category: weak
+    last_name: MOIS
+  - uid: '12986'
+    type: a.k.a.
+    category: strong
+    last_name: VEZARAT-E ETTELA'AT VA AMNIAT-E KESHVAR
+  - uid: '12987'
+    type: a.k.a.
+    category: weak
+    last_name: VEVAK
+address_list:
+  items:
+  - uid: '18463'
+    address1: bounded roughly by Sanati Street on the west, 30th Street on the south,
+      and Iraqi Street on the east
+    city: Tehran
+    country: Iran
+  - uid: '20863'
+    address1: Ministry of Intelligence
+    address2: Second Negarestan Street
+    address3: Pasdaran Avenue
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '188882'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '154767'
+    id_type: Target Type
+    id_number: Government Entity
+  - uid: '113950'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

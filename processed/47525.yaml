@@ -1,0 +1,36 @@
+---
+uid: '47525'
+last_name: 3D.RU
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73572'
+    type: a.k.a.
+    category: strong
+    last_name: ZD.RU
+address_list:
+  items:
+  - uid: '70951'
+    address1: Ul. Silikatnaya Vld. 51A, K. 1, Pomeshch. 45
+    city: Mytishchi
+    postal_code: '141013'
+    country: Russia
+id_list:
+  items:
+  - uid: '38020'
+    id_type: Registration Number
+    id_number: '1135029006947'
+    id_country: Russia
+  - uid: '38021'
+    id_type: Tax ID No.
+    id_number: '5029176567'
+    id_country: Russia
+  - uid: '169752'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '170071'
+    id_type: 'Organization Type:'
+    id_number: Manufacture of plastics products

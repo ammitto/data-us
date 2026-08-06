@@ -1,0 +1,48 @@
+---
+uid: '47834'
+first_name: Alla Viktorovna
+last_name: BARKHATNOVA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74208'
+    type: a.k.a.
+    category: strong
+    last_name: BARKHATNOVA
+    first_name: Alla Viktorivna
+address_list:
+  items:
+  - uid: '71600'
+    address1: Apt. 118, 57 Solidarnosti Street
+    city: Druzhkovka
+    state_or_province: Donetsk Region
+    country: Ukraine
+id_list:
+  items:
+  - uid: '38555'
+    id_type: Tax ID No.
+    id_number: '572008616682'
+    id_country: Russia
+  - uid: '38556'
+    id_type: Tax ID No.
+    id_number: '2693114646'
+    id_country: Ukraine
+  - uid: '176479'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '169351'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '69348'
+    date_of_birth: 25 Sep 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '69349'
+    place_of_birth: Kalinino, Oryol Region, Russia
+    main_entry: 'true'

@@ -1,0 +1,33 @@
+---
+uid: '57921'
+last_name: UNION CUBA PETROLEO
+sdn_type: Entity
+program_list:
+  programs:
+  - CUBA-EO14404
+aka_list:
+  items:
+  - uid: '89577'
+    type: a.k.a.
+    category: strong
+    last_name: CUPET
+address_list:
+  items:
+  - uid: '88874'
+    address1: Avenida Salvador Allende No. 666
+    address2: Entre Oquendo y Soledad
+    city: Havana
+    postal_code: '10300'
+    country: Cuba
+id_list:
+  items:
+  - uid: '52439'
+    id_type: Entity Code
+    id_number: '2605'
+    id_country: Cuba
+  - uid: '198708'
+    id_type: Organization Established Date
+    id_number: 25 Mar 1992
+  - uid: '198725'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

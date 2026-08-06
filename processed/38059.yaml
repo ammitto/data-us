@@ -1,0 +1,41 @@
+---
+uid: '38059'
+last_name: LIMITED LIABILITY COMPANY RB-ESTEIT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59781'
+    type: a.k.a.
+    category: strong
+    last_name: RB-ESTEIT OOO
+address_list:
+  items:
+  - uid: '57078'
+    address1: ul. Akademika Zhukova d. 25A
+    address2: et/pom/of 4/17/404
+    city: Dzerzhinskiy
+    postal_code: '140090'
+    country: Russia
+id_list:
+  items:
+  - uid: '27378'
+    id_type: Registration Number
+    id_number: '1185027032794'
+    id_country: Russia
+  - uid: '27379'
+    id_type: Tax ID No.
+    id_number: '5027271906'
+    id_country: Russia
+  - uid: '176890'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '153364'
+    id_type: 'Organization Type:'
+    id_number: Real estate activities with own or leased property
+  - uid: '153363'
+    id_type: Organization Established Date
+    id_number: 28 Dec 2018
+remarks: "(Linked To: LIMITED LIABILITY COMPANY BONUM INVESTMENTS)"

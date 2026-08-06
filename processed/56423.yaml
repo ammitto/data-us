@@ -1,0 +1,32 @@
+---
+uid: '56423'
+last_name: LOIRE SHIPPING INC.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+  - IFSR
+address_list:
+  items:
+  - uid: '86421'
+    address1: 50th Street, Global Plaza Building
+    address2: 20th Floor, Office E
+    city: Panama City
+    country: Panama
+id_list:
+  items:
+  - uid: '50494'
+    id_type: Folio Mercantil No.
+    id_number: '155688469'
+    id_country: Panama
+  - uid: '50499'
+    id_type: Identification Number
+    id_number: IMO 6137379
+  - uid: '194771'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '194770'
+    id_type: Organization Established Date
+    id_number: 29 Nov 2019
+remarks: "(Linked To: SEPEHR ENERGY JAHAN NAMA PARS COMPANY)"

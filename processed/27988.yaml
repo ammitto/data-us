@@ -1,0 +1,40 @@
+---
+uid: '27988'
+first_name: Taotao
+last_name: ZHANG
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '42323'
+    address1: Room 1611B, 16/F
+    address2: Ho King Commercial Centre
+    address3: 2-16 FA Yuen Street, MongKok
+    city: Kowloon
+    country: Hong Kong
+  - uid: '42324'
+    address1: Rm. 1705, No. 158
+    address2: Zhangyang Road, Pudong
+    city: Shanghai
+    country: China
+id_list:
+  items:
+  - uid: '18477'
+    id_type: National ID No.
+    id_number: 32030419880214363X
+    id_country: China
+  - uid: '133285'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '33286'
+    date_of_birth: 14 Feb 1988
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '33288'
+    place_of_birth: China
+    main_entry: 'true'

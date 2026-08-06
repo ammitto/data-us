@@ -1,0 +1,32 @@
+---
+uid: '41512'
+last_name: GKR UK OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '61986'
+    address1: ul. Selskokhozyaistvennaya d. 26
+    address2: str. 6, floor/pomeshch. 2/II, kom. 7
+    city: Moscow
+    postal_code: '129226'
+    country: Russia
+id_list:
+  items:
+  - uid: '30856'
+    id_type: Registration Number
+    id_number: '1217700485122'
+    id_country: Russia
+  - uid: '30857'
+    id_type: Tax ID No.
+    id_number: '9717106688'
+    id_country: Russia
+  - uid: '173685'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '159635'
+    id_type: Organization Established Date
+    id_number: 12 Oct 2021
+remarks: "(Linked To: VINER, Natan Adadievich)"

@@ -1,0 +1,29 @@
+---
+uid: '7803'
+first_name: Dusan
+last_name: TADIC
+sdn_type: Individual
+program_list:
+  programs:
+  - BALKANS
+aka_list:
+  items:
+  - uid: '5612'
+    type: a.k.a.
+    category: weak
+    last_name: DULE
+  - uid: '12260'
+    type: a.k.a.
+    category: weak
+    last_name: DUSKO
+date_of_birth_list:
+  items:
+  - uid: '1985'
+    date_of_birth: '1956'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '1986'
+    place_of_birth: Cajnice, Bosnia-Herzegovina
+    main_entry: 'true'
+remarks: ICTY indictee

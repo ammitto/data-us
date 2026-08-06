@@ -1,0 +1,31 @@
+---
+uid: '51218'
+first_name: Orlando Ramon
+last_name: ROMERO BOLIVAR
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+address_list:
+  items:
+  - uid: '77982'
+    country: Venezuela
+id_list:
+  items:
+  - uid: '43587'
+    id_type: Cedula No.
+    id_number: V8777449
+    id_country: Venezuela
+  - uid: '180381'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '80378'
+    date_of_birth: 18 Sep 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '80379'
+    place_of_birth: Venezuela
+    main_entry: 'true'

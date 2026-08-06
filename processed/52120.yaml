@@ -1,0 +1,49 @@
+---
+uid: '52120'
+last_name: DV INK LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK4
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '81627'
+    type: a.k.a.
+    category: strong
+    last_name: DV INK LLC
+  - uid: '81628'
+    type: a.k.a.
+    category: strong
+    last_name: DV INK OOO
+address_list:
+  items:
+  - uid: '79537'
+    address1: D. 41A Kv. 117, ul. Leningradsksaya
+    city: Ussuriysk
+    state_or_province: Primorsky region
+    postal_code: '692512'
+    country: Russia
+id_list:
+  items:
+  - uid: '45000'
+    id_type: Registration Number
+    id_number: '1182536014924'
+    id_country: Russia
+  - uid: '45001'
+    id_type: Tax ID No.
+    id_number: '2511105487'
+    id_country: Russia
+  - uid: '183012'
+    id_type: Organization Established Date
+    id_number: 11 May 2018
+  - uid: '183014'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '183015'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183013'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214

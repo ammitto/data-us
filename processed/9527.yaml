@@ -1,0 +1,44 @@
+---
+uid: '9527'
+last_name: KOREA RYONHA MACHINERY JOINT VENTURE CORPORATION
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+aka_list:
+  items:
+  - uid: '8907'
+    type: a.k.a.
+    category: strong
+    last_name: CHOSUN YUNHA MACHINERY JOINT OPERATION COMPANY
+  - uid: '8908'
+    type: a.k.a.
+    category: strong
+    last_name: KOREA RYENHA MACHINERY J/V CORPORATION
+  - uid: '8909'
+    type: a.k.a.
+    category: strong
+    last_name: RYONHA MACHINERY JOINT VENTURE CORPORATION
+address_list:
+  items:
+  - uid: '11845'
+    address1: Mangungdae-gu
+    city: Pyongyang
+    country: Korea, North
+  - uid: '11846'
+    address1: Mangyongdae District
+    city: Pyongyang
+    country: Korea, North
+  - uid: '11847'
+    address1: Central District
+    city: Pyongyang
+    country: Korea, North
+id_list:
+  items:
+  - uid: '127709'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '134909'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214

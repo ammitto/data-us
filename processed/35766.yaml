@@ -1,0 +1,54 @@
+---
+uid: '35766'
+first_name: Tatiana Aleksandrovna
+last_name: NAVKA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56186'
+    type: a.k.a.
+    category: strong
+    last_name: NAVKA
+    first_name: Tatyana
+address_list:
+  items:
+  - uid: '53644'
+    address1: 13-3-22 Bolshaya Yakimanka
+    city: Moscow
+    postal_code: '119180'
+    country: Russia
+  - uid: '53645'
+    city: Polyanka
+    country: Russia
+  - uid: '53646'
+    city: Tretya Okhota
+    country: Russia
+  - uid: '53647'
+    city: Rublyovka
+    country: Russia
+  - uid: '53648'
+    city: Yalta
+    state_or_province: Crimea
+    country: Ukraine
+id_list:
+  items:
+  - uid: '148830'
+    id_type: Gender
+    id_number: Female
+  - uid: '173232'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '48832'
+    date_of_birth: 13 Apr 1975
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '48833'
+    place_of_birth: Dnipropetrovsk, Ukraine
+    main_entry: 'true'
+remarks: "(Linked To: PESKOV, Dmitriy Sergeevich)"

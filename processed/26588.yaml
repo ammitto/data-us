@@ -1,0 +1,30 @@
+---
+uid: '26588'
+last_name: BANCO BANDES URUGUAY S.A.
+sdn_type: Entity
+program_list:
+  programs:
+  - VENEZUELA-EO13850
+aka_list:
+  items:
+  - uid: '41986'
+    type: a.k.a.
+    category: strong
+    last_name: BANDES URUGUAY
+address_list:
+  items:
+  - uid: '40333'
+    address1: Zabala 1338
+    city: Montevideo
+    postal_code: '11000'
+    country: Uruguay
+id_list:
+  items:
+  - uid: '17211'
+    id_type: National ID No.
+    id_number: '215395820015'
+    id_country: Uruguay
+  - uid: '131166'
+    id_type: SWIFT/BIC
+    id_number: CFACUYMM
+remarks: "(Linked To: BANCO DE DESARROLLO ECONOMICO Y SOCIAL DE VENEZUELA)"

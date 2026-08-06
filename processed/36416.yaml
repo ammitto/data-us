@@ -1,0 +1,34 @@
+---
+uid: '36416'
+last_name: JOINT STOCK COMPANY BUSINESS ENVIRONMENT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '57362'
+    type: a.k.a.
+    category: strong
+    last_name: DELOVAYA SREDA JSC
+address_list:
+  items:
+  - uid: '54706'
+    address1: 19 Vavilova St.
+    city: Moscow
+    postal_code: '117997'
+    country: Russia
+id_list:
+  items:
+  - uid: '25811'
+    id_type: Registration Number
+    id_number: '1127746271355'
+    id_country: Russia
+  - uid: '25812'
+    id_type: Tax ID No.
+    id_number: '7736641983'
+    id_country: Russia
+  - uid: '174198'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)"

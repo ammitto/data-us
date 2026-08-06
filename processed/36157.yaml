@@ -1,0 +1,31 @@
+---
+uid: '36157'
+first_name: Moises
+last_name: GONZALEZ ANGUIANO
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '54366'
+    country: Mexico
+id_list:
+  items:
+  - uid: '25557'
+    id_type: C.U.R.P.
+    id_number: GOAM920401HSLNNS03
+    id_country: Mexico
+  - uid: '149612'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '49611'
+    date_of_birth: 01 Apr 1992
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '49613'
+    place_of_birth: Culiacan, Sinaloa, Mexico
+    main_entry: 'true'

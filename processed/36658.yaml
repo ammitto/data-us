@@ -1,0 +1,40 @@
+---
+uid: '36658'
+last_name: OOO AGRO-REGION
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '57730'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU AGRO-REGION
+address_list:
+  items:
+  - uid: '55047'
+    address1: Ul. Babkina D. 5-A, Pom. 405
+    city: Khimki
+    postal_code: '141407'
+    country: Russia
+id_list:
+  items:
+  - uid: '26137'
+    id_type: Tax ID No.
+    id_number: '5047181827'
+    id_country: Russia
+  - uid: '26139'
+    id_type: Registration Number
+    id_number: '1165047052752'
+    id_country: Russia
+  - uid: '26140'
+    id_type: Government Gazette Number
+    id_number: '00568203'
+    id_country: Russia
+  - uid: '174254'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '150448'
+    id_type: Organization Established Date
+    id_number: 11 Mar 2016

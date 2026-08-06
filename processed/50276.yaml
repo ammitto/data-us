@@ -1,0 +1,53 @@
+---
+uid: '50276'
+last_name: LIMITED LIABILITY COMPANY VOLGA DNEPR AIRLINES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '78529'
+    type: a.k.a.
+    category: strong
+    last_name: AVIAKOMPANIYA VOLGA DNEPR
+  - uid: '78530'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTIU AVIAKOMPANIIA VOLGA DNEPR
+address_list:
+  items:
+  - uid: '76143'
+    address1: D. 14 Karbysheva ul.
+    city: Ulyanovsk
+    postal_code: '432072'
+    country: Russia
+  - uid: '76144'
+    address1: 28B Mezhdunarodnoe sh., str. 2, et. 4 kom. 443
+    city: Moscow
+    postal_code: '141400'
+    country: Russia
+  - uid: '76145'
+    city: Hanoi
+    country: Vietnam
+id_list:
+  items:
+  - uid: '41964'
+    id_type: Registration Number
+    id_number: '1077328004841'
+    id_country: Russia
+  - uid: '41965'
+    id_type: Tax ID No.
+    id_number: '7328510118'
+    id_country: Russia
+  - uid: '178002'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184371'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '177988'
+    id_type: 'Organization Type:'
+    id_number: Freight air transport

@@ -1,0 +1,48 @@
+---
+uid: '11238'
+first_name: Patricia
+last_name: AMEZCUA CONTRERAS
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '11658'
+    type: a.k.a.
+    category: strong
+    last_name: AMEZCUA DE LADINO
+    first_name: Patricia
+  - uid: '11659'
+    type: a.k.a.
+    category: strong
+    last_name: AMEZCUA CONTRERAS
+    first_name: Patty
+address_list:
+  items:
+  - uid: '16416'
+    address1: c/o FARMACIA JERLYNE, S.A. DE C.V.
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '16417'
+    address1: Calle Jesus Ponce 1083
+    address2: Colonia Jardin Vista Hermosa
+    city: Colima
+    state_or_province: Colima
+    country: Mexico
+id_list:
+  items:
+  - uid: '5702'
+    id_type: R.F.C.
+    id_number: AECP-670318
+    id_country: Mexico
+  - uid: '5703'
+    id_type: C.U.R.P.
+    id_number: AECP670318MJCMNT07
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '6579'
+    date_of_birth: 18 Mar 1967
+    main_entry: 'true'

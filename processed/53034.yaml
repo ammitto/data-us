@@ -1,0 +1,53 @@
+---
+uid: '53034'
+first_name: Giovanni Vicente
+last_name: MOSQUERA SERRANO
+sdn_type: Individual
+program_list:
+  programs:
+  - TCO
+  - SDGT
+aka_list:
+  items:
+  - uid: '82940'
+    type: a.k.a.
+    category: weak
+    last_name: Giovanny San Vicente
+  - uid: '82941'
+    type: a.k.a.
+    category: weak
+    last_name: El Viejo
+  - uid: '82942'
+    type: a.k.a.
+    category: weak
+    last_name: Giovanny
+address_list:
+  items:
+  - uid: '80991'
+    country: Venezuela
+  - uid: '80992'
+    country: Colombia
+id_list:
+  items:
+  - uid: '46146'
+    id_type: Cedula No.
+    id_number: '20243384'
+    id_country: Venezuela
+  - uid: '185289'
+    id_type: Gender
+    id_number: Male
+  - uid: '185566'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '85287'
+    date_of_birth: 22 Feb 1988
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '85286'
+    place_of_birth: San Vicente, Aragua, Venezuela
+    main_entry: 'true'
+remarks: "(Linked To: TREN DE ARAGUA)"

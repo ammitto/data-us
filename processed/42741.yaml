@@ -1,0 +1,51 @@
+---
+uid: '42741'
+first_name: Rouhollah
+last_name: BAZGHANDI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '67496'
+    type: a.k.a.
+    category: strong
+    last_name: AZIMI
+    first_name: Ruhollah
+address_list:
+  items:
+  - uid: '63770'
+    address1: Basement Floor 1, No. 51, 51 Sadoughi Alley, Shahid Sadoughi Boulevard
+    city: Qom
+    state_or_province: Zanbilabad District
+    postal_code: '3716945864'
+    country: Iran
+id_list:
+  items:
+  - uid: '32418'
+    id_type: National ID No.
+    id_number: '0793640271'
+    id_country: Iran
+  - uid: '33126'
+    id_type: Birth Certificate Number
+    id_number: '4697'
+    id_country: Iran
+  - uid: '163043'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '161692'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '61671'
+    date_of_birth: 20 Sep 1981
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '61670'
+    place_of_birth: Sabzevar, Iran
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS)"

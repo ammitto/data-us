@@ -1,0 +1,41 @@
+---
+uid: '37854'
+first_name: Natalya Ivanova
+last_name: SMIRNOVA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59489'
+    type: a.k.a.
+    category: strong
+    last_name: SMIRNOVA
+    first_name: Natalia
+address_list:
+  items:
+  - uid: '56726'
+    country: Russia
+id_list:
+  items:
+  - uid: '27152'
+    id_type: Diplomatic Passport
+    id_number: '211102490'
+    id_country: Russia
+  - uid: '174602'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '153016'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '53015'
+    date_of_birth: 15 Jun 1972
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '53018'
+    place_of_birth: Russia
+    main_entry: 'true'

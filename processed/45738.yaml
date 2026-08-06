@@ -1,0 +1,27 @@
+---
+uid: '45738'
+last_name: NT SERVICE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '68033'
+    address1: Ul. Berzina D. 6
+    city: Bilibino
+    postal_code: '689450'
+    country: Russia
+id_list:
+  items:
+  - uid: '35458'
+    id_type: Registration Number
+    id_number: '1208700000266'
+    id_country: Russia
+  - uid: '35459'
+    id_type: Tax ID No.
+    id_number: '8703011233'
+    id_country: Russia
+  - uid: '176021'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

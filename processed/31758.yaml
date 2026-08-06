@@ -1,0 +1,43 @@
+---
+uid: '31758'
+first_name: Thein
+last_name: NYUNT
+sdn_type: Individual
+program_list:
+  programs:
+  - BURMA-EO14014
+aka_list:
+  items:
+  - uid: '49975'
+    type: a.k.a.
+    category: strong
+    last_name: NYUNT
+    first_name: U Thein
+address_list:
+  items:
+  - uid: '47823'
+    city: Naypyitaw
+    country: Burma
+id_list:
+  items:
+  - uid: '21633'
+    id_type: National ID No.
+    id_number: 12THAGAKAN012432
+    id_country: Burma
+  - uid: '140326'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '40323'
+    date_of_birth: 26 Dec 1944
+    main_entry: 'true'
+  - uid: '40324'
+    date_of_birth: 20 Nov 1944
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '40325'
+    place_of_birth: Kawkareik, Burma
+    main_entry: 'true'
+title: State Administrative Council Member

@@ -1,0 +1,37 @@
+---
+uid: '44223'
+last_name: LIMITED LIABILITY COMPANY VEGA STRATEGIC SERVICES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '68393'
+    type: a.k.a.
+    category: weak
+    last_name: PMC VEGA
+  - uid: '68394'
+    type: a.k.a.
+    category: strong
+    last_name: VEGACY
+address_list:
+  items:
+  - uid: '65817'
+    address1: 51 Marshala Tukhachevskovo St., Apt. 229
+    city: Moscow
+    postal_code: '123103'
+    country: Russia
+id_list:
+  items:
+  - uid: '33653'
+    id_type: Registration Number
+    id_number: '1147746737423'
+    id_country: Russia
+  - uid: '33654'
+    id_type: Tax ID No.
+    id_number: '7734727145'
+    id_country: Russia
+  - uid: '175802'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

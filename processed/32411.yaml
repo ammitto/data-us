@@ -1,0 +1,48 @@
+---
+uid: '32411'
+last_name: SHOCK SPORTS CLUB
+sdn_type: Entity
+program_list:
+  programs:
+  - BELARUS
+aka_list:
+  items:
+  - uid: '51392'
+    type: a.k.a.
+    category: strong
+    last_name: MALADZEZHNAE SPARTYUNAE HRAMADSKAE ABYADNANNE SPARTYUNY KLUB SHOK
+  - uid: '51393'
+    type: a.k.a.
+    category: strong
+    last_name: MOLODEZHNOYE SPORTIVNOYE OBSCHESTVENNOYE OBEDINENIYE SHOK
+  - uid: '51394'
+    type: a.k.a.
+    category: strong
+    last_name: MSOO SK SHOCK
+  - uid: '51395'
+    type: a.k.a.
+    category: weak
+    last_name: SHOCK TEAM
+  - uid: '51396'
+    type: a.k.a.
+    category: weak
+    last_name: SPORTS CLUB SHOCK
+address_list:
+  items:
+  - uid: '49262'
+    address1: ul. Boleslava Beruta, 12
+    city: Minsk
+    country: Belarus
+  - uid: '49263'
+    address1: ul. Filimonova, 55/3, Pom. 3H (cab.2)
+    city: Minsk
+    country: Belarus
+id_list:
+  items:
+  - uid: '22495'
+    id_type: Registration Number
+    id_number: '194901875'
+    id_country: Belarus
+  - uid: '142344'
+    id_type: Organization Established Date
+    id_number: 12 Oct 2010

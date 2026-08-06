@@ -1,0 +1,52 @@
+---
+uid: '57190'
+first_name: Alaa Hassan
+last_name: HAMIEH
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '87611'
+    address1: Zantout Street
+    address2: Safi Darwich Building, 1st Floor
+    city: Dawhet El Hoss
+    state_or_province: Beirut
+    country: Lebanon
+  - uid: '87612'
+    address1: Southern Tariya
+    city: Baalbek
+    country: Lebanon
+id_list:
+  items:
+  - uid: '51436'
+    id_type: National ID No.
+    id_number: '00003985449'
+    id_country: Lebanon
+  - uid: '51437'
+    id_type: Passport
+    id_number: LR3049063
+    id_country: Lebanon
+    expiration_date: 06 Mar 2033
+  - uid: '51438'
+    id_type: Passport
+    id_number: OA110548
+    id_country: Canada
+  - uid: '196908'
+    id_type: Gender
+    id_number: Male
+  - uid: '196906'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '197058'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
+      Sanctions Regulations
+date_of_birth_list:
+  items:
+  - uid: '96907'
+    date_of_birth: 25 Jan 1980
+    main_entry: 'true'
+remarks: "(Linked To: HIZBALLAH)"

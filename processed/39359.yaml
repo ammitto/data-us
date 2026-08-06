@@ -1,0 +1,37 @@
+---
+uid: '39359'
+last_name: SWANSEAS PORT SERVICES PTE. LTD.
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK4
+address_list:
+  items:
+  - uid: '58625'
+    address1: 60 Paya Lebar Road
+    address2: "#11-03"
+    address3: Paya Lebar Square
+    postal_code: '409051'
+    country: Singapore
+  - uid: '58626'
+    address1: 7, Suntec Tower 1
+    address2: '07'
+    address3: Temasek Boulevard
+    country: Singapore
+id_list:
+  items:
+  - uid: '28541'
+    id_type: Company Number
+    id_number: 201815139D
+    id_country: Singapore
+  - uid: '155264'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '155265'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '155224'
+    id_type: Organization Established Date
+    id_number: 04 May 2018
+remarks: "(Linked To: KWEK, Kee Seng)"

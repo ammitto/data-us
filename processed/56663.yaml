@@ -1,0 +1,31 @@
+---
+uid: '56663'
+first_name: Vicente Luis
+last_name: CARRETERO NAPOLITANO
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA-EO13850
+address_list:
+  items:
+  - uid: '86694'
+    country: Panama
+id_list:
+  items:
+  - uid: '50768'
+    id_type: Cedula No.
+    id_number: '3901065'
+    id_country: Panama
+  - uid: '195303'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '95301'
+    date_of_birth: 06 Oct 1966
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '95302'
+    place_of_birth: Colon, Panama
+    main_entry: 'true'

@@ -1,0 +1,61 @@
+---
+uid: '42396'
+first_name: Mohamad
+last_name: KHAWAJA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '65933'
+    type: a.k.a.
+    category: strong
+    last_name: KHAWAJAH
+    first_name: Muhammad
+  - uid: '65934'
+    type: a.k.a.
+    category: strong
+    last_name: KHAWAJAH
+    first_name: Muhammad Ali
+address_list:
+  items:
+  - uid: '63265'
+    city: Dubai
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '31978'
+    id_type: Passport
+    id_number: RL3566341
+    id_country: Lebanon
+  - uid: '31979'
+    id_type: Passport
+    id_number: RL0742799
+    id_country: Lebanon
+  - uid: '31980'
+    id_type: Identification Number
+    id_number: '78419700969812'
+  - uid: '32021'
+    id_type: Passport
+    id_number: LR1800603
+    id_country: Lebanon
+    expiration_date: 27 Sep 2030
+  - uid: '160932'
+    id_type: Gender
+    id_number: Male
+  - uid: '160872'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '60870'
+    date_of_birth: 12 Mar 1970
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '60871'
+    place_of_birth: Lebanon
+    main_entry: 'true'
+remarks: "(Linked To: AHMAD, Nazem Said)"

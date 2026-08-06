@@ -1,0 +1,48 @@
+---
+uid: '41656'
+first_name: Clemente
+last_name: PADILLA ZARATE
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '62185'
+    address1: Calle Pedro Moreno 113
+    address2: Colonia Toluquilla
+    city: San Pedro Tlaquepaque
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '62186'
+    address1: Alvaro Obregon 993
+    address2: oblatos
+    city: Guadalajara
+    state_or_province: Jalisco
+    postal_code: '44380'
+    country: Mexico
+  - uid: '62187'
+    address1: Josefa Ortiz 568
+    city: Guadalajara
+    state_or_province: Jalisco
+    postal_code: '44380'
+    country: Mexico
+id_list:
+  items:
+  - uid: '31061'
+    id_type: C.U.R.P.
+    id_number: PAZC780501HJCDRL09
+    id_country: Mexico
+  - uid: '159813'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '59811'
+    date_of_birth: 01 May 1978
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '59812'
+    place_of_birth: Jalisco, Mexico
+    main_entry: 'true'

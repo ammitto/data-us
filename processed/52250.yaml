@@ -1,0 +1,33 @@
+---
+uid: '52250'
+last_name: HONGKONG YAQING SHIPPING CO LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '79797'
+    address1: Room 837, 8th Floor
+    address2: Beverley Commercial Centre, 87-105
+    address3: Chatham Road South, Tsim Sha Tsui, Kowloon
+    city: Hong Kong
+    postal_code: '999077'
+    country: China
+id_list:
+  items:
+  - uid: '45194'
+    id_type: Identification Number
+    id_number: IMO 0025049
+  - uid: '45196'
+    id_type: Company Number
+    id_number: '3290721'
+    id_country: Hong Kong
+  - uid: '45197'
+    id_type: Business Registration Number
+    id_number: '75433632'
+    id_country: Hong Kong
+  - uid: '183189'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: LIMITED LIABILITY COMPANY ARCTIC LNG 2)"

@@ -1,0 +1,45 @@
+---
+uid: '52050'
+first_name: Jesus Alfredo
+last_name: BELTRAN GUZMAN
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '81500'
+    type: a.k.a.
+    category: weak
+    last_name: El Mochomito
+  - uid: '81501'
+    type: a.k.a.
+    category: weak
+    last_name: Alfredito
+  - uid: '83911'
+    type: a.k.a.
+    category: weak
+    last_name: Tito
+address_list:
+  items:
+  - uid: '79370'
+    country: Mexico
+id_list:
+  items:
+  - uid: '44880'
+    id_type: C.U.R.P.
+    id_number: BEGJ910423HSLLZS02
+    id_country: Mexico
+  - uid: '182743'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '82740'
+    date_of_birth: 23 Apr 1991
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '82741'
+    place_of_birth: Sinaloa, Mexico
+    main_entry: 'true'

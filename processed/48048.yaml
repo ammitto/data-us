@@ -1,0 +1,41 @@
+---
+uid: '48048'
+first_name: Jorge Adrian
+last_name: ORTEGA GALLEGOS
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '74587'
+    type: a.k.a.
+    category: weak
+    last_name: NARANJAS
+  - uid: '74588'
+    type: a.k.a.
+    category: weak
+    last_name: EL NARANJAS
+address_list:
+  items:
+  - uid: '72018'
+    country: Mexico
+id_list:
+  items:
+  - uid: '38931'
+    id_type: C.U.R.P.
+    id_number: OEGJ830707HCHRLR00
+    id_country: Mexico
+  - uid: '169533'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '69532'
+    date_of_birth: 07 Jul 1983
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '69535'
+    place_of_birth: Chihuahua, Mexico
+    main_entry: 'true'

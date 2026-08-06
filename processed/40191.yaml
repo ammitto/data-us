@@ -1,0 +1,31 @@
+---
+uid: '40191'
+last_name: RUSSIAN AEROSPACE FORCES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - IRAN-CON-ARMS-EO
+aka_list:
+  items:
+  - uid: '62442'
+    type: a.k.a.
+    category: weak
+    last_name: VKS
+address_list:
+  items:
+  - uid: '59855'
+    address1: Kolymazhnyy Pereulok 14
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '174023'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '157080'
+    id_type: Target Type
+    id_number: Government Entity
+  - uid: '157081'
+    id_type: Organization Established Date
+    id_number: 01 Aug 2015

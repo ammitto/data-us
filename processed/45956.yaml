@@ -1,0 +1,35 @@
+---
+uid: '45956'
+last_name: LIMITED LIABILITY COMPANY EMERGENCY DIGITAL SOLUTIONS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '71010'
+    type: a.k.a.
+    category: weak
+    last_name: LLC EDS
+address_list:
+  items:
+  - uid: '68399'
+    address1: 3 Perunovskiy Lane
+    address2: Building 2, Office 2
+    city: Moscow
+    postal_code: '127055'
+    country: Russia
+id_list:
+  items:
+  - uid: '35729'
+    id_type: Tax ID No.
+    id_number: '9715315319'
+    id_country: Russia
+  - uid: '35732'
+    id_type: Registration Number
+    id_number: '1187746421664'
+    id_country: Russia
+  - uid: '174837'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: ZAKHAROV, Nikita Aleksandrovich)"

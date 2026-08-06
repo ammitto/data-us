@@ -1,0 +1,65 @@
+---
+uid: '26126'
+first_name: Hossein
+last_name: YAGHOUBI MIAB
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - SDGT
+  - IRGC
+aka_list:
+  items:
+  - uid: '41174'
+    type: a.k.a.
+    category: strong
+    last_name: YAQUBI
+    first_name: Hosein
+  - uid: '41175'
+    type: a.k.a.
+    category: strong
+    last_name: YAGHUBI MAYAB
+    first_name: Hosein
+  - uid: '41176'
+    type: a.k.a.
+    category: strong
+    last_name: YAGHOOBI
+    first_name: Hossein
+  - uid: '41177'
+    type: a.k.a.
+    category: strong
+    last_name: YAGHOOBI MAYAB
+    first_name: Hossein
+address_list:
+  items:
+  - uid: '39592'
+    country: Iran
+id_list:
+  items:
+  - uid: '16807'
+    id_type: Passport
+    id_number: G9342868
+    id_country: Iran
+    issue_date: 16 Mar 2016
+    expiration_date: 16 Mar 2021
+  - uid: '186846'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '130452'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '130446'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '30449'
+    date_of_birth: 23 Jul 1961
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '30450'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS (IRGC)-QODS FORCE)"

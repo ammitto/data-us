@@ -1,0 +1,38 @@
+---
+uid: '40811'
+first_name: Ivan Kirov
+last_name: GENOV
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '63496'
+    type: a.k.a.
+    category: strong
+    last_name: GENOV
+    first_name: Ivan
+address_list:
+  items:
+  - uid: '60883'
+    country: Bulgaria
+id_list:
+  items:
+  - uid: '30026'
+    id_type: National ID No.
+    id_number: '5305197607'
+    id_country: Bulgaria
+  - uid: '158350'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '58349'
+    date_of_birth: 19 May 1953
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '58352'
+    place_of_birth: Gita, Bulgaria
+    main_entry: 'true'

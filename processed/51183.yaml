@@ -1,0 +1,33 @@
+---
+uid: '51183'
+first_name: Sudhir
+last_name: KUMAR
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '77818'
+    address1: L-172, Road N-7, Street N-5, Near P S Bedi Building
+    city: Mahipalpur
+    state_or_province: Delhi
+    postal_code: '110037'
+    country: India
+id_list:
+  items:
+  - uid: '43340'
+    id_type: National ID No.
+    id_number: BTTPK0620D
+    id_country: India
+  - uid: '180278'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '180277'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '80274'
+    date_of_birth: 15 Nov 1984
+    main_entry: 'true'

@@ -1,0 +1,45 @@
+---
+uid: '39160'
+last_name: JOINT STOCK COMPANY PRODUCTION ASSOCIATION SEVER
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '61066'
+    type: a.k.a.
+    category: weak
+    last_name: PA SEVER
+  - uid: '61067'
+    type: a.k.a.
+    category: weak
+    last_name: PO SEVER
+  - uid: '61068'
+    type: a.k.a.
+    category: strong
+    last_name: PROIZVODSTVENNOYE OBYEDINENIYE SEVER
+address_list:
+  items:
+  - uid: '58311'
+    address1: 3 Obedineniya Str.
+    city: Novosibirsk
+    state_or_province: Novosibirsk region
+    postal_code: '630020'
+    country: Russia
+id_list:
+  items:
+  - uid: '28382'
+    id_type: Registration Number
+    id_number: '1195476022940'
+    id_country: Russia
+  - uid: '28383'
+    id_type: Registration Number
+    id_number: '5410079229'
+    id_country: Russia
+  - uid: '154910'
+    id_type: Organization Established Date
+    id_number: 25 Mar 2019
+  - uid: '174740'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

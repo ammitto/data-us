@@ -1,0 +1,34 @@
+---
+uid: '50008'
+last_name: LIMITED LIABILITY COMPANY 4TEST
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '75664'
+    address1: UL. Usievicha D. 23
+    address2: POM.IA ET 1 KOM 1-5, 9A, 10-12
+    city: Moscow
+    postal_code: '125315'
+    country: Russia
+id_list:
+  items:
+  - uid: '41557'
+    id_type: Tax ID No.
+    id_number: '7702399942'
+    id_country: Russia
+  - uid: '41558'
+    id_type: Registration Number
+    id_number: '1167746353257'
+    id_country: Russia
+  - uid: '177520'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '177486'
+    id_type: Organization Established Date
+    id_number: '08 Apr 2016'
+  - uid: '177487'
+    id_type: Website
+    id_number: www.4test.ru

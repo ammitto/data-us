@@ -1,0 +1,42 @@
+---
+uid: '57880'
+first_name: Hongyi
+last_name: WANG
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+address_list:
+  items:
+  - uid: '88793'
+    city: Beijing
+    country: China
+id_list:
+  items:
+  - uid: '52410'
+    id_type: National ID No.
+    id_number: '420106197501087719'
+    id_country: China
+  - uid: '52412'
+    id_type: Passport
+    id_number: PE3086952
+    id_country: China
+    expiration_date: 20 Feb 2029
+  - uid: '198579'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '198581'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '98580'
+    date_of_birth: '08 Jan 1975'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '98614'
+    place_of_birth: Zhucheng, China
+    main_entry: 'true'
+remarks: "(Linked To: MUSTAD LIMITED)"

@@ -1,0 +1,67 @@
+---
+uid: '18288'
+last_name: VEB LEASING OJSC
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13662
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '28288'
+    type: a.k.a.
+    category: strong
+    last_name: OAO VEB LIZING
+  - uid: '28289'
+    type: a.k.a.
+    category: strong
+    last_name: OTKRYTOE AKTSIONERNOE OBSHCHESTVO VEB LIZING
+  - uid: '28290'
+    type: a.k.a.
+    category: strong
+    last_name: OPEN JOINT STOCK COMPANY VEB LEASING
+  - uid: '28291'
+    type: a.k.a.
+    category: strong
+    last_name: OJSC VEB LEASING
+address_list:
+  items:
+  - uid: '27672'
+    address1: d. 10 ul. Vozdvizhenka
+    city: Moscow
+    postal_code: '125009'
+    country: Russia
+  - uid: '52531'
+    address1: Str. Dolgorukovskaya, 7, Novoslobodskaya
+    city: Moscow
+    postal_code: '127006'
+    country: Russia
+id_list:
+  items:
+  - uid: '24690'
+    id_type: Registration Number
+    id_number: '1037709024781'
+    id_country: Russia
+  - uid: '24691'
+    id_type: Tax ID No.
+    id_number: '7709413138'
+    id_country: Russia
+  - uid: '146606'
+    id_type: Organization Established Date
+    id_number: '2003'
+  - uid: '151160'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '173872'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '117562'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 1
+  - uid: '117545'
+    id_type: Website
+    id_number: veb-leasing.ru
+remarks: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: STATE CORPORATION BANK FOR DEVELOPMENT AND FOREIGN ECONOMIC AFFAIRS
+  VNESHECONOMBANK)'

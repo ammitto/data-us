@@ -1,0 +1,49 @@
+---
+uid: '10984'
+first_name: Sandra
+last_name: LUCERO DE MARTINEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '11420'
+    type: a.k.a.
+    category: strong
+    last_name: VALENCIA ZAZUETA
+    first_name: Sandra
+  - uid: '11421'
+    type: a.k.a.
+    category: strong
+    last_name: LUCERO VALENZUELA
+    first_name: Sandra
+  - uid: '11422'
+    type: a.k.a.
+    category: strong
+    last_name: VALENZUELA
+    first_name: Sandra
+address_list:
+  items:
+  - uid: '16001'
+    country: Mexico
+id_list:
+  items:
+  - uid: '5498'
+    id_type: C.U.R.P.
+    id_number: VAZS691029MSRLZN04
+    id_country: Mexico
+  - uid: '5499'
+    id_type: C.U.R.P.
+    id_number: VAZS691029HSRLZN04
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '6464'
+    date_of_birth: 29 Oct 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '6465'
+    place_of_birth: Nogales, Sonora, Mexico
+    main_entry: 'true'

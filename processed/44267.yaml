@@ -1,0 +1,47 @@
+---
+uid: '44267'
+last_name: JOINT STOCK COMPANY LOCKO BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '65900'
+    address1: Leningrad Prosp, D 39 building 80
+    city: Moscow
+    postal_code: '125167'
+    country: Russia
+id_list:
+  items:
+  - uid: '33711'
+    id_type: Registration Number
+    id_number: '1057711014195'
+    id_country: Russia
+  - uid: '33712'
+    id_type: Tax ID No.
+    id_number: '7750003943'
+    id_country: Russia
+  - uid: '33713'
+    id_type: Legal Entity Number
+    id_number: 253400BCBR616MTH6594
+    id_country: Russia
+  - uid: '33714'
+    id_type: Identification Number
+    id_number: 3QL4V4.99999.SL.643
+    id_country: Russia
+  - uid: '163937'
+    id_type: SWIFT/BIC
+    id_number: CLOKRUMM
+  - uid: '163938'
+    id_type: Website
+    id_number: http://www.lockobank.ru
+  - uid: '163939'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '163936'
+    id_type: Organization Established Date
+    id_number: '1994'
+  - uid: '176971'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,45 @@
+---
+uid: '54478'
+last_name: TAMCO ESTABLISHMENT FOR OIL DERIVATIVES
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '84767'
+    type: a.k.a.
+    category: strong
+    last_name: TAMCO PETROLEUM
+address_list:
+  items:
+  - uid: '83198'
+    address1: Al Sabeen District, Amana
+    city: Sanaa
+    country: Yemen
+  - uid: '83200'
+    address1: Shaikh Othman Jolat Alkarraa Aden, Taiz Street
+    city: Aden
+    country: Yemen
+  - uid: '83201'
+    address1: Sanaa Street
+    city: Hudaydah
+    country: Yemen
+id_list:
+  items:
+  - uid: '48092'
+    id_type: Registration Number
+    id_number: '12896'
+    id_country: Yemen
+  - uid: '48093'
+    id_type: Tax ID No.
+    id_number: 6/11414
+    id_country: Yemen
+  - uid: '190426'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '190425'
+    id_type: Organization Established Date
+    id_number: 30 Aug 2018
+remarks: "(Linked To: ANSARALLAH)"

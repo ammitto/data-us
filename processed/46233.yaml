@@ -1,0 +1,36 @@
+---
+uid: '46233'
+first_name: Mehmet
+last_name: KAYA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '69552'
+    country: Turkey
+id_list:
+  items:
+  - uid: '36081'
+    id_type: National ID No.
+    id_number: '35006048398'
+    id_country: Turkey
+  - uid: '166951'
+    id_type: Gender
+    id_number: Male
+  - uid: '166958'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '66957'
+    date_of_birth: 01 Jan 1988
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '66956'
+    place_of_birth: Mardin, Turkey
+    main_entry: 'true'
+remarks: "(Linked To: HAMAS)"

@@ -1,0 +1,41 @@
+---
+uid: '35857'
+last_name: JOINT STOCK COMPANY URAL DESIGN BUREAU DETAL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56315'
+    type: a.k.a.
+    category: strong
+    last_name: AO UPKB DETAL
+  - uid: '56316'
+    type: a.k.a.
+    category: strong
+    last_name: DETAL URAL DESIGN BUREAU JSC
+address_list:
+  items:
+  - uid: '53797'
+    address1: Ul. Pionerskaya D.8
+    city: Kamensk-Uralskiy
+    postal_code: '623409'
+    country: Russia
+id_list:
+  items:
+  - uid: '25168'
+    id_type: Registration Number
+    id_number: '1026600930630'
+    id_country: Russia
+  - uid: '25170'
+    id_type: Tax ID No.
+    id_number: '6612011546'
+    id_country: Russia
+  - uid: '149050'
+    id_type: Organization Established Date
+    id_number: '1949'
+  - uid: '173252'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: TACTICAL MISSILES CORPORATION JSC)"

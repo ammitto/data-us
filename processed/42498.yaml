@@ -1,0 +1,90 @@
+---
+uid: '42498'
+first_name: Hyon Sop
+last_name: SIM
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+aka_list:
+  items:
+  - uid: '65972'
+    type: a.k.a.
+    category: strong
+    last_name: SIM
+    first_name: Hyo'n-so'p
+address_list:
+  items:
+  - uid: '63368'
+    city: Dandong
+    country: China
+id_list:
+  items:
+  - uid: '32060'
+    id_type: Passport
+    id_number: '109484100'
+    id_country: Korea, North
+    expiration_date: 24 Dec 2024
+  - uid: '160982'
+    id_type: Digital Currency Address - ETH
+    id_number: '0x4f47bc496083c727c5fbe3ce9cdf2b0f6496270c'
+  - uid: '196604'
+    id_type: Digital Currency Address - ETH
+    id_number: '0xd04E33461FEA8302c5E1e13895b60cEe8AEfda7F'
+  - uid: '196605'
+    id_type: Digital Currency Address - ETH
+    id_number: '0x76EA76CA4Eb727f18956aB93445a94c5280412B9'
+  - uid: '196606'
+    id_type: Digital Currency Address - ETH
+    id_number: '0xFb3eFf152ea55D1BfA04Dbdd509A80fD7b72cdEB'
+  - uid: '196607'
+    id_type: Digital Currency Address - ETH
+    id_number: '0xFda1Ec4A6178d4916b001a065422D31EBE5F62FF'
+  - uid: '196608'
+    id_type: Digital Currency Address - ETH
+    id_number: '0x747AFB5c7A7fc34B547cD0FDEbf9b91759C5a52b'
+  - uid: '161249'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '161248'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '160979'
+    id_type: Gender
+    id_number: Male
+  - uid: '196597'
+    id_type: Digital Currency Address - TRX
+    id_number: TGXE9dGWawjfd3xqFSho1h1bRbRv9wUGrF
+  - uid: '196598'
+    id_type: Digital Currency Address - TRX
+    id_number: TPDLpXxPcaSsupEZ3yrVksmNkYP5SLeKxu
+  - uid: '196599'
+    id_type: Digital Currency Address - TRX
+    id_number: TNTFhgFoKH4srBMiWbfrVFqP2AThSmdwf1
+  - uid: '196600'
+    id_type: Digital Currency Address - TRX
+    id_number: TXhf9nU9bjo1j9z5qEesHdr6gtdndfnA4T
+  - uid: '196601'
+    id_type: Digital Currency Address - TRX
+    id_number: TK17wfSPp32RWrnzZPrGpv7TxdNFvvvE2s
+  - uid: '196602'
+    id_type: Digital Currency Address - TRX
+    id_number: TYeQD2VddTZ9NkFkAnT9DD8cUGetGUQZB2
+  - uid: '161088'
+    id_type: Digital Currency Address - ARB
+    id_number: '0x4f47bc496083c727c5fbe3ce9cdf2b0f6496270c'
+  - uid: '161089'
+    id_type: Digital Currency Address - BSC
+    id_number: '0x4f47bc496083c727c5fbe3ce9cdf2b0f6496270c'
+date_of_birth_list:
+  items:
+  - uid: '60978'
+    date_of_birth: 25 Nov 1983
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '60980'
+    place_of_birth: Pyongyang, North Korea
+    main_entry: 'true'
+remarks: "(Linked To: KOREA KWANGSON BANKING CORP)"

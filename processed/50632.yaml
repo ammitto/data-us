@@ -1,0 +1,51 @@
+---
+uid: '50632'
+first_name: Aleksey Yevgenevich
+last_name: SHCHETININ
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+aka_list:
+  items:
+  - uid: '79232'
+    type: a.k.a.
+    category: strong
+    last_name: SHCHETININ
+    first_name: Alexey
+  - uid: '79233'
+    type: a.k.a.
+    category: strong
+    last_name: SCHETININ
+    first_name: Alex
+  - uid: '79234'
+    type: a.k.a.
+    category: weak
+    last_name: SHCHETININ, Lesha
+address_list:
+  items:
+  - uid: '76774'
+    country: Russia
+id_list:
+  items:
+  - uid: '42484'
+    id_type: Passport
+    id_number: '760960574'
+    id_country: Russia
+  - uid: '42485'
+    id_type: Passport
+    id_number: '713133176'
+    id_country: Russia
+  - uid: '42486'
+    id_type: National ID No.
+    id_number: '4509396564'
+    id_country: Russia
+  - uid: '179047'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '79045'
+    date_of_birth: 22 Aug 1987
+    main_entry: 'true'
+remarks: "(Linked To: EVIL CORP)"

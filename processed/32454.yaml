@@ -1,0 +1,56 @@
+---
+uid: '32454'
+first_name: Werner Dario
+last_name: MOLINA MONTEJO
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '48848'
+    city: Aldea Agua Zarca
+    state_or_province: Huehuetenango
+    country: Guatemala
+  - uid: '49869'
+    address1: Canton La Candelaria Z.0
+    city: La Democracia
+    state_or_province: Huehuetenango
+    country: Guatemala
+id_list:
+  items:
+  - uid: '22237'
+    id_type: C.U.I.
+    id_number: '1785205271331'
+    id_country: Guatemala
+  - uid: '22238'
+    id_type: 'NIT #'
+    id_number: '27751171'
+    id_country: Guatemala
+  - uid: '22633'
+    id_type: Passport
+    id_number: '111331000075604'
+    id_country: Guatemala
+    issue_date: '08 Feb 2007'
+    expiration_date: 26 Oct 2012
+  - uid: '22634'
+    id_type: Driver's License No.
+    id_number: '20332679'
+    id_country: Guatemala
+  - uid: '22759'
+    id_type: Cedula No.
+    id_number: 'Cedula: M-137560'
+    id_country: Guatemala
+  - uid: '141991'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '41988'
+    date_of_birth: 12 Nov 1984
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '42682'
+    place_of_birth: Santa Ana Huista, Huehuetenango, Guatemala
+    main_entry: 'true'

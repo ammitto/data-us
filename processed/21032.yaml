@@ -1,0 +1,36 @@
+---
+uid: '21032'
+first_name: Linda Elizabeth
+last_name: CAMPOS TIRADO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '31924'
+    country: Mexico
+id_list:
+  items:
+  - uid: '13100'
+    id_type: C.U.R.P.
+    id_number: CATL800920MSLMRN02
+    id_country: Mexico
+  - uid: '13101'
+    id_type: R.F.C.
+    id_number: CATL800920L32
+    id_country: Mexico
+  - uid: '121828'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '21825'
+    date_of_birth: 20 Sep 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '21826'
+    place_of_birth: Ahome, Sinaloa, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: FLORES DRUG TRAFFICKING ORGANIZATION)"

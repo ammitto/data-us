@@ -1,0 +1,34 @@
+---
+uid: '49901'
+first_name: Massimo
+last_name: FALCHINI
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '75428'
+    country: Italy
+id_list:
+  items:
+  - uid: '41386'
+    id_type: Tax ID No.
+    id_number: FLCMSM70R22D612R
+    id_country: Italy
+  - uid: '177380'
+    id_type: Gender
+    id_number: Male
+  - uid: '178104'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '77377'
+    date_of_birth: 22 Oct 1970
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '77378'
+    place_of_birth: Florence, Italy
+    main_entry: 'true'

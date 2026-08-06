@@ -1,0 +1,39 @@
+---
+uid: '47417'
+last_name: STATANLY LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73327'
+    type: a.k.a.
+    category: strong
+    last_name: STATANLY TECHNOLOGIES
+address_list:
+  items:
+  - uid: '70710'
+    address1: Birzhevaya liniya 16
+    city: Saint Petersburg
+    country: Russia
+  - uid: '70714'
+    address1: B-r Aleksandra Grina D. 1
+    address2: Str. 1
+    address3: Pomeshch 917
+    city: Saint Petersburg
+    postal_code: '199225'
+    country: Russia
+id_list:
+  items:
+  - uid: '37822'
+    id_type: Registration Number
+    id_number: '1237800072982'
+    id_country: Russia
+  - uid: '37823'
+    id_type: Tax ID No.
+    id_number: '7801724456'
+    id_country: Russia
+  - uid: '169881'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

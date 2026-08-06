@@ -1,0 +1,38 @@
+---
+uid: '32364'
+first_name: Khaing Moe
+last_name: MYINT
+sdn_type: Individual
+program_list:
+  programs:
+  - BURMA-EO14014
+aka_list:
+  items:
+  - uid: '50836'
+    type: a.k.a.
+    category: strong
+    last_name: MYINT
+    first_name: Daw Khaing Moe
+  - uid: '50837'
+    type: a.k.a.
+    category: strong
+    last_name: MYINT
+    first_name: Ma Khaing Moe
+address_list:
+  items:
+  - uid: '48767'
+    country: Burma
+id_list:
+  items:
+  - uid: '22178'
+    id_type: National ID No.
+    id_number: 9PAMANAN275475
+    id_country: Burma
+  - uid: '141879'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '41878'
+    date_of_birth: 23 Apr 2001
+    main_entry: 'true'

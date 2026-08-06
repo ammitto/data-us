@@ -1,0 +1,35 @@
+---
+uid: '17278'
+first_name: Liridon
+last_name: KELMENDI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '27610'
+    type: a.k.a.
+    category: strong
+    last_name: KELJMENDI
+    first_name: Liridon
+id_list:
+  items:
+  - uid: '10129'
+    id_type: Passport
+    id_number: '5239319'
+    id_country: Bosnia and Herzegovina
+  - uid: '10130'
+    id_type: Passport
+    id_number: '005452254'
+    id_country: Bosnia and Herzegovina
+date_of_birth_list:
+  items:
+  - uid: '16187'
+    date_of_birth: 01 Jan 1983
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '16189'
+    place_of_birth: Pec, Kosovo
+    main_entry: 'true'

@@ -1,0 +1,52 @@
+---
+uid: '18559'
+first_name: Myong Guk
+last_name: JON
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+aka_list:
+  items:
+  - uid: '28865'
+    type: a.k.a.
+    category: strong
+    last_name: CHO'N
+    first_name: Myo'ng-kuk
+  - uid: '35172'
+    type: a.k.a.
+    category: strong
+    last_name: JON
+    first_name: Yong Sang
+address_list:
+  items:
+  - uid: '28172'
+    country: Syria
+id_list:
+  items:
+  - uid: '10824'
+    id_type: Passport
+    id_number: '4721202031'
+    id_country: Korea, North
+    expiration_date: 21 Feb 2017
+  - uid: '14076'
+    id_type: Diplomatic Passport
+    id_number: '836110035'
+    expiration_date: 01 Jan 2020
+  - uid: '127648'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '134955'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+date_of_birth_list:
+  items:
+  - uid: '17928'
+    date_of_birth: 18 Oct 1976
+    main_entry: 'true'
+  - uid: '23772'
+    date_of_birth: 25 Aug 1976
+    main_entry: 'false'
+remarks: "(Linked To: TANCHON COMMERCIAL BANK)"
+title: Tanchon Commercial Bank Representative in Syria

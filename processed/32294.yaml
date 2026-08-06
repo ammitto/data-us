@@ -1,0 +1,53 @@
+---
+uid: '32294'
+first_name: Thet Thet
+last_name: KHINE
+sdn_type: Individual
+program_list:
+  programs:
+  - BURMA-EO14014
+aka_list:
+  items:
+  - uid: '50760'
+    type: a.k.a.
+    category: strong
+    last_name: KHINE
+    first_name: Daw Thet Thet
+  - uid: '50869'
+    type: a.k.a.
+    category: strong
+    last_name: KHAING
+    first_name: Thet Thet
+address_list:
+  items:
+  - uid: '48689'
+    address1: 127A Dhamazadei Road
+    address2: Kamayut
+    city: Rangoon
+    country: Burma
+id_list:
+  items:
+  - uid: '22098'
+    id_type: National ID No.
+    id_number: 9MAKANAN034200
+    id_country: Burma
+  - uid: '22099'
+    id_type: Passport
+    id_number: MB132403
+    id_country: Burma
+    issue_date: 07 May 2015
+    expiration_date: 06 May 2020
+  - uid: '141783'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '41781'
+    date_of_birth: 19 Aug 1967
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '41782'
+    place_of_birth: Mogok, Burma
+    main_entry: 'true'
+title: Minister of Social Welfare, Relief, and Resettlement

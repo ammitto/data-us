@@ -1,0 +1,35 @@
+---
+uid: '37868'
+first_name: Nikolai Anatolevich
+last_name: VOLOBUEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '56761'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '27182'
+    id_type: Tax ID No.
+    id_number: '770470065105'
+    id_country: Russia
+  - uid: '153056'
+    id_type: Gender
+    id_number: Male
+  - uid: '174612'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '53053'
+    date_of_birth: 24 Feb 1952
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '53054'
+    place_of_birth: Rassvet, Orel Region, Russia
+    main_entry: 'true'

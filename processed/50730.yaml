@@ -1,0 +1,33 @@
+---
+uid: '50730'
+last_name: JOINT STOCK COMPANY YAROSLAVSKY EXPERIMENTAL MACHINES PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79397'
+    type: a.k.a.
+    category: strong
+    last_name: AO YARZOM
+address_list:
+  items:
+  - uid: '76934'
+    address1: Ul. Polushkina Roshcha D. 11
+    city: Yaroslavl
+    postal_code: '150044'
+    country: Russia
+id_list:
+  items:
+  - uid: '42594'
+    id_type: Registration Number
+    id_number: '1027600853543'
+    id_country: Russia
+  - uid: '42595'
+    id_type: Tax ID No.
+    id_number: '7606002055'
+    id_country: Russia
+  - uid: '179343'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

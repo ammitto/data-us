@@ -1,0 +1,45 @@
+---
+uid: '10621'
+first_name: Mireya Denisse
+last_name: BELTRAN ROMERO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '14804'
+    address1: Paseo Estrella de Mar No. 1210, Seccion Coronado, Colonia Playas
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '14805'
+    address1: c/o OPERADORA INTEGRAL DE COMERCIO, S.A. DE C.V.
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '14806'
+    address1: c/o TECNOLOGIA DIGITAL Y SERVICIOS, S.A. DE C.V.
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+id_list:
+  items:
+  - uid: '5163'
+    id_type: R.F.C.
+    id_number: BERM810311CF0
+    id_country: Mexico
+  - uid: '5164'
+    id_type: Passport
+    id_number: '03900215458'
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '5980'
+    date_of_birth: 11 Mar 1981
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '5981'
+    place_of_birth: Tijuana, Baja California, Mexico
+    main_entry: 'true'

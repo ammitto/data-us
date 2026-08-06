@@ -1,0 +1,38 @@
+---
+uid: '57140'
+first_name: Morteza Ali
+last_name: BAKHSHI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '87507'
+    country: Iran
+id_list:
+  items:
+  - uid: '51367'
+    id_type: National ID No.
+    id_number: '0064740102'
+    id_country: Iran
+  - uid: '51368'
+    id_type: Passport
+    id_number: R60975255
+    id_country: Iran
+  - uid: '196775'
+    id_type: Gender
+    id_number: Male
+  - uid: '197500'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '96773'
+    date_of_birth: 12 Feb 1984
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '96774'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'

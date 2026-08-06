@@ -1,0 +1,28 @@
+---
+uid: '11366'
+first_name: Gerhard
+last_name: WISSER
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+id_list:
+  items:
+  - uid: '5790'
+    id_type: Passport
+    id_number: '3139001443'
+    id_country: Germany
+  - uid: '113822'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '6754'
+    date_of_birth: 02 Jul 1939
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '6755'
+    place_of_birth: Lohne, Germany
+    main_entry: 'true'

@@ -1,0 +1,35 @@
+---
+uid: '34457'
+first_name: Roman Anatolyevich
+last_name: ALAR
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+address_list:
+  items:
+  - uid: '51606'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '24077'
+    id_type: Passport
+    id_number: '719869648'
+    id_country: Russia
+    expiration_date: 25 Jun 2022
+  - uid: '145786'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '145771'
+    id_type: Gender
+    id_number: Male
+  - uid: '145785'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+date_of_birth_list:
+  items:
+  - uid: '45770'
+    date_of_birth: 17 Jan 1973
+    main_entry: 'true'

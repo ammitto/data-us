@@ -1,0 +1,91 @@
+---
+uid: '10899'
+first_name: Marcos Arturo
+last_name: BELTRAN LEYVA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '11112'
+    type: a.k.a.
+    category: strong
+    last_name: BELTRAN LEYVA
+    first_name: Arturo
+  - uid: '11113'
+    type: a.k.a.
+    category: weak
+    last_name: EL FANTASMA
+  - uid: '11114'
+    type: a.k.a.
+    category: weak
+    last_name: EL BARBAS
+  - uid: '11115'
+    type: a.k.a.
+    category: strong
+    last_name: BELTRAN LEYVA
+    first_name: Arturo Guzman
+address_list:
+  items:
+  - uid: '15692'
+    address1: Avenida Juan de la Barrera No. 1970, Colonia Burocrata
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '15693'
+    address1: Calle Francisco Marquez, Colonia Chapultepec
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '15694'
+    address1: Calle Cerro, Colinas de San Miguel
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '15695'
+    city: Monterrey
+    state_or_province: Nuevo Leon
+    country: Mexico
+  - uid: '15696'
+    city: Nogales
+    state_or_province: Sonora
+    country: Mexico
+  - uid: '15697'
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '15698'
+    city: Acapulco
+    state_or_province: Guerrero
+    country: Mexico
+  - uid: '15699'
+    city: Nuevo Leon
+    state_or_province: Nuevo Leon
+    country: Mexico
+  - uid: '15700'
+    city: Guamuchil
+    state_or_province: Sinaloa
+    country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '6317'
+    date_of_birth: 27 Sep 1961
+    main_entry: 'true'
+  - uid: '6318'
+    date_of_birth: 21 Sep 1961
+    main_entry: 'false'
+  - uid: '6319'
+    date_of_birth: 05 Jun 1962
+    main_entry: 'false'
+  - uid: '6320'
+    date_of_birth: 05 Feb 1958
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '6321'
+    place_of_birth: Culiacan, Sinaloa, Mexico
+    main_entry: 'true'
+  - uid: '6322'
+    place_of_birth: Badiraguato, Sinaloa, Mexico
+    main_entry: 'false'

@@ -1,0 +1,38 @@
+---
+uid: '50051'
+last_name: AKTSIONERNOE OBSHCHESTVO EVRAZ KACHKANARSKI GORNO OBOGATITELNY KOMBINAT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78028'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY EVRAZ KACHKANARCKY ORE MINING AND PROCESSING PLANT
+  - uid: '78029'
+    type: a.k.a.
+    category: weak
+    last_name: EVRAZ KGOK AO
+address_list:
+  items:
+  - uid: '75731'
+    address1: d. 2, ul. Sverdlova
+    city: Kachkanar
+    state_or_province: Sverdlovsk region
+    postal_code: '624351'
+    country: Russia
+id_list:
+  items:
+  - uid: '41615'
+    id_type: Registration Number
+    id_number: '1026601125308'
+    id_country: Russia
+  - uid: '41616'
+    id_type: Tax ID No.
+    id_number: '6615001962'
+    id_country: Russia
+  - uid: '178040'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

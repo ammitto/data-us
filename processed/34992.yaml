@@ -1,0 +1,43 @@
+---
+uid: '34992'
+last_name: JSC 558 AIRCRAFT REPAIR PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - BELARUS-EO14038
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54993'
+    type: a.k.a.
+    category: strong
+    last_name: JSC 558TH AIRCRAFT REPAIR PLANT
+  - uid: '54994'
+    type: a.k.a.
+    category: weak
+    last_name: JSC 558 ARP
+  - uid: '54995'
+    type: a.k.a.
+    category: weak
+    last_name: 558 ARZ OAO
+address_list:
+  items:
+  - uid: '52502'
+    address1: bld. 7
+    address2: 50 let VLKSM st.
+    city: Baranovichi
+    state_or_province: Brest region
+    postal_code: '225415'
+    country: Belarus
+id_list:
+  items:
+  - uid: '24655'
+    id_type: Registration Number
+    id_number: '200166539'
+    id_country: Belarus
+  - uid: '146569'
+    id_type: Organization Established Date
+    id_number: '09 Jun 1992'
+  - uid: '169656'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

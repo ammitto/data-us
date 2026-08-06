@@ -1,0 +1,31 @@
+---
+uid: '11360'
+first_name: Peter
+last_name: GRIFFIN
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+id_list:
+  items:
+  - uid: '5784'
+    id_type: Passport
+    id_number: B401584
+    id_country: United Kingdom
+    issue_date: 28 Sep 1989
+    expiration_date: 28 Sep 1999
+  - uid: '5785'
+    id_type: Passport
+    id_number: B109455
+    id_country: United Kingdom
+    issue_date: 03 Oct 1979
+date_of_birth_list:
+  items:
+  - uid: '6737'
+    date_of_birth: '09 Sep 1935'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '6738'
+    place_of_birth: Oxford, United Kingdom
+    main_entry: 'true'

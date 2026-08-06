@@ -1,0 +1,41 @@
+---
+uid: '34500'
+last_name: OTKRITIE BROKER GROUP
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54040'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO OTKRYTIE BROKER
+  - uid: '54041'
+    type: a.k.a.
+    category: strong
+    last_name: AO OTKRYTIE BROKER
+address_list:
+  items:
+  - uid: '51691'
+    address1: ul. Letnikovskaya, d. 2, str. 4
+    city: Moscow
+    postal_code: '115114'
+    country: Russia
+id_list:
+  items:
+  - uid: '24122'
+    id_type: Registration Number
+    id_number: '1027739704772'
+    id_country: Russia
+  - uid: '24123'
+    id_type: Tax ID No.
+    id_number: '7710170659'
+    id_country: Russia
+  - uid: '145892'
+    id_type: Organization Established Date
+    id_number: 28 Dec 1995
+  - uid: '175127'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: PUBLIC JOINT STOCK COMPANY BANK FINANCIAL CORPORATION OTKRITIE)"

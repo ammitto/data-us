@@ -1,0 +1,54 @@
+---
+uid: '34497'
+last_name: PUBLIC JOINT STOCK COMPANY BANK FINANCIAL CORPORATION OTKRITIE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54029'
+    type: a.k.a.
+    category: strong
+    last_name: PJSC BANK FK OTKRITIE
+  - uid: '54030'
+    type: a.k.a.
+    category: strong
+    last_name: OTKRITIE BANK
+  - uid: '54031'
+    type: a.k.a.
+    category: strong
+    last_name: PUBLIC JOINT STOCK COMPANY BANK OTKRITIE FINANCIAL CORPORATION
+  - uid: '54032'
+    type: a.k.a.
+    category: strong
+    last_name: PAO BANK OTKRITIE FINANCIAL CORPORATION
+address_list:
+  items:
+  - uid: '51685'
+    address1: d. 2, str. 4, ul. Letnikovskaya
+    city: Moscow
+    postal_code: '115114'
+    country: Russia
+id_list:
+  items:
+  - uid: '24117'
+    id_type: Registration Number
+    id_number: '1027739019208'
+    id_country: Russia
+  - uid: '24118'
+    id_type: Tax ID No.
+    id_number: '7706092528'
+    id_country: Russia
+  - uid: '145890'
+    id_type: Organization Established Date
+    id_number: 15 Dec 1992
+  - uid: '175124'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '145888'
+    id_type: SWIFT/BIC
+    id_number: JSNMRUMM
+  - uid: '145889'
+    id_type: Website
+    id_number: http://www.open.ru

@@ -1,0 +1,70 @@
+---
+uid: '10628'
+first_name: Marco Antonio
+last_name: OLIVAS OJEDA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '14842'
+    address1: Calle Jesus Almada No. 214, Colonia Pueblo Nuevo 1
+    city: Navolato
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '14843'
+    address1: Ave. Naciones Unidas No. 5677-4, Condominio Essex, Jard. de la Parque
+      Regenci.
+    city: Zapopan
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '14844'
+    address1: c/o TOYS FACTORY, S.A. DE C.V.
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '14845'
+    address1: c/o SIN-MEX IMPORTADORA, S.A. DE C.V.
+    city: Guadalajara
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '14846'
+    address1: c/o COMERCIAL JOANA, S.A. DE C.V.
+    city: Guadalajara
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '14847'
+    address1: c/o COMERCIALIZADORA BRIMAR'S, S.A. DE. C.V.
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '14848'
+    address1: c/o COMERCIAL DOMELY, S.A. DE C.V.
+    city: Toluca
+    state_or_province: Mexico
+    country: Mexico
+id_list:
+  items:
+  - uid: '5177'
+    id_type: C.U.R.P.
+    id_number: OIOM600614HSLLJR08
+    id_country: Mexico
+  - uid: '5178'
+    id_type: R.F.C.
+    id_number: OIOM600614YA5
+    id_country: Mexico
+  - uid: '5179'
+    id_type: Electoral Registry No.
+    id_number: OIOJMR60061425H900
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '6008'
+    date_of_birth: 14 Jun 1960
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '6009'
+    place_of_birth: Navolato, Sinaloa, Mexico
+    main_entry: 'true'

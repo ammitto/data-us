@@ -1,0 +1,52 @@
+---
+uid: '47756'
+first_name: Andrej Nikolaevich
+last_name: TROSHEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74067'
+    type: a.k.a.
+    category: strong
+    last_name: TROSHEV
+    first_name: Andrei Nikolaevich
+  - uid: '74068'
+    type: a.k.a.
+    category: weak
+    last_name: Sedoi
+  - uid: '74069'
+    type: a.k.a.
+    category: weak
+    last_name: Gray Hair
+address_list:
+  items:
+  - uid: '71433'
+    country: Russia
+id_list:
+  items:
+  - uid: '38419'
+    id_type: Tax ID No.
+    id_number: '781417567443'
+    id_country: Russia
+  - uid: '169259'
+    id_type: Gender
+    id_number: Male
+  - uid: '176427'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '69261'
+    date_of_birth: 05 Apr 1962
+    main_entry: 'true'
+  - uid: '69262'
+    date_of_birth: 05 Apr 1953
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '69258'
+    place_of_birth: St. Petersburg, Russia
+    main_entry: 'true'

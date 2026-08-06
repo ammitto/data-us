@@ -1,0 +1,44 @@
+---
+uid: '21040'
+last_name: CRIMEAN PORTS
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13685
+aka_list:
+  items:
+  - uid: '33372'
+    type: a.k.a.
+    category: strong
+    last_name: STATE UNITARY ENTERPRISE OF THE REPUBLIC OF CRIMEA 'CRIMEAN PORTS'
+  - uid: '33373'
+    type: a.k.a.
+    category: weak
+    last_name: SUE RC 'KMP'
+  - uid: '33374'
+    type: a.k.a.
+    category: strong
+    last_name: SUE RK 'CRIMEAN PORTS'
+address_list:
+  items:
+  - uid: '31957'
+    address1: 28 Kirov Street
+    city: Kerch
+    state_or_province: Republic of Crimea
+    postal_code: '98312'
+    country: Ukraine
+id_list:
+  items:
+  - uid: '13129'
+    id_type: Registration ID
+    id_number: '1149102012620'
+  - uid: '13130'
+    id_type: V.A.T. Number
+    id_number: '9111000450'
+  - uid: '143929'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '121853'
+    id_type: Email Address
+    id_number: crimeaport@mail.ru

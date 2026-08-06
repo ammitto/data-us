@@ -1,0 +1,39 @@
+---
+uid: '36483'
+first_name: Pavel Vladimirovich
+last_name: KUZMIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '54857'
+    address1: Verhnie Polya Street, 14 Build 1
+    address2: Apt. 300
+    city: Moscow
+    postal_code: '109341'
+    country: Russia
+id_list:
+  items:
+  - uid: '25944'
+    id_type: National ID No.
+    id_number: '7003029772'
+    id_country: Russia
+  - uid: '150255'
+    id_type: Gender
+    id_number: Male
+  - uid: '174236'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '50256'
+    date_of_birth: 27 Dec 1981
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '50257'
+    place_of_birth: Uzlovaya, Russia
+    main_entry: 'true'
+remarks: "(Linked To: MALOFEYEV, Konstantin; Linked To: TSARGRAD OOO)"

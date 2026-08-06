@@ -1,0 +1,54 @@
+---
+uid: '34461'
+first_name: Oleh
+last_name: VOLOSHYN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '53955'
+    type: a.k.a.
+    category: strong
+    last_name: VOLOSHYN
+    first_name: Oleg
+address_list:
+  items:
+  - uid: '51615'
+    address1: 131 Antonovicha
+    city: Kyiv
+    postal_code: '03150'
+    country: Ukraine
+id_list:
+  items:
+  - uid: '24082'
+    id_type: Passport
+    id_number: ET870130
+    id_country: Ukraine
+    expiration_date: 10 Apr 2022
+  - uid: '24083'
+    id_type: Personal ID Card
+    id_number: '1981040705733'
+    id_country: Ukraine
+    expiration_date: 06 Apr 2028
+  - uid: '24084'
+    id_type: National ID No.
+    id_number: '2968200719'
+    id_country: Ukraine
+  - uid: '175123'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '145811'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '45781'
+    date_of_birth: 07 Apr 1981
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '45782'
+    place_of_birth: Ukraine
+    main_entry: 'true'

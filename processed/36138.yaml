@@ -1,0 +1,37 @@
+---
+uid: '36138'
+last_name: IONOV TRANSKONTINENTAL, OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56992'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU IONOV TRANSKONTINENTAL
+address_list:
+  items:
+  - uid: '54348'
+    address1: Prospekt Mira, d. 102, str. 32, kom. 4
+    city: Moscow
+    postal_code: '129626'
+    country: Russia
+id_list:
+  items:
+  - uid: '25541'
+    id_type: Tax ID No.
+    id_number: '9717043935'
+    id_country: Russia
+  - uid: '25542'
+    id_type: Registration ID
+    id_number: '5167746072478'
+    id_country: Russia
+  - uid: '149594'
+    id_type: Target Type
+    id_number: Private Company
+  - uid: '173980'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: IONOV, Aleksandr Viktorovich)"

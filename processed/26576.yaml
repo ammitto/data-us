@@ -1,0 +1,36 @@
+---
+uid: '26576'
+first_name: Mansur
+last_name: ASGARI
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+address_list:
+  items:
+  - uid: '40305'
+    country: Iran
+id_list:
+  items:
+  - uid: '17203'
+    id_type: Passport
+    id_number: A4249926
+    id_country: Iran
+  - uid: '131130'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '131128'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '31126'
+    date_of_birth: 03 Jun 1958
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '31127'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: THE ORGANIZATION OF DEFENSIVE INNOVATION AND RESEARCH)"

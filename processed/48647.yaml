@@ -1,0 +1,50 @@
+---
+uid: '48647'
+first_name: Reza Kazemifar
+last_name: RAHMAN
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+  - IFSR
+  - IRGC
+aka_list:
+  items:
+  - uid: '75655'
+    type: a.k.a.
+    category: strong
+    last_name: KAZEMIFAR
+    first_name: Reza
+address_list:
+  items:
+  - uid: '73064'
+    state_or_province: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '39633'
+    id_type: National ID No.
+    id_number: '4501201381'
+    id_country: Iran
+  - uid: '39634'
+    id_type: Birth Certificate Number
+    id_number: '3946'
+    id_country: Iran
+  - uid: '170975'
+    id_type: Gender
+    id_number: Male
+  - uid: '171069'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '70972'
+    date_of_birth: 02 Jun 1987
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '70973'
+    place_of_birth: Ilam, Iran
+    main_entry: 'true'
+remarks: "(Linked To: IRANIAN ISLAMIC REVOLUTIONARY GUARD CORPS CYBER-ELECTRONIC COMMAND)"

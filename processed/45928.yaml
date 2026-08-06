@@ -1,0 +1,50 @@
+---
+uid: '45928'
+last_name: A LEVEL AEROSYSTEMS CST LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70969'
+    type: a.k.a.
+    category: weak
+    last_name: OOO TSST
+  - uid: '70970'
+    type: a.k.a.
+    category: weak
+    last_name: LIMITED LIABILITY COMPANY CST
+address_list:
+  items:
+  - uid: '68346'
+    address1: 130 Vorovskogo St.
+    city: Izhevsk
+    postal_code: '436063'
+    country: Russia
+  - uid: '68348'
+    address1: 3/2 Perunovsky Lane
+    address2: Floor 3
+    address3: Room 21
+    city: Moscow
+    postal_code: '127055'
+    country: Russia
+  - uid: '68350'
+    address1: D. 2 etazh 5 kom. 7
+    address2: per. Institutski
+    city: Moscow
+    postal_code: '127030'
+    country: Russia
+id_list:
+  items:
+  - uid: '35684'
+    id_type: Registration Number
+    id_number: '1101841007938'
+    id_country: Russia
+  - uid: '35685'
+    id_type: Tax ID No.
+    id_number: '1841015504'
+    id_country: Russia
+  - uid: '176099'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

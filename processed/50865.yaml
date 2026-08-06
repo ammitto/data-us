@@ -1,0 +1,38 @@
+---
+uid: '50865'
+first_name: Mohammad Reza Moaref
+last_name: JAHROMI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+  - IFSR
+address_list:
+  items:
+  - uid: '77229'
+    country: Iran
+id_list:
+  items:
+  - uid: '50511'
+    id_type: Passport
+    id_number: WJ787290
+    id_country: Canada
+    expiration_date: 12 Jan 2013
+  - uid: '179608'
+    id_type: Gender
+    id_number: Male
+  - uid: '179609'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '79602'
+    date_of_birth: 26 Jan 1964
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '79607'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: MAHAN AIR)"

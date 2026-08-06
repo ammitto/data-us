@@ -1,0 +1,47 @@
+---
+uid: '43298'
+first_name: Tatyana Nikolaevna
+last_name: MOSKALKOVA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '67151'
+    type: a.k.a.
+    category: strong
+    last_name: MOSKALKOVA
+    first_name: Tatiana Nikolaevna
+  - uid: '67152'
+    type: f.k.a.
+    category: strong
+    last_name: NOSENKO
+    first_name: Nikolayevna Tatyana
+address_list:
+  items:
+  - uid: '64648'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '32879'
+    id_type: Tax ID No.
+    id_number: '771873528703'
+    id_country: Russia
+  - uid: '175707'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '162535'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '62533'
+    date_of_birth: 30 May 1955
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '62534'
+    place_of_birth: Vitebsk, Vitebsk Region, Belarus
+    main_entry: 'true'

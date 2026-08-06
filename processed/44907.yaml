@@ -1,0 +1,26 @@
+---
+uid: '44907'
+first_name: Sergey
+last_name: LOGUNTSOV
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+address_list:
+  items:
+  - uid: '66825'
+    city: Saint Petersburg
+    country: Russia
+id_list:
+  items:
+  - uid: '165179'
+    id_type: Gender
+    id_number: Male
+  - uid: '165277'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+date_of_birth_list:
+  items:
+  - uid: '65181'
+    date_of_birth: 15 Jul 1983
+    main_entry: 'true'

@@ -1,0 +1,34 @@
+---
+uid: '10856'
+first_name: Mohsen
+last_name: HOJATI
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+address_list:
+  items:
+  - uid: '15528'
+    address1: c/o Fajr Industries Group
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '5392'
+    id_type: Passport
+    id_number: G4506013
+    id_country: Iran
+  - uid: '114297'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '6277'
+    date_of_birth: 28 Sep 1955
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '6278'
+    place_of_birth: Najafabad, Iran
+    main_entry: 'true'

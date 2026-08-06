@@ -1,0 +1,45 @@
+---
+uid: '38496'
+first_name: Jose Angel
+last_name: RIVERA ZAZUETA
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '60249'
+    type: a.k.a.
+    category: strong
+    last_name: RIVERA SALAS
+    first_name: Miguel Angel
+address_list:
+  items:
+  - uid: '57524'
+    country: Mexico
+id_list:
+  items:
+  - uid: '27796'
+    id_type: C.U.R.P.
+    id_number: RIZA870815HSLVZN00
+    id_country: Mexico
+  - uid: '29878'
+    id_type: C.U.R.P.
+    id_number: RISM871215HMCVLG00
+    id_country: Mexico
+  - uid: '153795'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '53794'
+    date_of_birth: 15 Aug 1987
+    main_entry: 'true'
+  - uid: '58129'
+    date_of_birth: 15 Dec 1987
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '53798'
+    place_of_birth: Sinaloa, Mexico
+    main_entry: 'true'

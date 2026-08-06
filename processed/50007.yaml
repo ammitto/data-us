@@ -1,0 +1,42 @@
+---
+uid: '50007'
+last_name: JOINT STOCK COMPANY RESEARCH INSTITUTE OF POLYMERIC MATERIAL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77955'
+    type: a.k.a.
+    category: weak
+    last_name: AO NIIPM
+  - uid: '77956'
+    type: a.k.a.
+    category: strong
+    last_name: JSC SCIENTIFIC-RESEARCH INSTITUTE OF POLYMER MATERIALS
+address_list:
+  items:
+  - uid: '75659'
+    address1: Ul. Chistopolskaya D. 16
+    city: Perm
+    postal_code: '614113'
+    country: Russia
+  - uid: '75660'
+    address1: Ul. Galpernia D. 11, K. 3 Str. 50/2
+    city: Perm
+    postal_code: '614042'
+    country: Russia
+id_list:
+  items:
+  - uid: '41553'
+    id_type: Registration Number
+    id_number: '1125908001670'
+    id_country: Russia
+  - uid: '41554'
+    id_type: Tax ID No.
+    id_number: '5908051070'
+    id_country: Russia
+  - uid: '178166'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,41 @@
+---
+uid: '40189'
+first_name: Alan Valeryevich
+last_name: LUSHNIKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '62435'
+    type: a.k.a.
+    category: strong
+    last_name: LUSHNIKOV
+    first_name: Alan Valerevich
+address_list:
+  items:
+  - uid: '59851'
+    country: Russia
+id_list:
+  items:
+  - uid: '29334'
+    id_type: Tax ID No.
+    id_number: '782509889604'
+    id_country: Russia
+  - uid: '157076'
+    id_type: Gender
+    id_number: Male
+  - uid: '174021'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '57074'
+    date_of_birth: 10 Aug 1976
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '57075'
+    place_of_birth: St. Petersburg, Russia
+    main_entry: 'true'

@@ -1,0 +1,45 @@
+---
+uid: '43516'
+first_name: James
+last_name: NANDO
+sdn_type: Individual
+program_list:
+  programs:
+  - SOUTH SUDAN
+aka_list:
+  items:
+  - uid: '67630'
+    type: a.k.a.
+    category: strong
+    last_name: NANDO
+    first_name: James Marko
+  - uid: '67631'
+    type: a.k.a.
+    category: strong
+    last_name: MARK
+    first_name: James Nando
+address_list:
+  items:
+  - uid: '65067'
+    city: Juba
+    country: South Sudan
+  - uid: '65068'
+    city: Yambio
+    country: South Sudan
+  - uid: '65226'
+    country: Congo, Democratic Republic of the
+id_list:
+  items:
+  - uid: '163164'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '63359'
+    date_of_birth: 1970 to 1972
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '63165'
+    place_of_birth: Sudan
+    main_entry: 'true'

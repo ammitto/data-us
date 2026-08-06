@@ -1,0 +1,48 @@
+---
+uid: '13146'
+last_name: ISLAMIC REGIONAL COOPERATION BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '14793'
+    type: a.k.a.
+    category: strong
+    last_name: BANK-E TAAWON MANTAGHEEY-E ESLAMI
+  - uid: '14794'
+    type: a.k.a.
+    category: strong
+    last_name: REGIONAL COOPERATION OF THE ISLAMIC BANK FOR DEVELOPMENT AND INVESTMENT
+address_list:
+  items:
+  - uid: '21008'
+    address1: Building No. 59, District 929, Street No. 17
+    address2: Arsat Al-Hindia, Al Masbah
+    city: Baghdad
+    country: Iraq
+  - uid: '21525'
+    address1: Tohid Street, Before Tohid Circle, No. 33
+    address2: Upper Level of Eghtesad-e Novin Bank
+    city: Tehran
+    postal_code: '1419913464'
+    country: Iran
+  - uid: '45337'
+    address1: Arsat Indian, 59 District-929, Street-17
+    city: Baghdad
+    country: Iraq
+  - uid: '45338'
+    address1: Arrasat Al Hindiya, Al Masbah Street
+    city: Baghdad
+    country: Iraq
+id_list:
+  items:
+  - uid: '111712'
+    id_type: SWIFT/BIC
+    id_number: RCDFIQBA
+  - uid: '137308'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: EGHTESAD NOVIN BANK)"

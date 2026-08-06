@@ -1,0 +1,30 @@
+---
+uid: '50674'
+first_name: Gholamreza
+last_name: ROSHAN
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+address_list:
+  items:
+  - uid: '76836'
+    state_or_province: Khuzestan Province
+    country: Iran
+id_list:
+  items:
+  - uid: '42533'
+    id_type: National ID No.
+    id_number: '3030118861'
+    id_country: Iran
+  - uid: '179128'
+    id_type: Gender
+    id_number: Male
+  - uid: '179302'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '79234'
+    date_of_birth: 01 Dec 1978
+    main_entry: 'true'

@@ -1,0 +1,28 @@
+---
+uid: '47401'
+last_name: KVALITET
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '70676'
+    address1: Ul. Prigranichnaya D. 1
+    address2: Floor 1, Vorota/Office 30/1
+    city: Novosibirsk
+    postal_code: '630068'
+    country: Russia
+id_list:
+  items:
+  - uid: '37792'
+    id_type: Registration Number
+    id_number: '1215400050942'
+    id_country: Russia
+  - uid: '37793'
+    id_type: Tax ID No.
+    id_number: '5473001698'
+    id_country: Russia
+  - uid: '169736'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,38 @@
+---
+uid: '38798'
+last_name: MILUR SA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '57888'
+    address1: Chemin Des Planches 42
+    city: Epalinges
+    postal_code: '1066'
+    country: Switzerland
+  - uid: '57889'
+    address1: Avenue des Alpes 104
+    city: Montreux
+    postal_code: '1820'
+    country: Switzerland
+id_list:
+  items:
+  - uid: '28059'
+    id_type: Registration Number
+    id_number: CH-1550.1.105.045-4
+    id_country: Switzerland
+  - uid: '154412'
+    id_type: 'Organization Type:'
+    id_number: Wholesale of electronic and telecommunications equipment and parts
+  - uid: '154413'
+    id_type: 'Organization Type:'
+    id_number: Wholesale of other machinery and equipment
+  - uid: '154411'
+    id_type: Organization Established Date
+    id_number: 10 Feb 2012
+  - uid: '174712'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: MILUR ELECTRONICS LLC)"

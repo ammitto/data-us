@@ -1,0 +1,38 @@
+---
+uid: '57952'
+last_name: BANCO FINANCIERO INTERNACIONAL S.A.
+sdn_type: Entity
+program_list:
+  programs:
+  - CUBA-EO14404
+aka_list:
+  items:
+  - uid: '89616'
+    type: a.k.a.
+    category: weak
+    last_name: BFI
+address_list:
+  items:
+  - uid: '88922'
+    address1: 5ta Ave. No. 9009 esq. 92
+    address2: Playa
+    city: Havana
+    country: Cuba
+id_list:
+  items:
+  - uid: '52468'
+    id_type: Entity Code
+    id_number: '60210'
+    id_country: Cuba
+  - uid: '198757'
+    id_type: Organization Established Date
+    id_number: 13 Oct 1984
+  - uid: '198939'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '198940'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
+  - uid: '198758'
+    id_type: SWIFT/BIC
+    id_number: BFICCUHH

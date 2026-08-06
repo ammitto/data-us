@@ -1,0 +1,27 @@
+---
+uid: '47865'
+last_name: JOINT STOCK COMPANY ZVEZDA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '71648'
+    address1: d. 16 kab. 201, etazh 2, ul. Sovetskaya Pgt
+    city: Ust-Nera
+    postal_code: '678730'
+    country: Russia
+id_list:
+  items:
+  - uid: '38614'
+    id_type: Tax ID No.
+    id_number: '1420041450'
+    id_country: Russia
+  - uid: '38615'
+    id_type: Registration Number
+    id_number: '1061420001994'
+    id_country: Russia
+  - uid: '176499'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

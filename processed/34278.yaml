@@ -1,0 +1,62 @@
+---
+uid: '34278'
+first_name: Ahmad
+last_name: AL-KHATIB
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '53736'
+    type: a.k.a.
+    category: strong
+    last_name: EL KHATIB
+    first_name: Ahmad
+  - uid: '53737'
+    type: a.k.a.
+    category: strong
+    last_name: AL KHATIB
+    first_name: Ahmad
+  - uid: '63226'
+    type: a.k.a.
+    category: strong
+    last_name: HISHMAH
+    first_name: Ahmad
+address_list:
+  items:
+  - uid: '51408'
+    city: Sao Paulo
+    country: Brazil
+id_list:
+  items:
+  - uid: '23940'
+    id_type: Tax ID No.
+    id_number: 234.904.268-51
+    id_country: Brazil
+  - uid: '29836'
+    id_type: Passport
+    id_number: RL0554365
+    id_country: Lebanon
+    issue_date: 20 Mar 2011
+    expiration_date: 29 Mar 2016
+  - uid: '145616'
+    id_type: Gender
+    id_number: Male
+  - uid: '164327'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '45615'
+    date_of_birth: 03 Jul 1969
+    main_entry: 'true'
+  - uid: '58007'
+    date_of_birth: 03 Jul 1967
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '58008'
+    place_of_birth: Majdal Anjar, Lebanon
+    main_entry: 'true'

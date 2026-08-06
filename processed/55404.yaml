@@ -1,0 +1,39 @@
+---
+uid: '55404'
+first_name: Baojuan
+last_name: LIU
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+address_list:
+  items:
+  - uid: '84696'
+    address1: No. 20-18, Xima Village, Shiliu Street
+    address2: Donghai County
+    state_or_province: Jiangsu
+    country: China
+id_list:
+  items:
+  - uid: '49388'
+    id_type: National ID No.
+    id_number: 37072419870802186X
+    id_country: China
+  - uid: '192782'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '192780'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '92778'
+    date_of_birth: 02 Aug 1987
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '92783'
+    place_of_birth: Linqu County, Weifang City, Shandong, China
+    main_entry: 'true'
+remarks: "(Linked To: LIU, Baoxia)"

@@ -1,0 +1,45 @@
+---
+uid: '32500'
+first_name: Gilberto
+last_name: MARTINEZ RENTERIA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '51015'
+    type: a.k.a.
+    category: weak
+    last_name: EL CINCUENTA
+  - uid: '51016'
+    type: a.k.a.
+    category: weak
+    last_name: EL 50
+  - uid: '51018'
+    type: a.k.a.
+    category: weak
+    last_name: EL GILIO
+address_list:
+  items:
+  - uid: '48904'
+    country: Mexico
+id_list:
+  items:
+  - uid: '22279'
+    id_type: C.U.R.P.
+    id_number: MARG870514HSRRNL00
+    id_country: Mexico
+  - uid: '142116'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '42113'
+    date_of_birth: 14 May 1987
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '42114'
+    place_of_birth: Nogales, Sonora, Mexico
+    main_entry: 'true'

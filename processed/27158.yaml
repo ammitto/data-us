@@ -1,0 +1,40 @@
+---
+uid: '27158'
+first_name: Seyed Hossein
+last_name: SHARIAT
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+aka_list:
+  items:
+  - uid: '42992'
+    type: a.k.a.
+    category: strong
+    last_name: SHARIAT
+    first_name: Hossein
+id_list:
+  items:
+  - uid: '17768'
+    id_type: Passport
+    id_number: P37695914
+    id_country: Iran
+    expiration_date: 27 Jun 2021
+  - uid: '132205'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '132162'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '32160'
+    date_of_birth: 20 Apr 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '32161'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: ASRE SANAT ESHRAGH COMPANY)"

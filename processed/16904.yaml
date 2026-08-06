@@ -1,0 +1,49 @@
+---
+uid: '16904'
+last_name: SOURCE1HERBS
+sdn_type: Entity
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '25584'
+    address1: 3076 Rosegrove Road
+    city: Swastika
+    state_or_province: Ontario
+    postal_code: P0K 1T0
+    country: Canada
+  - uid: '25585'
+    address1: 34 Hudson Bay Street
+    city: Kirkland Lake
+    state_or_province: Ontario
+    postal_code: P2N 2H9
+    country: Canada
+  - uid: '25586'
+    address1: P.O. Box 3067
+    city: Holetown
+    state_or_province: St. James
+    country: Barbados
+  - uid: '25587'
+    address1: 14 Satjay Bridgetown Center
+    address2: Victoria Street
+    city: Bridgetown
+    country: Barbados
+  - uid: '25588'
+    address1: 301 Palm Beach Condominiums
+    city: Hastings
+    state_or_province: Christ Church
+    country: Barbados
+id_list:
+  items:
+  - uid: '9389'
+    id_type: Tax ID No.
+    id_number: '180300642'
+    id_country: Canada
+  - uid: '9390'
+    id_type: Tax ID No.
+    id_number: '200363331'
+    id_country: Canada
+  - uid: '115555'
+    id_type: Website
+    id_number: http://www.source1herbs.com

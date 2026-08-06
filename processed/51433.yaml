@@ -1,0 +1,41 @@
+---
+uid: '51433'
+last_name: EVROAZIATSKII REGISTRATOR
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80651'
+    type: a.k.a.
+    category: weak
+    last_name: EAR
+address_list:
+  items:
+  - uid: '78344'
+    address1: Ul. Nikolaya Stolbova D. 2
+    city: Kazan
+    postal_code: '420021'
+    country: Russia
+  - uid: '78345'
+    address1: Ul. Zinina D. 10A, Office 41
+    city: Kazan
+    postal_code: '420097'
+    country: Russia
+id_list:
+  items:
+  - uid: '43757'
+    id_type: Registration Number
+    id_number: '1021603631224'
+    id_country: Russia
+  - uid: '43758'
+    id_type: Tax ID No.
+    id_number: '1660055801'
+    id_country: Russia
+  - uid: '182802'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '180947'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,43 @@
+---
+uid: '23305'
+first_name: Yankuba
+last_name: BADJIE
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '36738'
+    type: a.k.a.
+    category: strong
+    last_name: BADJI
+    first_name: Yankouba
+  - uid: '36784'
+    type: a.k.a.
+    category: strong
+    last_name: BADGIE
+    first_name: Yankuba
+address_list:
+  items:
+  - uid: '35273'
+    address1: Banjul
+    country: The Gambia
+id_list:
+  items:
+  - uid: '125049'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '25050'
+    date_of_birth: 25 Feb 1973
+    main_entry: 'true'
+  - uid: '25051'
+    date_of_birth: 24 Feb 1973
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '25006'
+    place_of_birth: New Jeshwang, Kanifang Municipality, The Gambia
+    main_entry: 'true'

@@ -1,0 +1,31 @@
+---
+uid: '15444'
+last_name: EP-MNQ
+sdn_type: Aircraft
+program_list:
+  programs:
+  - SDGT
+  - NPWMD
+  - IFSR
+id_list:
+  items:
+  - uid: '186131'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '112342'
+    id_type: Aircraft Construction Number (also called L/N or S/N or F/N)
+    id_number: '553'
+  - uid: '112346'
+    id_type: Aircraft Manufacture Date
+    id_number: '08 Dec 1989'
+  - uid: '112344'
+    id_type: Aircraft Model
+    id_number: A300B4-603
+  - uid: '112345'
+    id_type: Aircraft Operator
+    id_number: MAHAN AIR
+  - uid: '133514'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: MAHAN AIR)"

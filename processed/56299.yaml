@@ -1,0 +1,66 @@
+---
+uid: '56299'
+first_name: Vahid
+last_name: QAYUMI
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '87325'
+    type: a.k.a.
+    category: strong
+    last_name: GHAYUMI
+    first_name: Vahid
+  - uid: '87326'
+    type: a.k.a.
+    category: strong
+    last_name: QIYUMI
+    first_name: Wahid
+  - uid: '87327'
+    type: a.k.a.
+    category: strong
+    last_name: KAYYUMI
+    first_name: Vahid
+address_list:
+  items:
+  - uid: '86149'
+    city: Ankara
+    country: Turkey
+  - uid: '86151'
+    city: Shiraz
+    country: Iran
+id_list:
+  items:
+  - uid: '50316'
+    id_type: Passport
+    id_number: U22259345
+    id_country: Turkey
+    expiration_date: 29 Aug 2029
+  - uid: '50317'
+    id_type: National ID No.
+    id_number: '2431845990'
+    id_country: Iran
+  - uid: '50320'
+    id_type: Passport
+    id_number: Z52116903
+    id_country: Iran
+  - uid: '194426'
+    id_type: Gender
+    id_number: Male
+  - uid: '194425'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '94422'
+    date_of_birth: 30 May 1976
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '94423'
+    place_of_birth: Marvdasht, Iran
+    main_entry: 'true'
+remarks: "(Linked To: PARCHIN CHEMICAL INDUSTRIES)"

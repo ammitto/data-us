@@ -1,0 +1,55 @@
+---
+uid: '43437'
+first_name: Yanni
+last_name: ZHENG
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+aka_list:
+  items:
+  - uid: '67368'
+    type: a.k.a.
+    category: weak
+    last_name: SAKURAKO OKUBO
+  - uid: '75591'
+    type: a.k.a.
+    category: strong
+    last_name: MILLER
+    first_name: Lucy
+address_list:
+  items:
+  - uid: '64833'
+    address1: '98/86 #45A1 Na Chom Thian, Sattahip District'
+    state_or_province: Chon Buri
+    postal_code: '20250'
+    country: Thailand
+id_list:
+  items:
+  - uid: '33038'
+    id_type: Passport
+    id_number: EH4901807
+    id_country: China
+  - uid: '33039'
+    id_type: Passport
+    id_number: EA5001872
+    id_country: China
+  - uid: '39587'
+    id_type: Passport
+    id_number: RE0124679
+    id_country: Saint Kitts and Nevis
+    issue_date: 13 May 2022
+    expiration_date: 12 May 2032
+  - uid: '162901'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '62902'
+    date_of_birth: 02 Jul 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '62903'
+    place_of_birth: Anshan Liaoning, China
+    main_entry: 'true'

@@ -1,0 +1,41 @@
+---
+uid: '43241'
+first_name: Pavel Sergeyevich
+last_name: GRACHEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '67032'
+    type: a.k.a.
+    category: strong
+    last_name: GRACHYOV
+    first_name: Pavel Sergeevich
+address_list:
+  items:
+  - uid: '64705'
+    country: Russia
+id_list:
+  items:
+  - uid: '32792'
+    id_type: Tax ID No.
+    id_number: '770200640178'
+    id_country: Russia
+  - uid: '162421'
+    id_type: Gender
+    id_number: Male
+  - uid: '175657'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '62419'
+    date_of_birth: 21 Jan 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '62420'
+    place_of_birth: St. Petersburg, Russia
+    main_entry: 'true'

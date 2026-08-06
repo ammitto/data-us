@@ -1,0 +1,34 @@
+---
+uid: '30171'
+first_name: Lucio
+last_name: RODRIGUEZ SERRANO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '45545'
+    address1: El Barrio de Guanajuato
+    city: Badiraguato
+    state_or_province: Sinaloa
+    country: Mexico
+id_list:
+  items:
+  - uid: '20268'
+    id_type: C.U.R.P.
+    id_number: ROSL461213HSLDRC09
+    id_country: Mexico
+  - uid: '137538'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '37536'
+    date_of_birth: 13 Dec 1946
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '37537'
+    place_of_birth: Badiraguato, Sinaloa, Mexico
+    main_entry: 'true'

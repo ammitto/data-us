@@ -1,0 +1,55 @@
+---
+uid: '8090'
+first_name: Cherif Said
+last_name: BEN ABDELHAKIM
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '6030'
+    type: a.k.a.
+    category: strong
+    last_name: ABOU SALMAN
+  - uid: '6696'
+    type: a.k.a.
+    category: weak
+    last_name: DJALLAL
+  - uid: '6697'
+    type: a.k.a.
+    category: weak
+    last_name: YOUCEF
+  - uid: '8867'
+    type: a.k.a.
+    category: strong
+    last_name: AL-CHERIF
+    first_name: Said Ben Abdelhakim Ben Omar
+address_list:
+  items:
+  - uid: '7227'
+    address1: Corso Lodi 59
+    city: Milan
+    country: Italy
+id_list:
+  items:
+  - uid: '4081'
+    id_type: Passport
+    id_number: M307968
+    issue_date: '08 Sep 2001'
+    expiration_date: 07 Sep 2006
+  - uid: '185766'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '2380'
+    date_of_birth: 25 Jan 1970
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '2381'
+    place_of_birth: Menzel Temine, Tunisia
+    main_entry: 'true'
+remarks: arrested 30 Sep 2002

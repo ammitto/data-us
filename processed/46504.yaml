@@ -1,0 +1,33 @@
+---
+uid: '46504'
+last_name: OOO REALEKSPORT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '69192'
+    address1: ul. Truda, d. 64A, pom. 45
+    address2: ofis 408
+    city: Chelyabinsk
+    postal_code: '454090'
+    country: Russia
+  - uid: '69193'
+    address1: Lenina Prospekt 89-518, 525 office
+    city: Chelyabinsk
+    postal_code: '454080'
+    country: Russia
+id_list:
+  items:
+  - uid: '36431'
+    id_type: Registration Number
+    id_number: '1087448006161'
+    id_country: Russia
+  - uid: '36432'
+    id_type: Tax ID No.
+    id_number: '7448105810'
+    id_country: Russia
+  - uid: '174971'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,38 @@
+---
+uid: '25431'
+last_name: IRISL MARITIME TRAINING INSTITUTE
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN
+aka_list:
+  items:
+  - uid: '39995'
+    type: a.k.a.
+    category: strong
+    last_name: IRISL MTI
+address_list:
+  items:
+  - uid: '38466'
+    address1: No. 63, East Tajarloo Ave, Tajarloo Square
+    address2: Shiyan
+    city: Tehran
+    country: Iran
+  - uid: '38467'
+    address1: Reiesali Delvari Ave
+    city: Bushehr
+    postal_code: '7514618787'
+    country: Iran
+  - uid: '38468'
+    address1: Farhang Ave, Khazar's Building
+    city: Anzali
+    postal_code: '4314695613'
+    country: Iran
+id_list:
+  items:
+  - uid: '129029'
+    id_type: Website
+    id_number: www.irmti.ir
+  - uid: '129028'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

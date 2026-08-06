@@ -1,0 +1,32 @@
+---
+uid: '22203'
+first_name: Vadim Viktorovich
+last_name: BULGAKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - UKRAINE-EO13660
+address_list:
+  items:
+  - uid: '34133'
+    state_or_province: Crimea
+    country: Ukraine
+id_list:
+  items:
+  - uid: '123935'
+    id_type: Gender
+    id_number: Male
+  - uid: '143796'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+date_of_birth_list:
+  items:
+  - uid: '23571'
+    date_of_birth: 30 Jan 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '23572'
+    place_of_birth: Simferopol, Crimea, Ukraine
+    main_entry: 'true'

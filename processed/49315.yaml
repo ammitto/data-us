@@ -1,0 +1,27 @@
+---
+uid: '49315'
+last_name: EKODOR
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '74305'
+    address1: ul. Snezhnaya, d. 20 etazh 2
+    city: Moscow
+    postal_code: '129323'
+    country: Russia
+id_list:
+  items:
+  - uid: '40561'
+    id_type: Registration Number
+    id_number: '1147746328322'
+    id_country: Russia
+  - uid: '40562'
+    id_type: Tax ID No.
+    id_number: '7716770807'
+    id_country: Russia
+  - uid: '172712'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

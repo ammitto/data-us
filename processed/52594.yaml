@@ -1,0 +1,31 @@
+---
+uid: '52594'
+first_name: Sergei Nikolaevich
+last_name: VOVCHENKO
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '80335'
+    city: Rostov-on-Don
+    country: Russia
+id_list:
+  items:
+  - uid: '45635'
+    id_type: Tax ID No.
+    id_number: '615502050409'
+    id_country: Russia
+  - uid: '184339'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184341'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '84340'
+    date_of_birth: '1965'
+    main_entry: 'true'
+remarks: "(Linked To: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTIU OMNITREID)"

@@ -1,0 +1,41 @@
+---
+uid: '54454'
+last_name: KAVEH METHANOL COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13846
+aka_list:
+  items:
+  - uid: '84739'
+    type: a.k.a.
+    category: strong
+    last_name: KAVEH PETROCHEMICAL CO.
+address_list:
+  items:
+  - uid: '83158'
+    address1: 'Kaveh Building #4'
+    address2: Oshan Blvd.
+    address3: Sayad Shirazi Highway
+    city: Tehran
+    country: Iran
+  - uid: '83159'
+    address1: KM5 Dayyer to Bushehr Coasta Road
+    city: Bandar Dayyer
+    state_or_province: Bushehr
+    country: Iran
+id_list:
+  items:
+  - uid: '48070'
+    id_type: Registration Number
+    id_number: '219476'
+    id_country: Iran
+  - uid: '190346'
+    id_type: Organization Established Date
+    id_number: 17 Apr 2004
+  - uid: '190380'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '190599'
+    id_type: 'Executive Order 13846 information:'
+    id_number: BLOCKING PROPERTY AND INTERESTS IN PROPERTY.  Sec. 5(a)(iv)

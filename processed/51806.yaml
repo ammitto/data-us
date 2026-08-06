@@ -1,0 +1,39 @@
+---
+uid: '51806'
+last_name: COMMERCIAL BANK KHLYNOV JOINT STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '78949'
+    address1: Ul. Uritskogo 40
+    city: Kirov
+    postal_code: '610002'
+    country: Russia
+id_list:
+  items:
+  - uid: '44463'
+    id_type: Legal Entity Number
+    id_number: 253400W3H9DQ3UWGF192
+  - uid: '44464'
+    id_type: Registration Number
+    id_number: '1024300000042'
+    id_country: Russia
+  - uid: '44465'
+    id_type: Tax ID No.
+    id_number: '4346013603'
+    id_country: Russia
+  - uid: '182085'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '182086'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '182084'
+    id_type: SWIFT/BIC
+    id_number: KHOARU22
+  - uid: '182083'
+    id_type: Website
+    id_number: www.bank-hlynov.ru

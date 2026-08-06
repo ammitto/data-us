@@ -1,0 +1,75 @@
+---
+uid: '50482'
+last_name: HEAVY OIL DISTRIBUTION COMPANY HODICO S.A.L.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '78913'
+    type: a.k.a.
+    category: strong
+    last_name: HEAVY OIL DISTRIBUTION COMPANY SAL
+  - uid: '78914'
+    type: a.k.a.
+    category: strong
+    last_name: HEAVY OIL DISTRIBUTION CO SAL
+  - uid: '78915'
+    type: a.k.a.
+    category: strong
+    last_name: HODICO
+  - uid: '78917'
+    type: a.k.a.
+    category: strong
+    last_name: HEAVY OIL DISTRIBUTION CO. HODICO SARL
+  - uid: '78918'
+    type: a.k.a.
+    category: strong
+    last_name: HEAVY OIL DISTRIBUTION COMPANY-HODECO
+  - uid: '78965'
+    type: a.k.a.
+    category: strong
+    last_name: HODICO SAL
+address_list:
+  items:
+  - uid: '76550'
+    city: Baabda
+    country: Lebanon
+  - uid: '76551'
+    address1: Queen's Plaza Center, Block C
+    address2: Jdeideh Boulevard Street
+    address3: Sin El-Fil
+    city: Baouchriyeh
+    country: Lebanon
+  - uid: '76552'
+    address1: PO Box 90326
+    city: Metn
+    country: Lebanon
+  - uid: '76553'
+    address1: Grey Center, 2nd Floor
+    address2: 'P.O. Box: 90326'
+    address3: Jdeidet
+    city: El Metn
+    country: Lebanon
+id_list:
+  items:
+  - uid: '42283'
+    id_type: Commercial Registry Number
+    id_number: '68648'
+    id_country: Lebanon
+  - uid: '178513'
+    id_type: Organization Established Date
+    id_number: 01 Apr 2001
+  - uid: '178514'
+    id_type: Website
+    id_number: www.hodico.com/
+  - uid: '178512'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
+      Sanctions Regulations
+  - uid: '179140'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: "(Linked To: HIZBALLAH)"

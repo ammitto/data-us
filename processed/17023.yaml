@@ -1,0 +1,32 @@
+---
+uid: '17023'
+last_name: LUHANSK PEOPLE'S REPUBLIC
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13660
+  - RUSSIA-EO14065
+aka_list:
+  items:
+  - uid: '26126'
+    type: a.k.a.
+    category: strong
+    last_name: LUGANSK PEOPLE'S REPUBLIC
+  - uid: '26127'
+    type: a.k.a.
+    category: strong
+    last_name: PEOPLE'S REPUBLIC OF LUHANSK
+address_list:
+  items:
+  - uid: '25838'
+    state_or_province: Luhansk Region
+    country: Ukraine
+id_list:
+  items:
+  - uid: '143467'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '152882'
+    id_type: Target Type
+    id_number: Unrecognized Government Entity

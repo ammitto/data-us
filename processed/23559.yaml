@@ -1,0 +1,53 @@
+---
+uid: '23559'
+last_name: PSKOVNEFTEPRODUKT OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13662
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '37130'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY PSKOVNEFTEPRODUCT
+  - uid: '37131'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY MARKETING ASSOCIATION PSKOVNEFTEPRODUCT
+address_list:
+  items:
+  - uid: '35623'
+    address1: 4 Oktyabrsky Prospekt
+    city: Pskov
+    postal_code: '180000'
+    country: Russia
+id_list:
+  items:
+  - uid: '15026'
+    id_type: Registration ID
+    id_number: '1026000970049'
+    id_country: Russia
+  - uid: '15027'
+    id_type: Tax ID No.
+    id_number: '6027042337'
+    id_country: Russia
+  - uid: '125428'
+    id_type: Nationality of Registration
+    id_number: Russia
+  - uid: '143972'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '125427'
+    id_type: Website
+    id_number: http://www.pskovnefteprodukt.ru
+  - uid: '125596'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 4
+  - uid: '183038'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: 'For more information, please reference the following link: http://www.treasury.gov/resource-center/sanctions/OFAC-Enforcement/Pages/OFAC-Recent-Actions.aspx;
+  (Linked To: SURGUTNEFTEGAS)'

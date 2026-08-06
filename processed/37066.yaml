@@ -1,0 +1,26 @@
+---
+uid: '37066'
+last_name: MARINE TRANS SHIPPING LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '55479'
+    address1: Office 2, Ulitsa Naberezhnaya Reki Tsareva 1
+    city: Astrakhan
+    postal_code: '414024'
+    country: Russia
+id_list:
+  items:
+  - uid: '26367'
+    id_type: Identification Number
+    id_number: IMO 6183435
+  - uid: '26368'
+    id_type: Tax ID No.
+    id_number: '3025037914'
+    id_country: Russia
+  - uid: '174478'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

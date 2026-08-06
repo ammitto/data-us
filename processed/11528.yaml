@@ -1,0 +1,100 @@
+---
+uid: '11528'
+first_name: Miguel
+last_name: TREVINO MORALES
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - SDNTK
+aka_list:
+  items:
+  - uid: '12203'
+    type: a.k.a.
+    category: strong
+    last_name: TREVINO MORALES
+    first_name: Miguel Angel
+  - uid: '45433'
+    type: a.k.a.
+    category: weak
+    last_name: '40'
+address_list:
+  items:
+  - uid: '17220'
+    address1: Calle Veracruz 825
+    city: Nuevo Laredo
+    state_or_province: Tamaulipas
+    country: Mexico
+  - uid: '17221'
+    address1: Calle Mina No. 6111
+    city: Nuevo Laredo
+    state_or_province: Tamaulipas
+    country: Mexico
+  - uid: '17222'
+    address1: Calle Nayarit 3404
+    address2: en la esquina de Nayarit y Ocampo
+    city: Nuevo Laredo
+    state_or_province: Tamaulipas
+    country: Mexico
+  - uid: '17223'
+    address1: Calle 15 de Septiembre y Leandro Valle
+    city: Nuevo Laredo
+    state_or_province: Tamaulipas
+    country: Mexico
+  - uid: '17224'
+    address1: Avenida Tecnologico 17
+    address2: entre Calle Pedro Perezo Ibarra y Fraccionamiento Tecnologica
+    city: Nuevo Laredo
+    state_or_province: Tamaulipas
+    country: Mexico
+  - uid: '17225'
+    address1: Amapola 3003
+    address2: Col.  Primavera
+    city: Nuevo Laredo
+    state_or_province: Tamaulipas
+    country: Mexico
+  - uid: '17226'
+    address1: Rancho Soledad
+    city: Anahuac
+    state_or_province: Nuevo Leon
+    country: Mexico
+  - uid: '17227'
+    address1: Rancho Rancherias
+    city: Anahuac
+    state_or_province: Nuevo Leon
+    country: Mexico
+  - uid: '17228'
+    city: Reynosa
+    state_or_province: Tamaulipas
+    country: Mexico
+id_list:
+  items:
+  - uid: '5924'
+    id_type: R.F.C.
+    id_number: TRMM730628
+    id_country: Mexico
+  - uid: '135392'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '6989'
+    date_of_birth: 28 Jun 1973
+    main_entry: 'true'
+  - uid: '6990'
+    date_of_birth: 18 Nov 1970
+    main_entry: 'false'
+  - uid: '6991'
+    date_of_birth: 25 Jan 1973
+    main_entry: 'false'
+  - uid: '6992'
+    date_of_birth: 15 Jul 1976
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '6993'
+    place_of_birth: Nuevo Laredo, Tamaulipas, Mexico
+    main_entry: 'true'
+  - uid: '6994'
+    place_of_birth: Tamaulipas, Mexico
+    main_entry: 'false'

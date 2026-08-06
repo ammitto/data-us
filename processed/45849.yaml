@@ -1,0 +1,36 @@
+---
+uid: '45849'
+first_name: Igor Gennadyevich
+last_name: CHEKUNOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70836'
+    type: a.k.a.
+    category: strong
+    last_name: CHEKUNOV
+    first_name: Igor
+address_list:
+  items:
+  - uid: '68217'
+    country: Russia
+id_list:
+  items:
+  - uid: '35598'
+    id_type: Passport
+    id_number: '530176384'
+    id_country: Russia
+  - uid: '166478'
+    id_type: Gender
+    id_number: Male
+  - uid: '170575'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '66476'
+    date_of_birth: 27 Mar 1966
+    main_entry: 'true'

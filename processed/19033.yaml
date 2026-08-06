@@ -1,0 +1,71 @@
+---
+uid: '19033'
+last_name: OPEN JOINT STOCK COMPANY COMMERCIAL BANK VERKHNEVOLZHSKY
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13685
+aka_list:
+  items:
+  - uid: '30024'
+    type: a.k.a.
+    category: strong
+    last_name: OJSC CB VERKHNEVOLZHSKY
+  - uid: '30025'
+    type: a.k.a.
+    category: strong
+    last_name: OAO KB VERKHNEVOLZHSKIY
+  - uid: '30026'
+    type: a.k.a.
+    category: strong
+    last_name: OTKRYTOE AKTSIONERNOE OBSHCHESTVO KOMMERCHESKIY BANK VERKHNEVOLZHSKIY
+  - uid: '30027'
+    type: a.k.a.
+    category: strong
+    last_name: COMMERCIAL JOINT-STOCK BANK VERHNEVOLGSKY
+  - uid: '30028'
+    type: a.k.a.
+    category: strong
+    last_name: PUBLIC COMMERCIAL JOINT-STOCK BANK VERHNEVOLZHSKY
+address_list:
+  items:
+  - uid: '28961'
+    address1: Ulitsa Bratyev Orlovykh 1a
+    city: Rybinsk
+    state_or_province: Yaroslavskaya Oblast
+    postal_code: '152903'
+    country: Russia
+  - uid: '28962'
+    address1: Ulitsa Suvorova 39A
+    city: Sevastopol
+    state_or_province: Crimea
+    postal_code: '299011'
+    country: Ukraine
+  - uid: '28963'
+    address1: Pereulok Pionerskiy 5
+    city: Simferopol
+    state_or_province: Crimea
+    postal_code: '295011'
+    country: Ukraine
+id_list:
+  items:
+  - uid: '11519'
+    id_type: Registration ID
+    id_number: '1027600000185'
+    id_country: Russia
+  - uid: '143650'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '118806'
+    id_type: SWIFT/BIC
+    id_number: VECARU21
+  - uid: '118807'
+    id_type: SWIFT/BIC
+    id_number: VVBKRU2Y
+  - uid: '118801'
+    id_type: Website
+    id_number: www.vvbank.ru
+  - uid: '118800'
+    id_type: Email Address
+    id_number: vbank@yaroslavl.ru

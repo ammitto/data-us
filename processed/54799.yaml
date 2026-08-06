@@ -1,0 +1,32 @@
+---
+uid: '54799'
+last_name: URANUS
+sdn_type: Vessel
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '85299'
+    type: a.k.a.
+    category: strong
+    last_name: AZTEC
+  - uid: '85304'
+    type: a.k.a.
+    category: strong
+    last_name: NECLEUS
+id_list:
+  items:
+  - uid: '48555'
+    id_type: MMSI
+    id_number: '636014160'
+  - uid: '48558'
+    id_type: Vessel Registration Identification
+    id_number: IMO 9248485
+  - uid: '191393'
+    id_type: Vessel Year of Build
+    id_number: '2002'
+  - uid: '191227'
+    id_type: Other Vessel Flag
+    id_number: Liberia
+remarks: "(Linked To: SHAMKHANI, Mohammad Hossein)"

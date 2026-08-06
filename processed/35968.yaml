@@ -1,0 +1,42 @@
+---
+uid: '35968'
+first_name: Anatoly Alexandrovich
+last_name: BRAVERMAN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56571'
+    type: a.k.a.
+    category: strong
+    last_name: BRAVERMAN
+    first_name: Anatoli Aleksandrovich
+address_list:
+  items:
+  - uid: '53971'
+    country: Russia
+id_list:
+  items:
+  - uid: '25320'
+    id_type: Passport
+    id_number: '530152537'
+    id_country: Russia
+  - uid: '149180'
+    id_type: Gender
+    id_number: Male
+  - uid: '173315'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '49178'
+    date_of_birth: 05 Aug 1985
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '49179'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'
+remarks: "(Linked To: SOVCOMBANK OPEN JOINT STOCK COMPANY)"

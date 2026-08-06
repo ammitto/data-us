@@ -1,0 +1,32 @@
+---
+uid: '51270'
+first_name: Ricardo Jose
+last_name: MENENDEZ PRIETO
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+address_list:
+  items:
+  - uid: '78109'
+    city: Caracas
+    country: Venezuela
+id_list:
+  items:
+  - uid: '43553'
+    id_type: Cedula No.
+    id_number: V10333821
+    id_country: Venezuela
+  - uid: '180571'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '80568'
+    date_of_birth: 07 Dec 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '80569'
+    place_of_birth: Caracas, Venezuela
+    main_entry: 'true'

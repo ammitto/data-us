@@ -1,0 +1,36 @@
+---
+uid: '45003'
+last_name: LIMITED LIABILITY COMPANY AMURSKAYA GORNO RUDNAYA KOMPANIYA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69681'
+    type: a.k.a.
+    category: strong
+    last_name: OOO AMURSKAYA GRK
+address_list:
+  items:
+  - uid: '66994'
+    address1: d. 4A etazh 1 pom. I
+    address2: Kom. 4, Ofis 4-2
+    address3: ul. Kutuzovskaya
+    city: Odintsovo
+    postal_code: '143001'
+    country: Russia
+id_list:
+  items:
+  - uid: '34673'
+    id_type: Registration Number
+    id_number: '1155032006821'
+    id_country: Russia
+  - uid: '34676'
+    id_type: Tax ID No.
+    id_number: '5032208321'
+    id_country: Russia
+  - uid: '175885'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: UNITED ARCTIC COMPANY LLC)"

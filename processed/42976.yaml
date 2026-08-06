@@ -1,0 +1,39 @@
+---
+uid: '42976'
+first_name: Gilbert Hernan de Los Angeles
+last_name: BELL FERNANDEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '66567'
+    type: a.k.a.
+    category: weak
+    last_name: MACHO COCA
+address_list:
+  items:
+  - uid: '64104'
+    city: Moin
+    state_or_province: Limon
+    country: Costa Rica
+id_list:
+  items:
+  - uid: '32556'
+    id_type: Cedula No.
+    id_number: '302600933'
+    id_country: Costa Rica
+  - uid: '161849'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '61847'
+    date_of_birth: 02 May 1963
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '65971'
+    place_of_birth: Turrialba, Cartago, Costa Rica
+    main_entry: 'true'

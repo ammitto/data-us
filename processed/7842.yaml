@@ -1,0 +1,62 @@
+---
+uid: '7842'
+first_name: Abdelghani
+last_name: MZOUDI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '5641'
+    type: a.k.a.
+    category: strong
+    last_name: MAZWATI
+    first_name: Abdelghani
+  - uid: '5642'
+    type: a.k.a.
+    category: strong
+    last_name: MAZUTI
+    first_name: Abdelghani
+address_list:
+  items:
+  - uid: '6759'
+    address1: Op de Wisch 15
+    city: Hamburg
+    postal_code: '21149'
+    country: Germany
+  - uid: '6760'
+    address1: Marienstrasse 54
+    city: Hamburg
+    country: Germany
+id_list:
+  items:
+  - uid: '1992'
+    id_type: Passport
+    id_number: M271392
+    id_country: Morocco
+    issue_date: 04 Dec 2000
+  - uid: '1993'
+    id_type: Passport
+    id_number: F 879567
+    id_country: Morocco
+    issue_date: 29 Apr 1992
+  - uid: '3395'
+    id_type: Moroccan Personal ID No.
+    id_number: E 427689
+    id_country: Morocco
+    issue_date: 20 Mar 2001
+  - uid: '185732'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '2063'
+    date_of_birth: 06 Dec 1972
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '2064'
+    place_of_birth: Marrakech, Morocco
+    main_entry: 'true'

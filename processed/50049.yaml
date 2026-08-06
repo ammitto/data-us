@@ -1,0 +1,56 @@
+---
+uid: '50049'
+last_name: FEDERAL STATE INSTITUTION FEDERAL RESEARCH CENTER INFORMATICS AND MANAGEMENT
+  OF THE RUSSIAN ACADEMY OF SCIENCES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78019'
+    type: a.k.a.
+    category: strong
+    last_name: FEDERAL RESEARCH CENTER COMPUTER SCIENCE AND CONTROL OF THE RUSSIAN
+      ACADEMY OF SCIENCES
+  - uid: '78020'
+    type: a.k.a.
+    category: strong
+    last_name: FRC CSC RAS
+  - uid: '78021'
+    type: a.k.a.
+    category: strong
+    last_name: FRC IU RAS
+  - uid: '78022'
+    type: a.k.a.
+    category: strong
+    last_name: INSTITUTE OF INFORMATICS PROBLEMS OF RUSSIAN ACADEMY OF SCIENCES
+  - uid: '78023'
+    type: a.k.a.
+    category: strong
+    last_name: FITS IU RAN
+address_list:
+  items:
+  - uid: '75723'
+    address1: ul. Vavilova
+    address2: d. 44
+    address3: k. 2
+    city: Moscow
+    postal_code: '119333'
+    country: Russia
+id_list:
+  items:
+  - uid: '41606'
+    id_type: Registration Number
+    id_number: '1027739314030'
+    id_country: Russia
+  - uid: '41607'
+    id_type: Tax ID No.
+    id_number: '7736051896'
+    id_country: Russia
+  - uid: '177543'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '177544'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

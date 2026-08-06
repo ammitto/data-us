@@ -1,0 +1,61 @@
+---
+uid: '24311'
+first_name: Mohamed
+last_name: KOSHLAF
+sdn_type: Individual
+program_list:
+  programs:
+  - LIBYA3
+aka_list:
+  items:
+  - uid: '38359'
+    type: a.k.a.
+    category: strong
+    last_name: KASHLAF
+    first_name: Mohamed
+  - uid: '38453'
+    type: a.k.a.
+    category: strong
+    last_name: KHUSHLAF
+    first_name: Mohamed
+  - uid: '38485'
+    type: a.k.a.
+    category: strong
+    last_name: KOSHLAF
+    first_name: Mohamed al-Aameen al-Arabi
+  - uid: '38486'
+    type: a.k.a.
+    category: weak
+    last_name: Al Qasseb
+  - uid: '45368'
+    type: a.k.a.
+    category: strong
+    last_name: KASHLAF
+    first_name: Mohammed Al Amin Al-Arabi
+address_list:
+  items:
+  - uid: '36830'
+    city: Zawiya
+    country: Libya
+id_list:
+  items:
+  - uid: '19185'
+    id_type: Passport
+    id_number: C17HLRL3
+    issue_date: 30 Dec 2015
+  - uid: '126654'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '26479'
+    date_of_birth: 12 Dec 1985
+    main_entry: 'true'
+  - uid: '35325'
+    date_of_birth: 02 Dec 1985
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '26480'
+    place_of_birth: Zawiya, Libya
+    main_entry: 'true'

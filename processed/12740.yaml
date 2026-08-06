@@ -1,0 +1,48 @@
+---
+uid: '12740'
+first_name: Mohammad Ibrahim
+last_name: AL-SHAAR
+sdn_type: Individual
+program_list:
+  programs:
+  - PAARSSR-EO13894
+aka_list:
+  items:
+  - uid: '13863'
+    type: a.k.a.
+    category: strong
+    last_name: AL-SHA'AR
+    first_name: Muhammad Ibrahim
+  - uid: '13864'
+    type: a.k.a.
+    category: strong
+    last_name: AL-CHAAR
+    first_name: Mohammad Ibrahim
+  - uid: '13865'
+    type: a.k.a.
+    category: strong
+    last_name: AL-SHAAR
+    first_name: Muhammad Ibrahim
+  - uid: '13866'
+    type: a.k.a.
+    category: strong
+    last_name: AL-SHAAR
+    first_name: Mohammed Ibrahim
+id_list:
+  items:
+  - uid: '190789'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '8470'
+    date_of_birth: '1950'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '8471'
+    place_of_birth: Lattakia Province, Syria
+    main_entry: 'true'
+  - uid: '90790'
+    place_of_birth: Al-Haffa, Syria
+    main_entry: 'false'

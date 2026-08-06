@@ -1,0 +1,32 @@
+---
+uid: '56671'
+last_name: EMPRESA AERONAUTICA NACIONAL SA
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-CON-ARMS-EO
+aka_list:
+  items:
+  - uid: '87767'
+    type: a.k.a.
+    category: weak
+    last_name: EANSA
+address_list:
+  items:
+  - uid: '86710'
+    address1: Av. Principal Paramaconi
+    address2: Local Hangar 03
+    address3: Sector Base Aerea Libertador
+    city: Palo Negro
+    state_or_province: Aragua
+    country: Venezuela
+id_list:
+  items:
+  - uid: '50774'
+    id_type: Tax ID No.
+    id_number: G200162368
+    id_country: Venezuela
+  - uid: '195319'
+    id_type: Organization Established Date
+    id_number: 05 Mar 2020
+remarks: "(Linked To: QODS AVIATION INDUSTRIES)"

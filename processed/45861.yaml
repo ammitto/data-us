@@ -1,0 +1,35 @@
+---
+uid: '45861'
+last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU RUSAVTOMATIKA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70861'
+    type: a.k.a.
+    category: weak
+    last_name: LIMITED LIABILITY COMPANY RUSAVTOMATIKA
+address_list:
+  items:
+  - uid: '68234'
+    address1: Pr-Kt Malyi V.O. D. 57
+    address2: K. 3 Lit. A
+    address3: Pomeshch. 12N
+    city: Saint Petersburg
+    postal_code: '199178'
+    country: Russia
+id_list:
+  items:
+  - uid: '35614'
+    id_type: Registration Number
+    id_number: '1167847501161'
+    id_country: Russia
+  - uid: '35616'
+    id_type: Tax ID No.
+    id_number: '7801325780'
+    id_country: Russia
+  - uid: '176074'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

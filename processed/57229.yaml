@@ -1,0 +1,45 @@
+---
+uid: '57229'
+first_name: Mohamad Jamil
+last_name: SALAMI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '88664'
+    type: a.k.a.
+    category: strong
+    last_name: SALAMI
+    first_name: Mohamad
+address_list:
+  items:
+  - uid: '87704'
+    address1: Amir Bachir Street
+    address2: Azarieh Building
+    city: Beirut
+    country: Lebanon
+id_list:
+  items:
+  - uid: '51500'
+    id_type: Passport
+    id_number: LR0109108
+    id_country: Lebanon
+  - uid: '197046'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
+      Sanctions Regulations
+  - uid: '197044'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '197047'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '97045'
+    date_of_birth: 17 May 1982
+    main_entry: 'true'
+remarks: "(Linked To: HIZBALLAH)"

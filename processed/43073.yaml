@@ -1,0 +1,36 @@
+---
+uid: '43073'
+last_name: LLC GROUP 99
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '66700'
+    type: a.k.a.
+    category: weak
+    last_name: GRUPPA 99
+address_list:
+  items:
+  - uid: '64223'
+    address1: 57 Dubinskaya St., Bldg 3
+    city: Moscow
+    postal_code: '115054'
+    country: Russia
+id_list:
+  items:
+  - uid: '32649'
+    id_type: Tax ID No.
+    id_number: '7731141263'
+    id_country: Russia
+  - uid: '32650'
+    id_type: Registration Number
+    id_number: '1117746608462'
+    id_country: Russia
+  - uid: '161986'
+    id_type: Organization Established Date
+    id_number: '2012'
+  - uid: '175511'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

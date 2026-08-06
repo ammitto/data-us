@@ -1,0 +1,41 @@
+---
+uid: '47715'
+first_name: Farid Khabibullovich
+last_name: ABDRAKHMANOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73962'
+    type: a.k.a.
+    category: strong
+    last_name: ABDRAKHMANOV
+    first_name: Faryd Khabybullovych
+address_list:
+  items:
+  - uid: '71348'
+    country: Russia
+id_list:
+  items:
+  - uid: '38358'
+    id_type: Tax ID No.
+    id_number: '666301586521'
+    id_country: Russia
+  - uid: '169210'
+    id_type: Gender
+    id_number: Male
+  - uid: '169652'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '69209'
+    date_of_birth: 22 Oct 1954
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '69235'
+    place_of_birth: Zelenodolsk, Russia
+    main_entry: 'true'

@@ -1,0 +1,38 @@
+---
+uid: '48865'
+last_name: JOINT STOCK COMPANY 99 PLANT OF AVIATION TECHNOLOGICAL EQUIPMENT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76118'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO 99 ZAVOD AVIATSIONNOGO TEKHNOLOGICHESKOGO
+      OBORUDOVANIIA
+  - uid: '76119'
+    type: a.k.a.
+    category: weak
+    last_name: AO 99 ZATO
+address_list:
+  items:
+  - uid: '73491'
+    address1: 5 Dorozhnaya Street
+    city: Shcherbinka
+    postal_code: '142172'
+    country: Russia
+id_list:
+  items:
+  - uid: '39932'
+    id_type: Tax ID No.
+    id_number: '7751520180'
+    id_country: Russia
+  - uid: '39933'
+    id_type: Registration Number
+    id_number: '1147746385500'
+    id_country: Russia
+  - uid: '171563'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

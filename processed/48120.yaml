@@ -1,0 +1,44 @@
+---
+uid: '48120'
+last_name: OBSHCHESTVO S OGRANICHENNOY OTVETSTVENNOSTYU VEB3 TEKHNOLOGII
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74751'
+    type: a.k.a.
+    category: weak
+    last_name: WEB3 TECH
+  - uid: '74752'
+    type: a.k.a.
+    category: weak
+    last_name: WEB3 TECHNOLOGY LLC
+  - uid: '74753'
+    type: a.k.a.
+    category: weak
+    last_name: LIMITED LIABILITY COMPANY WEB3 TECHNOLOGIES
+address_list:
+  items:
+  - uid: '72171'
+    address1: Nab. Bersenevskaya D. 6
+    address2: Str 3, Et 4 Pom.I Kom 9
+    city: Moscow
+    postal_code: '119072'
+    country: Russia
+id_list:
+  items:
+  - uid: '39007'
+    id_type: Tax ID No.
+    id_number: '7724417440'
+    id_country: Russia
+  - uid: '176604'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '170077'
+    id_type: Organization Established Date
+    id_number: 11 Aug 2017
+  - uid: '170078'
+    id_type: Website
+    id_number: https://www.web3tech.ru

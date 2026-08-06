@@ -1,0 +1,46 @@
+---
+uid: '16235'
+first_name: Bassam
+last_name: AL-HASSAN
+sdn_type: Individual
+program_list:
+  programs:
+  - PAARSSR-EO13894
+aka_list:
+  items:
+  - uid: '24449'
+    type: a.k.a.
+    category: strong
+    last_name: HASSAN
+    first_name: Bassam
+  - uid: '24450'
+    type: a.k.a.
+    category: strong
+    last_name: HASAN
+    first_name: Bassam
+  - uid: '24451'
+    type: a.k.a.
+    category: strong
+    last_name: HASAN
+    first_name: Basam
+id_list:
+  items:
+  - uid: '190785'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '14585'
+    date_of_birth: '1961'
+    main_entry: 'true'
+  - uid: '14586'
+    date_of_birth: '1960'
+    main_entry: 'false'
+  - uid: '14587'
+    date_of_birth: '1962'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '14584'
+    place_of_birth: Homs, Syria
+    main_entry: 'true'

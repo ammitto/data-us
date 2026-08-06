@@ -1,0 +1,65 @@
+---
+uid: '25580'
+last_name: BANK SEPAH
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - IRAN
+  - NPWMD
+address_list:
+  items:
+  - uid: '38706'
+    address1: Negin Sepah Building, Head Office of Bank Sepah, Nowrouz Street, Africa
+      Hwy, Argentina Square
+    city: Tehran
+    country: Iran
+  - uid: '38707'
+    address1: 6th Floor, Negin Sepah Building, Nowrouz St., Africa Hwy., Argentina
+      Sq.
+    city: Tehran
+    postal_code: '1519662840'
+    country: Iran
+  - uid: '38708'
+    address1: Imam Khomeini Square - PO Box 11364
+    city: Tehran
+    country: Iran
+  - uid: '38709'
+    address1: Hafenstrasse 54, D-60327
+    city: Frankfurt am Main
+    country: Germany
+  - uid: '38710'
+    address1: PO Box 110261
+    city: Franfurt am Main
+    state_or_province: Hessen
+    postal_code: '60037'
+    country: Germany
+  - uid: '38711'
+    address1: 20 Rue Auguste Vacquerie
+    city: Paris
+    postal_code: '75016'
+    country: France
+  - uid: '38712'
+    address1: Via Barberini 50
+    city: Rome
+    postal_code: '00187'
+    country: Italy
+id_list:
+  items:
+  - uid: '16522'
+    id_type: Registration Number
+    id_number: '4293'
+  - uid: '129498'
+    id_type: SWIFT/BIC
+    id_number: SEPBIRTH
+  - uid: '129496'
+    id_type: Website
+    id_number: www.banksepah.ir
+  - uid: '129497'
+    id_type: Website
+    id_number: www.banksepah.de
+  - uid: '129495'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: 'All Offices Worldwide; (Linked To: MINISTRY OF DEFENSE AND ARMED FORCES
+  LOGISTICS)'

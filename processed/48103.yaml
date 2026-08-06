@@ -1,0 +1,48 @@
+---
+uid: '48103'
+last_name: OBSHCHESTVO S OGRANICHENNOY OTVETSTVENNOSTYU SISTEMY RASPREDELENNOGO REYESTRA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74730'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY DISTRIBUTED LEDGER TECHNOLOGY
+  - uid: '74731'
+    type: a.k.a.
+    category: weak
+    last_name: DISTRIBUTED REGISTRY SYSTEMS
+  - uid: '74732'
+    type: a.k.a.
+    category: strong
+    last_name: DISTRIBUTED LEDGER SYSTEMS LLC
+  - uid: '74733'
+    type: a.k.a.
+    category: weak
+    last_name: MASTERCHAIN
+address_list:
+  items:
+  - uid: '72157'
+    address1: Ul. Kompozitorskaya D. 17
+    address2: Et./Pom.7/I, Kom. 11-17
+    city: Moscow
+    postal_code: '121099'
+    country: Russia
+id_list:
+  items:
+  - uid: '38995'
+    id_type: Tax ID No.
+    id_number: '9704063885'
+    id_country: Russia
+  - uid: '170041'
+    id_type: Website
+    id_number: https://www.masterchain.ru
+  - uid: '176601'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '170040'
+    id_type: Organization Established Date
+    id_number: 04 May 2021

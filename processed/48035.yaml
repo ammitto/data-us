@@ -1,0 +1,41 @@
+---
+uid: '48035'
+first_name: Josefa Yadira
+last_name: CARRASCO LEYVA
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '74559'
+    type: a.k.a.
+    category: weak
+    last_name: LA WERA
+  - uid: '74561'
+    type: a.k.a.
+    category: weak
+    last_name: LA WERA PALENQUE
+address_list:
+  items:
+  - uid: '72002'
+    country: Mexico
+id_list:
+  items:
+  - uid: '38923'
+    id_type: C.U.R.P.
+    id_number: CALJ781114MCHRYS03
+    id_country: Mexico
+  - uid: '169511'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '69509'
+    date_of_birth: 14 Nov 1978
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '69510'
+    place_of_birth: Chihuahua, Mexico
+    main_entry: 'true'

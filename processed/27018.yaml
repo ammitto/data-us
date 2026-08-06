@@ -1,0 +1,41 @@
+---
+uid: '27018'
+first_name: Ismail
+last_name: DEMIR
+sdn_type: Individual
+program_list:
+  programs:
+  - CAATSA - RUSSIA
+id_list:
+  items:
+  - uid: '17651'
+    id_type: Turkish Identification Number
+    id_number: '37435275130'
+    id_country: Turkey
+  - uid: '131930'
+    id_type: 'CAATSA Section 235 Information:'
+    id_number: SANCTIONS ON PRINCIPAL EXECUTIVE OFFICERS. Sec 235(a)(12)
+  - uid: '131933'
+    id_type: 'CAATSA Section 235 Information:'
+    id_number: BLOCKING PROPERTY AND INTERESTS IN PROPERTY. Sec 235(a)(9)
+  - uid: '131952'
+    id_type: 'CAATSA Section 235 Information:'
+    id_number: FOREIGN EXCHANGE. Sec 235(a)(7)
+  - uid: '131953'
+    id_type: 'CAATSA Section 235 Information:'
+    id_number: BANKING TRANSACTIONS. Sec 235(a)(8)
+  - uid: '131954'
+    id_type: 'CAATSA Section 235 Information:'
+    id_number: EXCLUSION OF CORPORATE OFFICERS. Sec 235(a)(11)
+date_of_birth_list:
+  items:
+  - uid: '31928'
+    date_of_birth: 01 Apr 1960
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '31929'
+    place_of_birth: Elazig, Turkey
+    main_entry: 'true'
+remarks: "(Linked To: PRESIDENCY OF DEFENSE INDUSTRIES)"
+title: SSB Chairman

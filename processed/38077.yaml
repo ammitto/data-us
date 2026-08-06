@@ -1,0 +1,35 @@
+---
+uid: '38077'
+first_name: Olga Yurievna
+last_name: GRAK
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '57086'
+    city: Kaliningrad
+    country: Russia
+id_list:
+  items:
+  - uid: '27896'
+    id_type: Passport
+    id_number: 71 9823288
+    id_country: Russia
+  - uid: '153371'
+    id_type: Gender
+    id_number: Female
+  - uid: '174627'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '53368'
+    date_of_birth: 13 May 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '53369'
+    place_of_birth: Kaliningrad, Russia
+    main_entry: 'true'

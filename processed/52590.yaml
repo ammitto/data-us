@@ -1,0 +1,44 @@
+---
+uid: '52590'
+first_name: Abdel Fattah
+last_name: AL-BURHAN
+sdn_type: Individual
+program_list:
+  programs:
+  - SUDAN-EO14098
+aka_list:
+  items:
+  - uid: '82313'
+    type: a.k.a.
+    category: weak
+    last_name: BURHAN
+  - uid: '82314'
+    type: a.k.a.
+    category: strong
+    last_name: ALBURHAN
+    first_name: Abdalftah Alburhan A Alrahman
+address_list:
+  items:
+  - uid: '80650'
+    city: Port Sudan
+    country: Sudan
+id_list:
+  items:
+  - uid: '45630'
+    id_type: Passport
+    id_number: P11000434
+    id_country: Sudan
+    expiration_date: 30 Aug 2033
+  - uid: '184321'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '84318'
+    date_of_birth: 04 Jul 1960
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '84319'
+    place_of_birth: Shandi, Sudan
+    main_entry: 'true'

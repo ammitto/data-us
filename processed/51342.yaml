@@ -1,0 +1,52 @@
+---
+uid: '51342'
+last_name: CJSC PERSPECTIVE TECHNOLOGIES AGENCY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80505'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO UPRAVLENIE PERSPEKTIVNYKH TEKHNOLOGI
+  - uid: '80506'
+    type: a.k.a.
+    category: weak
+    last_name: UPT AO
+address_list:
+  items:
+  - uid: '78176'
+    address1: Ul. Samokatnaya
+    address2: D. 1
+    address3: Str. 2
+    city: Moscow
+    postal_code: '111033'
+    country: Russia
+id_list:
+  items:
+  - uid: '43614'
+    id_type: Registration Number
+    id_number: '1027739143717'
+    id_country: Russia
+  - uid: '43615'
+    id_type: Tax ID No.
+    id_number: '7723022111'
+    id_country: Russia
+  - uid: '43616'
+    id_type: Government Gazette Number
+    id_number: '13152639'
+    id_country: Russia
+  - uid: '180726'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '180723'
+    id_type: Organization Established Date
+    id_number: 20 Dec 1994
+  - uid: '180724'
+    id_type: Organization Established Date
+    id_number: 03 Sep 2002
+  - uid: '180725'
+    id_type: Website
+    id_number: upt.ru

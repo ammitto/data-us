@@ -1,0 +1,42 @@
+---
+uid: '7839'
+first_name: Najib
+last_name: OUAZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '8866'
+    type: a.k.a.
+    category: strong
+    last_name: AL-WAZ
+    first_name: Najib Ben Mohamed Ben Salem
+address_list:
+  items:
+  - uid: '6755'
+    address1: Vicolo dei Prati n.2/2
+    city: Bologna
+    country: Italy
+id_list:
+  items:
+  - uid: '4080'
+    id_type: Passport
+    id_number: K 815205
+    issue_date: 17 Sep 1994
+    expiration_date: 16 Sep 1999
+  - uid: '185729'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '2057'
+    date_of_birth: 12 Apr 1960
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '2058'
+    place_of_birth: Hekaima Al-Mehdiya, Tunisia
+    main_entry: 'true'

@@ -1,0 +1,55 @@
+---
+uid: '16681'
+last_name: BANK ROSSIYA
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13661
+aka_list:
+  items:
+  - uid: '25333'
+    type: f.k.a.
+    category: strong
+    last_name: AKTSIONERNY BANK RUSSIAN FEDERATION
+  - uid: '31571'
+    type: a.k.a.
+    category: strong
+    last_name: AB ROSSIYA, OAO
+  - uid: '31572'
+    type: a.k.a.
+    category: strong
+    last_name: OTKRYTOE AKTSIONERNOE OBSHCHESTVO AKTSIONERNY BANK ROSSIYA
+address_list:
+  items:
+  - uid: '25228'
+    address1: 2 Liter A Pl. Rastrelli
+    city: Saint Petersburg
+    postal_code: '191124'
+    country: Russia
+id_list:
+  items:
+  - uid: '12301'
+    id_type: Government Gazette Number
+    id_number: '09804148'
+    id_country: Russia
+  - uid: '12302'
+    id_type: Tax ID No.
+    id_number: '7831000122'
+    id_country: Russia
+  - uid: '12303'
+    id_type: Registration ID
+    id_number: '1027800000084'
+    id_country: Russia
+  - uid: '143714'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '115218'
+    id_type: SWIFT/BIC
+    id_number: ROSYRU2P
+  - uid: '115192'
+    id_type: Website
+    id_number: www.abr.ru
+  - uid: '115191'
+    id_type: Email Address
+    id_number: bank@abr.ru

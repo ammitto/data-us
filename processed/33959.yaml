@@ -1,0 +1,37 @@
+---
+uid: '33959'
+first_name: Carlos Amilcar
+last_name: MARROQUIN CHICA
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+address_list:
+  items:
+  - uid: '50883'
+    city: Mejicanos
+    country: El Salvador
+id_list:
+  items:
+  - uid: '23614'
+    id_type: National ID No.
+    id_number: '035398179'
+    id_country: El Salvador
+  - uid: '23615'
+    id_type: Passport
+    id_number: B03539817
+    id_country: El Salvador
+    expiration_date: 19 Sep 2024
+  - uid: '144987'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '44986'
+    date_of_birth: May 1986
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '44989'
+    place_of_birth: San Salvador, El Salvador
+    main_entry: 'true'

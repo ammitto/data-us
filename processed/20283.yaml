@@ -1,0 +1,56 @@
+---
+uid: '20283'
+last_name: AO ABR MANAGEMENT
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13661
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56215'
+    type: a.k.a.
+    category: strong
+    last_name: ABR MANAGEMENT AO
+  - uid: '56216'
+    type: a.k.a.
+    category: strong
+    last_name: AO ABR MENEDZHMENT
+  - uid: '56218'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO ABR MENEDZHMENT
+  - uid: '56219'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY ABR MANAGEMENT
+  - uid: '56220'
+    type: a.k.a.
+    category: weak
+    last_name: ABR MANAGEMENT
+address_list:
+  items:
+  - uid: '53680'
+    address1: ul. Graftio
+    address2: d. 7 litera A
+    city: g. Sankt-Peterburg
+    postal_code: '197022'
+    country: Russia
+id_list:
+  items:
+  - uid: '25103'
+    id_type: Tax ID No.
+    id_number: '7842467053'
+    id_country: Russia
+  - uid: '25104'
+    id_type: Registration Number
+    id_number: '1117847707383'
+    id_country: Russia
+  - uid: '151111'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '173917'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: BANK ROSSIYA)"

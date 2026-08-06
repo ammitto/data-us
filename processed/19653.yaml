@@ -1,0 +1,82 @@
+---
+uid: '19653'
+last_name: GAZPROM VNIIGAZ, OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13662
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '30900'
+    type: a.k.a.
+    category: strong
+    last_name: GAZPROM VNIIGAZ
+  - uid: '30901'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'NAUCHNO-ISSLEDOVATELSKI
+      INSTITUT PRIRODNYKH GAZOV I GAZOVYKH TEKHNOLOGI - GAZPROM VNIIGAZ'
+  - uid: '66210'
+    type: a.k.a.
+    category: weak
+    last_name: LIMITED LIABILITY COMPANY SCIENTIFIC RESEARCH INSTITUTE OF NATURAL
+      GASES AND GAS TECHNOLOGIES
+  - uid: '66211'
+    type: f.k.a.
+    category: weak
+    last_name: ALL UNION SCIENTIFIC RESEARCH INSTITUTE OF NATURAL GASES AND GAS TECHNOLOGIES
+  - uid: '66212'
+    type: a.k.a.
+    category: weak
+    last_name: VNIGAZ
+  - uid: '66213'
+    type: a.k.a.
+    category: strong
+    last_name: LLC VNIIGAZ
+address_list:
+  items:
+  - uid: '29843'
+    address1: 15 Gazovikov St., bld. 1
+    address2: Razvilka
+    city: Leninski Raion
+    state_or_province: Moskovskaya obl.
+    postal_code: '142717'
+    country: Russia
+  - uid: '63717'
+    address1: Sevastopolskaya St. 1A
+    city: Ukhta
+    state_or_province: Komi Republic
+    country: Russia
+id_list:
+  items:
+  - uid: '11997'
+    id_type: Registration ID
+    id_number: '1025000651598'
+  - uid: '11998'
+    id_type: Government Gazette Number
+    id_number: '31323949'
+  - uid: '11999'
+    id_type: Tax ID No.
+    id_number: '5003028155'
+  - uid: '119976'
+    id_type: Website
+    id_number: www.vniigaz.ru
+  - uid: '119975'
+    id_type: Email Address
+    id_number: adm@vniigaz.gazprom.ru
+  - uid: '173915'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '161515'
+    id_type: Organization Established Date
+    id_number: 30 Jun 1999
+  - uid: '143867'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '119974'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 4
+remarks: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)'

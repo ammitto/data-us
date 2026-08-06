@@ -1,0 +1,35 @@
+---
+uid: '29904'
+first_name: Seyyed Mahmoud
+last_name: SADATI
+sdn_type: Individual
+program_list:
+  programs:
+  - CAATSA - IRAN
+address_list:
+  items:
+  - uid: '45110'
+    city: Shiraz
+    country: Iran
+id_list:
+  items:
+  - uid: '137143'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '137145'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '37144'
+    date_of_birth: '1958'
+    main_entry: 'true'
+  - uid: '37208'
+    date_of_birth: '1959'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '37209'
+    place_of_birth: Estahaban, Iran
+    main_entry: 'true'
+title: Judge, Revolutionary Court of Shiraz

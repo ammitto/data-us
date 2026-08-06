@@ -1,0 +1,50 @@
+---
+uid: '34797'
+first_name: Alexander Aleksandrovich
+last_name: VEDYAKHIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54671'
+    type: a.k.a.
+    category: strong
+    last_name: VEDYAKHIN
+    first_name: Aleksandr
+  - uid: '54672'
+    type: a.k.a.
+    category: strong
+    last_name: VEDYAKHIN
+    first_name: Alexander
+address_list:
+  items:
+  - uid: '52184'
+    country: Russia
+id_list:
+  items:
+  - uid: '24498'
+    id_type: Passport
+    id_number: '531179415'
+    id_country: Russia
+  - uid: '24499'
+    id_type: National ID No.
+    id_number: '1801541495'
+    id_country: Russia
+  - uid: '146273'
+    id_type: Gender
+    id_number: Male
+  - uid: '175213'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '46271'
+    date_of_birth: 20 Feb 1977
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '46272'
+    place_of_birth: Volgograd, Russia
+    main_entry: 'true'

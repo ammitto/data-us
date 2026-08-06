@@ -1,0 +1,48 @@
+---
+uid: '23673'
+first_name: Nabil Mahmoud
+last_name: ASSAF
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '37442'
+    type: a.k.a.
+    category: strong
+    last_name: ASSAF
+    first_name: Nabil
+  - uid: '37443'
+    type: a.k.a.
+    category: strong
+    last_name: ASSAF
+    first_name: Nabil Muhammad
+address_list:
+  items:
+  - uid: '35890'
+    country: Lebanon
+id_list:
+  items:
+  - uid: '125652'
+    id_type: Gender
+    id_number: Male
+  - uid: '125649'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
+      Sanctions Regulations
+  - uid: '187095'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '25650'
+    date_of_birth: 11 Sep 1964
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '25651'
+    place_of_birth: Beirut, Lebanon
+    main_entry: 'true'
+remarks: "(Linked To: AL-INMAA ENGINEERING AND CONTRACTING)"

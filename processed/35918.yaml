@@ -1,0 +1,34 @@
+---
+uid: '35918'
+last_name: THE LIMITED LIABILITY COMPANY NETWORKING COMPANY IRKUT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56492'
+    type: a.k.a.
+    category: strong
+    last_name: SETEVAYA KOMPANIYA IRKUT OOO
+address_list:
+  items:
+  - uid: '53908'
+    address1: ul. Aviastroitelei d. 28 A
+    city: Irkutsk
+    postal_code: '664020'
+    country: Russia
+id_list:
+  items:
+  - uid: '25280'
+    id_type: Tax ID No.
+    id_number: '3810035487'
+    id_country: Russia
+  - uid: '25281'
+    id_type: Registration Number
+    id_number: '1043801429737'
+    id_country: Russia
+  - uid: '173303'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: PUBLIC JOINT STOCK COMPANY YAKOVLEV)"

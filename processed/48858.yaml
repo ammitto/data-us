@@ -1,0 +1,49 @@
+---
+uid: '48858'
+last_name: JOINT STOCK COMPANY BRYANSK AUTOMOBILE PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76096'
+    type: a.k.a.
+    category: weak
+    last_name: JSC BAF
+  - uid: '76097'
+    type: a.k.a.
+    category: weak
+    last_name: AO BAZ
+  - uid: '76098'
+    type: a.k.a.
+    category: strong
+    last_name: AO BRYANSKI AVTOMOBILNY ZAVOD
+  - uid: '76099'
+    type: a.k.a.
+    category: strong
+    last_name: BRYANSK AUTOMOBILE FACTORY
+address_list:
+  items:
+  - uid: '73476'
+    address1: 1 Staleliteinaia Ul.
+    city: Bryansk
+    postal_code: '241035'
+    country: Russia
+  - uid: '73477'
+    address1: 20 Novaia Basmannaia Ul., Str. 8
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '39922'
+    id_type: Registration Number
+    id_number: '1083254005141'
+    id_country: Russia
+  - uid: '39923'
+    id_type: Tax ID No.
+    id_number: '3255502838'
+    id_country: Russia
+  - uid: '171554'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,43 @@
+---
+uid: '22943'
+last_name: SADID CARAN SABA ENGINEERING COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '36032'
+    type: a.k.a.
+    category: weak
+    last_name: SABA CRANE
+  - uid: '36033'
+    type: a.k.a.
+    category: weak
+    last_name: S.C. SABA ENG CO.
+  - uid: '36034'
+    type: a.k.a.
+    category: strong
+    last_name: SADID CARAN SABA COMPANY
+  - uid: '36035'
+    type: a.k.a.
+    category: strong
+    last_name: SADID CARAN SABA ENG. CO.
+address_list:
+  items:
+  - uid: '34608'
+    address1: Unit 501, No. 17, Beside Samen Drugstore, Hakim West Highway
+    city: Tehran
+    country: Iran
+  - uid: '34609'
+    address1: No. 1401, Cross 5th Golazin and 2nd Golara
+    address2: Eshtehard Industrial Zone
+    city: Eshtehard
+    state_or_province: Alborz
+    country: Iran
+id_list:
+  items:
+  - uid: '124453'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

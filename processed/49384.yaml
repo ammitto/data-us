@@ -1,0 +1,55 @@
+---
+uid: '49384'
+last_name: JOINT STOCK COMPANY PERM SCIENTIFIC INDUSTRIAL INSTRUMENT MAKING COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77010'
+    type: a.k.a.
+    category: strong
+    last_name: PUBLIC JOINT STOCK COMPANY PERM RESEARCH AND PRODUCTION INSTRUMENT
+      MAKING COMPANY
+  - uid: '77011'
+    type: a.k.a.
+    category: strong
+    last_name: PUBLICHNOE AKTSIONERNOE OBSHCHESTVO PERMSKAIA NAUCHNO PROIZVODSTVENNAIA
+      PRIBOROSTROITELNAIA KOMPANIIA
+  - uid: '77012'
+    type: a.k.a.
+    category: strong
+    last_name: PAO PNPPK
+  - uid: '77013'
+    type: a.k.a.
+    category: strong
+    last_name: OJSC PERM SCIENTIFIC AND PRODUCTION INSTRUMENT AND CONSTRUCTION COMPANY
+address_list:
+  items:
+  - uid: '74431'
+    address1: 25th of October Street, Number 106
+    city: Perm
+    postal_code: '614990'
+    country: Russia
+  - uid: '74432'
+    address1: 7 Obraztsova ul., Str. 5
+    city: Moscow
+    country: Russia
+  - uid: '74433'
+    address1: 2A Arkhitekturnaia (Sosnovyi Mkr.) ul.
+    city: Arzamas
+    country: Russia
+id_list:
+  items:
+  - uid: '40651'
+    id_type: Registration Number
+    id_number: '1025900906349'
+    id_country: Russia
+  - uid: '40652'
+    id_type: Tax ID No.
+    id_number: '5904000395'
+    id_country: Russia
+  - uid: '172463'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

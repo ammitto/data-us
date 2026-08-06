@@ -1,0 +1,49 @@
+---
+uid: '40176'
+last_name: LLC RESEARCH & PRODUCTION ENTERPRISE PRIMA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '62393'
+    type: a.k.a.
+    category: strong
+    last_name: LLC RESEARCH AND PRODUCTION ENTERPRISE PRIMA
+  - uid: '62394'
+    type: a.k.a.
+    category: strong
+    last_name: NAUCHNO-PROIZVODSTVENNOE PREDPRIYATIE PRIMA
+  - uid: '62395'
+    type: a.k.a.
+    category: strong
+    last_name: NPP PRIMA
+address_list:
+  items:
+  - uid: '59824'
+    address1: Ul. Svobody 63
+    city: Nizhniy Novgorod
+    postal_code: '603003'
+    country: Russia
+  - uid: '59825'
+    address1: 1Zh, Sormovskoye Shosse
+    city: Nizhny Novgorod
+    postal_code: '603950'
+    country: Russia
+id_list:
+  items:
+  - uid: '29316'
+    id_type: Registration Number
+    id_number: '1025202403710'
+    id_country: Russia
+  - uid: '29317'
+    id_type: Tax ID No.
+    id_number: '5257013402'
+    id_country: Russia
+  - uid: '174812'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '157037'
+    id_type: Organization Established Date
+    id_number: 30 Jan 1992

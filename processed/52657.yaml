@@ -1,0 +1,38 @@
+---
+uid: '52657'
+last_name: LIMITED LIABILITY COMPANY RESEARCH AND PRODUCTION ENTERPRISE ANTARES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '82514'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTIU NAUCHNO PROIZVODSTVENNOE
+      PREDPRIIATIE ANTARES
+  - uid: '82515'
+    type: a.k.a.
+    category: strong
+    last_name: OOO NPP ANTARES
+address_list:
+  items:
+  - uid: '80467'
+    address1: ul. im. Radishcheva A. N., 27
+    city: Saratov
+    postal_code: '410012'
+    country: Russia
+id_list:
+  items:
+  - uid: '45760'
+    id_type: Registration Number
+    id_number: '1026402660250'
+    id_country: Russia
+  - uid: '45761'
+    id_type: Tax ID No.
+    id_number: '6452000776'
+    id_country: Russia
+  - uid: '184462'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

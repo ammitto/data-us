@@ -1,0 +1,70 @@
+---
+uid: '34658'
+first_name: Petr Mikhailovich
+last_name: FRADKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54259'
+    type: a.k.a.
+    category: strong
+    last_name: FRADKOV
+    first_name: Petr
+  - uid: '54260'
+    type: a.k.a.
+    category: strong
+    last_name: FRAKOV
+    first_name: Pyetr Mikhaylovich
+  - uid: '54261'
+    type: a.k.a.
+    category: strong
+    last_name: FRADKOV
+    first_name: Pyotr Mikhailovich
+  - uid: '54262'
+    type: a.k.a.
+    category: strong
+    last_name: FRADKOV
+    first_name: Petr Mihaylovich
+  - uid: '54271'
+    type: a.k.a.
+    category: strong
+    last_name: FRADKOV
+    first_name: Pyotr Mikhaylovich
+address_list:
+  items:
+  - uid: '51873'
+    address1: 33-1 Prospekt Mira
+    address2: Apt. 34
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '24261'
+    id_type: Passport
+    id_number: '530285387'
+    id_country: Russia
+    issue_date: 31 Oct 2012
+    expiration_date: 12 Jul 2022
+  - uid: '24263'
+    id_type: National ID No.
+    id_number: '4503339117'
+    id_country: Russia
+  - uid: '175159'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '146039'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '46037'
+    date_of_birth: 07 Feb 1978
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '46771'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'

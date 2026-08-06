@@ -1,0 +1,39 @@
+---
+uid: '15060'
+last_name: HALTI
+sdn_type: Vessel
+program_list:
+  programs:
+  - IRAN
+aka_list:
+  items:
+  - uid: '23437'
+    type: f.k.a.
+    category: strong
+    last_name: HORMOZ
+  - uid: '24795'
+    type: f.k.a.
+    category: strong
+    last_name: SCORPIAN
+  - uid: '40658'
+    type: f.k.a.
+    category: strong
+    last_name: HORIZON
+id_list:
+  items:
+  - uid: '8069'
+    id_type: Vessel Registration Identification
+    id_number: IMO 9212890
+  - uid: '8138'
+    id_type: MMSI
+    id_number: '256870000'
+  - uid: '113035'
+    id_type: Former Vessel Flag
+    id_number: Tuvalu
+  - uid: '114801'
+    id_type: Former Vessel Flag
+    id_number: Tanzania
+  - uid: '119302'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: NATIONAL IRANIAN TANKER COMPANY)"

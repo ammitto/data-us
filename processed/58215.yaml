@@ -1,0 +1,41 @@
+---
+uid: '58215'
+last_name: VAST MIGHTY LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '89437'
+    address1: 12th Floor, Fu Cheong Centre 5-7
+    address2: Wong Chuk Yeung Street
+    address3: Fo Tan, Sha Tin, New Territories
+    city: Hong Kong
+    country: China
+  - uid: '89438'
+    address1: Trust Company Complex
+    address2: Ajeltake Road
+    city: Ajeltake Island
+    state_or_province: Majuro
+    postal_code: '96960'
+    country: Marshall Islands
+id_list:
+  items:
+  - uid: '52842'
+    id_type: Identification Number
+    id_number: IMO 0024761
+  - uid: '52843'
+    id_type: Registration Number
+    id_number: '74471259'
+    id_country: Hong Kong
+  - uid: '52881'
+    id_type: Business Registration Number
+    id_number: '120802'
+    id_country: Marshall Islands
+  - uid: '199850'
+    id_type: Organization Established Date
+    id_number: 30 Sep 2022
+  - uid: '199851'
+    id_type: Organization Established Date
+    id_number: 06 Jul 2023

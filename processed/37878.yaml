@@ -1,0 +1,47 @@
+---
+uid: '37878'
+first_name: Kee Seng
+last_name: KWEK
+sdn_type: Individual
+program_list:
+  programs:
+  - DPRK4
+address_list:
+  items:
+  - uid: '58616'
+    address1: 637 Choa Chu Kang North 6
+    address2: "#04-243"
+    postal_code: '680637'
+    country: Singapore
+id_list:
+  items:
+  - uid: '28537'
+    id_type: Passport
+    id_number: K1437696A
+    id_country: Singapore
+    issue_date: 20 Aug 2019
+    expiration_date: 25 Mar 2025
+  - uid: '28538'
+    id_type: Identification Number
+    id_number: S1380562H
+    id_country: Singapore
+  - uid: '155260'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '155216'
+    id_type: Gender
+    id_number: Male
+  - uid: '155261'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+date_of_birth_list:
+  items:
+  - uid: '55217'
+    date_of_birth: 19 Nov 1959
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '55218'
+    place_of_birth: Singapore
+    main_entry: 'true'

@@ -1,0 +1,33 @@
+---
+uid: '54269'
+first_name: Yu
+last_name: ZHANG
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '82908'
+    city: Shanghai
+    country: China
+id_list:
+  items:
+  - uid: '47818'
+    id_type: National ID No.
+    id_number: '310115199709107221'
+    id_country: China
+  - uid: '189997'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '89999'
+    date_of_birth: 10 Sep 1997
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '89998'
+    place_of_birth: Shanghai City, Pudongxin District, China
+    main_entry: 'true'
+remarks: "(Linked To: NASSER ZARRIN GHALAM AND PARTNERS COMPANY)"

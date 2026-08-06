@@ -1,0 +1,34 @@
+---
+uid: '15981'
+last_name: KYRGYZ TRANS AVIA
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+  - IFSR
+aka_list:
+  items:
+  - uid: '23955'
+    type: a.k.a.
+    category: strong
+    last_name: KYRGYZTRANSAVIA AIRLINES
+address_list:
+  items:
+  - uid: '24021'
+    address1: Bulvar Erkindik 35
+    city: Bishkek
+    country: Kyrgyzstan
+  - uid: '24022'
+    address1: 32 Razzakova Street
+    city: Bishkek
+    postal_code: '720040'
+    country: Kyrgyzstan
+id_list:
+  items:
+  - uid: '114272'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '186700'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886

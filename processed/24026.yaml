@@ -1,0 +1,59 @@
+---
+uid: '24026'
+last_name: RUSSIAN FINANCIAL CORPORATION
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK3
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '38024'
+    type: a.k.a.
+    category: strong
+    last_name: RUSSIAN FINANCIAL CORPORATION BANK JSC
+  - uid: '38025'
+    type: a.k.a.
+    category: strong
+    last_name: BANK ROSSISKAYA FINANSOVAYA KORPORATSIYA AKTSIONERNOE OBSHCHESTVO
+  - uid: '38026'
+    type: a.k.a.
+    category: strong
+    last_name: AO RFK-BANK
+  - uid: '38027'
+    type: a.k.a.
+    category: strong
+    last_name: RFC-BANK
+address_list:
+  items:
+  - uid: '36375'
+    address1: St. George's Lane
+    address2: D. 1
+    address3: p. 1
+    city: Moscow
+    postal_code: '125009'
+    country: Russia
+  - uid: '36376'
+    address1: d. 1 korp
+    address2: 1 per. Georgievski
+    city: Moscow
+    postal_code: '125009'
+    country: Russia
+id_list:
+  items:
+  - uid: '126672'
+    id_type: BIK (RU)
+    id_number: '044525257'
+  - uid: '179027'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '179190'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '179028'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '126117'
+    id_type: SWIFT/BIC
+    id_number: RFCBRUMM

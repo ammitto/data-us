@@ -1,0 +1,48 @@
+---
+uid: '40606'
+first_name: Yahya
+last_name: ALA'ODDINI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+  - IRGC
+aka_list:
+  items:
+  - uid: '63130'
+    type: a.k.a.
+    category: strong
+    last_name: ALAEDDINI
+    first_name: Yahya
+address_list:
+  items:
+  - uid: '60503'
+    country: Iran
+id_list:
+  items:
+  - uid: '29768'
+    id_type: National ID No.
+    id_number: '0036732958'
+    id_country: Iran
+  - uid: '29771'
+    id_type: Passport
+    id_number: K47201906
+    id_country: Iran
+    expiration_date: 19 Oct 2023
+  - uid: '157906'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '157918'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '57905'
+    date_of_birth: 21 Mar 1965
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '57917'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: BONYAD TAAVON SEPAH)"

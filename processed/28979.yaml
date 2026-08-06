@@ -1,0 +1,31 @@
+---
+uid: '28979'
+first_name: Amjad
+last_name: SAZGAR
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+address_list:
+  items:
+  - uid: '43781'
+    country: Iran
+id_list:
+  items:
+  - uid: '135576'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '135578'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '35577'
+    date_of_birth: 16 Apr 1979
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '35580'
+    place_of_birth: Babol, Iran
+    main_entry: 'true'

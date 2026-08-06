@@ -1,0 +1,37 @@
+---
+uid: '47555'
+last_name: JOINT STOCK COMPANY ASTRONOMICAL SCIENTIFIC CENTER
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73623'
+    type: a.k.a.
+    category: weak
+    last_name: AO ANTS
+  - uid: '73783'
+    type: a.k.a.
+    category: weak
+    last_name: ANC
+address_list:
+  items:
+  - uid: '71014'
+    address1: sh. Entusziastov, d. 56, str. 25
+    city: Moscow
+    postal_code: '111123'
+    country: Russia
+id_list:
+  items:
+  - uid: '38074'
+    id_type: Tax ID No.
+    id_number: '7733769696'
+    id_country: Russia
+  - uid: '38075'
+    id_type: Registration Number
+    id_number: '1117746444881'
+    id_country: Russia
+  - uid: '169920'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

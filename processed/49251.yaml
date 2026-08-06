@@ -1,0 +1,28 @@
+---
+uid: '49251'
+last_name: GRUPPA KOMPANII ASTROKUPOL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '74168'
+    address1: ul. Moskovskaya d. 3
+    address2: kv. 2
+    city: Penza
+    postal_code: '440000'
+    country: Russia
+id_list:
+  items:
+  - uid: '40451'
+    id_type: Registration Number
+    id_number: '1185835010899'
+    id_country: Russia
+  - uid: '40454'
+    id_type: Tax ID No.
+    id_number: '5836687674'
+    id_country: Russia
+  - uid: '172234'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

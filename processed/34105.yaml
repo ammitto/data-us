@@ -1,0 +1,44 @@
+---
+uid: '34105'
+first_name: Adeeb Namer
+last_name: SALAMEH
+sdn_type: Individual
+program_list:
+  programs:
+  - PAARSSR-EO13894
+aka_list:
+  items:
+  - uid: '53475'
+    type: a.k.a.
+    category: strong
+    last_name: SALAMAH
+    first_name: Adib Nimr
+  - uid: '53476'
+    type: a.k.a.
+    category: strong
+    last_name: SALAMEH
+    first_name: Adib
+address_list:
+  items:
+  - uid: '51125'
+    city: Damascus
+    country: Syria
+id_list:
+  items:
+  - uid: '23740'
+    id_type: Passport
+    id_number: '578761'
+    id_country: Syria
+  - uid: '145221'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '45219'
+    date_of_birth: 26 Nov 1953
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '45220'
+    place_of_birth: Dahr Al-Maghar, al-Salamiyeh, Hamah, Syria
+    main_entry: 'true'

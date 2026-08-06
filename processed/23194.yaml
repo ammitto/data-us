@@ -1,0 +1,61 @@
+---
+uid: '23194'
+first_name: Fahmi
+last_name: BEN KHALIFA
+sdn_type: Individual
+program_list:
+  programs:
+  - LIBYA3
+aka_list:
+  items:
+  - uid: '36490'
+    type: a.k.a.
+    category: strong
+    last_name: AL IDRISI
+    first_name: Fehmi Abu Zaid Salem
+  - uid: '36491'
+    type: a.k.a.
+    category: strong
+    last_name: BEN KHALIFA
+    first_name: Fahmi Mousa Saleem
+  - uid: '36492'
+    type: a.k.a.
+    category: weak
+    last_name: King of Zawarah
+  - uid: '36493'
+    type: a.k.a.
+    category: weak
+    last_name: Fahmi Slim
+  - uid: '36494'
+    type: a.k.a.
+    category: strong
+    last_name: BIN KHALIFA
+    first_name: Fahmi
+  - uid: '37655'
+    type: a.k.a.
+    category: strong
+    last_name: SALEM
+    first_name: al Idrisi Fehmi Abu Zaid
+address_list:
+  items:
+  - uid: '35073'
+    address1: Sarage El Islam
+    city: Tripoli
+    country: Libya
+  - uid: '35074'
+    state_or_province: Zuwarah
+    country: Libya
+id_list:
+  items:
+  - uid: '14630'
+    id_type: National ID No.
+    id_number: 560147C
+    id_country: Libya
+  - uid: '124864'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '24862'
+    date_of_birth: 02 Jan 1972
+    main_entry: 'true'

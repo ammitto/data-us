@@ -1,0 +1,63 @@
+---
+uid: '16269'
+first_name: Yakov
+last_name: RYBALSKIY
+sdn_type: Individual
+program_list:
+  programs:
+  - TCO
+aka_list:
+  items:
+  - uid: '24504'
+    type: a.k.a.
+    category: strong
+    last_name: RIBALSKY
+    first_name: Yaakov
+  - uid: '24505'
+    type: a.k.a.
+    category: strong
+    last_name: RYBALSKY
+    first_name: Yaakov
+  - uid: '24506'
+    type: a.k.a.
+    category: strong
+    last_name: RIBALSKI
+    first_name: Yaakov
+  - uid: '24507'
+    type: a.k.a.
+    category: strong
+    last_name: RIBALSKY
+    first_name: Yakov
+  - uid: '24508'
+    type: a.k.a.
+    category: strong
+    last_name: RABALSKY
+    first_name: Jacob
+address_list:
+  items:
+  - uid: '24569'
+    address1: Rashi 9/3
+    city: Sharon
+    country: Israel
+id_list:
+  items:
+  - uid: '8910'
+    id_type: Passport
+    id_number: '7959978'
+    id_country: Israel
+  - uid: '8911'
+    id_type: Passport
+    id_number: R5408081
+    id_country: Israel
+  - uid: '8912'
+    id_type: Passport
+    id_number: '9001681'
+    id_country: Israel
+date_of_birth_list:
+  items:
+  - uid: '14627'
+    date_of_birth: '08 Aug 1954'
+    main_entry: 'true'
+  - uid: '14628'
+    date_of_birth: '08 Aug 1950'
+    main_entry: 'false'

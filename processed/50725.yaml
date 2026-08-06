@@ -1,0 +1,33 @@
+---
+uid: '50725'
+last_name: NAUCHNO PROIZVODSTVENNOE PREDPRIYATIE IRVIS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79382'
+    type: a.k.a.
+    category: strong
+    last_name: NPP IRVIS
+address_list:
+  items:
+  - uid: '76924'
+    address1: Ul. Vosstaniya D. 98N, Office 204
+    city: Kazan
+    postal_code: '420084'
+    country: Russia
+id_list:
+  items:
+  - uid: '42584'
+    id_type: Registration Number
+    id_number: '1021603475816'
+    id_country: Russia
+  - uid: '42585'
+    id_type: Tax ID No.
+    id_number: '1659005490'
+    id_country: Russia
+  - uid: '179333'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

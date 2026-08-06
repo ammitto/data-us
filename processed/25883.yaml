@@ -1,0 +1,45 @@
+---
+uid: '25883'
+last_name: SOUTH ALUMINUM COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN
+  - IRAN-EO13871
+aka_list:
+  items:
+  - uid: '45812'
+    type: a.k.a.
+    category: strong
+    last_name: SOUTH ALUMINUM
+  - uid: '45813'
+    type: a.k.a.
+    category: weak
+    last_name: SALCO
+  - uid: '45818'
+    type: a.k.a.
+    category: strong
+    last_name: ALUMINIOM JONUB
+address_list:
+  items:
+  - uid: '39185'
+    country: Iran
+  - uid: '44087'
+    address1: No. 35, 13th, Asadabadi Av.
+    city: Tehran
+    country: Iran
+  - uid: '44088'
+    address1: Lamerd Special Economic Zone for Energy Intensive Industries, 8th km,
+      Lamerd-khonj Road
+    city: Lamerd City
+    state_or_province: Fars Province
+    country: Iran
+id_list:
+  items:
+  - uid: '135848'
+    id_type: Website
+    id_number: http://salcocompany.com
+  - uid: '130075'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: GHADIR INVESTMENT COMPANY)"

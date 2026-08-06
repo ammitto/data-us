@@ -1,0 +1,41 @@
+---
+uid: '52174'
+first_name: Jian
+last_name: ZHANG
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+address_list:
+  items:
+  - uid: '79637'
+    address1: Al Owais Building, Al Baniyas Street, Apt. 707
+    city: Dubai
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '45068'
+    id_type: Passport
+    id_number: EJ4340624
+    id_country: China
+  - uid: '45069'
+    id_type: National ID No.
+    id_number: '130203198102030017'
+    id_country: China
+  - uid: '183098'
+    id_type: Gender
+    id_number: Male
+  - uid: '183876'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+date_of_birth_list:
+  items:
+  - uid: '83096'
+    date_of_birth: 03 Feb 1981
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '83097'
+    place_of_birth: Tangshan, China
+    main_entry: 'true'
+remarks: "(Linked To: SIM, Hyon Sop)"

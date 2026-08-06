@@ -1,0 +1,35 @@
+---
+uid: '49150'
+last_name: MOHAMED'S ENTERPRISE
+sdn_type: Entity
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '76598'
+    type: a.k.a.
+    category: strong
+    last_name: MOHAMED ENTERPRISES
+  - uid: '76599'
+    type: a.k.a.
+    category: strong
+    last_name: MOHAMEDS ENTERPRISE
+  - uid: '76600'
+    type: a.k.a.
+    category: weak
+    last_name: CONFIDENTIAL CAMBIO
+address_list:
+  items:
+  - uid: '73948'
+    address1: Lot 29 Lombard Street
+    city: Georgetown
+    country: Guyana
+id_list:
+  items:
+  - uid: '172627'
+    id_type: 'Organization Type:'
+    id_number: Mining and Quarrying
+  - uid: '172657'
+    id_type: Organization Established Date
+    id_number: '1993'

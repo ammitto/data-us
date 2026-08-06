@@ -1,0 +1,38 @@
+---
+uid: '51602'
+last_name: LLC GOLFSTRIM
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+address_list:
+  items:
+  - uid: '78631'
+    address1: Ul. Tsekhovaya 1
+    city: Almetyevsk
+    postal_code: '423450'
+    country: Russia
+  - uid: '78632'
+    address1: ul. Bolshaya Cheremushkinskaya d. 34
+    address2: kom. 64-65
+    city: Moscow
+    postal_code: '117218'
+    country: Russia
+id_list:
+  items:
+  - uid: '44081'
+    id_type: Registration Number
+    id_number: '1141650013042'
+    id_country: Russia
+  - uid: '44082'
+    id_type: Tax ID No.
+    id_number: '1650289328'
+    id_country: Russia
+  - uid: '181381'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183509'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

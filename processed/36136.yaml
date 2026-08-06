@@ -1,0 +1,48 @@
+---
+uid: '36136'
+first_name: Aleksandr Viktorovich
+last_name: IONOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56987'
+    type: a.k.a.
+    category: strong
+    last_name: IONOV
+    first_name: Alexander
+address_list:
+  items:
+  - uid: '54344'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '25536'
+    id_type: Tax ID No.
+    id_number: '774317334010'
+    id_country: Russia
+  - uid: '25537'
+    id_type: Passport
+    id_number: '717729719'
+    id_country: Russia
+  - uid: '25538'
+    id_type: Passport
+    id_number: '4510927317'
+    id_country: Russia
+  - uid: '173978'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '149591'
+    id_type: Website
+    id_number: www.aionov.ru
+  - uid: '149588'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '49587'
+    date_of_birth: 12 Dec 1989
+    main_entry: 'true'

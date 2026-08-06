@@ -1,0 +1,41 @@
+---
+uid: '47747'
+last_name: LIMITED LIABILITY COMPANY MILITARY INDUSTRIAL COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74743'
+    type: a.k.a.
+    category: strong
+    last_name: VOENNO PROMYSHLENNAYA KOMPANIYA
+  - uid: '74744'
+    type: a.k.a.
+    category: weak
+    last_name: LLC MIC
+  - uid: '74745'
+    type: a.k.a.
+    category: weak
+    last_name: OOO VPK
+address_list:
+  items:
+  - uid: '71405'
+    address1: 15 Rochdelskaya Street, Building 8, Floor 3, Unit I, Rooms 10-14
+    city: Moscow
+    postal_code: '123376'
+    country: Russia
+id_list:
+  items:
+  - uid: '38400'
+    id_type: Tax ID No.
+    id_number: '7703602065'
+    id_country: Russia
+  - uid: '38401'
+    id_type: Registration Number
+    id_number: '1067746915191'
+    id_country: Russia
+  - uid: '169634'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,37 @@
+---
+uid: '47415'
+last_name: LLC SONIS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73885'
+    type: a.k.a.
+    category: strong
+    last_name: SONIS CO
+address_list:
+  items:
+  - uid: '70705'
+    address1: Ul. Polkovnika Militsii Kurochkina D. 19
+    address2: Pomeshch. 12, 13
+    city: Troitsk
+    postal_code: '108841'
+    country: Russia
+id_list:
+  items:
+  - uid: '37818'
+    id_type: Registration Number
+    id_number: '1067760630937'
+    id_country: Russia
+  - uid: '37819'
+    id_type: Tax ID No.
+    id_number: '7705768066'
+    id_country: Russia
+  - uid: '169764'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '170053'
+    id_type: 'Organization Type:'
+    id_number: Manufacture of chemicals and chemical products

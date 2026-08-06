@@ -1,0 +1,36 @@
+---
+uid: '26682'
+first_name: David
+last_name: GUBERMAN
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+address_list:
+  items:
+  - uid: '40454'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '17330'
+    id_type: National ID No.
+    id_number: '7201105'
+    id_country: Israel
+  - uid: '131339'
+    id_type: Gender
+    id_number: Male
+  - uid: '154564'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+date_of_birth_list:
+  items:
+  - uid: '31338'
+    date_of_birth: 01 Mar 1971
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '31337'
+    place_of_birth: Ukraine
+    main_entry: 'true'
+remarks: "(Linked To: EVIL CORP)"

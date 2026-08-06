@@ -1,0 +1,40 @@
+---
+uid: '32179'
+last_name: SWAID AND SONS FOR EXCHANGE CO.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '50579'
+    type: a.k.a.
+    category: strong
+    last_name: SUWAYD AND SONS MONEY EXCHANGE
+address_list:
+  items:
+  - uid: '48504'
+    address1: Al-Zubairi Street, Swaid's Building, Sanaa
+    city: Sana'a City
+    country: Yemen
+  - uid: '48505'
+    address1: Swaid Building, Al Zubeiry Street, in front of IBY
+    city: Sanaa
+    postal_code: '8000600'
+    country: Yemen
+id_list:
+  items:
+  - uid: '141480'
+    id_type: Website
+    id_number: https://swaidexchange.com
+  - uid: '141680'
+    id_type: 'Organization Type:'
+    id_number: Other monetary intermediation
+  - uid: '141486'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '187337'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: "(Linked To: AL-JAMAL, Sa'id Ahmad Muhammad)"

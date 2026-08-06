@@ -1,0 +1,45 @@
+---
+uid: '26513'
+last_name: PAO ZVEZDA
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '41836'
+    type: a.k.a.
+    category: strong
+    last_name: PUBLICHNOE AKTSIONERNOE OBSHCHESTVO ZVEZDA
+  - uid: '41837'
+    type: a.k.a.
+    category: strong
+    last_name: PUBLIC JOINT STOCK COMPANY ZVEZDA
+  - uid: '41838'
+    type: a.k.a.
+    category: strong
+    last_name: PJSC ZVEZDA
+address_list:
+  items:
+  - uid: '40191'
+    address1: 123 Babushkina Street
+    city: St. Petersburg
+    postal_code: '192012'
+    country: Russia
+id_list:
+  items:
+  - uid: '17167'
+    id_type: Registration Number
+    id_number: '1037825005085'
+    id_country: Russia
+  - uid: '17168'
+    id_type: Tax ID No.
+    id_number: '7811038760'
+    id_country: Russia
+  - uid: '143968'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '130999'
+    id_type: Website
+    id_number: www.zvezda.spb.ru

@@ -1,0 +1,50 @@
+---
+uid: '34083'
+first_name: Leila
+last_name: VASEGHI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+aka_list:
+  items:
+  - uid: '53420'
+    type: a.k.a.
+    category: strong
+    last_name: VASEGHI
+    first_name: Leyla
+  - uid: '53421'
+    type: a.k.a.
+    category: strong
+    last_name: VASEGHI
+    first_name: Layla
+  - uid: '53422'
+    type: a.k.a.
+    category: strong
+    last_name: VASEQI
+    first_name: Layla
+address_list:
+  items:
+  - uid: '51096'
+    country: Iran
+id_list:
+  items:
+  - uid: '145151'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '145138'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '45136'
+    date_of_birth: '1972'
+    main_entry: 'false'
+  - uid: '45147'
+    date_of_birth: '1973'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '45137'
+    place_of_birth: Sari, Mazandaran Province, Iran
+    main_entry: 'true'

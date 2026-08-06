@@ -1,0 +1,50 @@
+---
+uid: '36556'
+last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU FERTOING
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '57631'
+    type: a.k.a.
+    category: strong
+    last_name: OOO FERTOING
+  - uid: '57632'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY FERTOING
+  - uid: '57633'
+    type: a.k.a.
+    category: strong
+    last_name: FERTOING LTD
+address_list:
+  items:
+  - uid: '54964'
+    address1: Pulkovskoe Highway
+    address2: House 40
+    address3: Apartment 4, Letter A, Office A7060
+    city: St. Petersburg
+    postal_code: '196158'
+    country: Russia
+  - uid: '54965'
+    address1: Shosse Pulkovskoe
+    address2: Dom 40
+    address3: Kvartira 4, Litera A, Ofis A7060
+    city: Gorod Sankt-Peterburg
+    postal_code: '196158'
+    country: Russia
+id_list:
+  items:
+  - uid: '26039'
+    id_type: Tax ID No.
+    id_number: '7802208912'
+    id_country: Russia
+  - uid: '26040'
+    id_type: Registration Number
+    id_number: '1037804040031'
+    id_country: Russia
+  - uid: '174246'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

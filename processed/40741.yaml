@@ -1,0 +1,57 @@
+---
+uid: '40741'
+first_name: Mohammad Sadegh Heidari
+last_name: MOUSA
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+  - IRGC
+aka_list:
+  items:
+  - uid: '63349'
+    type: a.k.a.
+    category: strong
+    last_name: MUSA
+    first_name: Mohammad Sadegh Heidari
+  - uid: '63350'
+    type: a.k.a.
+    category: strong
+    last_name: HEIDARI
+    first_name: Mohammad Ali Mohammad Sadegh
+  - uid: '63351'
+    type: a.k.a.
+    category: strong
+    last_name: HEYDARI
+    first_name: Mohammad Sadegh
+address_list:
+  items:
+  - uid: '60718'
+    country: Iran
+id_list:
+  items:
+  - uid: '29902'
+    id_type: National ID No.
+    id_number: '3149555493'
+    id_country: Iran
+  - uid: '158168'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '158169'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '58199'
+    date_of_birth: 23 Sep 1977
+    main_entry: 'true'
+  - uid: '58200'
+    date_of_birth: 24 Sep 1977
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '58197'
+    place_of_birth: Shahrebabak, Iran
+    main_entry: 'true'
+remarks: "(Linked To: PARAVAR PARS COMPANY)"

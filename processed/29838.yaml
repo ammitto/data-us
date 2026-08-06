@@ -1,0 +1,35 @@
+---
+uid: '29838'
+first_name: Mohsen
+last_name: NOORI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+address_list:
+  items:
+  - uid: '44969'
+    country: Iran
+id_list:
+  items:
+  - uid: '19950'
+    id_type: Passport
+    id_number: V29398072
+    id_country: Iran
+  - uid: '137056'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '136880'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '36881'
+    date_of_birth: 12 Oct 1990
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '36882'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: IRANIAN MINISTRY OF INTELLIGENCE AND SECURITY)"

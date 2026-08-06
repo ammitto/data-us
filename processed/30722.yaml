@@ -1,0 +1,31 @@
+---
+uid: '30722'
+last_name: 27TH SCIENTIFIC CENTER
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - NPWMD
+aka_list:
+  items:
+  - uid: '48319'
+    type: a.k.a.
+    category: weak
+    last_name: 27TH NTS
+  - uid: '51883'
+    type: a.k.a.
+    category: strong
+    last_name: FEDERAL STATE BUDGETARY ESTABLISHMENT 27 SCIENTIFIC CENTER OF THE MINISTRY
+      OF DEFENSE OF THE RUSSIAN FEDERATION
+address_list:
+  items:
+  - uid: '46466'
+    address1: Brigadirskiy Pereulok 13
+    city: Moscow
+    postal_code: '105005'
+    country: Russia
+id_list:
+  items:
+  - uid: '173947'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

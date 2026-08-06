@@ -1,0 +1,44 @@
+---
+uid: '31752'
+first_name: Felipe
+last_name: ALEJOS LORENZANA
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '49756'
+    type: a.k.a.
+    category: strong
+    last_name: ALEJOS
+    first_name: Felipe
+address_list:
+  items:
+  - uid: '47786'
+    country: Guatemala
+id_list:
+  items:
+  - uid: '21617'
+    id_type: Passport
+    id_number: '157297144'
+    id_country: Guatemala
+    expiration_date: '09 May 2023'
+  - uid: '21618'
+    id_type: Passport
+    id_number: '157297148'
+    id_country: Guatemala
+    expiration_date: 20 Apr 2017
+  - uid: '140291'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '40287'
+    date_of_birth: 03 Oct 1984
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '40292'
+    place_of_birth: Guatemala
+    main_entry: 'true'

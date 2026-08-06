@@ -1,0 +1,29 @@
+---
+uid: '45973'
+last_name: LIMITED LIABILITY COMPANY INFRASTRACTURE HOLDING 3
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '68442'
+    address1: 4 Olkhovskaya Street
+    address2: Building 2, Floor 4
+    address3: Suite 456
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '35765'
+    id_type: Tax ID No.
+    id_number: '9701214046'
+    id_country: Russia
+  - uid: '35766'
+    id_type: Registration Number
+    id_number: '1227700453364'
+    id_country: Russia
+  - uid: '174852'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: LIMITED LIABILITY COMPANY NEW DECISIONS 3)"

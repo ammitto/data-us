@@ -1,0 +1,36 @@
+---
+uid: '55875'
+last_name: DIMOND TOWN SHIPPING COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13846
+aka_list:
+  items:
+  - uid: '86793'
+    type: a.k.a.
+    category: strong
+    last_name: DIMOND TOWN SHIPPING CO
+address_list:
+  items:
+  - uid: '85519'
+    address1: Suite 1-A, 7th Floor, Business Centre Morskoy-2
+    address2: Spusk Polskiy 11
+    city: Odessa
+    postal_code: '65000'
+    country: Ukraine
+  - uid: '85520'
+    address1: 80 Broad Street
+    city: Monrovia
+    country: Liberia
+id_list:
+  items:
+  - uid: '50001'
+    id_type: Identification Number
+    id_number: IMO 6283911
+  - uid: '193995'
+    id_type: 'Executive Order 13846 information:'
+    id_number: BLOCKING PROPERTY AND INTERESTS IN PROPERTY.  Sec. 5(a)(iv)
+  - uid: '193814'
+    id_type: 'Organization Type:'
+    id_number: Transportation and storage

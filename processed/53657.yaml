@@ -1,0 +1,41 @@
+---
+uid: '53657'
+last_name: JOINT STOCK COMPANY RYAZAN OIL REFINERY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '83647'
+    type: a.k.a.
+    category: strong
+    last_name: RYAZAN OIL REFINING COMPANY JOINT STOCK COMPANY
+  - uid: '83648'
+    type: a.k.a.
+    category: weak
+    last_name: JSC RORC
+  - uid: '83649'
+    type: a.k.a.
+    category: weak
+    last_name: AO RNPK
+address_list:
+  items:
+  - uid: '81885'
+    address1: Yuzhnyi Promuzel D. 8
+    city: Ryazan
+    postal_code: '390011'
+    country: Russia
+id_list:
+  items:
+  - uid: '46984'
+    id_type: Registration Number
+    id_number: '1026200870321'
+    id_country: Russia
+  - uid: '46985'
+    id_type: Tax ID No.
+    id_number: '6227007322'
+    id_country: Russia
+  - uid: '188498'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

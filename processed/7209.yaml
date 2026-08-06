@@ -1,0 +1,76 @@
+---
+uid: '7209'
+first_name: Khalid Abd al-Rahman Hamd
+last_name: AL-FAWAZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '5136'
+    type: a.k.a.
+    category: strong
+    last_name: AL-FAUWAZ
+    first_name: Khaled
+  - uid: '5137'
+    type: a.k.a.
+    category: strong
+    last_name: AL-FAUWAZ
+    first_name: Khaled A.
+  - uid: '5138'
+    type: a.k.a.
+    category: strong
+    last_name: AL-FAWWAZ
+    first_name: Khalid
+  - uid: '5139'
+    type: a.k.a.
+    category: strong
+    last_name: AL FAWWAZ
+    first_name: Khalid
+  - uid: '5140'
+    type: a.k.a.
+    category: strong
+    last_name: AL FAWWAZ
+    first_name: Khaled
+  - uid: '5141'
+    type: a.k.a.
+    category: strong
+    last_name: AL-FAWWAZ
+    first_name: Khaled
+  - uid: '10002'
+    type: a.k.a.
+    category: strong
+    last_name: AL FAWAZ
+    first_name: Khalid Abdulrahman H.
+address_list:
+  items:
+  - uid: '5443'
+    address1: 55 Hawarden Hill, Brooke Road
+    city: London
+    postal_code: NW2 7BR
+    country: United Kingdom
+id_list:
+  items:
+  - uid: '4894'
+    id_type: Passport
+    id_number: '456682'
+    issue_date: 06 Nov 1990
+    expiration_date: 13 Sep 1995
+  - uid: '185653'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '1405'
+    date_of_birth: 25 Aug 1962
+    main_entry: 'true'
+  - uid: '5405'
+    date_of_birth: 24 Aug 1962
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '5406'
+    place_of_birth: Kuwait
+    main_entry: 'true'

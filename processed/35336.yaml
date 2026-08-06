@@ -1,0 +1,37 @@
+---
+uid: '35336'
+last_name: JOINT STOCK COMPANY ODK-KLIMOV
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '55625'
+    type: a.k.a.
+    category: strong
+    last_name: ODK-KLIMOV
+  - uid: '55626'
+    type: a.k.a.
+    category: strong
+    last_name: AO ODK-KLIMOV
+  - uid: '55627'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT-STOCK COMPANY ODK-KLIMOV
+address_list:
+  items:
+  - uid: '53138'
+    address1: 11 Kantemirovskaya Str.
+    city: Saint Petersburg
+    postal_code: '194100'
+    country: Russia
+id_list:
+  items:
+  - uid: '25048'
+    id_type: Tax ID No.
+    id_number: '7802375335'
+    id_country: Russia
+  - uid: '176726'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

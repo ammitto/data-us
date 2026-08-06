@@ -1,0 +1,31 @@
+---
+uid: '43844'
+first_name: Noel
+last_name: LOPEZ PEREZ
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '65290'
+    country: Mexico
+id_list:
+  items:
+  - uid: '33245'
+    id_type: C.U.R.P.
+    id_number: LOPN800521HSLPRL00
+    id_country: Mexico
+  - uid: '163419'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '63417'
+    date_of_birth: 21 May 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '63418'
+    place_of_birth: Sinaloa, Mexico
+    main_entry: 'true'

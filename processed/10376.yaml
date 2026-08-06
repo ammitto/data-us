@@ -1,0 +1,29 @@
+---
+uid: '10376'
+first_name: Sa'ad Muhammad Yunis
+last_name: AL-AHMAD
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAQ2
+address_list:
+  items:
+  - uid: '14203'
+    city: Damascus
+    country: Syria
+id_list:
+  items:
+  - uid: '4978'
+    id_type: Identification Number
+    id_number: '159014'
+    id_country: Iraq
+date_of_birth_list:
+  items:
+  - uid: '5552'
+    date_of_birth: 01 Jan 1981
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '5553'
+    place_of_birth: Baghdad, Iraq
+    main_entry: 'true'

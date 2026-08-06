@@ -1,0 +1,36 @@
+---
+uid: '47614'
+last_name: OBSHCHESTVO S OGRANICHENNOY OTVETSTVENNOSTYU UKON
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73735'
+    type: a.k.a.
+    category: weak
+    last_name: UCON COMPANY
+  - uid: '73736'
+    type: a.k.a.
+    category: strong
+    last_name: UCON LLC
+address_list:
+  items:
+  - uid: '71135'
+    address1: Str. Bokonbaeva 204
+    city: Bishkek
+    postal_code: '720001'
+    country: Kyrgyzstan
+id_list:
+  items:
+  - uid: '38179'
+    id_type: Tax ID No.
+    id_number: '02408202210349'
+    id_country: Kyrgyzstan
+  - uid: '169609'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '169096'
+    id_type: Organization Established Date
+    id_number: 24 Aug 2022

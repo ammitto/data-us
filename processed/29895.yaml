@@ -1,0 +1,36 @@
+---
+uid: '29895'
+first_name: Asghar
+last_name: ESMA'ILPUR
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+address_list:
+  items:
+  - uid: '45091'
+    country: Iran
+id_list:
+  items:
+  - uid: '20020'
+    id_type: National ID No.
+    id_number: '0059243228'
+    id_country: Iran
+  - uid: '137125'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '137128'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '37126'
+    date_of_birth: 07 Mar 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '37127'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: AEROSPACE INDUSTRIES ORGANIZATION)"

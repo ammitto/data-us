@@ -1,0 +1,37 @@
+---
+uid: '39162'
+first_name: Alfonso
+last_name: ARZATE GARCIA
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '61076'
+    type: a.k.a.
+    category: weak
+    last_name: AQUILES
+address_list:
+  items:
+  - uid: '58315'
+    country: Mexico
+id_list:
+  items:
+  - uid: '28386'
+    id_type: C.U.R.P.
+    id_number: AAGA731202HBCRRL05
+    id_country: Mexico
+  - uid: '154915'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '54912'
+    date_of_birth: 02 Dec 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '54913'
+    place_of_birth: Baja California, Mexico
+    main_entry: 'true'

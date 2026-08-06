@@ -1,0 +1,32 @@
+---
+uid: '37021'
+last_name: DVE STOLITSY OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '55414'
+    address1: Ul. Chermyanskaya D. 3
+    address2: Kom. 3 Floor 1
+    city: Moscow
+    postal_code: '127081'
+    country: Russia
+id_list:
+  items:
+  - uid: '26306'
+    id_type: Tax ID No.
+    id_number: '9715263396'
+    id_country: Russia
+  - uid: '26307'
+    id_type: Registration Number
+    id_number: '1167746583751'
+    id_country: Russia
+  - uid: '174434'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '151273'
+    id_type: Organization Established Date
+    id_number: 21 Jun 2016
+remarks: "(Linked To: JOINT STOCK COMPANY MOSCOW INDUSTRIAL BANK)"

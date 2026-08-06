@@ -1,0 +1,49 @@
+---
+uid: '50253'
+first_name: Gennady Anatolievich
+last_name: FILIPPOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78469'
+    type: a.k.a.
+    category: strong
+    last_name: FILIPAU
+    first_name: Henadzi
+  - uid: '78470'
+    type: a.k.a.
+    category: strong
+    last_name: FILIPAU
+    first_name: Genadziy Anatolievich
+address_list:
+  items:
+  - uid: '76090'
+    address1: M/R-N 16 no. 20 apt. 123
+    city: Zhlobin
+    state_or_province: Gomel Region
+    country: Belarus
+id_list:
+  items:
+  - uid: '41924'
+    id_type: National ID No.
+    id_number: 3170374H045PB1
+    id_country: Belarus
+  - uid: '177925'
+    id_type: Gender
+    id_number: Male
+  - uid: '178015'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '77922'
+    date_of_birth: 17 Mar 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '77923'
+    place_of_birth: Ozerany, Rogachevsky District, Gomel Region, Belarus
+    main_entry: 'true'

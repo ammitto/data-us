@@ -1,0 +1,43 @@
+---
+uid: '44846'
+last_name: FLYTECHGROUP LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69346'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOY OTVETSTVENNOSTYU FLAYTEKGRUPP
+  - uid: '69347'
+    type: a.k.a.
+    category: weak
+    last_name: OOO FTG
+address_list:
+  items:
+  - uid: '66722'
+    address1: Mkr. Skhodnya, Tup. 1-I Oktyabrskii D. 1
+    city: Khimki
+    postal_code: '141420'
+    country: Russia
+  - uid: '66723'
+    address1: Ul. Leningradskaya, D. 11
+    address2: Pomeshch. 006
+    city: Khimki
+    postal_code: '141402'
+    country: Russia
+id_list:
+  items:
+  - uid: '34429'
+    id_type: Registration Number
+    id_number: '1125047015532'
+    id_country: Russia
+  - uid: '34430'
+    id_type: Tax ID No.
+    id_number: '5047135637'
+    id_country: Russia
+  - uid: '173808'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

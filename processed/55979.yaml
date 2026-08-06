@@ -1,0 +1,41 @@
+---
+uid: '55979'
+first_name: Qianjiang
+last_name: WEI
+sdn_type: Individual
+program_list:
+  programs:
+  - TCO
+address_list:
+  items:
+  - uid: '85726'
+    city: Phnom Penh
+    country: Cambodia
+id_list:
+  items:
+  - uid: '50141'
+    id_type: Passport
+    id_number: EG9742474
+    id_country: China
+  - uid: '50142'
+    id_type: Passport
+    id_number: RV0118198
+    id_country: Vanuatu
+  - uid: '50143'
+    id_type: Passport
+    id_number: N01767532
+    id_country: Cambodia
+  - uid: '194080'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '94081'
+    date_of_birth: 28 Apr 1983
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '94082'
+    place_of_birth: Phnom Penh, Cambodia
+    main_entry: 'true'
+remarks: "(Linked To: PRINCE GROUP TRANSNATIONAL CRIMINAL ORGANIZATION)"

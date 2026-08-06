@@ -1,0 +1,45 @@
+---
+uid: '18068'
+first_name: Jose
+last_name: OLIVAS CHAIDEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '27900'
+    type: a.k.a.
+    category: weak
+    last_name: INGENIERO
+  - uid: '32017'
+    type: a.k.a.
+    category: weak
+    last_name: EL BLANCO
+address_list:
+  items:
+  - uid: '30868'
+    address1: CRT Club Campestre Campestre 788 Teran
+    city: Tuxtla Gutierrez
+    state_or_province: Chiapas
+    postal_code: '29050'
+    country: Mexico
+id_list:
+  items:
+  - uid: '10311'
+    id_type: C.U.R.P.
+    id_number: OICJ820729HDGLHS08
+    id_country: Mexico
+  - uid: '117224'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '17221'
+    date_of_birth: 29 Jul 1982
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '17222'
+    place_of_birth: Tamazula, Durango, Mexico
+    main_entry: 'true'

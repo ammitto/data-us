@@ -1,0 +1,91 @@
+---
+uid: '18027'
+last_name: STATE ENTERPRISE KERCH SEA COMMERCIAL PORT
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13685
+aka_list:
+  items:
+  - uid: '27857'
+    type: a.k.a.
+    category: strong
+    last_name: STATE ENTERPRISE KERCH COMMERCIAL SEA PORT
+  - uid: '27858'
+    type: a.k.a.
+    category: strong
+    last_name: KERCH COMMERCIAL SEAPORT
+  - uid: '27859'
+    type: a.k.a.
+    category: strong
+    last_name: KERCH MERCHANT SEA PORT
+  - uid: '27860'
+    type: a.k.a.
+    category: strong
+    last_name: KERCH SEA PORT
+  - uid: '27861'
+    type: a.k.a.
+    category: strong
+    last_name: PORT OF KERCH
+  - uid: '28458'
+    type: a.k.a.
+    category: strong
+    last_name: SEAPORT OF KERCH
+address_list:
+  items:
+  - uid: '27283'
+    address1: Kirova Street 28
+    city: Kerch
+    state_or_province: Crimea
+    postal_code: '98312'
+    country: Ukraine
+  - uid: '27284'
+    address1: 28 Kirova Str.
+    city: Kerch
+    state_or_province: Crimea
+    postal_code: '98312'
+    country: Ukraine
+  - uid: '27285'
+    address1: 28, Kirov Str.
+    city: Kerch
+    state_or_province: Crimea
+    postal_code: '98312'
+    country: Ukraine
+  - uid: '27286'
+    address1: Ul. Kirov, 28
+    city: Kerch
+    state_or_province: Crimea
+    postal_code: '98312'
+    country: Ukraine
+  - uid: '27749'
+    address1: ul Kirova 28
+    city: Kerch
+    postal_code: '98312'
+    country: Ukraine
+id_list:
+  items:
+  - uid: '10269'
+    id_type: Registration ID
+    id_number: '01125554'
+  - uid: '117180'
+    id_type: Website
+    id_number: http://www.kerchport.com
+  - uid: '117181'
+    id_type: Website
+    id_number: http://www.ukrport.org.ua
+  - uid: '117177'
+    id_type: Email Address
+    id_number: kmtp@kerch.sf.ukrtel.net
+  - uid: '117178'
+    id_type: Email Address
+    id_number: referent.port@mail.ru
+  - uid: '117179'
+    id_type: Email Address
+    id_number: kmtp@trport.kerch.crimea.com
+  - uid: '117625'
+    id_type: UN/LOCODE
+    id_number: UA KEH
+  - uid: '143641'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

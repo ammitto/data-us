@@ -1,0 +1,44 @@
+---
+uid: '49957'
+last_name: RADIOLINE LTD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77872'
+    type: a.k.a.
+    category: strong
+    last_name: RADIOLAIN
+  - uid: '77873'
+    type: a.k.a.
+    category: strong
+    last_name: LLC RADIOLINE
+address_list:
+  items:
+  - uid: '75560'
+    address1: PR-KT Volgogradskii
+    address2: D. 42, K. 5, Floor 2, Pom. I, Kom. 1
+    city: Moscow
+    postal_code: '109316'
+    country: Russia
+  - uid: '75561'
+    address1: Ul. Khimikov 28
+    address2: BC H2O, Office 1207
+    city: Saint Petersburg
+    postal_code: '195030'
+    country: Russia
+id_list:
+  items:
+  - uid: '41488'
+    id_type: Registration Number
+    id_number: '1117746143228'
+    id_country: Russia
+  - uid: '41489'
+    id_type: Tax ID No.
+    id_number: '7718837905'
+    id_country: Russia
+  - uid: '178024'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

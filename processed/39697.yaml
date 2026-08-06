@@ -1,0 +1,35 @@
+---
+uid: '39697'
+first_name: Gregorio
+last_name: FAZZONE
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '59288'
+    country: Switzerland
+id_list:
+  items:
+  - uid: '28837'
+    id_type: Passport
+    id_number: X4818118
+    id_country: Switzerland
+    expiration_date: 15 Jul 2020
+  - uid: '156041'
+    id_type: Gender
+    id_number: Male
+  - uid: '156237'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '56038'
+    date_of_birth: 13 Nov 1959
+    main_entry: 'true'
+  - uid: '56039'
+    date_of_birth: 31 Dec 1959
+    main_entry: 'false'
+remarks: "(Linked To: AVA PETROLEUM SERVICES S.A.)"

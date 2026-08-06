@@ -1,0 +1,48 @@
+---
+uid: '49428'
+first_name: Aleksandr Mikhailovich
+last_name: BODYAKO
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77139'
+    type: a.k.a.
+    category: strong
+    last_name: BADZIAKA
+    first_name: Aliaksandr Mikhailavich
+address_list:
+  items:
+  - uid: '74521'
+    address1: 32 Zagorodnyi lane, Apartment 1
+    city: Mogilev
+    country: Belarus
+id_list:
+  items:
+  - uid: '40725'
+    id_type: National ID No.
+    id_number: 3200359M079PB8
+    id_country: Belarus
+  - uid: '40726'
+    id_type: Passport
+    id_number: KB2480817
+    id_country: Belarus
+  - uid: '172508'
+    id_type: Gender
+    id_number: Male
+  - uid: '172731'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '72506'
+    date_of_birth: 20 Mar 1959
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '72509'
+    place_of_birth: Village Pechary, Mogilev Region, Belarus
+    main_entry: 'true'
+remarks: "(Linked To: UNITARY PRIVATE SCIENCE PRODUCTION ENTERPRISE TEHNOLIT)"

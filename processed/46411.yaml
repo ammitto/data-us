@@ -1,0 +1,27 @@
+---
+uid: '46411'
+last_name: OAO EPK SARATOV
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '69037'
+    address1: Prospekt Entuziastov, d.64 A
+    city: Saratov
+    postal_code: '410039'
+    country: Russia
+id_list:
+  items:
+  - uid: '36281'
+    id_type: Tax ID No.
+    id_number: '6451104638'
+    id_country: Russia
+  - uid: '36282'
+    id_type: Registration Number
+    id_number: '1026402484250'
+    id_country: Russia
+  - uid: '174946'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

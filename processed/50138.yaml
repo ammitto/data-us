@@ -1,0 +1,38 @@
+---
+uid: '50138'
+last_name: PRIKLADNYE TEKHNOLOGII
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78175'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY APPLIED TECHNOLOGIES
+address_list:
+  items:
+  - uid: '75868'
+    address1: Ul. Staroderevenskaya D. 11
+    address2: K. 2 Lit. A
+    address3: Office 310
+    city: Saint Petersburg
+    postal_code: '197374'
+    country: Russia
+id_list:
+  items:
+  - uid: '41738'
+    id_type: Tax ID No.
+    id_number: '7814832339'
+    id_country: Russia
+  - uid: '41739'
+    id_type: Registration Number
+    id_number: '1237800145791'
+    id_country: Russia
+  - uid: '177683'
+    id_type: Organization Established Date
+    id_number: 21 Dec 2023
+  - uid: '177686'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

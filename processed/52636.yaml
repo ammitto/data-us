@@ -1,0 +1,39 @@
+---
+uid: '52636'
+last_name: LIMITED LIABILITY COMPANY SCIENTIFIC AND PRODUCTION CENTER SKADA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '82453'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTIU NAUCHNO PROIZVODSTVENNYI
+      TSENTR SKADA
+  - uid: '82454'
+    type: a.k.a.
+    category: strong
+    last_name: OOO NPTS SKADA
+address_list:
+  items:
+  - uid: '80425'
+    address1: P13 Nezhiloe pomeshch.
+    address2: 46, ul. Ulianova
+    city: Nizhny Novgorod
+    postal_code: '603155'
+    country: Russia
+id_list:
+  items:
+  - uid: '45711'
+    id_type: Registration Number
+    id_number: '1025203017982'
+    id_country: Russia
+  - uid: '45712'
+    id_type: Tax ID No.
+    id_number: '5260015030'
+    id_country: Russia
+  - uid: '184420'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

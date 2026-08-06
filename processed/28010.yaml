@@ -1,0 +1,52 @@
+---
+uid: '28010'
+last_name: DISTRIBUIDORA NICARAGUENSE DE PETROLEO, S.A.
+sdn_type: Entity
+program_list:
+  programs:
+  - NICARAGUA
+aka_list:
+  items:
+  - uid: '44122'
+    type: a.k.a.
+    category: weak
+    last_name: DNP
+  - uid: '44123'
+    type: a.k.a.
+    category: strong
+    last_name: NICARAGUAN PETROLEUM DISTRIBUTOR
+  - uid: '44124'
+    type: a.k.a.
+    category: strong
+    last_name: DNP PETRONIC
+  - uid: '44307'
+    type: a.k.a.
+    category: strong
+    last_name: DNP-PETRONIC
+  - uid: '44308'
+    type: a.k.a.
+    category: weak
+    last_name: DNP S.A.
+address_list:
+  items:
+  - uid: '42365'
+    address1: Ofiplaza El Retiro Edificio 8
+    address2: Segundo Piso
+    city: Managua
+    country: Nicaragua
+  - uid: '42533'
+    address1: Rotonda El Gueguense 2
+    city: Managua
+    country: Nicaragua
+id_list:
+  items:
+  - uid: '18499'
+    id_type: 'RUC #'
+    id_number: J0310000005010
+    id_country: Nicaragua
+  - uid: '133319'
+    id_type: Website
+    id_number: http://www.dnppetronic.com.ni
+  - uid: '133317'
+    id_type: Email Address
+    id_number: dnp@dnp.com.ni

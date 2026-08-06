@@ -1,0 +1,42 @@
+---
+uid: '50182'
+last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU NORILSKI PROMYSHLENNY TRANSPORT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78279'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY NORILSK INDUSTRIAL TRANSPORT
+  - uid: '78280'
+    type: a.k.a.
+    category: strong
+    last_name: NORILSKPROMTRANSPORT OOO
+  - uid: '78281'
+    type: a.k.a.
+    category: strong
+    last_name: NORILSKII PROMYSHLENNYI TRANSPORT
+address_list:
+  items:
+  - uid: '75957'
+    address1: d. 6 k. V, ul. Oktyabrskaya
+    city: Norilsk
+    state_or_province: Krasnoyarsk region
+    postal_code: '663316'
+    country: Russia
+id_list:
+  items:
+  - uid: '41805'
+    id_type: Registration Number
+    id_number: '1072457002749'
+    id_country: Russia
+  - uid: '41806'
+    id_type: Tax ID No.
+    id_number: '2457063821'
+    id_country: Russia
+  - uid: '178105'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

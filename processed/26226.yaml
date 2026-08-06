@@ -1,0 +1,46 @@
+---
+uid: '26226'
+first_name: Claudia Patricia
+last_name: DIAZ GUILLEN
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA-EO13850
+aka_list:
+  items:
+  - uid: '41365'
+    type: a.k.a.
+    category: strong
+    last_name: DIAZ
+    first_name: Claudia
+  - uid: '41366'
+    type: a.k.a.
+    category: strong
+    last_name: DIAZ-GUILLEN
+    first_name: Claudia
+address_list:
+  items:
+  - uid: '39804'
+    city: Cap Cana
+    country: Dominican Republic
+  - uid: '39805'
+    country: Spain
+id_list:
+  items:
+  - uid: '16898'
+    id_type: Passport
+    id_number: '030415788'
+    id_country: Venezuela
+    expiration_date: 22 Nov 2014
+  - uid: '16899'
+    id_type: Cedula No.
+    id_number: '11502896'
+    id_country: Venezuela
+  - uid: '130665'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '30664'
+    date_of_birth: 25 Nov 1973
+    main_entry: 'true'

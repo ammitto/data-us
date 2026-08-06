@@ -1,0 +1,37 @@
+---
+uid: '51328'
+first_name: Myong Jin
+last_name: KIM
+sdn_type: Individual
+program_list:
+  programs:
+  - DPRK
+aka_list:
+  items:
+  - uid: '81947'
+    type: a.k.a.
+    category: strong
+    last_name: KIM
+    first_name: Myo'ng-chin
+address_list:
+  items:
+  - uid: '78147'
+    city: Beijing
+    country: China
+id_list:
+  items:
+  - uid: '180657'
+    id_type: Gender
+    id_number: Male
+  - uid: '180675'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '180674'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+date_of_birth_list:
+  items:
+  - uid: '80656'
+    date_of_birth: 18 Feb 1980
+    main_entry: 'true'

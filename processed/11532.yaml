@@ -1,0 +1,56 @@
+---
+uid: '11532'
+last_name: NAMCHONGANG TRADING CORPORATION
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+aka_list:
+  items:
+  - uid: '12204'
+    type: a.k.a.
+    category: weak
+    last_name: NCG
+  - uid: '12205'
+    type: a.k.a.
+    category: strong
+    last_name: NAMCHONGANG TRADING
+  - uid: '12206'
+    type: a.k.a.
+    category: strong
+    last_name: NAM CHON GANG CORPORATION
+  - uid: '12207'
+    type: a.k.a.
+    category: strong
+    last_name: NOMCHONGANG TRADING CO.
+  - uid: '30663'
+    type: a.k.a.
+    category: strong
+    last_name: KOREA NAMHUNG TRADING CORPORATION
+  - uid: '30664'
+    type: a.k.a.
+    category: strong
+    last_name: NAMHUNG
+  - uid: '35182'
+    type: a.k.a.
+    category: strong
+    last_name: KOREA TAERYONGGANG TRADING CORPORATION
+address_list:
+  items:
+  - uid: '17230'
+    city: Pyongyang
+    country: Korea, North
+  - uid: '29626'
+    address1: Chilgol
+    address2: Mangyongdae District
+    city: Pyongyang
+    country: Korea, North
+id_list:
+  items:
+  - uid: '134912'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '127689'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210

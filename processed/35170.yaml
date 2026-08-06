@@ -1,0 +1,37 @@
+---
+uid: '35170'
+first_name: Timur
+last_name: IVANOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '55302'
+    type: a.k.a.
+    category: strong
+    last_name: IVANOV
+    first_name: Timur Vadimovich
+address_list:
+  items:
+  - uid: '52814'
+    country: Russia
+id_list:
+  items:
+  - uid: '147168'
+    id_type: Gender
+    id_number: Male
+  - uid: '175279'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '47167'
+    date_of_birth: 12 Aug 1975
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '47164'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'

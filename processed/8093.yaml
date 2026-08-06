@@ -1,0 +1,39 @@
+---
+uid: '8093'
+first_name: Noureddine Ben Ali Ben Belkassem
+last_name: DRISSI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '7230'
+    address1: Via Plebiscito 3
+    city: Cremona
+    country: Italy
+id_list:
+  items:
+  - uid: '4083'
+    id_type: Passport
+    id_number: L851940
+    issue_date: '09 Sep 1998'
+    expiration_date: '08 Sep 2003'
+  - uid: '185769'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '2389'
+    date_of_birth: 30 Apr 1969
+    main_entry: 'true'
+  - uid: '4426'
+    date_of_birth: 30 Apr 1964
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '2390'
+    place_of_birth: Tunisi, Tunisia
+    main_entry: 'true'
+remarks: arrested 1 Apr 2003

@@ -1,0 +1,44 @@
+---
+uid: '50245'
+first_name: Igor Vladimirovich
+last_name: KUZMENKO
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78921'
+    type: a.k.a.
+    category: strong
+    last_name: KUZMENKA
+    first_name: Ihar Uladzimiravich
+address_list:
+  items:
+  - uid: '76074'
+    address1: No. 57, Sergey Gritsevts St.
+    city: Orsha Bolbasovo Town
+    state_or_province: Vitebsk Region
+    country: Belarus
+id_list:
+  items:
+  - uid: '41909'
+    id_type: National ID No.
+    id_number: 3111167A014PB1
+    id_country: Belarus
+  - uid: '178092'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '177904'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '77902'
+    date_of_birth: 11 Nov 1967
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '77903'
+    place_of_birth: Kagan, Uzbekistan
+    main_entry: 'true'

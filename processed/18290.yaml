@@ -1,0 +1,64 @@
+---
+uid: '18290'
+last_name: OJSC SYZRAN REFINERY
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13662
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '28297'
+    type: a.k.a.
+    category: strong
+    last_name: SYZRAN REFINERY
+  - uid: '28298'
+    type: a.k.a.
+    category: strong
+    last_name: OPEN JOINT-STOCK OIL AND GAS COMPANY SYZRAN
+  - uid: '83680'
+    type: a.k.a.
+    category: weak
+    last_name: OAO SNPS
+address_list:
+  items:
+  - uid: '27675'
+    address1: 1 Astrakhanskaya st.
+    city: Syzran
+    state_or_province: Samara region
+    postal_code: '446009'
+    country: Russia
+  - uid: '27677'
+    address1: Moskvorechje street 105
+    address2: Building 8
+    city: Moscow
+    postal_code: '115523'
+    country: Russia
+id_list:
+  items:
+  - uid: '47016'
+    id_type: Registration Number
+    id_number: '1026303056823'
+    id_country: Russia
+  - uid: '47018'
+    id_type: Tax ID No.
+    id_number: '6325004584'
+    id_country: Russia
+  - uid: '117589'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 2
+  - uid: '117649'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 4
+  - uid: '117547'
+    id_type: Email Address
+    id_number: sekr@snpz.rosneft.ru
+  - uid: '188524'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '143673'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+remarks: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: OPEN JOINT-STOCK COMPANY ROSNEFT OIL COMPANY)'

@@ -1,0 +1,42 @@
+---
+uid: '21333'
+last_name: ZORSECURITY
+sdn_type: Entity
+program_list:
+  programs:
+  - CYBER2
+aka_list:
+  items:
+  - uid: '33833'
+    type: f.k.a.
+    category: strong
+    last_name: ESAGE LAB
+  - uid: '33834'
+    type: a.k.a.
+    category: strong
+    last_name: TSOR SECURITY
+address_list:
+  items:
+  - uid: '32425'
+    address1: Luzhnetskaya Embankment 2/4
+    address2: Building 17, Office 444
+    city: Moscow
+    postal_code: '119270'
+    country: Russia
+id_list:
+  items:
+  - uid: '13364'
+    id_type: Registration ID
+    id_number: '1127746601817'
+    id_country: Russia
+  - uid: '13365'
+    id_type: Tax ID No.
+    id_number: '7704813260'
+    id_country: Russia
+  - uid: '13366'
+    id_type: Tax ID No.
+    id_number: '7704010041'
+    id_country: Russia
+  - uid: '154550'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201

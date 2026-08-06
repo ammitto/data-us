@@ -1,0 +1,39 @@
+---
+uid: '57997'
+first_name: Adolfo Gabriel
+last_name: MEDINA CHAVIRA
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+address_list:
+  items:
+  - uid: '88999'
+    city: Zapopan
+    state_or_province: Jalisco
+    country: Mexico
+id_list:
+  items:
+  - uid: '52533'
+    id_type: C.U.R.P.
+    id_number: MECA740317HJCDHD05
+    id_country: Mexico
+  - uid: '198958'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '198956'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '98954'
+    date_of_birth: 17 Mar 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '98955'
+    place_of_birth: Jalisco, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: CARTEL DE JALISCO NUEVA GENERACION)"

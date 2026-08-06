@@ -1,0 +1,41 @@
+---
+uid: '28918'
+first_name: Hossein
+last_name: ASHTARI FARD
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+aka_list:
+  items:
+  - uid: '45465'
+    type: a.k.a.
+    category: strong
+    last_name: AHSTARI
+    first_name: Hossein
+address_list:
+  items:
+  - uid: '43699'
+    country: Iran
+id_list:
+  items:
+  - uid: '135451'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '135455'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '35452'
+    date_of_birth: '1962'
+    main_entry: 'true'
+  - uid: '35515'
+    date_of_birth: '1963'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '35453'
+    place_of_birth: Isfahan, Iran
+    main_entry: 'true'
+remarks: "(Linked To: LAW ENFORCEMENT FORCES OF THE ISLAMIC REPUBLIC OF IRAN)"

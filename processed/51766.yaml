@@ -1,0 +1,45 @@
+---
+uid: '51766'
+last_name: LIMITED LIABILITY COMPANY KRONA BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '81085'
+    type: a.k.a.
+    category: strong
+    last_name: COMMERCIAL BANK TRUSTCOMBANK LIMITED LIABILITY COMPANY
+address_list:
+  items:
+  - uid: '78887'
+    address1: ul. Dzerzhinskogo 29
+    city: Irkutsk
+    postal_code: '664007'
+    country: Russia
+id_list:
+  items:
+  - uid: '44387'
+    id_type: Global Intermediary Identification Number
+    id_number: GMVGE1.99999.SL.643
+  - uid: '44388'
+    id_type: Registration Number
+    id_number: '1023800000245'
+    id_country: Russia
+  - uid: '44389'
+    id_type: Tax ID No.
+    id_number: '3807000886'
+    id_country: Russia
+  - uid: '181959'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '181957'
+    id_type: SWIFT/BIC
+    id_number: TRUKRU61
+  - uid: '181956'
+    id_type: Website
+    id_number: www.krona-bank.ru
+  - uid: '181958'
+    id_type: Target Type
+    id_number: Financial Institution

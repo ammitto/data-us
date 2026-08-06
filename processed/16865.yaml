@@ -1,0 +1,72 @@
+---
+uid: '16865'
+last_name: JOINT STOCK COMPANY AEROSPACE DEFENSE CONCERN ALMAZ-ANTEY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13661
+aka_list:
+  items:
+  - uid: '25756'
+    type: f.k.a.
+    category: strong
+    last_name: OAO CONCERN PVO ALMAZ-ANTEY
+  - uid: '25759'
+    type: f.k.a.
+    category: strong
+    last_name: OPEN JOINT STOCK COMPANY CONCERN PVO ALMAZ-ANTEY
+  - uid: '62428'
+    type: a.k.a.
+    category: strong
+    last_name: JSC CONCERN VKO ALMAZ-ANTEY
+  - uid: '62429'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY AIR AND SPACE DEFENSE CONCERN ALMAZ-ANTEY
+  - uid: '62430'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO KONTSERN VOZDUSHNO-KOSMICHESKOI OBORONY ALMAZ-ANTEI
+  - uid: '62431'
+    type: a.k.a.
+    category: strong
+    last_name: AO KONTSERN VKO ALMAZ-ANTEI
+  - uid: '62432'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT-STOCK COMPANY CONCERN ALMAZ-ANTEY
+address_list:
+  items:
+  - uid: '25546'
+    address1: D. 41, ul. Vereiskaya
+    city: Moscow
+    postal_code: '121471'
+    country: Russia
+id_list:
+  items:
+  - uid: '29331'
+    id_type: Registration Number
+    id_number: '1027739001993'
+    id_country: Russia
+  - uid: '29332'
+    id_type: Tax ID No.
+    id_number: '7731084175'
+    id_country: Russia
+  - uid: '29333'
+    id_type: Government Gazette Number
+    id_number: '11593871'
+    id_country: Russia
+  - uid: '143462'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '173847'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '157068'
+    id_type: Organization Established Date
+    id_number: 19 Nov 1991
+  - uid: '157069'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

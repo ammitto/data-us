@@ -1,0 +1,69 @@
+---
+uid: '52940'
+last_name: IRANIAN OIL TERMINALS COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '82864'
+    type: a.k.a.
+    category: strong
+    last_name: IRAN OIL TERMINALS COMPANY
+address_list:
+  items:
+  - uid: '80898'
+    address1: Hafez Corner, National Iranian Oil Company Headquarters, Taleghani Street
+    city: Tehran
+    postal_code: '1514846116'
+    country: Iran
+  - uid: '80899'
+    address1: No. 11, Pasdaran St., Hojjat Souri St.
+    city: Tehran
+    country: Iran
+  - uid: '80900'
+    address1: Shomal Oil Terminal
+    city: Neka
+    state_or_province: Mazandaran
+    country: Iran
+  - uid: '80901'
+    address1: Mahshahr Oil Terminal
+    city: Bandar-e Mahshahr
+    state_or_province: Khuzestan
+    country: Iran
+  - uid: '80902'
+    address1: Kharg Oil Terminal
+    address2: Kharg Island
+    state_or_province: Bushehr
+    country: Iran
+  - uid: '80903'
+    address1: South Pars Condensate Oil Terminal
+    city: Asaluyeh
+    state_or_province: Bushehr
+    country: Iran
+  - uid: '80904'
+    address1: Jask Oil Terminal
+    city: Jask
+    state_or_province: Hormozgan
+    country: Iran
+id_list:
+  items:
+  - uid: '46070'
+    id_type: Registration Number
+    id_number: '149197'
+    id_country: Iran
+  - uid: '46071'
+    id_type: National ID No.
+    id_number: '10101920450'
+    id_country: Iran
+  - uid: '46072'
+    id_type: Identification Number
+    id_number: '411155817498'
+    id_country: Iran
+  - uid: '184919'
+    id_type: Organization Established Date
+    id_number: 15 Mar 1999
+  - uid: '184924'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

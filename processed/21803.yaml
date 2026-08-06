@@ -1,0 +1,33 @@
+---
+uid: '21803'
+first_name: Tarek
+last_name: SAKR
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '33188'
+    country: Syria
+  - uid: '33189'
+    country: Turkey
+id_list:
+  items:
+  - uid: '186626'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '122874'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '22871'
+    date_of_birth: 14 Mar 1987
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '22872'
+    place_of_birth: Syria
+    main_entry: 'true'

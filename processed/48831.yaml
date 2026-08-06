@@ -1,0 +1,42 @@
+---
+uid: '48831'
+last_name: JOINT STOCK COMPANY URAL SCIENTIFIC AND TECHNOLOGICAL COMPLEX
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76012'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO URALSKII NAUCHNO TEKHNOLOGICHESKII KOMPLEKS
+  - uid: '76013'
+    type: a.k.a.
+    category: weak
+    last_name: AO UNTK
+address_list:
+  items:
+  - uid: '73415'
+    address1: Vostochnoe sh. 28a
+    city: Nizhny Tagil
+    postal_code: '622007'
+    country: Russia
+  - uid: '73416'
+    address1: Ul. paradnaya d. 8
+    city: Saint Petersburg
+    postal_code: '191014'
+    country: Russia
+id_list:
+  items:
+  - uid: '39883'
+    id_type: Registration Number
+    id_number: '1026601368023'
+    id_country: Russia
+  - uid: '39884'
+    id_type: Tax ID No.
+    id_number: '6667001522'
+    id_country: Russia
+  - uid: '171502'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

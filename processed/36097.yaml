@@ -1,0 +1,47 @@
+---
+uid: '36097'
+last_name: FEDERAL STATE UNITARY ENTERPRISE KRONSHTADTSKYY MORSKOY FACTORY MINOBORONY
+  ROSSII
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56932'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY KRONSTADT MARINE PLANT
+  - uid: '56933'
+    type: a.k.a.
+    category: strong
+    last_name: FEDERAL STATE UNITARY ENTERPRISE KRONSTADT MARINE PLANT OF THE MINISTRY
+      OF DEFENSE OF THE RUSSIAN FEDERATION
+  - uid: '56949'
+    type: a.k.a.
+    category: strong
+    last_name: KRONSTADT MARINE PLANT
+address_list:
+  items:
+  - uid: '54309'
+    address1: Kronstadt, St. Petrovskaya, 2
+    address2: Kronstadt District
+    city: St. Petersburg
+    postal_code: '197762'
+    country: Russia
+id_list:
+  items:
+  - uid: '25518'
+    id_type: Tax ID No.
+    id_number: '7818001991'
+    id_country: Russia
+  - uid: '173975'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '149512'
+    id_type: Organization Established Date
+    id_number: 25 Apr 1997
+  - uid: '149511'
+    id_type: Website
+    id_number: kmolz.ru
+remarks: "(Linked To: JOINT STOCK COMPANY UNITED SHIPBUILDING CORPORATION)"

@@ -1,0 +1,44 @@
+---
+uid: '23288'
+first_name: Slobodan
+last_name: TESIC
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '36723'
+    type: a.k.a.
+    category: strong
+    last_name: SLOBODAN
+    first_name: Tezic
+address_list:
+  items:
+  - uid: '35264'
+    country: Serbia
+id_list:
+  items:
+  - uid: '14761'
+    id_type: Passport
+    id_number: '009511357'
+    id_country: Serbia
+    expiration_date: 27 Oct 2020
+  - uid: '14762'
+    id_type: Passport
+    id_number: '007671811'
+    id_country: Serbia
+    expiration_date: 05 Aug 2019
+  - uid: '125045'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '24987'
+    date_of_birth: 21 Dec 1958
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '24988'
+    place_of_birth: Kiseljak, Bosnia and Herzegovina
+    main_entry: 'true'

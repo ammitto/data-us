@@ -1,0 +1,38 @@
+---
+uid: '52712'
+last_name: HERBARIUM OFFICE MANAGEMENT LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '82636'
+    type: a.k.a.
+    category: strong
+    last_name: GERBARIUM OFFICE MANAGEMENT LLC
+address_list:
+  items:
+  - uid: '80569'
+    address1: Ul. Novyi Arbat D. 29, Kabinet 324
+    city: Moscow
+    postal_code: '121099'
+    country: Russia
+id_list:
+  items:
+  - uid: '45850'
+    id_type: Registration Number
+    id_number: '5147746250890'
+    id_country: Russia
+  - uid: '45851'
+    id_type: Tax ID No.
+    id_number: '7704877746'
+    id_country: Russia
+  - uid: '184559'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184560'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

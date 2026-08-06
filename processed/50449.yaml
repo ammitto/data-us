@@ -1,0 +1,42 @@
+---
+uid: '50449'
+first_name: DENIS SERGEYEVICH
+last_name: CHERNOBAY
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '76513'
+    address1: Apartment 1, 22 Dalnevostochnaya Street
+    city: Makeevka
+    state_or_province: Donetsk Oblast
+    country: Ukraine
+id_list:
+  items:
+  - uid: '42254'
+    id_type: Tax ID No.
+    id_number: '3747402677'
+    id_country: Ukraine
+  - uid: '42255'
+    id_type: Tax ID No.
+    id_number: '614024966788'
+    id_country: Russia
+  - uid: '178440'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '178438'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '78436'
+    date_of_birth: 07 Aug 2002
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '78437'
+    place_of_birth: Makeevka, Donetsk Oblast, Ukraine
+    main_entry: 'true'
+remarks: "(Linked To: ALL RUSSIAN PUBLIC STATE MOVEMENT OF CHILDREN AND YOUTH)"

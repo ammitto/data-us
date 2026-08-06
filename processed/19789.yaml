@@ -1,0 +1,38 @@
+---
+uid: '19789'
+last_name: MINISTRY OF STATE SECURITY PRISONS BUREAU
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK3
+aka_list:
+  items:
+  - uid: '31227'
+    type: a.k.a.
+    category: strong
+    last_name: MINISTRY OF STATE SECURITY FARM BUREAU
+  - uid: '31228'
+    type: a.k.a.
+    category: strong
+    last_name: MINISTRY OF STATE SECURITY FARMING BUREAU
+  - uid: '31229'
+    type: a.k.a.
+    category: strong
+    last_name: MINISTRY OF STATE SECURITY FARM GUIDANCE BUREAU
+  - uid: '31246'
+    type: a.k.a.
+    category: strong
+    last_name: STATE SECURITY DEPARTMENT PRISONS BUREAU
+address_list:
+  items:
+  - uid: '30014'
+    country: Korea, North
+id_list:
+  items:
+  - uid: '135049'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '127162'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210

@@ -1,0 +1,33 @@
+---
+uid: '47515'
+last_name: ZENIT 3D
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73549'
+    type: a.k.a.
+    category: weak
+    last_name: ZENIT
+address_list:
+  items:
+  - uid: '70932'
+    address1: Ul. Karla Marksa D. 5/3, Floor 1, Kom. 28
+    city: Ramenskoe
+    postal_code: '140100'
+    country: Russia
+id_list:
+  items:
+  - uid: '38000'
+    id_type: Registration Number
+    id_number: '1165040051263'
+    id_country: Russia
+  - uid: '38001'
+    id_type: Tax ID No.
+    id_number: '5040139590'
+    id_country: Russia
+  - uid: '169757'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

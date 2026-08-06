@@ -1,0 +1,30 @@
+---
+uid: '46000'
+last_name: LIMITED LIABILITY COMPANY FINANCE DECISIONS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '68503'
+    address1: 14 Spartakovskaya Square
+    address2: Building 3, Suite 9N/2
+    address3: Basmannyy Municipal District
+    city: Moscow
+    postal_code: '105082'
+    country: Russia
+id_list:
+  items:
+  - uid: '35824'
+    id_type: Tax ID No.
+    id_number: '9729311995'
+    id_country: Russia
+  - uid: '35825'
+    id_type: Registration Number
+    id_number: '1217700369105'
+    id_country: Russia
+  - uid: '174874'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: JOINT STOCK COMPANY NEW HOLDING 2)"

@@ -1,0 +1,51 @@
+---
+uid: '45231'
+last_name: COMPANY GROUP STRUCTURA LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70020'
+    type: a.k.a.
+    category: strong
+    last_name: GRUPPA KOMPANII STRUKTURA
+  - uid: '70021'
+    type: a.k.a.
+    category: strong
+    last_name: STRUCTURA NATIONAL TECHNOLOGIES
+  - uid: '70022'
+    type: a.k.a.
+    category: strong
+    last_name: GK STRUKTURA
+address_list:
+  items:
+  - uid: '67319'
+    address1: Per. Bolshoi Kislovskii, d. 1, str. 2
+    address2: Pomeshch/Kom I/42
+    city: Moscow
+    postal_code: '125009'
+    country: Russia
+id_list:
+  items:
+  - uid: '34962'
+    id_type: Tax ID No.
+    id_number: '7703438908'
+    id_country: Russia
+  - uid: '34963'
+    id_type: Registration Number
+    id_number: '5177746315588'
+    id_country: Russia
+  - uid: '175955'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '165645'
+    id_type: Organization Established Date
+    id_number: 12 Dec 2017
+  - uid: '165644'
+    id_type: Website
+    id_number: structura.pro
+  - uid: '165646'
+    id_type: 'Organization Type:'
+    id_number: Other information technology and computer service activities

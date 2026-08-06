@@ -1,0 +1,102 @@
+---
+uid: '21024'
+first_name: Raul
+last_name: FLORES HERNANDEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '33335'
+    type: a.k.a.
+    category: strong
+    last_name: CASAS LINARES
+    first_name: Miguel
+address_list:
+  items:
+  - uid: '31892'
+    state_or_province: Distrito Federal
+    country: Mexico
+  - uid: '31893'
+    city: Guadalajara
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '31894'
+    address1: Calle Piotr Tchaikovski 474
+    address2: Col. Arcos de Guadalupe
+    city: Zapopan
+    state_or_province: Jalisco
+    postal_code: '45030'
+    country: Mexico
+  - uid: '31895'
+    address1: Av. Sebastian Bach 5115
+    address2: Col. Residencial La Estancia
+    city: Zapopan
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '31896'
+    address1: Av. Chapalita 50
+    address2: Col. Jardines Plaza del Sol
+    city: Guadalajara
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '31897'
+    address1: Calle 72, Panfilo Perez, 750 Sector Libertad
+    address2: Col. Blanco y Cuellar
+    city: Guadalajara
+    state_or_province: Jalisco
+    postal_code: '44730'
+    country: Mexico
+  - uid: '31898'
+    address1: Calle Llamarada 193
+    address2: Fracc. Residencial Sumiya
+    city: Jiutepec
+    state_or_province: Morelos
+    postal_code: '62560'
+    country: Mexico
+  - uid: '31899'
+    address1: Zaragoza Sur 201
+    address2: Col. Centro
+    city: San Martin Texmelucan
+    state_or_province: Puebla
+    postal_code: '74000'
+    country: Mexico
+id_list:
+  items:
+  - uid: '13075'
+    id_type: C.U.R.P.
+    id_number: FOHR521003HJCLRL07
+    id_country: Mexico
+  - uid: '13076'
+    id_type: C.U.R.P.
+    id_number: FOHR510305HPLLRL08
+    id_country: Mexico
+  - uid: '13077'
+    id_type: R.F.C.
+    id_number: FOHR521003SF7
+    id_country: Mexico
+  - uid: '13078'
+    id_type: R.F.C.
+    id_number: FOHR510305SF7
+    id_country: Mexico
+  - uid: '121796'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '21791'
+    date_of_birth: 03 Oct 1952
+    main_entry: 'true'
+  - uid: '21792'
+    date_of_birth: 05 Mar 1951
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '21793'
+    place_of_birth: Autlan de Navarro, Jalisco, Mexico
+    main_entry: 'true'
+  - uid: '21794'
+    place_of_birth: San Martin Texmelucan, Puebla, Mexico
+    main_entry: 'false'
+remarks: "(Linked To: FLORES DRUG TRAFFICKING ORGANIZATION)"

@@ -1,0 +1,34 @@
+---
+uid: '41996'
+last_name: KOMPONENTA AO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65271'
+    type: a.k.a.
+    category: strong
+    last_name: KOMPONENTA INC
+address_list:
+  items:
+  - uid: '62660'
+    address1: ul. Vyborgskaya d. 16
+    address2: str. 1, pom. X kom 2
+    city: Moscow
+    postal_code: '125212'
+    country: Russia
+id_list:
+  items:
+  - uid: '31396'
+    id_type: Registration Number
+    id_number: '1077763331436'
+    id_country: Russia
+  - uid: '31397'
+    id_type: Tax ID No.
+    id_number: '7743669411'
+    id_country: Russia
+  - uid: '173731'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

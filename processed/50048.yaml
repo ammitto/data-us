@@ -1,0 +1,52 @@
+---
+uid: '50048'
+last_name: PUBLICHNOE AKTSIONERNOE OBSHCHESTVO RASPADSKAYA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '78015'
+    type: a.k.a.
+    category: strong
+    last_name: OPEN JOINT STOCK COMPANY RASPADSKAYA
+  - uid: '78016'
+    type: a.k.a.
+    category: weak
+    last_name: RASPADSKAYA PAO
+  - uid: '78018'
+    type: a.k.a.
+    category: weak
+    last_name: RASPADSKAYA PJSC
+address_list:
+  items:
+  - uid: '75725'
+    address1: 27A, prospekt Kommunisticheski
+    city: Mezhdurechensk
+    state_or_province: Kemerovo region
+    postal_code: '652870'
+    country: Russia
+  - uid: '75726'
+    address1: 106 Mira Street
+    city: Mezhdurechensk
+    postal_code: '652870'
+    country: Russia
+id_list:
+  items:
+  - uid: '41608'
+    id_type: Registration Number
+    id_number: '1024201389772'
+    id_country: Russia
+  - uid: '41610'
+    id_type: Tax ID No.
+    id_number: '4214002316'
+    id_country: Russia
+  - uid: '178075'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184398'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

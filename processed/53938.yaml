@@ -1,0 +1,40 @@
+---
+uid: '53938'
+last_name: PEGAH ALUMINUM ARAK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '84010'
+    type: a.k.a.
+    category: strong
+    last_name: PEGAH ALUMINUM COMPANY
+  - uid: '84011'
+    type: a.k.a.
+    category: strong
+    last_name: ALUMINUM PEGAH ARAK
+address_list:
+  items:
+  - uid: '82319'
+    city: Arak
+    country: Iran
+id_list:
+  items:
+  - uid: '47378'
+    id_type: National ID No.
+    id_number: '10780122347'
+    id_country: Iran
+  - uid: '47379'
+    id_type: Registration Number
+    id_number: '8722'
+    id_country: Iran
+  - uid: '189081'
+    id_type: Organization Established Date
+    id_number: 11 Dec 2008
+  - uid: '189084'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: IRAN CENTRIFUGE TECHNOLOGY COMPANY)"

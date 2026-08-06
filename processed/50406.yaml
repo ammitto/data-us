@@ -1,0 +1,29 @@
+---
+uid: '50406'
+last_name: LIMITED LIABILITY COMPANY SD RUD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '76421'
+    address1: Kabinet 17, Lit. A, Pomeshch. 17N, D. 1-3
+    address2: Ul. Malaya Konyushennaya
+    city: Saint Petersburg
+    postal_code: '191186'
+    country: Russia
+id_list:
+  items:
+  - uid: '42185'
+    id_type: Registration Number
+    id_number: '1247800044348'
+    id_country: Russia
+  - uid: '42186'
+    id_type: Tax ID No.
+    id_number: '7840112961'
+    id_country: Russia
+  - uid: '178378'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: LIMITED LIABILITY COMPANY MEZHREGIONSTROY)"

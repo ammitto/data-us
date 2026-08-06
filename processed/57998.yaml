@@ -1,0 +1,39 @@
+---
+uid: '57998'
+first_name: Jorge Fernando
+last_name: CRUZ CABRERA
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+address_list:
+  items:
+  - uid: '89001'
+    city: Zapopan
+    state_or_province: Jalisco
+    country: Mexico
+id_list:
+  items:
+  - uid: '52534'
+    id_type: C.U.R.P.
+    id_number: CUCJ930623HJCRBR03
+    id_country: Mexico
+  - uid: '198962'
+    id_type: Gender
+    id_number: Male
+  - uid: '198963'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '98959'
+    date_of_birth: 23 Jun 1993
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '98960'
+    place_of_birth: Jalisco, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: CARTEL DE JALISCO NUEVA GENERACION)"

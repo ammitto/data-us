@@ -1,0 +1,49 @@
+---
+uid: '6866'
+first_name: Alcides
+last_name: RAMON MAGANA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '4694'
+    type: a.k.a.
+    category: weak
+    last_name: ROMERO, Antonio
+  - uid: '4695'
+    type: a.k.a.
+    category: weak
+    last_name: GONZALEZ QUIONES, Jorge
+  - uid: '4696'
+    type: a.k.a.
+    category: weak
+    last_name: MAGANA, Jorge
+  - uid: '4698'
+    type: a.k.a.
+    category: weak
+    last_name: MATA, Alcides
+address_list:
+  items:
+  - uid: '89064'
+    country: Mexico
+id_list:
+  items:
+  - uid: '52556'
+    id_type: C.U.R.P.
+    id_number: RAMA570904HTCMGL03
+    id_country: Mexico
+  - uid: '199187'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '1206'
+    date_of_birth: 04 Sep 1957
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '99444'
+    place_of_birth: Tabasco, Mexico
+    main_entry: 'true'

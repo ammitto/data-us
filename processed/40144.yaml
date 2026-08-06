@@ -1,0 +1,43 @@
+---
+uid: '40144'
+first_name: Luis Alfonso
+last_name: CHANG NAVARRO
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '62368'
+    type: a.k.a.
+    category: strong
+    last_name: CHANG
+    first_name: Luis
+address_list:
+  items:
+  - uid: '59782'
+    country: Guatemala
+id_list:
+  items:
+  - uid: '29282'
+    id_type: National ID No.
+    id_number: 2229 77132 0101
+    id_country: Guatemala
+  - uid: '29283'
+    id_type: Passport
+    id_number: '222977132'
+    id_country: Guatemala
+    expiration_date: 21 May 2022
+  - uid: '157006'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '57005'
+    date_of_birth: 15 Mar 1978
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '57008'
+    place_of_birth: Guatemala
+    main_entry: 'true'

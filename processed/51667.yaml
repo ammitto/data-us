@@ -1,0 +1,39 @@
+---
+uid: '51667'
+last_name: NATIONAL STANDARD BANK JOINT STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '78733'
+    address1: Building 57-Building 2-3, Party Lane 1
+    city: Moscow
+    postal_code: '115093'
+    country: Russia
+id_list:
+  items:
+  - uid: '44191'
+    id_type: Legal Entity Number
+    id_number: 25340031R6A1E6TW7M44
+  - uid: '44192'
+    id_type: Registration Number
+    id_number: '1157700006650'
+    id_country: Russia
+  - uid: '44193'
+    id_type: Tax ID No.
+    id_number: '7750056688'
+    id_country: Russia
+  - uid: '181626'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '181625'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '181627'
+    id_type: SWIFT/BIC
+    id_number: CBNNRUMM
+  - uid: '181628'
+    id_type: Website
+    id_number: www.ns-bank.ru

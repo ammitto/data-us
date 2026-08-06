@@ -1,0 +1,37 @@
+---
+uid: '11464'
+first_name: Omar Alfredo
+last_name: JACOME DEL VALLE
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNT
+aka_list:
+  items:
+  - uid: '12154'
+    type: a.k.a.
+    category: weak
+    last_name: EL PIOLO
+address_list:
+  items:
+  - uid: '17102'
+    address1: c/o CONSULTORIA EN CAMBIOS FALCON S.A. DE C.V.
+    city: Huixquilucan
+    state_or_province: Estado de Mexico
+    country: Mexico
+id_list:
+  items:
+  - uid: '5881'
+    id_type: C.U.R.P.
+    id_number: JAVO581024HDFCLM02
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '6891'
+    date_of_birth: 24 Oct 1958
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '6892'
+    place_of_birth: Mexico
+    main_entry: 'true'

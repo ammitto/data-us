@@ -1,0 +1,55 @@
+---
+uid: '17849'
+first_name: Guadalupe
+last_name: FERNANDEZ VALENCIA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '27582'
+    type: a.k.a.
+    category: weak
+    last_name: DON JULIO
+  - uid: '27583'
+    type: a.k.a.
+    category: weak
+    last_name: JULIA
+  - uid: '27719'
+    type: a.k.a.
+    category: strong
+    last_name: FERNANDEZ VALENCIA
+    first_name: Ma. Guadalupe
+  - uid: '30073'
+    type: a.k.a.
+    category: strong
+    last_name: FERNANDEZ VALENCIA
+    first_name: Maria Guadalupe
+id_list:
+  items:
+  - uid: '10118'
+    id_type: C.U.R.P.
+    id_number: FEVG601029MMNRLD10
+    id_country: Mexico
+  - uid: '10119'
+    id_type: C.U.R.P.
+    id_number: FEVG601029MMNRLD02
+    id_country: Mexico
+  - uid: '10120'
+    id_type: R.F.C.
+    id_number: FEVM601029EN3
+    id_country: Mexico
+  - uid: '117028'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '17025'
+    date_of_birth: 29 Oct 1960
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '17026'
+    place_of_birth: Aguililla, Michoacan de Ocampo, Mexico
+    main_entry: 'true'

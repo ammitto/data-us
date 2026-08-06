@@ -1,0 +1,40 @@
+---
+uid: '7207'
+first_name: Abdelkader Mahmoud
+last_name: ES SAYED
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '5135'
+    type: a.k.a.
+    category: strong
+    last_name: ES SAYED
+    first_name: Kader
+address_list:
+  items:
+  - uid: '5441'
+    address1: Via del Fosso di Centocelle n.66
+    city: Roma
+    country: Italy
+id_list:
+  items:
+  - uid: '3328'
+    id_type: Italian Fiscal Code
+    id_number: SSYBLK62T26Z336L
+  - uid: '185651'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '1401'
+    date_of_birth: 26 Dec 1962
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '1402'
+    place_of_birth: Egypt
+    main_entry: 'true'

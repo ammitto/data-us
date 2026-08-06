@@ -1,0 +1,33 @@
+---
+uid: '48826'
+last_name: LIMITED LIABILITY COMPANY VOPLOSHCHENIYE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76002'
+    type: a.k.a.
+    category: weak
+    last_name: EPIT
+address_list:
+  items:
+  - uid: '73404'
+    address1: Apartment 54, 76/39 Shamilya Usmanova Street
+    city: Naberezhniye Chelny
+    postal_code: '423823'
+    country: Russia
+id_list:
+  items:
+  - uid: '39876'
+    id_type: Registration Number
+    id_number: '1171690064215'
+    id_country: Russia
+  - uid: '39877'
+    id_type: Tax ID No.
+    id_number: '1650350558'
+    id_country: Russia
+  - uid: '171484'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

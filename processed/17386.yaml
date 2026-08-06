@@ -1,0 +1,66 @@
+---
+uid: '17386'
+first_name: Abdullah Yahya
+last_name: AL HAKIM
+sdn_type: Individual
+program_list:
+  programs:
+  - YEMEN
+aka_list:
+  items:
+  - uid: '26900'
+    type: a.k.a.
+    category: strong
+    last_name: AL HAKIM
+    first_name: Abu Ali
+  - uid: '26901'
+    type: a.k.a.
+    category: strong
+    last_name: AL-HAKIM
+    first_name: Abu-Ali
+  - uid: '26902'
+    type: a.k.a.
+    category: strong
+    last_name: AL-HAKIM
+    first_name: Abdallah
+  - uid: '26903'
+    type: a.k.a.
+    category: strong
+    last_name: ALHAKIM
+    first_name: Abu Ali
+  - uid: '26904'
+    type: a.k.a.
+    category: strong
+    last_name: AL-MU'AYYAD
+    first_name: Abdallah
+address_list:
+  items:
+  - uid: '26522'
+    city: Dahyan
+    state_or_province: Sa'dah Governorate
+    country: Yemen
+id_list:
+  items:
+  - uid: '116381'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '16382'
+    date_of_birth: '1985'
+    main_entry: 'true'
+  - uid: '44930'
+    date_of_birth: '1984'
+    main_entry: 'false'
+  - uid: '44931'
+    date_of_birth: '1986'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '16384'
+    place_of_birth: Dahyan, Yemen
+    main_entry: 'true'
+  - uid: '16385'
+    place_of_birth: Sa'dah Governorate, Yemen
+    main_entry: 'false'
+title: Houthi Chief of Military Intelligence Staff

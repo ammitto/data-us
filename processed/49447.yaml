@@ -1,0 +1,33 @@
+---
+uid: '49447'
+last_name: LIMITED LIABILITY COMPANY AURORA SEA PORT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77126'
+    type: a.k.a.
+    category: weak
+    last_name: LLC ASP
+address_list:
+  items:
+  - uid: '74560'
+    address1: Suite 10, 2 Postnikova Street
+    city: Fokino
+    postal_code: '692880'
+    country: Russia
+id_list:
+  items:
+  - uid: '40761'
+    id_type: Registration Number
+    id_number: '1192536018399'
+    id_country: Russia
+  - uid: '40762'
+    id_type: Tax ID No.
+    id_number: '2512466969'
+    id_country: Russia
+  - uid: '172792'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

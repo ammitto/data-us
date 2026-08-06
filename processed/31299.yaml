@@ -1,0 +1,41 @@
+---
+uid: '31299'
+last_name: OOO YUNIDZHET
+sdn_type: Entity
+program_list:
+  programs:
+  - CYBER2
+  - ELECTION-EO13848
+  - UKRAINE-EO13661
+aka_list:
+  items:
+  - uid: '49471'
+    type: a.k.a.
+    category: strong
+    last_name: UNIJET
+  - uid: '49472'
+    type: a.k.a.
+    category: weak
+    last_name: UNIJET COMPANY LIMITED
+address_list:
+  items:
+  - uid: '47381'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '21333'
+    id_type: Tax ID No.
+    id_number: '7703711949'
+    id_country: Russia
+  - uid: '144086'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '139915'
+    id_type: Organization Established Date
+    id_number: 10 Dec 2009
+  - uid: '139820'
+    id_type: Website
+    id_number: unijet.ru
+remarks: "(Linked To: PRIGOZHIN, Yevgeniy Viktorovich)"

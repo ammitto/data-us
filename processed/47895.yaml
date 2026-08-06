@@ -1,0 +1,39 @@
+---
+uid: '47895'
+last_name: INNOVATION HUB LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74308'
+    type: a.k.a.
+    category: weak
+    last_name: INNOHUB LLC
+  - uid: '74309'
+    type: a.k.a.
+    category: strong
+    last_name: ROSATOM INNOHUB
+address_list:
+  items:
+  - uid: '71706'
+    address1: Per. Bolshoi Tolmachevskii D. 4
+    address2: Str. 1
+    address3: Pomeshch. 4/1
+    city: Moscow
+    postal_code: '119017'
+    country: Russia
+id_list:
+  items:
+  - uid: '38673'
+    id_type: Tax ID No.
+    id_number: '9724042820'
+    id_country: Russia
+  - uid: '38674'
+    id_type: Registration Number
+    id_number: '1217700144738'
+    id_country: Russia
+  - uid: '176521'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

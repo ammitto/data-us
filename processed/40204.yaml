@@ -1,0 +1,40 @@
+---
+uid: '40204'
+last_name: MEGACOM LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '62496'
+    type: a.k.a.
+    category: strong
+    last_name: MEGAKOM
+address_list:
+  items:
+  - uid: '59886'
+    address1: Ul. Letnikovskaya D. 20, Str. 4, Pom. I. Kom. 3
+    city: Moscow
+    postal_code: '115114'
+    country: Russia
+id_list:
+  items:
+  - uid: '29375'
+    id_type: Registration Number
+    id_number: '1067746471990'
+    id_country: Russia
+  - uid: '29376'
+    id_type: Tax ID No.
+    id_number: '7705725009'
+    id_country: Russia
+  - uid: '157107'
+    id_type: Organization Established Date
+    id_number: 10 Apr 2006
+  - uid: '157108'
+    id_type: 'Organization Type:'
+    id_number: Construction of buildings
+  - uid: '174031'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)"

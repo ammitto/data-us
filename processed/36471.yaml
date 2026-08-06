@@ -1,0 +1,45 @@
+---
+uid: '36471'
+last_name: OOO BITRIVER-NORTH
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '57518'
+    type: a.k.a.
+    category: strong
+    last_name: BITRIVER-NORTH LLC
+  - uid: '57519'
+    type: a.k.a.
+    category: strong
+    last_name: BITRIVER-SEVER, OOO
+address_list:
+  items:
+  - uid: '54833'
+    address1: Ul. Ozernaya D. 50A, Office 1
+    city: Norilsk
+    postal_code: '663321'
+    country: Russia
+id_list:
+  items:
+  - uid: '25920'
+    id_type: Tax ID No.
+    id_number: '6658535180'
+    id_country: Russia
+  - uid: '25921'
+    id_type: Registration Number
+    id_number: '1206600031945'
+    id_country: Russia
+  - uid: '25922'
+    id_type: Government Gazette Number
+    id_number: '44503601'
+    id_country: Russia
+  - uid: '174228'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '150212'
+    id_type: Organization Established Date
+    id_number: 15 Jun 2020
+remarks: "(Linked To: BITRIVER AG)"

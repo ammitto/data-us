@@ -1,0 +1,54 @@
+---
+uid: '22409'
+first_name: Leonid Ivanovich
+last_name: PASECHNIK
+sdn_type: Individual
+program_list:
+  programs:
+  - UKRAINE-EO13660
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '35308'
+    type: a.k.a.
+    category: strong
+    last_name: PASECHNYK
+    first_name: Leonid
+  - uid: '35309'
+    type: a.k.a.
+    category: strong
+    last_name: PASICHNYK
+    first_name: Leonid Ivanovych
+  - uid: '64181'
+    type: a.k.a.
+    category: strong
+    last_name: PASICHNIK
+    first_name: Leonid Ivanovich
+address_list:
+  items:
+  - uid: '34141'
+    address1: 7 30-Letiya Pobedy St., Apt.90
+    city: Luhansk
+    state_or_province: Luhansk region
+    country: Ukraine
+id_list:
+  items:
+  - uid: '30499'
+    id_type: Tax ID No.
+    id_number: '2564117759'
+    id_country: Ukraine
+  - uid: '123866'
+    id_type: Gender
+    id_number: Male
+  - uid: '143836'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '173930'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '23865'
+    date_of_birth: 15 Mar 1970
+    main_entry: 'true'

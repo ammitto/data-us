@@ -1,0 +1,44 @@
+---
+uid: '50275'
+last_name: JOINT STOCK COMPANY RESEARCH PRODUCTION ENTERPRISE KVANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78525'
+    type: a.k.a.
+    category: strong
+    last_name: AO NPP KVANT
+  - uid: '78526'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO NAUCHNO PROIZVODSTVENNOE PREDPRIIATIE KVANT
+  - uid: '78527'
+    type: a.k.a.
+    category: strong
+    last_name: NPP QUANTUM
+address_list:
+  items:
+  - uid: '76141'
+    address1: D. 16 3-ya Mytishchinskaya UI.
+    city: Moscow
+    postal_code: '129626'
+    country: Russia
+id_list:
+  items:
+  - uid: '41962'
+    id_type: Registration Number
+    id_number: '5077746415533'
+    id_country: Russia
+  - uid: '41963'
+    id_type: Tax ID No.
+    id_number: '7717585042'
+    id_country: Russia
+  - uid: '177987'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
+  - uid: '177999'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

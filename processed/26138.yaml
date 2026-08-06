@@ -1,0 +1,69 @@
+---
+uid: '26138'
+first_name: Mohammad
+last_name: GHORBANIYAN
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+aka_list:
+  items:
+  - uid: '41184'
+    type: a.k.a.
+    category: strong
+    last_name: GHORBANIAN
+    first_name: Mohammad
+  - uid: '41185'
+    type: a.k.a.
+    category: weak
+    last_name: Ensaniyat
+  - uid: '41186'
+    type: a.k.a.
+    category: weak
+    last_name: Ensaniyat_Exchanger
+  - uid: '41187'
+    type: a.k.a.
+    category: weak
+    last_name: EnExchanger
+address_list:
+  items:
+  - uid: '39598'
+    country: Iran
+id_list:
+  items:
+  - uid: '16822'
+    id_type: Birth Certificate Number
+    id_number: '32270'
+    id_country: Iran
+  - uid: '16823'
+    id_type: Identification Number
+    id_number: '008-046347-9'
+    id_country: Iran
+  - uid: '130509'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '130474'
+    id_type: Gender
+    id_number: Male
+  - uid: '130476'
+    id_type: Digital Currency Address - XBT
+    id_number: 1AjZPMsnmpdK2Rv9KQNfMurTXinscVro9V
+  - uid: '130475'
+    id_type: Website
+    id_number: www.enexchanger.com
+  - uid: '130477'
+    id_type: Email Address
+    id_number: EnExchanger@gmail.com
+  - uid: '130478'
+    id_type: Email Address
+    id_number: Ensaniyat1365@gmail.com
+date_of_birth_list:
+  items:
+  - uid: '30472'
+    date_of_birth: '09 Mar 1987'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '30473'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'

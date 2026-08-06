@@ -1,0 +1,77 @@
+---
+uid: '7329'
+first_name: Mohamad Iqbal
+last_name: ABDURRAHMAN
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '5302'
+    type: a.k.a.
+    category: strong
+    last_name: A RAHMAN
+    first_name: Mohamad Iqbal
+  - uid: '5303'
+    type: a.k.a.
+    category: strong
+    last_name: ABDURRAHMAN
+    first_name: Abu Jibril
+  - uid: '5304'
+    type: a.k.a.
+    category: weak
+    last_name: ABU JIBRIL
+  - uid: '5305'
+    type: a.k.a.
+    category: strong
+    last_name: RAHMAN
+    first_name: Mohamad Iqbal
+  - uid: '5306'
+    type: a.k.a.
+    category: strong
+    last_name: MUQTI
+    first_name: Fihiruddin
+  - uid: '5307'
+    type: a.k.a.
+    category: strong
+    last_name: MUQTI
+    first_name: Fikiruddin
+  - uid: '13768'
+    type: a.k.a.
+    category: strong
+    last_name: ABDUL RAHMAN
+    first_name: Mohamad Iqbal
+address_list:
+  items:
+  - uid: '19956'
+    address1: Jalan Nakula, Komplek Witana Harja III
+    address2: Blok C 106-107
+    address3: Pamulang
+    city: Tangerang
+    country: Indonesia
+id_list:
+  items:
+  - uid: '7140'
+    id_type: National ID No.
+    id_number: '3603251708570001'
+  - uid: '185699'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '4278'
+    date_of_birth: 17 Aug 1957
+    main_entry: 'true'
+  - uid: '8417'
+    date_of_birth: 17 Aug 1958
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '1524'
+    place_of_birth: Tirpas-Selong Village, East Lombok, Indonesia
+    main_entry: 'false'
+  - uid: '8418'
+    place_of_birth: Korleko-Lombok Timur, Indonesia
+    main_entry: 'true'

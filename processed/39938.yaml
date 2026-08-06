@@ -1,0 +1,32 @@
+---
+uid: '39938'
+first_name: Ali
+last_name: REZVANI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13846
+address_list:
+  items:
+  - uid: '59528'
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '156716'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '156717'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '56714'
+    date_of_birth: 19 Dec 1984
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '56715'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC REPUBLIC OF IRAN BROADCASTING)"

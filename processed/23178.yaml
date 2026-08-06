@@ -1,0 +1,38 @@
+---
+uid: '23178'
+last_name: KOREA SOUTH-SOUTH COOPERATION CORPORATION
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK3
+aka_list:
+  items:
+  - uid: '36465'
+    type: a.k.a.
+    category: strong
+    last_name: NAM NAM GENERAL CORPORATION
+  - uid: '36466'
+    type: a.k.a.
+    category: strong
+    last_name: NAM-NAM (SOUTH-SOUTH) COOPERATIVE GENERAL COMPANY
+address_list:
+  items:
+  - uid: '35030'
+    address1: Central District
+    city: Pyongyang
+    country: Korea, North
+  - uid: '35032'
+    country: China
+  - uid: '35034'
+    country: Russia
+  - uid: '35035'
+    country: Poland
+id_list:
+  items:
+  - uid: '127321'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '135272'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214

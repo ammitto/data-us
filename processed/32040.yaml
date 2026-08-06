@@ -1,0 +1,32 @@
+---
+uid: '32040'
+last_name: ML BUILD EAD
+sdn_type: Entity
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '50254'
+    type: a.k.a.
+    category: strong
+    last_name: ML BILD EAD
+address_list:
+  items:
+  - uid: '48223'
+    address1: 2A Krakra Str.
+    address2: Oborishte Distr.
+    city: Sofia
+    state_or_province: Stolichna
+    postal_code: '1527'
+    country: Bulgaria
+id_list:
+  items:
+  - uid: '21824'
+    id_type: V.A.T. Number
+    id_number: BG 200108841
+    id_country: Bulgaria
+  - uid: '141050'
+    id_type: Organization Established Date
+    id_number: '2008'
+remarks: "(Linked To: DECART OOD)"

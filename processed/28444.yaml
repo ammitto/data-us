@@ -1,0 +1,33 @@
+---
+uid: '28444'
+first_name: Khalil Ahmad
+last_name: HIJAZI
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+address_list:
+  items:
+  - uid: '49721'
+    city: Ciudad del Este
+    country: Paraguay
+id_list:
+  items:
+  - uid: '18815'
+    id_type: 'RUC #'
+    id_number: 1112312-5
+    id_country: Paraguay
+  - uid: '134165'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '42824'
+    date_of_birth: 22 Aug 1961
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '42831'
+    place_of_birth: Paraguay
+    main_entry: 'true'
+remarks: "(Linked To: HIJAZI, Kassem Mohamad)"

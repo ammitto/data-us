@@ -1,0 +1,75 @@
+---
+uid: '26200'
+first_name: Gustavo Adolfo
+last_name: PERDOMO ROSALES
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA-EO13850
+aka_list:
+  items:
+  - uid: '41324'
+    type: a.k.a.
+    category: strong
+    last_name: PERDOMO-ROSALES
+    first_name: Gustavo
+  - uid: '41325'
+    type: a.k.a.
+    category: strong
+    last_name: PERDOMO
+    first_name: Gustavo A
+  - uid: '41326'
+    type: a.k.a.
+    category: strong
+    last_name: PERDOMO ROSALES
+    first_name: Gustavo A
+  - uid: '41327'
+    type: a.k.a.
+    category: strong
+    last_name: PERDOMO
+    first_name: Gustavo
+  - uid: '41328'
+    type: a.k.a.
+    category: strong
+    last_name: PERDOMO
+    first_name: Gustavo Adolfo
+address_list:
+  items:
+  - uid: '39736'
+    address1: 4100 Salzedo St.
+    address2: Unit 804
+    city: Coral Gables
+    state_or_province: FL
+    postal_code: '33146'
+    country: United States
+  - uid: '39737'
+    address1: 18555 Collins Avenue
+    address2: Unit 4405
+    city: Sunny Isles
+    state_or_province: FL
+    postal_code: '33160'
+    country: United States
+id_list:
+  items:
+  - uid: '16884'
+    id_type: Passport
+    id_number: '083119116'
+    id_country: Venezuela
+    expiration_date: 28 Jan 2019
+  - uid: '16885'
+    id_type: Passport
+    id_number: '023639834'
+    id_country: Venezuela
+    expiration_date: 13 Jun 2014
+  - uid: '16886'
+    id_type: Cedula No.
+    id_number: '14585388'
+    id_country: Venezuela
+  - uid: '130653'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '30652'
+    date_of_birth: 05 Feb 1979
+    main_entry: 'true'

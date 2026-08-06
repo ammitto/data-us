@@ -1,0 +1,41 @@
+---
+uid: '40215'
+last_name: JOINT STOCK COMPANY CITYBIKE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '62520'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO SITIBAIK
+  - uid: '62521'
+    type: a.k.a.
+    category: strong
+    last_name: SITIBAIK AO
+address_list:
+  items:
+  - uid: '59910'
+    address1: Nab. Berezhkovskaya D. 20, Str. 9, Pomeshch. 1
+    city: Moscow
+    postal_code: '121059'
+    country: Russia
+id_list:
+  items:
+  - uid: '29392'
+    id_type: Registration Number
+    id_number: '1127747175160'
+    id_country: Russia
+  - uid: '29393'
+    id_type: Tax ID No.
+    id_number: '7734691058'
+    id_country: Russia
+  - uid: '174036'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '157122'
+    id_type: Organization Established Date
+    id_number: 23 Nov 2012
+remarks: "(Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)"

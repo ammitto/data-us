@@ -1,0 +1,29 @@
+---
+uid: '50973'
+first_name: Stanislav Igorevich
+last_name: MOLOTOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '77445'
+    country: Russia
+id_list:
+  items:
+  - uid: '43002'
+    id_type: Tax ID No.
+    id_number: '772374802776'
+    id_country: Russia
+  - uid: '179856'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '179855'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '79852'
+    date_of_birth: 18 Oct 1985
+    main_entry: 'true'

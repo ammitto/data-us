@@ -1,0 +1,52 @@
+---
+uid: '33256'
+first_name: Mohammad Reza
+last_name: KAZEMI
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - SDGT
+aka_list:
+  items:
+  - uid: '52280'
+    type: a.k.a.
+    category: strong
+    last_name: KAZEMIAN
+    first_name: Mohammad Reza
+  - uid: '52281'
+    type: a.k.a.
+    category: strong
+    last_name: KAZEMI
+    first_name: Mohammad
+address_list:
+  items:
+  - uid: '49932'
+    country: Turkey
+id_list:
+  items:
+  - uid: '22918'
+    id_type: Passport
+    id_number: M49571636
+    id_country: Iran
+    expiration_date: 03 Aug 2024
+  - uid: '22919'
+    id_type: National ID No.
+    id_number: '0075700247'
+    id_country: Iran
+  - uid: '143164'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '143163'
+    id_type: Gender
+    id_number: Male
+  - uid: '187356'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '43162'
+    date_of_birth: 18 Sep 1981
+    main_entry: 'true'
+remarks: "(Linked To: AMINI, Meghdad)"

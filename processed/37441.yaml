@@ -1,0 +1,47 @@
+---
+uid: '37441'
+last_name: RPP LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+  - IFSR
+aka_list:
+  items:
+  - uid: '58613'
+    type: a.k.a.
+    category: weak
+    last_name: LLC RPP
+  - uid: '58615'
+    type: a.k.a.
+    category: weak
+    last_name: RPP LLC
+  - uid: '58616'
+    type: a.k.a.
+    category: weak
+    last_name: OOO RPP
+address_list:
+  items:
+  - uid: '55974'
+    address1: 6/26 Floor/Rm, Bldg. 10-2, Nab. Presnenskaya
+    city: Moscow
+    postal_code: '125039'
+    country: Russia
+id_list:
+  items:
+  - uid: '26618'
+    id_type: Registration Number
+    id_number: '5157746040645'
+    id_country: Russia
+  - uid: '26619'
+    id_type: Tax ID No.
+    id_number: '7704335359'
+    id_country: Russia
+  - uid: '152215'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '152188'
+    id_type: Organization Established Date
+    id_number: 12 Nov 2015
+remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS (IRGC)-QODS FORCE)"

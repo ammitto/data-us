@@ -1,0 +1,45 @@
+---
+uid: '37800'
+last_name: AKTSIONERNOE OBSHCHESTVO RYAZANSKII ZAVOD METALLOKERAMICHESKIKH PRIBOROV
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59357'
+    type: a.k.a.
+    category: strong
+    last_name: RYAZAN PLANT OF METAL-CERAMIC DEVICES
+  - uid: '59358'
+    type: a.k.a.
+    category: strong
+    last_name: RYAZAN METAL CERAMICS INSTRUMENTATION PLANT JSC
+  - uid: '59359'
+    type: a.k.a.
+    category: weak
+    last_name: AO RZMKP
+address_list:
+  items:
+  - uid: '56591'
+    address1: 51B Novaya St.
+    city: Ryazan
+    postal_code: '390027'
+    country: Russia
+id_list:
+  items:
+  - uid: '27102'
+    id_type: Registration Number
+    id_number: '1026201102377'
+    id_country: Russia
+  - uid: '27103'
+    id_type: Tax ID No.
+    id_number: '6230006400'
+    id_country: Russia
+  - uid: '152809'
+    id_type: Organization Established Date
+    id_number: '1964'
+  - uid: '173525'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: OPEN JOINT STOCK COMPANY RUSSIAN ELECTRONICS)"

@@ -1,0 +1,29 @@
+---
+uid: '46006'
+last_name: LIMITED LIABILITY COMPANY OMP
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '68519'
+    address1: 3 Stanislavskogo St.
+    address2: Building 31/1
+    address3: Floor 1, Office 2
+    city: Novosibirsk
+    postal_code: '630079'
+    country: Russia
+id_list:
+  items:
+  - uid: '35830'
+    id_type: Registration Number
+    id_number: '1195476035171'
+    id_country: Russia
+  - uid: '35832'
+    id_type: Tax ID No.
+    id_number: '5403049953'
+    id_country: Russia
+  - uid: '174880'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

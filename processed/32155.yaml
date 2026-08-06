@@ -1,0 +1,32 @@
+---
+uid: '32155'
+last_name: EUROFOOTBALL OOD
+sdn_type: Entity
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '50535'
+    type: a.k.a.
+    category: strong
+    last_name: EUROFOOTBALL LTD
+address_list:
+  items:
+  - uid: '48467'
+    address1: 126, Tsar Boris Iiiti blvd.
+    address2: Krasno Selo Distr.
+    city: Sofia
+    state_or_province: Stolichna
+    postal_code: '1612'
+    country: Bulgaria
+id_list:
+  items:
+  - uid: '21965'
+    id_type: V.A.T. Number
+    id_number: BG 831036657
+    id_country: Bulgaria
+  - uid: '141373'
+    id_type: Organization Established Date
+    id_number: '1993'
+remarks: "(Linked To: EUROSADRUZHIE OOD)"

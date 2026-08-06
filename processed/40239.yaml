@@ -1,0 +1,42 @@
+---
+uid: '40239'
+first_name: Oleg Aleksandrovich
+last_name: KUVSHINNIKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '62577'
+    type: a.k.a.
+    category: strong
+    last_name: KUVSHINNIKOV
+    first_name: Oleg Alexandrovich
+address_list:
+  items:
+  - uid: '59971'
+    state_or_province: Vologda Region
+    country: Russia
+id_list:
+  items:
+  - uid: '29423'
+    id_type: Tax ID No.
+    id_number: '352803590135'
+    id_country: Russia
+  - uid: '174042'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '157199'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '57195'
+    date_of_birth: 02 Feb 1965
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '57197'
+    place_of_birth: Cherepovets, Vologda Region, Russia
+    main_entry: 'true'

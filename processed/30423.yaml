@@ -1,0 +1,49 @@
+---
+uid: '30423'
+first_name: Guillermo Carlos
+last_name: SAN AGUSTIN
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+address_list:
+  items:
+  - uid: '46044'
+    city: Buenos Aires
+    country: Argentina
+  - uid: '46045'
+    city: Caracas
+    country: Venezuela
+id_list:
+  items:
+  - uid: '20587'
+    id_type: Cedula No.
+    id_number: E-84424403
+    id_country: Venezuela
+  - uid: '20588'
+    id_type: Cedula No.
+    id_number: '24498939'
+    id_country: Argentina
+  - uid: '20589'
+    id_type: C.U.I.T.
+    id_number: 20-24498939-0
+    id_country: Argentina
+  - uid: '20590'
+    id_type: Passport
+    id_number: AA2196839
+    id_country: Italy
+    expiration_date: 26 Jun 2018
+  - uid: '138074'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '38072'
+    date_of_birth: 28 Apr 1975
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '38073'
+    place_of_birth: Argentina
+    main_entry: 'true'
+remarks: "(Linked To: EX-CLE SOLUCIONES BIOMETRICAS C.A.)"

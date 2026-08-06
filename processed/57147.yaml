@@ -1,0 +1,42 @@
+---
+uid: '57147'
+first_name: Vahid
+last_name: FALAHATKARI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '88562'
+    type: a.k.a.
+    category: strong
+    last_name: KARI
+    first_name: Vahid Falahat
+address_list:
+  items:
+  - uid: '87520'
+    country: Iran
+id_list:
+  items:
+  - uid: '51378'
+    id_type: National ID No.
+    id_number: '0078263336'
+    id_country: Iran
+  - uid: '196795'
+    id_type: Gender
+    id_number: Male
+  - uid: '196861'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '96794'
+    date_of_birth: 07 Jul 1987
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '96796'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: KARMANIYA TEJARAT ASAR KISH COMPANY)"

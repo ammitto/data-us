@@ -1,0 +1,36 @@
+---
+uid: '24224'
+last_name: BASIC ELEMENT LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13661
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '38253'
+    type: a.k.a.
+    category: strong
+    last_name: BAZOVY ELEMENT
+address_list:
+  items:
+  - uid: '36591'
+    address1: Esplanade 44
+    city: Saint Helier
+    postal_code: JE4 9WG
+    country: Jersey
+  - uid: '36592'
+    address1: 30 Rochdelskaya Street
+    city: Moscow
+    postal_code: '123022'
+    country: Russia
+id_list:
+  items:
+  - uid: '15457'
+    id_type: Registration ID
+    id_number: '84039'
+  - uid: '144050'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+remarks: "(Linked To: DERIPASKA, Oleg Vladimirovich)"

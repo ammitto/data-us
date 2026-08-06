@@ -1,0 +1,32 @@
+---
+uid: '34576'
+first_name: Andrey
+last_name: PATRUSHEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '51792'
+    city: St. Petersburg
+    country: Russia
+id_list:
+  items:
+  - uid: '175144'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '145994'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '45992'
+    date_of_birth: '1981'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '45993'
+    place_of_birth: Saint Petersburg, Russia
+    main_entry: 'true'
+remarks: "(Linked To: PATRUSHEV, Nikolai Platonovich)"

@@ -1,0 +1,38 @@
+---
+uid: '35282'
+first_name: Mikhail Vladimirovich
+last_name: MISHUSTIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '55498'
+    type: a.k.a.
+    category: strong
+    last_name: MISHUSTIN
+    first_name: Mikhail
+address_list:
+  items:
+  - uid: '54688'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '176700'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '147481'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '47478'
+    date_of_birth: 03 Mar 1966
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '47480'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'

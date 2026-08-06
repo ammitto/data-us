@@ -1,0 +1,41 @@
+---
+uid: '35874'
+last_name: TRV AUTO LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56377'
+    type: a.k.a.
+    category: strong
+    last_name: TRV AVTO OOO
+  - uid: '56378'
+    type: a.k.a.
+    category: strong
+    last_name: TRV-ENGINEERING LLC
+address_list:
+  items:
+  - uid: '53832'
+    address1: Ul Ilyicha D 7
+    city: Korolev
+    postal_code: '141080'
+    country: Russia
+id_list:
+  items:
+  - uid: '25204'
+    id_type: Registration Number
+    id_number: '1055003010985'
+    id_country: Russia
+  - uid: '25206'
+    id_type: Tax ID No.
+    id_number: '5018100929'
+    id_country: Russia
+  - uid: '173269'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '149068'
+    id_type: Organization Established Date
+    id_number: 03 May 2005
+remarks: "(Linked To: TACTICAL MISSILES CORPORATION JSC)"

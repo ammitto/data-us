@@ -1,0 +1,52 @@
+---
+uid: '35996'
+last_name: OPEN JOINT STOCK COMPANY ILYUSHIN AVIATION COMPLEX
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56627'
+    type: a.k.a.
+    category: weak
+    last_name: OJSC IL
+  - uid: '57406'
+    type: a.k.a.
+    category: strong
+    last_name: OJSC ILYUSHIN AVIATION COMPLEX
+  - uid: '57407'
+    type: a.k.a.
+    category: strong
+    last_name: JSC ILYUSHIN AVIATION COMPLEX
+  - uid: '57408'
+    type: a.k.a.
+    category: strong
+    last_name: PUBLICHNOE AKTSIONERNOE OBSCHESTVO AVIATSIONNYI KOMPLEKS IM S. V ILYUSHINA
+  - uid: '57409'
+    type: a.k.a.
+    category: strong
+    last_name: OAO ILYUSHIN AVIATION COMPLEX
+address_list:
+  items:
+  - uid: '54733'
+    address1: 45G Leningradsky Avenue
+    city: Moscow
+    postal_code: '125190'
+    country: Russia
+id_list:
+  items:
+  - uid: '25837'
+    id_type: Tax ID No.
+    id_number: '7714027882'
+    id_country: Russia
+  - uid: '25838'
+    id_type: Registration Number
+    id_number: '1027739118659'
+    id_country: Russia
+  - uid: '173323'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '149287'
+    id_type: ISIN
+    id_number: RU0007796926

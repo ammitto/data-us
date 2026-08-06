@@ -1,0 +1,42 @@
+---
+uid: '30879'
+first_name: Mohammad
+last_name: MOKHBER
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13876
+address_list:
+  items:
+  - uid: '46784'
+    country: Iran
+id_list:
+  items:
+  - uid: '21027'
+    id_type: Passport
+    id_number: A21445778
+    id_country: Iran
+    issue_date: 12 Jul 2011
+    expiration_date: 11 Jul 2016
+  - uid: '21028'
+    id_type: Passport
+    id_number: U36089492
+    id_country: Iran
+    expiration_date: 25 Dec 2020
+  - uid: '138898'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '138979'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '39102'
+    date_of_birth: 01 Sep 1955
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '39101'
+    place_of_birth: Dezful, Iran
+    main_entry: 'true'
+remarks: "(Linked To: EXECUTION OF IMAM KHOMEINI'S ORDER)"

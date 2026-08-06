@@ -1,0 +1,45 @@
+---
+uid: '26587'
+last_name: BANCO DE DESARROLLO ECONOMICO Y SOCIAL DE VENEZUELA
+sdn_type: Entity
+program_list:
+  programs:
+  - VENEZUELA-EO13850
+aka_list:
+  items:
+  - uid: '41982'
+    type: a.k.a.
+    category: strong
+    last_name: BANDES
+  - uid: '41983'
+    type: a.k.a.
+    category: strong
+    last_name: BANCO BANDES
+  - uid: '41984'
+    type: f.k.a.
+    category: strong
+    last_name: FONDO DE INVERSIONES DE VENEZUELA
+address_list:
+  items:
+  - uid: '40330'
+    address1: Av. Universidad, Esq. de Traposos a Colon
+    address2: P-1
+    address3: Torre BANDES
+    city: CARACAS
+    state_or_province: DISTRITO FEDERAL
+    postal_code: '1010'
+    country: Venezuela
+  - uid: '40331'
+    address1: Edificio Fondo de Inversiones de Venezuela Avenida Norte 1
+    address2: Esquina Colon a Traposos
+    city: Caracas
+    country: Venezuela
+id_list:
+  items:
+  - uid: '17210'
+    id_type: National ID No.
+    id_number: G200047526
+    id_country: Venezuela
+  - uid: '131160'
+    id_type: SWIFT/BIC
+    id_number: FIVVVECA

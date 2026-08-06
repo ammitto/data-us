@@ -1,0 +1,77 @@
+---
+uid: '37000'
+last_name: JOINT STOCK COMPANY MOSCOW INDUSTRIAL BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '58099'
+    type: a.k.a.
+    category: strong
+    last_name: MOSKOVSKY INDUSTRIALNY BANK
+  - uid: '58100'
+    type: a.k.a.
+    category: strong
+    last_name: JSC MOSCOW INDUSTRIAL BANK
+  - uid: '58101'
+    type: a.k.a.
+    category: strong
+    last_name: MOSCOW INDUSTRIAL BANK PJSCB
+  - uid: '58102'
+    type: a.k.a.
+    category: strong
+    last_name: MOSKOVSKIJ INDUSTRIALNYJ BANK PJSCB
+  - uid: '58103'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMMERCIAL BANK MOSCOW INDUSTRIAL BANK
+  - uid: '58104'
+    type: f.k.a.
+    category: strong
+    last_name: MOSKOVSKI INDUSTRIALNY BANK PUBLICHNOE AKTSIONERNOE OBSHCHESTVO
+  - uid: '58105'
+    type: f.k.a.
+    category: strong
+    last_name: PUBLIC JOINT STOCK COMPANY MOSCOW INDUSTRIAL BANK
+address_list:
+  items:
+  - uid: '55367'
+    address1: Ordzhonikidze Street 5
+    city: Moscow
+    postal_code: '115419'
+    country: Russia
+id_list:
+  items:
+  - uid: '26276'
+    id_type: Registration Number
+    id_number: '1027739179160'
+    id_country: Russia
+  - uid: '26277'
+    id_type: Government Gazette Number
+    id_number: '09317135'
+    id_country: Russia
+  - uid: '26278'
+    id_type: Legal Entity Number
+    id_number: 2534006SJ05GGKETEY75
+    id_country: Russia
+  - uid: '26279'
+    id_type: Tax ID No.
+    id_number: '7725039953'
+    id_country: Russia
+  - uid: '174422'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '151162'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '151158'
+    id_type: SWIFT/BIC
+    id_number: MINNRUMM
+  - uid: '151141'
+    id_type: Organization Established Date
+    id_number: 22 Nov 1990
+  - uid: '151156'
+    id_type: BIK (RU)
+    id_number: '044525600'

@@ -1,0 +1,44 @@
+---
+uid: '11005'
+last_name: TEMPLE DEL PITIC S.A. DE C.V.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '11414'
+    type: f.k.a.
+    category: strong
+    last_name: CORPORATIVO GAXIOLA HERMANOS S.A. DE C.V.
+address_list:
+  items:
+  - uid: '15907'
+    address1: Blvd. Francisco Eusebio Kino 177-7, Col. 5 de Mayo
+    city: Hermosillo
+    state_or_province: Sonora
+    postal_code: '83010'
+    country: Mexico
+  - uid: '15908'
+    address1: 'Avenida Angel Garcia Aburto #62, Colonia Loma Linda'
+    city: Hermosillo
+    state_or_province: Sonora
+    country: Mexico
+  - uid: '15909'
+    address1: Colonizadores No. 83D, Colonia Las Quintas, Esq. Quintas de las Aves
+    city: Hermosillo
+    state_or_province: Sonora
+    postal_code: '83240'
+    country: Mexico
+  - uid: '15910'
+    address1: Blvd Rodriguez 108, Col Centro
+    city: Hermosillo
+    state_or_province: Sonora
+    country: Mexico
+id_list:
+  items:
+  - uid: '5464'
+    id_type: R.F.C.
+    id_number: CGH960503DL9
+    id_country: Mexico
+remarks: d.b.a. "ANARQUIA PAINTBALL"

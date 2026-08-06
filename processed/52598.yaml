@@ -1,0 +1,45 @@
+---
+uid: '52598'
+last_name: PUBLIC JOINT STOCK COMPANY SARANSK INSTRUMENT WORKS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '82329'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO SARANSKII PRIBOROSTROITELNYI ZAVOD
+  - uid: '82330'
+    type: a.k.a.
+    category: weak
+    last_name: AO SPZ
+  - uid: '82331'
+    type: a.k.a.
+    category: weak
+    last_name: PJSC SIW
+  - uid: '82332'
+    type: a.k.a.
+    category: weak
+    last_name: SPZ PJSC
+address_list:
+  items:
+  - uid: '80344'
+    address1: 9 ul. Vasenko
+    city: Saransk
+    postal_code: '430030'
+    country: Russia
+id_list:
+  items:
+  - uid: '45638'
+    id_type: Registration Number
+    id_number: '1021301063464'
+    id_country: Russia
+  - uid: '45639'
+    id_type: Tax ID No.
+    id_number: '1325003052'
+    id_country: Russia
+  - uid: '184347'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

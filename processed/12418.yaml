@@ -1,0 +1,36 @@
+---
+uid: '12418'
+first_name: German Gonzalo
+last_name: SANCHEZ REY
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '13310'
+    type: a.k.a.
+    category: weak
+    last_name: COLETA
+address_list:
+  items:
+  - uid: '19346'
+    address1: Calle 41A No. 55-49
+    city: Bogota
+    country: Colombia
+id_list:
+  items:
+  - uid: '6896'
+    id_type: Cedula No.
+    id_number: '79625841'
+    id_country: Colombia
+date_of_birth_list:
+  items:
+  - uid: '8131'
+    date_of_birth: 22 Feb 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '8132'
+    place_of_birth: Barrancabermeja, Santander, Colombia
+    main_entry: 'true'

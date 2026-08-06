@@ -1,0 +1,45 @@
+---
+uid: '51129'
+last_name: JOINT STOCK COMPANY REMVOORUZHENIE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80119'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO REMVOORUZHENIE
+  - uid: '80120'
+    type: a.k.a.
+    category: strong
+    last_name: AO REMVOORUZHENIE
+address_list:
+  items:
+  - uid: '77705'
+    address1: Ul. 4-ya tverskaya-yamskaya d. 20, str. 1
+    city: Moscow
+    postal_code: '125047'
+    country: Russia
+  - uid: '77706'
+    address1: 22 Frunzenskaya Embankment, Building 2
+    city: Moscow
+    postal_code: '119160'
+    country: Russia
+id_list:
+  items:
+  - uid: '43256'
+    id_type: Tax ID No.
+    id_number: '7704726257'
+    id_country: Russia
+  - uid: '43257'
+    id_type: Registration Number
+    id_number: '1097746264263'
+    id_country: Russia
+  - uid: '180163'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '180164'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

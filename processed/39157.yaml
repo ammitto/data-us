@@ -1,0 +1,57 @@
+---
+uid: '39157'
+last_name: JOINT STOCK COMPANY RESEARCH AND DEVELOPMENT ENTERPRISE RADIOSVYAZ
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '61053'
+    type: a.k.a.
+    category: strong
+    last_name: SCIENTIFIC PRODUCTION ENTERPRISE RADIOSVYAZ JOINT STOCK COMPANY
+  - uid: '61054'
+    type: a.k.a.
+    category: strong
+    last_name: JSC SPE RADIOSVYAZ
+  - uid: '61055'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY SCIENTIFIC PRODUCTION ENTERPRISE RADIOSVIAZ
+  - uid: '61056'
+    type: a.k.a.
+    category: strong
+    last_name: JSC NPP RADIOSVYAZ
+  - uid: '61057'
+    type: a.k.a.
+    category: strong
+    last_name: AO NPP RADIOSVIAZ
+  - uid: '61058'
+    type: a.k.a.
+    category: strong
+    last_name: RESEARCH AND PRODUCTION ENTERPRISE RADIOSVYAZ
+address_list:
+  items:
+  - uid: '58306'
+    address1: 19 Dekabristov Str.
+    city: Krasnoyarsk
+    state_or_province: Krasnoyarsk Territory
+    postal_code: '660021'
+    country: Russia
+id_list:
+  items:
+  - uid: '28378'
+    id_type: Registration Number
+    id_number: '1122468072231'
+    id_country: Russia
+  - uid: '28379'
+    id_type: Tax ID No.
+    id_number: '2460243408'
+    id_country: Russia
+  - uid: '174737'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '154908'
+    id_type: Organization Established Date
+    id_number: 27 Dec 2012

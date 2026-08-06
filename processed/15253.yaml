@@ -1,0 +1,28 @@
+---
+uid: '15253'
+first_name: Jesus Alfredo
+last_name: SALAZAR RAMIREZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '22471'
+    type: a.k.a.
+    category: weak
+    last_name: MUNE
+  - uid: '22472'
+    type: a.k.a.
+    category: weak
+    last_name: INDIO
+date_of_birth_list:
+  items:
+  - uid: '11823'
+    date_of_birth: 24 Mar 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '11825'
+    place_of_birth: Chihuahua, Mexico
+    main_entry: 'true'

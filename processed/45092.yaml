@@ -1,0 +1,49 @@
+---
+uid: '45092'
+first_name: Otar Anzorovich
+last_name: ROMANOV PARTSKHALADZE
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69883'
+    type: a.k.a.
+    category: strong
+    last_name: PHARTSKHALADZE
+    first_name: Otar
+address_list:
+  items:
+  - uid: '67179'
+    country: Georgia
+id_list:
+  items:
+  - uid: '34840'
+    id_type: Tax ID No.
+    id_number: '710000237020'
+    id_country: Russia
+  - uid: '34841'
+    id_type: National ID No.
+    id_number: '01008013231'
+    id_country: Georgia
+  - uid: '34842'
+    id_type: Passport
+    id_number: 11BA33281
+    id_country: Georgia
+  - uid: '175949'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '165478'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '65476'
+    date_of_birth: 18 Jun 1976
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '65477'
+    place_of_birth: Tbilisi, Georgia
+    main_entry: 'true'

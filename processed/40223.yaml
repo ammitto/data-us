@@ -1,0 +1,33 @@
+---
+uid: '40223'
+first_name: Yiren
+last_name: FEI
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '62199'
+    address1: No. 122, Renmin North Road
+    address2: Pencheng Sub-district
+    city: Ruichang
+    state_or_province: Jiangxi
+    country: China
+id_list:
+  items:
+  - uid: '30741'
+    id_type: National ID No.
+    id_number: '360481198409093811'
+    id_country: China
+  - uid: '159471'
+    id_type: Gender
+    id_number: Male
+  - uid: '159829'
+    id_type: Email Address
+    id_number: yasonne@hotmail.com
+date_of_birth_list:
+  items:
+  - uid: '59472'
+    date_of_birth: '09 Sep 1984'
+    main_entry: 'true'

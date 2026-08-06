@@ -1,0 +1,33 @@
+---
+uid: '54509'
+last_name: BEST WAY TANKER CORP
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '83264'
+    address1: Suite 10, 3rd Floor
+    address2: La Ciotat
+    address3: Mont Fleuri
+    state_or_province: Mahe Island
+    country: Seychelles
+  - uid: '83271'
+    address1: Strada Gradina Botanica 14/3
+    address3: MD-2032
+    city: Chisinau
+    country: Moldova
+id_list:
+  items:
+  - uid: '48133'
+    id_type: Identification Number
+    id_number: IMO 6386836
+  - uid: '190531'
+    id_type: Organization Established Date
+    id_number: '2023'
+  - uid: '190532'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: "(Linked To: ANSARALLAH)"

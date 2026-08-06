@@ -1,0 +1,70 @@
+---
+uid: '17270'
+first_name: Muhammad Naeem
+last_name: SHEIKH
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '26633'
+    type: a.k.a.
+    category: strong
+    last_name: SHEIKH
+    first_name: Mohammad Nayeem
+  - uid: '26634'
+    type: a.k.a.
+    category: weak
+    last_name: NAEEM, Sheikh
+  - uid: '26635'
+    type: a.k.a.
+    category: strong
+    last_name: NAEEM
+    first_name: Muhammad
+  - uid: '26636'
+    type: a.k.a.
+    category: weak
+    last_name: NAIM, Shaikh
+address_list:
+  items:
+  - uid: '26357'
+    address1: 122 Ahmed Block
+    address2: New Garden Town
+    city: Lahore
+    country: Pakistan
+  - uid: '26358'
+    address1: 111-C Multan Road
+    city: Lahore
+    country: Pakistan
+  - uid: '26359'
+    address1: 2-Chamberlain Road
+    city: Lahore
+    country: Pakistan
+id_list:
+  items:
+  - uid: '9712'
+    id_type: National ID No.
+    id_number: 35202-1963173-9
+    id_country: Pakistan
+  - uid: '9713'
+    id_type: Passport
+    id_number: BP5191731
+    id_country: Pakistan
+    expiration_date: 12 May 2012
+  - uid: '186392'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '16170'
+    date_of_birth: 04 Sep 1950
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '16171'
+    place_of_birth: Lahore, Pakistan
+    main_entry: 'true'
+remarks: "(Linked To: LASHKAR E-TAYYIBA)"
+title: Engineer

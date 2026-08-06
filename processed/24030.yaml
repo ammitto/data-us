@@ -1,0 +1,53 @@
+---
+uid: '24030'
+first_name: Abuzar
+last_name: GOHARI MOQADAM
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+aka_list:
+  items:
+  - uid: '38033'
+    type: a.k.a.
+    category: strong
+    last_name: GOHARIMOQADAM
+    first_name: Abuzar
+  - uid: '38034'
+    type: a.k.a.
+    category: strong
+    last_name: GOHARI MOGHADAM
+    first_name: Abuzar
+id_list:
+  items:
+  - uid: '15398'
+    id_type: Passport
+    id_number: V29385211
+    id_country: Iran
+    issue_date: 19 Feb 2014
+    expiration_date: 19 Feb 2019
+  - uid: '15399'
+    id_type: National ID No.
+    id_number: 367-353055-063
+  - uid: '15400'
+    id_type: Birth Certificate Number
+    id_number: '455'
+  - uid: '126132'
+    id_type: Gender
+    id_number: Male
+  - uid: '126174'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '26125'
+    date_of_birth: 16 Sep 1980
+    main_entry: 'true'
+  - uid: '26128'
+    date_of_birth: 17 Sep 1980
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '26129'
+    place_of_birth: Zabol, Iran
+    main_entry: 'true'

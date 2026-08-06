@@ -1,0 +1,31 @@
+---
+uid: '40938'
+last_name: CONGO ACONDE SARL
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK4
+address_list:
+  items:
+  - uid: '61101'
+    address1: 1041 avenue Ulindi, Quartier Golf
+    city: Lubumbashi
+    state_or_province: Katanga
+    country: Congo, Democratic Republic of the
+id_list:
+  items:
+  - uid: '30236'
+    id_type: Commercial Registry Number
+    id_number: CD/LSH/RCCM/18-B-00029
+    id_country: Congo, Democratic Republic of the
+  - uid: '158577'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '158576'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '158578'
+    id_type: Organization Established Date
+    id_number: 26 Feb 2018
+remarks: "(Linked To: PAK, Hwa Song)"

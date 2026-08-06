@@ -1,0 +1,33 @@
+---
+uid: '52626'
+last_name: JOINT STOCK COMPANY VOENTORG
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '82425'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO VOENTORG
+address_list:
+  items:
+  - uid: '80402'
+    address1: 23 ul. Bolshaia Pirogovskaia
+    city: Moscow
+    postal_code: '119435'
+    country: Russia
+id_list:
+  items:
+  - uid: '45693'
+    id_type: Registration Number
+    id_number: '1097746264186'
+    id_country: Russia
+  - uid: '45694'
+    id_type: Tax ID No.
+    id_number: '7704726183'
+    id_country: Russia
+  - uid: '184403'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

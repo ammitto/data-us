@@ -1,0 +1,33 @@
+---
+uid: '22607'
+last_name: GEFEST-M LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+address_list:
+  items:
+  - uid: '34200'
+    address1: Office 401
+    address2: Structure 1
+    address3: Building 1, Chermyanskaya Street
+    city: Moscow
+    postal_code: '127081'
+    country: Russia
+  - uid: '34201'
+    address1: Office Space 5
+    address2: Room 18
+    address3: Building 5/7 Rozhdestvenka Street
+    city: Moscow
+    postal_code: '107031'
+    country: Russia
+id_list:
+  items:
+  - uid: '135246'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '127625'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+remarks: "(Linked To: KOREA TANGUN TRADING CORPORATION)"

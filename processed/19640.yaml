@@ -1,0 +1,61 @@
+---
+uid: '19640'
+last_name: GAZPROM INVEST, OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13662
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '30860'
+    type: a.k.a.
+    category: strong
+    last_name: GAZPROM INVEST
+  - uid: '30861'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'GAZPROM INVEST'
+  - uid: '77340'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY GAZPROM INVEST
+address_list:
+  items:
+  - uid: '29817'
+    address1: d. 6 litera D ul. Startovaya
+    city: St. Petersburg
+    postal_code: '196210'
+    country: Russia
+id_list:
+  items:
+  - uid: '11961'
+    id_type: Registration ID
+    id_number: '1077847507759'
+    id_country: Russia
+  - uid: '11962'
+    id_type: Government Gazette Number
+    id_number: '82129203'
+    id_country: Russia
+  - uid: '11963'
+    id_type: Tax ID No.
+    id_number: '7810483334'
+    id_country: Russia
+  - uid: '119924'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 4
+  - uid: '119926'
+    id_type: Website
+    id_number: zapad-invest.gazprom.ru
+  - uid: '143849'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '172824'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '172825'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
+remarks: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)'

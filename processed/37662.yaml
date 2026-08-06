@@ -1,0 +1,44 @@
+---
+uid: '37662'
+last_name: JOINT STOCK COMPANY CORPORATION MOSCOW INSTITUTE OF HEAT TECHNOLOGY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '58984'
+    type: a.k.a.
+    category: strong
+    last_name: JSC CORPORATION MIHT
+  - uid: '58985'
+    type: a.k.a.
+    category: strong
+    last_name: MOSCOW INSTITUTE OF THERMAL TECHNOLOGY
+  - uid: '58986'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY CORPORATION MOSCOW INSTITUTE OF THERMAL TECHNOLOGY
+address_list:
+  items:
+  - uid: '56317'
+    address1: Berezovaya alleya, 10
+    city: Moscow
+    postal_code: '127273'
+    country: Russia
+id_list:
+  items:
+  - uid: '26882'
+    id_type: Tax ID No.
+    id_number: '7715842760'
+    id_country: Russia
+  - uid: '26883'
+    id_type: Registration Number
+    id_number: '5107746017033'
+    id_country: Russia
+  - uid: '173441'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '152602'
+    id_type: Organization Established Date
+    id_number: 14 Dec 2010

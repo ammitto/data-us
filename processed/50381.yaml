@@ -1,0 +1,28 @@
+---
+uid: '50381'
+last_name: LIMITED LIABILITY COMPANY SERVISNYY TSENTR SDS UGOL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '76370'
+    address1: 96 Ul. Proektnaya
+    city: Prokopevsk
+    postal_code: '653007'
+    country: Russia
+id_list:
+  items:
+  - uid: '42138'
+    id_type: Registration Number
+    id_number: '1234200004390'
+    id_country: Russia
+  - uid: '42139'
+    id_type: Tax ID No.
+    id_number: '4223131692'
+    id_country: Russia
+  - uid: '178353'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: JOINT STOCK COMPANY HOLDINGOVAYA KOMPANIYA SDS UGOL)"

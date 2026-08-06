@@ -1,0 +1,37 @@
+---
+uid: '28291'
+last_name: KHOUZESTAN STEEL COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13871
+aka_list:
+  items:
+  - uid: '44553'
+    type: a.k.a.
+    category: strong
+    last_name: KHUZESTAN STEEL COMPANY
+address_list:
+  items:
+  - uid: '42794'
+    address1: 10th Km. of Ahwaz-Bahdar Imam Khomeini Road
+    city: Ahwaz
+    country: Iran
+  - uid: '42795'
+    address1: PO Box 1378
+    city: Ahvaz
+    state_or_province: Khuzestan
+    postal_code: 61788-13111
+    country: Iran
+id_list:
+  items:
+  - uid: '18741'
+    id_type: Registration Number
+    id_number: '3199'
+    id_country: Iran
+  - uid: '133753'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '133732'
+    id_type: Website
+    id_number: www.ksc.ir

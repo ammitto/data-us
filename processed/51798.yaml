@@ -1,0 +1,36 @@
+---
+uid: '51798'
+last_name: BANK ITURUP LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '78937'
+    address1: Pr-kt Kommunisticheskii D. 32
+    city: Yuzhno-Sakhalinsk
+    postal_code: '693020'
+    country: Russia
+id_list:
+  items:
+  - uid: '44448'
+    id_type: Registration Number
+    id_number: '1026500002286'
+    id_country: Russia
+  - uid: '44449'
+    id_type: Tax ID No.
+    id_number: '6501021443'
+    id_country: Russia
+  - uid: '182059'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '182057'
+    id_type: SWIFT/BIC
+    id_number: ITRORU8Y
+  - uid: '182056'
+    id_type: Website
+    id_number: www.iturupbank.ru
+  - uid: '182058'
+    id_type: Target Type
+    id_number: Financial Institution

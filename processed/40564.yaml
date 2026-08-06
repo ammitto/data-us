@@ -1,0 +1,38 @@
+---
+uid: '40564'
+first_name: Filipp Sergeevich
+last_name: ADONYEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '60419'
+    address1: Flat L, 21 Cadogan Gardens
+    city: London
+    postal_code: SW3 2RW
+    country: United Kingdom
+id_list:
+  items:
+  - uid: '29711'
+    id_type: Passport
+    id_number: '651250404'
+    id_country: Russia
+  - uid: '157870'
+    id_type: Gender
+    id_number: Male
+  - uid: '176910'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '57831'
+    date_of_birth: 11 Nov 1997
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '57834'
+    place_of_birth: St. Petersburg, Russia
+    main_entry: 'true'
+remarks: "(Linked To: ADONEV, Sergei Nikolaevich)"

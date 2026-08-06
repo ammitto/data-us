@@ -1,0 +1,45 @@
+---
+uid: '37721'
+last_name: JOINT STOCK COMPANY RADIOPRIBOR
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59152'
+    type: a.k.a.
+    category: strong
+    last_name: JSC RADIOPRIBOR
+  - uid: '59153'
+    type: a.k.a.
+    category: strong
+    last_name: OTKRYTOYE AKTSIONERNOYE OBSHCHESTVO RADIOPRIBOR
+  - uid: '59154'
+    type: a.k.a.
+    category: strong
+    last_name: RADIOPRIBOR AO
+  - uid: '59155'
+    type: a.k.a.
+    category: strong
+    last_name: OAO RADIOPRIBOR
+address_list:
+  items:
+  - uid: '56414'
+    city: Kazan
+    state_or_province: Republic of Tatarstan
+    postal_code: '420021'
+    country: Russia
+id_list:
+  items:
+  - uid: '26963'
+    id_type: Tax ID No.
+    id_number: '1659034109'
+    id_country: Russia
+  - uid: '26964'
+    id_type: Registration Number
+    id_number: '1021603465850'
+    id_country: Russia
+  - uid: '173474'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

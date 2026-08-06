@@ -1,0 +1,45 @@
+---
+uid: '35864'
+last_name: JOINT STOCK COMPANY CONCERN GRANIT-ELECTRON
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56338'
+    type: a.k.a.
+    category: strong
+    last_name: AO KONSTERN GRANIT ELEKTRON
+  - uid: '56339'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSCHCHESTVO KONTSERN GRANIT ELEKTRON
+  - uid: '56340'
+    type: a.k.a.
+    category: strong
+    last_name: JSC CONCERN GRANIT ELEKTRON
+address_list:
+  items:
+  - uid: '53810'
+    address1: Ul. Gospitalnaya D. 3
+    city: Saint Petersburg
+    postal_code: '191014'
+    country: Russia
+id_list:
+  items:
+  - uid: '25181'
+    id_type: Registration Number
+    id_number: '5067847016782'
+    id_country: Russia
+  - uid: '25182'
+    id_type: Tax ID No.
+    id_number: '7842335610'
+    id_country: Russia
+  - uid: '173259'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '149056'
+    id_type: Organization Established Date
+    id_number: '1910'
+remarks: "(Linked To: TACTICAL MISSILES CORPORATION JSC)"

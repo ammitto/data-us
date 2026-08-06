@@ -1,0 +1,41 @@
+---
+uid: '22268'
+first_name: Muhammad Ahmad 'Ali
+last_name: AL-ISAWI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '35087'
+    type: a.k.a.
+    category: weak
+    last_name: Abu Osama al-Masri
+  - uid: '35088'
+    type: a.k.a.
+    category: weak
+    last_name: Abu Usamah al-Masri
+address_list:
+  items:
+  - uid: '33767'
+    country: Egypt
+id_list:
+  items:
+  - uid: '123712'
+    id_type: Gender
+    id_number: Male
+  - uid: '186630'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '23652'
+    date_of_birth: 1972 to 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '23653'
+    place_of_birth: Sinai Province, Egypt
+    main_entry: 'true'

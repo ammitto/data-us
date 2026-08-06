@@ -1,0 +1,39 @@
+---
+uid: '55939'
+last_name: PRINCE BANK PLC.
+sdn_type: Entity
+program_list:
+  programs:
+  - TCO
+aka_list:
+  items:
+  - uid: '86893'
+    type: a.k.a.
+    category: strong
+    last_name: PRINCE FINANCE PLC
+address_list:
+  items:
+  - uid: '85645'
+    address1: 175cd Mao Tse Toung Blvd., Phum 5, S.tuol Svay Prey 1, K.chamkar Mon
+    city: Phnom Penh
+    postal_code: '12308'
+    country: Cambodia
+id_list:
+  items:
+  - uid: '50094'
+    id_type: Registration Number
+    id_number: '00014627'
+    id_country: Cambodia
+  - uid: '194007'
+    id_type: SWIFT/BIC
+    id_number: PINCKHPPXXX
+  - uid: '194008'
+    id_type: Website
+    id_number: https://princebank.com.kh
+  - uid: '194006'
+    id_type: Organization Established Date
+    id_number: 28 Apr 2015
+  - uid: '194111'
+    id_type: Target Type
+    id_number: Financial Institution
+remarks: "(Linked To: CHEN, Zhi)"

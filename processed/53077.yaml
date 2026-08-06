@@ -1,0 +1,42 @@
+---
+uid: '53077'
+first_name: Pavel
+last_name: KARAVATSKY
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER4
+aka_list:
+  items:
+  - uid: '82994'
+    type: a.k.a.
+    category: strong
+    last_name: KARAVATSKII
+    first_name: Pavel Yuryevich
+  - uid: '82995'
+    type: a.k.a.
+    category: strong
+    last_name: KARAVATSKIY
+    first_name: Pavel
+address_list:
+  items:
+  - uid: '81038'
+    country: Russia
+id_list:
+  items:
+  - uid: '46170'
+    id_type: Tax ID No.
+    id_number: '503508082690'
+    id_country: Russia
+  - uid: '185366'
+    id_type: Gender
+    id_number: Male
+  - uid: '192418'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+date_of_birth_list:
+  items:
+  - uid: '85365'
+    date_of_birth: 25 Jan 1983
+    main_entry: 'true'
+remarks: "(Linked To: GARANTEX EUROPE OU)"

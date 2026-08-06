@@ -1,0 +1,39 @@
+---
+uid: '19613'
+last_name: KOREA RUNGRADO GENERAL TRADING CORPORATION
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK3
+aka_list:
+  items:
+  - uid: '30812'
+    type: a.k.a.
+    category: strong
+    last_name: RUNGRADO TRADE COMPANY
+  - uid: '47110'
+    type: a.k.a.
+    category: strong
+    last_name: RYNRADO GENERAL TRADING CORPORATION
+  - uid: '47111'
+    type: a.k.a.
+    category: strong
+    last_name: RYNRADO
+address_list:
+  items:
+  - uid: '29786'
+    country: Korea, North
+  - uid: '45340'
+    country: Russia
+id_list:
+  items:
+  - uid: '127159'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '134989'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '137554'
+    id_type: 'Organization Type:'
+    id_number: Construction of other civil engineering projects

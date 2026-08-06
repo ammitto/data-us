@@ -1,0 +1,45 @@
+---
+uid: '25420'
+last_name: MELLI BANK PLC
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - SDGT
+address_list:
+  items:
+  - uid: '38433'
+    address1: 98a Kensington High Street
+    city: London
+    postal_code: W8 4SG
+    country: United Kingdom
+  - uid: '38434'
+    address1: 4 Moorgate, EC2R 6AL
+    city: London
+    country: United Kingdom
+  - uid: '38435'
+    address1: 18F Kam Sang Building, 257 Des Voeux Road Central
+    country: Hong Kong
+  - uid: '38436'
+    address1: 4th Floor, 20 West Nahid Street, Africa Blvd
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '186796'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '129001'
+    id_type: SWIFT/BIC
+    id_number: MELIGB2L
+  - uid: '129002'
+    id_type: SWIFT/BIC
+    id_number: MELIHKHH
+  - uid: '129000'
+    id_type: Website
+    id_number: www.mellibank.com
+  - uid: '128999'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: 'All Offices Worldwide; (Linked To: BANK MELLI IRAN)'

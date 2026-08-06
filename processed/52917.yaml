@@ -1,0 +1,44 @@
+---
+uid: '52917'
+first_name: Khaled Hussein Saleh
+last_name: GABER
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '82845'
+    type: a.k.a.
+    category: strong
+    last_name: JABIR
+    first_name: Khalid Husayn Salih
+  - uid: '82846'
+    type: a.k.a.
+    category: strong
+    last_name: QAYLI
+    first_name: Khalid Husayn
+address_list:
+  items:
+  - uid: '80879'
+    country: Yemen
+id_list:
+  items:
+  - uid: '46050'
+    id_type: Passport
+    id_number: '06587862'
+    id_country: Yemen
+    expiration_date: 05 Jun 2028
+  - uid: '184893'
+    id_type: Gender
+    id_number: Male
+  - uid: '185386'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '84891'
+    date_of_birth: 01 Aug 1992
+    main_entry: 'true'
+remarks: "(Linked To: ANSARALLAH)"

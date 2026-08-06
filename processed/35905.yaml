@@ -1,0 +1,34 @@
+---
+uid: '35905'
+last_name: IRKUT-STANKO SERVICE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56484'
+    type: a.k.a.
+    category: strong
+    last_name: IRKUT-STANKO SERVIS OOO
+address_list:
+  items:
+  - uid: '53897'
+    address1: ul Novatorov d 3
+    city: Irkutsk
+    postal_code: '664020'
+    country: Russia
+id_list:
+  items:
+  - uid: '25267'
+    id_type: Tax ID No.
+    id_number: '3810035303'
+    id_country: Russia
+  - uid: '25268'
+    id_type: Registration Number
+    id_number: '1043801429100'
+    id_country: Russia
+  - uid: '173300'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: PUBLIC JOINT STOCK COMPANY YAKOVLEV)"

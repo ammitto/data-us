@@ -1,0 +1,30 @@
+---
+uid: '40580'
+last_name: INTERNATIONAL LIMITED LIABILITY COMPANY INTERROS CAPITAL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '60486'
+    address1: Building 8, Apt. 210/2, Melkovodny Village
+    address2: Russky Island
+    city: Vladivostok
+    state_or_province: Primorsky Krai
+    postal_code: '690922'
+    country: Russia
+id_list:
+  items:
+  - uid: '29727'
+    id_type: Tax ID No.
+    id_number: '2540265679'
+    id_country: Russia
+  - uid: '29728'
+    id_type: Business Registration Number
+    id_number: '1212500029598'
+    id_country: Russia
+  - uid: '176913'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: WHITELEAVE HOLDINGS LIMITED)"

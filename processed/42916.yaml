@@ -1,0 +1,45 @@
+---
+uid: '42916'
+first_name: Oscar Noe
+last_name: MEDINA GONZALEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '66487'
+    type: a.k.a.
+    category: weak
+    last_name: El Panu
+  - uid: '66546'
+    type: a.k.a.
+    category: weak
+    last_name: Panu
+  - uid: '67387'
+    type: a.k.a.
+    category: weak
+    last_name: Pan
+address_list:
+  items:
+  - uid: '64083'
+    country: Mexico
+id_list:
+  items:
+  - uid: '32496'
+    id_type: C.U.R.P.
+    id_number: MEGO830511HSLDNS01
+    id_country: Mexico
+  - uid: '161768'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '61767'
+    date_of_birth: 11 May 1983
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '61770'
+    place_of_birth: Sinaloa, Mexico
+    main_entry: 'true'

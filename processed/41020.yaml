@@ -1,0 +1,46 @@
+---
+uid: '41020'
+last_name: LLC SPETSAVIA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63942'
+    type: a.k.a.
+    category: strong
+    last_name: AMT-SPETSAVIA
+  - uid: '63943'
+    type: a.k.a.
+    category: strong
+    last_name: AMT-SPECAVIA
+  - uid: '63944'
+    type: a.k.a.
+    category: strong
+    last_name: AMT-SPETSAVIA GROUP
+address_list:
+  items:
+  - uid: '61283'
+    address1: Building 8, Office 1, Novoyaroslavskaya Station
+    city: Yaroslavl
+    state_or_province: Yaroslavl Region
+    postal_code: '150023'
+    country: Russia
+id_list:
+  items:
+  - uid: '30354'
+    id_type: Registration Number
+    id_number: '1157627030406'
+    id_country: Russia
+  - uid: '30355'
+    id_type: Tax ID No.
+    id_number: '7604289701'
+    id_country: Russia
+  - uid: '30356'
+    id_type: Government Gazette Number
+    id_number: '21740072'
+    id_country: Russia
+  - uid: '173553'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

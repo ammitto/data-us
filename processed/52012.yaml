@@ -1,0 +1,33 @@
+---
+uid: '52012'
+last_name: LIMITED LIABILITY COMPANY GRUPPA MAGNEZIT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '81420'
+    type: a.k.a.
+    category: strong
+    last_name: MAGNEZIT GROUP LLC
+address_list:
+  items:
+  - uid: '79302'
+    address1: Ul. Solnechnaya 34
+    city: Satka
+    postal_code: '456910'
+    country: Russia
+id_list:
+  items:
+  - uid: '44817'
+    id_type: Registration Number
+    id_number: '1047408000199'
+    id_country: Russia
+  - uid: '44818'
+    id_type: Tax ID No.
+    id_number: '7417011270'
+    id_country: Russia
+  - uid: '182670'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

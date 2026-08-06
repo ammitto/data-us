@@ -1,0 +1,33 @@
+---
+uid: '50991'
+last_name: SAINT PETERSBURGS AVIATION REPAIR COMPANY ZAO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79897'
+    type: a.k.a.
+    category: strong
+    last_name: AO SPARK
+address_list:
+  items:
+  - uid: '77491'
+    address1: ul. Pilotov d. 12
+    city: Saint Petersburg
+    postal_code: '196210'
+    country: Russia
+id_list:
+  items:
+  - uid: '43033'
+    id_type: Registration Number
+    id_number: '1037821027221'
+    id_country: Russia
+  - uid: '43034'
+    id_type: Tax ID No.
+    id_number: '7810209170'
+    id_country: Russia
+  - uid: '179884'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

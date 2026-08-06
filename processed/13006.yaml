@@ -1,0 +1,56 @@
+---
+uid: '13006'
+last_name: DESARROLLO ARQUITECTONICO FORTIA, S.A. DE C.V.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '20702'
+    address1: Avenida Vallarta No. 6503
+    address2: Piso 15
+    address3: Col. C.D. Granja
+    city: Zapopan
+    state_or_province: Jalisco
+    postal_code: '45010'
+    country: Mexico
+  - uid: '20703'
+    address1: Calzada de los Fresnos
+    address2: No 70-A
+    address3: Col. C.D. Granja
+    city: Zapopan
+    state_or_province: Jalisco
+    postal_code: '45010'
+    country: Mexico
+  - uid: '20704'
+    address1: Vereda De La Alondra No 8
+    address2: Col Puerta De Hierro
+    city: Zapopan
+    state_or_province: Jalisco
+    postal_code: '45116'
+    country: Mexico
+  - uid: '20705'
+    address1: Vereda De La Alondra No 8
+    address2: Col Puerta De Hierro
+    city: Tlajomulco de Zuniga
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '20706'
+    address1: Avenida Miguel Hidalgo Manzana 47
+    address2: Lote 11
+    address3: Local - B, Colonia Reg. 92
+    city: Benito Juarez
+    state_or_province: Quintana Roo
+    postal_code: '77516'
+    country: Mexico
+id_list:
+  items:
+  - uid: '7421'
+    id_type: Folio Mercantil No.
+    id_number: '17103'
+    id_country: Mexico
+  - uid: '7422'
+    id_type: R.F.C.
+    id_number: DAF0301276R6
+    id_country: Mexico

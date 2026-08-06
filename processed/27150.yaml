@@ -1,0 +1,40 @@
+---
+uid: '27150'
+first_name: Mohamed Ahmed Elsayed Ahmed
+last_name: IBRAHIM
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '41221'
+    country: Brazil
+id_list:
+  items:
+  - uid: '17762'
+    id_type: Passport
+    id_number: A09935181
+    id_country: Egypt
+  - uid: '17763'
+    id_type: Turkish Identification Number
+    id_number: '99148469954'
+    id_country: Turkey
+  - uid: '186916'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '132141'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '32137'
+    date_of_birth: 05 Apr 1977
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '32139'
+    place_of_birth: Gharbeya, Egypt
+    main_entry: 'true'
+remarks: "(Linked To: AL QA'IDA)"

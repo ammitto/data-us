@@ -1,0 +1,38 @@
+---
+uid: '44988'
+last_name: LIMITED LIABILITY COMPANY CARBON
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69648'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY KARBON
+  - uid: '69649'
+    type: f.k.a.
+    category: strong
+    last_name: NOVAPORT TSENTRALNAYA AZIYA OOO
+address_list:
+  items:
+  - uid: '66957'
+    address1: d. 3A str. 6 etazh 1 pom. 21
+    address2: ul. 1-Ya Frunzenskaya
+    city: Moscow
+    postal_code: '119146'
+    country: Russia
+id_list:
+  items:
+  - uid: '34642'
+    id_type: Registration Number
+    id_number: '1197746372735'
+    id_country: Russia
+  - uid: '34643'
+    id_type: Tax ID No.
+    id_number: '7704493235'
+    id_country: Russia
+  - uid: '175871'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,39 @@
+---
+uid: '37798'
+last_name: AKTSIONERNOE OBSHCHESTVO NAUCHNO ISSLEDOVATELSKII INSTITUT SREDSTV VYCHISLITELNOI
+  TEKHNIKI
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59352'
+    type: a.k.a.
+    category: weak
+    last_name: AO NII SVT
+  - uid: '59353'
+    type: a.k.a.
+    category: weak
+    last_name: NII SVT PAO
+address_list:
+  items:
+  - uid: '56587'
+    address1: Ul. Melnichnaya D. 31
+    city: Kirov
+    postal_code: '610025'
+    country: Russia
+id_list:
+  items:
+  - uid: '27098'
+    id_type: Registration Number
+    id_number: '1114345026784'
+    id_country: Russia
+  - uid: '27099'
+    id_type: Tax ID No.
+    id_number: '4345309407'
+    id_country: Russia
+  - uid: '173523'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: OPEN JOINT STOCK COMPANY RUSSIAN ELECTRONICS)"

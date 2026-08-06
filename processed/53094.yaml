@@ -1,0 +1,46 @@
+---
+uid: '53094'
+first_name: Mohsen
+last_name: PAKNEJAD
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '83020'
+    type: a.k.a.
+    category: strong
+    last_name: PAKNEZHAD
+    first_name: Mohsen
+address_list:
+  items:
+  - uid: '81051'
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '46326'
+    id_type: National ID No.
+    id_number: '0045865914'
+    id_country: Iran
+  - uid: '46327'
+    id_type: Birth Certificate Number
+    id_number: '762'
+    id_country: Iran
+  - uid: '185407'
+    id_type: Gender
+    id_number: Male
+  - uid: '185574'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '85567'
+    date_of_birth: 12 Jun 1966
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '85406'
+    place_of_birth: Central Tehran, Tehran, Iran
+    main_entry: 'true'

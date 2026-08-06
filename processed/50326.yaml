@@ -1,0 +1,34 @@
+---
+uid: '50326'
+first_name: Fulvio
+last_name: SALVADORI
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '76266'
+    country: Italy
+id_list:
+  items:
+  - uid: '42312'
+    id_type: Tax ID No.
+    id_number: SLVFLV66B05C847J
+    id_country: Italy
+  - uid: '178275'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '178274'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '78271'
+    date_of_birth: 05 Feb 1966
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '78272'
+    place_of_birth: Siena, Italy
+    main_entry: 'true'

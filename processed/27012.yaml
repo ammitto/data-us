@@ -1,0 +1,51 @@
+---
+uid: '27012'
+first_name: Rayan
+last_name: AL-KILDANI
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '42761'
+    type: a.k.a.
+    category: strong
+    last_name: DODI
+    first_name: Rian Salim Sadeq
+  - uid: '42772'
+    type: a.k.a.
+    category: strong
+    last_name: KALDANI
+    first_name: Rayan
+  - uid: '42773'
+    type: a.k.a.
+    category: strong
+    last_name: AL-KALDANI
+    first_name: Rayyan
+address_list:
+  items:
+  - uid: '41051'
+    address1: Palestine Street
+    address2: DIST 505 ST 60 H 19
+    city: Baghdad
+    country: Iraq
+id_list:
+  items:
+  - uid: '17646'
+    id_type: National ID No.
+    id_number: '00365298'
+    id_country: Iraq
+  - uid: '131923'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '31908'
+    date_of_birth: 03 Sep 1989
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '31909'
+    place_of_birth: Baghdad, Iraq
+    main_entry: 'true'

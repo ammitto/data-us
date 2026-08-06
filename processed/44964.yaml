@@ -1,0 +1,63 @@
+---
+uid: '44964'
+last_name: LIMITED LIABILITY COMPANY BALTINFOKOM
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69569'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY BALTINFOCOM
+  - uid: '69570'
+    type: a.k.a.
+    category: strong
+    last_name: OOO BALTINFOKOM
+  - uid: '69571'
+    type: a.k.a.
+    category: strong
+    last_name: LLC BALTINFOCOM
+  - uid: '69572'
+    type: a.k.a.
+    category: strong
+    last_name: BALTINFOKOM
+address_list:
+  items:
+  - uid: '66905'
+    address1: Pr-Kt Yaroslavskii D.78
+    address2: Lit. A
+    address3: Pom.19N
+    city: Saint Petersburg
+    postal_code: '194214'
+    country: Russia
+  - uid: '66911'
+    address1: 7H
+    address2: '71'
+    address3: Komstromskoy Avenue
+    city: Saint Petersburg
+    postal_code: '194214'
+    country: Russia
+id_list:
+  items:
+  - uid: '34586'
+    id_type: Tax ID No.
+    id_number: '7810481785'
+    id_country: Russia
+  - uid: '34587'
+    id_type: Registration Number
+    id_number: '1077847481535'
+    id_country: Russia
+  - uid: '175848'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '165293'
+    id_type: Organization Established Date
+    id_number: 06 Jul 2007
+  - uid: '165300'
+    id_type: Website
+    id_number: www.baltinfocom.ru
+  - uid: '165294'
+    id_type: 'Organization Type:'
+    id_number: Other information technology and computer service activities

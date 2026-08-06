@@ -1,0 +1,38 @@
+---
+uid: '37856'
+first_name: Leontiy Andreyevich
+last_name: KONDRAKHIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '56730'
+    address1: Krylatskie Holmi St. 37-269
+    city: Moscow
+    postal_code: '121614'
+    country: Russia
+id_list:
+  items:
+  - uid: '27154'
+    id_type: Passport
+    id_number: '651944506'
+    id_country: Russia
+  - uid: '174604'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '153025'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '53023'
+    date_of_birth: 28 Apr 2001
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '53027'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'
+remarks: "(Linked To: BROVKO, Vasily Yuryevich)"

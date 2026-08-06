@@ -1,0 +1,33 @@
+---
+uid: '9993'
+first_name: Yolanda Sofia
+last_name: CANO ALZATE
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNT
+address_list:
+  items:
+  - uid: '13126'
+    address1: c/o GAVIOTAS LTDA.
+    country: Colombia
+id_list:
+  items:
+  - uid: '4567'
+    id_type: Cedula No.
+    id_number: '31399608'
+    id_country: Colombia
+  - uid: '4568'
+    id_type: Passport
+    id_number: AH506324
+    id_country: Colombia
+date_of_birth_list:
+  items:
+  - uid: '5066'
+    date_of_birth: 25 Apr 1957
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '5067'
+    place_of_birth: Cartago, Valle
+    main_entry: 'true'

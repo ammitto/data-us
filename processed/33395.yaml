@@ -1,0 +1,50 @@
+---
+uid: '33395'
+last_name: PELENG JSC
+sdn_type: Entity
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '52510'
+    type: a.k.a.
+    category: strong
+    last_name: PELENG OAO
+  - uid: '52511'
+    type: a.k.a.
+    category: strong
+    last_name: PELENG JOINT-STOCK COMPANY
+  - uid: '52512'
+    type: f.k.a.
+    category: strong
+    last_name: ENGINEERING DEPARTMENT OF VAVILOVA PLANT
+  - uid: '52513'
+    type: f.k.a.
+    category: strong
+    last_name: CENTRAL DESIGN DEPARTMENT PELENG
+address_list:
+  items:
+  - uid: '50150'
+    address1: 25 Makayonka St.
+    city: Minsk
+    postal_code: '220114'
+    country: Belarus
+  - uid: '50151'
+    address1: 25 Makaenka St.
+    city: Minsk
+    postal_code: '220114'
+    country: Belarus
+id_list:
+  items:
+  - uid: '23058'
+    id_type: Government Gazette Number
+    id_number: '07526946'
+    id_country: Belarus
+  - uid: '23059'
+    id_type: Registration Number
+    id_number: '100230519'
+    id_country: Belarus
+  - uid: '143391'
+    id_type: Organization Established Date
+    id_number: 11 Mar 1994

@@ -1,0 +1,50 @@
+---
+uid: '50885'
+last_name: FEDERAL STATE BUDGETARY INSTITUTION OF SCIENCE INSTITUTE OF PROBLEMS OF
+  MECHANICS NAMED AFTER A YU ISHLINSKY RUSSIAN ACADEMY OF SCIENCES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79690'
+    type: a.k.a.
+    category: strong
+    last_name: IPMEKH RAN INSTITUT PROBLEM MEKHANIKI IM A YU ISHLINSKOGO RAN
+  - uid: '79691'
+    type: a.k.a.
+    category: strong
+    last_name: INSTITUTE OF MECHANICS NAMED AFTER A YU ISHLINSKY RAS
+  - uid: '79692'
+    type: a.k.a.
+    category: strong
+    last_name: ISHLINSKY INSTITUTE FOR PROBLEMS IN MECHANICS OF THE RUSSIAN ACADEMY
+      OF SCIENCES
+  - uid: '79693'
+    type: a.k.a.
+    category: strong
+    last_name: IPMECH RAS
+address_list:
+  items:
+  - uid: '77258'
+    address1: Prosp Vernadskogo D 101, Korp 1
+    city: Moscow
+    postal_code: '119526'
+    country: Russia
+id_list:
+  items:
+  - uid: '42859'
+    id_type: Registration Number
+    id_number: '1037739426735'
+    id_country: Russia
+  - uid: '42860'
+    id_type: Tax ID No.
+    id_number: '7729138338'
+    id_country: Russia
+  - uid: '179662'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '179661'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

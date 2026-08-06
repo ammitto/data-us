@@ -1,0 +1,36 @@
+---
+uid: '44300'
+last_name: JOINT STOCK COMPANY SCIENTIFIC AND PRODUCTION ASSOCIATION CRITICAL INFORMATION
+  SYSTEMS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '68540'
+    type: a.k.a.
+    category: weak
+    last_name: JSC NPO KIS
+address_list:
+  items:
+  - uid: '65972'
+    address1: Kitaigorodsky passage, 7, building 1
+    address2: floor 1, Office 1035
+    address3: ext. ter. Tagansky municipal district
+    city: Moscow
+    postal_code: '109012'
+    country: Russia
+id_list:
+  items:
+  - uid: '33764'
+    id_type: Tax ID No.
+    id_number: '9705178310'
+    id_country: Russia
+  - uid: '33776'
+    id_type: Registration Number
+    id_number: '1227700585353'
+    id_country: Russia
+  - uid: '173771'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,36 @@
+---
+uid: '21042'
+first_name: Jian
+last_name: ZHANG
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '31960'
+    address1: No. 100, North Hengfeng Road
+    city: Shanghai
+    country: China
+  - uid: '32808'
+    city: Dezhou
+    state_or_province: Shandong
+    country: China
+id_list:
+  items:
+  - uid: '13132'
+    id_type: Citizen's Card Number
+    id_number: '372426197811220350'
+    id_country: China
+  - uid: '13595'
+    id_type: Chinese Commercial Code
+    id_number: 1728 1696
+  - uid: '121867'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '21859'
+    date_of_birth: 22 Nov 1978
+    main_entry: 'true'
+remarks: "(Linked To: ZARON BIO-TECH (ASIA) LIMITED)"

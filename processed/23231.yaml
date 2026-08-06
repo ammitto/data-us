@@ -1,0 +1,40 @@
+---
+uid: '23231'
+first_name: Myong Hun
+last_name: RI
+sdn_type: Individual
+program_list:
+  programs:
+  - DPRK2
+aka_list:
+  items:
+  - uid: '36993'
+    type: a.k.a.
+    category: strong
+    last_name: RI
+    first_name: Myo'ng-hun
+address_list:
+  items:
+  - uid: '35483'
+    country: Korea, North
+id_list:
+  items:
+  - uid: '14957'
+    id_type: Passport
+    id_number: '381420089'
+    expiration_date: 11 Oct 2016
+  - uid: '135101'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '127330'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '125291'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '24935'
+    date_of_birth: 14 Mar 1969
+    main_entry: 'true'

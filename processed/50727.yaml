@@ -1,0 +1,45 @@
+---
+uid: '50727'
+last_name: KAMSKII KABEL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79386'
+    type: a.k.a.
+    category: strong
+    last_name: KAMSKIY KABEL LLC
+  - uid: '79388'
+    type: a.k.a.
+    category: strong
+    last_name: LLC KAMSKY KABEL
+  - uid: '79389'
+    type: a.k.a.
+    category: strong
+    last_name: OOO KAMSKIJ KABEL
+  - uid: '79391'
+    type: a.k.a.
+    category: strong
+    last_name: KAMKABEL
+address_list:
+  items:
+  - uid: '76928'
+    address1: Ul. Gaivinskaya D. 105
+    city: Perm
+    postal_code: '614030'
+    country: Russia
+id_list:
+  items:
+  - uid: '42588'
+    id_type: Registration Number
+    id_number: '1085904004779'
+    id_country: Russia
+  - uid: '42590'
+    id_type: Tax ID No.
+    id_number: '5904184047'
+    id_country: Russia
+  - uid: '179340'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

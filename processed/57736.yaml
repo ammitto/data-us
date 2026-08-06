@@ -1,0 +1,40 @@
+---
+uid: '57736'
+first_name: Khattar
+last_name: NASSER ELDIN
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '88545'
+    address1: Khattar Nasser El Din Building
+    address2: Kalamoun Old Road
+    city: Tripoli
+    country: Lebanon
+id_list:
+  items:
+  - uid: '52210'
+    id_type: Passport
+    id_number: RL2508250
+    id_country: Lebanon
+    expiration_date: 16 Jul 2019
+  - uid: '198285'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '198284'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '98280'
+    date_of_birth: 07 Apr 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '98281'
+    place_of_birth: Tripoli, Lebanon
+    main_entry: 'true'
+remarks: "(Linked To: HIZBALLAH)"

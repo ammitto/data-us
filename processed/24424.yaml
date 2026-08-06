@@ -1,0 +1,31 @@
+---
+uid: '24424'
+first_name: Diosdado
+last_name: CABELLO RONDON
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+address_list:
+  items:
+  - uid: '36892'
+    state_or_province: Monagas
+    country: Venezuela
+id_list:
+  items:
+  - uid: '15579'
+    id_type: Cedula No.
+    id_number: '8370825'
+    id_country: Venezuela
+  - uid: '15580'
+    id_type: Passport
+    id_number: A0237802
+    id_country: Venezuela
+  - uid: '126740'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '26738'
+    date_of_birth: 15 Apr 1963
+    main_entry: 'true'

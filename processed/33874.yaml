@@ -1,0 +1,39 @@
+---
+uid: '33874'
+first_name: Radule
+last_name: STEVIC
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '53598'
+    type: a.k.a.
+    category: weak
+    last_name: STEVIC, Rade
+address_list:
+  items:
+  - uid: '51245'
+    address1: Kral Petar Street
+    city: Zvecan
+    country: Kosovo
+id_list:
+  items:
+  - uid: '23844'
+    id_type: Identification Number
+    id_number: '1501796081'
+  - uid: '145368'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '44881'
+    date_of_birth: 02 Jun 1970
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '45404'
+    place_of_birth: Leposavic, Kosovo
+    main_entry: 'true'
+remarks: "(Linked To: VESELINOVIC, Zvonko)"

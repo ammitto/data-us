@@ -1,0 +1,59 @@
+---
+uid: '24520'
+first_name: Muhammad
+last_name: YAZBAK
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '38668'
+    type: a.k.a.
+    category: strong
+    last_name: YAZBIK
+    first_name: Muhammad
+  - uid: '38669'
+    type: a.k.a.
+    category: strong
+    last_name: ASSAF
+    first_name: Hosein
+  - uid: '38670'
+    type: a.k.a.
+    category: strong
+    last_name: YAZBEK
+    first_name: Mohammad
+  - uid: '38671'
+    type: a.k.a.
+    category: strong
+    last_name: YAZBECK
+    first_name: Mohammad
+address_list:
+  items:
+  - uid: '37029'
+    country: Lebanon
+id_list:
+  items:
+  - uid: '127024'
+    id_type: Gender
+    id_number: Male
+  - uid: '187171'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '127025'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
+      Sanctions Regulations
+date_of_birth_list:
+  items:
+  - uid: '26980'
+    date_of_birth: '1950'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '26979'
+    place_of_birth: Bodai, Lebanon
+    main_entry: 'true'
+remarks: "(Linked To: HIZBALLAH)"
+title: Head of the Judicial Council of Hizballah

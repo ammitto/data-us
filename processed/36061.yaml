@@ -1,0 +1,47 @@
+---
+uid: '36061'
+first_name: Andrei Nikolaevich
+last_name: SHISHKIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56841'
+    type: a.k.a.
+    category: strong
+    last_name: SHISHKIN
+    first_name: Andrey Nikolaevich
+  - uid: '56842'
+    type: a.k.a.
+    category: strong
+    last_name: SHISHKIN
+    first_name: Andrey Nikolayevich
+  - uid: '56843'
+    type: a.k.a.
+    category: weak
+    last_name: SHISHKIN, Andrei N
+address_list:
+  items:
+  - uid: '54223'
+    country: Russia
+id_list:
+  items:
+  - uid: '173968'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '149445'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '49447'
+    date_of_birth: 13 Mar 1959
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '49446'
+    place_of_birth: Krasnoyarsk, Russia
+    main_entry: 'true'
+remarks: "(Linked To: JOINT STOCK COMPANY UNITED SHIPBUILDING CORPORATION)"

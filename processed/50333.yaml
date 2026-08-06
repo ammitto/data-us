@@ -1,0 +1,37 @@
+---
+uid: '50333'
+last_name: LIMITED LIABILITY COMPANY UPRAVLYAYUSHCHAYA KOMPANIYA MECHEL MAINING
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78661'
+    type: a.k.a.
+    category: strong
+    last_name: LLC UK MECHEL MAINING
+  - uid: '78662'
+    type: a.k.a.
+    category: strong
+    last_name: LLC MECHEL MINING MANAGEMENT COMPANY
+address_list:
+  items:
+  - uid: '76282'
+    address1: d. 1 ul. Krasnoarmeiskaya
+    city: Moscow
+    postal_code: '125167'
+    country: Russia
+id_list:
+  items:
+  - uid: '42065'
+    id_type: Registration Number
+    id_number: '1085410004811'
+    id_country: Russia
+  - uid: '42066'
+    id_type: Tax ID No.
+    id_number: '5410020539'
+    id_country: Russia
+  - uid: '178297'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

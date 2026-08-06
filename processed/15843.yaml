@@ -1,0 +1,43 @@
+---
+uid: '15843'
+first_name: Arnoldo
+last_name: VILLA SANCHEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '23698'
+    type: a.k.a.
+    category: strong
+    last_name: CALDERON SANCHEZ
+    first_name: Erick Rene
+address_list:
+  items:
+  - uid: '23770'
+    address1: Calle Paseo San Carlos 3013
+    address2: Fraccionamiento Valle Real
+    city: Zapopan
+    state_or_province: Jalisco
+    country: Mexico
+id_list:
+  items:
+  - uid: '8557'
+    id_type: C.U.R.P.
+    id_number: VISA740131HGRLNR07
+    id_country: Mexico
+  - uid: '8979'
+    id_type: Tax ID No.
+    id_number: '39037400668'
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '13323'
+    date_of_birth: 31 Jan 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '13324'
+    place_of_birth: Guerrero, Mexico
+    main_entry: 'true'

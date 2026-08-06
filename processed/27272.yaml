@@ -1,0 +1,66 @@
+---
+uid: '27272'
+first_name: Morteza
+last_name: GHASEMI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '43200'
+    type: a.k.a.
+    category: strong
+    last_name: GHAEEMI
+    first_name: Morteza
+  - uid: '43201'
+    type: a.k.a.
+    category: strong
+    last_name: QASIMI
+    first_name: Murtadi
+  - uid: '43202'
+    type: a.k.a.
+    category: strong
+    last_name: ALI
+    first_name: Ghasemi Morteza
+id_list:
+  items:
+  - uid: '17886'
+    id_type: Passport
+    id_number: T14532563
+    id_country: Iran
+  - uid: '17887'
+    id_type: Passport
+    id_number: K30803856
+    id_country: Iran
+    expiration_date: 07 Sep 2019
+  - uid: '134749'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '132314'
+    id_type: Gender
+    id_number: Male
+  - uid: '186942'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '32309'
+    date_of_birth: 10 Apr 1991
+    main_entry: 'true'
+  - uid: '32310'
+    date_of_birth: 31 May 1988
+    main_entry: 'false'
+  - uid: '32311'
+    date_of_birth: 03 Mar 1983
+    main_entry: 'false'
+  - uid: '32312'
+    date_of_birth: 03 Jan 1983
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '32313'
+    place_of_birth: Iran
+    main_entry: 'true'
+remarks: "(Linked To: QASEMI, Rostam)"

@@ -1,0 +1,52 @@
+---
+uid: '52510'
+first_name: Mohammed Hamdan Daglo
+last_name: MOUSA
+sdn_type: Individual
+program_list:
+  programs:
+  - SUDAN-EO14098
+aka_list:
+  items:
+  - uid: '82206'
+    type: a.k.a.
+    category: strong
+    last_name: DAGALO
+    first_name: Mohamed Hamdan
+  - uid: '82207'
+    type: a.k.a.
+    category: strong
+    last_name: HAMDAN
+    first_name: Mohamed
+  - uid: '82208'
+    type: a.k.a.
+    category: strong
+    last_name: DAGALO
+    first_name: Mohammed Hamdan
+  - uid: '82209'
+    type: a.k.a.
+    category: weak
+    last_name: HEMEDTI
+  - uid: '82210'
+    type: a.k.a.
+    category: weak
+    last_name: HEMETI
+address_list:
+  items:
+  - uid: '80285'
+    country: Sudan
+id_list:
+  items:
+  - uid: '184175'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '84174'
+    date_of_birth: 01 Jan 1974 to 31 Dec 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '84176'
+    place_of_birth: North Darfur, Sudan
+    main_entry: 'true'

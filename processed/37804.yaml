@@ -1,0 +1,38 @@
+---
+uid: '37804'
+last_name: JOINT STOCK COMPANY SCIENTIFIC AND RESEARCH INSTITUTE OF ELECTRONIC ENGINEERING
+  MATERIALS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59369'
+    type: a.k.a.
+    category: weak
+    last_name: AO NIIMET
+address_list:
+  items:
+  - uid: '56600'
+    address1: Ul. Gagarina, D. 1
+    city: Kaluga
+    postal_code: '248650'
+    country: Russia
+id_list:
+  items:
+  - uid: '27110'
+    id_type: Registration Number
+    id_number: '1024001177188'
+    id_country: Russia
+  - uid: '27111'
+    id_type: Tax ID No.
+    id_number: '4026008516'
+    id_country: Russia
+  - uid: '152813'
+    id_type: Organization Established Date
+    id_number: 22 Nov 1991
+  - uid: '173529'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: OPEN JOINT STOCK COMPANY RUSSIAN ELECTRONICS)"

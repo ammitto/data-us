@@ -1,0 +1,40 @@
+---
+uid: '34110'
+first_name: Bayardo Ramon
+last_name: RODRIGUEZ RUIZ
+sdn_type: Individual
+program_list:
+  programs:
+  - NICARAGUA
+address_list:
+  items:
+  - uid: '51133'
+    address1: KM 9 Carretera Nueva A Leon Y 300 Mts Al Este
+    address2: Casa 9
+    city: Managua
+    country: Nicaragua
+id_list:
+  items:
+  - uid: '23743'
+    id_type: Diplomatic Passport
+    id_number: A0008886
+    id_country: Nicaragua
+    issue_date: 12 Feb 2012
+    expiration_date: 12 Feb 2022
+  - uid: '23744'
+    id_type: National ID No.
+    id_number: 0011204610031W
+    id_country: Nicaragua
+  - uid: '145236'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '45237'
+    date_of_birth: 12 Apr 1961
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '45239'
+    place_of_birth: Managua, Nicaragua
+    main_entry: 'true'

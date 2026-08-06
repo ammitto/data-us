@@ -1,0 +1,49 @@
+---
+uid: '43537'
+last_name: SUDAN MASTER TECHNOLOGY
+sdn_type: Entity
+program_list:
+  programs:
+  - SUDAN-EO14098
+aka_list:
+  items:
+  - uid: '67471'
+    type: a.k.a.
+    category: strong
+    last_name: GIAD INDUSTRIAL CITY
+  - uid: '67473'
+    type: a.k.a.
+    category: strong
+    last_name: GIAD INDUSTRIAL GROUP
+address_list:
+  items:
+  - uid: '64947'
+    address1: SMT Building Madani Road
+    address2: KM 50 Khartoum, Giad Industrial Complex
+    address3: Gamhuria Street
+    city: Khartoum
+    country: Sudan
+  - uid: '64948'
+    address1: Giad Industrial Group Building
+    address2: Street 60, Giad Industrial City
+    address3: PO Box 444
+    city: Khartoum
+    country: Sudan
+  - uid: '64949'
+    address1: SMT Building
+    address2: Gamhuria Street, GIAD Industrial Complex
+    address3: PO Box 10782
+    city: Khartoum
+    postal_code: SU001
+    country: Sudan
+id_list:
+  items:
+  - uid: '163012'
+    id_type: 'Organization Type:'
+    id_number: Activities of holding companies
+  - uid: '163009'
+    id_type: Website
+    id_number: www.sudanmaster.com
+  - uid: '163011'
+    id_type: Organization Established Date
+    id_number: 01 Jan 1993

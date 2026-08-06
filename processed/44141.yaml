@@ -1,0 +1,28 @@
+---
+uid: '44141'
+last_name: LIMITED LIABILITY COMPANY LEGION
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '65674'
+    address1: 53 Volgogradskiy Avenue, Floor 1, Suite II, Room 2
+    city: Moscow
+    postal_code: '109125'
+    country: Russia
+id_list:
+  items:
+  - uid: '33542'
+    id_type: Registration Number
+    id_number: '1157746933299'
+    id_country: Russia
+  - uid: '33543'
+    id_type: Tax ID No.
+    id_number: '7722342422'
+    id_country: Russia
+  - uid: '175774'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: STRAMILOV, Igor Mikhailovich)"

@@ -1,0 +1,37 @@
+---
+uid: '45039'
+last_name: OPEN JOINT STOCK COMPANY AERO ENGINE SCIENTIFIC AND TECHNICAL COMPANY SOYUZ
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69779'
+    type: a.k.a.
+    category: strong
+    last_name: AESTC SOYUZ
+  - uid: '69780'
+    type: f.k.a.
+    category: strong
+    last_name: MOSKOVSKOYE NAUCHNO-PROIZVODSTVENNOYE OBYEDINENIYE SOYUZ
+address_list:
+  items:
+  - uid: '67066'
+    address1: 2/4, Luzhnetskaya Naberezhnaya
+    city: Moscow
+    postal_code: '119270'
+    country: Russia
+id_list:
+  items:
+  - uid: '34745'
+    id_type: Registration Number
+    id_number: '1027739017162'
+    id_country: Russia
+  - uid: '34746'
+    id_type: Tax ID No.
+    id_number: '7704104217'
+    id_country: Russia
+  - uid: '175915'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

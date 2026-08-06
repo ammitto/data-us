@@ -1,0 +1,48 @@
+---
+uid: '33500'
+first_name: Jihad
+last_name: AL-ARAB
+sdn_type: Individual
+program_list:
+  programs:
+  - LEBANON
+aka_list:
+  items:
+  - uid: '52690'
+    type: a.k.a.
+    category: strong
+    last_name: EL ARAB
+    first_name: Jihad
+  - uid: '52691'
+    type: a.k.a.
+    category: strong
+    last_name: EL ARAB
+    first_name: Jihad Ahmad
+address_list:
+  items:
+  - uid: '50298'
+    address1: France Street Pavilion Building
+    address2: Villa Jihad el Arab
+    address3: Downtown Mina el Hosn
+    city: Beirut
+    country: Lebanon
+id_list:
+  items:
+  - uid: '23141'
+    id_type: Passport
+    id_number: LR0073000
+    id_country: Lebanon
+    expiration_date: 25 Jul 2022
+  - uid: '144290'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '44288'
+    date_of_birth: 06 Jan 1963
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '44291'
+    place_of_birth: Beirut, Lebanon
+    main_entry: 'true'

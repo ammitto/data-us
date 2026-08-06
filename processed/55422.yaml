@@ -1,0 +1,45 @@
+---
+uid: '55422'
+first_name: Gebreil Ibrahim Mohamed
+last_name: FEDIEL
+sdn_type: Individual
+program_list:
+  programs:
+  - SUDAN-EO14098
+aka_list:
+  items:
+  - uid: '86232'
+    type: a.k.a.
+    category: strong
+    last_name: MOHAMED
+    first_name: Gibril Ibrahim
+  - uid: '86233'
+    type: a.k.a.
+    category: strong
+    last_name: IBRAHIM
+    first_name: Jibril
+address_list:
+  items:
+  - uid: '84732'
+    city: Port Sudan
+    country: Sudan
+id_list:
+  items:
+  - uid: '49426'
+    id_type: Passport
+    id_number: D00001664
+    id_country: Sudan
+    expiration_date: 11 Aug 2029
+  - uid: '192849'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '92848'
+    date_of_birth: 10 May 1955
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '92851'
+    place_of_birth: Altina, Sudan
+    main_entry: 'true'

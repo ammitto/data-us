@@ -1,0 +1,30 @@
+---
+uid: '51292'
+last_name: VEKTOR, OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '78060'
+    address1: Ul. Bulatnikovskaya D.20, Str.3
+    city: Moscow
+    postal_code: '117403'
+    country: Russia
+id_list:
+  items:
+  - uid: '43503'
+    id_type: Tax ID No.
+    id_number: '7725575432'
+    id_country: Russia
+  - uid: '43504'
+    id_type: Registration Number
+    id_number: '1067746783433'
+    id_country: Russia
+  - uid: '180497'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '180456'
+    id_type: Organization Established Date
+    id_number: 06 Jul 2006

@@ -1,0 +1,67 @@
+---
+uid: '40016'
+first_name: Mohammad Taghi
+last_name: OSANLOO
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+  - IFSR
+  - IRGC
+aka_list:
+  items:
+  - uid: '62227'
+    type: a.k.a.
+    category: strong
+    last_name: OSANLU
+    first_name: Mohammad Taqi
+  - uid: '62228'
+    type: a.k.a.
+    category: strong
+    last_name: OSANLOU
+    first_name: Mohammad Taqi
+  - uid: '62229'
+    type: a.k.a.
+    category: strong
+    last_name: OSANLU
+    first_name: Mohammad Taghi
+  - uid: '62230'
+    type: a.k.a.
+    category: strong
+    last_name: OSANLOU
+    first_name: Mohammad Taghi
+  - uid: '62231'
+    type: a.k.a.
+    category: strong
+    last_name: OSANLOO
+    first_name: Mohammad Taqi
+address_list:
+  items:
+  - uid: '59624'
+    city: Urmia
+    country: Iran
+id_list:
+  items:
+  - uid: '29238'
+    id_type: Passport
+    id_number: G10512748
+    id_country: Iran
+    expiration_date: 13 Apr 2024
+  - uid: '156813'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '156825'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '56826'
+    date_of_birth: 30 Nov 1962
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '56817'
+    place_of_birth: Zanjan, Iran
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS)"
+title: IRGC Brigadier General

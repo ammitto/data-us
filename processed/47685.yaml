@@ -1,0 +1,35 @@
+---
+uid: '47685'
+last_name: 3DATA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '71285'
+    address1: Ul. Novoryazanskaya D. 26
+    address2: Str. 1
+    address3: Pomeshch. 4/1/1
+    city: Moscow
+    postal_code: '105066'
+    country: Russia
+id_list:
+  items:
+  - uid: '38307'
+    id_type: Registration Number
+    id_number: '1137746838800'
+    id_country: Russia
+  - uid: '38308'
+    id_type: Tax ID No.
+    id_number: '7702822710'
+    id_country: Russia
+  - uid: '169848'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '170102'
+    id_type: Website
+    id_number: 3data.ru
+  - uid: '170061'
+    id_type: 'Organization Type:'
+    id_number: Computer programming activities

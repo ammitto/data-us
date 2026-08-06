@@ -1,0 +1,45 @@
+---
+uid: '49720'
+first_name: Juan Carlos
+last_name: BANUELOS RAMIREZ
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '77510'
+    type: a.k.a.
+    category: weak
+    last_name: PRADA, Juan Carlos
+  - uid: '77511'
+    type: a.k.a.
+    category: weak
+    last_name: Prada
+  - uid: '77512'
+    type: a.k.a.
+    category: weak
+    last_name: Pistones
+address_list:
+  items:
+  - uid: '75104'
+    country: Mexico
+id_list:
+  items:
+  - uid: '41186'
+    id_type: C.U.R.P.
+    id_number: BARJ771005HJCXMN05
+    id_country: Mexico
+  - uid: '173121'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '73122'
+    date_of_birth: 05 Oct 1977
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '73124'
+    place_of_birth: Jalisco, Mexico
+    main_entry: 'true'

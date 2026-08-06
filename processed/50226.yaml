@@ -1,0 +1,32 @@
+---
+uid: '50226'
+last_name: ALC DISKOMS
+sdn_type: Entity
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '78385'
+    type: a.k.a.
+    category: strong
+    last_name: ODO DISKOMS
+address_list:
+  items:
+  - uid: '76038'
+    address1: UL. Sharangovicha 13
+    city: Minsk
+    postal_code: '220018'
+    country: Belarus
+id_list:
+  items:
+  - uid: '41866'
+    id_type: Tax ID No.
+    id_number: '101065433'
+    id_country: Belarus
+  - uid: '178179'
+    id_type: Organization Established Date
+    id_number: 30 Oct 1995
+  - uid: '178232'
+    id_type: 'Organization Type:'
+    id_number: Manufacture of industrial, electric and electronic machinery

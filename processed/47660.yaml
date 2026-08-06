@@ -1,0 +1,39 @@
+---
+uid: '47660'
+last_name: VISHNU INC.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '71231'
+    address1: Trust Company Complex, Ajeltake Road
+    city: Majuro
+    state_or_province: Ajeltake Island
+    postal_code: '96960'
+    country: Marshall Islands
+  - uid: '71232'
+    address1: Navi Mumbai
+    state_or_province: Maharashtra
+    country: India
+id_list:
+  items:
+  - uid: '38265'
+    id_type: Identification Number
+    id_number: IMO 6213660
+  - uid: '38266'
+    id_type: Business Registration Number
+    id_number: '108158'
+    id_country: Marshall Islands
+  - uid: '169122'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '169117'
+    id_type: 'Organization Type:'
+    id_number: Sea and coastal freight water transport
+  - uid: '169116'
+    id_type: Organization Established Date
+    id_number: 04 Mar 2021
+remarks: "(Linked To: AL-JAMAL, Sa'id Ahmad Muhammad)"

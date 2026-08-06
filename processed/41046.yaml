@@ -1,0 +1,42 @@
+---
+uid: '41046'
+last_name: FEDERAL STATE UNITARY ENTERPRISE FEDERAL CENTER OF DUAL TECHNOLOGIES SOYUZ
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63997'
+    type: a.k.a.
+    category: strong
+    last_name: FSUE FCDT SOYUZ
+  - uid: '63998'
+    type: a.k.a.
+    category: strong
+    last_name: FEDERAL CENTER FOR DUAL USE TECHNOLOGIES SOYUZ
+  - uid: '63999'
+    type: a.k.a.
+    category: strong
+    last_name: FEDERAL STATE UNITARY ENTERPRISE FTSDT SOYUZ
+address_list:
+  items:
+  - uid: '61335'
+    address1: 42 Zhukov Academy St.
+    city: Dzerzhinskiy
+    state_or_province: Moscow Region
+    postal_code: '140090'
+    country: Russia
+id_list:
+  items:
+  - uid: '30375'
+    id_type: Registration Number
+    id_number: '1025007270375'
+    id_country: Russia
+  - uid: '30376'
+    id_type: Tax ID No.
+    id_number: '5027030450'
+    id_country: Russia
+  - uid: '173579'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

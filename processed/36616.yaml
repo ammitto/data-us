@@ -1,0 +1,45 @@
+---
+uid: '36616'
+last_name: OOO INNOVATSII SVETA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '57687'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU INOVATSII SVETA
+  - uid: '57688'
+    type: a.k.a.
+    category: weak
+    last_name: LIGHT INNOVATIONS
+address_list:
+  items:
+  - uid: '59168'
+    address1: Ul. Rochdelskaya D. 12, Str. 1
+    city: Moscow
+    postal_code: '123022'
+    country: Russia
+id_list:
+  items:
+  - uid: '26079'
+    id_type: Tax ID No.
+    id_number: '9709058222'
+    id_country: Russia
+  - uid: '26116'
+    id_type: Registration Number
+    id_number: '1107746435290'
+    id_country: Russia
+  - uid: '26117'
+    id_type: Government Gazette Number
+    id_number: '66823252'
+    id_country: Russia
+  - uid: '174249'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '150427'
+    id_type: Organization Established Date
+    id_number: 27 May 2010
+remarks: "(Linked To: CHAYKA, Igor Yuryevich)"

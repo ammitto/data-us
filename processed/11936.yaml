@@ -1,0 +1,66 @@
+---
+uid: '11936'
+first_name: Alfredo
+last_name: RANGEL BUENDIA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '18156'
+    address1: Privada Laredo 6412
+    address2: Colonia Hipodromo
+    city: Nuevo Laredo
+    state_or_province: Tamaulipas
+    country: Mexico
+  - uid: '18157'
+    address1: Calle Villareal 23
+    address2: Colonia Country Club
+    city: Hermosillo
+    state_or_province: Sonora
+    country: Mexico
+  - uid: '18158'
+    address1: Calle Leonardo Valles 721
+    city: Hermosillo
+    state_or_province: Sonora
+    country: Mexico
+  - uid: '18159'
+    address1: Calle Sierra Azul 239
+    city: Hermosillo
+    state_or_province: Sonora
+    country: Mexico
+id_list:
+  items:
+  - uid: '6364'
+    id_type: C.U.R.P.
+    id_number: RABA660223HTSNNL09
+    id_country: Mexico
+  - uid: '6365'
+    id_type: Electoral Registry No.
+    id_number: RNBNAL66022328H401
+    id_country: Mexico
+  - uid: '6366'
+    id_type: Credencial electoral
+    id_number: '156593459'
+    id_country: Mexico
+  - uid: '6367'
+    id_type: Driver's License No.
+    id_number: '724097'
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '7580'
+    date_of_birth: 23 Feb 1966
+    main_entry: 'true'
+  - uid: '7581'
+    date_of_birth: 03 Nov 1986
+    main_entry: 'false'
+  - uid: '7582'
+    date_of_birth: 03 Jan 1966
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '7583'
+    place_of_birth: Tamaulipas, Mexico
+    main_entry: 'true'

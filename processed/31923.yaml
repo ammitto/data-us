@@ -1,0 +1,47 @@
+---
+uid: '31923'
+first_name: Thet Khaing
+last_name: WIN
+sdn_type: Individual
+program_list:
+  programs:
+  - BURMA-EO14014
+aka_list:
+  items:
+  - uid: '50013'
+    type: a.k.a.
+    category: strong
+    last_name: WIN
+    first_name: Thet Kaing
+address_list:
+  items:
+  - uid: '48009'
+    address1: C 541, 1, Yan Myo Thant Zin Street, Zaya Theikdi Quarter
+    city: Naypyitaw
+    country: Burma
+id_list:
+  items:
+  - uid: '21719'
+    id_type: Passport
+    id_number: DM004668
+    id_country: Burma
+    issue_date: 17 Oct 2017
+    expiration_date: 16 Oct 2027
+  - uid: '21720'
+    id_type: National ID No.
+    id_number: 12KAMATAN043299
+    id_country: Burma
+  - uid: '140529'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '40527'
+    date_of_birth: 14 Nov 1961
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '40528'
+    place_of_birth: Rangoon, Burma
+    main_entry: 'true'
+title: Minister of Health and Sports

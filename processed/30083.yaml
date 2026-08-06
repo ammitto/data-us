@@ -1,0 +1,49 @@
+---
+uid: '30083'
+last_name: MOKRAN LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK3
+aka_list:
+  items:
+  - uid: '47116'
+    type: a.k.a.
+    category: strong
+    last_name: OOO MOKRAN
+  - uid: '47117'
+    type: a.k.a.
+    category: strong
+    last_name: OBSCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU MOKRAN
+address_list:
+  items:
+  - uid: '45368'
+    address1: d. 15A liter A etazh / pom./ kom. 3/41/N-1, ul. Professora Kachalova
+    city: St. Petersburg
+    postal_code: '192019'
+    country: Russia
+  - uid: '45369'
+    address1: Ust-Izhora Village, Petrozavodsk Highway 23
+    address2: Kolpinskiy District
+    city: St. Petersburg
+    country: Russia
+id_list:
+  items:
+  - uid: '20167'
+    id_type: Tax ID No.
+    id_number: '7811489970'
+    id_country: Russia
+  - uid: '20187'
+    id_type: Registration Number
+    id_number: '1117847131643'
+    id_country: Russia
+  - uid: '137350'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '137352'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '137555'
+    id_type: 'Organization Type:'
+    id_number: Construction of other civil engineering projects

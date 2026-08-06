@@ -1,0 +1,33 @@
+---
+uid: '47598'
+last_name: JOINT STOCK COMPANY NEVSKY ZAVOD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73709'
+    type: a.k.a.
+    category: strong
+    last_name: NEVSKIY ZAVOD CLOSED COMPANY
+address_list:
+  items:
+  - uid: '71102'
+    address1: Obukhovskoi Oborony Pr D. 51
+    city: St. Petersburg
+    postal_code: '192029'
+    country: Russia
+id_list:
+  items:
+  - uid: '38149'
+    id_type: Registration Number
+    id_number: '1077847587003'
+    id_country: Russia
+  - uid: '38150'
+    id_type: Tax ID No.
+    id_number: '7806369727'
+    id_country: Russia
+  - uid: '169728'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

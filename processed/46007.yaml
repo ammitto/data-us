@@ -1,0 +1,31 @@
+---
+uid: '46007'
+first_name: Anastasiya Borisovna
+last_name: BONDARENKO
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '68518'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '174881'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '166668'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '66667'
+    date_of_birth: '09 Apr 1978'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '66669'
+    place_of_birth: Volgograd, Russia
+    main_entry: 'true'

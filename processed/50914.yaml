@@ -1,0 +1,40 @@
+---
+uid: '50914'
+last_name: NAUCHNO PROIZVODSTVENNOE OBYEDINENIE PROGRAMMNYE KOMPLEKSY REALNOGO VREMENI
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79759'
+    type: a.k.a.
+    category: strong
+    last_name: NPO PKRV
+address_list:
+  items:
+  - uid: '77324'
+    address1: Per. Stolyarnyi D. 3, Korpus 1
+    address2: ET/POM/KOM 4/III/5
+    city: Moscow
+    postal_code: '123022'
+    country: Russia
+  - uid: '77325'
+    address1: Nab. Presnenskaya D. 8, Str. 1
+    address2: Floor/Pomeshch. 44/441M, Office 7
+    city: Moscow
+    postal_code: '123112'
+    country: Russia
+id_list:
+  items:
+  - uid: '42919'
+    id_type: Registration Number
+    id_number: '1107154016529'
+    id_country: Russia
+  - uid: '42920'
+    id_type: Tax ID No.
+    id_number: '7105509736'
+    id_country: Russia
+  - uid: '179706'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

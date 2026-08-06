@@ -1,0 +1,42 @@
+---
+uid: '37822'
+first_name: Eduard Ergartovich
+last_name: ROSSEL
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59424'
+    type: a.k.a.
+    category: strong
+    last_name: ROSSEL
+    first_name: Eduard
+address_list:
+  items:
+  - uid: '56648'
+    country: Russia
+id_list:
+  items:
+  - uid: '27121'
+    id_type: Tax ID No.
+    id_number: '666200807284'
+    id_country: Russia
+  - uid: '152917'
+    id_type: Gender
+    id_number: Male
+  - uid: '173545'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '52914'
+    date_of_birth: '08 Oct 1937'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '52915'
+    place_of_birth: Bor, Nizhny Novgorod Oblast, Russia
+    main_entry: 'true'
+title: Member of the Federation Council of the Federal Assembly of the Russian Federation

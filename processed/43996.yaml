@@ -1,0 +1,33 @@
+---
+uid: '43996'
+last_name: REGION-PROF LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '65484'
+    address1: Profsoyuznaya ulitsa d. 108
+    city: Moscow
+    postal_code: '117437'
+    country: Russia
+  - uid: '65485'
+    address1: ul. Akademika Volgina d. 33
+    address2: Pom. I Kom 38 Et 3
+    city: Moscow
+    postal_code: '117437'
+    country: Russia
+id_list:
+  items:
+  - uid: '33376'
+    id_type: Registration Number
+    id_number: '1067759114675'
+    id_country: Russia
+  - uid: '33377'
+    id_type: Tax ID No.
+    id_number: '7728599583'
+    id_country: Russia
+  - uid: '175731'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

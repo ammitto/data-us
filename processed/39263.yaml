@@ -1,0 +1,54 @@
+---
+uid: '39263'
+first_name: Anna Sergeevna
+last_name: ERSHOVA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '61301'
+    type: a.k.a.
+    category: strong
+    last_name: YERSHOVA
+    first_name: Anna Sergeyevna
+  - uid: '61302'
+    type: f.k.a.
+    category: strong
+    last_name: SOBYANINA
+    first_name: Anna Sergeyevna
+  - uid: '61303'
+    type: f.k.a.
+    category: strong
+    last_name: SOBIANINA
+    first_name: Anna Sergeyevna
+  - uid: '61304'
+    type: f.k.a.
+    category: strong
+    last_name: SOBYANINA
+    first_name: Anna Sergeevna
+address_list:
+  items:
+  - uid: '58497'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '174774'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '155091'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '55089'
+    date_of_birth: 02 Oct 1986
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '55090'
+    place_of_birth: Tyumen, Russia
+    main_entry: 'true'
+remarks: "(Linked To: SOBYANIN, Sergey Semyonovich)"

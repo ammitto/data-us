@@ -1,0 +1,58 @@
+---
+uid: '34749'
+last_name: BANK DABRABYT JOINT STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '54503'
+    type: a.k.a.
+    category: strong
+    last_name: OJSC BANK DABRABYT
+  - uid: '54506'
+    type: a.k.a.
+    category: strong
+    last_name: BANK DABRABYT JSC
+  - uid: '54508'
+    type: f.k.a.
+    category: strong
+    last_name: BANK MOSCOW-MINSK JOINT STOCK COMPANY
+  - uid: '54509'
+    type: f.k.a.
+    category: strong
+    last_name: FOREIGN BANK MOSKVA-MINSK
+  - uid: '54510'
+    type: f.k.a.
+    category: strong
+    last_name: MOSCOW-MINSK FOREIGN BANK
+address_list:
+  items:
+  - uid: '52075'
+    address1: Kommunisticheskaya Str. 49
+    address2: premises 1
+    city: Minsk
+    postal_code: '220002'
+    country: Belarus
+id_list:
+  items:
+  - uid: '24421'
+    id_type: Registration Number
+    id_number: '807000002'
+    id_country: Belarus
+  - uid: '146191'
+    id_type: SWIFT/BIC
+    id_number: MMBNBY22
+  - uid: '146186'
+    id_type: Website
+    id_number: www.bankdabrabyt.by
+  - uid: '146188'
+    id_type: Organization Established Date
+    id_number: 07 Apr 2000
+  - uid: '146189'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '146190'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

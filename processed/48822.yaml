@@ -1,0 +1,39 @@
+---
+uid: '48822'
+last_name: LIMITED LIABILITY COMPANY AVIAKOMPANIYA POBEDA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75993'
+    type: a.k.a.
+    category: strong
+    last_name: POBEDA AIRLINES
+  - uid: '75994'
+    type: a.k.a.
+    category: strong
+    last_name: LLC BUDGET CARRIER
+address_list:
+  items:
+  - uid: '73396'
+    address1: Kilometr Kievskoe Shosse 22-I (P Moskovskii)
+    address2: Domovladen 4
+    address3: Stroenie 1
+    city: Moskovsky
+    postal_code: '108811'
+    country: Russia
+id_list:
+  items:
+  - uid: '39869'
+    id_type: Tax ID No.
+    id_number: '9705001313'
+    id_country: Russia
+  - uid: '39870'
+    id_type: Registration Number
+    id_number: '5147746103380'
+    id_country: Russia
+  - uid: '171635'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

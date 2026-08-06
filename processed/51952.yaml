@@ -1,0 +1,52 @@
+---
+uid: '51952'
+first_name: Andrei Vladimirovich
+last_name: NIKIPELOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '81333'
+    type: a.k.a.
+    category: strong
+    last_name: NIKIPELOV
+    first_name: Andrey Vladimirovich
+address_list:
+  items:
+  - uid: '79199'
+    address1: Bolshaya Cheremushkinskaya Street, 32, block 2, apt. 35
+    city: Moscow
+    postal_code: '117218'
+    country: Russia
+id_list:
+  items:
+  - uid: '44731'
+    id_type: Tax ID No.
+    id_number: '772741700195'
+    id_country: Russia
+  - uid: '45372'
+    id_type: National ID No.
+    id_number: '4505560098'
+    id_country: Russia
+  - uid: '45373'
+    id_type: National ID No.
+    id_number: '4513118045'
+    id_country: Russia
+  - uid: '182602'
+    id_type: Gender
+    id_number: Male
+  - uid: '183000'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '82600'
+    date_of_birth: 07 Mar 1968
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '82601'
+    place_of_birth: Alchevsk, Luhansk Region, Ukraine
+    main_entry: 'true'

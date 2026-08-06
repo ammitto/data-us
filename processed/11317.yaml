@@ -1,0 +1,44 @@
+---
+uid: '11317'
+last_name: NATIONAL IRANIAN OIL COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN
+  - IFCA
+  - IFSR
+  - SDGT
+aka_list:
+  items:
+  - uid: '11867'
+    type: a.k.a.
+    category: strong
+    last_name: NIOC
+address_list:
+  items:
+  - uid: '16581'
+    address1: Hafez Crossing, Taleghani Avenue
+    address2: P.O. Box 1863 and 2501
+    city: Tehran
+    country: Iran
+  - uid: '23963'
+    address1: National Iranian Oil Company Building, Taleghani Avenue, Hafez Street
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '185927'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '113533'
+    id_type: Website
+    id_number: www.nioc.ir
+  - uid: '130329'
+    id_type: IFCA Determination -
+    id_number: Involved in Energy Sector
+  - uid: '118974'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: 'all offices worldwide; (Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS (IRGC)-QODS
+  FORCE; Linked To: MINISTRY OF PETROLEUM)'

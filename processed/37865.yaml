@@ -1,0 +1,47 @@
+---
+uid: '37865'
+first_name: Halyna Viktorivna
+last_name: DANYLCHENKO
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59514'
+    type: a.k.a.
+    category: strong
+    last_name: DANILCHENKO
+    first_name: Galina Viktorovna
+  - uid: '59515'
+    type: a.k.a.
+    category: strong
+    last_name: DANILCHENKO
+    first_name: Haylina
+address_list:
+  items:
+  - uid: '56754'
+    city: Melitopol
+    country: Ukraine
+id_list:
+  items:
+  - uid: '27168'
+    id_type: Tax ID No.
+    id_number: '2356204721'
+    id_country: Ukraine
+  - uid: '174609'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '153043'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '53042'
+    date_of_birth: 05 Jul 1964
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '53041'
+    place_of_birth: Orlovo, Melitopol, Ukraine
+    main_entry: 'true'

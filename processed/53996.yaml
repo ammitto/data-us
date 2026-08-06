@@ -1,0 +1,37 @@
+---
+uid: '53996'
+first_name: Yulia Vladimirovna
+last_name: PANKOVA
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER4
+  - CAATSA - RUSSIA
+address_list:
+  items:
+  - uid: '86399'
+    city: St. Petersburg
+    country: Russia
+id_list:
+  items:
+  - uid: '47432'
+    id_type: Tax ID No.
+    id_number: '743016842436'
+    id_country: Russia
+  - uid: '47433'
+    id_type: Passport
+    id_number: '753221719'
+    id_country: Russia
+    issue_date: 25 May 2016
+    expiration_date: 25 May 2026
+  - uid: '194795'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+  - uid: '194758'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '89211'
+    date_of_birth: 10 Dec 1996
+    main_entry: 'true'

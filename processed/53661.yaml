@@ -1,0 +1,37 @@
+---
+uid: '53661'
+last_name: JOINT STOCK COMPANY EAST SIBERIAN OIL AND GAS COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '83658'
+    type: a.k.a.
+    category: strong
+    last_name: AO VOSTSIBNEFTEGAZ
+  - uid: '83659'
+    type: a.k.a.
+    category: strong
+    last_name: JSC VOSTSIBNEFTEGAZ
+address_list:
+  items:
+  - uid: '81892'
+    address1: Pr-Kt Mira D. 36
+    city: Krasnoyarsk
+    postal_code: '660049'
+    country: Russia
+id_list:
+  items:
+  - uid: '46994'
+    id_type: Registration Number
+    id_number: '1028800000855'
+    id_country: Russia
+  - uid: '46995'
+    id_type: Tax ID No.
+    id_number: '7710007910'
+    id_country: Russia
+  - uid: '188505'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

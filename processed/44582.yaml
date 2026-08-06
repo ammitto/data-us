@@ -1,0 +1,59 @@
+---
+uid: '44582'
+first_name: Marianne
+last_name: HOAYEK
+sdn_type: Individual
+program_list:
+  programs:
+  - LEBANON
+aka_list:
+  items:
+  - uid: '68878'
+    type: a.k.a.
+    category: strong
+    last_name: HOUWAYEK
+    first_name: Marianne Hamid
+  - uid: '68879'
+    type: a.k.a.
+    category: strong
+    last_name: ANDRIANOPOULOS
+    first_name: Marianne Alexandros
+  - uid: '68951'
+    type: a.k.a.
+    category: strong
+    last_name: HOYEK
+    first_name: Marianne Hamid Gebrayel
+address_list:
+  items:
+  - uid: '66363'
+    city: Beirut
+    country: Lebanon
+id_list:
+  items:
+  - uid: '34084'
+    id_type: Passport
+    id_number: RL3598301
+    id_country: Lebanon
+    expiration_date: 11 Feb 2021
+  - uid: '34158'
+    id_type: Passport
+    id_number: LR1934306
+    id_country: Lebanon
+    expiration_date: 11 Nov 2030
+  - uid: '34159'
+    id_type: National ID No.
+    id_number: '000040732326'
+    id_country: Lebanon
+  - uid: '164582'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '64570'
+    date_of_birth: 14 May 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '64571'
+    place_of_birth: Faytroun, Lebanon
+    main_entry: 'true'

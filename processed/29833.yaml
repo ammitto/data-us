@@ -1,0 +1,35 @@
+---
+uid: '29833'
+first_name: Seyed Mohammad
+last_name: KALAMI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+address_list:
+  items:
+  - uid: '44957'
+    country: Iran
+id_list:
+  items:
+  - uid: '19947'
+    id_type: Passport
+    id_number: K27232571
+    id_country: Iran
+  - uid: '137016'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '136866'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '36865'
+    date_of_birth: 14 Jun 1989
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '36867'
+    place_of_birth: Kahnuj, Iran
+    main_entry: 'true'
+remarks: "(Linked To: IRANIAN MINISTRY OF INTELLIGENCE AND SECURITY)"

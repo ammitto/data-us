@@ -1,0 +1,38 @@
+---
+uid: '49468'
+last_name: LIMITED LIABILITY COMPANY KLIN GLASSWORKS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77163'
+    type: a.k.a.
+    category: weak
+    last_name: LLC KGW
+  - uid: '77164'
+    type: a.k.a.
+    category: strong
+    last_name: LLC AGC FLAT GLASS KLIN
+address_list:
+  items:
+  - uid: '74605'
+    address1: 36 Sosnovyy Bor Street
+    address2: Spas-Zaulok Village
+    city: Klin
+    postal_code: '141667'
+    country: Russia
+id_list:
+  items:
+  - uid: '40799'
+    id_type: Registration Number
+    id_number: '1035003950321'
+    id_country: Russia
+  - uid: '40800'
+    id_type: Tax ID No.
+    id_number: '5020033028'
+    id_country: Russia
+  - uid: '172551'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

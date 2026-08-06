@@ -1,0 +1,50 @@
+---
+uid: '34460'
+first_name: Volodymyr Mykolayovych
+last_name: OLIYNYK
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '53953'
+    type: a.k.a.
+    category: strong
+    last_name: OLEINIK
+    first_name: Vladimir Nikolayevich
+  - uid: '53966'
+    type: a.k.a.
+    category: strong
+    last_name: OLIINYK
+    first_name: Volodymyr
+address_list:
+  items:
+  - uid: '51611'
+    city: Moscow
+    country: Russia
+  - uid: '51612'
+    city: Yalta
+    state_or_province: Crimea
+    country: Ukraine
+id_list:
+  items:
+  - uid: '145812'
+    id_type: Gender
+    id_number: Male
+  - uid: '175122'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '145780'
+    id_type: Website
+    id_number: www.oleinik.win
+date_of_birth_list:
+  items:
+  - uid: '45777'
+    date_of_birth: 16 Apr 1957
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '45778'
+    place_of_birth: Ukraine
+    main_entry: 'true'

@@ -1,0 +1,38 @@
+---
+uid: '37801'
+last_name: AKTSIONERNOE OBSHCHESTVO SPETSIALNOE KONSTRUKTORSKOE BYURO VYCHISLITELNOI
+  TEKHNIKI
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59361'
+    type: a.k.a.
+    category: weak
+    last_name: AO SKB VT
+address_list:
+  items:
+  - uid: '56593'
+    address1: Ul. Maksima Gorkogo D. 1
+    city: Pskov
+    postal_code: '180007'
+    country: Russia
+id_list:
+  items:
+  - uid: '27104'
+    id_type: Registration Number
+    id_number: '1036000308937'
+    id_country: Russia
+  - uid: '27105'
+    id_type: Tax ID No.
+    id_number: '6027075580'
+    id_country: Russia
+  - uid: '173526'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '152810'
+    id_type: Organization Established Date
+    id_number: 11 Dec 1991
+remarks: "(Linked To: OPEN JOINT STOCK COMPANY RUSSIAN ELECTRONICS)"

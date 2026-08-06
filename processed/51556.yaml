@@ -1,0 +1,32 @@
+---
+uid: '51556'
+last_name: FRAKDZHET VOLGA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+address_list:
+  items:
+  - uid: '78565'
+    address1: Pr-Kt Fridrikha Engelsa D. 207
+    city: Engels
+    postal_code: '413111'
+    country: Russia
+id_list:
+  items:
+  - uid: '43991'
+    id_type: Registration Number
+    id_number: '1076432002680'
+    id_country: Russia
+  - uid: '43992'
+    id_type: Tax ID No.
+    id_number: '6432005462'
+    id_country: Russia
+  - uid: '181234'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183397'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

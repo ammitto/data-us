@@ -1,0 +1,58 @@
+---
+uid: '50695'
+first_name: Yahya Hosseini
+last_name: PANJAKI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+aka_list:
+  items:
+  - uid: '79318'
+    type: a.k.a.
+    category: strong
+    last_name: HAMIDI
+    first_name: Yahya
+  - uid: '79319'
+    type: a.k.a.
+    category: strong
+    last_name: PANJAKI
+    first_name: Yahya Husseini
+  - uid: '79320'
+    type: a.k.a.
+    category: strong
+    last_name: HAMIDI
+    first_name: Seyed Yahya
+  - uid: '79321'
+    type: a.k.a.
+    category: strong
+    last_name: PANJAKI
+    first_name: Seyed Yahya Hosseiny
+address_list:
+  items:
+  - uid: '76892'
+    country: Iran
+id_list:
+  items:
+  - uid: '42544'
+    id_type: Passport
+    id_number: T56344199
+    id_country: Iran
+    expiration_date: 30 Mar 2027
+  - uid: '179247'
+    id_type: Gender
+    id_number: Male
+  - uid: '179288'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '79301'
+    date_of_birth: 23 Jan 1975
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '79287'
+    place_of_birth: Karaj, Iran
+    main_entry: 'true'
+remarks: "(Linked To: IRANIAN MINISTRY OF INTELLIGENCE AND SECURITY)"

@@ -1,0 +1,35 @@
+---
+uid: '29422'
+last_name: ZAGROS PETROCHEMICAL
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13846
+aka_list:
+  items:
+  - uid: '46423'
+    type: a.k.a.
+    category: weak
+    last_name: ZPC
+address_list:
+  items:
+  - uid: '44646'
+    address1: North Sheikh Bahaie Avenue Sheida Alley
+    address2: Khoddami Street
+    address3: Vanak Square
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '19627'
+    id_type: Chamber of Commerce Number
+    id_number: '2869'
+    id_country: Iran
+  - uid: '19628'
+    id_type: Registration Number
+    id_number: '148344'
+    id_country: Iran
+  - uid: '136600'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: TRILIANCE PETROCHEMICAL CO. LTD.)"

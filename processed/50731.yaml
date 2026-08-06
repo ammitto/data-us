@@ -1,0 +1,51 @@
+---
+uid: '50731'
+last_name: FEDERAL STATE BUDGETARY INSTITUTION RUSSIAN ACADEMY OF ROCKET AND ARTILLERY
+  SCIENCES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79400'
+    type: a.k.a.
+    category: strong
+    last_name: FGBU RARAN
+  - uid: '79402'
+    type: a.k.a.
+    category: strong
+    last_name: FEDERAL STATE BUDGETARY INSTITUTION RUSSIAN ACADEMY OF MISSILE AND
+      ARTILLERY SCIENCES
+  - uid: '79403'
+    type: a.k.a.
+    category: strong
+    last_name: RUSSIAN ACADEMY OF MISSILE AND AMMUNITION SCIENCES
+  - uid: '79779'
+    type: a.k.a.
+    category: weak
+    last_name: RAMAS
+address_list:
+  items:
+  - uid: '76936'
+    address1: 1-YA Myasnikovskaya Ul.
+    address2: VL 3
+    city: Moscow
+    postal_code: '107564'
+    country: Russia
+id_list:
+  items:
+  - uid: '42596'
+    id_type: Registration Number
+    id_number: '1037743041027'
+    id_country: Russia
+  - uid: '42597'
+    id_type: Tax ID No.
+    id_number: '7712086681'
+    id_country: Russia
+  - uid: '179350'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '179349'
+    id_type: Organization Established Date
+    id_number: 06 May 1996

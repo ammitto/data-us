@@ -1,0 +1,36 @@
+---
+uid: '26411'
+first_name: Lucas Daniel
+last_name: PAURA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '40136'
+    city: Buenos Aires
+    country: Argentina
+id_list:
+  items:
+  - uid: '17131'
+    id_type: D.N.I.
+    id_number: '33533978'
+    id_country: Argentina
+  - uid: '17132'
+    id_type: Passport
+    id_number: 33533978N
+    id_country: Argentina
+  - uid: '130970'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '30968'
+    date_of_birth: 04 Jan 1988
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '30969'
+    place_of_birth: Buenos Aires, Argentina
+    main_entry: 'true'

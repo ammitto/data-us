@@ -1,0 +1,37 @@
+---
+uid: '40769'
+first_name: Vitaly Nikolayevich
+last_name: KOVALEV
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+aka_list:
+  items:
+  - uid: '63386'
+    type: a.k.a.
+    category: strong
+    last_name: KOVALEV
+    first_name: Vitaliy
+  - uid: '63387'
+    type: a.k.a.
+    category: weak
+    last_name: Bentley
+  - uid: '63388'
+    type: a.k.a.
+    category: weak
+    last_name: Ben
+address_list:
+  items:
+  - uid: '60757'
+    country: Russia
+id_list:
+  items:
+  - uid: '158259'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '58258'
+    date_of_birth: 23 Jun 1988
+    main_entry: 'true'

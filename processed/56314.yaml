@@ -1,0 +1,35 @@
+---
+uid: '56314'
+first_name: Ramiz
+last_name: HYSA
+sdn_type: Individual
+program_list:
+  programs:
+  - TCO
+address_list:
+  items:
+  - uid: '86177'
+    city: Rosarito
+    state_or_province: Baja California
+    country: Mexico
+id_list:
+  items:
+  - uid: '50341'
+    id_type: Passport
+    id_number: BC5006114
+    id_country: Albania
+    expiration_date: 05 Oct 2026
+  - uid: '194453'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '94450'
+    date_of_birth: '08 Sep 1962'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '94451'
+    place_of_birth: Belsh, Albania
+    main_entry: 'true'
+remarks: "(Linked To: HYSA ORGANIZED CRIME GROUP)"

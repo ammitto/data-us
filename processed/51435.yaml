@@ -1,0 +1,36 @@
+---
+uid: '51435'
+last_name: JOINT STOCK COMPANY INDUSTRIA REESTR
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80655'
+    type: a.k.a.
+    category: strong
+    last_name: AO INDUSTRIYA REESTR
+address_list:
+  items:
+  - uid: '78349'
+    address1: Ul. Khromova D. 1
+    city: Moscow
+    postal_code: '107601'
+    country: Russia
+id_list:
+  items:
+  - uid: '43761'
+    id_type: Registration Number
+    id_number: '1023301289153'
+    id_country: Russia
+  - uid: '43762'
+    id_type: Tax ID No.
+    id_number: '3302021034'
+    id_country: Russia
+  - uid: '182805'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '180949'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

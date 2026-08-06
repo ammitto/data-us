@@ -1,0 +1,24 @@
+---
+uid: '12575'
+first_name: Remzi
+last_name: KARTAL
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+id_list:
+  items:
+  - uid: '7063'
+    id_type: Turkish Identification Number
+    id_number: '10298480866'
+    id_country: Turkey
+date_of_birth_list:
+  items:
+  - uid: '8306'
+    date_of_birth: 05 May 1948
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '8307'
+    place_of_birth: Van, Dibekozu, Turkey
+    main_entry: 'true'

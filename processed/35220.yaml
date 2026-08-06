@@ -1,0 +1,30 @@
+---
+uid: '35220'
+first_name: Vladimir Ivanovich
+last_name: BULAVIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '52912'
+    country: Russia
+id_list:
+  items:
+  - uid: '147307'
+    id_type: Gender
+    id_number: Male
+  - uid: '175292'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '47303'
+    date_of_birth: 11 Feb 1953
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '47305'
+    place_of_birth: Lipetsk Oblast, Russia
+    main_entry: 'true'

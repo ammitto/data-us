@@ -1,0 +1,33 @@
+---
+uid: '34988'
+last_name: OROFINO NV
+sdn_type: Entity
+program_list:
+  programs:
+  - DRCONGO
+aka_list:
+  items:
+  - uid: '55576'
+    type: a.k.a.
+    category: weak
+    last_name: OROFINO
+address_list:
+  items:
+  - uid: '53094'
+    address1: Jacob Jacobsstraat 56
+    city: Antwerp
+    postal_code: '2018'
+    country: Belgium
+id_list:
+  items:
+  - uid: '25024'
+    id_type: Enterprise Number
+    id_number: '0892529761'
+    id_country: Belgium
+  - uid: '146551'
+    id_type: 'Organization Type:'
+    id_number: Activities of holding companies
+  - uid: '146552'
+    id_type: Target Type
+    id_number: Public Company
+remarks: "(Linked To: GOETZ, Alain Francois Viviane)"

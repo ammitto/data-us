@@ -1,0 +1,39 @@
+---
+uid: '37861'
+last_name: GTLK EUROPE DESIGNATED ACTIVITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59505'
+    type: a.k.a.
+    category: strong
+    last_name: GTLK EUROPE DAC
+  - uid: '59506'
+    type: a.k.a.
+    category: weak
+    last_name: GTLKE
+address_list:
+  items:
+  - uid: '56744'
+    address1: 2nd Floor, 2 Hume Street
+    city: Dublin
+    postal_code: '2'
+    country: Ireland
+  - uid: '56745'
+    address1: 9 Pembroke Street Upper
+    city: Dublin
+    postal_code: '2'
+    country: Ireland
+id_list:
+  items:
+  - uid: '27164'
+    id_type: Registration Number
+    id_number: '512927'
+    id_country: Ireland
+  - uid: '176878'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: JOINT STOCK COMPANY STATE TRANSPORTATION LEASING COMPANY)"

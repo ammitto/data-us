@@ -1,0 +1,37 @@
+---
+uid: '33253'
+first_name: Mohammad Ali
+last_name: DAMIRCHILU
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '49926'
+    address1: 19 Beharistan Alley, No. 9, Unit 10
+    address2: North Jannat Abad
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '22993'
+    id_type: National ID No.
+    id_number: '0014634945'
+    id_country: Iran
+  - uid: '187353'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '143151'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '143150'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '43149'
+    date_of_birth: 24 May 1992
+    main_entry: 'true'
+remarks: "(Linked To: QASIR, Ali)"

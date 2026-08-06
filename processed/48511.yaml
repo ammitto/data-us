@@ -1,0 +1,38 @@
+---
+uid: '48511'
+last_name: LIMITED LIABILITY COMPANY LENCABEL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75392'
+    type: a.k.a.
+    category: strong
+    last_name: LENKABEL
+  - uid: '75393'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOY OTVETSTVENNOSTYU LENCABEL
+address_list:
+  items:
+  - uid: '72797'
+    address1: Ul. Samoilovoi D. 5, Lit. I, Pomeshch. 11N
+    address2: Office 31-32
+    city: Saint Petersburg
+    postal_code: '192102'
+    country: Russia
+id_list:
+  items:
+  - uid: '39433'
+    id_type: Registration Number
+    id_number: '1167847387366'
+    id_country: Russia
+  - uid: '39434'
+    id_type: Tax ID No.
+    id_number: '7816339601'
+    id_country: Russia
+  - uid: '171238'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,63 @@
+---
+uid: '36432'
+last_name: PUBLIC JOINT STOCK COMPANY TAGANROG AVIATION SCIENTIFIC-TECHNICAL COMPLEX
+  N.A. G.M. BERIEV
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '57423'
+    type: a.k.a.
+    category: strong
+    last_name: PUBLICHNOE AKTSIONERNOE OBSHCHESTVO TAGANROGSKI AVIATSIONNY NAUCHNO
+      TEKHNICHESKI KOMPLEKS IM. G.M. BERIEVA
+  - uid: '57424'
+    type: a.k.a.
+    category: strong
+    last_name: PJSC TAGANROG AVIATION SCIENTIFIC-TECHNICAL COMPLEX N.A. G.M. BERIEV
+  - uid: '57425'
+    type: a.k.a.
+    category: strong
+    last_name: TANTK IM.G.M. BERIEVA PAO
+  - uid: '57426'
+    type: a.k.a.
+    category: strong
+    last_name: PJSC TASTC N.A. G. M. BERIEV
+  - uid: '57427'
+    type: a.k.a.
+    category: strong
+    last_name: BERIEV AIRCRAFT COMPANY
+  - uid: '57428'
+    type: f.k.a.
+    category: strong
+    last_name: TAGANROGSKI AVIATSIONNY NAUCHNO-TEKHNICHESKI KOMPLEKS IM. G.M. BERIEVA
+      PAO
+address_list:
+  items:
+  - uid: '54744'
+    address1: d. 1, pl. Aviatorov
+    city: Taganrog
+    state_or_province: Rostovskaya Oblast
+    postal_code: '347923'
+    country: Russia
+id_list:
+  items:
+  - uid: '25845'
+    id_type: Tax ID No.
+    id_number: '6154028021'
+    id_country: Russia
+  - uid: '25846'
+    id_type: Registration Number
+    id_number: '1026102571065'
+    id_country: Russia
+  - uid: '150117'
+    id_type: Organization Established Date
+    id_number: 13 Jul 1994
+  - uid: '174212'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '150137'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

@@ -1,0 +1,43 @@
+---
+uid: '56337'
+first_name: Noe Manases
+last_name: APONTE CORDOVA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+  - TCO
+aka_list:
+  items:
+  - uid: '87392'
+    type: a.k.a.
+    category: weak
+    last_name: El Noe
+address_list:
+  items:
+  - uid: '86388'
+    country: Venezuela
+id_list:
+  items:
+  - uid: '50509'
+    id_type: Cedula No.
+    id_number: '19554865'
+    id_country: Venezuela
+  - uid: '194735'
+    id_type: Gender
+    id_number: Male
+  - uid: '194891'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '94504'
+    date_of_birth: 30 May 1988
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '94862'
+    place_of_birth: Venezuela
+    main_entry: 'true'
+remarks: "(Linked To: TREN DE ARAGUA)"

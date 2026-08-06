@@ -1,0 +1,38 @@
+---
+uid: '36411'
+last_name: JOINT STOCK COMPANY LOYALTY PROGRAMS CENTER
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '57352'
+    type: a.k.a.
+    category: strong
+    last_name: LPC JSC
+  - uid: '57353'
+    type: a.k.a.
+    category: strong
+    last_name: CENTRE OF LOYALTY PROGRAMMES
+address_list:
+  items:
+  - uid: '54697'
+    address1: 3 Poklonnaya St., floor 3, office 120
+    city: Moscow
+    postal_code: '121170'
+    country: Russia
+id_list:
+  items:
+  - uid: '25804'
+    id_type: Registration Number
+    id_number: '1117746689840'
+    id_country: Russia
+  - uid: '25805'
+    id_type: Tax ID No.
+    id_number: '7702770003'
+    id_country: Russia
+  - uid: '174197'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)"

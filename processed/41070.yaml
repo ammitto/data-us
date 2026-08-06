@@ -1,0 +1,50 @@
+---
+uid: '41070'
+first_name: Sergei Anatolyevich
+last_name: OVCHINNIKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '64044'
+    type: a.k.a.
+    category: strong
+    last_name: OVCHINNIKOV
+    first_name: Sergej Anatolevich
+address_list:
+  items:
+  - uid: '61380'
+    address1: 22-64 Okrugnoi Street, Unit 137
+    city: Moscow
+    state_or_province: Moscow Region
+    postal_code: '105187'
+    country: Russia
+id_list:
+  items:
+  - uid: '30404'
+    id_type: Passport
+    id_number: '727074364'
+    id_country: Russia
+  - uid: '30405'
+    id_type: Tax ID No.
+    id_number: '771906624236'
+    id_country: Russia
+  - uid: '173601'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '158966'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '58961'
+    date_of_birth: 20 Jan 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '58964'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'
+remarks: "(Linked To: CLOSED JOINT STOCK COMPANY NORSI TRANS)"

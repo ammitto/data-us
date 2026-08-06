@@ -1,0 +1,43 @@
+---
+uid: '48941'
+last_name: JOINT STOCK COMPANY CONCERN URALVAGONZAVOD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76257'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO KONTSERN URALVAGONZAVOD
+  - uid: '76258'
+    type: a.k.a.
+    category: strong
+    last_name: AO KONTSERN URALVAGONZAVOD
+address_list:
+  items:
+  - uid: '73604'
+    address1: 40 Bolshaya Yakimanka Street
+    city: Moscow
+    postal_code: '119049'
+    country: Russia
+id_list:
+  items:
+  - uid: '40024'
+    id_type: Tax ID No.
+    id_number: '7706453206'
+    id_country: Russia
+  - uid: '40025'
+    id_type: Registration Number
+    id_number: '1187746432345'
+    id_country: Russia
+  - uid: '171685'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '172442'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
+  - uid: '171686'
+    id_type: Organization Established Date
+    id_number: 24 Apr 2018

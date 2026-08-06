@@ -1,0 +1,36 @@
+---
+uid: '51437'
+last_name: JOINT STOCK COMPANY REGISTRATOR INTRACO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80659'
+    type: a.k.a.
+    category: strong
+    last_name: AO REGISTRATOR INTRAKO
+address_list:
+  items:
+  - uid: '78353'
+    address1: Ul. Lenina 64
+    city: Perm
+    postal_code: '614990'
+    country: Russia
+id_list:
+  items:
+  - uid: '43765'
+    id_type: Registration Number
+    id_number: '1025900763063'
+    id_country: Russia
+  - uid: '43766'
+    id_type: Tax ID No.
+    id_number: '5903027161'
+    id_country: Russia
+  - uid: '182806'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '180951'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

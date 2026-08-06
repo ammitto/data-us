@@ -1,0 +1,38 @@
+---
+uid: '39200'
+first_name: Anton Robertovich
+last_name: TITSKIY
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '58373'
+    state_or_province: Zaporizhzhia region
+    country: Ukraine
+id_list:
+  items:
+  - uid: '28439'
+    id_type: Tax ID No.
+    id_number: '920457712830'
+    id_country: Russia
+  - uid: '174759'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '154969'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '54966'
+    date_of_birth: 12 Feb 1990
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '54967'
+    place_of_birth: Sevastopol, Ukraine
+    main_entry: 'true'
+  - uid: '54968'
+    place_of_birth: Volgograd, Russia
+    main_entry: 'false'

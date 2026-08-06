@@ -1,0 +1,66 @@
+---
+uid: '43436'
+first_name: Jingping
+last_name: LIU
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+aka_list:
+  items:
+  - uid: '75589'
+    type: a.k.a.
+    category: strong
+    last_name: TAYLOR
+    first_name: Jina
+address_list:
+  items:
+  - uid: '64827'
+    address1: '21 Angullia Park #27-03'
+    city: Singapore
+    postal_code: '239974'
+    country: Singapore
+  - uid: '64828'
+    address1: 98/273 31H2 Reflection Jomtien Beach
+    address2: Pattaya Condo Na Jomtien Sattahip
+    state_or_province: Chonburi
+    postal_code: '20250'
+    country: Thailand
+  - uid: '64829'
+    address1: 8-102 Baihewan Tongzhou District
+    city: Beijing
+    country: China
+  - uid: '64830'
+    address1: Tong Zhou Qu K2 Bai He Wan 8 Hao Lou 102
+    city: Beijing
+    postal_code: '100000'
+    country: China
+id_list:
+  items:
+  - uid: '33036'
+    id_type: National ID No.
+    id_number: '110108196507116061'
+    id_country: China
+  - uid: '33037'
+    id_type: Passport
+    id_number: EA98197210
+    id_country: China
+  - uid: '39586'
+    id_type: Passport
+    id_number: RE0124671
+    id_country: Saint Kitts and Nevis
+    issue_date: 13 May 2022
+    expiration_date: 12 May 2032
+  - uid: '162900'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '62898'
+    date_of_birth: 11 Jul 1965
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '62899'
+    place_of_birth: Hunan, China
+    main_entry: 'true'

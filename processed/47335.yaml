@@ -1,0 +1,40 @@
+---
+uid: '47335'
+last_name: GEO HIT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73145'
+    type: a.k.a.
+    category: weak
+    last_name: GEO KHIT
+  - uid: '73146'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU GEO KHIT
+address_list:
+  items:
+  - uid: '70533'
+    address1: Pl. Sovetsko-Chekhoslovatskoi Druzhby
+    city: Saratov
+    postal_code: '410059'
+    country: Russia
+id_list:
+  items:
+  - uid: '37661'
+    id_type: Registration Number
+    id_number: '1086451002890'
+    id_country: Russia
+  - uid: '37662'
+    id_type: Tax ID No.
+    id_number: '6451422711'
+    id_country: Russia
+  - uid: '170056'
+    id_type: 'Organization Type:'
+    id_number: Maintenance and repair of motor vehicles
+  - uid: '169798'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

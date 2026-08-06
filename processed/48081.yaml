@@ -1,0 +1,51 @@
+---
+uid: '48081'
+first_name: Jesus Manuel
+last_name: LEON VALDEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '74673'
+    type: a.k.a.
+    category: weak
+    last_name: Guero de Las Trancas
+  - uid: '74674'
+    type: a.k.a.
+    category: weak
+    last_name: El Guero de Las Trancas
+  - uid: '74675'
+    type: a.k.a.
+    category: weak
+    last_name: Guero Trancas
+  - uid: '74676'
+    type: a.k.a.
+    category: weak
+    last_name: El Guero Trancas
+address_list:
+  items:
+  - uid: '72104'
+    city: Las Trancas, Tamazula
+    state_or_province: Durango
+    country: Mexico
+id_list:
+  items:
+  - uid: '38971'
+    id_type: C.U.R.P.
+    id_number: LEVJ770508HDGNLS02
+    id_country: Mexico
+  - uid: '169980'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '69977'
+    date_of_birth: '08 May 1977'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '69978'
+    place_of_birth: Durango, Mexico
+    main_entry: 'true'

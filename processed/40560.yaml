@@ -1,0 +1,22 @@
+---
+uid: '40560'
+last_name: ANATTA
+sdn_type: Vessel
+program_list:
+  programs:
+  - RUSSIA-EO14024
+id_list:
+  items:
+  - uid: '29703'
+    id_type: MMSI
+    id_number: '319025900'
+  - uid: '29704'
+    id_type: Vessel Registration Identification
+    id_number: IMO 1011159
+  - uid: '157816'
+    id_type: Vessel Year of Build
+    id_number: '2011'
+  - uid: '174111'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: ADONEV, Sergei Nikolaevich)"

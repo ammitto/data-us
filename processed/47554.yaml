@@ -1,0 +1,44 @@
+---
+uid: '47554'
+last_name: NAUCHNO TEKHNICHESKII TSENTR MODUL INNOVATSII
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73620'
+    type: a.k.a.
+    category: strong
+    last_name: NTTS MODUL INNOVATSII
+  - uid: '73622'
+    type: a.k.a.
+    category: strong
+    last_name: NAUCHNO TEKHNICHESKI TSENTR MODUL URAL OOO
+address_list:
+  items:
+  - uid: '71009'
+    address1: Ul. Mamina-Sibiryaka Dom 58
+    address2: Office 801
+    city: Yekaterinburg
+    postal_code: '620075'
+    country: Russia
+  - uid: '71010'
+    address1: Ul. 8 Marta D. 70
+    address2: Office 234
+    city: Yekaterinburg
+    postal_code: '620063'
+    country: Russia
+id_list:
+  items:
+  - uid: '38072'
+    id_type: Registration Number
+    id_number: '1146671012861'
+    id_country: Russia
+  - uid: '38073'
+    id_type: Tax ID No.
+    id_number: '6671452454'
+    id_country: Russia
+  - uid: '169912'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

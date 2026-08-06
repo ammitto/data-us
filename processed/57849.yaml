@@ -1,0 +1,46 @@
+---
+uid: '57849'
+first_name: Ho Ming
+last_name: HO
+sdn_type: Individual
+program_list:
+  programs:
+  - TCO
+aka_list:
+  items:
+  - uid: '89475'
+    type: a.k.a.
+    category: weak
+    last_name: HO, Henry
+address_list:
+  items:
+  - uid: '88727'
+    address1: New Territories
+    city: Hong Kong
+    country: China
+id_list:
+  items:
+  - uid: '52344'
+    id_type: Passport
+    id_number: H20638289
+    id_country: Hong Kong
+    issue_date: 02 Feb 2021
+    expiration_date: 02 Feb 2031
+  - uid: '52345'
+    id_type: National ID No.
+    id_number: Z938075
+    id_country: Hong Kong
+  - uid: '198499'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '98500'
+    date_of_birth: 31 Oct 1988
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '98501'
+    place_of_birth: Hong Kong
+    main_entry: 'true'
+remarks: "(Linked To: HU, Xiaowei)"

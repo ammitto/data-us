@@ -1,0 +1,48 @@
+---
+uid: '35346'
+last_name: JSC CENTRAL RESEARCH INSTITUTE OF AUTOMATION AND HYDRAULICS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '55673'
+    type: a.k.a.
+    category: strong
+    last_name: FEDERAL RESEARCH AND PRODUCTION CENTER CENTRAL RESEARCH INSTITUTE OF
+      AUTOMATION AND HYDRAULICS
+  - uid: '55675'
+    type: a.k.a.
+    category: strong
+    last_name: CENTRAL SCIENTIFIC RESEARCH INSTITUTE OF AUTOMATION AND HYDRAULICS
+  - uid: '55678'
+    type: a.k.a.
+    category: strong
+    last_name: TSNIIAG
+  - uid: '55681'
+    type: a.k.a.
+    category: strong
+    last_name: TSENTRALNYY NAUCHNOISSLEDOVATELSKIY INSTITUT AVTOMATIKI I GIDRAVLIKI
+address_list:
+  items:
+  - uid: '53159'
+    address1: 5 Sovetskoy Armii St.
+    city: Moscow
+    postal_code: '127018'
+    country: Russia
+id_list:
+  items:
+  - uid: '25059'
+    id_type: Tax ID No.
+    id_number: '7715900066'
+    id_country: Russia
+  - uid: '147628'
+    id_type: Organization Established Date
+    id_number: 23 Jan 2012
+  - uid: '147626'
+    id_type: Website
+    id_number: https://cniiag.ru
+  - uid: '176735'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

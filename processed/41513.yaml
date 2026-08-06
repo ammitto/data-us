@@ -1,0 +1,32 @@
+---
+uid: '41513'
+last_name: GKR OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '61988'
+    address1: ul. Dmitrovka M. d. 18A
+    address2: str. 3, floor 3 office 1
+    city: Moscow
+    postal_code: '127006'
+    country: Russia
+id_list:
+  items:
+  - uid: '30858'
+    id_type: Registration Number
+    id_number: '1147746723288'
+    id_country: Russia
+  - uid: '30859'
+    id_type: Tax ID No.
+    id_number: '7702840557'
+    id_country: Russia
+  - uid: '159636'
+    id_type: Organization Established Date
+    id_number: 27 Jun 2014
+  - uid: '173686'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: VINER, Natan Adadievich)"

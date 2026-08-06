@@ -1,0 +1,37 @@
+---
+uid: '48744'
+last_name: NAUCHNO INZHENERNOE PREDPRIYATIE INFORMATIKA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75869'
+    type: a.k.a.
+    category: strong
+    last_name: NIP INFORMATIKA
+  - uid: '75870'
+    type: a.k.a.
+    category: strong
+    last_name: NIP INFORMATICA
+address_list:
+  items:
+  - uid: '73267'
+    address1: Ul. Fuchika D. 4, Lit K
+    city: Saint Petersburg
+    postal_code: '192102'
+    country: Russia
+id_list:
+  items:
+  - uid: '39780'
+    id_type: Registration Number
+    id_number: '1027804862040'
+    id_country: Russia
+  - uid: '39781'
+    id_type: Tax ID No.
+    id_number: '7810182337'
+    id_country: Russia
+  - uid: '171261'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,35 @@
+---
+uid: '38038'
+last_name: VH ANTIBES SAS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '57010'
+    address1: 200 Impasse Felix
+    city: Antibes
+    postal_code: '06160'
+    country: France
+  - uid: '57011'
+    address1: 19 Boulevard Malesherbes
+    city: Paris
+    postal_code: '75008'
+    country: France
+id_list:
+  items:
+  - uid: '27341'
+    id_type: Registration Number
+    id_number: '504317025'
+    id_country: France
+  - uid: '153314'
+    id_type: 'Organization Type:'
+    id_number: Real estate activities with own or leased property
+  - uid: '174623'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '153313'
+    id_type: Organization Established Date
+    id_number: 15 May 2008
+remarks: "(Linked To: KERIMOVA, Gulnara Suleymanovna)"

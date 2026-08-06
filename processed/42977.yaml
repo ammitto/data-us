@@ -1,0 +1,29 @@
+---
+uid: '42977'
+first_name: Edwin Onno
+last_name: VAN INGEN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '64106'
+    country: Netherlands
+id_list:
+  items:
+  - uid: '32557'
+    id_type: Passport
+    id_number: NWR0J8669
+    id_country: Netherlands
+  - uid: '161850'
+    id_type: Gender
+    id_number: Male
+  - uid: '175493'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '61852'
+    date_of_birth: 17 Aug 1964
+    main_entry: 'true'

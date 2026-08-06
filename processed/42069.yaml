@@ -1,0 +1,38 @@
+---
+uid: '42069'
+last_name: RUSATOM OVERSEAS JOINT STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65397'
+    type: a.k.a.
+    category: strong
+    last_name: RUSATOM OVERSEAS JSC
+  - uid: '65398'
+    type: a.k.a.
+    category: weak
+    last_name: RAOS JSC
+  - uid: '65399'
+    type: a.k.a.
+    category: strong
+    last_name: JSC RUSATOM OVERSIZ
+address_list:
+  items:
+  - uid: '62801'
+    address1: Simonov Plaza Business Centre, Leninskaya Sloboda Str. 26
+    address2: building 5
+    city: Moscow
+    postal_code: '115280'
+    country: Russia
+id_list:
+  items:
+  - uid: '31515'
+    id_type: Tax ID No.
+    id_number: '7725413350'
+    id_country: Russia
+  - uid: '175386'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,30 @@
+---
+uid: '30208'
+last_name: COASTAL REFINERY COMPANY PRIVATE JSC
+sdn_type: Entity
+program_list:
+  programs:
+  - PAARSSR-EO13894
+aka_list:
+  items:
+  - uid: '47332'
+    type: a.k.a.
+    category: strong
+    last_name: COAST REFINERY COMPANY
+  - uid: '47333'
+    type: a.k.a.
+    category: strong
+    last_name: AL-SAHEL REFINERY COMPANY
+address_list:
+  items:
+  - uid: '45604'
+    city: Tartous
+    country: Syria
+id_list:
+  items:
+  - uid: '137598'
+    id_type: 'Organization Type:'
+    id_number: Manufacture of refined petroleum products
+  - uid: '137597'
+    id_type: Organization Established Date
+    id_number: '09 Feb 2020'

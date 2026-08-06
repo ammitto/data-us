@@ -1,0 +1,41 @@
+---
+uid: '30686'
+first_name: Serhat
+last_name: GENCOGLU
+sdn_type: Individual
+program_list:
+  programs:
+  - CAATSA - RUSSIA
+id_list:
+  items:
+  - uid: '20792'
+    id_type: Passport
+    id_number: S01001544
+    id_country: Turkey
+    expiration_date: 28 Mar 2018
+  - uid: '138551'
+    id_type: 'CAATSA Section 235 Information:'
+    id_number: SANCTIONS ON PRINCIPAL EXECUTIVE OFFICERS. Sec 235(a)(12)
+  - uid: '138552'
+    id_type: 'CAATSA Section 235 Information:'
+    id_number: BLOCKING PROPERTY AND INTERESTS IN PROPERTY. Sec 235(a)(9)
+  - uid: '138553'
+    id_type: 'CAATSA Section 235 Information:'
+    id_number: FOREIGN EXCHANGE. Sec 235(a)(7)
+  - uid: '138554'
+    id_type: 'CAATSA Section 235 Information:'
+    id_number: BANKING TRANSACTIONS. Sec 235(a)(8)
+  - uid: '138555'
+    id_type: 'CAATSA Section 235 Information:'
+    id_number: EXCLUSION OF CORPORATE OFFICERS. Sec 235(a)(11)
+date_of_birth_list:
+  items:
+  - uid: '38563'
+    date_of_birth: 29 Oct 1970
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '38564'
+    place_of_birth: Turkey
+    main_entry: 'true'
+remarks: "(Linked To: PRESIDENCY OF DEFENSE INDUSTRIES)"

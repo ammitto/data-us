@@ -1,0 +1,39 @@
+---
+uid: '37256'
+first_name: Jose Arnoldo
+last_name: MORGAN HUERTA
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '58387'
+    type: a.k.a.
+    category: weak
+    last_name: Chachio
+address_list:
+  items:
+  - uid: '55704'
+    city: Nogales
+    state_or_province: Sonora
+    country: Mexico
+id_list:
+  items:
+  - uid: '26542'
+    id_type: C.U.R.P.
+    id_number: MOHA720319HSRRRR06
+    id_country: Mexico
+  - uid: '151736'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '51733'
+    date_of_birth: 19 Mar 1972
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '51734'
+    place_of_birth: Sonora, Mexico
+    main_entry: 'true'

@@ -1,0 +1,43 @@
+---
+uid: '23245'
+last_name: VESNA HOTEL AND SPA
+sdn_type: Entity
+program_list:
+  programs:
+  - TCO
+aka_list:
+  items:
+  - uid: '36649'
+    type: a.k.a.
+    category: strong
+    last_name: ZAO SPA-OTEL VESNA
+  - uid: '36650'
+    type: f.k.a.
+    category: strong
+    last_name: OAO KOTEHK VESNA
+address_list:
+  items:
+  - uid: '35179'
+    address1: Ul. Lenina
+    address2: D. 219A
+    city: Sochi
+    postal_code: '354364'
+    country: Russia
+id_list:
+  items:
+  - uid: '14724'
+    id_type: Registration ID
+    id_number: '1022302715214'
+    id_country: Russia
+  - uid: '14725'
+    id_type: Tax ID No.
+    id_number: '2317011051'
+    id_country: Russia
+  - uid: '14726'
+    id_type: Tax ID No.
+    id_number: '231701001'
+    id_country: Russia
+  - uid: '14727'
+    id_type: Identification Number
+    id_number: '04816460'
+    id_country: Russia

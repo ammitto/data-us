@@ -1,0 +1,46 @@
+---
+uid: '48880'
+last_name: JOINT STOCK COMPANY RAZREZ KOLYVANSKIY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '76149'
+    type: a.k.a.
+    category: strong
+    last_name: JSC SIBERIAN ANTHRACITE
+  - uid: '76151'
+    type: a.k.a.
+    category: strong
+    last_name: AO SIBANTRATSIT
+  - uid: '76152'
+    type: a.k.a.
+    category: strong
+    last_name: SIBANTHRACITE JSC
+address_list:
+  items:
+  - uid: '73523'
+    address1: ul. Sovetskaya d. 2A Pos.
+    city: Litvyanski
+    postal_code: '633224'
+    country: Russia
+id_list:
+  items:
+  - uid: '39955'
+    id_type: Registration Number
+    id_number: '1025404670620'
+    id_country: Russia
+  - uid: '39956'
+    id_type: Tax ID No.
+    id_number: '5406192366'
+    id_country: Russia
+  - uid: '176655'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184401'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

@@ -1,0 +1,34 @@
+---
+uid: '50402'
+last_name: LIMITED LIABILITY COMPANY EPLEKS GRUPP
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78780'
+    type: a.k.a.
+    category: strong
+    last_name: APLEX GROUP LIMITED LIABILITY COMPANY
+address_list:
+  items:
+  - uid: '76414'
+    address1: Pomeshch. 302, D. 26B, Ul. Sverdlova
+    city: Novaya Balakhna
+    postal_code: '606403'
+    country: Russia
+id_list:
+  items:
+  - uid: '42179'
+    id_type: Registration Number
+    id_number: '1215200020837'
+    id_country: Russia
+  - uid: '42180'
+    id_type: Tax ID No.
+    id_number: '5248044066'
+    id_country: Russia
+  - uid: '178375'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: LIMITED LIABILITY COMPANY MEZHREGIONSTROY)"

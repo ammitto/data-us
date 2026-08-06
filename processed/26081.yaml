@@ -1,0 +1,44 @@
+---
+uid: '26081'
+first_name: Mansour Othman M.
+last_name: ABAHUSSAIN
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '41048'
+    type: a.k.a.
+    category: strong
+    last_name: HUSSEIN
+    first_name: Mansour Othman Aba
+  - uid: '41049'
+    type: a.k.a.
+    category: strong
+    last_name: ABAHUSEYIN
+    first_name: Mansur Othman M
+id_list:
+  items:
+  - uid: '16765'
+    id_type: Passport
+    id_number: S059033
+    id_country: Saudi Arabia
+    issue_date: 22 Feb 2016
+    expiration_date: 28 Dec 2020
+  - uid: '130351'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '30347'
+    date_of_birth: 11 Aug 1972
+    main_entry: 'true'
+  - uid: '30349'
+    date_of_birth: 10 Aug 1972
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '30348'
+    place_of_birth: Majmaa, Saudi Arabia
+    main_entry: 'true'

@@ -1,0 +1,157 @@
+---
+uid: '12184'
+first_name: Alejandro
+last_name: FLORES CACHO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '13120'
+    type: a.k.a.
+    category: strong
+    last_name: CACHO FLORES
+    first_name: Alejandro
+  - uid: '13121'
+    type: a.k.a.
+    category: strong
+    last_name: BOLANOS CACHO
+    first_name: Alejandro
+  - uid: '13122'
+    type: a.k.a.
+    category: strong
+    last_name: ROBLES VALDEZ
+    first_name: Abel
+  - uid: '13123'
+    type: a.k.a.
+    category: weak
+    last_name: GUILLERMO LABASTIDA
+  - uid: '13124'
+    type: a.k.a.
+    category: weak
+    last_name: ALEJANDRO LABASTIDA
+address_list:
+  items:
+  - uid: '18600'
+    city: Ojos Negros
+    state_or_province: Baja California Norte
+    country: Mexico
+  - uid: '18601'
+    address1: Carretera Acapulco
+    address2: KM 8.5
+    address3: Pie de la Cuesta
+    city: Acapulco
+    state_or_province: Guerrero
+    country: Mexico
+  - uid: '18602'
+    address1: Calle de Rio Nilo No. 20
+    address2: Colonia Valle Dorado
+    city: Ensenada
+    state_or_province: Baja California Norte
+    country: Mexico
+  - uid: '18603'
+    address1: Montivideo No. 804
+    address2: Lindavista
+    city: Mexico City
+    state_or_province: Distrito Federal
+    country: Mexico
+  - uid: '18604'
+    address1: Circuito de la Industria No. 94
+    address2: Colonia Parque Ind. Lerma
+    city: Lerma
+    state_or_province: Mexico
+    country: Mexico
+  - uid: '18605'
+    address1: Avenida del Taller No. 23, Ret. 17
+    address2: Colonia Jardin Balbuena
+    address3: Delegacion Venustiano Carranza
+    city: Mexico City
+    state_or_province: Distrito Federal
+    country: Mexico
+  - uid: '18606'
+    address1: Calle Jaime Torres Bodet No. 207-A, Int. 201
+    address2: Colonia Santa Marta La Rivera
+    address3: Delegacion Cuauhtemoc
+    city: Mexico City
+    state_or_province: Distrito Federal
+    country: Mexico
+  - uid: '18607'
+    address1: Homero No. 1343
+    city: Mexico City
+    state_or_province: Distrito Federal
+    country: Mexico
+  - uid: '18608'
+    address1: Avenida Herradona No. 1328
+    address2: Interlomas
+    city: Mexico City
+    state_or_province: Distrito Federal
+    country: Mexico
+  - uid: '18609'
+    address1: Calle Cantiles 42 A
+    address2: Mozimba 39460
+    city: Acapulco
+    state_or_province: Guerrero
+    country: Mexico
+  - uid: '18610'
+    address1: Calle Tulipanes No. 8
+    address2: Colonia Lomas Cortes
+    city: Cuernavaca
+    state_or_province: Morelos
+    country: Mexico
+  - uid: '18611'
+    address1: Calle Rancho Tetela No. 957
+    address2: Colonia Rancho Tetela
+    city: Cuernavaca
+    state_or_province: Morelos
+    country: Mexico
+id_list:
+  items:
+  - uid: '6571'
+    id_type: C.U.R.P.
+    id_number: FOCA630326HMCLCL05
+    id_country: Mexico
+  - uid: '6572'
+    id_type: C.U.I.P.
+    id_number: FOCA640326H14506669
+    id_country: Mexico
+  - uid: '6573'
+    id_type: R.F.C.
+    id_number: FOCA-630326
+    id_country: Mexico
+  - uid: '6574'
+    id_type: R.F.C.
+    id_number: FOCX-260363
+    id_country: Mexico
+  - uid: '6575'
+    id_type: R.F.C.
+    id_number: FOCX-630326
+    id_country: Mexico
+  - uid: '6576'
+    id_type: R.F.C.
+    id_number: FOCA-640326
+    id_country: Mexico
+  - uid: '6577'
+    id_type: Passport
+    id_number: '01350202554'
+    id_country: Mexico
+  - uid: '6578'
+    id_type: Electoral Registry No.
+    id_number: FLCCAL64032609H300
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '7890'
+    date_of_birth: 26 Mar 1963
+    main_entry: 'true'
+  - uid: '7891'
+    date_of_birth: 26 Mar 1964
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '7892'
+    place_of_birth: Mexico City, Distrito Federal, Mexico
+    main_entry: 'true'
+  - uid: '7893'
+    place_of_birth: Guadalajara, Jalisco, Mexico
+    main_entry: 'false'

@@ -1,0 +1,39 @@
+---
+uid: '52494'
+last_name: JOINT STOCK COMPANY TENTH BEARING PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '82178'
+    type: a.k.a.
+    category: weak
+    last_name: LLC 10 GPZ
+  - uid: '82471'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTIU DESIATYI PODSHIPNIKOVYI
+      ZAVOD
+address_list:
+  items:
+  - uid: '80174'
+    address1: zd. 1 str. 1 ul. Peskova
+    city: Rostov-On-Don
+    postal_code: '344091'
+    country: Russia
+id_list:
+  items:
+  - uid: '45477'
+    id_type: Registration Number
+    id_number: '1206100017331'
+    id_country: Russia
+  - uid: '45478'
+    id_type: Tax ID No.
+    id_number: '6168111569'
+    id_country: Russia
+  - uid: '184149'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: AUTOMOBILE PLANT URAL JOINT STOCK COMPANY)"

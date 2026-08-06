@@ -1,0 +1,51 @@
+---
+uid: '46883'
+first_name: Adam Richard
+last_name: PEARSON
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+aka_list:
+  items:
+  - uid: '72468'
+    type: a.k.a.
+    category: strong
+    last_name: DAVIS
+    first_name: Mason
+  - uid: '72469'
+    type: a.k.a.
+    category: strong
+    last_name: ANSING
+    first_name: Michael
+address_list:
+  items:
+  - uid: '69896'
+    state_or_province: British Columbia
+    country: Canada
+id_list:
+  items:
+  - uid: '36986'
+    id_type: Passport
+    id_number: QG963705
+    id_country: Canada
+  - uid: '167936'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '167827'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '67822'
+    date_of_birth: 14 May 1994
+    main_entry: 'true'
+  - uid: '67824'
+    date_of_birth: 28 Apr 1995
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '67825'
+    place_of_birth: Canada
+    main_entry: 'true'
+remarks: "(Linked To: RYAN, Damion Patrick John)"

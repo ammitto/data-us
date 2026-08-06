@@ -1,0 +1,68 @@
+---
+uid: '28175'
+first_name: Saleh
+last_name: ASSI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '44401'
+    type: a.k.a.
+    category: strong
+    last_name: ASSI
+    first_name: Saleh Ali
+  - uid: '44402'
+    type: a.k.a.
+    category: strong
+    last_name: "'ASI"
+    first_name: Salih 'Ali
+  - uid: '44403'
+    type: a.k.a.
+    category: strong
+    last_name: ASSI
+    first_name: Salah
+  - uid: '44404'
+    type: a.k.a.
+    category: strong
+    last_name: ASSI
+    first_name: Salih
+address_list:
+  items:
+  - uid: '42643'
+    country: Congo, Democratic Republic of the
+  - uid: '42644'
+    address1: Etage 5 (5th Floor)
+    address2: 3 Avenue Bosquet
+    city: Paris
+    postal_code: '27007'
+    country: France
+  - uid: '42645'
+    address1: Bashoura
+    city: Beirut
+    country: Lebanon
+  - uid: '42646'
+    address1: Immeuble Verdun 750
+    address2: 5E Etage-Rue Rachid Karame Verdun
+    city: Beyrouth
+    country: Lebanon
+id_list:
+  items:
+  - uid: '18647'
+    id_type: Passport
+    id_number: 04FE50421
+    id_country: France
+  - uid: '187007'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '133586'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '33584'
+    date_of_birth: 14 May 1960
+    main_entry: 'true'
+remarks: "(Linked To: TABAJA, Adham Husayn)"

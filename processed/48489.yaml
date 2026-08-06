@@ -1,0 +1,44 @@
+---
+uid: '48489'
+last_name: LIMITED LIABILITY COMPANY MIRP INTELLECTUAL SYSTEMS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75349'
+    type: a.k.a.
+    category: strong
+    last_name: MIRP INTELLECTUAL SYSTEMS INC
+  - uid: '75350'
+    type: a.k.a.
+    category: weak
+    last_name: MIRP IS LTD
+address_list:
+  items:
+  - uid: '72746'
+    address1: Dimitrovskoe SH D. 100
+    address2: Str. 2
+    city: Moscow
+    postal_code: '127591'
+    country: Russia
+  - uid: '72747'
+    address1: Lenina st.
+    address2: 13-11
+    city: Dubna
+    postal_code: '141983'
+    country: Russia
+id_list:
+  items:
+  - uid: '39389'
+    id_type: Registration Number
+    id_number: '1085010000822'
+    id_country: Russia
+  - uid: '39390'
+    id_type: Tax ID No.
+    id_number: '5010036848'
+    id_country: Russia
+  - uid: '171308'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

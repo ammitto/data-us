@@ -1,0 +1,42 @@
+---
+uid: '55065'
+first_name: Vitaliy Sergeyevich
+last_name: ANDREYEV
+sdn_type: Individual
+program_list:
+  programs:
+  - DPRK2
+address_list:
+  items:
+  - uid: '84199'
+    country: Russia
+id_list:
+  items:
+  - uid: '48993'
+    id_type: Tax ID No.
+    id_number: '253908966176'
+    id_country: Russia
+  - uid: '192077'
+    id_type: Gender
+    id_number: Male
+  - uid: '192620'
+    id_type: Digital Currency Address - XBT
+    id_number: 1HmqvgSXUVES1jn4TQPzk9dxo1NE8wim2T
+  - uid: '192082'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '192083'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+date_of_birth_list:
+  items:
+  - uid: '92081'
+    date_of_birth: 29 Sep 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '92080'
+    place_of_birth: Vladivostok, Russia
+    main_entry: 'true'
+remarks: "(Linked To: CHINYONG INFORMATION TECHNOLOGY COOPERATION COMPANY)"

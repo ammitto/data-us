@@ -1,0 +1,33 @@
+---
+uid: '45938'
+last_name: PUBLIC LEGAL COMPANY MILITARY CONSTRUCTION COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70983'
+    type: a.k.a.
+    category: strong
+    last_name: MILITARY CONSTRUCTION COMPLEX OF THE MINISTRY OF DEFENSE
+address_list:
+  items:
+  - uid: '68368'
+    address1: 19 Znamenka St., Building 4, Office 402
+    city: Moscow
+    postal_code: '119160'
+    country: Russia
+id_list:
+  items:
+  - uid: '35699'
+    id_type: Registration Number
+    id_number: '1207700151427'
+    id_country: Russia
+  - uid: '35701'
+    id_type: Tax ID No.
+    id_number: '9704016606'
+    id_country: Russia
+  - uid: '174820'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

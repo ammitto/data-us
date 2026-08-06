@@ -1,0 +1,33 @@
+---
+uid: '37001'
+first_name: Aleksei Valerievich
+last_name: POPOVICH
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '58107'
+    type: a.k.a.
+    category: strong
+    last_name: POPOVICH
+    first_name: Aleksey Valeryevich
+address_list:
+  items:
+  - uid: '55369'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '151201'
+    id_type: Gender
+    id_number: Male
+  - uid: '174423'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '51197'
+    date_of_birth: '1987'
+    main_entry: 'true'

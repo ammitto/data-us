@@ -1,0 +1,32 @@
+---
+uid: '56062'
+first_name: Gustavo Francisco
+last_name: PETRO URREGO
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '85872'
+    city: Bogota
+    country: Colombia
+id_list:
+  items:
+  - uid: '50228'
+    id_type: Cedula No.
+    id_number: '208079'
+    id_country: Colombia
+  - uid: '194260'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '94258'
+    date_of_birth: 19 Apr 1960
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '94259'
+    place_of_birth: Zipaquira, Colombia
+    main_entry: 'true'

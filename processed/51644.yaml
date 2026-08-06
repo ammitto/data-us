@@ -1,0 +1,30 @@
+---
+uid: '51644'
+first_name: Gulnara
+last_name: KHAIDARSHINA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '78691'
+    country: Russia
+id_list:
+  items:
+  - uid: '181527'
+    id_type: Gender
+    id_number: Female
+  - uid: '181524'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '81525'
+    date_of_birth: 29 Aug 1983
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '81526'
+    place_of_birth: Pskov, Russia
+    main_entry: 'true'

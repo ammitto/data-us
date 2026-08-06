@@ -1,0 +1,69 @@
+---
+uid: '55941'
+first_name: Xiaowei
+last_name: HU
+sdn_type: Individual
+program_list:
+  programs:
+  - TCO
+aka_list:
+  items:
+  - uid: '89034'
+    type: a.k.a.
+    category: strong
+    last_name: WU
+    first_name: An Ming
+  - uid: '89035'
+    type: a.k.a.
+    category: strong
+    last_name: CHEN
+    first_name: Xiao'er
+  - uid: '89553'
+    type: a.k.a.
+    category: weak
+    last_name: HU, Shi
+address_list:
+  items:
+  - uid: '85649'
+    address1: Frigate Bay
+    country: Saint Kitts and Nevis
+  - uid: '88196'
+    city: Hong Kong
+    country: China
+id_list:
+  items:
+  - uid: '50096'
+    id_type: Passport
+    id_number: RE0066066
+    id_country: Saint Kitts and Nevis
+  - uid: '51903'
+    id_type: Passport
+    id_number: HJ2068539
+    id_country: Hong Kong
+    issue_date: 05 May 2020
+    expiration_date: 05 May 2030
+  - uid: '51904'
+    id_type: Passport
+    id_number: RE0107642
+    id_country: Saint Kitts and Nevis
+    issue_date: 10 May 2021
+    expiration_date: '09 May 2031'
+  - uid: '51905'
+    id_type: National ID No.
+    id_number: M200114
+    id_country: Hong Kong
+  - uid: '194009'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '94010'
+    date_of_birth: 01 May 1982
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '98671'
+    place_of_birth: Jiangsu, China
+    main_entry: 'true'
+remarks: "(Linked To: GRAND LEGEND INTERNATIONAL ASSET MANAGEMENT GROUP CO. LTD.;
+  Linked To: PRINCE GROUP TRANSNATIONAL CRIMINAL ORGANIZATION)"

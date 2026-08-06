@@ -1,0 +1,45 @@
+---
+uid: '35894'
+last_name: JOINT STOCK COMPANY STUPINO ENGINEERING PRODUCTIVE ENTERPRISE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56442'
+    type: a.k.a.
+    category: strong
+    last_name: STUPINO MACHINE PRODUCTION PLANT
+  - uid: '56443'
+    type: a.k.a.
+    category: strong
+    last_name: STUPINO ENGINEERING PRODUCTION ENTERPRISE
+  - uid: '56444'
+    type: a.k.a.
+    category: weak
+    last_name: SMPP AO
+address_list:
+  items:
+  - uid: '53872'
+    address1: 42 Ulitsa Akademika Belova
+    city: Stupino
+    postal_code: '142800'
+    country: Russia
+id_list:
+  items:
+  - uid: '25243'
+    id_type: Registration Number
+    id_number: '1025005917419'
+    id_country: Russia
+  - uid: '25244'
+    id_type: Tax ID No.
+    id_number: '5045001885'
+    id_country: Russia
+  - uid: '173289'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '149087'
+    id_type: Organization Established Date
+    id_number: '1948'
+remarks: "(Linked To: VERTOLETY ROSSII AO)"

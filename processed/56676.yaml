@@ -1,0 +1,32 @@
+---
+uid: '56676'
+first_name: Mehdi
+last_name: GHAFFARI
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+address_list:
+  items:
+  - uid: '86720'
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '50781'
+    id_type: National ID No.
+    id_number: '0558674577'
+    id_country: Iran
+  - uid: '195330'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '195442'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '95440'
+    date_of_birth: 21 Sep 1977
+    main_entry: 'true'
+remarks: "(Linked To: KAVOSHGARAN ASMAN MOJ GHADIR COMPANY)"

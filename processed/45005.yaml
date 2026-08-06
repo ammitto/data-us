@@ -1,0 +1,36 @@
+---
+uid: '45005'
+last_name: LIMITED LIABILITY COMPANY DALNEVOSTOCHNAYA GORNO RUDNAYA KOMPANIYA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69685'
+    type: a.k.a.
+    category: weak
+    last_name: OOO DGRK
+address_list:
+  items:
+  - uid: '66992'
+    address1: d. 4A etazh 1 pom. I
+    address2: Kom. 7, Ofis 12-6
+    address3: ul. Kutuzovskaya
+    city: Odintsovo
+    postal_code: '143001'
+    country: Russia
+id_list:
+  items:
+  - uid: '34671'
+    id_type: Registration Number
+    id_number: '1155032006810'
+    id_country: Russia
+  - uid: '34672'
+    id_type: Tax ID No.
+    id_number: '5032208240'
+    id_country: Russia
+  - uid: '175887'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: UNITED ARCTIC COMPANY LLC)"

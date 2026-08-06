@@ -1,0 +1,43 @@
+---
+uid: '12172'
+first_name: Javier
+last_name: FLORES CACHO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '18645'
+    address1: Avenida del Taller No. 23, Ret. 17
+    address2: Colonia Jardin Balbuena
+    address3: Delegacion Venustiano Carranza
+    city: Mexico City
+    state_or_province: Distrito Federal
+    country: Mexico
+  - uid: '18646'
+    address1: Martin Luis Guzman No. 259
+    address2: Colonia Villa de Cortez
+    city: Mexico City
+    state_or_province: Distrito Federal
+    country: Mexico
+id_list:
+  items:
+  - uid: '6602'
+    id_type: C.U.R.P.
+    id_number: FOCJ690830HDFLCV03
+    id_country: Mexico
+  - uid: '6603'
+    id_type: R.F.C.
+    id_number: FOCJ-690830
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '7943'
+    date_of_birth: 30 Aug 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '7944'
+    place_of_birth: Mexico City, Distrito Federal, Mexico
+    main_entry: 'true'

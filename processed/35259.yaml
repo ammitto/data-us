@@ -1,0 +1,69 @@
+---
+uid: '35259'
+last_name: AO RUSSIAN HIGH TECHNOLOGIES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '55471'
+    type: a.k.a.
+    category: weak
+    last_name: AO RNT
+  - uid: '63697'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONEROE OBSHCHESTVO RNT
+  - uid: '63698'
+    type: a.k.a.
+    category: strong
+    last_name: CLOSED JOINT STOCK COMPANY RNT
+  - uid: '63699'
+    type: a.k.a.
+    category: weak
+    last_name: RNT COMPANY
+  - uid: '63700'
+    type: a.k.a.
+    category: weak
+    last_name: CJSC RNT
+  - uid: '63701'
+    type: a.k.a.
+    category: weak
+    last_name: ZAO RNT
+address_list:
+  items:
+  - uid: '52992'
+    address1: 6, ul. 2-Ya Ostankinskaya
+    city: Moscow
+    postal_code: '129515'
+    country: Russia
+id_list:
+  items:
+  - uid: '24957'
+    id_type: Tax ID No.
+    id_number: '7720010693'
+    id_country: Russia
+  - uid: '24958'
+    id_type: Registration Number
+    id_number: '1027700248256'
+    id_country: Russia
+  - uid: '24959'
+    id_type: Government Gazette Number
+    id_number: '17917145'
+    id_country: Russia
+  - uid: '158480'
+    id_type: Website
+    id_number: www.rnt.ru
+  - uid: '176695'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '147420'
+    id_type: Organization Established Date
+    id_number: 16 Jun 1993
+  - uid: '151687'
+    id_type: 'Organization Type:'
+    id_number: Other information technology and computer service activities
+  - uid: '158479'
+    id_type: Target Type
+    id_number: Private Company

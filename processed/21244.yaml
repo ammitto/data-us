@@ -1,0 +1,58 @@
+---
+uid: '21244'
+last_name: CHAM WINGS AIRLINES
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '33676'
+    type: a.k.a.
+    category: strong
+    last_name: AJNEHAT AL SHAM
+  - uid: '33677'
+    type: f.k.a.
+    category: strong
+    last_name: SHAM WING AIRLINES
+  - uid: '33678'
+    type: a.k.a.
+    category: strong
+    last_name: CHAM WINGS
+  - uid: '33679'
+    type: a.k.a.
+    category: strong
+    last_name: AL-SHAM WINGS
+address_list:
+  items:
+  - uid: '32317'
+    address1: Al Fardous Street
+    city: Damascus
+    country: Syria
+  - uid: '32318'
+    address1: Saadoon Street
+    city: Baghdad
+    country: Iraq
+  - uid: '32319'
+    address1: 8 March Street
+    city: Lattakia
+    country: Syria
+  - uid: '32320'
+    address1: Hai Al Gharbi-Alraees Street
+    city: Kamishli
+    country: Syria
+  - uid: '32321'
+    address1: P.O. Box 1620 Tal-Kurdi, Adra
+    city: Damascus
+    country: Syria
+id_list:
+  items:
+  - uid: '13295'
+    id_type: Registration ID
+    id_number: '14683'
+    id_country: Syria
+  - uid: '190844'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: "(Linked To: SHAMMOUT, Issam)"

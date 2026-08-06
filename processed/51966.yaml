@@ -1,0 +1,37 @@
+---
+uid: '51966'
+last_name: LIMITED LIABILITY COMPANY NEFTSERVICEHOLDING
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '81343'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY NEFTSERVISKHOLDING
+  - uid: '81344'
+    type: a.k.a.
+    category: weak
+    last_name: LLC NSKH
+address_list:
+  items:
+  - uid: '79212'
+    address1: d. 20 Prospekt Komsomolski
+    city: Perm
+    postal_code: '614990'
+    country: Russia
+id_list:
+  items:
+  - uid: '44743'
+    id_type: Registration Number
+    id_number: '1035900101027'
+    id_country: Russia
+  - uid: '44746'
+    id_type: Tax ID No.
+    id_number: '5902193222'
+    id_country: Russia
+  - uid: '182613'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

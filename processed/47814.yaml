@@ -1,0 +1,32 @@
+---
+uid: '47814'
+first_name: Guangzong
+last_name: ZHAO
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+address_list:
+  items:
+  - uid: '71547'
+    state_or_province: Hubei Province
+    country: China
+id_list:
+  items:
+  - uid: '38518'
+    id_type: National ID No.
+    id_number: '421003198511121539'
+    id_country: China
+  - uid: '169299'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '69298'
+    date_of_birth: 12 Nov 1985
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '70260'
+    place_of_birth: Jingzhou Municipality, China
+    main_entry: 'true'

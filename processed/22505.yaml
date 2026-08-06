@@ -1,0 +1,66 @@
+---
+uid: '22505'
+last_name: JOINT STOCK COMMERCIAL BANK RUBLEV
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13685
+aka_list:
+  items:
+  - uid: '35468'
+    type: a.k.a.
+    category: strong
+    last_name: BANK RUBLEV
+  - uid: '35469'
+    type: a.k.a.
+    category: strong
+    last_name: RUBLEV BANK
+  - uid: '35470'
+    type: a.k.a.
+    category: strong
+    last_name: JSC CB 'RUBLEV'
+  - uid: '35573'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO KOMMERCHESKI BANK RUBLEV
+address_list:
+  items:
+  - uid: '34039'
+    address1: Elokhovsky passage, Building 3, p. 2, Metro - Baumanskaya
+    city: Moscow
+    postal_code: '105066'
+    country: Russia
+  - uid: '34040'
+    address1: 12 Sevastopol Street
+    city: Simferopol
+    state_or_province: Crimea
+    country: Ukraine
+  - uid: '34041'
+    address1: 6 Gogol Street
+    city: Sevastopol
+    state_or_province: Crimea
+    country: Ukraine
+id_list:
+  items:
+  - uid: '14204'
+    id_type: Registration ID
+    id_number: '1027700159233'
+    id_country: Russia
+  - uid: '14205'
+    id_type: Government Gazette Number
+    id_number: '40100094'
+    id_country: Russia
+  - uid: '14206'
+    id_type: Tax ID No.
+    id_number: '7744001151'
+    id_country: Russia
+  - uid: '124016'
+    id_type: BIK (RU)
+    id_number: '044525253'
+  - uid: '144035'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '123946'
+    id_type: SWIFT/BIC
+    id_number: COUERUMM

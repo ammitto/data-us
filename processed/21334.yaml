@@ -1,0 +1,41 @@
+---
+uid: '21334'
+last_name: AUTONOMOUS NONCOMMERCIAL ORGANIZATION PROFESSIONAL ASSOCIATION OF DESIGNERS
+  OF DATA PROCESSING SYSTEMS
+sdn_type: Entity
+program_list:
+  programs:
+  - CYBER2
+aka_list:
+  items:
+  - uid: '33836'
+    type: a.k.a.
+    category: strong
+    last_name: ANO PO KSI
+address_list:
+  items:
+  - uid: '32427'
+    address1: Prospekt Mira D 68, Str 1A
+    city: Moscow
+    postal_code: '129110'
+    country: Russia
+  - uid: '32428'
+    address1: Dom 3, Lazurnaya Ulitsa
+    address2: Solnechnogorskiy Raion
+    city: Andreyevka
+    state_or_province: Moscow Region
+    postal_code: '141551'
+    country: Russia
+id_list:
+  items:
+  - uid: '13367'
+    id_type: Tax ID No.
+    id_number: '7702285945'
+    id_country: Russia
+  - uid: '13368'
+    id_type: Registration ID
+    id_number: '1027739734098'
+    id_country: Russia
+  - uid: '154534'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201

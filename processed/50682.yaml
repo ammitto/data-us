@@ -1,0 +1,36 @@
+---
+uid: '50682'
+first_name: Mileri
+last_name: LAGAZAURI
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+address_list:
+  items:
+  - uid: '76876'
+    address1: 19 MR Building 4
+    address2: Apt 12
+    city: Rustavi
+    country: Georgia
+id_list:
+  items:
+  - uid: '42553'
+    id_type: Passport
+    id_number: 18AD22156
+    id_country: Georgia
+    issue_date: 21 May 2019
+    expiration_date: 21 May 2029
+  - uid: '179264'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '79262'
+    date_of_birth: 23 Nov 1977
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '79263'
+    place_of_birth: Akhmeta, Georgia
+    main_entry: 'true'

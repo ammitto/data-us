@@ -1,0 +1,32 @@
+---
+uid: '50300'
+last_name: INDUSTRIAL TECHNOLOGIES GROUP FRANCE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78894'
+    type: a.k.a.
+    category: weak
+    last_name: ITGF
+address_list:
+  items:
+  - uid: '76211'
+    address1: 2 Rue Charlie Chaplin
+    city: Bois-D'arcy
+    postal_code: '78390'
+    country: France
+id_list:
+  items:
+  - uid: '42008'
+    id_type: Tax ID No.
+    id_number: '810727040'
+    id_country: France
+  - uid: '178214'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '178213'
+    id_type: Organization Established Date
+    id_number: 06 Mar 2015

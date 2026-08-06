@@ -1,0 +1,40 @@
+---
+uid: '42857'
+last_name: KRAVERTON LP
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '66408'
+    type: f.k.a.
+    category: strong
+    last_name: KRAVERTON CONSTRUCTION AND DEVELOPMENT LP
+address_list:
+  items:
+  - uid: '63927'
+    address1: Suite 1, 4 Queen Street
+    city: Edinburgh
+    state_or_province: Scotland
+    postal_code: EH2 1JE
+    country: United Kingdom
+  - uid: '63928'
+    address1: 101 Rose Street South Lane
+    city: Edinburgh
+    state_or_province: Scotland
+    postal_code: EH2 3JG
+    country: United Kingdom
+id_list:
+  items:
+  - uid: '32421'
+    id_type: UK Company Number
+    id_number: SL026856
+    id_country: United Kingdom
+  - uid: '175472'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '161688'
+    id_type: Organization Established Date
+    id_number: 24 May 2016
+remarks: "(Linked To: SCHMUCKI, Anselm Oskar)"

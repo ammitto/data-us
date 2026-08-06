@@ -1,0 +1,39 @@
+---
+uid: '29849'
+last_name: ADVANCED PERSISTENT THREAT 39
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-HR
+aka_list:
+  items:
+  - uid: '46773'
+    type: a.k.a.
+    category: strong
+    last_name: APT39
+  - uid: '46807'
+    type: a.k.a.
+    category: strong
+    last_name: CHAFER
+  - uid: '46808'
+    type: a.k.a.
+    category: strong
+    last_name: REMEXI
+  - uid: '46809'
+    type: a.k.a.
+    category: strong
+    last_name: CADELSPY
+  - uid: '46810'
+    type: a.k.a.
+    category: strong
+    last_name: ITG07
+address_list:
+  items:
+  - uid: '44986'
+    country: Iran
+id_list:
+  items:
+  - uid: '136968'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: IRANIAN MINISTRY OF INTELLIGENCE AND SECURITY)"

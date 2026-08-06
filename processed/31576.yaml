@@ -1,0 +1,39 @@
+---
+uid: '31576'
+last_name: LENPROMTRANSPROYEKT
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13685
+aka_list:
+  items:
+  - uid: '49581'
+    type: a.k.a.
+    category: strong
+    last_name: LENPROMTRANSPROYEKT JOINT-STOCK COMPANY
+  - uid: '49582'
+    type: a.k.a.
+    category: strong
+    last_name: LENPROMTRANSPROEKT CJSC
+address_list:
+  items:
+  - uid: '47594'
+    address1: Kondrat'yevskiy Prospekt 15
+    address2: building 5/1, 223
+    city: St. Petersburg
+    postal_code: '195197'
+    country: Russia
+id_list:
+  items:
+  - uid: '21457'
+    id_type: Tax ID No.
+    id_number: '7825064262'
+    id_country: Russia
+  - uid: '21458'
+    id_type: Business Registration Number
+    id_number: '1027809210054'
+    id_country: Russia
+  - uid: '144154'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

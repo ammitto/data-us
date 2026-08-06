@@ -1,0 +1,43 @@
+---
+uid: '40208'
+last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU PROEKT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '62504'
+    type: a.k.a.
+    category: strong
+    last_name: VTB PROEKT OOO
+address_list:
+  items:
+  - uid: '59896'
+    address1: d. 43 str. 1, ul. Vorontsovskaya
+    city: Moscow
+    postal_code: '109147'
+    country: Russia
+id_list:
+  items:
+  - uid: '29381'
+    id_type: Registration Number
+    id_number: '1127746118752'
+    id_country: Russia
+  - uid: '29382'
+    id_type: Tax ID No.
+    id_number: '7710907460'
+    id_country: Russia
+  - uid: '157114'
+    id_type: Organization Established Date
+    id_number: 22 Feb 2012
+  - uid: '157115'
+    id_type: 'Organization Type:'
+    id_number: Financial leasing
+  - uid: '157116'
+    id_type: 'Organization Type:'
+    id_number: Real estate activities on a fee or contract basis
+  - uid: '174033'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)"

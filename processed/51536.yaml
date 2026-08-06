@@ -1,0 +1,38 @@
+---
+uid: '51536'
+last_name: UDS NEFT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+address_list:
+  items:
+  - uid: '78529'
+    address1: Ul. Lenina D. 21, BTS Forum
+    city: Izhevsk
+    postal_code: '426057'
+    country: Russia
+  - uid: '78530'
+    address1: Ul. Pushkinskaya ZD. 277
+    address2: Pomeshch. 53
+    city: Izhevsk
+    postal_code: '426057'
+    country: Russia
+id_list:
+  items:
+  - uid: '43954'
+    id_type: Registration Number
+    id_number: '1151840005690'
+    id_country: Russia
+  - uid: '43955'
+    id_type: Tax ID No.
+    id_number: '1840040191'
+    id_country: Russia
+  - uid: '181193'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183489'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

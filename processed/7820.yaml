@@ -1,0 +1,55 @@
+---
+uid: '7820'
+first_name: Juan Jose
+last_name: ESPARRAGOZA MORENO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '10280'
+    address1: Avenida Los Angeles No. 5183
+    address2: Colonia Las Palmas
+    city: Tijuana
+    state_or_province: Baja California
+    postal_code: CP 22440
+    country: Mexico
+  - uid: '10281'
+    address1: Calle Colima 2316
+    address2: Colonia Francisco I. Madero
+    city: Tijuana
+    state_or_province: Baja California
+    postal_code: CP 22150
+    country: Mexico
+  - uid: '10282'
+    address1: Calle 8 8988
+    address2: Colonia Zona Este
+    city: Tijuana
+    state_or_province: Baja California
+    postal_code: CP 22000
+    country: Mexico
+  - uid: '10283'
+    address1: Cjon. Quintana Roo 8220
+    address2: Colonia Zona Este
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '10284'
+    address1: Predio Rustico en Km. 42 - 43 de la Carretera
+    city: Tijuana-Ensenada
+    state_or_province: Baja California
+    country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '2019'
+    date_of_birth: 03 Feb 1949
+    main_entry: 'true'
+  - uid: '2021'
+    date_of_birth: 02 Mar 1949
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '4062'
+    place_of_birth: Chuicopa, Sinaloa, Mexico
+    main_entry: 'false'

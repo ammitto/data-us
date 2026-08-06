@@ -1,0 +1,37 @@
+---
+uid: '49445'
+last_name: LIMITED LIABILITY COMPANY COALSTAR SEA TERMINAL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77122'
+    type: a.k.a.
+    category: weak
+    last_name: LLC CST
+  - uid: '77123'
+    type: a.k.a.
+    category: strong
+    last_name: LLC COALSTAR MARINE TERMINAL
+address_list:
+  items:
+  - uid: '74557'
+    address1: Office 104, 2 Administrative Town
+    city: Nakhodka
+    postal_code: '692904'
+    country: Russia
+id_list:
+  items:
+  - uid: '40758'
+    id_type: Registration Number
+    id_number: '1197746226017'
+    id_country: Russia
+  - uid: '40760'
+    id_type: Tax ID No.
+    id_number: '7704485266'
+    id_country: Russia
+  - uid: '172797'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

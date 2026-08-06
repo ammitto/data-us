@@ -1,0 +1,33 @@
+---
+uid: '26083'
+first_name: Abdulaziz Mohammed M.
+last_name: ALHAWSAWI
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+id_list:
+  items:
+  - uid: '16768'
+    id_type: Passport
+    id_number: P051811
+    id_country: Saudi Arabia
+    issue_date: 15 May 2014
+    expiration_date: 23 Mar 2019
+  - uid: '16769'
+    id_type: National ID No.
+    id_number: '1044087474'
+    id_country: Saudi Arabia
+  - uid: '130359'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '30356'
+    date_of_birth: 20 Jul 1987
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '30357'
+    place_of_birth: Riyadh, Saudi Arabia
+    main_entry: 'true'

@@ -1,0 +1,42 @@
+---
+uid: '56981'
+last_name: NOBITEX
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+  - IRAN
+  - SDGT
+aka_list:
+  items:
+  - uid: '88287'
+    type: a.k.a.
+    category: strong
+    last_name: RAHKAR FANAVARI NOOYAN
+address_list:
+  items:
+  - uid: '87188'
+    address1: Unit 1002, Floor 10, Sharif Technology Tower
+    address2: Akbari Corner, Salehi Boulevard
+    address3: Tarasht
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '51147'
+    id_type: Company Number
+    id_number: '1400769571'
+    id_country: Iran
+  - uid: '196313'
+    id_type: 'Organization Type:'
+    id_number: Financial and Insurance Activities
+  - uid: '196286'
+    id_type: Website
+    id_number: nobitex.ir
+  - uid: '198457'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '196314'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

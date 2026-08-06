@@ -1,0 +1,46 @@
+---
+uid: '41319'
+last_name: OPEN JOINT STOCK COMPANY BELARUSIAN AUTOMOBILE PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '64387'
+    type: a.k.a.
+    category: strong
+    last_name: BELARUSSKI AVTOMOBILNYI ZAVOD
+  - uid: '64388'
+    type: a.k.a.
+    category: strong
+    last_name: OAO BELAZ - UPRAVLYAYUSHCHAYA KOMPANIYA KHOLDINGA BELAZ-KHOLDING
+  - uid: '64389'
+    type: a.k.a.
+    category: strong
+    last_name: OJSC BELAZ - MANAGEMENT COMPANY OF HOLDING BELAZ-HOLDING
+  - uid: '64390'
+    type: a.k.a.
+    category: strong
+    last_name: AAT BELAZ - KIRUYUCHAYA KAMPANIYA KHOLDYNGU BELAZ-KHOLDYNG
+address_list:
+  items:
+  - uid: '61764'
+    address1: 40 let Octyabrya Street 4
+    city: Zhodino
+    state_or_province: Minsk region
+    postal_code: '222161'
+    country: Belarus
+id_list:
+  items:
+  - uid: '30716'
+    id_type: Government Gazette Number
+    id_number: '05808712'
+    id_country: Belarus
+  - uid: '30717'
+    id_type: Tax ID No.
+    id_number: '600038906'
+    id_country: Belarus
+  - uid: '159427'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

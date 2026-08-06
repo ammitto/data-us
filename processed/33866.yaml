@@ -1,0 +1,29 @@
+---
+uid: '33866'
+first_name: Zvonko
+last_name: VESELINOVIC
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+address_list:
+  items:
+  - uid: '51206'
+    address1: Kralj Peter St.
+    city: Mitrovica
+    country: Kosovo
+id_list:
+  items:
+  - uid: '144865'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '45356'
+    date_of_birth: 30 Dec 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '45357'
+    place_of_birth: Dolane Village, Zvecan, Kosovo
+    main_entry: 'true'

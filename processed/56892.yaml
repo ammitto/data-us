@@ -1,0 +1,33 @@
+---
+uid: '56892'
+first_name: Hamid
+last_name: DAMGHANI
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - IRAN-HR
+  - IRGC
+address_list:
+  items:
+  - uid: '87133'
+    country: Iran
+id_list:
+  items:
+  - uid: '51017'
+    id_type: National ID No.
+    id_number: '4590769603'
+    id_country: Iran
+  - uid: '195890'
+    id_type: Gender
+    id_number: Male
+  - uid: '196004'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '95889'
+    date_of_birth: 23 Sep 1973
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS)"
+title: IRGC Commander for Gilan Province

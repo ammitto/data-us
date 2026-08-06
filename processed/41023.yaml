@@ -1,0 +1,35 @@
+---
+uid: '41023'
+first_name: Vladislav Valeryevich
+last_name: SHAPSHA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '61285'
+    state_or_province: Kaluga Region
+    country: Russia
+id_list:
+  items:
+  - uid: '30357'
+    id_type: Tax ID No.
+    id_number: '402501412641'
+    id_country: Russia
+  - uid: '173556'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '158791'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '58789'
+    date_of_birth: 20 Sep 1972
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '58790'
+    place_of_birth: Obninsk, Kaluga Region, Russia
+    main_entry: 'true'

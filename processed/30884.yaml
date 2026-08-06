@@ -1,0 +1,58 @@
+---
+uid: '30884'
+first_name: Sultan Yusuf Hasan
+last_name: AL-'ARIF
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '48563'
+    type: a.k.a.
+    category: strong
+    last_name: AL-'ABDALI
+    first_name: Qital
+  - uid: '48564'
+    type: a.k.a.
+    category: strong
+    last_name: AL-'ABDALI
+    first_name: Qattal
+  - uid: '48565'
+    type: a.k.a.
+    category: strong
+    last_name: AL-NAJDI
+    first_name: Qital
+  - uid: '48566'
+    type: a.k.a.
+    category: strong
+    last_name: AL-SAUDI
+    first_name: Abu Musab
+address_list:
+  items:
+  - uid: '46715'
+    country: Afghanistan
+  - uid: '46716'
+    country: Iran
+id_list:
+  items:
+  - uid: '138927'
+    id_type: Gender
+    id_number: Male
+  - uid: '187309'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '38923'
+    date_of_birth: 28 Jun 1986
+    main_entry: 'true'
+  - uid: '38924'
+    date_of_birth: 27 Jun 1986
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '38925'
+    place_of_birth: Jeddah, Saudi Arabia
+    main_entry: 'true'

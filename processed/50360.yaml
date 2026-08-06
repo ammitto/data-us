@@ -1,0 +1,37 @@
+---
+uid: '50360'
+last_name: PUBLIC JOINT STOCK COMPANY KORSHUNOV MINING PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78711'
+    type: a.k.a.
+    category: strong
+    last_name: PJSC KORSHUNOVSKIY GORNO OBOGATITELNYY KOMBINAT
+  - uid: '78713'
+    type: a.k.a.
+    category: strong
+    last_name: PAO KORSHUNOVSKI GOK
+address_list:
+  items:
+  - uid: '76329'
+    address1: d. 9A/1 ul. Ivashchenko
+    city: Zheleznogorsk Ilimski
+    postal_code: '665651'
+    country: Russia
+id_list:
+  items:
+  - uid: '42101'
+    id_type: Registration Number
+    id_number: '1023802658714'
+    id_country: Russia
+  - uid: '42103'
+    id_type: Tax ID No.
+    id_number: '3834002314'
+    id_country: Russia
+  - uid: '178328'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

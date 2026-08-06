@@ -1,0 +1,49 @@
+---
+uid: '58013'
+first_name: Gerardo
+last_name: BOTELLO ROZALEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+aka_list:
+  items:
+  - uid: '89734'
+    type: a.k.a.
+    category: strong
+    last_name: BOTELLO ROSALES
+    first_name: Gerardo
+  - uid: '89735'
+    type: a.k.a.
+    category: weak
+    last_name: El Cachas
+address_list:
+  items:
+  - uid: '89071'
+    city: Jalisco
+    country: Mexico
+id_list:
+  items:
+  - uid: '52566'
+    id_type: C.U.R.P.
+    id_number: BORG770203HMNTZR05
+    id_country: Mexico
+  - uid: '199259'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '199206'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '99204'
+    date_of_birth: 03 Feb 1977
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '99205'
+    place_of_birth: Michoacan, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: CARTEL DE JALISCO NUEVA GENERACION)"

@@ -1,0 +1,45 @@
+---
+uid: '35869'
+last_name: JOINT STOCK COMPANY SEVERNIY PRESS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56354'
+    type: a.k.a.
+    category: strong
+    last_name: AO SEVERNYI PRESS
+  - uid: '56355'
+    type: a.k.a.
+    category: strong
+    last_name: SEVERNY PRESS AO
+  - uid: '56357'
+    type: a.k.a.
+    category: strong
+    last_name: JSC SEVERNY PRESS
+address_list:
+  items:
+  - uid: '53822'
+    address1: Ul. Tallinskaya D. 7
+    city: Saint Petersburg
+    postal_code: '195196'
+    country: Russia
+id_list:
+  items:
+  - uid: '25191'
+    id_type: Registration Number
+    id_number: '1146444000010'
+    id_country: Russia
+  - uid: '25193'
+    id_type: Tax ID No.
+    id_number: '7806337732'
+    id_country: Russia
+  - uid: '149061'
+    id_type: Organization Established Date
+    id_number: 24 Feb 1992
+  - uid: '173264'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: JOINT STOCK COMPANY CONCERN GRANIT-ELECTRON)"

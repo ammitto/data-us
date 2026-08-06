@@ -1,0 +1,50 @@
+---
+uid: '45809'
+last_name: BLANC BANK LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70779'
+    type: a.k.a.
+    category: strong
+    last_name: BLANC BANK LLC
+  - uid: '70780'
+    type: f.k.a.
+    category: strong
+    last_name: INVESTMENT BANK VESTA LIMITED LIABILITY COMPANY
+address_list:
+  items:
+  - uid: '68152'
+    address1: d. 9 str. 1, shosse Varshavskoe
+    city: Moscow
+    postal_code: '117105'
+    country: Russia
+id_list:
+  items:
+  - uid: '35559'
+    id_type: Registration Number
+    id_number: '1026000001796'
+    id_country: Russia
+  - uid: '35560'
+    id_type: Tax ID No.
+    id_number: '6027006032'
+    id_country: Russia
+  - uid: '35561'
+    id_type: Legal Entity Number
+    id_number: 253400CW8F4L53HWU734
+  - uid: '35562'
+    id_type: Identification Number
+    id_number: ABTHPP.00007.ME.643
+    id_country: Russia
+  - uid: '166412'
+    id_type: SWIFT/BIC
+    id_number: VSTARUMM
+  - uid: '166767'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '176063'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

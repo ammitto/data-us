@@ -1,0 +1,45 @@
+---
+uid: '27588'
+first_name: Kur
+last_name: AJING ATER
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '43583'
+    type: a.k.a.
+    category: strong
+    last_name: AJING ATER KUR
+    first_name: Kur
+  - uid: '43584'
+    type: a.k.a.
+    category: strong
+    last_name: AJING
+    first_name: Kur
+address_list:
+  items:
+  - uid: '41954'
+    city: Juba
+    country: South Sudan
+id_list:
+  items:
+  - uid: '18177'
+    id_type: Passport
+    id_number: B00001010
+    id_country: South Sudan
+    expiration_date: 11 Aug 2022
+  - uid: '132765'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '32767'
+    date_of_birth: 02 Jan 1962
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '32766'
+    place_of_birth: South Sudan
+    main_entry: 'true'

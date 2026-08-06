@@ -1,0 +1,45 @@
+---
+uid: '35888'
+last_name: JOINT STOCK COMPANY PROGRESS ARSENYEV AVIATION COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56423'
+    type: a.k.a.
+    category: strong
+    last_name: PROGRESS ARSENYEV AVIATION COMPANY
+  - uid: '56424'
+    type: a.k.a.
+    category: strong
+    last_name: JSC AAC PROGRESS
+  - uid: '56425'
+    type: a.k.a.
+    category: weak
+    last_name: PROGRESS AO
+address_list:
+  items:
+  - uid: '53860'
+    address1: Pl. Lenina D. 5
+    city: Arsenyev
+    postal_code: '692335'
+    country: Russia
+id_list:
+  items:
+  - uid: '25231'
+    id_type: Registration Number
+    id_number: '1022500510350'
+    id_country: Russia
+  - uid: '25232'
+    id_type: Tax ID No.
+    id_number: '2501002394'
+    id_country: Russia
+  - uid: '173283'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '149081'
+    id_type: Organization Established Date
+    id_number: '1936'
+remarks: "(Linked To: VERTOLETY ROSSII AO)"

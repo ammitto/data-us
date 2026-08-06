@@ -1,0 +1,61 @@
+---
+uid: '23568'
+last_name: KINEF OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13662
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '37158'
+    type: a.k.a.
+    category: strong
+    last_name: LLC KINEF
+  - uid: '37159'
+    type: a.k.a.
+    category: strong
+    last_name: KINEF
+  - uid: '37160'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY PRODUCTION ASSOCIATION KIRISHINEFTEORGSINTEZ
+address_list:
+  items:
+  - uid: '35641'
+    address1: d. 1 Shosse Entuziastov
+    city: Kirishi
+    state_or_province: Leningradskaya Oblast
+    postal_code: '187110'
+    country: Russia
+id_list:
+  items:
+  - uid: '15035'
+    id_type: Registration ID
+    id_number: '1024701478735'
+    id_country: Russia
+  - uid: '15036'
+    id_type: Tax ID No.
+    id_number: '4708007089'
+    id_country: Russia
+  - uid: '125440'
+    id_type: Nationality of Registration
+    id_number: Russia
+  - uid: '143952'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '125439'
+    id_type: Website
+    id_number: http://www.kinef.ru
+  - uid: '125438'
+    id_type: Email Address
+    id_number: kinef@kinef.ru
+  - uid: '125601'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 4
+  - uid: '183037'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: 'For more information, please reference the following link: http://www.treasury.gov/resource-center/sanctions/OFAC-Enforcement/Pages/OFAC-Recent-Actions.aspx;
+  (Linked To: SURGUTNEFTEGAS)'

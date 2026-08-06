@@ -1,0 +1,30 @@
+---
+uid: '41121'
+last_name: LIMITED LIABILITY COMPANY GARDA TECHNOLOGIES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '61472'
+    address1: Rodionova street, house 192, building 1
+    address2: room 153, office 901
+    city: Nizhniy Novgorod
+    state_or_province: Nizhegorodskaya oblast
+    postal_code: '603093'
+    country: Russia
+id_list:
+  items:
+  - uid: '30467'
+    id_type: Registration Number
+    id_number: '1175275040346'
+    id_country: Russia
+  - uid: '30468'
+    id_type: Tax ID No.
+    id_number: '5260443081'
+    id_country: Russia
+  - uid: '173651'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: LIMITED LIABILITY COMPANY CITADEL)"

@@ -1,0 +1,41 @@
+---
+uid: '50123'
+last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU SHAKHTA ESAULSKAYA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78147'
+    type: a.k.a.
+    category: strong
+    last_name: OOO ESAULSKAYA MINE
+  - uid: '78148'
+    type: a.k.a.
+    category: strong
+    last_name: SHAKHTA ESAULSKAYA OOO
+  - uid: '78149'
+    type: a.k.a.
+    category: strong
+    last_name: OOO SHAKHTA ESAULSKAIA
+address_list:
+  items:
+  - uid: '75836'
+    address1: PR-KT Kurako, Tsentralnyi District D. 33
+    city: Novokuznetsk
+    postal_code: '654006'
+    country: Russia
+id_list:
+  items:
+  - uid: '41708'
+    id_type: Registration Number
+    id_number: '1114253001807'
+    id_country: Russia
+  - uid: '41709'
+    id_type: Tax ID No.
+    id_number: '4253000827'
+    id_country: Russia
+  - uid: '178073'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

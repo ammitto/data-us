@@ -1,0 +1,33 @@
+---
+uid: '40816'
+last_name: LIMITED LIABILITY COMPANY ARENDOFF
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63506'
+    type: a.k.a.
+    category: strong
+    last_name: ARENDOFF OOO
+address_list:
+  items:
+  - uid: '60853'
+    address1: per. Sezzhinski, d. 3 str. 1
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '30035'
+    id_type: Tax ID No.
+    id_number: '7710724547'
+    id_country: Russia
+  - uid: '30036'
+    id_type: Registration Number
+    id_number: '1087746891594'
+    id_country: Russia
+  - uid: '174155'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: UDODOV, Aleksandr Yevgenyevich)"

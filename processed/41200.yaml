@@ -1,0 +1,66 @@
+---
+uid: '41200'
+last_name: NAJI PARS AMIN INSTITUTE
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-HR
+aka_list:
+  items:
+  - uid: '64233'
+    type: a.k.a.
+    category: strong
+    last_name: NAJI PARS INSTITUTE
+  - uid: '64234'
+    type: a.k.a.
+    category: weak
+    last_name: NAPA
+  - uid: '64235'
+    type: a.k.a.
+    category: strong
+    last_name: NAJI PARS AMIN NON-COMMERCIAL INSTITUTE
+address_list:
+  items:
+  - uid: '61611'
+    address1: Unit 17, Third Floor, Noor Building, Second Golestan
+    address2: Western corner of Water Organization Street
+    address3: Second square of Sadeghiyeh
+    city: Tehran
+    state_or_province: Tehran Province
+    country: Iran
+  - uid: '61612'
+    address1: Unit 7, Fifth Floor, No. 2, Shahid Ayatollah Dastgheib St
+    address2: End of Safa, Dastgheib neighborhood
+    address3: Central Sector
+    city: Tehran
+    state_or_province: Tehran Province
+    postal_code: '1349985884'
+    country: Iran
+  - uid: '61613'
+    address1: Unit 8, Fourth Floor Pars Building, End of the Sixth Alley, Mashouf
+      Street
+    address2: 20 meters from East Golestan, after Hammet Bridge, North Satari
+    city: Tehran
+    state_or_province: Tehran Province
+    country: Iran
+id_list:
+  items:
+  - uid: '30565'
+    id_type: National ID No.
+    id_number: '10320725224'
+    id_country: Iran
+  - uid: '30566'
+    id_type: Registration Number
+    id_number: '28723'
+    id_country: Iran
+  - uid: '30567'
+    id_type: Registration Number
+    id_number: '411399395956'
+    id_country: Iran
+  - uid: '159216'
+    id_type: Website
+    id_number: najipars.com
+  - uid: '159273'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: LAW ENFORCEMENT FORCES OF THE ISLAMIC REPUBLIC OF IRAN)"

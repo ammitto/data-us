@@ -1,0 +1,28 @@
+---
+uid: '12533'
+first_name: Jamal Mohamad
+last_name: KHAROUBI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '19672'
+    country: Lebanon
+id_list:
+  items:
+  - uid: '7034'
+    id_type: Passport
+    id_number: RL0068313
+    id_country: Lebanon
+date_of_birth_list:
+  items:
+  - uid: '8249'
+    date_of_birth: 01 Nov 1976
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '8250'
+    place_of_birth: Saida, Lebanon
+    main_entry: 'true'

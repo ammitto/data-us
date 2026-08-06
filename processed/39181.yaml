@@ -1,0 +1,37 @@
+---
+uid: '39181'
+last_name: MULTICLET CORPORATION
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '61103'
+    type: a.k.a.
+    category: strong
+    last_name: JSC MULTIKLET
+address_list:
+  items:
+  - uid: '58335'
+    address1: Office 135, 2 Chelyuskintsev Str.
+    address2: International Business Center Micron
+    city: Yekaterinburg
+    postal_code: '620014'
+    country: Russia
+  - uid: '58336'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '28403'
+    id_type: Tax ID No.
+    id_number: '6658365770'
+    id_country: Russia
+  - uid: '28404'
+    id_type: Registration Number
+    id_number: '1106658012746'
+    id_country: Russia
+  - uid: '174748'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

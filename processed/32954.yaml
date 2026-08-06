@@ -1,0 +1,43 @@
+---
+uid: '32954'
+last_name: JOINT STOCK COMPANY NOBILITY
+sdn_type: Entity
+program_list:
+  programs:
+  - PEESA-EO14039
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '51869'
+    type: a.k.a.
+    category: strong
+    last_name: NOBILITY JSC
+address_list:
+  items:
+  - uid: '49601'
+    address1: Bolshoy Sampsonievsky pr.
+    address2: 60, lit. A, pom. 2N/1114
+    city: St. Petersburg
+    postal_code: '194044'
+    country: Russia
+  - uid: '49602'
+    address1: Unit 2H114, Leter A, prospekt Bolshoy Sampsoniyevskiy 60
+    city: St. Petersburg
+    postal_code: '194044'
+    country: Russia
+id_list:
+  items:
+  - uid: '22653'
+    id_type: Business Registration Number
+    id_number: '1207800055341'
+    id_country: Russia
+  - uid: '22654'
+    id_type: Tax ID No.
+    id_number: '7802706763'
+    id_country: Russia
+  - uid: '45213'
+    id_type: Identification Number
+    id_number: IMO 6195490
+  - uid: '183225'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

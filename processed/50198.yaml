@@ -1,0 +1,34 @@
+---
+uid: '50198'
+last_name: JOINT STOCK COMPANY PLANT LEGMASH
+sdn_type: Entity
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '78320'
+    type: a.k.a.
+    category: strong
+    last_name: OTKRYTOE AKTSIONERNOE OBSCHESTVO ZAVOD LEGMASH
+  - uid: '78321'
+    type: a.k.a.
+    category: strong
+    last_name: OTKRYTOE AKTSIONERNOE OBSCHESTVO BELORUSSKIY METALLURGICHESKIY ZAVOD
+  - uid: '78322'
+    type: a.k.a.
+    category: strong
+    last_name: ZAVOD SHVEINYKH MASHIN OAO
+address_list:
+  items:
+  - uid: '76000'
+    address1: 17, per. Vostochny
+    city: Orsha
+    postal_code: '211390'
+    country: Belarus
+id_list:
+  items:
+  - uid: '41835'
+    id_type: Tax ID No.
+    id_number: '300228934'
+    id_country: Belarus

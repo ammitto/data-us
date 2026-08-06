@@ -1,0 +1,61 @@
+---
+uid: '40924'
+last_name: BANK SAINT-PETERSBURG PUBLIC JOINT STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '63748'
+    type: a.k.a.
+    category: strong
+    last_name: BANK SAINT-PETERSBURG PJSC
+  - uid: '63749'
+    type: a.k.a.
+    category: strong
+    last_name: BANK SAINT PETERSBURG
+  - uid: '63750'
+    type: f.k.a.
+    category: strong
+    last_name: OJSC BANK SAINT PETERSBURG
+address_list:
+  items:
+  - uid: '61066'
+    address1: 64A, Malookhtinsky PR
+    city: Saint Petersburg
+    postal_code: '195112'
+    country: Russia
+id_list:
+  items:
+  - uid: '30210'
+    id_type: Registration Number
+    id_number: '1027800000140'
+    id_country: Russia
+  - uid: '30211'
+    id_type: Tax ID No.
+    id_number: '7831000027'
+    id_country: Russia
+  - uid: '30212'
+    id_type: Legal Entity Number
+    id_number: 253400BEVESMWQRXBQ11
+  - uid: '158523'
+    id_type: Organization Established Date
+    id_number: 01 Jan 1990
+  - uid: '158524'
+    id_type: SWIFT/BIC
+    id_number: JSBSRU2P
+  - uid: '158525'
+    id_type: Website
+    id_number: www.bspb.ru
+  - uid: '175315'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184260'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '158526'
+    id_type: Target Type
+    id_number: Financial Institution

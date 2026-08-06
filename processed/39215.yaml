@@ -1,0 +1,40 @@
+---
+uid: '39215'
+first_name: Serhiy Mykolayovych
+last_name: CHEREVKO
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '61193'
+    type: a.k.a.
+    category: strong
+    last_name: CHEREVKO
+    first_name: Sergey Nikolaevich
+address_list:
+  items:
+  - uid: '58408'
+    address1: Apartment 6
+    address2: 18 Kommunarov Street
+    city: Kherson
+    state_or_province: Kherson Region
+    country: Ukraine
+id_list:
+  items:
+  - uid: '28454'
+    id_type: Tax ID No.
+    id_number: '2761603714'
+    id_country: Ukraine
+  - uid: '155015'
+    id_type: Gender
+    id_number: Male
+  - uid: '174772'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '55014'
+    date_of_birth: 11 Aug 1975
+    main_entry: 'true'

@@ -1,0 +1,39 @@
+---
+uid: '31871'
+first_name: Andrei Ivanavich
+last_name: SHVED
+sdn_type: Individual
+program_list:
+  programs:
+  - BELARUS
+aka_list:
+  items:
+  - uid: '49910'
+    type: a.k.a.
+    category: strong
+    last_name: SHVED
+    first_name: Andrei Ivanovich
+  - uid: '49911'
+    type: a.k.a.
+    category: strong
+    last_name: SHVED
+    first_name: Andrey Ivanovich
+address_list:
+  items:
+  - uid: '48622'
+    country: Belarus
+id_list:
+  items:
+  - uid: '140423'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '40420'
+    date_of_birth: 21 Apr 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '40421'
+    place_of_birth: Glushkovichi, Lelchitsy District, Gomel Oblast, Belarus
+    main_entry: 'true'

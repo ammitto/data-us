@@ -1,0 +1,28 @@
+---
+uid: '25101'
+last_name: PANAZEATE SL
+sdn_type: Entity
+program_list:
+  programs:
+  - VENEZUELA
+address_list:
+  items:
+  - uid: '38024'
+    address1: Calle Nou d'Octubre
+    address2: 18-BJ
+    city: Valencia
+    postal_code: '46014'
+    country: Spain
+  - uid: '38025'
+    address1: Calle Nou d'Octubre
+    address2: 18 Bajo
+    city: Valencia
+    postal_code: '46014'
+    country: Spain
+id_list:
+  items:
+  - uid: '16190'
+    id_type: Tax ID No.
+    id_number: B98525348
+    id_country: Spain
+remarks: "(Linked To: SARRIA DIAZ, Edgar Alberto)"

@@ -1,0 +1,39 @@
+---
+uid: '22248'
+first_name: Arcadio de Jesus
+last_name: DELGADO ROSALES
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+address_list:
+  items:
+  - uid: '33702'
+    city: Caracas
+    state_or_province: Capital District
+    country: Venezuela
+id_list:
+  items:
+  - uid: '13980'
+    id_type: Cedula No.
+    id_number: '4159158'
+    id_country: Venezuela
+  - uid: '13981'
+    id_type: Passport
+    id_number: '001875223'
+    id_country: Venezuela
+  - uid: '123606'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '23607'
+    date_of_birth: 23 Sep 1954
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '23608'
+    place_of_birth: Maracaibo, Zulia, Venezuela
+    main_entry: 'true'
+title: Vice President of the Constitutional Chamber of Venezuela's Supreme Court of
+  Justice

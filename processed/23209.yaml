@@ -1,0 +1,61 @@
+---
+uid: '23209'
+first_name: Abdullah Ibrahim
+last_name: AL-FAISAL
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '36525'
+    type: a.k.a.
+    category: strong
+    last_name: FAISAL
+    first_name: Abdullah
+  - uid: '36526'
+    type: a.k.a.
+    category: strong
+    last_name: EL-FAISAL
+    first_name: Abdulla
+  - uid: '36527'
+    type: a.k.a.
+    category: strong
+    last_name: FORREST
+    first_name: Trevor William
+address_list:
+  items:
+  - uid: '35100'
+    address1: 8 Windsor Road
+    city: Spanishtown
+    country: Jamaica
+id_list:
+  items:
+  - uid: '14671'
+    id_type: National ID No.
+    id_number: '119458128'
+    id_country: Jamaica
+  - uid: '14672'
+    id_type: Passport
+    id_number: A2791188
+  - uid: '186666'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '124892'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '24893'
+    date_of_birth: '09 Oct 1963'
+    main_entry: 'true'
+  - uid: '24894'
+    date_of_birth: 10 Sep 1963
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '24895'
+    place_of_birth: Jamaica
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC STATE OF IRAQ AND THE LEVANT)"

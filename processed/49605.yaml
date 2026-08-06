@@ -1,0 +1,41 @@
+---
+uid: '49605'
+first_name: Cesar
+last_name: CAZARIN MOLINA
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '77365'
+    type: a.k.a.
+    category: weak
+    last_name: TORNADO
+  - uid: '77584'
+    type: a.k.a.
+    category: weak
+    last_name: DELGADO RENTERIA, Victor Hugo
+address_list:
+  items:
+  - uid: '74894'
+    country: Mexico
+id_list:
+  items:
+  - uid: '41009'
+    id_type: C.U.R.P.
+    id_number: CAMC800206HVZZLS07
+    id_country: Mexico
+  - uid: '172889'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '72885'
+    date_of_birth: 06 Feb 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '72886'
+    place_of_birth: Veracruz, Mexico
+    main_entry: 'true'

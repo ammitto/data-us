@@ -1,0 +1,28 @@
+---
+uid: '30629'
+last_name: KAVE COFFEE S.A.
+sdn_type: Entity
+program_list:
+  programs:
+  - CUBA
+aka_list:
+  items:
+  - uid: '48174'
+    type: a.k.a.
+    category: strong
+    last_name: KAVE COFFEE S A
+address_list:
+  items:
+  - uid: '46339'
+    country: Panama
+  - uid: '46340'
+    address1: Calle A No. 310 entre 3ra y 5ta
+    address2: Municipio Playa
+    city: Havana
+    country: Cuba
+id_list:
+  items:
+  - uid: '20732'
+    id_type: 'RUC #'
+    id_number: 22044-123-197519
+    id_country: Panama

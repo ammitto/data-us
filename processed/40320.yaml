@@ -1,0 +1,40 @@
+---
+uid: '40320'
+last_name: TECHNOPOLE COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '62695'
+    type: a.k.a.
+    category: strong
+    last_name: LLC COMPANY TEKHNOPOL
+  - uid: '62696'
+    type: a.k.a.
+    category: strong
+    last_name: LLC KOMPANIYA TEKHNOPOL
+address_list:
+  items:
+  - uid: '60093'
+    address1: 5-183 Entuziastov Str.
+    city: Dubna
+    postal_code: '141980'
+    country: Russia
+id_list:
+  items:
+  - uid: '29502'
+    id_type: Tax ID No.
+    id_number: '5010027226'
+    id_country: Russia
+  - uid: '29503'
+    id_type: Registration Number
+    id_number: '1025001414283'
+    id_country: Russia
+  - uid: '174081'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '157433'
+    id_type: Organization Established Date
+    id_number: '1992'

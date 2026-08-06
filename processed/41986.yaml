@@ -1,0 +1,44 @@
+---
+uid: '41986'
+last_name: LIMITED LIABILITY COMPANY BSP GLOBAL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65250'
+    type: a.k.a.
+    category: strong
+    last_name: BSP SECURITY
+  - uid: '65251'
+    type: a.k.a.
+    category: strong
+    last_name: LLC BSP GLOBAL
+address_list:
+  items:
+  - uid: '62630'
+    address1: ul. Im. Selezneva d. 2
+    address2: k. 5, pomeshch. 5/1
+    city: Krasnodar
+    postal_code: '350059'
+    country: Russia
+  - uid: '62631'
+    address1: ul. Im Shevchenko, d. 152/4
+    address2: pomeshchenie 204/2
+    city: Krasnodar
+    postal_code: '350001'
+    country: Russia
+id_list:
+  items:
+  - uid: '31376'
+    id_type: Registration Number
+    id_number: '1172375014470'
+    id_country: Russia
+  - uid: '31377'
+    id_type: Tax ID No.
+    id_number: '2309154426'
+    id_country: Russia
+  - uid: '173724'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

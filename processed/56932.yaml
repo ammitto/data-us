@@ -1,0 +1,27 @@
+---
+uid: '56932'
+last_name: SEA SURF SHIPPING LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '87140'
+    address1: Ibrahim Koray Sokak 20/6, Aydintepe Mah., 99500 Tuzla
+    state_or_province: Istanbul
+    country: Turkey
+id_list:
+  items:
+  - uid: '51086'
+    id_type: Identification Number
+    id_number: IMO 6477625
+  - uid: '196042'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
+      Sanctions Regulations
+  - uid: '196016'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: "(Linked To: HIZBALLAH)"

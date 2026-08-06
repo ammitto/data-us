@@ -1,0 +1,36 @@
+---
+uid: '45012'
+last_name: LIMITED LIABILITY COMPANY YANSKAYA GORNAYA KOMPANIYA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69698'
+    type: a.k.a.
+    category: weak
+    last_name: OOO YAGK
+address_list:
+  items:
+  - uid: '67011'
+    address1: Usovo Village, Building 100
+    address2: Block B, Floor 1, Suite 6
+    city: Odintsovo
+    state_or_province: Moscow Region
+    postal_code: '143084'
+    country: Russia
+id_list:
+  items:
+  - uid: '34690'
+    id_type: Registration Number
+    id_number: '1157746396191'
+    id_country: Russia
+  - uid: '34691'
+    id_type: Tax ID No.
+    id_number: '7736244961'
+    id_country: Russia
+  - uid: '175894'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: UNITED ARCTIC COMPANY LLC)"

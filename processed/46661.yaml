@@ -1,0 +1,33 @@
+---
+uid: '46661'
+last_name: LIMITED LIABILITY COMPANY NORTHWESTERN BEARING COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '72023'
+    type: a.k.a.
+    category: strong
+    last_name: SEVERO ZAPADNAYA PODSHIPNIKOVAYA KOMPANIYA
+address_list:
+  items:
+  - uid: '69479'
+    address1: Polyustrovskii Prt D. 70
+    city: Saint Petersburg
+    postal_code: '195197'
+    country: Russia
+id_list:
+  items:
+  - uid: '36670'
+    id_type: Registration Number
+    id_number: '1027810311572'
+    id_country: Russia
+  - uid: '36672'
+    id_type: Tax ID No.
+    id_number: '7826058631'
+    id_country: Russia
+  - uid: '175049'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

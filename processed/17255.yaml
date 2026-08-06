@@ -1,0 +1,66 @@
+---
+uid: '17255'
+last_name: MYTISHCHI MACHINE BUILDING PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13661
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '26565'
+    type: a.k.a.
+    category: strong
+    last_name: OTKRYTOE AKTSIONERNOE OBSHCHESTVO 'MYTISHCHINSKI MASHINOSTROITELNY
+      ZAVOD'
+  - uid: '26566'
+    type: a.k.a.
+    category: strong
+    last_name: JSC MYTISHCHINSKI MACHINE-BUILDING PLANT
+  - uid: '66942'
+    type: a.k.a.
+    category: strong
+    last_name: MYTISHCHINSKI MACHINOSTROITELNY ZAVOD, OAO
+  - uid: '66946'
+    type: a.k.a.
+    category: weak
+    last_name: MMZ JSC
+address_list:
+  items:
+  - uid: '26309'
+    address1: 4 ul. Kolontsova Mytishchi
+    city: Mytishchinski Raion
+    state_or_province: Moscow Region
+    postal_code: '141009'
+    country: Russia
+  - uid: '64444'
+    address1: Yaroslavl highway 33
+    city: Mytishchi
+    state_or_province: Moscow Region
+    country: Russia
+  - uid: '64445'
+    address1: VL 11 st. Frunze
+    city: Mytishchi
+    state_or_province: Moscow Region
+    country: Russia
+id_list:
+  items:
+  - uid: '9694'
+    id_type: Registration ID
+    id_number: '1095029003860'
+    id_country: Russia
+  - uid: '9695'
+    id_type: Government Gazette Number
+    id_number: '61540868'
+    id_country: Russia
+  - uid: '32763'
+    id_type: Tax ID No.
+    id_number: '5029126076'
+    id_country: Russia
+  - uid: '173862'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '143521'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

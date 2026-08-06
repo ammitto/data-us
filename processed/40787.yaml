@@ -1,0 +1,50 @@
+---
+uid: '40787'
+first_name: Nikolay Simeonov
+last_name: MALINOV
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '63432'
+    type: a.k.a.
+    category: strong
+    last_name: MALINOV
+    first_name: Nikolai
+  - uid: '63433'
+    type: a.k.a.
+    category: strong
+    last_name: MALINOV
+    first_name: Nikolai Simeonov
+address_list:
+  items:
+  - uid: '60793'
+    address1: Sredna Gora Street 131
+    city: Sofia
+    country: Bulgaria
+id_list:
+  items:
+  - uid: '29986'
+    id_type: National ID No.
+    id_number: '6809126520'
+    id_country: Bulgaria
+  - uid: '29987'
+    id_type: Personal ID Card
+    id_number: '640466277'
+    id_country: Bulgaria
+    issue_date: 28 Jun 2010
+  - uid: '158287'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '58286'
+    date_of_birth: 12 Sep 1968
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '58290'
+    place_of_birth: Sofia, Bulgaria
+    main_entry: 'true'

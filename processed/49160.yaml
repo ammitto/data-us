@@ -1,0 +1,45 @@
+---
+uid: '49160'
+last_name: JOINT STOCK COMPANY RUSSIAN NATIONAL REINSURANCE COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '76616'
+    type: a.k.a.
+    category: weak
+    last_name: RNRC
+  - uid: '76617'
+    type: a.k.a.
+    category: weak
+    last_name: RNPK
+address_list:
+  items:
+  - uid: '73973'
+    address1: Duat Place III Business Centre, Floor 5, 6 Gasheka Street
+    city: Moscow
+    postal_code: '125047'
+    country: Russia
+id_list:
+  items:
+  - uid: '40259'
+    id_type: Registration Number
+    id_number: '1167746727378'
+    id_country: Russia
+  - uid: '40260'
+    id_type: Tax ID No.
+    id_number: '7706440687'
+    id_country: Russia
+  - uid: '172710'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184253'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '172332'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

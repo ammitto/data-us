@@ -1,0 +1,39 @@
+---
+uid: '36001'
+last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU LUCHANO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56644'
+    type: a.k.a.
+    category: weak
+    last_name: LUCHANO OOO
+  - uid: '56645'
+    type: a.k.a.
+    category: strong
+    last_name: LUCIANO HOTEL AND SPA
+address_list:
+  items:
+  - uid: '54060'
+    address1: ul. Ostrovskogo d. 26
+    address2: office 43/3
+    city: Kazan
+    postal_code: '420111'
+    country: Russia
+id_list:
+  items:
+  - uid: '25336'
+    id_type: Tax ID No.
+    id_number: '1655148063'
+    id_country: Russia
+  - uid: '25337'
+    id_type: Registration Number
+    id_number: '1071690070100'
+    id_country: Russia
+  - uid: '173327'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: MINNIKHANOVA, Gulsina Akhatovna)"

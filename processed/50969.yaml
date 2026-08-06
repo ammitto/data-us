@@ -1,0 +1,33 @@
+---
+uid: '50969'
+last_name: LIMITED LIABILITY COMPANY RESEARCH INSTITUTION ISON ORBITAL DYNAMICS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80466'
+    type: a.k.a.
+    category: strong
+    last_name: RDI ISON OD
+address_list:
+  items:
+  - uid: '77439'
+    address1: Pr-kt Gagarina, d. 3/8, pomeshch. 010
+    city: Lyubertsy
+    postal_code: '140015'
+    country: Russia
+id_list:
+  items:
+  - uid: '42994'
+    id_type: Registration Number
+    id_number: '1245000032970'
+    id_country: Russia
+  - uid: '42995'
+    id_type: Tax ID No.
+    id_number: '5027327002'
+    id_country: Russia
+  - uid: '179841'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

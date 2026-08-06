@@ -1,0 +1,28 @@
+---
+uid: '55665'
+last_name: SULLANA INC
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '85163'
+    address1: Trust Company Complex
+    address2: Ajeltake Road
+    city: Ajeltake Island
+    state_or_province: Majuro
+    postal_code: '96960'
+    country: Marshall Islands
+id_list:
+  items:
+  - uid: '49707'
+    id_type: Identification Number
+    id_number: IMO 6489305
+  - uid: '49708'
+    id_type: Registration Number
+    id_number: '123122'
+    id_country: Marshall Islands
+  - uid: '193271'
+    id_type: Organization Established Date
+    id_number: 01 Dec 2023

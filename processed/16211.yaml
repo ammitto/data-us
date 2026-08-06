@@ -1,0 +1,48 @@
+---
+uid: '16211'
+last_name: DISTRIBUIDORA E IMPORTADORA DE PRODUCTOS MEDICOS DEL NORTE, S.A. DE C.V.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '24420'
+    city: Monterrey
+    state_or_province: Nuevo Leon
+    country: Mexico
+  - uid: '24421'
+    city: Nuevo Laredo
+    state_or_province: Tamaulipas
+    country: Mexico
+  - uid: '24422'
+    address1: Nueva Escoca No. 4310
+    address2: Industrial Habitacional Abraham Lincoln
+    city: Monterrey
+    state_or_province: Nuevo Leon
+    country: Mexico
+  - uid: '24423'
+    address1: Calle Texcoco No. 119
+    address2: Colonia Mitras Centro
+    city: Monterrey
+    state_or_province: Nuevo Leon
+    postal_code: '64460'
+    country: Mexico
+  - uid: '24424'
+    address1: Av. Ruiz Cortinez
+    address2: 1200 PTE
+    city: Monterrey
+    state_or_province: Nuevo Leon
+    postal_code: '64299'
+    country: Mexico
+id_list:
+  items:
+  - uid: '8835'
+    id_type: Folio Mercantil No.
+    id_number: '117592'
+    id_country: Mexico
+    issue_date: 11 Nov 2009
+  - uid: '8881'
+    id_type: SRE Permit No.
+    id_number: '1909004'
+    id_country: Mexico

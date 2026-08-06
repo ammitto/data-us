@@ -1,0 +1,53 @@
+---
+uid: '43074'
+last_name: FEDERAL STATE UNITARY ENTERPRISE S.V. LEBEDEV INSTITUTE OF SYNTHETIC RUBBER
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '66702'
+    type: a.k.a.
+    category: weak
+    last_name: FSUE ISR
+  - uid: '66703'
+    type: a.k.a.
+    category: strong
+    last_name: FEDERAL STATE UNITARY ENTERPRISE RESEARCH INSTITUTE OF SYNTHETIC RUBBER
+  - uid: '66704'
+    type: a.k.a.
+    category: weak
+    last_name: FSUE RISR
+  - uid: '66706'
+    type: a.k.a.
+    category: strong
+    last_name: FEDERALNOYE GOSUDARSTVENNOYE UNITARNOYE PREDPRIYATIYE NAUCHNO-ISSLEDOVATELSKIY
+      INSTITUT SINTETICHESKOGO KAUCHUKA
+  - uid: '66707'
+    type: a.k.a.
+    category: weak
+    last_name: FGUP-NIISK
+address_list:
+  items:
+  - uid: '64225'
+    address1: 1 Gapsalskaya Str.
+    city: St. Petersburg
+    postal_code: '198035'
+    country: Russia
+id_list:
+  items:
+  - uid: '32651'
+    id_type: Tax ID No.
+    id_number: '7805005251'
+    id_country: Russia
+  - uid: '32652'
+    id_type: Registration Number
+    id_number: '1027802761733'
+    id_country: Russia
+  - uid: '175512'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '161987'
+    id_type: Organization Established Date
+    id_number: 29 Dec 2021

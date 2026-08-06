@@ -1,0 +1,48 @@
+---
+uid: '45926'
+first_name: Gleb Romanovich
+last_name: TROTSENKO
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '68410'
+    address1: 32-1 2th Vladimirskaia
+    address2: APT 34B
+    city: Moscow
+    postal_code: '111401'
+    country: Russia
+id_list:
+  items:
+  - uid: '35726'
+    id_type: Tax ID No.
+    id_number: '772035471174'
+    id_country: Russia
+  - uid: '35730'
+    id_type: Passport
+    id_number: '761134389'
+    id_country: Russia
+    expiration_date: 18 Jul 2029
+  - uid: '35735'
+    id_type: Passport
+    id_number: '650682691'
+    id_country: Russia
+    expiration_date: 16 Jun 2022
+  - uid: '176993'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '166615'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '66617'
+    date_of_birth: 18 Jun 2001
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '66616'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'

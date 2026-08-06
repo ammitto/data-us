@@ -1,0 +1,38 @@
+---
+uid: '57489'
+first_name: Nasser
+last_name: GHASEMI RAD
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '88125'
+    country: Iran
+id_list:
+  items:
+  - uid: '51843'
+    id_type: Passport
+    id_number: RE0003971
+    id_country: Saint Kitts and Nevis
+  - uid: '51844'
+    id_type: National ID No.
+    id_number: '6389562950'
+    id_country: Iran
+  - uid: '197679'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '197678'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '97674'
+    date_of_birth: 01 Aug 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '97675'
+    place_of_birth: Silvaneh, Orumiyeh, Iran
+    main_entry: 'true'

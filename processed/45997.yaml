@@ -1,0 +1,41 @@
+---
+uid: '45997'
+first_name: Anatoliy Nikolaevich
+last_name: TKACHUK
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '71068'
+    type: a.k.a.
+    category: strong
+    last_name: TKACHUK
+    first_name: Anatoli Nikolaevich
+address_list:
+  items:
+  - uid: '68495'
+    country: Russia
+id_list:
+  items:
+  - uid: '35815'
+    id_type: Tax ID No.
+    id_number: '773117597363'
+    id_country: Russia
+  - uid: '174871'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '166638'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '66637'
+    date_of_birth: '08 Oct 1950'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '66641'
+    place_of_birth: Vladivostok, Russia
+    main_entry: 'true'

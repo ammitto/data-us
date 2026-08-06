@@ -1,0 +1,38 @@
+---
+uid: '58139'
+first_name: Dounia
+last_name: ETTAIB
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+address_list:
+  items:
+  - uid: '89284'
+    city: Milan
+    country: Italy
+id_list:
+  items:
+  - uid: '52709'
+    id_type: Passport
+    id_number: YC7432706
+    id_country: Italy
+    expiration_date: 24 Sep 2034
+  - uid: '199594'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '199582'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '99581'
+    date_of_birth: 27 Apr 1979
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '99583'
+    place_of_birth: Casablanca, Morocco
+    main_entry: 'true'
+remarks: "(Linked To: NAMAZI, Behrouz)"

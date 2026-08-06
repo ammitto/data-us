@@ -1,0 +1,37 @@
+---
+uid: '32897'
+last_name: ORBIT PETROCHEMICALS TRADING LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '51769'
+    type: a.k.a.
+    category: strong
+    last_name: ORBIT PETROCHEMICALS LLC
+  - uid: '51770'
+    type: a.k.a.
+    category: strong
+    last_name: ORBIT PETROCHEMICALS
+address_list:
+  items:
+  - uid: '49540'
+    address1: P.O. Box 2800, Seeb
+    city: Muscat
+    country: Oman
+id_list:
+  items:
+  - uid: '22600'
+    id_type: Business Registration Number
+    id_number: '1089008'
+    id_country: Oman
+  - uid: '187346'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '142638'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: NIMR INTERNATIONAL L.L.C.)"

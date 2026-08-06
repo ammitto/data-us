@@ -1,0 +1,40 @@
+---
+uid: '41317'
+first_name: Osman
+last_name: MEHMEDAGIC
+sdn_type: Individual
+program_list:
+  programs:
+  - BALKANS-EO14033
+aka_list:
+  items:
+  - uid: '64368'
+    type: a.k.a.
+    category: weak
+    last_name: OSMICA
+address_list:
+  items:
+  - uid: '61746'
+    address1: Mis Irbina No. 18
+    city: Sarajevo
+    postal_code: '71000'
+    country: Bosnia and Herzegovina
+id_list:
+  items:
+  - uid: '30696'
+    id_type: National ID No.
+    id_number: '0111962172659'
+    id_country: Bosnia and Herzegovina
+  - uid: '159409'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '59407'
+    date_of_birth: 01 Nov 1962
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '59408'
+    place_of_birth: Sarajevo, Bosnia and Herzegovina
+    main_entry: 'true'

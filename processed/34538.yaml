@@ -1,0 +1,45 @@
+---
+uid: '34538'
+last_name: VIETNAM-RUSSIA JOINT VENTURE BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54093'
+    type: a.k.a.
+    category: strong
+    last_name: NGAN HANG LIEN DOANH VIET- NGA
+address_list:
+  items:
+  - uid: '51768'
+    address1: No.1 Yet Kieu str.
+    address2: Hoan Kiem District
+    city: Hanoi
+    country: Vietnam
+  - uid: '51769'
+    address1: Floor 1, 2nd Floor, No 1, Yet Kieu Street,
+    address2: Tran Hung Dao Ward
+    address3: Hoan Kiem District
+    city: Hanoi
+    country: Vietnam
+id_list:
+  items:
+  - uid: '24178'
+    id_type: Registration Number
+    id_number: '0102100878'
+    id_country: Vietnam
+  - uid: '146699'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '177047'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '145970'
+    id_type: SWIFT/BIC
+    id_number: VRBAVNVX
+  - uid: '145971'
+    id_type: Website
+    id_number: vrbank.com.vn/en
+remarks: "(Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)"

@@ -1,0 +1,29 @@
+---
+uid: '58055'
+last_name: MILICIAS DE TROPAS TERRITORIALES
+sdn_type: Entity
+program_list:
+  programs:
+  - CUBA-EO14404
+aka_list:
+  items:
+  - uid: '89791'
+    type: a.k.a.
+    category: weak
+    last_name: TERRITORIAL TROOP MILITIAS
+  - uid: '89792'
+    type: a.k.a.
+    category: weak
+    last_name: MTT
+address_list:
+  items:
+  - uid: '89154'
+    country: Cuba
+id_list:
+  items:
+  - uid: '199345'
+    id_type: Organization Established Date
+    id_number: 20 Jan 1980
+  - uid: '199344'
+    id_type: Target Type
+    id_number: Government Entity

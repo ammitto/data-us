@@ -1,0 +1,25 @@
+---
+uid: '25525'
+last_name: EP-IRT
+sdn_type: Aircraft
+program_list:
+  programs:
+  - IRAN
+id_list:
+  items:
+  - uid: '129242'
+    id_type: Aircraft Manufacture Date
+    id_number: 03 Mar 1975
+  - uid: '129244'
+    id_type: Aircraft Model
+    id_number: B727
+  - uid: '129245'
+    id_type: Aircraft Operator
+    id_number: Iran Air
+  - uid: '129243'
+    id_type: Aircraft Manufacturer's Serial Number (MSN)
+    id_number: '21078'
+  - uid: '129461'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: IRAN AIR)"

@@ -1,0 +1,91 @@
+---
+uid: '10901'
+first_name: Hermagoras
+last_name: GONZALEZ POLANCO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '11116'
+    type: a.k.a.
+    category: strong
+    last_name: GONZALEZ APUSHANA
+    first_name: Armando
+  - uid: '11117'
+    type: a.k.a.
+    category: strong
+    last_name: GONZALEZ POLANCO
+    first_name: Amaury
+  - uid: '11118'
+    type: a.k.a.
+    category: weak
+    last_name: GORDITO POLANCO
+  - uid: '11119'
+    type: a.k.a.
+    category: weak
+    last_name: EL GORDO BAEZ
+  - uid: '11120'
+    type: a.k.a.
+    category: weak
+    last_name: UNCLE TOLI
+  - uid: '11121'
+    type: a.k.a.
+    category: weak
+    last_name: MILCIADES
+address_list:
+  items:
+  - uid: '15702'
+    address1: Avenida El Milagro
+    address2: Edificio Villa Virginia
+    city: Maracaibo
+    state_or_province: Zulia
+    country: Venezuela
+  - uid: '15703'
+    address1: Karla Karolin Penthouse
+    address2: Avenida 3 Entre 76 y 77
+    city: Maracaibo
+    state_or_province: Zulia
+    country: Venezuela
+  - uid: '15704'
+    city: Maracaibo
+    state_or_province: Zulia
+    country: Venezuela
+  - uid: '15705'
+    city: Caja Seca
+    state_or_province: Zulia
+    country: Venezuela
+  - uid: '15706'
+    city: Merida
+    state_or_province: Merida
+    country: Venezuela
+  - uid: '15707'
+    city: Maicao
+    state_or_province: Guajira
+    country: Colombia
+  - uid: '15708'
+    country: Aruba
+id_list:
+  items:
+  - uid: '5418'
+    id_type: Cedula No.
+    id_number: '7789819'
+    id_country: Venezuela
+  - uid: '5419'
+    id_type: Cedula No.
+    id_number: '84041400'
+    id_country: Colombia
+date_of_birth_list:
+  items:
+  - uid: '6325'
+    date_of_birth: 19 Oct 1962
+    main_entry: 'true'
+  - uid: '6326'
+    date_of_birth: 19 Oct 1959
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '6327'
+    place_of_birth: Maicao, Guajira, Colombia
+    main_entry: 'true'

@@ -1,0 +1,39 @@
+---
+uid: '15043'
+last_name: DREAM II
+sdn_type: Vessel
+program_list:
+  programs:
+  - IRAN
+aka_list:
+  items:
+  - uid: '22156'
+    type: f.k.a.
+    category: strong
+    last_name: DANESH
+  - uid: '24779'
+    type: f.k.a.
+    category: strong
+    last_name: LEADERSHIP
+  - uid: '40673'
+    type: f.k.a.
+    category: strong
+    last_name: DECESIVE
+id_list:
+  items:
+  - uid: '8052'
+    id_type: Vessel Registration Identification
+    id_number: IMO 9356593
+  - uid: '8121'
+    id_type: MMSI
+    id_number: '677049200'
+  - uid: '111462'
+    id_type: Former Vessel Flag
+    id_number: Cyprus
+  - uid: '112997'
+    id_type: Former Vessel Flag
+    id_number: Tanzania
+  - uid: '119272'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: NATIONAL IRANIAN TANKER COMPANY)"

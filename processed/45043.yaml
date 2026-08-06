@@ -1,0 +1,51 @@
+---
+uid: '45043'
+last_name: LIMITED LIABILITY COMPANY TRIBIT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69790'
+    type: a.k.a.
+    category: strong
+    last_name: LLC TRIBIT
+  - uid: '69792'
+    type: a.k.a.
+    category: strong
+    last_name: TRIBIT OOO
+  - uid: '69793'
+    type: a.k.a.
+    category: strong
+    last_name: TRIBIT
+address_list:
+  items:
+  - uid: '67076'
+    address1: d. 27/8 pom. P53
+    address2: ul. Varvarskaya
+    state_or_province: Nizhni Novgorod Region
+    postal_code: '603006'
+    country: Russia
+id_list:
+  items:
+  - uid: '34752'
+    id_type: Registration Number
+    id_number: '1185275050905'
+    id_country: Russia
+  - uid: '34753'
+    id_type: Tax ID No.
+    id_number: '5260457937'
+    id_country: Russia
+  - uid: '175918'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '165383'
+    id_type: Website
+    id_number: tribit.ru
+  - uid: '165382'
+    id_type: Organization Established Date
+    id_number: 20 Sep 2018
+  - uid: '165384'
+    id_type: 'Organization Type:'
+    id_number: Other information technology and computer service activities

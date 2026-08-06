@@ -1,0 +1,42 @@
+---
+uid: '40238'
+first_name: Aysen Sergeyevich
+last_name: NIKOLAYEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '62574'
+    type: a.k.a.
+    category: strong
+    last_name: NIKOLAEV
+    first_name: Aisen Sergeevich
+address_list:
+  items:
+  - uid: '59968'
+    state_or_province: Republic of Sakha (Yakutia)
+    country: Russia
+id_list:
+  items:
+  - uid: '29422'
+    id_type: Tax ID No.
+    id_number: '143514375097'
+    id_country: Russia
+  - uid: '174041'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '157190'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '57193'
+    date_of_birth: 22 Jan 1972
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '57194'
+    place_of_birth: St. Petersburg, Russia
+    main_entry: 'true'

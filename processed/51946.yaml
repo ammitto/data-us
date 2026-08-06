@@ -1,0 +1,53 @@
+---
+uid: '51946'
+first_name: Yurii Aleksandrovich
+last_name: OLENIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '81302'
+    type: a.k.a.
+    category: strong
+    last_name: OLENIN
+    first_name: Alexandrovich Yuri
+  - uid: '81303'
+    type: a.k.a.
+    category: strong
+    last_name: OLENIN
+    first_name: Yury Aleksandrovich
+address_list:
+  items:
+  - uid: '79172'
+    address1: Fersmana 11-32
+    city: Moscow
+    postal_code: '117312'
+    country: Russia
+id_list:
+  items:
+  - uid: '44718'
+    id_type: Tax ID No.
+    id_number: '583800439742'
+    id_country: Russia
+  - uid: '44991'
+    id_type: National ID No.
+    id_number: '5604391650'
+    id_country: Russia
+  - uid: '182532'
+    id_type: Gender
+    id_number: Male
+  - uid: '182529'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '82530'
+    date_of_birth: 13 Nov 1953
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '82531'
+    place_of_birth: Ganja, Azerbaijan
+    main_entry: 'true'

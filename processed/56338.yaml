@@ -1,0 +1,43 @@
+---
+uid: '56338'
+first_name: Asdrubal Rafael
+last_name: ESCOBAR CABRERA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+  - TCO
+aka_list:
+  items:
+  - uid: '87399'
+    type: a.k.a.
+    category: weak
+    last_name: El Asdrubal
+address_list:
+  items:
+  - uid: '86228'
+    country: Venezuela
+id_list:
+  items:
+  - uid: '50510'
+    id_type: Cedula No.
+    id_number: '21269516'
+    id_country: Venezuela
+  - uid: '194892'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '194731'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '94506'
+    date_of_birth: 04 Aug 1992
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '94864'
+    place_of_birth: Venezuela
+    main_entry: 'true'
+remarks: "(Linked To: TREN DE ARAGUA)"

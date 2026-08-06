@@ -1,0 +1,41 @@
+---
+uid: '35781'
+first_name: Andrey Yurievich
+last_name: SAPELIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '53673'
+    address1: Chertanovskaya Street 1B-1-289
+    city: Moscow
+    postal_code: '117639'
+    country: Russia
+id_list:
+  items:
+  - uid: '25100'
+    id_type: Tax ID No.
+    id_number: '772616582963'
+    id_country: Russia
+  - uid: '25101'
+    id_type: Passport
+    id_number: '530186647'
+    id_country: Russia
+  - uid: '148872'
+    id_type: Gender
+    id_number: Male
+  - uid: '173237'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '48870'
+    date_of_birth: 16 Sep 1965
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '48871'
+    place_of_birth: Belgorod, Russia
+    main_entry: 'true'

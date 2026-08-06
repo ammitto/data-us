@@ -1,0 +1,27 @@
+---
+uid: '52312'
+last_name: KANGEN MARITIME CORPORATION
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+address_list:
+  items:
+  - uid: '79914'
+    address1: 1st Floor, Dekk House, Zippora Street, Providence Industrial Estate
+    city: Port Victoria
+    state_or_province: Mahe
+    country: Seychelles
+id_list:
+  items:
+  - uid: '45271'
+    id_type: Identification Number
+    id_number: IMO 6466051
+  - uid: '183728'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '183729'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

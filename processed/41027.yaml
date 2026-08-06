@@ -1,0 +1,45 @@
+---
+uid: '41027'
+last_name: MAIN DIRECTORATE OF DEEP SEA RESEARCH
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '63956'
+    type: a.k.a.
+    category: weak
+    last_name: GUGI
+  - uid: '63957'
+    type: a.k.a.
+    category: strong
+    last_name: GLAVNOYE UPRAVLENIE GLUBOKOVODNYKH ISSLEDOVANII
+  - uid: '63958'
+    type: a.k.a.
+    category: strong
+    last_name: FEDERAL STATE INSTITUTION MILITARY UNIT 40056
+address_list:
+  items:
+  - uid: '61291'
+    address1: 26A Onezhskaya Str.
+    city: Moscow
+    postal_code: '125413'
+    country: Russia
+id_list:
+  items:
+  - uid: '30361'
+    id_type: Tax ID No.
+    id_number: '7743763446'
+    id_country: Russia
+  - uid: '173560'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184446'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '158805'
+    id_type: Organization Established Date
+    id_number: '08 Dec 2009'

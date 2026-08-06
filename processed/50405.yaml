@@ -1,0 +1,39 @@
+---
+uid: '50405'
+last_name: LIMITED LIABILITY COMPANY INTERREGIONGASCONSTRUCTION
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78785'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY LIDER STROY
+  - uid: '78786'
+    type: a.k.a.
+    category: strong
+    last_name: LLC IRGS
+address_list:
+  items:
+  - uid: '76419'
+    address1: Office 20G, Kom. 1G, Floor 1, Str. 50, D. 35
+    address2: Ul. Nizhnyaya Krasnoselskaya
+    city: Moscow
+    postal_code: '105066'
+    country: Russia
+id_list:
+  items:
+  - uid: '42183'
+    id_type: Registration Number
+    id_number: '1227700002870'
+    id_country: Russia
+  - uid: '42184'
+    id_type: Tax ID No.
+    id_number: '9701193519'
+    id_country: Russia
+  - uid: '178377'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: LIMITED LIABILITY COMPANY MEZHREGIONSTROY)"

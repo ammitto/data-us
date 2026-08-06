@@ -1,0 +1,46 @@
+---
+uid: '36367'
+last_name: LIMITED LIABILITY COMPANY RUSSIAN DIGITAL SOLUTIONS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '57254'
+    type: a.k.a.
+    category: strong
+    last_name: LLC RUS.TSIFRA
+  - uid: '57255'
+    type: a.k.a.
+    category: strong
+    last_name: LLC RUS.DIGITAL
+  - uid: '57256'
+    type: a.k.a.
+    category: strong
+    last_name: RUSSKIE TSIFROVYE RESHENIYA
+address_list:
+  items:
+  - uid: '54608'
+    address1: ul. Vyatskaya, d. 70
+    address2: 'pomeshch./floor 1/4, kom. #5'
+    city: Moscow
+    postal_code: '127015'
+    country: Russia
+id_list:
+  items:
+  - uid: '25768'
+    id_type: Tax ID No.
+    id_number: '7714468703'
+    id_country: Russia
+  - uid: '25769'
+    id_type: Registration Number
+    id_number: '1217700056991'
+    id_country: Russia
+  - uid: '149947'
+    id_type: Organization Established Date
+    id_number: 11 Feb 2021
+  - uid: '174011'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: MALOFEYEV, Kirill Konstantinovich)"

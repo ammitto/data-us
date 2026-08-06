@@ -1,0 +1,32 @@
+---
+uid: '54684'
+first_name: Celso Manuel
+last_name: GAMBOA SANCHEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '83520'
+    city: Cartago
+    country: Costa Rica
+id_list:
+  items:
+  - uid: '48391'
+    id_type: Cedula No.
+    id_number: '109380563'
+    id_country: Costa Rica
+  - uid: '190935'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '90932'
+    date_of_birth: 21 Apr 1976
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '90933'
+    place_of_birth: Carmen Central, San Jose, Costa Rica
+    main_entry: 'true'

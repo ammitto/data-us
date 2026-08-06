@@ -1,0 +1,33 @@
+---
+uid: '48817'
+last_name: LIMITED LIABILITY COMPANY INTERVESP M
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '73388'
+    address1: 20A Kuskovskaya Street
+    city: Moscow
+    postal_code: '111141'
+    country: Russia
+  - uid: '73390'
+    address1: Pr-Kt Zelenyi 20
+    address2: Et 12 Pom I kom 4
+    city: Moscow
+    postal_code: '111397'
+    country: Russia
+id_list:
+  items:
+  - uid: '39866'
+    id_type: Tax ID No.
+    id_number: '7706441909'
+    id_country: Russia
+  - uid: '39867'
+    id_type: Registration Number
+    id_number: '1167746856738'
+    id_country: Russia
+  - uid: '171474'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

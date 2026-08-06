@@ -1,0 +1,62 @@
+---
+uid: '46789'
+first_name: Hans
+last_name: DE GEETERE
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '72271'
+    type: a.k.a.
+    category: strong
+    last_name: DE GEETERE
+    first_name: Hans Maria Christiane Herve
+  - uid: '72272'
+    type: a.k.a.
+    category: weak
+    last_name: DE GEETERE, Hmch
+  - uid: '72273'
+    type: a.k.a.
+    category: weak
+    last_name: Dick Boss
+address_list:
+  items:
+  - uid: '69728'
+    address1: Paul Parmentierlaan 121
+    city: Knokke Heist
+    postal_code: '8300'
+    country: Belgium
+  - uid: '69729'
+    address1: Nyckeesstraat 4
+    city: Knokke Heist
+    postal_code: '8300'
+    country: Belgium
+id_list:
+  items:
+  - uid: '36871'
+    id_type: Passport
+    id_number: EN985009
+    id_country: Belgium
+    expiration_date: 26 Jul 2023
+  - uid: '36874'
+    id_type: National ID No.
+    id_number: '592945001464'
+    id_country: Belgium
+  - uid: '167580'
+    id_type: Gender
+    id_number: Male
+  - uid: '176306'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '67590'
+    date_of_birth: 20 Jun 1962
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '67591'
+    place_of_birth: Deinze, Belgium
+    main_entry: 'true'

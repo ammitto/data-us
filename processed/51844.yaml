@@ -1,0 +1,35 @@
+---
+uid: '51844'
+last_name: INGOSSTRAKH INSURANCE COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+address_list:
+  items:
+  - uid: '79008'
+    address1: Ul. Pyatnitskaya D. 12, Str. 2
+    city: Moscow
+    postal_code: '117997'
+    country: Russia
+id_list:
+  items:
+  - uid: '44543'
+    id_type: Registration Number
+    id_number: '1027739362474'
+    id_country: Russia
+  - uid: '44546'
+    id_type: Tax ID No.
+    id_number: '7705042179'
+    id_country: Russia
+  - uid: '44548'
+    id_type: Legal Entity Number
+    id_number: 253400GMWZ0DBU6G0E87
+  - uid: '182205'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183246'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

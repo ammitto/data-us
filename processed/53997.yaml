@@ -1,0 +1,44 @@
+---
+uid: '53997'
+last_name: MEDIA LAND, LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - CYBER4
+  - CAATSA - RUSSIA
+aka_list:
+  items:
+  - uid: '87328'
+    type: a.k.a.
+    category: strong
+    last_name: MEDIA LEND
+address_list:
+  items:
+  - uid: '82394'
+    address1: Zastavskaya st., n. 33
+    address2: Office 6A300
+    city: Saint Petersburg
+    postal_code: '196084'
+    country: Russia
+  - uid: '82395'
+    address1: Tsvetochnaya St., 16 Litera P, Room 27
+    address2: Moskovskaya Zastava Municipal District
+    city: Saint Petersburg
+    postal_code: '196066'
+    country: Russia
+id_list:
+  items:
+  - uid: '47435'
+    id_type: Registration Number
+    id_number: '1152536009900'
+    id_country: Russia
+  - uid: '50318'
+    id_type: Tax ID No.
+    id_number: '2536288610'
+    id_country: Russia
+  - uid: '194702'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+  - uid: '194759'
+    id_type: Organization Established Date
+    id_number: 19 Oct 2015

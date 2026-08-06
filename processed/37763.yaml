@@ -1,0 +1,59 @@
+---
+uid: '37763'
+last_name: BEGISHEVO AIRPORT JOINT STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59256'
+    type: a.k.a.
+    category: strong
+    last_name: AEROPORT BEGISHEVO AO
+  - uid: '59257'
+    type: a.k.a.
+    category: strong
+    last_name: BEGISHEVO INTERNATIONAL AIRPORT
+  - uid: '59258'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO AEROPORT BEGISHEVO
+  - uid: '59259'
+    type: a.k.a.
+    category: strong
+    last_name: BEGISHEVO AIRPORT OPEN JOINT STOCK COMPANY
+address_list:
+  items:
+  - uid: '56501'
+    address1: Aeroport Begishevo
+    city: Nizhnekamsk
+    postal_code: '423550'
+    country: Russia
+  - uid: '56502'
+    address1: Aeroport S. Biklyan
+    city: Tukaevski Raion
+    state_or_province: Tatarstan Resp.
+    postal_code: '423878'
+    country: Russia
+id_list:
+  items:
+  - uid: '27014'
+    id_type: Registration Number
+    id_number: '1061650059921'
+    id_country: Russia
+  - uid: '27015'
+    id_type: Tax ID No.
+    id_number: '1650145238'
+    id_country: Russia
+  - uid: '27016'
+    id_type: Government Gazette Number
+    id_number: '96889449'
+    id_country: Russia
+  - uid: '173495'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '152742'
+    id_type: Organization Established Date
+    id_number: 24 Aug 2006
+remarks: "(Linked To: KAMAZ PUBLICLY TRADED COMPANY)"

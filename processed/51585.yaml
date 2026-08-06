@@ -1,0 +1,49 @@
+---
+uid: '51585'
+last_name: ATLAS NNB
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '80862'
+    type: a.k.a.
+    category: strong
+    last_name: ATLAS DIRECTIONAL DRILLING SERVICES
+  - uid: '80863'
+    type: a.k.a.
+    category: weak
+    last_name: ATLAS DDS
+address_list:
+  items:
+  - uid: '78604'
+    address1: Ul. Grimau D. 10
+    address2: pomeshch. 7
+    city: Moscow
+    postal_code: '117036'
+    country: Russia
+  - uid: '78605'
+    address1: Ul. Mozhaysky Val
+    address2: Dom 8, Str. S
+    address3: 10 etazh
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '44046'
+    id_type: Registration Number
+    id_number: '1155836003212'
+    id_country: Russia
+  - uid: '44047'
+    id_type: Tax ID No.
+    id_number: '5836673287'
+    id_country: Russia
+  - uid: '181329'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183504'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

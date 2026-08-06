@@ -1,0 +1,44 @@
+---
+uid: '51527'
+last_name: AKTSIONERNOE OBSHCHESTVO UPRAVLENIE PO POVYSHENIYU NEFTEOTDACHI PLASTOV
+  I KAPITALNOMU REMONTU SKVAZHIN
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '80787'
+    type: a.k.a.
+    category: weak
+    last_name: AO UPNP I KRS
+address_list:
+  items:
+  - uid: '78514'
+    address1: Ul. Alma Atinskaya 125
+    city: Samara
+    postal_code: '443106'
+    country: Russia
+  - uid: '78516'
+    address1: Zona Promyshlennaya D. 9 A
+    city: Svetloye
+    postal_code: '446368'
+    country: Russia
+id_list:
+  items:
+  - uid: '43936'
+    id_type: Registration Number
+    id_number: '1026303801809'
+    id_country: Russia
+  - uid: '43937'
+    id_type: Tax ID No.
+    id_number: '6376000010'
+    id_country: Russia
+  - uid: '181170'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183478'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

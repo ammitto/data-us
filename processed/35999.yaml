@@ -1,0 +1,39 @@
+---
+uid: '35999'
+first_name: Rustam Nurgaliyevich
+last_name: MINNIKHANOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '54049'
+    state_or_province: Tatarstan
+    country: Russia
+  - uid: '54050'
+    city: Moscow
+    country: Russia
+  - uid: '54051'
+    country: France
+  - uid: '54052'
+    city: Dubai
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '173325'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '149292'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '49290'
+    date_of_birth: 01 Mar 1957
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '49291'
+    place_of_birth: Noviy Arysh, Rybno-Slobodskiy district, Tatarstan, Russia
+    main_entry: 'true'

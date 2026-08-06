@@ -1,0 +1,44 @@
+---
+uid: '38579'
+first_name: Yuriy Valeryevich
+last_name: CHECHIKHIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '60372'
+    type: a.k.a.
+    category: strong
+    last_name: CHECHIKHIN
+    first_name: Yurii Valeryevich
+  - uid: '60373'
+    type: a.k.a.
+    category: strong
+    last_name: CHECHIKHIN
+    first_name: Yuri Valerevich
+address_list:
+  items:
+  - uid: '57610'
+    address1: 27, Bolshaya Pirogovskaya St.
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '154042'
+    id_type: Gender
+    id_number: Male
+  - uid: '174679'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '54039'
+    date_of_birth: 05 Nov 1976
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '54041'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'

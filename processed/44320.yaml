@@ -1,0 +1,43 @@
+---
+uid: '44320'
+last_name: JOINT STOCK COMPANY ASTROPHYSIKA NATIONAL CENTRE OF LASER SYSTEMS AND COMPLEXES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '68556'
+    type: a.k.a.
+    category: strong
+    last_name: AO NTSLSK ASTROFIZIKA
+  - uid: '68557'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO NATSIONALNIY TSENTR LAZERNYKH SISTEM I KOMPLEKSOV
+      ASTROFIZIKA
+  - uid: '68558'
+    type: a.k.a.
+    category: strong
+    last_name: GP NPO ASTROFIZIKA
+address_list:
+  items:
+  - uid: '65996'
+    address1: Ul. Aleksandra Solzhenitsyna D. 27
+    address2: Pomeshch. I
+    city: Moscow
+    postal_code: '109004'
+    country: Russia
+id_list:
+  items:
+  - uid: '33787'
+    id_type: Registration Number
+    id_number: '1127747254744'
+    id_country: Russia
+  - uid: '33788'
+    id_type: Tax ID No.
+    id_number: '7733826256'
+    id_country: Russia
+  - uid: '173776'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

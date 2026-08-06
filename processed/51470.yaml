@@ -1,0 +1,41 @@
+---
+uid: '51470'
+last_name: LIMITED LIABILITY COMPANY SPECIALIZED DEPOSITORY COMPANY GARANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80716'
+    type: a.k.a.
+    category: strong
+    last_name: SDK GARANT
+address_list:
+  items:
+  - uid: '78426'
+    address1: Nab. Krasnopresnenskaya D. 8, Et. 10, Office 1032
+    city: Moscow
+    postal_code: '123100'
+    country: Russia
+  - uid: '78427'
+    address1: Ul. Sokolnicheskii Val D. 37
+    city: Moscow
+    postal_code: '107113'
+    country: Russia
+id_list:
+  items:
+  - uid: '43833'
+    id_type: Registration Number
+    id_number: '1027739142463'
+    id_country: Russia
+  - uid: '43834'
+    id_type: Tax ID No.
+    id_number: '7714184726'
+    id_country: Russia
+  - uid: '181010'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '182829'
+    id_type: Target Type
+    id_number: Financial Institution

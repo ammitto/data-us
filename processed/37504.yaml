@@ -1,0 +1,35 @@
+---
+uid: '37504'
+last_name: LIMITED LIABILITY COMPANY ALGORITM
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '58764'
+    type: a.k.a.
+    category: strong
+    last_name: LLC ALGORITM
+address_list:
+  items:
+  - uid: '56106'
+    address1: 33 Pobedy Avenue
+    city: Cherepovets
+    state_or_province: Vologda Region
+    postal_code: '162614'
+    country: Russia
+id_list:
+  items:
+  - uid: '26704'
+    id_type: Tax ID No.
+    id_number: '3528112847'
+    id_country: Russia
+  - uid: '26706'
+    id_type: Registration Number
+    id_number: '1063528067272'
+    id_country: Russia
+  - uid: '173421'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: MORDASHOV, Alexey Aleksandrovich)"

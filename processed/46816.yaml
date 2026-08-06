@@ -1,0 +1,43 @@
+---
+uid: '46816'
+first_name: Salah Abdallah Mohamed
+last_name: SALAH
+sdn_type: Individual
+program_list:
+  programs:
+  - SUDAN-EO14098
+aka_list:
+  items:
+  - uid: '72310'
+    type: a.k.a.
+    category: weak
+    last_name: GOSH, Salah
+  - uid: '72311'
+    type: a.k.a.
+    category: strong
+    last_name: SALEH
+    first_name: Salah Abdallah Mohamed
+  - uid: '72312'
+    type: a.k.a.
+    category: weak
+    last_name: GHOSH, Salah
+address_list:
+  items:
+  - uid: '69769'
+    city: Cairo
+    country: Egypt
+id_list:
+  items:
+  - uid: '167631'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '67629'
+    date_of_birth: '1957'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '67630'
+    place_of_birth: Nuri, Sudan
+    main_entry: 'true'

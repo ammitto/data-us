@@ -1,0 +1,35 @@
+---
+uid: '25619'
+last_name: DAY BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - IRAN
+  - SDGT
+aka_list:
+  items:
+  - uid: '40246'
+    type: a.k.a.
+    category: strong
+    last_name: DEY BANK
+address_list:
+  items:
+  - uid: '38740'
+    address1: 45 Vali Asr Ave, Parvin St
+    city: Tehran
+    postal_code: '1966835611'
+    country: Iran
+id_list:
+  items:
+  - uid: '129538'
+    id_type: SWIFT/BIC
+    id_number: DAYBIRTH
+  - uid: '129539'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '186808'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: 'All Offices Worldwide; (Linked To: MARTYRS FOUNDATION)'

@@ -1,0 +1,39 @@
+---
+uid: '51467'
+last_name: PUBLIC JOINT STOCK COMPANY BANK SINARA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '78419'
+    address1: Kuibyshev Str., 75
+    city: Yekaterinburg
+    postal_code: '620026'
+    country: Russia
+id_list:
+  items:
+  - uid: '43826'
+    id_type: Legal Entity Number
+    id_number: 253400WD8ULWSUGGXP64
+  - uid: '43827'
+    id_type: Registration Number
+    id_number: '1026600000460'
+    id_country: Russia
+  - uid: '43828'
+    id_type: Tax ID No.
+    id_number: '6608003052'
+    id_country: Russia
+  - uid: '181555'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '181007'
+    id_type: SWIFT/BIC
+    id_number: SKBERU4E
+  - uid: '181006'
+    id_type: Website
+    id_number: www.sinara.ru
+  - uid: '181004'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

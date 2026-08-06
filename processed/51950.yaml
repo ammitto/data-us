@@ -1,0 +1,57 @@
+---
+uid: '51950'
+first_name: Alexey Evgenyevich
+last_name: LIKHACHEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '81310'
+    type: a.k.a.
+    category: strong
+    last_name: LIKHACHEV
+    first_name: Alexey Yevgenyevich
+  - uid: '81312'
+    type: a.k.a.
+    category: strong
+    last_name: LIKHACHEV
+    first_name: Aleksei Evgenyevich
+address_list:
+  items:
+  - uid: '79184'
+    address1: 21-306 Naberezhnaya Tarasa Shevchenko
+    city: Moscow
+    postal_code: '121151'
+    country: Russia
+id_list:
+  items:
+  - uid: '44720'
+    id_type: Tax ID No.
+    id_number: '526100407083'
+    id_country: Russia
+  - uid: '44978'
+    id_type: National ID No.
+    id_number: '2208081700'
+    id_country: Russia
+  - uid: '45369'
+    id_type: National ID No.
+    id_number: '2203884025'
+    id_country: Russia
+  - uid: '182548'
+    id_type: Gender
+    id_number: Male
+  - uid: '182551'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '82545'
+    date_of_birth: 23 Dec 1962
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '82546'
+    place_of_birth: Arzamas-75, Sarov, Russia
+    main_entry: 'true'

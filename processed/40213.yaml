@@ -1,0 +1,47 @@
+---
+uid: '40213'
+last_name: FUJIAN NANAN IMPORT AND EXPORT CORPORATION
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK3
+aka_list:
+  items:
+  - uid: '62515'
+    type: a.k.a.
+    category: strong
+    last_name: FUJIAN NAN'AN IMPORT AND EXPORT COMPANY
+  - uid: '62516'
+    type: a.k.a.
+    category: strong
+    last_name: FUJIAN NANAN IMPORT & EXPORT COMPANY
+address_list:
+  items:
+  - uid: '59905'
+    address1: No. 198 Xinhua Street
+    city: Ximei Nanan City
+    state_or_province: Fujian
+    postal_code: '362300'
+    country: China
+id_list:
+  items:
+  - uid: '29384'
+    id_type: Unified Social Credit Code (USCC)
+    id_number: 91350583259861969M
+    id_country: China
+  - uid: '29385'
+    id_type: Business Registration Number
+    id_number: '350583100010710'
+    id_country: China
+  - uid: '29386'
+    id_type: Organization Code
+    id_number: '259861969'
+    id_country: China
+  - uid: '157123'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '157124'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+remarks: "(Linked To: SEK STUDIO)"

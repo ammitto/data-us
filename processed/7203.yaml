@@ -1,0 +1,45 @@
+---
+uid: '7203'
+first_name: Mohamed Ben Belgacem
+last_name: AOUADI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '5132'
+    type: a.k.a.
+    category: strong
+    last_name: AOUADI
+    first_name: Mohamed Ben Belkacem
+address_list:
+  items:
+  - uid: '5437'
+    address1: Via A. Masina n.7
+    city: Milano
+    country: Italy
+id_list:
+  items:
+  - uid: '3315'
+    id_type: Italian Fiscal Code
+    id_number: DAOMMD74T11Z352Z
+  - uid: '4057'
+    id_type: Passport
+    id_number: L 191609
+    issue_date: 28 Feb 1996
+    expiration_date: 27 Feb 2001
+  - uid: '185648'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '1393'
+    date_of_birth: 11 Dec 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '1394'
+    place_of_birth: Tunisia
+    main_entry: 'true'

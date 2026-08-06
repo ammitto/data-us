@@ -1,0 +1,33 @@
+---
+uid: '50319'
+last_name: JOINT STOCK COMPANY HOLDINGOVAYA KOMPANIYA SDS UGOL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78642'
+    type: a.k.a.
+    category: strong
+    last_name: JSC KHK SDS UGOL
+address_list:
+  items:
+  - uid: '76254'
+    address1: 7/2 prospekt Pritomski
+    city: Kemerovo
+    postal_code: '650066'
+    country: Russia
+id_list:
+  items:
+  - uid: '42036'
+    id_type: Registration Number
+    id_number: '1064205095360'
+    id_country: Russia
+  - uid: '42037'
+    id_type: Tax ID No.
+    id_number: '4205105080'
+    id_country: Russia
+  - uid: '178264'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

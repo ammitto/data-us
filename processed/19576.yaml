@@ -1,0 +1,26 @@
+---
+uid: '19576'
+last_name: MIRIM SHIPPING CO LTD
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK3
+address_list:
+  items:
+  - uid: '29725'
+    address1: Tonghung-dong
+    address2: Chung-guyok
+    city: Pyongyang
+    country: Korea, North
+id_list:
+  items:
+  - uid: '11882'
+    id_type: Vessel Registration Identification
+    id_number: IMO 5647684
+  - uid: '135056'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '127132'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210

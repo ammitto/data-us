@@ -1,0 +1,37 @@
+---
+uid: '56717'
+first_name: Ranveer
+last_name: SINGH
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '86870'
+    country: India
+id_list:
+  items:
+  - uid: '50829'
+    id_type: Passport
+    id_number: Z6920651
+    id_country: India
+    expiration_date: 16 Aug 2032
+  - uid: '195475'
+    id_type: Gender
+    id_number: Male
+  - uid: '195494'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '95474'
+    date_of_birth: 12 Feb 1983
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '95477'
+    place_of_birth: Ranchi, India
+    main_entry: 'true'
+remarks: "(Linked To: ANSARALLAH)"

@@ -1,0 +1,36 @@
+---
+uid: '47967'
+last_name: LIMITED LIABILITY COMPANY HS INVESTMENTS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74430'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY GS INVESTMENTS
+address_list:
+  items:
+  - uid: '71850'
+    address1: 40 Bolshoy Boulevard, Floor 5, Room 120
+    city: Moscow
+    postal_code: '121205'
+    country: Russia
+id_list:
+  items:
+  - uid: '38800'
+    id_type: Tax ID No.
+    id_number: '9731092500'
+    id_country: Russia
+  - uid: '38801'
+    id_type: Registration Number
+    id_number: '1227700269147'
+    id_country: Russia
+  - uid: '176565'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '170066'
+    id_type: 'Organization Type:'
+    id_number: Activities of holding companies

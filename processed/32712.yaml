@@ -1,0 +1,39 @@
+---
+uid: '32712'
+first_name: Andrei Nikolayevich
+last_name: BUNAKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - BELARUS
+aka_list:
+  items:
+  - uid: '51402'
+    type: a.k.a.
+    category: strong
+    last_name: BUNAKOV
+    first_name: Andrei
+  - uid: '51403'
+    type: a.k.a.
+    category: strong
+    last_name: BUNAKOV
+    first_name: Andrey
+address_list:
+  items:
+  - uid: '49267'
+    country: Belarus
+id_list:
+  items:
+  - uid: '142353'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '42351'
+    date_of_birth: 05 Jul 1971
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '42352'
+    place_of_birth: Svetlogorsk, Gomel Oblast, Belarus
+    main_entry: 'true'

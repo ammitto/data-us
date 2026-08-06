@@ -1,0 +1,42 @@
+---
+uid: '31004'
+first_name: Alejandro
+last_name: CHACON MIRANDA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '46883'
+    address1: Avenida Lopez Mateos Sur 4000
+    address2: Fraccionamiento San Martin del Tajo
+    address3: Interior Calle Camino del Azteca 121
+    city: Tlajomulco de Zuniga
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '46884'
+    address1: Calle Coral 2623
+    address2: Fraccionamiento Residencial Victoria
+    city: Guadalajara
+    state_or_province: Jalisco
+    country: Mexico
+id_list:
+  items:
+  - uid: '21040'
+    id_type: C.U.R.P.
+    id_number: CAMA850722HMNHRL02
+    id_country: Mexico
+  - uid: '139209'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '39207'
+    date_of_birth: 22 Jul 1985
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '39208'
+    place_of_birth: Ziracuaretiro, Michoacan, Mexico
+    main_entry: 'true'

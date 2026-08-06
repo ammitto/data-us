@@ -1,0 +1,64 @@
+---
+uid: '44080'
+last_name: OSIPYAN INSTITUTE OF SOLID STATE PHYSICS OF THE RUSSIAN ACADEMY OF SCIENCES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '68156'
+    type: a.k.a.
+    category: weak
+    last_name: ISSP RAS
+  - uid: '68157'
+    type: a.k.a.
+    category: weak
+    last_name: IFTT RAN
+  - uid: '68158'
+    type: a.k.a.
+    category: strong
+    last_name: INSTITUTE OF SOLID STATE PHYSICS OF THE ACADEMY OF SCIENCES SSSR
+  - uid: '68159'
+    type: f.k.a.
+    category: strong
+    last_name: FEDERAL STATE BUDGETARY INSTITUTION OF SCIENCE INSTITUTE OF SOLID STATE
+      PHYSICS N.A. YU. A. OSIPYAN OF THE RUSSIAN ACADEMY OF SCIENCES
+  - uid: '68160'
+    type: a.k.a.
+    category: strong
+    last_name: FEDERALNOE GOSUDARSTVENNOE BYUDZHETNOE UCHREZHDENIE NAUKI INSTITUT
+      FIZIKI TVERDOGO TELA ROSSISKOI AKADEMII NAUK FGBU
+  - uid: '68161'
+    type: f.k.a.
+    category: strong
+    last_name: FEDERALNOE GOSUDARSTVENNOE BYUDZHETNOE UCHREZHDENIE NAUKI INSTITUT
+      FIZIKI TVERDOGO TELA ROSSISKOI AKADEMII NAUK BU
+address_list:
+  items:
+  - uid: '65592'
+    address1: d. 2, ul. Akademika Osipyana
+    city: Chernogolovka
+    state_or_province: Moskovskaya Obl
+    postal_code: '142432'
+    country: Russia
+id_list:
+  items:
+  - uid: '33464'
+    id_type: Registration Number
+    id_number: '1025003915243'
+    id_country: Russia
+  - uid: '33465'
+    id_type: Tax ID No.
+    id_number: '5031003120'
+    id_country: Russia
+  - uid: '33466'
+    id_type: Government Gazette Number
+    id_number: '02699796'
+    id_country: Russia
+  - uid: '175753'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '163650'
+    id_type: Organization Established Date
+    id_number: 12 Mar 1998

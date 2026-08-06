@@ -1,0 +1,33 @@
+---
+uid: '34666'
+first_name: Htoo Htet
+last_name: TAY ZA
+sdn_type: Individual
+program_list:
+  programs:
+  - BURMA-EO14014
+aka_list:
+  items:
+  - uid: '54287'
+    type: a.k.a.
+    category: strong
+    last_name: TAYZA
+    first_name: Htoo Htet
+address_list:
+  items:
+  - uid: '51890'
+    country: Burma
+id_list:
+  items:
+  - uid: '146048'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '46047'
+    date_of_birth: 24 Jan 1993
+    main_entry: 'true'
+  - uid: '46128'
+    date_of_birth: 24 Jan 1994
+    main_entry: 'false'
+remarks: "(Linked To: ZA, Tay)"

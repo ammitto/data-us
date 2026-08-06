@@ -1,0 +1,39 @@
+---
+uid: '45859'
+last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU FAM ROBOTIKS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70855'
+    type: a.k.a.
+    category: weak
+    last_name: FAM ROBOTICS LLC
+  - uid: '70856'
+    type: a.k.a.
+    category: weak
+    last_name: LIMITED LIABILITY COMPANY FAMROBOTIKS
+address_list:
+  items:
+  - uid: '68231'
+    address1: Pr-Kt Malyi V.O. D. 57
+    address2: K. 3 Lit. A
+    address3: Pom.12N
+    city: Saint Petersburg
+    postal_code: '199178'
+    country: Russia
+id_list:
+  items:
+  - uid: '35612'
+    id_type: Registration Number
+    id_number: '1077847102695'
+    id_country: Russia
+  - uid: '35613'
+    id_type: Tax ID No.
+    id_number: '7801431788'
+    id_country: Russia
+  - uid: '176073'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

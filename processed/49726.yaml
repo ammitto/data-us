@@ -1,0 +1,45 @@
+---
+uid: '49726'
+first_name: Vladimir Grigoryevich
+last_name: TABAK
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '76635'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '41193'
+    id_type: Tax ID No.
+    id_number: '772589320839'
+    id_country: Russia
+  - uid: '42370'
+    id_type: National ID No.
+    id_number: '4516910944'
+    id_country: Russia
+  - uid: '42371'
+    id_type: Passport
+    id_number: '754044849'
+    id_country: Russia
+  - uid: '173145'
+    id_type: Gender
+    id_number: Male
+  - uid: '178705'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '78703'
+    date_of_birth: 02 Dec 1986
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '78704'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'
+remarks: "(Linked To: AUTONOMOUS NON-PROFIT ORGANIZATION DIALOG; Linked To: AUTONOMOUS
+  NON-PROFIT ORGANIZATION DIALOG REGIONS)"

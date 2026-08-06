@@ -1,0 +1,58 @@
+---
+uid: '37756'
+last_name: KAMAZ PUBLICLY TRADED COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '59227'
+    type: a.k.a.
+    category: strong
+    last_name: KAMAZ PJSC
+  - uid: '59228'
+    type: a.k.a.
+    category: strong
+    last_name: KAMAZ PAO
+  - uid: '59229'
+    type: a.k.a.
+    category: strong
+    last_name: KAMAZ PTC
+  - uid: '59230'
+    type: a.k.a.
+    category: strong
+    last_name: KAMSKOE OBEDINENIE PO PROIZVODSTVU BOLSHEGRUZNYKH AVTOMOBILEI KAMAZ
+address_list:
+  items:
+  - uid: '56484'
+    address1: d. 2, prospekt Avtozavodski
+    city: Naberezhnye Chelny
+    state_or_province: Tatarstan Resp.
+    postal_code: '423827'
+    country: Russia
+id_list:
+  items:
+  - uid: '26996'
+    id_type: Registration Number
+    id_number: '1021602013971'
+    id_country: Russia
+  - uid: '26997'
+    id_type: Tax ID No.
+    id_number: '1650032058'
+    id_country: Russia
+  - uid: '26998'
+    id_type: Government Gazette Number
+    id_number: '00231515'
+    id_country: Russia
+  - uid: '173489'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184442'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '152736'
+    id_type: Organization Established Date
+    id_number: '1969'

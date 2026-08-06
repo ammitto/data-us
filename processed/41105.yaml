@@ -1,0 +1,31 @@
+---
+uid: '41105'
+first_name: Oleg Vladimirovich
+last_name: MELNICHENKO
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '61440'
+    state_or_province: Penza Region
+    country: Russia
+id_list:
+  items:
+  - uid: '159057'
+    id_type: Gender
+    id_number: Male
+  - uid: '173635'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '59055'
+    date_of_birth: 21 May 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '59056'
+    place_of_birth: Penza, Penza Region, Russia
+    main_entry: 'true'

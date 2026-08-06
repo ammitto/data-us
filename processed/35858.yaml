@@ -1,0 +1,41 @@
+---
+uid: '35858'
+last_name: JOINT STOCK COMPANY CENTRAL DESIGN BUREAU OF AUTOMATICS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56318'
+    type: a.k.a.
+    category: strong
+    last_name: CENTRAL DESIGN BUREAU FOR AUTOMATICS ENGINEERING JSC
+  - uid: '56319'
+    type: a.k.a.
+    category: weak
+    last_name: TSKBA AO
+address_list:
+  items:
+  - uid: '53799'
+    address1: PR-KT Kosmicheskii D. 24 A
+    city: Omsk
+    postal_code: '644027'
+    country: Russia
+id_list:
+  items:
+  - uid: '25171'
+    id_type: Registration Number
+    id_number: '1085543005976'
+    id_country: Russia
+  - uid: '25172'
+    id_type: Tax ID No.
+    id_number: '5506202219'
+    id_country: Russia
+  - uid: '173253'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '149051'
+    id_type: Organization Established Date
+    id_number: 10 Sep 1949
+remarks: "(Linked To: TACTICAL MISSILES CORPORATION JSC)"

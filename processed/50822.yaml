@@ -1,0 +1,33 @@
+---
+uid: '50822'
+last_name: LLC DELION
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79593'
+    type: a.k.a.
+    category: weak
+    last_name: ECOGET
+address_list:
+  items:
+  - uid: '77145'
+    address1: Ul. Artilleriiskaya D. 111, Office 2
+    city: Chelyabinsk
+    postal_code: '454007'
+    country: Russia
+id_list:
+  items:
+  - uid: '42769'
+    id_type: Registration Number
+    id_number: '1137447009908'
+    id_country: Russia
+  - uid: '42770'
+    id_type: Tax ID No.
+    id_number: '7447228801'
+    id_country: Russia
+  - uid: '179461'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

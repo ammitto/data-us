@@ -1,0 +1,37 @@
+---
+uid: '43101'
+last_name: LIMITED LIABILITY COMPANY MANAGEMENT COMPANY POLYUS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '66784'
+    type: a.k.a.
+    category: strong
+    last_name: MC POLYUS LLC
+address_list:
+  items:
+  - uid: '64302'
+    address1: d. 3 str. 1 kab. 801, ul. Krasina
+    city: Moscow
+    postal_code: '123056'
+    country: Russia
+id_list:
+  items:
+  - uid: '32670'
+    id_type: Registration ID
+    id_number: '1167746068236'
+    id_country: Russia
+  - uid: '32671'
+    id_type: Tax ID No.
+    id_number: '7703405099'
+    id_country: Russia
+  - uid: '175524'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '162079'
+    id_type: 'Organization Type:'
+    id_number: Activities of holding companies
+remarks: "(Linked To: PUBLIC JOINT STOCK COMPANY POLYUS)"

@@ -1,0 +1,51 @@
+---
+uid: '45860'
+first_name: Anna Vladimirovna
+last_name: KULASHOVA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70858'
+    type: a.k.a.
+    category: strong
+    last_name: KULASHOVA
+    first_name: Anna
+  - uid: '70859'
+    type: a.k.a.
+    category: strong
+    last_name: DUDORINA
+    first_name: Anna
+address_list:
+  items:
+  - uid: '68235'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '35615'
+    id_type: National ID No.
+    id_number: '4516724548'
+    id_country: Russia
+  - uid: '35617'
+    id_type: Passport
+    id_number: '727209099'
+    id_country: Russia
+  - uid: '170579'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '166495'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '66492'
+    date_of_birth: 29 Apr 1971
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '66493'
+    place_of_birth: Dmitrov, Russia
+    main_entry: 'true'

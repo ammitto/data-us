@@ -1,0 +1,46 @@
+---
+uid: '51595'
+last_name: TSENTR NAUCHNO ISSLEDOVATELSKIKH I PROIZVODSTVENNYKH RABOT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '80875'
+    type: a.k.a.
+    category: strong
+    last_name: CENTER FOR SCIENTIFIC-RESEARCH AND PRODUCTION WORK
+  - uid: '80876'
+    type: a.k.a.
+    category: strong
+    last_name: LLC CENTER OF THE SCIENCE RESEARCH AND PRODUCTION WORKS
+  - uid: '80877'
+    type: a.k.a.
+    category: weak
+    last_name: LLC CNIPR
+address_list:
+  items:
+  - uid: '78620'
+    address1: Ul. Tsentralnaya d. 19
+    city: Kogalym
+    postal_code: '628483'
+    country: Russia
+id_list:
+  items:
+  - uid: '44068'
+    id_type: Registration Number
+    id_number: '1088608000436'
+    id_country: Russia
+  - uid: '44070'
+    id_type: Tax ID No.
+    id_number: '8608053410'
+    id_country: Russia
+  - uid: '181368'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183513'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

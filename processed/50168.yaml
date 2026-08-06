@@ -1,0 +1,41 @@
+---
+uid: '50168'
+last_name: CLOUDRUN LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78250'
+    type: a.k.a.
+    category: strong
+    last_name: CLOUDRUN LIMITED LIABILITY COMPANY
+  - uid: '78251'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY KLAUDRAN
+address_list:
+  items:
+  - uid: '75933'
+    address1: d. 28 litera D ofis 33Zh
+    address2: Prospekt Polyustrovski
+    city: Saint Petersburg
+    postal_code: '195197'
+    country: Russia
+id_list:
+  items:
+  - uid: '41788'
+    id_type: Tax ID No.
+    id_number: '7804685734'
+    id_country: Russia
+  - uid: '41789'
+    id_type: Business Registration Number
+    id_number: '1217800124508'
+    id_country: Russia
+  - uid: '177770'
+    id_type: Organization Established Date
+    id_number: 12 Aug 2021
+  - uid: '178487'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

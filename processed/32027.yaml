@@ -1,0 +1,32 @@
+---
+uid: '32027'
+last_name: LOTTERY DISTRIBUTIONS OOD
+sdn_type: Entity
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '50231'
+    type: a.k.a.
+    category: strong
+    last_name: LOTTERY DISTRIBUTIONS LTD
+address_list:
+  items:
+  - uid: '48196'
+    address1: 1 Koloman Str.
+    address2: Krasno selo Distr.
+    city: Sofia
+    state_or_province: Stolichna
+    postal_code: '1618'
+    country: Bulgaria
+id_list:
+  items:
+  - uid: '21811'
+    id_type: Government Gazette Number
+    id_number: '131251717'
+    id_country: Bulgaria
+  - uid: '140986'
+    id_type: Organization Established Date
+    id_number: '2004'
+remarks: "(Linked To: EUROSADRUZHIE OOD)"

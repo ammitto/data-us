@@ -1,0 +1,44 @@
+---
+uid: '15862'
+first_name: Carolina
+last_name: FERNANDEZ GONZALEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '23824'
+    address1: Cinco Manantiales
+    state_or_province: Coahuila
+    country: Mexico
+  - uid: '24209'
+    address1: Rosa 700
+    address2: Col. Los Colorines
+    city: San Pedro Garza Garcia
+    state_or_province: Nuevo Leon
+    postal_code: C.P. 66275
+    country: Mexico
+  - uid: '24289'
+    city: Allende
+    state_or_province: Coahuila
+    country: Mexico
+id_list:
+  items:
+  - uid: '8600'
+    id_type: C.U.R.P.
+    id_number: FEGC921216MNLRNR07
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '13350'
+    date_of_birth: 16 Dec 1992
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '13351'
+    place_of_birth: Coahuila, Mexico
+    main_entry: 'false'
+  - uid: '13354'
+    place_of_birth: Nuevo Leon, Mexico
+    main_entry: 'true'

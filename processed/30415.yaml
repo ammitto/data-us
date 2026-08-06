@@ -1,0 +1,41 @@
+---
+uid: '30415'
+last_name: BEHRAN TRADING COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13876
+aka_list:
+  items:
+  - uid: '47805'
+    type: a.k.a.
+    category: strong
+    last_name: BEHRAN TRADING
+address_list:
+  items:
+  - uid: '46013'
+    address1: 17 avenue, Argantine Square, Bukharest Street
+    postal_code: '1513834713'
+    country: Iran
+  - uid: '46014'
+    address1: Number 266, Shahid Dastgerdi Street East Zafar
+    city: Tehran
+    postal_code: '1918613365'
+    country: Iran
+id_list:
+  items:
+  - uid: '20571'
+    id_type: National ID No.
+    id_number: '10101527013'
+    id_country: Iran
+  - uid: '20572'
+    id_type: Registration Number
+    id_number: '108934'
+    id_country: Iran
+  - uid: '138061'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '138062'
+    id_type: Website
+    id_number: www.btc.co.ir
+remarks: "(Linked To: BEHRAN OIL CO.)"

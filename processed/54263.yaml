@@ -1,0 +1,41 @@
+---
+uid: '54263'
+first_name: Parviz
+last_name: SOLTANIZADEH
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '82905'
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '47828'
+    id_type: National ID No.
+    id_number: '0938543059'
+    id_country: Iran
+  - uid: '47829'
+    id_type: Passport
+    id_number: V56586955
+    id_country: Iran
+    expiration_date: 26 Apr 2027
+  - uid: '190028'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '190019'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '90020'
+    date_of_birth: 13 Jul 1960
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '90022'
+    place_of_birth: Mashhad, Iran
+    main_entry: 'true'
+remarks: "(Linked To: KIMIA SADR PASARGAD COMPANY)"

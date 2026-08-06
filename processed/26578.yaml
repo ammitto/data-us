@@ -1,0 +1,37 @@
+---
+uid: '26578'
+first_name: Sa'id
+last_name: BORJI
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+address_list:
+  items:
+  - uid: '40309'
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '17204'
+    id_type: Passport
+    id_number: F20784822
+    id_country: Iran
+  - uid: '131136'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '131139'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '31137'
+    date_of_birth: '1958'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '31138'
+    place_of_birth: Abadan, Iran
+    main_entry: 'true'
+remarks: "(Linked To: SHAHID KARIMI GROUP)"

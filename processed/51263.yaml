@@ -1,0 +1,31 @@
+---
+uid: '51263'
+first_name: Anibal Eduardo
+last_name: CORONADO MILLAN
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+address_list:
+  items:
+  - uid: '78006'
+    country: Venezuela
+id_list:
+  items:
+  - uid: '43469'
+    id_type: Cedula No.
+    id_number: V11832584
+    id_country: Venezuela
+  - uid: '180411'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '80408'
+    date_of_birth: 15 Oct 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '80409'
+    place_of_birth: Cumana, Venezuela
+    main_entry: 'true'

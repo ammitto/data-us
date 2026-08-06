@@ -1,0 +1,40 @@
+---
+uid: '38516'
+first_name: Bill
+last_name: TWEHWAY
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '60287'
+    type: a.k.a.
+    category: strong
+    last_name: TWEHWAY
+    first_name: Bill Teah
+address_list:
+  items:
+  - uid: '57544'
+    city: Monrovia
+    country: Liberia
+id_list:
+  items:
+  - uid: '27816'
+    id_type: Passport
+    id_number: DP0003004
+    id_country: Liberia
+    expiration_date: 27 Dec 2022
+  - uid: '153930'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '53927'
+    date_of_birth: 27 Oct 1965
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '53928'
+    place_of_birth: River Cess Town, Liberia
+    main_entry: 'true'

@@ -1,0 +1,41 @@
+---
+uid: '56636'
+last_name: HIGH SEAS PETROLEUM LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '87713'
+    type: a.k.a.
+    category: strong
+    last_name: PETROFLEET ENERGY TRADING LLC
+address_list:
+  items:
+  - uid: '86654'
+    address1: Office 102, Al Zarooni Tower
+    address2: Al-Mamzar
+    city: Dubai
+    country: United Arab Emirates
+  - uid: '86685'
+    address1: Office No 306, Al Mamzer, Deira
+    city: Dubai
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '50718'
+    id_type: Identification Number
+    id_number: IMO 6243669
+  - uid: '50719'
+    id_type: License
+    id_number: '968668'
+    id_country: United Arab Emirates
+  - uid: '50756'
+    id_type: Economic Register Number (CBLS)
+    id_number: '11708243'
+    id_country: United Arab Emirates
+  - uid: '195200'
+    id_type: Organization Established Date
+    id_number: 15 Jul 2021
+remarks: "(Linked To: SAKR, Hatem Elsaid Farid Ibrahim)"

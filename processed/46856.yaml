@@ -1,0 +1,40 @@
+---
+uid: '46856'
+first_name: Willy
+last_name: NGOMA
+sdn_type: Individual
+program_list:
+  programs:
+  - DRCONGO
+aka_list:
+  items:
+  - uid: '72390'
+    type: a.k.a.
+    category: weak
+    last_name: RUTIKANGA, Ngarurira Ingoma
+  - uid: '72391'
+    type: a.k.a.
+    category: weak
+    last_name: Pap
+address_list:
+  items:
+  - uid: '69829'
+    city: Bunagana
+    state_or_province: North Kivu
+    country: Congo, Democratic Republic of the
+id_list:
+  items:
+  - uid: '167737'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '67732'
+    date_of_birth: '1974'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '67733'
+    place_of_birth: Kinigi, Rwanda
+    main_entry: 'true'
+remarks: "(Linked To: M23)"

@@ -1,0 +1,39 @@
+---
+uid: '43098'
+last_name: JOINT STOCK COMPANY POLYUS KRASNOYARSK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '64294'
+    address1: Building 2B, Belinsky Street
+    city: Severo-Eniseyskiy
+    state_or_province: Severo-Eniseyskiy District, Krasnoyarsk Territory
+    country: Russia
+  - uid: '64295'
+    address1: 3 Krasina Street, Building 1
+    city: Moscow
+    postal_code: '123056'
+    country: Russia
+id_list:
+  items:
+  - uid: '32664'
+    id_type: Registration ID
+    id_number: '1022401504740'
+    id_country: Russia
+  - uid: '32665'
+    id_type: Tax ID No.
+    id_number: '2434000335'
+    id_country: Russia
+  - uid: '162075'
+    id_type: 'Organization Type:'
+    id_number: Mining of other non-ferrous metal ores
+  - uid: '175521'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '162074'
+    id_type: Organization Established Date
+    id_number: '09 Aug 2002'
+remarks: "(Linked To: PUBLIC JOINT STOCK COMPANY POLYUS)"

@@ -1,0 +1,38 @@
+---
+uid: '42019'
+last_name: FEDOROVSKOE OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65322'
+    type: a.k.a.
+    category: strong
+    last_name: FEDOROVSKOE LLC
+  - uid: '65323'
+    type: f.k.a.
+    category: strong
+    last_name: RG NEDRA 1 LIMITED LIABILITY COMPANY
+address_list:
+  items:
+  - uid: '62712'
+    address1: 69 Novocheremushkinskaya St.
+    city: Moscow
+    postal_code: '117418'
+    country: Russia
+id_list:
+  items:
+  - uid: '31441'
+    id_type: Registration Number
+    id_number: '1177627026257'
+    id_country: Russia
+  - uid: '31442'
+    id_type: Tax ID No.
+    id_number: '7604330100'
+    id_country: Russia
+  - uid: '173748'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: USM GOLD LIMITED LIABILITY COMPANY)"

@@ -1,0 +1,39 @@
+---
+uid: '51842'
+first_name: Nail Ulfatovich
+last_name: MAGANOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+address_list:
+  items:
+  - uid: '79005'
+    country: Russia
+id_list:
+  items:
+  - uid: '44539'
+    id_type: Tax ID No.
+    id_number: '164401094935'
+    id_country: Russia
+  - uid: '182217'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183455'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '182203'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '82201'
+    date_of_birth: 28 Jul 1958
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '82202'
+    place_of_birth: Almetyevsk, Russia
+    main_entry: 'true'

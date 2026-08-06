@@ -1,0 +1,42 @@
+---
+uid: '48550'
+last_name: JSC VLADIMIR PLANT OF PRECISION ALLOYS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75458'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO VLADIMIRSKII ZAVOD PRETSIZIONNYKH SPLAVOV
+  - uid: '75459'
+    type: a.k.a.
+    category: strong
+    last_name: AO VZPS
+address_list:
+  items:
+  - uid: '72888'
+    address1: Ul Kuibysheva 26
+    city: Vladimir
+    postal_code: '600035'
+    country: Russia
+  - uid: '72889'
+    address1: Per. Ozerkovskii D. 12, Pomeshch. I, Kom. 21
+    city: Moscow
+    postal_code: '115184'
+    country: Russia
+id_list:
+  items:
+  - uid: '39502'
+    id_type: Registration Number
+    id_number: '1083328004044'
+    id_country: Russia
+  - uid: '39503'
+    id_type: Tax ID No.
+    id_number: '3328459312'
+    id_country: Russia
+  - uid: '171208'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

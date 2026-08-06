@@ -1,0 +1,48 @@
+---
+uid: '11644'
+last_name: MACHINE SAZI ARAK CO. LTD.
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN
+aka_list:
+  items:
+  - uid: '12361'
+    type: a.k.a.
+    category: weak
+    last_name: MSA
+  - uid: '12362'
+    type: a.k.a.
+    category: strong
+    last_name: MASHIN SAZI ARAK
+  - uid: '12363'
+    type: a.k.a.
+    category: strong
+    last_name: MACHINE SAZI ARAK SSA
+  - uid: '12364'
+    type: a.k.a.
+    category: strong
+    last_name: MACHINE SAZI ARAK COMPANY P J S C
+address_list:
+  items:
+  - uid: '17511'
+    address1: P.O. Box 148
+    city: Arak
+    postal_code: '351138'
+    country: Iran
+  - uid: '17512'
+    address1: Arak, Km 4 Tehran Road
+    city: Arak
+    state_or_province: Markazi Province
+    country: Iran
+  - uid: '17513'
+    address1: No. 1, Northern Kargar Street
+    city: Tehran
+    postal_code: '14136'
+    country: Iran
+id_list:
+  items:
+  - uid: '119019'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: all offices worldwide

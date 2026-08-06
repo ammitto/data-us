@@ -1,0 +1,48 @@
+---
+uid: '46787'
+first_name: Andrey Stanislavovich
+last_name: KORINETS
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+aka_list:
+  items:
+  - uid: '72267'
+    type: a.k.a.
+    category: strong
+    last_name: WRIGHT
+    first_name: Ian Colin
+  - uid: '72268'
+    type: a.k.a.
+    category: strong
+    last_name: DOGUZHIEV
+    first_name: Alexey
+address_list:
+  items:
+  - uid: '69724'
+    city: Syktyvkar
+    state_or_province: Komi Republic
+    country: Russia
+id_list:
+  items:
+  - uid: '36868'
+    id_type: Passport
+    id_number: '8707233962'
+    id_country: Russia
+  - uid: '167578'
+    id_type: Gender
+    id_number: Male
+  - uid: '167834'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+date_of_birth_list:
+  items:
+  - uid: '67572'
+    date_of_birth: 18 May 1987
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '67573'
+    place_of_birth: Syktyvkar, Komi Republic, Russia
+    main_entry: 'true'

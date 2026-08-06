@@ -1,0 +1,52 @@
+---
+uid: '34638'
+last_name: LIMITED LIABILITY COMPANY SBERBANK FACTORING
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54214'
+    type: a.k.a.
+    category: strong
+    last_name: SBERBANK FACTORING LLC
+  - uid: '54215'
+    type: a.k.a.
+    category: strong
+    last_name: KORUS DISTRIBUTION LIMITED
+  - uid: '54216'
+    type: a.k.a.
+    category: strong
+    last_name: SBERBANK FAKTORING
+address_list:
+  items:
+  - uid: '51848'
+    address1: Room I, 31a/bld. 1 Leningradsky Ave
+    city: Moscow
+    postal_code: '125284'
+    country: Russia
+id_list:
+  items:
+  - uid: '24223'
+    id_type: Registration Number
+    id_number: '1117847260794'
+    id_country: Russia
+  - uid: '24224'
+    id_type: Tax ID No.
+    id_number: '7802754982'
+    id_country: Russia
+  - uid: '146729'
+    id_type: Executive Order 14024 Directive Information -
+    id_number: 'For more information on directives, please visit the following link:
+      https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives'
+  - uid: '146889'
+    id_type: 'Listing Date (EO 14024 Directive 2):'
+    id_number: 24 Feb 2022
+  - uid: '146890'
+    id_type: 'Effective Date (EO 14024 Directive 2):'
+    id_number: 26 Mar 2022
+  - uid: '175153'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)"

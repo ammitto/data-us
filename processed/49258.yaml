@@ -1,0 +1,37 @@
+---
+uid: '49258'
+last_name: JOINT STOCK COMPANY FEDERAL SCIENTIFIC AND PRODUCTION CENTER SCIENTIFIC
+  RESEARCH INSTITUTE OF APPLIED CHEMISTRY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76793'
+    type: a.k.a.
+    category: strong
+    last_name: AO FNPTS NII PRIKLADNOI KHIMII
+address_list:
+  items:
+  - uid: '74182'
+    address1: Ul. Akademika Silina D. 3
+    city: Sergiyev Posad
+    postal_code: '141313'
+    country: Russia
+id_list:
+  items:
+  - uid: '40465'
+    id_type: Registration Number
+    id_number: '1115042005638'
+    id_country: Russia
+  - uid: '40466'
+    id_type: Tax ID No.
+    id_number: '5042120394'
+    id_country: Russia
+  - uid: '172242'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '172241'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

@@ -1,0 +1,38 @@
+---
+uid: '32691'
+last_name: DEPARTMENT OF INTERNAL AFFAIRS OF THE GOMEL REGIONAL EXECUTIVE COMMITTEE
+sdn_type: Entity
+program_list:
+  programs:
+  - BELARUS
+aka_list:
+  items:
+  - uid: '51331'
+    type: a.k.a.
+    category: strong
+    last_name: DEPARTMENT OF INTERNAL AFFAIRS OF GOMEL REGION EXECUTIVE COMMITTEE
+  - uid: '51332'
+    type: a.k.a.
+    category: strong
+    last_name: DIRECTORATE OF INTERNAL AFFAIRS OF THE GOMEL OBLAST EXECUTIVE COMMITTEE
+address_list:
+  items:
+  - uid: '49222'
+    address1: ul. Skommunarov
+    city: Gomel
+    state_or_province: Gomel Oblast
+    postal_code: '245050'
+    country: Belarus
+  - uid: '49223'
+    address1: 3, Street of Communards
+    city: Gomel
+    country: Belarus
+  - uid: '49224'
+    address1: 3 Kommunarov St.
+    city: Gomel
+    country: Belarus
+id_list:
+  items:
+  - uid: '142583'
+    id_type: Target Type
+    id_number: Government Entity

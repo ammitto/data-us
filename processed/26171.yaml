@@ -1,0 +1,46 @@
+---
+uid: '26171'
+first_name: Anatoliy Vladimirovich
+last_name: CHEPIGA
+sdn_type: Individual
+program_list:
+  programs:
+  - CAATSA - RUSSIA
+  - NPWMD
+aka_list:
+  items:
+  - uid: '41277'
+    type: a.k.a.
+    category: strong
+    last_name: BOSHIROV
+    first_name: Ruslan
+address_list:
+  items:
+  - uid: '39669'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '130576'
+    id_type: Gender
+    id_number: Male
+  - uid: '153793'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+date_of_birth_list:
+  items:
+  - uid: '30578'
+    date_of_birth: 05 Apr 1979
+    main_entry: 'true'
+  - uid: '30580'
+    date_of_birth: 12 Apr 1978
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '30581'
+    place_of_birth: Nikolaevka, Amur Oblast, Russia
+    main_entry: 'true'
+  - uid: '30582'
+    place_of_birth: Dushanbe, Tajikistan
+    main_entry: 'false'
+remarks: "(Linked To: MAIN INTELLIGENCE DIRECTORATE)"

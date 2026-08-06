@@ -1,0 +1,35 @@
+---
+uid: '15052'
+last_name: AMBER
+sdn_type: Vessel
+program_list:
+  programs:
+  - IRAN
+aka_list:
+  items:
+  - uid: '22161'
+    type: f.k.a.
+    category: strong
+    last_name: HARAZ
+  - uid: '24768'
+    type: f.k.a.
+    category: strong
+    last_name: FREEDOM
+id_list:
+  items:
+  - uid: '8061'
+    id_type: Vessel Registration Identification
+    id_number: IMO 9357406
+  - uid: '8130'
+    id_type: MMSI
+    id_number: '677049700'
+  - uid: '111485'
+    id_type: Former Vessel Flag
+    id_number: Cyprus
+  - uid: '113028'
+    id_type: Former Vessel Flag
+    id_number: Tanzania
+  - uid: '119288'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: NATIONAL IRANIAN TANKER COMPANY)"

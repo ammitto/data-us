@@ -1,0 +1,39 @@
+---
+uid: '50260'
+last_name: FEDERAL AUTONOMOUS ENTERPRISE THE CENTRAL AEROHYDRODYNAMIC INSTITUTE NAMED
+  AFTER PROFESSOR NE ZHUKOVSKY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78490'
+    type: a.k.a.
+    category: weak
+    last_name: TSAGI
+address_list:
+  items:
+  - uid: '76104'
+    address1: 1 Zhukovskogo ul.
+    city: Zhukovskii
+    postal_code: '140180'
+    country: Russia
+  - uid: '76105'
+    address1: 26 Chkalova ul.
+    city: Zhukovskii
+    postal_code: '140181'
+    country: Russia
+id_list:
+  items:
+  - uid: '41935'
+    id_type: Tax ID No.
+    id_number: '1225000018803'
+    id_country: Russia
+  - uid: '41936'
+    id_type: Registration Number
+    id_number: '5040177331'
+    id_country: Russia
+  - uid: '177941'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

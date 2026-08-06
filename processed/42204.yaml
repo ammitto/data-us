@@ -1,0 +1,37 @@
+---
+uid: '42204'
+last_name: LIMITED LIABILITY COMPANY TRANSLINEINVEST
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65594'
+    type: a.k.a.
+    category: strong
+    last_name: OOO TRANSLAININVEST
+address_list:
+  items:
+  - uid: '62990'
+    address1: 17 Bolshoy Levshinskiy Lane, Room II
+    city: Moscow
+    postal_code: '119034'
+    country: Russia
+id_list:
+  items:
+  - uid: '31678'
+    id_type: Tax ID No.
+    id_number: '7704311301'
+    id_country: Russia
+  - uid: '31680'
+    id_type: Registration Number
+    id_number: '1157746279316'
+    id_country: Russia
+  - uid: '175431'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '160503'
+    id_type: 'Organization Type:'
+    id_number: Activities of holding companies
+remarks: "(Linked To: BASHKIROV, Aleksei Vladimirovich)"

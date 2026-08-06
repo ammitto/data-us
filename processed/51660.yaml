@@ -1,0 +1,24 @@
+---
+uid: '51660'
+last_name: RIGEL
+sdn_type: Vessel
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+id_list:
+  items:
+  - uid: '44172'
+    id_type: Vessel Registration Identification
+    id_number: IMO 9511533
+  - uid: '44173'
+    id_type: MMSI
+    id_number: '314919000'
+  - uid: '181599'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183559'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+remarks: "(Linked To: JOINT STOCK COMPANY SOVCOMFLOT)"

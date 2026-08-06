@@ -1,0 +1,50 @@
+---
+uid: '39038'
+last_name: PARAVAR PARS COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+aka_list:
+  items:
+  - uid: '60909'
+    type: a.k.a.
+    category: strong
+    last_name: PARAVAR PARS ENGINEERING AND SERVICES AEROSPACE RESEARCH COMPANY
+  - uid: '60910'
+    type: a.k.a.
+    category: strong
+    last_name: PARAVAR PARS AEROSPACE RESEARCH AND ENGINEERING SERVICES
+  - uid: '60911'
+    type: a.k.a.
+    category: strong
+    last_name: PARAVAR PARS AEROSPACE RESEARCH INSTITUTE
+address_list:
+  items:
+  - uid: '58153'
+    address1: 13 km of Shahid Babaei Highway
+    address2: after Imam Hossein University
+    address3: Next to Telo Road
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '28260'
+    id_type: National ID No.
+    id_number: '10101373495'
+    id_country: Iran
+  - uid: '28261'
+    id_type: Registration Number
+    id_number: '93240'
+    id_country: Iran
+  - uid: '154753'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '154750'
+    id_type: Organization Established Date
+    id_number: '1992'
+  - uid: '154751'
+    id_type: Website
+    id_number: www.paravar-pars.com
+remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS AIR FORCE)"

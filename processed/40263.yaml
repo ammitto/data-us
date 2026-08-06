@@ -1,0 +1,47 @@
+---
+uid: '40263'
+first_name: Aleksandr Yuryevich
+last_name: DROZDENKO
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '62636'
+    type: a.k.a.
+    category: strong
+    last_name: DROZDENKO
+    first_name: Alexander Yurevich
+  - uid: '62637'
+    type: a.k.a.
+    category: strong
+    last_name: DROZDENKO
+    first_name: Aleksander Yurievich
+address_list:
+  items:
+  - uid: '60022'
+    state_or_province: Leningrade Region
+    country: Russia
+id_list:
+  items:
+  - uid: '29450'
+    id_type: Tax ID No.
+    id_number: '470700411509'
+    id_country: Russia
+  - uid: '157301'
+    id_type: Gender
+    id_number: Male
+  - uid: '174065'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '57299'
+    date_of_birth: 01 Nov 1964
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '57300'
+    place_of_birth: Akzhar, Zhambyl region, Kazakhstan
+    main_entry: 'true'

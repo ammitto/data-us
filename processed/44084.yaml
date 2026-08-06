@@ -1,0 +1,65 @@
+---
+uid: '44084'
+last_name: FEDERAL STATE BUDGETARY INSTITUTION OF SCIENCE FEDERAL RESEARCH CENTER
+  KAZAN SCIENTIFIC CENTER OF THE RUSSIAN ACADEMY OF SCIENCES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '68184'
+    type: a.k.a.
+    category: strong
+    last_name: FEDERALNOE GOSUDARSTVENNOE BYUDZHETNOE UCHREZHDENIE NAUKI FEDERALNY
+      ISSLEDOVATELSKI TSENTR KAZANSKI NAUCHNY TSENTR ROSSISKOI AKADEMII NAUK
+  - uid: '68185'
+    type: a.k.a.
+    category: strong
+    last_name: FEDERAL RESEARCH CENTER KAZAN SCIENTIFIC CENTER OF THE RUSSIAN ACADEMY
+      OF SCIENCES
+  - uid: '68186'
+    type: a.k.a.
+    category: strong
+    last_name: FRC KAZSC RAS
+  - uid: '68187'
+    type: a.k.a.
+    category: strong
+    last_name: FITS KAZNTS RAN FGBU
+  - uid: '68188'
+    type: a.k.a.
+    category: strong
+    last_name: FITS KAZNTS RAN
+  - uid: '68189'
+    type: f.k.a.
+    category: strong
+    last_name: FEDERAL GOSUDARSTVENNOE BYUDZHETNOE UCHREZHDENIE NAUKI KAZANSKI NAUCHNY
+      TSENTR ROSSISKOI AKADEMII NAUK UCH
+address_list:
+  items:
+  - uid: '65602'
+    address1: d. 2/31, ul. Lobachevskogo
+    city: Kazan
+    state_or_province: Tatarstan Republic
+    postal_code: '420111'
+    country: Russia
+id_list:
+  items:
+  - uid: '33480'
+    id_type: Registration Number
+    id_number: '1021602842359'
+    id_country: Russia
+  - uid: '33481'
+    id_type: Tax ID No.
+    id_number: '1655022127'
+    id_country: Russia
+  - uid: '33482'
+    id_type: Government Gazette Number
+    id_number: '33859469'
+    id_country: Russia
+  - uid: '175757'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '163657'
+    id_type: Organization Established Date
+    id_number: 22 Apr 1991

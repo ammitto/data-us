@@ -1,0 +1,41 @@
+---
+uid: '35897'
+last_name: AKTSIONERNOE OBSHCHESTVO ELEKTROTYAGA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56453'
+    type: a.k.a.
+    category: strong
+    last_name: AO ELEKTROTYAGA
+  - uid: '56454'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY ELECTROTYAGA
+address_list:
+  items:
+  - uid: '53878'
+    address1: Ul. Kalinina D. 50 A
+    city: Saint Petersburg
+    postal_code: '198099'
+    country: Russia
+id_list:
+  items:
+  - uid: '25249'
+    id_type: Tax ID No.
+    id_number: '7805230257'
+    id_country: Russia
+  - uid: '25250'
+    id_type: Registration Number
+    id_number: '1027802718437'
+    id_country: Russia
+  - uid: '149090'
+    id_type: Organization Established Date
+    id_number: 01 Nov 2001
+  - uid: '173292'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: JOINT STOCK COMPANY CONCERN SEA UNDERWATER WEAPON GIDROPRIBOR)"

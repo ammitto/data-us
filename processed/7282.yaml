@@ -1,0 +1,46 @@
+---
+uid: '7282'
+first_name: Diego Leon
+last_name: MONTOYA SANCHEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNT
+address_list:
+  items:
+  - uid: '5590'
+    address1: Diagonal 27 No. 27-104
+    city: Cali
+    country: Colombia
+  - uid: '5591'
+    address1: c/o INVERSIONES LA QUINTA Y CIA. LTDA.
+    city: Cali
+    country: Colombia
+  - uid: '5592'
+    address1: c/o LADRILLERA LA CANDELARIA LTDA.
+    city: Cali
+    country: Colombia
+  - uid: '5593'
+    address1: c/o MONTOYA LUNA E HIJOS Y CIA. S.C.S.
+    city: Cali
+    country: Colombia
+id_list:
+  items:
+  - uid: '1588'
+    id_type: Cedula No.
+    id_number: '16348515'
+    id_country: Colombia
+  - uid: '1589'
+    id_type: Passport
+    id_number: '16348515'
+    id_country: Colombia
+date_of_birth_list:
+  items:
+  - uid: '1483'
+    date_of_birth: 11 Jan 1958
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '1484'
+    place_of_birth: Trujillo, Valle, Colombia
+    main_entry: 'true'

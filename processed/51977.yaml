@@ -1,0 +1,34 @@
+---
+uid: '51977'
+last_name: LIMITED LIABILITY COMPANY PERM ENGINEERING TECHNICAL CENTER GEOFIZIKA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '81363'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY PITTS GEOFIZIKA
+address_list:
+  items:
+  - uid: '79234'
+    address1: 3 Proezd Elektronny
+    city: Dobryanka
+    postal_code: '618703'
+    country: Russia
+id_list:
+  items:
+  - uid: '44763'
+    id_type: Tax ID No.
+    id_number: '5914022670'
+    id_country: Russia
+  - uid: '45845'
+    id_type: Registration Number
+    id_number: '1075914000360'
+    id_country: Russia
+  - uid: '182627'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: LIMITED LIABILITY COMPANY NEFTSERVICEHOLDING)"

@@ -1,0 +1,56 @@
+---
+uid: '50262'
+last_name: JOINT STOCK COMPANY RESEARCH AND PRODUCTION SPACE CENTRE PROGRESS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78493'
+    type: a.k.a.
+    category: strong
+    last_name: AO RKTS PROGRESS
+  - uid: '78494'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO RAKETNO KOSMICHESKII TSENTR PROGRESS
+  - uid: '78495'
+    type: a.k.a.
+    category: strong
+    last_name: TSSKB PROGRESS
+address_list:
+  items:
+  - uid: '76109'
+    address1: 18 Zemetsa ul.
+    city: Samara
+    postal_code: '443009'
+    country: Russia
+  - uid: '76110'
+    address1: 13 Marshala Nedelina ul.
+    city: Tsiolkovskii
+    country: Russia
+  - uid: '76111'
+    address1: 10 Lesnaia ul.
+    city: Mirnyi
+    country: Russia
+  - uid: '76112'
+    address1: 8 Konstruktora Guskova str. 2
+    city: Zelenograd
+    country: Russia
+id_list:
+  items:
+  - uid: '41938'
+    id_type: Registration Number
+    id_number: '1146312005344'
+    id_country: Russia
+  - uid: '41939'
+    id_type: Tax ID No.
+    id_number: '6312139922'
+    id_country: Russia
+  - uid: '177947'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
+  - uid: '177946'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

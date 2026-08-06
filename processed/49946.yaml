@@ -1,0 +1,34 @@
+---
+uid: '49946'
+last_name: OPEN JOINT STOCK COMPANY MSTATOR
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77838'
+    type: a.k.a.
+    category: strong
+    last_name: PC MSTATOR
+address_list:
+  items:
+  - uid: '75530'
+    address1: Ul. Aleksandra Nevskogo
+    address2: D. 10
+    city: Borovichi
+    postal_code: '174401'
+    country: Russia
+id_list:
+  items:
+  - uid: '41466'
+    id_type: Registration Number
+    id_number: '1025300988085'
+    id_country: Russia
+  - uid: '41467'
+    id_type: Tax ID No.
+    id_number: '5320002221'
+    id_country: Russia
+  - uid: '178055'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

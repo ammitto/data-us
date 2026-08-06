@@ -1,0 +1,41 @@
+---
+uid: '34506'
+last_name: OOO NAVIGATOR ASSET MANAGEMENT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54055'
+    type: a.k.a.
+    category: weak
+    last_name: ASSET MANAGEMENT COMPANY NAVIGATOR
+  - uid: '54056'
+    type: a.k.a.
+    category: weak
+    last_name: UK NAVIGATOR
+address_list:
+  items:
+  - uid: '51706'
+    address1: ul. Gilyarovskogo, d. 39, str. 3, et. 12, kom. 17
+    city: Moscow
+    postal_code: '129110'
+    country: Russia
+id_list:
+  items:
+  - uid: '24134'
+    id_type: Registration Number
+    id_number: '1027725006638'
+    id_country: Russia
+  - uid: '24135'
+    id_type: Tax ID No.
+    id_number: '7725206241'
+    id_country: Russia
+  - uid: '175133'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '145899'
+    id_type: Organization Established Date
+    id_number: 30 Sep 2002
+remarks: "(Linked To: PUBLIC JOINT STOCK COMPANY BANK FINANCIAL CORPORATION OTKRITIE)"

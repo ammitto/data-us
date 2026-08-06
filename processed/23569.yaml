@@ -1,0 +1,57 @@
+---
+uid: '23569'
+last_name: KALININGRADNEFTEPRODUKT OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13662
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '37162'
+    type: a.k.a.
+    category: strong
+    last_name: KALININGRADNEFTEPRODUKT LLC
+  - uid: '37163'
+    type: a.k.a.
+    category: strong
+    last_name: LLC KALININGRADNEFTEPRODUCT
+  - uid: '37164'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY KALININGRADNEFTEPRODUCT
+address_list:
+  items:
+  - uid: '35643'
+    address1: 22-b Komsomolskaya Ulitsa
+    address2: Central District
+    city: Kaliningrad
+    country: Russia
+id_list:
+  items:
+  - uid: '15037'
+    id_type: Registration ID
+    id_number: '1023900589240'
+    id_country: Russia
+  - uid: '15038'
+    id_type: Tax ID No.
+    id_number: '3900000136'
+    id_country: Russia
+  - uid: '183034'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '125599'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 4
+  - uid: '125441'
+    id_type: Email Address
+    id_number: knp@baltnet.ru
+  - uid: '125442'
+    id_type: Nationality of Registration
+    id_number: Russia
+  - uid: '143953'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+remarks: 'For more information, please reference the following link: http://www.treasury.gov/resource-center/sanctions/OFAC-Enforcement/Pages/OFAC-Recent-Actions.aspx;
+  (Linked To: SURGUTNEFTEGAS)'

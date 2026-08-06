@@ -1,0 +1,33 @@
+---
+uid: '11550'
+first_name: Robinson Duvan
+last_name: ACOSTA SERNA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNT
+address_list:
+  items:
+  - uid: '17252'
+    address1: Mz 1 cs 12 B. Santiago Londono
+    country: Colombia
+id_list:
+  items:
+  - uid: '5938'
+    id_type: Cedula No.
+    id_number: '10002061'
+    id_country: Colombia
+  - uid: '5939'
+    id_type: Passport
+    id_number: AJ418881
+    id_country: Colombia
+date_of_birth_list:
+  items:
+  - uid: '7011'
+    date_of_birth: 26 Apr 1977
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '7012'
+    place_of_birth: Colombia
+    main_entry: 'true'

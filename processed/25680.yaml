@@ -1,0 +1,48 @@
+---
+uid: '25680'
+last_name: MELLAT BANK CLOSED JOINT-STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - SDGT
+aka_list:
+  items:
+  - uid: '40391'
+    type: f.k.a.
+    category: strong
+    last_name: BANK MELLAT YEREVAN
+  - uid: '40392'
+    type: f.k.a.
+    category: strong
+    last_name: MELLAT BANK SB CJSC
+  - uid: '40393'
+    type: a.k.a.
+    category: strong
+    last_name: MELLAT BANK ARMENIA
+address_list:
+  items:
+  - uid: '38852'
+    address1: PO Box 24, Amiryan Street 6, 0010
+    city: Yerevan
+    country: Armenia
+  - uid: '38853'
+    address1: 5 Tumanyan St, 0001
+    city: Yerevan
+    country: Armenia
+id_list:
+  items:
+  - uid: '186831'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '129650'
+    id_type: SWIFT/BIC
+    id_number: BKMTAM22
+  - uid: '129651'
+    id_type: Website
+    id_number: www.mellatbank.am
+  - uid: '129649'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: 'All Offices Worldwide; (Linked To: BANK MELLAT)'

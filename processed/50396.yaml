@@ -1,0 +1,39 @@
+---
+uid: '50396'
+last_name: LIMITED LIABILITY COMPANY MEZHREGIONGIDROSTROY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78771'
+    type: a.k.a.
+    category: strong
+    last_name: MEZHREGIONGIDROSTROI
+  - uid: '78772'
+    type: a.k.a.
+    category: strong
+    last_name: LLC MRGS
+address_list:
+  items:
+  - uid: '76400'
+    address1: 'Chast #1304, Lit. A, Pomeshch., D. 93A'
+    address2: Nab. Obvodnogo Kanala
+    city: Saint Petersburg
+    postal_code: '191119'
+    country: Russia
+id_list:
+  items:
+  - uid: '42166'
+    id_type: Registration Number
+    id_number: '1227800028543'
+    id_country: Russia
+  - uid: '42168'
+    id_type: Tax ID No.
+    id_number: '7838103021'
+    id_country: Russia
+  - uid: '178368'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: LIMITED LIABILITY COMPANY MEZHREGIONSTROY)"

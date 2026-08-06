@@ -1,0 +1,66 @@
+---
+uid: '20900'
+first_name: Abdoulaye
+last_name: HISSENE
+sdn_type: Individual
+program_list:
+  programs:
+  - CAR
+aka_list:
+  items:
+  - uid: '33077'
+    type: a.k.a.
+    category: strong
+    last_name: HISSEIN
+    first_name: Abdoulaye
+  - uid: '33078'
+    type: a.k.a.
+    category: strong
+    last_name: ABDOULAYE
+    first_name: Hissene
+  - uid: '33079'
+    type: a.k.a.
+    category: strong
+    last_name: RAMADANE
+    first_name: Abdoulaye Issene
+  - uid: '33080'
+    type: a.k.a.
+    category: strong
+    last_name: ABDOULAYE
+    first_name: Issene
+  - uid: '33081'
+    type: a.k.a.
+    category: strong
+    last_name: ISSENE
+    first_name: Abdoulaye
+address_list:
+  items:
+  - uid: '31670'
+    address1: KM5
+    city: Bangui
+    country: Central African Republic
+  - uid: '31671'
+    city: Ndele
+    state_or_province: Bamingui-Bangoran Prefecture
+    country: Central African Republic
+id_list:
+  items:
+  - uid: '13004'
+    id_type: Passport
+    id_number: D00000897
+    id_country: Central African Republic
+    issue_date: 05 Apr 2013
+    expiration_date: 04 Apr 2018
+  - uid: '121584'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '21581'
+    date_of_birth: '1967'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '21582'
+    place_of_birth: Ndele, Bamingui-Bangoran Prefecture, Central African Republic
+    main_entry: 'true'

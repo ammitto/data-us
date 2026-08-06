@@ -1,0 +1,42 @@
+---
+uid: '39198'
+first_name: Oleksiy Sergeevich
+last_name: SELIVANOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '61155'
+    type: a.k.a.
+    category: strong
+    last_name: SELIVANOV
+    first_name: Alexei Sergeevich
+address_list:
+  items:
+  - uid: '58368'
+    address1: 20 Dashavskaya St.
+    city: Kyiv
+    country: Ukraine
+  - uid: '58369'
+    city: Energodar
+    country: Ukraine
+id_list:
+  items:
+  - uid: '174757'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '154960'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '54958'
+    date_of_birth: 07 Dec 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '54959'
+    place_of_birth: Kyiv, Ukraine
+    main_entry: 'true'

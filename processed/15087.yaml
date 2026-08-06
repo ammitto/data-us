@@ -1,0 +1,33 @@
+---
+uid: '15087'
+last_name: STREAM
+sdn_type: Vessel
+program_list:
+  programs:
+  - IRAN
+aka_list:
+  items:
+  - uid: '22097'
+    type: a.k.a.
+    category: strong
+    last_name: YARD NO. 1222 SHANGHAI WAIGAOQIAO
+  - uid: '24773'
+    type: f.k.a.
+    category: strong
+    last_name: SONATA
+  - uid: '40643'
+    type: f.k.a.
+    category: strong
+    last_name: FORTUN
+id_list:
+  items:
+  - uid: '8096'
+    id_type: Vessel Registration Identification
+    id_number: IMO 9569633
+  - uid: '113021'
+    id_type: Former Vessel Flag
+    id_number: Malta
+  - uid: '119217'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: NATIONAL IRANIAN TANKER COMPANY)"

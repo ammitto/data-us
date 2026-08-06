@@ -1,0 +1,48 @@
+---
+uid: '12091'
+first_name: Andre
+last_name: RODRIGUEZ FERNANDEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNT
+address_list:
+  items:
+  - uid: '18439'
+    address1: c/o AERONAUTICA CONDOR S.A. DE C.V.
+    city: Toluca
+    state_or_province: Estado de Mexico
+    country: Mexico
+  - uid: '18440'
+    address1: c/o CONSULTORIA EN CAMBIOS FALCON S.A. DE C.V.
+    city: Huixquilucan
+    state_or_province: Estado de Mexico
+    country: Mexico
+  - uid: '18441'
+    address1: Camino de Acceso a Pradera 41 Fracc. Cuspide Make 1003
+    city: Lomas Verdes
+    postal_code: '53120'
+    country: Mexico
+  - uid: '18442'
+    address1: Cerrada J Camarillo No. 18
+    address2: Colonia Hogar y Redencion
+    address3: Delegacion Alvaro Obregon
+    city: Mexico
+    state_or_province: Distrito Federal
+    country: Mexico
+id_list:
+  items:
+  - uid: '6517'
+    id_type: C.U.R.P.
+    id_number: ROFA710826HDFDRN05
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '7837'
+    date_of_birth: 26 Aug 1971
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '7838'
+    place_of_birth: Distrito Federal, Mexico
+    main_entry: 'true'

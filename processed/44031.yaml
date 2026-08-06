@@ -1,0 +1,46 @@
+---
+uid: '44031'
+last_name: ALEKSINSKII KHIMICHESKII KOMBINAT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '68077'
+    type: a.k.a.
+    category: weak
+    last_name: AKHK
+  - uid: '68078'
+    type: a.k.a.
+    category: strong
+    last_name: ALEKSINSKY CHEMICAL PLANT
+  - uid: '68079'
+    type: a.k.a.
+    category: strong
+    last_name: ALEKSINSKY CHEMICAL COMBINE
+address_list:
+  items:
+  - uid: '65534'
+    address1: pl. Pobedy D. 21
+    city: Aleksin
+    postal_code: '301361'
+    country: Russia
+id_list:
+  items:
+  - uid: '33420'
+    id_type: Registration Number
+    id_number: '1027100507510'
+    id_country: Russia
+  - uid: '33421'
+    id_type: Tax ID No.
+    id_number: '7111003056'
+    id_country: Russia
+  - uid: '175740'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184327'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

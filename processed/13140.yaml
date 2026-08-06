@@ -1,0 +1,43 @@
+---
+uid: '13140'
+last_name: HEKMAT IRANIAN BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '14786'
+    type: a.k.a.
+    category: strong
+    last_name: BANK-E HEKMAT IRANIAN
+  - uid: '47063'
+    type: a.k.a.
+    category: strong
+    last_name: BANK HEKMAT IRANIAN
+address_list:
+  items:
+  - uid: '21001'
+    address1: Argentine Circle, beginning of Africa St.
+    address2: Corner of 37th St., (Dara Cul-de-sac), No.26
+    city: Tehran
+    country: Iran
+  - uid: '45286'
+    address1: No. 26, Afrigha Ave, Argentina Sq.
+    city: Tehran
+    country: Iran
+  - uid: '45287'
+    address1: No. 26, Africa Hwy, Argantin Sq.
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '137232'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '137306'
+    id_type: Website
+    id_number: www.hibank24.ir
+remarks: "(Linked To: BANK SEPAH)"

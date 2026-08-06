@@ -1,0 +1,49 @@
+---
+uid: '47739'
+first_name: Konstantin Alexandrovich
+last_name: PIKALOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74018'
+    type: a.k.a.
+    category: strong
+    last_name: PIKALOV
+    first_name: Konstantin Aleksandrovich
+  - uid: '74021'
+    type: a.k.a.
+    category: strong
+    last_name: MAZAEV
+    first_name: Konstantin
+  - uid: '74023'
+    type: a.k.a.
+    category: weak
+    last_name: MAZAI
+  - uid: '74024'
+    type: a.k.a.
+    category: weak
+    last_name: MAZAY
+address_list:
+  items:
+  - uid: '71392'
+    country: Russia
+id_list:
+  items:
+  - uid: '38391'
+    id_type: Tax ID No.
+    id_number: '781491227404'
+    id_country: Russia
+  - uid: '169237'
+    id_type: Gender
+    id_number: Male
+  - uid: '169639'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '69236'
+    date_of_birth: 23 Jul 1968
+    main_entry: 'true'

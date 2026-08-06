@@ -1,0 +1,66 @@
+---
+uid: '11470'
+first_name: Julio Cesar Jassan Estuardo
+last_name: SANCHEZ MARTELL
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNT
+aka_list:
+  items:
+  - uid: '12152'
+    type: a.k.a.
+    category: strong
+    last_name: SANCHEZ MARTELL
+    first_name: Julio Cesar
+address_list:
+  items:
+  - uid: '17075'
+    address1: c/o AERONAUTICA CONDOR DE PANAMA, S.A.
+    country: Panama
+  - uid: '17076'
+    address1: c/o GRUPO FALCON DE PANAMA, S.A.
+    country: Panama
+  - uid: '17077'
+    address1: c/o GRUPO GUADALEST S.A. DE C.V.
+    city: Mexico City
+    state_or_province: Distrito Federal
+    country: Mexico
+  - uid: '17078'
+    address1: C. Enrique Wallon 424 3
+    address2: Col. Polanco
+    address3: Miguel Hidalgo
+    city: Mexico City
+    state_or_province: Distrito Federal
+    postal_code: '11560'
+    country: Mexico
+  - uid: '17079'
+    address1: C. Las Palmas L H5C D 1102 1000
+    address2: Cond. Costaventura Y X
+    address3: Fracc. Playa Diamante
+    city: Acapulco
+    state_or_province: Guerrero
+    country: Mexico
+id_list:
+  items:
+  - uid: '5870'
+    id_type: Credencial electoral
+    id_number: SNMRJL66091609H501
+    id_country: Mexico
+  - uid: '5871'
+    id_type: C.U.R.P.
+    id_number: SAMJ660916HDFNRL17
+    id_country: Mexico
+  - uid: '5872'
+    id_type: Passport
+    id_number: '01370022046'
+    id_country: Mexico
+  - uid: '5873'
+    id_type: R.F.C.
+    id_number: SAMJ660916000
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '6882'
+    date_of_birth: 16 Sep 1966
+    main_entry: 'true'

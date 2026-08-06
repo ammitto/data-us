@@ -1,0 +1,37 @@
+---
+uid: '48428'
+last_name: INSTITUTE OF APPLIED PHYSICS JSC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75267'
+    type: a.k.a.
+    category: weak
+    last_name: INSTITUTE OF APPLIED PHYSICS IAP
+  - uid: '75268'
+    type: a.k.a.
+    category: strong
+    last_name: AO IPF
+address_list:
+  items:
+  - uid: '72652'
+    address1: Ul. Arbuzova D. 1/1
+    city: Novosibirsk
+    postal_code: '630117'
+    country: Russia
+id_list:
+  items:
+  - uid: '39317'
+    id_type: Registration Number
+    id_number: '1025403638831'
+    id_country: Russia
+  - uid: '39318'
+    id_type: Tax ID No.
+    id_number: '5408106299'
+    id_country: Russia
+  - uid: '171277'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

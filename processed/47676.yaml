@@ -1,0 +1,38 @@
+---
+uid: '47676'
+last_name: LIMITED LIABILITY COMPANY I T C
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73880'
+    type: a.k.a.
+    category: strong
+    last_name: AI TI SI
+address_list:
+  items:
+  - uid: '71266'
+    address1: Ul. Akademika Konstantinova D. 4
+    address2: K. 1 Lit. A
+    address3: Pomeshch 7N, Office 202
+    city: Saint Petersburg
+    postal_code: '195427'
+    country: Russia
+id_list:
+  items:
+  - uid: '38291'
+    id_type: Tax ID No.
+    id_number: '5406259282'
+    id_country: Russia
+  - uid: '38292'
+    id_type: Registration Number
+    id_number: '1035402500781'
+    id_country: Russia
+  - uid: '169827'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '169142'
+    id_type: Organization Established Date
+    id_number: 07 Aug 2003

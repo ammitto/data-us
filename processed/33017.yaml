@@ -1,0 +1,44 @@
+---
+uid: '33017'
+first_name: Andrei Yevgenevich
+last_name: PARSHIN
+sdn_type: Individual
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '51925'
+    type: a.k.a.
+    category: strong
+    last_name: PARSHIN
+    first_name: Andrey Yevgenievich
+  - uid: '51926'
+    type: a.k.a.
+    category: strong
+    last_name: PARSHIN
+    first_name: Andrey
+address_list:
+  items:
+  - uid: '49678'
+    address1: Skryganova St., Building 4A, Apt. 211
+    city: Minsk
+    country: Belarus
+id_list:
+  items:
+  - uid: '22708'
+    id_type: National ID No.
+    id_number: 3190274A018PB7
+    id_country: Belarus
+  - uid: '22709'
+    id_type: Tax ID No.
+    id_number: AA1060533
+    id_country: Belarus
+  - uid: '142777'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '42778'
+    date_of_birth: 19 Feb 1974
+    main_entry: 'true'

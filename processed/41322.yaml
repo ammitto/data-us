@@ -1,0 +1,48 @@
+---
+uid: '41322'
+last_name: OPEN JOINT STOCK COMPANY BYELORUSSIAN STEEL WORKS MANAGEMENT COMPANY OF
+  HOLDING BYELORUSSIAN METALLURGICAL COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '64494'
+    type: a.k.a.
+    category: strong
+    last_name: OJSC BELARUSIAN METALLURGICAL PLANT MANAGEMENT COMPANY OF HOLDING BELARUSIAN
+      METALLURGICAL COMPANY
+  - uid: '64495'
+    type: a.k.a.
+    category: strong
+    last_name: OJSC BSW MANAGEMENT COMPANY OF BMC HOLDING
+  - uid: '64496'
+    type: a.k.a.
+    category: strong
+    last_name: OAO BMZ UPRAVLYAYUSHCHAYA KOMPANIYA KHOLDINGA BMK
+  - uid: '64497'
+    type: f.k.a.
+    category: strong
+    last_name: BELORUSSKI METALLURGICHESKI ZAVOD RESPUBLIKANSKOE UNITARNOE PREDPRIYATIE
+address_list:
+  items:
+  - uid: '61866'
+    address1: 37, Promyshlennaya Street
+    city: Zhlobin
+    state_or_province: Gomel region
+    postal_code: '247210'
+    country: Belarus
+id_list:
+  items:
+  - uid: '30799'
+    id_type: Tax ID No.
+    id_number: '400074854'
+    id_country: Belarus
+  - uid: '30800'
+    id_type: Government Gazette Number
+    id_number: '04778771'
+    id_country: Belarus
+  - uid: '159532'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

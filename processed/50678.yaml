@@ -1,0 +1,30 @@
+---
+uid: '50678'
+last_name: EP-MJA
+sdn_type: Aircraft
+program_list:
+  programs:
+  - SDGT
+  - IFSR
+id_list:
+  items:
+  - uid: '194842'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '179151'
+    id_type: Aircraft Manufacture Date
+    id_number: '1995'
+  - uid: '179153'
+    id_type: Aircraft Model
+    id_number: A340-200
+  - uid: '179154'
+    id_type: Aircraft Operator
+    id_number: MAHAN AIR
+  - uid: '179152'
+    id_type: Aircraft Manufacturer's Serial Number (MSN)
+    id_number: '075'
+  - uid: '194843'
+    id_type: Aircraft Tail Number
+    id_number: EP-MJA
+remarks: "(Linked To: MAHAN AIR)"

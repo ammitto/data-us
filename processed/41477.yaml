@@ -1,0 +1,45 @@
+---
+uid: '41477'
+first_name: Roland
+last_name: OEHRI
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '64548'
+    type: a.k.a.
+    category: strong
+    last_name: OHRI
+    first_name: Roland
+address_list:
+  items:
+  - uid: '61906'
+    country: Liechtenstein
+  - uid: '61907'
+    country: Austria
+id_list:
+  items:
+  - uid: '30818'
+    id_type: Passport
+    id_number: R 41277
+    id_country: Liechtenstein
+    expiration_date: 23 Mar 2030
+  - uid: '176928'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '159549'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '59550'
+    date_of_birth: 19 Mar 1968
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '59555'
+    place_of_birth: Liechtenstein
+    main_entry: 'true'
+remarks: "(Linked To: SEQUOIA TREUHAND TRUST REG)"

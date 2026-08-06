@@ -1,0 +1,31 @@
+---
+uid: '44076'
+last_name: LIMITED LIABILITY COMPANY RN KAT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '65584'
+    address1: Ul. Tekhnicheskaya D. 32
+    address2: Korpus 159, Pom. 2
+    city: Sterlitamak
+    postal_code: '453110'
+    country: Russia
+id_list:
+  items:
+  - uid: '33456'
+    id_type: Registration Number
+    id_number: '1180280045725'
+    id_country: Russia
+  - uid: '33457'
+    id_type: Tax ID No.
+    id_number: '0268084491'
+    id_country: Russia
+  - uid: '175749'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '163647'
+    id_type: Organization Established Date
+    id_number: 06 Aug 2018

@@ -1,0 +1,37 @@
+---
+uid: '23609'
+first_name: Gustavo
+last_name: RINCON CASTILLO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '35720'
+    city: Bogota
+    country: Colombia
+id_list:
+  items:
+  - uid: '15083'
+    id_type: Cedula No.
+    id_number: '4157507'
+    id_country: Colombia
+  - uid: '15084'
+    id_type: Passport
+    id_number: AO604019
+    id_country: Colombia
+  - uid: '125510'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '25511'
+    date_of_birth: 03 Dec 1955
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '25512'
+    place_of_birth: Maripi, Boyaca, Colombia
+    main_entry: 'true'
+remarks: "(Linked To: SOCIEDAD ESMERALDIFERA DE MARIPI LTDA.)"

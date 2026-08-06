@@ -1,0 +1,49 @@
+---
+uid: '33920'
+first_name: Milan Rajko
+last_name: RADOJCIC
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '53532'
+    type: a.k.a.
+    category: weak
+    last_name: RADOJICIC, Milan
+  - uid: '53568'
+    type: a.k.a.
+    category: weak
+    last_name: RADOICIC, Milan
+address_list:
+  items:
+  - uid: '51225'
+    country: Serbia
+  - uid: '51226'
+    address1: Lola Ribar Street
+    address2: number 58/7
+    city: Mitrovica
+    country: Kosovo
+id_list:
+  items:
+  - uid: '23836'
+    id_type: Identification Number
+    id_number: '1174669941'
+  - uid: '23837'
+    id_type: Driver's License No.
+    id_number: '20177871'
+    id_country: Kosovo
+  - uid: '145361'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '45304'
+    date_of_birth: 21 Feb 1978
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '45360'
+    place_of_birth: Djakovica, Kosovo
+    main_entry: 'true'

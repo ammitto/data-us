@@ -1,0 +1,50 @@
+---
+uid: '10047'
+first_name: Muhammad Yusif
+last_name: ABDALLAH
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '13253'
+    address1: Avenue Presidente Juscelino Kubistcheck 338, Apartment 1802, Center,
+      Foz do Iguacu
+    country: Brazil
+  - uid: '13254'
+    address1: Avenue Presidente Juscelino Kubistcheck 133, Apartment 102, Center,
+      Foz do Iguacu
+    country: Brazil
+id_list:
+  items:
+  - uid: '4639'
+    id_type: Passport
+    id_number: '670317'
+    id_country: Lebanon
+  - uid: '4640'
+    id_type: Passport
+    id_number: '137532'
+    id_country: Paraguay
+  - uid: '4641'
+    id_type: Cedula No.
+    id_number: '1110775'
+    id_country: Paraguay
+  - uid: '186294'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '120176'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
+      Sanctions Regulations
+date_of_birth_list:
+  items:
+  - uid: '5198'
+    date_of_birth: 15 Jun 1952
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '5199'
+    place_of_birth: Khalia, Lebanon
+    main_entry: 'true'

@@ -1,0 +1,34 @@
+---
+uid: '9358'
+first_name: Abdelkader
+last_name: LAAGOUB
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '11565'
+    address1: via Europa
+    address2: 4 - Paderno Ponchielli
+    city: Cremona
+    country: Italy
+id_list:
+  items:
+  - uid: '4031'
+    id_type: Italian Fiscal Code
+    id_number: LGBBLK66D23Z330U
+  - uid: '186245'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '4332'
+    date_of_birth: 23 Apr 1966
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '4333'
+    place_of_birth: Casablanca, Morocco
+    main_entry: 'true'

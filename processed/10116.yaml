@@ -1,0 +1,25 @@
+---
+uid: '10116'
+last_name: CARGO FREIGHT INTERNATIONAL
+sdn_type: Entity
+program_list:
+  programs:
+  - DRCONGO
+aka_list:
+  items:
+  - uid: '9809'
+    type: a.k.a.
+    category: strong
+    last_name: CARGO FRET INTERNATIONAL, SPRL
+address_list:
+  items:
+  - uid: '13491'
+    address1: P. O. Box 873
+    city: Goma
+    country: Congo, Democratic Republic of the
+  - uid: '13492'
+    city: Kinshasa
+    country: Congo, Democratic Republic of the
+  - uid: '13493'
+    city: Kigali
+    country: Rwanda

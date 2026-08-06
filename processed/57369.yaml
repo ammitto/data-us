@@ -1,0 +1,36 @@
+---
+uid: '57369'
+first_name: Omar Fernando
+last_name: GARCIA BATTE
+sdn_type: Individual
+program_list:
+  programs:
+  - SUDAN-EO14098
+address_list:
+  items:
+  - uid: '87924'
+    address1: Calle 64
+    address2: No. 7-62
+    address3: Apt 403
+    city: Bogota
+    country: Colombia
+id_list:
+  items:
+  - uid: '51680'
+    id_type: Cedula No.
+    id_number: '5934268'
+    id_country: Colombia
+  - uid: '197357'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '97356'
+    date_of_birth: 25 Sep 1961
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '97358'
+    place_of_birth: Icononzo, Tolima, Colombia
+    main_entry: 'true'
+remarks: "(Linked To: GLOBAL QOWA AL BASHERIA S.A.S.)"

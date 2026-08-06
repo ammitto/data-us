@@ -1,0 +1,52 @@
+---
+uid: '47796'
+last_name: SHOOTING CENTER ALTAY SHOOTER LTD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74137'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTIU STRELKOVO STENDOVYI KOMPLEKS
+      ALTAISKII STRELOK
+  - uid: '74138'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY SHOOTING AND BENCH COMPLEX ALTAYSKY STRELOK
+  - uid: '74140'
+    type: a.k.a.
+    category: weak
+    last_name: LLC CCK EXPERT
+  - uid: '74143'
+    type: a.k.a.
+    category: weak
+    last_name: OOO SSK AS
+address_list:
+  items:
+  - uid: '71513'
+    address1: Shadrino village
+    city: Barnaul
+    postal_code: '656000'
+    country: Russia
+  - uid: '71514'
+    address1: 28 Ulitsa Kulagina
+    city: Barnaul
+    postal_code: '656012'
+    country: Russia
+id_list:
+  items:
+  - uid: '38493'
+    id_type: Tax ID No.
+    id_number: '2224083790'
+    id_country: Russia
+  - uid: '38494'
+    id_type: Registration Number
+    id_number: '1032202181516'
+    id_country: Russia
+  - uid: '176454'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: JOINT STOCK COMPANY BARNAUL CARTRIDGE PLANT)"

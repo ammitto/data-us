@@ -1,0 +1,38 @@
+---
+uid: '306'
+last_name: BANCO NACIONAL DE CUBA
+sdn_type: Entity
+program_list:
+  programs:
+  - CUBA
+aka_list:
+  items:
+  - uid: '219'
+    type: a.k.a.
+    category: weak
+    last_name: BNC
+  - uid: '220'
+    type: a.k.a.
+    category: strong
+    last_name: NATIONAL BANK OF CUBA
+address_list:
+  items:
+  - uid: '199'
+    address1: Zweierstrasse 35
+    city: Zurich
+    postal_code: CH-8022
+    country: Switzerland
+  - uid: '200'
+    address1: Avenida de Concha Espina 8
+    city: Madrid
+    postal_code: E-28036
+    country: Spain
+  - uid: '201'
+    address1: Dai-Ichi Bldg. 6th Floor, 10-2 Nihombashi, 2-chome, Chuo-ku
+    city: Tokyo
+    postal_code: '103'
+    country: Japan
+  - uid: '202'
+    address1: Federico Boyd Avenue & 51 Street
+    city: Panama City
+    country: Panama

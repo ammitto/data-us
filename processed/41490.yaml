@@ -1,0 +1,43 @@
+---
+uid: '41490'
+first_name: Asghar
+last_name: MAHMOUDI
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '64585'
+    type: a.k.a.
+    category: strong
+    last_name: MAHMOODI
+    first_name: Asghar
+address_list:
+  items:
+  - uid: '61934'
+    country: Iran
+id_list:
+  items:
+  - uid: '30835'
+    id_type: National ID No.
+    id_number: '5198918954'
+    id_country: Iran
+  - uid: '159591'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '159595'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '59592'
+    date_of_birth: 05 Jul 1964
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '59593'
+    place_of_birth: Kaleybar, Iran
+    main_entry: 'true'
+remarks: "(Linked To: PAIDAR, Amanallah)"

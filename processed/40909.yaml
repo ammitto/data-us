@@ -1,0 +1,38 @@
+---
+uid: '40909'
+last_name: METALLURG-TULAMASH OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '61055'
+    address1: D.2 Korp. Ofis, ul. Mosina
+    city: Tula
+    state_or_province: Tulskaya Obl.
+    postal_code: '300002'
+    country: Russia
+id_list:
+  items:
+  - uid: '30202'
+    id_type: Registration Number
+    id_number: '1037100782080'
+    id_country: Russia
+  - uid: '30203'
+    id_type: Tax ID No.
+    id_number: '7106056687'
+    id_country: Russia
+  - uid: '30204'
+    id_type: Government Gazette Number
+    id_number: '70776937'
+    id_country: Russia
+  - uid: '158518'
+    id_type: Target Type
+    id_number: Private Company
+  - uid: '175308'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '158517'
+    id_type: Organization Established Date
+    id_number: 21 Nov 2003

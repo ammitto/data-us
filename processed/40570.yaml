@@ -1,0 +1,41 @@
+---
+uid: '40570'
+first_name: Andrey Vladimirovich
+last_name: BUROV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63057'
+    type: a.k.a.
+    category: strong
+    last_name: BUROV
+    first_name: Andrei Vladimirovich
+address_list:
+  items:
+  - uid: '60429'
+    country: Russia
+id_list:
+  items:
+  - uid: '29716'
+    id_type: Tax ID No.
+    id_number: '616704717503'
+    id_country: Russia
+  - uid: '174117'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '157848'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '57846'
+    date_of_birth: 30 Nov 1971
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '57847'
+    place_of_birth: Rostov-on-Don, Rostov Region, Russia
+    main_entry: 'true'

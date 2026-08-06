@@ -1,0 +1,49 @@
+---
+uid: '40192'
+last_name: 924TH STATE CENTER FOR UAV AVIATION
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - IRAN-CON-ARMS-EO
+aka_list:
+  items:
+  - uid: '62444'
+    type: a.k.a.
+    category: weak
+    last_name: 924 GTSBA
+  - uid: '70523'
+    type: a.k.a.
+    category: strong
+    last_name: FEDERALNOE KAZENNOE UCHREZHDENIE VOISKOVAIA CHAST 20924
+  - uid: '70524'
+    type: a.k.a.
+    category: strong
+    last_name: FEDERAL STATE INSTITUTION MILITARY UNIT 20924
+address_list:
+  items:
+  - uid: '59857'
+    address1: 5 Proezd Artilleristov
+    city: Kolomna
+    state_or_province: Moscow Oblast
+    postal_code: '140415'
+    country: Russia
+id_list:
+  items:
+  - uid: '35332'
+    id_type: Tax ID No.
+    id_number: '5022050639'
+    id_country: Russia
+  - uid: '35333'
+    id_type: Registration Number
+    id_number: '1165022050808'
+    id_country: Russia
+  - uid: '157083'
+    id_type: Organization Established Date
+    id_number: '2013'
+  - uid: '174024'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '157082'
+    id_type: Target Type
+    id_number: Government Entity

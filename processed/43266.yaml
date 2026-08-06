@@ -1,0 +1,41 @@
+---
+uid: '43266'
+last_name: JOINT STOCK COMPANY 163 ARMORED REPAIR PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '67083'
+    type: a.k.a.
+    category: strong
+    last_name: 163 BRONETANKOVY REMONTNY ZAVOD OAO
+  - uid: '67084'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY 163 BTRZ
+address_list:
+  items:
+  - uid: '64572'
+    address1: pl. Tankistov, 1
+    city: Kushchevskaya
+    state_or_province: Krasnodar Territory
+    postal_code: '352030'
+    country: Russia
+id_list:
+  items:
+  - uid: '32832'
+    id_type: Registration Number
+    id_number: '1092340000356'
+    id_country: Russia
+  - uid: '32833'
+    id_type: Tax ID No.
+    id_number: '2340020470'
+    id_country: Russia
+  - uid: '175680'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '162464'
+    id_type: Organization Established Date
+    id_number: 07 Jan 1996

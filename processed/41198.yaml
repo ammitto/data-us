@@ -1,0 +1,41 @@
+---
+uid: '41198'
+first_name: Reza
+last_name: ASGHARIAN
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+address_list:
+  items:
+  - uid: '61643'
+    postal_code: '1334697778'
+    country: Iran
+id_list:
+  items:
+  - uid: '30564'
+    id_type: National ID No.
+    id_number: '0056549555'
+    id_country: Iran
+  - uid: '30636'
+    id_type: Birth Certificate Number
+    id_number: '1932'
+    id_country: Iran
+  - uid: '159271'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '159267'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '59315'
+    date_of_birth: 21 Mar 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '59212'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: NAJI PAS COMPANY)"
+title: CEO of Naji Pas Company

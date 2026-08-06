@@ -1,0 +1,56 @@
+---
+uid: '40186'
+last_name: PRIVATE MILITARY COMPANY REDUT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '62420'
+    type: a.k.a.
+    category: strong
+    last_name: PRIVATE MILITARY COMPANY REDOUBT
+  - uid: '62421'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY REDUT-BEZOPASNOST
+  - uid: '62422'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY REDUT SECURITY
+  - uid: '62423'
+    type: a.k.a.
+    category: strong
+    last_name: PMC REDUT
+address_list:
+  items:
+  - uid: '59842'
+    country: Belarus
+  - uid: '59843'
+    country: Ukraine
+  - uid: '59844'
+    address1: Ul. Dubininskaya D. 61
+    address2: Pom. IV, Komnata 35
+    city: Moscow
+    postal_code: '115054'
+    country: Russia
+id_list:
+  items:
+  - uid: '29327'
+    id_type: Registration Number
+    id_number: '1197746727530'
+    id_country: Russia
+  - uid: '29328'
+    id_type: Tax ID No.
+    id_number: '9725026517'
+    id_country: Russia
+  - uid: '174018'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '157065'
+    id_type: 'Organization Type:'
+    id_number: Private security activities
+  - uid: '157064'
+    id_type: Organization Established Date
+    id_number: 13 Dec 2019

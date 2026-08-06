@@ -1,0 +1,41 @@
+---
+uid: '37843'
+first_name: Dmitriy Vladimirovich
+last_name: ARTYAKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '56703'
+    address1: A 148 3 Chobotovskaya Street
+    city: Moscow
+    postal_code: '119634'
+    country: Russia
+id_list:
+  items:
+  - uid: '27139'
+    id_type: National ID No.
+    id_number: '4506783344'
+  - uid: '27140'
+    id_type: Passport
+    id_number: '626823752'
+    id_country: Russia
+  - uid: '174591'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '152976'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '52975'
+    date_of_birth: 14 Mar 1983
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '52977'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'
+remarks: "(Linked To: ARTYAKOV, Vladimir Vladimirovich)"

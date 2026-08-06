@@ -1,0 +1,37 @@
+---
+uid: '46577'
+last_name: LIMITED LIABILITY COMPANY VELIKOLUKSKY BATTERY PLANT IMPULS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '71886'
+    type: a.k.a.
+    category: strong
+    last_name: VELIKOLUKSKII AKKUMULYATORNYI ZAVOD IMPULS
+  - uid: '71888'
+    type: a.k.a.
+    category: weak
+    last_name: VAZ IMPULS
+address_list:
+  items:
+  - uid: '69314'
+    address1: Ul. Gogolya D. 3, Pomeshch 3
+    city: Velikiye Luki
+    postal_code: '182115'
+    country: Russia
+id_list:
+  items:
+  - uid: '36532'
+    id_type: Registration Number
+    id_number: '5167746421431'
+    id_country: Russia
+  - uid: '36533'
+    id_type: Tax ID No.
+    id_number: '7722384856'
+    id_country: Russia
+  - uid: '169595'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

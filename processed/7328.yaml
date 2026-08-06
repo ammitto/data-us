@@ -1,0 +1,55 @@
+---
+uid: '7328'
+first_name: Nurjaman Riduan
+last_name: ISAMUDDIN
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '5298'
+    type: a.k.a.
+    category: weak
+    last_name: HAMBALI
+  - uid: '5299'
+    type: a.k.a.
+    category: strong
+    last_name: ISOMUDDIN
+    first_name: Riduan
+  - uid: '5300'
+    type: a.k.a.
+    category: weak
+    last_name: NURJAMAN
+  - uid: '5301'
+    type: a.k.a.
+    category: strong
+    last_name: NURJAMAN
+    first_name: Encep
+address_list:
+  items:
+  - uid: '50104'
+    address1: Guantanamo Bay detention center
+    country: Cuba
+id_list:
+  items:
+  - uid: '185698'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '143342'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '1520'
+    date_of_birth: 04 Apr 1964
+    main_entry: 'true'
+  - uid: '1523'
+    date_of_birth: 01 Apr 1964
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '1521'
+    place_of_birth: Cianjur, West Java, Indonesia
+    main_entry: 'true'

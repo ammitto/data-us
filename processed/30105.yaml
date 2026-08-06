@@ -1,0 +1,49 @@
+---
+uid: '30105'
+last_name: SUPREME SHIPPING COMPANY LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - IFCA
+aka_list:
+  items:
+  - uid: '47170'
+    type: a.k.a.
+    category: strong
+    last_name: SUPREME SHIPPING CO LTD
+address_list:
+  items:
+  - uid: '45436'
+    address1: Flat 302, 3/F, The Strand
+    address2: 49 Bonham Strand, Sheung Wan
+    city: Hong Kong
+    country: China
+  - uid: '45437'
+    address1: Room 2604, 26th Floor, Nam Wo Hong Building, 148 Wing Lok Street
+    address2: Sheung Wan
+    city: Hong Kong
+    country: China
+id_list:
+  items:
+  - uid: '20210'
+    id_type: Identification Number
+    id_number: IMO 6003117
+  - uid: '20252'
+    id_type: C.R. No.
+    id_number: '2563315'
+    id_country: Hong Kong
+  - uid: '137495'
+    id_type: 'Executive Order 13846 information:'
+    id_number: LOANS FROM UNITED STATES FINANCIAL INSTITUTIONS.  Sec. 5(a)(i)
+  - uid: '137496'
+    id_type: 'Executive Order 13846 information:'
+    id_number: FOREIGN EXCHANGE.  Sec. 5(a)(ii)
+  - uid: '137497'
+    id_type: 'Executive Order 13846 information:'
+    id_number: BANKING TRANSACTIONS.  Sec. 5(a)(iii)
+  - uid: '137498'
+    id_type: 'Executive Order 13846 information:'
+    id_number: BLOCKING PROPERTY AND INTERESTS IN PROPERTY.  Sec. 5(a)(iv)
+  - uid: '137499'
+    id_type: 'Executive Order 13846 information:'
+    id_number: BAN ON INVESTMENT IN EQUITY OR DEBT OF SANCTIONED PERSON.  Sec. 5(a)(v)

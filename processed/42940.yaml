@@ -1,0 +1,36 @@
+---
+uid: '42940'
+first_name: Jiao
+last_name: GONG
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+address_list:
+  items:
+  - uid: '64052'
+    country: China
+id_list:
+  items:
+  - uid: '32522'
+    id_type: National ID No.
+    id_number: '130321199502170121'
+    id_country: China
+  - uid: '161800'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '161799'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '61796'
+    date_of_birth: 17 Feb 1995
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '61797'
+    place_of_birth: Heibei, China
+    main_entry: 'true'
+remarks: "(Linked To: WEI, Zunyi)"

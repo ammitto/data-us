@@ -1,0 +1,40 @@
+---
+uid: '16727'
+first_name: German Alberto
+last_name: PEREZ OCAMPO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '25465'
+    type: a.k.a.
+    category: strong
+    last_name: ORTIZ ESPINEL
+    first_name: Gustavo Adolfo
+address_list:
+  items:
+  - uid: '25308'
+    address1: CL34E9115
+    city: Medellin
+    country: Colombia
+id_list:
+  items:
+  - uid: '9265'
+    id_type: Cedula No.
+    id_number: '16361849'
+    id_country: Colombia
+  - uid: '9266'
+    id_type: Cedula No.
+    id_number: '79183678'
+    id_country: Colombia
+date_of_birth_list:
+  items:
+  - uid: '15303'
+    date_of_birth: 14 Jun 1965
+    main_entry: 'true'
+  - uid: '15304'
+    date_of_birth: 12 Jun 1971
+    main_entry: 'false'
+remarks: "(Linked To: COMPRA VENTA GERPEZ)"

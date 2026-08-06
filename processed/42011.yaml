@@ -1,0 +1,34 @@
+---
+uid: '42011'
+last_name: ELFARO OU
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65300'
+    type: f.k.a.
+    category: strong
+    last_name: OU INELSO
+address_list:
+  items:
+  - uid: '62700'
+    address1: Vesse Poik 4D
+    city: Tallinn
+    postal_code: '11415'
+    country: Estonia
+id_list:
+  items:
+  - uid: '31424'
+    id_type: Registration Number
+    id_number: '14329778'
+    id_country: Estonia
+  - uid: '31425'
+    id_type: V.A.T. Number
+    id_number: EE102018071
+    id_country: Estonia
+  - uid: '173744'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: EFIMOV, Anton Anatolyevich)"

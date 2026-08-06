@@ -1,0 +1,31 @@
+---
+uid: '52211'
+last_name: LIMITED LIABILITY COMPANY T TRI
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '79720'
+    address1: Suite Part 1N, Letter L, Building 2, 4 Aleksandra Matrosova Street
+    city: Saint Petersburg
+    postal_code: '194100'
+    country: Russia
+id_list:
+  items:
+  - uid: '45134'
+    id_type: Registration Number
+    id_number: '1027810282532'
+    id_country: Russia
+  - uid: '45135'
+    id_type: Tax ID No.
+    id_number: '7826720301'
+    id_country: Russia
+  - uid: '183147'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183615'
+    id_type: 'Organization Type:'
+    id_number: Manufacture of furniture
+remarks: "(Linked To: KOZLOV, Aleksandr Sergeyevich; Linked To: ROTENBERG, Boris Romanovich)"

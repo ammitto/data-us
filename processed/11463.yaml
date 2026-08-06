@@ -1,0 +1,40 @@
+---
+uid: '11463'
+first_name: Carlos Antonio
+last_name: LOPEZ OSPINA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNT
+address_list:
+  items:
+  - uid: '17103'
+    address1: c/o AGROESPINAL S.A.
+    city: Medellin
+    country: Colombia
+  - uid: '17104'
+    address1: c/o ASES DE COMPETENCIA Y CIA. S.A.
+    city: Medellin
+    country: Colombia
+  - uid: '17105'
+    address1: c/o GRUPO FALCON S.A.
+    city: Medellin
+    country: Colombia
+  - uid: '17106'
+    address1: Calle 50 No. 65-42 of. 205
+    city: Medellin
+    country: Colombia
+id_list:
+  items:
+  - uid: '5882'
+    id_type: Cedula No.
+    id_number: '3311296'
+    id_country: Colombia
+date_of_birth_list:
+  items:
+  - uid: '6893'
+    date_of_birth: 06 Mar 1926
+    main_entry: 'true'
+  - uid: '6894'
+    date_of_birth: 03 Jun 1926
+    main_entry: 'false'

@@ -1,0 +1,48 @@
+---
+uid: '37871'
+first_name: Dmitry Yuryevich
+last_name: LELIKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59526'
+    type: a.k.a.
+    category: strong
+    last_name: LELIKOV
+    first_name: Dmitriy Yurievich
+address_list:
+  items:
+  - uid: '56767'
+    address1: 23 Tiz Vatutinki
+    state_or_province: Moscow Region
+    postal_code: '142793'
+    country: Russia
+id_list:
+  items:
+  - uid: '27174'
+    id_type: Passport
+    id_number: '514408956'
+    id_country: Russia
+  - uid: '27175'
+    id_type: National ID No.
+    id_number: '4606153352'
+    id_country: Russia
+  - uid: '174614'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '153062'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '53061'
+    date_of_birth: '09 May 1968'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '53066'
+    place_of_birth: Groznyy, Russia
+    main_entry: 'true'

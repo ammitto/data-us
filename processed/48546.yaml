@@ -1,0 +1,33 @@
+---
+uid: '48546'
+last_name: DIAGNOSTIKA M LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75452'
+    type: a.k.a.
+    category: weak
+    last_name: TSNK
+address_list:
+  items:
+  - uid: '72879'
+    address1: Pr-kt Volgogradskii D. 42, Et. 13, Kom. 12
+    city: Moscow
+    postal_code: '109316'
+    country: Russia
+id_list:
+  items:
+  - uid: '39496'
+    id_type: Registration Number
+    id_number: '1037739045552'
+    id_country: Russia
+  - uid: '39497'
+    id_type: Tax ID No.
+    id_number: '7720081285'
+    id_country: Russia
+  - uid: '171202'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

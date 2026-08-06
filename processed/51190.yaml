@@ -1,0 +1,36 @@
+---
+uid: '51190'
+first_name: Kirill Valerievich
+last_name: LIPA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80257'
+    type: a.k.a.
+    category: strong
+    last_name: LIPA
+    first_name: Kirill Valerevich
+address_list:
+  items:
+  - uid: '77834'
+    country: Russia
+id_list:
+  items:
+  - uid: '43353'
+    id_type: Tax ID No.
+    id_number: '772129762718'
+    id_country: Russia
+  - uid: '180289'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '180293'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '80290'
+    date_of_birth: 22 Sep 1970
+    main_entry: 'true'

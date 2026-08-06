@@ -1,0 +1,61 @@
+---
+uid: '26840'
+last_name: KAROUN PETROCHEMICAL COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+aka_list:
+  items:
+  - uid: '42392'
+    type: a.k.a.
+    category: strong
+    last_name: KAROON PETROCHEMICAL
+  - uid: '42393'
+    type: a.k.a.
+    category: strong
+    last_name: KAROON PETROCHEMICAL CO
+  - uid: '42394'
+    type: a.k.a.
+    category: strong
+    last_name: KRNPC
+address_list:
+  items:
+  - uid: '40728'
+    address1: No 17, Shahid Khalilzadeh Ally, Vanak Square, Valiasr Street
+    city: Tehran
+    postal_code: '1965754351'
+    country: Iran
+  - uid: '40729'
+    address1: Block 6, Petrochemical Zone Site 2, Special Economic Zone, Imam Khomeini
+      Port, Mahshahr
+    city: Tehran
+    postal_code: '1965754351'
+    country: Iran
+  - uid: '40730'
+    address1: Site 2, Central Office Address, Special Industrial Zone
+    city: Mahshahr
+    state_or_province: Khuzestan
+    country: Iran
+  - uid: '40731'
+    address1: Site 2, Karoon Petrochemical Complex
+    postal_code: '6358159385'
+    country: Iran
+  - uid: '40733'
+    address1: P.O. Box 1969754351
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '17491'
+    id_type: Registration Number
+    id_number: '9645'
+    id_country: Iran
+  - uid: '131616'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '131615'
+    id_type: Website
+    id_number: www.krnpc.com
+remarks: "(Linked To: PERSIAN GULF PETROCHEMICAL INDUSTRY CO.)"

@@ -1,0 +1,31 @@
+---
+uid: '50399'
+last_name: LIMITED LIABILITY COMPANY MTM PRO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '76406'
+    address1: Office 205, 18 Vyazemskaya Street
+    city: Tula
+    country: Russia
+  - uid: '76407'
+    address1: 11, Ulitsa Przhevalskogo
+    city: Tula
+    postal_code: '300004'
+    country: Russia
+id_list:
+  items:
+  - uid: '42171'
+    id_type: Registration Number
+    id_number: '1117746071761'
+    id_country: Russia
+  - uid: '42172'
+    id_type: Tax ID No.
+    id_number: '7723786727'
+    id_country: Russia
+  - uid: '178371'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

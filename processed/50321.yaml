@@ -1,0 +1,36 @@
+---
+uid: '50321'
+last_name: LIMITED LIABILITY COMPANY QUANTUM
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78645'
+    type: a.k.a.
+    category: strong
+    last_name: KVANTUM LLC
+address_list:
+  items:
+  - uid: '76256'
+    address1: Pom. 3/1, Str. 1, D. 16 Vyborgskaya
+    city: Moscow
+    postal_code: '125212'
+    country: Russia
+id_list:
+  items:
+  - uid: '42038'
+    id_type: Registration Number
+    id_number: '5177746201298'
+    id_country: Russia
+  - uid: '42039'
+    id_type: Tax ID No.
+    id_number: '7743233079'
+    id_country: Russia
+  - uid: '178266'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '178536'
+    id_type: Organization Established Date
+    id_number: 14 Nov 2017

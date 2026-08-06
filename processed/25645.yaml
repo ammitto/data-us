@@ -1,0 +1,29 @@
+---
+uid: '25645'
+last_name: EDBI EXCHANGE BROKERAGE
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - SDGT
+aka_list:
+  items:
+  - uid: '40290'
+    type: a.k.a.
+    category: strong
+    last_name: EDBI EXCHANGE COMPANY
+address_list:
+  items:
+  - uid: '38791'
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '129578'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '186825'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: "(Linked To: EXPORT DEVELOPMENT BANK OF IRAN)"

@@ -1,0 +1,33 @@
+---
+uid: '12297'
+last_name: AUDIO ALARMAS, S.A. DE C.V.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '18892'
+    address1: Paseo de los Tilos No. 1344 A
+    address2: Col. Rancho Blanco
+    city: Guadalajara
+    state_or_province: Jalisco
+    postal_code: C.P. 44890
+    country: Mexico
+  - uid: '19552'
+    address1: Calle Paseo de los Tilos No. 1344
+    address2: Colonia Tabachines
+    city: Zapopan
+    state_or_province: Jalisco
+    postal_code: C.P. 45188
+    country: Mexico
+id_list:
+  items:
+  - uid: '6724'
+    id_type: Folio Mercantil No.
+    id_number: 10987-1
+    id_country: Mexico
+  - uid: '6957'
+    id_type: R.F.C.
+    id_number: AAL9802259P1
+    id_country: Mexico

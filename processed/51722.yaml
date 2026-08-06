@@ -1,0 +1,48 @@
+---
+uid: '51722'
+last_name: RUSSIAN PUBLIC JOINT STOCK COMMERCIAL ROADS BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '81029'
+    type: a.k.a.
+    category: strong
+    last_name: ROSDORBANK
+address_list:
+  items:
+  - uid: '78817'
+    address1: Dubininskaya Street 86
+    city: Moscow
+    postal_code: '115093'
+    country: Russia
+id_list:
+  items:
+  - uid: '44291'
+    id_type: Global Intermediary Identification Number
+    id_number: BSLLB8.99999.SL.643
+  - uid: '44292'
+    id_type: Legal Entity Number
+    id_number: 253400D214P5D31NSL16
+  - uid: '44293'
+    id_type: Registration Number
+    id_number: '1027739857958'
+    id_country: Russia
+  - uid: '44294'
+    id_type: Tax ID No.
+    id_number: '7718011918'
+    id_country: Russia
+  - uid: '181810'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '181816'
+    id_type: SWIFT/BIC
+    id_number: ROSORUMM
+  - uid: '181812'
+    id_type: Website
+    id_number: www.rdb.ru
+  - uid: '181808'
+    id_type: Target Type
+    id_number: Financial Institution

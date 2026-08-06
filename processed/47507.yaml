@@ -1,0 +1,37 @@
+---
+uid: '47507'
+last_name: LIMITED LIABILITY COMPANY POLYMER PIPE PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73529'
+    type: a.k.a.
+    category: strong
+    last_name: ZAVOD POLIMERNYKH TRUB
+  - uid: '73530'
+    type: a.k.a.
+    category: strong
+    last_name: MOSCOW PLANT FDPLAST
+address_list:
+  items:
+  - uid: '70914'
+    address1: Ul. Velozavodskaya D. 11/1, Kv. 137
+    city: Moscow
+    postal_code: '115280'
+    country: Russia
+id_list:
+  items:
+  - uid: '37983'
+    id_type: Registration Number
+    id_number: '1167746690638'
+    id_country: Russia
+  - uid: '37984'
+    id_type: Tax ID No.
+    id_number: '7722370589'
+    id_country: Russia
+  - uid: '169761'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

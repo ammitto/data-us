@@ -1,0 +1,28 @@
+---
+uid: '50117'
+last_name: DALKOS CO LTD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '75822'
+    address1: Proezd 2-1 Yuzhnoportovyi d. 20A
+    address2: str. 4, pod 1 et 1 kom 12
+    city: Moscow
+    postal_code: '115088'
+    country: Russia
+id_list:
+  items:
+  - uid: '41700'
+    id_type: Tax ID No.
+    id_number: '7729579004'
+    id_country: Russia
+  - uid: '41701'
+    id_type: Registration Number
+    id_number: '1077757840522'
+    id_country: Russia
+  - uid: '177658'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

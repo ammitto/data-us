@@ -1,0 +1,47 @@
+---
+uid: '16862'
+last_name: FEDERAL STATE UNITARY ENTERPRISE STATE RESEARCH AND PRODUCTION ENTERPRISE
+  BAZALT
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13661
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '25737'
+    type: a.k.a.
+    category: strong
+    last_name: FSUE SRPE BAZALT
+  - uid: '74192'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY SCIENTIFIC PRODUCTION ASSOCIATION BAZALT
+  - uid: '74195'
+    type: a.k.a.
+    category: strong
+    last_name: AO NPO BAZALT
+address_list:
+  items:
+  - uid: '25532'
+    address1: 32 Velyaminovskaya
+    city: Moscow
+    postal_code: '105318'
+    country: Russia
+id_list:
+  items:
+  - uid: '38547'
+    id_type: Tax ID No.
+    id_number: '7719830028'
+    id_country: Russia
+  - uid: '38784'
+    id_type: Registration Number
+    id_number: '1127747209501'
+    id_country: Russia
+  - uid: '143453'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '169658'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

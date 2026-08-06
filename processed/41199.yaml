@@ -1,0 +1,31 @@
+---
+uid: '41199'
+first_name: Octavio Ernesto
+last_name: ROTHSCHUH ANDINO
+sdn_type: Individual
+program_list:
+  programs:
+  - NICARAGUA
+address_list:
+  items:
+  - uid: '63350'
+    country: Nicaragua
+id_list:
+  items:
+  - uid: '30568'
+    id_type: Cedula No.
+    id_number: 1210212670001Y
+    id_country: Nicaragua
+  - uid: '159214'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '59215'
+    date_of_birth: 02 Dec 1967
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '59494'
+    place_of_birth: Nicaragua
+    main_entry: 'true'

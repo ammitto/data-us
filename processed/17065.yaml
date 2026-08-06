@@ -1,0 +1,31 @@
+---
+uid: '17065'
+last_name: DONETSK PEOPLE'S REPUBLIC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14065
+  - UKRAINE-EO13660
+aka_list:
+  items:
+  - uid: '59451'
+    type: a.k.a.
+    category: strong
+    last_name: DONETSKAYA NARODNAYA RESPUBLIKA
+address_list:
+  items:
+  - uid: '25926'
+    state_or_province: Donetsk Region
+    country: Ukraine
+id_list:
+  items:
+  - uid: '152960'
+    id_type: Website
+    id_number: dnronline.su
+  - uid: '143664'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '152961'
+    id_type: Target Type
+    id_number: Unrecognized Government Entity

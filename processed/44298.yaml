@@ -1,0 +1,38 @@
+---
+uid: '44298'
+last_name: JOINT STOCK COMPANY AVIATION ELECTRONICS AND COMMUNICATION SYSTEMS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '68536'
+    type: a.k.a.
+    category: weak
+    last_name: AO AVEKS
+  - uid: '68537'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO AVIATSIONNAIA ELEKTRONIKA I KOMMUNIKATSIONNYE
+      SISTEMY
+address_list:
+  items:
+  - uid: '65968'
+    address1: 15 Proezd Entuziastov, Suite 8A
+    city: Moscow
+    postal_code: '111024'
+    country: Russia
+id_list:
+  items:
+  - uid: '33760'
+    id_type: Tax ID No.
+    id_number: '7714041380'
+    id_country: Russia
+  - uid: '33761'
+    id_type: Registration Number
+    id_number: '1027700419636'
+    id_country: Russia
+  - uid: '173769'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

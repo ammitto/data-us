@@ -1,0 +1,31 @@
+---
+uid: '52475'
+first_name: Felix Ramon
+last_name: OSORIO GUZMAN
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+address_list:
+  items:
+  - uid: '80134'
+    country: Venezuela
+id_list:
+  items:
+  - uid: '45447'
+    id_type: Cedula No.
+    id_number: V-9657088
+    id_country: Venezuela
+  - uid: '184085'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '84083'
+    date_of_birth: 05 Oct 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '84084'
+    place_of_birth: Maracay, Venezuela
+    main_entry: 'true'

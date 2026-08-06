@@ -1,0 +1,34 @@
+---
+uid: '24004'
+first_name: Ermias
+last_name: GHERMAY
+sdn_type: Individual
+program_list:
+  programs:
+  - LIBYA3
+address_list:
+  items:
+  - uid: '36349'
+    city: Sabratha
+    country: Libya
+  - uid: '36703'
+    city: Khartoum
+    country: Sudan
+  - uid: '36809'
+    city: Tripoli
+    country: Libya
+id_list:
+  items:
+  - uid: '126097'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '26098'
+    date_of_birth: 1972 to 1977
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '26653'
+    place_of_birth: Addis Ababa, Ethiopia
+    main_entry: 'true'

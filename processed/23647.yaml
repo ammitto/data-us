@@ -1,0 +1,92 @@
+---
+uid: '23647'
+first_name: Zhao
+last_name: WEI
+sdn_type: Individual
+program_list:
+  programs:
+  - TCO
+aka_list:
+  items:
+  - uid: '37349'
+    type: a.k.a.
+    category: strong
+    last_name: WEI
+    first_name: Zhang
+  - uid: '37351'
+    type: a.k.a.
+    category: strong
+    last_name: WAI
+    first_name: Chio
+  - uid: '37352'
+    type: a.k.a.
+    category: strong
+    last_name: CHIO
+    first_name: Wai
+  - uid: '37353'
+    type: a.k.a.
+    category: strong
+    last_name: WEI
+    first_name: Chao
+  - uid: '37354'
+    type: a.k.a.
+    category: strong
+    last_name: WEI
+    first_name: Jiao
+  - uid: '37355'
+    type: a.k.a.
+    category: strong
+    last_name: HWEI
+    first_name: Jao
+  - uid: '37356'
+    type: a.k.a.
+    category: strong
+    last_name: SAECHOU
+    first_name: Thanchai
+address_list:
+  items:
+  - uid: '35802'
+    address1: Flat G
+    address2: 19 FL Maple Mansion
+    address3: Taikoo Shing, Quarry Bay
+    country: Hong Kong
+  - uid: '35803'
+    address1: Room 2410
+    address2: 24/F
+    address3: Block Q, Kornhill, Quarry Bay
+    country: Hong Kong
+id_list:
+  items:
+  - uid: '15115'
+    id_type: Passport
+    id_number: MA0269785
+    id_country: Macau
+  - uid: '15116'
+    id_type: Passport
+    id_number: M0178952
+    id_country: China
+  - uid: '15117'
+    id_type: Passport
+    id_number: MA0162634
+    id_country: China
+  - uid: '15118'
+    id_type: National ID No.
+    id_number: '12756003'
+    id_country: Macau
+  - uid: '125611'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '25607'
+    date_of_birth: 16 Sep 1952
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '25608'
+    place_of_birth: Heilongjiang Province, China
+    main_entry: 'true'
+  - uid: '25609'
+    place_of_birth: Liaoning Province, China
+    main_entry: 'false'
+remarks: "(Linked To: ZHAO WEI TCO)"

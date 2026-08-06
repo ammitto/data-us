@@ -1,0 +1,55 @@
+---
+uid: '42067'
+first_name: Giorgos
+last_name: VASSILIADES
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65389'
+    type: a.k.a.
+    category: strong
+    last_name: VASILEIADIS
+    first_name: Giorgos
+  - uid: '65390'
+    type: a.k.a.
+    category: strong
+    last_name: VASILIADIS
+    first_name: Giorgos
+address_list:
+  items:
+  - uid: '62796'
+    address1: Flat 28, Aria House, 5-15 Newton Street
+    address2: Holborn
+    city: London
+    postal_code: WC2B 5EN
+    country: United Kingdom
+  - uid: '62797'
+    address1: 35 Grosvenor Street
+    city: London
+    postal_code: W1K 4QX
+    country: United Kingdom
+id_list:
+  items:
+  - uid: '31512'
+    id_type: National ID No.
+    id_number: '985049'
+    id_country: Cyprus
+  - uid: '31513'
+    id_type: National ID No.
+    id_number: '286953810001'
+    id_country: United Kingdom
+  - uid: '176950'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '160285'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '60283'
+    date_of_birth: 22 Feb 1991
+    main_entry: 'true'
+remarks: "(Linked To: VASSILIADES, Christodoulos Georgiou)"

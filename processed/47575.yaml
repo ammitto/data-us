@@ -1,0 +1,39 @@
+---
+uid: '47575'
+last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU SPUTNIKOVYE INNOVATSIONNYE
+  KOSMICHESKIE SISTEMY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73655'
+    type: a.k.a.
+    category: weak
+    last_name: OOO SPUTNIKS
+  - uid: '73656'
+    type: a.k.a.
+    category: weak
+    last_name: SPUTNIX
+address_list:
+  items:
+  - uid: '71054'
+    address1: bulvar Bolshoi (Innovatsionnogo Tsentra Skolkovo Ter)
+    address2: d. 42, str. 1, pom. 3A0109 757, 1653, 1707
+    city: Moscow
+    postal_code: '121205'
+    country: Russia
+id_list:
+  items:
+  - uid: '38112'
+    id_type: Tax ID No.
+    id_number: '5003096726'
+    id_country: Russia
+  - uid: '38113'
+    id_type: Registration Number
+    id_number: '1115003008306'
+    id_country: Russia
+  - uid: '169780'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

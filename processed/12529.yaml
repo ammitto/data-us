@@ -1,0 +1,109 @@
+---
+uid: '12529'
+first_name: Martin Guadencio
+last_name: AVENDANO OJEDA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '13422'
+    type: a.k.a.
+    category: strong
+    last_name: OJEDA AVENDANO
+    first_name: Martin
+  - uid: '13423'
+    type: a.k.a.
+    category: strong
+    last_name: AVENDANO LOPEZ
+    first_name: Martin
+  - uid: '13424'
+    type: a.k.a.
+    category: strong
+    last_name: AVENDANO
+    first_name: Mariano
+  - uid: '13425'
+    type: a.k.a.
+    category: strong
+    last_name: NARANJO
+    first_name: Carlos
+address_list:
+  items:
+  - uid: '19634'
+    address1: c/o AUTOS MINI
+    city: Ensenada
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '19635'
+    address1: c/o AUTODROMO CULIACAN
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '19636'
+    city: San Bernardino
+    country: Colombia
+  - uid: '19637'
+    city: Iguala
+    state_or_province: Guerrero
+    country: Mexico
+  - uid: '19638'
+    city: Ensenada
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '19639'
+    city: Mexicali
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '19640'
+    city: La Paz
+    state_or_province: Baja California Sur
+    country: Mexico
+  - uid: '19641'
+    address1: Avenida Jose Lopez Portillo No. 2031
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '19642'
+    address1: Calle Antonio Caso No. 500
+    address3: Colonia Aurora
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '19643'
+    address1: Calle Amapola No. 12
+    address2: Colonia 10 de Mayo
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '19644'
+    address1: Calle Venustiano Carranza No. 34
+    address2: Colonia Centro
+    city: Comondu
+    state_or_province: Baja California Sur
+    country: Mexico
+  - uid: '19645'
+    address1: Avenida Delante No. 1806
+    address2: Colonia Miguel Hidalgo
+    city: Ensenada
+    state_or_province: Baja California
+    country: Mexico
+id_list:
+  items:
+  - uid: '7013'
+    id_type: R.F.C.
+    id_number: AEOM-681114-818
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '8208'
+    date_of_birth: 14 Nov 1968
+    main_entry: 'true'
+  - uid: '8209'
+    date_of_birth: 14 Nov 1966
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '8210'
+    place_of_birth: Culiacan, Sinaloa, Mexico
+    main_entry: 'true'

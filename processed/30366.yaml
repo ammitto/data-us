@@ -1,0 +1,55 @@
+---
+uid: '30366'
+last_name: SINA ENERGY DEVELOPMENT COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13876
+aka_list:
+  items:
+  - uid: '47614'
+    type: a.k.a.
+    category: strong
+    last_name: ENERGY GOSTAR SINA COMPANY
+  - uid: '47615'
+    type: a.k.a.
+    category: strong
+    last_name: SINA ENERGY DEVELOPMENT
+  - uid: '47616'
+    type: a.k.a.
+    category: strong
+    last_name: SINA ENERGY DEVELOPMENT CO.
+  - uid: '47617'
+    type: a.k.a.
+    category: weak
+    last_name: SEDCO
+address_list:
+  items:
+  - uid: '45839'
+    address1: No. 8, Sosan Alley, Tabatabaei 1st Street, Fatemi Square, District 6
+    city: Tehran
+    state_or_province: Tehran Province
+    postal_code: '1415793811'
+    country: Iran
+  - uid: '45841'
+    address1: 14th Floor, Building No. 1, Central Building of the Muslim Revolutionary
+      Islamic Foundation, not reaching the Blvd. Africa, Highway of Mission
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '20479'
+    id_type: National ID No.
+    id_number: '10101345022'
+    id_country: Iran
+  - uid: '20480'
+    id_type: Registration Number
+    id_number: '90128'
+    id_country: Iran
+  - uid: '137954'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '137966'
+    id_type: Website
+    id_number: http://www.sedcompany.ir/
+remarks: "(Linked To: ISLAMIC REVOLUTION MOSTAZAFAN FOUNDATION)"

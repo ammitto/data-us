@@ -1,0 +1,38 @@
+---
+uid: '41038'
+first_name: Aleksandr Valentinovich
+last_name: SOKOLOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63985'
+    type: a.k.a.
+    category: strong
+    last_name: SOKOLOV
+    first_name: Alexander Valentinovich
+address_list:
+  items:
+  - uid: '61320'
+    state_or_province: Kirov Region
+    country: Russia
+id_list:
+  items:
+  - uid: '158853'
+    id_type: Gender
+    id_number: Male
+  - uid: '173571'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '58854'
+    date_of_birth: 04 Aug 1970
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '58855'
+    place_of_birth: Kostroma, Kostroma Region, Russia
+    main_entry: 'true'

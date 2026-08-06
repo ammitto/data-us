@@ -1,0 +1,37 @@
+---
+uid: '39163'
+first_name: Rene
+last_name: ARZATE GARCIA
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '61078'
+    type: a.k.a.
+    category: weak
+    last_name: LA RANA
+address_list:
+  items:
+  - uid: '58317'
+    country: Mexico
+id_list:
+  items:
+  - uid: '28388'
+    id_type: C.U.R.P.
+    id_number: AAGR830611HBCRRN02
+    id_country: Mexico
+  - uid: '154919'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '54916'
+    date_of_birth: 11 Jun 1983
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '54917'
+    place_of_birth: Baja California, Mexico
+    main_entry: 'true'

@@ -1,0 +1,44 @@
+---
+uid: '52587'
+last_name: BSM MARINE LIMITED LIABILITY PARTNERSHIP
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13846
+aka_list:
+  items:
+  - uid: '82615'
+    type: a.k.a.
+    category: strong
+    last_name: BSM MARINE LLP
+address_list:
+  items:
+  - uid: '80321'
+    address1: Office 20, Ground Floor
+    address2: Augusta Point, DLF Golf Course Road
+    address3: Sector 53
+    city: Gurugram
+    state_or_province: Haryana
+    country: India
+  - uid: '80323'
+    address1: Galaxy CGHS, House No. F/14
+    address2: Plot No. 3, Sec. 43, DLF QE
+    city: Gurgaon
+    state_or_province: Haryana
+    postal_code: '122002'
+    country: India
+id_list:
+  items:
+  - uid: '45624'
+    id_type: Identification Number
+    id_number: IMO 6317123
+  - uid: '45625'
+    id_type: Commercial Registry Number
+    id_number: 4 ABA-9272
+    id_country: India
+  - uid: '184295'
+    id_type: Organization Established Date
+    id_number: 05 May 2022
+  - uid: '185051'
+    id_type: 'Executive Order 13846 information:'
+    id_number: BLOCKING PROPERTY AND INTERESTS IN PROPERTY.  Sec. 5(a)(iv)

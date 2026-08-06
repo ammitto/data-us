@@ -1,0 +1,28 @@
+---
+uid: '47651'
+last_name: ZAVOD LIPETSKTEKHNOLIT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '71212'
+    address1: Ter. Oez Ppt Lipetsk Str. 4A
+    address2: Office 021/50
+    city: Gryazi
+    postal_code: '398010'
+    country: Russia
+id_list:
+  items:
+  - uid: '38247'
+    id_type: Registration Number
+    id_number: '1234800001930'
+    id_country: Russia
+  - uid: '38248'
+    id_type: Tax ID No.
+    id_number: '4802014622'
+    id_country: Russia
+  - uid: '169714'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

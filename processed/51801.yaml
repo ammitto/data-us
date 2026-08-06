@@ -1,0 +1,45 @@
+---
+uid: '51801'
+last_name: JOINT STOCK COMPANY COALMETBANK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '81124'
+    type: a.k.a.
+    category: strong
+    last_name: UGLEMETBANK
+address_list:
+  items:
+  - uid: '78941'
+    address1: Ul. Molodogvardeitsev D. 17B
+    city: Chelyabinsk
+    postal_code: '454138'
+    country: Russia
+id_list:
+  items:
+  - uid: '44454'
+    id_type: Legal Entity Number
+    id_number: 2534001KM4BYJLLGW123
+  - uid: '44455'
+    id_type: Registration Number
+    id_number: '1024200006434'
+    id_country: Russia
+  - uid: '44457'
+    id_type: Tax ID No.
+    id_number: '4214005204'
+    id_country: Russia
+  - uid: '182070'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '182069'
+    id_type: SWIFT/BIC
+    id_number: UGZARU55
+  - uid: '182068'
+    id_type: Website
+    id_number: www.coalmetbank.ru
+  - uid: '182071'
+    id_type: Target Type
+    id_number: Financial Institution

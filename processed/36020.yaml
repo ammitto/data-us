@@ -1,0 +1,38 @@
+---
+uid: '36020'
+last_name: HAOKUN ENERGY GROUP COMPANY LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '56693'
+    type: a.k.a.
+    category: strong
+    last_name: HAOKUN ENERGY GROUP CO., LTD.
+  - uid: '56694'
+    type: a.k.a.
+    category: weak
+    last_name: HAOKUN ENERGY
+address_list:
+  items:
+  - uid: '54115'
+    address1: Building 6, Central District, Haidian District
+    city: Beijing
+    postal_code: '100191'
+    country: China
+id_list:
+  items:
+  - uid: '25390'
+    id_type: Unified Social Credit Code (USCC)
+    id_number: '911101053063517353'
+    id_country: China
+  - uid: '149333'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '149332'
+    id_type: Website
+    id_number: www.haokunny.com
+remarks: "(Linked To: CHINA HAOKUN ENERGY LIMITED)"

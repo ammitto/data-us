@@ -1,0 +1,38 @@
+---
+uid: '45389'
+first_name: Miodrag
+last_name: DAVIDOVIC
+sdn_type: Individual
+program_list:
+  programs:
+  - BALKANS-EO14033
+aka_list:
+  items:
+  - uid: '70239'
+    type: a.k.a.
+    category: weak
+    last_name: DAKA
+address_list:
+  items:
+  - uid: '67532'
+    country: Montenegro
+id_list:
+  items:
+  - uid: '35136'
+    id_type: Passport
+    id_number: B38HP2825
+    id_country: Montenegro
+    expiration_date: 26 Mar 2028
+  - uid: '165857'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '65855'
+    date_of_birth: 01 Mar 1957
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '65856'
+    place_of_birth: Niksic, Montenegro
+    main_entry: 'true'

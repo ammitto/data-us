@@ -1,0 +1,44 @@
+---
+uid: '47926'
+last_name: JOINT STOCK COMPANY ECHELON TECHNOLOGIES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74355'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSCHESTVO ESHELON TEKHNOLOGII
+  - uid: '74879'
+    type: a.k.a.
+    category: strong
+    last_name: JSC ECHELON TECHNOLOGIES
+  - uid: '74880'
+    type: a.k.a.
+    category: strong
+    last_name: AO ECHELON TECHNOLOGIES
+address_list:
+  items:
+  - uid: '71767'
+    address1: Ul. Elektrozavodskaya d. 24 Office 24
+    city: Moscow
+    postal_code: '107023'
+    country: Russia
+id_list:
+  items:
+  - uid: '38729'
+    id_type: Tax ID No.
+    id_number: '7718859120'
+    id_country: Russia
+  - uid: '38730'
+    id_type: Registration Number
+    id_number: '1117746703480'
+    id_country: Russia
+  - uid: '176543'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '169465'
+    id_type: Organization Established Date
+    id_number: 06 Sep 2011

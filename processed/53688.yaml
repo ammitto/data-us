@@ -1,0 +1,41 @@
+---
+uid: '53688'
+last_name: AKTSIONERNOE OBSHCHESTVO KUIBYSHEVSKII NEFTEPERERABATYVAYUSHCHII ZAVOD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '83700'
+    type: a.k.a.
+    category: strong
+    last_name: JSC KUYBYSHEVSKY OIL REFINERY
+  - uid: '83701'
+    type: a.k.a.
+    category: strong
+    last_name: KUIBYSHEVSKY REFINERY
+  - uid: '83702'
+    type: a.k.a.
+    category: weak
+    last_name: AO KNPZ
+address_list:
+  items:
+  - uid: '81947'
+    address1: Ul. Groznenskaya D.25
+    city: Samara
+    postal_code: '443004'
+    country: Russia
+id_list:
+  items:
+  - uid: '47043'
+    id_type: Registration Number
+    id_number: '1026300894179'
+    id_country: Russia
+  - uid: '47046'
+    id_type: Tax ID No.
+    id_number: '6314006396'
+    id_country: Russia
+  - uid: '188558'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

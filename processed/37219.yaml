@@ -1,0 +1,38 @@
+---
+uid: '37219'
+last_name: OOO NORD MARINE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '58352'
+    type: a.k.a.
+    category: strong
+    last_name: NORD MARINE
+address_list:
+  items:
+  - uid: '55672'
+    address1: Ul. Rochdelskaya D. 11/5
+    address2: Str. 1
+    city: Moscow
+    postal_code: '123100'
+    country: Russia
+id_list:
+  items:
+  - uid: '26519'
+    id_type: Registration Number
+    id_number: '1027700401024'
+    id_country: Russia
+  - uid: '26520'
+    id_type: Tax ID No.
+    id_number: '7716204897'
+    id_country: Russia
+  - uid: '174524'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '151714'
+    id_type: Organization Established Date
+    id_number: 16 Apr 2001
+remarks: "(Linked To: KOCHMAN, Evgeniy Borisovich)"

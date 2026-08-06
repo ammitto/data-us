@@ -1,0 +1,39 @@
+---
+uid: '40327'
+last_name: FEDERAL STATE UNITARY ENTERPRISE CENTRAL RESEARCH INSTITUTE OF STRUCTURAL
+  MATERIALS PROMETEY NAMED BY I.V. GORYNIN OF NATIONAL RESEARCH CENTER KURCHATOV INSTITUTE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '62718'
+    type: a.k.a.
+    category: strong
+    last_name: NRC KURCHATOV INSTITUTE CRISM PROMETEY
+  - uid: '62719'
+    type: a.k.a.
+    category: strong
+    last_name: FSUE CRISM PROMETEY
+address_list:
+  items:
+  - uid: '60108'
+    address1: 49 Shpalernaya str.
+    city: Saint Petersburg
+    postal_code: '191015'
+    country: Russia
+  - uid: '60109'
+    address1: st. 120th Gatchina Division, 12
+    city: Gatchina
+    state_or_province: Leningrad Region
+    country: Russia
+id_list:
+  items:
+  - uid: '29514'
+    id_type: Tax ID No.
+    id_number: '7815021340'
+    id_country: Russia
+  - uid: '174086'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

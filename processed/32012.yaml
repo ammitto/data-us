@@ -1,0 +1,31 @@
+---
+uid: '32012'
+last_name: VABO-2005 EOOD
+sdn_type: Entity
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '50194'
+    type: a.k.a.
+    category: strong
+    last_name: VABO 2005 EOOD
+address_list:
+  items:
+  - uid: '48165'
+    address1: 43 Moskovska
+    city: Sofia
+    state_or_province: Stolichna
+    postal_code: '1000'
+    country: Bulgaria
+id_list:
+  items:
+  - uid: '21796'
+    id_type: V.A.T. Number
+    id_number: BG 131502906
+    id_country: Bulgaria
+  - uid: '140944'
+    id_type: Organization Established Date
+    id_number: '2005'
+remarks: "(Linked To: BOJKOV, Vassil Kroumov)"

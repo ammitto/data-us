@@ -1,0 +1,38 @@
+---
+uid: '47736'
+last_name: PUBLIC JOINT STOCK COMPANY IMPERIAL TULA ARMS PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74011'
+    type: a.k.a.
+    category: strong
+    last_name: PUBLIC JOINT STOCK COMPANY IMPERATORSKY TULSKY ORUZHEINY ZAVOD
+  - uid: '74012'
+    type: a.k.a.
+    category: strong
+    last_name: PUBLICHNOE AKTSIONERNOE OBSCHESTVO IMPERATORSKIY TULSKIY ORUZHEINIY
+      ZAVOD
+address_list:
+  items:
+  - uid: '71381'
+    address1: 1A, Sovetskaya St.
+    city: Tula
+    postal_code: '300002'
+    country: Russia
+id_list:
+  items:
+  - uid: '38383'
+    id_type: Tax ID No.
+    id_number: '7107003303'
+    id_country: Russia
+  - uid: '38384'
+    id_type: Registration Number
+    id_number: '1027100507147'
+    id_country: Russia
+  - uid: '169641'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,55 @@
+---
+uid: '47680'
+first_name: Artur Ravilevich
+last_name: SUNGATOV
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+address_list:
+  items:
+  - uid: '71274'
+    city: Kazan
+    state_or_province: Tatarstan Republic
+    country: Russia
+id_list:
+  items:
+  - uid: '38298'
+    id_type: Passport
+    id_number: '751412830'
+    id_country: Russia
+  - uid: '38299'
+    id_type: Passport
+    id_number: '9209857353'
+    id_country: Russia
+  - uid: '169146'
+    id_type: Gender
+    id_number: Male
+  - uid: '169149'
+    id_type: Digital Currency Address - XBT
+    id_number: 18gaXypKj9M23S2zT9qZfL9iPbLFM372Q5
+  - uid: '169423'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+  - uid: '169150'
+    id_type: Email Address
+    id_number: imailo@ya.ru
+  - uid: '169151'
+    id_type: Email Address
+    id_number: asungatov@gmail.com
+  - uid: '169152'
+    id_type: Email Address
+    id_number: tkmegap@gmail.com
+  - uid: '169153'
+    id_type: Email Address
+    id_number: morozofkent@gmail.com
+date_of_birth_list:
+  items:
+  - uid: '69147'
+    date_of_birth: 16 Jan 1990
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '69148'
+    place_of_birth: Kazan, Russia
+    main_entry: 'true'

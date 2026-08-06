@@ -1,0 +1,44 @@
+---
+uid: '38817'
+first_name: Volodymyr Volodymyrovich
+last_name: BANDURA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '60651'
+    type: a.k.a.
+    category: strong
+    last_name: BANDURA
+    first_name: Vladimir Vladimirovich
+address_list:
+  items:
+  - uid: '57906'
+    address1: 39 Shchorsa St.
+    city: Donetsk
+    state_or_province: Donetsk region
+    country: Ukraine
+id_list:
+  items:
+  - uid: '28097'
+    id_type: Tax ID No.
+    id_number: '3306813910'
+    id_country: Ukraine
+  - uid: '174715'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '154432'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '54430'
+    date_of_birth: 15 Jul 1990
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '54431'
+    place_of_birth: Toretsk, Donetsk region, Ukraine
+    main_entry: 'true'

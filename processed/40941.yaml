@@ -1,0 +1,30 @@
+---
+uid: '40941'
+first_name: Bruno
+last_name: KOLLER
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '61106'
+    country: Switzerland
+id_list:
+  items:
+  - uid: '30238'
+    id_type: Passport
+    id_number: X7607094
+    id_country: Switzerland
+  - uid: '158586'
+    id_type: Gender
+    id_number: Male
+  - uid: '176922'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '58587'
+    date_of_birth: 14 Aug 1956
+    main_entry: 'true'
+remarks: "(Linked To: MORETTI, Walter)"

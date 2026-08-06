@@ -1,0 +1,28 @@
+---
+uid: '15046'
+last_name: DOVER
+sdn_type: Vessel
+program_list:
+  programs:
+  - IRAN
+aka_list:
+  items:
+  - uid: '40669'
+    type: f.k.a.
+    category: strong
+    last_name: DAYLAM
+id_list:
+  items:
+  - uid: '8055'
+    id_type: Vessel Registration Identification
+    id_number: IMO 9218466
+  - uid: '8124'
+    id_type: MMSI
+    id_number: '256872000'
+  - uid: '113476'
+    id_type: Former Vessel Flag
+    id_number: Malta
+  - uid: '119312'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: NATIONAL IRANIAN TANKER COMPANY)"

@@ -1,0 +1,41 @@
+---
+uid: '52717'
+last_name: JOINT STOCK COMPANY ARCTUR
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '82643'
+    type: a.k.a.
+    category: strong
+    last_name: JSC ARKTUR
+address_list:
+  items:
+  - uid: '80579'
+    address1: Ul Chaginskaya D. 4, Str. 13, Pomeshch. 6/2
+    city: Moscow
+    postal_code: '109380'
+    country: Russia
+id_list:
+  items:
+  - uid: '45859'
+    id_type: Registration Number
+    id_number: '1227700519804'
+    id_country: Russia
+  - uid: '45860'
+    id_type: Tax ID No.
+    id_number: '9725093383'
+    id_country: Russia
+  - uid: '184579'
+    id_type: Organization Established Date
+    id_number: 24 Aug 2022
+  - uid: '184577'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184578'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

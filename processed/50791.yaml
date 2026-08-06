@@ -1,0 +1,37 @@
+---
+uid: '50791'
+last_name: LIMITED LIABILITY COMPANY VOZDUSHNYI TRAKTAT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79539'
+    type: a.k.a.
+    category: strong
+    last_name: OOO VOZDUSHNY TRAKT
+address_list:
+  items:
+  - uid: '77076'
+    address1: MVR Levoberezhnyi, Proezd Uyutnyi, D. 1
+    address2: KV. 34
+    city: Vysokaya Gora
+    postal_code: '300045'
+    country: Russia
+id_list:
+  items:
+  - uid: '42704'
+    id_type: Registration Number
+    id_number: '1237100015767'
+    id_country: Russia
+  - uid: '42705'
+    id_type: Tax ID No.
+    id_number: '7100046925'
+    id_country: Russia
+  - uid: '179438'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '179437'
+    id_type: Organization Established Date
+    id_number: 28 Nov 2022

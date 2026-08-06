@@ -1,0 +1,42 @@
+---
+uid: '40267'
+first_name: Igor Georgiyevich
+last_name: ARTAMONOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '62646'
+    type: a.k.a.
+    category: strong
+    last_name: ARTAMONOV
+    first_name: Igor Georgievich
+address_list:
+  items:
+  - uid: '60028'
+    state_or_province: Lipetsk Region
+    country: Russia
+id_list:
+  items:
+  - uid: '29455'
+    id_type: Tax ID No.
+    id_number: '262400998479'
+    id_country: Russia
+  - uid: '174068'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '157323'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '57321'
+    date_of_birth: 14 Mar 1967
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '57322'
+    place_of_birth: Budennovsk, Stavropol Region, Russia
+    main_entry: 'true'

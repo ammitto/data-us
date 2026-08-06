@@ -1,0 +1,38 @@
+---
+uid: '57976'
+first_name: Jack Peter
+last_name: DERMAN GUZMAN
+sdn_type: Individual
+program_list:
+  programs:
+  - SUDAN-EO14098
+address_list:
+  items:
+  - uid: '88971'
+    city: Panama City
+    country: Panama
+id_list:
+  items:
+  - uid: '52499'
+    id_type: Cedula No.
+    id_number: '882169'
+    id_country: Panama
+  - uid: '52500'
+    id_type: Passport
+    id_number: PA1410518
+    id_country: Panama
+    expiration_date: 06 Oct 2030
+  - uid: '198845'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '98844'
+    date_of_birth: 23 Jun 1988
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '98848'
+    place_of_birth: Panama
+    main_entry: 'true'
+remarks: "(Linked To: TALENT BRIDGE, S.A.)"

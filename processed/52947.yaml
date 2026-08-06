@@ -1,0 +1,30 @@
+---
+uid: '52947'
+first_name: Gholamhossein
+last_name: GERAMI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '80917'
+    country: Iran
+id_list:
+  items:
+  - uid: '184963'
+    id_type: Gender
+    id_number: Male
+  - uid: '184935'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '84938'
+    date_of_birth: 21 Mar 1971 to 21 Mar 1972
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '84936'
+    place_of_birth: Aghajari, Iran
+    main_entry: 'true'

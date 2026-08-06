@@ -1,0 +1,49 @@
+---
+uid: '36067'
+last_name: PUBLIC JOINT STOCK COMPANY PROLETARSKY ZAVOD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56874'
+    type: a.k.a.
+    category: strong
+    last_name: PROLETARSKY ZAVOD
+  - uid: '56875'
+    type: a.k.a.
+    category: strong
+    last_name: PJSC PROLETARSKY ZAVOD
+  - uid: '56876'
+    type: a.k.a.
+    category: strong
+    last_name: PJSC PROLETARSKY FACTORY
+  - uid: '56877'
+    type: a.k.a.
+    category: strong
+    last_name: PUBLIC JOINT-STOCK COMPANY PROLETARSKY FACTORY
+  - uid: '56878'
+    type: a.k.a.
+    category: strong
+    last_name: PROLETARSKIY PLANT
+address_list:
+  items:
+  - uid: '54237'
+    address1: 3, Dudko St.
+    city: St. Petersburg
+    postal_code: '192029'
+    country: Russia
+id_list:
+  items:
+  - uid: '25452'
+    id_type: Tax ID No.
+    id_number: '7811039386'
+    id_country: Russia
+  - uid: '173972'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '149460'
+    id_type: Organization Established Date
+    id_number: 10 Dec 1992
+remarks: "(Linked To: JOINT STOCK COMPANY UNITED SHIPBUILDING CORPORATION)"

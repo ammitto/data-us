@@ -1,0 +1,42 @@
+---
+uid: '47600'
+last_name: LLC TRADING HOUSE STANKOMASHSTROY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73712'
+    type: a.k.a.
+    category: strong
+    last_name: TRADING COMPANY SMS LIMITED
+  - uid: '73713'
+    type: a.k.a.
+    category: weak
+    last_name: LLC TD SMS
+address_list:
+  items:
+  - uid: '71106'
+    address1: Ul. Bugrovka M. D. 20
+    city: Penza
+    postal_code: '440011'
+    country: Russia
+  - uid: '71107'
+    address1: 9A Germana Titova St.
+    city: Penza
+    postal_code: '440028'
+    country: Russia
+id_list:
+  items:
+  - uid: '38153'
+    id_type: Registration Number
+    id_number: '1145835004545'
+    id_country: Russia
+  - uid: '38154'
+    id_type: Tax ID No.
+    id_number: '5835109448'
+    id_country: Russia
+  - uid: '169726'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

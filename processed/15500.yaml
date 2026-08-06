@@ -1,0 +1,54 @@
+---
+uid: '15500'
+first_name: Damaso
+last_name: LOPEZ NUNEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '22867'
+    type: a.k.a.
+    category: weak
+    last_name: EL LICENCIADO
+address_list:
+  items:
+  - uid: '23100'
+    address1: Avenida Nicolas Bravo No. 1607
+    address2: Colonia Guadalupe
+    city: Culiacan
+    state_or_province: Sinaloa
+    postal_code: '80220'
+    country: Mexico
+  - uid: '23101'
+    address1: Calle Escobedo No. 24
+    address2: Localidad El Dorado
+    city: Culiacan
+    state_or_province: Sinaloa
+    postal_code: '80450'
+    country: Mexico
+id_list:
+  items:
+  - uid: '8289'
+    id_type: C.U.R.P.
+    id_number: LOND660222HSLPXM05
+    id_country: Mexico
+  - uid: '8290'
+    id_type: R.F.C.
+    id_number: LOND6602221Y5
+    id_country: Mexico
+  - uid: '8291'
+    id_type: R.F.C.
+    id_number: LOND660222SE7
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '12576'
+    date_of_birth: 22 Feb 1966
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '12579'
+    place_of_birth: Culiacan, Sinaloa, Mexico
+    main_entry: 'true'

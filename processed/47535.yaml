@@ -1,0 +1,40 @@
+---
+uid: '47535'
+last_name: Z AXIS LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73594'
+    type: a.k.a.
+    category: strong
+    last_name: ZET AKSIS
+  - uid: '73595'
+    type: a.k.a.
+    category: strong
+    last_name: ZET AXIS LLC
+address_list:
+  items:
+  - uid: '70970'
+    address1: Per. Gagarinskii D. 22/8, Str. 1, Floor Tsokolnyi Kom 3
+    city: Moscow
+    postal_code: '119002'
+    country: Russia
+id_list:
+  items:
+  - uid: '38038'
+    id_type: Registration Number
+    id_number: '1197746112002'
+    id_country: Russia
+  - uid: '38039'
+    id_type: Tax ID No.
+    id_number: '7704477392'
+    id_country: Russia
+  - uid: '169857'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '170062'
+    id_type: 'Organization Type:'
+    id_number: Wholesale of other machinery and equipment

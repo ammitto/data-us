@@ -1,0 +1,42 @@
+---
+uid: '44222'
+first_name: Aleksey Igorevich
+last_name: KHERSONTSEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '68391'
+    type: a.k.a.
+    category: strong
+    last_name: KHERSONTSEV
+    first_name: Alexey Ihorovych
+address_list:
+  items:
+  - uid: '65815'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '33651'
+    id_type: Tax ID No.
+    id_number: '663004268009'
+    id_country: Russia
+  - uid: '175801'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '163833'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '63831'
+    date_of_birth: 21 Aug 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '63830'
+    place_of_birth: Lesnoy, Sverdlovsk Region, Russia
+    main_entry: 'true'

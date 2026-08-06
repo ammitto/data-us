@@ -1,0 +1,40 @@
+---
+uid: '9390'
+first_name: Hector
+last_name: ALTAMIRANO LOPEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '11635'
+    address1: 'Ave. De los Angeles #5183-4'
+    address2: Fracc. Las Palmas
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '11636'
+    address1: c/o KONTROLES ELECTRONICOS DE BAJA CALIFORNIA, S.A. DE C.V.
+    address2: Ave. Azueta 11750
+    address3: Col. Libertad
+    city: Tijuana
+    state_or_province: Baja California
+    postal_code: CP 22400
+    country: Mexico
+id_list:
+  items:
+  - uid: '4037'
+    id_type: C.U.R.P.
+    id_number: AALH750218HBCLPC02
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '4339'
+    date_of_birth: 18 Feb 1975
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '4340'
+    place_of_birth: Baja California, Mexico
+    main_entry: 'true'

@@ -1,0 +1,42 @@
+---
+uid: '50667'
+first_name: Ali
+last_name: ABDI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+aka_list:
+  items:
+  - uid: '79315'
+    type: a.k.a.
+    category: strong
+    last_name: ABDI
+    first_name: Mohammad Ali Effatpanah Deh Nuy
+address_list:
+  items:
+  - uid: '76823'
+    state_or_province: South Khorasan Province
+    country: Iran
+id_list:
+  items:
+  - uid: '42526'
+    id_type: National ID No.
+    id_number: '0701301643'
+    id_country: Iran
+  - uid: '179114'
+    id_type: Gender
+    id_number: Male
+  - uid: '179298'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '79230'
+    date_of_birth: 29 May 1975
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '79121'
+    place_of_birth: Torbat-e Heydariyeh, Razavi Khorasan Province, Iran
+    main_entry: 'true'

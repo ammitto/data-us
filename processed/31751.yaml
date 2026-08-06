@@ -1,0 +1,39 @@
+---
+uid: '31751'
+first_name: Gustavo Adolfo
+last_name: ALEJOS CAMBARA
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '49754'
+    type: a.k.a.
+    category: strong
+    last_name: ALEJOS CAMBARA
+    first_name: Gustavo
+address_list:
+  items:
+  - uid: '47784'
+    country: Guatemala
+id_list:
+  items:
+  - uid: '21616'
+    id_type: Passport
+    id_number: '00728220K'
+    id_country: Guatemala
+    expiration_date: 26 Jul 2009
+  - uid: '140285'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '40283'
+    date_of_birth: 25 Oct 1966
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '40286'
+    place_of_birth: Guatemala
+    main_entry: 'true'

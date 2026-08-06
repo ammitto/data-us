@@ -1,0 +1,42 @@
+---
+uid: '13136'
+last_name: SARMAYEH BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '14783'
+    type: a.k.a.
+    category: strong
+    last_name: BANK-E SARMAYEH
+  - uid: '47105'
+    type: a.k.a.
+    category: strong
+    last_name: BANK SARMAYEH
+address_list:
+  items:
+  - uid: '20997'
+    address1: Sepahod Gharani No. 24
+    address2: Corner of Arak St.
+    city: Tehran
+    country: Iran
+  - uid: '45330'
+    address1: No. 34, Corner of Arak St, Gharani Ave
+    city: Tehran
+    country: Iran
+  - uid: '45331'
+    address1: 24, Arak Street, Sepahbod Gharani Avenue
+    city: Tehran
+    postal_code: 19395-6415
+    country: Iran
+id_list:
+  items:
+  - uid: '137340'
+    id_type: Website
+    id_number: www.sbank.ir
+  - uid: '137302'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

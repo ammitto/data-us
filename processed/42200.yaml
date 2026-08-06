@@ -1,0 +1,34 @@
+---
+uid: '42200'
+last_name: LIMITED LIABILITY COMPANY NOVELCO GLOBAL FORWARDING
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65589'
+    type: a.k.a.
+    category: weak
+    last_name: LLC NGF
+address_list:
+  items:
+  - uid: '62985'
+    address1: 2 Gorbunova St., Building 3, Room 300
+    city: Moscow
+    postal_code: '121596'
+    country: Russia
+id_list:
+  items:
+  - uid: '31670'
+    id_type: Registration Number
+    id_number: '1117746710190'
+    id_country: Russia
+  - uid: '31671'
+    id_type: Tax ID No.
+    id_number: '7733777418'
+    id_country: Russia
+  - uid: '176956'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: GRIGORIEV, Grigoriy Igorevich)"

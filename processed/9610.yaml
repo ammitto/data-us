@@ -1,0 +1,38 @@
+---
+uid: '9610'
+last_name: LEBANESE MEDIA GROUP
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '9099'
+    type: a.k.a.
+    category: strong
+    last_name: LEBANESE COMMUNICATION GROUP
+address_list:
+  items:
+  - uid: '12106'
+    address1: Al Manar Building, Ahmad Kassir Street
+    address2: Haret Hriek, Baabda
+    country: Lebanon
+  - uid: '12107'
+    address1: Abed Al Nour Street, Haret Hriek
+    address2: PO Box 354/25
+    city: Beirut
+    country: Lebanon
+id_list:
+  items:
+  - uid: '50754'
+    id_type: Commercial Registry Number
+    id_number: '59531'
+    id_country: Lebanon
+  - uid: '120216'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
+      Sanctions Regulations
+  - uid: '186271'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886

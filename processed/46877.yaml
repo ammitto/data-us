@@ -1,0 +1,38 @@
+---
+uid: '46877'
+first_name: Reza
+last_name: HAMIDIRAVARI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+aka_list:
+  items:
+  - uid: '72439'
+    type: a.k.a.
+    category: strong
+    last_name: RAVARI
+    first_name: Reza
+address_list:
+  items:
+  - uid: '69883'
+    country: Iran
+id_list:
+  items:
+  - uid: '36975'
+    id_type: Passport
+    id_number: V40150378
+    id_country: Iran
+    expiration_date: 02 Jan 2022
+  - uid: '167795'
+    id_type: Gender
+    id_number: Male
+  - uid: '167866'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '67793'
+    date_of_birth: 31 Oct 1963
+    main_entry: 'true'
+remarks: "(Linked To: IRANIAN MINISTRY OF INTELLIGENCE AND SECURITY)"

@@ -1,0 +1,37 @@
+---
+uid: '49185'
+last_name: URAL METAL PROCESSING COMPANY LTD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76663'
+    type: a.k.a.
+    category: strong
+    last_name: URALSKAYA METALLOOBRABATYVAYUSHCHAYA KOMPANIYA
+  - uid: '76664'
+    type: a.k.a.
+    category: weak
+    last_name: UMZ
+address_list:
+  items:
+  - uid: '74032'
+    address1: Ul. Kommunalnaya D. 10, Str. 1
+    city: Magnitogorsk
+    postal_code: '455007'
+    country: Russia
+id_list:
+  items:
+  - uid: '40315'
+    id_type: Registration Number
+    id_number: '1067444026187'
+    id_country: Russia
+  - uid: '40316'
+    id_type: Tax ID No.
+    id_number: '7444048751'
+    id_country: Russia
+  - uid: '172133'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

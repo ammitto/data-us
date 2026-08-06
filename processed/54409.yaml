@@ -1,0 +1,51 @@
+---
+uid: '54409'
+last_name: VS TANKERS FREE ZONE ENTITY - F.Z.E DMCC BRANCH
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '84695'
+    type: a.k.a.
+    category: strong
+    last_name: VS TANKERS FZE
+  - uid: '84696'
+    type: a.k.a.
+    category: strong
+    last_name: AL IRAQIA SHIPPING SERVICES AND OIL TRADING - F.Z.E DMCC BRANCH
+address_list:
+  items:
+  - uid: '83101'
+    address1: JLT Cluster G, Al Sahel St
+    address2: P.O. Box 54025
+    city: Dubai
+    country: United Arab Emirates
+  - uid: '83102'
+    address1: Block C1 Office SM-Office C1-505B
+    address2: Ajman Free Zone
+    city: Ajman
+    country: United Arab Emirates
+  - uid: '83103'
+    address1: Office 3406-3409
+    address2: Jumeirah Business Centre 1, Cluster G
+    address3: Jumeirah Lake Towers
+    city: Dubai
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '48021'
+    id_type: Economic Register Number (CBLS)
+    id_number: '12158679'
+    id_country: United Arab Emirates
+  - uid: '48022'
+    id_type: License
+    id_number: DMCC-759141
+    id_country: United Arab Emirates
+  - uid: '48023'
+    id_type: Identification Number
+    id_number: IMO 2289659
+  - uid: '190271'
+    id_type: Organization Established Date
+    id_number: 04 Feb 2020

@@ -1,0 +1,42 @@
+---
+uid: '44862'
+last_name: JOINT STOCK COMPANY UNITED METALLURGICAL COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '69379'
+    type: a.k.a.
+    category: weak
+    last_name: AO OMK
+address_list:
+  items:
+  - uid: '66755'
+    address1: Nab. Ozerkovskaya D. 28
+    address2: Str. 2
+    city: Moscow
+    postal_code: '115184'
+    country: Russia
+id_list:
+  items:
+  - uid: '34461'
+    id_type: Registration Number
+    id_number: '1027700121173'
+    id_country: Russia
+  - uid: '34462'
+    id_type: Tax ID No.
+    id_number: '7736030085'
+    id_country: Russia
+  - uid: '175822'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184315'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '165113'
+    id_type: Organization Established Date
+    id_number: 23 Nov 1992

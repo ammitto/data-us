@@ -1,0 +1,47 @@
+---
+uid: '30413'
+last_name: MELLI SAKHTEMAN COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13876
+aka_list:
+  items:
+  - uid: '47795'
+    type: a.k.a.
+    category: weak
+    last_name: NATIONAL BUILDING COMPANY
+  - uid: '47796'
+    type: a.k.a.
+    category: strong
+    last_name: MELLI SAKHTEMAN CO.
+  - uid: '47797'
+    type: a.k.a.
+    category: strong
+    last_name: SHERKAT-E MELLI-YE SAKHTEMAN
+address_list:
+  items:
+  - uid: '46002'
+    address1: No. 7, South Golestan St, Iranzamin Ave, Shahrak-eGharb
+    city: Tehran
+    country: Iran
+  - uid: '46004'
+    city: Dubai
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '20562'
+    id_type: Registration Number
+    id_number: '6489'
+    id_country: Iran
+  - uid: '20563'
+    id_type: National ID No.
+    id_number: '10100305734'
+    id_country: Iran
+  - uid: '138056'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '138057'
+    id_type: Website
+    id_number: www.mellisakhteman.com
+remarks: "(Linked To: ISLAMIC REVOLUTION MOSTAZAFAN FOUNDATION)"

@@ -1,0 +1,35 @@
+---
+uid: '51461'
+last_name: OOO REESTR RN
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '78405'
+    address1: Per. Podkopaevskii D 2/6, Str. 3-4
+    city: Moscow
+    postal_code: '109028'
+    country: Russia
+  - uid: '78407'
+    address1: Per. 1-I Shchipkovskii D. 20
+    city: Moscow
+    postal_code: '115093'
+    country: Russia
+id_list:
+  items:
+  - uid: '43811'
+    id_type: Registration Number
+    id_number: '1027700172818'
+    id_country: Russia
+  - uid: '43812'
+    id_type: Tax ID No.
+    id_number: '7705397301'
+    id_country: Russia
+  - uid: '180991'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '182832'
+    id_type: Target Type
+    id_number: Financial Institution

@@ -1,0 +1,62 @@
+---
+uid: '39039'
+last_name: DESIGN AND MANUFACTURING OF AERO-ENGINE COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+aka_list:
+  items:
+  - uid: '60913'
+    type: a.k.a.
+    category: strong
+    last_name: DESIGN AND MANUFACTURE OF AIRCRAFT ENGINES
+  - uid: '60914'
+    type: a.k.a.
+    category: weak
+    last_name: DAMA
+  - uid: '60915'
+    type: a.k.a.
+    category: strong
+    last_name: IRANIAN TURBINE MANUFACTURING INDUSTRIES
+  - uid: '60916'
+    type: a.k.a.
+    category: weak
+    last_name: SAMT
+  - uid: '60917'
+    type: a.k.a.
+    category: strong
+    last_name: TURBINE ENGINE MANUFACTURING CO.
+  - uid: '60918'
+    type: f.k.a.
+    category: strong
+    last_name: TURBINE ENGINE MANUFACTURING PLANT
+  - uid: '60919'
+    type: f.k.a.
+    category: weak
+    last_name: TEM
+address_list:
+  items:
+  - uid: '58155'
+    address1: Shishesh Mina Street, Karaj Special Road
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '28262'
+    id_type: Registration Number
+    id_number: '22142'
+    id_country: Iran
+  - uid: '28263'
+    id_type: Registration Number
+    id_number: '477457'
+    id_country: Iran
+  - uid: '28264'
+    id_type: National ID No.
+    id_number: '14005160213'
+    id_country: Iran
+  - uid: '154752'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS)"

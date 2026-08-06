@@ -1,0 +1,38 @@
+---
+uid: '50256'
+last_name: STATE SCIENTIFIC AND PRODUCTION ASSOCIATION OF POWDER METALLURGY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78476'
+    type: a.k.a.
+    category: strong
+    last_name: STATE RESEARCH AND PRODUCTION POWDER METALLURGY ASSOCIATION
+  - uid: '78477'
+    type: a.k.a.
+    category: weak
+    last_name: GNPO PM
+address_list:
+  items:
+  - uid: '76096'
+    address1: 41 Platonova Str.
+    city: Minsk
+    postal_code: '220005'
+    country: Belarus
+id_list:
+  items:
+  - uid: '41927'
+    id_type: Tax ID No.
+    id_number: '100512805'
+    id_country: Belarus
+  - uid: '41928'
+    id_type: Government Gazette Number
+    id_number: '000247915000'
+    id_country: Belarus
+  - uid: '178032'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: JSC 558 AIRCRAFT REPAIR PLANT)"

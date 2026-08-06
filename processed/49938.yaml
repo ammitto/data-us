@@ -1,0 +1,40 @@
+---
+uid: '49938'
+last_name: SFERA JSC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77815'
+    type: a.k.a.
+    category: strong
+    last_name: AO SFERA
+address_list:
+  items:
+  - uid: '75512'
+    address1: Ul. Elektrodnaya
+    address2: D. 10, BTS Impuls
+    city: Moscow
+    postal_code: '111524'
+    country: Russia
+  - uid: '75513'
+    address1: Ul. Bolshaya Serpukhovskaya
+    address2: D. 44, Office 33
+    city: Moscow
+    postal_code: '115093'
+    country: Russia
+id_list:
+  items:
+  - uid: '41450'
+    id_type: Registration Number
+    id_number: '1027700400771'
+    id_country: Russia
+  - uid: '41451'
+    id_type: Tax ID No.
+    id_number: '7705033512'
+    id_country: Russia
+  - uid: '178057'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

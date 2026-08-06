@@ -1,0 +1,31 @@
+---
+uid: '51319'
+first_name: Dilio Guillermo
+last_name: RODRIGUEZ DIAZ
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+address_list:
+  items:
+  - uid: '78111'
+    country: Venezuela
+id_list:
+  items:
+  - uid: '43554'
+    id_type: Cedula No.
+    id_number: V9600712
+    id_country: Venezuela
+  - uid: '180575'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '80572'
+    date_of_birth: 25 Jun 1968
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '80573'
+    place_of_birth: Venezuela
+    main_entry: 'true'

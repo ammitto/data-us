@@ -1,0 +1,39 @@
+---
+uid: '37258'
+first_name: Jose Luis
+last_name: MORGAN HUERTA
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '58391'
+    type: a.k.a.
+    category: weak
+    last_name: Gordo
+address_list:
+  items:
+  - uid: '55708'
+    city: Nogales
+    state_or_province: Sonora
+    country: Mexico
+id_list:
+  items:
+  - uid: '26544'
+    id_type: C.U.R.P.
+    id_number: MOHL690217HSLRRS02
+    id_country: Mexico
+  - uid: '151744'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '51741'
+    date_of_birth: 17 Feb 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '51742'
+    place_of_birth: Sinaloa, Mexico
+    main_entry: 'true'

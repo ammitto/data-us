@@ -1,0 +1,36 @@
+---
+uid: '30753'
+last_name: VIAN STEEL COMPLEX
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13871
+aka_list:
+  items:
+  - uid: '48376'
+    type: a.k.a.
+    category: weak
+    last_name: VISCO
+  - uid: '48377'
+    type: a.k.a.
+    category: strong
+    last_name: VIAN STEEL MELTING AND CASTING COMPANY
+address_list:
+  items:
+  - uid: '46510'
+    address1: No. 16, Esfandiar Blvd., Vali-e Asr Ave.
+    city: Tehran
+    postal_code: '1968656391'
+    country: Iran
+  - uid: '46511'
+    address1: 42nd Km. of Hamedan- Tehran Road, South Eastern of Mofatteh Power Plant
+    city: Hamedan
+    country: Iran
+id_list:
+  items:
+  - uid: '138671'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '138672'
+    id_type: Website
+    id_number: www.viansteel.com

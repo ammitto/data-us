@@ -1,0 +1,33 @@
+---
+uid: '31003'
+last_name: DALE TOURS, S.A. DE C.V.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '46881'
+    address1: 'Calle Labna #1437'
+    address2: Local Interior 6
+    address3: Jardines del Sol
+    city: Zapopan
+    state_or_province: Jalisco
+    postal_code: C.P. 45050
+    country: Mexico
+  - uid: '46885'
+    address1: Coral 2623
+    address2: Colonia Residencial Victoria
+    city: Guadalajara
+    state_or_province: Jalisco
+    postal_code: C.P. 44560
+    country: Mexico
+id_list:
+  items:
+  - uid: '21039'
+    id_type: R.F.C.
+    id_number: DTO090601K40
+    id_country: Mexico
+  - uid: '139206'
+    id_type: Website
+    id_number: http://daletours.com

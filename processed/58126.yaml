@@ -1,0 +1,35 @@
+---
+uid: '58126'
+last_name: AVRATEK OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+address_list:
+  items:
+  - uid: '89256'
+    address1: Pom. 3/23, D. 39, Str. 80, Prospekt Leningradsky
+    city: Moscow
+    postal_code: '125167'
+    country: Russia
+id_list:
+  items:
+  - uid: '52684'
+    id_type: Registration Number
+    id_number: '5137746162296'
+    id_country: Russia
+  - uid: '52685'
+    id_type: Tax ID No.
+    id_number: '7715985119'
+    id_country: Russia
+  - uid: '199563'
+    id_type: Organization Established Date
+    id_number: 06 Dec 2013
+  - uid: '199643'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '199564'
+    id_type: Website
+    id_number: https://avratek.com
+remarks: "(Linked To: NAMAZI, Behrouz)"

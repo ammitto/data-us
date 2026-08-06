@@ -1,0 +1,37 @@
+---
+uid: '46624'
+first_name: Renel
+last_name: DESTINA
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '72372'
+    type: a.k.a.
+    category: weak
+    last_name: TI LAPLI
+  - uid: '72373'
+    type: a.k.a.
+    category: weak
+    last_name: TILAPLI
+address_list:
+  items:
+  - uid: '69914'
+    country: Haiti
+id_list:
+  items:
+  - uid: '167712'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '67710'
+    date_of_birth: 11 Jun 1982
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '67711'
+    place_of_birth: Haiti
+    main_entry: 'true'

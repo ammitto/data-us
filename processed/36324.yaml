@@ -1,0 +1,40 @@
+---
+uid: '36324'
+last_name: KURORT TSARGRAD SPAS-TESHILOVO OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '57177'
+    type: f.k.a.
+    category: strong
+    last_name: UPRAVLYAYUSHCHAYA KOMPANIYA UST-KACHKA ZAKRYTOE AKTSIONERNOE OBSHCHESTVO
+address_list:
+  items:
+  - uid: '54540'
+    address1: D. Spas-Teshilovo
+    city: Serpukhov
+    postal_code: '142260'
+    country: Russia
+id_list:
+  items:
+  - uid: '25712'
+    id_type: Registration Number
+    id_number: '1195074004377'
+    id_country: Russia
+  - uid: '25713'
+    id_type: Tax ID No.
+    id_number: '5043066510'
+    id_country: Russia
+  - uid: '150199'
+    id_type: 'Organization Type:'
+    id_number: Other human health activities
+  - uid: '149914'
+    id_type: Organization Established Date
+    id_number: 11 Apr 2005
+  - uid: '173996'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: IMENIE TSARGRAD OOO)"

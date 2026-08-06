@@ -1,0 +1,34 @@
+---
+uid: '48488'
+last_name: OTKRYTOE AKTSIONERNOE OBSHCHESTVO VSEROSSIISKII NAUCHNO ISSLEDOVATELSKII
+  PROEKTNO KONSTRUKTORSKII I TEKHNOLOGICHESKII INSTITUT KABELNOI PROMYSHLENNOSTI
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75347'
+    type: a.k.a.
+    category: weak
+    last_name: OAO VNIIKP
+address_list:
+  items:
+  - uid: '72745'
+    address1: Sh. Entuziastov D. 5
+    city: Moscow
+    postal_code: '111024'
+    country: Russia
+id_list:
+  items:
+  - uid: '39387'
+    id_type: Registration Number
+    id_number: '1027700273985'
+    id_country: Russia
+  - uid: '39388'
+    id_type: Tax ID No.
+    id_number: '7722002521'
+    id_country: Russia
+  - uid: '171343'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,42 @@
+---
+uid: '42537'
+first_name: Parviz
+last_name: ABSALAN
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+  - IRGC
+address_list:
+  items:
+  - uid: '63486'
+    city: Zahedan
+    country: Iran
+id_list:
+  items:
+  - uid: '32176'
+    id_type: National ID No.
+    id_number: '3670287000'
+    id_country: Iran
+  - uid: '32177'
+    id_type: Birth Certificate Number
+    id_number: '01764'
+    id_country: Iran
+  - uid: '161175'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '161174'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '61307'
+    date_of_birth: 11 Aug 1964
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '61172'
+    place_of_birth: Zabol, Sistan and Baluchistan Province
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS)"
+title: Deputy Commander of IRGC Salman Corps of Sistan and Baluchistan Province

@@ -1,0 +1,32 @@
+---
+uid: '48252'
+first_name: Hidayet
+last_name: KANOGLU
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+address_list:
+  items:
+  - uid: '72321'
+    city: Rize
+    country: Turkey
+id_list:
+  items:
+  - uid: '170305'
+    id_type: Gender
+    id_number: Male
+  - uid: '170310'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '70302'
+    date_of_birth: 30 Jan 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '70303'
+    place_of_birth: Ankara, Turkey
+    main_entry: 'true'
+remarks: "(Linked To: SAZEH MORAKAB CO. LTD)"

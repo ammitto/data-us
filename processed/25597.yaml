@@ -1,0 +1,46 @@
+---
+uid: '25597'
+first_name: Abdul
+last_name: AZIZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '40223'
+    type: a.k.a.
+    category: weak
+    last_name: ZAMANI, Aziz Shah
+  - uid: '40224'
+    type: a.k.a.
+    category: weak
+    last_name: BALOCH, Abdul Aziz
+address_list:
+  items:
+  - uid: '38716'
+    address1: 'House #29, 30th St.'
+    city: Karachi
+    country: Pakistan
+  - uid: '38717'
+    city: Quetta
+    country: Pakistan
+id_list:
+  items:
+  - uid: '16541'
+    id_type: Passport
+    id_number: AP1810244
+    expiration_date: 31 Oct 2026
+  - uid: '186807'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '129613'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '29510'
+    date_of_birth: '1985'
+    main_entry: 'true'
+remarks: "(Linked To: TALIBAN)"

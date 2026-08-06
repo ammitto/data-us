@@ -1,0 +1,49 @@
+---
+uid: '9591'
+first_name: Dieman Abdulkadir
+last_name: IZZAT
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '9039'
+    type: a.k.a.
+    category: strong
+    last_name: AL-JABBARI
+    first_name: Deiman Alhasenben Ali
+address_list:
+  items:
+  - uid: '12056'
+    address1: Adolf-Braun Street 6
+    city: Nuremberg
+    postal_code: '90429'
+    country: Germany
+  - uid: '12057'
+    address1: Fuerther Street 335
+    city: Nuremberg
+    country: Germany
+  - uid: '12058'
+    address1: Nuremberg Prison
+    country: Germany
+id_list:
+  items:
+  - uid: '4249'
+    id_type: Travel Document Number
+    id_number: A0141062
+    id_country: Germany
+  - uid: '186259'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '4626'
+    date_of_birth: 04 Jul 1965
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '4627'
+    place_of_birth: Kirkuk, Iraq
+    main_entry: 'true'

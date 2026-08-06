@@ -1,0 +1,38 @@
+---
+uid: '47481'
+last_name: LLC CITYIMPEX
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73474'
+    type: a.k.a.
+    category: strong
+    last_name: SITIIMPEKS
+  - uid: '73475'
+    type: a.k.a.
+    category: strong
+    last_name: CITIIMPEX
+address_list:
+  items:
+  - uid: '70856'
+    address1: Ul. Leninskaya Sloboda D. 26
+    address2: Pomeshch 32/124
+    city: Moscow
+    postal_code: '115280'
+    country: Russia
+id_list:
+  items:
+  - uid: '37933'
+    id_type: Registration Number
+    id_number: '1237700066900'
+    id_country: Russia
+  - uid: '37934'
+    id_type: Tax ID No.
+    id_number: '9725112364'
+    id_country: Russia
+  - uid: '169855'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

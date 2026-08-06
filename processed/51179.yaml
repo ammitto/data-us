@@ -1,0 +1,33 @@
+---
+uid: '51179'
+first_name: Vivek Kumar
+last_name: MISHRA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '77810'
+    address1: House No. 191/B Kargil Chaunk, Vill-Dhamtari
+    city: Dhamtari
+    state_or_province: Chattisgarh
+    postal_code: '493773'
+    country: India
+id_list:
+  items:
+  - uid: '43334'
+    id_type: National ID No.
+    id_number: BAIPM9602F
+    id_country: India
+  - uid: '180271'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '180270'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '80266'
+    date_of_birth: 18 Jan 1987
+    main_entry: 'true'

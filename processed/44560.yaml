@@ -1,0 +1,49 @@
+---
+uid: '44560'
+first_name: Ruvugayimikore
+last_name: PROTOGENE
+sdn_type: Individual
+program_list:
+  programs:
+  - DRCONGO
+aka_list:
+  items:
+  - uid: '69015'
+    type: a.k.a.
+    category: strong
+    last_name: RUHINDA
+    first_name: Gaby
+  - uid: '69016'
+    type: a.k.a.
+    category: strong
+    last_name: MIDENDE
+    first_name: Zorro
+address_list:
+  items:
+  - uid: '66450'
+    city: Nyiragongo
+    state_or_province: North Kivu
+    country: Congo, Democratic Republic of the
+id_list:
+  items:
+  - uid: '164752'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '64750'
+    date_of_birth: '1970'
+    main_entry: 'true'
+  - uid: '64751'
+    date_of_birth: 1968 to 1969
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '64754'
+    place_of_birth: Karandaryi Cell, Mwiyanike Sector, Karago Commune, Gisenyi Prefecture,
+      Rwanda
+    main_entry: 'true'
+  - uid: '64755'
+    place_of_birth: Nyabihu District, Western Province, Rwanda
+    main_entry: 'false'
+remarks: "(Linked To: FORCES DEMOCRATIQUES DE LIBERATION DU RWANDA)"

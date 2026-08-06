@@ -1,0 +1,32 @@
+---
+uid: '52124'
+last_name: GAZPROMNEFT VOSTOK LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+address_list:
+  items:
+  - uid: '79549'
+    address1: Ul. Nakhimova D. 13A, Str. 1
+    city: Tomsk
+    postal_code: '634045'
+    country: Russia
+id_list:
+  items:
+  - uid: '45011'
+    id_type: Registration Number
+    id_number: '1057002610378'
+    id_country: Russia
+  - uid: '45012'
+    id_type: Tax ID No.
+    id_number: '7017126251'
+    id_country: Russia
+  - uid: '183022'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183430'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

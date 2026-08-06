@@ -1,0 +1,41 @@
+---
+uid: '35321'
+first_name: Olga Viktorovna
+last_name: SHUVALOVA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '53108'
+    country: Russia
+id_list:
+  items:
+  - uid: '25028'
+    id_type: Tax ID No.
+    id_number: '773178714204'
+  - uid: '25029'
+    id_type: Passport
+    id_number: '514895091'
+    id_country: Russia
+  - uid: '147599'
+    id_type: Gender
+    id_number: Female
+  - uid: '176712'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '47595'
+    date_of_birth: 27 Mar 1969
+    main_entry: 'true'
+  - uid: '47597'
+    date_of_birth: 27 Mar 1966
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '47598'
+    place_of_birth: Kaluga, Russia
+    main_entry: 'true'
+remarks: "(Linked To: SHUVALOV, Igor Ivanovich)"

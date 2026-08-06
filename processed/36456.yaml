@@ -1,0 +1,30 @@
+---
+uid: '36456'
+last_name: BITRIVER AG
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '54804'
+    address1: Baarerstrasse 135
+    city: Zug
+    postal_code: '6300'
+    country: Switzerland
+id_list:
+  items:
+  - uid: '25896'
+    id_type: Tax ID No.
+    id_number: '412633295'
+    id_country: Switzerland
+  - uid: '25897'
+    id_type: Registration Number
+    id_number: CH-170.3.045.713-7
+    id_country: Switzerland
+  - uid: '174214'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '150167'
+    id_type: Organization Established Date
+    id_number: 14 Apr 2021

@@ -1,0 +1,48 @@
+---
+uid: '16713'
+first_name: Francisco de Fatima Frederico
+last_name: BARROS
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '25415'
+    type: a.k.a.
+    category: strong
+    last_name: BARROS FREDERICO
+    first_name: Lucio Francisco de Fatima
+  - uid: '25416'
+    type: a.k.a.
+    category: weak
+    last_name: CHICO BARROS
+id_list:
+  items:
+  - uid: '9247'
+    id_type: National ID No.
+    id_number: '16128971'
+    id_country: Cabo Verde
+  - uid: '9248'
+    id_type: Passport
+    id_number: I066302
+    id_country: Cabo Verde
+  - uid: '9273'
+    id_type: Passport
+    id_number: CA0120780
+    id_country: Guinea-Bissau
+    issue_date: '08 Apr 2006'
+    expiration_date: 07 Apr 2009
+date_of_birth_list:
+  items:
+  - uid: '15254'
+    date_of_birth: 13 May 1967
+    main_entry: 'true'
+  - uid: '15321'
+    date_of_birth: 06 Jun 1970
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '15256'
+    place_of_birth: Praia, Cabo Verde
+    main_entry: 'true'

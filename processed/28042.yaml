@@ -1,0 +1,42 @@
+---
+uid: '28042'
+first_name: Try
+last_name: PHEAP
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '44356'
+    type: a.k.a.
+    category: strong
+    last_name: PHEAP
+    first_name: Thy
+address_list:
+  items:
+  - uid: '42596'
+    address1: N10AB Street 271 SK. Toek Laork III
+    address2: Khan Toul Kork
+    city: Phnom Penh
+    country: Cambodia
+id_list:
+  items:
+  - uid: '18619'
+    id_type: Passport
+    id_number: N0239194
+    id_country: Cambodia
+    expiration_date: 21 Feb 2008
+  - uid: '133488'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '33486'
+    date_of_birth: 15 Jul 1965
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '33487'
+    place_of_birth: Kandal Province, Cambodia
+    main_entry: 'true'

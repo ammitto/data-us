@@ -1,0 +1,51 @@
+---
+uid: '38640'
+first_name: Musab
+last_name: TURKMEN
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '60436'
+    type: a.k.a.
+    category: strong
+    last_name: TURKMAN
+    first_name: Musab
+address_list:
+  items:
+  - uid: '57673'
+    address1: Sinanagha Mah. Dersvekil Sokak 55 4
+    city: Fatih
+    state_or_province: Istanbul
+    country: Turkey
+id_list:
+  items:
+  - uid: '27899'
+    id_type: Turkish Identification Number
+    id_number: '68941120966'
+    id_country: Turkey
+  - uid: '27900'
+    id_type: Passport
+    id_number: U01884667
+    id_country: Turkey
+    expiration_date: 07 Apr 2021
+  - uid: '154104'
+    id_type: Gender
+    id_number: Male
+  - uid: '154105'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '54101'
+    date_of_birth: 11 Jan 1988
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '54102'
+    place_of_birth: Eyup, Sanliurfa Merkez, Sanliurfa, Turkey
+    main_entry: 'true'
+remarks: "(Linked To: TALIB, Ahmed Luqman)"

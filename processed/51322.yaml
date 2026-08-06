@@ -1,0 +1,39 @@
+---
+uid: '51322'
+last_name: MEIN CHEIN
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80465'
+    type: a.k.a.
+    category: strong
+    last_name: MAIN CHAIN
+address_list:
+  items:
+  - uid: '78136'
+    address1: ul. Kantemirovskaya d. 12, lit. a, pomeshch. 20-n, kom. 25
+    city: Saint Petersburg
+    postal_code: '194100'
+    country: Russia
+id_list:
+  items:
+  - uid: '43577'
+    id_type: Registration Number
+    id_number: '1237800006740'
+    id_country: Russia
+  - uid: '43578'
+    id_type: Tax ID No.
+    id_number: '7802935570'
+    id_country: Russia
+  - uid: '43583'
+    id_type: Legal Entity Number
+    id_number: 253400B6LCY3RVSUCZ86
+  - uid: '180614'
+    id_type: Organization Established Date
+    id_number: 25 Jan 2023
+  - uid: '180604'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

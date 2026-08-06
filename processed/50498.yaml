@@ -1,0 +1,35 @@
+---
+uid: '50498'
+last_name: IDRONAUT S.R.L.
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '76561'
+    address1: Via Monte Amiata 10
+    city: Brugherio
+    postal_code: '20861'
+    country: Italy
+id_list:
+  items:
+  - uid: '42296'
+    id_type: Tax ID No.
+    id_number: '13292880153'
+    id_country: Italy
+  - uid: '42297'
+    id_type: Registration Number
+    id_number: MB1635423
+    id_country: Italy
+  - uid: '178546'
+    id_type: Organization Established Date
+    id_number: 18 Dec 2000
+  - uid: '178545'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '178547'
+    id_type: Website
+    id_number: www.idronaut.it
+remarks: "(Linked To: TECHNOPOLE COMPANY; Linked To: P.P. SHIRSHOV INSTITUTE OF OCEANOLOGY
+  OF THE RUSSIAN ACADEMY OF SCIENCES)"

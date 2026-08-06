@@ -1,0 +1,48 @@
+---
+uid: '51958'
+first_name: Andrei Yuvenalyevich
+last_name: PETROV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '81326'
+    type: a.k.a.
+    category: strong
+    last_name: PETROV
+    first_name: Andrey Yuvenalyevich
+address_list:
+  items:
+  - uid: '79194'
+    address1: 5 Community 1, Apt. 320
+    city: Desnogorsk
+    postal_code: '216400'
+    country: Russia
+id_list:
+  items:
+  - uid: '44726'
+    id_type: National ID No.
+    id_number: '6002544213'
+    id_country: Russia
+  - uid: '44727'
+    id_type: Tax ID No.
+    id_number: '614307365474'
+    id_country: Russia
+  - uid: '182583'
+    id_type: Gender
+    id_number: Male
+  - uid: '182584'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '82580'
+    date_of_birth: 21 Sep 1963
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '82581'
+    place_of_birth: Angarsk, Irkutsk Region, Russia
+    main_entry: 'true'

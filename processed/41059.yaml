@@ -1,0 +1,42 @@
+---
+uid: '41059'
+first_name: Aleksandr Vladimirovich
+last_name: BRECHALOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '64020'
+    type: a.k.a.
+    category: strong
+    last_name: BRECHALOV
+    first_name: Alexander Vladimirovich
+address_list:
+  items:
+  - uid: '61358'
+    state_or_province: Udmurtia Republic
+    country: Russia
+id_list:
+  items:
+  - uid: '30392'
+    id_type: Tax ID No.
+    id_number: '231106982106'
+    id_country: Russia
+  - uid: '173592'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '158925'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '58923'
+    date_of_birth: 18 Nov 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '58924'
+    place_of_birth: Tlyustenkhabl, Adygeya Republic, Russia
+    main_entry: 'true'

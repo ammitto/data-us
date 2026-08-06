@@ -1,0 +1,36 @@
+---
+uid: '17808'
+first_name: Antonio Jose
+last_name: BENAVIDES TORRES
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+id_list:
+  items:
+  - uid: '10053'
+    id_type: Cedula No.
+    id_number: 6.371.374
+    id_country: Venezuela
+  - uid: '10054'
+    id_type: Passport
+    id_number: '026719333'
+    id_country: Venezuela
+    expiration_date: 24 Aug 2014
+  - uid: '116941'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '16942'
+    date_of_birth: 13 Jun 1961
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '16943'
+    place_of_birth: Venezuela
+    main_entry: 'true'
+remarks: former Division General, Director of Operations, Venezuela's Bolivarian National
+  Guard (GNB)
+title: Major General, Commander of the Strategic Region for the Integral Defense (REDI)
+  of the Central Region, Venezuela's Bolivarian National Armed Forces (FANB)

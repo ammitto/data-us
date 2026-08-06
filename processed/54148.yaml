@@ -1,0 +1,50 @@
+---
+uid: '54148'
+last_name: FUYA PARS PROSPECTIVE TECHNOLOGISTS
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+aka_list:
+  items:
+  - uid: '84315'
+    type: a.k.a.
+    category: strong
+    last_name: PUYA PARS FANAVARAN AYANDEH NEGAR COMPANY
+  - uid: '84316'
+    type: a.k.a.
+    category: strong
+    last_name: POUYA PARS FANAVARAN AYANDEH NEGAR COMPANY
+  - uid: '84379'
+    type: a.k.a.
+    category: weak
+    last_name: IDEAL VACUUM
+  - uid: '84380'
+    type: a.k.a.
+    category: weak
+    last_name: IDEAL VACUUM STORE
+address_list:
+  items:
+  - uid: '82641'
+    address1: Number 18, 1st Mariam Street
+    address2: Khayyam Boulevard
+    address3: Shamsabad Industrial District
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '47633'
+    id_type: Registration Number
+    id_number: '434228'
+    id_country: Iran
+  - uid: '47634'
+    id_type: National ID No.
+    id_number: '14003220702'
+    id_country: Iran
+  - uid: '189812'
+    id_type: Organization Established Date
+    id_number: 12 Feb 2013
+  - uid: '189741'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

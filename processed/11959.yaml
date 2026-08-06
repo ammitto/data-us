@@ -1,0 +1,32 @@
+---
+uid: '11959'
+first_name: Eduardo
+last_name: ESTRADA GONZALEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '18125'
+    country: Mexico
+id_list:
+  items:
+  - uid: '6308'
+    id_type: C.U.R.P.
+    id_number: EAGE740501HTSSND02
+    id_country: Mexico
+  - uid: '6309'
+    id_type: R.F.C.
+    id_number: EAGE740501
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '7480'
+    date_of_birth: 01 May 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '7481'
+    place_of_birth: Tamaulipas
+    main_entry: 'true'

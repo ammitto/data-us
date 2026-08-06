@@ -1,0 +1,32 @@
+---
+uid: '50227'
+last_name: LLC MOT
+sdn_type: Entity
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '78387'
+    type: a.k.a.
+    category: strong
+    last_name: OOO MOT
+address_list:
+  items:
+  - uid: '76040'
+    address1: UL. Moskovskaya 202B/8-2
+    city: Brest
+    postal_code: '224020'
+    country: Belarus
+id_list:
+  items:
+  - uid: '41867'
+    id_type: Tax ID No.
+    id_number: '291194100'
+    id_country: Belarus
+  - uid: '178189'
+    id_type: Organization Established Date
+    id_number: 25 Sep 2016
+  - uid: '178192'
+    id_type: 'Organization Type:'
+    id_number: Manufacture of other fabricated metal products n.e.c.

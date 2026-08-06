@@ -1,0 +1,46 @@
+---
+uid: '49531'
+first_name: Bulat Akhatovich
+last_name: YANBORISOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '74755'
+    city: Sozopol
+    country: Bulgaria
+  - uid: '74756'
+    address1: 51 Rue de Prony
+    city: Paris
+    country: France
+  - uid: '74782'
+    address1: Sytzia, Ioanni Kapodistria Str, Dali Residence Mez.6,
+    address2: Potamos Germasogias
+    city: Limassol
+    postal_code: '4046'
+    country: Cyprus
+id_list:
+  items:
+  - uid: '40906'
+    id_type: Passport
+    id_number: K00427312
+    id_country: Cyprus
+    expiration_date: 19 Nov 2028
+  - uid: '172634'
+    id_type: Gender
+    id_number: Male
+  - uid: '172641'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '72663'
+    date_of_birth: 01 Jan 1970
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '72664'
+    place_of_birth: Penza, Russia
+    main_entry: 'true'

@@ -1,0 +1,41 @@
+---
+uid: '42725'
+last_name: INTER-TRANS SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '66223'
+    type: a.k.a.
+    category: strong
+    last_name: INTER-TRANS SP Z OO
+address_list:
+  items:
+  - uid: '63726'
+    address1: Brzeska 97
+    address2: lok. 211
+    city: Siedlce
+    postal_code: '08-110'
+    country: Poland
+id_list:
+  items:
+  - uid: '32270'
+    id_type: V.A.T. Number
+    id_number: '8212655098'
+    id_country: Poland
+  - uid: '32271'
+    id_type: Registration Number
+    id_number: '0000724475'
+    id_country: Poland
+  - uid: '32272'
+    id_type: Tax ID No.
+    id_number: '368738723'
+    id_country: Poland
+  - uid: '175456'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '161521'
+    id_type: Organization Established Date
+    id_number: 10 Nov 2017

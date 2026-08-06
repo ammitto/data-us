@@ -1,0 +1,32 @@
+---
+uid: '35841'
+first_name: Bashir Ali
+last_name: YUSUF
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+id_list:
+  items:
+  - uid: '25157'
+    id_type: Passport
+    id_number: A06077522
+    id_country: Nigeria
+  - uid: '148985'
+    id_type: Gender
+    id_number: Male
+  - uid: '149002'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '48983'
+    date_of_birth: 07 Aug 1984
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '48997'
+    place_of_birth: Nigeria
+    main_entry: 'true'
+remarks: "(Linked To: BOKO HARAM)"

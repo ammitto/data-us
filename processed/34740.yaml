@@ -1,0 +1,31 @@
+---
+uid: '34740'
+last_name: SOVCOMBANK FACTORING LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '52054'
+    address1: Ul. Kozhevnicheskaya D.14
+    city: Moscow
+    postal_code: '115114'
+    country: Russia
+id_list:
+  items:
+  - uid: '24405'
+    id_type: Tax ID No.
+    id_number: '7725625041'
+    id_country: Russia
+  - uid: '24406'
+    id_type: Registration Number
+    id_number: '1077764078226'
+    id_country: Russia
+  - uid: '175192'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '146172'
+    id_type: Website
+    id_number: factoring.ru
+remarks: "(Linked To: SOVCOMBANK OPEN JOINT STOCK COMPANY)"

@@ -1,0 +1,38 @@
+---
+uid: '37196'
+last_name: TELEVISION STATION RUSSIA-1
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '58327'
+    type: a.k.a.
+    category: strong
+    last_name: RUSSIA-1
+  - uid: '58328'
+    type: a.k.a.
+    category: strong
+    last_name: ROSSIYA-1
+  - uid: '58329'
+    type: a.k.a.
+    category: strong
+    last_name: ROSSIJA 1
+address_list:
+  items:
+  - uid: '55644'
+    address1: 5th Yamskogo Polya street, 19-21, building 1, Begovoy
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '151691'
+    id_type: Organization Established Date
+    id_number: 13 May 1991
+  - uid: '174520'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '151690'
+    id_type: Target Type
+    id_number: Government Entity

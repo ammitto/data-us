@@ -1,0 +1,40 @@
+---
+uid: '48688'
+last_name: LIMITED LIABILITY COMPANY LENAKHIM
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75748'
+    type: a.k.a.
+    category: strong
+    last_name: LENACHIM COMPANY LIMITED
+address_list:
+  items:
+  - uid: '73148'
+    address1: Ul Marshala Govorova D. 29
+    city: Saint Petersburg
+    postal_code: '198095'
+    country: Russia
+  - uid: '73159'
+    address1: Khimichesky Per., D. 1
+    address2: Litera AN, Pomesh 10-N
+    address3: Chast Pom 3
+    city: Saint Petersburg
+    postal_code: '198095'
+    country: Russia
+id_list:
+  items:
+  - uid: '39693'
+    id_type: Registration Number
+    id_number: '1027802746179'
+    id_country: Russia
+  - uid: '39694'
+    id_type: Tax ID No.
+    id_number: '7805182187'
+    id_country: Russia
+  - uid: '171268'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

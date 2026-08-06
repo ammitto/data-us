@@ -1,0 +1,34 @@
+---
+uid: '49195'
+last_name: PKP SEGMENT ENERGO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76690'
+    type: a.k.a.
+    category: weak
+    last_name: PKP SE
+address_list:
+  items:
+  - uid: '74052'
+    address1: Ul. Bolshaya Polyanka D. 51A/9
+    address2: Pomeshch. 1/1
+    city: Moscow
+    postal_code: '119180'
+    country: Russia
+id_list:
+  items:
+  - uid: '40338'
+    id_type: Registration Number
+    id_number: '1167746251848'
+    id_country: Russia
+  - uid: '40339'
+    id_type: Tax ID No.
+    id_number: '7721478117'
+    id_country: Russia
+  - uid: '172150'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

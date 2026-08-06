@@ -1,0 +1,32 @@
+---
+uid: '41514'
+last_name: GKR NEDVIZHIMOST OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '61990'
+    address1: ul. Petrovka d. 17
+    address2: str. 4, et 1 pom. VII kom 7
+    city: Moscow
+    postal_code: '107031'
+    country: Russia
+id_list:
+  items:
+  - uid: '30860'
+    id_type: Registration Number
+    id_number: '1147746418291'
+    id_country: Russia
+  - uid: '30861'
+    id_type: Tax ID No.
+    id_number: '7702836342'
+    id_country: Russia
+  - uid: '173687'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '159637'
+    id_type: Organization Established Date
+    id_number: 15 Apr 2014
+remarks: "(Linked To: VINER, Natan Adadievich)"

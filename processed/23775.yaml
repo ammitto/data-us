@@ -1,0 +1,27 @@
+---
+uid: '23775'
+last_name: WEIHAI WORLD-SHIPPING FREIGHT
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK4
+address_list:
+  items:
+  - uid: '36068'
+    address1: 419-201, Tongyi Lu, Huancui Qu
+    city: Weihai
+    state_or_province: Shandong
+    postal_code: '264200'
+    country: China
+id_list:
+  items:
+  - uid: '15236'
+    id_type: Company Number
+    id_number: IMO 5905801
+  - uid: '127403'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '135229'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214

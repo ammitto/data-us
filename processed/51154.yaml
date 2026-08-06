@@ -1,0 +1,45 @@
+---
+uid: '51154'
+first_name: Qing
+last_name: LIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80208'
+    type: a.k.a.
+    category: strong
+    last_name: LIN
+    first_name: Becky
+address_list:
+  items:
+  - uid: '77758'
+    address1: 1205, Block H, No. 1168 Sunshine Haibin Garden, Houbaibin Road, Nanshan
+      District
+    city: Shenzhen
+    state_or_province: Guangdong
+    country: China
+id_list:
+  items:
+  - uid: '43299'
+    id_type: Identification Number
+    id_number: '360402198303292112'
+    id_country: China
+  - uid: '180232'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '180228'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '80229'
+    date_of_birth: 29 Mar 1983
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '80231'
+    place_of_birth: Jiujiang, Jiangxi Province, China
+    main_entry: 'true'

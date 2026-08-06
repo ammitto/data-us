@@ -1,0 +1,32 @@
+---
+uid: '32038'
+last_name: MELIORA ACADEMICA EOOD
+sdn_type: Entity
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '50251'
+    type: f.k.a.
+    category: strong
+    last_name: MELIORA AKADEMIKA
+address_list:
+  items:
+  - uid: '48219'
+    address1: 2E Prof. P. Dzhidrov Str.
+    address2: Studentski Grad Distr.
+    city: Sofia
+    state_or_province: Stolichna
+    postal_code: '1700'
+    country: Bulgaria
+id_list:
+  items:
+  - uid: '21822'
+    id_type: V.A.T. Number
+    id_number: BG 202052161
+    id_country: Bulgaria
+  - uid: '141038'
+    id_type: Organization Established Date
+    id_number: '2012'
+remarks: "(Linked To: DECART OOD)"

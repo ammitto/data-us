@@ -1,0 +1,54 @@
+---
+uid: '41032'
+first_name: Oleg Evgenievich
+last_name: ROMANENKO
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63971'
+    type: a.k.a.
+    category: strong
+    last_name: ROMANENKO
+    first_name: Oleg
+  - uid: '63973'
+    type: a.k.a.
+    category: strong
+    last_name: ROMANENKO
+    first_name: Oleg Yegemyevich
+address_list:
+  items:
+  - uid: '61306'
+    address1: 29/8 Heroev Ave
+    address2: Apt 51
+    city: Balakovo
+    state_or_province: Saratov Region
+    country: Russia
+id_list:
+  items:
+  - uid: '30368'
+    id_type: Tax ID No.
+    id_number: '643910675500'
+    id_country: Russia
+  - uid: '30500'
+    id_type: Passport
+    id_number: 6308 264336
+    id_country: Russia
+  - uid: '173565'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '158842'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '58841'
+    date_of_birth: 05 Oct 1963
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '59134'
+    place_of_birth: Soledar, Bakhmut District, Donetsk Region, Ukraine
+    main_entry: 'true'

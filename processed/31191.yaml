@@ -1,0 +1,31 @@
+---
+uid: '31191'
+last_name: RAPID INTERVENTION FORCE
+sdn_type: Entity
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '49050'
+    type: a.k.a.
+    category: weak
+    last_name: TIGER SQUAD
+  - uid: '49051'
+    type: a.k.a.
+    category: strong
+    last_name: SAUDI RAPID INTERVENTION GROUP
+  - uid: '49056'
+    type: a.k.a.
+    category: strong
+    last_name: FIRQAT EL-NEMR
+address_list:
+  items:
+  - uid: '47142'
+    country: Saudi Arabia
+id_list:
+  items:
+  - uid: '139624'
+    id_type: Organization Established Date
+    id_number: '2015'
+remarks: "(Linked To: AL-QAHTANI, Saud)"

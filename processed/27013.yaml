@@ -1,0 +1,41 @@
+---
+uid: '27013'
+first_name: Waad
+last_name: QADO
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '42763'
+    type: a.k.a.
+    category: strong
+    last_name: EL KADDU
+    first_name: Waad
+  - uid: '42783'
+    type: a.k.a.
+    category: weak
+    last_name: Abu Jaffar al-Shabaki
+address_list:
+  items:
+  - uid: '41046'
+    country: Iraq
+id_list:
+  items:
+  - uid: '131922'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '31910'
+    date_of_birth: 12 Dec 1971
+    main_entry: 'true'
+  - uid: '31911'
+    date_of_birth: 01 Jan 1971
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '31912'
+    place_of_birth: Mosul, Iraq
+    main_entry: 'true'

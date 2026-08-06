@@ -1,0 +1,55 @@
+---
+uid: '11442'
+last_name: KAVEH CUTTING TOOLS COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+aka_list:
+  items:
+  - uid: '12061'
+    type: a.k.a.
+    category: strong
+    last_name: KAVEH CUTTING TOOLS
+  - uid: '12062'
+    type: a.k.a.
+    category: strong
+    last_name: KAVEH CUTTING TOOLS COMPLEX
+  - uid: '12063'
+    type: a.k.a.
+    category: strong
+    last_name: KAVEH CUTTING TOOLS FACTORIES
+address_list:
+  items:
+  - uid: '16892'
+    address1: Km 4 of Khalaj Road
+    address2: End of Seyedi Street
+    city: Mashad
+    country: Iran
+  - uid: '16893'
+    address1: P.O. Box 91735-549
+    city: Mashad
+    country: Iran
+  - uid: '16894'
+    address1: 3rd Km of Khalaj Road
+    address2: Seyyedi Street
+    city: Mashad
+    postal_code: '91638'
+    country: Iran
+  - uid: '16895'
+    address1: Khalaj Rd.
+    address2: End of Seyyedi Alley
+    city: Mashad
+    country: Iran
+  - uid: '16896'
+    address1: Moqan St.
+    address2: Pasdaran St.
+    address3: Pasdaran Cross Rd.
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '113947'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

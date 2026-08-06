@@ -1,0 +1,35 @@
+---
+uid: '39356'
+last_name: NEW EASTERN SHIPPING CO LTD
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK4
+address_list:
+  items:
+  - uid: '58613'
+    country: Marshall Islands
+  - uid: '58614'
+    address1: 10 Anson Road
+    address2: "#17-00 International Plaza"
+    postal_code: '079903'
+    country: Singapore
+  - uid: '58615'
+    address1: Wan Yue City, 1124
+    address2: Riyuan Erli
+    address3: Huli Qu
+    city: Xiamen
+    state_or_province: Fujian
+    country: China
+id_list:
+  items:
+  - uid: '28536'
+    id_type: Identification Number
+    id_number: IMO 6133570
+  - uid: '155262'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '155263'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214

@@ -1,0 +1,31 @@
+---
+uid: '28929'
+first_name: Veronica
+last_name: ESPARZA GARCIA
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA-EO13850
+address_list:
+  items:
+  - uid: '44017'
+    country: Mexico
+id_list:
+  items:
+  - uid: '19248'
+    id_type: C.U.R.P.
+    id_number: EAGV730116MSLSRR04
+    id_country: Mexico
+  - uid: '135815'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '35497'
+    date_of_birth: 16 Jan 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '35499'
+    place_of_birth: Sinaloa, Mexico
+    main_entry: 'true'

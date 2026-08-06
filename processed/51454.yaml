@@ -1,0 +1,39 @@
+---
+uid: '51454'
+last_name: CENTROCREDIT BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '78392'
+    address1: Bld. 1, St Pyatnitskaya, 31/2
+    city: Moscow
+    postal_code: '119017'
+    country: Russia
+id_list:
+  items:
+  - uid: '43799'
+    id_type: Legal Entity Number
+    id_number: 253400ES6B5GGK2A4506
+  - uid: '43800'
+    id_type: Registration Number
+    id_number: '1027739198387'
+    id_country: Russia
+  - uid: '43802'
+    id_type: Tax ID No.
+    id_number: '1027739198387'
+    id_country: Russia
+  - uid: '180979'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '180984'
+    id_type: SWIFT/BIC
+    id_number: CKBBRUMM
+  - uid: '180980'
+    id_type: Website
+    id_number: www.ccb.ru
+  - uid: '181548'
+    id_type: Target Type
+    id_number: Financial Institution

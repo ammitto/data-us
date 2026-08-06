@@ -1,0 +1,49 @@
+---
+uid: '55284'
+first_name: Mehdi
+last_name: FARSHCHI
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '86037'
+    type: a.k.a.
+    category: strong
+    last_name: FARSHCHI
+    first_name: Mahdi
+  - uid: '86038'
+    type: a.k.a.
+    category: strong
+    last_name: FARSHCHI
+    first_name: Mahdi Mohammad
+address_list:
+  items:
+  - uid: '84537'
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '49288'
+    id_type: Passport
+    id_number: Z55919906
+    id_country: Iran
+    expiration_date: 17 Feb 2027
+  - uid: '49289'
+    id_type: National ID No.
+    id_number: '0071756671'
+    id_country: Iran
+  - uid: '192531'
+    id_type: Gender
+    id_number: Male
+  - uid: '192628'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '92529'
+    date_of_birth: 10 Oct 1980
+    main_entry: 'true'
+remarks: "(Linked To: BEH JOULE PARS COMMERCIAL ENGINEERING COMPANY)"

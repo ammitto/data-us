@@ -1,0 +1,62 @@
+---
+uid: '44259'
+last_name: T-BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '68456'
+    type: a.k.a.
+    category: strong
+    last_name: TINKOFF CREDIT SYSTEMS BANK CLOSED JOINT STOCK COMPANY
+  - uid: '68457'
+    type: a.k.a.
+    category: strong
+    last_name: KHIMMASHBANK
+  - uid: '82146'
+    type: a.k.a.
+    category: strong
+    last_name: JSC TINKOFF BANK
+address_list:
+  items:
+  - uid: '65885'
+    address1: Ul. 2nd Khutorskaya, 38A, building 26
+    city: Moscow
+    postal_code: '127287'
+    country: Russia
+id_list:
+  items:
+  - uid: '33687'
+    id_type: Legal Entity Number
+    id_number: 2534000KL0PLD6KG7T76
+  - uid: '33688'
+    id_type: Registration Number
+    id_number: '1027739642281'
+    id_country: Russia
+  - uid: '33689'
+    id_type: Identification Number
+    id_number: TQWL8F.99999.SL.643
+    id_country: Russia
+  - uid: '33693'
+    id_type: Tax ID No.
+    id_number: '7710140679'
+    id_country: Russia
+  - uid: '163918'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '175816'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184113'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '163919'
+    id_type: SWIFT/BIC
+    id_number: TICSRUMM
+  - uid: '163917'
+    id_type: Website
+    id_number: www.tinkoff.ru

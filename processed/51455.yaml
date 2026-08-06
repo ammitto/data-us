@@ -1,0 +1,33 @@
+---
+uid: '51455'
+last_name: OOO PARTNER
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '78394'
+    address1: Prosp. Pobedy D. 22
+    city: Cherepovets
+    postal_code: '162606'
+    country: Russia
+id_list:
+  items:
+  - uid: '43797'
+    id_type: Registration Number
+    id_number: '1143528009712'
+    id_country: Russia
+  - uid: '43798'
+    id_type: Tax ID No.
+    id_number: '3528218586'
+    id_country: Russia
+  - uid: '182795'
+    id_type: Organization Established Date
+    id_number: 28 Jun 1994
+  - uid: '182831'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '180981'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

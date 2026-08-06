@@ -1,0 +1,37 @@
+---
+uid: '50790'
+last_name: METALLOTORGOVAYA KOMPANIYA KRASO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79551'
+    type: a.k.a.
+    category: strong
+    last_name: METAL TRADING COMPANY KRASO
+  - uid: '79552'
+    type: a.k.a.
+    category: strong
+    last_name: LLC MTK KRASO
+address_list:
+  items:
+  - uid: '77083'
+    address1: Pr-kt Druzhby D. 55
+    city: Novokuznetsk
+    postal_code: '654000'
+    country: Russia
+id_list:
+  items:
+  - uid: '42723'
+    id_type: Registration ID
+    id_number: '1104217000645'
+    id_country: Russia
+  - uid: '42724'
+    id_type: Tax ID No.
+    id_number: '4217121858'
+    id_country: Russia
+  - uid: '179449'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

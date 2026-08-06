@@ -1,0 +1,41 @@
+---
+uid: '34683'
+first_name: Olga Konstantinovna
+last_name: DERGUNOVA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54362'
+    type: a.k.a.
+    category: strong
+    last_name: DERGUNOVA
+    first_name: Olga
+address_list:
+  items:
+  - uid: '51942'
+    country: Russia
+id_list:
+  items:
+  - uid: '24320'
+    id_type: Tax ID No.
+    id_number: '1802787483'
+    id_country: Russia
+  - uid: '175178'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '146082'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '46080'
+    date_of_birth: 15 May 1965
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '46081'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'

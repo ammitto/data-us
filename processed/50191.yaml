@@ -1,0 +1,27 @@
+---
+uid: '50191'
+last_name: AERIALIA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '75974'
+    address1: 15 Etangs De Diane
+    city: Garennes-Sur-Eure
+    postal_code: '27780'
+    country: France
+id_list:
+  items:
+  - uid: '41819'
+    id_type: Tax ID No.
+    id_number: '983544560'
+    id_country: France
+  - uid: '178215'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '177782'
+    id_type: Organization Established Date
+    id_number: 18 Jan 2024
+remarks: "(Linked To: REUTOV, Igor Aleksandrovich)"

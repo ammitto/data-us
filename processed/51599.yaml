@@ -1,0 +1,43 @@
+---
+uid: '51599'
+last_name: TEKHNRAIZ
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '80882'
+    type: a.k.a.
+    category: strong
+    last_name: TECHNRAIZ
+  - uid: '80883'
+    type: a.k.a.
+    category: weak
+    last_name: TECHRISE LLC
+address_list:
+  items:
+  - uid: '78626'
+    address1: ul. Volochaevskaya d. 4
+    address2: pomeshch. 1065
+    city: Kazan
+    postal_code: '420073'
+    country: Russia
+id_list:
+  items:
+  - uid: '44073'
+    id_type: Registration Number
+    id_number: '1181690060540'
+    id_country: Russia
+  - uid: '44075'
+    id_type: Tax ID No.
+    id_number: '1660316073'
+    id_country: Russia
+  - uid: '181374'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183512'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

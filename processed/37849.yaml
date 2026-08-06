@@ -1,0 +1,46 @@
+---
+uid: '37849'
+first_name: Yury Nikolayevich
+last_name: KOPTEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59480'
+    type: a.k.a.
+    category: strong
+    last_name: KOPTEV
+    first_name: Yuri Nikolaevich
+address_list:
+  items:
+  - uid: '56715'
+    address1: 1, Nevskogo, 10
+    city: Moscow
+    postal_code: '141071'
+    country: Russia
+  - uid: '56716'
+    country: Russia
+id_list:
+  items:
+  - uid: '27148'
+    id_type: Diplomatic Passport
+    id_number: '10055910'
+    id_country: Russia
+  - uid: '174597'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '152996'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '52995'
+    date_of_birth: 13 Mar 1940
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '52998'
+    place_of_birth: Stavropol, Russia
+    main_entry: 'true'

@@ -1,0 +1,44 @@
+---
+uid: '49953'
+last_name: SCIENTIFIC RESEARCH CENTER RESONANCE JOINT STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77865'
+    type: a.k.a.
+    category: strong
+    last_name: AO NITS REZONANS
+  - uid: '77866'
+    type: a.k.a.
+    category: strong
+    last_name: AO SRC REZONANS
+address_list:
+  items:
+  - uid: '75551'
+    address1: Ul. 1-YA Bukhvostova
+    address2: D. 12/11, K. 20
+    city: Moscow
+    postal_code: '107076'
+    country: Russia
+  - uid: '75552'
+    address1: Ul. Korolenko
+    address2: D. 3A, Floor 3, Pom. 3B
+    city: Moscow
+    postal_code: '107076'
+    country: Russia
+id_list:
+  items:
+  - uid: '41480'
+    id_type: Registration Number
+    id_number: '1027700096984'
+    id_country: Russia
+  - uid: '41481'
+    id_type: Tax ID No.
+    id_number: '7718016419'
+    id_country: Russia
+  - uid: '178026'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

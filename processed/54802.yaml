@@ -1,0 +1,48 @@
+---
+uid: '54802'
+first_name: Pankaj Nagjibhai
+last_name: PATEL
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '83726'
+    country: United Arab Emirates
+  - uid: '83727'
+    city: Kolkata
+    country: India
+id_list:
+  items:
+  - uid: '48562'
+    id_type: Residency Number
+    id_number: 784-1971-5376437-4
+    id_country: United Arab Emirates
+    expiration_date: 06 Jul 2022
+  - uid: '48563'
+    id_type: Identification Number
+    id_number: '01098879'
+    id_country: India
+  - uid: '48936'
+    id_type: Passport
+    id_number: Z5781529
+    id_country: India
+    expiration_date: 16 Oct 2029
+  - uid: '191234'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '91232'
+    date_of_birth: 15 Aug 1971
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '91762'
+    place_of_birth: Khopala, India
+    main_entry: 'true'
+  - uid: '91763'
+    place_of_birth: Gujarat, India
+    main_entry: 'false'
+remarks: "(Linked To: TEODOR SHIPPING L.L.C)"

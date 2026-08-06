@@ -1,0 +1,39 @@
+---
+uid: '36000'
+first_name: Gulsina Akhatovna
+last_name: MINNIKHANOVA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '54054'
+    address1: Unit 505
+    address2: Building Topaz
+    address3: Palm Jumeirah Tiara
+    city: Dubai
+    country: United Arab Emirates
+  - uid: '54055'
+    city: Kazan
+    state_or_province: Tatarstan
+    country: Russia
+  - uid: '54057'
+    country: France
+  - uid: '54058'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '173326'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '149294'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '49296'
+    date_of_birth: '08 Dec 1967'
+    main_entry: 'true'
+remarks: "(Linked To: MINNIKHANOV, Rustam Nurgaliyevich)"

@@ -1,0 +1,53 @@
+---
+uid: '33233'
+first_name: Abd al-Muayyid
+last_name: AL-BANAI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '52260'
+    type: a.k.a.
+    category: strong
+    last_name: AL-BANAI
+    first_name: Abd-al-Mu'ayyid Ridha Hassan
+  - uid: '52261'
+    type: a.k.a.
+    category: strong
+    last_name: AL-BANAI
+    first_name: "'Abd al-Muwid Rada Hasn"
+  - uid: '52264'
+    type: a.k.a.
+    category: strong
+    last_name: AL BANAI
+    first_name: A Moayied Rida H
+address_list:
+  items:
+  - uid: '50002'
+    country: Qatar
+id_list:
+  items:
+  - uid: '22898'
+    id_type: Passport
+    id_number: '265643'
+    id_country: Qatar
+  - uid: '187349'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '143126'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '43127'
+    date_of_birth: '1959'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '43128'
+    place_of_birth: Qatar
+    main_entry: 'true'
+remarks: "(Linked To: HIZBALLAH)"

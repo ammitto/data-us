@@ -1,0 +1,40 @@
+---
+uid: '26419'
+first_name: Jorge Luis
+last_name: GARCIA CARNEIRO
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+aka_list:
+  items:
+  - uid: '41652'
+    type: a.k.a.
+    category: strong
+    last_name: GARCIA CARNEIRO
+    first_name: Jorge
+address_list:
+  items:
+  - uid: '40061'
+    city: La Guaira
+    state_or_province: Vargas
+    country: Venezuela
+id_list:
+  items:
+  - uid: '17061'
+    id_type: Cedula No.
+    id_number: '4169273'
+    id_country: Venezuela
+  - uid: '130860'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '30861'
+    date_of_birth: '08 Feb 1952'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '30862'
+    place_of_birth: Caracas, Venezuela
+    main_entry: 'true'

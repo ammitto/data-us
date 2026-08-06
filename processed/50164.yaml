@@ -1,0 +1,33 @@
+---
+uid: '50164'
+last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU NN DEVELOPMENT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78244'
+    type: a.k.a.
+    category: weak
+    last_name: NN DEVELOPMENT OOO
+address_list:
+  items:
+  - uid: '75925'
+    address1: Ul. Testovskaya D. 10, Office 19-35, Floor 19
+    city: Moscow
+    postal_code: '123112'
+    country: Russia
+id_list:
+  items:
+  - uid: '41780'
+    id_type: Registration Number
+    id_number: '1217700200343'
+    id_country: Russia
+  - uid: '41781'
+    id_type: Tax ID No.
+    id_number: '9703033366'
+    id_country: Russia
+  - uid: '178107'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,78 @@
+---
+uid: '26957'
+first_name: Wafiq
+last_name: SAFA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '42650'
+    type: a.k.a.
+    category: strong
+    last_name: SAFA
+    first_name: Wafic
+  - uid: '42651'
+    type: a.k.a.
+    category: strong
+    last_name: SAFA
+    first_name: Wafiq Ahmad
+  - uid: '42652'
+    type: a.k.a.
+    category: strong
+    last_name: SAFA
+    first_name: Wafiq 'Abd-al-Husayn
+  - uid: '42653'
+    type: a.k.a.
+    category: weak
+    last_name: AL-ZAIN, Ali Wahib
+  - uid: '42654'
+    type: a.k.a.
+    category: weak
+    last_name: AL-DIN, Hessam Badr
+address_list:
+  items:
+  - uid: '41032'
+    country: Lebanon
+id_list:
+  items:
+  - uid: '17601'
+    id_type: National ID No.
+    id_number: '494606'
+    id_country: Lebanon
+  - uid: '17602'
+    id_type: National ID No.
+    id_number: '000012505210'
+    id_country: Lebanon
+  - uid: '131895'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
+      Sanctions Regulations
+  - uid: '131838'
+    id_type: Gender
+    id_number: Male
+  - uid: '186907'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '31833'
+    date_of_birth: 01 Sep 1960
+    main_entry: 'true'
+  - uid: '31834'
+    date_of_birth: 17 Mar 1965
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '31835'
+    place_of_birth: Zibdin, Lebanon
+    main_entry: 'true'
+  - uid: '31836'
+    place_of_birth: Zubaydah al-Jonubi, Lebanon
+    main_entry: 'false'
+  - uid: '31837'
+    place_of_birth: Rayhan, Lebanon
+    main_entry: 'false'
+remarks: "(Linked To: HIZBALLAH)"

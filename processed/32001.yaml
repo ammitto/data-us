@@ -1,0 +1,32 @@
+---
+uid: '32001'
+last_name: BULLET TRADE OOD
+sdn_type: Entity
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '50172'
+    type: a.k.a.
+    category: weak
+    last_name: BULIT TRADE LTD
+address_list:
+  items:
+  - uid: '48142'
+    address1: 43 Moskovska Str.
+    address2: R-N Oborishte Distr
+    city: Sofia
+    state_or_province: Stolichna
+    postal_code: '1000'
+    country: Bulgaria
+id_list:
+  items:
+  - uid: '21782'
+    id_type: Government Gazette Number
+    id_number: '121457476'
+    id_country: Bulgaria
+  - uid: '140736'
+    id_type: Organization Established Date
+    id_number: '2001'
+remarks: "(Linked To: BOJKOV, Vassil Kroumov)"

@@ -1,0 +1,27 @@
+---
+uid: '44299'
+last_name: AEM PROPULSION
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '65970'
+    address1: Stachek avenue 47, Room 17
+    city: St. Petersburg
+    postal_code: '198097'
+    country: Russia
+id_list:
+  items:
+  - uid: '33762'
+    id_type: Tax ID No.
+    id_number: '7706614573'
+    id_country: Russia
+  - uid: '33763'
+    id_type: Registration Number
+    id_number: '1067746426439'
+    id_country: Russia
+  - uid: '173770'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

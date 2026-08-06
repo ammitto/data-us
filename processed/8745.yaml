@@ -1,0 +1,54 @@
+---
+uid: '8745'
+first_name: Piedad
+last_name: VELEZ RENGIFO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNT
+address_list:
+  items:
+  - uid: '10091'
+    address1: Carrera 15 No. 127A-33 Apt. 605
+    city: Bogota
+    country: Colombia
+  - uid: '10092'
+    address1: Avenida El Logo Calle Chiminangos Casa No. 3
+    city: Cali
+    country: Colombia
+  - uid: '10093'
+    address1: c/o INTERCONTINENTAL DE AVIACION S.A.
+    city: Bogota
+    country: Colombia
+  - uid: '10094'
+    address1: c/o DESARROLLOS AGROINDUSTRIALES S.A.
+    city: Bogota
+    country: Colombia
+  - uid: '10095'
+    address1: c/o ACCIRENT S.A.
+    city: Bogota
+    country: Colombia
+id_list:
+  items:
+  - uid: '3795'
+    id_type: Passport
+    id_number: AF314384
+    id_country: Colombia
+  - uid: '3796'
+    id_type: Passport
+    id_number: AD217712
+    id_country: Colombia
+  - uid: '3797'
+    id_type: Cedula No.
+    id_number: '31835778'
+    id_country: Colombia
+date_of_birth_list:
+  items:
+  - uid: '4016'
+    date_of_birth: 22 Oct 1959
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '4017'
+    place_of_birth: Cali, Colombia
+    main_entry: 'true'

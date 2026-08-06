@@ -1,0 +1,31 @@
+---
+uid: '42027'
+first_name: Mario Ernesto
+last_name: MARTINEZ TREVIZO
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '64884'
+    country: Mexico
+id_list:
+  items:
+  - uid: '31452'
+    id_type: C.U.R.P.
+    id_number: MATM820316HCHRRR01
+    id_country: Mexico
+  - uid: '160237'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '60235'
+    date_of_birth: 16 Mar 1982
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '60236'
+    place_of_birth: Chihuahua, Mexico
+    main_entry: 'true'

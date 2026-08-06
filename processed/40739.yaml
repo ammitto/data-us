@@ -1,0 +1,48 @@
+---
+uid: '40739'
+first_name: Abulghasem
+last_name: VALAGOHAR
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '63332'
+    type: a.k.a.
+    category: strong
+    last_name: VALAGOHAR
+    first_name: Abualqassem
+  - uid: '63348'
+    type: a.k.a.
+    category: strong
+    last_name: VALAGOHAR
+    first_name: Abolghasem
+address_list:
+  items:
+  - uid: '60714'
+    country: Iran
+id_list:
+  items:
+  - uid: '29899'
+    id_type: National ID No.
+    id_number: '1860747957'
+    id_country: Iran
+  - uid: '158161'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '158162'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '58193'
+    date_of_birth: 15 Aug 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '58194'
+    place_of_birth: Behbahan, Iran
+    main_entry: 'true'
+remarks: "(Linked To: PARAVAR PARS COMPANY)"

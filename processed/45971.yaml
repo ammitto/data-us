@@ -1,0 +1,30 @@
+---
+uid: '45971'
+last_name: LIMITED LIABILITY COMPANY LEX PRIME
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '68701'
+    address1: soor. 12, str. 1
+    address2: pom. 8/4 P, kom. 8.5
+    address3: naberezhnaya Presnenskaya
+    city: Moscow
+    postal_code: '123112'
+    country: Russia
+id_list:
+  items:
+  - uid: '35759'
+    id_type: Registration Number
+    id_number: '1227700603635'
+    id_country: Russia
+  - uid: '35762'
+    id_type: Tax ID No.
+    id_number: '9703110243'
+    id_country: Russia
+  - uid: '176994'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: TROTSENKO, Gleb Romanovich)"

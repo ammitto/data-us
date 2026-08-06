@@ -1,0 +1,41 @@
+---
+uid: '30401'
+last_name: PARSIAN TOURISM AND RECREATIONAL CENTERS COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13876
+aka_list:
+  items:
+  - uid: '47747'
+    type: a.k.a.
+    category: strong
+    last_name: BONYAD TOURISM AND RECREATIONAL CENTERS HOLDING COMPANY
+  - uid: '47749'
+    type: a.k.a.
+    category: strong
+    last_name: PARSIAN TOURISM, RECREATIONAL CENTERS, AND TRANSPORTATION HOLDING COMPANY
+  - uid: '47750'
+    type: a.k.a.
+    category: strong
+    last_name: SHERKATE SIAAHATI VA HAML-O-NAQLE PAARSIAN
+address_list:
+  items:
+  - uid: '45950'
+    city: Tehran
+    state_or_province: Tehran Province
+    postal_code: '1519611193'
+    country: Iran
+id_list:
+  items:
+  - uid: '20537'
+    id_type: National ID No.
+    id_number: '10104034520'
+    id_country: Iran
+  - uid: '138031'
+    id_type: Website
+    id_number: http://ptrco.ir/
+  - uid: '138032'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: ISLAMIC REVOLUTION MOSTAZAFAN FOUNDATION)"

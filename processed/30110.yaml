@@ -1,0 +1,67 @@
+---
+uid: '30110'
+first_name: Daniel Y.
+last_name: HE
+sdn_type: Individual
+program_list:
+  programs:
+  - IFCA
+aka_list:
+  items:
+  - uid: '47185'
+    type: a.k.a.
+    category: strong
+    last_name: HE
+    first_name: Yi
+  - uid: '47186'
+    type: a.k.a.
+    category: strong
+    last_name: HE
+    first_name: Daniel Yi
+address_list:
+  items:
+  - uid: '45566'
+    country: China
+id_list:
+  items:
+  - uid: '20214'
+    id_type: Passport
+    id_number: G47432853
+    id_country: China
+  - uid: '20215'
+    id_type: Passport
+    id_number: G30884221
+    id_country: China
+  - uid: '137422'
+    id_type: Gender
+    id_number: Male
+  - uid: '137469'
+    id_type: 'Executive Order 13846 information:'
+    id_number: LOANS FROM UNITED STATES FINANCIAL INSTITUTIONS.  Sec. 5(a)(i)
+  - uid: '137470'
+    id_type: 'Executive Order 13846 information:'
+    id_number: FOREIGN EXCHANGE.  Sec. 5(a)(ii)
+  - uid: '137471'
+    id_type: 'Executive Order 13846 information:'
+    id_number: BANKING TRANSACTIONS.  Sec. 5(a)(iii)
+  - uid: '137472'
+    id_type: 'Executive Order 13846 information:'
+    id_number: BLOCKING PROPERTY AND INTERESTS IN PROPERTY.  Sec. 5(a)(iv)
+  - uid: '137473'
+    id_type: 'Executive Order 13846 information:'
+    id_number: BAN ON INVESTMENT IN EQUITY OR DEBT OF SANCTIONED PERSON.  Sec. 5(a)(v)
+  - uid: '137534'
+    id_type: 'Executive Order 13846 information:'
+    id_number: EXCLUSION OF CORPORATE OFFICERS.  Sec. 4(e)
+date_of_birth_list:
+  items:
+  - uid: '37420'
+    date_of_birth: 06 Jul 1965
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '37421'
+    place_of_birth: Hangzhou, China
+    main_entry: 'true'
+remarks: "(Linked To: REACH HOLDING GROUP SHANGHAI CO., LTD.)"
+title: President, Reach Group

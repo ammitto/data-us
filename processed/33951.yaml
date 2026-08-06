@@ -1,0 +1,30 @@
+---
+uid: '33951'
+last_name: RAPID ACTION BATTALION
+sdn_type: Entity
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '53204'
+    type: a.k.a.
+    category: strong
+    last_name: RAB FORCES
+address_list:
+  items:
+  - uid: '50871'
+    address1: RAB Forces Headquarters
+    address2: Cargo Admin Building, Shahjalal International Airport
+    address3: Kurmitola
+    city: Dhaka
+    postal_code: '1229'
+    country: Bangladesh
+id_list:
+  items:
+  - uid: '145491'
+    id_type: Organization Established Date
+    id_number: 26 Mar 2004
+  - uid: '145492'
+    id_type: Target Type
+    id_number: Government Entity

@@ -1,0 +1,43 @@
+---
+uid: '38216'
+first_name: Andrey Grigoryevich
+last_name: GURYEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59967'
+    type: a.k.a.
+    category: strong
+    last_name: GURIEV
+    first_name: Andrey Grigoryevich
+address_list:
+  items:
+  - uid: '57244'
+    city: Moscow
+    country: Russia
+  - uid: '57245'
+    address1: Witanhurst
+    address2: 41 Highgate West Hill
+    city: London
+    country: United Kingdom
+id_list:
+  items:
+  - uid: '153469'
+    id_type: Gender
+    id_number: Male
+  - uid: '174654'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '53467'
+    date_of_birth: 24 Mar 1960
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '53468'
+    place_of_birth: Lobnya, Russia
+    main_entry: 'true'

@@ -1,0 +1,28 @@
+---
+uid: '34156'
+last_name: HOTEL PLAZA
+sdn_type: Entity
+program_list:
+  programs:
+  - TCO
+address_list:
+  items:
+  - uid: '51205'
+    address1: Avenida Madero 366
+    address2: Centro Civico
+    city: Mexicali
+    state_or_province: Baja California
+    postal_code: '21100'
+    country: Mexico
+id_list:
+  items:
+  - uid: '157930'
+    id_type: Phone Number
+    id_number: "+52 686-383-6864"
+  - uid: '163296'
+    id_type: 'Organization Type:'
+    id_number: Short term accommodation activities
+  - uid: '157929'
+    id_type: Website
+    id_number: https://hotel-plaza-mexicali.negocio.site/
+remarks: "(Linked To: HERNANDEZ SALAS TRANSNATIONAL CRIMINAL ORGANIZATION)"

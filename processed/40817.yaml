@@ -1,0 +1,34 @@
+---
+uid: '40817'
+last_name: LIMITED LIABILITY COMPANY ATLAS REAL ESTATE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63508'
+    type: a.k.a.
+    category: strong
+    last_name: ATLAS NEDVIZHIMOST OOO
+address_list:
+  items:
+  - uid: '60855'
+    address1: prospekt Kutuzovski, d. 24
+    address2: etazh 1 pom. XVII kom. 26
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '30037'
+    id_type: Tax ID No.
+    id_number: '7730710599'
+    id_country: Russia
+  - uid: '30038'
+    id_type: Registration Number
+    id_number: '1147746869896'
+    id_country: Russia
+  - uid: '174156'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: UDODOV, Aleksandr Yevgenyevich)"

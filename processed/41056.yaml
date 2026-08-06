@@ -1,0 +1,43 @@
+---
+uid: '41056'
+last_name: JOINT STOCK COMPANY ARGUS SFK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '64013'
+    type: a.k.a.
+    category: strong
+    last_name: ARGUS SFK OOO
+  - uid: '64014'
+    type: a.k.a.
+    category: strong
+    last_name: ARGUS SFK AO
+address_list:
+  items:
+  - uid: '61352'
+    address1: Zavodskaya St., Building 1
+    address2: Serovskiy District
+    city: Vostochny
+    state_or_province: Sverdlovsk Region
+    postal_code: '624975'
+    country: Russia
+id_list:
+  items:
+  - uid: '30386'
+    id_type: Registration Number
+    id_number: '1186658094083'
+    id_country: Russia
+  - uid: '30387'
+    id_type: Tax ID No.
+    id_number: '6680008541'
+    id_country: Russia
+  - uid: '173589'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '158920'
+    id_type: Organization Established Date
+    id_number: 16 May 2005
+remarks: "(Linked To: JOINT STOCK COMPANY ARGUS HOLDING)"

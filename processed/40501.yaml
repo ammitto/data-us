@@ -1,0 +1,38 @@
+---
+uid: '40501'
+last_name: ELEKTROOPTIKA SIA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '62956'
+    type: a.k.a.
+    category: strong
+    last_name: ELECTROOPTIKA
+address_list:
+  items:
+  - uid: '60354'
+    address1: Vidus Prosp. 45 K-1-1
+    city: Jurmala
+    postal_code: '2010'
+    country: Latvia
+  - uid: '60355'
+    address1: G. Zemgala Gatve 74
+    city: Riga
+    postal_code: '1039'
+    country: Latvia
+id_list:
+  items:
+  - uid: '29641'
+    id_type: Registration Number
+    id_number: '40103651284'
+    id_country: Latvia
+  - uid: '157719'
+    id_type: Organization Established Date
+    id_number: 21 Mar 2013
+  - uid: '174108'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: BLATS, Marks)"

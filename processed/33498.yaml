@@ -1,0 +1,56 @@
+---
+uid: '33498'
+first_name: Jamil
+last_name: SAYYED
+sdn_type: Individual
+program_list:
+  programs:
+  - LEBANON
+aka_list:
+  items:
+  - uid: '52685'
+    type: a.k.a.
+    category: strong
+    last_name: AL-SAYED
+    first_name: Jamil Muhammad Amin Amin
+  - uid: '52686'
+    type: a.k.a.
+    category: strong
+    last_name: EL SAYED
+    first_name: Jamil
+  - uid: '52687'
+    type: a.k.a.
+    category: strong
+    last_name: EL SAYED
+    first_name: Jamil Mohamad Amin
+address_list:
+  items:
+  - uid: '50295'
+    address1: Sea Road Summerland
+    address2: Jnah
+    city: Beirut
+    country: Lebanon
+  - uid: '50467'
+    city: Nabi Aylah
+    state_or_province: Zahleh, Bekaa
+    country: Lebanon
+id_list:
+  items:
+  - uid: '23139'
+    id_type: Passport
+    id_number: RL3234354
+    id_country: Lebanon
+    expiration_date: 07 Jun 2020
+  - uid: '144282'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '44281'
+    date_of_birth: 15 Jul 1950
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '44449'
+    place_of_birth: Nabi Ayla, Beqaa, Lebanon
+    main_entry: 'true'

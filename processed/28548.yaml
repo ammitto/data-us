@@ -1,0 +1,35 @@
+---
+uid: '28548'
+first_name: Juan Carlos
+last_name: ORTEGA MURILLO
+sdn_type: Individual
+program_list:
+  programs:
+  - NICARAGUA
+address_list:
+  items:
+  - uid: '43170'
+    address1: Montoya 1 Csur 1c Arriba 1 C Sur
+    city: Managua
+    country: Nicaragua
+id_list:
+  items:
+  - uid: '18913'
+    id_type: Passport
+    id_number: A0007589
+    id_country: Nicaragua
+    issue_date: 28 Feb 2007
+    expiration_date: 27 Feb 2012
+  - uid: '134316'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '34315'
+    date_of_birth: 17 Oct 1981
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '34317'
+    place_of_birth: Managua, Nicaragua
+    main_entry: 'true'

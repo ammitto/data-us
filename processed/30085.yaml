@@ -1,0 +1,50 @@
+---
+uid: '30085'
+first_name: Nasr
+last_name: AL-ALI
+sdn_type: Individual
+program_list:
+  programs:
+  - PAARSSR-EO13894
+aka_list:
+  items:
+  - uid: '47122'
+    type: a.k.a.
+    category: strong
+    last_name: AL-ALI
+    first_name: Nasser
+  - uid: '47123'
+    type: a.k.a.
+    category: strong
+    last_name: ALI
+    first_name: Nasser
+  - uid: '47124'
+    type: a.k.a.
+    category: strong
+    last_name: AL-ALI
+    first_name: Naser
+  - uid: '47125'
+    type: a.k.a.
+    category: strong
+    last_name: AL-ALI
+    first_name: Nasir
+address_list:
+  items:
+  - uid: '45348'
+    city: Damascus
+    country: Syria
+id_list:
+  items:
+  - uid: '137359'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '37357'
+    date_of_birth: 01 Feb 1961
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '37358'
+    place_of_birth: Manbij, Aleppo, Syria
+    main_entry: 'true'

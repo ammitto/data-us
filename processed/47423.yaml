@@ -1,0 +1,41 @@
+---
+uid: '47423'
+last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU INZHINIRINGOVYE RESHENIYA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73341'
+    type: a.k.a.
+    category: strong
+    last_name: INZHINIRINGOVYE RESHENIYA OOO
+  - uid: '73343'
+    type: a.k.a.
+    category: strong
+    last_name: OOO INZHINIRINGOVYE RESHENIIA
+address_list:
+  items:
+  - uid: '70725'
+    address1: PR-KT Khasana Tufana D. 22/9, KV. 163
+    city: Naberezhnyye Chelny
+    state_or_province: Republic of Tatarstan
+    postal_code: '423823'
+    country: Russia
+id_list:
+  items:
+  - uid: '37835'
+    id_type: Registration Number
+    id_number: '1161690140072'
+    id_country: Russia
+  - uid: '37836'
+    id_type: Tax ID No.
+    id_number: '1650335670'
+    id_country: Russia
+  - uid: '169705'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '168929'
+    id_type: Organization Established Date
+    id_number: 19 Aug 2016

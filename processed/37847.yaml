@@ -1,0 +1,35 @@
+---
+uid: '37847'
+last_name: PRIVATE COMPANY PROMCOMPLEKTLOGISTIC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59476'
+    type: a.k.a.
+    category: strong
+    last_name: PE PROMCOMPLEKTLOGISTIC
+address_list:
+  items:
+  - uid: '56712'
+    address1: Office 202
+    address2: 16A Prospekt A. Navoi
+    city: Tashkent
+    postal_code: '100011'
+    country: Uzbekistan
+id_list:
+  items:
+  - uid: '27145'
+    id_type: Tax ID No.
+    id_number: '305655390'
+    id_country: Uzbekistan
+  - uid: '27146'
+    id_type: Registration Number
+    id_number: '27930106'
+    id_country: Uzbekistan
+  - uid: '174595'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: RADIOAVTOMATIKA LLC)"

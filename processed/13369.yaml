@@ -1,0 +1,53 @@
+---
+uid: '13369'
+first_name: Abubaker Shariff
+last_name: AHMED
+sdn_type: Individual
+program_list:
+  programs:
+  - SOMALIA
+aka_list:
+  items:
+  - uid: '15047'
+    type: a.k.a.
+    category: strong
+    last_name: MAKABURI
+  - uid: '15048'
+    type: a.k.a.
+    category: strong
+    last_name: AHMED
+    first_name: Sheikh Abubakar
+  - uid: '15050'
+    type: a.k.a.
+    category: strong
+    last_name: SHARIFF
+    first_name: Abu Makaburi
+  - uid: '15051'
+    type: a.k.a.
+    category: strong
+    last_name: SHARIFF
+    first_name: Abubaker
+  - uid: '15052'
+    type: a.k.a.
+    category: strong
+    last_name: AHMED
+    first_name: Abubakar
+address_list:
+  items:
+  - uid: '21354'
+    address1: Majengo Area
+    city: Mombasa
+    country: Kenya
+date_of_birth_list:
+  items:
+  - uid: '9433'
+    date_of_birth: '1962'
+    main_entry: 'true'
+  - uid: '9434'
+    date_of_birth: '1967'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '9436'
+    place_of_birth: Kenya
+    main_entry: 'true'

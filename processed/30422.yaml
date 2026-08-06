@@ -1,0 +1,43 @@
+---
+uid: '30422'
+first_name: Mahmoud
+last_name: ALAVI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+aka_list:
+  items:
+  - uid: '47829'
+    type: a.k.a.
+    category: strong
+    last_name: ALAVI
+    first_name: Seyyed Mahmoud
+  - uid: '47833'
+    type: a.k.a.
+    category: strong
+    last_name: ALAVI
+    first_name: Seyed Mahmoud
+address_list:
+  items:
+  - uid: '46049'
+    country: Iran
+id_list:
+  items:
+  - uid: '138071'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '138083'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '38081'
+    date_of_birth: 24 Apr 1954
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '38082'
+    place_of_birth: Lamard, Fars Province, Iran
+    main_entry: 'true'
+remarks: "(Linked To: IRANIAN MINISTRY OF INTELLIGENCE AND SECURITY)"

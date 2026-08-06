@@ -1,0 +1,46 @@
+---
+uid: '50174'
+first_name: Dmitriy
+last_name: EVDOKIMOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78520'
+    type: a.k.a.
+    category: strong
+    last_name: EVDOKIMOV
+    first_name: Dmitrii Sergeyevich
+address_list:
+  items:
+  - uid: '76135'
+    address1: 174, 22-4 Gzhatskaya
+    city: Saint Petersburg
+    postal_code: '195220'
+    country: Russia
+id_list:
+  items:
+  - uid: '41955'
+    id_type: Passport
+    id_number: '729265707'
+    id_country: Russia
+    expiration_date: 11 Aug 2024
+  - uid: '177978'
+    id_type: Gender
+    id_number: Male
+  - uid: '178489'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '77976'
+    date_of_birth: 06 Jul 1989
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '77977'
+    place_of_birth: Zaisan, Kazakhstan
+    main_entry: 'true'
+remarks: "(Linked To: CLOUDRUN LLC)"

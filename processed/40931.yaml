@@ -1,0 +1,51 @@
+---
+uid: '40931'
+last_name: JOINT STOCK COMPANY CENTRAL SCIENTIFIC RESEARCH INSTITUTE BUREVESTNIK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63764'
+    type: a.k.a.
+    category: strong
+    last_name: JSC CRI BUREVESTNIK
+  - uid: '63765'
+    type: a.k.a.
+    category: strong
+    last_name: TSNII BUREVESTNIK AO
+address_list:
+  items:
+  - uid: '61085'
+    address1: 1A Shosse Sormovskoe
+    city: Nizhny Novgorod
+    state_or_province: Nizhny Novgorod Oblast
+    postal_code: '603950'
+    country: Russia
+id_list:
+  items:
+  - uid: '30225'
+    id_type: Registration Number
+    id_number: '1085259003664'
+    id_country: Russia
+  - uid: '30226'
+    id_type: Tax ID No.
+    id_number: '5259075468'
+    id_country: Russia
+  - uid: '30227'
+    id_type: Government Gazette Number
+    id_number: '07501544'
+    id_country: Russia
+  - uid: '158543'
+    id_type: Organization Established Date
+    id_number: 30 Apr 2008
+  - uid: '158544'
+    id_type: Organization Established Date
+    id_number: '1970'
+  - uid: '175321'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '158545'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

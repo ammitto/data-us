@@ -1,0 +1,56 @@
+---
+uid: '35061'
+first_name: Evgeniya Vladimirovna
+last_name: BERNOVA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '55161'
+    type: a.k.a.
+    category: strong
+    last_name: ARTAMANOVA
+    first_name: Evgeniya Vladimirovna
+address_list:
+  items:
+  - uid: '52633'
+    country: Malta
+  - uid: '52635'
+    country: Russia
+  - uid: '52636'
+    country: France
+  - uid: '52637'
+    country: Germany
+id_list:
+  items:
+  - uid: '24821'
+    id_type: Passport
+    id_number: '1185334'
+    id_country: Malta
+  - uid: '24823'
+    id_type: Passport
+    id_number: '716415548'
+    id_country: Russia
+  - uid: '24825'
+    id_type: National ID No.
+    id_number: '4502572626'
+    id_country: Russia
+  - uid: '176856'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '146955'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '46951'
+    date_of_birth: 26 Mar 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '46956'
+    place_of_birth: Potsdam, Germany
+    main_entry: 'true'
+remarks: "(Linked To: MALBERG LIMITED)"

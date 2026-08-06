@@ -1,0 +1,42 @@
+---
+uid: '50728'
+last_name: MOSCOW AVIATION INSTITUTE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79390'
+    type: a.k.a.
+    category: strong
+    last_name: FEDERALNOE GOSUDARSTVENNOE BYUDZHETNOE OBRAZOVATELNOE UCHREZHDENIE
+      VYSSHEGO OBRAZOVANIYA MOSKOVSKII AVIATSIONNYI INSTITUT NATSIONALNYI ISSLEDOVATELSKII
+      UNIVERSITET
+  - uid: '79392'
+    type: a.k.a.
+    category: weak
+    last_name: MAI
+address_list:
+  items:
+  - uid: '76930'
+    address1: Shosse Volokolamskoe D. 4
+    city: Moscow
+    postal_code: '125993'
+    country: Russia
+id_list:
+  items:
+  - uid: '42589'
+    id_type: Registration Number
+    id_number: '1037739180820'
+    id_country: Russia
+  - uid: '42591'
+    id_type: Tax ID No.
+    id_number: '7712038455'
+    id_country: Russia
+  - uid: '179336'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '179339'
+    id_type: Organization Established Date
+    id_number: 29 Jun 1994

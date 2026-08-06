@@ -1,0 +1,42 @@
+---
+uid: '29841'
+first_name: Gholamreza Radmard
+last_name: IRANAGH
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+aka_list:
+  items:
+  - uid: '46760'
+    type: a.k.a.
+    category: strong
+    last_name: RADMARD
+    first_name: Gholamreza
+address_list:
+  items:
+  - uid: '44952'
+    country: Iran
+id_list:
+  items:
+  - uid: '19953'
+    id_type: Passport
+    id_number: F35337357
+    id_country: Iran
+  - uid: '137004'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '136891'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '36889'
+    date_of_birth: 25 Jan 1984
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '36890'
+    place_of_birth: Tabriz, Iran
+    main_entry: 'true'
+remarks: "(Linked To: IRANIAN MINISTRY OF INTELLIGENCE AND SECURITY)"

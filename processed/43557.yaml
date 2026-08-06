@@ -1,0 +1,39 @@
+---
+uid: '43557'
+last_name: MYANMA INVESTMENT AND COMMERICAL BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - BURMA-EO14014
+aka_list:
+  items:
+  - uid: '67528'
+    type: a.k.a.
+    category: strong
+    last_name: MYANMAR INVESTMENT AND COMMERCIAL BANK
+  - uid: '67529'
+    type: a.k.a.
+    category: weak
+    last_name: MICB
+address_list:
+  items:
+  - uid: '64985'
+    address1: 170/176 Bo Aung Kyaw Street
+    city: Botataung Township
+    state_or_province: Yangon
+    country: Burma
+  - uid: '65276'
+    address1: 170/176 Bo Aung Gyaw Street
+    city: Yangong
+    country: Burma
+id_list:
+  items:
+  - uid: '163449'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '163087'
+    id_type: SWIFT/BIC
+    id_number: MICBMMMY
+  - uid: '163088'
+    id_type: Organization Established Date
+    id_number: '1990'

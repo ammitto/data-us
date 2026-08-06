@@ -1,0 +1,33 @@
+---
+uid: '48521'
+last_name: AKTSIONERNOE OBSHCHESTVO FRYAZINSKII ZAVOD MOSHCHNYKH TRANZISTOROV
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75417'
+    type: a.k.a.
+    category: weak
+    last_name: AO FZMT
+address_list:
+  items:
+  - uid: '72819'
+    address1: Pr-D Zavodskoi D. 3
+    city: Fryazino
+    postal_code: '141190'
+    country: Russia
+id_list:
+  items:
+  - uid: '39453'
+    id_type: Registration Number
+    id_number: '5147746235456'
+    id_country: Russia
+  - uid: '39454'
+    id_type: Tax ID No.
+    id_number: '5050113873'
+    id_country: Russia
+  - uid: '171328'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

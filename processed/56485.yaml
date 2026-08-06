@@ -1,0 +1,37 @@
+---
+uid: '56485'
+first_name: Franqui Francisco
+last_name: FLORES DE FREITAS
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '86474'
+    city: Caracas
+    country: Venezuela
+id_list:
+  items:
+  - uid: '50528'
+    id_type: Passport
+    id_number: '066981222'
+    id_country: Venezuela
+    expiration_date: 24 Jan 2018
+  - uid: '50529'
+    id_type: Cedula No.
+    id_number: '17751244'
+    id_country: Venezuela
+  - uid: '194882'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '94880'
+    date_of_birth: 14 Aug 1985
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '94881'
+    place_of_birth: Caracas, Venezuela
+    main_entry: 'true'

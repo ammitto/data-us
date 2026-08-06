@@ -1,0 +1,46 @@
+---
+uid: '34768'
+last_name: AKTSIONERNOE OBSHCHESTVO RTS-KHOLDING
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54548'
+    type: a.k.a.
+    category: strong
+    last_name: RTS-HOLDING JSC
+  - uid: '54862'
+    type: a.k.a.
+    category: strong
+    last_name: AO RTS-KHOLDING
+  - uid: '54863'
+    type: a.k.a.
+    category: strong
+    last_name: RTS-HOLDING JOINT STOCK COMPANY
+address_list:
+  items:
+  - uid: '52113'
+    address1: Nab. Tarasa Shevchenko D. 23A
+    address2: Ofisnoe Zd. Bashnya-2000
+    city: Moscow
+    postal_code: '121151'
+    country: Russia
+id_list:
+  items:
+  - uid: '24453'
+    id_type: Tax ID No.
+    id_number: '7723825581'
+    id_country: Russia
+  - uid: '24454'
+    id_type: Registration Number
+    id_number: '1127746030411'
+    id_country: Russia
+  - uid: '175211'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '146222'
+    id_type: Website
+    id_number: fintender.ru
+remarks: "(Linked To: SOVCOMBANK OPEN JOINT STOCK COMPANY)"

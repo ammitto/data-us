@@ -1,0 +1,38 @@
+---
+uid: '57938'
+first_name: Bosco
+last_name: KAYOBOTSI
+sdn_type: Individual
+program_list:
+  programs:
+  - DRCONGO
+address_list:
+  items:
+  - uid: '88895'
+    city: Kigali
+    country: Rwanda
+id_list:
+  items:
+  - uid: '52453'
+    id_type: National ID No.
+    id_number: '1198580022378192'
+    id_country: Rwanda
+  - uid: '52454'
+    id_type: Passport
+    id_number: PC648741
+    id_country: Rwanda
+    expiration_date: 01 Aug 2031
+  - uid: '198734'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '98733'
+    date_of_birth: 25 Aug 1985
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '98735'
+    place_of_birth: Masisi, Democratic Republic of the Congo
+    main_entry: 'true'
+remarks: "(Linked To: GASABO GOLD REFINERY LTD)"

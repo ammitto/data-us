@@ -1,0 +1,38 @@
+---
+uid: '40736'
+first_name: Edin
+last_name: GACANIN
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '63327'
+    type: a.k.a.
+    category: weak
+    last_name: Tito
+address_list:
+  items:
+  - uid: '60704'
+    country: Bosnia and Herzegovina
+  - uid: '60705'
+    city: Dubai
+    country: United Arab Emirates
+  - uid: '60706'
+    country: Netherlands
+id_list:
+  items:
+  - uid: '158149'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '58147'
+    date_of_birth: 12 Oct 1982
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '58148'
+    place_of_birth: Bosnia and Herzegovina
+    main_entry: 'true'

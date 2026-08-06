@@ -1,0 +1,31 @@
+---
+uid: '40995'
+first_name: Roman Valentinovich
+last_name: KOPIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '61226'
+    state_or_province: Chukotka Autonomous Region
+    country: Russia
+id_list:
+  items:
+  - uid: '175344'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '158705'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '58703'
+    date_of_birth: 05 Mar 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '58704'
+    place_of_birth: Kostroma, Kostroma Region, Russia
+    main_entry: 'true'

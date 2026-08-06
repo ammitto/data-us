@@ -1,0 +1,37 @@
+---
+uid: '44026'
+first_name: Mehmet
+last_name: TOKDEMIR
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+address_list:
+  items:
+  - uid: '65523'
+    city: Istanbul
+    country: Turkey
+id_list:
+  items:
+  - uid: '33413'
+    id_type: National ID No.
+    id_number: '22054198168'
+    id_country: Turkey
+  - uid: '163610'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '163609'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '63606'
+    date_of_birth: 11 Nov 1978
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '63607'
+    place_of_birth: Dogubayazit, Turkey
+    main_entry: 'true'
+remarks: "(Linked To: IRAN AIRCRAFT MANUFACTURING INDUSTRIAL COMPANY)"

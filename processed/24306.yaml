@@ -1,0 +1,42 @@
+---
+uid: '24306'
+first_name: Viktor Feliksovich
+last_name: VEKSELBERG
+sdn_type: Individual
+program_list:
+  programs:
+  - UKRAINE-EO13662
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56208'
+    type: a.k.a.
+    category: strong
+    last_name: VEKSELBERG
+    first_name: Victor
+address_list:
+  items:
+  - uid: '36792'
+    country: Russia
+id_list:
+  items:
+  - uid: '126460'
+    id_type: Gender
+    id_number: Male
+  - uid: '176852'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '151155'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+date_of_birth_list:
+  items:
+  - uid: '26458'
+    date_of_birth: 14 Apr 1957
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '26459'
+    place_of_birth: Drogobych, Lviv region, Ukraine
+    main_entry: 'true'

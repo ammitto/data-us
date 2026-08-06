@@ -1,0 +1,32 @@
+---
+uid: '46429'
+last_name: SIBAVTORESURS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '69051'
+    address1: Ul. Sadovaya D.200
+    city: Novosibirsk
+    postal_code: '630000'
+    country: Russia
+  - uid: '69052'
+    address1: Ul. Bolshaya ZD. 254/8
+    city: Novosibirsk
+    postal_code: '630032'
+    country: Russia
+id_list:
+  items:
+  - uid: '36295'
+    id_type: Registration Number
+    id_number: '1025401934502'
+    id_country: Russia
+  - uid: '36296'
+    id_type: Tax ID No.
+    id_number: '5405177090'
+    id_country: Russia
+  - uid: '174951'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,52 @@
+---
+uid: '50259'
+last_name: JOINT STOCK COMPANY SCIENTIFIC PRODUCTION ASSOCIATION ORION
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78484'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO NAUCHNO PROIZVODSTVENNOE OBEDINENIE ORION
+  - uid: '78485'
+    type: a.k.a.
+    category: strong
+    last_name: JSC SPA ORION
+  - uid: '78486'
+    type: a.k.a.
+    category: strong
+    last_name: AO NPO ORION
+  - uid: '78487'
+    type: a.k.a.
+    category: strong
+    last_name: ORION RESEARCH AND PRODUCTION ASSOCIATION
+  - uid: '78488'
+    type: a.k.a.
+    category: strong
+    last_name: ENTERPRISE RESEARCH DEVELOPMENT AND PRODUCTION CENTER ORION
+address_list:
+  items:
+  - uid: '76102'
+    address1: 9 Kosinskaya st.
+    city: Moscow
+    postal_code: '111538'
+    country: Russia
+id_list:
+  items:
+  - uid: '41934'
+    id_type: Tax ID No.
+    id_number: '7720770380'
+    id_country: Russia
+  - uid: '42293'
+    id_type: Registration Number
+    id_number: '1127747292738'
+    id_country: Russia
+  - uid: '177939'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '177940'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

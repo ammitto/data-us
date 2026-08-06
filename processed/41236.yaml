@@ -1,0 +1,43 @@
+---
+uid: '41236'
+first_name: Ali
+last_name: CHAHARMAHALI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+aka_list:
+  items:
+  - uid: '64287'
+    type: a.k.a.
+    category: strong
+    last_name: CHEHARMAHALI
+    first_name: Ali
+address_list:
+  items:
+  - uid: '61646'
+    city: Karaj
+    state_or_province: Alborz Province
+    country: Iran
+id_list:
+  items:
+  - uid: '30596'
+    id_type: National ID No.
+    id_number: '1880617978'
+    id_country: Iran
+  - uid: '159277'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '159248'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '59313'
+    date_of_birth: 10 Jan 1976
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '59247'
+    place_of_birth: Shushtar, Khuzestan Province, Iran
+    main_entry: 'true'

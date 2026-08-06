@@ -1,0 +1,38 @@
+---
+uid: '45993'
+last_name: LIMITED LIABILITY COMPANY RADIO REKLAMA VOLOGDA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '71063'
+    type: a.k.a.
+    category: weak
+    last_name: OOO RADIO REKLAMA VOLOGDA
+  - uid: '72430'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY RRV
+address_list:
+  items:
+  - uid: '68486'
+    address1: 7 Lesnaya Street
+    address2: Tverskoy Municipal District
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '35803'
+    id_type: Tax ID No.
+    id_number: '3525419372'
+    id_country: Russia
+  - uid: '35805'
+    id_type: Registration Number
+    id_number: '1183525002968'
+    id_country: Russia
+  - uid: '174868'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: LIMITED LIABILITY COMPANY INFRASTRACTURE HOLDING 2)"

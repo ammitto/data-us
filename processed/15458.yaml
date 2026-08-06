@@ -1,0 +1,34 @@
+---
+uid: '15458'
+last_name: EP-MNB
+sdn_type: Aircraft
+program_list:
+  programs:
+  - SDGT
+  - NPWMD
+  - IFSR
+id_list:
+  items:
+  - uid: '133522'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '112403'
+    id_type: Aircraft Construction Number (also called L/N or S/N or F/N)
+    id_number: '740'
+  - uid: '112404'
+    id_type: Aircraft Manufacture Date
+    id_number: 20 Jul 1989
+  - uid: '112406'
+    id_type: Aircraft Model
+    id_number: B.747-422
+  - uid: '112407'
+    id_type: Aircraft Operator
+    id_number: MAHAN AIR
+  - uid: '112405'
+    id_type: Aircraft Manufacturer's Serial Number (MSN)
+    id_number: '24363'
+  - uid: '186142'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: "(Linked To: MAHAN AIR)"

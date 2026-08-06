@@ -1,0 +1,48 @@
+---
+uid: '37791'
+last_name: RT-PROJECT TECHNOLOGY OPEN JOINT STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59336'
+    type: a.k.a.
+    category: strong
+    last_name: AO RT-PROEKTNYE TEKHNOLOGII
+  - uid: '59337'
+    type: a.k.a.
+    category: strong
+    last_name: RT-PROEKTNYE TEKHNOLOGII, PAO
+  - uid: '59338'
+    type: a.k.a.
+    category: strong
+    last_name: JSC RT - PROJECT TECHNOLOGIES
+address_list:
+  items:
+  - uid: '56565'
+    address1: Berezhkovskaya Nab D. 6
+    city: Moscow
+    postal_code: '121059'
+    country: Russia
+id_list:
+  items:
+  - uid: '27080'
+    id_type: Registration Number
+    id_number: '1117746729682'
+    id_country: Russia
+  - uid: '27081'
+    id_type: Tax ID No.
+    id_number: '7724804619'
+    id_country: Russia
+  - uid: '152796'
+    id_type: Organization Established Date
+    id_number: 15 Sep 2011
+  - uid: '152797'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
+  - uid: '173519'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: STATE CORPORATION ROSTEC)"

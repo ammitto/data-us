@@ -1,0 +1,46 @@
+---
+uid: '40179'
+last_name: OPEN JOINT STOCK COMPANY ILYENKO ELARA RESEARCH AND PRODUCTION COMPLEX
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '62405'
+    type: a.k.a.
+    category: strong
+    last_name: ILYENKO ELARA RESEARCH AND PRODUCTION COMPLEX OJSC
+  - uid: '62406'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO NAUCHNO PROIZVODSTVENNYI KOMPLEKS ELARA IMENI
+      G.A. ILYENKO
+  - uid: '62407'
+    type: a.k.a.
+    category: strong
+    last_name: AO ELARA
+address_list:
+  items:
+  - uid: '59831'
+    address1: Moskovsky Prospekt 40
+    city: Cheboksary
+    state_or_province: Chuvash Republic
+    postal_code: '428015'
+    country: Russia
+id_list:
+  items:
+  - uid: '29323'
+    id_type: Registration Number
+    id_number: '1022101269123'
+    id_country: Russia
+  - uid: '29324'
+    id_type: Tax ID No.
+    id_number: '2129017646'
+    id_country: Russia
+  - uid: '157040'
+    id_type: Organization Established Date
+    id_number: '1970'
+  - uid: '174815'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

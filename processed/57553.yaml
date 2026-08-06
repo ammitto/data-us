@@ -1,0 +1,48 @@
+---
+uid: '57553'
+first_name: Ali Maarij
+last_name: AL-BAHADLY
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '89075'
+    type: a.k.a.
+    category: strong
+    last_name: AL BEHADILI
+    first_name: Ali Maarij Sewadig
+address_list:
+  items:
+  - uid: '88231'
+    city: Baghdad
+    country: Iraq
+  - uid: '88233'
+    city: Alamara
+    country: Iraq
+id_list:
+  items:
+  - uid: '51946'
+    id_type: National ID No.
+    id_number: '0041626'
+    id_country: Iraq
+  - uid: '51947'
+    id_type: Passport
+    id_number: D1019788
+    id_country: Iraq
+    expiration_date: 30 Jun 2026
+  - uid: '197774'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '97773'
+    date_of_birth: 01 Jul 1966
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '97776'
+    place_of_birth: Maysan, Iraq
+    main_entry: 'true'
+remarks: "(Linked To: SAID, Salim Ahmed)"

@@ -1,0 +1,38 @@
+---
+uid: '48748'
+last_name: NEFTEGAZSTROY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75876'
+    type: a.k.a.
+    category: weak
+    last_name: NGS
+address_list:
+  items:
+  - uid: '73276'
+    address1: Ul. Lenina D. 21/1
+    city: Neftekamsk
+    postal_code: '452680'
+    country: Russia
+  - uid: '73277'
+    address1: Ul. Industrialnaya D. 15, K.A.
+    city: Neftekamsk
+    postal_code: '452680'
+    country: Russia
+id_list:
+  items:
+  - uid: '39788'
+    id_type: Registration Number
+    id_number: '1020201432261'
+    id_country: Russia
+  - uid: '39789'
+    id_type: Tax ID No.
+    id_number: '0253013650'
+    id_country: Russia
+  - uid: '171290'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

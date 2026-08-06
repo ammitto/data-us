@@ -1,0 +1,33 @@
+---
+uid: '41960'
+last_name: LLC VEST-OST
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65194'
+    type: a.k.a.
+    category: weak
+    last_name: WEST-OST
+address_list:
+  items:
+  - uid: '62575'
+    address1: Gotvalda ul d. 21/2
+    city: Yekaterinburg
+    postal_code: '620107'
+    country: Russia
+id_list:
+  items:
+  - uid: '31324'
+    id_type: Registration Number
+    id_number: '1096670008434'
+    id_country: Russia
+  - uid: '31325'
+    id_type: Tax ID No.
+    id_number: '6670249749'
+    id_country: Russia
+  - uid: '173708'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

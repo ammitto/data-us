@@ -1,0 +1,38 @@
+---
+uid: '36424'
+last_name: SBER LEGAL LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '57389'
+    type: a.k.a.
+    category: strong
+    last_name: SBER LEGAL LLC
+  - uid: '57390'
+    type: a.k.a.
+    category: strong
+    last_name: SBER LIGAL
+address_list:
+  items:
+  - uid: '54723'
+    address1: 3 Poklonnaya St., office 209, floor 2
+    city: Moscow
+    postal_code: '121170'
+    country: Russia
+id_list:
+  items:
+  - uid: '25826'
+    id_type: Registration Number
+    id_number: '1187746905004'
+    id_country: Russia
+  - uid: '25827'
+    id_type: Tax ID No.
+    id_number: '9705124940'
+    id_country: Russia
+  - uid: '174205'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)"

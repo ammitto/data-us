@@ -1,0 +1,49 @@
+---
+uid: '39188'
+last_name: INTERNATIONAL CENTER FOR QUANTUM OPTICS AND QUANTUM TECHNOLOGIES LIMITED
+  LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '61127'
+    type: a.k.a.
+    category: strong
+    last_name: RUSSIAN QUANTUM CENTER
+  - uid: '61128'
+    type: a.k.a.
+    category: weak
+    last_name: RQC
+  - uid: '61129'
+    type: a.k.a.
+    category: strong
+    last_name: OOO MTSKT
+address_list:
+  items:
+  - uid: '58350'
+    address1: 30 Bld., 1 Bolshoy Blvd
+    address2: Skolkovo Innovation Center
+    city: Moscow
+    postal_code: '121205'
+    country: Russia
+  - uid: '58351'
+    address1: 100 Novaya Street, Skolkovo Village
+    city: Odintsovo
+    state_or_province: Moscow Region
+    postal_code: '143026'
+    country: Russia
+id_list:
+  items:
+  - uid: '28417'
+    id_type: Tax ID No.
+    id_number: '7743801910'
+    id_country: Russia
+  - uid: '28418'
+    id_type: Registration Number
+    id_number: '1107746994365'
+    id_country: Russia
+  - uid: '174755'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

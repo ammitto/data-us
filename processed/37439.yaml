@@ -1,0 +1,41 @@
+---
+uid: '37439'
+first_name: Murat
+last_name: TEKE
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+  - IFSR
+address_list:
+  items:
+  - uid: '57743'
+    country: Turkey
+id_list:
+  items:
+  - uid: '27956'
+    id_type: Passport
+    id_number: U24165659
+    id_country: Turkey
+  - uid: '27957'
+    id_type: National ID No.
+    id_number: '34810083984'
+    id_country: Turkey
+  - uid: '152302'
+    id_type: Gender
+    id_number: Male
+  - uid: '152216'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '52303'
+    date_of_birth: 24 Feb 1975
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '52304'
+    place_of_birth: Mengen, Bolu, Turkey
+    main_entry: 'true'
+remarks: "(Linked To: AYAN, Sitki)"

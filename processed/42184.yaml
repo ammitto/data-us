@@ -1,0 +1,34 @@
+---
+uid: '42184'
+last_name: LIMITED LIABILITY COMPANY NOVELCO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65558'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY NOVELKO
+address_list:
+  items:
+  - uid: '62957'
+    address1: 2/2 Aeroportovskaya St., Office 210-2
+    city: Solnechnogorsk
+    state_or_province: Moscow Region
+    postal_code: '141580'
+    country: Russia
+id_list:
+  items:
+  - uid: '31648'
+    id_type: Registration Number
+    id_number: '1107746720322'
+    id_country: Russia
+  - uid: '31649'
+    id_type: Tax ID No.
+    id_number: '7733744331'
+    id_country: Russia
+  - uid: '176953'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

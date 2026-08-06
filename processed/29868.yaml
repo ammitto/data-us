@@ -1,0 +1,51 @@
+---
+uid: '29868'
+last_name: M FINANS
+sdn_type: Entity
+program_list:
+  programs:
+  - CYBER2
+  - ELECTION-EO13848
+  - UKRAINE-EO13661
+aka_list:
+  items:
+  - uid: '46831'
+    type: a.k.a.
+    category: strong
+    last_name: M-FINANCE LLC
+  - uid: '46832'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'M-FINANS'
+  - uid: '46895'
+    type: a.k.a.
+    category: strong
+    last_name: M-FINANS, OOO
+address_list:
+  items:
+  - uid: '45032'
+    address1: d. 138 korp. 1 litera V pom. 5N-18
+    address2: naberezhnaya Obvodnogo Kanala
+    city: St. Petersburg
+    state_or_province: St. Petersburg
+    postal_code: '190020'
+    country: Russia
+id_list:
+  items:
+  - uid: '19968'
+    id_type: Government Gazette Number
+    id_number: '27397712'
+    id_country: Russia
+  - uid: '19969'
+    id_type: Registration Number
+    id_number: '1157847290920'
+    id_country: Russia
+  - uid: '19970'
+    id_type: Tax ID No.
+    id_number: '7839042420'
+    id_country: Russia
+  - uid: '144148'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+remarks: "(Linked To: PRIGOZHIN, Yevgeniy Viktorovich)"

@@ -1,0 +1,59 @@
+---
+uid: '24185'
+last_name: GAZPROM BURENIE, OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '38215'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU GAZPROM BURENIE
+  - uid: '38216'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY GAZPROM BURENIYE
+  - uid: '38217'
+    type: a.k.a.
+    category: strong
+    last_name: GAZPROM BURENIYE LLC
+  - uid: '38218'
+    type: f.k.a.
+    category: strong
+    last_name: BUROVAYA KOMPANIYA OAO GAZPROM, DOCHERNEE OBSHCHESTVO S OGRANICHENNOI
+      OTVETSTVENNOSTYU
+  - uid: '38442'
+    type: a.k.a.
+    category: strong
+    last_name: GAZPROM DRILLING
+address_list:
+  items:
+  - uid: '36551'
+    address1: 12A, ul. Nametkina
+    city: Moscow
+    postal_code: '117420'
+    country: Russia
+id_list:
+  items:
+  - uid: '15415'
+    id_type: Registration ID
+    id_number: '1028900620319'
+  - uid: '15416'
+    id_type: Tax ID No.
+    id_number: '5003026493'
+  - uid: '15417'
+    id_type: Government Gazette Number
+    id_number: '00156251'
+  - uid: '143976'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '126342'
+    id_type: Website
+    id_number: www.burgaz.ru
+  - uid: '126341'
+    id_type: Email Address
+    id_number: mail@burgaz.gazprom.ru
+remarks: "(Linked To: ROTENBERG, Igor Arkadyevich)"

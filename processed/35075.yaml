@@ -1,0 +1,46 @@
+---
+uid: '35075'
+last_name: LIMITED LIABILITY COMPANY OSTOZHENKA 19
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '55184'
+    type: a.k.a.
+    category: strong
+    last_name: LLC OSTOZHENKA 19
+  - uid: '55185'
+    type: a.k.a.
+    category: strong
+    last_name: OSTOZHENKA 19
+  - uid: '55186'
+    type: a.k.a.
+    category: strong
+    last_name: OSTOZHENKA 19 OOO
+address_list:
+  items:
+  - uid: '52667'
+    address1: etazh/pom 3/14, stroenie 1
+    address2: dom 19, ulitsa Ostozhenka
+    city: Moscow
+    postal_code: '119034'
+    country: Russia
+id_list:
+  items:
+  - uid: '24843'
+    id_type: Registration Number
+    id_number: '1137746907781'
+    id_country: Russia
+  - uid: '24844'
+    id_type: Tax ID No.
+    id_number: '7703798019'
+    id_country: Russia
+  - uid: '175261'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '146981'
+    id_type: Organization Established Date
+    id_number: 03 Oct 2013
+remarks: "(Linked To: TOKAREVA, Maiya Nikolaevna)"

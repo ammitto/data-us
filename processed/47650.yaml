@@ -1,0 +1,41 @@
+---
+uid: '47650'
+last_name: FENIKS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73811'
+    type: a.k.a.
+    category: weak
+    last_name: PHOENIX
+  - uid: '74746'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOY OTVETSTVENNOSTYU FENIKS
+address_list:
+  items:
+  - uid: '71210'
+    address1: Ter. Oez Ppt Lipetsk Str. 4A
+    address2: Office 021/25
+    city: Gryazi
+    postal_code: '398010'
+    country: Russia
+id_list:
+  items:
+  - uid: '38245'
+    id_type: Registration Number
+    id_number: '1194827003128'
+    id_country: Russia
+  - uid: '38246'
+    id_type: Tax ID No.
+    id_number: '4802013587'
+    id_country: Russia
+  - uid: '169715'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '170072'
+    id_type: 'Organization Type:'
+    id_number: Manufacture of articles of concrete, cement and plaster

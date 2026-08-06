@@ -1,0 +1,30 @@
+---
+uid: '43116'
+last_name: JOINT STOCK COMPANY LOMO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '64334'
+    address1: 20 Ulitsa Chugunnaya
+    city: Saint Petersburg
+    postal_code: '194044'
+    country: Russia
+id_list:
+  items:
+  - uid: '32704'
+    id_type: Registration Number
+    id_number: '1027802498514'
+    id_country: Russia
+  - uid: '32705'
+    id_type: Tax ID No.
+    id_number: '7804002321'
+    id_country: Russia
+  - uid: '175538'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '162098'
+    id_type: Organization Established Date
+    id_number: 24 Jun 1993

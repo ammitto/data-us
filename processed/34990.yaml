@@ -1,0 +1,61 @@
+---
+uid: '34990'
+last_name: OJSC KB RADAR-MANAGING COMPANY HOLDING RADAR SYSTEM
+sdn_type: Entity
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '54984'
+    type: a.k.a.
+    category: strong
+    last_name: OPEN JOINT STOCK COMPANY KB RADAR-MANAGEMENT COMPANY HOLDING RADAR
+      SYSTEMS
+  - uid: '54985'
+    type: a.k.a.
+    category: strong
+    last_name: KB RADAR-UPRAVLYAYUSHCHAYA KOMPANIYA KHOLDINGA SISTEMY RADIOLOKATSII
+      OAO
+  - uid: '54986'
+    type: a.k.a.
+    category: strong
+    last_name: KB RADAR
+  - uid: '54987'
+    type: a.k.a.
+    category: strong
+    last_name: KB RADAR - RADAR AND EW SYSTEMS
+  - uid: '54988'
+    type: a.k.a.
+    category: strong
+    last_name: KB RADAR - RADAR AND ELECTRONIC WARFARE SYSTEMS
+  - uid: '54989'
+    type: a.k.a.
+    category: strong
+    last_name: JSC KB RADAR
+  - uid: '54990'
+    type: a.k.a.
+    category: strong
+    last_name: KB RADAR OJSC
+address_list:
+  items:
+  - uid: '52498'
+    address1: Partizanskii 64A
+    city: Minsk
+    postal_code: '220026'
+    country: Belarus
+  - uid: '52499'
+    address1: d.24, Nezhiloe pomeshchenie
+    address2: ul Promyshlennaya
+    city: Minsk
+    postal_code: '220075'
+    country: Belarus
+id_list:
+  items:
+  - uid: '24651'
+    id_type: Registration Number
+    id_number: '190699027'
+    id_country: Belarus
+  - uid: '146568'
+    id_type: Organization Established Date
+    id_number: '2006'

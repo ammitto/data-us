@@ -1,0 +1,42 @@
+---
+uid: '49943'
+last_name: LIMITED LIABILITY COMPANY SIMBIRSKOE KONSTRUKTORSKOE BYURO PIRANYA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77826'
+    type: a.k.a.
+    category: strong
+    last_name: SKB PIRANHA
+  - uid: '77827'
+    type: a.k.a.
+    category: strong
+    last_name: SKB PIRANYA
+  - uid: '77828'
+    type: a.k.a.
+    category: strong
+    last_name: SIMBIRSK DESIGN BUREAU
+address_list:
+  items:
+  - uid: '75524'
+    address1: Ul. Gagarina
+    address2: D. 7/15, Office 1
+    city: Ulyanovsk
+    postal_code: '432071'
+    country: Russia
+id_list:
+  items:
+  - uid: '41460'
+    id_type: Registration Number
+    id_number: '1237300010430'
+    id_country: Russia
+  - uid: '41461'
+    id_type: Tax ID No.
+    id_number: '7300024069'
+    id_country: Russia
+  - uid: '178045'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

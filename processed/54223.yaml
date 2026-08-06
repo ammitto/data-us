@@ -1,0 +1,49 @@
+---
+uid: '54223'
+first_name: Saeid
+last_name: ZAHEDI
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - SDGT
+address_list:
+  items:
+  - uid: '82810'
+    state_or_province: Rome
+    country: Italy
+  - uid: '82811'
+    country: Iran
+id_list:
+  items:
+  - uid: '47756'
+    id_type: National ID No.
+    id_number: '0078347726'
+    id_country: Iran
+  - uid: '47757'
+    id_type: National ID No.
+    id_number: ZHDSDA87R03Z224O
+    id_country: Italy
+  - uid: '47758'
+    id_type: Passport
+    id_number: YB2971531
+    id_country: Italy
+    expiration_date: '08 Apr 2028'
+  - uid: '189936'
+    id_type: Gender
+    id_number: Male
+  - uid: '198309'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '89932'
+    date_of_birth: 03 Oct 1987
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '89933'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: SEPEHR, Ali Majd)"

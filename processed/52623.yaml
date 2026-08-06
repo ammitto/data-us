@@ -1,0 +1,36 @@
+---
+uid: '52623'
+last_name: JOINT STOCK COMPANY RYAZAN RADIO PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '82413'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO RIAZANSKII RADIOZAVOD
+address_list:
+  items:
+  - uid: '80394'
+    address1: 11 ul. Lermontova
+    city: Ryazan
+    postal_code: '390023'
+    country: Russia
+id_list:
+  items:
+  - uid: '45686'
+    id_type: Registration Number
+    id_number: '1026201260447'
+    id_country: Russia
+  - uid: '45687'
+    id_type: Tax ID No.
+    id_number: '6231006875'
+    id_country: Russia
+  - uid: '184394'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184395'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

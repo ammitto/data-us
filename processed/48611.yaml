@@ -1,0 +1,43 @@
+---
+uid: '48611'
+last_name: GLOBAL KEY LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75583'
+    type: a.k.a.
+    category: weak
+    last_name: NOYFOX AS LTD.
+  - uid: '75584'
+    type: a.k.a.
+    category: weak
+    last_name: GLOBAL KEI
+address_list:
+  items:
+  - uid: '72987'
+    address1: Ul. Ivana Fomina D. 6, Lit. B, Pomeshch. 402A, 402B
+    city: Saint Petersburg
+    postal_code: '194295'
+    country: Russia
+id_list:
+  items:
+  - uid: '39580'
+    id_type: Tax ID No.
+    id_number: '7802536470'
+    id_country: Russia
+  - uid: '39581'
+    id_type: Registration Number
+    id_number: '1157847282119'
+    id_country: Russia
+  - uid: '176624'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '170916'
+    id_type: Organization Established Date
+    id_number: 18 Aug 2015
+  - uid: '170917'
+    id_type: Website
+    id_number: global-key.ru

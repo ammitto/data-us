@@ -1,0 +1,42 @@
+---
+uid: '51654'
+last_name: JSC EXI BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80943'
+    type: a.k.a.
+    category: strong
+    last_name: EKSI BANK AO
+address_list:
+  items:
+  - uid: '78712'
+    address1: Ul. Professora Popova D. 23
+    city: Saint Petersburg
+    postal_code: '197376'
+    country: Russia
+id_list:
+  items:
+  - uid: '44163'
+    id_type: Registration Number
+    id_number: '1027800000942'
+    id_country: Russia
+  - uid: '44165'
+    id_type: Tax ID No.
+    id_number: '7831000940'
+    id_country: Russia
+  - uid: '181575'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '181566'
+    id_type: SWIFT/BIC
+    id_number: JXIBRU2P
+  - uid: '181569'
+    id_type: Website
+    id_number: www.exibank.ru
+  - uid: '181571'
+    id_type: Target Type
+    id_number: Financial Institution

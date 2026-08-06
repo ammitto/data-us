@@ -1,0 +1,44 @@
+---
+uid: '35976'
+first_name: Dmitry Vladimirovich
+last_name: KHOTIMSKIY
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56582'
+    type: a.k.a.
+    category: strong
+    last_name: KHOTIMSKI
+    first_name: Dmitri Vladimirovich
+address_list:
+  items:
+  - uid: '53987'
+    address1: Berezhlovskaya naberejnaya 4, flat 75
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '25327'
+    id_type: Passport
+    id_number: '751600476'
+    id_country: Russia
+  - uid: '149215'
+    id_type: Gender
+    id_number: Male
+  - uid: '173318'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '49209'
+    date_of_birth: 29 Jun 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '49210'
+    place_of_birth: Russia
+    main_entry: 'true'
+remarks: "(Linked To: SOVCOMBANK OPEN JOINT STOCK COMPANY)"

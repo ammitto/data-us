@@ -1,0 +1,53 @@
+---
+uid: '32680'
+last_name: CLOSED JOINT-STOCK COMPANY NEW OIL COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '51288'
+    type: a.k.a.
+    category: strong
+    last_name: ZAKRYTOYE AKTSIONERNOYE OBSHCHESTVO NOVAYA NEFTYANAYA KOMPANIYA
+  - uid: '51289'
+    type: a.k.a.
+    category: strong
+    last_name: ZAKRYTAYE AKTSYYANERNAYE TAVARYSTVA NOVAYA NAFTAVAYA KAMPANIYA
+  - uid: '51290'
+    type: a.k.a.
+    category: strong
+    last_name: CJSC NNK
+  - uid: '51291'
+    type: a.k.a.
+    category: strong
+    last_name: ZAO NNK
+  - uid: '51292'
+    type: a.k.a.
+    category: strong
+    last_name: ZAT NNK
+  - uid: '51293'
+    type: a.k.a.
+    category: weak
+    last_name: NEW OIL COMPANY
+  - uid: '51294'
+    type: a.k.a.
+    category: strong
+    last_name: NOVAIA NAFTAVAIA KAMPANIA
+address_list:
+  items:
+  - uid: '49199'
+    address1: ul. Rakovskaya, d. 14B, kab. 7 (5th floor)
+    city: Minsk
+    postal_code: '220004'
+    country: Belarus
+id_list:
+  items:
+  - uid: '22437'
+    id_type: Registration Number
+    id_number: '193402282'
+    id_country: Belarus
+  - uid: '142299'
+    id_type: Organization Established Date
+    id_number: 23 Mar 2020

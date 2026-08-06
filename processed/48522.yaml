@@ -1,0 +1,43 @@
+---
+uid: '48522'
+last_name: LIMITED LIABILITY COMPANY QUANTUM OPTICS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75419'
+    type: a.k.a.
+    category: strong
+    last_name: QUANTUM OPTICS LTD
+  - uid: '75421'
+    type: a.k.a.
+    category: strong
+    last_name: OOO QUANTUM OPTICS
+address_list:
+  items:
+  - uid: '72823'
+    address1: Ul. Serdobolskaya D. 64, Lit. K
+    address2: Pomeshch. 11-N, Kom. 10
+    city: Saint Petersburg
+    postal_code: '197342'
+    country: Russia
+  - uid: '72824'
+    address1: Beloostrovskaya 22, Office 415
+    city: Saint Petersburg
+    postal_code: '197342'
+    country: Russia
+id_list:
+  items:
+  - uid: '39457'
+    id_type: Registration Number
+    id_number: '1117847563921'
+    id_country: Russia
+  - uid: '39458'
+    id_type: Tax ID No.
+    id_number: '7801562614'
+    id_country: Russia
+  - uid: '171241'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

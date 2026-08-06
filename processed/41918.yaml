@@ -1,0 +1,42 @@
+---
+uid: '41918'
+last_name: JOINT STOCK COMPANY IIB CAPITAL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65151'
+    type: a.k.a.
+    category: strong
+    last_name: CJSC IIB CAPITAL
+  - uid: '65152'
+    type: a.k.a.
+    category: strong
+    last_name: AO MIB KAPITAL
+address_list:
+  items:
+  - uid: '62530'
+    address1: ul. Mashi Poryvaevoi d. 11
+    address2: str. B, floor 1, pomeshch. 15
+    city: Moscow
+    postal_code: '107078'
+    country: Russia
+id_list:
+  items:
+  - uid: '31299'
+    id_type: Tax ID No.
+    id_number: '7708767021'
+    id_country: Russia
+  - uid: '31300'
+    id_type: Registration Number
+    id_number: '1127746575516'
+    id_country: Russia
+  - uid: '173697'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '160158'
+    id_type: Organization Established Date
+    id_number: 25 Jul 2012
+remarks: "(Linked To: INTERNATIONAL INVESTMENT BANK)"

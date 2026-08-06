@@ -1,0 +1,36 @@
+---
+uid: '38318'
+first_name: Mohammad
+last_name: AGHA AHMADI
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+  - IFSR
+  - IRGC
+address_list:
+  items:
+  - uid: '57358'
+    country: Iran
+id_list:
+  items:
+  - uid: '27610'
+    id_type: National ID No.
+    id_number: '4890244441'
+    id_country: Iran
+  - uid: '154390'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '153620'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '53619'
+    date_of_birth: 01 Mar 1995
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '53621'
+    place_of_birth: Savojbolagh, Alborz Province, Iran
+    main_entry: 'true'

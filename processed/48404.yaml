@@ -1,0 +1,39 @@
+---
+uid: '48404'
+last_name: IBS EXPERTISE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75235'
+    type: a.k.a.
+    category: strong
+    last_name: OOO IBS EKSPERTIZA
+address_list:
+  items:
+  - uid: '72621'
+    address1: ul. Skladochnaya d. 3, str. 1
+    city: Moscow
+    postal_code: '127018'
+    country: Russia
+  - uid: '72622'
+    address1: sh. Dmitrovskoe
+    address2: d. 9B, et. 5, pom. XIII, kom. 6
+    city: Moscow
+    postal_code: '127434'
+    country: Russia
+id_list:
+  items:
+  - uid: '39285'
+    id_type: Registration Number
+    id_number: '1067761849704'
+    id_country: Russia
+  - uid: '39286'
+    id_type: Tax ID No.
+    id_number: '7713606622'
+    id_country: Russia
+  - uid: '171222'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

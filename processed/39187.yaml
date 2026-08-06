@@ -1,0 +1,48 @@
+---
+uid: '39187'
+last_name: JOINT VENTURE QUANTUM TECHNOLOGIES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '61122'
+    type: a.k.a.
+    category: strong
+    last_name: LLC JOINT VENTURE KVANT
+  - uid: '61123'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY SOVMESTNOYE PREDPRIYATIYE KVANTOVYE TEKHNOLOGII
+  - uid: '61124'
+    type: a.k.a.
+    category: weak
+    last_name: SP QUANT
+  - uid: '61125'
+    type: a.k.a.
+    category: strong
+    last_name: LLC JV KVANT
+address_list:
+  items:
+  - uid: '58348'
+    address1: 46 Varshavskoye Highway
+    city: Moscow
+    postal_code: '115230'
+    country: Russia
+id_list:
+  items:
+  - uid: '28415'
+    id_type: Tax ID No.
+    id_number: '7726464220'
+    id_country: Russia
+  - uid: '28416'
+    id_type: Registration Number
+    id_number: '1207700141032'
+    id_country: Russia
+  - uid: '174754'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '154933'
+    id_type: Organization Established Date
+    id_number: 26 Mar 2020

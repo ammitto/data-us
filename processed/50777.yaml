@@ -1,0 +1,41 @@
+---
+uid: '50777'
+last_name: LIMITED LIABILITY COMPANY UNMANNED TECHNOLOGIES OF MORDOVIA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79512'
+    type: a.k.a.
+    category: strong
+    last_name: OOO BESPILOTNYE TEKHNOLOGII MORDOVII
+  - uid: '79513'
+    type: a.k.a.
+    category: weak
+    last_name: BTM
+address_list:
+  items:
+  - uid: '77045'
+    address1: Ul. Lodygina, D. 3
+    address2: Pomeshch 36
+    city: Saransk
+    postal_code: '430034'
+    country: Russia
+id_list:
+  items:
+  - uid: '42680'
+    id_type: Registration Number
+    id_number: '1231300003373'
+    id_country: Russia
+  - uid: '42681'
+    id_type: Tax ID No.
+    id_number: '1300007070'
+    id_country: Russia
+  - uid: '179416'
+    id_type: Organization Established Date
+    id_number: 10 Aug 2023
+  - uid: '179417'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

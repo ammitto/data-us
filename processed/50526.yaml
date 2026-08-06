@@ -1,0 +1,42 @@
+---
+uid: '50526'
+last_name: MARINA
+sdn_type: Vessel
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '78993'
+    type: a.k.a.
+    category: strong
+    last_name: GEMGAZ
+id_list:
+  items:
+  - uid: '42345'
+    id_type: MMSI
+    id_number: '677054300'
+  - uid: '42346'
+    id_type: Vessel Registration Identification
+    id_number: IMO 9005493
+  - uid: '179197'
+    id_type: Other Vessel Flag
+    id_number: Togo
+  - uid: '179198'
+    id_type: Other Vessel Flag
+    id_number: Mongolia
+  - uid: '179199'
+    id_type: Other Vessel Flag
+    id_number: Germany
+  - uid: '179200'
+    id_type: Other Vessel Flag
+    id_number: Antigua and Barbuda
+  - uid: '178621'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
+      Sanctions Regulations
+  - uid: '179142'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: "(Linked To: HIZBALLAH)"

@@ -1,0 +1,52 @@
+---
+uid: '11223'
+first_name: Lu-Chi
+last_name: SU
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+aka_list:
+  items:
+  - uid: '11634'
+    type: a.k.a.
+    category: strong
+    last_name: TSAI SU
+    first_name: Lu-Chi
+address_list:
+  items:
+  - uid: '16371'
+    address1: C/O TRANS MERITS CO. LTD.
+    city: Taipei
+    country: Taiwan
+  - uid: '16372'
+    address1: C/O GLOBAL INTERFACE COMPANY INC.
+    city: Taipei
+    country: Taiwan
+id_list:
+  items:
+  - uid: '5693'
+    id_type: Passport
+    id_number: '210215095'
+    id_country: Taiwan
+  - uid: '134914'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '127683'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+date_of_birth_list:
+  items:
+  - uid: '6568'
+    date_of_birth: 07 Feb 1950
+    main_entry: 'true'
+  - uid: '6782'
+    date_of_birth: Nov 1950
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '6569'
+    place_of_birth: Yun Lin Hsien, Taiwan
+    main_entry: 'true'
+title: Corporate Officer

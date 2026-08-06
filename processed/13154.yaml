@@ -1,0 +1,28 @@
+---
+uid: '13154'
+first_name: Daniel
+last_name: FROSCH
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+id_list:
+  items:
+  - uid: '7644'
+    id_type: Passport
+    id_number: LO798512
+    id_country: Austria
+  - uid: '114299'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '9036'
+    date_of_birth: 26 Apr 1982
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '9037'
+    place_of_birth: Austria
+    main_entry: 'true'

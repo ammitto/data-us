@@ -1,0 +1,44 @@
+---
+uid: '34016'
+first_name: Saw Myint
+last_name: OO
+sdn_type: Individual
+program_list:
+  programs:
+  - BURMA-EO14014
+aka_list:
+  items:
+  - uid: '53544'
+    type: a.k.a.
+    category: strong
+    last_name: OO
+    first_name: U Saw Myint
+  - uid: '53545'
+    type: a.k.a.
+    category: strong
+    last_name: KYAING
+    first_name: Pauk
+address_list:
+  items:
+  - uid: '51178'
+    country: Burma
+id_list:
+  items:
+  - uid: '23782'
+    id_type: National ID No.
+    id_number: 3KAKAYAN164612
+    id_country: Burma
+  - uid: '145325'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '45322'
+    date_of_birth: 02 Feb 1965
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '45323'
+    place_of_birth: Hpapun, Burma
+    main_entry: 'true'
+title: Chief Minister of Kayin State

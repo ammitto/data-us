@@ -1,0 +1,56 @@
+---
+uid: '37484'
+last_name: SIDAR COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '58679'
+    type: a.k.a.
+    category: strong
+    last_name: SIDAR INTERNATIONAL HOLDING COMPANY WLL
+  - uid: '58680'
+    type: a.k.a.
+    category: strong
+    last_name: SARL SIDAR
+  - uid: '58681'
+    type: a.k.a.
+    category: strong
+    last_name: EDDAR INTERNATIONAL COMPANY
+address_list:
+  items:
+  - uid: '56018'
+    address1: 141 Coup Imobiliere el bina lot N 141
+    address3: Dely Ibrahim
+    city: Algiers
+    country: Algeria
+  - uid: '56019'
+    address1: Lotissement 108 Lot N50 Commune
+    city: El Hachiniia
+    country: Algeria
+  - uid: '56020'
+    address1: 141 Cooperative Immobilere De Construction Lot N141
+    city: Dely Ibrahim
+    country: Algeria
+  - uid: '56021'
+    address1: 141 Hai El Bina
+    city: Dely Ibrahim
+    country: Algeria
+id_list:
+  items:
+  - uid: '152279'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '152331'
+    id_type: 'Organization Type:'
+    id_number: Construction of buildings
+  - uid: '152336'
+    id_type: 'Organization Type:'
+    id_number: Real estate activities with own or leased property
+  - uid: '152278'
+    id_type: Website
+    id_number: http://sidar-dz.com/en
+remarks: "(Linked To: HAMAS)"

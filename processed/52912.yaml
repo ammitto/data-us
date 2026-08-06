@@ -1,0 +1,64 @@
+---
+uid: '52912'
+first_name: Mohammad
+last_name: ABDULSALAM
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '82823'
+    type: a.k.a.
+    category: strong
+    last_name: ABD AL-SALAM
+    first_name: Muhammad
+  - uid: '82824'
+    type: a.k.a.
+    category: strong
+    last_name: FLEETAH
+    first_name: Abdel Salam
+  - uid: '82825'
+    type: a.k.a.
+    category: weak
+    last_name: ABU YASSER
+  - uid: '82826'
+    type: a.k.a.
+    category: strong
+    last_name: FLEETAH
+    first_name: Abdulsalam Saleh Ahmed Abdullah
+  - uid: '82827'
+    type: a.k.a.
+    category: strong
+    last_name: FELIATAH
+    first_name: Abdulsalam Salah Ahmed
+address_list:
+  items:
+  - uid: '80868'
+    city: Muscat
+    country: Oman
+id_list:
+  items:
+  - uid: '46048'
+    id_type: Passport
+    id_number: '00020255'
+    id_country: Yemen
+    expiration_date: 17 Feb 2017
+  - uid: '185378'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '184876'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '84873'
+    date_of_birth: 02 Apr 1981
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '84874'
+    place_of_birth: Al-Qalaa, Razih District, Saada Governorate, Yemen
+    main_entry: 'true'
+remarks: "(Linked To: ANSARALLAH)"

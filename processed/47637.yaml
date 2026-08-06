@@ -1,0 +1,33 @@
+---
+uid: '47637'
+first_name: Anna Yuryevna
+last_name: LUZHANSKAYA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '71247'
+    country: Russia
+id_list:
+  items:
+  - uid: '38223'
+    id_type: Passport
+    id_number: '750275444'
+    id_country: Russia
+  - uid: '38276'
+    id_type: Tax ID No.
+    id_number: '773770174460'
+    id_country: Russia
+  - uid: '176416'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '169134'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '69566'
+    date_of_birth: 03 Jun 1983
+    main_entry: 'true'

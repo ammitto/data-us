@@ -1,0 +1,35 @@
+---
+uid: '24650'
+last_name: DIGITAL SECURITY
+sdn_type: Entity
+program_list:
+  programs:
+  - CYBER2
+aka_list:
+  items:
+  - uid: '38852'
+    type: a.k.a.
+    category: strong
+    last_name: DIGITAL SECURITY RESEARCH GROUP
+  - uid: '38854'
+    type: a.k.a.
+    category: weak
+    last_name: DSEC
+  - uid: '38855'
+    type: a.k.a.
+    category: strong
+    last_name: OOO DIGITAL SECURITY
+address_list:
+  items:
+  - uid: '37241'
+    city: Saint Petersburg
+    country: Russia
+  - uid: '37242'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '154548'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+remarks: "(Linked To: FEDERAL SECURITY SERVICE)"

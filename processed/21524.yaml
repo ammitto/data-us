@@ -1,0 +1,36 @@
+---
+uid: '21524'
+last_name: GRUPO SEGTAC, S.A. DE C.V.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '34153'
+    type: a.k.a.
+    category: strong
+    last_name: GRUPO SEGTAC INMOBILIARIA
+  - uid: '34154'
+    type: a.k.a.
+    category: strong
+    last_name: GRUPO INMOBILIARIO SEGTAC
+address_list:
+  items:
+  - uid: '32690'
+    address1: Av. Chapultepec No. 15
+    address2: Piso 16-A Of. 1
+    address3: Colonia Ladron de Guevara
+    city: Guadalajara
+    state_or_province: Jalisco
+    country: Mexico
+id_list:
+  items:
+  - uid: '13475'
+    id_type: Folio Mercantil No.
+    id_number: '66501'
+    id_country: Mexico
+  - uid: '13476'
+    id_type: R.F.C.
+    id_number: GSE1111188QA
+    id_country: Mexico

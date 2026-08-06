@@ -1,0 +1,37 @@
+---
+uid: '47740'
+last_name: JOINT STOCK COMPANY KOVROV ELECTROMECHANICAL PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74020'
+    type: a.k.a.
+    category: weak
+    last_name: AO KEMZ
+  - uid: '74022'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO KOVROVSKII ELEKTROMEKHANICHESKII ZAVOD
+address_list:
+  items:
+  - uid: '71391'
+    address1: 55 Krupskoi Street
+    city: Kovrov
+    postal_code: '601919'
+    country: Russia
+id_list:
+  items:
+  - uid: '38389'
+    id_type: Tax ID No.
+    id_number: '3305004421'
+    id_country: Russia
+  - uid: '38390'
+    id_type: Registration Number
+    id_number: '1023301951177'
+    id_country: Russia
+  - uid: '169698'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

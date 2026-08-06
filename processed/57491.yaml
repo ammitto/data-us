@@ -1,0 +1,36 @@
+---
+uid: '57491'
+first_name: Ehsan
+last_name: TAHAYYORI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '88129'
+    country: Iran
+  - uid: '88130'
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '51847'
+    id_type: National ID No.
+    id_number: '0076281051'
+    id_country: Iran
+  - uid: '197685'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '197683'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '97686'
+    date_of_birth: '08 Jan 1982'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '97684'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'

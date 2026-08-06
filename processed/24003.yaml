@@ -1,0 +1,41 @@
+---
+uid: '24003'
+first_name: Behzad
+last_name: MESRI
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+  - HRIT-IR
+aka_list:
+  items:
+  - uid: '37973'
+    type: a.k.a.
+    category: weak
+    last_name: Skote Vahshat
+address_list:
+  items:
+  - uid: '40015'
+    country: Iran
+id_list:
+  items:
+  - uid: '126094'
+    id_type: Gender
+    id_number: Male
+  - uid: '126172'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '26091'
+    date_of_birth: 26 Aug 1988
+    main_entry: 'true'
+  - uid: '26092'
+    date_of_birth: 27 Aug 1988
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '26096'
+    place_of_birth: Naghadeh, Iran
+    main_entry: 'true'
+remarks: "(Linked To: NET PEYGARD SAMAVAT COMPANY)"

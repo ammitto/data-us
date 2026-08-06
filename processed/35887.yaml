@@ -1,0 +1,41 @@
+---
+uid: '35887'
+last_name: JOINT STOCK COMPANY ZAVOD KULAKOVA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56418'
+    type: a.k.a.
+    category: strong
+    last_name: AO ZAVOD IM. A.A.KULAKOVA
+  - uid: '56419'
+    type: a.k.a.
+    category: strong
+    last_name: JSC ZAVOD KULAKOVA
+address_list:
+  items:
+  - uid: '53857'
+    address1: Ul. Yablochkova D. 12
+    city: Saint Petersburg
+    postal_code: '197198'
+    country: Russia
+id_list:
+  items:
+  - uid: '25229'
+    id_type: Registration Number
+    id_number: '5067847003428'
+    id_country: Russia
+  - uid: '25230'
+    id_type: Tax ID No.
+    id_number: '7813346618'
+    id_country: Russia
+  - uid: '149080'
+    id_type: Organization Established Date
+    id_number: 30 Jan 1992
+  - uid: '173282'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: JOINT STOCK COMPANY CONCERN GRANIT-ELECTRON)"

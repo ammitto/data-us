@@ -1,0 +1,39 @@
+---
+uid: '43280'
+last_name: LIMITED LIABILITY COMPANY GEOS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '67106'
+    type: a.k.a.
+    category: strong
+    last_name: OOO GEOS
+address_list:
+  items:
+  - uid: '64606'
+    address1: 42 Kommunisticheskaya St.
+    address2: Floor 4, Office 11
+    city: Novorossiysk
+    state_or_province: Krasnodar Region
+    postal_code: '353900'
+    country: Russia
+id_list:
+  items:
+  - uid: '32856'
+    id_type: Registration Number
+    id_number: '1182375065828'
+    id_country: Russia
+  - uid: '32857'
+    id_type: Tax ID No.
+    id_number: '2315207531'
+    id_country: Russia
+  - uid: '175693'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '162485'
+    id_type: Organization Established Date
+    id_number: 06 Aug 2018
+remarks: "(Linked To: POZHIDAEV, Igor Vladimirovich)"

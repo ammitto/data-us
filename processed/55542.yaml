@@ -1,0 +1,47 @@
+---
+uid: '55542'
+first_name: Mehdi Shirazi
+last_name: SHAYESTEH
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '86392'
+    type: a.k.a.
+    category: strong
+    last_name: SHAYESTEH
+    first_name: Mehdi Shiarzi
+address_list:
+  items:
+  - uid: '84912'
+    city: Tehran
+    country: Iran
+  - uid: '84913'
+    city: Essen
+    country: Germany
+id_list:
+  items:
+  - uid: '49526'
+    id_type: National ID No.
+    id_number: '0073165727'
+    id_country: Iran
+  - uid: '193032'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '193028'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '93026'
+    date_of_birth: '08 Jun 1980'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '93027'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: PASARGAD HELICOPTER COMPANY)"

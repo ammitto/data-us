@@ -1,0 +1,37 @@
+---
+uid: '20961'
+first_name: Badi
+last_name: MUALLA
+sdn_type: Individual
+program_list:
+  programs:
+  - PAARSSR-EO13894
+aka_list:
+  items:
+  - uid: '33176'
+    type: a.k.a.
+    category: strong
+    last_name: MUALLA
+    first_name: Badi Sulayman
+address_list:
+  items:
+  - uid: '32497'
+    country: Syria
+id_list:
+  items:
+  - uid: '122228'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '21661'
+    date_of_birth: '1961'
+    main_entry: 'true'
+  - uid: '22056'
+    date_of_birth: 05 Apr 1961
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '21662'
+    place_of_birth: Bistuwir, Jablah, Syria
+    main_entry: 'true'

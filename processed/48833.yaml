@@ -1,0 +1,35 @@
+---
+uid: '48833'
+last_name: LIMITED LIABILITY COMPANY LAB SERVICE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76017'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTIU LAB SERVIS
+address_list:
+  items:
+  - uid: '73418'
+    address1: 17 Pobedy Ul
+    address2: korp. 1
+    address3: kv. 355
+    city: Elektrostal
+    postal_code: '144007'
+    country: Russia
+id_list:
+  items:
+  - uid: '39885'
+    id_type: Registration Number
+    id_number: '1225000010322'
+    id_country: Russia
+  - uid: '39886'
+    id_type: Tax ID No.
+    id_number: '5031144393'
+    id_country: Russia
+  - uid: '171505'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

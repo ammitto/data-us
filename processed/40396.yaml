@@ -1,0 +1,52 @@
+---
+uid: '40396'
+first_name: Abd Al Hamid Salim Ibrahim Ismail Brukan
+last_name: AL-KHATUNI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '62808'
+    type: a.k.a.
+    category: weak
+    last_name: AL-KHATUNI, Brukan
+  - uid: '62809'
+    type: a.k.a.
+    category: strong
+    last_name: ALISMAEEL
+    first_name: Abdulhameed Salim Ibrahim
+  - uid: '62846'
+    type: a.k.a.
+    category: strong
+    last_name: AL-KHATUNI
+    first_name: "'Abd-al-Hamid Salim Ibrahim Isma'il"
+address_list:
+  items:
+  - uid: '60204'
+    city: Mersin
+    country: Turkey
+id_list:
+  items:
+  - uid: '157527'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '157528'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '57530'
+    date_of_birth: 01 Sep 1970
+    main_entry: 'true'
+  - uid: '57568'
+    date_of_birth: 12 Jan 1970
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '57531'
+    place_of_birth: Ba'aj, Iraq
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC STATE OF IRAQ AND THE LEVANT)"

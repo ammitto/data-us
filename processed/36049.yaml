@@ -1,0 +1,42 @@
+---
+uid: '36049'
+last_name: JOINT STOCK COMPANY NORTHERN PRODUCTION ASSOCIATION ARKTIKA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56789'
+    type: a.k.a.
+    category: strong
+    last_name: PRODUCTION ASSOCIATION ARKTIKA
+  - uid: '56791'
+    type: a.k.a.
+    category: strong
+    last_name: JSC SEVERNOYE PRODUCTION OBYEDINENIYE ARKTIKA
+  - uid: '56792'
+    type: a.k.a.
+    category: strong
+    last_name: JSC SPO ARKTIKA
+address_list:
+  items:
+  - uid: '54202'
+    address1: Archangelskoye Shosse, 34
+    city: Severodvinsk
+    state_or_province: Arkhangelsk Region
+    postal_code: '164500'
+    country: Russia
+id_list:
+  items:
+  - uid: '25437'
+    id_type: Tax ID No.
+    id_number: '2902057930'
+    id_country: Russia
+  - uid: '173344'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '149417'
+    id_type: Organization Established Date
+    id_number: 25 Jan 2008
+remarks: "(Linked To: JOINT STOCK COMPANY UNITED SHIPBUILDING CORPORATION)"

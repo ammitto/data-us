@@ -1,0 +1,45 @@
+---
+uid: '20200'
+last_name: FEDERAL SUE SHIPYARD 'MORYE'
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13685
+aka_list:
+  items:
+  - uid: '31816'
+    type: a.k.a.
+    category: strong
+    last_name: FSUE SZ 'MORYE'
+  - uid: '31817'
+    type: a.k.a.
+    category: strong
+    last_name: FEDERAL STATE UNITARY ENTERPRISE SZ MORYE
+  - uid: '31820'
+    type: a.k.a.
+    category: strong
+    last_name: MORYE SHIPYARD
+  - uid: '31821'
+    type: a.k.a.
+    category: weak
+    last_name: MORE SHIPYARD
+address_list:
+  items:
+  - uid: '30511'
+    address1: 1 Desantnikov Street
+    city: Feodosia
+    state_or_province: Crimea
+    postal_code: '98176'
+    country: Ukraine
+id_list:
+  items:
+  - uid: '120664'
+    id_type: Website
+    id_number: http://moreship.ru/
+  - uid: '120663'
+    id_type: Email Address
+    id_number: office@moreship.ru
+  - uid: '143919'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

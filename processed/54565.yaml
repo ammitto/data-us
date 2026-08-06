@@ -1,0 +1,32 @@
+---
+uid: '54565'
+first_name: Vladimir Vyacheslavovich
+last_name: GAST
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER4
+  - CAATSA - RUSSIA
+address_list:
+  items:
+  - uid: '83318'
+    city: St. Petersburg
+    country: Russia
+id_list:
+  items:
+  - uid: '48255'
+    id_type: Tax ID No.
+    id_number: '860243420832'
+    id_country: Russia
+  - uid: '190838'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+  - uid: '190661'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '90660'
+    date_of_birth: 06 May 1999
+    main_entry: 'true'
+remarks: "(Linked To: AEZA GROUP LLC)"

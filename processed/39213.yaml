@@ -1,0 +1,39 @@
+---
+uid: '39213'
+first_name: Ihor Ihorovych
+last_name: SEMENCHEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '61189'
+    type: a.k.a.
+    category: strong
+    last_name: SEMENCHEV
+    first_name: Igor Igorevich
+address_list:
+  items:
+  - uid: '58404'
+    address1: 2B Krasnoarmeyskaya Street, Antonovka Village
+    city: Kherson
+    state_or_province: Kherson Region
+    country: Ukraine
+id_list:
+  items:
+  - uid: '28452'
+    id_type: Tax ID No.
+    id_number: '2997111978'
+    id_country: Ukraine
+  - uid: '155009'
+    id_type: Gender
+    id_number: Male
+  - uid: '174770'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '55008'
+    date_of_birth: 21 Jan 1982
+    main_entry: 'true'

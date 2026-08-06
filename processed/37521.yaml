@@ -1,0 +1,42 @@
+---
+uid: '37521'
+last_name: LIMITED LIABILITY COMPANY NAUCHNO-PROIZVODSTVENNOYE OBYEDINENIYE RADIOVOLNA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '58805'
+    type: a.k.a.
+    category: strong
+    last_name: NPO RADIOVOLNA
+  - uid: '58806'
+    type: a.k.a.
+    category: strong
+    last_name: LLC RESEARCH AND PRODUCTION ASSOCIATION RADIOVOLNA
+address_list:
+  items:
+  - uid: '56136'
+    address1: Kozhevennaya Liniya
+    address2: 1-3 lit. P.
+    address3: Office 1N
+    city: Saint Petersburg
+    postal_code: '199106'
+    country: Russia
+id_list:
+  items:
+  - uid: '26726'
+    id_type: Tax ID No.
+    id_number: '7838478782'
+    id_country: Russia
+  - uid: '26727'
+    id_type: Registration Number
+    id_number: '1127847413649'
+    id_country: Russia
+  - uid: '152423'
+    id_type: Organization Established Date
+    id_number: 03 Aug 2012
+  - uid: '173429'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

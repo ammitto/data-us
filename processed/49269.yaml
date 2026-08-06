@@ -1,0 +1,44 @@
+---
+uid: '49269'
+last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU MEDSTANDART
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76830'
+    type: a.k.a.
+    category: strong
+    last_name: MEDSTANDART OOO
+address_list:
+  items:
+  - uid: '74209'
+    address1: Sh. Varshavskoe, D. 16, Korpus 2
+    address2: Floor 1, Pom. I, Kom. 3
+    city: Moscow
+    postal_code: '117105'
+    country: Russia
+id_list:
+  items:
+  - uid: '40484'
+    id_type: Business Registration Number
+    id_number: '1157746749632'
+    id_country: Russia
+  - uid: '40485'
+    id_type: Tax ID No.
+    id_number: '7726349563'
+    id_country: Russia
+  - uid: '40486'
+    id_type: Government Gazette Number
+    id_number: '47389778'
+    id_country: Russia
+  - uid: '172264'
+    id_type: Organization Established Date
+    id_number: 14 Aug 2015
+  - uid: '172267'
+    id_type: Website
+    id_number: med-std.ru
+  - uid: '172814'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

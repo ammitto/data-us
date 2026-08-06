@@ -1,0 +1,49 @@
+---
+uid: '10374'
+first_name: Ahmed Watban Ibrahim Hasan
+last_name: AL-TIKRITI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAQ2
+aka_list:
+  items:
+  - uid: '10115'
+    type: a.k.a.
+    category: strong
+    last_name: AL-TIKRITI
+    first_name: Ahmad Watban Ibrahim Hasan
+  - uid: '10116'
+    type: a.k.a.
+    category: strong
+    last_name: MUHAWDAR
+    first_name: "'Imad 'Udi"
+address_list:
+  items:
+  - uid: '14164'
+    address1: Al-Ra'is Building
+    address2: Mina Street
+    city: Tartus
+    state_or_province: Tartus
+    country: Syria
+  - uid: '14165'
+    address1: Jirmanah Neighborhood
+    city: Damascus
+    country: Syria
+  - uid: '14166'
+    address1: Al-Hadda Hotel
+    city: Sana'a
+    country: Yemen
+date_of_birth_list:
+  items:
+  - uid: '5545'
+    date_of_birth: '1975'
+    main_entry: 'true'
+  - uid: '5546'
+    date_of_birth: '1979'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '5548'
+    place_of_birth: Baghdad, Iraq
+    main_entry: 'true'

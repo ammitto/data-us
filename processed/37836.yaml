@@ -1,0 +1,30 @@
+---
+uid: '37836'
+first_name: Alexander Aleksandrovich
+last_name: KOKOREV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '56684'
+    country: Russia
+id_list:
+  items:
+  - uid: '152950'
+    id_type: Gender
+    id_number: Male
+  - uid: '174584'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '52947'
+    date_of_birth: 23 Sep 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '52948'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'

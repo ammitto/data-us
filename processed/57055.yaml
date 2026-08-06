@@ -1,0 +1,45 @@
+---
+uid: '57055'
+first_name: Van Nguyen
+last_name: HOANG
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+address_list:
+  items:
+  - uid: '87316'
+    country: Vietnam
+id_list:
+  items:
+  - uid: '51248'
+    id_type: Passport
+    id_number: C7177903
+    id_country: Vietnam
+    issue_date: 18 Apr 2019
+    expiration_date: 18 Apr 2029
+  - uid: '51249'
+    id_type: National ID No.
+    id_number: '013564395'
+    id_country: Vietnam
+  - uid: '196352'
+    id_type: Gender
+    id_number: Male
+  - uid: '196354'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '196355'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+date_of_birth_list:
+  items:
+  - uid: '96351'
+    date_of_birth: 20 Jul 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '96353'
+    place_of_birth: Nghe An, Vietnam
+    main_entry: 'true'
+remarks: "(Linked To: KIM, Se Un)"

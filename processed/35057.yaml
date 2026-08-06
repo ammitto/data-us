@@ -1,0 +1,34 @@
+---
+uid: '35057'
+last_name: CENTRAL RESERVE POLICE
+sdn_type: Entity
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '55148'
+    type: a.k.a.
+    category: strong
+    last_name: CENTRAL POLICE RESERVE
+  - uid: '55149'
+    type: a.k.a.
+    category: strong
+    last_name: CENTRAL RESERVE FORCES
+  - uid: '55150'
+    type: a.k.a.
+    category: strong
+    last_name: EL ITTIHAD EL MARKAZI
+  - uid: '55151'
+    type: a.k.a.
+    category: strong
+    last_name: ABU TIRA
+address_list:
+  items:
+  - uid: '52625'
+    country: Sudan
+id_list:
+  items:
+  - uid: '148773'
+    id_type: 'Organization Type:'
+    id_number: Public order and safety activities

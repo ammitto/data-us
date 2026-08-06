@@ -1,0 +1,43 @@
+---
+uid: '57872'
+first_name: Shaopei
+last_name: MENG
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+address_list:
+  items:
+  - uid: '88776'
+    city: Xinji
+    state_or_province: Hebei
+    country: China
+id_list:
+  items:
+  - uid: '52375'
+    id_type: National ID No.
+    id_number: '132301198009161610'
+    id_country: China
+  - uid: '52376'
+    id_type: Passport
+    id_number: EF3549228
+    id_country: China
+    expiration_date: 10 Feb 2029
+  - uid: '198563'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '198558'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '98557'
+    date_of_birth: 16 Sep 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '98562'
+    place_of_birth: Shijuazhuang, Hebei, China
+    main_entry: 'true'
+remarks: "(Linked To: MINISTRY OF DEFENSE AND ARMED FORCES LOGISTICS)"

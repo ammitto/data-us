@@ -1,0 +1,37 @@
+---
+uid: '49183'
+last_name: PJSC ROSTOV OPTICAL AND MECHANICAL PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76658'
+    type: a.k.a.
+    category: strong
+    last_name: ROSTOVSKII OPTIKO-MEKHANICHESKII ZAVOD
+  - uid: '76659'
+    type: a.k.a.
+    category: weak
+    last_name: ROMZ
+address_list:
+  items:
+  - uid: '74028'
+    address1: Savinskoe shosse, 36
+    city: Rostov
+    postal_code: '152150'
+    country: Russia
+id_list:
+  items:
+  - uid: '40311'
+    id_type: Registration Number
+    id_number: '1027601066569'
+    id_country: Russia
+  - uid: '40312'
+    id_type: Tax ID No.
+    id_number: '7609000881'
+    id_country: Russia
+  - uid: '172131'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

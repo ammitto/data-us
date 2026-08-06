@@ -1,0 +1,46 @@
+---
+uid: '45698'
+last_name: BALTIYSKAYA PROMISHLENNAYA KOMPANIYA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70591'
+    type: a.k.a.
+    category: strong
+    last_name: AO BALTIISKAYA PROMYSHLENNAYA KOMPANIYA
+address_list:
+  items:
+  - uid: '67935'
+    address1: Malaya Bukharestskaya str.
+    address2: 5, building 2/39
+    city: St. Petersburg
+    postal_code: '192288'
+    country: Russia
+  - uid: '67936'
+    address1: Prospekt Kultury
+    address2: 49A
+    city: St. Petersburg
+    postal_code: '195276'
+    country: Russia
+  - uid: '67937'
+    address1: 3rd Ribatskii lane
+    address2: 3 production
+    city: St. Petersburg
+    postal_code: '192177'
+    country: Russia
+id_list:
+  items:
+  - uid: '35394'
+    id_type: Tax ID No.
+    id_number: '7801200558'
+    id_country: Russia
+  - uid: '35395'
+    id_type: Registration Number
+    id_number: '1037800041773'
+    id_country: Russia
+  - uid: '176004'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

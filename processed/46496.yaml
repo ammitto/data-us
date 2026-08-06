@@ -1,0 +1,46 @@
+---
+uid: '46496'
+first_name: Ricardo
+last_name: ESTEVEZ COLMENARES
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '71772'
+    type: a.k.a.
+    category: strong
+    last_name: SOTO RODRIGUEZ
+    first_name: Bogar
+  - uid: '72414'
+    type: a.k.a.
+    category: weak
+    last_name: LOCO
+  - uid: '72415'
+    type: a.k.a.
+    category: weak
+    last_name: TIO
+address_list:
+  items:
+  - uid: '69176'
+    country: Mexico
+id_list:
+  items:
+  - uid: '36424'
+    id_type: C.U.R.P.
+    id_number: EECR740914HGRSLC02
+    id_country: Mexico
+  - uid: '167362'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '67360'
+    date_of_birth: 14 Sep 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '67363'
+    place_of_birth: Guerrero, Mexico
+    main_entry: 'true'

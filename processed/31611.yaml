@@ -1,0 +1,35 @@
+---
+uid: '31611'
+last_name: AKTSIONERNOE OBSHCHESTVO AST
+sdn_type: Entity
+program_list:
+  programs:
+  - CAATSA - RUSSIA
+  - CYBER2
+  - RUSSIA-EO14024
+  - NPWMD
+aka_list:
+  items:
+  - uid: '49630'
+    type: a.k.a.
+    category: strong
+    last_name: AST, AO
+address_list:
+  items:
+  - uid: '47622'
+    address1: d. 3k2 str. 4 etazh 5 kom. 55, shosse Kashirskoe
+    city: Moscow
+    postal_code: '115230'
+    country: Russia
+id_list:
+  items:
+  - uid: '21513'
+    id_type: Tax ID No.
+    id_number: '7724244406'
+    id_country: Russia
+  - uid: '153788'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+  - uid: '173958'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

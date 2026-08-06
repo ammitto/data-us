@@ -1,0 +1,40 @@
+---
+uid: '40783'
+last_name: LIMITED LIABILITY COMPANY VELES TRUST
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63424'
+    type: a.k.a.
+    category: strong
+    last_name: VELES TRUST LLC
+  - uid: '63425'
+    type: a.k.a.
+    category: strong
+    last_name: VELES TRAST OOO
+address_list:
+  items:
+  - uid: '60784'
+    address1: Per. Khokhlovskii d. 16, str. 1
+    city: Moscow
+    postal_code: '109028'
+    country: Russia
+id_list:
+  items:
+  - uid: '29969'
+    id_type: Tax ID No.
+    id_number: '7703603950'
+    id_country: Russia
+  - uid: '29970'
+    id_type: Registration Number
+    id_number: '5067746107391'
+    id_country: Russia
+  - uid: '158280'
+    id_type: Organization Established Date
+    id_number: 14 Aug 2006
+  - uid: '174139'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

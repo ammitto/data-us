@@ -1,0 +1,80 @@
+---
+uid: '34993'
+first_name: Christopher Vincent
+last_name: KINAHAN JUNIOR
+sdn_type: Individual
+program_list:
+  programs:
+  - TCO
+aka_list:
+  items:
+  - uid: '55000'
+    type: a.k.a.
+    category: weak
+    last_name: CHRISTY JNR.
+address_list:
+  items:
+  - uid: '52504'
+    address1: 1404 Iris Blue Building
+    address2: Dubai Marina
+    address3: P.O. Box 11850
+    city: Dubai
+    country: United Arab Emirates
+  - uid: '52505'
+    address1: Calle Edificio El Noray
+    address2: 2 Piso 1 B
+    city: Marbella
+    country: Spain
+  - uid: '52506'
+    address1: Urbanizacion Acosta Los Flamingos Golf
+    address2: Bloque 82 D
+    address3: Benahavis
+    city: Marbella
+    country: Spain
+id_list:
+  items:
+  - uid: '24656'
+    id_type: Passport
+    id_number: PW2418905
+    id_country: Ireland
+  - uid: '24657'
+    id_type: Passport
+    id_number: PT0298836
+    id_country: Ireland
+  - uid: '24658'
+    id_type: Passport
+    id_number: PN8384153
+    id_country: Ireland
+  - uid: '24659'
+    id_type: Passport
+    id_number: '512964060'
+    id_country: United Kingdom
+  - uid: '24660'
+    id_type: Identification Number
+    id_number: '784198027625874'
+    id_country: United Arab Emirates
+  - uid: '24661'
+    id_type: Identification Number
+    id_number: '166622091'
+    id_country: United Arab Emirates
+  - uid: '24662'
+    id_type: Identification Number
+    id_number: '077449510'
+    id_country: United Arab Emirates
+  - uid: '146573'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '46570'
+    date_of_birth: 24 Sep 1980
+    main_entry: 'true'
+  - uid: '46571'
+    date_of_birth: 30 May 1981
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '46572'
+    place_of_birth: Dublin, Ireland
+    main_entry: 'true'
+remarks: "(Linked To: KINAHAN ORGANIZED CRIME GROUP)"

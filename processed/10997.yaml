@@ -1,0 +1,30 @@
+---
+uid: '10997'
+last_name: FLETES Y TRANSPORTES GAXGAR S.A. DE C.V.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '15924'
+    address1: Boulevard Luis Encinas No 581-B Esquina Alberto Truqui, Colonia Pimentel
+    city: Hermosillo
+    state_or_province: Sonora
+    country: Mexico
+  - uid: '15925'
+    city: Guadalajara
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '15926'
+    address1: Alberto Truqui 581, Col. Pimentel, CP 83188, Hermosillo, Sonora, Mexico
+    city: Hermosillo
+    state_or_province: Sonora
+    postal_code: '83188'
+    country: Mexico
+id_list:
+  items:
+  - uid: '5471'
+    id_type: R.F.C.
+    id_number: FTG950807F20
+    id_country: Mexico

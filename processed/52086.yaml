@@ -1,0 +1,31 @@
+---
+uid: '52086'
+first_name: Rahul
+last_name: SOOD
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+address_list:
+  items:
+  - uid: '79450'
+    address1: House No 6 20 Loiyangalani Drive
+    address2: Lavington
+    city: Nairobi
+    postal_code: '00500'
+    country: Kenya
+id_list:
+  items:
+  - uid: '44931'
+    id_type: Passport
+    id_number: Z6726968
+    expiration_date: 15 Aug 2032
+  - uid: '182934'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '82933'
+    date_of_birth: 13 Aug 1978
+    main_entry: 'true'
+remarks: "(Linked To: PATTNI, Kamlesh Mansukhlal Damji)"

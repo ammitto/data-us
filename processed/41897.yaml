@@ -1,0 +1,46 @@
+---
+uid: '41897'
+first_name: Joaquin
+last_name: GUZMAN LOPEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '65128'
+    type: a.k.a.
+    category: weak
+    last_name: El Guero
+  - uid: '65129'
+    type: a.k.a.
+    category: weak
+    last_name: Guero Moreno
+  - uid: '65130'
+    type: a.k.a.
+    category: weak
+    last_name: Moreno
+address_list:
+  items:
+  - uid: '62507'
+    state_or_province: Sinaloa
+    country: Mexico
+id_list:
+  items:
+  - uid: '31278'
+    id_type: C.U.R.P.
+    id_number: GULJ860716HSRZPQ01
+    id_country: Mexico
+  - uid: '160131'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '60128'
+    date_of_birth: 16 Jul 1986
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '60129'
+    place_of_birth: Sonora, Mexico
+    main_entry: 'true'

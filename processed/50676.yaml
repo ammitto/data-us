@@ -1,0 +1,30 @@
+---
+uid: '50676'
+last_name: EP-MEH
+sdn_type: Aircraft
+program_list:
+  programs:
+  - SDGT
+  - IFSR
+id_list:
+  items:
+  - uid: '194840'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '179130'
+    id_type: Aircraft Manufacture Date
+    id_number: '1992'
+  - uid: '179132'
+    id_type: Aircraft Model
+    id_number: Fokker 50
+  - uid: '179133'
+    id_type: Aircraft Operator
+    id_number: MAHAN AIR
+  - uid: '179131'
+    id_type: Aircraft Manufacturer's Serial Number (MSN)
+    id_number: '20263'
+  - uid: '194841'
+    id_type: Aircraft Tail Number
+    id_number: EP-MEH
+remarks: "(Linked To: MAHAN AIR)"

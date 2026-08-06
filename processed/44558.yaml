@@ -1,0 +1,45 @@
+---
+uid: '44558'
+first_name: Apollinaire
+last_name: HAKIZIMANA
+sdn_type: Individual
+program_list:
+  programs:
+  - DRCONGO
+aka_list:
+  items:
+  - uid: '68851'
+    type: a.k.a.
+    category: weak
+    last_name: POETE
+  - uid: '68852'
+    type: a.k.a.
+    category: strong
+    last_name: LEPIC
+    first_name: Amikwe
+address_list:
+  items:
+  - uid: '66447'
+    city: Rutshuru
+    state_or_province: North Kivu
+    country: Congo, Democratic Republic of the
+id_list:
+  items:
+  - uid: '164742'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '64741'
+    date_of_birth: '1964'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '64744'
+    place_of_birth: Rugogwe Cell, Mwiyanike Sector, Karago Commune, Gisenyi Prefecture,
+      Rwanda
+    main_entry: 'true'
+  - uid: '64745'
+    place_of_birth: Rubavu District, Western Province, Rwanda
+    main_entry: 'false'
+remarks: "(Linked To: FORCES DEMOCRATIQUES DE LIBERATION DU RWANDA)"

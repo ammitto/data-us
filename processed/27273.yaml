@@ -1,0 +1,74 @@
+---
+uid: '27273'
+first_name: Ali
+last_name: QASIR
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '43204'
+    type: a.k.a.
+    category: strong
+    last_name: QASIR
+    first_name: "'Ali"
+  - uid: '43205'
+    type: a.k.a.
+    category: strong
+    last_name: KASSIR
+    first_name: Ali
+  - uid: '43206'
+    type: a.k.a.
+    category: strong
+    last_name: GHASSIR
+    first_name: Ali
+  - uid: '43207'
+    type: a.k.a.
+    category: strong
+    last_name: GHASIR
+    first_name: Ali
+  - uid: '52269'
+    type: a.k.a.
+    category: strong
+    last_name: GHASEMI
+    first_name: Naser
+address_list:
+  items:
+  - uid: '41476'
+    country: Iran
+id_list:
+  items:
+  - uid: '17888'
+    id_type: Passport
+    id_number: RL 3367620
+    id_country: Lebanon
+    expiration_date: 28 Aug 2020
+  - uid: '186943'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '134754'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '143141'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
+      Sanctions Regulations
+  - uid: '132319'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '32316'
+    date_of_birth: 29 Jul 1992
+    main_entry: 'true'
+  - uid: '43140'
+    date_of_birth: 29 Jul 1990
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '32317'
+    place_of_birth: Deir Kanoun El Nahr, Lebanon
+    main_entry: 'true'
+remarks: "(Linked To: QASEMI, Rostam; Linked To: HIZBALLAH)"

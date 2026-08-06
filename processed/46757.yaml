@@ -1,0 +1,50 @@
+---
+uid: '46757'
+last_name: JOINT STOCK COMPANY TETIS PRO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '72195'
+    type: a.k.a.
+    category: strong
+    last_name: AKTCIONERNOE OBSHESTVO TETIS PRO
+  - uid: '72196'
+    type: a.k.a.
+    category: strong
+    last_name: TETHYS PRO JSC
+address_list:
+  items:
+  - uid: '69679'
+    address1: Ul. Polyany D.54
+    address2: Floor 3
+    address3: PO Box 73
+    city: Moscow
+    postal_code: '117042'
+    country: Russia
+  - uid: '69917'
+    address1: Polyany St., Building 54
+    address2: Building 1
+    city: Moscow
+    postal_code: '142791'
+    country: Russia
+  - uid: '69918'
+    address1: 19-21 Novo-Rybinskaya St., Office 330
+    city: Saint Petersburg
+    postal_code: '196084'
+    country: Russia
+id_list:
+  items:
+  - uid: '36833'
+    id_type: Tax ID No.
+    id_number: '7724643714'
+    id_country: Russia
+  - uid: '36834'
+    id_type: Registration Number
+    id_number: '1077763809353'
+    id_country: Russia
+  - uid: '176288'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,31 @@
+---
+uid: '28930'
+first_name: Joaquin
+last_name: LEAL JIMENEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA-EO13850
+address_list:
+  items:
+  - uid: '44019'
+    country: Mexico
+id_list:
+  items:
+  - uid: '19249'
+    id_type: C.U.R.P.
+    id_number: LEJJ920717HGTLMQ01
+    id_country: Mexico
+  - uid: '135816'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '35500'
+    date_of_birth: 17 Jul 1992
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '35502'
+    place_of_birth: Guanajuato, Mexico
+    main_entry: 'true'

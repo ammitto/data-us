@@ -1,0 +1,35 @@
+---
+uid: '50350'
+last_name: LIMITED LIABILITY COMPANY YAKUTSKAYA RUDNAYA KOMPANIYA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78690'
+    type: a.k.a.
+    category: weak
+    last_name: LLC YARK
+  - uid: '78705'
+    type: a.k.a.
+    category: strong
+    last_name: LLC YAKUT ORE COMPANY
+address_list:
+  items:
+  - uid: '76322'
+    city: Neryungri
+    country: Russia
+id_list:
+  items:
+  - uid: '42098'
+    id_type: Registration Number
+    id_number: '1211400013582'
+    id_country: Russia
+  - uid: '42099'
+    id_type: Tax ID No.
+    id_number: '1400003086'
+    id_country: Russia
+  - uid: '178326'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

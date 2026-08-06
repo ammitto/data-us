@@ -1,0 +1,32 @@
+---
+uid: '53099'
+last_name: AREN SHIP MANAGEMENT
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '83029'
+    type: a.k.a.
+    category: strong
+    last_name: M/S AREN SHIP MANAGEMENT
+address_list:
+  items:
+  - uid: '81059'
+    address1: BH Tower, 36A, Road No 7, Ranavola
+    city: Dhaka
+    postal_code: '1230'
+    country: Bangladesh
+id_list:
+  items:
+  - uid: '46193'
+    id_type: Identification Number
+    id_number: IMO 6088476
+  - uid: '46194'
+    id_type: Business Registration Number
+    id_number: P-43221
+    id_country: Bangladesh
+  - uid: '185418'
+    id_type: Organization Established Date
+    id_number: '2019'

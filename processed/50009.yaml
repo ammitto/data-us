@@ -1,0 +1,33 @@
+---
+uid: '50009'
+last_name: SCIENTIFIC AND PRODUCTION ASSOCIATION STATE INSTITUTE OF APPLIED OPTICS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77959'
+    type: a.k.a.
+    category: strong
+    last_name: AO NPO GIPO
+address_list:
+  items:
+  - uid: '75663'
+    address1: Ul. Lipatova D. 2
+    city: Kazan
+    postal_code: '420075'
+    country: Russia
+id_list:
+  items:
+  - uid: '41555'
+    id_type: Registration Number
+    id_number: '1101690067104'
+    id_country: Russia
+  - uid: '41556'
+    id_type: Tax ID No.
+    id_number: '1660147185'
+    id_country: Russia
+  - uid: '178170'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

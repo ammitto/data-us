@@ -1,0 +1,34 @@
+---
+uid: '47904'
+first_name: Vladislav Yevgenyevich
+last_name: LOBAEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '71722'
+    country: Russia
+id_list:
+  items:
+  - uid: '38690'
+    id_type: Tax ID No.
+    id_number: '402911672932'
+    id_country: Russia
+  - uid: '169442'
+    id_type: Gender
+    id_number: Male
+  - uid: '169620'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '69439'
+    date_of_birth: 04 Apr 1972
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '69440'
+    place_of_birth: Rostov-On-Don, Russia
+    main_entry: 'true'

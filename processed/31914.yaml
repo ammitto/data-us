@@ -1,0 +1,75 @@
+---
+uid: '31914'
+last_name: SAMARA HEAT AND ENERGY PROPERTY FUND
+sdn_type: Entity
+program_list:
+  programs:
+  - PEESA-EO14039
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '49969'
+    type: a.k.a.
+    category: weak
+    last_name: STIF JSC
+  - uid: '49970'
+    type: a.k.a.
+    category: weak
+    last_name: STIF, AO
+  - uid: '49972'
+    type: a.k.a.
+    category: strong
+    last_name: SAMARA THERMAL POWER FDN JSC
+  - uid: '49973'
+    type: a.k.a.
+    category: strong
+    last_name: SAMARSKIY TEPLOENERGETICHESKIY IMUSHCHESTVENNIY FOND
+  - uid: '49974'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY SAMARA THERMAL POWER FOUNDATION
+  - uid: '50134'
+    type: a.k.a.
+    category: strong
+    last_name: SAMARA HEAT AND POWER PROPERTY FUND
+address_list:
+  items:
+  - uid: '47989'
+    address1: Corp 6 A, Unit 2H, 1st Floor
+    address2: Unit 95
+    address3: prospekt Bolshoy Sampsoniyevskiy 60
+    city: St Petersburg
+    postal_code: '194044'
+    country: Russia
+  - uid: '47990'
+    address1: Stepana Razina Street, 89, 2, 2
+    city: Samara
+    state_or_province: Samara Region
+    postal_code: '443099'
+    country: Russia
+  - uid: '48101'
+    address1: d. 60 korp. 6 litera A pom. 2N
+    address2: 1 etazh chast pom. 95
+    address3: prospekt Bolshoi Sampsonievski
+    city: St. Petersburg
+    postal_code: '194044'
+    country: Russia
+id_list:
+  items:
+  - uid: '21714'
+    id_type: Business Registration Number
+    id_number: '1066317027787'
+    id_country: Russia
+  - uid: '21715'
+    id_type: Tax ID No.
+    id_number: '6317063064'
+    id_country: Russia
+  - uid: '21753'
+    id_type: Identification Number
+    id_number: IMO 6188586
+  - uid: '183221'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '140619'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

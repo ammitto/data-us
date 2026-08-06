@@ -1,0 +1,31 @@
+---
+uid: '49767'
+first_name: Gerardo
+last_name: ALVARADO CASTILLO
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '75189'
+    country: Mexico
+id_list:
+  items:
+  - uid: '41227'
+    id_type: C.U.R.P.
+    id_number: AACG880706HVZLSR00
+    id_country: Mexico
+  - uid: '177104'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '77106'
+    date_of_birth: 06 Jul 1988
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '77105'
+    place_of_birth: Veracruz, Mexico
+    main_entry: 'true'

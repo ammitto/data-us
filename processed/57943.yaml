@@ -1,0 +1,36 @@
+---
+uid: '57943'
+first_name: Ali Asghar
+last_name: KHANDAN
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '88904'
+    city: Shiraz
+    country: Iran
+id_list:
+  items:
+  - uid: '52506'
+    id_type: National ID No.
+    id_number: '2529610525'
+    id_country: Iran
+  - uid: '198877'
+    id_type: Gender
+    id_number: Male
+  - uid: '198913'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '98878'
+    date_of_birth: '08 Aug 1958'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '98880'
+    place_of_birth: Estahban, Iran
+    main_entry: 'true'
+remarks: "(Linked To: MOHSEN KHANDAN AND PARTNERS GENERAL PARTNERSHIP COMPANY)"

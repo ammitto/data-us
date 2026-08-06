@@ -1,0 +1,32 @@
+---
+uid: '43228'
+last_name: LIMITED LIABILITY COMPANY VOSKHOD DIGITAL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '64492'
+    address1: 12 Presnenskaya Embankment, Floor 67
+    address2: Office 8.1
+    address3: Presnenskiy Municipal District
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '32776'
+    id_type: Tax ID No.
+    id_number: '9703105878'
+    id_country: Russia
+  - uid: '32777'
+    id_type: Registration Number
+    id_number: '1227700539857'
+    id_country: Russia
+  - uid: '162354'
+    id_type: Organization Established Date
+    id_number: 01 Sep 2022
+  - uid: '175646'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: SARKISOV, Ruslan Eduardovich)"

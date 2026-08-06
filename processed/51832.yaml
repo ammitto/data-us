@@ -1,0 +1,45 @@
+---
+uid: '51832'
+last_name: JOINT STOCK COMPANY PUBLIC TRUST BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '81159'
+    type: a.k.a.
+    category: strong
+    last_name: JSC NDBANK
+address_list:
+  items:
+  - uid: '78988'
+    address1: St. Dubininskaya, 57, Building 1
+    state_or_province: Moscow
+    postal_code: '115054'
+    country: Russia
+id_list:
+  items:
+  - uid: '44514'
+    id_type: Legal Entity Number
+    id_number: 253400B8Y0FNJP628S19
+  - uid: '44515'
+    id_type: Registration Number
+    id_number: '1027739461694'
+    id_country: Russia
+  - uid: '44516'
+    id_type: Tax ID No.
+    id_number: '7708018456'
+    id_country: Russia
+  - uid: '182163'
+    id_type: SWIFT/BIC
+    id_number: NADORUMM
+  - uid: '182164'
+    id_type: Website
+    id_number: www.ndb24.ru
+  - uid: '182166'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '182165'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

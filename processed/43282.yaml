@@ -1,0 +1,45 @@
+---
+uid: '43282'
+last_name: URALS PLANT OF TRANSPORTATION MACHINERY JOINT STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '67111'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO URALSKIY ZAVOD TRANSPORTNOGO MASHINOSTROENIYA
+  - uid: '67112'
+    type: a.k.a.
+    category: strong
+    last_name: JSC URALTRANSMASH
+  - uid: '67113'
+    type: a.k.a.
+    category: strong
+    last_name: THE URALS PLANT OF TRANSPORT ENGINEERING
+address_list:
+  items:
+  - uid: '64610'
+    address1: 29 Frontovykh Brigad St.
+    city: Ekaterinburg
+    state_or_province: Sverdlovsk Region
+    postal_code: '620017'
+    country: Russia
+id_list:
+  items:
+  - uid: '32860'
+    id_type: Business Registration Number
+    id_number: '1096659005200'
+    id_country: Russia
+  - uid: '32861'
+    id_type: Tax ID No.
+    id_number: '6659190900'
+    id_country: Russia
+  - uid: '175695'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '162487'
+    id_type: Organization Established Date
+    id_number: 15 May 2009

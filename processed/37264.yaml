@@ -1,0 +1,41 @@
+---
+uid: '37264'
+first_name: Oscar
+last_name: MURILLO MORGAN
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '58402'
+    type: a.k.a.
+    category: weak
+    last_name: Chino
+address_list:
+  items:
+  - uid: '55720'
+    address1: Cerrada Lorenzo de Zavala 147
+    address2: Colonia Miguel Hidalgo
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+id_list:
+  items:
+  - uid: '26551'
+    id_type: C.U.R.P.
+    id_number: MUMO680401HSLRRS05
+    id_country: Mexico
+  - uid: '151768'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '51765'
+    date_of_birth: 01 Apr 1968
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '51766'
+    place_of_birth: Sinaloa, Mexico
+    main_entry: 'true'

@@ -1,0 +1,33 @@
+---
+uid: '50178'
+last_name: LIMITED LIABILITY COMPANY BASEALT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78268'
+    type: a.k.a.
+    category: strong
+    last_name: BASEALT LLC
+address_list:
+  items:
+  - uid: '75949'
+    address1: d. 75,  ofis 307, ul. Butyrskaya
+    city: Moscow
+    postal_code: '127015'
+    country: Russia
+id_list:
+  items:
+  - uid: '41797'
+    id_type: Registration Number
+    id_number: '1157746734837'
+    id_country: Russia
+  - uid: '41798'
+    id_type: Tax ID No.
+    id_number: '7714350892'
+    id_country: Russia
+  - uid: '178084'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

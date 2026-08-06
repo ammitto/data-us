@@ -1,0 +1,33 @@
+---
+uid: '56066'
+first_name: Veronica del Socorro
+last_name: ALCOCER GARCIA
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '85878'
+    city: Bogota
+    country: Colombia
+id_list:
+  items:
+  - uid: '50226'
+    id_type: Cedula No.
+    id_number: '64575315'
+    id_country: Colombia
+  - uid: '194266'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '94268'
+    date_of_birth: 26 May 1976
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '94291'
+    place_of_birth: Sincelejo, Colombia
+    main_entry: 'true'
+remarks: "(Linked To: PETRO URREGO, Gustavo Francisco)"

@@ -1,0 +1,42 @@
+---
+uid: '56039'
+first_name: Chun Pom
+last_name: CHOE
+sdn_type: Individual
+program_list:
+  programs:
+  - DPRK3
+aka_list:
+  items:
+  - uid: '87041'
+    type: a.k.a.
+    category: strong
+    last_name: CH'OE
+    first_name: Ch'un-po'm
+address_list:
+  items:
+  - uid: '85825'
+    city: Beijing
+    country: China
+id_list:
+  items:
+  - uid: '50267'
+    id_type: Passport
+    id_number: '199320353'
+    id_country: Korea, North
+  - uid: '194180'
+    id_type: Gender
+    id_number: Male
+  - uid: '194181'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '194182'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+date_of_birth_list:
+  items:
+  - uid: '94253'
+    date_of_birth: 20 Feb 1975
+    main_entry: 'true'
+remarks: "(Linked To: CENTRAL BANK OF THE DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA)"

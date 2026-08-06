@@ -1,0 +1,33 @@
+---
+uid: '50911'
+last_name: BASTION EK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79754'
+    type: a.k.a.
+    category: strong
+    last_name: BASTION EC LIMITED LIABILITY COMPANY
+address_list:
+  items:
+  - uid: '77315'
+    address1: Ul. Krylenko D. 26, Lit. A, Pomeshch. 5-N
+    city: Saint Petersburg
+    postal_code: '193232'
+    country: Russia
+id_list:
+  items:
+  - uid: '42909'
+    id_type: Registration Number
+    id_number: '1167847441706'
+    id_country: Russia
+  - uid: '42910'
+    id_type: Tax ID No.
+    id_number: '7810627000'
+    id_country: Russia
+  - uid: '179703'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

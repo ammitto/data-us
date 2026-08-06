@@ -1,0 +1,33 @@
+---
+uid: '50393'
+last_name: JOINT STOCK COMPANY EXMASH
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78765'
+    type: a.k.a.
+    category: strong
+    last_name: CJSC EKSMASH
+address_list:
+  items:
+  - uid: '76395'
+    address1: Pomeshtenie 6, Etazh 2, Dom 54, Ulitsa Uchitelskaya
+    city: Tver
+    postal_code: '170001'
+    country: Russia
+id_list:
+  items:
+  - uid: '42157'
+    id_type: Tax ID No.
+    id_number: '6901090201'
+    id_country: Russia
+  - uid: '42158'
+    id_type: Registration Number
+    id_number: '1056900164188'
+    id_country: Russia
+  - uid: '178365'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

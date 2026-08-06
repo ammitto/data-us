@@ -1,0 +1,57 @@
+---
+uid: '11492'
+first_name: Sa'ad Uwayyid 'Ubayd Mu'jil
+last_name: AL-SHAMMARI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '12155'
+    type: a.k.a.
+    category: weak
+    last_name: ABU KHALAF
+  - uid: '12156'
+    type: a.k.a.
+    category: weak
+    last_name: SAAD OWAIED OBAID
+  - uid: '12157'
+    type: a.k.a.
+    category: strong
+    last_name: SA'AD AL-SHAMMARI
+  - uid: '12158'
+    type: a.k.a.
+    category: strong
+    last_name: ABU HAMMUDI AL-SHAMMARI
+address_list:
+  items:
+  - uid: '17109'
+    city: Tal Hamis
+    country: Syria
+  - uid: '17110'
+    city: "'Awinat Village"
+    state_or_province: Rabi'ah District
+    country: Iraq
+  - uid: '17111'
+    city: Tal Wardan
+    country: Iraq
+id_list:
+  items:
+  - uid: '185945'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '6895'
+    date_of_birth: 03 Jul 1972
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '6896'
+    place_of_birth: Tal Wardan, Ninevah, Iraq
+    main_entry: 'true'
+  - uid: '6897'
+    place_of_birth: Tal Afar, Ninevah, Iraq
+    main_entry: 'false'

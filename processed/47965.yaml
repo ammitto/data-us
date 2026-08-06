@@ -1,0 +1,34 @@
+---
+uid: '47965'
+first_name: Andrey Ilyich
+last_name: KOMAROV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '71846'
+    country: Russia
+id_list:
+  items:
+  - uid: '38797'
+    id_type: Tax ID No.
+    id_number: '773606418645'
+    id_country: Russia
+  - uid: '169487'
+    id_type: Gender
+    id_number: Male
+  - uid: '169611'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '69486'
+    date_of_birth: 11 Oct 1966
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '69488'
+    place_of_birth: Chelyabinsk, Russia
+    main_entry: 'true'

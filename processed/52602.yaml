@@ -1,0 +1,52 @@
+---
+uid: '52602'
+last_name: CENTRAL RESEARCH INSTITUTE FOR SPECIAL MACHINERY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '82342'
+    type: a.k.a.
+    category: weak
+    last_name: CRISM JSC
+  - uid: '82343'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO TSENTRALNYI NAUCHNO ISSLEDOVATELSKII INSTITUT
+      SPETSIALNOGO MASHINOSTROENIIA
+  - uid: '82344'
+    type: a.k.a.
+    category: weak
+    last_name: AO TSNIISM
+  - uid: '82345'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO TSENTRALNYJ NAUCHNO LSSLEDOVATELSKIJ LNSTITUT
+      SPETSIALNOGO MASH
+  - uid: '82347'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY CENTRAL SCIENTIFIC RESEARCH INSTITUTE FOR SPECIAL
+      MACHINE BUILDING
+address_list:
+  items:
+  - uid: '80353'
+    address1: 34 Zavodskaya St.
+    city: Khotkovo
+    postal_code: '141371'
+    country: Russia
+id_list:
+  items:
+  - uid: '45646'
+    id_type: Registration Number
+    id_number: '1025005330646'
+    id_country: Russia
+  - uid: '45647'
+    id_type: Tax ID No.
+    id_number: '5042003203'
+    id_country: Russia
+  - uid: '184354'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

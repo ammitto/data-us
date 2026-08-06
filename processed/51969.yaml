@@ -1,0 +1,37 @@
+---
+uid: '51969'
+last_name: GAZPROM SPG PORTOVAYA LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '81348'
+    type: a.k.a.
+    category: strong
+    last_name: GAZPROM LNG PORTOVAYA LLC
+  - uid: '81349'
+    type: a.k.a.
+    category: strong
+    last_name: LLC GAZPROM SPG PORTOVAIA
+address_list:
+  items:
+  - uid: '79216'
+    address1: d. 20-22 litera A, ul. Galernaya
+    city: Saint Petersburg
+    postal_code: '190000'
+    country: Russia
+id_list:
+  items:
+  - uid: '44747'
+    id_type: Registration Number
+    id_number: '1027700311760'
+    id_country: Russia
+  - uid: '44748'
+    id_type: Tax ID No.
+    id_number: '7728173890'
+    id_country: Russia
+  - uid: '182611'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,58 @@
+---
+uid: '55293'
+first_name: Ibrahim Mohsen
+last_name: AL-SUWAIDI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '86066'
+    type: a.k.a.
+    category: strong
+    last_name: AL SOWAIDI
+    first_name: Ebrahim Mohsen Ali
+  - uid: '86067'
+    type: a.k.a.
+    category: strong
+    last_name: AL SWAIDI
+    first_name: Ibrahim
+  - uid: '86068'
+    type: a.k.a.
+    category: strong
+    last_name: AL-NAJJAR
+    first_name: Ibrahim Mohsen Ali
+address_list:
+  items:
+  - uid: '84559'
+    city: Sana'a
+    country: Yemen
+id_list:
+  items:
+  - uid: '49300'
+    id_type: Passport
+    id_number: '04331802'
+    id_country: Yemen
+    expiration_date: 03 Apr 2017
+  - uid: '192562'
+    id_type: Gender
+    id_number: Male
+  - uid: '192563'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '92559'
+    date_of_birth: 01 Jan 1979
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '92560'
+    place_of_birth: Ibb, Yemen
+    main_entry: 'true'
+  - uid: '92561'
+    place_of_birth: Ab-Al-Nadirah, Yemen
+    main_entry: 'false'
+remarks: "(Linked To: ANSARALLAH)"

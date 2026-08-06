@@ -1,0 +1,46 @@
+---
+uid: '55291'
+last_name: ABZAR-E DAGHIGH-E TAHA COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '86059'
+    type: a.k.a.
+    category: strong
+    last_name: TAHA PRECISION TOOLS COMPANY
+  - uid: '86060'
+    type: a.k.a.
+    category: strong
+    last_name: ABZAR DAGHIGH TAHA
+address_list:
+  items:
+  - uid: '84554'
+    address1: No. 1, Cho'gan Street, Unit 2, Ground Floor
+    address2: Shahid Fahmideh Highway (Tehran-Karaj Highway), Farhangian-Azadi Town
+      (Ansar Town)
+    address3: Central District, Tehran County
+    city: Tehran
+    state_or_province: Tehran
+    postal_code: '1398910003'
+    country: Iran
+id_list:
+  items:
+  - uid: '49298'
+    id_type: National ID No.
+    id_number: '14003933075'
+    id_country: Iran
+  - uid: '49299'
+    id_type: Registration Number
+    id_number: '451094'
+    id_country: Iran
+  - uid: '192551'
+    id_type: Organization Established Date
+    id_number: 05 Mar 2014
+  - uid: '192626'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: SHAHID BAKERI INDUSTRIAL GROUP)"

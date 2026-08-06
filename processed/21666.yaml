@@ -1,0 +1,43 @@
+---
+uid: '21666'
+last_name: COMERCIALIZADORA TRADE CLEAR, S.A. DE C.V.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '34376'
+    type: a.k.a.
+    category: strong
+    last_name: BAKE AND KITCHEN
+address_list:
+  items:
+  - uid: '32975'
+    address1: Av. Naciones Unidas 6875
+    city: Zapopan
+    state_or_province: Jalisco
+    postal_code: '45017'
+    country: Mexico
+  - uid: '32976'
+    address1: Patria No. 1347-1
+    address2: Col. Mirador del Sol
+    city: Zapopan
+    state_or_province: Jalisco
+    postal_code: CP 45054
+    country: Mexico
+  - uid: '42838'
+    address1: Av. Lopez Mateos Nte 1133
+    address2: Plaza Midtown
+    city: Guadalajara
+    state_or_province: Jalisco
+    country: Mexico
+id_list:
+  items:
+  - uid: '13677'
+    id_type: R.F.C.
+    id_number: CTC140807HHA
+    id_country: Mexico
+  - uid: '124191'
+    id_type: Website
+    id_number: www.bakeandkitchen.com

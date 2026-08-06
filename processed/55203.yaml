@@ -1,0 +1,30 @@
+---
+uid: '55203'
+last_name: SHAHID HEMMAT SPACE GROUP
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '85926'
+    type: a.k.a.
+    category: weak
+    last_name: SHSG
+address_list:
+  items:
+  - uid: '84434'
+    country: Iran
+id_list:
+  items:
+  - uid: '192388'
+    id_type: 'Organization Type:'
+    id_number: Defense activities
+  - uid: '192387'
+    id_type: Target Type
+    id_number: Government Entity
+  - uid: '192634'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: AEROSPACE INDUSTRIES ORGANIZATION)"

@@ -1,0 +1,40 @@
+---
+uid: '42733'
+last_name: MASHOIL LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '66244'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU MASHOIL
+address_list:
+  items:
+  - uid: '63752'
+    address1: d. 5 str. 1 pom. 1 kom. 1, per. Pyzhevski Moscow
+    city: Moscow
+    postal_code: '119017'
+    country: Russia
+id_list:
+  items:
+  - uid: '32292'
+    id_type: Registration Number
+    id_number: '1093336001857'
+    id_country: Russia
+  - uid: '32295'
+    id_type: Tax ID No.
+    id_number: '3315095756'
+    id_country: Russia
+  - uid: '32297'
+    id_type: Government Gazette Number
+    id_number: '63460412'
+    id_country: Russia
+  - uid: '175460'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '161538'
+    id_type: Organization Established Date
+    id_number: 25 Dec 2009

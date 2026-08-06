@@ -1,0 +1,42 @@
+---
+uid: '12060'
+first_name: Ahmad
+last_name: VAHIDI
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+  - IRAN-HR
+aka_list:
+  items:
+  - uid: '61513'
+    type: a.k.a.
+    category: strong
+    last_name: CHERAGHI
+    first_name: Ahmad Shah
+address_list:
+  items:
+  - uid: '18368'
+    address1: c/o MODAFL
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '113955'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '155520'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '7810'
+    date_of_birth: 27 Jun 1958
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '7811'
+    place_of_birth: Shiraz, Iran
+    main_entry: 'true'
+title: Brigadier General

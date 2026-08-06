@@ -1,0 +1,28 @@
+---
+uid: '50916'
+last_name: ENERGON
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '77329'
+    address1: Pr-kt Udelnyi D. 5, Lit. A
+    address2: Pomeshch. 21-N Office 1
+    city: Saint Petersburg
+    postal_code: '194017'
+    country: Russia
+id_list:
+  items:
+  - uid: '42923'
+    id_type: Registration Number
+    id_number: '1177847011759'
+    id_country: Russia
+  - uid: '42924'
+    id_type: Tax ID No.
+    id_number: '7802608879'
+    id_country: Russia
+  - uid: '179708'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

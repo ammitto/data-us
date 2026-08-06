@@ -1,0 +1,42 @@
+---
+uid: '36043'
+first_name: Abdulaziz
+last_name: KASKARIY
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '56759'
+    type: a.k.a.
+    category: strong
+    last_name: CASCARI
+    first_name: Abdulaziz
+address_list:
+  items:
+  - uid: '54174'
+    address1: Street 11/5, Number 4, Apartment 9
+    city: Istanbul
+    state_or_province: Zeytinburnu District
+    postal_code: '34025'
+    country: Turkey
+  - uid: '54178'
+    address1: 2nd Floor, 32 Itaewon-ro 14-gil, Itaewon 1-dong, Yongsan-gu
+    city: Seoul
+    country: Korea, South
+id_list:
+  items:
+  - uid: '149402'
+    id_type: Gender
+    id_number: Male
+  - uid: '149410'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '49400'
+    date_of_birth: '09 Jun 1991'
+    main_entry: 'true'
+remarks: "(Linked To: TURKOCA IMPORT EXPORT TRANSIT CO., LTD.)"

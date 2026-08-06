@@ -1,0 +1,44 @@
+---
+uid: '26832'
+last_name: NPC ALLIANCE CORPORATION
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+aka_list:
+  items:
+  - uid: '42374'
+    type: a.k.a.
+    category: strong
+    last_name: NPC ALLIANCE PETROCHEMICAL CO
+address_list:
+  items:
+  - uid: '40716'
+    address1: 44th Floor Pbcom Tower Ayala Avenue
+    city: Makati
+    postal_code: '1226'
+    country: Philippines
+  - uid: '40717'
+    address1: 19th Floor Antel 2000 Corporate Center, 121 Valero St, Salcedo Village
+    city: Makati City
+    postal_code: '1226'
+    country: Philippines
+  - uid: '40718'
+    address1: PAFC Industrial Park, Barangay Batangas II
+    city: Mariveles
+    state_or_province: Bataan
+    postal_code: '2105'
+    country: Philippines
+id_list:
+  items:
+  - uid: '131607'
+    id_type: Website
+    id_number: www.pnoc-afc.com.ph
+  - uid: '131608'
+    id_type: Website
+    id_number: www.npcac.com.ph
+  - uid: '131606'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: PERSIAN GULF PETROCHEMICAL INDUSTRY CO.)"

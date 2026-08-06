@@ -1,0 +1,45 @@
+---
+uid: '36326'
+last_name: PROIZVODSTVENNO-STROITELNAYA KOMPANIYA SNM
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '57182'
+    type: a.k.a.
+    category: weak
+    last_name: PSK SNM
+  - uid: '57542'
+    type: a.k.a.
+    category: weak
+    last_name: SNM OOO
+address_list:
+  items:
+  - uid: '54544'
+    address1: d. 3
+    address2: d. Spas-Teshilovo
+    city: Serpukhov
+    postal_code: '142260'
+    country: Russia
+id_list:
+  items:
+  - uid: '25716'
+    id_type: Registration Number
+    id_number: '1035011800328'
+    id_country: Russia
+  - uid: '25717'
+    id_type: Tax ID No.
+    id_number: '5077014693'
+    id_country: Russia
+  - uid: '150200'
+    id_type: 'Organization Type:'
+    id_number: Real estate activities on a fee or contract basis
+  - uid: '149915'
+    id_type: Organization Established Date
+    id_number: 24 Apr 2002
+  - uid: '173998'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: IMENIE TSARGRAD OOO)"

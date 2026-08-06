@@ -1,0 +1,31 @@
+---
+uid: '50317'
+last_name: LIMITED LIABILITY COMPANY MINT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '76246'
+    address1: Room 7, Suite I, Floor 3, Building 1, 4 Myasnitskiy Drive
+    city: Moscow
+    postal_code: '107078'
+    country: Russia
+id_list:
+  items:
+  - uid: '42030'
+    id_type: Registration Number
+    id_number: '1227700228986'
+    id_country: Russia
+  - uid: '42031'
+    id_type: Tax ID No.
+    id_number: '9701203573'
+    id_country: Russia
+  - uid: '178260'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '178535'
+    id_type: Organization Established Date
+    id_number: 19 Apr 2022
+remarks: "(Linked To: BELOUSOVA, Yevgeniya Alekseyevna)"

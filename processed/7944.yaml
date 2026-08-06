@@ -1,0 +1,78 @@
+---
+uid: '7944'
+first_name: Djamel
+last_name: MOUSTFA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '5904'
+    type: a.k.a.
+    category: strong
+    last_name: KALED
+    first_name: Belkasam
+  - uid: '6693'
+    type: a.k.a.
+    category: weak
+    last_name: ALI BARKANI
+  - uid: '6694'
+    type: a.k.a.
+    category: weak
+    last_name: MOUSTAFA
+  - uid: '49735'
+    type: a.k.a.
+    category: strong
+    last_name: MOSTEFA
+    first_name: Djamel
+  - uid: '49736'
+    type: a.k.a.
+    category: strong
+    last_name: MOSTAFA
+    first_name: Damel
+  - uid: '49737'
+    type: a.k.a.
+    category: strong
+    last_name: MOSTAFA
+    first_name: Djamal
+  - uid: '49738'
+    type: a.k.a.
+    category: strong
+    last_name: KALAD
+    first_name: Belkasam
+address_list:
+  items:
+  - uid: '47766'
+    country: Algeria
+id_list:
+  items:
+  - uid: '185758'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '144156'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '2318'
+    date_of_birth: 28 Sep 1973
+    main_entry: 'true'
+  - uid: '2322'
+    date_of_birth: 31 Dec 1979
+    main_entry: 'false'
+  - uid: '2323'
+    date_of_birth: 22 Aug 1973
+    main_entry: 'false'
+  - uid: '40262'
+    date_of_birth: 25 Sep 1973
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '2319'
+    place_of_birth: Mehdia, Tiaret, Algeria
+    main_entry: 'true'
+  - uid: '2321'
+    place_of_birth: Morocco
+    main_entry: 'false'

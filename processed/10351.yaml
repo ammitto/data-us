@@ -1,0 +1,47 @@
+---
+uid: '10351'
+first_name: Javier
+last_name: TORRES FELIX
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '10091'
+    type: a.k.a.
+    category: strong
+    last_name: FELIX TORRES
+    first_name: Javier
+  - uid: '10092'
+    type: a.k.a.
+    category: strong
+    last_name: TAMAYO TORRES
+    first_name: Horacio
+  - uid: '10093'
+    type: a.k.a.
+    category: weak
+    last_name: EL JT
+  - uid: '10094'
+    type: a.k.a.
+    category: weak
+    last_name: COMPADRE
+address_list:
+  items:
+  - uid: '14113'
+    address1: 'Calle Paseo La Cuesta # 1550'
+    address2: Apt 6
+    address3: Colonia Lomas De Guadalupe
+    city: Culiacan Rosales
+    state_or_province: Sinaloa
+    country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '5527'
+    date_of_birth: 19 Oct 1960
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '5528'
+    place_of_birth: Mexico
+    main_entry: 'true'

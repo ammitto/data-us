@@ -1,0 +1,42 @@
+---
+uid: '37596'
+first_name: Alonso
+last_name: GUERRERO COVARRUBIAS
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '58907'
+    type: a.k.a.
+    category: weak
+    last_name: EL OCHO
+  - uid: '58926'
+    type: a.k.a.
+    category: strong
+    last_name: GUERRERO COVARRUBIAS
+    first_name: Adrian Alonso
+address_list:
+  items:
+  - uid: '56243'
+    country: Mexico
+id_list:
+  items:
+  - uid: '26816'
+    id_type: C.U.R.P.
+    id_number: GUCA901210HMNRVL04
+    id_country: Mexico
+  - uid: '152510'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '52507'
+    date_of_birth: 10 Dec 1990
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '52508'
+    place_of_birth: Michoacan de Ocampo, Mexico
+    main_entry: 'true'

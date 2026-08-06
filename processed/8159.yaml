@@ -1,0 +1,50 @@
+---
+uid: '8159'
+first_name: Luciano
+last_name: MARIN ARANGO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '6733'
+    type: a.k.a.
+    category: weak
+    last_name: MARQUES, Ivan
+  - uid: '6734'
+    type: a.k.a.
+    category: weak
+    last_name: MARQUEZ, Ivan
+address_list:
+  items:
+  - uid: '50944'
+    state_or_province: Apure
+    country: Venezuela
+id_list:
+  items:
+  - uid: '2252'
+    id_type: Cedula No.
+    id_number: '19304877'
+    id_country: Colombia
+  - uid: '185787'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '145050'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '45112'
+    date_of_birth: 16 Jun 1955
+    main_entry: 'false'
+  - uid: '2499'
+    date_of_birth: 06 Jun 1955
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '2500'
+    place_of_birth: Florencia, Caqueta, Colombia
+    main_entry: 'true'
+remarks: "(Linked To: SEGUNDA MARQUETALIA)"

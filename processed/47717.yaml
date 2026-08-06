@@ -1,0 +1,48 @@
+---
+uid: '47717'
+last_name: FEDERAL STATE ENTERPRISE SCIENCE AND TECHNOLOGY ASSOCIATION KAZAN PLANT
+  OF PRECISION ENGINEERING
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '73965'
+    type: a.k.a.
+    category: strong
+    last_name: FKP NPO KZTM
+  - uid: '73966'
+    type: a.k.a.
+    category: strong
+    last_name: NAUCHNO PROIZVODSTVENNOE OBYEDINENIE KAZANSKII ZAVOD TOCHNOGO MASHINOSTROENIYA
+address_list:
+  items:
+  - uid: '71349'
+    address1: 71 Mazita Gafuri Street
+    city: Kazan
+    postal_code: '420108'
+    country: Russia
+  - uid: '71351'
+    address1: 2 Pionerskaya Street
+    city: Chapaevsk
+    postal_code: '446100'
+    country: Russia
+id_list:
+  items:
+  - uid: '38360'
+    id_type: Tax ID No.
+    id_number: '1654001773'
+    id_country: Russia
+  - uid: '38361'
+    id_type: Registration Number
+    id_number: '1021602829115'
+    id_country: Russia
+  - uid: '184323'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '169651'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

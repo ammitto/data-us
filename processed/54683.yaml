@@ -1,0 +1,51 @@
+---
+uid: '54683'
+first_name: Vikrant
+last_name: BHARDWAJ
+sdn_type: Individual
+program_list:
+  programs:
+  - TCO
+address_list:
+  items:
+  - uid: '83514'
+    city: Cancun
+    state_or_province: Quintana Roo
+    country: Mexico
+  - uid: '83518'
+    city: Dubai
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '48386'
+    id_type: Identification Number
+    id_number: '10047735'
+    id_country: India
+  - uid: '48387'
+    id_type: C.U.R.P.
+    id_number: BAXV860905HNEHXK02
+    id_country: Mexico
+  - uid: '48389'
+    id_type: Passport
+    id_number: Z5317632
+    id_country: India
+    expiration_date: 15 Jan 2029
+  - uid: '48390'
+    id_type: Passport
+    id_number: N14909118
+    id_country: Mexico
+    expiration_date: 16 Jul 2034
+  - uid: '190929'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '90927'
+    date_of_birth: 05 Sep 1986
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '90928'
+    place_of_birth: New Delhi, India
+    main_entry: 'true'
+remarks: "(Linked To: BHARDWAJ HUMAN SMUGGLING ORGANIZATION)"

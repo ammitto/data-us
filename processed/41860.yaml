@@ -1,0 +1,72 @@
+---
+uid: '41860'
+first_name: Natalia Alexeevna
+last_name: STRESHINSKAYA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65095'
+    type: a.k.a.
+    category: strong
+    last_name: STRESHINSKAYA
+    first_name: Natalia Alekseyevna
+  - uid: '65096'
+    type: a.k.a.
+    category: strong
+    last_name: STRESHINSKAYA
+    first_name: Natalya
+  - uid: '65097'
+    type: a.k.a.
+    category: strong
+    last_name: DAVYDOVA
+    first_name: Natalya
+  - uid: '65098'
+    type: a.k.a.
+    category: weak
+    last_name: Tetya Motya
+address_list:
+  items:
+  - uid: '62459'
+    address1: 'Posledniy Per. 14, Apt #6'
+    city: Moscow
+    postal_code: '107045'
+    country: Russia
+  - uid: '62460'
+    address1: 65 Route de Bievres
+    city: Verrieres-le-Buisson
+    postal_code: '91370'
+    country: France
+id_list:
+  items:
+  - uid: '31268'
+    id_type: Passport
+    id_number: '721644521'
+    id_country: Russia
+    issue_date: 22 Oct 2012
+    expiration_date: 13 Mar 2022
+  - uid: '31269'
+    id_type: Passport
+    id_number: K00481386
+    id_country: Cyprus
+    issue_date: 03 Oct 2019
+    expiration_date: 03 Oct 2029
+  - uid: '173694'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '160115'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '60116'
+    date_of_birth: 14 Nov 1982
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '60117'
+    place_of_birth: Smolensk, Russia
+    main_entry: 'true'
+remarks: "(Linked To: STRESHINSKIY, Vladimir Yakovlevich)"

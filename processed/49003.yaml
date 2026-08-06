@@ -1,0 +1,43 @@
+---
+uid: '49003'
+first_name: Ali Yagoub
+last_name: GIBRIL
+sdn_type: Individual
+program_list:
+  programs:
+  - SUDAN-EO14098
+aka_list:
+  items:
+  - uid: '76374'
+    type: a.k.a.
+    category: strong
+    last_name: JIBRIL
+    first_name: Ali Yaqoub
+  - uid: '76375'
+    type: a.k.a.
+    category: strong
+    last_name: JIBRIL
+    first_name: Ali Yagoub
+address_list:
+  items:
+  - uid: '73753'
+    country: Sudan
+id_list:
+  items:
+  - uid: '40067'
+    id_type: National ID No.
+    id_number: '20510589109'
+    id_country: Sudan
+  - uid: '171804'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '71805'
+    date_of_birth: 01 Jan 1964
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '71806'
+    place_of_birth: Zalingei, Central Darfur, Sudan
+    main_entry: 'true'

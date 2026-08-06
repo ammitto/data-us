@@ -1,0 +1,37 @@
+---
+uid: '56313'
+first_name: Arben
+last_name: HYSA
+sdn_type: Individual
+program_list:
+  programs:
+  - TCO
+address_list:
+  items:
+  - uid: '86175'
+    country: Mexico
+id_list:
+  items:
+  - uid: '50339'
+    id_type: Passport
+    id_number: BJ4897370
+    id_country: Albania
+    expiration_date: '09 Mar 2024'
+  - uid: '50340'
+    id_type: C.U.R.P.
+    id_number: HAXA700915HNEYXR02
+    id_country: Mexico
+  - uid: '194449'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '94446'
+    date_of_birth: 15 Sep 1970
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '94447'
+    place_of_birth: Belsh, Albania
+    main_entry: 'true'
+remarks: "(Linked To: HYSA ORGANIZED CRIME GROUP)"

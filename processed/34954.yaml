@@ -1,0 +1,60 @@
+---
+uid: '34954'
+first_name: Ali
+last_name: SAADE
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '54867'
+    type: a.k.a.
+    category: strong
+    last_name: SAADE
+    first_name: Ali Moussa
+  - uid: '55195'
+    type: a.k.a.
+    category: strong
+    last_name: SAADI
+    first_name: Ali
+address_list:
+  items:
+  - uid: '52399'
+    city: Beirut
+    country: Lebanon
+id_list:
+  items:
+  - uid: '24587'
+    id_type: Passport
+    id_number: RL0420013
+    id_country: Lebanon
+    expiration_date: 01 Mar 2015
+  - uid: '24588'
+    id_type: Passport
+    id_number: '14205180170519'
+    id_country: Guinea
+    expiration_date: 29 May 2024
+  - uid: '24589'
+    id_type: Passport
+    id_number: 18FV09784
+    id_country: France
+    expiration_date: 06 Feb 2029
+  - uid: '146481'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '146470'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '46467'
+    date_of_birth: 18 May 1942
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '46469'
+    place_of_birth: Conakry, Guinea
+    main_entry: 'true'
+remarks: "(Linked To: HIZBALLAH)"

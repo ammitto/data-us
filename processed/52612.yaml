@@ -1,0 +1,33 @@
+---
+uid: '52612'
+last_name: JOINT STOCK COMPANY SEROV MECHANICAL PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '82375'
+    type: a.k.a.
+    category: weak
+    last_name: JSC SMZ
+address_list:
+  items:
+  - uid: '80374'
+    address1: 10 ul. Aglomeratchikov
+    city: Serov
+    postal_code: '624981'
+    country: Russia
+id_list:
+  items:
+  - uid: '45670'
+    id_type: Registration Number
+    id_number: '1116680000470'
+    id_country: Russia
+  - uid: '45671'
+    id_type: Tax ID No.
+    id_number: '6680000479'
+    id_country: Russia
+  - uid: '184373'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

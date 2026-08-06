@@ -1,0 +1,42 @@
+---
+uid: '45049'
+last_name: FARS NEWS AGENCY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-HR
+  - IRGC
+  - IFSR
+aka_list:
+  items:
+  - uid: '69804'
+    type: a.k.a.
+    category: strong
+    last_name: FARS NEWS AGENCY CULTURAL INSTITUTE
+address_list:
+  items:
+  - uid: '67089'
+    address1: Number 1, Shahrood Alley, Ferdowsi Square
+    city: Tehran
+    postal_code: '115999346717'
+    country: Iran
+id_list:
+  items:
+  - uid: '34758'
+    id_type: National ID No.
+    id_number: '10100426798'
+    id_country: Iran
+  - uid: '34759'
+    id_type: Registration Number
+    id_number: '10581'
+    id_country: Iran
+  - uid: '165394'
+    id_type: Organization Established Date
+    id_number: 26 Oct 1998
+  - uid: '165396'
+    id_type: Website
+    id_number: www.farsnews.ir
+  - uid: '165513'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS)"

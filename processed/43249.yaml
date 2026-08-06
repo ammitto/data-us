@@ -1,0 +1,40 @@
+---
+uid: '43249'
+last_name: LIMITED LIABILITY COMPANY TRAST KONG
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '67050'
+    type: a.k.a.
+    category: strong
+    last_name: TRAST KONG OOO
+address_list:
+  items:
+  - uid: '64545'
+    address1: 27/4 Bolshaya Bronnaya, Building 1
+    city: Moscow
+    country: Russia
+  - uid: '64546'
+    address1: 2 Institutski Lane
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '32806'
+    id_type: Tax ID No.
+    id_number: '7710438578'
+    id_country: Russia
+  - uid: '32807'
+    id_type: Registration Number
+    id_number: '1027710010151'
+    id_country: Russia
+  - uid: '162436'
+    id_type: Organization Established Date
+    id_number: 26 Sep 2002
+  - uid: '175665'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: KESAEV, Igor Albertovich)"

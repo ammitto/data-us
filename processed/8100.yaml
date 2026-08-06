@@ -1,0 +1,51 @@
+---
+uid: '8100'
+first_name: Lazher Ben Khalifa Ben Ahmed
+last_name: ROUINE
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '6703'
+    type: a.k.a.
+    category: weak
+    last_name: LAZHAR
+  - uid: '6704'
+    type: a.k.a.
+    category: weak
+    last_name: SALMANE
+  - uid: '8868'
+    type: a.k.a.
+    category: strong
+    last_name: ROUINE
+    first_name: Al-Azhar Ben Khalifa Ben Ahmed
+address_list:
+  items:
+  - uid: '7237'
+    address1: Vicolo San Giovanni
+    city: Rimini
+    country: Italy
+id_list:
+  items:
+  - uid: '4086'
+    id_type: Passport
+    id_number: P 182583
+    issue_date: 13 Sep 2003
+    expiration_date: 12 Sep 2007
+  - uid: '185775'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '2410'
+    date_of_birth: 20 Nov 1975
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '2411'
+    place_of_birth: Sfax, Tunisia
+    main_entry: 'true'
+remarks: arrested 30 Sep 2002

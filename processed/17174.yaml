@@ -1,0 +1,51 @@
+---
+uid: '17174'
+first_name: Shafi Sultan Mohammed
+last_name: AL-AJMI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '26378'
+    type: a.k.a.
+    category: strong
+    last_name: AL-AJMI
+    first_name: Doctor Shafi
+  - uid: '26379'
+    type: a.k.a.
+    category: strong
+    last_name: AL-AJMI
+    first_name: Sheikh Shafi
+  - uid: '26380'
+    type: a.k.a.
+    category: weak
+    last_name: SHAYKH ABU-SULTAN
+address_list:
+  items:
+  - uid: '26130'
+    address1: Area 3
+    address2: Street 327
+    address3: Building 41
+    city: Al-Uqaylah
+    country: Kuwait
+id_list:
+  items:
+  - uid: '9608'
+    id_type: Passport
+    id_number: '0216155930'
+  - uid: '186781'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '15965'
+    date_of_birth: 01 Jan 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '15966'
+    place_of_birth: Warah, Kuwait
+    main_entry: 'true'

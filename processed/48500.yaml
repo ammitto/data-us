@@ -1,0 +1,33 @@
+---
+uid: '48500'
+last_name: ELAR
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '72771'
+    address1: Shosse Leningradskoe
+    address2: D. 15
+    city: Moscow
+    postal_code: '125171'
+    country: Russia
+  - uid: '72772'
+    address1: Ul. 1-Ya Sovetskaya D. 36V chast/etazh 2/2 kom. 2,3,4,5, Rabochi pos.
+    city: Shakhovskaya
+    postal_code: '143700'
+    country: Russia
+id_list:
+  items:
+  - uid: '39411'
+    id_type: Registration Number
+    id_number: '1037700057780'
+    id_country: Russia
+  - uid: '39412'
+    id_type: Tax ID No.
+    id_number: '7743028263'
+    id_country: Russia
+  - uid: '171299'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

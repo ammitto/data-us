@@ -1,0 +1,54 @@
+---
+uid: '55549'
+last_name: BUSINESS UNITED UNIPESSOAL LDA
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '86403'
+    type: a.k.a.
+    category: weak
+    last_name: BUSINESS UNITED LLC
+  - uid: '86404'
+    type: a.k.a.
+    category: strong
+    last_name: UNITED BUSINESS CO
+address_list:
+  items:
+  - uid: '84928'
+    address1: Centro Empresarial Torres de Lisboa
+    address2: Rua Tomas da Fonseca, Torre G-1
+    city: Lisboa
+    postal_code: 1600-209
+    country: Portugal
+  - uid: '84929'
+    address1: Rua dos Bombeiros Voluntarios, No. 27
+    address2: Odivelas Freguesia
+    city: Lisboa Concelho
+    postal_code: 2675-305
+    country: Portugal
+id_list:
+  items:
+  - uid: '49537'
+    id_type: V.A.T. Number
+    id_number: '515091669'
+    id_country: Portugal
+  - uid: '49606'
+    id_type: Legal Entity Number
+    id_number: 894500IRS5HCYE71QL11
+  - uid: '193039'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '193038'
+    id_type: Organization Established Date
+    id_number: 26 Sep 2018
+  - uid: '193143'
+    id_type: 'Organization Type:'
+    id_number: Non-specialized wholesale trade
+  - uid: '193141'
+    id_type: Website
+    id_number: https://unitedbusiness.pt
+remarks: "(Linked To: PASARGAD HELICOPTER COMPANY)"

@@ -1,0 +1,55 @@
+---
+uid: '51738'
+last_name: PUBLIC JOINT STOCK COMPANY BANK ALEXANDROVSKY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '81051'
+    type: a.k.a.
+    category: strong
+    last_name: TEKHNOKHIMBANK
+  - uid: '81052'
+    type: a.k.a.
+    category: strong
+    last_name: PUBLIC JOINT STOCK COMPANY BANK ALEKSANDROVSKY
+address_list:
+  items:
+  - uid: '78843'
+    address1: Zarorodniy Prospekt 46, korp 2, liter B
+    state_or_province: Saint Petersburg
+    postal_code: '19119'
+    country: Russia
+id_list:
+  items:
+  - uid: '44330'
+    id_type: Global Intermediary Identification Number
+    id_number: 9QJDEC.99999.SL.643
+  - uid: '44331'
+    id_type: Legal Entity Number
+    id_number: 253400D38E021531V531
+  - uid: '44333'
+    id_type: Registration Number
+    id_number: '1027800000194'
+    id_country: Russia
+  - uid: '44335'
+    id_type: Tax ID No.
+    id_number: '7831000080'
+    id_country: Russia
+  - uid: '181865'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '181869'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '181868'
+    id_type: SWIFT/BIC
+    id_number: ITEHRU2P
+  - uid: '181866'
+    id_type: Website
+    id_number: www.alexbank.ru
+  - uid: '181867'
+    id_type: Website
+    id_number: www.abank.ru

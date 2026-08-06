@@ -1,0 +1,33 @@
+---
+uid: '48028'
+last_name: JOINT STOCK COMPANY VOLZHSKIY PIPE PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74546'
+    type: a.k.a.
+    category: weak
+    last_name: JSC VTZ
+address_list:
+  items:
+  - uid: '71989'
+    address1: 6 Metallurgov Avenue
+    city: Volzhskiy
+    postal_code: '404119'
+    country: Russia
+id_list:
+  items:
+  - uid: '38914'
+    id_type: Registration Number
+    id_number: '1023401997101'
+    id_country: Russia
+  - uid: '38915'
+    id_type: Tax ID No.
+    id_number: '3435900186'
+    id_country: Russia
+  - uid: '176584'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

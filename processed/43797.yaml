@@ -1,0 +1,45 @@
+---
+uid: '43797'
+first_name: Andrey Nikolayevich
+last_name: IVANOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '65303'
+    address1: House - 113A
+    city: Ust-Labinskiy
+    postal_code: '352303'
+    country: Russia
+  - uid: '65304'
+    address1: House - 36/ APPT - 3
+    city: Kolomna
+    postal_code: '140415'
+    country: Russia
+  - uid: '65305'
+    state_or_province: Moskovskaya Oblast
+    country: Russia
+id_list:
+  items:
+  - uid: '33296'
+    id_type: Identification Number
+    id_number: M0381
+    id_country: Russia
+  - uid: '33316'
+    id_type: Identification Number
+    id_number: B90381
+    id_country: Russia
+  - uid: '175724'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '163469'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '63467'
+    date_of_birth: 13 Apr 1983
+    main_entry: 'true'
+remarks: "(Linked To: PRIGOZHIN, Yevgeniy Viktorovich)"

@@ -1,0 +1,69 @@
+---
+uid: '7167'
+first_name: Maria Antonieta
+last_name: FREGOSO AMEZQUITA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '5345'
+    address1: Calle Jerez 538, Fraccionamiento Chapultepec
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '5346'
+    address1: Calle Jerez 552-B, Fraccionamiento Chapultepec, CP 22420
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '5347'
+    address1: c/o Administradora De Inmuebles Vida, S.A. de C.V.
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '5348'
+    address1: c/o ADP, S.C.
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '5349'
+    address1: c/o Forpres, S.C.
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '5350'
+    address1: c/o Accesos Electronicos, S.A. de C.V.
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '5351'
+    address1: c/o Operadora Valpark, S.A. de C.V.
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+id_list:
+  items:
+  - uid: '1541'
+    id_type: R.F.C.
+    id_number: AEL-980417-S51
+    id_country: Mexico
+  - uid: '1542'
+    id_type: Driver's License No.
+    id_number: '180839'
+    id_country: Mexico
+  - uid: '3333'
+    id_type: Credencial electoral
+    id_number: '088455751391'
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '1329'
+    date_of_birth: 29 Oct 1952
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '1330'
+    place_of_birth: Guadalajara, Jalisco
+    main_entry: 'true'

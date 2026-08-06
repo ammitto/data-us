@@ -1,0 +1,70 @@
+---
+uid: '26118'
+last_name: PROMSYRIOIMPORT
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '41136'
+    type: a.k.a.
+    category: strong
+    last_name: VO PROMSYRIEIMPORT FGUP
+  - uid: '41137'
+    type: a.k.a.
+    category: strong
+    last_name: PROMSYRIOIMPORT FOREIGN ECONOMIC ASSOCIATION S.O.C.
+  - uid: '41138'
+    type: a.k.a.
+    category: strong
+    last_name: VO PROMSYRIEIMPORT
+  - uid: '41171'
+    type: a.k.a.
+    category: strong
+    last_name: VO PROMSYRIOIMPORT
+  - uid: '41172'
+    type: a.k.a.
+    category: strong
+    last_name: FEDERAL STATE UNITARY ENTERPRISE FOREIGN ECONOMIC ASSOCIATION PROMSYRIOIMPORT
+address_list:
+  items:
+  - uid: '39572'
+    address1: d. 13 str. 4
+    address2: bulvar Novinski
+    city: Moscow
+    postal_code: '121099'
+    country: Russia
+  - uid: '39573'
+    address1: 13 Novinski Boulevard
+    city: Moscow
+    postal_code: '121834'
+    country: Russia
+  - uid: '39574'
+    address1: Novinskiy Boulevard 13
+    address2: Building 4
+    city: Moscow
+    postal_code: '123995'
+    country: Russia
+  - uid: '39588'
+    address1: Novinsky bld. 13
+    address2: build 4
+    city: Moscow
+    postal_code: '121099'
+    country: Russia
+id_list:
+  items:
+  - uid: '16794'
+    id_type: Government Gazette Number
+    id_number: '01860331'
+  - uid: '16795'
+    id_type: Tax ID No.
+    id_number: '7704140399'
+    id_country: Russia
+  - uid: '16796'
+    id_type: Registration Number
+    id_number: '1027700499903'
+    id_country: Russia
+  - uid: '190862'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

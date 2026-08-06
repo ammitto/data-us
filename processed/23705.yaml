@@ -1,0 +1,35 @@
+---
+uid: '23705'
+last_name: CHONMYONG SHIPPING CO
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK4
+aka_list:
+  items:
+  - uid: '37540'
+    type: a.k.a.
+    category: strong
+    last_name: CHON MYONG SHIPPING COMPANY LIMITED
+address_list:
+  items:
+  - uid: '35934'
+    address1: Kalrimgil 2-dong, Mangyongdae-guyok
+    city: Pyongyang
+    country: Korea, North
+  - uid: '36107'
+    address1: Saemaul 2-dong, Pyongchon-guyok
+    city: Pyongyang
+    country: Korea, North
+id_list:
+  items:
+  - uid: '15184'
+    id_type: Company Number
+    id_number: IMO 5571322
+  - uid: '135187'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '127360'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210

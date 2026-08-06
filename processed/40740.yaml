@@ -1,0 +1,36 @@
+---
+uid: '40740'
+first_name: Mohsen
+last_name: ASADI
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+address_list:
+  items:
+  - uid: '60716'
+    country: Iran
+id_list:
+  items:
+  - uid: '29900'
+    id_type: National ID No.
+    id_number: '2992534080'
+    id_country: Iran
+  - uid: '158165'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '158166'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '58195'
+    date_of_birth: 16 Sep 1971
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '58196'
+    place_of_birth: Kerman, Iran
+    main_entry: 'true'
+remarks: "(Linked To: PARAVAR PARS COMPANY)"

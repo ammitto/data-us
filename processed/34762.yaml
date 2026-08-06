@@ -1,0 +1,28 @@
+---
+uid: '34762'
+last_name: SOVKOM LIZING
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '52100'
+    address1: Ul Vavilova D 24
+    city: Moscow
+    postal_code: '119991'
+    country: Russia
+id_list:
+  items:
+  - uid: '24440'
+    id_type: Tax ID No.
+    id_number: '7716228873'
+    id_country: Russia
+  - uid: '24441'
+    id_type: Registration Number
+    id_number: '1037716009011'
+    id_country: Russia
+  - uid: '175205'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: SOVCOMBANK OPEN JOINT STOCK COMPANY)"

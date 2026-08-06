@@ -1,0 +1,33 @@
+---
+uid: '48104'
+last_name: OBSHCHESTVO S OGRANICHENNOY OTVETSTVENNOSTYU LAITKHAUS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74735'
+    type: a.k.a.
+    category: weak
+    last_name: LIGHTHOUSE
+address_list:
+  items:
+  - uid: '72159'
+    address1: Pr-Kt Vernadskogo D. 53
+    address2: Floor/Pomeshch. 3/I, Kom. 37
+    city: Moscow
+    postal_code: '119415'
+    country: Russia
+id_list:
+  items:
+  - uid: '38996'
+    id_type: Tax ID No.
+    id_number: '9723031631'
+    id_country: Russia
+  - uid: '170042'
+    id_type: Organization Established Date
+    id_number: 05 Jul 2017
+  - uid: '173964'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,40 @@
+---
+uid: '49526'
+last_name: LIMITED LIABILITY COMPANY TRANSIT SERVICE BISHKEK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77267'
+    type: a.k.a.
+    category: strong
+    last_name: TSB LIMITED LIABILITY COMPANY
+  - uid: '77269'
+    type: a.k.a.
+    category: weak
+    last_name: OSOO TSB
+  - uid: '77270'
+    type: a.k.a.
+    category: strong
+    last_name: TSB ZHCHK
+address_list:
+  items:
+  - uid: '74747'
+    address1: 13a ul. Shirokaya
+    city: Prigorodny aiylny aimak
+    country: Kyrgyzstan
+id_list:
+  items:
+  - uid: '40888'
+    id_type: Registration Number
+    id_number: 148050-3308-OOO
+    id_country: Kyrgyzstan
+  - uid: '40889'
+    id_type: Tax ID No.
+    id_number: '01108201510101'
+    id_country: Kyrgyzstan
+  - uid: '172629'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

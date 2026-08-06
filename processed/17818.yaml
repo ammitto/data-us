@@ -1,0 +1,33 @@
+---
+uid: '17818'
+first_name: Manuel Eduardo
+last_name: PEREZ URDANETA
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+id_list:
+  items:
+  - uid: '10065'
+    id_type: Cedula No.
+    id_number: 6.357.038
+    id_country: Venezuela
+  - uid: '10066'
+    id_type: Passport
+    id_number: '001234503'
+    id_country: Venezuela
+    expiration_date: 03 Jul 2012
+  - uid: '116973'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '16974'
+    date_of_birth: 26 May 1962
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '16975'
+    place_of_birth: Venezuela
+    main_entry: 'true'
+title: Director of Venezuela's Bolivarian National Police

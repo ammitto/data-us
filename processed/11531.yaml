@@ -1,0 +1,62 @@
+---
+uid: '11531'
+first_name: Jorge Eduardo
+last_name: COSTILLA SANCHEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '12201'
+    type: a.k.a.
+    category: strong
+    last_name: COSTILLA SANCHEZ
+    first_name: Jorge
+address_list:
+  items:
+  - uid: '17212'
+    country: Mexico
+  - uid: '17213'
+    address1: Andador 2 o 20, No. 13
+    address2: Fraccionamiento Los Sauces
+    city: Matamoros
+    state_or_province: Tamaulipas
+    country: Mexico
+  - uid: '17214'
+    address1: Playa Mocamba y Playa Encantada No. 14
+    address2: Colonia Playa Sol
+    city: Matamoros
+    state_or_province: Tamaulipas
+    country: Mexico
+  - uid: '17215'
+    address1: Calle Sierra Nevada No. 633
+    address2: Fraccionamiento Fuentes, Seccion Lomas
+    city: Reynosa
+    state_or_province: Tamaulipas
+    country: Mexico
+id_list:
+  items:
+  - uid: '5920'
+    id_type: Electoral Registry No.
+    id_number: CSSNJR71010628H801
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '6971'
+    date_of_birth: 01 Aug 1971
+    main_entry: 'true'
+  - uid: '6972'
+    date_of_birth: 06 Jan 1971
+    main_entry: 'false'
+  - uid: '6973'
+    date_of_birth: 01 Jun 1971
+    main_entry: 'false'
+  - uid: '6974'
+    date_of_birth: 06 Jun 1971
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '6975'
+    place_of_birth: Mexico
+    main_entry: 'true'

@@ -1,0 +1,30 @@
+---
+uid: '51463'
+last_name: OOO REGISTRATOR GARANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '78412'
+    address1: Nab. Krasnopresnenskaya D. 8, Et. 2, Pom. 228
+    city: Moscow
+    postal_code: '123100'
+    country: Russia
+id_list:
+  items:
+  - uid: '43817'
+    id_type: Registration Number
+    id_number: '5137746173296'
+    id_country: Russia
+  - uid: '43818'
+    id_type: Tax ID No.
+    id_number: '7703802628'
+    id_country: Russia
+  - uid: '180997'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '182833'
+    id_type: Target Type
+    id_number: Financial Institution

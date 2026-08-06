@@ -1,0 +1,41 @@
+---
+uid: '36465'
+last_name: OOO EVEREST GRUP
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '57504'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU EVEREST GRUP
+  - uid: '57505'
+    type: a.k.a.
+    category: strong
+    last_name: EVEREST GRUP
+address_list:
+  items:
+  - uid: '54822'
+    address1: d. 37 k. A ofis 8, ul. Rigachina
+    city: Petrozavodsk
+    postal_code: '185005'
+    country: Russia
+id_list:
+  items:
+  - uid: '25905'
+    id_type: Tax ID No.
+    id_number: '1001299201'
+    id_country: Russia
+  - uid: '25906'
+    id_type: Registration Number
+    id_number: '1151001009158'
+    id_country: Russia
+  - uid: '174222'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '150191'
+    id_type: Organization Established Date
+    id_number: 27 Jul 2015
+remarks: "(Linked To: BITRIVER AG)"

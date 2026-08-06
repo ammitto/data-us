@@ -1,0 +1,33 @@
+---
+uid: '53650'
+last_name: LUKOIL WEST SIBERIA LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '83631'
+    type: a.k.a.
+    category: strong
+    last_name: LUKOIL ZAPADNAYA SIBIR
+address_list:
+  items:
+  - uid: '81872'
+    address1: Ul. Pribaltiiskaya D. 20
+    city: Kogalym
+    postal_code: '628484'
+    country: Russia
+id_list:
+  items:
+  - uid: '46970'
+    id_type: Registration Number
+    id_number: '1028601441978'
+    id_country: Russia
+  - uid: '46971'
+    id_type: Tax ID No.
+    id_number: '8608048498'
+    id_country: Russia
+  - uid: '188491'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

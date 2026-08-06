@@ -1,0 +1,38 @@
+---
+uid: '50800'
+last_name: COMPANY LIMITED KOMAX
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79555'
+    type: a.k.a.
+    category: strong
+    last_name: CO LTD KOMAX
+address_list:
+  items:
+  - uid: '77097'
+    address1: Ul. Smolnaya D. 14, Pomeshch. 1, Kom 1322
+    city: Moscow
+    postal_code: '125493'
+    country: Russia
+  - uid: '77098'
+    address1: Klyazyma quarter, 1B, industrial park Sheremetyevo
+    city: Khimki
+    postal_code: '141400'
+    country: Russia
+id_list:
+  items:
+  - uid: '42729'
+    id_type: Registration Number
+    id_number: '1147748140891'
+    id_country: Russia
+  - uid: '42730'
+    id_type: Tax ID No.
+    id_number: '7743022247'
+    id_country: Russia
+  - uid: '179450'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

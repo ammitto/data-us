@@ -1,0 +1,48 @@
+---
+uid: '9979'
+first_name: Jose Julian Bruno
+last_name: JIMENEZ PEREZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '13071'
+    address1: Calle Rio Bravo
+    address2: Colonia Revolucion
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '13072'
+    address1: Avenida Independencia
+    address2: Colonia Zona Urbana Rio Tijuana
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '13073'
+    address1: c/o INMOBILIARIA LA PROVINCIA S.A. DE C.V.
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '13074'
+    address1: c/o INMOBILIARIA ESTADO 29 S.A. DE C.V.
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+id_list:
+  items:
+  - uid: '4532'
+    id_type: C.U.R.P.
+    id_number: "# JIPJ610619HBCMRL07"
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '5043'
+    date_of_birth: 19 Jun 1961
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '5044'
+    place_of_birth: Ensenada, Baja California, Mexico
+    main_entry: 'true'

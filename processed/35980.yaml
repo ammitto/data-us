@@ -1,0 +1,35 @@
+---
+uid: '35980'
+first_name: Elena Alexandrovna
+last_name: CHERSTVOVA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '53995'
+    country: Russia
+id_list:
+  items:
+  - uid: '25330'
+    id_type: Passport
+    id_number: '716024138'
+    id_country: Russia
+  - uid: '149224'
+    id_type: Gender
+    id_number: Female
+  - uid: '173322'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '49223'
+    date_of_birth: 06 Feb 1975
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '49221'
+    place_of_birth: Tolyatti, Russia
+    main_entry: 'true'
+remarks: "(Linked To: SOVCOMBANK OPEN JOINT STOCK COMPANY)"

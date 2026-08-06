@@ -1,0 +1,59 @@
+---
+uid: '46573'
+last_name: AO EIRBURG
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '71869'
+    type: a.k.a.
+    category: weak
+    last_name: JSC AIRBURG
+  - uid: '71870'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSCHCHESTVO EIRBURG
+  - uid: '71871'
+    type: a.k.a.
+    category: weak
+    last_name: OKB UZGA, OOO
+address_list:
+  items:
+  - uid: '69293'
+    address1: ul. 8, Marta Str. 49
+    address2: Floor 3
+    city: Yekaterinburg
+    state_or_province: Sverdlovsk Oblast
+    postal_code: '6200063'
+    country: Russia
+id_list:
+  items:
+  - uid: '36507'
+    id_type: Tax ID No.
+    id_number: '6671172432'
+    id_country: Russia
+  - uid: '36508'
+    id_type: Government Gazette Number
+    id_number: '49681112'
+    id_country: Russia
+  - uid: '36509'
+    id_type: Business Registration Number
+    id_number: '1216600040194'
+    id_country: Russia
+  - uid: '167439'
+    id_type: Organization Established Date
+    id_number: '09 Jul 2021'
+  - uid: '167440'
+    id_type: Organization Established Date
+    id_number: '08 Oct 2013'
+  - uid: '174996'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '167442'
+    id_type: Website
+    id_number: air-burg.ru
+  - uid: '167441'
+    id_type: 'Organization Type:'
+    id_number: Manufacture of air and spacecraft and related machinery

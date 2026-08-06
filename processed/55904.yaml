@@ -1,0 +1,41 @@
+---
+uid: '55904'
+first_name: Aykut
+last_name: YAVRUCU
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13846
+address_list:
+  items:
+  - uid: '85571'
+    address1: Cagrisan Mah Mudanya CD Tepedevrent, Evleri L Blok No 182 D1
+    city: Bursa
+    postal_code: '16940'
+    country: Turkey
+id_list:
+  items:
+  - uid: '50050'
+    id_type: Passport
+    id_number: U24067236
+    id_country: Turkey
+  - uid: '50051'
+    id_type: National ID No.
+    id_number: '19088143622'
+    id_country: Turkey
+  - uid: '193974'
+    id_type: 'Executive Order 13846 information:'
+    id_number: BLOCKING PROPERTY AND INTERESTS IN PROPERTY.  Sec. 5(a)(iv)
+  - uid: '193890'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '93880'
+    date_of_birth: 11 Feb 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '93881'
+    place_of_birth: Bursa, Turkey
+    main_entry: 'true'

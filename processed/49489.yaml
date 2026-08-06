@@ -1,0 +1,34 @@
+---
+uid: '49489'
+first_name: Kirill Gennadievich
+last_name: SELEZNEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '74676'
+    country: Russia
+id_list:
+  items:
+  - uid: '40845'
+    id_type: Tax ID No.
+    id_number: '781660270069'
+    id_country: Russia
+  - uid: '172588'
+    id_type: Gender
+    id_number: Male
+  - uid: '172592'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '72586'
+    date_of_birth: 23 Apr 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '72587'
+    place_of_birth: St. Petersburg, Russia
+    main_entry: 'true'

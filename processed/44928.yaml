@@ -1,0 +1,49 @@
+---
+uid: '44928'
+first_name: Hamidreza
+last_name: MOGHADAM FAR
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+  - IRGC
+  - IFSR
+aka_list:
+  items:
+  - uid: '69518'
+    type: a.k.a.
+    category: strong
+    last_name: MOGHADDAM
+    first_name: Hamidreza
+  - uid: '69519'
+    type: a.k.a.
+    category: strong
+    last_name: MOGHADAM FAR
+    first_name: Hamid Reza
+address_list:
+  items:
+  - uid: '66965'
+    country: Iran
+id_list:
+  items:
+  - uid: '34524'
+    id_type: National ID No.
+    id_number: '0042729890'
+    id_country: Iran
+  - uid: '165497'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '165228'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '65327'
+    date_of_birth: 01 Mar 1961 to 31 Mar 1962
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '65227'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS)"

@@ -1,0 +1,38 @@
+---
+uid: '49979'
+last_name: CENTRE OF FINANCIAL TECHNOLOGIES GROUP
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77918'
+    type: a.k.a.
+    category: strong
+    last_name: ZAO TSFT
+address_list:
+  items:
+  - uid: '75623'
+    address1: Ul. Shaturskaya D. 2
+    city: Novosibirsk
+    postal_code: '630055'
+    country: Russia
+  - uid: '75624'
+    address1: Ul. Tekhnoparkovaya Str. 1, Office 208
+    city: Koltsovo
+    postal_code: '630559'
+    country: Russia
+id_list:
+  items:
+  - uid: '41516'
+    id_type: Registration Number
+    id_number: '1025403199689'
+    id_country: Russia
+  - uid: '41517'
+    id_type: Tax ID No.
+    id_number: '5407125059'
+    id_country: Russia
+  - uid: '178021'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

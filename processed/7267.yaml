@@ -1,0 +1,41 @@
+---
+uid: '7267'
+first_name: Zakarya
+last_name: ESSABAR
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '5230'
+    type: a.k.a.
+    category: strong
+    last_name: ESSABAR
+    first_name: Zakariya
+address_list:
+  items:
+  - uid: '5525'
+    address1: Dortmunder Strasse 38
+    city: Hamburg
+    postal_code: '22419'
+    country: Germany
+id_list:
+  items:
+  - uid: '185683'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '1478'
+    date_of_birth: 13 Apr 1977
+    main_entry: 'true'
+  - uid: '1480'
+    date_of_birth: 03 Apr 1977
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '1479'
+    place_of_birth: Essaouria, Morocco
+    main_entry: 'true'

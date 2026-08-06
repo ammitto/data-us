@@ -1,0 +1,38 @@
+---
+uid: '15654'
+first_name: Jose Odilon
+last_name: RAMIREZ PERALES
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '23375'
+    state_or_province: Tamaulipas
+    country: Mexico
+  - uid: '23376'
+    city: Piedras Negras
+    state_or_province: Coahuila
+    country: Mexico
+id_list:
+  items:
+  - uid: '8410'
+    id_type: C.U.R.P.
+    id_number: RAPO720720HTMSRD03
+    id_country: Mexico
+  - uid: '8411'
+    id_type: Passport
+    id_number: '84059255'
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '12927'
+    date_of_birth: 20 Jul 1972
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '12928'
+    place_of_birth: Nuevo Laredo, Tamaulipas, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: CARTEL DEL NORESTE)"

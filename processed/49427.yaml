@@ -1,0 +1,35 @@
+---
+uid: '49427'
+last_name: LIMITED LIABILITY COMPANY ELGA STROY MINING SERVICE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77098'
+    type: a.k.a.
+    category: weak
+    last_name: ESMS LLC
+address_list:
+  items:
+  - uid: '74519'
+    address1: D. 6 Str. 2 Etazh 39
+    address2: pomeshch./kom. I/16-2
+    address3: Naberezhnaya Presnenskaya
+    city: Moscow
+    postal_code: '123112'
+    country: Russia
+id_list:
+  items:
+  - uid: '40721'
+    id_type: Registration Number
+    id_number: '1217700374902'
+    id_country: Russia
+  - uid: '40722'
+    id_type: Tax ID No.
+    id_number: '9703043276'
+    id_country: Russia
+  - uid: '172765'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

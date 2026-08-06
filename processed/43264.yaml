@@ -1,0 +1,45 @@
+---
+uid: '43264'
+last_name: JOINT STOCK COMPANY 103 ARSENAL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '67077'
+    type: a.k.a.
+    category: strong
+    last_name: JSC 103 ARMORED REPAIR PLANT
+  - uid: '67078'
+    type: a.k.a.
+    category: strong
+    last_name: JSC 103 BTRZ
+  - uid: '67079'
+    type: a.k.a.
+    category: strong
+    last_name: 103 BRONETANKOVY REMONTNY ZAVOD PAO
+address_list:
+  items:
+  - uid: '64568'
+    address1: ul. Zavodskaya, d. 1
+    city: pgt. Atamanovka
+    state_or_province: Chitinski raion, Zabaikalski kr.
+    postal_code: '672530'
+    country: Russia
+id_list:
+  items:
+  - uid: '32828'
+    id_type: Tax ID No.
+    id_number: '7524015624'
+    id_country: Russia
+  - uid: '32829'
+    id_type: Registration Number
+    id_number: '1097524000640'
+    id_country: Russia
+  - uid: '175678'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '162462'
+    id_type: Organization Established Date
+    id_number: 05 Jun 1997

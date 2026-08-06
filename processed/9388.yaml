@@ -1,0 +1,44 @@
+---
+uid: '9388'
+first_name: Martin
+last_name: MELGOZA TORRES
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '11626'
+    address1: Paseo Coronado No. 964
+    address2: Fraccionamiento El Mirador
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '11627'
+    address1: c/o FARMACIA VIDA SUPREMA, S.A. DE C.V.
+    address2: Boulevard Agua Caliente 1381
+    address3: Revolucion
+    city: Tijuana
+    state_or_province: Baja California Norte
+    postal_code: '22400'
+    country: Mexico
+id_list:
+  items:
+  - uid: '4034'
+    id_type: R.F.C.
+    id_number: METM-46111-BF4
+    id_country: Mexico
+  - uid: '4035'
+    id_type: Credencial electoral
+    id_number: '073855815496'
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '4335'
+    date_of_birth: 11 Nov 1946
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '4336'
+    place_of_birth: Villa de Alvarez, Colima, Mexico
+    main_entry: 'true'

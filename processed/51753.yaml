@@ -1,0 +1,42 @@
+---
+uid: '51753'
+last_name: JOINT STOCK COMPANY GUTA BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '78867'
+    address1: Building 3, Orlikov Lane 5
+    city: Moscow
+    postal_code: '107078'
+    country: Russia
+id_list:
+  items:
+  - uid: '44368'
+    id_type: Global Intermediary Identification Number
+    id_number: YE7BYQ.99999.SL.643
+  - uid: '44370'
+    id_type: Legal Entity Number
+    id_number: 253400C9UUE0CK2K7D34
+  - uid: '44371'
+    id_type: Registration Number
+    id_number: '1026900005307'
+    id_country: Russia
+  - uid: '44372'
+    id_type: Tax ID No.
+    id_number: '6905011218'
+    id_country: Russia
+  - uid: '181918'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '181921'
+    id_type: SWIFT/BIC
+    id_number: TJSBRUMM
+  - uid: '181923'
+    id_type: Website
+    id_number: www.gutabank.ru
+  - uid: '181919'
+    id_type: Target Type
+    id_number: Financial Institution

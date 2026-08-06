@@ -1,0 +1,42 @@
+---
+uid: '41678'
+first_name: Samer Kamal
+last_name: AL-ASSAD
+sdn_type: Individual
+program_list:
+  programs:
+  - PAARSSR-EO13894
+aka_list:
+  items:
+  - uid: '64813'
+    type: a.k.a.
+    category: strong
+    last_name: AL-ASAD
+    first_name: Samer
+address_list:
+  items:
+  - uid: '62228'
+    country: Syria
+id_list:
+  items:
+  - uid: '31078'
+    id_type: Passport
+    id_number: '86368'
+    id_country: Syria
+  - uid: '31079'
+    id_type: National ID No.
+    id_number: '06200000449'
+    id_country: Syria
+  - uid: '159858'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '59855'
+    date_of_birth: 19 May 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '59856'
+    place_of_birth: Qardaha, Syria
+    main_entry: 'true'

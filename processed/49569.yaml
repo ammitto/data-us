@@ -1,0 +1,46 @@
+---
+uid: '49569'
+last_name: JOINT STOCK COMPANY URAL HEAVY EQUIPMENT URALVAGONZAVOD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77324'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO URALSKAYA BOLSHEGRUZNAYA TEKHNIKA URALVAGONZAVOD
+  - uid: '77325'
+    type: a.k.a.
+    category: strong
+    last_name: AO UBT URALVAGONZAVOD
+  - uid: '77326'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY URAL HEAVY LOAD TECHNIQUE URALVAGONZAVOD
+address_list:
+  items:
+  - uid: '74824'
+    address1: Ul. Yunosti D. 10
+    city: Nizhniy Tagil
+    postal_code: '622018'
+    country: Russia
+id_list:
+  items:
+  - uid: '40942'
+    id_type: Registration Number
+    id_number: '1026601370267'
+    id_country: Russia
+  - uid: '40943'
+    id_type: Tax ID No.
+    id_number: '6623009965'
+    id_country: Russia
+  - uid: '172822'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '172821'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
+remarks: "(Linked To: JOINT STOCK COMPANY SCIENTIFIC AND PRODUCTION CORPORATION URALVAGONZAVOD
+  NAMED AFTER F E DZERZHINSKY)"

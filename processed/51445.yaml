@@ -1,0 +1,41 @@
+---
+uid: '51445'
+last_name: AKTSIONERNOE OBSHCHESTVO NEZAVISIMAYA REGISTRATORSKAYA KOMPANIYA R.O.S.T.
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80673'
+    type: a.k.a.
+    category: strong
+    last_name: AO NRK ROST
+address_list:
+  items:
+  - uid: '78370'
+    address1: Ul. Stromynka D. 18, Korp. 13
+    city: Moscow
+    postal_code: '107996'
+    country: Russia
+  - uid: '78371'
+    address1: Ul. Stromynka D. 18, K. 5B, Pomeshch. IX
+    city: Moscow
+    postal_code: '107076'
+    country: Russia
+id_list:
+  items:
+  - uid: '43781'
+    id_type: Registration Number
+    id_number: '1027739216757'
+    id_country: Russia
+  - uid: '43782'
+    id_type: Tax ID No.
+    id_number: '7726030449'
+    id_country: Russia
+  - uid: '182799'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '180959'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

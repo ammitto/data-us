@@ -1,0 +1,44 @@
+---
+uid: '55285'
+first_name: Mehdi
+last_name: NILI AHMADABADI
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '86042'
+    type: a.k.a.
+    category: strong
+    last_name: NILI AHMADABADI
+    first_name: Mahdi
+address_list:
+  items:
+  - uid: '84539'
+    city: Isfahan
+    country: Iran
+id_list:
+  items:
+  - uid: '49290'
+    id_type: Passport
+    id_number: X62230778
+    id_country: Iran
+    expiration_date: 10 Mar 2028
+  - uid: '49291'
+    id_type: National ID No.
+    id_number: '1282460358'
+    id_country: Iran
+  - uid: '192534'
+    id_type: Gender
+    id_number: Male
+  - uid: '192629'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '92532'
+    date_of_birth: 18 Sep 1982
+    main_entry: 'true'
+remarks: "(Linked To: BEH JOULE PARS COMMERCIAL ENGINEERING COMPANY)"

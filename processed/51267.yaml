@@ -1,0 +1,33 @@
+---
+uid: '51267'
+last_name: LIMITED LIABILITY COMPANY TREYDSTROYTSENTR
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80366'
+    type: a.k.a.
+    category: weak
+    last_name: LLC TSTS
+address_list:
+  items:
+  - uid: '78014'
+    address1: Room 1, Building 4, Lane 3-y Mitinskiy
+    city: Moscow
+    postal_code: '125368'
+    country: Russia
+id_list:
+  items:
+  - uid: '43475'
+    id_type: Tax ID No.
+    id_number: '7733887322'
+    id_country: Russia
+  - uid: '43476'
+    id_type: Registration Number
+    id_number: '1147746785625'
+    id_country: Russia
+  - uid: '180433'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

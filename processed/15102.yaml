@@ -1,0 +1,46 @@
+---
+uid: '15102'
+first_name: Daniel
+last_name: MORENO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '22122'
+    type: a.k.a.
+    category: strong
+    last_name: MORENO JR.
+    first_name: Daniel Gonzalo
+address_list:
+  items:
+  - uid: '22453'
+    address1: 50 6th  Ave.
+    city: Corozal
+    country: Belize
+  - uid: '22454'
+    address1: 651 Vista Del Mar
+    city: Ladyville
+    country: Belize
+  - uid: '22455'
+    address1: 561 Vista Del Mar
+    city: Ladyville
+    country: Belize
+id_list:
+  items:
+  - uid: '8105'
+    id_type: Passport
+    id_number: '0291622'
+    id_country: Belize
+date_of_birth_list:
+  items:
+  - uid: '11429'
+    date_of_birth: 12 Oct 1972
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '11430'
+    place_of_birth: Corozal, Belize
+    main_entry: 'true'
+remarks: "(Linked To: D'S SUPERMARKET COMPANY LTD.)"

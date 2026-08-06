@@ -1,0 +1,35 @@
+---
+uid: '55223'
+last_name: CRISTOBAL MARINE CORP.
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '85952'
+    type: a.k.a.
+    category: strong
+    last_name: CRISTOBAL MARINE CORPORATION
+address_list:
+  items:
+  - uid: '84475'
+    address1: Trust Company Complex
+    address2: Ajeltake Road
+    city: Ajeltake Island
+    state_or_province: Majuro
+    postal_code: '96960'
+    country: Marshall Islands
+id_list:
+  items:
+  - uid: '49222'
+    id_type: Identification Number
+    id_number: IMO 6027727
+  - uid: '49223'
+    id_type: Registration Number
+    id_number: '94485'
+    id_country: Marshall Islands
+  - uid: '192449'
+    id_type: Organization Established Date
+    id_number: 18 Dec 2017
+remarks: "(Linked To: ROSE SHIPPING LIMITED)"

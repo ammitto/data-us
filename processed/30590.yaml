@@ -1,0 +1,36 @@
+---
+uid: '30590'
+first_name: Walmaro Antonio
+last_name: GUTIERREZ MERCADO
+sdn_type: Individual
+program_list:
+  programs:
+  - NICARAGUA
+address_list:
+  items:
+  - uid: '46277'
+    address1: KM. 43.5 South Road Panamerican, South Panamerican Highway
+    city: Diriamba
+    state_or_province: Carazo
+    country: Nicaragua
+id_list:
+  items:
+  - uid: '20693'
+    id_type: Passport
+    id_number: A0007922
+    id_country: Nicaragua
+    issue_date: 25 Sep 2007
+    expiration_date: 24 Sep 2012
+  - uid: '138384'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '38383'
+    date_of_birth: 05 May 1968
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '38385'
+    place_of_birth: Managua, Nicaragua
+    main_entry: 'true'

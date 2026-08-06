@@ -1,0 +1,42 @@
+---
+uid: '35312'
+first_name: Anastasia
+last_name: IGNATOVA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '55559'
+    type: a.k.a.
+    category: strong
+    last_name: IGNATOVA
+    first_name: Anastasia Mikhailovna
+  - uid: '55560'
+    type: a.k.a.
+    category: strong
+    last_name: CHEMEZOV
+    first_name: Anastasia
+address_list:
+  items:
+  - uid: '53083'
+    country: Russia
+id_list:
+  items:
+  - uid: '25022'
+    id_type: Tax ID No.
+    id_number: '770470614612'
+    id_country: Russia
+  - uid: '147561'
+    id_type: Gender
+    id_number: Female
+  - uid: '176707'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '47562'
+    date_of_birth: '1987'
+    main_entry: 'true'
+remarks: "(Linked To: CHEMEZOV, Sergei)"

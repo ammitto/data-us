@@ -1,0 +1,33 @@
+---
+uid: '11468'
+first_name: Doris Patricia
+last_name: SANCHEZ RIVERA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNT
+address_list:
+  items:
+  - uid: '17084'
+    address1: c/o FRANZUL S.A.
+    city: Medellin
+    country: Colombia
+  - uid: '17085'
+    address1: c/o HIERROS DE JERUSALEM S.A.
+    city: Medellin
+    country: Colombia
+  - uid: '17086'
+    address1: c/o TAXI AEREO ANTIOQUENO S.A.
+    city: Medellin
+    country: Colombia
+id_list:
+  items:
+  - uid: '5875'
+    id_type: Cedula No.
+    id_number: '43681039'
+    id_country: Colombia
+date_of_birth_list:
+  items:
+  - uid: '6885'
+    date_of_birth: 27 Oct 1966
+    main_entry: 'true'

@@ -1,0 +1,40 @@
+---
+uid: '50055'
+last_name: AKTSIONERNOE OBSHCHESTVO EVRAZ OBEDINENNY ZAPADNO SIBIRSKI METALLURGICHESKI
+  KOMBINAT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78036'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY EVRAZ CONSOLIDATED WEST SIBERIAN METALLURGICAL
+      PLANT
+  - uid: '78037'
+    type: a.k.a.
+    category: weak
+    last_name: EVRAZ ZSMK AO
+address_list:
+  items:
+  - uid: '75737'
+    address1: d.16, shosse Kosmicheskoe (Zavodskoi R-N)
+    city: Novokuznetsk
+    state_or_province: Kemerovo region
+    postal_code: '654043'
+    country: Russia
+id_list:
+  items:
+  - uid: '41619'
+    id_type: Registration Number
+    id_number: '1024201670020'
+    id_country: Russia
+  - uid: '41620'
+    id_type: Tax ID No.
+    id_number: '4218000951'
+    id_country: Russia
+  - uid: '178049'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

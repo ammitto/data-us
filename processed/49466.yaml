@@ -1,0 +1,36 @@
+---
+uid: '49466'
+last_name: JOINT STOCK COMPANY BOR GLASSWORKS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77159'
+    type: a.k.a.
+    category: weak
+    last_name: JSC BGW
+  - uid: '77160'
+    type: a.k.a.
+    category: strong
+    last_name: JSC AGC BOR GLASSWORKS
+address_list:
+  items:
+  - uid: '74602'
+    city: Bor
+    postal_code: '606440'
+    country: Russia
+id_list:
+  items:
+  - uid: '40797'
+    id_type: Registration Number
+    id_number: '1025201524237'
+    id_country: Russia
+  - uid: '40798'
+    id_type: Tax ID No.
+    id_number: '5246002261'
+    id_country: Russia
+  - uid: '172550'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

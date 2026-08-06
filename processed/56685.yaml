@@ -1,0 +1,48 @@
+---
+uid: '56685'
+first_name: Reza
+last_name: ZAREPOUR TARAGHI
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '87798'
+    type: a.k.a.
+    category: strong
+    last_name: ZARE PORTORGHI
+    first_name: Reza
+  - uid: '87799'
+    type: a.k.a.
+    category: strong
+    last_name: ZAREPUR TORGHI
+    first_name: Reza
+address_list:
+  items:
+  - uid: '86737'
+    country: Iran
+id_list:
+  items:
+  - uid: '50790'
+    id_type: National ID No.
+    id_number: '0944825303'
+    id_country: Iran
+  - uid: '195365'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '195363'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '95361'
+    date_of_birth: 28 Jul 1985
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '95362'
+    place_of_birth: Mashhad, Iran
+    main_entry: 'true'
+remarks: "(Linked To: PARDISAN REZVAN SHARGH INTERNATIONAL PRIVATE JOINT STOCK COMPANY)"

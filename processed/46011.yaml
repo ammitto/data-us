@@ -1,0 +1,34 @@
+---
+uid: '46011'
+first_name: Maksim Alekseyevich
+last_name: KOTELNIKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '68525'
+    address1: 3 Krashenikova St.
+    address2: Flat 9
+    city: Novosibirsk
+    postal_code: '633476'
+    country: Russia
+id_list:
+  items:
+  - uid: '35840'
+    id_type: Tax ID No.
+    id_number: '543850129194'
+    id_country: Russia
+  - uid: '174884'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '166677'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '66679'
+    date_of_birth: 31 Jan 1985
+    main_entry: 'true'
+remarks: "(Linked To: LIMITED LIABILITY COMPANY OMP)"

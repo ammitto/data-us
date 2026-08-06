@@ -1,0 +1,51 @@
+---
+uid: '9586'
+first_name: Ata Abdoulaziz
+last_name: RASHID
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '9035'
+    type: a.k.a.
+    category: strong
+    last_name: BARZINGY
+    first_name: Ata Abdoul Aziz
+  - uid: '9047'
+    type: a.k.a.
+    category: strong
+    last_name: RASHID
+    first_name: Ata Abd Al-Aziz
+address_list:
+  items:
+  - uid: '12041'
+    address1: Schmidener Street 98
+    city: Stuttgart
+    postal_code: '70374'
+    country: Germany
+  - uid: '12042'
+    address1: Stuttgart Prison
+    city: Stuttgart
+    country: Germany
+id_list:
+  items:
+  - uid: '4245'
+    id_type: Travel Document Number
+    id_number: A0020375
+    id_country: Germany
+  - uid: '186255'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '4612'
+    date_of_birth: 01 Dec 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '4613'
+    place_of_birth: Sulaymaniyah, Iraq
+    main_entry: 'true'

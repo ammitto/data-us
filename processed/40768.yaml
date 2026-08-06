@@ -1,0 +1,37 @@
+---
+uid: '40768'
+first_name: Ivan Vasilyevich
+last_name: VAKHROMEYEV
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+aka_list:
+  items:
+  - uid: '63383'
+    type: a.k.a.
+    category: weak
+    last_name: Mushroom
+  - uid: '63384'
+    type: a.k.a.
+    category: strong
+    last_name: VAKROMEEV
+    first_name: Ivan Vasilievich
+address_list:
+  items:
+  - uid: '60755'
+    state_or_province: Naro-Fominsk
+    country: Russia
+id_list:
+  items:
+  - uid: '158254'
+    id_type: Email Address
+    id_number: ivanalert@mail.ru
+  - uid: '158255'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '58257'
+    date_of_birth: 29 Dec 1988
+    main_entry: 'true'

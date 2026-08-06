@@ -1,0 +1,19 @@
+---
+uid: '54927'
+last_name: ALE
+sdn_type: Vessel
+program_list:
+  programs:
+  - IRAN-EO13902
+id_list:
+  items:
+  - uid: '48776'
+    id_type: MMSI
+    id_number: '636016895'
+  - uid: '48777'
+    id_type: Vessel Registration Identification
+    id_number: IMO 9303754
+  - uid: '191517'
+    id_type: Vessel Year of Build
+    id_number: '2006'
+remarks: "(Linked To: MARVISE SMC DMCC)"

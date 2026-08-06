@@ -1,0 +1,38 @@
+---
+uid: '41962'
+last_name: BRAND SERVER OPTIONS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65197'
+    type: a.k.a.
+    category: weak
+    last_name: BSO
+address_list:
+  items:
+  - uid: '62579'
+    address1: ul. Butlerova d. 17B
+    address2: et/p/kom/of/k 3/XII/86/1/55
+    city: Moscow
+    postal_code: '117342'
+    country: Russia
+  - uid: '62580'
+    address1: Smirnovskaya ultisa, 25s2
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '31328'
+    id_type: Registration Number
+    id_number: '1157746419082'
+    id_country: Russia
+  - uid: '31329'
+    id_type: Tax ID No.
+    id_number: '7724317936'
+    id_country: Russia
+  - uid: '173709'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

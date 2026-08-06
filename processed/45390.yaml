@@ -1,0 +1,37 @@
+---
+uid: '45390'
+first_name: Branislav
+last_name: MICUNOVIC
+sdn_type: Individual
+program_list:
+  programs:
+  - BALKANS-EO14033
+aka_list:
+  items:
+  - uid: '70241'
+    type: a.k.a.
+    category: weak
+    last_name: BRANO
+  - uid: '70242'
+    type: a.k.a.
+    category: weak
+    last_name: BRANA
+address_list:
+  items:
+  - uid: '68938'
+    country: Montenegro
+id_list:
+  items:
+  - uid: '167175'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '67111'
+    date_of_birth: '09 Jan 1953'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '67110'
+    place_of_birth: Niksic, Montenegro
+    main_entry: 'true'

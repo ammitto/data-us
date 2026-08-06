@@ -1,0 +1,40 @@
+---
+uid: '35799'
+last_name: SRL SKYLINE AVIATION
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13685
+aka_list:
+  items:
+  - uid: '57272'
+    type: a.k.a.
+    category: strong
+    last_name: SKYLINE AVIATION SRL
+  - uid: '57273'
+    type: a.k.a.
+    category: strong
+    last_name: SKYLINE AVIATION LTD
+address_list:
+  items:
+  - uid: '54627'
+    address1: Via Consiglio dei Sessanta, 99
+    address2: Dogana
+    postal_code: '47891'
+    country: San Marino
+id_list:
+  items:
+  - uid: '26756'
+    id_type: Tax ID No.
+    id_number: '26806'
+    id_country: San Marino
+  - uid: '152317'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '152447'
+    id_type: 'Organization Type:'
+    id_number: Passenger air transport
+  - uid: '149972'
+    id_type: Organization Established Date
+    id_number: '2016'

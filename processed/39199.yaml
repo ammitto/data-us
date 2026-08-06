@@ -1,0 +1,45 @@
+---
+uid: '39199'
+first_name: Andriy Leonidovich
+last_name: SIGUTA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '61157'
+    type: a.k.a.
+    category: strong
+    last_name: SIGUTA
+    first_name: Andrei Leonidovich
+address_list:
+  items:
+  - uid: '58371'
+    address1: 26 30-letia Pobedi Blvd.
+    address2: Apt. 3
+    city: Melitopol
+    state_or_province: Zaporizhzhia region
+    country: Ukraine
+id_list:
+  items:
+  - uid: '28438'
+    id_type: Tax ID No.
+    id_number: '2897911059'
+    id_country: Ukraine
+  - uid: '154964'
+    id_type: Gender
+    id_number: Male
+  - uid: '174758'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '54962'
+    date_of_birth: 05 May 1979
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '54963'
+    place_of_birth: Berdyansk, Zaporizhzhia region, Ukraine
+    main_entry: 'true'

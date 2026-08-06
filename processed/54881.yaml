@@ -1,0 +1,34 @@
+---
+uid: '54881'
+last_name: PROGWIN SHIPPING SA
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '85388'
+    type: a.k.a.
+    category: strong
+    last_name: FRACTAL SHIPPING SA
+address_list:
+  items:
+  - uid: '83849'
+    address1: Rue de la Rotisserie 11
+    city: Geneva
+    postal_code: '1204'
+    country: Switzerland
+id_list:
+  items:
+  - uid: '48685'
+    id_type: Commercial Registry Number
+    id_number: CH-660.0.193.022-0
+    id_country: Switzerland
+  - uid: '48687'
+    id_type: Identification Number
+    id_number: CHE-152.882.271
+    id_country: Switzerland
+  - uid: '191370'
+    id_type: Organization Established Date
+    id_number: 04 Feb 2022
+remarks: "(Linked To: SHAMKHANI, Mohammad Hossein)"

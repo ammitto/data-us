@@ -1,0 +1,29 @@
+---
+uid: '46052'
+last_name: LIMITED LIABILITY COMPANY RASSVET
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '68609'
+    address1: d. 5 k. 3 kv. 233
+    address2: ul. Kakhovka
+    city: Moscow
+    postal_code: '117303'
+    country: Russia
+id_list:
+  items:
+  - uid: '35912'
+    id_type: Registration Number
+    id_number: '1217700097702'
+    id_country: Russia
+  - uid: '35913'
+    id_type: Tax ID No.
+    id_number: '7727461014'
+    id_country: Russia
+  - uid: '174924'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: LIMITED LIABILITY COMPANY AHD SOUTH PORT)"

@@ -1,0 +1,64 @@
+---
+uid: '30426'
+first_name: Maalim
+last_name: AYMAN
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '47836'
+    type: a.k.a.
+    category: strong
+    last_name: AYMAN
+    first_name: Ma'alim
+  - uid: '47837'
+    type: a.k.a.
+    category: strong
+    last_name: AYMAN
+    first_name: Mo'alim
+  - uid: '47838'
+    type: a.k.a.
+    category: strong
+    last_name: ABDI
+    first_name: Nuh Ibrahim
+  - uid: '47839'
+    type: a.k.a.
+    category: strong
+    last_name: ALI
+    first_name: Abdiaziz Dubow
+  - uid: '47840'
+    type: a.k.a.
+    category: weak
+    last_name: KABO, Ayman
+address_list:
+  items:
+  - uid: '46069'
+    country: Kenya
+  - uid: '46070'
+    city: Badamadow
+    state_or_province: Lower Juba Region
+    country: Somalia
+id_list:
+  items:
+  - uid: '138095'
+    id_type: Gender
+    id_number: Male
+  - uid: '187302'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '38087'
+    date_of_birth: '1973'
+    main_entry: 'true'
+  - uid: '38088'
+    date_of_birth: '1983'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '38089'
+    place_of_birth: Kenya
+    main_entry: 'true'

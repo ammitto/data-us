@@ -1,0 +1,43 @@
+---
+uid: '52129'
+last_name: GAZPROMNEFT YAMAL LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '81651'
+    type: a.k.a.
+    category: strong
+    last_name: GAZPROM NEFTEKHIM YAMAL
+address_list:
+  items:
+  - uid: '79559'
+    address1: Ul. 50 Let Oktyabrya D. 8B
+    city: Tyumen
+    postal_code: '625000'
+    country: Russia
+  - uid: '79560'
+    address1: Ul. Mira D. 43A
+    city: Salekhard
+    postal_code: '629002'
+    country: Russia
+id_list:
+  items:
+  - uid: '45021'
+    id_type: Registration Number
+    id_number: '1118903004989'
+    id_country: Russia
+  - uid: '45022'
+    id_type: Tax ID No.
+    id_number: '8901001822'
+    id_country: Russia
+  - uid: '183030'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183431'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

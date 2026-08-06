@@ -1,0 +1,28 @@
+---
+uid: '51224'
+last_name: LIMITED LIABILITY COMPANY VERESK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '77919'
+    address1: vladenie 1 ofis 933
+    address2: shosse Mezhdunarodnoe
+    city: Khimki
+    postal_code: '141402'
+    country: Russia
+id_list:
+  items:
+  - uid: '43408'
+    id_type: Tax ID No.
+    id_number: '5047089966'
+    id_country: Russia
+  - uid: '43409'
+    id_type: Registration Number
+    id_number: '1075047014921'
+    id_country: Russia
+  - uid: '180428'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

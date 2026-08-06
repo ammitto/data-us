@@ -1,0 +1,38 @@
+---
+uid: '46582'
+last_name: EKOS1 JOINT STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '71905'
+    type: a.k.a.
+    category: strong
+    last_name: AO EKOS1
+address_list:
+  items:
+  - uid: '69335'
+    address1: Ul. Elektrozavodskaya D. 24, Str 3
+    city: Moscow
+    postal_code: '107023'
+    country: Russia
+  - uid: '69336'
+    address1: A/YA Post Box 42
+    city: Moscow
+    postal_code: '107076'
+    country: Russia
+id_list:
+  items:
+  - uid: '36552'
+    id_type: Registration Number
+    id_number: '1027739085252'
+    id_country: Russia
+  - uid: '36553'
+    id_type: Tax ID No.
+    id_number: '7729328949'
+    id_country: Russia
+  - uid: '175001'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

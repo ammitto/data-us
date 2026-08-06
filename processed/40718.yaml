@@ -1,0 +1,64 @@
+---
+uid: '40718'
+last_name: PUBLIC JOINT STOCK COMPANY MTS BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '63753'
+    type: a.k.a.
+    category: strong
+    last_name: PJSC MTS BANK
+  - uid: '63754'
+    type: f.k.a.
+    category: strong
+    last_name: OPEN JOINT STOCK COMPANY MTS BANK
+  - uid: '63755'
+    type: f.k.a.
+    category: strong
+    last_name: MOSCOW BANK FOR RECONSTRUCTION AND DEVELOPMENT
+address_list:
+  items:
+  - uid: '61070'
+    address1: PR-KT Andropova D. 18, K. 1
+    city: Moscow
+    postal_code: '115432'
+    country: Russia
+  - uid: '61071'
+    city: Abu Dhabi
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '30217'
+    id_type: Registration Number
+    id_number: '1027739053704'
+    id_country: Russia
+  - uid: '30218'
+    id_type: Tax ID No.
+    id_number: '7702045051'
+    id_country: Russia
+  - uid: '30219'
+    id_type: Legal Entity Number
+    id_number: 2534005803A5MMD61T78
+  - uid: '158539'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '174132'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184107'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '158537'
+    id_type: SWIFT/BIC
+    id_number: MBRDRUMM
+  - uid: '158538'
+    id_type: Website
+    id_number: www.mtsbank.ru
+  - uid: '158532'
+    id_type: Organization Established Date
+    id_number: 29 Jan 1993

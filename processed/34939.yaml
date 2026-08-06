@@ -1,0 +1,45 @@
+---
+uid: '34939'
+last_name: PSB LIZING OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54814'
+    type: a.k.a.
+    category: strong
+    last_name: PSB LEASING LLC
+  - uid: '54815'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTSVENNOSTYU PSB LIZING
+address_list:
+  items:
+  - uid: '52370'
+    address1: Room 8, Building 22, ul Smirnovkaya 10
+    city: Moscow
+    postal_code: '109052'
+    country: Russia
+id_list:
+  items:
+  - uid: '24578'
+    id_type: Registration Number
+    id_number: '1067746771784'
+    id_country: Russia
+  - uid: '24579'
+    id_type: Tax ID No.
+    id_number: '7722581759'
+    id_country: Russia
+  - uid: '24580'
+    id_type: Government Gazette Number
+    id_number: '96441526'
+    id_country: Russia
+  - uid: '175217'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '146416'
+    id_type: Organization Established Date
+    id_number: 05 Jul 2006
+remarks: "(Linked To: PROMSVYAZBANK PUBLIC JOINT STOCK COMPANY)"

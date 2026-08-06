@@ -1,0 +1,48 @@
+---
+uid: '47754'
+last_name: CENTRAL RESEARCH RADIO ENGINEERING INSTITUTE NAMED AFTER ACADEMICIAN A
+  I BERG
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74060'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY TSNIRTI NAMED AFTER ACADEMICIAN A I BERG
+  - uid: '74061'
+    type: a.k.a.
+    category: weak
+    last_name: 108 INSTITUTE
+  - uid: '74062'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO TSENTRALNYI NAUCHNO ISSLEDOVATELSKII RADIOTEKHNICHESKII
+      INSTITUIMENI AKADEMIKA A I BERGA
+  - uid: '74064'
+    type: a.k.a.
+    category: strong
+    last_name: AO TSNIRTI IM AKADEMIKA A I BERGA
+address_list:
+  items:
+  - uid: '71426'
+    address1: 20 Nova Basmanna Street
+    address2: Building 9
+    city: Moscow
+    postal_code: '107078'
+    country: Russia
+id_list:
+  items:
+  - uid: '38416'
+    id_type: Tax ID No.
+    id_number: '9701039940'
+    id_country: Russia
+  - uid: '38417'
+    id_type: Registration Number
+    id_number: '1167746458648'
+    id_country: Russia
+  - uid: '169628'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

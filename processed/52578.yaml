@@ -1,0 +1,33 @@
+---
+uid: '52578'
+last_name: LIMITED LIABILITY COMPANY KEYDZHI RUS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '82295'
+    type: a.k.a.
+    category: weak
+    last_name: LLC KGI RUS
+address_list:
+  items:
+  - uid: '80305'
+    address1: vladenie 165a etazh 5 kom. 25, shosse Yuzhnoe
+    city: Togliatti
+    postal_code: '445043'
+    country: Russia
+id_list:
+  items:
+  - uid: '45607'
+    id_type: Tax ID No.
+    id_number: '6317150951'
+    id_country: Russia
+  - uid: '45608'
+    id_type: Registration Number
+    id_number: '1206300068468'
+    id_country: Russia
+  - uid: '184281'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

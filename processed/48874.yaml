@@ -1,0 +1,41 @@
+---
+uid: '48874'
+last_name: AUTOMOBILE PLANT URAL JOINT STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76135'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY URAL MOTOR VEHICLES PLANT
+  - uid: '76136'
+    type: a.k.a.
+    category: weak
+    last_name: AO AZ URAL
+  - uid: '76261'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO AVTOMOBILNYI ZAVOD URAL
+address_list:
+  items:
+  - uid: '73511'
+    address1: 1 Avtozavodtsev pr-kt
+    city: Miass
+    postal_code: '456304'
+    country: Russia
+id_list:
+  items:
+  - uid: '39946'
+    id_type: Registration Number
+    id_number: '1027400870826'
+    id_country: Russia
+  - uid: '39947'
+    id_type: Tax ID No.
+    id_number: '7415029289'
+    id_country: Russia
+  - uid: '171581'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

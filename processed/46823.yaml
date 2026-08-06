@@ -1,0 +1,45 @@
+---
+uid: '46823'
+last_name: TECHNOLOGY 5 CO., LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '72331'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU TEKHNOLOGIYA 5
+  - uid: '72332'
+    type: a.k.a.
+    category: weak
+    last_name: LIMITED LIABILITY COMPANY GREEN CITY
+  - uid: '72333'
+    type: a.k.a.
+    category: strong
+    last_name: TEKNOLOGIYA 5, OOO
+address_list:
+  items:
+  - uid: '69786'
+    address1: 12/1 str. 1 pom. 38, ul. Krasnoprudnaya
+    city: Moscow
+    postal_code: '107140'
+    country: Russia
+id_list:
+  items:
+  - uid: '36908'
+    id_type: Tax ID No.
+    id_number: '7708666513'
+    id_country: Russia
+  - uid: '36909'
+    id_type: Government Gazette Number
+    id_number: '85670297'
+    id_country: Russia
+  - uid: '167654'
+    id_type: Organization Established Date
+    id_number: 19 Mar 2008
+  - uid: '176319'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: HU, Xiaoxun)"

@@ -1,0 +1,39 @@
+---
+uid: '32335'
+first_name: Cesar Enrique
+last_name: DIAZ DE LEON SAUCEDA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '51252'
+    type: a.k.a.
+    category: weak
+    last_name: LOBITO
+address_list:
+  items:
+  - uid: '48693'
+    city: Manzanillo
+    state_or_province: Colima
+    country: Mexico
+id_list:
+  items:
+  - uid: '22113'
+    id_type: C.U.R.P.
+    id_number: DISC870412HNLZCS03
+    id_country: Mexico
+  - uid: '141802'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '41800'
+    date_of_birth: 12 Apr 1987
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '41801'
+    place_of_birth: Monterrey, Nuevo Leon, Mexico
+    main_entry: 'true'

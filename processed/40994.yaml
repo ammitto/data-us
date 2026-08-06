@@ -1,0 +1,35 @@
+---
+uid: '40994'
+first_name: Aleksey Sambuyevich
+last_name: TSYDENOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '61223'
+    state_or_province: Buryatia Republic
+    country: Russia
+id_list:
+  items:
+  - uid: '30323'
+    id_type: Tax ID No.
+    id_number: '272418705747'
+    id_country: Russia
+  - uid: '158700'
+    id_type: Gender
+    id_number: Male
+  - uid: '175343'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '58698'
+    date_of_birth: 16 Mar 1976
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '58699'
+    place_of_birth: Petrovsk-Zabaykalskiy, Zabaykalye Region, Russia
+    main_entry: 'true'

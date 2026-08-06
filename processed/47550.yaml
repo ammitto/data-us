@@ -1,0 +1,38 @@
+---
+uid: '47550'
+last_name: LIMITED LIABILITY COMPANY CRYPTO PRO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73614'
+    type: a.k.a.
+    category: strong
+    last_name: KRIPTO PRO OOO
+address_list:
+  items:
+  - uid: '70999'
+    address1: Ul. Sushchevskii Val 18
+    city: Moscow
+    postal_code: '127018'
+    country: Russia
+  - uid: '71000'
+    address1: Proezd Izmailovskii D. 10, K. 2, Pomeshch. 4/1
+    city: Moscow
+    postal_code: '105037'
+    country: Russia
+id_list:
+  items:
+  - uid: '38065'
+    id_type: Registration Number
+    id_number: '1037700085444'
+    id_country: Russia
+  - uid: '38066'
+    id_type: Tax ID No.
+    id_number: '7717107991'
+    id_country: Russia
+  - uid: '169836'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

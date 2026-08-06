@@ -1,0 +1,47 @@
+---
+uid: '31927'
+first_name: Pwint
+last_name: SAN
+sdn_type: Individual
+program_list:
+  programs:
+  - BURMA-EO14014
+aka_list:
+  items:
+  - uid: '50025'
+    type: a.k.a.
+    category: strong
+    last_name: HSAN
+    first_name: Pwint
+address_list:
+  items:
+  - uid: '48063'
+    address1: Zayar Shwe Pyi Road
+    city: Naypyitaw
+    country: Burma
+id_list:
+  items:
+  - uid: '21735'
+    id_type: Passport
+    id_number: DM000334
+    id_country: Burma
+    issue_date: 30 May 2011
+    expiration_date: 29 May 2021
+  - uid: '21736'
+    id_type: National ID No.
+    id_number: 12MARAKAN007186
+    id_country: Burma
+  - uid: '140543'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '40541'
+    date_of_birth: 13 Jul 1961
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '40542'
+    place_of_birth: Rangoon, Burma
+    main_entry: 'true'
+title: Union Minister of Commerce

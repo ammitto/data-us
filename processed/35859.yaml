@@ -1,0 +1,55 @@
+---
+uid: '35859'
+last_name: PUBLIC JOINT STOCK COMPANY ARZAMASSKOE NAUCHNO PROIZVODSTVENNOE PREDPRIYATIE
+  TEMP-AVIA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56321'
+    type: a.k.a.
+    category: strong
+    last_name: TEMP-AVIA PAO
+  - uid: '56323'
+    type: a.k.a.
+    category: strong
+    last_name: PJSC ARZAMAS RESEARCH AND PRODUCTION ENTERPRISE
+  - uid: '56345'
+    type: a.k.a.
+    category: strong
+    last_name: TEMP-AVIA ARZAMAS RESEARCH & PRODUCTION ASSOCIATION JSC
+  - uid: '56347'
+    type: a.k.a.
+    category: strong
+    last_name: TEMP-AVIA ARZAMAS RESEARCH AND PRODUCTION ASSOCIATION JSC
+  - uid: '56348'
+    type: f.k.a.
+    category: strong
+    last_name: OPEN JOINT STOCK COMPANY ARZAMASSKOYE OPYTNO KONSTRUKTORSKOYE BYURO
+      TEMP
+address_list:
+  items:
+  - uid: '53815'
+    address1: 26, Kirova Street
+    city: Arzamas
+    postal_code: '607220'
+    country: Russia
+id_list:
+  items:
+  - uid: '25185'
+    id_type: Registration Number
+    id_number: '1025201335994'
+    id_country: Russia
+  - uid: '25186'
+    id_type: Tax ID No.
+    id_number: '5243001887'
+    id_country: Russia
+  - uid: '149058'
+    id_type: Organization Established Date
+    id_number: '1958'
+  - uid: '173254'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: TACTICAL MISSILES CORPORATION JSC)"

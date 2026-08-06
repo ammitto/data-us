@@ -1,0 +1,58 @@
+---
+uid: '7226'
+first_name: Ismael
+last_name: ZAMBADA GARCIA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '5174'
+    type: a.k.a.
+    category: strong
+    last_name: ZAMBADA
+    first_name: El Mayo
+  - uid: '45315'
+    type: a.k.a.
+    category: weak
+    last_name: El Mayo
+  - uid: '45316'
+    type: a.k.a.
+    category: weak
+    last_name: Mayo
+  - uid: '45317'
+    type: a.k.a.
+    category: strong
+    last_name: LOPEZ LANDEROS
+    first_name: Geronimo
+  - uid: '51369'
+    type: a.k.a.
+    category: strong
+    last_name: HERNANDEZ GARCIA
+    first_name: Javier
+  - uid: '51371'
+    type: a.k.a.
+    category: strong
+    last_name: ZAMBADA GARCIA
+    first_name: Ismael Mario
+address_list:
+  items:
+  - uid: '49244'
+    country: Mexico
+id_list:
+  items:
+  - uid: '134782'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '45511'
+    date_of_birth: '1948'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '45512'
+    place_of_birth: Sinaloa, Mexico
+    main_entry: 'true'

@@ -1,0 +1,49 @@
+---
+uid: '54763'
+first_name: Se Un
+last_name: KIM
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+aka_list:
+  items:
+  - uid: '85264'
+    type: a.k.a.
+    category: strong
+    last_name: KIM
+    first_name: Se-u'n
+address_list:
+  items:
+  - uid: '83674'
+    city: Ho Chi Minh City
+    country: Vietnam
+id_list:
+  items:
+  - uid: '48506'
+    id_type: Passport
+    id_number: '390120007'
+    id_country: Korea, North
+    issue_date: '09 Jan 2020'
+    expiration_date: '09 Jan 2025'
+  - uid: '191167'
+    id_type: Gender
+    id_number: Male
+  - uid: '191654'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '191655'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+date_of_birth_list:
+  items:
+  - uid: '91166'
+    date_of_birth: 25 Mar 1978
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '91218'
+    place_of_birth: Nampho, North Korea
+    main_entry: 'true'
+remarks: "(Linked To: KOREA SOBAEKSU TRADING CORPORATION)"

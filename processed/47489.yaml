@@ -1,0 +1,46 @@
+---
+uid: '47489'
+last_name: LIMITED LIABILITY COMPANY GROUP OF COMPANIES MKC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73489'
+    type: a.k.a.
+    category: strong
+    last_name: GRUPPA KOMPANII MKS
+address_list:
+  items:
+  - uid: '70872'
+    address1: Victorenko Str. 5, Building 1
+    address2: Business Center, Victory Plaza
+    address3: 9th Floor, Office 8A
+    city: Moscow
+    postal_code: '125167'
+    country: Russia
+  - uid: '70874'
+    address1: Voronezhskaya Str. 5, Letter A
+    address2: Section 27H, Office 224
+    city: St. Petersburg
+    postal_code: '191119'
+    country: Russia
+  - uid: '70875'
+    address1: Kirova Str. 63, Office 206
+    city: Beryozovsky
+    postal_code: '623700'
+    country: Russia
+id_list:
+  items:
+  - uid: '37945'
+    id_type: Registration Number
+    id_number: '1096604002384'
+    id_country: Russia
+  - uid: '37948'
+    id_type: Tax ID No.
+    id_number: '6604025432'
+    id_country: Russia
+  - uid: '176400'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

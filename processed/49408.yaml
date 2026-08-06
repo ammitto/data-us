@@ -1,0 +1,39 @@
+---
+uid: '49408'
+first_name: Valentina Vasilevna
+last_name: LAVRIK
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '74489'
+    state_or_province: Crimea
+    country: Ukraine
+id_list:
+  items:
+  - uid: '40694'
+    id_type: Tax ID No.
+    id_number: '2525814485'
+    id_country: Ukraine
+  - uid: '40695'
+    id_type: Tax ID No.
+    id_number: '910901957068'
+    id_country: Russia
+  - uid: '172485'
+    id_type: Gender
+    id_number: Female
+  - uid: '172772'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '72483'
+    date_of_birth: 25 Feb 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '72484'
+    place_of_birth: Khomenky, Vinnytsia Region, Ukraine
+    main_entry: 'true'

@@ -1,0 +1,35 @@
+---
+uid: '30392'
+last_name: PARS TILE COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13876
+address_list:
+  items:
+  - uid: '45913'
+    address1: No. 19, Arasbaran Sqr., East Simorgh Ave., Seyed Khandan
+    city: Tehran
+    country: Iran
+  - uid: '45916'
+    address1: Zakariya Razi St.
+    city: Alborz Industrial City
+    state_or_province: Qazvin
+    country: Iran
+id_list:
+  items:
+  - uid: '20513'
+    id_type: Registration Number
+    id_number: '17249'
+    id_country: Iran
+  - uid: '20514'
+    id_type: National ID No.
+    id_number: '10100607716'
+    id_country: Iran
+  - uid: '138008'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '138007'
+    id_type: Website
+    id_number: http://pars-tile.com
+remarks: "(Linked To: SINA TILE AND CERAMIC INDUSTRIES COMPANY)"

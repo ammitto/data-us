@@ -1,0 +1,33 @@
+---
+uid: '50826'
+last_name: OOO VEKTOR GRUPP
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79597'
+    type: a.k.a.
+    category: strong
+    last_name: VEKTOR GRUPP
+address_list:
+  items:
+  - uid: '77152'
+    address1: per. Studenetskii, d. 3, floor/pomeshch. 1/7A
+    city: Moscow
+    postal_code: '127300'
+    country: Russia
+id_list:
+  items:
+  - uid: '42777'
+    id_type: Tax ID No.
+    id_number: '7703438390'
+    id_country: Russia
+  - uid: '42778'
+    id_type: Registration Number
+    id_number: '5177746281720'
+    id_country: Russia
+  - uid: '179468'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

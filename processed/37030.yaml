@@ -1,0 +1,52 @@
+---
+uid: '37030'
+last_name: JOINT STOCK COMPANY NORTHERN SHIPPING COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '58147'
+    type: a.k.a.
+    category: strong
+    last_name: JSC NSC ARKHANGELSK
+  - uid: '58148'
+    type: a.k.a.
+    category: weak
+    last_name: ANSC
+  - uid: '58149'
+    type: a.k.a.
+    category: weak
+    last_name: OJSC NSC
+  - uid: '58150'
+    type: a.k.a.
+    category: strong
+    last_name: OJSC NORTHERN SHIPPING COMPANY
+  - uid: '58151'
+    type: a.k.a.
+    category: strong
+    last_name: OPEN JSC NORTHERN SHIPPING COMPANY
+  - uid: '58152'
+    type: a.k.a.
+    category: strong
+    last_name: OAO SEVERNOYE MORSKOYE PAROKHODSTVO
+address_list:
+  items:
+  - uid: '55428'
+    address1: Nab. Severnoy Dviny, 36
+    city: Arkhangelsk
+    postal_code: '163000'
+    country: Russia
+id_list:
+  items:
+  - uid: '26320'
+    id_type: Identification Number
+    id_number: IMO 0555641
+  - uid: '26321'
+    id_type: Tax ID No.
+    id_number: '2901008432'
+    id_country: Russia
+  - uid: '174443'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

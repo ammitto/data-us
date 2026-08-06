@@ -1,0 +1,30 @@
+---
+uid: '49460'
+last_name: ORG LOGISTICS FZE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '74590'
+    address1: Block E04, F03
+    address2: Dubai Airport Freezone
+    city: Dubai
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '40786'
+    id_type: License
+    id_number: '2654'
+    id_country: United Arab Emirates
+  - uid: '40985'
+    id_type: Economic Register Number (CBLS)
+    id_number: '12225406'
+    id_country: United Arab Emirates
+  - uid: '172543'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '172841'
+    id_type: 'Organization Type:'
+    id_number: Freight air transport

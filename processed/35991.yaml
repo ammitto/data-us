@@ -1,0 +1,41 @@
+---
+uid: '35991'
+first_name: Dmitry
+last_name: PLESHEVSKIY
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+aka_list:
+  items:
+  - uid: '63279'
+    type: a.k.a.
+    category: weak
+    last_name: Iseldor
+address_list:
+  items:
+  - uid: '54023'
+    city: Zelenograd
+    country: Russia
+id_list:
+  items:
+  - uid: '149273'
+    id_type: Gender
+    id_number: Male
+  - uid: '158081'
+    id_type: Email Address
+    id_number: pleshevskiy@gmail.com
+  - uid: '158082'
+    id_type: Email Address
+    id_number: dmitriy@ideascup.me
+  - uid: '158083'
+    id_type: Email Address
+    id_number: support@ideascup.me
+  - uid: '158084'
+    id_type: Email Address
+    id_number: pleshevskie@gmail.com
+date_of_birth_list:
+  items:
+  - uid: '49272'
+    date_of_birth: 30 Jul 1992
+    main_entry: 'true'

@@ -1,0 +1,37 @@
+---
+uid: '41798'
+first_name: Saodat Burxanovna
+last_name: NARZIEVA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '62369'
+    country: Uzbekistan
+id_list:
+  items:
+  - uid: '31182'
+    id_type: Passport
+    id_number: AA1333009
+    id_country: Uzbekistan
+    issue_date: '08 May 2013'
+    expiration_date: 07 May 2023
+  - uid: '173692'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '160018'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '60015'
+    date_of_birth: 15 May 1965
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '60016'
+    place_of_birth: Uzbekistan
+    main_entry: 'true'
+remarks: "(Linked To: NASIRKHODJAEV, Shokhrukh Olimdjonovich)"

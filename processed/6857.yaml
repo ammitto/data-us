@@ -1,0 +1,41 @@
+---
+uid: '6857'
+first_name: Osiel
+last_name: CARDENAS GUILLEN
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '4611'
+    type: a.k.a.
+    category: weak
+    last_name: SALINAS AGUILAR, Jorge
+  - uid: '89724'
+    type: a.k.a.
+    category: weak
+    last_name: CARDENAS CASTILLO, Osiel
+address_list:
+  items:
+  - uid: '89057'
+    country: Mexico
+id_list:
+  items:
+  - uid: '52549'
+    id_type: C.U.R.P.
+    id_number: CXGO670518HTSRLS02
+    id_country: Mexico
+  - uid: '199167'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '1189'
+    date_of_birth: 18 May 1967
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '1190'
+    place_of_birth: Tamaulipas, Mexico
+    main_entry: 'true'

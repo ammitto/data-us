@@ -1,0 +1,32 @@
+---
+uid: '52065'
+first_name: Kamlesh Mansukhlal Damji
+last_name: PATTNI
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+address_list:
+  items:
+  - uid: '79640'
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '44905'
+    id_type: Passport
+    id_number: CK23926
+    id_country: Kenya
+    expiration_date: 11 Mar 2029
+  - uid: '182863'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '82862'
+    date_of_birth: 12 Mar 1965
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '82865'
+    place_of_birth: Mombasa, Kenya
+    main_entry: 'true'

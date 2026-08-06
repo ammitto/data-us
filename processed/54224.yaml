@@ -1,0 +1,49 @@
+---
+uid: '54224'
+last_name: SAIRAN INFORMATION EXCHANGE SPACE SECURITY INDUSTRIES COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - SDGT
+aka_list:
+  items:
+  - uid: '84448'
+    type: a.k.a.
+    category: strong
+    last_name: SAIRAN INFORMATION EXCHANGE SPACE SECURITY INDUSTRY
+  - uid: '84449'
+    type: a.k.a.
+    category: weak
+    last_name: SAAFTA
+address_list:
+  items:
+  - uid: '82813'
+    address1: Shahid Teymouri Alley, Shahid Langari Street
+    address2: Nobonyad Square
+    address3: Pasdaran Street
+    state_or_province: Tehran
+    postal_code: '1957975713'
+    country: Iran
+id_list:
+  items:
+  - uid: '47759'
+    id_type: National ID No.
+    id_number: '14004828226'
+    id_country: Iran
+  - uid: '47760'
+    id_type: Identification Number
+    id_number: '411481176816'
+    id_country: Iran
+  - uid: '47761'
+    id_type: Registration Number
+    id_number: '470437'
+    id_country: Iran
+  - uid: '198303'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '189937'
+    id_type: Organization Established Date
+    id_number: 05 Apr 2015
+remarks: "(Linked To: MINISTRY OF DEFENSE AND ARMED FORCES LOGISTICS)"

@@ -1,0 +1,30 @@
+---
+uid: '47833'
+last_name: LIMITED LIABILITY COMPANY HYPERSPACE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '71583'
+    address1: 40 Bolshoy Boulevard, Floor 5, Room 81
+    city: Moscow
+    postal_code: '121205'
+    country: Russia
+id_list:
+  items:
+  - uid: '38553'
+    id_type: Tax ID No.
+    id_number: '9731083520'
+    id_country: Russia
+  - uid: '38554'
+    id_type: Registration Number
+    id_number: '1217700446171'
+    id_country: Russia
+  - uid: '176478'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '170067'
+    id_type: 'Organization Type:'
+    id_number: Activities of holding companies

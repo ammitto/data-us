@@ -1,0 +1,43 @@
+---
+uid: '44025'
+first_name: Husayn
+last_name: A'INI
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '68066'
+    type: a.k.a.
+    category: strong
+    last_name: A'INI
+    first_name: Hosein Omid
+  - uid: '68067'
+    type: a.k.a.
+    category: strong
+    last_name: AYINI
+    first_name: Hosein
+address_list:
+  items:
+  - uid: '65521'
+    country: Iran
+id_list:
+  items:
+  - uid: '33412'
+    id_type: National ID No.
+    id_number: '3801669696'
+    id_country: Iran
+  - uid: '163605'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '163604'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '63602'
+    date_of_birth: 15 Jan 1976
+    main_entry: 'true'
+remarks: "(Linked To: IRAN AIRCRAFT MANUFACTURING INDUSTRIAL COMPANY)"

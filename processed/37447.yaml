@@ -1,0 +1,52 @@
+---
+uid: '37447'
+last_name: JSC ARGUMENT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '58623'
+    type: a.k.a.
+    category: strong
+    last_name: ARGUMENT JSC
+  - uid: '58624'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY ARGUMENT
+address_list:
+  items:
+  - uid: '55985'
+    address1: Ul. 2-Ya Entuziastov D. 5
+    address2: K. 40, Floor 4, Kom. 8A, Office 3
+    city: Moscow
+    postal_code: '111024'
+    country: Russia
+  - uid: '55986'
+    address1: Office 36
+    address2: ul Novorossiyskaya 163R
+    city: Gelendzhik
+    state_or_province: Krasnodarskiy Kray
+    postal_code: '353460'
+    country: Russia
+id_list:
+  items:
+  - uid: '26628'
+    id_type: Identification Number
+    id_number: IMO 6297782
+  - uid: '26629'
+    id_type: Registration Number
+    id_number: '1207700471110'
+    id_country: Russia
+  - uid: '26630'
+    id_type: Tax ID No.
+    id_number: '7720649916'
+    id_country: Russia
+  - uid: '173405'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '152199'
+    id_type: Organization Established Date
+    id_number: 10 Dec 2020
+remarks: "(Linked To: PUTIN, Vladimir Vladimirovich)"

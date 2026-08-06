@@ -1,0 +1,32 @@
+---
+uid: '28526'
+first_name: Justo Pastor
+last_name: URBINA
+sdn_type: Individual
+program_list:
+  programs:
+  - NICARAGUA
+  - NICARAGUA-NHRAA
+address_list:
+  items:
+  - uid: '43119'
+    country: Nicaragua
+id_list:
+  items:
+  - uid: '18897'
+    id_type: Passport
+    id_number: A0006405
+    id_country: Nicaragua
+  - uid: '134246'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '34244'
+    date_of_birth: 29 Jan 1956
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '34247'
+    place_of_birth: Nicaragua
+    main_entry: 'true'

@@ -1,0 +1,54 @@
+---
+uid: '50251'
+first_name: Sergey Adolfovich
+last_name: DYACHKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78464'
+    type: a.k.a.
+    category: strong
+    last_name: DYACHKOV
+    first_name: Sergei Adolfovich
+  - uid: '78467'
+    type: a.k.a.
+    category: strong
+    last_name: DIACHKOV
+    first_name: Sergei Adolfovich
+address_list:
+  items:
+  - uid: '76089'
+    country: Russia
+id_list:
+  items:
+  - uid: '41920'
+    id_type: Tax ID No.
+    id_number: '73280738648127'
+    id_country: Russia
+  - uid: '41922'
+    id_type: Passport
+    id_number: '7304273188'
+    id_country: Russia
+  - uid: '41923'
+    id_type: Passport
+    id_number: '7301381541'
+    id_country: Russia
+  - uid: '178027'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '177921'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '77918'
+    date_of_birth: 26 May 1959
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '77919'
+    place_of_birth: Ulyanovsk Region, Russia
+    main_entry: 'true'

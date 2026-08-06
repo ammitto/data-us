@@ -1,0 +1,47 @@
+---
+uid: '29360'
+first_name: Kudakwashe Regimond
+last_name: TAGWIREI
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '46120'
+    type: a.k.a.
+    category: strong
+    last_name: TAGWIREI
+    first_name: Kuda
+address_list:
+  items:
+  - uid: '44403'
+    address1: 4 Luna Road
+    address2: Borrowdale
+    city: Harare
+    country: Zimbabwe
+id_list:
+  items:
+  - uid: '19545'
+    id_type: National ID No.
+    id_number: 29135894Z66
+    id_country: Zimbabwe
+  - uid: '19546'
+    id_type: Passport
+    id_number: FN920256
+    id_country: Zimbabwe
+    issue_date: 02 Jul 2019
+    expiration_date: 01 Jul 2029
+  - uid: '136168'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '36167'
+    date_of_birth: 12 Feb 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '36170'
+    place_of_birth: Shurugwi, Midlands, Zimbabwe
+    main_entry: 'true'

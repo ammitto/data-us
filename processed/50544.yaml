@@ -1,0 +1,66 @@
+---
+uid: '50544'
+last_name: AUTONOMOUS NON-PROFIT ORGANIZATION DIALOG REGIONS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79025'
+    type: a.k.a.
+    category: strong
+    last_name: AUTONOMOUS NON-PROFIT ORGANIZATION FOR THE DEVELOPMENT OF DIGITAL PROJECTS
+      IN THE FIELD OF PUBLIC RELATIONS AND COMMUNICATIONS DIALOG REGIONS
+  - uid: '79026'
+    type: a.k.a.
+    category: strong
+    last_name: ANO DIALOG REGIONS
+  - uid: '79027'
+    type: a.k.a.
+    category: weak
+    last_name: DIALOGUE REGIONS
+  - uid: '79028'
+    type: a.k.a.
+    category: weak
+    last_name: DIALOG REGIONY
+  - uid: '79029'
+    type: a.k.a.
+    category: weak
+    last_name: DIALOGUE
+  - uid: '79030'
+    type: a.k.a.
+    category: strong
+    last_name: AVTONOMNAYA NEKOMMERCHESKAYA ORGANIZATSIYA PO RAZVITIYU TSIFROVYKH
+      PROEKTOV V SFERE OBSHCHESTEVENNYKH SVYAZEI I KOMMUNIKATSII DIALOG REGIONY
+address_list:
+  items:
+  - uid: '76634'
+    address1: Ul. Timura Frunze
+    address2: D. 11, Str. 1, Floor 1, Pomeshch. I, Kom. 2
+    city: Moscow
+    postal_code: '119021'
+    country: Russia
+id_list:
+  items:
+  - uid: '42368'
+    id_type: Tax ID No.
+    id_number: '9709063550'
+    id_country: Russia
+  - uid: '42369'
+    id_type: Business Registration Number
+    id_number: '1207700248030'
+    id_country: Russia
+  - uid: '178700'
+    id_type: Website
+    id_number: www.dialog.info
+  - uid: '178701'
+    id_type: Website
+    id_number: www.dialog-regions.ru
+  - uid: '178698'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '178699'
+    id_type: Organization Established Date
+    id_number: 21 Jul 2020
+remarks: "(Linked To: AUTONOMOUS NON-PROFIT ORGANIZATION DIALOG)"

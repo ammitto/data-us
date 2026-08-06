@@ -1,0 +1,31 @@
+---
+uid: '40127'
+first_name: Andrey Yurievich
+last_name: SHUTOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '59745'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '156929'
+    id_type: Gender
+    id_number: Male
+  - uid: '174806'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '56927'
+    date_of_birth: '09 Mar 1963'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '56928'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'

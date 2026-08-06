@@ -1,0 +1,56 @@
+---
+uid: '30378'
+last_name: SINA FINANCIAL AND INVESTMENT HOLDING COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13876
+aka_list:
+  items:
+  - uid: '47650'
+    type: a.k.a.
+    category: weak
+    last_name: SFI
+  - uid: '47652'
+    type: a.k.a.
+    category: strong
+    last_name: SINA FINANCIAL & INVESTMENT HOLDING CO.
+  - uid: '47653'
+    type: a.k.a.
+    category: strong
+    last_name: SINA FINANCIAL AND INVESTMENT HOLDING CO.
+  - uid: '47673'
+    type: a.k.a.
+    category: strong
+    last_name: SINA INVESTMENT MANAGEMENT CO.
+address_list:
+  items:
+  - uid: '45875'
+    address1: 4th Floor, No. 7, 12th Alley, Bokharest Ahmad Ghasir Street, District
+      6
+    city: Tehran
+    state_or_province: Tehran Province
+    postal_code: '1514757111'
+    country: Iran
+  - uid: '45876'
+    address1: 13th Floor, Building No. 1, Mostazafan Foundation Premises, Argentina
+      Sq, Africa Blvd
+    city: Tehran
+    country: Iran
+  - uid: '45877'
+    address1: Resalat Highway prior to Africa Boulevard, Bonyad Mostazafan Building
+      Number 1, 13th Floor
+    country: Iran
+id_list:
+  items:
+  - uid: '20500'
+    id_type: National ID No.
+    id_number: '10340058917'
+    id_country: Iran
+  - uid: '137995'
+    id_type: Website
+    id_number: http://www.sfi.co.ir
+  - uid: '137997'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: ISLAMIC REVOLUTION MOSTAZAFAN FOUNDATION)"

@@ -1,0 +1,41 @@
+---
+uid: '50776'
+last_name: LIMITED LIABILITY COMPANY JSC UNMANNED TECHNOLOGIES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79509'
+    type: a.k.a.
+    category: weak
+    last_name: BPLA TECH
+  - uid: '79510'
+    type: a.k.a.
+    category: strong
+    last_name: OOO AO BESPILOTNYE TEKHNOLOGII
+address_list:
+  items:
+  - uid: '77042'
+    address1: Proezd Khlebozavodskii, D. 7
+    address2: Str. 9, Pomeshch 19/N, Office 2412
+    city: Moscow
+    postal_code: '115230'
+    country: Russia
+id_list:
+  items:
+  - uid: '42677'
+    id_type: Registration Number
+    id_number: '1237700049180'
+    id_country: Russia
+  - uid: '42678'
+    id_type: Tax ID No.
+    id_number: '9724118500'
+    id_country: Russia
+  - uid: '179415'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '179414'
+    id_type: Organization Established Date
+    id_number: 24 Jan 2023

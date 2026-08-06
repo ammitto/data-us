@@ -1,0 +1,45 @@
+---
+uid: '43337'
+last_name: TECHNICAL RECONNAISSANCE BUREAU
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK2
+aka_list:
+  items:
+  - uid: '67195'
+    type: a.k.a.
+    category: weak
+    last_name: THIRD BUREAU
+  - uid: '67196'
+    type: a.k.a.
+    category: strong
+    last_name: 3RD BUREAU OF THE RGB
+  - uid: '67197'
+    type: a.k.a.
+    category: strong
+    last_name: 3RD TECHNICAL SURVEILLANCE BUREAU
+  - uid: '67198'
+    type: a.k.a.
+    category: strong
+    last_name: 3RD DEPARTMENT SIGNAL INTELLIGENCE
+  - uid: '67199'
+    type: a.k.a.
+    category: strong
+    last_name: TECHNICAL RECONNAISSANCE TEAM
+address_list:
+  items:
+  - uid: '64686'
+    country: Korea, North
+id_list:
+  items:
+  - uid: '162690'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '162692'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '162691'
+    id_type: Target Type
+    id_number: Government Entity

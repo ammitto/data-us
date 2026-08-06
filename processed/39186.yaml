@@ -1,0 +1,38 @@
+---
+uid: '39186'
+last_name: RZHANOV INSTITUTE OF SEMICONDUCTOR PHYSICS SIBERIAN BRANCH OF RUSSIAN ACADEMY
+  OF SCIENCES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '61119'
+    type: a.k.a.
+    category: strong
+    last_name: RZHANOV INSTITUTE OF SEMICONDUCTOR PHYSICS SB RAS
+  - uid: '61120'
+    type: a.k.a.
+    category: strong
+    last_name: ISP SB RAS
+address_list:
+  items:
+  - uid: '58346'
+    address1: 13 Lavrentiev Aven.
+    city: Novosibirsk
+    postal_code: '630090'
+    country: Russia
+id_list:
+  items:
+  - uid: '28413'
+    id_type: Tax ID No.
+    id_number: '5408100057'
+    id_country: Russia
+  - uid: '28414'
+    id_type: Registration Number
+    id_number: '1025403651283'
+    id_country: Russia
+  - uid: '174753'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

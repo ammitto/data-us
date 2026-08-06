@@ -1,0 +1,93 @@
+---
+uid: '24763'
+first_name: Muhamad Ali
+last_name: AL-HEBO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '39113'
+    type: a.k.a.
+    category: strong
+    last_name: AL-HABU
+    first_name: Muhammad
+  - uid: '39115'
+    type: a.k.a.
+    category: strong
+    last_name: ALHOBO
+    first_name: Mohamad Abdulkarim
+  - uid: '39117'
+    type: a.k.a.
+    category: strong
+    last_name: HABO
+    first_name: Muhammed
+  - uid: '39118'
+    type: a.k.a.
+    category: strong
+    last_name: HEBBO
+    first_name: Mohammed
+  - uid: '39119'
+    type: a.k.a.
+    category: strong
+    last_name: HABU
+    first_name: Muhammad
+  - uid: '43382'
+    type: a.k.a.
+    category: strong
+    last_name: AL-HABU
+    first_name: Muhammad Abd-al-Karim
+address_list:
+  items:
+  - uid: '37461'
+    address1: Hurriyet Caddesi
+    address2: Sahinbey
+    city: Gaziantep
+    country: Turkey
+  - uid: '37462'
+    country: Syria
+  - uid: '37463'
+    country: Lebanon
+id_list:
+  items:
+  - uid: '15875'
+    id_type: Passport
+    id_number: '00814L001424'
+    id_country: Syria
+  - uid: '15876'
+    id_type: National ID No.
+    id_number: '2020409266'
+    id_country: Syria
+  - uid: '15877'
+    id_type: National ID No.
+    id_number: '2020316097'
+    id_country: Syria
+  - uid: '15878'
+    id_type: National ID No.
+    id_number: '10716775'
+    id_country: Syria
+  - uid: '187203'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '128310'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '27778'
+    date_of_birth: 01 Oct 1980
+    main_entry: 'true'
+  - uid: '27779'
+    date_of_birth: 15 Mar 1983
+    main_entry: 'false'
+  - uid: '27780'
+    date_of_birth: 01 Jan 1980
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '27782'
+    place_of_birth: Syria
+    main_entry: 'true'
+remarks: "(Linked To: AL-HEBO JEWELRY COMPANY)"

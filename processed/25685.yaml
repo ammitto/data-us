@@ -1,0 +1,51 @@
+---
+uid: '25685'
+last_name: BANK OF INDUSTRY AND MINE
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - IRAN
+  - NPWMD
+aka_list:
+  items:
+  - uid: '40406'
+    type: a.k.a.
+    category: weak
+    last_name: BIM
+  - uid: '40407'
+    type: a.k.a.
+    category: strong
+    last_name: BANK OF INDUSTRY & MINE
+  - uid: '40408'
+    type: a.k.a.
+    category: strong
+    last_name: BANK SANAD VA MADAN
+address_list:
+  items:
+  - uid: '38875'
+    address1: 1655 Vali-E-Asr After Chamran Crossroad
+    city: Tehran
+    country: Iran
+  - uid: '38876'
+    address1: PO Box 15875-4456, Firouzeh Tower, No 2917 Vali-Asr Ave (after Chamran
+      Crossroads)
+    city: Tehran
+    postal_code: '1965643511'
+    country: Iran
+id_list:
+  items:
+  - uid: '16588'
+    id_type: Registration Number
+    id_number: '38705'
+    id_country: Iran
+  - uid: '129662'
+    id_type: SWIFT/BIC
+    id_number: BOIMIRTH
+  - uid: '129663'
+    id_type: Website
+    id_number: www.bim.ir
+  - uid: '129661'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: 'All Offices Worldwide; (Linked To: BANK SEPAH)'

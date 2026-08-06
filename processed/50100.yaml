@@ -1,0 +1,32 @@
+---
+uid: '50100'
+last_name: DP SHIPPING LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '75790'
+    address1: Trust Company Complex, Ajeltake Road
+    city: Majuro
+    state_or_province: Ajeltake Island
+    postal_code: '96960'
+    country: Marshall Islands
+id_list:
+  items:
+  - uid: '41672'
+    id_type: Identification Number
+    id_number: IMO 6341738
+  - uid: '41673'
+    id_type: Registration Number
+    id_number: '115748'
+    id_country: Marshall Islands
+  - uid: '177614'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '177615'
+    id_type: Organization Established Date
+    id_number: 12 Aug 2022
+remarks: "(Linked To: AL-JAMAL, Sa'id Ahmad Muhammad)"

@@ -1,0 +1,34 @@
+---
+uid: '44216'
+last_name: MCI TRADING DOO BEOGRAD PALILULA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '68380'
+    type: a.k.a.
+    category: strong
+    last_name: MCI DOO BEOGRAD
+address_list:
+  items:
+  - uid: '65803'
+    address1: Mirocka 1/1
+    city: Belgrade
+    postal_code: '11060'
+    country: Serbia
+id_list:
+  items:
+  - uid: '33643'
+    id_type: Tax ID No.
+    id_number: '104545548'
+    id_country: Serbia
+  - uid: '33644'
+    id_type: Registration Number
+    id_number: '20186909'
+    id_country: Serbia
+  - uid: '176969'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: LIMITED LIABILITY COMPANY AK MICROTECH)"

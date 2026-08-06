@@ -1,0 +1,37 @@
+---
+uid: '46492'
+first_name: Francisco Abraham
+last_name: FLORES ORTIZ
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '71767'
+    type: a.k.a.
+    category: weak
+    last_name: PANCHITO
+address_list:
+  items:
+  - uid: '69168'
+    country: Mexico
+id_list:
+  items:
+  - uid: '36420'
+    id_type: C.U.R.P.
+    id_number: FOOF770813HSLLRR00
+    id_country: Mexico
+  - uid: '167346'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '67344'
+    date_of_birth: 13 Aug 1977
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '67345'
+    place_of_birth: Sinaloa, Mexico
+    main_entry: 'true'

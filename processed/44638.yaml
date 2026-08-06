@@ -1,0 +1,57 @@
+---
+uid: '44638'
+last_name: VELESSTROI LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '69623'
+    type: a.k.a.
+    category: weak
+    last_name: VELESSTROY
+  - uid: '69624'
+    type: a.k.a.
+    category: strong
+    last_name: VELESSTROY LIMITED LIABILITY COMPANY
+  - uid: '69625'
+    type: a.k.a.
+    category: strong
+    last_name: OBSCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU VELESSTROI
+  - uid: '69626'
+    type: f.k.a.
+    category: strong
+    last_name: AMERKO OOO
+address_list:
+  items:
+  - uid: '66937'
+    address1: UL. 2-YA Tverskaya-Yamskaya D. 10
+    city: Moscow
+    postal_code: '125047'
+    country: Russia
+id_list:
+  items:
+  - uid: '34620'
+    id_type: Registration Number
+    id_number: '1087746466950'
+    id_country: Russia
+  - uid: '34621'
+    id_type: Government Gazette Number
+    id_number: '85762734'
+    id_country: Russia
+  - uid: '34622'
+    id_type: Tax ID No.
+    id_number: '7709787790'
+    id_country: Russia
+  - uid: '165314'
+    id_type: Organization Established Date
+    id_number: 04 Apr 2008
+  - uid: '173778'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184410'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

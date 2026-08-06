@@ -1,0 +1,52 @@
+---
+uid: '50501'
+first_name: Liu
+last_name: YANG
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78934'
+    type: a.k.a.
+    category: weak
+    last_name: YANG, Jason
+address_list:
+  items:
+  - uid: '76568'
+    address1: Daqiaobei Road
+    address2: Room 201 Unit 1 Building 4 No. 32
+    city: Liling
+    state_or_province: Hunan
+    postal_code: '412299'
+    country: China
+id_list:
+  items:
+  - uid: '42302'
+    id_type: National ID No.
+    id_number: '430281198512065656'
+    id_country: China
+  - uid: '42303'
+    id_type: Passport
+    id_number: E12074567
+    id_country: China
+    issue_date: 25 Feb 2013
+    expiration_date: 24 Feb 2023
+  - uid: '178557'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '178560'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '78558'
+    date_of_birth: 06 Dec 1985
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '78559'
+    place_of_birth: Liling, China
+    main_entry: 'true'
+remarks: "(Linked To: SHANGHAI OCEANEN ENVIRONMENTAL SCIENCE AND TECHNOLOGY CO., LTD.)"

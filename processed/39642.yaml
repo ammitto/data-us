@@ -1,0 +1,43 @@
+---
+uid: '39642'
+first_name: Liibaan Yousuf
+last_name: MOHAMED
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '61753'
+    type: a.k.a.
+    category: weak
+    last_name: DHEERE, Liban
+  - uid: '61754'
+    type: a.k.a.
+    category: strong
+    last_name: MOHAMED
+    first_name: Liban Yusuf
+address_list:
+  items:
+  - uid: '59016'
+    state_or_province: Puntland
+    country: Somalia
+  - uid: '59017'
+    address1: Yaqshid District
+    city: Mogadishu
+    country: Somalia
+id_list:
+  items:
+  - uid: '155911'
+    id_type: Gender
+    id_number: Male
+  - uid: '155913'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '55910'
+    date_of_birth: '1978'
+    main_entry: 'true'
+remarks: "(Linked To: ISIS-SOMALIA)"

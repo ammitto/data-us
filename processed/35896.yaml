@@ -1,0 +1,41 @@
+---
+uid: '35896'
+last_name: AKTSIONERNOE OBSHCHESTVO VERKHNEUFALEISKII ZAVOD URALELEMENT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56450'
+    type: a.k.a.
+    category: strong
+    last_name: JSC VERHNEUFALEYSKY ZAVOD URALELEMENT
+  - uid: '56451'
+    type: a.k.a.
+    category: strong
+    last_name: AO URALELEMENT
+address_list:
+  items:
+  - uid: '53876'
+    address1: Ul. Dmitrieva D. 24
+    city: Verkhniy Ufaley
+    postal_code: '456800'
+    country: Russia
+id_list:
+  items:
+  - uid: '25247'
+    id_type: Tax ID No.
+    id_number: '7402006277'
+    id_country: Russia
+  - uid: '25248'
+    id_type: Registration Number
+    id_number: '1047401500046'
+    id_country: Russia
+  - uid: '173291'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '149089'
+    id_type: Organization Established Date
+    id_number: 12 May 1992
+remarks: "(Linked To: JOINT STOCK COMPANY CONCERN SEA UNDERWATER WEAPON GIDROPRIBOR)"

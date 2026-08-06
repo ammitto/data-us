@@ -1,0 +1,73 @@
+---
+uid: '52601'
+first_name: Ahmed
+last_name: ABDALLA
+sdn_type: Individual
+program_list:
+  programs:
+  - SUDAN-EO14098
+aka_list:
+  items:
+  - uid: '82340'
+    type: a.k.a.
+    category: strong
+    last_name: AHMED
+    first_name: Abdalla Khalafalla Abdalla
+  - uid: '82712'
+    type: a.k.a.
+    category: strong
+    last_name: KHALAFALLAH
+    first_name: Abdallah Ahmed Abdallah
+  - uid: '82713'
+    type: a.k.a.
+    category: strong
+    last_name: ABDALLA
+    first_name: Akhmed Abdalla Khalafalla
+address_list:
+  items:
+  - uid: '80350'
+    address1: Pishonevskaya 20-1, Flat 76
+    city: Odessa
+    state_or_province: Odessa
+    postal_code: '65026'
+    country: Ukraine
+  - uid: '80354'
+    address1: Apt. 5405, Amna Tower, Al Habtoor City
+    city: Dubai
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '45648'
+    id_type: Passport
+    id_number: PU669310
+    id_country: Ukraine
+    expiration_date: 20 Sep 2032
+  - uid: '45653'
+    id_type: Passport
+    id_number: PU683987
+    id_country: Ukraine
+    expiration_date: 28 Oct 2032
+  - uid: '45654'
+    id_type: Passport
+    id_number: FM684476
+    id_country: Ukraine
+    expiration_date: 05 Apr 2028
+  - uid: '45655'
+    id_type: Passport
+    id_number: FB793884
+    id_country: Ukraine
+    expiration_date: '09 Sep 2025'
+  - uid: '184356'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '84355'
+    date_of_birth: 14 Mar 1978
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '84357'
+    place_of_birth: Omdurman, Sudan
+    main_entry: 'true'
+remarks: "(Linked To: DEFENSE INDUSTRIES SYSTEM)"

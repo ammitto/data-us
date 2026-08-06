@@ -1,0 +1,36 @@
+---
+uid: '49452'
+last_name: LIMITED LIABILITY COMPANY UGOLNAYA KOMPANIYA RAZREZ MAYRYKHSKIY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77137'
+    type: a.k.a.
+    category: strong
+    last_name: COAL COMPANY MAIRYKHSKY OPEN PIT MINE LTD
+  - uid: '77138'
+    type: a.k.a.
+    category: strong
+    last_name: RAZREZ MAYRYKHSKY COAL COMPANY LLC
+address_list:
+  items:
+  - uid: '74573'
+    city: Altayskiy District
+    postal_code: '655682'
+    country: Russia
+id_list:
+  items:
+  - uid: '40772'
+    id_type: Registration Number
+    id_number: '1131901005510'
+    id_country: Russia
+  - uid: '40773'
+    id_type: Tax ID No.
+    id_number: '1901116203'
+    id_country: Russia
+  - uid: '172767'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

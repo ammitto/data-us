@@ -1,0 +1,37 @@
+---
+uid: '34673'
+last_name: PASKAL OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54318'
+    type: a.k.a.
+    category: strong
+    last_name: PASKAL LLC
+address_list:
+  items:
+  - uid: '51912'
+    address1: Ul. Smirnovskaya D. 10, Str. 8 Kabinet 12
+    city: Moscow
+    postal_code: '109052'
+    country: Russia
+id_list:
+  items:
+  - uid: '24289'
+    id_type: Registration Number
+    id_number: '1157746322370'
+    id_country: Russia
+  - uid: '24291'
+    id_type: Tax ID No.
+    id_number: '7725269347'
+    id_country: Russia
+  - uid: '175169'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '146058'
+    id_type: Organization Established Date
+    id_number: '09 Apr 2015'
+remarks: "(Linked To: PROMSVYAZBANK PUBLIC JOINT STOCK COMPANY)"

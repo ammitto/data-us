@@ -1,0 +1,34 @@
+---
+uid: '45691'
+last_name: CENTRAL INSTITUTE OF AVIATION MOTORS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70577'
+    type: a.k.a.
+    category: weak
+    last_name: CIAM
+address_list:
+  items:
+  - uid: '67916'
+    address1: ul. Aviamotornaya
+    address2: D. 2
+    city: Moscow
+    postal_code: '111116'
+    country: Russia
+id_list:
+  items:
+  - uid: '35380'
+    id_type: Registration Number
+    id_number: '1217700087285'
+    id_country: Russia
+  - uid: '35381'
+    id_type: Tax ID No.
+    id_number: '7722497881'
+    id_country: Russia
+  - uid: '175998'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

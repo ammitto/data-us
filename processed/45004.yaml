@@ -1,0 +1,52 @@
+---
+uid: '45004'
+first_name: Yuri Pavlovich
+last_name: SAFYANOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69683'
+    type: a.k.a.
+    category: strong
+    last_name: SAFYANOV
+    first_name: Yury Pavlovich
+  - uid: '69684'
+    type: a.k.a.
+    category: strong
+    last_name: SAFIANOV
+    first_name: Iurii Pavlovich
+address_list:
+  items:
+  - uid: '66995'
+    city: Murmansk
+    country: Russia
+id_list:
+  items:
+  - uid: '34669'
+    id_type: Passport
+    id_number: '720175005'
+    id_country: Russia
+  - uid: '34670'
+    id_type: National ID No.
+    id_number: '4400036893'
+    id_country: Russia
+  - uid: '175886'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '165337'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '65335'
+    date_of_birth: 22 May 1976
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '65336'
+    place_of_birth: Magadan, Russia
+    main_entry: 'true'
+remarks: "(Linked To: ARCTIC TRANSSHIPMENT LIMITED LIABILITY COMPANY)"

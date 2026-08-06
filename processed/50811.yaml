@@ -1,0 +1,41 @@
+---
+uid: '50811'
+last_name: AKTSIONERNOE OBSHCHESTVO STALEPROMYSHLENNAYA KOMPANIYA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79575'
+    type: a.k.a.
+    category: weak
+    last_name: AO SPK
+  - uid: '79576'
+    type: a.k.a.
+    category: weak
+    last_name: JSC SPK
+  - uid: '79577'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY STEEL INDUSTRIAL COMPANY
+address_list:
+  items:
+  - uid: '77120'
+    address1: Ul. Akademicheskaya D. 18
+    city: Yekaterinburg
+    postal_code: '620137'
+    country: Russia
+id_list:
+  items:
+  - uid: '42749'
+    id_type: Registration Number
+    id_number: '1069671052868'
+    id_country: Russia
+  - uid: '42750'
+    id_type: Tax ID No.
+    id_number: '6671197148'
+    id_country: Russia
+  - uid: '179455'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

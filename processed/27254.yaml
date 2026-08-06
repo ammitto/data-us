@@ -1,0 +1,33 @@
+---
+uid: '27254'
+last_name: BEIJING SUKBAKSO
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK3
+  - DPRK-NKSPEA
+address_list:
+  items:
+  - uid: '41654'
+    address1: Qixingmen Store, No. 8 Apartment
+    address2: Fangcaodi West Road
+    address3: Chaoyang District
+    city: Beijing
+    postal_code: '100020'
+    country: China
+  - uid: '41655'
+    address1: Liangzi Zu Way (Ground Level, White Gate), No. 42
+    address2: Gangshan Road
+    address3: Shunyi District
+    city: Beijing
+    postal_code: '101300'
+    country: China
+id_list:
+  items:
+  - uid: '135304'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '132526'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210

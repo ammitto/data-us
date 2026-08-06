@@ -1,0 +1,37 @@
+---
+uid: '47759'
+last_name: JOINT STOCK COMPANY SCIENTIFIC RESEARCH INSTITUTE EKRAN
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74073'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO NAUCHNO ISSLEDOVATELSKII INSTITUT EKRAN
+  - uid: '74074'
+    type: a.k.a.
+    category: strong
+    last_name: AO NII EKRAN
+address_list:
+  items:
+  - uid: '71435'
+    address1: 24 Kirova Ave
+    city: Samara
+    postal_code: '443022'
+    country: Russia
+id_list:
+  items:
+  - uid: '38422'
+    id_type: Tax ID No.
+    id_number: '6319169796'
+    id_country: Russia
+  - uid: '38423'
+    id_type: Registration Number
+    id_number: '1136319002731'
+    id_country: Russia
+  - uid: '169627'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,42 @@
+---
+uid: '43289'
+first_name: Darya Vasilevna
+last_name: MOROZOVA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '67128'
+    type: a.k.a.
+    category: strong
+    last_name: MOROZOVA
+    first_name: Daria
+address_list:
+  items:
+  - uid: '64624'
+    state_or_province: Donetsk
+    country: Ukraine
+id_list:
+  items:
+  - uid: '32870'
+    id_type: Tax ID No.
+    id_number: '614334755402'
+    id_country: Russia
+  - uid: '162503'
+    id_type: Gender
+    id_number: Female
+  - uid: '175702'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '62501'
+    date_of_birth: 27 Feb 1989
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '62502'
+    place_of_birth: Makiivka, Ukraine
+    main_entry: 'true'

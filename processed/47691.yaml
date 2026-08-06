@@ -1,0 +1,34 @@
+---
+uid: '47691'
+last_name: T1 HOLDING
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '71297'
+    address1: Ul. Yunosti D. 13
+    address2: Office 221
+    city: Moscow
+    postal_code: '111395'
+    country: Russia
+id_list:
+  items:
+  - uid: '38320'
+    id_type: Registration Number
+    id_number: '1197746617419'
+    id_country: Russia
+  - uid: '38321'
+    id_type: Tax ID No.
+    id_number: '7720484492'
+    id_country: Russia
+  - uid: '170100'
+    id_type: Website
+    id_number: t1.ru
+  - uid: '169842'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '170059'
+    id_type: 'Organization Type:'
+    id_number: Other information technology and computer service activities

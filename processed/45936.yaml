@@ -1,0 +1,34 @@
+---
+uid: '45936'
+last_name: LIMITED LIABILITY COMPANY N CHIP MSK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70978'
+    type: a.k.a.
+    category: strong
+    last_name: LLC NANOCHIP MSK
+address_list:
+  items:
+  - uid: '68360'
+    address1: 3 Musorgskovo St.
+    address2: Floor 3, Room 317
+    city: Moscow
+    postal_code: '127490'
+    country: Russia
+id_list:
+  items:
+  - uid: '35691'
+    id_type: Registration Number
+    id_number: '1227700087340'
+    id_country: Russia
+  - uid: '35692'
+    id_type: Tax ID No.
+    id_number: '7733380370'
+    id_country: Russia
+  - uid: '174818'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

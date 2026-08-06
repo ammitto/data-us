@@ -1,0 +1,56 @@
+---
+uid: '27323'
+first_name: Faruq
+last_name: AL-SURI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '43299'
+    type: a.k.a.
+    category: strong
+    last_name: HIJAZI
+    first_name: Samir
+  - uid: '43300'
+    type: a.k.a.
+    category: strong
+    last_name: HIJAZI
+    first_name: Samir 'Abd al-Latif
+  - uid: '43301'
+    type: a.k.a.
+    category: weak
+    last_name: AL-SHAMI, Abu Hammam
+  - uid: '43302'
+    type: a.k.a.
+    category: weak
+    last_name: AL-SHAMI, Abu Humam
+  - uid: '43303'
+    type: a.k.a.
+    category: weak
+    last_name: AL-'ASKARI, Abu Hammam
+address_list:
+  items:
+  - uid: '41561'
+    country: Syria
+id_list:
+  items:
+  - uid: '132477'
+    id_type: Gender
+    id_number: Male
+  - uid: '160087'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '32425'
+    date_of_birth: '1977'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '32426'
+    place_of_birth: Damascus, Syria
+    main_entry: 'true'
+remarks: "(Linked To: HURRAS AL-DIN)"

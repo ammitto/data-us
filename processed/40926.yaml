@@ -1,0 +1,41 @@
+---
+uid: '40926'
+first_name: Surya Visesh
+last_name: DUTTA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '61073'
+    address1: 67 Purvi Marg
+    address2: Vasant Vihar
+    city: New Delhi
+    postal_code: '110057'
+    country: India
+id_list:
+  items:
+  - uid: '30216'
+    id_type: Passport
+    id_number: J6705777
+    id_country: India
+    issue_date: 26 Apr 2011
+    expiration_date: 25 Apr 2021
+  - uid: '158534'
+    id_type: Gender
+    id_number: Male
+  - uid: '176921'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '58535'
+    date_of_birth: '08 Jul 1994'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '58536'
+    place_of_birth: India
+    main_entry: 'true'
+remarks: "(Linked To: MORETTI, Walter)"

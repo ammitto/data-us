@@ -1,0 +1,36 @@
+---
+uid: '49158'
+last_name: LIMITED LIABILITY COMPANY BANK TOCHKA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '73971'
+    address1: Proezd 1-I Veshnyakovskii D. 1, Str. 8, Floor 1, Pomeshch. 43
+    city: Moscow
+    postal_code: '109456'
+    country: Russia
+id_list:
+  items:
+  - uid: '40256'
+    id_type: Registration Number
+    id_number: '1237700005157'
+    id_country: Russia
+  - uid: '40257'
+    id_type: Tax ID No.
+    id_number: '9721194461'
+    id_country: Russia
+  - uid: '172711'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '172079'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '172084'
+    id_type: SWIFT/BIC
+    id_number: LCTCRUMM
+  - uid: '172082'
+    id_type: Website
+    id_number: www.tochka.com

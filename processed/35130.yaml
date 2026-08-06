@@ -1,0 +1,36 @@
+---
+uid: '35130'
+first_name: Denis Yakovlevich
+last_name: GAFNER
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+  - ELECTION-EO13848
+  - NPWMD
+address_list:
+  items:
+  - uid: '52752'
+    country: Russia
+id_list:
+  items:
+  - uid: '24877'
+    id_type: Passport
+    id_number: '5003226888'
+    id_country: Russia
+  - uid: '24878'
+    id_type: Identification Number
+    id_number: '21500322688'
+    id_country: Russia
+  - uid: '147064'
+    id_type: Gender
+    id_number: Male
+  - uid: '154560'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+date_of_birth_list:
+  items:
+  - uid: '47063'
+    date_of_birth: '08 Sep 1980'
+    main_entry: 'true'
+remarks: "(Linked To: SOUTHFRONT)"

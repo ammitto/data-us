@@ -1,0 +1,40 @@
+---
+uid: '43114'
+last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTIU GREND SI
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '66825'
+    type: a.k.a.
+    category: weak
+    last_name: OOO GREND SI
+  - uid: '66826'
+    type: a.k.a.
+    category: weak
+    last_name: GRAND SEA LLC
+address_list:
+  items:
+  - uid: '64329'
+    address1: Ul. Portovskoe Shosse D.5
+    city: Makhachkala
+    postal_code: '367000'
+    country: Russia
+id_list:
+  items:
+  - uid: '32699'
+    id_type: Registration Number
+    id_number: '1140573001117'
+    id_country: Russia
+  - uid: '32700'
+    id_type: Tax ID No.
+    id_number: '0573004615'
+    id_country: Russia
+  - uid: '175536'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '162096'
+    id_type: Organization Established Date
+    id_number: 29 Oct 2014

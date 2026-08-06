@@ -1,0 +1,37 @@
+---
+uid: '33284'
+first_name: Nurettin
+last_name: MUSLIHAN
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '49971'
+    city: Istanbul
+    country: Turkey
+id_list:
+  items:
+  - uid: '22952'
+    id_type: Identification Number
+    id_number: '18931187806'
+    id_country: Turkey
+  - uid: '187372'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '143276'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '43202'
+    date_of_birth: 20 May 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '43203'
+    place_of_birth: Gerger, Turkey
+    main_entry: 'true'
+remarks: "(Linked To: AL QA'IDA)"

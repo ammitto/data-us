@@ -1,0 +1,45 @@
+---
+uid: '15003'
+first_name: Salome
+last_name: FLORES APODACA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '21952'
+    type: a.k.a.
+    category: weak
+    last_name: PELON
+  - uid: '21953'
+    type: a.k.a.
+    category: weak
+    last_name: FINO
+id_list:
+  items:
+  - uid: '3'
+    id_type: Passport
+    id_number: '07040059504'
+    id_country: Mexico
+  - uid: '15575'
+    id_type: C.U.R.P.
+    id_number: FOAS621023HSLLPL04
+    id_country: Mexico
+  - uid: '15685'
+    id_type: R.F.C.
+    id_number: FOAS621023Q97
+    id_country: Mexico
+  - uid: '126732'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '11270'
+    date_of_birth: 23 Oct 1962
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '26733'
+    place_of_birth: Sinaloa, Mexico
+    main_entry: 'true'

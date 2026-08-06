@@ -1,0 +1,39 @@
+---
+uid: '35005'
+last_name: LLC VEB SERVICE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '55067'
+    type: a.k.a.
+    category: strong
+    last_name: VEB SERVICE
+  - uid: '55068'
+    type: a.k.a.
+    category: strong
+    last_name: VEB SERVIS
+address_list:
+  items:
+  - uid: '52548'
+    address1: PR-KT Akademika Sakharova D. 9, Komnata 205 K
+    city: Moscow
+    postal_code: '107078'
+    country: Russia
+id_list:
+  items:
+  - uid: '24714'
+    id_type: Registration Number
+    id_number: '1177746934023'
+    id_country: Russia
+  - uid: '24715'
+    id_type: Tax ID No.
+    id_number: '7708325680'
+    id_country: Russia
+  - uid: '175227'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: STATE CORPORATION BANK FOR DEVELOPMENT AND FOREIGN ECONOMIC
+  AFFAIRS VNESHECONOMBANK)"

@@ -1,0 +1,35 @@
+---
+uid: '56781'
+first_name: Nematollah
+last_name: BAGHERI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+  - IRGC
+  - IFSR
+address_list:
+  items:
+  - uid: '86925'
+    state_or_province: Lorestan
+    country: Iran
+id_list:
+  items:
+  - uid: '195666'
+    id_type: Gender
+    id_number: Male
+  - uid: '195707'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '95708'
+    date_of_birth: 10 Jun 1975
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '95709'
+    place_of_birth: Andika, Iran
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS)"
+title: IRGC Commander of Lorestan Province

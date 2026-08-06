@@ -1,0 +1,45 @@
+---
+uid: '50250'
+last_name: FEDERALNOE KAZENNOE PREDPRIIATIE GOSUDARSTVENNYI NAUCHNO ISSLEDOVATELSKII
+  INSTITUT KHIMICHESKIKH PRODUKTOV
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78460'
+    type: a.k.a.
+    category: strong
+    last_name: FKP GOSNIIKHP
+  - uid: '78461'
+    type: a.k.a.
+    category: strong
+    last_name: FEDERAL STATE INSTITUTION STATE RESEARCH INSTITUTE OF CHEMICAL PRODUCTS
+  - uid: '78462'
+    type: a.k.a.
+    category: strong
+    last_name: GOSUDARSTVENNYI NAUCHNO ISSLEDOVATELSKII INSTITUT KHIMICHESKIKH PRODUKTOV
+address_list:
+  items:
+  - uid: '76084'
+    address1: Ul. Svetlaya D. 1
+    city: Kazan
+    postal_code: '420033'
+    country: Russia
+id_list:
+  items:
+  - uid: '41918'
+    id_type: Registration Number
+    id_number: '1021603067683'
+    id_country: Russia
+  - uid: '41919'
+    id_type: Tax ID No.
+    id_number: '1656003409'
+    id_country: Russia
+  - uid: '178010'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '177913'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

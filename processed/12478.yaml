@@ -1,0 +1,62 @@
+---
+uid: '12478'
+last_name: ANSAR BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+  - IRAN
+  - IRGC
+  - SDGT
+aka_list:
+  items:
+  - uid: '13377'
+    type: a.k.a.
+    category: strong
+    last_name: ANSAR FINANCE AND CREDIT FUND
+  - uid: '13380'
+    type: a.k.a.
+    category: strong
+    last_name: ANSAR FINANCIAL AND CREDIT INSTITUTE
+  - uid: '13381'
+    type: f.k.a.
+    category: weak
+    last_name: ANSAR INSTITUTE
+  - uid: '13382'
+    type: f.k.a.
+    category: weak
+    last_name: ANSAR AL-MOJAHEDIN NO-INTEREST LOAN INSTITUTE
+  - uid: '13383'
+    type: f.k.a.
+    category: weak
+    last_name: ANSAR SAVING AND INTEREST FREE-LOANS FUND
+  - uid: '14797'
+    type: a.k.a.
+    category: strong
+    last_name: BANK-E ANSAR
+  - uid: '41999'
+    type: a.k.a.
+    category: strong
+    last_name: BANK ANSAR
+address_list:
+  items:
+  - uid: '19484'
+    address1: Building No. 539, North Pasdaran Street
+    city: Tehran
+    postal_code: 19575-497
+    country: Iran
+id_list:
+  items:
+  - uid: '186015'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '131169'
+    id_type: Website
+    id_number: www.ansarbank.com
+  - uid: '113763'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS (IRGC)-QODS FORCE; Linked
+  To: ISLAMIC REVOLUTIONARY GUARD CORPS)"

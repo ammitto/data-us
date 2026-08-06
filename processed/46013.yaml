@@ -1,0 +1,35 @@
+---
+uid: '46013'
+last_name: LIMITED LIABILITY COMPANY HARTIS DV
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '71100'
+    type: a.k.a.
+    category: strong
+    last_name: KHARTIS DV LLC
+address_list:
+  items:
+  - uid: '68533'
+    address1: 35 Svobodiy St.
+    address2: Building 5, Floor 1
+    address3: Office 1, Room No. 4
+    city: Moscow
+    postal_code: '125362'
+    country: Russia
+id_list:
+  items:
+  - uid: '35843'
+    id_type: Registration Number
+    id_number: '5107746026262'
+    id_country: Russia
+  - uid: '35844'
+    id_type: Tax ID No.
+    id_number: '7733753978'
+    id_country: Russia
+  - uid: '174886'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

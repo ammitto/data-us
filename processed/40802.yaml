@@ -1,0 +1,41 @@
+---
+uid: '40802'
+last_name: OOO ZENIT FINANCE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63471'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY ZENIT FINANS
+address_list:
+  items:
+  - uid: '60826'
+    address1: Ul. Odesskaya D. 2
+    address2: Floor 18, Pomeshch. II
+    city: Moscow
+    postal_code: '117638'
+    country: Russia
+id_list:
+  items:
+  - uid: '30002'
+    id_type: Registration Number
+    id_number: '1187746040910'
+    id_country: Russia
+  - uid: '30003'
+    id_type: Tax ID No.
+    id_number: '7702428209'
+    id_country: Russia
+  - uid: '174146'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '158326'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '158325'
+    id_type: Organization Established Date
+    id_number: 19 Jan 2018
+remarks: "(Linked To: BANK ZENIT PUBLIC JOINT STOCK COMPANY)"

@@ -1,0 +1,30 @@
+---
+uid: '44585'
+first_name: Anna
+last_name: KOSAKOVA
+sdn_type: Individual
+program_list:
+  programs:
+  - LEBANON
+address_list:
+  items:
+  - uid: '66362'
+    address1: 65 Avenue Georges Mandel
+    city: Paris
+    postal_code: '75016'
+    country: France
+id_list:
+  items:
+  - uid: '164576'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '64577'
+    date_of_birth: 25 Nov 1976
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '64585'
+    place_of_birth: Senaki, Georgia
+    main_entry: 'true'

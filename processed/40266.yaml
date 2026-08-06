@@ -1,0 +1,35 @@
+---
+uid: '40266'
+first_name: Evgeniy Vladimirovich
+last_name: KUYVASHEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '60026'
+    state_or_province: Sverdlovsk Region
+    country: Russia
+id_list:
+  items:
+  - uid: '29453'
+    id_type: Tax ID No.
+    id_number: '861900337721'
+    id_country: Russia
+  - uid: '174067'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '157316'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '57314'
+    date_of_birth: 16 Mar 1971
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '57315'
+    place_of_birth: Lugovskoy, Khanty-Mansiysk Autonomous Region, Russia
+    main_entry: 'true'

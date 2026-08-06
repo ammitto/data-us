@@ -1,0 +1,47 @@
+---
+uid: '29040'
+first_name: Santiago Jose
+last_name: MORON HERNANDEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+address_list:
+  items:
+  - uid: '43856'
+    address1: Juana de Avila Avenue
+    address2: 15B
+    address3: Esquina con calle 69A-140
+    city: Maracaibo
+    country: Venezuela
+id_list:
+  items:
+  - uid: '19309'
+    id_type: Identification Number
+    id_number: D19807013
+    id_country: Venezuela
+  - uid: '19310'
+    id_type: Cedula No.
+    id_number: V-16586012
+    id_country: Venezuela
+  - uid: '19311'
+    id_type: Passport
+    id_number: '045751099'
+    id_country: Venezuela
+  - uid: '19312'
+    id_type: Passport
+    id_number: '153166637'
+  - uid: '135626'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '35627'
+    date_of_birth: 11 May 1984
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '35628'
+    place_of_birth: Venezuela
+    main_entry: 'true'
+remarks: "(Linked To: MADURO GUERRA, Nicolas Ernesto)"

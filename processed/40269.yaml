@@ -1,0 +1,42 @@
+---
+uid: '40269'
+first_name: Aleksandr Vasilyevich
+last_name: BOGOMAZ
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '62650'
+    type: a.k.a.
+    category: strong
+    last_name: BOGOMAZ
+    first_name: Alexander Vasilievich
+address_list:
+  items:
+  - uid: '60032'
+    state_or_province: Bryansk Region
+    country: Russia
+id_list:
+  items:
+  - uid: '29456'
+    id_type: Tax ID No.
+    id_number: '322700256725'
+    id_country: Russia
+  - uid: '157332'
+    id_type: Gender
+    id_number: Male
+  - uid: '174070'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '57330'
+    date_of_birth: 23 Feb 1961
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '57331'
+    place_of_birth: Gridenki, Bryansk Region, Russia
+    main_entry: 'true'

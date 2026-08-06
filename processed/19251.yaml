@@ -1,0 +1,33 @@
+---
+uid: '19251'
+first_name: Rahimreza
+last_name: FARGHADANI
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+aka_list:
+  items:
+  - uid: '30333'
+    type: a.k.a.
+    category: strong
+    last_name: FARGHADANI
+    first_name: Rahim Reza
+id_list:
+  items:
+  - uid: '11574'
+    id_type: Passport
+    id_number: '5671711'
+    id_country: Iran
+  - uid: '118921'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '18899'
+    date_of_birth: 16 Aug 1960
+    main_entry: 'true'
+  - uid: '18900'
+    date_of_birth: 17 Aug 1960
+    main_entry: 'false'

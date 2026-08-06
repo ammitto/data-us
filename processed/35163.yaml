@@ -1,0 +1,73 @@
+---
+uid: '35163'
+last_name: CREDIT BANK OF MOSCOW PUBLIC JOINT STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '55284'
+    type: a.k.a.
+    category: strong
+    last_name: CREDIT BANK OF MOSCOW PJSC
+  - uid: '55285'
+    type: a.k.a.
+    category: strong
+    last_name: CREDIT BANK OF MOSCOW
+address_list:
+  items:
+  - uid: '52808'
+    address1: Lukov pereulok 2, bldg. 1
+    city: Moscow
+    postal_code: '107045'
+    country: Russia
+id_list:
+  items:
+  - uid: '24904'
+    id_type: Registration ID
+    id_number: '1027739555282'
+    id_country: Russia
+  - uid: '24905'
+    id_type: Tax ID No.
+    id_number: '7734202860'
+    id_country: Russia
+  - uid: '147153'
+    id_type: Organization Established Date
+    id_number: '1992'
+  - uid: '147152'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '147252'
+    id_type: Executive Order 14024 Directive Information -
+    id_number: 'For more information on directives, please visit the following link:
+      https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives'
+  - uid: '147251'
+    id_type: Executive Order 14024 Directive Information
+    id_number: Subject to Directive 3 - All transactions in, provision of financing
+      for, and other dealings in new debt of longer than 14 days maturity or new equity
+      where such new debt or new equity is issued on or after the 'Effective Date
+      (EO 14024 Directive)' associated with this name are prohibited.
+  - uid: '147253'
+    id_type: 'Listing Date (EO 14024 Directive 3):'
+    id_number: 24 Feb 2022
+  - uid: '147254'
+    id_type: 'Effective Date (EO 14024 Directive 3):'
+    id_number: 26 Mar 2022
+  - uid: '147145'
+    id_type: BIK (RU)
+    id_number: '044525659'
+  - uid: '147142'
+    id_type: SWIFT/BIC
+    id_number: MCRBRUMM
+  - uid: '147147'
+    id_type: Website
+    id_number: www.mkb.ru
+  - uid: '175277'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184108'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

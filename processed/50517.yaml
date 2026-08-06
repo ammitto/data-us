@@ -1,0 +1,31 @@
+---
+uid: '50517'
+first_name: Johan Alexander
+last_name: HERNANDEZ LAREZ
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+address_list:
+  items:
+  - uid: '76687'
+    country: Venezuela
+id_list:
+  items:
+  - uid: '42350'
+    id_type: Cedula No.
+    id_number: '9888327'
+    id_country: Venezuela
+  - uid: '178796'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '78640'
+    date_of_birth: 30 Jan 1971
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '78794'
+    place_of_birth: Venezuela
+    main_entry: 'true'

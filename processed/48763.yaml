@@ -1,0 +1,38 @@
+---
+uid: '48763'
+last_name: IPM LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75903'
+    type: a.k.a.
+    category: strong
+    last_name: B&W CONSULTING
+address_list:
+  items:
+  - uid: '73310'
+    address1: Suite A, 6/F, Ritz Plaza
+    address2: 122 Austin Road, Tsimshatsui
+    address3: Kowloon
+    city: Hong Kong
+    country: China
+  - uid: '73311'
+    address1: '1080'
+    address2: Blindengasse 46/15
+    city: Vienna
+    country: Austria
+id_list:
+  items:
+  - uid: '39809'
+    id_type: Registration Number
+    id_number: '1829992'
+    id_country: Hong Kong
+  - uid: '171441'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '171381'
+    id_type: Organization Established Date
+    id_number: 23 Nov 2012

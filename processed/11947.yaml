@@ -1,0 +1,40 @@
+---
+uid: '11947'
+first_name: Proceso Arturo
+last_name: MURO GONZALEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '18138'
+    address1: Calle Gustavo Garmendia No. 1850
+    address2: Colonia Hidalgo
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+id_list:
+  items:
+  - uid: '6340'
+    id_type: C.U.R.P.
+    id_number: MUGP730516HSLRNR04
+    id_country: Mexico
+  - uid: '6341'
+    id_type: Cartilla de Servicio Militar Nacional
+    id_number: '607092'
+    id_country: Mexico
+  - uid: '6342'
+    id_type: Electoral Registry No.
+    id_number: MRGNPR73051625H400
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '7530'
+    date_of_birth: 16 May 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '7531'
+    place_of_birth: Cuiliacan, Sinaloa
+    main_entry: 'true'

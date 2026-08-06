@@ -1,0 +1,38 @@
+---
+uid: '37425'
+last_name: FOCUS COMPANY SARL
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '58587'
+    type: a.k.a.
+    category: strong
+    last_name: FOCUS MEDIA S.A.R.L.
+  - uid: '58588'
+    type: a.k.a.
+    category: weak
+    last_name: FOCUS COMPANY
+address_list:
+  items:
+  - uid: '55926'
+    address1: Plot 6864, Section 5, Block A
+    city: Chiah
+    country: Lebanon
+id_list:
+  items:
+  - uid: '26605'
+    id_type: Registration Number
+    id_number: '2002046'
+    id_country: Lebanon
+    issue_date: 21 Oct 2003
+  - uid: '152226'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '152159'
+    id_type: 'Organization Type:'
+    id_number: Advertising
+remarks: "(Linked To: UNITED GENERAL HOLDING SAL)"

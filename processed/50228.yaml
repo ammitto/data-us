@@ -1,0 +1,28 @@
+---
+uid: '50228'
+last_name: LLC GROSVER GRUP
+sdn_type: Entity
+program_list:
+  programs:
+  - BELARUS-EO14038
+address_list:
+  items:
+  - uid: '76042'
+    address1: UL. Korzhenevskogo 14
+    city: Minsk
+    postal_code: '220108'
+    country: Belarus
+  - uid: '76043'
+    address1: St. Novo-Moskovskaya, 5
+    city: Smolensk
+    postal_code: '214012'
+    country: Russia
+id_list:
+  items:
+  - uid: '41868'
+    id_type: Tax ID No.
+    id_number: '191695746'
+    id_country: Belarus
+  - uid: '177851'
+    id_type: Organization Established Date
+    id_number: 23 Jan 2012

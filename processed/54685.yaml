@@ -1,0 +1,38 @@
+---
+uid: '54685'
+first_name: Alejandro
+last_name: ARIAS MONGE
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '85097'
+    type: a.k.a.
+    category: weak
+    last_name: Diablo
+address_list:
+  items:
+  - uid: '83522'
+    city: Limon
+    country: Costa Rica
+id_list:
+  items:
+  - uid: '48392'
+    id_type: Cedula No.
+    id_number: '701600166'
+    id_country: Costa Rica
+  - uid: '190939'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '90936'
+    date_of_birth: 19 Sep 1984
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '90937'
+    place_of_birth: Guapiles Pococi, Limon, Costa Rica
+    main_entry: 'true'

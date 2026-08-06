@@ -1,0 +1,36 @@
+---
+uid: '55459'
+first_name: Gholamhasan
+last_name: HEIDARI
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+address_list:
+  items:
+  - uid: '84789'
+    country: Iran
+id_list:
+  items:
+  - uid: '49468'
+    id_type: National ID No.
+    id_number: '5489526610'
+    id_country: Iran
+  - uid: '192909'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '192910'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '92912'
+    date_of_birth: 03 Sep 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '92913'
+    place_of_birth: Fares, Iran
+    main_entry: 'true'
+remarks: "(Linked To: KHAZRA COMMUNICATIONS TECHNOLOGY SOLUTIONS)"

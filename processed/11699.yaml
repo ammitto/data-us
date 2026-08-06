@@ -1,0 +1,73 @@
+---
+uid: '11699'
+first_name: Agustin
+last_name: REYES GARZA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '12415'
+    type: a.k.a.
+    category: weak
+    last_name: DON PILO
+address_list:
+  items:
+  - uid: '17656'
+    address1: c/o ESTETIC CARR DE OCCIDENTE, S.A. DE C.V.
+    city: Guadalajara
+    country: Mexico
+  - uid: '17657'
+    address1: c/o ESTETICA CAR WASH S.A. DE C.V.
+    city: Zapopan
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '17658'
+    address1: Calle Violetas No. 371
+    address2: Colonia Las Bodegas
+    city: Zapopan
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '19972'
+    address1: Calle Comercio No. 50
+    address2: Colonia Escandon
+    address3: Delegacion Miguel Hidalgo
+    city: Mexico City
+    state_or_province: Distrito Federal
+    postal_code: C.P. 11800
+    country: Mexico
+  - uid: '19973'
+    address1: Calle Milpa No. 87
+    address2: Colonia El Vigia
+    city: Zapopan
+    state_or_province: Jalisco
+    postal_code: C.P. 45100
+    country: Mexico
+  - uid: '19974'
+    address1: Calle Persianas No. 204
+    address2: Colonia Pensador Mexicano
+    address3: Delegacion Venustiano Carranza
+    city: Mexico City
+    state_or_province: Distrito Federal
+    postal_code: C.P. 15510
+    country: Mexico
+id_list:
+  items:
+  - uid: '7149'
+    id_type: R.F.C.
+    id_number: REGA570821RCA
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '7143'
+    date_of_birth: 21 Aug 1957
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '7144'
+    place_of_birth: Guadalajara, Jalisco, Mexico
+    main_entry: 'true'
+  - uid: '8423'
+    place_of_birth: Tamaulipas, Mexico
+    main_entry: 'false'

@@ -1,0 +1,31 @@
+---
+uid: '46490'
+first_name: Jose Gil
+last_name: CARO QUINTERO
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '69164'
+    country: Mexico
+id_list:
+  items:
+  - uid: '36418'
+    id_type: C.U.R.P.
+    id_number: CAQG680207HSLRNL09
+    id_country: Mexico
+  - uid: '167339'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '67336'
+    date_of_birth: 07 Feb 1968
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '67337'
+    place_of_birth: Sinaloa, Mexico
+    main_entry: 'true'

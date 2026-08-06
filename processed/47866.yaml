@@ -1,0 +1,42 @@
+---
+uid: '47866'
+last_name: LIMITED LIABILITY COMPANY NPC ANTEY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74262'
+    type: a.k.a.
+    category: weak
+    last_name: REDFAB
+address_list:
+  items:
+  - uid: '71651'
+    address1: 4 Gelsingforsskaya Street
+    address2: Building 1
+    address3: Floor 3A
+    city: Saint Petersburg
+    postal_code: '194044'
+    country: Russia
+  - uid: '71652'
+    address1: 39 Khersonskaya Street
+    address2: Letter A
+    address3: Suite Part 4-N No. 143
+    city: Saint Petersburg
+    postal_code: '191167'
+    country: Russia
+id_list:
+  items:
+  - uid: '38620'
+    id_type: Registration Number
+    id_number: '1167847114016'
+    id_country: Russia
+  - uid: '38621'
+    id_type: Tax ID No.
+    id_number: '7814642289'
+    id_country: Russia
+  - uid: '169810'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

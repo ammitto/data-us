@@ -1,0 +1,38 @@
+---
+uid: '41965'
+last_name: AKTSIONERNOE OBSHCHESTVO TORGOVYI DOM PROTON-ELEKTROTEKS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65205'
+    type: a.k.a.
+    category: strong
+    last_name: AO TD PROTON-ELEKTROTEKS
+  - uid: '65206'
+    type: a.k.a.
+    category: strong
+    last_name: TRADING HOUSE PROTON-ELECTROTEX
+address_list:
+  items:
+  - uid: '62586'
+    address1: ul. Leskova d. 19
+    address2: pomeshchenie 27, office 14
+    city: Orel
+    postal_code: '302040'
+    country: Russia
+id_list:
+  items:
+  - uid: '31334'
+    id_type: Registration Number
+    id_number: '1065753010641'
+    id_country: Russia
+  - uid: '31335'
+    id_type: Tax ID No.
+    id_number: '5753039510'
+    id_country: Russia
+  - uid: '173712'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

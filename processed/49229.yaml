@@ -1,0 +1,34 @@
+---
+uid: '49229'
+last_name: MICROEM
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76755'
+    type: a.k.a.
+    category: strong
+    last_name: AO MIKROEM
+address_list:
+  items:
+  - uid: '74129'
+    address1: Proezd Savelkinskii D. 4
+    address2: ET. 9
+    city: Zelenograd
+    postal_code: '124482'
+    country: Russia
+id_list:
+  items:
+  - uid: '40409'
+    id_type: Registration Number
+    id_number: '1027739282922'
+    id_country: Russia
+  - uid: '40410'
+    id_type: Tax ID No.
+    id_number: '7735082700'
+    id_country: Russia
+  - uid: '172204'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

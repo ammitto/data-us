@@ -1,0 +1,39 @@
+---
+uid: '54969'
+first_name: Mario Alberto
+last_name: HERRERA SANCHEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+address_list:
+  items:
+  - uid: '84002'
+    city: Rosarito
+    state_or_province: Baja California
+    country: Mexico
+id_list:
+  items:
+  - uid: '48832'
+    id_type: C.U.R.P.
+    id_number: HESM810402HBCRNR04
+    id_country: Mexico
+  - uid: '192692'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '191620'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '91618'
+    date_of_birth: 02 Apr 1981
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '91619'
+    place_of_birth: Baja California, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: SINALOA CARTEL)"

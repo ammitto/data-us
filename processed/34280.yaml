@@ -1,0 +1,49 @@
+---
+uid: '34280'
+last_name: HOME ELEGANCE COMERCIO DE MOVEIS EIRELI
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '53741'
+    type: a.k.a.
+    category: strong
+    last_name: MARROCOS MOVEIS E COLCHOES
+  - uid: '53742'
+    type: a.k.a.
+    category: weak
+    last_name: HOME ELEGANCE
+  - uid: '53743'
+    type: a.k.a.
+    category: strong
+    last_name: DAIANA PORTELLA COELHO COMERCIO DE MOVEIS E COLCHOES
+  - uid: '53744'
+    type: a.k.a.
+    category: strong
+    last_name: MOHAMED AWAAD COMERCIO DE MOVEIS EIRELI
+address_list:
+  items:
+  - uid: '51414'
+    address1: Rua Dorezopolis, 669
+    address2: Casa 03
+    address3: Jardim Santa Clara
+    city: Guarulhos
+    state_or_province: Sao Paulo
+    postal_code: 07123-120
+    country: Brazil
+id_list:
+  items:
+  - uid: '23942'
+    id_type: Tax ID No.
+    id_number: 31.746.200/0001-11
+    id_country: Brazil
+  - uid: '187395'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '145620'
+    id_type: Organization Established Date
+    id_number: 11 Oct 2018
+remarks: "(Linked To: AWADD, Mohamed Sherif Mohamed Mohamed)"

@@ -1,0 +1,26 @@
+---
+uid: '42316'
+last_name: ROYAL SHIPPING AGENCY
+sdn_type: Entity
+program_list:
+  programs:
+  - SOMALIA
+address_list:
+  items:
+  - uid: '63121'
+    address1: Rue de Moscow
+    country: Djibouti
+  - uid: '63122'
+    address1: Rue de Paris 10
+    city: Djibouti
+    country: Djibouti
+id_list:
+  items:
+  - uid: '31812'
+    id_type: Registration Number
+    id_number: '253'
+    id_country: Djibouti
+  - uid: '162556'
+    id_type: 'Organization Type:'
+    id_number: Other transportation support activities
+remarks: "(Linked To: MUSSE, Bashir Khalif)"

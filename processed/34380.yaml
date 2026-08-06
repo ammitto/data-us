@@ -1,0 +1,54 @@
+---
+uid: '34380'
+first_name: Galina Olegovna
+last_name: ULYUTINA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '53843'
+    type: a.k.a.
+    category: strong
+    last_name: ULYUTINA
+    first_name: Galina
+  - uid: '53844'
+    type: a.k.a.
+    category: strong
+    last_name: SOLOVIEVA
+    first_name: Galina Olegovna
+address_list:
+  items:
+  - uid: '51512'
+    address1: 8-1-60 Philippovskiy
+    city: Moscow
+    postal_code: '119019'
+    country: Russia
+id_list:
+  items:
+  - uid: '23981'
+    id_type: National ID No.
+    id_number: '4510519178'
+    id_country: Russia
+  - uid: '23982'
+    id_type: National ID No.
+    id_number: '7710206574'
+    id_country: Bulgaria
+  - uid: '175120'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '145659'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '45658'
+    date_of_birth: 20 Oct 1977
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '45660'
+    place_of_birth: Avdeevka, Ukraine
+    main_entry: 'true'
+remarks: "(Linked To: SOLOVIEV, Yuriy Alekseyevich)"

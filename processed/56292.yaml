@@ -1,0 +1,49 @@
+---
+uid: '56292'
+first_name: Bahram
+last_name: TABIBI
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '87310'
+    type: a.k.a.
+    category: strong
+    last_name: TABIBI JABALI
+    first_name: Bahram
+  - uid: '87311'
+    type: a.k.a.
+    category: strong
+    last_name: TABIBI JEBELI
+    first_name: Bahram
+address_list:
+  items:
+  - uid: '86132'
+    country: Iran
+id_list:
+  items:
+  - uid: '50306'
+    id_type: Passport
+    id_number: I45845086
+    id_country: Iran
+    expiration_date: 25 Jun 2023
+  - uid: '194397'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '194393'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '94395'
+    date_of_birth: 21 Mar 1971
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '94396'
+    place_of_birth: Isfahan, Iran
+    main_entry: 'true'
+remarks: "(Linked To: IRAN AIRCRAFT MANUFACTURING INDUSTRIAL COMPANY)"

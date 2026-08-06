@@ -1,0 +1,63 @@
+---
+uid: '31951'
+first_name: Alaa
+last_name: KHANFURAH
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '50110'
+    type: a.k.a.
+    category: strong
+    last_name: KHANFURAN
+    first_name: Alaa
+  - uid: '50111'
+    type: a.k.a.
+    category: strong
+    last_name: KHANFURAH
+    first_name: "'Ala'"
+  - uid: '50112'
+    type: a.k.a.
+    category: strong
+    last_name: KHANFORAH
+    first_name: Mohammed Alaa Omer
+  - uid: '50113'
+    type: a.k.a.
+    category: strong
+    last_name: KHANFORA
+    first_name: Alaa
+  - uid: '50114'
+    type: a.k.a.
+    category: strong
+    last_name: KHANFOURA
+    first_name: Alaa
+address_list:
+  items:
+  - uid: '48082'
+    city: Reyhanli
+    state_or_province: Hatay
+    country: Turkey
+id_list:
+  items:
+  - uid: '140625'
+    id_type: Gender
+    id_number: Male
+  - uid: '187325'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '40623'
+    date_of_birth: 01 Jan 1986
+    main_entry: 'true'
+  - uid: '40624'
+    date_of_birth: '1985'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '40622'
+    place_of_birth: al-Habit, Syria
+    main_entry: 'true'

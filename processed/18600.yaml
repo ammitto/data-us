@@ -1,0 +1,51 @@
+---
+uid: '18600'
+first_name: Husayn Al-Salihin Salih
+last_name: AL-SHA'IRI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '28986'
+    type: a.k.a.
+    category: strong
+    last_name: AL-SHA'ARI
+    first_name: Hasan al-Salahayn Salih
+  - uid: '28987'
+    type: a.k.a.
+    category: weak
+    last_name: ABU-HABIB, Hasan
+  - uid: '28988'
+    type: a.k.a.
+    category: weak
+    last_name: AL-SALIHIN, Habib
+  - uid: '28989'
+    type: a.k.a.
+    category: weak
+    last_name: AL-LIBI, Abu-Habib
+id_list:
+  items:
+  - uid: '10869'
+    id_type: Personal ID Card
+    id_number: '55252'
+    id_country: Libya
+  - uid: '10870'
+    id_type: Passport
+    id_number: '542858'
+    id_country: Libya
+  - uid: '186480'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '17990'
+    date_of_birth: 01 Jan 1975 to 31 Dec 1975
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '17991'
+    place_of_birth: Darna, Libya
+    main_entry: 'true'

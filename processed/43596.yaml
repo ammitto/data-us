@@ -1,0 +1,37 @@
+---
+uid: '43596'
+first_name: Jorge Humberto
+last_name: FIGUEROA BENITEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '67588'
+    type: a.k.a.
+    category: weak
+    last_name: '27'
+address_list:
+  items:
+  - uid: '65024'
+    country: Mexico
+id_list:
+  items:
+  - uid: '33896'
+    id_type: C.U.R.P.
+    id_number: FIBJ890902HSLGNR06
+    id_country: Mexico
+  - uid: '163129'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '63127'
+    date_of_birth: 02 Sep 1989
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '63130'
+    place_of_birth: Sinaloa, Mexico
+    main_entry: 'true'

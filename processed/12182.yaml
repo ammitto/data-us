@@ -1,0 +1,45 @@
+---
+uid: '12182'
+first_name: Oscar Arturo
+last_name: JASSO ROCHA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '13125'
+    type: a.k.a.
+    category: strong
+    last_name: JASSO SERRATOS
+    first_name: Oscar Arturo
+address_list:
+  items:
+  - uid: '18616'
+    city: Mexico City
+    state_or_province: Distrito Federal
+    country: Mexico
+id_list:
+  items:
+  - uid: '6581'
+    id_type: Passport
+    id_number: '98330071201'
+    id_country: Mexico
+  - uid: '6582'
+    id_type: Driver's License No.
+    id_number: '2308565'
+    id_country: Mexico
+  - uid: '6583'
+    id_type: C.U.R.P.
+    id_number: JASO641207HDFSRS05
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '7900'
+    date_of_birth: 07 Dec 1964
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '7901'
+    place_of_birth: Mexico City, Distrito Federal, Mexico
+    main_entry: 'true'

@@ -1,0 +1,54 @@
+---
+uid: '50856'
+first_name: Mohammad Mahdi
+last_name: MAGHFOORI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+  - IFSR
+aka_list:
+  items:
+  - uid: '87453'
+    type: a.k.a.
+    category: strong
+    last_name: MAGHFOORI
+    first_name: Mehdi
+address_list:
+  items:
+  - uid: '86307'
+    country: Iran
+id_list:
+  items:
+  - uid: '42825'
+    id_type: Passport
+    id_number: H60608748
+    id_country: Iran
+    expiration_date: 14 Dec 2027
+  - uid: '42826'
+    id_type: Passport
+    id_number: V52959616
+    id_country: Iran
+    expiration_date: 02 Feb 2026
+  - uid: '50498'
+    id_type: National ID No.
+    id_number: '2982420694'
+    id_country: Iran
+  - uid: '179571'
+    id_type: Gender
+    id_number: Male
+  - uid: '194623'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '79568'
+    date_of_birth: 20 Dec 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '79570'
+    place_of_birth: Kerman, Iran
+    main_entry: 'true'
+remarks: "(Linked To: MAHAN AIR)"

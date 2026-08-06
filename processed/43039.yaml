@@ -1,0 +1,53 @@
+---
+uid: '43039'
+last_name: ALL RUSSIA PETROLEUM RESEARCH EXPLORATION INSTITUTE JOINT STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '66639'
+    type: a.k.a.
+    category: strong
+    last_name: VNIGRI JSC
+  - uid: '66640'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO VSEROSSISKI NEFTYANOI NAUCHNO ISSLEDOVATELSKI
+      GEOLOGORAZVEDOCHNY INSTITUT
+  - uid: '66641'
+    type: a.k.a.
+    category: strong
+    last_name: VNIGRI PAO
+address_list:
+  items:
+  - uid: '64170'
+    address1: d. 20 k. 2 litera A pom. 208
+    address2: ul. Fayansovaya
+    city: St. Petersburg
+    postal_code: '192019'
+    country: Russia
+id_list:
+  items:
+  - uid: '32625'
+    id_type: Registration Number
+    id_number: '1167847310916'
+    id_country: Russia
+  - uid: '32626'
+    id_type: Tax ID No.
+    id_number: '7816334628'
+    id_country: Russia
+  - uid: '32627'
+    id_type: Government Gazette Number
+    id_number: '01423435'
+    id_country: Russia
+  - uid: '161913'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
+  - uid: '175504'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '161912'
+    id_type: Organization Established Date
+    id_number: 01 Aug 2016

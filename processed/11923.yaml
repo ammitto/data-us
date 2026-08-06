@@ -1,0 +1,59 @@
+---
+uid: '11923'
+first_name: Omar
+last_name: TREVINO MORALES
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - SDNTK
+aka_list:
+  items:
+  - uid: '12698'
+    type: a.k.a.
+    category: strong
+    last_name: TREVINO MORALES
+    first_name: Alejandro
+  - uid: '12699'
+    type: a.k.a.
+    category: strong
+    last_name: TREVINO MORALES
+    first_name: Omar Alejandro
+  - uid: '12700'
+    type: a.k.a.
+    category: strong
+    last_name: TREVINO MORALES
+    first_name: Oscar Omar
+  - uid: '45434'
+    type: a.k.a.
+    category: weak
+    last_name: '42'
+address_list:
+  items:
+  - uid: '18176'
+    address1: Colonia Militar
+    city: Nuevo Laredo
+    state_or_province: Tamaulipas
+    country: Mexico
+  - uid: '18177'
+    city: Reynosa
+    state_or_province: Tamaulipas
+    country: Mexico
+  - uid: '18178'
+    state_or_province: Coahuila
+    country: Mexico
+id_list:
+  items:
+  - uid: '135391'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '7638'
+    date_of_birth: 26 Jan 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '7639'
+    place_of_birth: Nuevo Laredo, Tamaulipas, Mexico
+    main_entry: 'true'

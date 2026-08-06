@@ -1,0 +1,33 @@
+---
+uid: '40813'
+last_name: LIMITED LIABILITY COMPANY NIKOLIYA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63500'
+    type: a.k.a.
+    category: strong
+    last_name: NIKOLIYA OOO
+address_list:
+  items:
+  - uid: '60847'
+    address1: bulvar Tverskoi, d. 15 str. 2
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '30029'
+    id_type: Registration Number
+    id_number: '5147746404306'
+    id_country: Russia
+  - uid: '30030'
+    id_type: Tax ID No.
+    id_number: '7710972620'
+    id_country: Russia
+  - uid: '174152'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: UDODOV, Aleksandr Yevgenyevich)"

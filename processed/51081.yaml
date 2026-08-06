@@ -1,0 +1,31 @@
+---
+uid: '51081'
+last_name: EKVIK LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '77607'
+    address1: Per. Dukhovskoi D. 17
+    address2: Korpus 1, Floor 1 Podyezd 20 Kab 1
+    city: Moscow
+    postal_code: '115191'
+    country: Russia
+id_list:
+  items:
+  - uid: '43162'
+    id_type: Tax ID No.
+    id_number: '7722320806'
+    id_country: Russia
+  - uid: '43164'
+    id_type: Registration Number
+    id_number: '1157746236966'
+    id_country: Russia
+  - uid: '180055'
+    id_type: Organization Established Date
+    id_number: 20 Mar 2015
+  - uid: '180460'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

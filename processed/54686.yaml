@@ -1,0 +1,38 @@
+---
+uid: '54686'
+first_name: Alejandro Antonio
+last_name: JAMES WILSON
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '85103'
+    type: a.k.a.
+    category: weak
+    last_name: Turesky
+address_list:
+  items:
+  - uid: '83527'
+    city: San Jose
+    country: Costa Rica
+id_list:
+  items:
+  - uid: '48393'
+    id_type: Cedula No.
+    id_number: '701040769'
+    id_country: Costa Rica
+  - uid: '190946'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '90945'
+    date_of_birth: 05 Oct 1972
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '92341'
+    place_of_birth: Centro Central, Limon, Costa Rica
+    main_entry: 'true'

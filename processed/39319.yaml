@@ -1,0 +1,41 @@
+---
+uid: '39319'
+first_name: Yulan Adonay
+last_name: ARCHAGA CARIAS
+sdn_type: Individual
+program_list:
+  programs:
+  - TCO
+aka_list:
+  items:
+  - uid: '61374'
+    type: a.k.a.
+    category: weak
+    last_name: PORKY
+  - uid: '61394'
+    type: a.k.a.
+    category: weak
+    last_name: MENDOZA, Alexander
+address_list:
+  items:
+  - uid: '58589'
+    country: Honduras
+id_list:
+  items:
+  - uid: '155203'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '55200'
+    date_of_birth: 13 Feb 1982
+    main_entry: 'true'
+  - uid: '55201'
+    date_of_birth: 21 Jan 1982
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '55202'
+    place_of_birth: San Pedro Sula, Cortes, Honduras
+    main_entry: 'true'
+remarks: "(Linked To: MS-13)"

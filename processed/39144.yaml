@@ -1,0 +1,34 @@
+---
+uid: '39144'
+last_name: FEDERAL RESEARCH CENTER INSTITUTE OF APPLIED PHYSICS OF THE RUSSIAN ACADEMY
+  OF SCIENCES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '61034'
+    type: a.k.a.
+    category: weak
+    last_name: IAP RAS
+address_list:
+  items:
+  - uid: '58281'
+    address1: 46 Ulyanov Str.
+    city: Nizhny Novgorod
+    postal_code: '603950'
+    country: Russia
+id_list:
+  items:
+  - uid: '28350'
+    id_type: Tax ID No.
+    id_number: '5260003387'
+    id_country: Russia
+  - uid: '28351'
+    id_type: Registration Number
+    id_number: '1025203020193'
+    id_country: Russia
+  - uid: '174732'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

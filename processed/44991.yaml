@@ -1,0 +1,34 @@
+---
+uid: '44991'
+first_name: Igor Alekseevich
+last_name: ALTUSHKIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '66968'
+    country: Russia
+id_list:
+  items:
+  - uid: '34646'
+    id_type: Tax ID No.
+    id_number: '770470510081'
+    id_country: Russia
+  - uid: '175874'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '165330'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '65328'
+    date_of_birth: 10 Sep 1970
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '65329'
+    place_of_birth: Ekaterinburg, Russia
+    main_entry: 'true'

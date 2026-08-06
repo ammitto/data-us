@@ -1,0 +1,50 @@
+---
+uid: '34490'
+first_name: Freddy Arnoldo
+last_name: SALAZAR FLORES
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '54017'
+    type: a.k.a.
+    category: strong
+    last_name: SALAZAR FLORES
+    first_name: Fredy Arnoldo
+  - uid: '54018'
+    type: a.k.a.
+    category: weak
+    last_name: BOYCA
+  - uid: '54019'
+    type: a.k.a.
+    category: weak
+    last_name: BOICA
+address_list:
+  items:
+  - uid: '51680'
+    country: Guatemala
+id_list:
+  items:
+  - uid: '24112'
+    id_type: C.U.I.
+    id_number: '2639667390611'
+    id_country: Guatemala
+  - uid: '24113'
+    id_type: 'NIT #'
+    id_number: '34746072'
+    id_country: Guatemala
+  - uid: '145878'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '45874'
+    date_of_birth: 14 Feb 1984
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '45876'
+    place_of_birth: Guatemala
+    main_entry: 'true'

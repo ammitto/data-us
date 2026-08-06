@@ -1,0 +1,40 @@
+---
+uid: '54970'
+first_name: Alireza
+last_name: FATAHINOJOKAMBARI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '84004'
+    country: Iran
+id_list:
+  items:
+  - uid: '48833'
+    id_type: National ID No.
+    id_number: '2658922442'
+    id_country: Iran
+  - uid: '48834'
+    id_type: Passport
+    id_number: H53445904
+    id_country: Iran
+    expiration_date: 05 Jan 2026
+  - uid: '192152'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '191622'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '91623'
+    date_of_birth: 21 Sep 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '91624'
+    place_of_birth: Roodbar, Iran
+    main_entry: 'true'
+remarks: "(Linked To: CYRUS OFFSHORE BANK)"

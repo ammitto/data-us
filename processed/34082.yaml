@@ -1,0 +1,42 @@
+---
+uid: '34082'
+last_name: KHARG PETROCHEMICAL COMPANY LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13846
+aka_list:
+  items:
+  - uid: '53416'
+    type: a.k.a.
+    category: strong
+    last_name: KHARG PETROCHEMICAL
+  - uid: '53417'
+    type: a.k.a.
+    category: weak
+    last_name: KPC
+address_list:
+  items:
+  - uid: '51094'
+    address1: No. 40 Dodjamjou St., North Dibaji St.
+    address2: P.O. Box No. 19615-317
+    city: Tehran
+    postal_code: '1951994511'
+    country: Iran
+id_list:
+  items:
+  - uid: '23725'
+    id_type: National ID No.
+    id_number: '10100455748'
+    id_country: Iran
+  - uid: '23737'
+    id_type: Registration Number
+    id_number: '11569'
+    id_country: Iran
+  - uid: '145576'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '145191'
+    id_type: Website
+    id_number: http://www.khargpetrochemical.com
+remarks: "(Linked To: TRILIANCE PETROCHEMICAL CO. LTD.)"

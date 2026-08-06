@@ -1,0 +1,35 @@
+---
+uid: '44579'
+last_name: VERSOR S.R.O.
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK
+address_list:
+  items:
+  - uid: '66351'
+    address1: Karadzicova 8/A
+    city: Bratislava
+    postal_code: '82108'
+    country: Slovakia
+id_list:
+  items:
+  - uid: '34081'
+    id_type: Identification Number
+    id_number: '46622764'
+    id_country: Slovakia
+  - uid: '34082'
+    id_type: Tax ID No.
+    id_number: '2023480030'
+    id_country: Slovakia
+  - uid: '164560'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '164559'
+    id_type: Organization Established Date
+    id_number: 14 Apr 2012
+  - uid: '164561'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+remarks: "(Linked To: MKRTYCHEV, Ashot)"

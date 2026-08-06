@@ -1,0 +1,33 @@
+---
+uid: '47608'
+last_name: AKTSIONERNOE OBSHCHESTVO AVIA FED SERVICE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73724'
+    type: a.k.a.
+    category: strong
+    last_name: AVIA FED SERVICE JSC
+address_list:
+  items:
+  - uid: '71123'
+    address1: Pl. Revolyutsii D. 6
+    city: Istra
+    postal_code: '143500'
+    country: Russia
+id_list:
+  items:
+  - uid: '38167'
+    id_type: Registration Number
+    id_number: '1027739037160'
+    id_country: Russia
+  - uid: '38168'
+    id_type: Tax ID No.
+    id_number: '7710023333'
+    id_country: Russia
+  - uid: '169604'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

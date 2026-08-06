@@ -1,0 +1,28 @@
+---
+uid: '49956'
+last_name: LIMITED LIABILITY COMPANY KB RUS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '75558'
+    address1: Ul. Platonova
+    address2: D. 4, Chast Pomeshcheniya II, Office 302
+    city: Voronezh
+    postal_code: '394018'
+    country: Russia
+id_list:
+  items:
+  - uid: '41486'
+    id_type: Registration Number
+    id_number: '1183668045615'
+    id_country: Russia
+  - uid: '41487'
+    id_type: Tax ID No.
+    id_number: '3664239120'
+    id_country: Russia
+  - uid: '178008'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

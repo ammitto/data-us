@@ -1,0 +1,40 @@
+---
+uid: '32754'
+first_name: Vladimir Mikhaylovich
+last_name: BOGDANOV
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+aka_list:
+  items:
+  - uid: '51540'
+    type: a.k.a.
+    category: strong
+    last_name: BOGDANOV
+    first_name: Vladimir Mikhailovich
+  - uid: '51541'
+    type: a.k.a.
+    category: strong
+    last_name: BOGDANOV
+    first_name: Vladimir
+address_list:
+  items:
+  - uid: '49714'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '142471'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '42472'
+    date_of_birth: 17 Jul 1958
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '42473'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'

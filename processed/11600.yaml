@@ -1,0 +1,21 @@
+---
+uid: '11600'
+first_name: Murat
+last_name: KARAYILAN
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+date_of_birth_list:
+  items:
+  - uid: '7082'
+    date_of_birth: 05 Jun 1954
+    main_entry: 'true'
+  - uid: '7083'
+    date_of_birth: '1950'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '7084'
+    place_of_birth: Konak, Turkey
+    main_entry: 'true'

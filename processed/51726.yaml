@@ -1,0 +1,24 @@
+---
+uid: '51726'
+last_name: ZENITH
+sdn_type: Vessel
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+id_list:
+  items:
+  - uid: '44301'
+    id_type: Vessel Registration Identification
+    id_number: IMO 9610781
+  - uid: '44302'
+    id_type: MMSI
+    id_number: '314950000'
+  - uid: '181831'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183563'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+remarks: "(Linked To: JOINT STOCK COMPANY SOVCOMFLOT)"

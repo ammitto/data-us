@@ -1,0 +1,43 @@
+---
+uid: '44975'
+last_name: JOINT STOCK COMPANY DUBNENSKY MACHINE BUILDING PLANT NAMED AFTER NP FEDOROV
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69611'
+    type: a.k.a.
+    category: strong
+    last_name: DUBNA MACHINE BUILDING PLANT
+  - uid: '69612'
+    type: a.k.a.
+    category: strong
+    last_name: DUBNA ENGINEERING PLANT
+  - uid: '69613'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOYE OBSHCHESTVO DUBNENSKIY MASHINOSTROITELNYY ZAVOD IMENI
+      NP FODOROVA
+address_list:
+  items:
+  - uid: '66930'
+    address1: ul. Zhukovsky, d. 2, str. 1
+    city: Dubna
+    state_or_province: Moscow Region
+    postal_code: '141983'
+    country: Russia
+id_list:
+  items:
+  - uid: '34612'
+    id_type: Tax ID No.
+    id_number: '5010030050'
+    id_country: Russia
+  - uid: '34613'
+    id_type: Registration Number
+    id_number: '1045002200616'
+    id_country: Russia
+  - uid: '175859'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,42 @@
+---
+uid: '39536'
+first_name: Yury Yuryevich
+last_name: OREKHOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '58884'
+    address1: One at Palm Jumeirah
+    address2: SA Unit 701
+    city: Blue Water Island
+    state_or_province: Dubai
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '28676'
+    id_type: Passport
+    id_number: '756454133'
+    id_country: Russia
+  - uid: '28677'
+    id_type: Passport
+    id_number: '531182863'
+    id_country: Russia
+  - uid: '155764'
+    id_type: Gender
+    id_number: Male
+  - uid: '174785'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '55747'
+    date_of_birth: 30 Mar 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '55748'
+    place_of_birth: Almaty, Kazakhstan
+    main_entry: 'true'

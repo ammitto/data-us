@@ -1,0 +1,39 @@
+---
+uid: '46016'
+first_name: Dmitriy Alekseyevich
+last_name: DMITRIEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '68539'
+    address1: 25 Iubileinaia St.
+    address2: Flat 45
+    city: Liubertsi
+    state_or_province: Moscow Regin
+    country: Russia
+id_list:
+  items:
+  - uid: '35851'
+    id_type: Tax ID No.
+    id_number: '860902214900'
+    id_country: Russia
+  - uid: '174889'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '166684'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '66682'
+    date_of_birth: 22 Jul 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '66683'
+    place_of_birth: Khanty-Mansiysky Autonomous Region, Russia
+    main_entry: 'true'
+remarks: "(Linked To: LIMITED LIABILITY COMPANY HARTIS DV)"

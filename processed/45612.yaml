@@ -1,0 +1,35 @@
+---
+uid: '45612'
+last_name: ISLAMIC REPUBLIC OF IRAN AIR FORCE
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-CON-ARMS-EO
+aka_list:
+  items:
+  - uid: '70486'
+    type: a.k.a.
+    category: weak
+    last_name: IRIAF
+  - uid: '70487'
+    type: a.k.a.
+    category: weak
+    last_name: NAHAJA
+address_list:
+  items:
+  - uid: '67797'
+    address1: Doshan Tappeh Air Base
+    city: Tehran
+    state_or_province: Tehran Province
+    country: Iran
+id_list:
+  items:
+  - uid: '166164'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '166165'
+    id_type: Target Type
+    id_number: Government Entity
+  - uid: '166166'
+    id_type: Website
+    id_number: https://nahaja.aja.ir

@@ -1,0 +1,43 @@
+---
+uid: '51744'
+last_name: PUBLIC JOINT STOCK SOCIAL COMMERCIAL BANK OF PRIMORYE PRIMSOTSBANK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '78852'
+    address1: Partizansky Avenue 44
+    city: Vladivostok
+    postal_code: '690106'
+    country: Russia
+id_list:
+  items:
+  - uid: '44342'
+    id_type: Global Intermediary Identification Number
+    id_number: 3U6UFF.99999.SL.643
+    id_country: Russia
+  - uid: '44345'
+    id_type: Legal Entity Number
+    id_number: 253400URAPVQ3J1HQG33
+  - uid: '44346'
+    id_type: Registration Number
+    id_number: '1022500001061'
+    id_country: Russia
+  - uid: '44347'
+    id_type: Tax ID No.
+    id_number: '2539013067'
+    id_country: Russia
+  - uid: '181890'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '181883'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '181887'
+    id_type: SWIFT/BIC
+    id_number: PRMTRU8V
+  - uid: '181885'
+    id_type: Website
+    id_number: www.pskb.com

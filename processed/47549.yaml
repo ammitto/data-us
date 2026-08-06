@@ -1,0 +1,47 @@
+---
+uid: '47549'
+last_name: PUBLIC JOINT STOCK COMPANY SPB BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '82143'
+    type: a.k.a.
+    category: strong
+    last_name: ALOR BANK
+address_list:
+  items:
+  - uid: '70997'
+    address1: 38 Dolgorukovskaya str., bld. 1
+    city: Moscow
+    postal_code: '127006'
+    country: Russia
+id_list:
+  items:
+  - uid: '38063'
+    id_type: Registration Number
+    id_number: '1037700041323'
+    id_country: Russia
+  - uid: '38064'
+    id_type: Tax ID No.
+    id_number: '7831000034'
+    id_country: Russia
+  - uid: '176407'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184110'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '169058'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '169060'
+    id_type: SWIFT/BIC
+    id_number: RTSBRUMM
+  - uid: '169059'
+    id_type: Website
+    id_number: www.spbbank.com

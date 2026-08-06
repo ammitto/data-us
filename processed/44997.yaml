@@ -1,0 +1,31 @@
+---
+uid: '44997'
+last_name: LIMITED LIABILITY COMPANY PROMRESHENIE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '66979'
+    address1: Usovo Village
+    address2: Building 100, Block B
+    address3: Floor 3, Suite 5
+    city: Odintsovo
+    state_or_province: Moscow Region
+    postal_code: '143084'
+    country: Russia
+id_list:
+  items:
+  - uid: '34658'
+    id_type: Registration Number
+    id_number: '1155032010132'
+    id_country: Russia
+  - uid: '34659'
+    id_type: Tax ID No.
+    id_number: '5032216298'
+    id_country: Russia
+  - uid: '175880'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: UNITED ARCTIC COMPANY LLC)"

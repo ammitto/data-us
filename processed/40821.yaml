@@ -1,0 +1,33 @@
+---
+uid: '40821'
+last_name: LIMITED LIABILITY COMPANY OPTIMA INVEST
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63515'
+    type: a.k.a.
+    category: strong
+    last_name: OPTIMA INVEST OOO
+address_list:
+  items:
+  - uid: '60862'
+    address1: ul. Lyusinovskaya, d. 28/19 str. 6
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '30043'
+    id_type: Tax ID No.
+    id_number: '7705993897'
+    id_country: Russia
+  - uid: '30044'
+    id_type: Registration Number
+    id_number: '1127746621804'
+    id_country: Russia
+  - uid: '174159'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: UDODOV, Aleksandr Yevgenyevich)"

@@ -1,0 +1,35 @@
+---
+uid: '26830'
+last_name: HENGAM PETROCHEMICAL COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+aka_list:
+  items:
+  - uid: '42368'
+    type: a.k.a.
+    category: strong
+    last_name: HENGAM PETROCHEMICAL CO
+address_list:
+  items:
+  - uid: '40701'
+    address1: 4th Floor, No 22, 16th Avenue, Khlid Islomboli Street
+    city: Tehran
+    postal_code: '1513643911'
+    country: Iran
+  - uid: '40702'
+    address1: 5th Street, Ahmed Ghasir Street, Khaled Eslamboli Avenue 22
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '17488'
+    id_type: Registration Number
+    id_number: '1924'
+    id_country: Iran
+  - uid: '131596'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: PERSIAN GULF PETROCHEMICAL INDUSTRY CO.)"

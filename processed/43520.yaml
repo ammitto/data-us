@@ -1,0 +1,43 @@
+---
+uid: '43520'
+first_name: Pouya
+last_name: PIRHOSSEINLOO
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13846
+aka_list:
+  items:
+  - uid: '67456'
+    type: a.k.a.
+    category: strong
+    last_name: PIRHOSEINLU
+    first_name: Puya
+address_list:
+  items:
+  - uid: '64930'
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '33098'
+    id_type: National ID No.
+    id_number: '0011395036'
+    id_country: Iran
+  - uid: '162994'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '162993'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '62990'
+    date_of_birth: 10 Jan 1990
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '62991'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: NAVYAN ABR ARVAN PRIVATE LIMITED COMPANY)"

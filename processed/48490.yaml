@@ -1,0 +1,44 @@
+---
+uid: '48490'
+last_name: SWD EMBEDDED SYSTEMS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75352'
+    type: a.k.a.
+    category: weak
+    last_name: LLC SVD VS
+  - uid: '75353'
+    type: a.k.a.
+    category: weak
+    last_name: SWD ES LTD
+address_list:
+  items:
+  - uid: '72749'
+    address1: Kuznetsovskaya st., 19
+    city: Saint Petersburg
+    postal_code: '196128'
+    country: Russia
+  - uid: '72750'
+    address1: PR-KT Moskovskii D. 212, Lit. A
+    address2: Et/Vkh/P/Of
+    address3: 2/84N/22/2077
+    city: Saint Petersburg
+    postal_code: '196066'
+    country: Russia
+id_list:
+  items:
+  - uid: '39391'
+    id_type: Registration Number
+    id_number: '1027804848741'
+    id_country: Russia
+  - uid: '39392'
+    id_type: Tax ID No.
+    id_number: '7810267943'
+    id_country: Russia
+  - uid: '171313'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

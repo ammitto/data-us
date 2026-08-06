@@ -1,0 +1,36 @@
+---
+uid: '34456'
+first_name: Yong Ho
+last_name: O
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+address_list:
+  items:
+  - uid: '51604'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '24076'
+    id_type: Passport
+    id_number: '108410041'
+    id_country: Korea, North
+    issue_date: 13 Oct 2018
+    expiration_date: 13 Oct 2023
+  - uid: '145787'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '145768'
+    id_type: Gender
+    id_number: Male
+  - uid: '145788'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+date_of_birth_list:
+  items:
+  - uid: '45767'
+    date_of_birth: 25 Dec 1961
+    main_entry: 'true'

@@ -1,0 +1,35 @@
+---
+uid: '52546'
+last_name: LIMITED LIABILITY COMPANY DEREVOOBRABATYVAYUSHCHAYA KOMPANIYA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '82235'
+    type: a.k.a.
+    category: weak
+    last_name: WOOD PROCESSING COMPANY LTD
+address_list:
+  items:
+  - uid: '80242'
+    address1: ul. Zavodskaya 5
+    city: Kamensk-Uralski
+    postal_code: '623405'
+    country: Russia
+id_list:
+  items:
+  - uid: '45547'
+    id_type: Registration Number
+    id_number: '1069612021929'
+    id_country: Russia
+  - uid: '45549'
+    id_type: Tax ID No.
+    id_number: '6612021872'
+    id_country: Russia
+  - uid: '184220'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: PUBLIC JOINT STOCK COMPANY KAMENSK URALSKIY METALLURGICHESKIY
+  ZAVOD)"

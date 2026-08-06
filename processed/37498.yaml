@@ -1,0 +1,41 @@
+---
+uid: '37498'
+last_name: SEVERGROUP LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '58749'
+    type: a.k.a.
+    category: strong
+    last_name: SEVERGROUP LLC
+  - uid: '58750'
+    type: a.k.a.
+    category: strong
+    last_name: SEVERGRUPP OOO
+address_list:
+  items:
+  - uid: '56089'
+    address1: 33 Prospekt Pobedy
+    city: Cherepovets
+    state_or_province: Vologda Region
+    postal_code: '162614'
+    country: Russia
+id_list:
+  items:
+  - uid: '26696'
+    id_type: Tax ID No.
+    id_number: '3528080360'
+    id_country: Russia
+  - uid: '26697'
+    id_type: Registration Number
+    id_number: '1023501241950'
+    id_country: Russia
+  - uid: '173415'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '152548'
+    id_type: Organization Established Date
+    id_number: 06 Feb 2002

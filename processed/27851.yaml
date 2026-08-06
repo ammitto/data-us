@@ -1,0 +1,40 @@
+---
+uid: '27851'
+first_name: Gholam Ali
+last_name: RASHID
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13876
+aka_list:
+  items:
+  - uid: '43911'
+    type: a.k.a.
+    category: strong
+    last_name: RASHID
+    first_name: Gholamali
+address_list:
+  items:
+  - uid: '42168'
+    country: Iran
+id_list:
+  items:
+  - uid: '133100'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '133095'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '33092'
+    date_of_birth: '1953'
+    main_entry: 'true'
+  - uid: '33133'
+    date_of_birth: '1954'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '33093'
+    place_of_birth: Dezful, Iran
+    main_entry: 'true'

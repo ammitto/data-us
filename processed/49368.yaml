@@ -1,0 +1,28 @@
+---
+uid: '49368'
+last_name: OOO TAV
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '74403'
+    address1: Pr-D Zavoda Serp I Molot D. 6
+    address2: Pod 1, Et 4, Kom 37
+    city: Moscow
+    postal_code: '111250'
+    country: Russia
+id_list:
+  items:
+  - uid: '40624'
+    id_type: Registration Number
+    id_number: '5167746262899'
+    id_country: Russia
+  - uid: '40625'
+    id_type: Tax ID No.
+    id_number: '7724388133'
+    id_country: Russia
+  - uid: '172690'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

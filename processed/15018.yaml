@@ -1,0 +1,56 @@
+---
+uid: '15018'
+first_name: Jorge Guillermo
+last_name: GONZALEZ CARDENAS
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '22328'
+    address1: Calle Moras No. 543-B
+    address2: Colonia Del Valle
+    address3: Delegacion Benito Juarez
+    city: Distrito Federal
+    postal_code: Codigo Postal 03100
+    country: Mexico
+  - uid: '22329'
+    address1: Avenida Coyoacan No. 43
+    address2: Colonia Del Valle
+    address3: Delegacion Benito Juarez
+    city: Distrito Federal
+    postal_code: Codigo Postal 03100
+    country: Mexico
+  - uid: '22330'
+    address1: Castillo de Kent 38
+    address2: Manzana 26 Lote 37
+    address3: Condado de Sayavedra
+    city: Atizapan de Zaragoza
+    state_or_province: Estado de Mexico
+    postal_code: CP 52930
+    country: Mexico
+id_list:
+  items:
+  - uid: '8010'
+    id_type: C.U.R.P.
+    id_number: GOCJ621024HSLNRR06
+    id_country: Mexico
+  - uid: '8011'
+    id_type: R.F.C.
+    id_number: GOCJ6210241Q0
+    id_country: Mexico
+  - uid: '8012'
+    id_type: Passport
+    id_number: '07380070619'
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '11299'
+    date_of_birth: 24 Oct 1962
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '11300'
+    place_of_birth: Culiacan, Sinaloa, Mexico
+    main_entry: 'true'

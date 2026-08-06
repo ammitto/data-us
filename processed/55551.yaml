@@ -1,0 +1,49 @@
+---
+uid: '55551'
+first_name: Amirhossein
+last_name: SALIMI
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '86410'
+    type: a.k.a.
+    category: strong
+    last_name: SALIMI
+    first_name: Amir Hosein
+  - uid: '86411'
+    type: a.k.a.
+    category: strong
+    last_name: SALIMI
+    first_name: Amir
+address_list:
+  items:
+  - uid: '84935'
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '49540'
+    id_type: National ID No.
+    id_number: '0055512550'
+    id_country: Iran
+  - uid: '193060'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '193058'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '93056'
+    date_of_birth: 17 May 1971
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '93057'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: PERFECT DAY CO SA)"

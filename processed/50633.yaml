@@ -1,0 +1,51 @@
+---
+uid: '50633'
+first_name: Sergey Viktorovich
+last_name: RYZHENKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+aka_list:
+  items:
+  - uid: '79236'
+    type: a.k.a.
+    category: weak
+    last_name: MALOY, Serega
+  - uid: '79237'
+    type: a.k.a.
+    category: weak
+    last_name: POCH
+  - uid: '79238'
+    type: a.k.a.
+    category: weak
+    last_name: STEN
+address_list:
+  items:
+  - uid: '76776'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '42487'
+    id_type: Passport
+    id_number: '712199247'
+    id_country: Russia
+  - uid: '42488'
+    id_type: National ID No.
+    id_number: '3609048460'
+    id_country: Russia
+  - uid: '179051'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '79048'
+    date_of_birth: 15 Feb 1989
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '79049'
+    place_of_birth: Uzbekistan
+    main_entry: 'true'
+remarks: "(Linked To: EVIL CORP)"

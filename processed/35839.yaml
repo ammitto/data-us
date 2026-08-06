@@ -1,0 +1,37 @@
+---
+uid: '35839'
+first_name: Abdurrahman Ado
+last_name: MUSA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '53760'
+    state_or_province: Abu Dhabi
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '25140'
+    id_type: Passport
+    id_number: '170211735'
+    id_country: Nigeria
+  - uid: '149012'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '148976'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '48973'
+    date_of_birth: 23 Apr 1984
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '48974'
+    place_of_birth: Nigeria
+    main_entry: 'true'
+remarks: "(Linked To: BOKO HARAM)"

@@ -1,0 +1,43 @@
+---
+uid: '35019'
+last_name: JSC PFC CSKA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '55097'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY PROFESSIONAL FOOTBALL CLUB CSKA
+  - uid: '55098'
+    type: a.k.a.
+    category: strong
+    last_name: AO PFK TSSKA
+address_list:
+  items:
+  - uid: '52581'
+    address1: Ul. 3-ya Peschanaya, d, 2a, severo-zapadnoe administrativnoe zdanie,
+      10-I et
+    city: Moscow
+    postal_code: '125252'
+    country: Russia
+id_list:
+  items:
+  - uid: '24741'
+    id_type: Registration Number
+    id_number: '1027739880893'
+    id_country: Russia
+  - uid: '24742'
+    id_type: Tax ID No.
+    id_number: '7734046851'
+    id_country: Russia
+  - uid: '175236'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '146638'
+    id_type: Website
+    id_number: www.pfc-cska.com
+remarks: "(Linked To: STATE CORPORATION BANK FOR DEVELOPMENT AND FOREIGN ECONOMIC
+  AFFAIRS VNESHECONOMBANK)"

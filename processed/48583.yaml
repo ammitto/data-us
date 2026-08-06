@@ -1,0 +1,40 @@
+---
+uid: '48583'
+last_name: JOINT STOCK COMPANY COMMUNICATION EQUIPMENT
+sdn_type: Entity
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '75522'
+    type: a.k.a.
+    category: strong
+    last_name: OAO TEKHNIKA SVYAZI
+  - uid: '75523'
+    type: a.k.a.
+    category: strong
+    last_name: AAT TEKHNIKA SUVYAZI
+  - uid: '75524'
+    type: a.k.a.
+    category: strong
+    last_name: TEKHNIKA SVYAZI JSC
+address_list:
+  items:
+  - uid: '72934'
+    address1: 1 Naberezhnaya str.
+    city: Baran
+    state_or_province: Vitebsk Region
+    postal_code: '211011'
+    country: Belarus
+id_list:
+  items:
+  - uid: '39534'
+    id_type: Tax ID No.
+    id_number: '300209010'
+    id_country: Belarus
+  - uid: '170855'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
+remarks: "(Linked To: OJSC AGAT-CONTROL SYSTEM-MANAGING COMPANY OF GEOINFORMATION
+  CONTROL SYSTEMS HOLDING)"

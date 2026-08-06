@@ -1,0 +1,50 @@
+---
+uid: '7163'
+first_name: Miguel
+last_name: AGUILAR AMAO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '5334'
+    address1: Avenida Del Sol 4551, Fraccionamiento La Escondida
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '5335'
+    address1: Avenida Del Sol 4551-2, Fraccionamiento La Escondida 22440
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '5336'
+    address1: c/o Distribuidora Imperial De Baja California, S.A. de C.V.
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '5337'
+    address1: c/o ADP, S.C.
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+id_list:
+  items:
+  - uid: '1539'
+    id_type: R.F.C.
+    id_number: AUAM-530929
+    id_country: Mexico
+  - uid: '3310'
+    id_type: Credencial electoral
+    id_number: '101924629544'
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '1323'
+    date_of_birth: 29 Sep 1953
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '1324'
+    place_of_birth: Santa Agueda,Baja California Sur,Mexico
+    main_entry: 'true'

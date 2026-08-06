@@ -1,0 +1,42 @@
+---
+uid: '25759'
+first_name: Isidro
+last_name: AVELAR GUTIERREZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '38980'
+    address1: Islas Aleutianas 2307
+    city: Guadalajara
+    state_or_province: Jalisco
+    postal_code: '44540'
+    country: Mexico
+  - uid: '39519'
+    address1: Santa Esther 845
+    address2: Colonia Santa Margarita
+    address3: Primera Seccion
+    city: Zapopan
+    state_or_province: Jalisco
+    country: Mexico
+id_list:
+  items:
+  - uid: '16662'
+    id_type: C.U.R.P.
+    id_number: AEGI620613HJCVTS05
+    id_country: Mexico
+  - uid: '129874'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '29873'
+    date_of_birth: 13 Jun 1962
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '29875'
+    place_of_birth: Jalisco, Mexico
+    main_entry: 'true'

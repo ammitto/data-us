@@ -1,0 +1,46 @@
+---
+uid: '27969'
+first_name: Rohullah
+last_name: WAKIL
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '44056'
+    type: a.k.a.
+    category: strong
+    last_name: WAKIL
+    first_name: Haji Sahib Rohullah
+  - uid: '44058'
+    type: a.k.a.
+    category: weak
+    last_name: Haji Rohullah
+address_list:
+  items:
+  - uid: '42304'
+    country: Afghanistan
+id_list:
+  items:
+  - uid: '186980'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '133259'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '33257'
+    date_of_birth: '1962'
+    main_entry: 'true'
+  - uid: '33264'
+    date_of_birth: '1963'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '33258'
+    place_of_birth: Nangalam, Afghanistan
+    main_entry: 'true'
+remarks: "(Linked To: ISIL KHORASAN)"

@@ -1,0 +1,28 @@
+---
+uid: '31415'
+last_name: FEDERAL STATE AUTONOMOUS SCIENTIFIC ESTABLISHMENT SCIENTIFIC RESEARCH INSTITUTE
+  SPECIALIZED SECURITY COMPUTING DEVICES AND AUTOMATION
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '49401'
+    type: a.k.a.
+    category: strong
+    last_name: FGANU NII SPECVUZAVTOMATIKA
+address_list:
+  items:
+  - uid: '47472'
+    city: Rostov-On-Don
+    country: Russia
+id_list:
+  items:
+  - uid: '21376'
+    id_type: Tax ID No.
+    id_number: '6164205270'
+    id_country: Russia
+  - uid: '173955'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

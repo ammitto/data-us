@@ -1,0 +1,32 @@
+---
+uid: '32231'
+first_name: Saw
+last_name: DANIEL
+sdn_type: Individual
+program_list:
+  programs:
+  - BURMA-EO14014
+address_list:
+  items:
+  - uid: '48582'
+    city: Naypyitaw
+    country: Burma
+id_list:
+  items:
+  - uid: '141662'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '41660'
+    date_of_birth: 25 Nov 1957
+    main_entry: 'true'
+  - uid: '41665'
+    date_of_birth: 1968 to 1969
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '41661'
+    place_of_birth: Loikaw, Burma
+    main_entry: 'true'
+title: State Administrative Council Member

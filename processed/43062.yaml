@@ -1,0 +1,35 @@
+---
+uid: '43062'
+first_name: Macalin
+last_name: BURHAN
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '64203'
+    state_or_province: Lower Juba
+    country: Somalia
+  - uid: '64204'
+    city: Salagle
+    state_or_province: Middle Juba
+    country: Somalia
+id_list:
+  items:
+  - uid: '161959'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '161952'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '61953'
+    date_of_birth: '1981'
+    main_entry: 'true'
+  - uid: '61954'
+    date_of_birth: '1982'
+    main_entry: 'false'
+remarks: "(Linked To: AL-SHABAAB)"

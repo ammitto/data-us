@@ -1,0 +1,46 @@
+---
+uid: '15021'
+first_name: Rigoberto
+last_name: DIAS PANIAGUA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '22341'
+    address1: Calle Yacatas No. 366, Planta Alta
+    address2: Colonia Narvarte
+    address3: Delegacion Benito Juarez
+    city: Distrito Federal
+    postal_code: Codigo Postal 03020
+    country: Mexico
+  - uid: '22342'
+    address1: Calle Sor Juana Ines de la Cruz No. 144, Departamento 124
+    address2: Colonia Miguel Hidalgo
+    postal_code: Codigo Postal 14410
+    country: Mexico
+id_list:
+  items:
+  - uid: '8019'
+    id_type: C.U.R.P.
+    id_number: DIPR660905HGTSNG05
+    id_country: Mexico
+  - uid: '8020'
+    id_type: R.F.C.
+    id_number: DIPR-690905 J31
+    id_country: Mexico
+  - uid: '8288'
+    id_type: R.F.C.
+    id_number: DIPR-660905 J31
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '11305'
+    date_of_birth: 05 Sep 1966
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '11306'
+    place_of_birth: Acambaro, Guanajuato, Mexico
+    main_entry: 'true'

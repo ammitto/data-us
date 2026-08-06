@@ -1,0 +1,41 @@
+---
+uid: '37781'
+last_name: JOINT STOCK COMPANY METEOR PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59311'
+    type: a.k.a.
+    category: strong
+    last_name: METEOR PLANT JSC
+  - uid: '59312'
+    type: a.k.a.
+    category: strong
+    last_name: AO ZAVOD METEOR
+address_list:
+  items:
+  - uid: '56545'
+    address1: Ul. Gorkogo D. 1
+    city: Volzhskiy
+    postal_code: '404130'
+    country: Russia
+id_list:
+  items:
+  - uid: '27059'
+    id_type: Registration Number
+    id_number: '1023402012050'
+    id_country: Russia
+  - uid: '27060'
+    id_type: Tax ID No.
+    id_number: '3435000717'
+    id_country: Russia
+  - uid: '152768'
+    id_type: Organization Established Date
+    id_number: 17 Jul 1959
+  - uid: '173513'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: OPEN JOINT STOCK COMPANY RUSSIAN ELECTRONICS)"

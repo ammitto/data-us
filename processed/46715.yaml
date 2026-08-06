@@ -1,0 +1,34 @@
+---
+uid: '46715'
+first_name: Vladislav Vladimirovich
+last_name: SVIBLOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '69598'
+    country: Russia
+id_list:
+  items:
+  - uid: '36771'
+    id_type: Tax ID No.
+    id_number: '761015289955'
+    id_country: Russia
+  - uid: '177009'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '167525'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '67523'
+    date_of_birth: 19 Jan 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '67526'
+    place_of_birth: Rybinsk, Yaroslavl Region, Russia
+    main_entry: 'true'

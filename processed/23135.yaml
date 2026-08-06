@@ -1,0 +1,33 @@
+---
+uid: '23135'
+first_name: Julian Isaias
+last_name: RODRIGUEZ DIAZ
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+address_list:
+  items:
+  - uid: '34949'
+    state_or_province: Miranda
+    country: Venezuela
+id_list:
+  items:
+  - uid: '14567'
+    id_type: Cedula No.
+    id_number: '2218534'
+    id_country: Venezuela
+  - uid: '124773'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '24775'
+    date_of_birth: 16 Dec 1942
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '24776'
+    place_of_birth: Guarico, Venezuela
+    main_entry: 'true'
+title: Venezuelan Ambassador to Italy

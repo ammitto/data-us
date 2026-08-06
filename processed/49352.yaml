@@ -1,0 +1,33 @@
+---
+uid: '49352'
+last_name: LIMITED LIABILITY COMPANY UNMANNED SYSTEMS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76963'
+    type: a.k.a.
+    category: strong
+    last_name: BESPILOTNYE SISTEMY
+address_list:
+  items:
+  - uid: '74366'
+    address1: Ul. 10 Let Oktyabrya D. 24, Kv. 62
+    city: Izhevsk
+    postal_code: '426011'
+    country: Russia
+id_list:
+  items:
+  - uid: '40599'
+    id_type: Registration Number
+    id_number: '1121831007759'
+    id_country: Russia
+  - uid: '40600'
+    id_type: Tax ID No.
+    id_number: '1831156383'
+    id_country: Russia
+  - uid: '172402'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

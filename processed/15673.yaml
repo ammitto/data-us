@@ -1,0 +1,56 @@
+---
+uid: '15673'
+last_name: GRUPO COMERCIAL ROOL, S.A. DE C.V.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '23376'
+    type: a.k.a.
+    category: strong
+    last_name: EL VIEJO LUIS
+  - uid: '23377'
+    type: a.k.a.
+    category: strong
+    last_name: TEQUILA VALENTON
+address_list:
+  items:
+  - uid: '23412'
+    address1: Alberta No. 2288 4B
+    address2: Col. Jardines de Providencia
+    city: Guadalajara
+    state_or_province: Jalisco
+    postal_code: '44630'
+    country: Mexico
+  - uid: '23413'
+    address1: Acueducto No. 2380
+    address2: Col. Colinas de San Javier
+    city: Guadalajara
+    state_or_province: Jalisco
+    postal_code: '44660'
+    country: Mexico
+  - uid: '23414'
+    address1: Lazaro Cardenas No. 3430
+    address2: Desp. 403 and 404, Piso 4
+    city: Zapopan
+    state_or_province: Jalisco
+    postal_code: '45040'
+    country: Mexico
+  - uid: '23416'
+    address1: Av. Mexico No. 2798
+    address2: Col. Terranova
+    city: Guadalajara
+    state_or_province: Jalisco
+    postal_code: '44689'
+    country: Mexico
+id_list:
+  items:
+  - uid: '8421'
+    id_type: RFC
+    id_number: GCR990628KR9
+    id_country: Mexico
+  - uid: '8422'
+    id_type: Folio Mercantil No.
+    id_number: '38347'

@@ -1,0 +1,35 @@
+---
+uid: '37257'
+first_name: Miguel Angel
+last_name: MORGAN HUERTA
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '55706'
+    address1: Sonora 335
+    city: Hermosillo
+    state_or_province: Sonora
+    postal_code: '83296'
+    country: Mexico
+id_list:
+  items:
+  - uid: '26543'
+    id_type: C.U.R.P.
+    id_number: MOHM730327HSRRRG07
+    id_country: Mexico
+  - uid: '151740'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '51737'
+    date_of_birth: 27 Mar 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '51738'
+    place_of_birth: Sonora, Mexico
+    main_entry: 'true'

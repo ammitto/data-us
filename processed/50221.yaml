@@ -1,0 +1,45 @@
+---
+uid: '50221'
+last_name: AVIAKOMPANIYA BELKANTO LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '78367'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU BELKANTO
+  - uid: '78368'
+    type: a.k.a.
+    category: strong
+    last_name: BELCANTO AIRLINES
+  - uid: '78369'
+    type: a.k.a.
+    category: strong
+    last_name: BELCANTO AIRLINES LLC
+address_list:
+  items:
+  - uid: '76027'
+    address1: 42, room 3H, Nemiga St.
+    city: Minsk
+    postal_code: '220004'
+    country: Belarus
+  - uid: '76028'
+    address1: 29, pom. 11, izolirovannoe pomeshchenie, kabinet 4, ul. Surganova
+    city: Minsk
+    postal_code: '220012'
+    country: Belarus
+id_list:
+  items:
+  - uid: '41861'
+    id_type: Tax ID No.
+    id_number: '193453339'
+    id_country: Belarus
+  - uid: '177843'
+    id_type: Organization Established Date
+    id_number: 03 Aug 2020
+  - uid: '178173'
+    id_type: 'Organization Type:'
+    id_number: Freight air transport

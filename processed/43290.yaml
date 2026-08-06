@@ -1,0 +1,42 @@
+---
+uid: '43290'
+first_name: Vitaly Alexandrovich
+last_name: SUK
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '67130'
+    type: a.k.a.
+    category: strong
+    last_name: SUK
+    first_name: Vitalij Oleksandrovych
+address_list:
+  items:
+  - uid: '64626'
+    city: Oleshky
+    country: Ukraine
+id_list:
+  items:
+  - uid: '32871'
+    id_type: Tax ID No.
+    id_number: '910619125006'
+    id_country: Russia
+  - uid: '162507'
+    id_type: Gender
+    id_number: Male
+  - uid: '175703'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '62505'
+    date_of_birth: 12 Mar 1970
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '62506'
+    place_of_birth: Chutove, Ukraine
+    main_entry: 'true'

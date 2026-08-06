@@ -1,0 +1,32 @@
+---
+uid: '44605'
+last_name: ALPHAONE PHARMACEUTICAL B.V.
+sdn_type: Entity
+program_list:
+  programs:
+  - GLOMAG
+address_list:
+  items:
+  - uid: '66396'
+    address1: Kampenringweg 45 D
+    address2: 1st Floor
+    city: Gouda
+    postal_code: 2803 PE
+    country: Netherlands
+id_list:
+  items:
+  - uid: '34143'
+    id_type: Tax ID No.
+    id_number: '857196583'
+    id_country: Netherlands
+  - uid: '34144'
+    id_type: Business Registration Number
+    id_number: '67846017'
+    id_country: Netherlands
+  - uid: '164654'
+    id_type: Organization Established Date
+    id_number: 18 Jan 2017
+  - uid: '164665'
+    id_type: 'Organization Type:'
+    id_number: Activities of holding companies
+remarks: "(Linked To: RG GROUP FZE)"

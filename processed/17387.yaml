@@ -1,0 +1,54 @@
+---
+uid: '17387'
+first_name: Ali Abdullah
+last_name: SALEH
+sdn_type: Individual
+program_list:
+  programs:
+  - YEMEN
+aka_list:
+  items:
+  - uid: '26906'
+    type: a.k.a.
+    category: strong
+    last_name: SALIH
+    first_name: Ali Abdallah
+id_list:
+  items:
+  - uid: '9789'
+    id_type: Identification Number
+    id_number: '01010744444'
+    id_country: Yemen
+  - uid: '9790'
+    id_type: Passport
+    id_number: '00016161'
+    id_country: Yemen
+    issue_date: 19 Jun 2012
+    expiration_date: 18 Jun 2018
+  - uid: '116387'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '16388'
+    date_of_birth: 21 Mar 1945
+    main_entry: 'true'
+  - uid: '16389'
+    date_of_birth: 21 Mar 1946
+    main_entry: 'false'
+  - uid: '16390'
+    date_of_birth: 21 Mar 1942
+    main_entry: 'false'
+  - uid: '16391'
+    date_of_birth: 21 Mar 1947
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '16392'
+    place_of_birth: Bayt al-Ahmar, Sana'a Governorate, Yemen
+    main_entry: 'true'
+  - uid: '16393'
+    place_of_birth: Sana'a, Yemen
+    main_entry: 'false'
+title: President of Yemen's General People's Congress party; Former President of the
+  Republic of Yemen

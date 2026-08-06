@@ -1,0 +1,50 @@
+---
+uid: '37719'
+last_name: JOINT STOCK COMPANY ALL-RUSSIAN RESEARCH INSTITUTE SIGNAL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59143'
+    type: a.k.a.
+    category: strong
+    last_name: OAO VNII SIGNAL
+  - uid: '59144'
+    type: a.k.a.
+    category: strong
+    last_name: AO VNII SIGNAL
+  - uid: '59145'
+    type: a.k.a.
+    category: strong
+    last_name: OAO VSEROSSIYSKIY NAUCHNO-ISSLEDOVATELSKIY INSTITUT SIGNAL
+  - uid: '59146'
+    type: a.k.a.
+    category: strong
+    last_name: OJSC ALL-RUSSIAN RESEARCH INSTITUTE SIGNAL
+  - uid: '59147'
+    type: a.k.a.
+    category: strong
+    last_name: VNII SIGNAL JSC
+address_list:
+  items:
+  - uid: '56410'
+    address1: 57 UL. Krupskoy
+    city: Kovrov
+    state_or_province: Vladimir Oblast
+    postal_code: '601903'
+    country: Russia
+id_list:
+  items:
+  - uid: '26961'
+    id_type: Tax ID No.
+    id_number: '3305708964'
+    id_country: Russia
+  - uid: '26962'
+    id_type: Registration Number
+    id_number: '1103332000232'
+    id_country: Russia
+  - uid: '173472'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

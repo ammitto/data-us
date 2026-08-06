@@ -1,0 +1,66 @@
+---
+uid: '45783'
+last_name: SPB EXCHANGE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '70743'
+    type: a.k.a.
+    category: strong
+    last_name: PUBLIC JOINT STOCK COMPANY SPB EXCHANGE
+  - uid: '70744'
+    type: a.k.a.
+    category: weak
+    last_name: PJSC SPB EXCHANGE
+  - uid: '82145'
+    type: a.k.a.
+    category: strong
+    last_name: PUBLIC JOINT STOCK COMPANY SAINT PETERSBURG EXCHANGE
+address_list:
+  items:
+  - uid: '68124'
+    address1: Ul. Dolgorukovskaya D. 38
+    address2: Korp. 1
+    city: Moscow
+    postal_code: '127006'
+    country: Russia
+id_list:
+  items:
+  - uid: '35534'
+    id_type: Registration Number
+    id_number: '1097800000440'
+    id_country: Russia
+  - uid: '35535'
+    id_type: Tax ID No.
+    id_number: '7801268965'
+    id_country: Russia
+  - uid: '35536'
+    id_type: Legal Entity Number
+    id_number: 253400T8G8SXRUHTL526
+  - uid: '35537'
+    id_type: Government Gazette Number
+    id_number: '45573578'
+    id_country: Russia
+  - uid: '176054'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184111'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '166356'
+    id_type: Organization Established Date
+    id_number: 21 Jan 2009
+  - uid: '166358'
+    id_type: SWIFT/BIC
+    id_number: XPETRU21
+  - uid: '166357'
+    id_type: Website
+    id_number: spbexchange.ru
+  - uid: '166758'
+    id_type: Target Type
+    id_number: Financial Institution

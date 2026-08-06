@@ -1,0 +1,49 @@
+---
+uid: '47068'
+last_name: NABCO MONEY EXCHANGE AND REMITTANCE CO.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '72701'
+    type: a.k.a.
+    category: weak
+    last_name: NABCO COMPANY
+  - uid: '72719'
+    type: a.k.a.
+    category: strong
+    last_name: NABIL AL-HAZA' COMPANY
+  - uid: '72720'
+    type: a.k.a.
+    category: strong
+    last_name: NABAKO MONEY EXCHANGE AND TRANSFERS
+  - uid: '72721'
+    type: a.k.a.
+    category: strong
+    last_name: NABICO EXCHANGE
+  - uid: '72726'
+    type: a.k.a.
+    category: strong
+    last_name: NABCO MONEY EXCHANGE & REMITTANCE CO.
+address_list:
+  items:
+  - uid: '70131'
+    address1: Al-Khamis Street
+    address2: Lebanese University Neighborhood
+    city: Sana'a
+    country: Yemen
+id_list:
+  items:
+  - uid: '168239'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '168279'
+    id_type: 'Organization Type:'
+    id_number: Other monetary intermediation
+  - uid: '168238'
+    id_type: Website
+    id_number: https://nabco-ye.com
+remarks: "(Linked To: AL-JAMAL, Sa'id Ahmad Muhammad)"

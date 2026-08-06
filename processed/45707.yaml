@@ -1,0 +1,29 @@
+---
+uid: '45707'
+last_name: FREGAT OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '67956'
+    address1: ul. Moiseenko
+    address2: d. 24
+    address3: lit. A, pom. 1-N, office 404-404A
+    city: Saint Petersburg
+    postal_code: '191144'
+    country: Russia
+id_list:
+  items:
+  - uid: '35403'
+    id_type: Registration Number
+    id_number: '1127847215891'
+    id_country: Russia
+  - uid: '35404'
+    id_type: Tax ID No.
+    id_number: '7814533642'
+    id_country: Russia
+  - uid: '176009'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

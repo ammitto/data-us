@@ -1,0 +1,60 @@
+---
+uid: '13366'
+first_name: Nadia Patricia
+last_name: ESPARRAGOZA GASTELUM
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '21348'
+    address1: Anillo de Periferico Sur No. 4863 Interior 902
+    address2: Colonia Tepepan
+    address3: Delegacion Tlalpan
+    city: Mexico City
+    state_or_province: Distrito Federal
+    postal_code: C.P. 14610
+    country: Mexico
+  - uid: '21349'
+    address1: Calle Chichen Itza No. 4644
+    address2: Colonia Mirador del Sol
+    city: Zapopan
+    state_or_province: Jalisco
+    postal_code: C.P. 45054
+    country: Mexico
+  - uid: '21350'
+    address1: Calle Morelos No. 2223
+    address2: Colonia Arcos Vallarta
+    city: Guadalajara
+    state_or_province: Jalisco
+    postal_code: C.P. 44130
+    country: Mexico
+  - uid: '21351'
+    address1: Avenida de la Patria No. 685 Interior 1
+    address2: Fraccionamiento Jardines Universidad
+    city: Zapopan
+    state_or_province: Jalisco
+    country: Mexico
+id_list:
+  items:
+  - uid: '7881'
+    id_type: C.U.R.P.
+    id_number: EAGN760419MJCSSD05
+    id_country: Mexico
+  - uid: '7882'
+    id_type: R.F.C.
+    id_number: EAGN760419LC8
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '9426'
+    date_of_birth: 19 Apr 1976
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '9427'
+    place_of_birth: Guadalajara, Jalisco, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: GRUPO CINJAB, S.A. DE C.V.; Linked To: GRUPO IMPERGOZA, S.A.
+  DE C.V.)"

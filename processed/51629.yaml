@@ -1,0 +1,30 @@
+---
+uid: '51629'
+first_name: Kirill
+last_name: PRONIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '78668'
+    country: Russia
+id_list:
+  items:
+  - uid: '181465'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '181463'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '81461'
+    date_of_birth: 14 Aug 1979
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '81462'
+    place_of_birth: Kazan, Russia
+    main_entry: 'true'

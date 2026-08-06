@@ -1,0 +1,38 @@
+---
+uid: '49940'
+last_name: LIMITED LIABILITY COMPANY EKSIKYUSHN ER DI SI
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77819'
+    type: a.k.a.
+    category: strong
+    last_name: EKSIKYUSHN RDC
+  - uid: '77820'
+    type: a.k.a.
+    category: weak
+    last_name: EXECUTION COMPANY
+address_list:
+  items:
+  - uid: '75517'
+    address1: Ul. Yaroslavskaya
+    address2: D. 8, K. 5
+    city: Moscow
+    postal_code: '129164'
+    country: Russia
+id_list:
+  items:
+  - uid: '41454'
+    id_type: Registration Number
+    id_number: '1147746462368'
+    id_country: Russia
+  - uid: '41455'
+    id_type: Tax ID No.
+    id_number: '7717783213'
+    id_country: Russia
+  - uid: '178039'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,30 @@
+---
+uid: '36357'
+first_name: Nikola
+last_name: GRUEVSKI
+sdn_type: Individual
+program_list:
+  programs:
+  - BALKANS-EO14033
+address_list:
+  items:
+  - uid: '54586'
+    country: Hungary
+  - uid: '54587'
+    city: Skopje
+    country: North Macedonia, The Republic of
+id_list:
+  items:
+  - uid: '149929'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '49927'
+    date_of_birth: 31 Aug 1970
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '49928'
+    place_of_birth: Skopje, North Macedonia
+    main_entry: 'true'

@@ -1,0 +1,41 @@
+---
+uid: '50375'
+last_name: JOINT STOCK COMPANY GALICHSKII AVTOKRANOVYI ZAVOD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78738'
+    type: a.k.a.
+    category: strong
+    last_name: GAKZ AO
+  - uid: '78739'
+    type: a.k.a.
+    category: strong
+    last_name: GALICH MOBILE CRANES PLANT JSC
+  - uid: '78740'
+    type: a.k.a.
+    category: strong
+    last_name: GALICH TRUCK CRANE PLANT
+address_list:
+  items:
+  - uid: '76361'
+    address1: 27 ul. Gladysheva
+    city: Galich
+    postal_code: '157202'
+    country: Russia
+id_list:
+  items:
+  - uid: '42129'
+    id_type: Tax ID No.
+    id_number: '4403000875'
+    id_country: Russia
+  - uid: '42131'
+    id_type: Registration Number
+    id_number: '1024401432450'
+    id_country: Russia
+  - uid: '178345'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

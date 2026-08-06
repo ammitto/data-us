@@ -1,0 +1,51 @@
+---
+uid: '39756'
+last_name: OFFICER'S UNION FOR INTERNATIONAL SECURITY
+sdn_type: Entity
+program_list:
+  programs:
+  - CAR
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '61947'
+    type: a.k.a.
+    category: strong
+    last_name: SODRUZHESTVO OFITSEROV ZA MEZHDUNARODNUYU BEZOPASNOST
+  - uid: '63106'
+    type: a.k.a.
+    category: weak
+    last_name: OUIS
+address_list:
+  items:
+  - uid: '59244'
+    address1: 'Ul. Cherkizovskaya B, D. 24A, Str. 1, Floor 8, Office #815'
+    city: Moscow
+    postal_code: '107553'
+    country: Russia
+id_list:
+  items:
+  - uid: '28916'
+    id_type: Registration Number
+    id_number: '1217700038710'
+    id_country: Russia
+  - uid: '28917'
+    id_type: Tax ID No.
+    id_number: '9718168599'
+    id_country: Russia
+  - uid: '156152'
+    id_type: Organization Established Date
+    id_number: 03 Feb 2021
+  - uid: '156149'
+    id_type: 'Organization Type:'
+    id_number: Private security activities
+  - uid: '156151'
+    id_type: 'Organization Type:'
+    id_number: Real estate activities with own or leased property
+  - uid: '156150'
+    id_type: Target Type
+    id_number: Private Company
+  - uid: '174792'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: PRIVATE MILITARY COMPANY 'WAGNER')"

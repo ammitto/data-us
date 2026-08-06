@@ -1,0 +1,37 @@
+---
+uid: '37869'
+first_name: Aleksander Yuryevich
+last_name: NAZAROV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '56762'
+    address1: Uglicheskaya, 19, 56
+    city: Moscow
+    postal_code: '127253'
+    country: Russia
+id_list:
+  items:
+  - uid: '27173'
+    id_type: Passport
+    id_number: '636653312'
+    id_country: Russia
+  - uid: '153059'
+    id_type: Gender
+    id_number: Male
+  - uid: '174613'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '53055'
+    date_of_birth: 13 Jul 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '53060'
+    place_of_birth: Rostov-On-Don, Russia
+    main_entry: 'true'

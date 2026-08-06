@@ -1,0 +1,42 @@
+---
+uid: '51215'
+last_name: LIMITED LIABILITY COMPANY TRADING HOUSE VECTOR
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80294'
+    type: a.k.a.
+    category: strong
+    last_name: LLC TRADING HOUSE VECTOR
+address_list:
+  items:
+  - uid: '77902'
+    address1: Ul. Rossiiskaya, D. 2A, KV. 10
+    city: Irkutsk
+    state_or_province: Irkutsk Oblast
+    postal_code: '664025'
+    country: Russia
+id_list:
+  items:
+  - uid: '43395'
+    id_type: Business Registration Number
+    id_number: '1083808013178'
+    id_country: Russia
+  - uid: '43396'
+    id_type: Tax ID No.
+    id_number: '3808184570'
+    id_country: Russia
+  - uid: '43397'
+    id_type: Government Gazette Number
+    id_number: '87059789'
+    id_country: Russia
+  - uid: '180336'
+    id_type: Organization Established Date
+    id_number: 10 Oct 2008
+  - uid: '180337'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: YAMSHCHIKOV, Artem Mikhailovich)"

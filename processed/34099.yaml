@@ -1,0 +1,42 @@
+---
+uid: '34099'
+last_name: SPECIAL UNITS OF IRAN'S LAW ENFORCEMENT FORCES
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-HR
+aka_list:
+  items:
+  - uid: '53452'
+    type: a.k.a.
+    category: strong
+    last_name: LEF SPECIAL UNITS
+  - uid: '53453'
+    type: a.k.a.
+    category: strong
+    last_name: IRANIAN POLICE SPECIAL UNITS
+  - uid: '53454'
+    type: a.k.a.
+    category: strong
+    last_name: YEGAN-E VIZHE
+  - uid: '53455'
+    type: a.k.a.
+    category: weak
+    last_name: YEGOP
+  - uid: '53456'
+    type: a.k.a.
+    category: strong
+    last_name: NAJA SPECIAL UNITS
+address_list:
+  items:
+  - uid: '51110'
+    country: Iran
+id_list:
+  items:
+  - uid: '145407'
+    id_type: Target Type
+    id_number: Government Entity
+  - uid: '145177'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: LAW ENFORCEMENT FORCES OF THE ISLAMIC REPUBLIC OF IRAN)"

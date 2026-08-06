@@ -1,0 +1,44 @@
+---
+uid: '8202'
+first_name: L'Hadi
+last_name: BENDEBKA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '6312'
+    type: a.k.a.
+    category: weak
+    last_name: ABD AL HADI
+  - uid: '6313'
+    type: a.k.a.
+    category: weak
+    last_name: HADI
+address_list:
+  items:
+  - uid: '7504'
+    address1: Via Garibaldi, 70, San Zenone al Po
+    city: Pavia
+    country: Italy
+  - uid: '7505'
+    address1: Via Manzoni, 33, Cinisello Balsamo
+    city: Milan
+    country: Italy
+id_list:
+  items:
+  - uid: '185790'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '2576'
+    date_of_birth: 17 Nov 1963
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '2577'
+    place_of_birth: Algiers Algeria
+    main_entry: 'true'

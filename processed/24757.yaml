@@ -1,0 +1,49 @@
+---
+uid: '24757'
+first_name: Hameed ul
+last_name: HASSAN
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '39059'
+    type: a.k.a.
+    category: strong
+    last_name: HASAN
+    first_name: Hameed ul
+  - uid: '39060'
+    type: a.k.a.
+    category: strong
+    last_name: HASSAN
+    first_name: Hameedul
+address_list:
+  items:
+  - uid: '37421'
+    address1: House number 4, Lane 4, Village flag 2
+    city: Dhalwan, Pasrur Tehsil
+    state_or_province: Sialkot District, Punjab Province
+    country: Pakistan
+id_list:
+  items:
+  - uid: '187198'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '127762'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '27760'
+    date_of_birth: 02 Jan 1980
+    main_entry: 'true'
+  - uid: '27761'
+    date_of_birth: 02 Nov 1980
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '27759'
+    place_of_birth: Sialkot, Pakistan
+    main_entry: 'true'

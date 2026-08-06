@@ -1,0 +1,33 @@
+---
+uid: '11598'
+last_name: GENERAL BUREAU OF ATOMIC ENERGY
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+aka_list:
+  items:
+  - uid: '12296'
+    type: a.k.a.
+    category: strong
+    last_name: GBAE
+  - uid: '12297'
+    type: a.k.a.
+    category: strong
+    last_name: GENERAL DEPARTMENT OF ATOMIC ENERGY
+address_list:
+  items:
+  - uid: '17395'
+    address1: Haeudong
+    address2: Pyongchen District
+    city: Pyongyang
+    country: Korea, North
+id_list:
+  items:
+  - uid: '134861'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '127711'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210

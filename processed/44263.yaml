@@ -1,0 +1,46 @@
+---
+uid: '44263'
+last_name: SPACE RESEARCH INSTITUTE RUSSIAN ACADEMY OF SCIENCES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '68465'
+    type: a.k.a.
+    category: weak
+    last_name: IKI RAS
+  - uid: '68466'
+    type: a.k.a.
+    category: strong
+    last_name: FEDERALNOE GOSUDARSTVENNOE BYUDZHETNOE UCHREZHDENIE NAUKI INSTITUT
+      KOSMICHESKIKH ISSLEDOVANI ROSSISKOI AKADEMII NAUK
+  - uid: '68467'
+    type: a.k.a.
+    category: strong
+    last_name: IKI RAN FGBU
+address_list:
+  items:
+  - uid: '65892'
+    address1: Ul Profsoyuznaya, D 84/32
+    city: Moscow
+    postal_code: '117997'
+    country: Russia
+id_list:
+  items:
+  - uid: '33698'
+    id_type: Registration Number
+    id_number: '1027739475279'
+    id_country: Russia
+  - uid: '33699'
+    id_type: Tax ID No.
+    id_number: '7728113806'
+    id_country: Russia
+  - uid: '33700'
+    id_type: Government Gazette Number
+    id_number: '02698692'
+    id_country: Russia
+  - uid: '175819'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

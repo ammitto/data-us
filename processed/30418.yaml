@@ -1,0 +1,41 @@
+---
+uid: '30418'
+last_name: KAVEH SHARGH STEEL CO.
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13876
+aka_list:
+  items:
+  - uid: '47820'
+    type: a.k.a.
+    category: strong
+    last_name: KAVEH SHARGH STEEL COMPANY
+  - uid: '47821'
+    type: a.k.a.
+    category: strong
+    last_name: KAVEH EAST STEEL COMPANY
+address_list:
+  items:
+  - uid: '46028'
+    address1: Resalat Expressway, not far from Afriqa Expressway
+    address2: Bonyad Mostazafan Central Building, Third Floor
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '20579'
+    id_type: Registration Number
+    id_number: '253834'
+    id_country: Iran
+  - uid: '20580'
+    id_type: National ID No.
+    id_number: '10102942460'
+    id_country: Iran
+  - uid: '138067'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '138066'
+    id_type: Website
+    id_number: http://kes.co.ir
+remarks: "(Linked To: KAVEH PARS MINING INDUSTRIES DEVELOPMENT COMPANY)"

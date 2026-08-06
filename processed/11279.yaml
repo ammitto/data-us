@@ -1,0 +1,58 @@
+---
+uid: '11279'
+first_name: Ssu
+last_name: LAO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '11800'
+    type: a.k.a.
+    category: strong
+    last_name: WANG
+    first_name: Ssu
+  - uid: '11801'
+    type: a.k.a.
+    category: strong
+    last_name: WANG
+    first_name: Wen Chou
+  - uid: '11802'
+    type: a.k.a.
+    category: strong
+    last_name: WITTHAYA
+    first_name: Ngamthiralert
+  - uid: '11803'
+    type: a.k.a.
+    category: strong
+    last_name: HATSADIN
+    first_name: Phonsakunphaisan
+  - uid: '11804'
+    type: a.k.a.
+    category: strong
+    last_name: RUNGRIT
+    first_name: Thianphichet
+  - uid: '11805'
+    type: a.k.a.
+    category: weak
+    last_name: LAO SSU
+address_list:
+  items:
+  - uid: '16533'
+    country: Burma
+id_list:
+  items:
+  - uid: '5743'
+    id_type: National ID No.
+    id_number: '3570700443258'
+    id_country: Thailand
+  - uid: '5744'
+    id_type: Passport
+    id_number: P403726
+    id_country: Thailand
+date_of_birth_list:
+  items:
+  - uid: '6641'
+    date_of_birth: 01 Jan 1960
+    main_entry: 'true'

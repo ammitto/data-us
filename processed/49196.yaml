@@ -1,0 +1,39 @@
+---
+uid: '49196'
+last_name: JSC THE SPECIAL BOILER DESIGN BUREAU
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76692'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO SPETSIALNOE KONSTRUKTORSKOE BYURO KOTLOSTROENIYA
+  - uid: '76693'
+    type: a.k.a.
+    category: weak
+    last_name: AO SKBK
+address_list:
+  items:
+  - uid: '74054'
+    address1: Pr-kt Stachek D. 47
+    address2: Lit. Ts
+    address3: Kabinet 415
+    city: Saint Petersburg
+    postal_code: '198097'
+    country: Russia
+id_list:
+  items:
+  - uid: '40340'
+    id_type: Registration Number
+    id_number: '1027800527347'
+    id_country: Russia
+  - uid: '40341'
+    id_type: Tax ID No.
+    id_number: '7801064369'
+    id_country: Russia
+  - uid: '172151'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

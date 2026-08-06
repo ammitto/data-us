@@ -1,0 +1,34 @@
+---
+uid: '11921'
+first_name: Mario
+last_name: RAMIREZ TREVINO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '12703'
+    type: a.k.a.
+    category: strong
+    last_name: RAMIREZ TREVINO
+    first_name: Mario Armando
+address_list:
+  items:
+  - uid: '18190'
+    state_or_province: Tamaulipas
+    country: Mexico
+  - uid: '18191'
+    city: Reynosa
+    state_or_province: Tamaulipas
+    country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '7646'
+    date_of_birth: 05 Mar 1962
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '7647'
+    place_of_birth: Mexico
+    main_entry: 'true'

@@ -1,0 +1,61 @@
+---
+uid: '32292'
+first_name: Aung Naing
+last_name: OO
+sdn_type: Individual
+program_list:
+  programs:
+  - BURMA-EO14014
+aka_list:
+  items:
+  - uid: '50757'
+    type: a.k.a.
+    category: strong
+    last_name: OO
+    first_name: U Aung Naing
+  - uid: '50758'
+    type: a.k.a.
+    category: weak
+    last_name: KYAW, Kyaw
+address_list:
+  items:
+  - uid: '48686'
+    address1: L 103 Kanyeikthar Lane 6 FMI City
+    city: Rangoon
+    country: Burma
+id_list:
+  items:
+  - uid: '22095'
+    id_type: National ID No.
+    id_number: 7PAKHANAN013345
+    id_country: Burma
+  - uid: '22096'
+    id_type: National ID No.
+    id_number: 5SAKANAN017289
+    id_country: Burma
+  - uid: '22097'
+    id_type: Passport
+    id_number: DM002656
+    id_country: Burma
+    issue_date: 25 Aug 2014
+    expiration_date: 24 Aug 2024
+  - uid: '141775'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '41771'
+    date_of_birth: 13 Oct 1962
+    main_entry: 'true'
+  - uid: '41772'
+    date_of_birth: '09 Jun 1969'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '41773'
+    place_of_birth: Kyaukse, Burma
+    main_entry: 'true'
+  - uid: '41774'
+    place_of_birth: Hkamti, Burma
+    main_entry: 'false'
+title: Minister for Investment and Foreign Economic Relations

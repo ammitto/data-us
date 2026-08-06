@@ -1,0 +1,34 @@
+---
+uid: '47684'
+last_name: NPO COMPUTER
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73908'
+    type: a.k.a.
+    category: strong
+    last_name: NPO KOMPYUTER
+address_list:
+  items:
+  - uid: '71283'
+    address1: Per. Severnyi D. 61
+    address2: Kom. 100-108
+    city: Izhevsk
+    postal_code: '426011'
+    country: Russia
+id_list:
+  items:
+  - uid: '38305'
+    id_type: Registration Number
+    id_number: '1151831003466'
+    id_country: Russia
+  - uid: '38306'
+    id_type: Tax ID No.
+    id_number: '1831173910'
+    id_country: Russia
+  - uid: '169849'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

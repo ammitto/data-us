@@ -1,0 +1,38 @@
+---
+uid: '35900'
+last_name: LIMITED LIABILITY COMPANY KAPO-ZHILBILTSERVIS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56464'
+    type: a.k.a.
+    category: strong
+    last_name: UK KAPO-ZHBS
+  - uid: '56465'
+    type: a.k.a.
+    category: strong
+    last_name: UK KAPO-ZHILBYTSERVIS OOO
+address_list:
+  items:
+  - uid: '53884'
+    address1: ul Akademika Pavlova d 9
+    city: Kazan
+    postal_code: '420127'
+    country: Russia
+id_list:
+  items:
+  - uid: '25255'
+    id_type: Registration Number
+    id_number: '1081690080450'
+    id_country: Russia
+  - uid: '25256'
+    id_type: Tax ID No.
+    id_number: '1661022862'
+    id_country: Russia
+  - uid: '173295'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: TUPOLEV PUBLIC JOINT STOCK COMPANY)"

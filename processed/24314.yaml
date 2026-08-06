@@ -1,0 +1,50 @@
+---
+uid: '24314'
+first_name: Ahmed
+last_name: DABBASHI
+sdn_type: Individual
+program_list:
+  programs:
+  - LIBYA3
+aka_list:
+  items:
+  - uid: '38368'
+    type: a.k.a.
+    category: weak
+    last_name: Amu
+  - uid: '38451'
+    type: a.k.a.
+    category: strong
+    last_name: AL DABBASHI
+    first_name: Ahmad Mohammed Omar Al Fituri
+  - uid: '45367'
+    type: a.k.a.
+    category: strong
+    last_name: AL-FITOURI
+    first_name: Ahmad Oumar Imhamad
+address_list:
+  items:
+  - uid: '36828'
+    city: Sabratha
+    country: Libya
+id_list:
+  items:
+  - uid: '19183'
+    id_type: Passport
+    id_number: LY53FP76
+    issue_date: 29 Sep 2015
+  - uid: '19184'
+    id_type: National ID No.
+    id_number: '119880387067'
+    id_country: Libya
+  - uid: '126489'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '26487'
+    date_of_birth: 05 Jul 1988
+    main_entry: 'true'
+  - uid: '35324'
+    date_of_birth: 07 May 1988
+    main_entry: 'false'

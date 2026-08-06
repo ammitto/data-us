@@ -1,0 +1,41 @@
+---
+uid: '56354'
+last_name: MAIQUETIA VIP BAR RESTAURANT
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+  - TCO
+aka_list:
+  items:
+  - uid: '87423'
+    type: a.k.a.
+    category: strong
+    last_name: MAIQUETIA VIP
+  - uid: '87424'
+    type: a.k.a.
+    category: weak
+    last_name: DISCOTECA MAIQUETIA VIP
+address_list:
+  items:
+  - uid: '86258'
+    address1: 'Cl. 17 Sur #16-54'
+    city: Bogota
+    country: Colombia
+id_list:
+  items:
+  - uid: '50514'
+    id_type: Matricula Mercantil No
+    id_number: '3319256'
+    id_country: Colombia
+  - uid: '194545'
+    id_type: Organization Established Date
+    id_number: 17 Dec 2020
+  - uid: '194544'
+    id_type: 'Organization Type:'
+    id_number: Beverage serving activities
+  - uid: '194888'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: "(Linked To: LANDAETA HERNANDEZ, Eryk Manuel)"

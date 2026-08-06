@@ -1,0 +1,33 @@
+---
+uid: '50391'
+last_name: LIMITED LIABILITY COMPANY SOVMESTNOE PREDPRIYATIE BARZASSKOYE TOVARISHTESTVO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78762'
+    type: a.k.a.
+    category: strong
+    last_name: OOO SP BARZASSKOE TOVARISHCHESTVO
+address_list:
+  items:
+  - uid: '76399'
+    address1: 1V ul. N. Barzas
+    city: Berezovski
+    postal_code: '652421'
+    country: Russia
+id_list:
+  items:
+  - uid: '42163'
+    id_type: Registration Number
+    id_number: '1024200648207'
+    id_country: Russia
+  - uid: '42165'
+    id_type: Tax ID No.
+    id_number: '4203000074'
+    id_country: Russia
+  - uid: '178367'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

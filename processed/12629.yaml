@@ -1,0 +1,73 @@
+---
+uid: '12629'
+first_name: Saadi
+last_name: GADDAFI
+sdn_type: Individual
+program_list:
+  programs:
+  - LIBYA2
+aka_list:
+  items:
+  - uid: '13649'
+    type: a.k.a.
+    category: strong
+    last_name: GADHAFI
+    first_name: Saadi
+  - uid: '13650'
+    type: a.k.a.
+    category: strong
+    last_name: AL-QADHAFI
+    first_name: Sa'adi Mu'ammar
+  - uid: '13651'
+    type: a.k.a.
+    category: strong
+    last_name: QADHAFI
+    first_name: Saadi
+  - uid: '13652'
+    type: a.k.a.
+    category: strong
+    last_name: QADDAFI
+    first_name: Saadi
+  - uid: '13653'
+    type: a.k.a.
+    category: strong
+    last_name: AL-GADDAFI
+    first_name: Saadi
+  - uid: '13654'
+    type: a.k.a.
+    category: strong
+    last_name: ELKADDAFI
+    first_name: Saadi
+  - uid: '13655'
+    type: a.k.a.
+    category: strong
+    last_name: EL-QADDAFI
+    first_name: Saadi
+  - uid: '13656'
+    type: a.k.a.
+    category: strong
+    last_name: GHATHAFI
+    first_name: Saadi
+id_list:
+  items:
+  - uid: '7103'
+    id_type: Passport
+    id_number: '010433'
+    id_country: Libya
+  - uid: '7104'
+    id_type: Passport
+    id_number: '014797'
+    id_country: Libya
+date_of_birth_list:
+  items:
+  - uid: '8390'
+    date_of_birth: 25 May 1973
+    main_entry: 'false'
+  - uid: '8391'
+    date_of_birth: 27 May 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '8392'
+    place_of_birth: Tripoli, Libya
+    main_entry: 'false'

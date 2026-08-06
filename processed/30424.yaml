@@ -1,0 +1,38 @@
+---
+uid: '30424'
+first_name: Marcos Javier
+last_name: MACHADO REQUENA
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+address_list:
+  items:
+  - uid: '46047'
+    city: Caracas
+    country: Venezuela
+id_list:
+  items:
+  - uid: '20591'
+    id_type: Cedula No.
+    id_number: V-15334084
+    id_country: Venezuela
+  - uid: '20592'
+    id_type: Passport
+    id_number: '093061892'
+    id_country: Venezuela
+    expiration_date: 15 Feb 2021
+  - uid: '138079'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '38077'
+    date_of_birth: 18 Jun 1981
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '38078'
+    place_of_birth: Venezuela
+    main_entry: 'true'
+remarks: "(Linked To: EX-CLE SOLUCIONES BIOMETRICAS C.A.)"

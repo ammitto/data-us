@@ -1,0 +1,34 @@
+---
+uid: '47842'
+last_name: LIMITED LIABILITY COMPANY TIKHOOKEANSKAYA GORNAYA KOMPANIYA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74223'
+    type: a.k.a.
+    category: strong
+    last_name: OOO TIKHOOKEANSKAIA GORNAIA KOMPANIIA
+address_list:
+  items:
+  - uid: '71604'
+    address1: 2 Volgogradskiy Avenue, Floor 11, Room 9
+    city: Moscow
+    postal_code: '109316'
+    country: Russia
+id_list:
+  items:
+  - uid: '38572'
+    id_type: Tax ID No.
+    id_number: '9709077962'
+    id_country: Russia
+  - uid: '38575'
+    id_type: Registration Number
+    id_number: '1227700067539'
+    id_country: Russia
+  - uid: '176486'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: LIMITED LIABILITY COMPANY GORA GOLDEN RATIO)"

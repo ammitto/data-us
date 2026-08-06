@@ -1,0 +1,42 @@
+---
+uid: '46503'
+last_name: AO CARGO SERVICE CENTER
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '71780'
+    type: a.k.a.
+    category: strong
+    last_name: CARGO SERVICE LIMITED LIABILITY COMPANY
+  - uid: '71781'
+    type: a.k.a.
+    category: strong
+    last_name: KARGO SERVIS OOO
+  - uid: '71782'
+    type: a.k.a.
+    category: strong
+    last_name: CARGO SERVICE CENTRE
+address_list:
+  items:
+  - uid: '69190'
+    address1: proezd 5-I Predportovyi d. 26
+    address2: lit. e, pomeshch. 1.29, office 2
+    city: Saint Petersburg
+    postal_code: '196240'
+    country: Russia
+id_list:
+  items:
+  - uid: '36429'
+    id_type: Registration Number
+    id_number: '1117847644265'
+    id_country: Russia
+  - uid: '36430'
+    id_type: Tax ID No.
+    id_number: '7810853472'
+    id_country: Russia
+  - uid: '174970'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

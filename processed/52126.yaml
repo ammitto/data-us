@@ -1,0 +1,42 @@
+---
+uid: '52126'
+last_name: GAZPROMNEFT OMSK REFINERY JOINT STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '81643'
+    type: a.k.a.
+    category: strong
+    last_name: GAZPROM NEFT OMSK REFINERY JSC
+  - uid: '81644'
+    type: a.k.a.
+    category: strong
+    last_name: GAZPROMNEFT ONPZ OMSKIY REFINERY
+address_list:
+  items:
+  - uid: '79553'
+    address1: PR-KT Gubkina, D. 1
+    city: Omsk
+    postal_code: '644040'
+    country: Russia
+id_list:
+  items:
+  - uid: '45015'
+    id_type: Registration Number
+    id_number: '1025500508956'
+    id_country: Russia
+  - uid: '45016'
+    id_type: Tax ID No.
+    id_number: '5501041254'
+    id_country: Russia
+  - uid: '183025'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183428'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

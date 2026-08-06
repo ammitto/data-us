@@ -1,0 +1,37 @@
+---
+uid: '50598'
+first_name: Fanny Beatriz
+last_name: MARQUEZ CORDERO
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+address_list:
+  items:
+  - uid: '76715'
+    city: Caracas
+    country: Venezuela
+id_list:
+  items:
+  - uid: '42440'
+    id_type: Cedula No.
+    id_number: '6272864'
+    id_country: Venezuela
+  - uid: '42441'
+    id_type: Passport
+    id_number: '054208483'
+    id_country: Venezuela
+    expiration_date: 01 Feb 2017
+  - uid: '178896'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '78895'
+    date_of_birth: 05 Feb 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '78898'
+    place_of_birth: Caracas, Venezuela
+    main_entry: 'true'

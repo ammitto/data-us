@@ -1,0 +1,45 @@
+---
+uid: '40999'
+first_name: Stanislav Sergeyevich
+last_name: VOSKRESENSKIY
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63877'
+    type: a.k.a.
+    category: strong
+    last_name: VOSKRESENSKY
+    first_name: Stanislav Sergeevich
+address_list:
+  items:
+  - uid: '61235'
+    state_or_province: Ivanovo region
+    country: Russia
+id_list:
+  items:
+  - uid: '30329'
+    id_type: Tax ID No.
+    id_number: '773605263325'
+    id_country: Russia
+  - uid: '175348'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '158729'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '58726'
+    date_of_birth: 29 Sep 1976
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '58727'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'
+  - uid: '58728'
+    place_of_birth: Samara, Samara region, Russia
+    main_entry: 'false'

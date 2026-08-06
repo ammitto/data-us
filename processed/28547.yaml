@@ -1,0 +1,32 @@
+---
+uid: '28547'
+first_name: Ivan Adolfo
+last_name: ACOSTA MONTALVAN
+sdn_type: Individual
+program_list:
+  programs:
+  - NICARAGUA
+address_list:
+  items:
+  - uid: '43168'
+    city: Masaya
+    country: Nicaragua
+id_list:
+  items:
+  - uid: '18912'
+    id_type: Passport
+    id_number: A00001432
+    id_country: Nicaragua
+  - uid: '134313'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '34312'
+    date_of_birth: 28 Sep 1964
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '34314'
+    place_of_birth: Bluefields, Nicaragua
+    main_entry: 'true'

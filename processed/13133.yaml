@@ -1,0 +1,43 @@
+---
+uid: '13133'
+last_name: PASARGAD BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '14780'
+    type: a.k.a.
+    category: strong
+    last_name: BANK-E PASARGAD
+  - uid: '47104'
+    type: a.k.a.
+    category: strong
+    last_name: BANK PASARGAD
+address_list:
+  items:
+  - uid: '20994'
+    address1: Valiasr St., Mirdamad St., No. 430
+    city: Tehran
+    country: Iran
+  - uid: '45329'
+    address1: No. 430, Mirdamad Ave
+    city: Tehran
+    postal_code: '19697774511'
+    country: Iran
+id_list:
+  items:
+  - uid: '137300'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '111709'
+    id_type: SWIFT/BIC
+    id_number: BKBPIRTH
+  - uid: '137338'
+    id_type: Website
+    id_number: www.bpi.ir
+  - uid: '137339'
+    id_type: Website
+    id_number: www.bankpasargad.ir

@@ -1,0 +1,36 @@
+---
+uid: '46349'
+first_name: Majid
+last_name: A'ZAMI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '68955'
+    country: Iran
+id_list:
+  items:
+  - uid: '36217'
+    id_type: National ID No.
+    id_number: '1287272045'
+    id_country: Iran
+  - uid: '167384'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '167141'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '67139'
+    date_of_birth: 06 Jan 1983
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '67140'
+    place_of_birth: Esfahan, Iran
+    main_entry: 'true'
+remarks: "(Linked To: SEPEHR ENERGY JAHAN NAMA PARS COMPANY)"

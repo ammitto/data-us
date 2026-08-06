@@ -1,0 +1,54 @@
+---
+uid: '23562'
+last_name: NOVGORODNEFTEPRODUCT OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13662
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '37139'
+    type: a.k.a.
+    category: strong
+    last_name: NOVGORODNEFTEPRODUKT LLC
+  - uid: '37140'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY NOVGORODNEFTEPRODUCT
+address_list:
+  items:
+  - uid: '35630'
+    address1: d. 20 Germana Ulitsa
+    city: Veliky Novgorod
+    state_or_province: Novgorodskaya Oblast
+    postal_code: '173002'
+    country: Russia
+id_list:
+  items:
+  - uid: '15028'
+    id_type: Registration ID
+    id_number: '1025300788644'
+    id_country: Russia
+  - uid: '15029'
+    id_type: Tax ID No.
+    id_number: '5321059365'
+    id_country: Russia
+  - uid: '125433'
+    id_type: Nationality of Registration
+    id_number: Russia
+  - uid: '144056'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '183035'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '125602'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 4
+  - uid: '125431'
+    id_type: Email Address
+    id_number: office@nnp.surgutneftegas.ru
+remarks: 'For more information, please reference the following link: http://www.treasury.gov/resource-center/sanctions/OFAC-Enforcement/Pages/OFAC-Recent-Actions.aspx;
+  (Linked To: SURGUTNEFTEGAS)'

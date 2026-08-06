@@ -1,0 +1,38 @@
+---
+uid: '49276'
+last_name: LIMITED LIABILITY COMPANY ROBOAVIA UNMANNED SYSTEMS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76844'
+    type: a.k.a.
+    category: strong
+    last_name: BESPILOTNYE SISTEMY ROBOAVIA
+address_list:
+  items:
+  - uid: '74224'
+    address1: Ul. 9 Yanvarya D. 262/2
+    address2: V Lit. A1
+    address3: Office 1-4
+    city: Voronezh
+    postal_code: '394020'
+    country: Russia
+  - uid: '74225'
+    city: Simferopol
+    country: Ukraine
+id_list:
+  items:
+  - uid: '40493'
+    id_type: Registration Number
+    id_number: '1173668023957'
+    id_country: Russia
+  - uid: '40494'
+    id_type: Tax ID No.
+    id_number: '3666218510'
+    id_country: Russia
+  - uid: '172282'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

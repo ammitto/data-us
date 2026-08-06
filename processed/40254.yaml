@@ -1,0 +1,45 @@
+---
+uid: '40254'
+first_name: Andrey Anatolevich
+last_name: ALEKSEENKO
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '62611'
+    type: a.k.a.
+    category: strong
+    last_name: ALEKSEENKO
+    first_name: Andrej Anatolevich
+address_list:
+  items:
+  - uid: '60000'
+    address1: 116 Sormovskaya St
+    address2: Apartment 51
+    city: Krasnodar
+    state_or_province: Krasnodar Territory
+    country: Russia
+id_list:
+  items:
+  - uid: '29438'
+    id_type: Passport
+    id_number: 24AG617168
+    id_country: Russia
+  - uid: '174057'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '157262'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '57261'
+    date_of_birth: 23 Apr 1978
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '57264'
+    place_of_birth: Novopokrovskaya neighborhood, Krasnodar Territory, Russia
+    main_entry: 'true'

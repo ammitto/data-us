@@ -1,0 +1,43 @@
+---
+uid: '57035'
+first_name: Minh Quang
+last_name: HOANG
+sdn_type: Individual
+program_list:
+  programs:
+  - DPRK4
+address_list:
+  items:
+  - uid: '87284'
+    city: Hanoi
+    country: Vietnam
+id_list:
+  items:
+  - uid: '51224'
+    id_type: National ID No.
+    id_number: '001093019421'
+    id_country: Vietnam
+  - uid: '196392'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '196393'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '196310'
+    id_type: Gender
+    id_number: Male
+  - uid: '196312'
+    id_type: Digital Currency Address - XBT
+    id_number: bc1qyy5pt5cx3zth8xlj92lq5y87dh8xv3nwgs4ncq
+date_of_birth_list:
+  items:
+  - uid: '96308'
+    date_of_birth: 16 Nov 1993
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '96311'
+    place_of_birth: Hanoi, Vietnam
+    main_entry: 'true'
+remarks: "(Linked To: YUN, Song Guk)"

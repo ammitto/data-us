@@ -1,0 +1,34 @@
+---
+uid: '49996'
+last_name: LIMITED LIABILITY COMPANY MEKHATRONIKA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '75636'
+    address1: Ul. Lebedeva-Kumacha D. 2A
+    address2: Pomeshcheniya 47, 48, 49, 50, 51
+    city: Ivanovo
+    postal_code: '153021'
+    country: Russia
+id_list:
+  items:
+  - uid: '41532'
+    id_type: Tax ID No.
+    id_number: '3702686347'
+    id_country: Russia
+  - uid: '41533'
+    id_type: Registration Number
+    id_number: '1123702031760'
+    id_country: Russia
+  - uid: '177529'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '177482'
+    id_type: Organization Established Date
+    id_number: 22 Nov 2012
+  - uid: '177483'
+    id_type: Website
+    id_number: mtronics.ru

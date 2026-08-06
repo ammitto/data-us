@@ -1,0 +1,45 @@
+---
+uid: '51652'
+last_name: GARANT INVEST BANK JOINT STOCK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80940'
+    type: a.k.a.
+    category: strong
+    last_name: GARANT INVEST COMMERCIAL BANK JSC
+address_list:
+  items:
+  - uid: '78707'
+    address1: 1st Kolobovsky Pereulok, 23
+    city: Moscow
+    postal_code: '127048'
+    country: Russia
+id_list:
+  items:
+  - uid: '44160'
+    id_type: Legal Entity Number
+    id_number: 253400NBDAA1ADSSA189
+  - uid: '44161'
+    id_type: Registration Number
+    id_number: '1037739429320'
+    id_country: Russia
+  - uid: '44162'
+    id_type: Tax ID No.
+    id_number: '7723168657'
+    id_country: Russia
+  - uid: '181564'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '181562'
+    id_type: SWIFT/BIC
+    id_number: GAINRUMM
+  - uid: '181563'
+    id_type: Website
+    id_number: www.gibank.ru
+  - uid: '181561'
+    id_type: Target Type
+    id_number: Financial Institution

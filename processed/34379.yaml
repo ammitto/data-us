@@ -1,0 +1,46 @@
+---
+uid: '34379'
+last_name: LIMITED LIABILITY COMPANY ATLANT S
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '53839'
+    type: a.k.a.
+    category: strong
+    last_name: LLC ATLANT S
+  - uid: '53840'
+    type: a.k.a.
+    category: strong
+    last_name: ATLANT S LIMITED
+  - uid: '53841'
+    type: a.k.a.
+    category: strong
+    last_name: ATLANT S OOO
+address_list:
+  items:
+  - uid: '51510'
+    address1: et 1 pom 1 kom 17
+    address2: dom 20, ulitsa Pleshcheyeva
+    city: Moscow
+    postal_code: '127560'
+    country: Russia
+id_list:
+  items:
+  - uid: '23979'
+    id_type: Registration Number
+    id_number: '1027700084312'
+    id_country: Russia
+  - uid: '23980'
+    id_type: Tax ID No.
+    id_number: '7715023288'
+    id_country: Russia
+  - uid: '145657'
+    id_type: Organization Established Date
+    id_number: 16 Mar 1992
+  - uid: '175119'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: PUCHKOV, Andrey Sergeyevich)"

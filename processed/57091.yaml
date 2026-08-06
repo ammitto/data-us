@@ -1,0 +1,45 @@
+---
+uid: '57091'
+last_name: WALLEX
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+  - IRAN
+aka_list:
+  items:
+  - uid: '88460'
+    type: a.k.a.
+    category: strong
+    last_name: KHALQ THARWAT SARZAMIN PARSEH COMPANY
+  - uid: '88461'
+    type: a.k.a.
+    category: strong
+    last_name: KHALGH SARVAT SARZAMIN PARSEH
+address_list:
+  items:
+  - uid: '87409'
+    address1: North Unit, Fourth Floor, No. 231
+    address2: Mirzai Shirazi Street, Shahoda Street
+    address3: Abbasabad-Andisheh
+    city: Tehran
+    postal_code: '1586753411'
+    country: Iran
+id_list:
+  items:
+  - uid: '51319'
+    id_type: Company Number
+    id_number: '14010030821'
+    id_country: Iran
+  - uid: '196633'
+    id_type: Website
+    id_number: https://wallex.ir/
+  - uid: '196635'
+    id_type: Organization Established Date
+    id_number: '2019'
+  - uid: '196642'
+    id_type: 'Organization Type:'
+    id_number: Financial and Insurance Activities
+  - uid: '196631'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

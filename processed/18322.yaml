@@ -1,0 +1,78 @@
+---
+uid: '18322'
+last_name: STATE ENTERPRISE SEVASTOPOL SEA TRADING PORT
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13685
+aka_list:
+  items:
+  - uid: '28390'
+    type: a.k.a.
+    category: strong
+    last_name: SEVASTOPOL SEA TRADE PORT
+  - uid: '28391'
+    type: a.k.a.
+    category: strong
+    last_name: SEVASTOPOL MERCHANT SEA PORT
+  - uid: '28392'
+    type: a.k.a.
+    category: strong
+    last_name: STATE ENTERPRISE SEVASTOPOL COMMERCIAL SEAPORT
+  - uid: '28393'
+    type: a.k.a.
+    category: strong
+    last_name: SEVASTOPOL COMMERCIAL SEAPORT
+  - uid: '28394'
+    type: a.k.a.
+    category: strong
+    last_name: SEVASTOPOL SEA PORT
+  - uid: '28395'
+    type: a.k.a.
+    category: strong
+    last_name: PORT OF SEVASTOPOL
+  - uid: '28396'
+    type: a.k.a.
+    category: strong
+    last_name: SEAPORT OF SEVASTOPOL
+address_list:
+  items:
+  - uid: '27751'
+    address1: 3 Place Nakhimova
+    city: Sevastopol
+    postal_code: '99011'
+    country: Ukraine
+  - uid: '27752'
+    address1: 5, Nakhimova square
+    city: Sevastopol
+    state_or_province: Crimea
+    postal_code: '99011'
+    country: Ukraine
+  - uid: '27754'
+    address1: Nahimova Square 5
+    city: Sevastopol
+    state_or_province: Crimea
+    postal_code: '99011'
+    country: Ukraine
+id_list:
+  items:
+  - uid: '10586'
+    id_type: Registration ID
+    id_number: '01125548'
+    id_country: Ukraine
+  - uid: '117629'
+    id_type: UN/LOCODE
+    id_number: UA SVP
+  - uid: '143739'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '117626'
+    id_type: Email Address
+    id_number: Sevport@stel.sebastopol.ua
+  - uid: '117627'
+    id_type: Email Address
+    id_number: sevampu@ukr.net
+  - uid: '117628'
+    id_type: Email Address
+    id_number: mail@morport.sebastopol.ua

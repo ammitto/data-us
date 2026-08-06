@@ -1,0 +1,30 @@
+---
+uid: '45629'
+last_name: STAN LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '67832'
+    address1: Ul. Sushchevskii Val D. 18
+    city: Moscow
+    postal_code: '127018'
+    country: Russia
+id_list:
+  items:
+  - uid: '35317'
+    id_type: Registration Number
+    id_number: '1097746813010'
+    id_country: Russia
+  - uid: '35318'
+    id_type: Tax ID No.
+    id_number: '7703712332'
+    id_country: Russia
+  - uid: '175992'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '166761'
+    id_type: Organization Established Date
+    id_number: 17 Dec 2009

@@ -1,0 +1,33 @@
+---
+uid: '37005'
+first_name: Vyacheslav Aleksandrovich
+last_name: TYURIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '58116'
+    type: a.k.a.
+    category: strong
+    last_name: TYURIN
+    first_name: Vachelav
+address_list:
+  items:
+  - uid: '55377'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '151237'
+    id_type: Gender
+    id_number: Male
+  - uid: '174427'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '51235'
+    date_of_birth: '1960'
+    main_entry: 'true'

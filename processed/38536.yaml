@@ -1,0 +1,66 @@
+---
+uid: '38536'
+last_name: ALSTONE INVESTMENT AG
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '60307'
+    type: a.k.a.
+    category: strong
+    last_name: ALSTONE INVESTMENT SA
+  - uid: '60308'
+    type: a.k.a.
+    category: strong
+    last_name: ALSTONE INVESTMENT LTD
+  - uid: '60309'
+    type: f.k.a.
+    category: strong
+    last_name: SWIRU HOLDING AG
+  - uid: '60310'
+    type: f.k.a.
+    category: strong
+    last_name: SWIRU TRUSTEE LTD
+address_list:
+  items:
+  - uid: '57564'
+    address1: Zentralstrasse 44
+    city: Luzern
+    postal_code: '6003'
+    country: Switzerland
+  - uid: '57565'
+    address1: Matthofstrand 8
+    city: Luzern
+    postal_code: '6005'
+    country: Switzerland
+  - uid: '57566'
+    address1: 380 Avenue Mrs L'D'Beaumont
+    city: Antibes
+    postal_code: '06160'
+    country: France
+id_list:
+  items:
+  - uid: '27836'
+    id_type: Tax ID No.
+    id_number: '103488986'
+    id_country: Switzerland
+  - uid: '27837'
+    id_type: Tax ID No.
+    id_number: '893478818'
+    id_country: France
+  - uid: '27838'
+    id_type: Legal Entity Number
+    id_number: 5493009YJ817TFZ7IY48
+  - uid: '27839'
+    id_type: Registration Number
+    id_number: CH-150.3.002.065-2
+    id_country: Switzerland
+  - uid: '153947'
+    id_type: Organization Established Date
+    id_number: 30 May 1996
+  - uid: '174675'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: KATZ, Laurin)"

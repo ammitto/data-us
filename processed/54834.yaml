@@ -1,0 +1,31 @@
+---
+uid: '54834'
+first_name: Hector
+last_name: VARELA DE LEON
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '84120'
+    country: Panama
+id_list:
+  items:
+  - uid: '48621'
+    id_type: Identification Number
+    id_number: 2-120-825
+    id_country: Panama
+  - uid: '48927'
+    id_type: Passport
+    id_number: PA1221409
+    id_country: Panama
+    expiration_date: 21 Feb 2029
+  - uid: '191751'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '91750'
+    date_of_birth: 14 Nov 1968
+    main_entry: 'true'

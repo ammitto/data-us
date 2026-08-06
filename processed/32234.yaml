@@ -1,0 +1,41 @@
+---
+uid: '32234'
+first_name: Aye Nu
+last_name: SEIN
+sdn_type: Individual
+program_list:
+  programs:
+  - BURMA-EO14014
+aka_list:
+  items:
+  - uid: '50658'
+    type: a.k.a.
+    category: strong
+    last_name: AYE
+    first_name: Nu Sein
+  - uid: '50752'
+    type: a.k.a.
+    category: strong
+    last_name: SEIN
+    first_name: Daw Aye Nu
+address_list:
+  items:
+  - uid: '48587'
+    city: Naypyitaw
+    country: Burma
+id_list:
+  items:
+  - uid: '141674'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '41672'
+    date_of_birth: 24 Mar 1957
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '41673'
+    place_of_birth: Sittwe, Burma
+    main_entry: 'true'
+title: State Administrative Council Member

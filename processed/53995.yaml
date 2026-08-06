@@ -1,0 +1,39 @@
+---
+uid: '53995'
+first_name: Kirill Andreevich
+last_name: ZATOLOKIN
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER4
+  - CAATSA - RUSSIA
+aka_list:
+  items:
+  - uid: '84087'
+    type: a.k.a.
+    category: weak
+    last_name: downlow
+address_list:
+  items:
+  - uid: '86394'
+    city: St. Petersburg
+    country: Russia
+id_list:
+  items:
+  - uid: '47430'
+    id_type: Passport
+    id_number: '726146360'
+    id_country: Russia
+    issue_date: 06 Sep 2013
+    expiration_date: 06 Sep 2023
+  - uid: '194750'
+    id_type: Gender
+    id_number: Male
+  - uid: '194800'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+date_of_birth_list:
+  items:
+  - uid: '89209'
+    date_of_birth: 30 Apr 1992
+    main_entry: 'true'

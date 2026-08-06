@@ -1,0 +1,39 @@
+---
+uid: '46269'
+last_name: AKKUMULYATORNYE TEKHNOLOGII
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '71458'
+    type: a.k.a.
+    category: weak
+    last_name: AKTEKH
+address_list:
+  items:
+  - uid: '68875'
+    address1: Ul. Mozhaiskogo D.4
+    address2: Office 15
+    city: Irkutsk
+    postal_code: '664009'
+    country: Russia
+  - uid: '68889'
+    address1: Ul. Promuchastok D.1
+    city: Svirsk
+    postal_code: '665420'
+    country: Russia
+id_list:
+  items:
+  - uid: '36116'
+    id_type: Registration Number
+    id_number: '1113850010185'
+    id_country: Russia
+  - uid: '36117'
+    id_type: Tax ID No.
+    id_number: '3811146750'
+    id_country: Russia
+  - uid: '174937'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

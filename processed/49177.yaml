@@ -1,0 +1,34 @@
+---
+uid: '49177'
+last_name: NAUCHNO PROIZVODSTVENNOE OBYEDINENIE GORIZONT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76646'
+    type: a.k.a.
+    category: strong
+    last_name: NPO GORIZONT
+address_list:
+  items:
+  - uid: '74015'
+    address1: Ul. Mamina-Sibiryaka Str. 145
+    address2: Office 6424
+    city: Yekaterinburg
+    postal_code: '620075'
+    country: Russia
+id_list:
+  items:
+  - uid: '40302'
+    id_type: Registration Number
+    id_number: '1156658097397'
+    id_country: Russia
+  - uid: '40303'
+    id_type: Tax ID No.
+    id_number: '6685103809'
+    id_country: Russia
+  - uid: '172124'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

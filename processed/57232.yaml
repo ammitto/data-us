@@ -1,0 +1,33 @@
+---
+uid: '57232'
+first_name: Jose de Jesus
+last_name: RAMIREZ TORRES
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '87710'
+    city: Zapopan
+    state_or_province: Jalisco
+    country: Mexico
+id_list:
+  items:
+  - uid: '51501'
+    id_type: C.U.R.P.
+    id_number: RATJ771130HJCMRS09
+    id_country: Mexico
+  - uid: '197061'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '97059'
+    date_of_birth: 30 Nov 1977
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '97062'
+    place_of_birth: Jalisco, Mexico
+    main_entry: 'true'

@@ -1,0 +1,28 @@
+---
+uid: '47892'
+last_name: LIMITED LIABILITY COMPANY TERRA GRUP
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '71699'
+    address1: Building 3 Sosnovaya Street
+    city: Kashino Village
+    postal_code: '624005'
+    country: Russia
+id_list:
+  items:
+  - uid: '38667'
+    id_type: Tax ID No.
+    id_number: '6658244536'
+    id_country: Russia
+  - uid: '38670'
+    id_type: Registration Number
+    id_number: '1069658101512'
+    id_country: Russia
+  - uid: '176519'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: LIMITED LIABILITY COMPANY HYPERSPACE)"

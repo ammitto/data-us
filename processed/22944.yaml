@@ -1,0 +1,56 @@
+---
+uid: '22944'
+last_name: KHORS AIRCOMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - SDGT
+aka_list:
+  items:
+  - uid: '36037'
+    type: a.k.a.
+    category: strong
+    last_name: KHORS AIR
+  - uid: '36038'
+    type: a.k.a.
+    category: strong
+    last_name: AVIAKOMPANIYA KHORS, TOV
+  - uid: '36039'
+    type: a.k.a.
+    category: strong
+    last_name: TOVARYSTVO Z OBMEZHENOYU VIDPOVIDALNISTYU 'AVIAKOMPANIYA 'KHORS'
+  - uid: '36040'
+    type: a.k.a.
+    category: weak
+    last_name: HORS AIRLINES LTD.
+address_list:
+  items:
+  - uid: '34611'
+    address1: 60 Volunska Street
+    city: Kiev
+    postal_code: '03151'
+    country: Ukraine
+  - uid: '34612'
+    address1: Bud. 34 Bul.Lesi Ukrainky
+    city: Kyiv
+    postal_code: '01133'
+    country: Ukraine
+  - uid: '34613'
+    address1: Lesi Ukraini Bulvar 34
+    city: Kiev
+    postal_code: '252133'
+    country: Ukraine
+id_list:
+  items:
+  - uid: '14435'
+    id_type: Government Gazette Number
+    id_number: '04937956'
+    id_country: Ukraine
+  - uid: '124451'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '186650'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886

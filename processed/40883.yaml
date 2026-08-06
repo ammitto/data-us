@@ -1,0 +1,57 @@
+---
+uid: '40883'
+last_name: SHIRAZ PETROCHEMICAL COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13846
+aka_list:
+  items:
+  - uid: '63710'
+    type: a.k.a.
+    category: weak
+    last_name: SPC
+  - uid: '63711'
+    type: a.k.a.
+    category: strong
+    last_name: SHIRAZ PETROCHEMICAL CO.
+  - uid: '63712'
+    type: a.k.a.
+    category: strong
+    last_name: SHIRAZ PETROCHEMICAL COMPLEX
+  - uid: '63713'
+    type: a.k.a.
+    category: strong
+    last_name: SHIRAZ PETROCHEMICAL
+address_list:
+  items:
+  - uid: '60991'
+    address1: 6 Km Of Pol-E-Khan Road-Dorodzan Dam
+    address2: PO Box 415
+    city: Shiraz
+    state_or_province: Fars
+    postal_code: 73491-31736
+    country: Iran
+  - uid: '60992'
+    address1: No. 5 Farivar Alley, Ghaem Magham Street
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '30151'
+    id_type: Company Number
+    id_number: '10530010025'
+    id_country: Iran
+  - uid: '30152'
+    id_type: Tax ID No.
+    id_number: '411168731673'
+    id_country: Iran
+  - uid: '158419'
+    id_type: Website
+    id_number: www.spc.co.ir
+  - uid: '159226'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '158466'
+    id_type: 'Executive Order 13846 information:'
+    id_number: BLOCKING PROPERTY AND INTERESTS IN PROPERTY.  Sec. 5(a)(iv)

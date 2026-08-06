@@ -1,0 +1,61 @@
+---
+uid: '29885'
+last_name: NPP PT OKEANOS, AO
+sdn_type: Entity
+program_list:
+  programs:
+  - CYBER2
+aka_list:
+  items:
+  - uid: '46863'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO NAUCHNO-PROIZVODSTVENNOE PREDPRIYATIE PODVODNYKH
+      TEKHNOLOGI OKEANOS
+  - uid: '46864'
+    type: a.k.a.
+    category: strong
+    last_name: OCEANOS JSC
+  - uid: '46865'
+    type: f.k.a.
+    category: strong
+    last_name: OKEANOS, AO
+address_list:
+  items:
+  - uid: '45058'
+    address1: d. 2 litera A pom. 1384
+    address2: Bulvar Poeticheski
+    city: St. Petersburg
+    postal_code: '194295'
+    country: Russia
+  - uid: '45059'
+    address1: 19/2 Esenina Street
+    city: St. Petersburg
+    postal_code: '194295'
+    country: Russia
+  - uid: '45060'
+    address1: 16/2 A-H Engelsa Prospekt
+    city: St. Petersburg
+    postal_code: '195156'
+    country: Russia
+id_list:
+  items:
+  - uid: '19998'
+    id_type: Tax ID No.
+    id_number: '7801233338'
+    id_country: Russia
+  - uid: '19999'
+    id_type: Registration Number
+    id_number: '1037800076610'
+    id_country: Russia
+  - uid: '20000'
+    id_type: Government Gazette Number
+    id_number: '13873675'
+    id_country: Russia
+  - uid: '154587'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+  - uid: '137087'
+    id_type: Website
+    id_number: www.oceanos.ru
+remarks: "(Linked To: FEDERAL SECURITY SERVICE)"

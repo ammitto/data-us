@@ -1,0 +1,43 @@
+---
+uid: '12595'
+first_name: Eissa Jan
+last_name: HAJI ABDUL QAYOUM
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '13519'
+    type: a.k.a.
+    category: strong
+    last_name: HAJI ABDUL QAYOUM
+    first_name: Eisa Jon
+  - uid: '13520'
+    type: a.k.a.
+    category: strong
+    last_name: HAJI ABDUL QAYOUM
+    first_name: Eisa Jan
+id_list:
+  items:
+  - uid: '7087'
+    id_type: Passport
+    id_number: OR306785
+    id_country: Afghanistan
+  - uid: '7088'
+    id_type: Passport
+    id_number: OR022979
+    id_country: Afghanistan
+date_of_birth_list:
+  items:
+  - uid: '8342'
+    date_of_birth: 13 Apr 1986
+    main_entry: 'true'
+  - uid: '8345'
+    date_of_birth: 13 Nov 1986
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '8343'
+    place_of_birth: Kandahar, Afghanistan
+    main_entry: 'true'

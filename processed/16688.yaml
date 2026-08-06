@@ -1,0 +1,43 @@
+---
+uid: '16688'
+first_name: Sergei Borisovich
+last_name: IVANOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13661
+aka_list:
+  items:
+  - uid: '25355'
+    type: a.k.a.
+    category: strong
+    last_name: IVANOV
+    first_name: Sergei
+address_list:
+  items:
+  - uid: '52477'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '173837'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '151157'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '146542'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '15203'
+    date_of_birth: 31 Jan 1953
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '15204'
+    place_of_birth: St. Petersburg, Russia
+    main_entry: 'true'

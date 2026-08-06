@@ -1,0 +1,35 @@
+---
+uid: '41050'
+first_name: Andrey Evgenyevich
+last_name: KLYCHKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '61340'
+    state_or_province: Orel Region
+    country: Russia
+id_list:
+  items:
+  - uid: '30381'
+    id_type: Tax ID No.
+    id_number: '390406666037'
+    id_country: Russia
+  - uid: '158896'
+    id_type: Gender
+    id_number: Male
+  - uid: '173583'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '58894'
+    date_of_birth: 02 Sep 1979
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '58895'
+    place_of_birth: Kaliningrad, Kaliningrad Region, Russia
+    main_entry: 'true'

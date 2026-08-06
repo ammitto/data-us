@@ -1,0 +1,54 @@
+---
+uid: '32676'
+last_name: NATIONAL OLYMPIC COMMITTEE OF THE REPUBLIC OF BELARUS
+sdn_type: Entity
+program_list:
+  programs:
+  - BELARUS
+aka_list:
+  items:
+  - uid: '51261'
+    type: a.k.a.
+    category: strong
+    last_name: NATSIONALNIY OLIMPIYSKIY KOMITET RESPUBLIKI BELARUS
+  - uid: '51262'
+    type: a.k.a.
+    category: strong
+    last_name: NATSYYALNY ALIMPIYSKI KAMITET RESPUBLIKI BELARUS
+  - uid: '51263'
+    type: a.k.a.
+    category: strong
+    last_name: NOC OF THE REPUBLIC OF BELARUS
+  - uid: '51264'
+    type: a.k.a.
+    category: strong
+    last_name: NOK BELARUSI
+  - uid: '51265'
+    type: a.k.a.
+    category: strong
+    last_name: NAK BELARUSI
+  - uid: '51266'
+    type: a.k.a.
+    category: strong
+    last_name: BELARUSIAN NATIONAL OLYMPIC COMMITTEE
+address_list:
+  items:
+  - uid: '49190'
+    address1: Raduzhnaya Str, 27-2
+    city: Minsk
+    postal_code: '220020'
+    country: Belarus
+  - uid: '49191'
+    address1: ul. Raduzhnaya, d. 27, pom. 2
+    city: Minsk
+    postal_code: '220020'
+    country: Belarus
+id_list:
+  items:
+  - uid: '22434'
+    id_type: Registration Number
+    id_number: '100265118'
+    id_country: Belarus
+  - uid: '142292'
+    id_type: Organization Established Date
+    id_number: 01 Jul 1991

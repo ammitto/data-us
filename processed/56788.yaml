@@ -1,0 +1,44 @@
+---
+uid: '56788'
+first_name: Ali
+last_name: LARIJANI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13876
+aka_list:
+  items:
+  - uid: '88022'
+    type: a.k.a.
+    category: strong
+    last_name: LARIJANI
+    first_name: Ali Ardeshir
+address_list:
+  items:
+  - uid: '86939'
+    state_or_province: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '50915'
+    id_type: Passport
+    id_number: D10010646
+    id_country: Iran
+    expiration_date: 05 Sep 2027
+  - uid: '195680'
+    id_type: Gender
+    id_number: Male
+  - uid: '195701'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '95682'
+    date_of_birth: 03 Jun 1958
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '95683'
+    place_of_birth: Najaf, Iraq
+    main_entry: 'true'
+remarks: "(Linked To: KHAMENEI, Ali Husseini)"

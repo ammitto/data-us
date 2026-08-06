@@ -1,0 +1,44 @@
+---
+uid: '52412'
+first_name: Olesya Anatolevna
+last_name: MENDELEEVA
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '82097'
+    type: a.k.a.
+    category: strong
+    last_name: MENDELEYEVA
+    first_name: Olesya
+  - uid: '82098'
+    type: a.k.a.
+    category: strong
+    last_name: ANATOLIYIVNA
+    first_name: Mendelieieva Olesia
+address_list:
+  items:
+  - uid: '80068'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '45405'
+    id_type: Tax ID No.
+    id_number: '110307450231'
+    id_country: Russia
+  - uid: '184016'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '84014'
+    date_of_birth: 18 Apr 1981
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '84015'
+    place_of_birth: Asbest, Sverdlovsk Region, Russia
+    main_entry: 'true'

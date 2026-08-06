@@ -1,0 +1,44 @@
+---
+uid: '50263'
+first_name: Dmitrii Aleksandrovich
+last_name: BARANOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78497'
+    type: a.k.a.
+    category: strong
+    last_name: BARANOV
+    first_name: Dmitry Aleksandrovich
+address_list:
+  items:
+  - uid: '76114'
+    address1: 72-128Zh Stara Zagora Street
+    city: Samara
+    postal_code: '443114'
+    country: Russia
+id_list:
+  items:
+  - uid: '41940'
+    id_type: Tax ID No.
+    id_number: '631909995294'
+    id_country: Russia
+  - uid: '177952'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '177951'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '77948'
+    date_of_birth: 19 Jun 1970
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '77949'
+    place_of_birth: Samara, Russia
+    main_entry: 'true'

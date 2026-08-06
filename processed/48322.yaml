@@ -1,0 +1,36 @@
+---
+uid: '48322'
+last_name: OPEN JOINT STOCK COMPANY STANKOGOMEL
+sdn_type: Entity
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '75077'
+    type: a.k.a.
+    category: strong
+    last_name: OTKRYTOE AKTSIONERNOE OBSHCHESTVO STANKOGOMEL
+  - uid: '75081'
+    type: a.k.a.
+    category: strong
+    last_name: OAO STANKOGOMEL
+address_list:
+  items:
+  - uid: '72492'
+    address1: D. 10, Nezhiloe pomeshchenie, ul. Internatsionalnaya
+    city: Gomel
+    postal_code: '246640'
+    country: Belarus
+id_list:
+  items:
+  - uid: '39187'
+    id_type: Tax ID No.
+    id_number: '400085002'
+    id_country: Belarus
+  - uid: '170543'
+    id_type: Organization Established Date
+    id_number: 07 Dec 1995
+  - uid: '170536'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

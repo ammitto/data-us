@@ -1,0 +1,31 @@
+---
+uid: '20205'
+last_name: CLAMASAN S.A.S.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '32671'
+    address1: Calle 8 B 65 191
+    address2: Of. 519
+    city: Medellin
+    state_or_province: Antioquia
+    country: Colombia
+  - uid: '32672'
+    address1: La Granja La Primavera
+    address2: Km. 13 Via Angelopolis-Municipio Amaga
+    state_or_province: Antioquia
+    country: Colombia
+  - uid: '32673'
+    address1: Granja Terranova
+    address2: Via Caracoli-Municipio de San Roque
+    state_or_province: Antioquia
+    country: Colombia
+id_list:
+  items:
+  - uid: '13460'
+    id_type: 'NIT #'
+    id_number: 811039334-6
+    id_country: Colombia

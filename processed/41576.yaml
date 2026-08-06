@@ -1,0 +1,35 @@
+---
+uid: '41576'
+first_name: Ian Jassiel
+last_name: GONZALEZ VILLEGAS
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '62183'
+    address1: Calle Pedro Moreno 113
+    address2: Colonia Toluquilla
+    city: San Pedro Tlaquepaque
+    state_or_province: Jalisco
+    country: Mexico
+id_list:
+  items:
+  - uid: '31060'
+    id_type: C.U.R.P.
+    id_number: GOVI810421HDFNKN02
+    id_country: Mexico
+  - uid: '159810'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '59807'
+    date_of_birth: 21 Apr 1981
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '59808'
+    place_of_birth: Distrito Federal, Mexico
+    main_entry: 'true'

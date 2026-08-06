@@ -1,0 +1,57 @@
+---
+uid: '37619'
+last_name: JOINT STOCK COMPANY VAKUUM.RU
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '58932'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO VAKUUM.RU
+  - uid: '63442'
+    type: a.k.a.
+    category: strong
+    last_name: JSC VACUUM.RU
+address_list:
+  items:
+  - uid: '56250'
+    address1: Proezd Savelkinskii D. 4, E 13, Pom. XXI K 4 Of 4G
+    city: Zelenograd
+    postal_code: '124482'
+    country: Russia
+  - uid: '60799'
+    address1: Passage No. 4922, Building 4
+    address2: Floor 1, Room 55
+    address3: Zelenograd
+    city: Moscow
+    postal_code: '124460'
+    country: Russia
+id_list:
+  items:
+  - uid: '26819'
+    id_type: Tax ID No.
+    id_number: '7735183762'
+    id_country: Russia
+  - uid: '26820'
+    id_type: Registration Number
+    id_number: '1197746343772'
+    id_country: Russia
+  - uid: '26821'
+    id_type: Government Gazette Number
+    id_number: '39727818'
+    id_country: Russia
+  - uid: '173436'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '158299'
+    id_type: 'Organization Type:'
+    id_number: Wholesale of other machinery and equipment
+  - uid: '158298'
+    id_type: Target Type
+    id_number: Private Company
+  - uid: '152521'
+    id_type: Organization Established Date
+    id_number: 27 May 2019

@@ -1,0 +1,31 @@
+---
+uid: '27247'
+first_name: David Nicolas
+last_name: RUBIO GONZALEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA-EO13850
+address_list:
+  items:
+  - uid: '41613'
+    country: Colombia
+id_list:
+  items:
+  - uid: '17853'
+    id_type: Passport
+    id_number: PE098803
+    id_country: Colombia
+    expiration_date: 04 Jun 2024
+  - uid: '17854'
+    id_type: Cedula No.
+    id_number: '1015399085'
+    id_country: Colombia
+  - uid: '132254'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '32253'
+    date_of_birth: 14 Apr 1987
+    main_entry: 'true'

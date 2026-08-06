@@ -1,0 +1,51 @@
+---
+uid: '51123'
+last_name: JOINT STOCK COMPANY MAINTENANCE BASE OF AIRCRAFT INSTRUMENTS AND AERODROME
+  EQUIPMENT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80102'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO REMONTNAIA BAZA PO REMONTU AVIATSIONNYKH PRIBOROV
+      I AERODROMNOI TEKHNIKI
+  - uid: '80103'
+    type: a.k.a.
+    category: weak
+    last_name: AO REMBAZA
+  - uid: '80104'
+    type: a.k.a.
+    category: strong
+    last_name: FL AO REMBAZA
+address_list:
+  items:
+  - uid: '77693'
+    address1: D. 40 Ul. Titova
+    city: Balashov
+    postal_code: '412310'
+    country: Russia
+  - uid: '77694'
+    address1: Nab. tarasa shevchenko d. 23 A
+    city: Moscow
+    postal_code: '121151'
+    country: Russia
+id_list:
+  items:
+  - uid: '43246'
+    id_type: Registration Number
+    id_number: '1096440000425'
+    id_country: Russia
+  - uid: '43247'
+    id_type: Tax ID No.
+    id_number: '6440020175'
+    id_country: Russia
+  - uid: '180156'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
+  - uid: '180412'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

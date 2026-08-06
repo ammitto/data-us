@@ -1,0 +1,38 @@
+---
+uid: '33768'
+last_name: DALIAN OCEAN FISHING COMPANY LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '52976'
+    type: a.k.a.
+    category: strong
+    last_name: DALIAN OCEAN FISHING CO., LTD.
+  - uid: '52977'
+    type: a.k.a.
+    category: strong
+    last_name: DALIAN OCEAN FISHERY TUNA FISHING CO., LTD.
+address_list:
+  items:
+  - uid: '50590'
+    address1: 34th Floor, Number 38, Zhangjiang Road
+    address2: Zhongshan District
+    city: Dalian
+    state_or_province: Liaoning
+    country: China
+id_list:
+  items:
+  - uid: '23410'
+    id_type: Unified Social Credit Code (USCC)
+    id_number: '912102007169879128'
+    id_country: China
+  - uid: '23411'
+    id_type: Identification Number
+    id_number: IMO 4212374
+  - uid: '155057'
+    id_type: 'Organization Type:'
+    id_number: Marine Fishing
+remarks: "(Linked To: LI, Zhenyu)"

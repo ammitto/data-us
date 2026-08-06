@@ -1,0 +1,41 @@
+---
+uid: '23303'
+first_name: Artem Yuryevich
+last_name: CHAYKA
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '36732'
+    type: a.k.a.
+    category: strong
+    last_name: CHAIKA
+    first_name: Artem
+address_list:
+  items:
+  - uid: '35268'
+    address1: 38/2 Staraya Basmannaya
+    address2: Apt. 310
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '14775'
+    id_type: National ID No.
+    id_number: '4501052463'
+    id_country: Russia
+  - uid: '124999'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '24997'
+    date_of_birth: 25 Sep 1975
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '24998'
+    place_of_birth: Sverdlovsk, Russia
+    main_entry: 'true'

@@ -1,0 +1,46 @@
+---
+uid: '32757'
+first_name: Thida
+last_name: OO
+sdn_type: Individual
+program_list:
+  programs:
+  - BURMA-EO14014
+aka_list:
+  items:
+  - uid: '51548'
+    type: a.k.a.
+    category: strong
+    last_name: OO
+    first_name: Daw Thida
+  - uid: '52049'
+    type: a.k.a.
+    category: strong
+    last_name: OO
+    first_name: Thi Da
+address_list:
+  items:
+  - uid: '49356'
+    country: Burma
+id_list:
+  items:
+  - uid: '22763'
+    id_type: Passport
+    id_number: DM003921
+    id_country: Burma
+    issue_date: 02 Aug 2017
+    expiration_date: 01 Aug 2027
+  - uid: '142476'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '42479'
+    date_of_birth: 27 Nov 1964
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '42840'
+    place_of_birth: Rangoon, Burma
+    main_entry: 'true'
+title: Union Attorney General

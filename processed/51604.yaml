@@ -1,0 +1,34 @@
+---
+uid: '51604'
+last_name: LIMITED LIABILITY COMPANY WELLTECH
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+address_list:
+  items:
+  - uid: '78635'
+    address1: ul. Noyabrskaya d. 7
+    address2: floor 3
+    address3: kabinet 315, 316
+    city: Kogalym
+    postal_code: '628486'
+    country: Russia
+id_list:
+  items:
+  - uid: '44085'
+    id_type: Registration Number
+    id_number: '1228600007943'
+    id_country: Russia
+  - uid: '44086'
+    id_type: Tax ID No.
+    id_number: '8608062534'
+    id_country: Russia
+  - uid: '181385'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183508'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

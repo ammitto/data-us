@@ -1,0 +1,55 @@
+---
+uid: '18731'
+last_name: LIMITED LIABILITY COMPANY VTB DC
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13662
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54980'
+    type: a.k.a.
+    category: strong
+    last_name: LLC VTB DC
+  - uid: '54981'
+    type: a.k.a.
+    category: strong
+    last_name: VTB DC LIMITED
+  - uid: '54982'
+    type: a.k.a.
+    category: strong
+    last_name: VTB DC LTD
+address_list:
+  items:
+  - uid: '28466'
+    address1: Room 47, office XIV, 8 Brestskaya Street
+    city: Moscow
+    postal_code: '125047'
+    country: Russia
+  - uid: '52496'
+    address1: d. 35 str. 1, Prospect Leningradski
+    city: Moscow
+    postal_code: '125284'
+    country: Russia
+id_list:
+  items:
+  - uid: '24644'
+    id_type: Registration Number
+    id_number: '5117746058733'
+    id_country: Russia
+  - uid: '151188'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '118229'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 1
+  - uid: '146558'
+    id_type: Organization Established Date
+    id_number: '2011'
+  - uid: '173889'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)'

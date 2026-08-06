@@ -1,0 +1,62 @@
+---
+uid: '25647'
+last_name: ADVANCED TECHNOLOGIES COMPANY OF IRAN
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '40294'
+    type: a.k.a.
+    category: weak
+    last_name: ADVANCED TECHNOLOGIES HOLDING COMPANY
+  - uid: '40295'
+    type: a.k.a.
+    category: weak
+    last_name: ADVANCED TECHNOLOGIES COMPANY
+  - uid: '40296'
+    type: a.k.a.
+    category: weak
+    last_name: ADVANCED TECHNOLOGIES
+  - uid: '40297'
+    type: f.k.a.
+    category: strong
+    last_name: IRANIAN ENRICHMENT COMPANY
+  - uid: '40298'
+    type: f.k.a.
+    category: strong
+    last_name: GHANI SAZI ENRICHMENT
+  - uid: '40758'
+    type: a.k.a.
+    category: weak
+    last_name: IATC
+  - uid: '46168'
+    type: a.k.a.
+    category: strong
+    last_name: IRAN ADVANCED TECHNOLOGIES COMPANY
+  - uid: '46169'
+    type: f.k.a.
+    category: strong
+    last_name: IRAN URANIUM ENRICHMENT COMPANY
+address_list:
+  items:
+  - uid: '38796'
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '19587'
+    id_type: National ID No.
+    id_number: '10103378982'
+    id_country: Iran
+  - uid: '19588'
+    id_type: Registration Number
+    id_number: '299780'
+    id_country: Iran
+  - uid: '129583'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: ATOMIC ENERGY ORGANIZATION OF IRAN)"

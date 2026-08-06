@@ -1,0 +1,42 @@
+---
+uid: '55183'
+first_name: Kuk Chol
+last_name: JANG
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER4
+  - DPRK4
+aka_list:
+  items:
+  - uid: '85921'
+    type: a.k.a.
+    category: strong
+    last_name: CHANG
+    first_name: Kuk Ch'o'l
+address_list:
+  items:
+  - uid: '84422'
+    city: Vladivostok
+    country: Russia
+id_list:
+  items:
+  - uid: '50039'
+    id_type: Passport
+    id_number: '754420443'
+    id_country: Korea, North
+  - uid: '192375'
+    id_type: Gender
+    id_number: Male
+  - uid: '194254'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '194255'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+date_of_birth_list:
+  items:
+  - uid: '92374'
+    date_of_birth: 03 Jul 1987
+    main_entry: 'true'

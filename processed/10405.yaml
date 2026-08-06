@@ -1,0 +1,52 @@
+---
+uid: '10405'
+first_name: Miguel
+last_name: SANTANILLA BOTACHE
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '10217'
+    type: a.k.a.
+    category: weak
+    last_name: DUARTE, Gentil
+  - uid: '53284'
+    type: a.k.a.
+    category: strong
+    last_name: SANTILLANA
+    first_name: Miguel Botache
+address_list:
+  items:
+  - uid: '50946'
+    state_or_province: Caqueta Department
+    country: Colombia
+  - uid: '50947'
+    state_or_province: Guaviare Department
+    country: Colombia
+  - uid: '50948'
+    country: Venezuela
+id_list:
+  items:
+  - uid: '188675'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '145055'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '5636'
+    date_of_birth: 15 Oct 1964
+    main_entry: 'true'
+  - uid: '45054'
+    date_of_birth: 15 Oct 1963
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '5637'
+    place_of_birth: Florencia, Caqueta Department, Colombia
+    main_entry: 'true'
+remarks: "(Linked To: REVOLUTIONARY ARMED FORCES OF COLOMBIA - PEOPLE'S ARMY)"

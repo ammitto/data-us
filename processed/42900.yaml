@@ -1,0 +1,69 @@
+---
+uid: '42900'
+last_name: BLUE CALM MARINE SERVICES COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '66474'
+    type: a.k.a.
+    category: strong
+    last_name: BLUE CALM MARINE SERVICES
+address_list:
+  items:
+  - uid: '64013'
+    address1: No. 174, 1st Floor (East Wing)
+    address2: Arian Tower
+    address3: Mirdamad Blvd.
+    city: Tehran
+    postal_code: '15498'
+    country: Iran
+  - uid: '64014'
+    address1: Kian Mehr Bldg.
+    address2: 2nd Floor, Dr. Ebrahimeian Str.
+    address3: Jahan Bar, Eskeleh Ave.
+    city: Bandar Abbas
+    country: Iran
+  - uid: '64015'
+    address1: Next to Izugam
+    address2: Phase 3, 40th Ave.
+    address3: Sarbandar
+    city: Bandar Imam Khomeini
+    country: Iran
+  - uid: '64016'
+    address1: 2nd Floor
+    address2: Ghanbari Bldg.
+    address3: Shohada Ave.
+    city: Bandar Bushehr
+    country: Iran
+  - uid: '64017'
+    address1: BMS Bldg
+    address2: No. 960
+    address3: Chah Ghandi Ave.
+    city: Kharg Island
+    country: Iran
+  - uid: '64018'
+    address1: Sirri Island
+    country: Iran
+  - uid: '64019'
+    address1: Lavan Island
+    country: Iran
+id_list:
+  items:
+  - uid: '32482'
+    id_type: Business Registration Number
+    id_number: '29856'
+    id_country: Iran
+  - uid: '161762'
+    id_type: Organization Established Date
+    id_number: '1980'
+  - uid: '161764'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '161763'
+    id_type: Website
+    id_number: https://www.bluecalmmarineservices.net
+remarks: "(Linked To: P.B. SADR CO.)"

@@ -1,0 +1,46 @@
+---
+uid: '41993'
+last_name: LLC SPETSELSERVIS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65265'
+    type: a.k.a.
+    category: strong
+    last_name: SPECELSERVIS
+address_list:
+  items:
+  - uid: '62648'
+    address1: ul Kakhovka, d. 20
+    address2: str. 2 k. 56
+    city: Moscow
+    postal_code: '117461'
+    country: Russia
+  - uid: '62649'
+    address1: ul. Elektrozavodskaya, d. 24
+    address2: of. A214, A215
+    city: Moscow
+    postal_code: '107023'
+    country: Russia
+  - uid: '62650'
+    address1: ul. Sushchevskaya d. 21
+    address2: pod. 2
+    city: Moscow
+    postal_code: '127055'
+    country: Russia
+id_list:
+  items:
+  - uid: '31390'
+    id_type: Registration Number
+    id_number: '1037739375024'
+    id_country: Russia
+  - uid: '31391'
+    id_type: Tax ID No.
+    id_number: '7727191914'
+    id_country: Russia
+  - uid: '173729'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

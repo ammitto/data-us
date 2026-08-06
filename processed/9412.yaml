@@ -1,0 +1,37 @@
+---
+uid: '9412'
+first_name: Guadalupe Armando
+last_name: ARREOLA GOMEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '11683'
+    country: Mexico
+  - uid: '12756'
+    address1: c/o CORRALES SAN IGNACIO S.P.R. DE R.L. DE C.V.
+    city: Saucillo
+    state_or_province: Chihuahua
+    country: Mexico
+id_list:
+  items:
+  - uid: '4466'
+    id_type: C.U.R.P.
+    id_number: AEGG560925HCHRMD05
+    id_country: Mexico
+  - uid: '4467'
+    id_type: R.F.C.
+    id_number: AEGG560925
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '4383'
+    date_of_birth: 25 Sep 1956
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '4384'
+    place_of_birth: Saucillo, Chihuahua, Mexico
+    main_entry: 'true'

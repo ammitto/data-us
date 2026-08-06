@@ -1,0 +1,52 @@
+---
+uid: '30168'
+first_name: Shakeel
+last_name: KARIM
+sdn_type: Individual
+program_list:
+  programs:
+  - TCO
+aka_list:
+  items:
+  - uid: '47260'
+    type: a.k.a.
+    category: strong
+    last_name: FAZAL
+    first_name: Shakeel Karim
+  - uid: '49129'
+    type: a.k.a.
+    category: weak
+    last_name: KAREEM, Shakeel
+address_list:
+  items:
+  - uid: '46984'
+    address1: Mohallah Gharib Abad Post Office Hathian
+    address2: Dist. Mardan
+    city: Mardan
+    state_or_province: KPK
+    country: Pakistan
+id_list:
+  items:
+  - uid: '20267'
+    id_type: Passport
+    id_number: AF5164852
+    id_country: Pakistan
+    issue_date: 01 Oct 2011
+    expiration_date: 29 Sep 2016
+  - uid: '139467'
+    id_type: Gender
+    id_number: Male
+  - uid: '139468'
+    id_type: Email Address
+    id_number: shksma@gmail.com
+date_of_birth_list:
+  items:
+  - uid: '37522'
+    date_of_birth: 01 Jan 1975
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '37523'
+    place_of_birth: Mardan, Pakistan
+    main_entry: 'true'
+remarks: "(Linked To: ABID ALI KHAN TRANSNATIONAL CRIMINAL ORGANIZATION)"

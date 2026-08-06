@@ -1,0 +1,34 @@
+---
+uid: '48876'
+first_name: Vladimir Nikolaevich
+last_name: ROSHCHUPKIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '73515'
+    country: Russia
+id_list:
+  items:
+  - uid: '39949'
+    id_type: Tax ID No.
+    id_number: '662316649390'
+    id_country: Russia
+  - uid: '171588'
+    id_type: Gender
+    id_number: Male
+  - uid: '171590'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '71587'
+    date_of_birth: 02 Jun 1963
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '71689'
+    place_of_birth: Pershino, Russia
+    main_entry: 'true'

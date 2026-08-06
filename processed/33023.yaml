@@ -1,0 +1,32 @@
+---
+uid: '33023'
+first_name: Vasiliy Vasilievich
+last_name: SYSOYEV
+sdn_type: Individual
+program_list:
+  programs:
+  - BELARUS-EO14038
+address_list:
+  items:
+  - uid: '49690'
+    address1: Syrokomli St., 48-73
+    city: Minsk
+    country: Belarus
+id_list:
+  items:
+  - uid: '22716'
+    id_type: National ID No.
+    id_number: 3010874A112PB7
+    id_country: Belarus
+  - uid: '22717'
+    id_type: Tax ID No.
+    id_number: AC2366486
+    id_country: Belarus
+  - uid: '142796'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '42798'
+    date_of_birth: 01 Aug 1974
+    main_entry: 'true'

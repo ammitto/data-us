@@ -1,0 +1,39 @@
+---
+uid: '12696'
+last_name: BANK OF EAST LAND
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK
+aka_list:
+  items:
+  - uid: '13813'
+    type: a.k.a.
+    category: strong
+    last_name: TONGBANG U'NHAENG
+  - uid: '13814'
+    type: a.k.a.
+    category: strong
+    last_name: TONGBANG BANK
+  - uid: '13815'
+    type: a.k.a.
+    category: strong
+    last_name: DONGBANG BANK
+address_list:
+  items:
+  - uid: '19995'
+    address1: PO Box 32, BEL Building, Jonseung-Dong, Moranbong District
+    city: Pyongyang
+    country: Korea, North
+id_list:
+  items:
+  - uid: '135213'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '127944'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '110136'
+    id_type: SWIFT/BIC
+    id_number: BOELKPPY

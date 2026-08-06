@@ -1,0 +1,28 @@
+---
+uid: '49300'
+last_name: SOLARD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '74276'
+    address1: Ul. 3-YA Khoroshevskaya D. 2, Str. 1, Floor 6
+    address2: Pomeshch. 3
+    city: Moscow
+    postal_code: '123308'
+    country: Russia
+id_list:
+  items:
+  - uid: '40534'
+    id_type: Registration Number
+    id_number: '1207700204502'
+    id_country: Russia
+  - uid: '40535'
+    id_type: Tax ID No.
+    id_number: '7730257643'
+    id_country: Russia
+  - uid: '172319'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

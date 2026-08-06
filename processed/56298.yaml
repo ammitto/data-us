@@ -1,0 +1,41 @@
+---
+uid: '56298'
+first_name: Majid
+last_name: DOLATKHAH
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '87323'
+    type: a.k.a.
+    category: strong
+    last_name: DOWLATKHAH
+    first_name: Majid
+address_list:
+  items:
+  - uid: '86146'
+    country: Iran
+  - uid: '86147'
+    city: Ankara
+    country: Turkey
+id_list:
+  items:
+  - uid: '50315'
+    id_type: National ID No.
+    id_number: '2559625385'
+    id_country: Iran
+  - uid: '194421'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '194420'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '94418'
+    date_of_birth: 21 Mar 1983
+    main_entry: 'true'
+remarks: "(Linked To: PARCHIN CHEMICAL INDUSTRIES)"

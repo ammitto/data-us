@@ -1,0 +1,38 @@
+---
+uid: '42302'
+last_name: HOUSE OF ART LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '63090'
+    address1: Suites 2111-13, 21/F, Prudential Tower
+    address2: The Gateway, Harbour City, 21 Canton Road
+    address3: Tsimshatsui, Kowloon
+    city: Hong Kong
+    country: China
+  - uid: '63091'
+    address1: Room 201
+    address2: Yu To Sang Building
+    address3: 37 Queen's Road Central
+    city: Hong Kong
+    country: China
+id_list:
+  items:
+  - uid: '31786'
+    id_type: Registration Number
+    id_number: '2096541'
+    id_country: Hong Kong
+  - uid: '160616'
+    id_type: Website
+    id_number: www.house-of-art.com.hk
+  - uid: '160617'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '160615'
+    id_type: Organization Established Date
+    id_number: 14 May 2014
+remarks: "(Linked To: MEGA GEMS PTY LTD)"

@@ -1,0 +1,73 @@
+---
+uid: '9995'
+first_name: Carlos Arturo
+last_name: PATINO RESTREPO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNT
+aka_list:
+  items:
+  - uid: '9686'
+    type: a.k.a.
+    category: weak
+    last_name: PATEMURO
+  - uid: '9687'
+    type: a.k.a.
+    category: weak
+    last_name: PATE MURO
+address_list:
+  items:
+  - uid: '13120'
+    address1: c/o COMERCIALIZADORA DE CAFE DEL OCCIDENTE CODECAFE LTDA.
+    city: Pereira
+    state_or_province: Risaralda
+    country: Colombia
+  - uid: '13121'
+    address1: c/o INVERSIONES MACARNIC PATINO Y CIA S.C.S.
+    city: Pereira
+    state_or_province: Risaralda
+    country: Colombia
+  - uid: '13122'
+    address1: Calle 20 No. 6-30
+    address2: Ofc. 1304
+    city: Pereira
+    state_or_province: Risaralda
+    country: Colombia
+  - uid: '13123'
+    address1: Carrera 8-21
+    city: Viterbo
+    state_or_province: Caldas
+    country: Colombia
+id_list:
+  items:
+  - uid: '4561'
+    id_type: Cedula No.
+    id_number: '9991679'
+    id_country: Colombia
+  - uid: '4562'
+    id_type: Passport
+    id_number: '9991679'
+    id_country: Colombia
+  - uid: '4563'
+    id_type: Passport
+    id_number: AF186124
+    id_country: Colombia
+  - uid: '4564'
+    id_type: Passport
+    id_number: AC455469
+    id_country: Colombia
+  - uid: '4565'
+    id_type: Passport
+    id_number: PO69381
+    id_country: Colombia
+date_of_birth_list:
+  items:
+  - uid: '5061'
+    date_of_birth: 27 Apr 1964
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '5062'
+    place_of_birth: La Virginia, Risaralda, Colombia
+    main_entry: 'true'

@@ -1,0 +1,60 @@
+---
+uid: '37923'
+last_name: PERSIAN GULF STAR OIL COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13846
+aka_list:
+  items:
+  - uid: '59601'
+    type: a.k.a.
+    category: weak
+    last_name: P.G.S.O.C.
+  - uid: '59602'
+    type: a.k.a.
+    category: strong
+    last_name: PERSIAN GULF STAR REFINERY
+  - uid: '59603'
+    type: a.k.a.
+    category: strong
+    last_name: PERSIAN GULF STAR OIL
+  - uid: '59604'
+    type: a.k.a.
+    category: strong
+    last_name: NAFT SETAREH KHALIJ FARS
+address_list:
+  items:
+  - uid: '56880'
+    address1: Davoodieh, Vaziripour Street, Kavoosi Street, Number 14, Grand Building,
+      1st Floor, Unit 3
+    city: Tehran
+    postal_code: 15469-14411
+    country: Iran
+  - uid: '56883'
+    address1: No. 30 Western Roodsar Alley, Hafez Street, Taleghani Avenue
+    city: Tehran
+    country: Iran
+  - uid: '56884'
+    address1: 13 km from Bandar Abbas to Bandar Khumir, Sardar Shahid Ghasem Soleimani
+      Boulevard, Oil Field, Self-Sufficiency Boulevard, Persian Gulf Oil Star Company
+    city: Bandar Abbas
+    postal_code: '7931181183'
+    country: Iran
+id_list:
+  items:
+  - uid: '27244'
+    id_type: National ID No.
+    id_number: '10103244425'
+    id_country: Iran
+  - uid: '27246'
+    id_type: Registration Number
+    id_number: '287889'
+    id_country: Iran
+  - uid: '27247'
+    id_type: Identification Number
+    id_number: '11010103244425'
+    id_country: Iran
+  - uid: '153188'
+    id_type: Website
+    id_number: https://www.pgsoc.ir

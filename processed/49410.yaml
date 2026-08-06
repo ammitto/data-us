@@ -1,0 +1,44 @@
+---
+uid: '49410'
+last_name: JOINT STOCK COMPANY 81 ARMORED FIGHTING VEHICLES REPAIR PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77069'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO 81 BRONETANKOVYI REMONTNYI ZAVOD
+  - uid: '77071'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY 81 BTRZ
+  - uid: '77072'
+    type: a.k.a.
+    category: weak
+    last_name: AO 81 BTRZ
+address_list:
+  items:
+  - uid: '74487'
+    address1: 7 Pugacheva per.
+    city: Armavir
+    postal_code: '352919'
+    country: Russia
+id_list:
+  items:
+  - uid: '40698'
+    id_type: Registration Number
+    id_number: '1092302000922'
+    id_country: Russia
+  - uid: '40700'
+    id_type: Tax ID No.
+    id_number: '2302060955'
+    id_country: Russia
+  - uid: '172733'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '172490'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

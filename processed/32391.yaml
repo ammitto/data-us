@@ -1,0 +1,74 @@
+---
+uid: '32391'
+first_name: Ousmane Illiassou
+last_name: DJIBO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '50850'
+    type: a.k.a.
+    category: strong
+    last_name: KOUNOU
+    first_name: Ousmane Illasou
+  - uid: '50851'
+    type: a.k.a.
+    category: strong
+    last_name: DJIBO
+    first_name: Halid Illiassou
+  - uid: '50852'
+    type: a.k.a.
+    category: weak
+    last_name: ILLIASSOU, Djibbo
+  - uid: '50853'
+    type: a.k.a.
+    category: weak
+    last_name: CHAPORI, Aboubacar
+  - uid: '50854'
+    type: a.k.a.
+    category: weak
+    last_name: CHAPORI, Petit
+  - uid: '50855'
+    type: a.k.a.
+    category: weak
+    last_name: TCHAPORI, Petit
+  - uid: '50856'
+    type: a.k.a.
+    category: weak
+    last_name: CHAPPORI, Petit
+  - uid: '50857'
+    type: a.k.a.
+    category: weak
+    last_name: CHAFFORI, Petit
+address_list:
+  items:
+  - uid: '48782'
+    state_or_province: Menaka Region
+    country: Mali
+  - uid: '48783'
+    state_or_province: I-n-Arabane
+    country: Mali
+  - uid: '48784'
+    state_or_province: Tillaberi Region
+    country: Niger
+id_list:
+  items:
+  - uid: '141924'
+    id_type: Gender
+    id_number: Male
+  - uid: '187338'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '41921'
+    date_of_birth: '1984'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '41922'
+    place_of_birth: Niger
+    main_entry: 'true'

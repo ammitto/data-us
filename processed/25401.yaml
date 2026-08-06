@@ -1,0 +1,44 @@
+---
+uid: '25401'
+first_name: Abdul Rahim
+last_name: MANAN
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '39958'
+    type: a.k.a.
+    category: weak
+    last_name: MANAN, Haji
+  - uid: '39959'
+    type: a.k.a.
+    category: weak
+    last_name: RAHIM, Abdul
+address_list:
+  items:
+  - uid: '38405'
+    state_or_province: Helmand Province
+    country: Afghanistan
+id_list:
+  items:
+  - uid: '128972'
+    id_type: Gender
+    id_number: Male
+  - uid: '186792'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '29633'
+    date_of_birth: '1962'
+    main_entry: 'true'
+  - uid: '29634'
+    date_of_birth: '1961'
+    main_entry: 'false'
+  - uid: '29635'
+    date_of_birth: '1963'
+    main_entry: 'false'
+remarks: "(Linked To: TALIBAN)"

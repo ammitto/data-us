@@ -1,0 +1,32 @@
+---
+uid: '33946'
+first_name: Abel
+last_name: KANDIHO
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+address_list:
+  items:
+  - uid: '50860'
+    country: Uganda
+id_list:
+  items:
+  - uid: '23759'
+    id_type: Passport
+    id_number: DA025622
+    id_country: Uganda
+    expiration_date: 29 Mar 2027
+  - uid: '144949'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '45272'
+    date_of_birth: 11 Jun 1970
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '45274'
+    place_of_birth: Mbarara, Uganda
+    main_entry: 'true'

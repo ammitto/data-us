@@ -1,0 +1,58 @@
+---
+uid: '10049'
+first_name: Mohamad
+last_name: TARABAIN CHAMAS
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '9773'
+    type: a.k.a.
+    category: strong
+    last_name: CHAMS
+    first_name: Mohamad
+  - uid: '9774'
+    type: a.k.a.
+    category: strong
+    last_name: TARABAY
+    first_name: Muhammad
+  - uid: '9775'
+    type: a.k.a.
+    category: strong
+    last_name: TARABAYN SHAMAS
+    first_name: Muhammad
+address_list:
+  items:
+  - uid: '13258'
+    address1: Avenida Jose Maria De Brito 606, Apartment 51, Foz do Iguacu
+    country: Brazil
+  - uid: '13259'
+    address1: Cecilia Meirelles 849, Bloco B, Apartment 09
+    city: Foz do Iguacu
+    country: Brazil
+id_list:
+  items:
+  - uid: '4642'
+    id_type: National Foreign ID Number
+    id_number: 'RNE: W031645-8'
+    id_country: Brazil
+  - uid: '120206'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
+      Sanctions Regulations
+  - uid: '186296'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '5183'
+    date_of_birth: 11 Jan 1967
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '5179'
+    place_of_birth: Asuncion, Paraguay
+    main_entry: 'true'

@@ -1,0 +1,40 @@
+---
+uid: '34663'
+first_name: Tay
+last_name: ZA
+sdn_type: Individual
+program_list:
+  programs:
+  - BURMA-EO14014
+address_list:
+  items:
+  - uid: '51884'
+    country: Singapore
+  - uid: '51885'
+    country: Burma
+id_list:
+  items:
+  - uid: '24266'
+    id_type: National ID No.
+    id_number: MYGN 006415
+    id_country: Burma
+  - uid: '24267'
+    id_type: Passport
+    id_number: '306869'
+    id_country: Burma
+  - uid: '146042'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '46041'
+    date_of_birth: 18 Jul 1964
+    main_entry: 'true'
+  - uid: '46127'
+    date_of_birth: 18 Jul 1967
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '46133'
+    place_of_birth: Burma
+    main_entry: 'true'

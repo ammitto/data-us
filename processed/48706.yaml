@@ -1,0 +1,38 @@
+---
+uid: '48706'
+first_name: Roman Viktorovich
+last_name: LABIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75797'
+    type: a.k.a.
+    category: strong
+    last_name: LABIN
+    first_name: Romain
+address_list:
+  items:
+  - uid: '73189'
+    address1: Moscow
+    country: Russia
+  - uid: '73190'
+    address1: Avenue Dolez 243
+    city: Uccle
+    postal_code: '1180'
+    country: Belgium
+id_list:
+  items:
+  - uid: '171119'
+    id_type: Gender
+    id_number: Male
+  - uid: '171650'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '71120'
+    date_of_birth: 17 Jul 1984
+    main_entry: 'true'

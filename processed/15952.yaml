@@ -1,0 +1,53 @@
+---
+uid: '15952'
+last_name: MOBIN PETROCHEMICAL COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN
+  - NPWMD
+  - IFSR
+aka_list:
+  items:
+  - uid: '42364'
+    type: a.k.a.
+    category: strong
+    last_name: MOBIN PETROCHEMICAL
+  - uid: '42365'
+    type: a.k.a.
+    category: weak
+    last_name: MPC
+address_list:
+  items:
+  - uid: '23971'
+    address1: Southern Pars Special Economic Energy Zone
+    city: Assaluyeh
+    state_or_province: Bushehr
+    country: Iran
+  - uid: '40697'
+    address1: No. 50, DamanAfshar Alley, Vanak Square, ValiAsr Street
+    city: Tehran
+    postal_code: 19697-53111
+    country: Iran
+  - uid: '40699'
+    address1: P.O. Box 75391-418
+    city: Bushehr
+    postal_code: '1969753111'
+    country: Iran
+  - uid: '40769'
+    address1: PO Box
+    state_or_province: Mashhad
+    country: Iran
+id_list:
+  items:
+  - uid: '17487'
+    id_type: Registration ID
+    id_number: '837'
+    id_country: Iran
+  - uid: '131595'
+    id_type: Website
+    id_number: www.mobinpc.net
+  - uid: '119032'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: PERSIAN GULF PETROCHEMICAL INDUSTRY CO.)"

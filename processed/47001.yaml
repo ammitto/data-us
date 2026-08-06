@@ -1,0 +1,46 @@
+---
+uid: '47001'
+last_name: AL-MARKAZIYA LI-SIARAFA
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '72742'
+    type: a.k.a.
+    category: strong
+    last_name: AL MUTAHADUN FOR EXCHANGE
+  - uid: '72743'
+    type: a.k.a.
+    category: strong
+    last_name: AL MUTAHADUN COMPANY
+address_list:
+  items:
+  - uid: '70174'
+    country: 'Region: Gaza'
+  - uid: '70175'
+    address1: Aksaray Mah. Cerrahpasa Cad. Muratpasa
+    address2: 'Apt. No: 3/12'
+    address3: Fatih
+    city: Istanbul
+    country: Turkey
+id_list:
+  items:
+  - uid: '37318'
+    id_type: Commercial Registry Number
+    id_number: '563157932'
+    id_country: Palestinian
+  - uid: '37319'
+    id_type: Istanbul Chamber of Comm. No.
+    id_number: 142520-5
+    id_country: Turkey
+  - uid: '37320'
+    id_type: Business Registration Number
+    id_number: '267113103200001'
+    id_country: Turkey
+  - uid: '168104'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: "(Linked To: SHAMLAKH, Zuhair)"

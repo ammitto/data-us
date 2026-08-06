@@ -1,0 +1,34 @@
+---
+uid: '35903'
+last_name: IRKUT-AVTOTRANS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56480'
+    type: a.k.a.
+    category: strong
+    last_name: IRKUT-AVTOTRANS OOO
+address_list:
+  items:
+  - uid: '53893'
+    address1: ul Novatorov d 3
+    city: Irkutsk
+    postal_code: '664020'
+    country: Russia
+id_list:
+  items:
+  - uid: '25263'
+    id_type: Registration Number
+    id_number: '1043801430386'
+    id_country: Russia
+  - uid: '25264'
+    id_type: Tax ID No.
+    id_number: '3810035769'
+    id_country: Russia
+  - uid: '173298'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: PUBLIC JOINT STOCK COMPANY YAKOVLEV)"

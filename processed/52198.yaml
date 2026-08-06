@@ -1,0 +1,35 @@
+---
+uid: '52198'
+last_name: LIMITED LIABILITY COMPANY TIMECHIPS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '81746'
+    type: a.k.a.
+    category: strong
+    last_name: OOO TAIMCHIPS
+address_list:
+  items:
+  - uid: '79693'
+    address1: Room 20, Suite 2N, Letter A
+    address2: Building 4
+    address3: 2 Kalinina Street
+    city: Saint Petersburg
+    postal_code: '198099'
+    country: Russia
+id_list:
+  items:
+  - uid: '45108'
+    id_type: Registration Number
+    id_number: '1127847065697'
+    id_country: Russia
+  - uid: '45109'
+    id_type: Tax ID No.
+    id_number: '7802777764'
+    id_country: Russia
+  - uid: '183135'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

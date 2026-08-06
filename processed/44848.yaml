@@ -1,0 +1,34 @@
+---
+uid: '44848'
+last_name: OOO MAYAK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '66727'
+    address1: Proezd 1-I Perova Polya D. 9
+    address2: Str. 1
+    city: Moscow
+    postal_code: '111141'
+    country: Russia
+  - uid: '66728'
+    address1: Plekhanova D. 15A
+    address2: Str. 3, Office 1
+    city: Moscow
+    postal_code: '111141'
+    country: Russia
+id_list:
+  items:
+  - uid: '34433'
+    id_type: Registration Number
+    id_number: '5157746008195'
+    id_country: Russia
+  - uid: '34434'
+    id_type: Tax ID No.
+    id_number: '7722344853'
+    id_country: Russia
+  - uid: '176973'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

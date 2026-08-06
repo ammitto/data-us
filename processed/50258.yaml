@@ -1,0 +1,41 @@
+---
+uid: '50258'
+last_name: JOINT STOCK COMPANY EKA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78481'
+    type: a.k.a.
+    category: weak
+    last_name: AO EKA
+  - uid: '78482'
+    type: a.k.a.
+    category: strong
+    last_name: ECOLOGY COSMONAUTICS AVIATION
+  - uid: '78920'
+    type: a.k.a.
+    category: weak
+    last_name: AKTSIONERNOE OBSHCHESTVO EKA
+address_list:
+  items:
+  - uid: '76100'
+    address1: D. 1/4 Pionerskaya
+    city: Korolev
+    postal_code: '141090'
+    country: Russia
+id_list:
+  items:
+  - uid: '41932'
+    id_type: Registration Number
+    id_number: '1025002036730'
+    id_country: Russia
+  - uid: '41933'
+    id_type: Tax ID No.
+    id_number: '5054002290'
+    id_country: Russia
+  - uid: '177938'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,41 @@
+---
+uid: '35867'
+last_name: JOINT STOCK COMPANY AZOVSKI OPTIKO MECHANICHESKY ZAVOD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56350'
+    type: a.k.a.
+    category: strong
+    last_name: AZOV OPTOMECHANICAL PLANT JSC
+  - uid: '56351'
+    type: a.k.a.
+    category: weak
+    last_name: AOMZ AO
+address_list:
+  items:
+  - uid: '53817'
+    address1: Ul. Promyshlennaya D. 5
+    city: Azov
+    postal_code: '346780'
+    country: Russia
+id_list:
+  items:
+  - uid: '25189'
+    id_type: Registration Number
+    id_number: '1046140009530'
+    id_country: Russia
+  - uid: '25190'
+    id_type: Tax ID No.
+    id_number: '6140022069'
+    id_country: Russia
+  - uid: '149060'
+    id_type: Organization Established Date
+    id_number: 04 Mar 1992
+  - uid: '173262'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: TACTICAL MISSILES CORPORATION JSC)"

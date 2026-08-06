@@ -1,0 +1,42 @@
+---
+uid: '50162'
+last_name: LIMITED LIABILITY COMPANY NORNIKEL TECHNICAL SERVICES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78238'
+    type: a.k.a.
+    category: strong
+    last_name: LLC NN TECHNICAL SERVICES
+  - uid: '78239'
+    type: a.k.a.
+    category: weak
+    last_name: NN TEKHNICHESKIE SERVISY
+address_list:
+  items:
+  - uid: '75920'
+    address1: d. 11 litera A kom. 391, prospekt Grazhdanski
+    city: St. Petersburg
+    postal_code: '195220'
+    country: Russia
+  - uid: '75921'
+    address1: Promyshlennaya Zona OOO Norilskgeologiya D.1
+    city: Norilsk
+    postal_code: '663330'
+    country: Russia
+id_list:
+  items:
+  - uid: '41776'
+    id_type: Registration Number
+    id_number: '1062457033770'
+    id_country: Russia
+  - uid: '41777'
+    id_type: Tax ID No.
+    id_number: '2457063268'
+    id_country: Russia
+  - uid: '178098'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

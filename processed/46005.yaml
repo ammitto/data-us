@@ -1,0 +1,42 @@
+---
+uid: '46005'
+last_name: EAST WEST UNITED BANK SA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '68516'
+    address1: Villa Foch
+    address2: 10 Blvd Joseph II
+    city: Luxembourg
+    postal_code: L-1840
+    country: Luxembourg
+id_list:
+  items:
+  - uid: '35831'
+    id_type: Registration Number
+    id_number: B 12049
+    id_country: Luxembourg
+  - uid: '35833'
+    id_type: V.A.T. Number
+    id_number: LU 12023787
+    id_country: Luxembourg
+  - uid: '35834'
+    id_type: Legal Entity Number
+    id_number: 549300S54HVJT5564C37
+  - uid: '35835'
+    id_type: Identification Number
+    id_number: 4R1MXL.99999.SL.442
+    id_country: Luxembourg
+  - uid: '166760'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '174879'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '166666'
+    id_type: SWIFT/BIC
+    id_number: EWUBLULL
+remarks: "(Linked To: SISTEMA PUBLIC JOINT STOCK FINANCIAL CORPORATION)"

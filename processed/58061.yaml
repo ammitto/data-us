@@ -1,0 +1,37 @@
+---
+uid: '58061'
+first_name: Joana
+last_name: DOMINGUEZ AGUILERA
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+address_list:
+  items:
+  - uid: '89162'
+    country: Mexico
+id_list:
+  items:
+  - uid: '52603'
+    id_type: C.U.R.P.
+    id_number: DOAJ811022MTSMGN08
+    id_country: Mexico
+  - uid: '199358'
+    id_type: Gender
+    id_number: Female
+  - uid: '199361'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '99357'
+    date_of_birth: 22 Oct 1981
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '99360'
+    place_of_birth: Tamaulipas, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: CARTEL DE JALISCO NUEVA GENERACION)"

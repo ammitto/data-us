@@ -1,0 +1,35 @@
+---
+uid: '43240'
+first_name: Vladimir Anatolevich
+last_name: POLIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '64707'
+    country: Russia
+id_list:
+  items:
+  - uid: '32791'
+    id_type: Tax ID No.
+    id_number: '744704013946'
+    id_country: Russia
+  - uid: '162416'
+    id_type: Gender
+    id_number: Male
+  - uid: '175656'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '62414'
+    date_of_birth: 10 Aug 1962
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '62415'
+    place_of_birth: Chelyabinsk, Russia
+    main_entry: 'true'
+remarks: "(Linked To: PUBLIC JOINT STOCK COMPANY POLYUS)"

@@ -1,0 +1,31 @@
+---
+uid: '51075'
+last_name: KSIAN LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '77599'
+    address1: UL Zhurnalistov D. 2A
+    address2: Pomeshch. 404V
+    city: Kazan
+    postal_code: '420029'
+    country: Russia
+id_list:
+  items:
+  - uid: '43155'
+    id_type: Tax ID No.
+    id_number: '168025061'
+    id_country: Russia
+  - uid: '43156'
+    id_type: Registration Number
+    id_number: '1231600011378'
+    id_country: Russia
+  - uid: '180463'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '180041'
+    id_type: Organization Established Date
+    id_number: 23 Mar 2023

@@ -1,0 +1,37 @@
+---
+uid: '47338'
+first_name: Thein Win
+last_name: ZAW
+sdn_type: Individual
+program_list:
+  programs:
+  - BURMA-EO14014
+address_list:
+  items:
+  - uid: '70539'
+    country: Burma
+id_list:
+  items:
+  - uid: '37665'
+    id_type: National ID No.
+    id_number: 12/LAMANAN133128
+    id_country: Burma
+  - uid: '37715'
+    id_type: Passport
+    id_number: MG551721
+    id_country: Burma
+    expiration_date: 26 Sep 2027
+  - uid: '168741'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '68740'
+    date_of_birth: 02 Feb 1963
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '68858'
+    place_of_birth: Twantay, Burma
+    main_entry: 'true'
+remarks: "(Linked To: SHWE BYAIN PHYU GROUP OF COMPANIES)"

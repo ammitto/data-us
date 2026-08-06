@@ -1,0 +1,29 @@
+---
+uid: '25637'
+last_name: NUCLEAR POWER PRODUCTION AND DEVELOPMENT COMPANY OF IRAN
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN
+aka_list:
+  items:
+  - uid: '40266'
+    type: a.k.a.
+    category: strong
+    last_name: NUCLEAR POWER PRODUCTION AND DEVELOPMENT HOLDING COMPANY
+  - uid: '40762'
+    type: a.k.a.
+    category: weak
+    last_name: NPPD
+address_list:
+  items:
+  - uid: '38776'
+    address1: No. 8, Tandis St., Africa Ave.
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '129570'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: ATOMIC ENERGY ORGANIZATION OF IRAN)"

@@ -1,0 +1,58 @@
+---
+uid: '17755'
+last_name: RUSSIAN NATIONAL COMMERCIAL BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13685
+aka_list:
+  items:
+  - uid: '27357'
+    type: a.k.a.
+    category: weak
+    last_name: RNCB
+  - uid: '27358'
+    type: a.k.a.
+    category: strong
+    last_name: ROSSISKI NATSIONALNY KOMMERCHESKI BANK OTKRYTOE AKTSIONERNOE OBSHCHESTVO
+  - uid: '27359'
+    type: a.k.a.
+    category: strong
+    last_name: RNKB OAO
+address_list:
+  items:
+  - uid: '26924'
+    address1: d. 9 korp. 5 ul. Krasnoproletarskaya
+    city: Moscow
+    postal_code: '127030'
+    country: Russia
+id_list:
+  items:
+  - uid: '10015'
+    id_type: Registration ID
+    id_number: '1027700381290'
+    id_country: Russia
+  - uid: '10016'
+    id_type: Government Gazette Number
+    id_number: '09610705'
+    id_country: Russia
+  - uid: '10017'
+    id_type: Tax ID No.
+    id_number: '7701105460'
+    id_country: Russia
+  - uid: '116868'
+    id_type: BIK (RU)
+    id_number: '044525607'
+  - uid: '143720'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '116867'
+    id_type: SWIFT/BIC
+    id_number: RNCORUMM
+  - uid: '116866'
+    id_type: Website
+    id_number: http://www.rncb.ru
+  - uid: '116865'
+    id_type: Email Address
+    id_number: rncb@rncb.ru

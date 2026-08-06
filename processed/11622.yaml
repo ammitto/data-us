@@ -1,0 +1,60 @@
+---
+uid: '11622'
+last_name: PETROCHEMICAL COMMERCIAL COMPANY INTERNATIONAL
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN
+aka_list:
+  items:
+  - uid: '12336'
+    type: a.k.a.
+    category: strong
+    last_name: PETROCHEMICAL COMMERCIAL COMPANY INTERNATIONAL LTD
+  - uid: '12337'
+    type: a.k.a.
+    category: strong
+    last_name: PETROCHEMICAL TRADING COMPANY LIMITED
+  - uid: '12338'
+    type: a.k.a.
+    category: weak
+    last_name: PCCI
+  - uid: '13930'
+    type: a.k.a.
+    category: strong
+    last_name: PETROCHEMICAL COMMERCIAL COMPANY INTERNATIONAL LIMITED
+address_list:
+  items:
+  - uid: '17442'
+    address1: 41, 1st Floor, International House
+    address2: The Parade
+    city: St. Helier
+    postal_code: JE2 3QQ
+    country: Jersey
+  - uid: '17443'
+    address1: Ave. 54, Yimpash Business Center, No. 506, 507
+    city: Ashkhabad
+    postal_code: '744036'
+    country: Turkmenistan
+  - uid: '17444'
+    address1: P.O. Box 261539, Jebel Ali
+    city: Dubai
+    country: United Arab Emirates
+  - uid: '17445'
+    address1: No. 21 End of 9th St, Gandi Ave
+    city: Tehran
+    country: Iran
+  - uid: '17446'
+    address1: 21, Africa Boulevard
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '5997'
+    id_type: Registration ID
+    id_number: '77283'
+    id_country: Jersey
+  - uid: '114259'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: all offices worldwide

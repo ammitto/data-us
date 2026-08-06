@@ -1,0 +1,48 @@
+---
+uid: '25471'
+last_name: KHAYBAR COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN
+aka_list:
+  items:
+  - uid: '40071'
+    type: a.k.a.
+    category: strong
+    last_name: SHERKAT SAHAMI KHASS KHAYBAR
+  - uid: '40072'
+    type: a.k.a.
+    category: strong
+    last_name: KHAYBARCO
+  - uid: '40566'
+    type: a.k.a.
+    category: strong
+    last_name: KHEYBAR COMPANY
+address_list:
+  items:
+  - uid: '38557'
+    address1: No 97, Ghaem Magham Farahani Ave
+    city: Tehran
+    postal_code: '1589653313'
+    country: Iran
+  - uid: '38558'
+    address1: PO Box 15815-1966
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '16495'
+    id_type: Registration Number
+    id_number: '63383'
+    id_country: Iran
+  - uid: '16496'
+    id_type: Chamber of Commerce Number
+    id_number: '11047591'
+    id_country: Iran
+  - uid: '129084'
+    id_type: Website
+    id_number: www.khaybarco.ir
+  - uid: '129083'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

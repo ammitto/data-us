@@ -1,0 +1,57 @@
+---
+uid: '31929'
+last_name: FEDERAL STATE BUDGETARY INSTITUTION MARINE RESCUE SERVICE
+sdn_type: Entity
+program_list:
+  programs:
+  - PEESA-EO14039
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '50029'
+    type: a.k.a.
+    category: strong
+    last_name: MORSPASSLUZHBA
+  - uid: '50030'
+    type: a.k.a.
+    category: weak
+    last_name: MARINE RESCUE SERVICE
+  - uid: '50031'
+    type: a.k.a.
+    category: strong
+    last_name: MORSPAS
+  - uid: '81831'
+    type: a.k.a.
+    category: strong
+    last_name: FEDERAL BUDGETARY STATE MARINE EMERGENCY SALVAGE, RESCUE AND POLLUTION
+      PREVENTION COORDINATION SERVICE OF THE RUSSIAN FEDERATION
+address_list:
+  items:
+  - uid: '48026'
+    address1: Proektiruemyy proezd No 4062
+    address2: Building 1, 4
+    city: Moscow
+    postal_code: '115432'
+    country: Russia
+  - uid: '48027'
+    address1: Petrovka street
+    address2: Building 2, 3/6
+    city: Moscow
+    postal_code: '125993'
+    country: Russia
+id_list:
+  items:
+  - uid: '45203'
+    id_type: Registration Number
+    id_number: '1027739737321'
+    id_country: Russia
+  - uid: '45204'
+    id_type: Tax ID No.
+    id_number: '7707274249'
+    id_country: Russia
+  - uid: '45205'
+    id_type: Identification Number
+    id_number: IMO 5715105
+  - uid: '183211'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

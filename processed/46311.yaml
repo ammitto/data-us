@@ -1,0 +1,34 @@
+---
+uid: '46311'
+first_name: Jean-Francis
+last_name: BOZIZE
+sdn_type: Individual
+program_list:
+  programs:
+  - CAR
+aka_list:
+  items:
+  - uid: '71503'
+    type: a.k.a.
+    category: strong
+    last_name: BOZIZE
+    first_name: Jean Francis
+address_list:
+  items:
+  - uid: '68935'
+    country: Central African Republic
+id_list:
+  items:
+  - uid: '167103'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '67102'
+    date_of_birth: 19 Feb 1970
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '67105'
+    place_of_birth: Bangui, Central African Republic
+    main_entry: 'true'

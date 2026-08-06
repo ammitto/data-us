@@ -1,0 +1,41 @@
+---
+uid: '32064'
+last_name: INTRUST PLC EAD
+sdn_type: Entity
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '50310'
+    type: a.k.a.
+    category: strong
+    last_name: INTRUST EAD
+address_list:
+  items:
+  - uid: '48269'
+    address1: 119 Ekzarh Yosif Str.
+    address2: R-N Oborishte Distr
+    city: Sofia
+    postal_code: '1527'
+    country: Bulgaria
+  - uid: '48270'
+    address1: 79, Ralevitsa Str.
+    address2: Vitosha Distr.
+    city: Sofia
+    state_or_province: Stolichna
+    postal_code: '1618'
+    country: Bulgaria
+id_list:
+  items:
+  - uid: '21845'
+    id_type: Registration Number
+    id_number: '204589733'
+    id_country: Bulgaria
+  - uid: '21846'
+    id_type: Legal Entity Number
+    id_number: 485100GBI2SE0KIX8T70
+  - uid: '140893'
+    id_type: Organization Established Date
+    id_number: '2017'
+remarks: "(Linked To: PEEVSKI, Delyan Slavchev)"

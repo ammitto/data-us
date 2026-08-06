@@ -1,0 +1,44 @@
+---
+uid: '49959'
+last_name: LIMITED LIABILITY COMPANY PT ELEKTRONIK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77878'
+    type: a.k.a.
+    category: weak
+    last_name: PT ELECTRONIC
+  - uid: '77879'
+    type: a.k.a.
+    category: weak
+    last_name: PT ELECTRONICS
+address_list:
+  items:
+  - uid: '75567'
+    address1: Ul. Ivana Fomina
+    address2: D. 6, Lit. B, Pom. 337
+    city: Saint Petersburg
+    postal_code: '194295'
+    country: Russia
+  - uid: '75568'
+    address1: Dor. V Kamenku
+    address2: D. 64, K. 2, Str. 1, Pom. 1-N, 2-N
+    city: Saint Petersburg
+    postal_code: '197350'
+    country: Russia
+id_list:
+  items:
+  - uid: '41492'
+    id_type: Registration Number
+    id_number: '1167847490524'
+    id_country: Russia
+  - uid: '41493'
+    id_type: Tax ID No.
+    id_number: '7802606871'
+    id_country: Russia
+  - uid: '178011'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

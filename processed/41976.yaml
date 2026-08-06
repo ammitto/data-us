@@ -1,0 +1,43 @@
+---
+uid: '41976'
+last_name: AKTSIONERNOE OBSHCHESTVO PROTON
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65227'
+    type: a.k.a.
+    category: strong
+    last_name: AO PROTON
+  - uid: '65228'
+    type: a.k.a.
+    category: strong
+    last_name: JSC PROTON
+address_list:
+  items:
+  - uid: '62604'
+    address1: ul. Leskova 19
+    city: Orel
+    postal_code: '302040'
+    country: Russia
+  - uid: '62605'
+    city: Moscow
+    country: Russia
+  - uid: '62606'
+    city: Saratov
+    country: Russia
+id_list:
+  items:
+  - uid: '31356'
+    id_type: Registration Number
+    id_number: '1025700827283'
+    id_country: Russia
+  - uid: '31357'
+    id_type: Tax ID No.
+    id_number: '5753018359'
+    id_country: Russia
+  - uid: '173714'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

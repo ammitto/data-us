@@ -1,0 +1,31 @@
+---
+uid: '50779'
+last_name: LIMITED LIABILITY COMPANY MOLOT AERO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '77049'
+    address1: Ul. Svobody, D. 106
+    address2: KV. 1, Pomeshch 6
+    city: Kirov
+    postal_code: '610002'
+    country: Russia
+id_list:
+  items:
+  - uid: '42684'
+    id_type: Registration Number
+    id_number: '1234300001110'
+    id_country: Russia
+  - uid: '42685'
+    id_type: Tax ID No.
+    id_number: '4345522911'
+    id_country: Russia
+  - uid: '179420'
+    id_type: Organization Established Date
+    id_number: 14 Feb 2023
+  - uid: '179421'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

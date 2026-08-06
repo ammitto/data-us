@@ -1,0 +1,45 @@
+---
+uid: '7264'
+first_name: Said
+last_name: BAHAJI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '6344'
+    address1: 12 Rue Descartes
+    city: Meknes
+    country: Morocco
+  - uid: '6345'
+    address1: 'Bunatwiete #23'
+    city: Hamburg
+    postal_code: '21073'
+    country: Germany
+  - uid: '6346'
+    address1: 'Marienstr #54'
+    city: Hamburg
+    postal_code: '21073'
+    country: Germany
+  - uid: '6347'
+    address1: 'Wiesendamm #135'
+    city: Hamburg
+    postal_code: '22303'
+    country: Germany
+id_list:
+  items:
+  - uid: '185680'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '1466'
+    date_of_birth: 15 Jul 1975
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '1467'
+    place_of_birth: Haselunne, Lower Saxony, Germany
+    main_entry: 'true'

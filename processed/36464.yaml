@@ -1,0 +1,51 @@
+---
+uid: '36464'
+last_name: LIMITED LIABILITY COMPANY FIRDAWS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '57501'
+    type: a.k.a.
+    category: strong
+    last_name: FIRDAWS LTD
+  - uid: '60539'
+    type: a.k.a.
+    category: strong
+    last_name: FIRDAUS LIMITED
+  - uid: '60540'
+    type: a.k.a.
+    category: strong
+    last_name: FIRDAWS LLC
+address_list:
+  items:
+  - uid: '54820'
+    address1: UL. Kabardinskaya D. 22/24
+    address2: Floor 2
+    city: Grozny
+    state_or_province: Republic of Chechnya
+    postal_code: '364024'
+    country: Russia
+  - uid: '57797'
+    city: Makhachkala
+    state_or_province: Republic of Dagestan
+    country: Russia
+id_list:
+  items:
+  - uid: '25903'
+    id_type: Tax ID No.
+    id_number: '2013002217'
+    id_country: Russia
+  - uid: '25904'
+    id_type: Registration Number
+    id_number: '1112031000872'
+    id_country: Russia
+  - uid: '150190'
+    id_type: Organization Established Date
+    id_number: 15 Apr 2011
+  - uid: '174221'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: KADYROVA, Ayshat Ramzanovna)"

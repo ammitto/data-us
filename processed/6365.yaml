@@ -1,0 +1,57 @@
+---
+uid: '6365'
+first_name: Usama bin Muhammad bin Awad
+last_name: BIN LADIN
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '4227'
+    type: a.k.a.
+    category: strong
+    last_name: BIN LADIN
+    first_name: Usama
+  - uid: '4757'
+    type: a.k.a.
+    category: strong
+    last_name: BIN LADEN
+    first_name: Usama
+  - uid: '4771'
+    type: a.k.a.
+    category: strong
+    last_name: BIN LADEN
+    first_name: Osama
+  - uid: '4772'
+    type: a.k.a.
+    category: strong
+    last_name: BIN LADIN
+    first_name: Osama
+  - uid: '4773'
+    type: a.k.a.
+    category: strong
+    last_name: BIN LADIN
+    first_name: Osama bin Muhammad bin Awad
+id_list:
+  items:
+  - uid: '185847'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '1120'
+    date_of_birth: 30 Jul 1957
+    main_entry: 'true'
+  - uid: '1123'
+    date_of_birth: '1958'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '1121'
+    place_of_birth: Jeddah, Saudi Arabia
+    main_entry: 'true'
+  - uid: '1122'
+    place_of_birth: Yemen
+    main_entry: 'false'

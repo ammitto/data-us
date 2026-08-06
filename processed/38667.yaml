@@ -1,0 +1,55 @@
+---
+uid: '38667'
+first_name: Yan Igorevich
+last_name: PETROVSKIY
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '60481'
+    type: a.k.a.
+    category: strong
+    last_name: PETROVSKY
+    first_name: Jan
+  - uid: '60482'
+    type: a.k.a.
+    category: strong
+    last_name: PETROVSKY
+    first_name: Yan
+  - uid: '60483'
+    type: a.k.a.
+    category: weak
+    last_name: Veliki Slavian
+  - uid: '60484'
+    type: a.k.a.
+    category: weak
+    last_name: Velikyi Slavyan
+address_list:
+  items:
+  - uid: '57729'
+    country: Russia
+  - uid: '57730'
+    country: Ukraine
+  - uid: '57731'
+    country: Norway
+id_list:
+  items:
+  - uid: '154191'
+    id_type: Gender
+    id_number: Male
+  - uid: '174703'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '54189'
+    date_of_birth: 02 Jan 1987
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '54192'
+    place_of_birth: Irkutsk, Russia
+    main_entry: 'true'
+remarks: "(Linked To: TASK FORCE RUSICH)"

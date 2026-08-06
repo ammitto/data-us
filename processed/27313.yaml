@@ -1,0 +1,47 @@
+---
+uid: '27313'
+first_name: Noor
+last_name: WALI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '43271'
+    type: a.k.a.
+    category: strong
+    last_name: WALI MEHSUD
+    first_name: Mufti Noor
+  - uid: '43272'
+    type: a.k.a.
+    category: strong
+    last_name: WALI
+    first_name: Mufti Noor
+  - uid: '43273'
+    type: a.k.a.
+    category: weak
+    last_name: MANSOOR ASIM, Mufti Abu
+address_list:
+  items:
+  - uid: '41546'
+    country: Afghanistan
+id_list:
+  items:
+  - uid: '186957'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '132486'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '32405'
+    date_of_birth: 26 Jun 1978
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '32404'
+    place_of_birth: Gurguray, Pakistan
+    main_entry: 'true'

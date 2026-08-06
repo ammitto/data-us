@@ -1,0 +1,41 @@
+---
+uid: '49215'
+last_name: MARINE EQUIPMENT ENGINEERING CORPORATION JSC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76730'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO KORPORATSIYA MORSKOGO PRIBOROSTROENIYA
+  - uid: '76732'
+    type: a.k.a.
+    category: weak
+    last_name: AO KMP
+address_list:
+  items:
+  - uid: '74098'
+    address1: Ul. Malaya Posadskaya D. 30
+    address2: LIT. A
+    city: Saint Petersburg
+    postal_code: '197046'
+    country: Russia
+id_list:
+  items:
+  - uid: '40380'
+    id_type: Registration Number
+    id_number: '1207800171050'
+    id_country: Russia
+  - uid: '40381'
+    id_type: Tax ID No.
+    id_number: '7813649764'
+    id_country: Russia
+  - uid: '172180'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '172182'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

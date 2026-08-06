@@ -1,0 +1,30 @@
+---
+uid: '12555'
+first_name: Milad
+last_name: JAFARI
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+id_list:
+  items:
+  - uid: '7037'
+    id_type: Passport
+    id_number: L8081303
+    id_country: Iran
+    issue_date: 14 Mar 2006
+    expiration_date: 14 Mar 2011
+  - uid: '113956'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '8256'
+    date_of_birth: 20 Sep 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '8257'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'

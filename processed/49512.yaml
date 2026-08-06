@@ -1,0 +1,36 @@
+---
+uid: '49512'
+last_name: LIMITED LIABILITY COMPANY ABAKAN AIR
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77238'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTIU ABAKAN EIR
+address_list:
+  items:
+  - uid: '74707'
+    address1: Nab. Presnenskaya D. 12, kom. A37, 24th Floor
+    city: Moscow
+    postal_code: '123112'
+    country: Russia
+id_list:
+  items:
+  - uid: '40866'
+    id_type: Registration Number
+    id_number: '1052455020837'
+    id_country: Russia
+  - uid: '40867'
+    id_type: Tax ID No.
+    id_number: '2455024143'
+    id_country: Russia
+  - uid: '172611'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '172612'
+    id_type: 'Organization Type:'
+    id_number: Freight air transport

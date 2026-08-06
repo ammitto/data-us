@@ -1,0 +1,36 @@
+---
+uid: '47189'
+last_name: GLOBAL TECH MARINE SERVICES INC
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '70273'
+    address1: Trust Company Complex, Ajeltake Road
+    city: Majuro
+    state_or_province: Ajeltake Island
+    postal_code: '96960'
+    country: Marshall Islands
+  - uid: '70274'
+    address1: 8th Floor, Arenco Tower, Sheikh Zayed Road
+    city: Dubai
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '37397'
+    id_type: Identification Number
+    id_number: IMO 6197743
+  - uid: '37399'
+    id_type: Business Registration Number
+    id_number: '107145'
+    id_country: Marshall Islands
+  - uid: '168497'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '168480'
+    id_type: Organization Established Date
+    id_number: 15 Dec 2020
+remarks: "(Linked To: AL-JAMAL, Sa'id Ahmad Muhammad)"

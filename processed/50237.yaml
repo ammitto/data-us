@@ -1,0 +1,47 @@
+---
+uid: '50237'
+first_name: Ivan Nikolaevich
+last_name: NAREIKO
+sdn_type: Individual
+program_list:
+  programs:
+  - BELARUS-EO14038
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78417'
+    type: a.k.a.
+    category: strong
+    last_name: NAREIKA
+    first_name: Ivan Mikalaevych
+address_list:
+  items:
+  - uid: '76058'
+    country: Belarus
+id_list:
+  items:
+  - uid: '41894'
+    id_type: Passport
+    id_number: MP3379320
+    id_country: Belarus
+    expiration_date: 21 Dec 2026
+  - uid: '41895'
+    id_type: National ID No.
+    id_number: 3120575A040PB3
+    id_country: Belarus
+  - uid: '177892'
+    id_type: Gender
+    id_number: Male
+  - uid: '178211'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '77894'
+    date_of_birth: 12 May 1975
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '78178'
+    place_of_birth: Russia
+    main_entry: 'true'

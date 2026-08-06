@@ -1,0 +1,31 @@
+---
+uid: '25438'
+last_name: SOUTH SHIPPING LINES - IRAN LINE
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN
+  - IFCA
+aka_list:
+  items:
+  - uid: '40011'
+    type: a.k.a.
+    category: strong
+    last_name: KASHTIRANI-E JONOUB KHAT-E IRAN
+address_list:
+  items:
+  - uid: '38483'
+    address1: No 119 Shabnam Alley, Ghaem Magham Street
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '129037'
+    id_type: Website
+    id_number: www.sslil.net
+  - uid: '129930'
+    id_type: IFCA Determination -
+    id_number: Involved in the Shipping Sector
+  - uid: '129036'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

@@ -1,0 +1,29 @@
+---
+uid: '47580'
+first_name: Vladislav Vyacheslavovich
+last_name: KOSTIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '71063'
+    country: Russia
+id_list:
+  items:
+  - uid: '38121'
+    id_type: Tax ID No.
+    id_number: '772410397702'
+    id_country: Russia
+  - uid: '169078'
+    id_type: Gender
+    id_number: Male
+  - uid: '176409'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '69076'
+    date_of_birth: 28 Oct 1983
+    main_entry: 'true'

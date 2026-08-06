@@ -1,0 +1,58 @@
+---
+uid: '35901'
+last_name: PUBLIC JOINT STOCK COMPANY YAKOVLEV
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '56472'
+    type: a.k.a.
+    category: strong
+    last_name: PUBLICHNOE AKTSIONERNOE OBSCHESTVO NAUCHNO-PROIZVODSTVENNAYA IRKUT
+  - uid: '56473'
+    type: a.k.a.
+    category: strong
+    last_name: KORPORATSIYA IRKUT PAO
+  - uid: '56474'
+    type: a.k.a.
+    category: strong
+    last_name: NP KORPORATSIYA IRKUT PAO
+  - uid: '56475'
+    type: a.k.a.
+    category: strong
+    last_name: IRKUT CORP PJSC
+  - uid: '56476'
+    type: f.k.a.
+    category: strong
+    last_name: OAO SCIENTIFIC PRODUCTION CORPORATION IRKUT
+  - uid: '82482'
+    type: a.k.a.
+    category: strong
+    last_name: IRKUT CORPORATION JOINT STOCK COMPANY
+address_list:
+  items:
+  - uid: '53889'
+    address1: 68, Leningradsky Prospekt
+    city: Moscow
+    postal_code: '125315'
+    country: Russia
+id_list:
+  items:
+  - uid: '25259'
+    id_type: Registration Number
+    id_number: '1023801428111'
+    id_country: Russia
+  - uid: '25260'
+    id_type: Tax ID No.
+    id_number: '3807002509'
+    id_country: Russia
+  - uid: '173296'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184438'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

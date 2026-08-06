@@ -1,0 +1,57 @@
+---
+uid: '18310'
+first_name: Roman Borisovich
+last_name: ROTENBERG
+sdn_type: Individual
+program_list:
+  programs:
+  - UKRAINE-EO13661
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '55540'
+    type: a.k.a.
+    category: strong
+    last_name: ROTENBERG
+    first_name: Roman Borysovych
+address_list:
+  items:
+  - uid: '27721'
+    address1: Beregovaya
+    address2: Street 6
+    address3: Apartment 25
+    city: Moscow
+    postal_code: '125367'
+    country: Russia
+id_list:
+  items:
+  - uid: '10571'
+    id_type: Passport
+    id_number: '640848350'
+    id_country: Russia
+  - uid: '10618'
+    id_type: Passport
+    id_number: '16038132'
+    id_country: Finland
+  - uid: '10619'
+    id_type: Passport
+    id_number: '17017258'
+    id_country: Finland
+  - uid: '151202'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '173875'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '17600'
+    date_of_birth: 07 Apr 1981
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '47535'
+    place_of_birth: St. Petersburg, Russia
+    main_entry: 'false'
+remarks: "(Linked To: ROTENBERG, Boris Romanovich)"

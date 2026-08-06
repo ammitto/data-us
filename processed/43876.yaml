@@ -1,0 +1,40 @@
+---
+uid: '43876'
+first_name: Diego Macedo
+last_name: GONCALVES DO CARMO
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '67907'
+    type: a.k.a.
+    category: weak
+    last_name: Brahma
+address_list:
+  items:
+  - uid: '65344'
+    address1: Penitenciaria Federal de Porto Velho
+    city: Porto Velho
+    country: Brazil
+id_list:
+  items:
+  - uid: '33317'
+    id_type: Tax ID No.
+    id_number: 327.953.228-03
+    id_country: Brazil
+  - uid: '163489'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '63487'
+    date_of_birth: 18 Jun 1984
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '63488'
+    place_of_birth: Brazil
+    main_entry: 'true'
+remarks: "(Linked To: PRIMEIRO COMANDO DA CAPITAL)"

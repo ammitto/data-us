@@ -1,0 +1,31 @@
+---
+uid: '43238'
+last_name: LIMITED LIABILITY COMPANY ALTERNATIVA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '64526'
+    address1: Ulitsa Hohryakova, Dom 74, Ofis 1401
+    city: Ekaterinburg
+    state_or_province: Sverdlovsk Oblast
+    postal_code: '620014'
+    country: Russia
+id_list:
+  items:
+  - uid: '32788'
+    id_type: Tax ID No.
+    id_number: '6671051653'
+    id_country: Russia
+  - uid: '32789'
+    id_type: Registration Number
+    id_number: '1169658092856'
+    id_country: Russia
+  - uid: '175654'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '162738'
+    id_type: Organization Established Date
+    id_number: 15 Aug 2016

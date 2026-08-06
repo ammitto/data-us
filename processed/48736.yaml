@@ -1,0 +1,38 @@
+---
+uid: '48736'
+first_name: Zahra
+last_name: ABDI ASJERD
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - IRGC
+  - NPWMD
+address_list:
+  items:
+  - uid: '73251'
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '39767'
+    id_type: National ID No.
+    id_number: '0018946798'
+    id_country: Iran
+  - uid: '39768'
+    id_type: Passport
+    id_number: F44356873
+    id_country: Iran
+    expiration_date: 03 Jan 2023
+  - uid: '171216'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '171218'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '71245'
+    date_of_birth: 22 Oct 1995
+    main_entry: 'true'
+remarks: "(Linked To: BONYAN DANESH SHARGH PRIVATE COMPANY)"

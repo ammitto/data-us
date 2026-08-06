@@ -1,0 +1,28 @@
+---
+uid: '49147'
+last_name: LIMITED LIABILITY COMPANY SEVERNAYA ZVEZDA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '73942'
+    address1: Ul. Zastavskaya D.33, Lit. D
+    address2: 'Office #23'
+    city: Saint Petersburg
+    postal_code: '196084'
+    country: Russia
+id_list:
+  items:
+  - uid: '40244'
+    id_type: Registration Number
+    id_number: '5067847463063'
+    id_country: Russia
+  - uid: '40245'
+    id_type: Tax ID No.
+    id_number: '7814356111'
+    id_country: Russia
+  - uid: '172065'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

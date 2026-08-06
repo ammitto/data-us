@@ -1,0 +1,48 @@
+---
+uid: '47586'
+last_name: YUVENTA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73684'
+    type: a.k.a.
+    category: strong
+    last_name: JUVENTA
+address_list:
+  items:
+  - uid: '71076'
+    address1: B-r Kronshtadtskii D. 39
+    address2: K. 1, Pomeshch. I
+    address3: Kom. 45, Rm. 5-9
+    city: Moscow
+    postal_code: '125499'
+    country: Russia
+  - uid: '71077'
+    address1: Ul. Izhorskaya D. 13
+    address2: Str. 2
+    city: Moscow
+    postal_code: '125412'
+    country: Russia
+  - uid: '71272'
+    address1: Office 45/RM5-9
+    address2: Bldg. 1, 39
+    address3: Kronshtadtskiy Bulvar
+    city: Moscow
+    postal_code: '125499'
+    country: Russia
+id_list:
+  items:
+  - uid: '38131'
+    id_type: Registration Number
+    id_number: '1167746276202'
+    id_country: Russia
+  - uid: '38132'
+    id_type: Tax ID No.
+    id_number: '7743146073'
+    id_country: Russia
+  - uid: '169820'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

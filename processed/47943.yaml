@@ -1,0 +1,34 @@
+---
+uid: '47943'
+last_name: LIMITED LIABILITY COMPANY ANGAR
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74740'
+    type: a.k.a.
+    category: weak
+    last_name: LLC ANGAR
+address_list:
+  items:
+  - uid: '71799'
+    address1: domovladenie 71A, ul. Knyshevskogo
+    city: Mineralnye Vody
+    postal_code: '357202'
+    country: Russia
+id_list:
+  items:
+  - uid: '38756'
+    id_type: Registration Number
+    id_number: '2630800190'
+    id_country: Russia
+  - uid: '38757'
+    id_type: Tax ID No.
+    id_number: '1112651014475'
+    id_country: Russia
+  - uid: '176551'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: S 7 ENGINEERING LLC)"

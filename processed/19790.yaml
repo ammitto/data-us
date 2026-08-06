@@ -1,0 +1,30 @@
+---
+uid: '19790'
+last_name: MINISTRY OF PEOPLE'S SECURITY CORRECTIONAL BUREAU
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK3
+aka_list:
+  items:
+  - uid: '31231'
+    type: a.k.a.
+    category: strong
+    last_name: MINISTRY OF PEOPLE'S SECURITY CORRECTIONAL MANAGEMENT BUREAU
+  - uid: '31232'
+    type: a.k.a.
+    category: strong
+    last_name: MINISTRY OF PEOPLE'S SECURITY PRISON BUREAU
+address_list:
+  items:
+  - uid: '30016'
+    country: Korea, North
+id_list:
+  items:
+  - uid: '127163'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '135050'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214

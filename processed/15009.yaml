@@ -1,0 +1,52 @@
+---
+uid: '15009'
+first_name: Abubakar
+last_name: SHEKAU
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '21988'
+    type: a.k.a.
+    category: strong
+    last_name: BIN MOHAMMED
+    first_name: Abu Mohammed Abubakar
+  - uid: '21989'
+    type: a.k.a.
+    category: weak
+    last_name: SHEKAU
+  - uid: '21990'
+    type: a.k.a.
+    category: strong
+    last_name: BI MUHAMMED
+    first_name: Abu Muhammed Abubakar
+  - uid: '21991'
+    type: a.k.a.
+    category: weak
+    last_name: SHEHU
+  - uid: '21992'
+    type: a.k.a.
+    category: weak
+    last_name: SHAYKU
+address_list:
+  items:
+  - uid: '21635'
+    country: Nigeria
+id_list:
+  items:
+  - uid: '186101'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '11282'
+    date_of_birth: '1969'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '11283'
+    place_of_birth: Shekau Village, Yobe State, Nigeria
+    main_entry: 'true'

@@ -1,0 +1,43 @@
+---
+uid: '26170'
+first_name: Alexander Yevgeniyevich
+last_name: MISHKIN
+sdn_type: Individual
+program_list:
+  programs:
+  - CAATSA - RUSSIA
+  - NPWMD
+aka_list:
+  items:
+  - uid: '41275'
+    type: a.k.a.
+    category: strong
+    last_name: PETROV
+    first_name: Alexander
+address_list:
+  items:
+  - uid: '39667'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '153848'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+  - uid: '130568'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '30570'
+    date_of_birth: 13 Jul 1979
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '30573'
+    place_of_birth: Loyga, Russia
+    main_entry: 'true'
+  - uid: '30574'
+    place_of_birth: Kotlas, Russia
+    main_entry: 'false'
+remarks: "(Linked To: MAIN INTELLIGENCE DIRECTORATE)"

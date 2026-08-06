@@ -1,0 +1,48 @@
+---
+uid: '38436'
+first_name: Mostafa
+last_name: HAJI HOSSEINI
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+  - IFSR
+  - IRGC
+aka_list:
+  items:
+  - uid: '60187'
+    type: a.k.a.
+    category: strong
+    last_name: HAJIHOSSEINI
+    first_name: Mostafa
+  - uid: '60347'
+    type: a.k.a.
+    category: strong
+    last_name: HAJJI HOSEINI ROKNABADI
+    first_name: Mostafa
+address_list:
+  items:
+  - uid: '57464'
+    country: Iran
+id_list:
+  items:
+  - uid: '27736'
+    id_type: National ID No.
+    id_number: '4480031340'
+    id_country: Iran
+  - uid: '154396'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '153747'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '54007'
+    date_of_birth: '1991'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '53749'
+    place_of_birth: Meybod, Yazd Province, Iran
+    main_entry: 'true'

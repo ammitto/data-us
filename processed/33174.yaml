@@ -1,0 +1,40 @@
+---
+uid: '33174'
+first_name: Raman Leanidavich
+last_name: PODLINEU
+sdn_type: Individual
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '52183'
+    type: a.k.a.
+    category: strong
+    last_name: PODLINEV
+    first_name: Roman Leonidovich
+  - uid: '52490'
+    type: a.k.a.
+    category: strong
+    last_name: PODLINEV
+    first_name: Roman
+address_list:
+  items:
+  - uid: '49849'
+    city: Minsk
+    country: Belarus
+id_list:
+  items:
+  - uid: '143027'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '43025'
+    date_of_birth: '1976'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '43026'
+    place_of_birth: Kazanka, Nikolaev Oblast, Ukraine
+    main_entry: 'true'

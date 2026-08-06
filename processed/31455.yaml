@@ -1,0 +1,46 @@
+---
+uid: '31455'
+last_name: AKTSIONERNOE OBSHCHESTVO POZITIV TEKNOLODZHIZ
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - CAATSA - RUSSIA
+  - CYBER2
+  - NPWMD
+aka_list:
+  items:
+  - uid: '49440'
+    type: a.k.a.
+    category: strong
+    last_name: JSC POSITIVE TECHNOLOGIES
+  - uid: '49470'
+    type: a.k.a.
+    category: strong
+    last_name: POZITIV TEKNOLODZHIZ, AO
+address_list:
+  items:
+  - uid: '47491'
+    address1: d. 23A pom. V kom, 30, shosse Shchelkovskoe
+    city: Moscow
+    postal_code: '107241'
+    country: Russia
+id_list:
+  items:
+  - uid: '21395'
+    id_type: Tax ID No.
+    id_number: '7718668887'
+    id_country: Russia
+  - uid: '139917'
+    id_type: Website
+    id_number: www.ptsecurity.ru
+  - uid: '139918'
+    id_type: Website
+    id_number: www.ptsecurity.com
+  - uid: '173957'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '153789'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+remarks: "(Linked To: FEDERAL SECURITY SERVICE)"

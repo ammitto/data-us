@@ -1,0 +1,34 @@
+---
+uid: '48514'
+last_name: ALEXANDER ELECTRIC POWER SUPPLIES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75401'
+    type: a.k.a.
+    category: weak
+    last_name: AEIEP
+address_list:
+  items:
+  - uid: '72804'
+    address1: Ul. Shchepkina D. 25/20
+    address2: Kom. 14
+    city: Moscow
+    postal_code: '129090'
+    country: Russia
+id_list:
+  items:
+  - uid: '39439'
+    id_type: Registration Number
+    id_number: '1027700115574'
+    id_country: Russia
+  - uid: '39440'
+    id_type: Tax ID No.
+    id_number: '7702231308'
+    id_country: Russia
+  - uid: '171331'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

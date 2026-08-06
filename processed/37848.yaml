@@ -1,0 +1,45 @@
+---
+uid: '37848'
+first_name: Tina
+last_name: KANDELAKI
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59478'
+    type: a.k.a.
+    category: strong
+    last_name: KANDELAKI
+    first_name: Tnatin
+address_list:
+  items:
+  - uid: '56714'
+    address1: Krylatskie Holmi St. 37-269
+    city: Moscow
+    postal_code: '121614'
+    country: Russia
+id_list:
+  items:
+  - uid: '27147'
+    id_type: Passport
+    id_number: '757242217'
+    id_country: Russia
+  - uid: '174596'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '152992'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '52991'
+    date_of_birth: 10 Nov 1975
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '52993'
+    place_of_birth: Tblisi, Georgia
+    main_entry: 'true'
+remarks: "(Linked To: BROVKO, Vasily Yuryevich)"

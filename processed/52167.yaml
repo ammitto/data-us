@@ -1,0 +1,34 @@
+---
+uid: '52167'
+last_name: CONMAR MARITIME DMCC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+address_list:
+  items:
+  - uid: '79623'
+    city: Dubai
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '45058'
+    id_type: Commercial Registry Number
+    id_number: '195872'
+    id_country: United Arab Emirates
+  - uid: '45059'
+    id_type: Registration Number
+    id_number: DMCC-874218
+    id_country: United Arab Emirates
+  - uid: '183081'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183245'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '183082'
+    id_type: Organization Established Date
+    id_number: 23 Jan 2023
+remarks: "(Linked To: BLACK PEARL ENERGY TRADING LLC)"

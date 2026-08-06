@@ -1,0 +1,38 @@
+---
+uid: '47251'
+last_name: JOINT STOCK COMPANY QUORUM
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73000'
+    type: a.k.a.
+    category: strong
+    last_name: ZAO AO KVORUM
+address_list:
+  items:
+  - uid: '70383'
+    address1: Per. 2-I Kozhevnicheskii D. 12
+    city: Moscow
+    postal_code: '115114'
+    country: Russia
+  - uid: '70384'
+    address1: Sh. Entuziastov D. 31D
+    city: Moscow
+    postal_code: '111123'
+    country: Russia
+id_list:
+  items:
+  - uid: '37520'
+    id_type: Registration Number
+    id_number: '1027700422628'
+    id_country: Russia
+  - uid: '37521'
+    id_type: Tax ID No.
+    id_number: '7720123993'
+    id_country: Russia
+  - uid: '169890'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

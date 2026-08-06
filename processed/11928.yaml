@@ -1,0 +1,44 @@
+---
+uid: '11928'
+first_name: Ruben
+last_name: ACOSTA IBARRA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '18170'
+    address1: Calle Siete de Abril No. 5
+    address2: Colonia Hidalgo
+    state_or_province: Hidalgo
+    postal_code: C.P. 42500
+    country: Mexico
+id_list:
+  items:
+  - uid: '6373'
+    id_type: C.U.R.P.
+    id_number: AOIR671020HHGCBB02
+    id_country: Mexico
+  - uid: '6374'
+    id_type: Cartilla de Servicio Militar Nacional
+    id_number: B4111940
+    id_country: Mexico
+  - uid: '6375'
+    id_type: Electoral Registry No.
+    id_number: ACIBRB67102013H701
+    id_country: Mexico
+  - uid: '6376'
+    id_type: C.U.I.P.
+    id_number: AOIR671020H1374898
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '7618'
+    date_of_birth: 20 Oct 1967
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '7619'
+    place_of_birth: Acatlan, Hidalgo
+    main_entry: 'true'

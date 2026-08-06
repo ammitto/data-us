@@ -1,0 +1,28 @@
+---
+uid: '57010'
+last_name: NYR SHIPPING CO.
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '87241'
+    address1: Trust Company Complex
+    address2: Ajeltake Road
+    city: Majuro
+    state_or_province: Ajeltake Island
+    postal_code: '96960'
+    country: Marshall Islands
+id_list:
+  items:
+  - uid: '51183'
+    id_type: Identification Number
+    id_number: IMO 0148434
+  - uid: '51184'
+    id_type: Registration Number
+    id_number: '126284'
+    id_country: Marshall Islands
+  - uid: '196208'
+    id_type: Organization Established Date
+    id_number: 31 May 2024

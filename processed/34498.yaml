@@ -1,0 +1,43 @@
+---
+uid: '34498'
+last_name: PUBLIC JOINT STOCK COMPANY INSURANCE COMPANY ROSGOSSTRAKH
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54034'
+    type: a.k.a.
+    category: strong
+    last_name: PJSC IC ROSGOSSTRAKH
+  - uid: '54035'
+    type: a.k.a.
+    category: strong
+    last_name: IC ROSGOSSTRAKH PJSC
+  - uid: '54036'
+    type: a.k.a.
+    category: strong
+    last_name: ROSGOSSTRAKH INSURANCE COMPANY GROUP
+address_list:
+  items:
+  - uid: '51687'
+    address1: dom 3, ulitsa Parkovaya
+    city: Lyubertsy
+    state_or_province: Moscow Oblast
+    postal_code: '140002'
+    country: Russia
+id_list:
+  items:
+  - uid: '24119'
+    id_type: Registration Number
+    id_number: '1027739049689'
+    id_country: Russia
+  - uid: '24120'
+    id_type: Tax ID No.
+    id_number: '7707067683'
+    id_country: Russia
+  - uid: '175125'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: PUBLIC JOINT STOCK COMPANY BANK FINANCIAL CORPORATION OTKRITIE)"

@@ -1,0 +1,42 @@
+---
+uid: '52063'
+first_name: Elkin
+last_name: CASARRUBIA POSADA
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '81530'
+    type: a.k.a.
+    category: weak
+    last_name: Joaquin
+  - uid: '81531'
+    type: a.k.a.
+    category: weak
+    last_name: Cura
+address_list:
+  items:
+  - uid: '79404'
+    country: Colombia
+id_list:
+  items:
+  - uid: '44900'
+    id_type: Cedula No.
+    id_number: '78702064'
+    id_country: Colombia
+  - uid: '182847'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '82844'
+    date_of_birth: 15 Jun 1968
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '82845'
+    place_of_birth: Arboletes, Antioquia, Colombia
+    main_entry: 'true'
+remarks: "(Linked To: CLAN DEL GOLFO)"

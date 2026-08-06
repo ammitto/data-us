@@ -1,0 +1,35 @@
+---
+uid: '13008'
+last_name: DESARROLLOS TURISTICOS FORTIA, S.A. DE C.V.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '20708'
+    address1: Johanes Brahms No. 209
+    address2: Int. 10
+    address3: Col. Residencial La Estancia
+    city: Zapopan
+    state_or_province: Jalisco
+    postal_code: '45030'
+    country: Mexico
+  - uid: '20709'
+    address1: Calzada de los Fresnos
+    address2: No 70-A - 103
+    address3: Col. Ciudad Granja
+    city: Zapopan
+    state_or_province: Jalisco
+    postal_code: '45010'
+    country: Mexico
+id_list:
+  items:
+  - uid: '7425'
+    id_type: R.F.C.
+    id_number: DTF071012189
+    id_country: Mexico
+  - uid: '7426'
+    id_type: Folio Mercantil No.
+    id_number: '39853'
+    id_country: Mexico

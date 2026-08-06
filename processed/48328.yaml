@@ -1,0 +1,47 @@
+---
+uid: '48328'
+first_name: Bashir Ibrahim
+last_name: MANSUR
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '75099'
+    type: a.k.a.
+    category: strong
+    last_name: MANSOUR
+    first_name: Bashir Ibrahim
+address_list:
+  items:
+  - uid: '72502'
+    city: Baabda
+    country: Lebanon
+  - uid: '72504'
+    city: Borj El Brajneh
+    country: Lebanon
+id_list:
+  items:
+  - uid: '170557'
+    id_type: Gender
+    id_number: Male
+  - uid: '170556'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '170801'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
+      Sanctions Regulations
+date_of_birth_list:
+  items:
+  - uid: '70558'
+    date_of_birth: '09 Feb 1980'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '70560'
+    place_of_birth: Lebanon
+    main_entry: 'true'
+remarks: "(Linked To: CTEX EXCHANGE)"

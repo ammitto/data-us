@@ -1,0 +1,59 @@
+---
+uid: '54234'
+first_name: Mansour
+last_name: ZARRINGHALAM
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '84460'
+    type: a.k.a.
+    category: strong
+    last_name: ZARRIN GHALAM
+    first_name: Mansour
+  - uid: '84461'
+    type: a.k.a.
+    category: strong
+    last_name: ZARRIN GHALAM
+    first_name: Mansur
+address_list:
+  items:
+  - uid: '82831'
+    city: Tehran
+    country: Iran
+  - uid: '82832'
+    city: Dubai
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '47766'
+    id_type: Passport
+    id_number: R0052384
+    id_country: Saint Kitts and Nevis
+    expiration_date: 16 Nov 2021
+  - uid: '47768'
+    id_type: National ID No.
+    id_number: '4579852826'
+    id_country: Iran
+  - uid: '47769'
+    id_type: Passport
+    id_number: Y53912417
+    id_country: Iran
+  - uid: '189950'
+    id_type: Gender
+    id_number: Male
+  - uid: '190037'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '89953'
+    date_of_birth: 22 Mar 1963
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '89951'
+    place_of_birth: Damghan, Iran
+    main_entry: 'true'

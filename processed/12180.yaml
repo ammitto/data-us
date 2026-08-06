@@ -1,0 +1,40 @@
+---
+uid: '12180'
+first_name: Jose Luis
+last_name: RODARTE GRIJALVA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '18619'
+    address1: Calle Sierra del Pulpito No. 3206
+    address2: Colonia Hacienda de Santa Fe
+    city: Chihuahua
+    state_or_province: Chihuahua
+    country: Mexico
+  - uid: '18620'
+    city: Fraccionamiento Juarez
+    state_or_province: Chihuahua
+    country: Mexico
+id_list:
+  items:
+  - uid: '6587'
+    id_type: C.U.R.P.
+    id_number: ROGL600501HCHDRS06
+    id_country: Mexico
+  - uid: '6588'
+    id_type: R.F.C.
+    id_number: ROGJ-600501
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '7908'
+    date_of_birth: 01 May 1960
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '7909'
+    place_of_birth: Delicias, Chihuahua, Mexico
+    main_entry: 'true'

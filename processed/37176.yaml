@@ -1,0 +1,51 @@
+---
+uid: '37176'
+last_name: CENTRAL ELECTION COMMISSION OF THE RUSSIAN FEDERATION
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '58308'
+    type: a.k.a.
+    category: strong
+    last_name: TSENTRALNAYA IZBIRATELNAYA KOMISSIYA ROSSIISKOI FEDERATSII
+  - uid: '58309'
+    type: a.k.a.
+    category: strong
+    last_name: TSENTRIZBIRKOM
+  - uid: '58310'
+    type: a.k.a.
+    category: strong
+    last_name: TSIK ROSSII
+address_list:
+  items:
+  - uid: '55604'
+    address1: Bolshoy Cherkassky Pereulok, Building 9
+    city: Moscow
+    postal_code: '109012'
+    country: Russia
+id_list:
+  items:
+  - uid: '26476'
+    id_type: Tax ID No.
+    id_number: '7710010990'
+    id_country: Russia
+  - uid: '26477'
+    id_type: Registration Number
+    id_number: '1027700466640'
+    id_country: Russia
+  - uid: '26478'
+    id_type: Government Gazette Number
+    id_number: '00065650'
+    id_country: Russia
+  - uid: '151648'
+    id_type: Organization Established Date
+    id_number: 20 Dec 1993
+  - uid: '151649'
+    id_type: Target Type
+    id_number: Government Entity
+  - uid: '174515'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

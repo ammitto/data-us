@@ -1,0 +1,46 @@
+---
+uid: '44262'
+last_name: JOINT STOCK COMPANY COMMERCIAL BANK SOLIDARNOST
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '65890'
+    address1: Ul. Kubysheva D. 90
+    city: Samara
+    postal_code: '443099'
+    country: Russia
+id_list:
+  items:
+  - uid: '33696'
+    id_type: Registration Number
+    id_number: '1026300001848'
+    id_country: Russia
+  - uid: '33697'
+    id_type: Tax ID No.
+    id_number: '6316028910'
+    id_country: Russia
+  - uid: '33701'
+    id_type: Legal Entity Number
+    id_number: 253400V4HY4PH2NE7E79
+  - uid: '33702'
+    id_type: Identification Number
+    id_number: BE8HW8.99999.SL.643
+    id_country: Russia
+  - uid: '163925'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '175818'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '163922'
+    id_type: SWIFT/BIC
+    id_number: SLDRRU3S
+  - uid: '163923'
+    id_type: Website
+    id_number: www.solid.ru
+  - uid: '163921'
+    id_type: Organization Established Date
+    id_number: 23 Oct 1990

@@ -1,0 +1,39 @@
+---
+uid: '47713'
+last_name: LIMITED LIABILITY COMPANY TRIMIX
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73960'
+    type: a.k.a.
+    category: weak
+    last_name: 3MX
+  - uid: '73976'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTIU 3MKH
+address_list:
+  items:
+  - uid: '71345'
+    address1: 16, litera A
+    address2: Ul. Khoshimina
+    address3: Pomeshch. 2-n of. 3.1.17
+    city: St. Petersburg
+    postal_code: '194358'
+    country: Russia
+id_list:
+  items:
+  - uid: '38356'
+    id_type: Registration Number
+    id_number: '1237800084235'
+    id_country: Russia
+  - uid: '38357'
+    id_type: Tax ID No.
+    id_number: '7802942873'
+    id_country: Russia
+  - uid: '169653'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

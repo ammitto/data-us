@@ -1,0 +1,43 @@
+---
+uid: '45713'
+last_name: LIMITED LIABILITY COMPANY ALABUGA MACHINERY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70621'
+    type: a.k.a.
+    category: strong
+    last_name: LLC ALABUGA MACHINERY
+address_list:
+  items:
+  - uid: '67969'
+    address1: Ter. OEZ Alabuga, ul. Sh-2, 5/12
+    address2: Pomeshch. 110
+    city: Yelabuga
+    state_or_province: Volga federal region, Tatarstan
+    country: Russia
+id_list:
+  items:
+  - uid: '35413'
+    id_type: Tax ID No.
+    id_number: '1674003000'
+    id_country: Russia
+  - uid: '35414'
+    id_type: Registration Number
+    id_number: '1221600079623'
+    id_country: Russia
+  - uid: '35415'
+    id_type: Registration Number
+    id_number: '78358398'
+    id_country: Russia
+  - uid: '176013'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '166286'
+    id_type: Organization Established Date
+    id_number: 03 Oct 2022
+remarks: "(Linked To: JOINT STOCK COMPANY SPECIAL ECONOMIC ZONE OF INDUSTRIAL PRODUCTION
+  ALABUGA)"

@@ -1,0 +1,34 @@
+---
+uid: '40815'
+last_name: LIMITED LIABILITY COMPANY AKTIV R
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63504'
+    type: a.k.a.
+    category: strong
+    last_name: AKTIV R OOO
+address_list:
+  items:
+  - uid: '60851'
+    address1: vn.ter.g. munitsipalny okrug Krylatskoe
+    address2: ul. Osennyaya, d. 23
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '30033'
+    id_type: Tax ID No.
+    id_number: '9731086458'
+    id_country: Russia
+  - uid: '30034'
+    id_type: Registration Number
+    id_number: '1217700603713'
+    id_country: Russia
+  - uid: '174154'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: UDODOV, Aleksandr Yevgenyevich)"

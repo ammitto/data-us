@@ -1,0 +1,28 @@
+---
+uid: '15061'
+last_name: HEDY
+sdn_type: Vessel
+program_list:
+  programs:
+  - IRAN
+aka_list:
+  items:
+  - uid: '40657'
+    type: f.k.a.
+    category: strong
+    last_name: HUWAYZEH
+id_list:
+  items:
+  - uid: '8070'
+    id_type: Vessel Registration Identification
+    id_number: IMO 9212888
+  - uid: '8139'
+    id_type: MMSI
+    id_number: '256869000'
+  - uid: '113482'
+    id_type: Former Vessel Flag
+    id_number: Malta
+  - uid: '119300'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: NATIONAL IRANIAN TANKER COMPANY)"

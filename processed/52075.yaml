@@ -1,0 +1,40 @@
+---
+uid: '52075'
+first_name: Andrejs
+last_name: BRADENS
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '81553'
+    type: a.k.a.
+    category: strong
+    last_name: CARENOKS
+    first_name: Andrejs
+address_list:
+  items:
+  - uid: '79427'
+    address1: 55 Riding House Street
+    address2: Ground Floor
+    city: London
+    postal_code: W1W7EE
+    country: United Kingdom
+id_list:
+  items:
+  - uid: '44917'
+    id_type: Passport
+    id_number: LV6327440
+    id_country: Latvia
+  - uid: '182901'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '182899'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '82958'
+    date_of_birth: '09 Sep 1962'
+    main_entry: 'true'

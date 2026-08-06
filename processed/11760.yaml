@@ -1,0 +1,39 @@
+---
+uid: '11760'
+first_name: Duffay
+last_name: GUTIERREZ AGUIRRE
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNT
+aka_list:
+  items:
+  - uid: '12551'
+    type: a.k.a.
+    category: weak
+    last_name: EL GORDO DUFFAY
+address_list:
+  items:
+  - uid: '17796'
+    city: Bogota
+    country: Colombia
+id_list:
+  items:
+  - uid: '6144'
+    id_type: Cedula No.
+    id_number: '14892384'
+    id_country: Colombia
+  - uid: '6145'
+    id_type: Matricula Mercantil No
+    id_number: '01302280'
+    id_country: Colombia
+date_of_birth_list:
+  items:
+  - uid: '7280'
+    date_of_birth: 16 Sep 1968
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '7281'
+    place_of_birth: Buga, Valle, Colombia
+    main_entry: 'true'

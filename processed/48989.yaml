@@ -1,0 +1,74 @@
+---
+uid: '48989'
+last_name: TEKHNOLOGIYA, OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK
+aka_list:
+  items:
+  - uid: '76328'
+    type: a.k.a.
+    category: weak
+    last_name: TECHNOLOGY LIMITED LIABILITY COMPANY
+  - uid: '76329'
+    type: a.k.a.
+    category: weak
+    last_name: TECHNOLOGY LLC
+  - uid: '76335'
+    type: a.k.a.
+    category: weak
+    last_name: TECHNOLOGY COMPANY LIMITED
+  - uid: '76336'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU TEKHNOLOGIYA
+address_list:
+  items:
+  - uid: '73680'
+    address1: Building 2, Sadovniki Street, Nagatino-Sadovniki Municipal District
+    city: Moscow
+    postal_code: '115487'
+    country: Russia
+  - uid: '73681'
+    address1: Part of Room 453, Letter A, Housing 2, Building 11, Staroderevenskaya
+      Street
+    city: Saint Petersburg
+    postal_code: '197374'
+    country: Russia
+  - uid: '73682'
+    address1: Letter A, Office 402, Building 5, Aleksandr Blok Street
+    city: Saint Petersburg
+    postal_code: '190121'
+    country: Russia
+  - uid: '73703'
+    address1: Apartment 7, Building 21, Mashkova Street, Basmanniy Municipal District
+    city: Moscow
+    postal_code: '101000'
+    country: Russia
+id_list:
+  items:
+  - uid: '40057'
+    id_type: Business Registration Number
+    id_number: '1089847320188'
+    id_country: Russia
+    issue_date: 14 Aug 2008
+  - uid: '40058'
+    id_type: Tax ID No.
+    id_number: '7839388531'
+    id_country: Russia
+  - uid: '40063'
+    id_type: Government Gazette Number
+    id_number: '87375823'
+    id_country: Russia
+  - uid: '171814'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '171815'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '171843'
+    id_type: Organization Established Date
+    id_number: 14 Aug 2008
+remarks: "(Linked To: BUDNEV, Aleksey)"

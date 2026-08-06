@@ -1,0 +1,34 @@
+---
+uid: '15475'
+last_name: EP-MOE
+sdn_type: Aircraft
+program_list:
+  programs:
+  - SDGT
+  - NPWMD
+  - IFSR
+id_list:
+  items:
+  - uid: '133516'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '112485'
+    id_type: Aircraft Construction Number (also called L/N or S/N or F/N)
+    id_number: '129'
+  - uid: '112486'
+    id_type: Aircraft Manufacture Date
+    id_number: 24 May 1989
+  - uid: '112488'
+    id_type: Aircraft Model
+    id_number: B.146-300
+  - uid: '112489'
+    id_type: Aircraft Operator
+    id_number: MAHAN AIR
+  - uid: '112487'
+    id_type: Aircraft Manufacturer's Serial Number (MSN)
+    id_number: '3129'
+  - uid: '186158'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: "(Linked To: MAHAN AIR)"

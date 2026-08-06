@@ -1,0 +1,29 @@
+---
+uid: '36657'
+first_name: Ivan Aleksandrovich
+last_name: ZAVOROTNYI
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '56119'
+    country: Russia
+id_list:
+  items:
+  - uid: '26136'
+    id_type: Tax ID No.
+    id_number: '772205260688'
+    id_country: Russia
+  - uid: '174253'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '152399'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '52400'
+    date_of_birth: 22 Oct 1979
+    main_entry: 'true'

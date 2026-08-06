@@ -1,0 +1,36 @@
+---
+uid: '48613'
+last_name: BIMLOGIC LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75588'
+    type: a.k.a.
+    category: strong
+    last_name: BIMLOGIC LLC
+address_list:
+  items:
+  - uid: '72991'
+    address1: PR-KT Narodnogo Opolcheniya D. 10, Lit. A, Pomeshch. 238-N, Office 238L
+    city: Saint Petersburg
+    postal_code: '198216'
+    country: Russia
+id_list:
+  items:
+  - uid: '39584'
+    id_type: Tax ID No.
+    id_number: '7807255955'
+    id_country: Russia
+  - uid: '39585'
+    id_type: Registration Number
+    id_number: '1227800047200'
+    id_country: Russia
+  - uid: '170919'
+    id_type: Organization Established Date
+    id_number: 14 Apr 2022
+  - uid: '176626'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

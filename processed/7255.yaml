@@ -1,0 +1,46 @@
+---
+uid: '7255'
+first_name: Mehdi
+last_name: KAMMOUN
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '8857'
+    type: a.k.a.
+    category: strong
+    last_name: KAMMOUN
+    first_name: Mehdi Ben Mohamed Ben Mohamed
+address_list:
+  items:
+  - uid: '5513'
+    address1: Via Masina n.7
+    city: Milan
+    country: Italy
+id_list:
+  items:
+  - uid: '4064'
+    id_type: Passport
+    id_number: M307707
+    issue_date: 12 Apr 2000
+    expiration_date: 11 Apr 2005
+  - uid: '48772'
+    id_type: Italian Fiscal Code
+    id_number: KMMMHD68D03Z352N
+    id_country: Italy
+  - uid: '185671'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '1450'
+    date_of_birth: 03 Apr 1968
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '1451'
+    place_of_birth: Tunis, Tunisia
+    main_entry: 'true'

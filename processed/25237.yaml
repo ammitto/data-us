@@ -1,0 +1,73 @@
+---
+uid: '25237'
+last_name: IRAN AIR
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN
+  - IRAN-CON-ARMS-EO
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '39781'
+    type: a.k.a.
+    category: strong
+    last_name: IRANAIR
+  - uid: '39782'
+    type: a.k.a.
+    category: strong
+    last_name: IRAN AIR PJSC
+  - uid: '39783'
+    type: a.k.a.
+    category: weak
+    last_name: HOMA
+  - uid: '39784'
+    type: a.k.a.
+    category: strong
+    last_name: THE AIRLINE OF THE ISLAMIC REPUBLIC OF IRAN
+  - uid: '39785'
+    type: a.k.a.
+    category: strong
+    last_name: IRANAIR CARGO
+  - uid: '39786'
+    type: a.k.a.
+    category: strong
+    last_name: HAVAPEYMAYI MELLI IRAN
+address_list:
+  items:
+  - uid: '38216'
+    address1: Iran Air Building, Mehrabad Airport
+    city: Tehran
+    country: Iran
+  - uid: '38217'
+    address1: Postal Box 13185-775
+    city: Tehran
+    country: Iran
+  - uid: '38218'
+    address1: Central Airlines Department of the Islamic Republic of Iran
+    address2: Tehran Karaj Special Road
+    address3: Beginning of Mehrabad International Airport
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '16301'
+    id_type: National ID No.
+    id_number: '10100354259'
+    id_country: Iran
+  - uid: '16302'
+    id_type: Registration Number
+    id_number: '8132'
+    id_country: Iran
+  - uid: '128529'
+    id_type: Website
+    id_number: www.iranair.com
+  - uid: '128530'
+    id_type: Website
+    id_number: www.iranair.co.ir
+  - uid: '128531'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '179072'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

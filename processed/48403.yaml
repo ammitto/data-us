@@ -1,0 +1,43 @@
+---
+uid: '48403'
+last_name: OCEANLINK MARITIME DMCC
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+  - IFSR
+address_list:
+  items:
+  - uid: '72613'
+    address1: Unit 2808, Plot JLT-PH1-F2A, HDS Tower, Jumeirah Lakes Towers
+    city: Dubai
+    country: United Arab Emirates
+  - uid: '72614'
+    address1: Unit AG-11-H, AG Tower, Plot JLT-PH1-I1A, Jumeirah Lakes Towers
+    city: Dubai
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '39270'
+    id_type: Registration Number
+    id_number: DMCC196521
+    id_country: United Arab Emirates
+  - uid: '39271'
+    id_type: Trade License No.
+    id_number: DMCC-881270
+    id_country: United Arab Emirates
+  - uid: '39272'
+    id_type: Trade License No.
+    id_number: DMCC-881271
+    id_country: United Arab Emirates
+  - uid: '39273'
+    id_type: Identification Number
+    id_number: IMO 6450979
+  - uid: '170680'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '170679'
+    id_type: Organization Established Date
+    id_number: 17 Mar 2023
+remarks: "(Linked To: SEPEHR ENERGY JAHAN NAMA PARS COMPANY)"

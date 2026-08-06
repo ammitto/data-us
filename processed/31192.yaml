@@ -1,0 +1,55 @@
+---
+uid: '31192'
+first_name: Saleh Mesfer
+last_name: ALSHAER
+sdn_type: Individual
+program_list:
+  programs:
+  - YEMEN
+aka_list:
+  items:
+  - uid: '49053'
+    type: a.k.a.
+    category: weak
+    last_name: ABU YASSER
+  - uid: '49054'
+    type: a.k.a.
+    category: strong
+    last_name: ALSHAER
+    first_name: Saleh Mesfer Saleh
+  - uid: '49055'
+    type: a.k.a.
+    category: strong
+    last_name: AL-SHAER
+    first_name: Salih Misfer
+  - uid: '50969'
+    type: a.k.a.
+    category: strong
+    last_name: AL-SHAER
+    first_name: Saleh
+address_list:
+  items:
+  - uid: '47144'
+    city: Sana'a
+    country: Yemen
+id_list:
+  items:
+  - uid: '139620'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '42060'
+    date_of_birth: '1965'
+    main_entry: 'true'
+  - uid: '42061'
+    date_of_birth: '1966'
+    main_entry: 'false'
+  - uid: '42062'
+    date_of_birth: '1967'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '39621'
+    place_of_birth: Razih District, Saada Governorate, Yemen
+    main_entry: 'true'

@@ -1,0 +1,36 @@
+---
+uid: '35199'
+last_name: JSC PKK MILANDR
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '60633'
+    type: a.k.a.
+    category: strong
+    last_name: JSC ICC MILANDR
+address_list:
+  items:
+  - uid: '52869'
+    address1: Georgievskiy Prospekt, 5, Zelenograd
+    city: Moscow
+    postal_code: '124498'
+    country: Russia
+id_list:
+  items:
+  - uid: '28060'
+    id_type: Tax ID No.
+    id_number: '7735040690'
+    id_country: Russia
+  - uid: '28942'
+    id_type: Registration Number
+    id_number: '1027739083921'
+    id_country: Russia
+  - uid: '175287'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '156179'
+    id_type: Organization Established Date
+    id_number: '1993'

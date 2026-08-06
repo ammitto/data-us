@@ -1,0 +1,44 @@
+---
+uid: '40880'
+last_name: BUSHEHR PETROCHEMICAL COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13846
+aka_list:
+  items:
+  - uid: '63641'
+    type: a.k.a.
+    category: weak
+    last_name: BUPC
+address_list:
+  items:
+  - uid: '60974'
+    address1: No. 7, 3rd and 4th Floor, Sattarkhan St., Habib Elah St., Metolian Blvd.
+    city: Tehran
+    postal_code: '1455693916'
+    country: Iran
+  - uid: '60975'
+    address1: Pars Energy Special Economic Zone, Petrochemical Complexes Phase II
+    city: Asalouye
+    state_or_province: Bushehr
+    postal_code: '7511811374'
+    country: Iran
+  - uid: '60976'
+    address1: Asli Neighborhood, Asli Road Street, Nakhl Taqi's 15 Kilometer Road,
+      Number 0, Ground Floor, Nakhl Taqi
+    city: Bushehr
+    postal_code: '7511811374'
+    country: Iran
+id_list:
+  items:
+  - uid: '30143'
+    id_type: Company Number
+    id_number: '10101920878'
+    id_country: Iran
+  - uid: '158461'
+    id_type: 'Executive Order 13846 information:'
+    id_number: BLOCKING PROPERTY AND INTERESTS IN PROPERTY.  Sec. 5(a)(iv)
+  - uid: '158485'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

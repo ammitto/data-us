@@ -1,0 +1,44 @@
+---
+uid: '20286'
+last_name: OOO 'STG-EKO'
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13685
+aka_list:
+  items:
+  - uid: '32033'
+    type: a.k.a.
+    category: strong
+    last_name: "'STG-EKO' LLC"
+address_list:
+  items:
+  - uid: '30676'
+    address1: Street Zastavskaya Building 22
+    address2: Part A
+    city: Saint Petersburg
+    postal_code: '196084'
+    country: Russia
+id_list:
+  items:
+  - uid: '12540'
+    id_type: Tax ID No.
+    id_number: '7816458415'
+    id_country: Russia
+  - uid: '12541'
+    id_type: Registration ID
+    id_number: '1097847009215'
+    id_country: Russia
+  - uid: '143871'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '120778'
+    id_type: Website
+    id_number: http://www.stg-eco.ru/
+  - uid: '120776'
+    id_type: Email Address
+    id_number: info@stg-eco.ru
+  - uid: '120777'
+    id_type: Email Address
+    id_number: info.rb@stg-eco.ru

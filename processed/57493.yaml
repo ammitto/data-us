@@ -1,0 +1,48 @@
+---
+uid: '57493'
+first_name: Pedram
+last_name: PIROUZAN
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '88134'
+    country: United Arab Emirates
+  - uid: '88135'
+    country: Iran
+id_list:
+  items:
+  - uid: '51850'
+    id_type: National ID No.
+    id_number: '0082944581'
+    id_country: Iran
+  - uid: '51851'
+    id_type: Residency Number
+    id_number: '219422862'
+    id_country: United Arab Emirates
+  - uid: '51852'
+    id_type: Identification Number
+    id_number: '784198696733694'
+    id_country: United Arab Emirates
+  - uid: '51853'
+    id_type: Passport
+    id_number: RA037754
+    id_country: Dominica
+  - uid: '197762'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '197690'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '97688'
+    date_of_birth: 26 Feb 1986
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '97689'
+    place_of_birth: Iran
+    main_entry: 'true'

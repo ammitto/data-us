@@ -1,0 +1,59 @@
+---
+uid: '46469'
+first_name: Nizar Mohammed
+last_name: AWADALLAH
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '71699'
+    type: a.k.a.
+    category: weak
+    last_name: AWAD ALLAH, Nizar
+  - uid: '71700'
+    type: a.k.a.
+    category: strong
+    last_name: AWADALLAH
+    first_name: Nizar M
+  - uid: '71701'
+    type: a.k.a.
+    category: strong
+    last_name: AWADALLAH
+    first_name: Nizar Bin Mohammed
+  - uid: '71702'
+    type: a.k.a.
+    category: strong
+    last_name: AWADALLAH
+    first_name: Nazar Muhammad Mahmud
+address_list:
+  items:
+  - uid: '69114'
+    address1: Sheikh Radwad
+    city: Gaza City
+    country: 'Region: Gaza'
+id_list:
+  items:
+  - uid: '36355'
+    id_type: National ID No.
+    id_number: '931005433'
+    id_country: Palestinian
+  - uid: '167262'
+    id_type: Gender
+    id_number: Male
+  - uid: '167264'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '67261'
+    date_of_birth: 11 Dec 1957
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '67260'
+    place_of_birth: Gaza Strip
+    main_entry: 'true'
+remarks: "(Linked To: HAMAS)"

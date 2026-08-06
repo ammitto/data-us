@@ -1,0 +1,35 @@
+---
+uid: '52201'
+last_name: LIMITED LIABILITY COMPANY LOGIK AY SI
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '81753'
+    type: a.k.a.
+    category: weak
+    last_name: LIMITED LIABILITY COMPANY LOGIK
+address_list:
+  items:
+  - uid: '79701'
+    address1: Office 317 P.M. 1, Suite 2N
+    address2: Letter L, Building 6
+    address3: 32 19-ya Liniya V.O.
+    city: Saint Petersburg
+    postal_code: '199106'
+    country: Russia
+id_list:
+  items:
+  - uid: '45116'
+    id_type: Registration Number
+    id_number: '1207800097889'
+    id_country: Russia
+  - uid: '45117'
+    id_type: Tax ID No.
+    id_number: '7801686049'
+    id_country: Russia
+  - uid: '183137'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

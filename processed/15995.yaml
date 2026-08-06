@@ -1,0 +1,30 @@
+---
+uid: '15995'
+last_name: UR-CJW
+sdn_type: Aircraft
+program_list:
+  programs:
+  - SDGT
+  - IFSR
+  - NPWMD
+id_list:
+  items:
+  - uid: '133543'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '186704'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '113630'
+    id_type: Aircraft Construction Number (also called L/N or S/N or F/N)
+    id_number: '358'
+  - uid: '113631'
+    id_type: Aircraft Manufacture Date
+    id_number: 12 Sep 1999
+  - uid: '113633'
+    id_type: Aircraft Model
+    id_number: BAe-146 Avro RJ100
+  - uid: '113632'
+    id_type: Aircraft Manufacturer's Serial Number (MSN)
+    id_number: '3358'

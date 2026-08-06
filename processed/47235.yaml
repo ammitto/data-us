@@ -1,0 +1,45 @@
+---
+uid: '47235'
+last_name: MARITIME JOINT STOCK BANK JOINT STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '72972'
+    type: a.k.a.
+    category: strong
+    last_name: MARITIME BANK
+address_list:
+  items:
+  - uid: '70349'
+    address1: Room 1/5, Varshavskoe Highway, Building 1a
+    city: Moscow
+    postal_code: '117105'
+    country: Russia
+id_list:
+  items:
+  - uid: '37488'
+    id_type: Registration Number
+    id_number: '1027700568224'
+    id_country: Russia
+  - uid: '37489'
+    id_type: Tax ID No.
+    id_number: '7714060199'
+    id_country: Russia
+  - uid: '37490'
+    id_type: Legal Entity Number
+    id_number: 253400UQS2QLH2209P60
+  - uid: '176377'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '168582'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '168584'
+    id_type: SWIFT/BIC
+    id_number: MJSBRUMM
+  - uid: '168581'
+    id_type: Website
+    id_number: www.maritimebank.com

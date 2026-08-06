@@ -1,0 +1,47 @@
+---
+uid: '50502'
+first_name: Viktor Georgiyevich
+last_name: SPIRIDONOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78936'
+    type: a.k.a.
+    category: strong
+    last_name: SPIRIDONOV
+    first_name: Victor
+address_list:
+  items:
+  - uid: '76570'
+    country: Russia
+id_list:
+  items:
+  - uid: '42304'
+    id_type: Passport
+    id_number: '510217313'
+    id_country: Russia
+  - uid: '42305'
+    id_type: Passport
+    id_number: '725913360'
+    id_country: Russia
+    expiration_date: 22 Aug 2023
+  - uid: '178565'
+    id_type: Gender
+    id_number: Male
+  - uid: '178566'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '78562'
+    date_of_birth: 28 Sep 1947
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '78563'
+    place_of_birth: Russia
+    main_entry: 'true'
+remarks: "(Linked To: TECHNOPOLE COMPANY)"

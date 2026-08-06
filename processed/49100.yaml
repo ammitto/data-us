@@ -1,0 +1,30 @@
+---
+uid: '49100'
+first_name: Bertrand
+last_name: BISIMWA
+sdn_type: Individual
+program_list:
+  programs:
+  - DRCONGO
+address_list:
+  items:
+  - uid: '75162'
+    state_or_province: North Kivu
+    country: Congo, Democratic Republic of the
+  - uid: '75163'
+    country: Uganda
+id_list:
+  items:
+  - uid: '177068'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '77067'
+    date_of_birth: '08 Sep 1972'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '77070'
+    place_of_birth: Bukavu, South Kivu, Congo, Democratic Republic of the
+    main_entry: 'true'

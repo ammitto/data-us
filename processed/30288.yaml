@@ -1,0 +1,64 @@
+---
+uid: '30288'
+first_name: Shih Mei
+last_name: SUN
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '47488'
+    type: a.k.a.
+    category: strong
+    last_name: SUN
+    first_name: Amber
+  - uid: '47563'
+    type: a.k.a.
+    category: strong
+    last_name: SUN
+    first_name: Shi Mei
+  - uid: '47564'
+    type: a.k.a.
+    category: strong
+    last_name: SUN
+    first_name: Shi-Mei
+  - uid: '47565'
+    type: a.k.a.
+    category: strong
+    last_name: SUN
+    first_name: Shih-Mei
+address_list:
+  items:
+  - uid: '45725'
+    address1: No. 12, Lane 85, Zhengyi Rd., Zhongli, Taoyuan
+    postal_code: '325'
+    country: Taiwan
+id_list:
+  items:
+  - uid: '20396'
+    id_type: National ID No.
+    id_number: V220335470
+    id_country: Taiwan
+  - uid: '20397'
+    id_type: Passport
+    id_number: '211104130'
+    id_country: Taiwan
+  - uid: '137804'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '137808'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '37805'
+    date_of_birth: 23 Mar 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '37806'
+    place_of_birth: Taitung, Taiwan
+    main_entry: 'true'
+remarks: "(Linked To: DES INTERNATIONAL CO., LTD.)"

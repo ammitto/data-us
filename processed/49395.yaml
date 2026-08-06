@@ -1,0 +1,38 @@
+---
+uid: '49395'
+last_name: JOINT STOCK COMPANY ALEKSINSKII OPYTNYI MEHANICHESKII ZAVOD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77043'
+    type: a.k.a.
+    category: weak
+    last_name: AO AOMZ
+  - uid: '77044'
+    type: a.k.a.
+    category: strong
+    last_name: ALEKSINSKY EXPERIMENTAL MECHANICAL PLANT
+address_list:
+  items:
+  - uid: '74456'
+    address1: ul. Metallistov
+    address2: D. 10
+    city: Aleksin
+    postal_code: '301365'
+    country: Russia
+id_list:
+  items:
+  - uid: '40671'
+    id_type: Tax ID No.
+    id_number: '7111504768'
+    id_country: Russia
+  - uid: '40672'
+    id_type: Registration Number
+    id_number: '1127154040122'
+    id_country: Russia
+  - uid: '172470'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

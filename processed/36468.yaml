@@ -1,0 +1,42 @@
+---
+uid: '36468'
+last_name: OOO TORGOVY DOM ASBEST
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '57512'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU TD ASBEST
+address_list:
+  items:
+  - uid: '54828'
+    address1: d. 37 k. A ofis 20, ul. Rigachina
+    city: Petrozavodsk
+    state_or_province: Kareliya Resp.
+    postal_code: '185005'
+    country: Russia
+id_list:
+  items:
+  - uid: '25914'
+    id_type: Tax ID No.
+    id_number: '1001299770'
+    id_country: Russia
+  - uid: '25915'
+    id_type: Registration Number
+    id_number: '1151001009972'
+    id_country: Russia
+  - uid: '25916'
+    id_type: Government Gazette Number
+    id_number: '12859420'
+    id_country: Russia
+  - uid: '150210'
+    id_type: Organization Established Date
+    id_number: 12 Aug 2015
+  - uid: '174225'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: BITRIVER AG)"

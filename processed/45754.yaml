@@ -1,0 +1,36 @@
+---
+uid: '45754'
+last_name: JSC KOMPOZIT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70690'
+    type: a.k.a.
+    category: strong
+    last_name: AO KOMPOZIT
+address_list:
+  items:
+  - uid: '68068'
+    address1: Ul. Pionerskaya D. 4
+    city: Korolev
+    postal_code: '141074'
+    country: Russia
+id_list:
+  items:
+  - uid: '35484'
+    id_type: Registration Number
+    id_number: '1025002043813'
+    id_country: Russia
+  - uid: '35485'
+    id_type: Tax ID No.
+    id_number: '5018078448'
+    id_country: Russia
+  - uid: '176035'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '166343'
+    id_type: Organization Established Date
+    id_number: 28 Jan 2002

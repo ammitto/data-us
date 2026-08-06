@@ -1,0 +1,36 @@
+---
+uid: '47527'
+last_name: METAL SPRINT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73576'
+    type: a.k.a.
+    category: strong
+    last_name: METALL SPRINT
+address_list:
+  items:
+  - uid: '70955'
+    address1: Ul. Elektrozavodskaya D. 21, Pomeshch. Lxxi Floor 2 Komn 38
+    city: Moscow
+    postal_code: '107023'
+    country: Russia
+id_list:
+  items:
+  - uid: '38024'
+    id_type: Registration Number
+    id_number: '1197746170126'
+    id_country: Russia
+  - uid: '38025'
+    id_type: Tax ID No.
+    id_number: '9731032477'
+    id_country: Russia
+  - uid: '169750'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '170092'
+    id_type: 'Organization Type:'
+    id_number: Manufacture of other fabricated metal products n.e.c.

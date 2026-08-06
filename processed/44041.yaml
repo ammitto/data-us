@@ -1,0 +1,48 @@
+---
+uid: '44041'
+last_name: JOINT STOCK COMPANY EXPERIMENTAL DESIGN BUREAU FAKEL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '68118'
+    type: a.k.a.
+    category: strong
+    last_name: AO OKB FAKEL
+  - uid: '68119'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO OPYTNOE KONSTRUKTORSKOE BYURO FAKEL
+  - uid: '68120'
+    type: a.k.a.
+    category: strong
+    last_name: JSC EDB FAKEL
+address_list:
+  items:
+  - uid: '65556'
+    address1: Moskovskii PR D. 181
+    city: Kaliningrad
+    postal_code: '236001'
+    country: Russia
+id_list:
+  items:
+  - uid: '33443'
+    id_type: Registration Number
+    id_number: '1203900004670'
+    id_country: Russia
+  - uid: '33444'
+    id_type: Tax ID No.
+    id_number: '3906390669'
+    id_country: Russia
+  - uid: '33445'
+    id_type: Government Gazette Number
+    id_number: '44161069'
+    id_country: Russia
+  - uid: '163628'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
+  - uid: '175748'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

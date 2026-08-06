@@ -1,0 +1,60 @@
+---
+uid: '7169'
+first_name: Jose Alejandro
+last_name: GIL GARCIA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '5353'
+    address1: Avenida Ejercito Trigarante 7865-J, Infonavit Cuchanilla 22680
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '5354'
+    address1: Avenida Altabrisa 15401, Fraccionamiento Altabrisa, Otay Universidad
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '5355'
+    address1: c/o Farmacia Vida Suprema, S.A. DE C.V.
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '5356'
+    address1: c/o Distribuidora Imperial De Baja California, S.A. de C.V.
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '5357'
+    address1: c/o Administradora De Inmuebles Vida, S.A. de C.V.
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '5358'
+    address1: c/o ADP, S.C.
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+id_list:
+  items:
+  - uid: '1544'
+    id_type: R.F.C.
+    id_number: GIGA-520122
+    id_country: Mexico
+  - uid: '3334'
+    id_type: Credencial electoral
+    id_number: '103624690069'
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '1332'
+    date_of_birth: 22 Jan 1952
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '1333'
+    place_of_birth: Culiacan, Sinaloa, Mexico
+    main_entry: 'true'

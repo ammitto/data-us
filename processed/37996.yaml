@@ -1,0 +1,45 @@
+---
+uid: '37996'
+first_name: Viktor Filippovich
+last_name: RASHNIKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59707'
+    type: a.k.a.
+    category: strong
+    last_name: RASHNIKOV
+    first_name: Victor
+address_list:
+  items:
+  - uid: '56984'
+    city: Magnitogorsk
+    country: Russia
+id_list:
+  items:
+  - uid: '27316'
+    id_type: Tax ID No.
+    id_number: '744401267500'
+    id_country: Russia
+  - uid: '176881'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '153271'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '53267'
+    date_of_birth: 13 Oct 1948
+    main_entry: 'true'
+  - uid: '53268'
+    date_of_birth: 03 Oct 1948
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '53269'
+    place_of_birth: Magnitogorsk, Russia
+    main_entry: 'true'

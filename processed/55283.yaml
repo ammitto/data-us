@@ -1,0 +1,61 @@
+---
+uid: '55283'
+last_name: BEH JOULE PARS COMMERCIAL ENGINEERING COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '86033'
+    type: a.k.a.
+    category: strong
+    last_name: BEH JOULE PARS TRADING AND ENGINEERING COMPANY
+  - uid: '86034'
+    type: a.k.a.
+    category: strong
+    last_name: BEH JOULE PARS ENGINEERING AND TRADING COMPANY
+  - uid: '86035'
+    type: a.k.a.
+    category: strong
+    last_name: FARAZ ALBORZ COMMERCIAL ENGINEERING COMPANY
+address_list:
+  items:
+  - uid: '84533'
+    address1: Afra Complex, Unit 503, Fourth Floor, No. 432
+    address2: Ayatollah Kashani Highway, North Shahid Ebrahimi Purbasa'i Street, Ferdows
+      Neighborhood
+    address3: Central District, Tehran County, Region 14
+    city: Tehran
+    state_or_province: Tehran
+    postal_code: '1481816668'
+    country: Iran
+  - uid: '84534'
+    address1: Unit 502
+    address2: Ayatollah Kashani Street
+    city: Tehran
+    country: Iran
+  - uid: '84535'
+    address1: Unit 5, 1st Floor
+    address2: Surna Building
+    address3: Sheikh Mofid Street
+    city: Isfahan
+    country: Iran
+id_list:
+  items:
+  - uid: '49286'
+    id_type: National ID No.
+    id_number: '10104097189'
+    id_country: Iran
+  - uid: '49287'
+    id_type: Registration Number
+    id_number: '364251'
+    id_country: Iran
+  - uid: '192627'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '192528'
+    id_type: Organization Established Date
+    id_number: 17 Nov 2009
+remarks: "(Linked To: AEROSPACE INDUSTRIES ORGANIZATION)"

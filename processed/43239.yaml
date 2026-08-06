@@ -1,0 +1,42 @@
+---
+uid: '43239'
+first_name: Aleksei Aleksandrovich
+last_name: VOSTOKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '67029'
+    type: a.k.a.
+    category: strong
+    last_name: VOSTOKOV
+    first_name: Alexey
+address_list:
+  items:
+  - uid: '64703'
+    country: Russia
+id_list:
+  items:
+  - uid: '32790'
+    id_type: Tax ID No.
+    id_number: '246520630508'
+    id_country: Russia
+  - uid: '162411'
+    id_type: Gender
+    id_number: Male
+  - uid: '175655'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '62409'
+    date_of_birth: 15 Jun 1984
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '62410'
+    place_of_birth: Krasnoyarsk, Russia
+    main_entry: 'true'
+remarks: "(Linked To: PUBLIC JOINT STOCK COMPANY POLYUS)"

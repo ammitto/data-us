@@ -1,0 +1,52 @@
+---
+uid: '52622'
+first_name: Aleksei Gennadievich
+last_name: DMITRIENKO
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '82412'
+    type: a.k.a.
+    category: strong
+    last_name: DMITRIENKO
+    first_name: Alexei
+address_list:
+  items:
+  - uid: '80404'
+    address1: St. New Cheryomushki, 22-23 Bldg. 1B
+    address2: KV. 319
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '45695'
+    id_type: Tax ID No.
+    id_number: '772731142209'
+    id_country: Russia
+  - uid: '45885'
+    id_type: National ID No.
+    id_number: '4508151214'
+    id_country: Russia
+  - uid: '45886'
+    id_type: National ID No.
+    id_number: '4597096596'
+    id_country: Russia
+  - uid: '184408'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184404'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '84392'
+    date_of_birth: 23 Aug 1972
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '84396'
+    place_of_birth: Pallasovka, Volgograd Region, Russia
+    main_entry: 'true'

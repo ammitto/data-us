@@ -1,0 +1,42 @@
+---
+uid: '40271'
+first_name: Alexander Viktorovich
+last_name: GUSEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '62653'
+    type: a.k.a.
+    category: strong
+    last_name: GUSEV
+    first_name: Aleksandr Viktorovich
+address_list:
+  items:
+  - uid: '60036'
+    city: Voronezh
+    country: Russia
+id_list:
+  items:
+  - uid: '29457'
+    id_type: Tax ID No.
+    id_number: '366307834243'
+    id_country: Russia
+  - uid: '174072'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '157337'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '57335'
+    date_of_birth: 27 Jul 1963
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '57336'
+    place_of_birth: Ozerskoe, Kaluga Region, Russia
+    main_entry: 'true'

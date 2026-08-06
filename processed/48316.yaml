@@ -1,0 +1,44 @@
+---
+uid: '48316'
+first_name: Yafi
+last_name: DAVID
+sdn_type: Individual
+program_list:
+  programs:
+  - PAARSSR-EO13894
+aka_list:
+  items:
+  - uid: '75060'
+    type: a.k.a.
+    category: strong
+    last_name: YAFEE
+    first_name: Daoud
+address_list:
+  items:
+  - uid: '72512'
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '39163'
+    id_type: Identification Number
+    id_number: '121619695'
+    id_country: Oman
+  - uid: '39164'
+    id_type: Passport
+    id_number: FE550041
+    id_country: Ukraine
+    expiration_date: 01 Jun 2026
+  - uid: '170506'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '70504'
+    date_of_birth: 25 Aug 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '70505'
+    place_of_birth: Syria
+    main_entry: 'true'
+remarks: "(Linked To: GRAINS MIDDLE EAST TRADING DWC-LLC)"

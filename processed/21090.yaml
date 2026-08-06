@@ -1,0 +1,45 @@
+---
+uid: '21090'
+last_name: EVENTOS LA MORA, S.A. DE C.V.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '33462'
+    type: a.k.a.
+    category: strong
+    last_name: EVENTOS LA MORA
+address_list:
+  items:
+  - uid: '32070'
+    city: Zapopan
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '32071'
+    address1: Lopez Mateos Sur 4527
+    address2: Col. La Calma
+    city: Zapopan
+    state_or_province: Jalisco
+    postal_code: '45070'
+    country: Mexico
+  - uid: '32072'
+    address1: Lopez Mateos Sur 4527
+    address2: Col. Residencial Loma Bonita
+    city: Zapopan
+    state_or_province: Jalisco
+    postal_code: '45086'
+    country: Mexico
+  - uid: '32073'
+    address1: Lopez Mateos Sur 4527
+    city: Tlaquepaque
+    state_or_province: Jalisco
+    postal_code: '45070'
+    country: Mexico
+id_list:
+  items:
+  - uid: '13201'
+    id_type: Folio Mercantil No.
+    id_number: 29070 (Jalisco)
+    id_country: Mexico

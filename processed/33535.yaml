@@ -1,0 +1,43 @@
+---
+uid: '33535'
+first_name: Abraha Kassa
+last_name: NEMARIAM
+sdn_type: Individual
+program_list:
+  programs:
+  - ETHIOPIA-EO14046
+aka_list:
+  items:
+  - uid: '52757'
+    type: a.k.a.
+    category: strong
+    last_name: KASSA
+    first_name: Wedi
+  - uid: '52821'
+    type: a.k.a.
+    category: strong
+    last_name: KASSA
+    first_name: Abraha
+address_list:
+  items:
+  - uid: '50328'
+    country: Eritrea
+id_list:
+  items:
+  - uid: '23177'
+    id_type: Passport
+    id_number: D000294
+    id_country: Eritrea
+  - uid: '144337'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '44336'
+    date_of_birth: 15 Jul 1953
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '44338'
+    place_of_birth: Eritrea
+    main_entry: 'true'

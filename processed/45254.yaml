@@ -1,0 +1,35 @@
+---
+uid: '45254'
+last_name: ASSET AUTOMATION LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '67342'
+    address1: d. 2 str. 1, per.2-I Petra Alekseeva
+    city: Moscow
+    postal_code: '121471'
+    country: Russia
+id_list:
+  items:
+  - uid: '34989'
+    id_type: Tax ID No.
+    id_number: '2130102938'
+    id_country: Russia
+  - uid: '34990'
+    id_type: Registration Number
+    id_number: '1122130005502'
+    id_country: Russia
+  - uid: '34991'
+    id_type: Government Gazette Number
+    id_number: '90966261'
+    id_country: Russia
+  - uid: '175962'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '165665'
+    id_type: Organization Established Date
+    id_number: '2012'
+remarks: "(Linked To: POPOVIC, Nenad)"

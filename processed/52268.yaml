@@ -1,0 +1,44 @@
+---
+uid: '52268'
+first_name: Alan
+last_name: VIRAMONTES SESTEAGA
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+aka_list:
+  items:
+  - uid: '81899'
+    type: a.k.a.
+    category: weak
+    last_name: Cochito
+address_list:
+  items:
+  - uid: '79835'
+    state_or_province: Sonora
+    country: Mexico
+id_list:
+  items:
+  - uid: '45247'
+    id_type: C.U.R.P.
+    id_number: VISA771218HSRRSL03
+    id_country: Mexico
+  - uid: '185522'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '183522'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '83519'
+    date_of_birth: 18 Dec 1977
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '83521'
+    place_of_birth: Sonora, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: SINALOA CARTEL)"

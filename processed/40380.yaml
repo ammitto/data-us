@@ -1,0 +1,33 @@
+---
+uid: '40380'
+first_name: Jose Santana
+last_name: ARREDONDO BELTRAN
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '60173'
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+id_list:
+  items:
+  - uid: '29540'
+    id_type: C.U.R.P.
+    id_number: AEBS770627HSLRLN05
+    id_country: Mexico
+  - uid: '157506'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '57503'
+    date_of_birth: 27 Jun 1977
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '57504'
+    place_of_birth: Sinaloa, Mexico
+    main_entry: 'true'

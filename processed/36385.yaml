@@ -1,0 +1,50 @@
+---
+uid: '36385'
+first_name: Sergey Georgievich
+last_name: RUSANOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '57294'
+    type: a.k.a.
+    category: strong
+    last_name: RUSANOV
+    first_name: Sergei Georgievich
+  - uid: '57295'
+    type: a.k.a.
+    category: strong
+    last_name: RUSANOV
+    first_name: Sergey Georgiyevich
+address_list:
+  items:
+  - uid: '54642'
+    address1: Marii Ulyanovoy Str. 8 129
+    city: Moscow
+    postal_code: '117331'
+    country: Russia
+id_list:
+  items:
+  - uid: '25784'
+    id_type: Passport
+    id_number: '531166608'
+    id_country: Russia
+  - uid: '174180'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '149995'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '49996'
+    date_of_birth: 29 May 1963
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '49997'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'
+remarks: "(Linked To: PUBLIC JOINT STOCK COMPANY BANK FINANCIAL CORPORATION OTKRITIE)"

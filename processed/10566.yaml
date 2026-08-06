@@ -1,0 +1,36 @@
+---
+uid: '10566'
+first_name: Assaad Halim
+last_name: HARDAN
+sdn_type: Individual
+program_list:
+  programs:
+  - LEBANON
+aka_list:
+  items:
+  - uid: '10451'
+    type: a.k.a.
+    category: strong
+    last_name: HARDAN
+    first_name: Assad
+  - uid: '10452'
+    type: a.k.a.
+    category: strong
+    last_name: HARDAN
+    first_name: As'ad
+date_of_birth_list:
+  items:
+  - uid: '5881'
+    date_of_birth: 31 Jul 1951
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '5882'
+    place_of_birth: Rashayya al-Fakhar, Lebanon
+    main_entry: 'true'
+  - uid: '5896'
+    place_of_birth: Rashia al Foukhar, Lebanon
+    main_entry: 'false'
+  - uid: '5897'
+    place_of_birth: Rashayya al-Fuqhar, Lebanon
+    main_entry: 'false'

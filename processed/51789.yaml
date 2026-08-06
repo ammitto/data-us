@@ -1,0 +1,39 @@
+---
+uid: '51789'
+last_name: JOINT STOCK COMPANY BANK ACCEPT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '78923'
+    address1: 14 Ul Sovetskaya
+    city: Novosibirsk
+    postal_code: '630099'
+    country: Russia
+id_list:
+  items:
+  - uid: '44426'
+    id_type: Legal Entity Number
+    id_number: 253400VYARQB5WNTUU06
+  - uid: '44427'
+    id_type: Registration Number
+    id_number: '1025400000427'
+    id_country: Russia
+  - uid: '44428'
+    id_type: Tax ID No.
+    id_number: '5405114781'
+    id_country: Russia
+  - uid: '182023'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '182024'
+    id_type: SWIFT/BIC
+    id_number: AJSCRU55
+  - uid: '182021'
+    id_type: Website
+    id_number: www.akcept.ru
+  - uid: '182022'
+    id_type: Target Type
+    id_number: Financial Institution

@@ -1,0 +1,42 @@
+---
+uid: '49312'
+last_name: JOINT INSTITUTE FOR HIGH TEMPERATURES OF THE RUSSIAN ACADEMY OF SCIENCES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76912'
+    type: a.k.a.
+    category: weak
+    last_name: JIHT RAS
+  - uid: '76913'
+    type: a.k.a.
+    category: strong
+    last_name: FEDERAL STATE BUDGETARY INSTITUTION OF SCIENCE JOINT INSTITUTE FOR
+      HIGH TEMPERATURES RAN
+  - uid: '76914'
+    type: a.k.a.
+    category: weak
+    last_name: OIVT RAN
+address_list:
+  items:
+  - uid: '74300'
+    address1: Ul. Izhorskaya D. 13, Str. 2
+    city: Moscow
+    postal_code: '125412'
+    country: Russia
+id_list:
+  items:
+  - uid: '40556'
+    id_type: Registration Number
+    id_number: '1027739271009'
+    id_country: Russia
+  - uid: '40557'
+    id_type: Tax ID No.
+    id_number: '7713010798'
+    id_country: Russia
+  - uid: '172331'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

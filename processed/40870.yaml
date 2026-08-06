@@ -1,0 +1,47 @@
+---
+uid: '40870'
+last_name: JOINT STOCK COMPANY THE URALS SCIENTIFIC RESEARCH INSTITUTE OF COMPOSITE
+  MATERIALS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63599'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO URALSKI NAUCHNO-ISSLEDOVATELSKI INSTITUT KOMPOZITSIONNYKH
+      MATERIALOV
+  - uid: '63600'
+    type: a.k.a.
+    category: strong
+    last_name: UNIIKM AO
+  - uid: '63601'
+    type: f.k.a.
+    category: strong
+    last_name: URALSKI NII KOMPOZITSIONNYKH MATERIALOV PAO
+address_list:
+  items:
+  - uid: '60939'
+    address1: Ul. Novozvyaginskaya D. 57
+    city: Perm
+    postal_code: '614014'
+    country: Russia
+id_list:
+  items:
+  - uid: '30122'
+    id_type: Registration Number
+    id_number: '1095906003490'
+    id_country: Russia
+  - uid: '30123'
+    id_type: Tax ID No.
+    id_number: '5906092190'
+    id_country: Russia
+  - uid: '30124'
+    id_type: Government Gazette Number
+    id_number: '07523132'
+    id_country: Russia
+  - uid: '175301'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,33 @@
+---
+uid: '52002'
+last_name: JSC RUSSIAN COAL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '81405'
+    type: a.k.a.
+    category: strong
+    last_name: RUSSKI UGOL AO
+address_list:
+  items:
+  - uid: '79282'
+    address1: d. 10, 4 etazh, kom. 1-13, ul. Petrovka
+    city: Moscow
+    postal_code: '107031'
+    country: Russia
+id_list:
+  items:
+  - uid: '44800'
+    id_type: Registration Number
+    id_number: '1097746061390'
+    id_country: Russia
+  - uid: '44801'
+    id_type: Tax ID No.
+    id_number: '7705880068'
+    id_country: Russia
+  - uid: '182655'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

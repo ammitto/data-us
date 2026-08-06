@@ -1,0 +1,50 @@
+---
+uid: '40806'
+first_name: Rumen Stoyanov
+last_name: OVCHAROV
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '63484'
+    type: a.k.a.
+    category: strong
+    last_name: OVCHAROV
+    first_name: Rumen
+  - uid: '63485'
+    type: a.k.a.
+    category: strong
+    last_name: OVTCHAROV
+    first_name: Roumen Stoyanov
+address_list:
+  items:
+  - uid: '60837'
+    address1: 19B, Silivria Str., 1404
+    city: Sofia
+    country: Bulgaria
+id_list:
+  items:
+  - uid: '30018'
+    id_type: National ID No.
+    id_number: '5207056287'
+    id_country: Bulgaria
+  - uid: '30020'
+    id_type: Passport
+    id_number: '384932216'
+    id_country: Bulgaria
+    expiration_date: '08 Nov 2022'
+  - uid: '158342'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '58341'
+    date_of_birth: 05 Jul 1952
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '58344'
+    place_of_birth: Burgas, Bulgaria
+    main_entry: 'true'

@@ -1,0 +1,57 @@
+---
+uid: '27000'
+first_name: Ali
+last_name: MAYCHOU
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '42734'
+    type: a.k.a.
+    category: strong
+    last_name: AL SANHAJI
+    first_name: Abu Abdul Rahman Ali
+  - uid: '42735'
+    type: a.k.a.
+    category: strong
+    last_name: AL-SANHAJI
+    first_name: Abu 'Abd Al-Rahman Ali
+  - uid: '42736'
+    type: a.k.a.
+    category: strong
+    last_name: AL-SENHADJI
+    first_name: Abou Abderrahman
+  - uid: '42737'
+    type: a.k.a.
+    category: strong
+    last_name: AL-SANHAJI
+    first_name: Abou Abderrahmane
+  - uid: '42738'
+    type: a.k.a.
+    category: weak
+    last_name: ABDERAHMANE AL MAGHREBI
+address_list:
+  items:
+  - uid: '41033'
+    country: Mali
+id_list:
+  items:
+  - uid: '186909'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '131892'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '31883'
+    date_of_birth: 25 May 1983
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '31884'
+    place_of_birth: Taza, Morocco
+    main_entry: 'true'

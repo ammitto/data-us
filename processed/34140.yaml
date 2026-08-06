@@ -1,0 +1,48 @@
+---
+uid: '34140'
+first_name: Soghra
+last_name: KHODADADI
+sdn_type: Individual
+program_list:
+  programs:
+  - CAATSA - IRAN
+aka_list:
+  items:
+  - uid: '53556'
+    type: a.k.a.
+    category: strong
+    last_name: TAGHANAKI
+    first_name: Soghra Khodadadi
+  - uid: '53557'
+    type: a.k.a.
+    category: strong
+    last_name: TAGHANAKE
+    first_name: Soghra Khodadadi
+address_list:
+  items:
+  - uid: '51187'
+    city: Varamin
+    state_or_province: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '23802'
+    id_type: Passport
+    id_number: B50799950
+    id_country: Iran
+  - uid: '145432'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '145339'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '45337'
+    date_of_birth: 27 Mar 1971
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '45433'
+    place_of_birth: Iran
+    main_entry: 'true'

@@ -1,0 +1,32 @@
+---
+uid: '45752'
+last_name: STANKIM
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '68063'
+    address1: ul. 10 Let Oktyabrya d. 60, office 308 D
+    city: Izhevsk
+    postal_code: '426065'
+    country: Russia
+  - uid: '68064'
+    address1: ul. Svobody d. 173, kv. 905
+    city: Izhevsk
+    postal_code: '426011'
+    country: Russia
+id_list:
+  items:
+  - uid: '35480'
+    id_type: Registration Number
+    id_number: '1041800261579'
+    id_country: Russia
+  - uid: '35481'
+    id_type: Tax ID No.
+    id_number: '1831097040'
+    id_country: Russia
+  - uid: '176033'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

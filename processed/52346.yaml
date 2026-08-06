@@ -1,0 +1,27 @@
+---
+uid: '52346'
+last_name: CHENG SHIPPING AND TRADER LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+address_list:
+  items:
+  - uid: '79969'
+    address1: Suite 212, 2nd Floor, Block A, La Ciotat
+    address2: Mont Fleuri
+    state_or_province: Mahe
+    country: Seychelles
+id_list:
+  items:
+  - uid: '45325'
+    id_type: Identification Number
+    id_number: IMO 6419328
+  - uid: '183838'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183839'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

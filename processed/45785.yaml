@@ -1,0 +1,34 @@
+---
+uid: '45785'
+first_name: Georgios
+last_name: GEORGIOU
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '68674'
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '35540'
+    id_type: Passport
+    id_number: K00489150
+    id_country: Cyprus
+  - uid: '176056'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '166362'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '66361'
+    date_of_birth: 10 Oct 1963
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '66364'
+    place_of_birth: Nicosia, Cyprus
+    main_entry: 'true'

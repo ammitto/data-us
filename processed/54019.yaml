@@ -1,0 +1,49 @@
+---
+uid: '54019'
+first_name: Yeison Andres
+last_name: SANCHEZ VALLEJO
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '84110'
+    type: a.k.a.
+    category: weak
+    last_name: Blacks
+  - uid: '84111'
+    type: a.k.a.
+    category: weak
+    last_name: Andreas
+address_list:
+  items:
+  - uid: '82420'
+    country: Colombia
+  - uid: '82421'
+    city: Arakaka
+    state_or_province: Barima-Waini Region
+    country: Guyana
+id_list:
+  items:
+  - uid: '47451'
+    id_type: Cedula No.
+    id_number: '1003698707'
+    id_country: Colombia
+  - uid: '47452'
+    id_type: Passport
+    id_number: AU089105
+    id_country: Colombia
+  - uid: '189240'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '89239'
+    date_of_birth: 15 Jul 1990
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '89248'
+    place_of_birth: Puerto Salgar, Colombia
+    main_entry: 'true'

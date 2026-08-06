@@ -1,0 +1,41 @@
+---
+uid: '26925'
+first_name: Sonia
+last_name: CASTRO GONZALEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - NICARAGUA
+  - NICARAGUA-NHRAA
+address_list:
+  items:
+  - uid: '40895'
+    address1: Villa Barcelona De La Embajada De Espana
+    address2: 100 Metros Al Este Casa 17
+    city: Managua
+    country: Nicaragua
+id_list:
+  items:
+  - uid: '17555'
+    id_type: Passport
+    id_number: A00001526
+    id_country: Nicaragua
+    issue_date: 19 Nov 2018
+    expiration_date: 19 Nov 2028
+  - uid: '17556'
+    id_type: National ID No.
+    id_number: '0422909670000N'
+    id_country: Nicaragua
+  - uid: '131754'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '31753'
+    date_of_birth: 29 Sep 1967
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '31756'
+    place_of_birth: Carazo, Nicaragua
+    main_entry: 'true'

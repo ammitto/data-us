@@ -1,0 +1,24 @@
+---
+uid: '51676'
+last_name: OLIVIA
+sdn_type: Vessel
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+id_list:
+  items:
+  - uid: '44200'
+    id_type: Vessel Registration Identification
+    id_number: IMO 9233741
+  - uid: '44201'
+    id_type: MMSI
+    id_number: '667002317'
+  - uid: '181646'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183370'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+remarks: "(Linked To: FRINA EXPRESS CORPORATION)"

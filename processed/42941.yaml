@@ -1,0 +1,39 @@
+---
+uid: '42941'
+first_name: Xutong
+last_name: QIN
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+address_list:
+  items:
+  - uid: '64054'
+    city: Ji Lin
+    country: China
+id_list:
+  items:
+  - uid: '32523'
+    id_type: Passport
+    id_number: E77862399
+    id_country: China
+    issue_date: 19 Apr 2016
+    expiration_date: 18 Apr 2026
+  - uid: '161805'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '161804'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '61801'
+    date_of_birth: 29 Apr 1994
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '61802'
+    place_of_birth: Ji Lin, China
+    main_entry: 'true'
+remarks: "(Linked To: HONG KONG KE.DO INTERNATIONAL TRADE CO., LIMITED)"

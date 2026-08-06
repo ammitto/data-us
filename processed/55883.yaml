@@ -1,0 +1,31 @@
+---
+uid: '55883'
+last_name: TETHIS SHIPPING CO
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13846
+address_list:
+  items:
+  - uid: '85532'
+    address1: Suite 1-A, 7th Floor
+    address2: Business Centre Morskoy-2
+    address3: spusk Polskiy 11
+    city: Odessa
+    postal_code: '65000'
+    country: Ukraine
+  - uid: '85533'
+    address1: 80 Broad Street
+    city: Monrovia
+    country: Liberia
+id_list:
+  items:
+  - uid: '50014'
+    id_type: Identification Number
+    id_number: IMO 6112976
+  - uid: '193833'
+    id_type: Organization Established Date
+    id_number: Jul 2019
+  - uid: '194000'
+    id_type: 'Executive Order 13846 information:'
+    id_number: BLOCKING PROPERTY AND INTERESTS IN PROPERTY.  Sec. 5(a)(iv)

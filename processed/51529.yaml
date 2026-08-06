@@ -1,0 +1,40 @@
+---
+uid: '51529'
+last_name: ARGOS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+address_list:
+  items:
+  - uid: '78518'
+    address1: Ul. Morisa Toreza D. 1 B
+    city: Samara
+    postal_code: '443093'
+    country: Russia
+  - uid: '78519'
+    address1: Ul. Tsentralnaya D. 15/10
+    city: Kogalym
+    postal_code: '628483'
+    country: Russia
+id_list:
+  items:
+  - uid: '43940'
+    id_type: Registration Number
+    id_number: '1056311044998'
+    id_country: Russia
+  - uid: '43941'
+    id_type: Tax ID No.
+    id_number: '6311079117'
+    id_country: Russia
+  - uid: '181174'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183479'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '183017'
+    id_type: 'Organization Type:'
+    id_number: Support activities for petroleum and natural gas extraction

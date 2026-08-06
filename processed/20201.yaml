@@ -1,0 +1,87 @@
+---
+uid: '20201'
+last_name: OAO SHIP REPAIR CENTER 'ZVEZDOCHKA'
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13685
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '32130'
+    type: a.k.a.
+    category: strong
+    last_name: AO SHIP REPAIR CENTER 'ZVEZDOCHKA'
+  - uid: '32131'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY SHIP REPAIR CENTER 'ZVEZDOCHKA'
+  - uid: '32132'
+    type: a.k.a.
+    category: strong
+    last_name: SHIP REPAIR CENTER ZVEZDOCHKA
+  - uid: '32133'
+    type: a.k.a.
+    category: strong
+    last_name: "'ZVEZDOCHKA' SHIPYARD"
+  - uid: '89714'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY SHIPREPAIRING CENTER ZVYOZDOCHKA
+  - uid: '89715'
+    type: a.k.a.
+    category: strong
+    last_name: JSC CENTER SUDOREMONTA ZVEZDOCHKA
+address_list:
+  items:
+  - uid: '30788'
+    address1: 12, proyezd Mashinostroiteley
+    city: Severodvinsk
+    state_or_province: Arkhangelskaya Oblast
+    postal_code: '164509'
+    country: Russia
+  - uid: '30789'
+    address1: 13 Geroyev Sevastopolya Street
+    city: Sevastopol
+    state_or_province: Crimea
+    postal_code: '99001'
+    country: Ukraine
+id_list:
+  items:
+  - uid: '12582'
+    id_type: Registration ID
+    id_number: '1082902002677'
+    id_country: Russia
+  - uid: '12583'
+    id_type: Tax ID No.
+    id_number: '2902060361'
+    id_country: Russia
+  - uid: '143920'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '199151'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '199150'
+    id_type: Organization Established Date
+    id_number: 12 Nov 2008
+  - uid: '120668'
+    id_type: Website
+    id_number: http://starsmz.ru/
+  - uid: '120669'
+    id_type: Website
+    id_number: http://sevmorzavod.com/
+  - uid: '120820'
+    id_type: Website
+    id_number: www.star.ru
+  - uid: '120665'
+    id_type: Email Address
+    id_number: star_sev@mail.ru
+  - uid: '120666'
+    id_type: Email Address
+    id_number: office@smp.com.ua
+  - uid: '120819'
+    id_type: Email Address
+    id_number: info@star.ru
+remarks: "(Linked To: JOINT STOCK COMPANY UNITED SHIPBUILDING CORPORATION)"

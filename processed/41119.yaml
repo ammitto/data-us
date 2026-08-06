@@ -1,0 +1,29 @@
+---
+uid: '41119'
+last_name: LIMITED LIABILITY COMPANY BASTION
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '61468'
+    address1: Michurinskiy avenue, house 27, building 5
+    address2: Floor 3, room 25
+    city: Moscow
+    postal_code: '119607'
+    country: Russia
+id_list:
+  items:
+  - uid: '30463'
+    id_type: Registration Number
+    id_number: '1187746696785'
+    id_country: Russia
+  - uid: '30464'
+    id_type: Tax ID No.
+    id_number: '9701115327'
+    id_country: Russia
+  - uid: '173649'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: LIMITED LIABILITY COMPANY CITADEL)"

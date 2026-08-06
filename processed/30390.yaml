@@ -1,0 +1,66 @@
+---
+uid: '30390'
+last_name: INTERNATIONAL TRADE AND INDUSTRIAL TECHNOLOGY ITRITEC GMBH
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13876
+aka_list:
+  items:
+  - uid: '47700'
+    type: a.k.a.
+    category: weak
+    last_name: ITRITEC
+  - uid: '47703'
+    type: a.k.a.
+    category: strong
+    last_name: INTERNATIONAL TRADE AND TECHNOLOGY ITRITEC GMBH
+  - uid: '47705'
+    type: a.k.a.
+    category: strong
+    last_name: INTERNATIONAL COMPANY FOR INDUSTRIAL AND COMMERCIAL TECHNOLOGY
+  - uid: '47706'
+    type: a.k.a.
+    category: weak
+    last_name: ITRITEC COMPANY
+address_list:
+  items:
+  - uid: '45915'
+    address1: Tersteegenstr. 8
+    city: Dusseldorf
+    postal_code: '40474'
+    country: Germany
+  - uid: '45919'
+    address1: St. Martin Tower, Floor 15, Franklinstrasse, 61-63
+    city: Frankfurt am Main
+    postal_code: '60486'
+    country: Germany
+id_list:
+  items:
+  - uid: '20515'
+    id_type: Registration Number
+    id_number: HRB 84582
+    id_country: Germany
+  - uid: '20516'
+    id_type: Registration Number
+    id_number: HRB 59494
+    id_country: Germany
+  - uid: '20518'
+    id_type: Registration Number
+    id_number: 60313B84582
+    id_country: Germany
+  - uid: '20520'
+    id_type: V.A.T. Number
+    id_number: DE261651351
+    id_country: Germany
+  - uid: '20524'
+    id_type: Tax ID No.
+    id_number: '04523635052'
+    id_country: Germany
+  - uid: '138006'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '138009'
+    id_type: Website
+    id_number: www.itritec.com
+remarks: "(Linked To: KAVEH PARS MINING INDUSTRIES DEVELOPMENT COMPANY)"

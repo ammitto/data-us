@@ -1,0 +1,44 @@
+---
+uid: '11911'
+last_name: AL-AQSA TV
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '12651'
+    type: a.k.a.
+    category: strong
+    last_name: SIRAJ AL-AQSA TV
+  - uid: '12652'
+    type: a.k.a.
+    category: strong
+    last_name: HAMAS TV
+  - uid: '12653'
+    type: a.k.a.
+    category: strong
+    last_name: THE AQSA LAMP
+  - uid: '12654'
+    type: a.k.a.
+    category: strong
+    last_name: AL-AQSA SATELLITE TELEVISION
+address_list:
+  items:
+  - uid: '18093'
+    city: Jabaliya
+    state_or_province: Gaza
+    country: Palestinian
+id_list:
+  items:
+  - uid: '110026'
+    id_type: Website
+    id_number: www.aqsatv.ps
+  - uid: '110027'
+    id_type: Email Address
+    id_number: info@aqsatv.ps
+  - uid: '188686'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: 'Telephone: 0097282851500; Fax: 0097282858208'

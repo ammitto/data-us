@@ -1,0 +1,60 @@
+---
+uid: '28703'
+last_name: RUSSIAN IMPERIAL MOVEMENT
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '45136'
+    type: a.k.a.
+    category: strong
+    last_name: RUSSKOIE IMPERSKOE DVIZHENIE
+  - uid: '45137'
+    type: a.k.a.
+    category: strong
+    last_name: RUSSKOE IMPERSKOYE DVIZHENIYE
+  - uid: '45138'
+    type: a.k.a.
+    category: weak
+    last_name: RID
+  - uid: '45139'
+    type: a.k.a.
+    category: weak
+    last_name: RIM
+  - uid: '45140'
+    type: a.k.a.
+    category: strong
+    last_name: RUSSIAN IMPERIAL LEGION
+  - uid: '45141'
+    type: a.k.a.
+    category: weak
+    last_name: RIL
+  - uid: '45142'
+    type: a.k.a.
+    category: strong
+    last_name: SAINT PETERSBURG IMPERIAL LEGION
+  - uid: '45143'
+    type: a.k.a.
+    category: weak
+    last_name: IMPERIAL LEGION
+address_list:
+  items:
+  - uid: '43405'
+    city: Saint Petersburg
+    country: Russia
+  - uid: '43406'
+    address1: PO Box 128
+    city: Saint Petersburg
+    postal_code: '197022'
+    country: Russia
+id_list:
+  items:
+  - uid: '187050'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '134606'
+    id_type: Website
+    id_number: rusimperia.info

@@ -1,0 +1,33 @@
+---
+uid: '49259'
+last_name: SPECIAL MATERIALS CORPORATION
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76795'
+    type: a.k.a.
+    category: strong
+    last_name: AO NPO SPETSMATERIALOV
+address_list:
+  items:
+  - uid: '74184'
+    address1: B. Sampsonievskii Pr-Kt D. 28A
+    city: Saint Petersburg
+    postal_code: '194044'
+    country: Russia
+id_list:
+  items:
+  - uid: '40467'
+    id_type: Registration Number
+    id_number: '1037816016545'
+    id_country: Russia
+  - uid: '40468'
+    id_type: Tax ID No.
+    id_number: '7806125671'
+    id_country: Russia
+  - uid: '172243'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

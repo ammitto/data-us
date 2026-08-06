@@ -1,0 +1,42 @@
+---
+uid: '50013'
+last_name: LIMITED LIABILITY COMPANY ETM PHOTONICS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '75672'
+    address1: Ul. Rentgena D. 7
+    address2: Lit. A, Pomeshch. 1-N
+    address3: Office 300
+    city: Saint Petersburg
+    postal_code: '197101'
+    country: Russia
+  - uid: '75673'
+    address1: D. 8 2nd Roshchinsky Proezd
+    address2: Str. 1
+    address3: Office 121
+    city: Moscow
+    postal_code: '115419'
+    country: Russia
+id_list:
+  items:
+  - uid: '41565'
+    id_type: Tax ID No.
+    id_number: '7813650745'
+    id_country: Russia
+  - uid: '41566'
+    id_type: Registration Number
+    id_number: '1217800019051'
+    id_country: Russia
+  - uid: '177495'
+    id_type: Organization Established Date
+    id_number: 10 Feb 2021
+  - uid: '177494'
+    id_type: Website
+    id_number: etm-p.ru
+  - uid: '177523'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

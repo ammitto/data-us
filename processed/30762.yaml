@@ -1,0 +1,40 @@
+---
+uid: '30762'
+last_name: MIDDLE EAST MINES AND MINERAL INDUSTRIES DEVELOPMENT HOLDING COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13871
+aka_list:
+  items:
+  - uid: '48403'
+    type: a.k.a.
+    category: weak
+    last_name: MIDHCO
+address_list:
+  items:
+  - uid: '46542'
+    address1: No. 8, Ma'aref Street, Farhang Boulevards, Sa'adatabad
+    city: Tehran
+    postal_code: '1465953349'
+    country: Iran
+  - uid: '46543'
+    address1: No. 8, Rashidi St, Farhang Blvd, Sa'adatabad
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '20843'
+    id_type: Registration Number
+    id_number: '310643'
+    id_country: Iran
+  - uid: '138730'
+    id_type: Organization Established Date
+    id_number: 07 Nov 2007
+  - uid: '138729'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '138688'
+    id_type: Website
+    id_number: www.midhco.com
+remarks: "(Linked To: SIRJAN IRANIAN STEEL; Linked To: ZARAND IRANIAN STEEL COMPANY)"

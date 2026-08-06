@@ -1,0 +1,41 @@
+---
+uid: '27532'
+last_name: WEIHAI HUIJIANG TRADE LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK4
+aka_list:
+  items:
+  - uid: '44458'
+    type: a.k.a.
+    category: strong
+    last_name: WEIHAI HUIJIANG TRADE LTD
+address_list:
+  items:
+  - uid: '42720'
+    address1: Room 602, 28 Crown Garden District
+    address2: Weihai Economic and Technological Development Zone
+    address3: Poyuzhen, Huancui Qu
+    city: Weihai
+    state_or_province: Shandong
+    postal_code: '264200'
+    country: China
+  - uid: '42721'
+    address1: Longzhu Garden
+    city: Weihai
+    state_or_province: Shandong
+    postal_code: '264200'
+    country: China
+id_list:
+  items:
+  - uid: '18706'
+    id_type: Identification Number
+    id_number: IMO 6036742
+  - uid: '134274'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '138503'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214

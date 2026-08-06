@@ -1,0 +1,36 @@
+---
+uid: '57160'
+first_name: Maryam
+last_name: ANBARDARAN
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '87547'
+    state_or_province: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '51396'
+    id_type: National ID No.
+    id_number: '0054069483'
+    id_country: Iran
+  - uid: '197489'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '196838'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '96835'
+    date_of_birth: 16 Sep 1968
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '96837'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: TEJARAT SARIR AFROOZ KISH COMPANY)"

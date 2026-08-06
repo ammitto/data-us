@@ -1,0 +1,55 @@
+---
+uid: '41856'
+first_name: Nazim Tofik Ogly
+last_name: EFENDIEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '62445'
+    address1: 17-3 Protopopovsky Pereulok, Apt. 66
+    city: Moscow
+    postal_code: '129090'
+    country: Russia
+id_list:
+  items:
+  - uid: '31257'
+    id_type: Passport
+    id_number: '530325856'
+    id_country: Russia
+    issue_date: 07 Feb 2013
+    expiration_date: 22 Oct 2022
+  - uid: '31258'
+    id_type: Passport
+    id_number: '753519704'
+    id_country: Russia
+    issue_date: 30 Jul 2016
+    expiration_date: 30 Jul 2026
+  - uid: '31259'
+    id_type: Passport
+    id_number: '764735608'
+    id_country: Russia
+    issue_date: 02 Jun 2021
+    expiration_date: 02 Jun 2031
+  - uid: '31260'
+    id_type: National ID No.
+    id_number: '4508499921'
+    id_country: Russia
+  - uid: '173693'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '160090'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '60091'
+    date_of_birth: 16 Sep 1963
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '60092'
+    place_of_birth: Baku, Azerbaijan
+    main_entry: 'true'

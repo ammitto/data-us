@@ -1,0 +1,25 @@
+---
+uid: '21023'
+last_name: FLORES DRUG TRAFFICKING ORGANIZATION
+sdn_type: Entity
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '33332'
+    type: a.k.a.
+    category: strong
+    last_name: FLORES DTO
+address_list:
+  items:
+  - uid: '31888'
+    city: Mexico City
+    state_or_province: Distrito Federal
+    country: Mexico
+  - uid: '31889'
+    country: Mexico
+  - uid: '31890'
+    city: Guadalajara
+    state_or_province: Jalisco
+    country: Mexico

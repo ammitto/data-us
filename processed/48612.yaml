@@ -1,0 +1,36 @@
+---
+uid: '48612'
+last_name: ALFA LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75586'
+    type: a.k.a.
+    category: weak
+    last_name: LLC ALFA
+address_list:
+  items:
+  - uid: '72989'
+    address1: Ul. 2-YA Alekseevskaya D. 7, Lit. A, Pomeshch. 25N, Office 2
+    city: Saint Petersburg
+    postal_code: '197375'
+    country: Russia
+id_list:
+  items:
+  - uid: '39582'
+    id_type: Tax ID No.
+    id_number: '7802921915'
+    id_country: Russia
+  - uid: '39583'
+    id_type: Registration Number
+    id_number: '1227800017818'
+    id_country: Russia
+  - uid: '176625'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '170918'
+    id_type: Organization Established Date
+    id_number: 15 Feb 2022

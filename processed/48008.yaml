@@ -1,0 +1,37 @@
+---
+uid: '48008'
+last_name: LIMITED LIABILITY COMPANY MANAGEMENT COMPANY ABAMET
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74501'
+    type: a.k.a.
+    category: strong
+    last_name: ABAMET MANAGEMENT LTD
+  - uid: '74503'
+    type: a.k.a.
+    category: strong
+    last_name: UK ABAMET OOO
+address_list:
+  items:
+  - uid: '71942'
+    address1: vladenie 1 kab. 229, ul. Sportivnaya
+    city: Naro-Fominsk
+    postal_code: '143322'
+    country: Russia
+id_list:
+  items:
+  - uid: '38874'
+    id_type: Tax ID No.
+    id_number: '5003071129'
+    id_country: Russia
+  - uid: '38875'
+    id_type: Registration Number
+    id_number: '1095003002808'
+    id_country: Russia
+  - uid: '169672'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,37 @@
+---
+uid: '46678'
+last_name: JOINT STOCK COMPANY NOVOSIBIRSK INSTRUMENT MAKING PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '72055'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO NOVOSIBIRSKII PRIBOROSTROITELNYI ZAVOD
+  - uid: '72056'
+    type: a.k.a.
+    category: weak
+    last_name: AO NPZ
+address_list:
+  items:
+  - uid: '69517'
+    address1: Ul. Dusi Kovalchuk D. 179/2
+    city: Novosibirsk
+    postal_code: '630049'
+    country: Russia
+id_list:
+  items:
+  - uid: '36704'
+    id_type: Registration Number
+    id_number: '1115476008889'
+    id_country: Russia
+  - uid: '36706'
+    id_type: Tax ID No.
+    id_number: '5402534261'
+    id_country: Russia
+  - uid: '175064'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

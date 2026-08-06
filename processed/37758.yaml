@@ -1,0 +1,59 @@
+---
+uid: '37758'
+last_name: NEFAZ PUBLICLY TRADED COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59236'
+    type: a.k.a.
+    category: strong
+    last_name: NEFAZ PAO
+  - uid: '59237'
+    type: a.k.a.
+    category: strong
+    last_name: PUBLICHNOE AKTSIONERNOE OBSHCHESTVO NEFAZ
+  - uid: '59238'
+    type: f.k.a.
+    category: strong
+    last_name: NEFTEKAMSKIY AVTOZAVOD OAO
+  - uid: '59239'
+    type: f.k.a.
+    category: strong
+    last_name: NEFTEKAMSK MOTOR PLANT PJSC
+address_list:
+  items:
+  - uid: '56489'
+    address1: d. 3, ul. Yanaulskaya
+    city: Neftekamsk
+    state_or_province: Bashkortostan Resp.
+    postal_code: '452680'
+    country: Russia
+  - uid: '56490'
+    address1: 3, Yanaul'skaya Street
+    city: Neftekamsk
+    postal_code: '452680'
+    country: Russia
+id_list:
+  items:
+  - uid: '27002'
+    id_type: Registration Number
+    id_number: '1020201881116'
+    id_country: Russia
+  - uid: '27003'
+    id_type: Tax ID No.
+    id_number: '0264004103'
+    id_country: Russia
+  - uid: '27004'
+    id_type: Government Gazette Number
+    id_number: '05745101'
+    id_country: Russia
+  - uid: '173491'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '152738'
+    id_type: Organization Established Date
+    id_number: '1993'
+remarks: "(Linked To: KAMAZ PUBLICLY TRADED COMPANY)"

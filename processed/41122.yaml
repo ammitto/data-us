@@ -1,0 +1,38 @@
+---
+uid: '41122'
+last_name: LIMITED LIABILITY COMPANY SCIENTIFIC AND PRODUCTION COMPANY TEKHINKOM
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '64134'
+    type: a.k.a.
+    category: strong
+    last_name: LLC SCIENTIFIC AND PRODUCTION FIRM TECHINKOM
+  - uid: '64135'
+    type: a.k.a.
+    category: strong
+    last_name: NPF TEHINKOM OOO
+address_list:
+  items:
+  - uid: '61476'
+    address1: 28K Himikov St.
+    city: St. Petersburg
+    state_or_province: St. Petersburg Region
+    postal_code: '195030'
+    country: Russia
+id_list:
+  items:
+  - uid: '30469'
+    id_type: Registration Number
+    id_number: '1037816033530'
+    id_country: Russia
+  - uid: '30470'
+    id_type: Tax ID No.
+    id_number: '7806102473'
+    id_country: Russia
+  - uid: '173652'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

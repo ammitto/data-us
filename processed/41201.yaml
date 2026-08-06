@@ -1,0 +1,41 @@
+---
+uid: '41201'
+first_name: Bahram
+last_name: ABDOLLAHINEJAD
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+address_list:
+  items:
+  - uid: '61644'
+    country: Iran
+id_list:
+  items:
+  - uid: '30569'
+    id_type: Passport
+    id_number: I42008251
+    id_country: Iran
+    expiration_date: 30 Jul 2022
+  - uid: '30570'
+    id_type: National ID No.
+    id_number: '1652879668'
+    id_country: Iran
+  - uid: '159270'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '159219'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '59218'
+    date_of_birth: 11 Jun 1959
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '59217'
+    place_of_birth: Sarab, East Azerbaijan, Iran
+    main_entry: 'true'
+remarks: "(Linked To: NAJI PARS AMIN INSTITUTE)"
+title: CEO of Naji Pars Amin Institute

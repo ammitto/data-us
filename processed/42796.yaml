@@ -1,0 +1,34 @@
+---
+uid: '42796'
+last_name: MYANMA FOREIGN TRADE BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - BURMA-EO14014
+aka_list:
+  items:
+  - uid: '67860'
+    type: a.k.a.
+    category: strong
+    last_name: MYANMAR FOREIGN TRADE BANK
+  - uid: '67861'
+    type: a.k.a.
+    category: weak
+    last_name: MFTB
+address_list:
+  items:
+  - uid: '65275'
+    address1: 80-86 Maha Bandoola Garden Street
+    city: Yangon
+    country: Burma
+id_list:
+  items:
+  - uid: '163430'
+    id_type: Organization Established Date
+    id_number: '1976'
+  - uid: '163448'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '161618'
+    id_type: SWIFT/BIC
+    id_number: MFTBMMMY

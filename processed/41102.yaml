@@ -1,0 +1,38 @@
+---
+uid: '41102'
+first_name: Veniamin Ivanovich
+last_name: KONDRATYEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '64098'
+    type: a.k.a.
+    category: strong
+    last_name: KONDRATIEV
+    first_name: Veniamin Ivanovich
+address_list:
+  items:
+  - uid: '61434'
+    state_or_province: Krasnodar Territory
+    country: Russia
+id_list:
+  items:
+  - uid: '173632'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '159042'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '59040'
+    date_of_birth: 01 Sep 1970
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '59041'
+    place_of_birth: Prokopevsk, Kemerovo Region, Russia
+    main_entry: 'true'

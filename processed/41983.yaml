@@ -1,0 +1,38 @@
+---
+uid: '41983'
+last_name: LLC EVROMIKROTEKH
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65244'
+    type: a.k.a.
+    category: weak
+    last_name: EMT OOO
+  - uid: '65245'
+    type: a.k.a.
+    category: strong
+    last_name: EUROMICROTECH
+address_list:
+  items:
+  - uid: '62624'
+    address1: ul. Vaneeva d. 205
+    address2: office 506
+    city: Nizhniy Novgorod
+    postal_code: '603122'
+    country: Russia
+id_list:
+  items:
+  - uid: '31370'
+    id_type: Registration Number
+    id_number: '1195275054523'
+    id_country: Russia
+  - uid: '31371'
+    id_type: Tax ID No.
+    id_number: '5262367076'
+    id_country: Russia
+  - uid: '173721'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

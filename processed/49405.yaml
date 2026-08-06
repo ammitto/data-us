@@ -1,0 +1,34 @@
+---
+uid: '49405'
+last_name: LIMITED LIABILITY COMPANY KORNET
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77062'
+    type: a.k.a.
+    category: weak
+    last_name: CORNET OOO
+address_list:
+  items:
+  - uid: '74475'
+    address1: d. 8 str. 16
+    address2: ul. Eniseiskaya
+    city: Chelyabinsk
+    postal_code: '454010'
+    country: Russia
+id_list:
+  items:
+  - uid: '40685'
+    id_type: Tax ID No.
+    id_number: '7460000605'
+    id_country: Russia
+  - uid: '40686'
+    id_type: Registration Number
+    id_number: '1127460000898'
+    id_country: Russia
+  - uid: '172476'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

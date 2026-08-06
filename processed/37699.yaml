@@ -1,0 +1,45 @@
+---
+uid: '37699'
+last_name: OPEN JOINT STOCK COMPANY MOSCOW MACHINERY BUILDING PLANT AVANGARD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59102'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY MOSKOVSKIY MASHINOSTROITELNIY ZAVOD AVANGARD
+  - uid: '59103'
+    type: a.k.a.
+    category: strong
+    last_name: JSC MOSCOW MACHINERY BUILDING PLANT AVANGARD
+  - uid: '59104'
+    type: a.k.a.
+    category: strong
+    last_name: OAO MMZ AVANGARD
+  - uid: '59105'
+    type: a.k.a.
+    category: strong
+    last_name: OJSC MOSCOW MACHINERY BUILDING PLANT AVANGARD
+address_list:
+  items:
+  - uid: '56390'
+    address1: UI. Klary Tsetkin 33
+    city: Moscow
+    postal_code: '125130'
+    country: Russia
+id_list:
+  items:
+  - uid: '26941'
+    id_type: Tax ID No.
+    id_number: '7743065177'
+    id_country: Russia
+  - uid: '26942'
+    id_type: Registration Number
+    id_number: '1027743012890'
+    id_country: Russia
+  - uid: '173467'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

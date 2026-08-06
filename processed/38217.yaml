@@ -1,0 +1,37 @@
+---
+uid: '38217'
+first_name: Andrey Andreevich
+last_name: GURYEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59969'
+    type: a.k.a.
+    category: strong
+    last_name: GUREV
+    first_name: Andrei Andreevich
+address_list:
+  items:
+  - uid: '57247'
+    country: Russia
+id_list:
+  items:
+  - uid: '153473'
+    id_type: Gender
+    id_number: Male
+  - uid: '174655'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '53471'
+    date_of_birth: 07 Mar 1982
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '53472'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'

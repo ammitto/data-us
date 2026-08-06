@@ -1,0 +1,34 @@
+---
+uid: '37019'
+last_name: ANNINSKII ELEVATOR OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '55410'
+    address1: Ul. Engelsa D.1
+    city: Anna
+    postal_code: '396254'
+    country: Russia
+id_list:
+  items:
+  - uid: '26302'
+    id_type: Registration Number
+    id_number: '1063016048083'
+    id_country: Russia
+  - uid: '26303'
+    id_type: Tax ID No.
+    id_number: '3016051334'
+    id_country: Russia
+  - uid: '151412'
+    id_type: 'Organization Type:'
+    id_number: Post-harvest crop activities
+  - uid: '174432'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '151271'
+    id_type: Organization Established Date
+    id_number: 06 Dec 2006
+remarks: "(Linked To: JOINT STOCK COMPANY MOSCOW INDUSTRIAL BANK)"

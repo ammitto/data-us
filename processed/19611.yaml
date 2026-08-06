@@ -1,0 +1,47 @@
+---
+uid: '19611'
+last_name: KOREA GENERAL CORPORATION FOR EXTERNAL CONSTRUCTION
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK3
+aka_list:
+  items:
+  - uid: '47126'
+    type: a.k.a.
+    category: strong
+    last_name: KOREA GENERAL COMPANY FOR EXTERNAL CONSTRUCTION
+  - uid: '47127'
+    type: a.k.a.
+    category: strong
+    last_name: KOREA GENERAL CONSTRUCTION
+  - uid: '47128'
+    type: a.k.a.
+    category: weak
+    last_name: KOGEN
+  - uid: '47129'
+    type: a.k.a.
+    category: weak
+    last_name: GENCO
+  - uid: '47130'
+    type: a.k.a.
+    category: weak
+    last_name: ZENKO
+address_list:
+  items:
+  - uid: '29782'
+    country: Korea, North
+  - uid: '45349'
+    country: Russia
+id_list:
+  items:
+  - uid: '127157'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '135081'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '137553'
+    id_type: 'Organization Type:'
+    id_number: Construction of other civil engineering projects

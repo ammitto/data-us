@@ -1,0 +1,93 @@
+---
+uid: '34980'
+first_name: Christopher Vincent
+last_name: KINAHAN
+sdn_type: Individual
+program_list:
+  programs:
+  - TCO
+aka_list:
+  items:
+  - uid: '54904'
+    type: a.k.a.
+    category: weak
+    last_name: KINAHAN SENIOR, Christy
+  - uid: '54905'
+    type: a.k.a.
+    category: weak
+    last_name: O'BRIEN, Christopher
+  - uid: '54906'
+    type: a.k.a.
+    category: weak
+    last_name: THE DAPPER DON
+address_list:
+  items:
+  - uid: '52454'
+    city: Dubai
+    country: United Arab Emirates
+  - uid: '52455'
+    address1: Calle Muntaner 325
+    address2: Planta 6, 4
+    city: Barcelona
+    postal_code: '08021'
+    country: Spain
+  - uid: '52458'
+    address1: Calle Los Geranios, Villa Indelo N 244
+    address2: San Pedro De Alcantara
+    city: Marbella
+    country: Spain
+  - uid: '52459'
+    address1: Urbanizacion Torre Bermeja, N 1501
+    city: Estepona
+    country: Spain
+id_list:
+  items:
+  - uid: '24618'
+    id_type: Passport
+    id_number: PD3265994
+    id_country: Ireland
+  - uid: '24620'
+    id_type: Passport
+    id_number: '094456153'
+    id_country: United Kingdom
+  - uid: '24621'
+    id_type: Passport
+    id_number: '707265430'
+    id_country: United Kingdom
+  - uid: '24627'
+    id_type: Passport
+    id_number: C181651D
+    id_country: United Kingdom
+  - uid: '24762'
+    id_type: Passport
+    id_number: '701191749'
+    id_country: United Kingdom
+  - uid: '146529'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '46520'
+    date_of_birth: 23 Mar 1957
+    main_entry: 'true'
+  - uid: '46521'
+    date_of_birth: 19 Nov 1952
+    main_entry: 'false'
+  - uid: '46524'
+    date_of_birth: 23 May 1957
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '46525'
+    place_of_birth: Cabra, Ireland
+    main_entry: 'true'
+  - uid: '46526'
+    place_of_birth: Perivale, Middlesex, United Kingdom
+    main_entry: 'false'
+  - uid: '46527'
+    place_of_birth: London, United Kingdom
+    main_entry: 'false'
+  - uid: '46528'
+    place_of_birth: Dublin, Ireland
+    main_entry: 'false'
+remarks: "(Linked To: KINAHAN ORGANIZED CRIME GROUP)"

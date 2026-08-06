@@ -1,0 +1,32 @@
+---
+uid: '37578'
+last_name: EMPRESA NICARAGUENSE DE MINAS
+sdn_type: Entity
+program_list:
+  programs:
+  - NICARAGUA
+aka_list:
+  items:
+  - uid: '58889'
+    type: a.k.a.
+    category: strong
+    last_name: ENIMINAS
+address_list:
+  items:
+  - uid: '56207'
+    address1: Residencial Bolonia, de la Embajada Alemania
+    address2: 2 cuadras Oeste, 1 cuadra Norte
+    city: Managua
+    country: Nicaragua
+id_list:
+  items:
+  - uid: '152698'
+    id_type: Organization Established Date
+    id_number: '2017'
+  - uid: '152615'
+    id_type: 'Organization Type:'
+    id_number: Mining of other non-ferrous metal ores
+  - uid: '152699'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
+remarks: "(Linked To: DELGADO LOPEZ, Ruy)"

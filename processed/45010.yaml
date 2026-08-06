@@ -1,0 +1,36 @@
+---
+uid: '45010'
+last_name: LIMITED LIABILITY COMPANY SEVERNAYA ENERGETICHESKAYA KOMPANIYA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69693'
+    type: a.k.a.
+    category: weak
+    last_name: OOO SEK
+address_list:
+  items:
+  - uid: '67002'
+    address1: d. 4A etazh 1 pom. I
+    address2: KOM. 4, OFIS 11-8
+    address3: ul. Kutuzovskaya
+    city: Odintsovo
+    postal_code: '143001'
+    country: Russia
+id_list:
+  items:
+  - uid: '34682'
+    id_type: Registration Number
+    id_number: '1155032010176'
+    id_country: Russia
+  - uid: '34683'
+    id_type: Tax ID No.
+    id_number: '5032216379'
+    id_country: Russia
+  - uid: '175892'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: UNITED ARCTIC COMPANY LLC)"

@@ -1,0 +1,39 @@
+---
+uid: '53981'
+last_name: GRAN GRIF
+sdn_type: Entity
+program_list:
+  programs:
+  - FTO
+  - SDGT
+aka_list:
+  items:
+  - uid: '84060'
+    type: a.k.a.
+    category: strong
+    last_name: GRAN GRIF DE SAVIEN
+  - uid: '84061'
+    type: a.k.a.
+    category: strong
+    last_name: BAZ GRAN GRIF
+address_list:
+  items:
+  - uid: '82384'
+    city: Savien
+    state_or_province: Artibonite Department
+    country: Haiti
+id_list:
+  items:
+  - uid: '189336'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '189338'
+    id_type: Organization Established Date
+    id_number: '2016'
+  - uid: '189185'
+    id_type: 'Organization Type:'
+    id_number: Transnational Terrorist Group
+  - uid: '189186'
+    id_type: Target Type
+    id_number: Criminal Organization

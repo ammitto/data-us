@@ -1,0 +1,42 @@
+---
+uid: '35892'
+last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSVENNOSTYU VR-RESURS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56435'
+    type: a.k.a.
+    category: weak
+    last_name: VR - RESURS OOO
+address_list:
+  items:
+  - uid: '53867'
+    address1: Ter. Letno-Ispytatelnyi Kompleks, VL 1
+    city: Shchelkovo
+    postal_code: '141103'
+    country: Russia
+  - uid: '53868'
+    address1: Ul. Lenina D. 11
+    city: Shchelkovo
+    postal_code: '141103'
+    country: Russia
+id_list:
+  items:
+  - uid: '25239'
+    id_type: Registration Number
+    id_number: '1085027009572'
+    id_country: Russia
+  - uid: '25240'
+    id_type: Tax ID No.
+    id_number: '5027138478'
+    id_country: Russia
+  - uid: '173287'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '149085'
+    id_type: Organization Established Date
+    id_number: 01 Aug 2008
+remarks: "(Linked To: VERTOLETY ROSSII AO)"

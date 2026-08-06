@@ -1,0 +1,38 @@
+---
+uid: '35860'
+last_name: INTERNATIONAL HELICOPTERS PROGRAMS LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56324'
+    type: a.k.a.
+    category: strong
+    last_name: MEZHDUNARODNYE VERTOLETNYE PROGRAMMY OOO
+address_list:
+  items:
+  - uid: '53802'
+    address1: Ul. Garshina D. 26/3
+    city: Lyubertsy
+    state_or_province: Tomilino
+    postal_code: '140070'
+    country: Russia
+id_list:
+  items:
+  - uid: '25173'
+    id_type: Tax ID No.
+    id_number: '5027150429'
+    id_country: Russia
+  - uid: '25174'
+    id_type: Registration Number
+    id_number: '1095027007008'
+    id_country: Russia
+  - uid: '173255'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '149052'
+    id_type: Organization Established Date
+    id_number: 29 Jun 2009
+remarks: "(Linked To: VERTOLETY ROSSII AO)"

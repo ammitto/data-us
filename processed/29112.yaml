@@ -1,0 +1,51 @@
+---
+uid: '29112'
+last_name: SIRJAN JAHAN STEEL COMPLEX
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13871
+aka_list:
+  items:
+  - uid: '45801'
+    type: a.k.a.
+    category: weak
+    last_name: SJSCO
+  - uid: '45802'
+    type: a.k.a.
+    category: strong
+    last_name: JAHAN FOOLAD SIRJAN
+  - uid: '45803'
+    type: a.k.a.
+    category: strong
+    last_name: JAHAN FOOLAD STEEL COMPANY
+  - uid: '45804'
+    type: a.k.a.
+    category: strong
+    last_name: SIRJAN JAHAN FOOLAD
+address_list:
+  items:
+  - uid: '44052'
+    address1: 6th Bokharest Alley Bokharest Ave.
+    city: Tehran
+    country: Iran
+  - uid: '44053'
+    address1: No. 2, Zhubin Alley, Shahidi Street, Haghani Highway, Vanak Square
+    city: Tehran
+    country: Iran
+  - uid: '44054'
+    address1: Cross of Gol Gohar Mining and Industrial Co. Shiraz Road 50 Km
+    city: Sirjan
+    country: Iran
+id_list:
+  items:
+  - uid: '19382'
+    id_type: Commercial Registry Number
+    id_number: '3191'
+    id_country: Iran
+  - uid: '135827'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '135829'
+    id_type: Website
+    id_number: www.sjsco.ir

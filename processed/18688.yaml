@@ -1,0 +1,67 @@
+---
+uid: '18688'
+first_name: Torek
+last_name: AGHA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '29265'
+    type: a.k.a.
+    category: strong
+    last_name: HASHAN
+    first_name: Sayed Mohammad
+  - uid: '29266'
+    type: a.k.a.
+    category: strong
+    last_name: AGHA
+    first_name: Torak
+  - uid: '29267'
+    type: a.k.a.
+    category: strong
+    last_name: AGHA
+    first_name: Toriq
+  - uid: '29268'
+    type: a.k.a.
+    category: strong
+    last_name: SAYED
+    first_name: Toriq Agha
+address_list:
+  items:
+  - uid: '28390'
+    address1: Pashtunabad
+    city: Quetta
+    country: Pakistan
+id_list:
+  items:
+  - uid: '10954'
+    id_type: Identification Number
+    id_number: '5430312277059'
+    id_country: Pakistan
+  - uid: '186505'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '18129'
+    date_of_birth: 01 Jan 1964 to 31 Dec 1966
+    main_entry: 'true'
+  - uid: '18130'
+    date_of_birth: 01 Jan 1961 to 31 Dec 1963
+    main_entry: 'false'
+  - uid: '18131'
+    date_of_birth: '1960'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '18132'
+    place_of_birth: Kandahar Province, Afghanistan
+    main_entry: 'true'
+  - uid: '18133'
+    place_of_birth: Pishin, Balochistan Province, Pakistan
+    main_entry: 'false'
+remarks: "(Linked To: TALIBAN)"
+title: Haji

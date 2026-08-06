@@ -1,0 +1,32 @@
+---
+uid: '34181'
+first_name: Milan
+last_name: MIHAJLOVIC
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+address_list:
+  items:
+  - uid: '51239'
+    city: Susica Village
+    country: Kosovo
+id_list:
+  items:
+  - uid: '23842'
+    id_type: Identification Number
+    id_number: '2704983730021'
+  - uid: '145401'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '45399'
+    date_of_birth: 27 Apr 1983
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '45400'
+    place_of_birth: Nis, Republic of Serbia
+    main_entry: 'true'
+remarks: "(Linked To: VESELINOVIC, Zvonko)"

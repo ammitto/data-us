@@ -1,0 +1,32 @@
+---
+uid: '50908'
+last_name: MIG ELEKTRO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '77309'
+    address1: Ul. Shcherbakovskaya D. 53, Korp. 17
+    city: Moscow
+    postal_code: '105187'
+    country: Russia
+  - uid: '77310'
+    address1: Pr-d Okruzhnoi D. 8, Str 1, Pom.4
+    city: Moscow
+    postal_code: '107553'
+    country: Russia
+id_list:
+  items:
+  - uid: '42905'
+    id_type: Registration Number
+    id_number: '1027739672047'
+    id_country: Russia
+  - uid: '42906'
+    id_type: Tax ID No.
+    id_number: '7719228261'
+    id_country: Russia
+  - uid: '179695'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

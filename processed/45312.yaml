@@ -1,0 +1,59 @@
+---
+uid: '45312'
+first_name: Xingbiao
+last_name: SHEN
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '70098'
+    type: a.k.a.
+    category: weak
+    last_name: SHEN, Mike
+address_list:
+  items:
+  - uid: '67416'
+    address1: No. 20, Group 5 Junshe Village
+    address2: Lvliang Township
+    address3: Jinhu County
+    state_or_province: Jiangsu Province
+    country: China
+id_list:
+  items:
+  - uid: '35017'
+    id_type: National ID No.
+    id_number: '320831198505045212'
+    id_country: China
+  - uid: '165738'
+    id_type: Gender
+    id_number: Male
+  - uid: '165739'
+    id_type: Email Address
+    id_number: 183322875@qq.com
+  - uid: '165742'
+    id_type: Digital Currency Address - XBT
+    id_number: 3B7S6zrgxQVQUHTU8wstM23tB9afE7ojuX
+  - uid: '165744'
+    id_type: Digital Currency Address - ETH
+    id_number: '0x530a64c0ce595026a4a556b703644228179e2d57'
+  - uid: '165745'
+    id_type: Digital Currency Address - USDT
+    id_number: TEAqwfMhXLaomXhZ8KeMhx3njGmQEDnsUR
+  - uid: '165740'
+    id_type: Phone Number
+    id_number: '8613337963690'
+  - uid: '165741'
+    id_type: Phone Number
+    id_number: '8615189626230'
+date_of_birth_list:
+  items:
+  - uid: '65735'
+    date_of_birth: 04 May 1985
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '65736'
+    place_of_birth: Jiangsu, China
+    main_entry: 'true'

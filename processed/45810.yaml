@@ -1,0 +1,50 @@
+---
+uid: '45810'
+last_name: JOINT STOCK COMPANY RUSSIAN REGIONAL DEVELOPMENT BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70782'
+    type: a.k.a.
+    category: weak
+    last_name: VBRR
+  - uid: '70783'
+    type: a.k.a.
+    category: strong
+    last_name: VSEROSSIYSKY BANK RAZVITIYA REGIONOV
+address_list:
+  items:
+  - uid: '68154'
+    address1: 65/1 Suschevsky Val
+    city: Moscow
+    postal_code: '129594'
+    country: Russia
+id_list:
+  items:
+  - uid: '35563'
+    id_type: Registration Number
+    id_number: '1027739186914'
+    id_country: Russia
+  - uid: '35564'
+    id_type: Tax ID No.
+    id_number: '7736153344'
+    id_country: Russia
+  - uid: '35565'
+    id_type: Legal Entity Number
+    id_number: 549300FIJ3MYU0VX6Y72
+  - uid: '35566'
+    id_type: Identification Number
+    id_number: XC6QLI.00000.LE.643
+    id_country: Russia
+  - uid: '176064'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '166413'
+    id_type: SWIFT/BIC
+    id_number: RRDBRUMM
+  - uid: '166766'
+    id_type: Target Type
+    id_number: Financial Institution

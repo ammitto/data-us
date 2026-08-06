@@ -1,0 +1,61 @@
+---
+uid: '27028'
+first_name: Mehdi
+last_name: NAJAFI
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '42812'
+    type: a.k.a.
+    category: strong
+    last_name: NAJAFI
+    first_name: Seyed Mehdi Mojtahed
+  - uid: '42813'
+    type: a.k.a.
+    category: strong
+    last_name: MOJTAHEDNAJAFI
+    first_name: Seyedmehdi
+  - uid: '42814'
+    type: a.k.a.
+    category: strong
+    last_name: MOJTAHEDNAJAFI
+    first_name: Seyedmehdi Miraliasghar
+address_list:
+  items:
+  - uid: '41074'
+    address1: No. 1-30th Bld# 2nd
+    address2: Shahrak Farhangian Sheykh Fazlollah Nour
+    city: Tehran
+    postal_code: '1464873861'
+    country: Iran
+id_list:
+  items:
+  - uid: '17662'
+    id_type: National ID No.
+    id_number: '0054385946'
+    id_country: Iran
+  - uid: '17663'
+    id_type: Passport
+    id_number: I15597905
+    id_country: Iran
+  - uid: '131964'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '131963'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '31961'
+    date_of_birth: 21 Sep 1971
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '31962'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: IRAN CENTRIFUGE TECHNOLOGY COMPANY)"

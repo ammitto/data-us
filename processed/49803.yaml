@@ -1,0 +1,31 @@
+---
+uid: '49803'
+first_name: Patricia
+last_name: RIVERA GARCIA
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '75265'
+    country: Mexico
+id_list:
+  items:
+  - uid: '41276'
+    id_type: C.U.R.P.
+    id_number: RIGP760313MVZVRT00
+    id_country: Mexico
+  - uid: '177179'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '77181'
+    date_of_birth: 13 Mar 1976
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '77180'
+    place_of_birth: Veracruz, Mexico
+    main_entry: 'true'

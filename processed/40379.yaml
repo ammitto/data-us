@@ -1,0 +1,31 @@
+---
+uid: '40379'
+first_name: Luis Gerardo
+last_name: FLORES MADRID
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '60171'
+    country: Mexico
+id_list:
+  items:
+  - uid: '29539'
+    id_type: C.U.R.P.
+    id_number: FOML880309HSLLDS09
+    id_country: Mexico
+  - uid: '157502'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '57499'
+    date_of_birth: '09 Mar 1988'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '57500'
+    place_of_birth: Sinaloa, Mexico
+    main_entry: 'true'

@@ -1,0 +1,47 @@
+---
+uid: '54163'
+first_name: Ahmad Haghighat
+last_name: TALAB
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '84341'
+    type: a.k.a.
+    category: strong
+    last_name: TALEB
+    first_name: Ahmad Haghighat
+  - uid: '84348'
+    type: a.k.a.
+    category: strong
+    last_name: SADEGH
+    first_name: Ahmad Haghighat Taleb
+address_list:
+  items:
+  - uid: '82674'
+    country: Iran
+id_list:
+  items:
+  - uid: '47655'
+    id_type: National ID No.
+    id_number: '4131686491'
+    id_country: Iran
+  - uid: '189753'
+    id_type: Gender
+    id_number: Male
+  - uid: '189750'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '89751'
+    date_of_birth: 12 Oct 1963
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '89769'
+    place_of_birth: Borujerd, Iran
+    main_entry: 'true'

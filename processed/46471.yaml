@@ -1,0 +1,41 @@
+---
+uid: '46471'
+last_name: OPEN JOINT STOCK COMPANY ALEVKURP
+sdn_type: Entity
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '71712'
+    type: a.k.a.
+    category: strong
+    last_name: JSC ALEVKURP
+  - uid: '71713'
+    type: a.k.a.
+    category: strong
+    last_name: OJSC ALEVKURP
+  - uid: '72092'
+    type: a.k.a.
+    category: strong
+    last_name: OTKRYTOE AKTSIONERNOE OBSHCHESTVO ALEVKURP
+address_list:
+  items:
+  - uid: '69119'
+    address1: Korolev Stan, st. Moskovskaya, Borovlyansky
+    city: Minsk
+    state_or_province: Minsk Region
+    postal_code: '223027'
+    country: Belarus
+id_list:
+  items:
+  - uid: '36375'
+    id_type: Tax ID No.
+    id_number: '101148789'
+    id_country: Belarus
+  - uid: '167271'
+    id_type: Organization Established Date
+    id_number: 24 Sep 1996
+  - uid: '167272'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

@@ -1,0 +1,71 @@
+---
+uid: '9399'
+first_name: Luis Raul
+last_name: ARRIOLA MARQUEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '8843'
+    type: a.k.a.
+    category: strong
+    last_name: ARREOLA MARQUEZ
+    first_name: Luis Raul
+address_list:
+  items:
+  - uid: '11655'
+    address1: c/o AUTO EXPRESS DORADOS S.A. DE C.V.
+    city: Saucillo
+    country: Mexico
+  - uid: '11656'
+    address1: c/o INMOBILIARIA EL PRESON S.A. DE C.V.
+    city: Chihuahua
+    country: Mexico
+  - uid: '11657'
+    address1: c/o CHIHUAHUA FOODS S.A. DE C.V.
+    city: Cuauhtemoc
+    country: Mexico
+  - uid: '11658'
+    address1: c/o INDIO VITORIO S. DE P.R. DE R.L. DE C.V.
+    city: Saucillo
+    country: Mexico
+  - uid: '11659'
+    address1: Avenida Octava No. 72
+    city: Saucillo
+    state_or_province: Chihuahua
+    country: Mexico
+  - uid: '11660'
+    address1: Calle Sierra San Diego No. 2502
+    city: Fraccionamiento Santa Fe Chihuahua
+    state_or_province: Chihuahua
+    country: Mexico
+id_list:
+  items:
+  - uid: '4041'
+    id_type: C.U.R.P.
+    id_number: AIML710509HCHRRS09
+    id_country: Mexico
+  - uid: '4042'
+    id_type: C.U.R.P.
+    id_number: AEML710509HCHRRS07
+    id_country: Mexico
+  - uid: '4043'
+    id_type: R.F.C.
+    id_number: AIML-710509-V89
+    id_country: Mexico
+  - uid: '4044'
+    id_type: R.F.C.
+    id_number: AEML-710509-Q27
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '4343'
+    date_of_birth: '09 May 1971'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '4344'
+    place_of_birth: Saucillo, Chihuahua, Mexico
+    main_entry: 'true'

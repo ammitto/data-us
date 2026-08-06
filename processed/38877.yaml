@@ -1,0 +1,34 @@
+---
+uid: '38877'
+first_name: Maria Alexeyevna
+last_name: LVOVA-BELOVA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '57966'
+    country: Russia
+id_list:
+  items:
+  - uid: '28136'
+    id_type: Tax ID No.
+    id_number: '583712612853'
+    id_country: Russia
+  - uid: '174721'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '154491'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '54489'
+    date_of_birth: 25 Oct 1984
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '54490'
+    place_of_birth: Penza, Russia
+    main_entry: 'true'

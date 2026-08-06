@@ -1,0 +1,24 @@
+---
+uid: '51550'
+last_name: LEOPARD
+sdn_type: Vessel
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+id_list:
+  items:
+  - uid: '43981'
+    id_type: Vessel Registration Identification
+    id_number: IMO 9284594
+  - uid: '43982'
+    id_type: MMSI
+    id_number: '574005550'
+  - uid: '181216'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183251'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+remarks: "(Linked To: SAO VIET PETROL TRANSPORTATION COMPANY LIMITED)"

@@ -1,0 +1,38 @@
+---
+uid: '52132'
+last_name: GAZPROMNEFT NOYABRSK OIL AND GAS JOINT STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '81657'
+    type: a.k.a.
+    category: strong
+    last_name: GAZPROMNEFT NOYABRSKNEFTEGAZ
+address_list:
+  items:
+  - uid: '79567'
+    address1: Ul. Lenina D. 59/87
+    city: Noyabrsk
+    postal_code: '629807'
+    country: Russia
+id_list:
+  items:
+  - uid: '45025'
+    id_type: Registration Number
+    id_number: '1028900703963'
+    id_country: Russia
+  - uid: '45026'
+    id_type: Tax ID No.
+    id_number: '8905000428'
+    id_country: Russia
+  - uid: '183036'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183427'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

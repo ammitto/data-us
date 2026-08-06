@@ -1,0 +1,39 @@
+---
+uid: '51307'
+last_name: CHANGTAI SHIPPING LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '80425'
+    type: a.k.a.
+    category: strong
+    last_name: CHANGTAI SHIPPING LTD
+address_list:
+  items:
+  - uid: '78089'
+    address1: Trust Company Complex
+    address2: Ajeltake Road
+    city: Majuro
+    state_or_province: Ajeltake Island
+    postal_code: '96960'
+    country: Marshall Islands
+id_list:
+  items:
+  - uid: '43527'
+    id_type: Business Number
+    id_number: '121123'
+    id_country: Marshall Islands
+  - uid: '43528'
+    id_type: Identification Number
+    id_number: IMO 6427552
+  - uid: '180522'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '180521'
+    id_type: Organization Established Date
+    id_number: 26 Jul 2023
+remarks: "(Linked To: AL-JAMAL, Sa'id Ahmad Muhammad)"

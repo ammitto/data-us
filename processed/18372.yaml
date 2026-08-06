@@ -1,0 +1,35 @@
+---
+uid: '18372'
+first_name: Alveiro
+last_name: FEO ALVARADO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '28505'
+    type: a.k.a.
+    category: weak
+    last_name: BENAVIDES
+address_list:
+  items:
+  - uid: '28840'
+    country: Colombia
+id_list:
+  items:
+  - uid: '10631'
+    id_type: Cedula No.
+    id_number: '77162067'
+    id_country: Colombia
+date_of_birth_list:
+  items:
+  - uid: '17701'
+    date_of_birth: 16 Jun 1967
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '17702'
+    place_of_birth: El Paso, Cesar, Colombia
+    main_entry: 'true'
+remarks: "(Linked To: CLAN DEL GOLFO)"

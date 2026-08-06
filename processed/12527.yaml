@@ -1,0 +1,49 @@
+---
+uid: '12527'
+first_name: Sergio
+last_name: AVENDANO OJEDA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '19649'
+    address1: Calle Paseo Humaya No. 1466
+    address3: Colonia Rincon de Guadalupe
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '19650'
+    address1: Calle Delante No. 1806
+    address2: Colonia Miguel Hidalgo
+    city: Ensenada
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '19651'
+    address1: Calle Amapola No. 21
+    address2: Colonia Diez de Mayo
+    address3: Culiacan de Rosales
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+id_list:
+  items:
+  - uid: '7016'
+    id_type: C.U.R.P.
+    id_number: AEOS800331HBSVJR06
+    id_country: Mexico
+  - uid: '7017'
+    id_type: R.F.C.
+    id_number: AEOS-800331-QH2
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '8217'
+    date_of_birth: 31 Mar 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '8218'
+    place_of_birth: Baja California Sur, Mexico
+    main_entry: 'true'

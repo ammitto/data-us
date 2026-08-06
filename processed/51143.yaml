@@ -1,0 +1,40 @@
+---
+uid: '51143'
+last_name: JOINT STOCK COMPANY 5 ARSENAL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80178'
+    type: a.k.a.
+    category: weak
+    last_name: AO 5 ARSENAL
+  - uid: '80179'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO 5 ARSENAL
+address_list:
+  items:
+  - uid: '77734'
+    address1: D. 45 Ul. B. Khmelnitskogo
+    city: Alatyr
+    postal_code: '429826'
+    country: Russia
+id_list:
+  items:
+  - uid: '43278'
+    id_type: Registration Number
+    id_number: '1092131000180'
+    id_country: Russia
+  - uid: '43279'
+    id_type: Tax ID No.
+    id_number: '2122006437'
+    id_country: Russia
+  - uid: '180200'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '180201'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

@@ -1,0 +1,29 @@
+---
+uid: '50838'
+first_name: Tatyana Valentinovna
+last_name: KHOMENKO
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '77180'
+    country: Russia
+id_list:
+  items:
+  - uid: '42793'
+    id_type: Tax ID No.
+    id_number: '500103405764'
+    id_country: Russia
+  - uid: '179505'
+    id_type: Gender
+    id_number: Female
+  - uid: '179506'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '80625'
+    date_of_birth: 06 Jul 1969
+    main_entry: 'true'

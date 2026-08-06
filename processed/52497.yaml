@@ -1,0 +1,55 @@
+---
+uid: '52497'
+first_name: Seyed Asadoollah
+last_name: EMAMJOMEH
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '82186'
+    type: a.k.a.
+    category: strong
+    last_name: EMAMJOMEH
+    first_name: Seyed Assadolah
+  - uid: '82187'
+    type: a.k.a.
+    category: weak
+    last_name: EMAMJOME, Asadollah
+  - uid: '82188'
+    type: a.k.a.
+    category: strong
+    last_name: EMAMJOME
+    first_name: Seyed Asadollah
+address_list:
+  items:
+  - uid: '80180'
+    city: Dubai
+    country: United Arab Emirates
+  - uid: '80181'
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '45485'
+    id_type: National ID No.
+    id_number: '1219242901'
+    id_country: Iran
+  - uid: '47437'
+    id_type: Passport
+    id_number: X96591179
+    id_country: Iran
+  - uid: '184157'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '84153'
+    date_of_birth: 24 Mar 1952
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '84154'
+    place_of_birth: Golpayegan, Iran
+    main_entry: 'true'

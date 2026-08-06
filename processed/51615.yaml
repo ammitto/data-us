@@ -1,0 +1,24 @@
+---
+uid: '51615'
+last_name: OMSK
+sdn_type: Vessel
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+id_list:
+  items:
+  - uid: '44107'
+    id_type: Vessel Registration Identification
+    id_number: IMO 9418509
+  - uid: '44108'
+    id_type: MMSI
+    id_number: '273371330'
+  - uid: '181485'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183316'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+remarks: "(Linked To: GAZPROMNEFT MARINE BUNKER LIMITED LIABILITY COMPANY)"

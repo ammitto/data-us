@@ -1,0 +1,33 @@
+---
+uid: '16831'
+last_name: STROYTRANSGAZ GROUP
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13661
+aka_list:
+  items:
+  - uid: '25685'
+    type: a.k.a.
+    category: strong
+    last_name: STROYTRANSGAZ
+  - uid: '25686'
+    type: a.k.a.
+    category: weak
+    last_name: STG GROUP
+address_list:
+  items:
+  - uid: '25481'
+    address1: '3 Begovaya Street, Building #1'
+    state_or_province: Moscow
+    postal_code: '125284'
+    country: Russia
+id_list:
+  items:
+  - uid: '143457'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '115450'
+    id_type: Website
+    id_number: www.stroytransgaz.ru

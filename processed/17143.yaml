@@ -1,0 +1,84 @@
+---
+uid: '17143'
+last_name: PUBLIC JOINT STOCK COMPANY GAZPROM NEFT
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13662
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '26284'
+    type: a.k.a.
+    category: strong
+    last_name: PUBLICHNOE AKTSIONERNOE OBSHCHESTVO GAZPROM NEFT
+  - uid: '26285'
+    type: a.k.a.
+    category: strong
+    last_name: GAZPROM NEFT PJSC
+  - uid: '26286'
+    type: a.k.a.
+    category: strong
+    last_name: GAZPROM NEFT PAO
+  - uid: '81664'
+    type: a.k.a.
+    category: strong
+    last_name: GAZPROM NEFT JOINT STOCK COMPANY
+address_list:
+  items:
+  - uid: '26038'
+    address1: 5, Let. A
+    address2: Galernaya
+    city: Saint Petersburg
+    postal_code: '190000'
+    country: Russia
+  - uid: '26039'
+    address1: d. 3-5 litera A Ch. Pom. 1N kab. 2401
+    address2: ul. Pochtamtskaya
+    city: St. Petersburg
+    postal_code: '190000'
+    country: Russia
+id_list:
+  items:
+  - uid: '9589'
+    id_type: Registration Number
+    id_number: '1025501701686'
+    id_country: Russia
+  - uid: '9590'
+    id_type: Government Gazette Number
+    id_number: '42045241'
+    id_country: Russia
+  - uid: '9591'
+    id_type: Tax ID No.
+    id_number: '5504036333'
+    id_country: Russia
+  - uid: '151214'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '116137'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 2
+  - uid: '116138'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 4
+  - uid: '146725'
+    id_type: Executive Order 14024 Directive Information -
+    id_number: 'For more information on directives, please visit the following link:
+      https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives'
+  - uid: '146694'
+    id_type: Executive Order 14024 Directive Information
+    id_number: Subject to Directive 3 - All transactions in, provision of financing
+      for, and other dealings in new debt of longer than 14 days maturity or new equity
+      where such new debt or new equity is issued on or after the 'Effective Date
+      (EO 14024 Directive)' associated with this name are prohibited.
+  - uid: '146842'
+    id_type: 'Listing Date (EO 14024 Directive 3):'
+    id_number: 24 Feb 2022
+  - uid: '146841'
+    id_type: 'Effective Date (EO 14024 Directive 3):'
+    id_number: 26 Mar 2022
+  - uid: '183042'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.'

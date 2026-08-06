@@ -1,0 +1,46 @@
+---
+uid: '39500'
+last_name: CHILSONG TRADING CORPORATION
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK2
+aka_list:
+  items:
+  - uid: '63677'
+    type: a.k.a.
+    category: strong
+    last_name: CHILSUNG TRADING COMPANY
+  - uid: '63678'
+    type: a.k.a.
+    category: strong
+    last_name: CH'I'LSO'NG TRADING
+  - uid: '63679'
+    type: a.k.a.
+    category: strong
+    last_name: CHILSONG TRADING CORP.
+  - uid: '63680'
+    type: a.k.a.
+    category: strong
+    last_name: KOREA CHILSONG TRADING CORPORATION
+  - uid: '63681'
+    type: a.k.a.
+    category: strong
+    last_name: CHILSONG TRADING COMPANY
+address_list:
+  items:
+  - uid: '61024'
+    city: Pyongyang
+    country: Korea, North
+id_list:
+  items:
+  - uid: '158582'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '158583'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '159167'
+    id_type: Target Type
+    id_number: Government Entity

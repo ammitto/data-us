@@ -1,0 +1,64 @@
+---
+uid: '13102'
+first_name: Ibrahim Abdul Razaaq
+last_name: MEMON
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '14708'
+    type: a.k.a.
+    category: strong
+    last_name: MEMON
+    first_name: Ibrahim Abdul Razak
+  - uid: '14709'
+    type: a.k.a.
+    category: weak
+    last_name: TIGER MEMON
+  - uid: '14710'
+    type: a.k.a.
+    category: weak
+    last_name: MUSHTAQ
+  - uid: '14711'
+    type: a.k.a.
+    category: weak
+    last_name: MUSTAQ
+  - uid: '14712'
+    type: a.k.a.
+    category: weak
+    last_name: SIKANDER
+address_list:
+  items:
+  - uid: '20933'
+    address1: Bldg. No. 21 Room No. 1069
+    address2: Fisherman Colony Mahim
+    city: Mumbai
+    country: India
+  - uid: '20934'
+    address1: House No. C-201
+    address2: Extension-A
+    address3: Karachi Development Scheme
+    city: Karachi
+    country: Pakistan
+id_list:
+  items:
+  - uid: '7618'
+    id_type: Passport
+    id_number: AA762402
+    id_country: Pakistan
+  - uid: '7619'
+    id_type: Passport
+    id_number: L152818
+    id_country: India
+date_of_birth_list:
+  items:
+  - uid: '8976'
+    date_of_birth: 24 Nov 1960
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '8977'
+    place_of_birth: Mumbai (Bombay), India
+    main_entry: 'true'

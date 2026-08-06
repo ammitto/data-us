@@ -1,0 +1,42 @@
+---
+uid: '48220'
+first_name: Chol Ryong
+last_name: CHOE
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+aka_list:
+  items:
+  - uid: '74888'
+    type: a.k.a.
+    category: strong
+    last_name: CH'OE
+    first_name: Ch'o'l-ryong
+address_list:
+  items:
+  - uid: '72276'
+    city: Dandong
+    country: China
+id_list:
+  items:
+  - uid: '39065'
+    id_type: Passport
+    id_number: '745336612'
+    id_country: Korea, North
+  - uid: '170251'
+    id_type: Gender
+    id_number: Male
+  - uid: '170250'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '170249'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+date_of_birth_list:
+  items:
+  - uid: '70252'
+    date_of_birth: 12 Feb 1992
+    main_entry: 'true'
+remarks: "(Linked To: KOREA KWANGSON BANKING CORP)"

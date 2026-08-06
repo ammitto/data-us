@@ -1,0 +1,52 @@
+---
+uid: '50634'
+first_name: Beyat Enverovich
+last_name: RAMAZANOV
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+aka_list:
+  items:
+  - uid: '79240'
+    type: a.k.a.
+    category: strong
+    last_name: RAMAZANOV
+    first_name: Beiat
+address_list:
+  items:
+  - uid: '76778'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '42489'
+    id_type: Passport
+    id_number: '735947775'
+    id_country: Russia
+  - uid: '42490'
+    id_type: Passport
+    id_number: '641209339'
+    id_country: Russia
+  - uid: '42491'
+    id_type: National ID No.
+    id_number: '4509701463'
+    id_country: Russia
+  - uid: '42496'
+    id_type: Tax ID No.
+    id_number: '77017321838'
+    id_country: Russia
+  - uid: '179055'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '79052'
+    date_of_birth: 05 Jan 1988
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '79053'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'
+remarks: "(Linked To: EVIL CORP)"

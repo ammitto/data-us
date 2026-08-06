@@ -1,0 +1,59 @@
+---
+uid: '45047'
+last_name: LIMITED LIABILITY COMPANY STATUS COMPLAINS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69797'
+    type: a.k.a.
+    category: strong
+    last_name: LLC STATUS COMPLAINS
+  - uid: '69798'
+    type: a.k.a.
+    category: strong
+    last_name: STATUS KOMPLAINS
+  - uid: '69799'
+    type: a.k.a.
+    category: strong
+    last_name: STATUS KOMPLAINS OOO
+  - uid: '69800'
+    type: a.k.a.
+    category: strong
+    last_name: STATUS COMPLIANCE
+  - uid: '69801'
+    type: a.k.a.
+    category: weak
+    last_name: STATUS-IT
+address_list:
+  items:
+  - uid: '67083'
+    address1: Ul. Bolshaya Semenovskaya D. 45
+    city: Moscow
+    state_or_province: Russia
+    postal_code: '107023'
+    country: Russia
+id_list:
+  items:
+  - uid: '34755'
+    id_type: Tax ID No.
+    id_number: '7719404118'
+    id_country: Russia
+  - uid: '34756'
+    id_type: Registration Number
+    id_number: '1157746136052'
+    id_country: Russia
+  - uid: '175922'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '165389'
+    id_type: 'Organization Type:'
+    id_number: Other information technology and computer service activities
+  - uid: '165390'
+    id_type: Website
+    id_number: status-it.com/index/php/ru
+  - uid: '165391'
+    id_type: Website
+    id_number: status-it.com

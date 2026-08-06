@@ -1,0 +1,42 @@
+---
+uid: '40571'
+last_name: AKTSIONERNOYE OBSHCHESTVO SEVERO-VOSTOCHNYY REMONTNYY TSENTR
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63059'
+    type: a.k.a.
+    category: weak
+    last_name: SVRTS PAO
+  - uid: '63060'
+    type: a.k.a.
+    category: strong
+    last_name: NORTH-EASTERN SHIP REPAIR CENTER JOINT STOCK COMPANY
+address_list:
+  items:
+  - uid: '60432'
+    address1: 1 Ulitsa Vladivostokskaya
+    city: Vilyuchinsk
+    postal_code: '684090'
+    country: Russia
+id_list:
+  items:
+  - uid: '29718'
+    id_type: Tax ID No.
+    id_number: '4102009338'
+    id_country: Russia
+  - uid: '29719'
+    id_type: Registration Number
+    id_number: '1084141000492'
+    id_country: Russia
+  - uid: '157852'
+    id_type: Organization Established Date
+    id_number: 27 Feb 2008
+  - uid: '174118'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: AKTSIONERNOYE OBSHCHESTVO DALNEVOSTOCHNYY TSENTR SUDOSTROYENIYA
+  I SUDOREMONTA)"

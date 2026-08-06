@@ -1,0 +1,38 @@
+---
+uid: '44215'
+last_name: LIMITED LIABILITY COMPANY AK MICROTECH
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '68377'
+    type: a.k.a.
+    category: weak
+    last_name: LLC AKM
+  - uid: '68378'
+    type: a.k.a.
+    category: strong
+    last_name: AK MIKROTEKH
+address_list:
+  items:
+  - uid: '65801'
+    address1: Sh. Varshavskoe d. 118
+    address2: k. 1, floor 19 kom 3
+    city: Moscow
+    postal_code: '117587'
+    country: Russia
+id_list:
+  items:
+  - uid: '33641'
+    id_type: Tax ID No.
+    id_number: '7731339867'
+    id_country: Russia
+  - uid: '33642'
+    id_type: Registration Number
+    id_number: '5167746451648'
+    id_country: Russia
+  - uid: '175797'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

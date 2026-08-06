@@ -1,0 +1,64 @@
+---
+uid: '41485'
+first_name: Valery Dzhekovich
+last_name: KAZIKAEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '64571'
+    type: a.k.a.
+    category: strong
+    last_name: KAZIKAEV
+    first_name: Valery Dzekovic
+  - uid: '65086'
+    type: a.k.a.
+    category: strong
+    last_name: KAZIKAEV
+    first_name: Valeri
+  - uid: '65087'
+    type: a.k.a.
+    category: strong
+    last_name: KAZIKAYEV
+    first_name: Valeriy Dzhekovich
+address_list:
+  items:
+  - uid: '61922'
+    country: Italy
+  - uid: '61923'
+    address1: Znievska 3060/8
+    city: Bratislava-Petrzalka
+    postal_code: '85106'
+    country: Slovakia
+  - uid: '62443'
+    country: Russia
+id_list:
+  items:
+  - uid: '30828'
+    id_type: Tax ID No.
+    id_number: KZKVRY54S13Z154C
+    id_country: Italy
+  - uid: '31256'
+    id_type: Passport
+    id_number: '531143127'
+    id_country: Russia
+    issue_date: 30 Jun 2016
+    expiration_date: 30 Jun 2026
+  - uid: '159575'
+    id_type: Gender
+    id_number: Male
+  - uid: '173672'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '59581'
+    date_of_birth: 13 Nov 1954
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '60088'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'

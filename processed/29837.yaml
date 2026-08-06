@@ -1,0 +1,35 @@
+---
+uid: '29837'
+first_name: Mansoor
+last_name: GASHASBI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+address_list:
+  items:
+  - uid: '44949'
+    country: Iran
+id_list:
+  items:
+  - uid: '19949'
+    id_type: Passport
+    id_number: J11580003
+    id_country: Iran
+  - uid: '136990'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '136877'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '36878'
+    date_of_birth: 13 Jun 1991
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '36879'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: IRANIAN MINISTRY OF INTELLIGENCE AND SECURITY)"

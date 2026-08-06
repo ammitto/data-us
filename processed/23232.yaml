@@ -1,0 +1,42 @@
+---
+uid: '23232'
+first_name: Il Hwan
+last_name: KO
+sdn_type: Individual
+program_list:
+  programs:
+  - DPRK4
+aka_list:
+  items:
+  - uid: '37022'
+    type: a.k.a.
+    category: strong
+    last_name: KO
+    first_name: Il-hwan
+address_list:
+  items:
+  - uid: '35512'
+    city: Shenyang
+    country: China
+id_list:
+  items:
+  - uid: '14960'
+    id_type: Passport
+    id_number: '927220424'
+    expiration_date: 12 Jun 2022
+  - uid: '125318'
+    id_type: Gender
+    id_number: Male
+  - uid: '135110'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '127331'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+date_of_birth_list:
+  items:
+  - uid: '24936'
+    date_of_birth: 28 Aug 1967
+    main_entry: 'true'
+title: Korea Daesong Bank Official

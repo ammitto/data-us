@@ -1,0 +1,34 @@
+---
+uid: '47854'
+last_name: LIMITED LIABILITY COMPANY NATSIONALNAYA SURMYANAYA KOMPANIYA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74242'
+    type: a.k.a.
+    category: weak
+    last_name: OOO NSK
+address_list:
+  items:
+  - uid: '71626'
+    address1: str. 23 etazh 10/ pom. 17, ul. Posadskaya
+    city: Ekaterinburg
+    postal_code: '620102'
+    country: Russia
+id_list:
+  items:
+  - uid: '38596'
+    id_type: Registration Number
+    id_number: '1126684003104'
+    id_country: Russia
+  - uid: '38597'
+    id_type: Tax ID No.
+    id_number: '6684002660'
+    id_country: Russia
+  - uid: '176493'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: LLC HOLDING GPM)"

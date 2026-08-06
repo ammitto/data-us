@@ -1,0 +1,40 @@
+---
+uid: '43286'
+last_name: OCEAN ELECTRONICS LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '67119'
+    type: a.k.a.
+    category: strong
+    last_name: OKEAN ELEKTRONIKI OOO
+  - uid: '67120'
+    type: a.k.a.
+    category: strong
+    last_name: OCEAN CHIPS LLC
+address_list:
+  items:
+  - uid: '64618'
+    address1: Ulitsa Kalinina, Dom 2, Korpus 4, Lit. A, Pomeshtenie 1N, Komn. 10
+    city: Saint Petersburg
+    postal_code: '198099'
+    country: Russia
+id_list:
+  items:
+  - uid: '32865'
+    id_type: Registration Number
+    id_number: '1127847065334'
+    id_country: Russia
+  - uid: '32866'
+    id_type: Tax ID No.
+    id_number: '7813525631'
+    id_country: Russia
+  - uid: '175699'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '162496'
+    id_type: Organization Established Date
+    id_number: 03 Feb 2012

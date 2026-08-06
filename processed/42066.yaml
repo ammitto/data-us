@@ -1,0 +1,75 @@
+---
+uid: '42066'
+first_name: Anna Maria
+last_name: VASSILIADES
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65385'
+    type: a.k.a.
+    category: strong
+    last_name: VASILEIADI
+    first_name: Anna Maria
+  - uid: '65386'
+    type: a.k.a.
+    category: strong
+    last_name: VASSILIADES
+    first_name: Maria Anna
+  - uid: '65387'
+    type: a.k.a.
+    category: strong
+    last_name: VASSILIADOU
+    first_name: Anna Maria
+address_list:
+  items:
+  - uid: '62791'
+    address1: 35 Grosvenor Street, 1st Floor Offices
+    city: London
+    postal_code: W1K 4QX
+    country: United Kingdom
+  - uid: '62792'
+    address1: The Navarino Penthouse, 18 Navarinou
+    city: Nicosia
+    postal_code: '1100'
+    country: Cyprus
+  - uid: '62793'
+    address1: Apartment 501, Marconi House, 335 The Strand
+    address2: Aldwych
+    city: London
+    postal_code: WC2B 5EN
+    country: United Kingdom
+  - uid: '62794'
+    address1: 18 Navarino Street, 5th Floor, Ayios Andreas
+    city: Nicosia
+    postal_code: '1100'
+    country: Cyprus
+id_list:
+  items:
+  - uid: '31510'
+    id_type: National ID No.
+    id_number: '1090912'
+    id_country: Cyprus
+  - uid: '31511'
+    id_type: Passport
+    id_number: K00415052
+    id_country: Cyprus
+  - uid: '176949'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '160282'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '60279'
+    date_of_birth: 26 Apr 1987
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '60280'
+    place_of_birth: Nicosia, Cyprus
+    main_entry: 'true'
+remarks: "(Linked To: VASSILIADES & CO UK LIMITED)"

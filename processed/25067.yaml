@@ -1,0 +1,97 @@
+---
+uid: '25067'
+last_name: SINA BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - SDGT
+  - IRAN
+  - IRAN-EO13876
+aka_list:
+  items:
+  - uid: '39549'
+    type: a.k.a.
+    category: strong
+    last_name: SINA FINANCE AND CREDIT INSTITUTE
+  - uid: '47806'
+    type: a.k.a.
+    category: strong
+    last_name: SINA BANK COMPANY
+  - uid: '47807'
+    type: a.k.a.
+    category: strong
+    last_name: BANQUE SINA BONYAD FINANCE AND CREDIT COMPANY
+  - uid: '47808'
+    type: a.k.a.
+    category: weak
+    last_name: BFCC
+  - uid: '47809'
+    type: a.k.a.
+    category: strong
+    last_name: SINA FINANCE AND CREDIT COMPANY
+  - uid: '47810'
+    type: a.k.a.
+    category: weak
+    last_name: SFCC
+  - uid: '47811'
+    type: a.k.a.
+    category: strong
+    last_name: BANK SINA
+address_list:
+  items:
+  - uid: '37978'
+    address1: Between Miremad Street and Mofateh Street, Motahari Avenue
+    city: Tehran
+    postal_code: 15888-6457
+    country: Iran
+  - uid: '46015'
+    address1: No. 238, Ostad Motahari Avenue, District 6
+    city: Tehran
+    state_or_province: Tehran Province
+    postal_code: '1588864571'
+    country: Iran
+  - uid: '46016'
+    address1: Near by Mofateh Street, No. 187, Ostad Mothari Street
+    city: Tehran
+    postal_code: '1587998411'
+    country: Iran
+  - uid: '46017'
+    address1: 187 Motahri Avenue
+    city: Tehran
+    postal_code: '1587998411'
+    country: Iran
+  - uid: '46018'
+    address1: No. 187, Ostad Mottahari St.
+    city: Tehran
+    country: Iran
+  - uid: '46019'
+    address1: 187 Motahhari Ave
+    city: Tehran
+    postal_code: '1587998411'
+    country: Iran
+id_list:
+  items:
+  - uid: '20570'
+    id_type: Registration Number
+    id_number: '2904'
+    id_country: Iran
+  - uid: '20573'
+    id_type: National ID No.
+    id_number: '10860246171'
+    id_country: Iran
+  - uid: '128342'
+    id_type: SWIFT/BIC
+    id_number: SINAIRTH
+  - uid: '128282'
+    id_type: Website
+    id_number: www.sinabank.ir
+  - uid: '128281'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '187233'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: "(Linked To: ANDISHEH MEHVARAN INVESTMENT COMPANY; Linked To: ISLAMIC REVOLUTION
+  MOSTAZAFAN FOUNDATION)"

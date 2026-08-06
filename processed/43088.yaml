@@ -1,0 +1,68 @@
+---
+uid: '43088'
+first_name: Mohamed Omar
+last_name: MOHAMED
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '66757'
+    type: a.k.a.
+    category: strong
+    last_name: MA'ALIN
+    first_name: Mohamed Omar
+  - uid: '66758'
+    type: a.k.a.
+    category: strong
+    last_name: MAXAMED
+    first_name: Mohamed Cumar
+  - uid: '66759'
+    type: a.k.a.
+    category: strong
+    last_name: MOA'LIN
+    first_name: Mohamed Haji Omar
+  - uid: '66760'
+    type: a.k.a.
+    category: strong
+    last_name: HAJI
+    first_name: Mohamed Omar
+  - uid: '66764'
+    type: a.k.a.
+    category: weak
+    last_name: UMUROW, Ma'd
+  - uid: '66765'
+    type: a.k.a.
+    category: weak
+    last_name: OMAROW, Mohamed
+address_list:
+  items:
+  - uid: '64277'
+    city: Diinsor District
+    state_or_province: Bay
+    country: Somalia
+  - uid: '64278'
+    city: Buur Hakaba District
+    state_or_province: Bay
+    country: Somalia
+id_list:
+  items:
+  - uid: '162060'
+    id_type: Gender
+    id_number: Male
+  - uid: '162062'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '62058'
+    date_of_birth: '1976'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '62059'
+    place_of_birth: Taflow Village, Berdaale District, Bay, Somalia
+    main_entry: 'true'
+remarks: "(Linked To: AL-SHABAAB)"

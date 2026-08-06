@@ -1,0 +1,33 @@
+---
+uid: '50803'
+last_name: LIMITED LIABILITY COMPANY MEEHANITE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79559'
+    type: a.k.a.
+    category: weak
+    last_name: MECHANITE
+address_list:
+  items:
+  - uid: '77103'
+    address1: Sh. Yuzhnoe D. 16v
+    city: Nizhniy Novgorod
+    postal_code: '603123'
+    country: Russia
+id_list:
+  items:
+  - uid: '42731'
+    id_type: Registration Number
+    id_number: '1095256004370'
+    id_country: Russia
+  - uid: '42732'
+    id_type: Tax ID No.
+    id_number: '5256089670'
+    id_country: Russia
+  - uid: '180635'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

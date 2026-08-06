@@ -1,0 +1,46 @@
+---
+uid: '53822'
+last_name: FORTUNA LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK3
+aka_list:
+  items:
+  - uid: '83869'
+    type: a.k.a.
+    category: weak
+    last_name: FORTUNA LLC
+  - uid: '83871'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY FORTUNA
+address_list:
+  items:
+  - uid: '82150'
+    address1: Office 5, Dom 113/5, Vokzalnaya Street, Artyomovsky Urban Okrug
+    city: Artyom
+    state_or_province: Primorsky Krai
+    postal_code: '692760'
+    country: Russia
+id_list:
+  items:
+  - uid: '47214'
+    id_type: Tax ID No.
+    id_number: '2502071778'
+    id_country: Russia
+  - uid: '47216'
+    id_type: Registration Number
+    id_number: '1232500011149'
+    id_country: Russia
+  - uid: '188854'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '188855'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '188856'
+    id_type: Organization Established Date
+    id_number: 21 Apr 2023
+remarks: "(Linked To: ASATRYAN, Gayk)"

@@ -1,0 +1,36 @@
+---
+uid: '47778'
+last_name: LIMITED LIABILITY COMPANY GLOBALTEK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74113'
+    type: a.k.a.
+    category: strong
+    last_name: GLOBALTEC LLC
+address_list:
+  items:
+  - uid: '71475'
+    address1: Room 22, Suite I, Floor 13, Building 2, 6 Presnenskaya Embankment
+    city: Moscow
+    postal_code: '123112'
+    country: Russia
+id_list:
+  items:
+  - uid: '38457'
+    id_type: Registration Number
+    id_number: '1197746621930'
+    id_country: Russia
+  - uid: '38459'
+    id_type: Tax ID No.
+    id_number: '9705138011'
+    id_country: Russia
+  - uid: '169617'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '170064'
+    id_type: 'Organization Type:'
+    id_number: Construction of utility projects

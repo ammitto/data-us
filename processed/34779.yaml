@@ -1,0 +1,40 @@
+---
+uid: '34779'
+first_name: Dmitry Aleksandrovich
+last_name: PANTUS
+sdn_type: Individual
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '54600'
+    type: a.k.a.
+    category: strong
+    last_name: PANTUS
+    first_name: Dmitriy
+  - uid: '54601'
+    type: a.k.a.
+    category: strong
+    last_name: PANTUS
+    first_name: Dzmitry
+address_list:
+  items:
+  - uid: '52151'
+    city: Minsk
+    country: Belarus
+id_list:
+  items:
+  - uid: '146253'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '46251'
+    date_of_birth: 06 Sep 1982
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '46252'
+    place_of_birth: Beryozovka, Lida District, Grodno Region, Belarus
+    main_entry: 'true'

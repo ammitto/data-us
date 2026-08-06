@@ -1,0 +1,39 @@
+---
+uid: '54976'
+first_name: Carlos Alberto
+last_name: PAEZ PEREDA
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+address_list:
+  items:
+  - uid: '84015'
+    city: Laguna Colorada
+    state_or_province: Sinaloa
+    country: Mexico
+id_list:
+  items:
+  - uid: '48842'
+    id_type: C.U.R.P.
+    id_number: PAPC950927HSLZRR02
+    id_country: Mexico
+  - uid: '191643'
+    id_type: Gender
+    id_number: Male
+  - uid: '192693'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '91640'
+    date_of_birth: 27 Sep 1995
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '91641'
+    place_of_birth: Sinaloa, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: SINALOA CARTEL)"

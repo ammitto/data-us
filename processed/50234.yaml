@@ -1,0 +1,43 @@
+---
+uid: '50234'
+first_name: Siarhei Uladzimiravich
+last_name: KASTSIANOK
+sdn_type: Individual
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '78401'
+    type: a.k.a.
+    category: strong
+    last_name: KOSTENOK
+    first_name: Sergey Vladimirovich
+address_list:
+  items:
+  - uid: '76198'
+    country: Belarus
+id_list:
+  items:
+  - uid: '41875'
+    id_type: National ID No.
+    id_number: 3101284C003PB0
+    id_country: Belarus
+  - uid: '41876'
+    id_type: Passport
+    id_number: MC3337847
+    id_country: Belarus
+  - uid: '177870'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '77869'
+    date_of_birth: 10 Dec 1984
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '77871'
+    place_of_birth: Riga, Latvia
+    main_entry: 'true'
+remarks: "(Linked To: LLC GROSVER GRUP)"

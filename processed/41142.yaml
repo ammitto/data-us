@@ -1,0 +1,45 @@
+---
+uid: '41142'
+first_name: Yuriy Timofeyevich
+last_name: AVERYANOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '64178'
+    type: a.k.a.
+    category: strong
+    last_name: AVERYANOV
+    first_name: Yuriy Timofeevich
+address_list:
+  items:
+  - uid: '61514'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '30491'
+    id_type: Tax ID No.
+    id_number: '772918457831'
+    id_country: Russia
+  - uid: '159121'
+    id_type: Gender
+    id_number: Male
+  - uid: '173664'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '59119'
+    date_of_birth: 17 Jan 1950
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '59120'
+    place_of_birth: Bender, Moldova
+    main_entry: 'true'
+  - uid: '59130'
+    place_of_birth: Bendery, Moldova
+    main_entry: 'false'

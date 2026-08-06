@@ -1,0 +1,51 @@
+---
+uid: '37764'
+last_name: CHELNYVODOKANAL OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59261'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU CHELNYVODOKANAL
+  - uid: '59262'
+    type: f.k.a.
+    category: strong
+    last_name: CHELNYVODOKANAL AO
+address_list:
+  items:
+  - uid: '56504'
+    address1: Promzona, Khlebnyi Proezd 27
+    city: Naberezhnyye Chelny
+    postal_code: '423810'
+    country: Russia
+  - uid: '56505'
+    address1: d. 27, proezd Khlebny
+    city: Naberezhnye Chelny
+    state_or_province: Tatarstan Resp.
+    postal_code: '423800'
+    country: Russia
+id_list:
+  items:
+  - uid: '27017'
+    id_type: Registration Number
+    id_number: '1141650021534'
+    id_country: Russia
+  - uid: '27018'
+    id_type: Tax ID No.
+    id_number: '1650297657'
+    id_country: Russia
+  - uid: '27019'
+    id_type: Government Gazette Number
+    id_number: '42150340'
+    id_country: Russia
+  - uid: '152743'
+    id_type: Organization Established Date
+    id_number: 01 Dec 2014
+  - uid: '173496'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: KAMAZ PUBLICLY TRADED COMPANY)"

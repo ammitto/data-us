@@ -1,0 +1,37 @@
+---
+uid: '45731'
+last_name: DUBAI SEA BREEZE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '68018'
+    address1: PO Box 85546
+    address2: Sheikh Zayed Road
+    address3: Saeed Tower
+    city: Dubai
+    country: United Arab Emirates
+  - uid: '68019'
+    address1: Ibn Battuta Gate Office
+    address2: 302E
+    city: Dubai
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '35445'
+    id_type: License
+    id_number: '525341'
+    id_country: United Arab Emirates
+  - uid: '35446'
+    id_type: Chamber of Commerce Number
+    id_number: '63032'
+    id_country: United Arab Emirates
+  - uid: '35447'
+    id_type: Economic Register Number (CBLS)
+    id_number: '10402951'
+    id_country: United Arab Emirates
+  - uid: '176018'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

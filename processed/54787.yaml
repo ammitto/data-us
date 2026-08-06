@@ -1,0 +1,57 @@
+---
+uid: '54787'
+first_name: Mohammad Hossein
+last_name: SHAMKHANI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '85365'
+    type: a.k.a.
+    category: strong
+    last_name: SHAMKHANI
+    first_name: Hossein
+  - uid: '85366'
+    type: a.k.a.
+    category: weak
+    last_name: Hector
+  - uid: '85652'
+    type: a.k.a.
+    category: strong
+    last_name: HAYEK
+    first_name: Hugo
+address_list:
+  items:
+  - uid: '83812'
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '48646'
+    id_type: Identification Number
+    id_number: '70293384'
+    id_country: Iran
+  - uid: '48932'
+    id_type: Passport
+    id_number: T97659579
+    id_country: Iran
+    expiration_date: 22 Jan 2029
+  - uid: '48933'
+    id_type: Passport
+    id_number: R0191309
+    id_country: Dominica
+    expiration_date: 20 Jul 2030
+  - uid: '191333'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '91754'
+    date_of_birth: 19 Apr 1984
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '91334'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'

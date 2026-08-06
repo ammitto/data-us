@@ -1,0 +1,51 @@
+---
+uid: '41197'
+last_name: NAJI PAS COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-HR
+aka_list:
+  items:
+  - uid: '64229'
+    type: a.k.a.
+    category: strong
+    last_name: NAJI PAS
+address_list:
+  items:
+  - uid: '61606'
+    address1: First Floor, No. 1, Mahshahr Street, Borna Alley
+    address2: Neighborhood Iranshahr
+    address3: Central District
+    city: Tehran
+    state_or_province: Tehran Province
+    postal_code: '1584733111'
+    country: Iran
+  - uid: '61607'
+    address1: 2nd Floor, Mehgran Building No. 13, Nelson Mandela Blvd
+    address2: Western Taban Street, Valiasr Street, District 6
+    city: Tehran
+    state_or_province: Tehran Province
+    postal_code: '1968946355'
+    country: Iran
+id_list:
+  items:
+  - uid: '30561'
+    id_type: National ID No.
+    id_number: '10102553397'
+    id_country: Iran
+  - uid: '30562'
+    id_type: Registration Number
+    id_number: '213935'
+    id_country: Iran
+  - uid: '30563'
+    id_type: Registration Number
+    id_number: '411366178356'
+    id_country: Iran
+  - uid: '159274'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '159211'
+    id_type: Organization Established Date
+    id_number: 17 Dec 2003
+remarks: "(Linked To: LAW ENFORCEMENT FORCES OF THE ISLAMIC REPUBLIC OF IRAN)"

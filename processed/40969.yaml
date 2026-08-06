@@ -1,0 +1,53 @@
+---
+uid: '40969'
+first_name: Ivan Aleksandrovich
+last_name: MASLOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63821'
+    type: a.k.a.
+    category: weak
+    last_name: MASLOV, Ivan Oleksandrovich
+address_list:
+  items:
+  - uid: '61174'
+    country: Mali
+  - uid: '61175'
+    address1: Uchitelskaya St.
+    address2: Apt 2
+    city: Shatki
+    state_or_province: Nizhny Novgorod Region
+    country: Russia
+id_list:
+  items:
+  - uid: '30805'
+    id_type: Passport
+    id_number: '731849424'
+    id_country: Russia
+  - uid: '158643'
+    id_type: Gender
+    id_number: Male
+  - uid: '175335'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '58638'
+    date_of_birth: 11 Jul 1982
+    main_entry: 'true'
+  - uid: '58640'
+    date_of_birth: 03 Jan 1980
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '58645'
+    place_of_birth: Arkhangelsk, Russia
+    main_entry: 'true'
+  - uid: '58646'
+    place_of_birth: Chuguevka, Chuguevsky District, Primorsky territory, Russia
+    main_entry: 'false'
+remarks: "(Linked To: PRIVATE MILITARY COMPANY 'WAGNER')"

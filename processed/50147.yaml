@@ -1,0 +1,35 @@
+---
+uid: '50147'
+last_name: GARDEN CITY HOTEL
+sdn_type: Entity
+program_list:
+  programs:
+  - GLOMAG
+address_list:
+  items:
+  - uid: '75885'
+    address1: "#205, Mao Tse Tong Boulevard (388)"
+    address2: Sangkat Chamkarmon
+    city: Phnom Penh
+    country: Cambodia
+  - uid: '75886'
+    address1: Street Ly Yong Phat, Phum Prek Tarath
+    address2: Khum Prek Tasek Khan
+    address3: 12111, Cambodia-Japan Friendship Bridge
+    city: Phnom Penh
+    country: Cambodia
+id_list:
+  items:
+  - uid: '177706'
+    id_type: Phone Number
+    id_number: 855 66 678 716
+  - uid: '179097'
+    id_type: 'Organization Type:'
+    id_number: Short term accommodation activities
+  - uid: '178919'
+    id_type: Website
+    id_number: www.gardencityhotel.com.kh
+  - uid: '178920'
+    id_type: Email Address
+    id_number: info@gardencityhotel.com.kh
+remarks: "(Linked To: LY, Yong Phat)"

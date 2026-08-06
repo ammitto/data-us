@@ -1,0 +1,54 @@
+---
+uid: '10630'
+first_name: Epifanio
+last_name: ZAZUETA URREA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '14855'
+    address1: V Guerrero 109 Nte. Centro Colon y Escobedo CP 80000
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '14856'
+    address1: Calle Mariano Escobedo Ote No. 467-4, Col. Centro
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '14857'
+    address1: c/o SIN-MEX IMPORTADORA, S.A. DE C.V.
+    city: Mexico
+    state_or_province: Distrito Federal
+    country: Mexico
+  - uid: '14858'
+    address1: c/o CONSORCIO INMOBILIARIO DEL VALLE DE CULIACAN, S.A. DE C.V.
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+id_list:
+  items:
+  - uid: '5183'
+    id_type: R.F.C.
+    id_number: ZAUE470801DK6
+    id_country: Mexico
+  - uid: '5184'
+    id_type: Passport
+    id_number: '040032826'
+    id_country: Mexico
+  - uid: '5185'
+    id_type: Electoral Registry No.
+    id_number: ZZUREP47080125H900
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '6016'
+    date_of_birth: 01 Aug 1947
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '6017'
+    place_of_birth: Sinaloa, Mexico
+    main_entry: 'true'

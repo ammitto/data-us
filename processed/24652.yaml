@@ -1,0 +1,26 @@
+---
+uid: '24652'
+last_name: ERPSCAN
+sdn_type: Entity
+program_list:
+  programs:
+  - CYBER2
+address_list:
+  items:
+  - uid: '37245'
+    country: Russia
+  - uid: '37246'
+    city: Amsterdam
+    country: Netherlands
+  - uid: '37247'
+    city: Prague
+    country: Czech Republic
+  - uid: '37248'
+    city: Tel Aviv
+    country: Israel
+id_list:
+  items:
+  - uid: '154555'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+remarks: "(Linked To: DIGITAL SECURITY)"

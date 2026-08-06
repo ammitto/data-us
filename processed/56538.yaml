@@ -1,0 +1,38 @@
+---
+uid: '56538'
+first_name: Claudia Viviana
+last_name: OLIVEROS FORERO
+sdn_type: Individual
+program_list:
+  programs:
+  - SUDAN-EO14098
+address_list:
+  items:
+  - uid: '86524'
+    city: Bogota
+    country: Colombia
+id_list:
+  items:
+  - uid: '50563'
+    id_type: Cedula No.
+    id_number: '52252815'
+    id_country: Colombia
+  - uid: '50564'
+    id_type: Passport
+    id_number: AZ321704
+    id_country: Colombia
+    expiration_date: 20 Jul 2032
+  - uid: '194959'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '94956'
+    date_of_birth: 02 Jan 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '94957'
+    place_of_birth: Bogota, Colombia
+    main_entry: 'true'
+remarks: "(Linked To: INTERNATIONAL SERVICES AGENCY S.A.S.)"

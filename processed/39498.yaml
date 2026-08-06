@@ -1,0 +1,36 @@
+---
+uid: '39498'
+first_name: Su Gil
+last_name: KIM
+sdn_type: Individual
+program_list:
+  programs:
+  - DPRK2
+aka_list:
+  items:
+  - uid: '61928'
+    type: a.k.a.
+    category: strong
+    last_name: KIM
+    first_name: Su-kil
+address_list:
+  items:
+  - uid: '59224'
+    country: Korea, North
+id_list:
+  items:
+  - uid: '156132'
+    id_type: Gender
+    id_number: Male
+  - uid: '156141'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '156140'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+date_of_birth_list:
+  items:
+  - uid: '56133'
+    date_of_birth: '1950'
+    main_entry: 'true'

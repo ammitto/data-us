@@ -1,0 +1,37 @@
+---
+uid: '11364'
+first_name: Gotthard
+last_name: LERCH
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+address_list:
+  items:
+  - uid: '16652'
+    address1: Kreuzbergstrasse 4
+    address2: 9472 Grabs
+    city: St Gallen Canton
+    country: Switzerland
+id_list:
+  items:
+  - uid: '5788'
+    id_type: Passport
+    id_number: 3545767791D
+    id_country: Germany
+    issue_date: 07 Aug 1998
+    expiration_date: 06 Aug 2008
+  - uid: '5791'
+    id_type: Passport
+    id_number: '3545767791'
+    id_country: Germany
+date_of_birth_list:
+  items:
+  - uid: '6748'
+    date_of_birth: 21 Dec 1942
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '6749'
+    place_of_birth: Germany
+    main_entry: 'true'

@@ -1,0 +1,45 @@
+---
+uid: '52045'
+first_name: Israel Daniel
+last_name: PAEZ VARGAS
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+aka_list:
+  items:
+  - uid: '81490'
+    type: a.k.a.
+    category: weak
+    last_name: Tommy
+address_list:
+  items:
+  - uid: '79359'
+    city: Mexicali
+    state_or_province: Baja California
+    country: Mexico
+id_list:
+  items:
+  - uid: '44876'
+    id_type: C.U.R.P.
+    id_number: PAVl800131HDFZRS02
+    id_country: Mexico
+  - uid: '185551'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '182727'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '82725'
+    date_of_birth: 31 Jan 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '82726'
+    place_of_birth: Mexico City, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: SINALOA CARTEL)"

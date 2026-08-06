@@ -1,0 +1,33 @@
+---
+uid: '11363'
+first_name: Kursad Zafer
+last_name: CIRE
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+aka_list:
+  items:
+  - uid: '11958'
+    type: a.k.a.
+    category: strong
+    last_name: CIRE
+    first_name: Kursat Zafer
+id_list:
+  items:
+  - uid: '5787'
+    id_type: Passport
+    id_number: '778456'
+    id_country: Turkey
+    issue_date: 14 May 1997
+    expiration_date: 13 May 2007
+date_of_birth_list:
+  items:
+  - uid: '6745'
+    date_of_birth: 30 Aug 1967
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '6746'
+    place_of_birth: Germany
+    main_entry: 'true'

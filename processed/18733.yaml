@@ -1,0 +1,53 @@
+---
+uid: '18733'
+last_name: VTB FACTORING LTD
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13662
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '29377'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU VTB FAKTORING
+  - uid: '29378'
+    type: a.k.a.
+    category: strong
+    last_name: VTB FAKTORING OOO
+  - uid: '29380'
+    type: a.k.a.
+    category: strong
+    last_name: VTB FACTORING LIMITED
+address_list:
+  items:
+  - uid: '28470'
+    address1: d. 52 str. 1 nab.Kosmodamianskaya
+    city: Moscow
+    postal_code: '115054'
+    country: Russia
+id_list:
+  items:
+  - uid: '10987'
+    id_type: Registration ID
+    id_number: '5087746611145'
+    id_country: Russia
+  - uid: '118189'
+    id_type: Website
+    id_number: www.vtbf.ru
+  - uid: '151140'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '118215'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 1
+  - uid: '173890'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '146795'
+    id_type: Target Type
+    id_number: Financial Institution
+remarks: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)'

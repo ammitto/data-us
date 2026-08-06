@@ -1,0 +1,36 @@
+---
+uid: '50726'
+last_name: ZAVOD GORELTEX CO LTD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79384'
+    type: a.k.a.
+    category: strong
+    last_name: COMPANY LIMITED CORTEM GORELTEX
+address_list:
+  items:
+  - uid: '76926'
+    address1: Sh. Revolyutsii D. 18, Lit. A, Pom. 4-N Office 1
+    city: Saint Petersburg
+    postal_code: '195176'
+    country: Russia
+id_list:
+  items:
+  - uid: '42586'
+    id_type: Registration Number
+    id_number: '1047811013183'
+    id_country: Russia
+  - uid: '42587'
+    id_type: Tax ID No.
+    id_number: '7806155468'
+    id_country: Russia
+  - uid: '179335'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '179334'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

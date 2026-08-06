@@ -1,0 +1,33 @@
+---
+uid: '49411'
+last_name: LIMITED LIABILITY COMPANY MEGASTEK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77070'
+    type: a.k.a.
+    category: strong
+    last_name: GLASS COMPANY MEGASTEK
+address_list:
+  items:
+  - uid: '74486'
+    address1: 7 Starykh Bolshevikov Street
+    city: Gus Khrustalnyy
+    postal_code: '601501'
+    country: Russia
+id_list:
+  items:
+  - uid: '40696'
+    id_type: Registration Number
+    id_number: '1083304000955'
+    id_country: Russia
+  - uid: '40697'
+    id_type: Tax ID No.
+    id_number: '3304016625'
+    id_country: Russia
+  - uid: '172489'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

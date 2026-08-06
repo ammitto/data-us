@@ -1,0 +1,30 @@
+---
+uid: '37446'
+last_name: IRONSTONE MARINE INVESTMENTS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '55983'
+    address1: SCF Unicom Tower, Maximos Plaza
+    address2: a8, Maximou Michailidi Street, Neapolis
+    city: Limassol
+    postal_code: '3106'
+    country: Cyprus
+id_list:
+  items:
+  - uid: '26626'
+    id_type: Identification Number
+    id_number: IMO 3001731
+  - uid: '173404'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '152337'
+    id_type: 'Organization Type:'
+    id_number: Activities of holding companies
+  - uid: '152338'
+    id_type: Target Type
+    id_number: Private Company
+remarks: "(Linked To: PUTIN, Vladimir Vladimirovich)"

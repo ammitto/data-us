@@ -1,0 +1,44 @@
+---
+uid: '16039'
+last_name: PARS MCS
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN
+aka_list:
+  items:
+  - uid: '24085'
+    type: a.k.a.
+    category: strong
+    last_name: PARS MCS COMPANY
+  - uid: '24086'
+    type: a.k.a.
+    category: strong
+    last_name: PARS MCS CO.
+address_list:
+  items:
+  - uid: '24145'
+    address1: 2nd Floor, No. 4, Sasan Dead End
+    address2: Afriqa Avenue, After Esfandiar
+    address3: Crossroads
+    city: Tehran
+    country: Iran
+  - uid: '24146'
+    address1: No. 5 Sasan Alley
+    address2: Atefi Sharghi St.
+    address3: Afrigha Boulevard
+    city: Tehran
+    country: Iran
+  - uid: '24147'
+    address1: Oshtorjan Industrial Zone
+    address2: Zob-e Ahan Highway
+    city: Isafahan
+    country: Iran
+id_list:
+  items:
+  - uid: '113696'
+    id_type: Website
+    id_number: http://www.parsmcs.com
+  - uid: '119051'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

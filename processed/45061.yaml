@@ -1,0 +1,33 @@
+---
+uid: '45061'
+last_name: LIMITED LIABILITY COMPANY NERUDNAYA KOMPANIYA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69828'
+    type: a.k.a.
+    category: weak
+    last_name: LLC NK
+address_list:
+  items:
+  - uid: '67114'
+    address1: d. 38 ofis 214, ul. Nikolaya Chumichova
+    city: Belgorod
+    postal_code: '308009'
+    country: Russia
+id_list:
+  items:
+  - uid: '34780'
+    id_type: Tax ID No.
+    id_number: '3123445260'
+    id_country: Russia
+  - uid: '34781'
+    id_type: Registration Number
+    id_number: '1183123029440'
+    id_country: Russia
+  - uid: '175933'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

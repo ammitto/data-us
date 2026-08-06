@@ -1,0 +1,38 @@
+---
+uid: '50167'
+last_name: OOO SOFT PLYUS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78248'
+    type: a.k.a.
+    category: strong
+    last_name: OOO HEXWAY
+address_list:
+  items:
+  - uid: '75931'
+    address1: Ul. Vatutina D. 19
+    address2: Lit. A, Pomeshch. 17-N
+    address3: Office 612
+    city: Saint Petersburg
+    postal_code: '195009'
+    country: Russia
+id_list:
+  items:
+  - uid: '41786'
+    id_type: Tax ID No.
+    id_number: '7804686897'
+    id_country: Russia
+  - uid: '41787'
+    id_type: Business Registration Number
+    id_number: '1217800147740'
+    id_country: Russia
+  - uid: '178498'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '177769'
+    id_type: Organization Established Date
+    id_number: 24 Sep 2021

@@ -1,0 +1,49 @@
+---
+uid: '37689'
+last_name: JOINT STOCK COMPANY PRODUCTION ASSOCIATION URAL OPTICAL AND MECHANICAL
+  PLANT NAMED AFTER E.S. YALAMOV
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59078'
+    type: a.k.a.
+    category: strong
+    last_name: URAL OPTICAL AND MECHANICAL PLANT
+  - uid: '59079'
+    type: a.k.a.
+    category: strong
+    last_name: URALS OPTICAL MECHANICAL PLANT
+  - uid: '59080'
+    type: a.k.a.
+    category: weak
+    last_name: UOMZ
+  - uid: '59081'
+    type: a.k.a.
+    category: strong
+    last_name: JSC PA UOMP
+address_list:
+  items:
+  - uid: '56373'
+    address1: 33B Vostochnaya St.
+    city: Ekaterinburg
+    postal_code: '620100'
+    country: Russia
+id_list:
+  items:
+  - uid: '26926'
+    id_type: Tax ID No.
+    id_number: '6672315362'
+    id_country: Russia
+  - uid: '26927'
+    id_type: Registration Number
+    id_number: '1106672007738'
+    id_country: Russia
+  - uid: '173462'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '152645'
+    id_type: Organization Established Date
+    id_number: 26 May 2010

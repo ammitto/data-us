@@ -1,0 +1,33 @@
+---
+uid: '49775'
+last_name: EXITON
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77596'
+    type: a.k.a.
+    category: strong
+    last_name: EKSITON
+address_list:
+  items:
+  - uid: '75205'
+    address1: ul. Babushkina d.7
+    city: Smolensk
+    postal_code: '214031'
+    country: Russia
+id_list:
+  items:
+  - uid: '41234'
+    id_type: Registration Number
+    id_number: '1206700005423'
+    id_country: Russia
+  - uid: '41235'
+    id_type: Tax ID No.
+    id_number: '6732194193'
+    id_country: Russia
+  - uid: '177122'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

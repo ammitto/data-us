@@ -1,0 +1,38 @@
+---
+uid: '48015'
+last_name: LIMITED LIABILITY COMPANY SHIPBUILDING COMPLEX ZVEZDA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '74519'
+    type: a.k.a.
+    category: strong
+    last_name: OOO SSK ZVEZDA
+address_list:
+  items:
+  - uid: '71958'
+    address1: ul. Alleya Truda 19V
+    city: Bolshoi Kamen
+    postal_code: '692806'
+    country: Russia
+id_list:
+  items:
+  - uid: '38889'
+    id_type: Tax ID No.
+    id_number: '2503032517'
+    id_country: Russia
+  - uid: '38890'
+    id_type: Registration Number
+    id_number: '1152503000539'
+    id_country: Russia
+  - uid: '184413'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '169670'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

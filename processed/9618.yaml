@@ -1,0 +1,28 @@
+---
+uid: '9618'
+last_name: KOHAS AG
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+address_list:
+  items:
+  - uid: '12119'
+    address1: Route des Arsenaux 15
+    city: Fribourg
+    state_or_province: FR
+    postal_code: '1700'
+    country: Switzerland
+id_list:
+  items:
+  - uid: '4261'
+    id_type: C.R. No.
+    id_number: CH-217.0.135.719-4
+    id_country: Switzerland
+  - uid: '127706'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '134916'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214

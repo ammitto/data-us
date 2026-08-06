@@ -1,0 +1,41 @@
+---
+uid: '54152'
+first_name: Chao
+last_name: WANG
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+address_list:
+  items:
+  - uid: '82651'
+    city: Shanghai
+    country: China
+id_list:
+  items:
+  - uid: '47640'
+    id_type: National ID No.
+    id_number: '430381198205074128'
+    id_country: China
+  - uid: '47641'
+    id_type: Passport
+    id_number: EA9962312
+    id_country: China
+  - uid: '189718'
+    id_type: Gender
+    id_number: Female
+  - uid: '189740'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '89717'
+    date_of_birth: 07 May 1982
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '89720'
+    place_of_birth: Xiangtan, Hunan Province, China
+    main_entry: 'true'
+remarks: "(Linked To: SHANGHAI TANCHAIN NEW MATERIAL TECHNOLOGY CO LTD)"

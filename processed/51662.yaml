@@ -1,0 +1,49 @@
+---
+uid: '51662'
+last_name: BBR BANK JOINT STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80953'
+    type: a.k.a.
+    category: strong
+    last_name: BBR BANK CLOSED JOINT STOCK COMPANY
+  - uid: '80954'
+    type: a.k.a.
+    category: strong
+    last_name: BALTIC DEVELOPMENT BANK CLOSED JOINT STOCK COMPANY
+address_list:
+  items:
+  - uid: '78723'
+    address1: 1-st Nikoloshchepovsky Pereulok, Stroyenie, 6, 1
+    city: Moscow
+    postal_code: '121099'
+    country: Russia
+id_list:
+  items:
+  - uid: '44176'
+    id_type: Registration Number
+    id_number: '1027700074775'
+    id_country: Russia
+  - uid: '44177'
+    id_type: Tax ID No.
+    id_number: '3900001002'
+    id_country: Russia
+  - uid: '44178'
+    id_type: Legal Entity Number
+    id_number: 253400MF70R9W1E92E58
+  - uid: '181607'
+    id_type: SWIFT/BIC
+    id_number: BADJRUMM
+  - uid: '181606'
+    id_type: Website
+    id_number: www.bbr.ru
+  - uid: '181604'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '181605'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

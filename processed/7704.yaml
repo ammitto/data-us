@@ -1,0 +1,35 @@
+---
+uid: '7704'
+first_name: Luka
+last_name: KARADZIC
+sdn_type: Individual
+program_list:
+  programs:
+  - BALKANS
+address_list:
+  items:
+  - uid: '20117'
+    address1: Dubrovacka Street No 14
+    city: Belgrade
+    country: Serbia
+  - uid: '20118'
+    address1: Janka Vukotica Street No 24
+    address2: Rastoci
+    state_or_province: Municipality of Niksic
+    country: Montenegro
+date_of_birth_list:
+  items:
+  - uid: '1821'
+    date_of_birth: 31 Jul 1951
+    main_entry: 'true'
+  - uid: '8502'
+    date_of_birth: 01 Jul 1951
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '1822'
+    place_of_birth: Savnik, Serbia and Montenegro
+    main_entry: 'true'
+  - uid: '8503'
+    place_of_birth: Petnic, Serbia and Montenegro
+    main_entry: 'false'

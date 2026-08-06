@@ -1,0 +1,35 @@
+---
+uid: '45253'
+last_name: DOMINION NIKOLSKI LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '67340'
+    address1: d. 12 str. 1 etazh 2 Ch. pom. I, ul.Tverskaya
+    city: Moscow
+    postal_code: '125375'
+    country: Russia
+id_list:
+  items:
+  - uid: '34986'
+    id_type: Tax ID No.
+    id_number: '9710013667'
+    id_country: Russia
+  - uid: '34987'
+    id_type: Registration Number
+    id_number: '1167746600174'
+    id_country: Russia
+  - uid: '34988'
+    id_type: Government Gazette Number
+    id_number: '03256786'
+    id_country: Russia
+  - uid: '165664'
+    id_type: Organization Established Date
+    id_number: '2016'
+  - uid: '175961'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: POPOVIC, Nenad)"

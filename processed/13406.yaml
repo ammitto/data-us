@@ -1,0 +1,60 @@
+---
+uid: '13406'
+first_name: Brenda Guadalupe
+last_name: ESPARRAGOZA GASTELUM
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '21446'
+    address1: Calle Calkini Manzana 11 Lote 1
+    address2: Colonia Residencia Sol del Mayab
+    city: Benito Juarez
+    state_or_province: Quintana Roo
+    postal_code: C.P. 77533
+    country: Mexico
+  - uid: '21447'
+    address1: Calle Morelos No. 2223
+    address2: Colonia Arcos Vallarta
+    city: Guadalajara
+    state_or_province: Jalisco
+    postal_code: C.P. 44130
+    country: Mexico
+  - uid: '21448'
+    address1: Circuito Fuentes de Pedregal No. 478 Interior 1103
+    address2: Colonia Fuentes de Pedregal
+    address3: Delegacion Tlalpan
+    city: Mexico City
+    state_or_province: Distrito Federal
+    postal_code: C.P. 14140
+    country: Mexico
+  - uid: '21449'
+    address1: Avenida de la Patria No. 685 Interior 1
+    address2: Fraccionamiento Jardines Universidad
+    city: Zapopan
+    state_or_province: Jalisco
+    country: Mexico
+id_list:
+  items:
+  - uid: '7920'
+    id_type: R.F.C.
+    id_number: EAGB780327UB5
+    id_country: Mexico
+  - uid: '7921'
+    id_type: C.U.R.P.
+    id_number: EAGB780327MJCSSR11
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '9470'
+    date_of_birth: 27 Mar 1978
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '9471'
+    place_of_birth: Guadalajara, Jalisco, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: GRUPO IMPERGOZA, S.A. DE C.V.; Linked To: SOCIALIKA RENTAS Y
+  CATERING, S.A. DE C.V.)"

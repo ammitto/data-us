@@ -1,0 +1,45 @@
+---
+uid: '35889'
+last_name: JOINT STOCK COMPANY DAGDIZEL PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56422'
+    type: a.k.a.
+    category: strong
+    last_name: ZAVOD DAGDIZEL OPEN JOINT STOCK COMPANY
+  - uid: '56426'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY ZAVOD DAGDIZEL
+  - uid: '56427'
+    type: a.k.a.
+    category: strong
+    last_name: FACTORY DAGDIZEL
+address_list:
+  items:
+  - uid: '53861'
+    address1: 1, Lenin Street
+    city: Kaspiysk
+    postal_code: '368300'
+    country: Russia
+id_list:
+  items:
+  - uid: '25233'
+    id_type: Registration Number
+    id_number: '1020502130351'
+    id_country: Russia
+  - uid: '25234'
+    id_type: Tax ID No.
+    id_number: '0545001919'
+    id_country: Russia
+  - uid: '149082'
+    id_type: Organization Established Date
+    id_number: '1932'
+  - uid: '173284'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: JOINT STOCK COMPANY CONCERN SEA UNDERWATER WEAPON GIDROPRIBOR)"

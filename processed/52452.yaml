@@ -1,0 +1,32 @@
+---
+uid: '52452'
+first_name: Jose Ramon
+last_name: FIGUERA VALDEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+address_list:
+  items:
+  - uid: '80108'
+    city: Caracas
+    country: Venezuela
+id_list:
+  items:
+  - uid: '45430'
+    id_type: Cedula No.
+    id_number: V-11344561
+    id_country: Venezuela
+  - uid: '184065'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '84063'
+    date_of_birth: 13 Oct 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '84064'
+    place_of_birth: Maturin, Venezuela
+    main_entry: 'true'

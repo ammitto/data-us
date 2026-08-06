@@ -1,0 +1,37 @@
+---
+uid: '48551'
+last_name: JOINT STOCK COMPANY JUPITER PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75461'
+    type: a.k.a.
+    category: strong
+    last_name: JSC ZAVOD YUPITER
+  - uid: '75462'
+    type: a.k.a.
+    category: strong
+    last_name: ZAO ZAVOD YUPITER
+address_list:
+  items:
+  - uid: '72891'
+    address1: Ul. Pobedy D. 107, Korp. 1
+    city: Valday
+    postal_code: '175400'
+    country: Russia
+id_list:
+  items:
+  - uid: '39504'
+    id_type: Registration Number
+    id_number: '1057806863883'
+    id_country: Russia
+  - uid: '39505'
+    id_type: Tax ID No.
+    id_number: '7838027959'
+    id_country: Russia
+  - uid: '171204'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

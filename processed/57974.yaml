@@ -1,0 +1,38 @@
+---
+uid: '57974'
+first_name: Enrique Daniel
+last_name: PALACIOS QUINTANILLA
+sdn_type: Individual
+program_list:
+  programs:
+  - SUDAN-EO14098
+address_list:
+  items:
+  - uid: '88968'
+    city: Panama City
+    country: Panama
+id_list:
+  items:
+  - uid: '52497'
+    id_type: Cedula No.
+    id_number: '87891056'
+    id_country: Panama
+  - uid: '52498'
+    id_type: Passport
+    id_number: PA0803127
+    id_country: Panama
+    expiration_date: 01 Oct 2026
+  - uid: '198841'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '98840'
+    date_of_birth: 15 Oct 1985
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '98842'
+    place_of_birth: Panama
+    main_entry: 'true'
+remarks: "(Linked To: TALENT BRIDGE, S.A.)"

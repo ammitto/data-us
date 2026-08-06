@@ -1,0 +1,38 @@
+---
+uid: '36422'
+last_name: LIMITED LIABILITY COMPANY SBERBANK REAL ESTATE CENTER
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '57383'
+    type: a.k.a.
+    category: weak
+    last_name: SREC LLC
+  - uid: '57384'
+    type: a.k.a.
+    category: strong
+    last_name: TSENTR NEDVIZHIMOSTI OT SBERBANKA
+address_list:
+  items:
+  - uid: '54719'
+    address1: 32/1 Kutuzovsky Ave
+    city: Moscow
+    postal_code: '121170'
+    country: Russia
+id_list:
+  items:
+  - uid: '25822'
+    id_type: Tax ID No.
+    id_number: '7736249247'
+    id_country: Russia
+  - uid: '25823'
+    id_type: Registration Number
+    id_number: '1157746652150'
+    id_country: Russia
+  - uid: '174203'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)"

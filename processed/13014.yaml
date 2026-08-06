@@ -1,0 +1,48 @@
+---
+uid: '13014'
+last_name: GEOFARMA S.A. DE C.V.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '20718'
+    address1: Colonias No. 269
+    city: Guadalajara
+    state_or_province: Jalisco
+    postal_code: '44100'
+    country: Mexico
+  - uid: '20719'
+    address1: Calle Nueva York No. 304
+    address2: Col. Napoles
+    address3: Benito Juarez
+    city: Mexico City
+    state_or_province: Distrito Federal
+    postal_code: '03810'
+    country: Mexico
+  - uid: '20720'
+    address1: Wisconsin No. 68
+    address2: Col. Napoles
+    address3: Benito Juarez
+    city: Mexico City
+    state_or_province: Distrito Federal
+    postal_code: '03810'
+    country: Mexico
+  - uid: '20721'
+    address1: Uno No. 110
+    address2: Col. Revoluciones
+    city: Boca Del Rio
+    state_or_province: Veracruz
+    postal_code: '94296'
+    country: Mexico
+id_list:
+  items:
+  - uid: '7435'
+    id_type: R.F.C.
+    id_number: GEO000810UD5
+    id_country: Mexico
+  - uid: '7436'
+    id_type: Folio Mercantil No.
+    id_number: '265072'
+    id_country: Mexico

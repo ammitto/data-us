@@ -1,0 +1,32 @@
+---
+uid: '32124'
+last_name: VABO 2017 OOD
+sdn_type: Entity
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '50475'
+    type: a.k.a.
+    category: strong
+    last_name: VABO 2017 LTD.
+address_list:
+  items:
+  - uid: '48414'
+    address1: 43 Moskovska Str.
+    address2: R-N Oborishte Distr
+    city: Sofia
+    state_or_province: Stolichna
+    postal_code: '1000'
+    country: Bulgaria
+id_list:
+  items:
+  - uid: '21915'
+    id_type: V.A.T. Number
+    id_number: BG 204811027
+    id_country: Bulgaria
+  - uid: '141148'
+    id_type: Organization Established Date
+    id_number: '2017'
+remarks: "(Linked To: VABO 2012 EOOD)"

@@ -1,0 +1,45 @@
+---
+uid: '47725'
+last_name: JOINT STOCK COMPANY TULA MACHINE BUILDING PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73988'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY TULAMASHZAVOD
+  - uid: '73990'
+    type: a.k.a.
+    category: strong
+    last_name: AO TULSKIY MASHINOSTROITELNIY ZAVOD
+  - uid: '73992'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO AKTSIONERNAIA KOMPANIIA TULAMASHZAVOD
+  - uid: '73995'
+    type: a.k.a.
+    category: strong
+    last_name: TULAMASHZAVOD PRODUCTION ASSOCIATION
+address_list:
+  items:
+  - uid: '71365'
+    address1: 2 Mosina St.
+    city: Tula
+    postal_code: '300002'
+    country: Russia
+id_list:
+  items:
+  - uid: '38372'
+    id_type: Tax ID No.
+    id_number: '7106002836'
+    id_country: Russia
+  - uid: '38373'
+    id_type: Registration Number
+    id_number: '1027100507114'
+    id_country: Russia
+  - uid: '169646'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

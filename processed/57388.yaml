@@ -1,0 +1,33 @@
+---
+uid: '57388'
+first_name: Mostafa
+last_name: ROKNIFARD
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+address_list:
+  items:
+  - uid: '87944'
+    city: Bandar Abbas
+    state_or_province: Hormozgan
+    country: Iran
+id_list:
+  items:
+  - uid: '51698'
+    id_type: National ID No.
+    id_number: '2291705083'
+    id_country: Iran
+  - uid: '197380'
+    id_type: Gender
+    id_number: Male
+  - uid: '197429'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '97379'
+    date_of_birth: 18 Sep 1977
+    main_entry: 'true'
+remarks: "(Linked To: ADAK PARGAS PARS TRADING COMPANY)"

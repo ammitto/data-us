@@ -1,0 +1,45 @@
+---
+uid: '11530'
+first_name: Ezequiel
+last_name: CARDENAS GUILLEN
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '12202'
+    type: a.k.a.
+    category: strong
+    last_name: CARDENAS GUILLEN
+    first_name: Antonio Ezequiel
+address_list:
+  items:
+  - uid: '17216'
+    address1: Calle Maples Y Abeto
+    address2: Fraccionamiento Las Arboleras
+    city: Matamoros
+    state_or_province: Tamaulipas
+    country: Mexico
+  - uid: '17217'
+    address1: Calle Cerro de Tepeyac No. 33
+    address2: Colonia Lucio Blanco
+    city: Matamoros
+    state_or_province: Tamaulipas
+    country: Mexico
+id_list:
+  items:
+  - uid: '5921'
+    id_type: C.U.R.P.
+    id_number: CAGE620305HTSRLZ08
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '6978'
+    date_of_birth: 05 Mar 1962
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '6979'
+    place_of_birth: Tamaulipas, Mexico
+    main_entry: 'true'

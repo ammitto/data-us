@@ -1,0 +1,65 @@
+---
+uid: '11967'
+first_name: Gregorio
+last_name: SAUCEDA GAMBOA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '18100'
+    address1: Avenida Manuel M. Ponce 2404
+    address2: Colonia Zaragoza
+    city: Nuevo Laredo
+    state_or_province: Tamaulipas
+    country: Mexico
+  - uid: '18101'
+    address1: Leonides Guerra No. 97 y Eugenio Lopez No. 97
+    address2: Colonia San Rafael
+    city: Matamoros
+    state_or_province: Tamaulipas
+    country: Mexico
+  - uid: '18102'
+    address1: Claveles No. 320, entre Retama y Palma
+    address2: Colonia Jardin
+    city: Reynosa
+    state_or_province: Tamaulipas
+    country: Mexico
+  - uid: '18103'
+    address1: Octava No. 433
+    address2: entre Fuente de Diana y Boulevard Oriente Dos
+    address3: Colonia Las Fuentes
+    city: Reynosa
+    state_or_province: Tamaulipas
+    country: Mexico
+  - uid: '18104'
+    address1: Calle Ciudad PEMEX
+    address2: Enseguida del Numero 512
+    address3: Colonia Jose de Escandon - Petrolera
+    city: Reynosa
+    state_or_province: Tamaulipas
+    country: Mexico
+id_list:
+  items:
+  - uid: '6296'
+    id_type: C.U.R.P.
+    id_number: SAXG651105HTSCXR07
+    id_country: Mexico
+  - uid: '6297'
+    id_type: Electoral Registry No.
+    id_number: SCGMGR65110528H300
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '7441'
+    date_of_birth: 05 Nov 1965
+    main_entry: 'true'
+  - uid: '7442'
+    date_of_birth: 05 May 1965
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '7443'
+    place_of_birth: Tamaulipas, Mexico
+    main_entry: 'true'

@@ -1,0 +1,53 @@
+---
+uid: '50415'
+first_name: Anna Stanislavovna
+last_name: MOLCHANOVA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78805'
+    type: a.k.a.
+    category: strong
+    last_name: MOLCHANOVA
+    first_name: Hanna Stanislavivna
+address_list:
+  items:
+  - uid: '76440'
+    address1: 30 Krasnodontsev Boulevard
+    city: Sevastopol
+    state_or_province: Crimea
+    country: Ukraine
+  - uid: '76441'
+    address1: Apartment 18, 2/6 Zagorodnya Balka Boulevard
+    city: Sevastopol
+    country: Ukraine
+id_list:
+  items:
+  - uid: '42203'
+    id_type: Tax ID No.
+    id_number: '920150546734'
+    id_country: Russia
+  - uid: '42204'
+    id_type: Tax ID No.
+    id_number: '3253604269'
+    id_country: Ukraine
+  - uid: '178392'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '178395'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '78393'
+    date_of_birth: 29 Jan 1989
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '78394'
+    place_of_birth: Monastyryshche, Cherkaska Region, Ukraine
+    main_entry: 'true'
+remarks: "(Linked To: ALL RUSSIAN PUBLIC STATE MOVEMENT OF CHILDREN AND YOUTH)"

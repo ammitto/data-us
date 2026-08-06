@@ -1,0 +1,46 @@
+---
+uid: '40575'
+last_name: MK INTERROS INVEST
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63070'
+    type: f.k.a.
+    category: strong
+    last_name: OLDERFREY HOLDINGS LIMITED
+  - uid: '63146'
+    type: a.k.a.
+    category: strong
+    last_name: INTERNATIONAL LIMITED LIABILITY COMPANY INTERROS INVEST
+  - uid: '63147'
+    type: f.k.a.
+    category: strong
+    last_name: INTERROS LIMITED
+address_list:
+  items:
+  - uid: '60445'
+    address1: Building 8, Office 201/2, Melkovodny Village
+    city: Russky Island
+    state_or_province: Primorsky Krai
+    postal_code: '690922'
+    country: Russia
+id_list:
+  items:
+  - uid: '29723'
+    id_type: Registration Number
+    id_number: '1232500000325'
+    id_country: Russia
+  - uid: '29776'
+    id_type: Tax ID No.
+    id_number: '2540273856'
+    id_country: Russia
+  - uid: '174121'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '157931'
+    id_type: Organization Established Date
+    id_number: 13 Jan 2023
+remarks: "(Linked To: POTANIN, Vladimir Olegovich)"

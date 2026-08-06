@@ -1,0 +1,42 @@
+---
+uid: '52591'
+first_name: Oleg Nikolayevich
+last_name: KIRYUSHKIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '82316'
+    type: a.k.a.
+    category: strong
+    last_name: KIRIUSHKIN
+    first_name: Oleg
+address_list:
+  items:
+  - uid: '80328'
+    address1: 'Sredniy V. O. Pr-Kt, House #85, Apartment 129'
+    city: Saint Petersburg
+    country: Russia
+id_list:
+  items:
+  - uid: '45631'
+    id_type: Tax ID No.
+    id_number: '784190488817'
+    id_country: Russia
+  - uid: '45847'
+    id_type: Passport
+    id_number: C1P3KMKC1
+    id_country: Germany
+  - uid: '184333'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184332'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '84557'
+    date_of_birth: 24 Jan 1948
+    main_entry: 'true'

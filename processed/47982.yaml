@@ -1,0 +1,35 @@
+---
+uid: '47982'
+last_name: IMPORTEKS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '71885'
+    address1: ul. Svetlanskaya d.133, kvartira 16
+    city: Vladivostok
+    postal_code: '690001'
+    country: Russia
+  - uid: '71886'
+    address1: 1st floor, 53b, Nekrasovskaya St.
+    city: Vladivostok
+    country: Russia
+  - uid: '71887'
+    address1: Office 31, 7th floor, 16, Raketny Boulevard St.
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '38831'
+    id_type: Registration Number
+    id_number: '1132543023612'
+    id_country: Russia
+  - uid: '38832'
+    id_type: Tax ID No.
+    id_number: '2543036719'
+    id_country: Russia
+  - uid: '176570'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

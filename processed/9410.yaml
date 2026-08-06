@@ -1,0 +1,37 @@
+---
+uid: '9410'
+first_name: Jorge Arturo
+last_name: LICON MUNOZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '11685'
+    country: Mexico
+  - uid: '12758'
+    address1: c/o CORRALES SAN IGNACIO S.P.R. DE R.L. DE C.V.
+    city: Saucillo
+    state_or_province: Chihuahua
+    country: Mexico
+  - uid: '12759'
+    address1: c/o CORRALES SAN IGNACIO L.L.C.
+    city: Presidio
+    state_or_province: TX
+    country: United States
+id_list:
+  items:
+  - uid: '4056'
+    id_type: Immigration No.
+    id_number: A7800002 Border Crossing
+    id_country: United States
+  - uid: '4470'
+    id_type: C.U.R.P.
+    id_number: LIMJ740517HCHCXR09
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '4391'
+    date_of_birth: 17 May 1974
+    main_entry: 'true'

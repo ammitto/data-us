@@ -1,0 +1,70 @@
+---
+uid: '13095'
+first_name: Mochammad
+last_name: ACHWAN
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '14657'
+    type: a.k.a.
+    category: strong
+    last_name: ACHWAN
+    first_name: Muhammad
+  - uid: '14658'
+    type: a.k.a.
+    category: strong
+    last_name: AKHWAN
+    first_name: Muhammad
+  - uid: '14659'
+    type: a.k.a.
+    category: strong
+    last_name: ACHWAN
+    first_name: Mochtar
+  - uid: '14660'
+    type: a.k.a.
+    category: strong
+    last_name: AKHWAN
+    first_name: Mochtar
+  - uid: '14661'
+    type: a.k.a.
+    category: strong
+    last_name: AKWAN
+    first_name: Mochtar
+  - uid: '14662'
+    type: a.k.a.
+    category: strong
+    last_name: ACHWAN
+    first_name: Mochdar
+address_list:
+  items:
+  - uid: '20913'
+    address1: Jalan Ir. H. Juanda 8/10, RT/RW 002/001
+    address2: Jodipan, Blimbing
+    city: Malang
+    country: Indonesia
+id_list:
+  items:
+  - uid: '7584'
+    id_type: National ID No.
+    id_number: '3573010405480001'
+    id_country: Indonesia
+  - uid: '186076'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '8939'
+    date_of_birth: 04 May 1948
+    main_entry: 'true'
+  - uid: '8940'
+    date_of_birth: 04 May 1946
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '8941'
+    place_of_birth: Tulungagung, Indonesia
+    main_entry: 'true'

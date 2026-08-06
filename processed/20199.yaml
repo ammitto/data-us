@@ -1,0 +1,56 @@
+---
+uid: '20199'
+last_name: OOO SHIPYARD 'ZALIV'
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13685
+aka_list:
+  items:
+  - uid: '31808'
+    type: a.k.a.
+    category: strong
+    last_name: ZALIV SHIPYARD LLC
+  - uid: '31809'
+    type: a.k.a.
+    category: strong
+    last_name: LLC SHIPYARD 'ZALIV'
+  - uid: '31812'
+    type: f.k.a.
+    category: strong
+    last_name: JSC SHIPYARD 'ZALIV'
+  - uid: '31813'
+    type: f.k.a.
+    category: strong
+    last_name: JSC ZALIV SHIPYARD
+  - uid: '31814'
+    type: f.k.a.
+    category: strong
+    last_name: OJSC ZALIV SHIPYARD
+  - uid: '32128'
+    type: f.k.a.
+    category: strong
+    last_name: AO SHIPYARD 'ZALIV'
+address_list:
+  items:
+  - uid: '30509'
+    address1: 4 Tankistov Street
+    city: Kerch
+    state_or_province: Crimea
+    postal_code: '98310'
+    country: Ukraine
+id_list:
+  items:
+  - uid: '143918'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '120660'
+    id_type: Website
+    id_number: http://www.zalivkerch.com/
+  - uid: '120662'
+    id_type: Website
+    id_number: http://www.zaliv.com/
+  - uid: '120659'
+    id_type: Email Address
+    id_number: zaliv@zalivkerch.com

@@ -1,0 +1,42 @@
+---
+uid: '40240'
+first_name: Oleg Alekseyevich
+last_name: NIKOLAYEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '62578'
+    type: a.k.a.
+    category: strong
+    last_name: NIKOLAEV
+    first_name: Oleg Alekseevich
+address_list:
+  items:
+  - uid: '59972'
+    state_or_province: Chuvash Republic
+    country: Russia
+id_list:
+  items:
+  - uid: '29424'
+    id_type: Tax ID No.
+    id_number: '212901690570'
+    id_country: Russia
+  - uid: '174043'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '157196'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '57198'
+    date_of_birth: 10 Dec 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '57200'
+    place_of_birth: Cherbay, Chuvash Republic, Russia
+    main_entry: 'true'

@@ -1,0 +1,51 @@
+---
+uid: '44017'
+first_name: Hamid Reza
+last_name: NOORI
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '68048'
+    type: a.k.a.
+    category: strong
+    last_name: NURI
+    first_name: Hamid Reza
+address_list:
+  items:
+  - uid: '65505'
+    country: Iran
+id_list:
+  items:
+  - uid: '33397'
+    id_type: National ID No.
+    id_number: '1290992118'
+    id_country: Iran
+  - uid: '33398'
+    id_type: Passport
+    id_number: G10506784
+    id_country: Iran
+  - uid: '33399'
+    id_type: Passport
+    id_number: G9329064
+    id_country: Iran
+  - uid: '163581'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '163580'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '63577'
+    date_of_birth: 04 Feb 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '63578'
+    place_of_birth: Esfahan, Iran
+    main_entry: 'true'
+remarks: "(Linked To: IRAN AIRCRAFT MANUFACTURING INDUSTRIAL COMPANY)"

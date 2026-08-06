@@ -1,0 +1,37 @@
+---
+uid: '48864'
+last_name: JOINT STOCK COMPANY PRODUCTION ENTERPRISE RADAR 2633
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76115'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO PROIZVODSTVENNOE PREDPRIIATIE RADAR 2633
+  - uid: '76116'
+    type: a.k.a.
+    category: strong
+    last_name: AO RADAR 2633
+address_list:
+  items:
+  - uid: '73489'
+    address1: 30 Smirnovskaya Street
+    city: Lyubertsy
+    postal_code: '140000'
+    country: Russia
+id_list:
+  items:
+  - uid: '39930'
+    id_type: Tax ID No.
+    id_number: '5027149374'
+    id_country: Russia
+  - uid: '39931'
+    id_type: Registration Number
+    id_number: '1095027005820'
+    id_country: Russia
+  - uid: '171562'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

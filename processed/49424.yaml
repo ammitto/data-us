@@ -1,0 +1,38 @@
+---
+uid: '49424'
+last_name: JOINT STOCK COMPANY BELARUSREZINOTEKHNIKA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77091'
+    type: a.k.a.
+    category: strong
+    last_name: BELARUSREZINOTECHNIKA OJSC
+  - uid: '77092'
+    type: a.k.a.
+    category: weak
+    last_name: AO BRT
+address_list:
+  items:
+  - uid: '74514'
+    address1: 102 Minskaya Str.
+    city: Bobruisk
+    postal_code: '213829'
+    country: Belarus
+id_list:
+  items:
+  - uid: '40717'
+    id_type: Registration Number
+    id_number: '70069297'
+    id_country: Belarus
+  - uid: '40718'
+    id_type: Government Gazette Number
+    id_number: '1494387000'
+    id_country: Belarus
+  - uid: '172734'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: JOINT STOCK COMPANY 81 ARMORED FIGHTING VEHICLES REPAIR PLANT)"

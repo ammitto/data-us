@@ -1,0 +1,38 @@
+---
+uid: '54567'
+last_name: AEZA INTERNATIONAL, LTD.
+sdn_type: Entity
+program_list:
+  programs:
+  - CYBER4
+address_list:
+  items:
+  - uid: '83322'
+    address1: 347 Barking Road
+    city: London
+    postal_code: E13 8EE
+    country: United Kingdom
+  - uid: '83323'
+    address1: 311 Shoreham Street
+    city: Sheffield
+    postal_code: S2 4FA
+    country: United Kingdom
+  - uid: '83324'
+    address1: 71-75 Shelton Street
+    address2: Covent Garden
+    city: London
+    postal_code: WC2H 9JQ
+    country: United Kingdom
+id_list:
+  items:
+  - uid: '48210'
+    id_type: Company Number
+    id_number: '15109642'
+    id_country: United Kingdom
+  - uid: '190671'
+    id_type: Organization Established Date
+    id_number: 01 Sep 2023
+  - uid: '190672'
+    id_type: Website
+    id_number: aeza.net
+remarks: "(Linked To: AEZA GROUP LLC)"

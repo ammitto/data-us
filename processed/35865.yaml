@@ -1,0 +1,41 @@
+---
+uid: '35865'
+last_name: AKTSIONERNOE OBSHCHESTVO PETROVSKII ELEKTROMEKHANICHESKII ZAVOD MOLOT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56342'
+    type: a.k.a.
+    category: strong
+    last_name: AO PEMZ MOLOT
+  - uid: '56343'
+    type: a.k.a.
+    category: strong
+    last_name: PETROVSKY ELECTROMECHANICAL ZAVOD MOLOT
+address_list:
+  items:
+  - uid: '53812'
+    address1: Ul. Gogolya D. 40
+    city: Petrovsk
+    postal_code: '412540'
+    country: Russia
+id_list:
+  items:
+  - uid: '25183'
+    id_type: Registration Number
+    id_number: '5067847016782'
+    id_country: Russia
+  - uid: '25184'
+    id_type: Tax ID No.
+    id_number: '6444009038'
+    id_country: Russia
+  - uid: '149057'
+    id_type: Organization Established Date
+    id_number: 27 Dec 1991
+  - uid: '173260'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: JOINT STOCK COMPANY CONCERN GRANIT-ELECTRON)"

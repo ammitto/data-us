@@ -1,0 +1,42 @@
+---
+uid: '35882'
+last_name: AKTSIONERNOE OBSHCHESTVO TURAEVSKOE MASHINOSTROITELNOE KONSTRUKTORSKOE
+  BYURO SOYUZ
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56401'
+    type: a.k.a.
+    category: strong
+    last_name: AO TMKB SOYUZ
+  - uid: '56402'
+    type: a.k.a.
+    category: strong
+    last_name: SOYUZ TURAEVO ENGINEERING DESIGN BUREAU JSC
+address_list:
+  items:
+  - uid: '53847'
+    address1: Ter. Promzona Turaevo Str 10
+    city: Lytkarino
+    postal_code: '140080'
+    country: Russia
+id_list:
+  items:
+  - uid: '25219'
+    id_type: Tax ID No.
+    id_number: '5026000759'
+    id_country: Russia
+  - uid: '25220'
+    id_type: Registration Number
+    id_number: '1035004901700'
+    id_country: Russia
+  - uid: '173277'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '149075'
+    id_type: Organization Established Date
+    id_number: 01 Aug 1964
+remarks: "(Linked To: TACTICAL MISSILES CORPORATION JSC)"

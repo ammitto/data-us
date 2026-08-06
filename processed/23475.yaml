@@ -1,0 +1,38 @@
+---
+uid: '23475'
+last_name: IRANIAN ISLAMIC REVOLUTIONARY GUARD CORPS CYBER-ELECTRONIC COMMAND
+sdn_type: Entity
+program_list:
+  programs:
+  - HRIT-IR
+  - IRGC
+  - SDGT
+  - IFSR
+aka_list:
+  items:
+  - uid: '37002'
+    type: a.k.a.
+    category: strong
+    last_name: IRGC JANGAL ORGANIZATION
+  - uid: '73483'
+    type: a.k.a.
+    category: strong
+    last_name: IRGC-CEC
+  - uid: '73484'
+    type: f.k.a.
+    category: strong
+    last_name: ISLAMIC REVOLUTIONARY GUARD CORPS ELECTRONIC WARFARE AND CYBER DEFENSE
+      ORGANIZATION
+address_list:
+  items:
+  - uid: '35490'
+    country: Iran
+id_list:
+  items:
+  - uid: '125297'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '186672'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886

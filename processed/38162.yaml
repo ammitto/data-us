@@ -1,0 +1,39 @@
+---
+uid: '38162'
+last_name: MITISHINSKIY SCIENTIFIC RESEARCH INSTITUTE OF RADIO MEASURING INSTRUMENTS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59884'
+    type: a.k.a.
+    category: strong
+    last_name: MYTISHCHI RESEARCH INSTITUTE FOR RF MEASUREMENT INSTRUMENTS
+  - uid: '59885'
+    type: a.k.a.
+    category: strong
+    last_name: FEDERAL STATE UNITARY ENTERPRISE MNIIRIP
+address_list:
+  items:
+  - uid: '57176'
+    address1: ul Kolpakova, 2A / lit B1
+    address2: 3 etazh Kabinet 86,87
+    city: Mytishchi
+    state_or_province: Moskovskaya
+    postal_code: '141002'
+    country: Russia
+id_list:
+  items:
+  - uid: '27445'
+    id_type: Tax ID No.
+    id_number: '5029008940'
+    id_country: Russia
+  - uid: '27446'
+    id_type: Registration Number
+    id_number: '1035005501629'
+    id_country: Russia
+  - uid: '174642'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

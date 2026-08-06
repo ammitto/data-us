@@ -1,0 +1,34 @@
+---
+uid: '40822'
+last_name: LIMITED LIABILITY COMPANY RUSSUL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63517'
+    type: a.k.a.
+    category: strong
+    last_name: RUSSUL OOO
+address_list:
+  items:
+  - uid: '60864'
+    address1: vn.ter.g. munitsipalny okrug Yakimanka
+    address2: per 2-i Babegorodski, d.29, pomeshch. 11
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '30045'
+    id_type: Tax ID No.
+    id_number: '9706016513'
+    id_country: Russia
+  - uid: '30046'
+    id_type: Registration Number
+    id_number: '1217700270831'
+    id_country: Russia
+  - uid: '174160'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: UDODOV, Aleksandr Yevgenyevich)"

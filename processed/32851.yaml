@@ -1,0 +1,52 @@
+---
+uid: '32851'
+first_name: Vladimir Alexandrovich
+last_name: PANYAEV
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+  - MAGNIT
+aka_list:
+  items:
+  - uid: '51689'
+    type: a.k.a.
+    category: strong
+    last_name: PANYAEV
+    first_name: Vladimir
+  - uid: '51690'
+    type: a.k.a.
+    category: strong
+    last_name: PANAIEV
+    first_name: Vladimir Aleksandrovich
+  - uid: '51691'
+    type: a.k.a.
+    category: strong
+    last_name: ALEXEEV
+    first_name: Vladimir
+  - uid: '51692'
+    type: a.k.a.
+    category: strong
+    last_name: ALEXEYEV
+    first_name: Vladimir
+address_list:
+  items:
+  - uid: '49481'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '142602'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '42600'
+    date_of_birth: 25 Nov 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '42601'
+    place_of_birth: Serdobsk, Penza Oblast, Russia
+    main_entry: 'true'
+remarks: "(Linked To: FEDERAL SECURITY SERVICE)"

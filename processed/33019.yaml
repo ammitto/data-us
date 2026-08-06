@@ -1,0 +1,40 @@
+---
+uid: '33019'
+first_name: Denis Grigorievich
+last_name: CHEMODANOV
+sdn_type: Individual
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '51930'
+    type: a.k.a.
+    category: strong
+    last_name: CHEMODANOV
+    first_name: Denis
+address_list:
+  items:
+  - uid: '49684'
+    address1: 40-let Pobyedy St., 34-41
+    city: Borovlyany village
+    state_or_province: Minsk Region
+    country: Belarus
+id_list:
+  items:
+  - uid: '22712'
+    id_type: National ID No.
+    id_number: 3110977B057PB9
+    id_country: Belarus
+  - uid: '22713'
+    id_type: Tax ID No.
+    id_number: KA6808948
+    id_country: Belarus
+  - uid: '142783'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '42784'
+    date_of_birth: 11 Sep 1977
+    main_entry: 'true'

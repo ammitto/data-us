@@ -1,0 +1,52 @@
+---
+uid: '51718'
+last_name: JOINT STOCK COMPANY AUTO FINANCE BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '81020'
+    type: a.k.a.
+    category: weak
+    last_name: JOINT STOCK COMPANY RN BANK
+  - uid: '81021'
+    type: a.k.a.
+    category: weak
+    last_name: CLOSED JOINT STOCK COMPANY BANK SIBIR
+address_list:
+  items:
+  - uid: '78811'
+    address1: 29 Serebryanicheskaya nab.
+    city: Moscow
+    postal_code: '109028'
+    country: Russia
+id_list:
+  items:
+  - uid: '44284'
+    id_type: Global Intermediary Identification Number
+    id_number: 1MWB9D.99999.SL.643
+  - uid: '44285'
+    id_type: Legal Entity Number
+    id_number: 25340001RLM1RS3CX190
+  - uid: '44286'
+    id_type: Registration Number
+    id_number: '1025500003737'
+    id_country: Russia
+  - uid: '44287'
+    id_type: Tax ID No.
+    id_number: '5503067018'
+    id_country: Russia
+  - uid: '181799'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '181802'
+    id_type: SWIFT/BIC
+    id_number: RNBKRUMM
+  - uid: '181801'
+    id_type: Website
+    id_number: autofinancebank.ru
+  - uid: '181800'
+    id_type: Target Type
+    id_number: Financial Institution

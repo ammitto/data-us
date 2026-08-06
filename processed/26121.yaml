@@ -1,0 +1,44 @@
+---
+uid: '26121'
+first_name: Andrey
+last_name: DOGAEV
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '41148'
+    type: a.k.a.
+    category: strong
+    last_name: DOGAYEV
+    first_name: Andrey Yuryevich
+  - uid: '41152'
+    type: a.k.a.
+    category: strong
+    last_name: DOGAYEV
+    first_name: Andrey
+id_list:
+  items:
+  - uid: '16798'
+    id_type: Passport
+    id_number: 72 9279533
+    id_country: Russia
+    issue_date: 27 Aug 2014
+    expiration_date: 27 Aug 2024
+  - uid: '190863'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '130429'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '30428'
+    date_of_birth: 19 Dec 1955
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '30430'
+    place_of_birth: Russia
+    main_entry: 'true'

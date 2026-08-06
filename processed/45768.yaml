@@ -1,0 +1,33 @@
+---
+uid: '45768'
+last_name: LIMITED COMPANY LASER SYSTEMS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70717'
+    type: a.k.a.
+    category: weak
+    last_name: LASER SYSTEMS LTD.
+address_list:
+  items:
+  - uid: '68096'
+    address1: Ul. Svyazi D.34 Liter A
+    city: Strelna
+    postal_code: '198515'
+    country: Russia
+id_list:
+  items:
+  - uid: '35512'
+    id_type: Registration Number
+    id_number: '1187847309913'
+    id_country: Russia
+  - uid: '35513'
+    id_type: Tax ID No.
+    id_number: '7819039902'
+    id_country: Russia
+  - uid: '176984'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

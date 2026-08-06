@@ -1,0 +1,81 @@
+---
+uid: '10692'
+first_name: Mahmoud Mohammad Ahmed
+last_name: BAHAZIQ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '10729'
+    type: a.k.a.
+    category: strong
+    last_name: BAHAZIQ
+    first_name: Mahmoud
+  - uid: '10730'
+    type: a.k.a.
+    category: weak
+    last_name: ABU 'ABD AL-'AZIZ
+  - uid: '10731'
+    type: a.k.a.
+    category: weak
+    last_name: ABU ABDUL AZIZ
+  - uid: '10732'
+    type: a.k.a.
+    category: weak
+    last_name: SHAYKH SAHIB
+  - uid: '14684'
+    type: a.k.a.
+    category: strong
+    last_name: BAHADHIQ
+    first_name: Mahmud
+  - uid: '14685'
+    type: a.k.a.
+    category: strong
+    last_name: BAHADHIQ
+    first_name: Mahmud Muhammad Ahmad
+address_list:
+  items:
+  - uid: '20918'
+    city: Jeddah
+    country: Saudi Arabia
+id_list:
+  items:
+  - uid: '5272'
+    id_type: Registration ID
+    id_number: 4-6032-0048-1
+    id_country: Saudi Arabia
+  - uid: '7597'
+    id_type: National ID No.
+    id_number: '1004860324'
+    id_country: Saudi Arabia
+  - uid: '7598'
+    id_type: Passport
+    id_number: C284181
+    id_country: Saudi Arabia
+    issue_date: 12 Aug 2000
+    expiration_date: 19 Jun 2005
+  - uid: '186348'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '6121'
+    date_of_birth: 17 Aug 1943
+    main_entry: 'true'
+  - uid: '6122'
+    date_of_birth: '1943'
+    main_entry: 'false'
+  - uid: '6123'
+    date_of_birth: '1944'
+    main_entry: 'false'
+  - uid: '8953'
+    date_of_birth: 21 Jun 1944
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '6124'
+    place_of_birth: India
+    main_entry: 'true'

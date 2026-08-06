@@ -1,0 +1,49 @@
+---
+uid: '47521'
+last_name: JOINT STOCK COMPANY DATABANK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73562'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMMERCIAL BANK IZHKOMBANK
+  - uid: '73563'
+    type: a.k.a.
+    category: strong
+    last_name: BANK IZHKOMBANK JSC
+address_list:
+  items:
+  - uid: '70945'
+    address1: Str Lenina 30
+    state_or_province: Izhevsk
+    postal_code: '426076'
+    country: Russia
+id_list:
+  items:
+  - uid: '38015'
+    id_type: Registration Number
+    id_number: '1021800000090'
+    id_country: Russia
+  - uid: '38016'
+    id_type: Tax ID No.
+    id_number: '1835047032'
+    id_country: Russia
+  - uid: '169044'
+    id_type: SWIFT/BIC
+    id_number: IZHBRU31
+  - uid: '169045'
+    id_type: Website
+    id_number: www.izhcombank.ru
+  - uid: '169046'
+    id_type: Website
+    id_number: online.databank.ru
+  - uid: '169047'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '176403'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

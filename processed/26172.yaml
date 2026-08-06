@@ -1,0 +1,43 @@
+---
+uid: '26172'
+first_name: Obac William
+last_name: OLAWO
+sdn_type: Individual
+program_list:
+  programs:
+  - SOUTH SUDAN
+aka_list:
+  items:
+  - uid: '41279'
+    type: a.k.a.
+    category: strong
+    last_name: OLAU
+    first_name: Obaj William
+  - uid: '41302'
+    type: a.k.a.
+    category: strong
+    last_name: OLAH
+    first_name: Ubac William
+address_list:
+  items:
+  - uid: '39786'
+    country: South Sudan
+id_list:
+  items:
+  - uid: '16867'
+    id_type: Passport
+    id_number: M6200000021304
+    id_country: South Sudan
+  - uid: '130638'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '30577'
+    date_of_birth: 01 Jan 1962
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '30579'
+    place_of_birth: Malakal, South Sudan
+    main_entry: 'true'

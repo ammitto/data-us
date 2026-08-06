@@ -1,0 +1,65 @@
+---
+uid: '9345'
+last_name: KOREA MINING DEVELOPMENT TRADING CORPORATION
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+  - DPRK2
+aka_list:
+  items:
+  - uid: '8816'
+    type: a.k.a.
+    category: strong
+    last_name: NORTH KOREAN MINING DEVELOPMENT TRADING CORPORATION
+  - uid: '8817'
+    type: a.k.a.
+    category: weak
+    last_name: KOMID
+  - uid: '8818'
+    type: a.k.a.
+    category: strong
+    last_name: CHANGGWANG SINYONG CORPORATION
+  - uid: '8819'
+    type: a.k.a.
+    category: strong
+    last_name: EXTERNAL TECHNOLOGY GENERAL CORPORATION
+  - uid: '23336'
+    type: a.k.a.
+    category: strong
+    last_name: KOREA KUMRYONG TRADING COMPANY
+  - uid: '27210'
+    type: a.k.a.
+    category: strong
+    last_name: DPRKN MINING DEVELOPMENT TRADING COOPERATION
+  - uid: '27211'
+    type: a.k.a.
+    category: strong
+    last_name: KOREAN MINING AND INDUSTRIAL DEVELOPMENT CORPORATION
+address_list:
+  items:
+  - uid: '11532'
+    address1: Central District
+    city: Pyongyang
+    country: Korea, North
+  - uid: '26782'
+    city: Beijing
+    country: China
+  - uid: '26783'
+    city: Moscow
+    country: Russia
+  - uid: '26784'
+    city: Tehran
+    country: Iran
+  - uid: '26785'
+    city: Damascus
+    country: Syria
+id_list:
+  items:
+  - uid: '134855'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '127626'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210

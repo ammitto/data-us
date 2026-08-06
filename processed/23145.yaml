@@ -1,0 +1,34 @@
+---
+uid: '23145'
+last_name: FORENT TECHNIK GMBH
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - SDGT
+  - IRGC
+address_list:
+  items:
+  - uid: '34972'
+    address1: Konrad-Duden-Weg 1
+    city: Frankfurt am Main
+    state_or_province: Hessen
+    postal_code: '60437'
+    country: Germany
+id_list:
+  items:
+  - uid: '14579'
+    id_type: Registration ID
+    id_number: 60313B102980
+    id_country: Germany
+  - uid: '14580'
+    id_type: Registration ID
+    id_number: HRB102980
+    id_country: Germany
+  - uid: '124800'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '186663'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886

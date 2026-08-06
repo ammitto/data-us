@@ -1,0 +1,46 @@
+---
+uid: '48862'
+last_name: VOLGOGRAD MACHINE BUILDING COMPANY LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76108'
+    type: a.k.a.
+    category: weak
+    last_name: OOO VMK VGTZ
+  - uid: '76109'
+    type: a.k.a.
+    category: strong
+    last_name: LLC VOLGOGRAD MACHINE BUILDING COMPANY VGTZ
+  - uid: '76110'
+    type: a.k.a.
+    category: strong
+    last_name: VOLGOGRAD TRACTOR PLANT
+  - uid: '76112'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTIU VOLGOGRADSKAIA MASHINOSTROITELNAIA
+      KOMPANIIA VGTZ
+address_list:
+  items:
+  - uid: '73486'
+    address1: 1 Dzerzhinskogo Pl
+    city: Volgograd
+    postal_code: '400006'
+    country: Russia
+id_list:
+  items:
+  - uid: '39928'
+    id_type: Tax ID No.
+    id_number: '3441023695'
+    id_country: Russia
+  - uid: '39929'
+    id_type: Registration Number
+    id_number: '1023402461752'
+    id_country: Russia
+  - uid: '171561'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,49 @@
+---
+uid: '39277'
+last_name: IRAN CHEMICAL INDUSTRIES INVESTMENT COMPANY PUBLIC JOINT STOCK
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13846
+aka_list:
+  items:
+  - uid: '61329'
+    type: a.k.a.
+    category: weak
+    last_name: ICIIC
+  - uid: '61342'
+    type: a.k.a.
+    category: strong
+    last_name: IRAN CHEMICAL INDUSTRIES INVESTMENT COMPANY
+address_list:
+  items:
+  - uid: '58525'
+    address1: KM 15 of Isfahan-Teheran Road
+    city: Isfahan
+    postal_code: '8235144114'
+    country: Iran
+  - uid: '58526'
+    address1: No. 16 Shahid Saidi St. Hafez Shirazi, Nelson Mandela St. Africa
+    city: Tehran
+    postal_code: '1967963735'
+    country: Iran
+id_list:
+  items:
+  - uid: '28479'
+    id_type: Business Registration Number
+    id_number: '8027'
+    id_country: Iran
+  - uid: '28480'
+    id_type: National ID No.
+    id_number: '10100970248'
+    id_country: Iran
+  - uid: '155116'
+    id_type: Organization Established Date
+    id_number: '1984'
+  - uid: '155149'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '155117'
+    id_type: Website
+    id_number: www.iciiclab.com
+remarks: "(Linked To: TRILIANCE PETROCHEMICAL CO. LTD.)"

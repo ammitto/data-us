@@ -1,0 +1,64 @@
+---
+uid: '18770'
+last_name: OPEN JOINT STOCK COMPANY RUSSIAN ELECTRONICS
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13662
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '29503'
+    type: a.k.a.
+    category: strong
+    last_name: JSC RUSELECTRONICS
+  - uid: '59392'
+    type: a.k.a.
+    category: strong
+    last_name: AO ROSELEKTRONIKA
+  - uid: '59393'
+    type: a.k.a.
+    category: strong
+    last_name: JSC RUSSIAN ELECTRONICS
+address_list:
+  items:
+  - uid: '28535'
+    address1: 12 Kosmonavta Volkova
+    city: Moscow
+    postal_code: '127299'
+    country: Russia
+  - uid: '56615'
+    address1: Ul. Vereiskaya D. 29
+    address2: Str. 141
+    city: Moscow
+    postal_code: '121357'
+    country: Russia
+id_list:
+  items:
+  - uid: '11020'
+    id_type: Registration ID
+    id_number: '1027739000475'
+    id_country: Russia
+  - uid: '11021'
+    id_type: Government Gazette Number
+    id_number: '48532918'
+    id_country: Russia
+  - uid: '11022'
+    id_type: Tax ID No.
+    id_number: '7710277994'
+    id_country: Russia
+  - uid: '118238'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 3
+  - uid: '173906'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '143501'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '152844'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
+remarks: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: STATE CORPORATION ROSTEC)'

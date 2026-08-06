@@ -1,0 +1,44 @@
+---
+uid: '52161'
+last_name: BLACK PEARL ENERGY TRADING LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '81682'
+    type: a.k.a.
+    category: strong
+    last_name: OGC SHIPPING LLC FZ
+  - uid: '81683'
+    type: a.k.a.
+    category: strong
+    last_name: BLACK PEARL ENERGY TRADING LLC FZ
+  - uid: '81866'
+    type: a.k.a.
+    category: strong
+    last_name: STARLINE MANAGEMENT FZ LLC
+address_list:
+  items:
+  - uid: '79611'
+    address1: Business Center 1, M Floor, The Meydan Hotel, Nad Al Sheba
+    city: Dubai
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '45053'
+    id_type: Registration Number
+    id_number: '2201205'
+    id_country: United Arab Emirates
+  - uid: '183059'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183244'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '183058'
+    id_type: Organization Established Date
+    id_number: 30 Mar 2022

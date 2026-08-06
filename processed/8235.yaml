@@ -1,0 +1,43 @@
+---
+uid: '8235'
+first_name: Francisco Javier
+last_name: ARELLANO FELIX
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '6440'
+    type: a.k.a.
+    category: strong
+    last_name: ARELLANO FELIX
+    first_name: Javier
+  - uid: '6441'
+    type: a.k.a.
+    category: strong
+    last_name: BELTRAN MEZA
+    first_name: Ramon
+  - uid: '6442'
+    type: a.k.a.
+    category: strong
+    last_name: DIAZ MEDINA
+    first_name: Javier
+  - uid: '6443'
+    type: a.k.a.
+    category: strong
+    last_name: LARA ALVAREZ
+    first_name: Jose Luis
+date_of_birth_list:
+  items:
+  - uid: '2623'
+    date_of_birth: 21 Nov 1969
+    main_entry: 'true'
+  - uid: '2625'
+    date_of_birth: 12 Dec 1969
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '2624'
+    place_of_birth: Culiacan, Sinaloa, Mexico
+    main_entry: 'true'

@@ -1,0 +1,47 @@
+---
+uid: '57034'
+first_name: Song Guk
+last_name: YUN
+sdn_type: Individual
+program_list:
+  programs:
+  - DPRK4
+aka_list:
+  items:
+  - uid: '88368'
+    type: a.k.a.
+    category: strong
+    last_name: YUN
+    first_name: So'ng-kuk
+address_list:
+  items:
+  - uid: '87282'
+    city: Boten
+    country: Laos
+id_list:
+  items:
+  - uid: '51223'
+    id_type: Passport
+    id_number: '180131469'
+    id_country: Korea, North
+  - uid: '196394'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '196395'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '196306'
+    id_type: Gender
+    id_number: Male
+  - uid: '196304'
+    id_type: Digital Currency Address - ETH
+    id_number: '0xb637f84b66876ebf609c2a4208905f9ddac9d075'
+  - uid: '196305'
+    id_type: Digital Currency Address - ETH
+    id_number: '0x95584C303FCd48AF5c6B9873015f2AD0ca84EaE3'
+date_of_birth_list:
+  items:
+  - uid: '96303'
+    date_of_birth: 27 Jul 1969
+    main_entry: 'true'

@@ -1,0 +1,29 @@
+---
+uid: '54794'
+last_name: ZALE SHIPPING INC.
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '83711'
+    address1: Trust Company Complex
+    address2: Ajeltake Road
+    city: Ajeltake Island
+    state_or_province: Majuro
+    postal_code: '96960'
+    country: Marshall Islands
+id_list:
+  items:
+  - uid: '48542'
+    id_type: Identification Number
+    id_number: IMO 0108805
+  - uid: '48543'
+    id_type: Registration Number
+    id_number: '128589'
+    id_country: Marshall Islands
+  - uid: '191207'
+    id_type: Organization Established Date
+    id_number: 31 Oct 2024
+remarks: "(Linked To: SHAMKHANI, Mohammad Hossein)"

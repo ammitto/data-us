@@ -1,0 +1,70 @@
+---
+uid: '48323'
+first_name: Mazen Hassan
+last_name: AL-ZEIN
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '75078'
+    type: a.k.a.
+    category: strong
+    last_name: EL ZEIN
+    first_name: Mazen Hassan
+  - uid: '75079'
+    type: a.k.a.
+    category: weak
+    last_name: AL-ZAYN, Mazin
+  - uid: '75080'
+    type: a.k.a.
+    category: weak
+    last_name: EL ZEIN, Mazen
+address_list:
+  items:
+  - uid: '72491'
+    address1: Burj Daman Tower
+    address2: Apartment 3406
+    address3: Dubai International Financial Center
+    city: Dubai
+    postal_code: '99573'
+    country: United Arab Emirates
+  - uid: '72493'
+    address1: Al Mustaqbal Street
+    address2: Iris Bay Building, Apt. No. 2304
+    address3: Business Bay
+    city: Dubai
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '39188'
+    id_type: Identification Number
+    id_number: '178295160001'
+    id_country: United Kingdom
+  - uid: '39189'
+    id_type: National ID No.
+    id_number: '784197494718279'
+    id_country: Lebanon
+  - uid: '170800'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
+      Sanctions Regulations
+  - uid: '170540'
+    id_type: Gender
+    id_number: Male
+  - uid: '170537'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '70538'
+    date_of_birth: 21 Jun 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '70541'
+    place_of_birth: Beirut, Lebanon
+    main_entry: 'true'
+remarks: "(Linked To: MOUKALLED, Hassan Ahmed)"

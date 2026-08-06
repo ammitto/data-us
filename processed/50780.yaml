@@ -1,0 +1,41 @@
+---
+uid: '50780'
+last_name: ETS SIBERIA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79520'
+    type: a.k.a.
+    category: strong
+    last_name: ITS SIBIR
+  - uid: '79521'
+    type: a.k.a.
+    category: strong
+    last_name: LLC ITS SIBIR
+address_list:
+  items:
+  - uid: '77051'
+    address1: Severnoe shosse D 31
+    city: Krasnoyarsk
+    postal_code: '660020'
+    country: Russia
+  - uid: '77053'
+    address1: Severnoye highway, 16a
+    city: Krasnoyarsk
+    country: Russia
+id_list:
+  items:
+  - uid: '42686'
+    id_type: Registration Number
+    id_number: '1082468021910'
+    id_country: Russia
+  - uid: '42689'
+    id_type: Tax ID No.
+    id_number: '2466208907'
+    id_country: Russia
+  - uid: '179426'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

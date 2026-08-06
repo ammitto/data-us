@@ -1,0 +1,49 @@
+---
+uid: '48766'
+first_name: Sergei Vyacheslavovich
+last_name: MAKAROV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75910'
+    type: a.k.a.
+    category: strong
+    last_name: MAKAROV
+    first_name: Sergei
+address_list:
+  items:
+  - uid: '73317'
+    country: Austria
+id_list:
+  items:
+  - uid: '39815'
+    id_type: Passport
+    id_number: '750663876'
+    id_country: Russia
+  - uid: '39816'
+    id_type: Tax ID No.
+    id_number: '253804091667'
+    id_country: Russia
+  - uid: '177027'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '171395'
+    id_type: Email Address
+    id_number: makarov_away@mail.ru
+  - uid: '171393'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '71389'
+    date_of_birth: 05 Dec 1978
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '71391'
+    place_of_birth: Vladivostok, Russia
+    main_entry: 'true'
+remarks: "(Linked To: IPM LIMITED)"

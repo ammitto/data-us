@@ -1,0 +1,46 @@
+---
+uid: '19037'
+last_name: INRESBANK OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13661
+aka_list:
+  items:
+  - uid: '30040'
+    type: a.k.a.
+    category: strong
+    last_name: INVESTITSIONNY RESPUBLIKANSKI BANK OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU
+  - uid: '30041'
+    type: a.k.a.
+    category: strong
+    last_name: INVESTMENT REPUBLIC BANK LLC
+  - uid: '30042'
+    type: a.k.a.
+    category: strong
+    last_name: INRESBANK LTD
+  - uid: '30043'
+    type: f.k.a.
+    category: strong
+    last_name: OOO KBK BANK
+address_list:
+  items:
+  - uid: '28971'
+    address1: Ulitsa Bolshaya Semenovskaya
+    address2: D. 32, Str. 1
+    city: Moscow
+    postal_code: '107023'
+    country: Russia
+id_list:
+  items:
+  - uid: '118815'
+    id_type: SWIFT/BIC
+    id_number: INKKRUM1
+  - uid: '118816'
+    id_type: SWIFT/BIC
+    id_number: IREPRUMM
+  - uid: '143654'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+remarks: "(Linked To: SMP BANK)"

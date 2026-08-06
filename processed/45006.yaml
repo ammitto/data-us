@@ -1,0 +1,38 @@
+---
+uid: '45006'
+last_name: LLC RUSSIAN ENERGY GROUP
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69687'
+    type: a.k.a.
+    category: strong
+    last_name: OOO GRUPPA RUSSKAYA ENERGIYA
+  - uid: '69688'
+    type: a.k.a.
+    category: strong
+    last_name: OOO RUSSKAYA ENERGIYA
+address_list:
+  items:
+  - uid: '66996'
+    address1: d. 14 str. 5 etazh 1 pom. 2
+    address2: per. Butikovski
+    city: Moscow
+    postal_code: '119034'
+    country: Russia
+id_list:
+  items:
+  - uid: '34674'
+    id_type: Registration Number
+    id_number: '1207700001486'
+    id_country: Russia
+  - uid: '34675'
+    id_type: Tax ID No.
+    id_number: '7714456916'
+    id_country: Russia
+  - uid: '175888'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,42 @@
+---
+uid: '34396'
+first_name: Miguel Angel
+last_name: VALDEZ RUIZ
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '53847'
+    type: a.k.a.
+    category: strong
+    last_name: VALDEZ CAJAMARCA
+    first_name: Miguel Eduardo
+address_list:
+  items:
+  - uid: '51525'
+    address1: Priv. Bosques de los Olivos 349
+    address2: Lomas de San Isidro
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+id_list:
+  items:
+  - uid: '24396'
+    id_type: C.U.R.P.
+    id_number: VARM881019HSLLZG05
+    id_country: Mexico
+  - uid: '145674'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '45672'
+    date_of_birth: 19 Oct 1988
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '46148'
+    place_of_birth: Sinaloa, Mexico
+    main_entry: 'true'

@@ -1,0 +1,37 @@
+---
+uid: '36472'
+last_name: OOO BITRIVER-TURMA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '57521'
+    type: a.k.a.
+    category: strong
+    last_name: BITRIVER-TURMA, LLC
+address_list:
+  items:
+  - uid: '54835'
+    address1: Ul. Stroitelnaya D. 12, Pomeshch. 1004
+    city: Turma
+    postal_code: '665760'
+    country: Russia
+id_list:
+  items:
+  - uid: '25923'
+    id_type: Tax ID No.
+    id_number: '3805736568'
+    id_country: Russia
+  - uid: '25924'
+    id_type: Registration Number
+    id_number: '1213800018596'
+    id_country: Russia
+  - uid: '150213'
+    id_type: Organization Established Date
+    id_number: 02 Sep 2021
+  - uid: '174229'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: BITRIVER AG)"

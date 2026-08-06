@@ -1,0 +1,31 @@
+---
+uid: '48391'
+first_name: Kevin
+last_name: ARZATE GOMEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '72582'
+    country: Mexico
+id_list:
+  items:
+  - uid: '39252'
+    id_type: C.U.R.P.
+    id_number: AAGK920623MGRRMV09
+    id_country: Mexico
+  - uid: '170651'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '70648'
+    date_of_birth: 23 Jun 1992
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '70649'
+    place_of_birth: Guerrero, Mexico
+    main_entry: 'true'

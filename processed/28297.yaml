@@ -1,0 +1,50 @@
+---
+uid: '28297'
+first_name: Faysal
+last_name: AL-WADI
+sdn_type: Individual
+program_list:
+  programs:
+  - LIBYA3
+aka_list:
+  items:
+  - uid: '45721'
+    type: a.k.a.
+    category: strong
+    last_name: WADI
+    first_name: Faisal Mohamed M
+  - uid: '47976'
+    type: a.k.a.
+    category: strong
+    last_name: WADY
+    first_name: Faisl Mohamed
+address_list:
+  items:
+  - uid: '43954'
+    country: Malta
+id_list:
+  items:
+  - uid: '19364'
+    id_type: National ID No.
+    id_number: '037956A'
+    id_country: Malta
+  - uid: '20647'
+    id_type: Passport
+    id_number: '530037'
+    id_country: Libya
+  - uid: '135720'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '35717'
+    date_of_birth: 15 Dec 1978
+    main_entry: 'true'
+  - uid: '35718'
+    date_of_birth: 15 Dec 1976
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '35719'
+    place_of_birth: Libya
+    main_entry: 'true'

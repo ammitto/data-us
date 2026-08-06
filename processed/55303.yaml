@@ -1,0 +1,53 @@
+---
+uid: '55303'
+first_name: Khaled Muhammad
+last_name: KHALIL
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '86075'
+    type: a.k.a.
+    category: strong
+    last_name: KHALIL
+    first_name: Khaled
+  - uid: '86076'
+    type: a.k.a.
+    category: strong
+    last_name: KHALIL
+    first_name: Khaled Mohammed
+address_list:
+  items:
+  - uid: '84574'
+    country: Yemen
+id_list:
+  items:
+  - uid: '49302'
+    id_type: Identification Number
+    id_number: '01010047101'
+    id_country: Yemen
+  - uid: '49303'
+    id_type: Passport
+    id_number: '06280482'
+    id_country: Yemen
+    issue_date: '2025'
+  - uid: '192574'
+    id_type: Gender
+    id_number: Male
+  - uid: '192576'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '92572'
+    date_of_birth: 01 Jan 1987
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '92573'
+    place_of_birth: Capital Municipality, Al-Safiyah District, Yemen
+    main_entry: 'true'
+remarks: "(Linked To: ANSARALLAH)"

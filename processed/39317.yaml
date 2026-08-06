@@ -1,0 +1,73 @@
+---
+uid: '39317'
+last_name: PUBLIC JOINT STOCK COMPANY BANK URALSIB
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '63562'
+    type: a.k.a.
+    category: strong
+    last_name: BANK URALSIB PAO
+  - uid: '63563'
+    type: a.k.a.
+    category: strong
+    last_name: BANK URALSIB OAO
+  - uid: '63564'
+    type: a.k.a.
+    category: strong
+    last_name: BANK URALSIB OJSC
+  - uid: '63565'
+    type: a.k.a.
+    category: strong
+    last_name: URALO-SIBIRSKIY BANK OAO
+  - uid: '63566'
+    type: a.k.a.
+    category: strong
+    last_name: URAL-SIBERIAN BANK
+  - uid: '63567'
+    type: a.k.a.
+    category: strong
+    last_name: BASHCREDITBANK
+address_list:
+  items:
+  - uid: '60913'
+    address1: 8 Efremova Street
+    city: Moscow
+    postal_code: '119048'
+    country: Russia
+id_list:
+  items:
+  - uid: '30093'
+    id_type: Registration Number
+    id_number: '1020280000190'
+    id_country: Russia
+  - uid: '30094'
+    id_type: Tax ID No.
+    id_number: '0274062111'
+    id_country: Russia
+  - uid: '30095'
+    id_type: Legal Entity Number
+    id_number: 253400HYBTF10T9XBR98
+  - uid: '158393'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '158391'
+    id_type: SWIFT/BIC
+    id_number: AVTBRUMM
+  - uid: '158392'
+    id_type: Website
+    id_number: https://www.uralsib.ru
+  - uid: '158390'
+    id_type: Organization Established Date
+    id_number: 27 Jan 1993
+  - uid: '174776'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184106'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

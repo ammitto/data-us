@@ -1,0 +1,50 @@
+---
+uid: '33394'
+last_name: OOO GARDSERVIS
+sdn_type: Entity
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '52503'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOY OTVETSTVENNOSTYU GARDSERVIS
+  - uid: '52504'
+    type: a.k.a.
+    category: strong
+    last_name: TAA HARDSERVIS
+  - uid: '52505'
+    type: a.k.a.
+    category: strong
+    last_name: TAVARYSTVA Z ABMEZHAVANAY ADKAZNASTSYU HARDSERVIS
+  - uid: '52506'
+    type: a.k.a.
+    category: strong
+    last_name: GARDSERVICE
+  - uid: '52507'
+    type: f.k.a.
+    category: strong
+    last_name: BELSECURITYGROUP
+  - uid: '52508'
+    type: f.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY BELSEKYURITIGRUPP
+address_list:
+  items:
+  - uid: '50148'
+    address1: Karvata St.
+    address2: Building 85
+    city: Minsk
+    postal_code: '220138'
+    country: Belarus
+id_list:
+  items:
+  - uid: '23056'
+    id_type: Registration Number
+    id_number: '193344802'
+    id_country: Belarus
+  - uid: '143390'
+    id_type: Organization Established Date
+    id_number: 19 Nov 2019

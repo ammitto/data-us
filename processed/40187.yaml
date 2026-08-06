@@ -1,0 +1,50 @@
+---
+uid: '40187'
+last_name: JOINT STOCK COMPANY NATIONAL AVIATION SERVICE COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '62425'
+    type: a.k.a.
+    category: strong
+    last_name: NATIONAL AVIATION SERVICE COMPANY
+  - uid: '62427'
+    type: a.k.a.
+    category: weak
+    last_name: JSC NASC
+address_list:
+  items:
+  - uid: '59846'
+    address1: Proezd Yablochkova D. 5
+    address2: Korpus 18
+    city: Ryazan
+    postal_code: '390023'
+    country: Russia
+  - uid: '59847'
+    address1: Ul. Bolshaya Tatarskaya D. 35
+    address2: Str. 4, Floor 2, Pomeshch. IX/Kom. 5
+    city: Moscow
+    postal_code: '115184'
+    country: Russia
+id_list:
+  items:
+  - uid: '29329'
+    id_type: Registration Number
+    id_number: '1206200002249'
+    id_country: Russia
+  - uid: '29330'
+    id_type: Tax ID No.
+    id_number: '6230116089'
+    id_country: Russia
+  - uid: '157066'
+    id_type: Organization Established Date
+    id_number: 04 Apr 1994
+  - uid: '157067'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
+  - uid: '174019'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

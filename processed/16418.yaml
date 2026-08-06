@@ -1,0 +1,58 @@
+---
+uid: '16418'
+last_name: QODS AVIATION INDUSTRIES
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+  - RUSSIA-EO14024
+  - IRAN-CON-ARMS-EO
+aka_list:
+  items:
+  - uid: '24742'
+    type: a.k.a.
+    category: strong
+    last_name: QODS RESEARCH CENTER
+  - uid: '24799'
+    type: a.k.a.
+    category: strong
+    last_name: GHODS AVIATION INDUSTRIES
+  - uid: '62829'
+    type: a.k.a.
+    category: strong
+    last_name: LIGHT AIRPLANES DESIGN AND MANUFACTURING INDUSTRIES
+address_list:
+  items:
+  - uid: '24778'
+    address1: P.O. Box 15875-1834
+    address2: Km 5 Karaj Special Road
+    city: Tehran
+    country: Iran
+  - uid: '24779'
+    address1: Unit (or Suite) 207, Saleh Blvd
+    city: Tehran
+    country: Iran
+  - uid: '24780'
+    address1: Unit 207
+    address2: Tarajit Maydane Taymori (or Teimori) Square
+    address3: Basiri Building, Tarasht
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '35175'
+    id_type: National ID No.
+    id_number: '14005441856'
+    id_country: Iran
+  - uid: '35176'
+    id_type: Registration Number
+    id_number: '483250'
+    id_country: Iran
+  - uid: '114808'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '173823'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: MINISTRY OF DEFENSE AND ARMED FORCES LOGISTICS)"

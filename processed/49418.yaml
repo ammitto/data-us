@@ -1,0 +1,41 @@
+---
+uid: '49418'
+first_name: Ivan Sergeyevich
+last_name: KUSOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77083'
+    type: a.k.a.
+    category: strong
+    last_name: KUSOV
+    first_name: Ivan Serhiiovych
+address_list:
+  items:
+  - uid: '74502'
+    country: Ukraine
+id_list:
+  items:
+  - uid: '40707'
+    id_type: Tax ID No.
+    id_number: '234003231706'
+    id_country: Russia
+  - uid: '172499'
+    id_type: Gender
+    id_number: Male
+  - uid: '172770'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '72497'
+    date_of_birth: 24 Jan 1987
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '72498'
+    place_of_birth: Semey, Kazakhstan
+    main_entry: 'true'

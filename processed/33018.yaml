@@ -1,0 +1,39 @@
+---
+uid: '33018'
+first_name: Oleg Valentinovich
+last_name: LARIN
+sdn_type: Individual
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '51928'
+    type: a.k.a.
+    category: strong
+    last_name: LARIN
+    first_name: Oleg
+address_list:
+  items:
+  - uid: '49680'
+    address1: Yesenina st., 79-108
+    city: Minsk
+    country: Belarus
+id_list:
+  items:
+  - uid: '22710'
+    id_type: National ID No.
+    id_number: 3091073M001PB6
+    id_country: Belarus
+  - uid: '22711'
+    id_type: Tax ID No.
+    id_number: AB6103853
+    id_country: Belarus
+  - uid: '142780'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '42781'
+    date_of_birth: '09 Oct 1973'
+    main_entry: 'true'

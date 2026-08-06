@@ -1,0 +1,36 @@
+---
+uid: '35348'
+last_name: RADIOAVTOMATIKA LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '55685'
+    type: a.k.a.
+    category: weak
+    last_name: RADIOAUTOMATIC
+address_list:
+  items:
+  - uid: '53164'
+    address1: Zolotorogsky Val St., 11/22
+    address2: Flat VII, Floor 2, Room 4
+    city: Moscow
+    state_or_province: Moscow Region
+    country: Russia
+id_list:
+  items:
+  - uid: '25060'
+    id_type: Tax ID No.
+    id_number: '7725824287'
+    id_country: Russia
+  - uid: '176737'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '147629'
+    id_type: Website
+    id_number: www.radioautomatic.ru
+  - uid: '147630'
+    id_type: Target Type
+    id_number: Private Company

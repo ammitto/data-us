@@ -1,0 +1,35 @@
+---
+uid: '35791'
+first_name: Boris Yurievich
+last_name: KOVALCHUK
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '53693'
+    country: Russia
+id_list:
+  items:
+  - uid: '25116'
+    id_type: Tax ID No.
+    id_number: '780150854932'
+    id_country: Russia
+  - uid: '148908'
+    id_type: Gender
+    id_number: Male
+  - uid: '173243'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '48906'
+    date_of_birth: 01 Dec 1977
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '48907'
+    place_of_birth: St. Petersburg, Russia
+    main_entry: 'true'
+remarks: "(Linked To: KOVALCHUK, Yuri Valentinovich)"

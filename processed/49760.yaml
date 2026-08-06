@@ -1,0 +1,56 @@
+---
+uid: '49760'
+first_name: Lawrence Kanyuka
+last_name: KINGSTON
+sdn_type: Individual
+program_list:
+  programs:
+  - DRCONGO
+aka_list:
+  items:
+  - uid: '77577'
+    type: a.k.a.
+    category: strong
+    last_name: KANYUKA
+    first_name: Lawrence Kingston
+address_list:
+  items:
+  - uid: '75169'
+    state_or_province: North Kivu
+    country: Congo, Democratic Republic of the
+  - uid: '75170'
+    address1: 12 Rue Chevalier
+    city: Saint-Maur-des-Fosses
+    postal_code: '94210'
+    country: France
+  - uid: '75171'
+    address1: 66 Cranberry Lane
+    city: London
+    postal_code: E16 4PE
+    country: United Kingdom
+  - uid: '75172'
+    address1: 27 Old Gloucester Street
+    city: London
+    postal_code: WC1N 3AX
+    country: United Kingdom
+id_list:
+  items:
+  - uid: '41215'
+    id_type: Passport
+    id_number: '518058784'
+    id_country: United Kingdom
+    expiration_date: 10 Jul 2024
+  - uid: '177078'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '77076'
+    date_of_birth: 19 Jul 1970
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '77077'
+    place_of_birth: Kinshasa, Congo, Democratic Republic of the
+    main_entry: 'true'
+remarks: "(Linked To: M23)"

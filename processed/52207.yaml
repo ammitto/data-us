@@ -1,0 +1,35 @@
+---
+uid: '52207'
+last_name: LIMITED LIABILITY COMPANY LITHIUMION
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '81760'
+    type: a.k.a.
+    category: strong
+    last_name: LITHIUMION LTD
+address_list:
+  items:
+  - uid: '79711'
+    address1: Office 1, Suite 110-N (Suite Part 17)
+    address2: Letter A, 20 Bolshaya Pushkarskaya Street
+    address3: Kronverkskoye Municipal District
+    city: Saint Petersburg
+    postal_code: '197198'
+    country: Russia
+id_list:
+  items:
+  - uid: '45126'
+    id_type: Registration Number
+    id_number: '1227800142415'
+    id_country: Russia
+  - uid: '45127'
+    id_type: Tax ID No.
+    id_number: '7813668213'
+    id_country: Russia
+  - uid: '183141'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

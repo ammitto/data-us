@@ -1,0 +1,31 @@
+---
+uid: '26852'
+last_name: MINISTRY OF ROCKET INDUSTRY
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+aka_list:
+  items:
+  - uid: '42432'
+    type: a.k.a.
+    category: strong
+    last_name: ROCKET INDUSTRY DEPARTMENT
+address_list:
+  items:
+  - uid: '40768'
+    city: Pyongchon
+    country: Korea, North
+id_list:
+  items:
+  - uid: '149888'
+    id_type: Target Type
+    id_number: Government Entity
+  - uid: '149670'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '131645'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+remarks: "(Linked To: MUNITIONS INDUSTRY DEPARTMENT)"

@@ -1,0 +1,35 @@
+---
+uid: '56914'
+first_name: Mehmet
+last_name: OZSUREN
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13846
+address_list:
+  items:
+  - uid: '87108'
+    country: United Kingdom
+id_list:
+  items:
+  - uid: '51053'
+    id_type: Passport
+    id_number: '203970'
+    id_country: Turkey
+  - uid: '196047'
+    id_type: 'Executive Order 13846 information:'
+    id_number: BLOCKING PROPERTY AND INTERESTS IN PROPERTY.  Sec. 5(a)(iv)
+  - uid: '195946'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '95943'
+    date_of_birth: 01 Sep 1960
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '95944'
+    place_of_birth: Turkey
+    main_entry: 'true'
+remarks: "(Linked To: AMON KIMYA VE MAKINA SANAYI VE TICARET LIMITED SIRKETI)"

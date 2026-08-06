@@ -1,0 +1,114 @@
+---
+uid: '31145'
+first_name: Julio Cesar
+last_name: MONTERO PINZON
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+aka_list:
+  items:
+  - uid: '48981'
+    type: a.k.a.
+    category: weak
+    last_name: El Tarjetas
+  - uid: '71433'
+    type: a.k.a.
+    category: strong
+    last_name: VELAZQUEZ BALTAZAR
+    first_name: Luis Armando
+  - uid: '71434'
+    type: a.k.a.
+    category: strong
+    last_name: HERNANDEZ JIMENEZ
+    first_name: Cesar
+  - uid: '71435'
+    type: a.k.a.
+    category: weak
+    last_name: El Chess
+  - uid: '71436'
+    type: a.k.a.
+    category: weak
+    last_name: El Chino
+  - uid: '71437'
+    type: a.k.a.
+    category: weak
+    last_name: Comandante Tarjetas
+  - uid: '71438'
+    type: a.k.a.
+    category: weak
+    last_name: HERNANDEZ JIMENEZ, Francisco
+  - uid: '71439'
+    type: a.k.a.
+    category: weak
+    last_name: Moreno
+address_list:
+  items:
+  - uid: '47084'
+    city: Puerto Vallarta
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '68849'
+    address1: Estero del Cayman
+    address2: Real Ixtapa
+    address3: "#137-A"
+    city: Puerto Vallarta
+    state_or_province: Jalisco
+    country: Mexico
+id_list:
+  items:
+  - uid: '21137'
+    id_type: C.U.R.P.
+    id_number: MOPJ820602HJCNNL05
+    id_country: Mexico
+  - uid: '36095'
+    id_type: C.U.R.P.
+    id_number: MOPJ821108HJCNNL04
+    id_country: Mexico
+  - uid: '36096'
+    id_type: C.U.R.P.
+    id_number: VEBL860825HJCLLS05
+    id_country: Mexico
+  - uid: '36097'
+    id_type: R.F.C.
+    id_number: VEBL860825
+    id_country: Mexico
+  - uid: '36098'
+    id_type: Electoral Registry No.
+    id_number: GRMRLR82012730M700
+    id_country: Mexico
+  - uid: '36099'
+    id_type: C.U.R.P.
+    id_number: HEJC770628HCSRMS06
+    id_country: Mexico
+  - uid: '191726'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '139570'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '39568'
+    date_of_birth: 02 Jun 1982
+    main_entry: 'true'
+  - uid: '66991'
+    date_of_birth: '08 Nov 1982'
+    main_entry: 'false'
+  - uid: '66992'
+    date_of_birth: 25 Aug 1986
+    main_entry: 'false'
+  - uid: '66993'
+    date_of_birth: 28 Jun 1977
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '39571'
+    place_of_birth: Puerto Vallarta, Jalisco, Mexico
+    main_entry: 'true'
+  - uid: '66994'
+    place_of_birth: Amatan, Chiapas, Mexico
+    main_entry: 'false'
+remarks: "(Linked To: CARTEL DE JALISCO NUEVA GENERACION)"

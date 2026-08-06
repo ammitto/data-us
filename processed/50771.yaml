@@ -1,0 +1,44 @@
+---
+uid: '50771'
+last_name: JOINT STOCK COMPANY ENGINEERING CENTER IKAR
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79498'
+    type: a.k.a.
+    category: strong
+    last_name: JSC IKAR
+  - uid: '79499'
+    type: a.k.a.
+    category: strong
+    last_name: IKAR GROUP
+  - uid: '79500'
+    type: a.k.a.
+    category: weak
+    last_name: ICAR COMPANY
+address_list:
+  items:
+  - uid: '77032'
+    address1: Ul. Khutorskaya 2-YA D. 38A
+    address2: Str. 9
+    city: Moscow
+    postal_code: '127287'
+    country: Russia
+id_list:
+  items:
+  - uid: '42669'
+    id_type: Registration Number
+    id_number: '1037710001493'
+    id_country: Russia
+  - uid: '42670'
+    id_type: Tax ID No.
+    id_number: '7710449682'
+  - uid: '179406'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '179405'
+    id_type: Organization Established Date
+    id_number: 14 Jan 2003

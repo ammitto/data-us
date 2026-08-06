@@ -1,0 +1,36 @@
+---
+uid: '40324'
+last_name: MARINE BRIDGE AND NAVIGATION SYSTEMS LTD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '62708'
+    type: a.k.a.
+    category: strong
+    last_name: JSC MORSKIYE NAVIGATSIONNYE SISTEMY
+address_list:
+  items:
+  - uid: '60102'
+    address1: 19, Promyshlennaya street
+    city: Saint Petersburg
+    postal_code: '198095'
+    country: Russia
+id_list:
+  items:
+  - uid: '29508'
+    id_type: Tax ID No.
+    id_number: '7805013333'
+    id_country: Russia
+  - uid: '29509'
+    id_type: Registration Number
+    id_number: '1027802763240'
+    id_country: Russia
+  - uid: '157436'
+    id_type: Organization Established Date
+    id_number: '1991'
+  - uid: '174084'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

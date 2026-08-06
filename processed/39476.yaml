@@ -1,0 +1,39 @@
+---
+uid: '39476'
+first_name: Vladimir
+last_name: PLAHOTNIUC
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+address_list:
+  items:
+  - uid: '58764'
+    country: Cyprus
+id_list:
+  items:
+  - uid: '28637'
+    id_type: Passport
+    id_number: AA1203658
+    id_country: Moldova
+  - uid: '28638'
+    id_type: Passport
+    id_number: '054038242'
+    id_country: Romania
+  - uid: '28639'
+    id_type: National Foreign ID Number
+    id_number: '0962706018030'
+    id_country: Moldova
+  - uid: '155557'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '55553'
+    date_of_birth: 01 Jan 1966
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '55554'
+    place_of_birth: Moldova
+    main_entry: 'true'

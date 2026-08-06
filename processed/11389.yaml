@@ -1,0 +1,44 @@
+---
+uid: '11389'
+first_name: Pacifique
+last_name: NTAWUNGUKA
+sdn_type: Individual
+program_list:
+  programs:
+  - DRCONGO
+aka_list:
+  items:
+  - uid: '12014'
+    type: a.k.a.
+    category: strong
+    last_name: NTAWUNGULA
+    first_name: Pacifique
+  - uid: '12015'
+    type: a.k.a.
+    category: weak
+    last_name: COLONEL OMEGA
+  - uid: '12016'
+    type: a.k.a.
+    category: weak
+    last_name: NZERI
+address_list:
+  items:
+  - uid: '16806'
+    address1: Peti
+    address2: Walikale
+    address3: Masisi Border
+    country: Congo, Democratic Republic of the
+date_of_birth_list:
+  items:
+  - uid: '6801'
+    date_of_birth: 01 Jan 1964
+    main_entry: 'true'
+  - uid: '6802'
+    date_of_birth: '1964'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '6803'
+    place_of_birth: Gaseke, Gisenyi Province, Rwanda
+    main_entry: 'true'
+title: Colonel; Commander of FDLR 1st Division

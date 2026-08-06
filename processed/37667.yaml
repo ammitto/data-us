@@ -1,0 +1,44 @@
+---
+uid: '37667'
+last_name: JOINT STOCK COMPANY RESEARCH AND PRODUCTION ENTERPRISE RADAR MMS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59010'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY RADAR MMS
+  - uid: '59011'
+    type: a.k.a.
+    category: strong
+    last_name: RADAR MMS NPP
+  - uid: '59012'
+    type: a.k.a.
+    category: strong
+    last_name: SCIENTIFIC PRODUCTION ASSOCIATION RADAR MMS JSC
+address_list:
+  items:
+  - uid: '56329'
+    address1: Novoselkovskaya st., 37A
+    city: Saint Petersburg
+    postal_code: '197375'
+    country: Russia
+id_list:
+  items:
+  - uid: '26891'
+    id_type: Tax ID No.
+    id_number: '7814027653'
+    id_country: Russia
+  - uid: '26892'
+    id_type: Registration Number
+    id_number: '1027807560186'
+    id_country: Russia
+  - uid: '173446'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '152606'
+    id_type: Organization Established Date
+    id_number: 14 Oct 1993

@@ -1,0 +1,49 @@
+---
+uid: '50241'
+last_name: FEDERAL STATE ENTERPRISE AMUR CARTRIDGE PLANT VYMPEL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78432'
+    type: a.k.a.
+    category: strong
+    last_name: FSE ACP VYMPEL
+  - uid: '78433'
+    type: a.k.a.
+    category: strong
+    last_name: VYMPEL STATE PRODUCTION ASSOCIATION
+  - uid: '78434'
+    type: a.k.a.
+    category: strong
+    last_name: FEDERALNOE KAZENNOE PREDPRIIATIE AMURSKII PATRONNYI ZAVOD VYMPEL IMENI
+      PV FINOGENOVA
+  - uid: '78435'
+    type: a.k.a.
+    category: strong
+    last_name: FKP APZ VYMPEL IM PV FINOGENOVA
+address_list:
+  items:
+  - uid: '76066'
+    address1: D.12 Sh. Mashinostroitelei
+    city: Amursk
+    postal_code: '682640'
+    country: Russia
+id_list:
+  items:
+  - uid: '41902'
+    id_type: Registration Number
+    id_number: '1022700650609'
+    id_country: Russia
+  - uid: '41903'
+    id_type: Tax ID No.
+    id_number: '2706000260'
+    id_country: Russia
+  - uid: '177899'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
+  - uid: '178077'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

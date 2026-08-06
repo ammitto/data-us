@@ -1,0 +1,33 @@
+---
+uid: '51035'
+last_name: TOOL COMPANY GUT LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '77537'
+    address1: Pr-kt Zelenyi D. 20
+    city: Moscow
+    postal_code: '111397'
+    country: Russia
+id_list:
+  items:
+  - uid: '43085'
+    id_type: Tax ID No.
+    id_number: '7716223113'
+    id_country: Russia
+  - uid: '43086'
+    id_type: Registration Number
+    id_number: '1027716008374'
+    id_country: Russia
+  - uid: '179945'
+    id_type: Organization Established Date
+    id_number: 25 Nov 2002
+  - uid: '180474'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '179946'
+    id_type: Website
+    id_number: www.guhring.ru

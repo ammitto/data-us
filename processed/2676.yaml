@@ -1,0 +1,49 @@
+---
+uid: '2676'
+first_name: Dr. Ayman
+last_name: AL ZAWAHIRI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '4760'
+    type: a.k.a.
+    category: strong
+    last_name: AL-ZAWAHIRI
+    first_name: Ayman
+  - uid: '4761'
+    type: a.k.a.
+    category: strong
+    last_name: SALIM
+    first_name: Ahmad Fuad
+  - uid: '4787'
+    type: a.k.a.
+    category: strong
+    last_name: AL-ZAWAHIRI
+    first_name: Aiman Muhammad Rabi
+id_list:
+  items:
+  - uid: '1000'
+    id_type: Passport
+    id_number: '1084010'
+    id_country: Egypt
+  - uid: '1001'
+    id_type: Passport
+    id_number: '19820215'
+  - uid: '185812'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '1003'
+    date_of_birth: 19 Jun 1951
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '1004'
+    place_of_birth: Giza, Egypt
+    main_entry: 'true'
+title: Operational and Military Leader of JIHAD GROUP

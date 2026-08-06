@@ -1,0 +1,56 @@
+---
+uid: '26990'
+first_name: Bah Ag
+last_name: MOUSSA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '42722'
+    type: a.k.a.
+    category: strong
+    last_name: DIARRA
+    first_name: Bamoussa
+  - uid: '42746'
+    type: a.k.a.
+    category: strong
+    last_name: MOUSSA
+    first_name: Ba Ag
+  - uid: '42747'
+    type: a.k.a.
+    category: strong
+    last_name: DIARRA
+    first_name: Rabia
+address_list:
+  items:
+  - uid: '41006'
+    city: Kidal
+    country: Mali
+  - uid: '41007'
+    state_or_province: Nara
+    country: Mali
+id_list:
+  items:
+  - uid: '131866'
+    id_type: Gender
+    id_number: Male
+  - uid: '186908'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '31868'
+    date_of_birth: 01 Jan 1958
+    main_entry: 'true'
+  - uid: '31869'
+    date_of_birth: 31 Dec 1952
+    main_entry: 'false'
+  - uid: '31870'
+    date_of_birth: 28 Oct 1956
+    main_entry: 'false'
+  - uid: '31893'
+    date_of_birth: '1958'
+    main_entry: 'false'

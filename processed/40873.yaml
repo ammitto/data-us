@@ -1,0 +1,55 @@
+---
+uid: '40873'
+first_name: Yegor Sergeyevich
+last_name: POPOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '64346'
+    type: a.k.a.
+    category: strong
+    last_name: POPOV
+    first_name: Egor Sergeevich
+  - uid: '64347'
+    type: a.k.a.
+    category: strong
+    last_name: POPOV
+    first_name: Igor
+  - uid: '64348'
+    type: a.k.a.
+    category: weak
+    last_name: ZHUKOV, Egor
+  - uid: '64349'
+    type: a.k.a.
+    category: weak
+    last_name: KONTORA, Egor
+address_list:
+  items:
+  - uid: '61703'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '30676'
+    id_type: National ID No.
+    id_number: '1811675248'
+    id_country: Russia
+  - uid: '175304'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '159321'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '59318'
+    date_of_birth: 25 Jan 1992
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '59319'
+    place_of_birth: Volgograd, Russia
+    main_entry: 'true'

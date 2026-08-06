@@ -1,0 +1,43 @@
+---
+uid: '48866'
+last_name: LIMITED LIABILITY COMPANY TRADING PRODUCTION COMPANY ARGUS NV
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76122'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTIU TORGOVO PROMYSHLENNAIA
+      KOMPANIIA ARGUS NV
+  - uid: '76123'
+    type: a.k.a.
+    category: strong
+    last_name: OOO TPK ARGUS NV
+address_list:
+  items:
+  - uid: '73493'
+    address1: 16 Dzershinsk Ul.
+    city: Dzerzhinsky
+    postal_code: '140090'
+    country: Russia
+  - uid: '73494'
+    address1: 7 Kosinskaya St.
+    city: Moscow
+    postal_code: '111538'
+    country: Russia
+id_list:
+  items:
+  - uid: '39934'
+    id_type: Registration Number
+    id_number: '5137746039008'
+    id_country: Russia
+  - uid: '39935'
+    id_type: Tax ID No.
+    id_number: '7731459018'
+    id_country: Russia
+  - uid: '171564'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,31 @@
+---
+uid: '24590'
+first_name: Hossein
+last_name: ALLAHKARAM
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+address_list:
+  items:
+  - uid: '37183'
+    country: Iran
+id_list:
+  items:
+  - uid: '127460'
+    id_type: Gender
+    id_number: Male
+  - uid: '127458'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '27459'
+    date_of_birth: 1944 to 1946
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '27461'
+    place_of_birth: Najafabad, Iran
+    main_entry: 'true'
+remarks: "(Linked To: ANSAR-E HEZBOLLAH)"

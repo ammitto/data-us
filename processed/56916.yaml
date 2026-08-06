@@ -1,0 +1,30 @@
+---
+uid: '56916'
+last_name: MARS OCEANWAY INC
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13846
+address_list:
+  items:
+  - uid: '87112'
+    address1: Ibrahim Koray Sokak
+    address2: Aydintepe Mah, 20/7
+    address3: Tuzla
+    city: Istanbul
+    country: Turkey
+  - uid: '87113'
+    address1: 80 Broad Street
+    city: Monrovia
+    country: Liberia
+id_list:
+  items:
+  - uid: '51059'
+    id_type: Identification Number
+    id_number: IMO 0109043
+  - uid: '196048'
+    id_type: 'Executive Order 13846 information:'
+    id_number: BLOCKING PROPERTY AND INTERESTS IN PROPERTY.  Sec. 5(a)(iv)
+  - uid: '195955'
+    id_type: Organization Established Date
+    id_number: '2024'

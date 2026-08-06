@@ -1,0 +1,51 @@
+---
+uid: '43257'
+last_name: FEDERAL STATE UNITARY ENTERPRISE HYDROGRAPHIC COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '67065'
+    type: a.k.a.
+    category: strong
+    last_name: ROSATOMPORT
+  - uid: '67066'
+    type: a.k.a.
+    category: strong
+    last_name: FGUP GIDROGRAFICHESKOE PREDPRIYATIE
+  - uid: '67067'
+    type: a.k.a.
+    category: strong
+    last_name: RUSSIA GOVT HYDROGRAPHIC DEPT
+  - uid: '67068'
+    type: a.k.a.
+    category: strong
+    last_name: FGUP HYDROGRAPHIC COMPANY STATE CORPORATION ROSATOM
+address_list:
+  items:
+  - uid: '64558'
+    address1: Prospekt Moskovskii, 12
+    city: Saint Petersburg
+    postal_code: '190031'
+    country: Russia
+id_list:
+  items:
+  - uid: '32817'
+    id_type: Tax ID No.
+    id_number: '7812022096'
+    id_country: Russia
+  - uid: '32818'
+    id_type: Registration Number
+    id_number: '1027810266758'
+    id_country: Russia
+  - uid: '175671'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '162449'
+    id_type: Organization Established Date
+    id_number: 25 Apr 1994
+  - uid: '162450'
+    id_type: 'Organization Type:'
+    id_number: Inland freight water transport

@@ -1,0 +1,30 @@
+---
+uid: '48944'
+last_name: NICEBERG LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '73613'
+    address1: Ter. Grinvud Str. 19, Office 51, Kom. 42
+    city: Putilkovo
+    postal_code: '143440'
+    country: Russia
+id_list:
+  items:
+  - uid: '40030'
+    id_type: Tax ID No.
+    id_number: '5024233518'
+    id_country: Russia
+  - uid: '40031'
+    id_type: Registration Number
+    id_number: '1235000075342'
+    id_country: Russia
+  - uid: '171693'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '171694'
+    id_type: Organization Established Date
+    id_number: 14 Jun 2023

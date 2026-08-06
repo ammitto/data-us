@@ -1,0 +1,37 @@
+---
+uid: '50859'
+first_name: Araceli
+last_name: CASTILLO PEINADO
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '79662'
+    type: a.k.a.
+    category: weak
+    last_name: LA DONA
+address_list:
+  items:
+  - uid: '77216'
+    country: Mexico
+id_list:
+  items:
+  - uid: '42829'
+    id_type: C.U.R.P.
+    id_number: CAPA820804MCHSNR11
+    id_country: Mexico
+  - uid: '179583'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '79580'
+    date_of_birth: 04 Aug 1982
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '79581'
+    place_of_birth: Chihuahua, Mexico
+    main_entry: 'true'

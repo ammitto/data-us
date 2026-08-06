@@ -1,0 +1,49 @@
+---
+uid: '20921'
+first_name: Andrey Dmitrievich
+last_name: KOZENKO
+sdn_type: Individual
+program_list:
+  programs:
+  - UKRAINE-EO13660
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '61182'
+    type: a.k.a.
+    category: strong
+    last_name: KOZENKO
+    first_name: Andrei
+  - uid: '61183'
+    type: a.k.a.
+    category: strong
+    last_name: KOZENKO
+    first_name: Andrii Dmytrovych
+address_list:
+  items:
+  - uid: '58397'
+    country: Ukraine
+  - uid: '58399'
+    country: Russia
+id_list:
+  items:
+  - uid: '121614'
+    id_type: Gender
+    id_number: Male
+  - uid: '173920'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '143777'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+date_of_birth_list:
+  items:
+  - uid: '21602'
+    date_of_birth: 03 Aug 1981
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '54998'
+    place_of_birth: Simferopol, Crimea, Ukraine
+    main_entry: 'true'

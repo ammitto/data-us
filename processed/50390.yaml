@@ -1,0 +1,39 @@
+---
+uid: '50390'
+last_name: LIMITED LIABILITY COMPANY MEZHREGIONSTROY RVS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78767'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY INTERREGIONCONSTRUCTION VST
+  - uid: '78768'
+    type: a.k.a.
+    category: strong
+    last_name: LLC IRC VST
+address_list:
+  items:
+  - uid: '76396'
+    address1: Office 77, Kom. 3, Floor 1, Str. 3, D. 14
+    address2: Pl. Spartakovskaya
+    city: Moscow
+    postal_code: '105082'
+    country: Russia
+id_list:
+  items:
+  - uid: '42161'
+    id_type: Registration Number
+    id_number: '1227700085106'
+    id_country: Russia
+  - uid: '42162'
+    id_type: Tax ID No.
+    id_number: '9701197231'
+    id_country: Russia
+  - uid: '178366'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: LIMITED LIABILITY COMPANY MEZHREGIONSTROY)"

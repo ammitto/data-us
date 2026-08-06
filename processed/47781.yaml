@@ -1,0 +1,34 @@
+---
+uid: '47781'
+last_name: LIMITED LIABILITY COMPANY TMK OIL FIELD SERVICES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74117'
+    type: a.k.a.
+    category: weak
+    last_name: LLC TMK NGS
+address_list:
+  items:
+  - uid: '71481'
+    address1: 51 Rozy Lyuksemburg Street
+    city: Ekaterinburg
+    postal_code: '620026'
+    country: Russia
+id_list:
+  items:
+  - uid: '38464'
+    id_type: Registration Number
+    id_number: '1086672000030'
+    id_country: Russia
+  - uid: '38465'
+    id_type: Tax ID No.
+    id_number: '6672257248'
+    id_country: Russia
+  - uid: '176443'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: PUBLIC JOINT STOCK COMPANY PIPE METALLURGICAL COMPANY)"

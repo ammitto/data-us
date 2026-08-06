@@ -1,0 +1,43 @@
+---
+uid: '8101'
+first_name: Nassim Ben Mohamed Al-Cherif ben Mohamed
+last_name: SALEH AL-SAADI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '6041'
+    type: a.k.a.
+    category: weak
+    last_name: ABOU ANIS
+address_list:
+  items:
+  - uid: '7238'
+    address1: Via Monte Grappa 15
+    city: Arluno
+    state_or_province: Milan
+    country: Italy
+id_list:
+  items:
+  - uid: '4093'
+    id_type: Passport
+    id_number: M 788331
+    issue_date: 28 Sep 2001
+    expiration_date: 27 Sep 2006
+  - uid: '185776'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '2413'
+    date_of_birth: 30 Nov 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '2414'
+    place_of_birth: Haidra Al-Qasreen, Tunisia
+    main_entry: 'true'
+remarks: arrested 30 Sep 2002

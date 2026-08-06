@@ -1,0 +1,38 @@
+---
+uid: '43262'
+last_name: JOINT STOCK COMPANY 53 ARSENAL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '67074'
+    type: a.k.a.
+    category: strong
+    last_name: 53 ARSENAL PAO
+address_list:
+  items:
+  - uid: '64564'
+    address1: 1 Parkovaya St.
+    address2: Yuganets Worker's Settlement
+    city: Volodarskiy District
+    state_or_province: Nizhegorodskaya Region
+    postal_code: '606077'
+    country: Russia
+id_list:
+  items:
+  - uid: '32824'
+    id_type: Tax ID No.
+    id_number: '5214010100'
+    id_country: Russia
+  - uid: '32825'
+    id_type: Registration Number
+    id_number: '1105249001120'
+    id_country: Russia
+  - uid: '175676'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '162460'
+    id_type: Organization Established Date
+    id_number: 18 Feb 2010

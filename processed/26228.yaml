@@ -1,0 +1,41 @@
+---
+uid: '26228'
+first_name: Adrian Jose
+last_name: VELASQUEZ FIGUEROA
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA-EO13850
+aka_list:
+  items:
+  - uid: '41369'
+    type: a.k.a.
+    category: strong
+    last_name: VELASQUEZ
+    first_name: Adrian
+address_list:
+  items:
+  - uid: '39808'
+    city: Cap Cana
+    country: Dominican Republic
+  - uid: '39809'
+    country: Spain
+id_list:
+  items:
+  - uid: '16900'
+    id_type: Passport
+    id_number: '024421568'
+    id_country: Venezuela
+    expiration_date: 25 Jun 2014
+  - uid: '16901'
+    id_type: Cedula No.
+    id_number: '13813453'
+    id_country: Venezuela
+  - uid: '130668'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '30667'
+    date_of_birth: 02 Nov 1979
+    main_entry: 'true'

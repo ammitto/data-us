@@ -1,0 +1,39 @@
+---
+uid: '26687'
+first_name: Gulsara
+last_name: BURKHONOVA
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+address_list:
+  items:
+  - uid: '40464'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '17338'
+    id_type: Passport
+    id_number: '9707561379'
+    id_country: Russia
+  - uid: '154544'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+  - uid: '131350'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '31349'
+    date_of_birth: 06 Apr 1977
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '31351'
+    place_of_birth: Russia
+    main_entry: 'true'
+  - uid: '31352'
+    place_of_birth: Tajikistan
+    main_entry: 'false'
+remarks: "(Linked To: EVIL CORP)"

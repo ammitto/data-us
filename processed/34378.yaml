@@ -1,0 +1,42 @@
+---
+uid: '34378'
+last_name: LIMITED LIABILITY COMPANY INSPIRA INVEST A
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '53836'
+    type: a.k.a.
+    category: strong
+    last_name: LLC INSPIRA INVEST A
+  - uid: '53837'
+    type: a.k.a.
+    category: strong
+    last_name: INSPIRA INVEST A OOO
+address_list:
+  items:
+  - uid: '51508'
+    address1: et 1 pom 2 kom 28-1 of 1
+    address2: dom 9, ulitsa Leninskaya Sloboda
+    city: Moscow
+    postal_code: '115280'
+    country: Russia
+id_list:
+  items:
+  - uid: '23977'
+    id_type: Registration Number
+    id_number: '1177746359834'
+    id_country: Russia
+  - uid: '23978'
+    id_type: Tax ID No.
+    id_number: '7725367175'
+    id_country: Russia
+  - uid: '175118'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '145656'
+    id_type: Organization Established Date
+    id_number: 10 Apr 2017
+remarks: "(Linked To: PUCHKOV, Andrey Sergeyevich)"

@@ -1,0 +1,73 @@
+---
+uid: '41488'
+first_name: Vladimir Yakovlevich
+last_name: STRESHINSKIY
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '64580'
+    type: a.k.a.
+    category: strong
+    last_name: STRESHINSKIY
+    first_name: Ivan Yakovlevich
+  - uid: '64581'
+    type: a.k.a.
+    category: strong
+    last_name: STRESHINSKII
+    first_name: Vladimir Yakovlevich
+  - uid: '64582'
+    type: a.k.a.
+    category: strong
+    last_name: STRESHINSKY
+    first_name: Ivan
+address_list:
+  items:
+  - uid: '62455'
+    country: Russia
+  - uid: '62456'
+    country: Switzerland
+  - uid: '62457'
+    address1: 65 Route de Bievres
+    city: Verrieres-le-Buisson
+    postal_code: '91370'
+    country: France
+id_list:
+  items:
+  - uid: '30833'
+    id_type: Tax ID No.
+    id_number: '773126850502'
+    id_country: Russia
+  - uid: '31265'
+    id_type: Passport
+    id_number: '550017197'
+    id_country: Russia
+    expiration_date: 21 Dec 2027
+  - uid: '31266'
+    id_type: Passport
+    id_number: '29352365'
+    id_country: Israel
+  - uid: '31267'
+    id_type: Passport
+    id_number: K00112834
+    id_country: Cyprus
+    issue_date: 13 Feb 2013
+    expiration_date: 13 Feb 2023
+  - uid: '173674'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '159586'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '59587'
+    date_of_birth: 02 Oct 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '59588'
+    place_of_birth: Kyiv, Ukraine
+    main_entry: 'true'

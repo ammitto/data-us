@@ -1,0 +1,32 @@
+---
+uid: '32062'
+last_name: INT LTD EOOD
+sdn_type: Entity
+program_list:
+  programs:
+  - GLOMAG
+address_list:
+  items:
+  - uid: '48263'
+    address1: 119 Ul. Ekzarh Yosif Str.
+    address2: R-N Oborishte Distr
+    city: Sofia
+    postal_code: '1527'
+    country: Bulgaria
+  - uid: '48265'
+    address1: 79, Ralevitsa Str.
+    address2: Vitosha Distr.
+    city: Sofia
+    state_or_province: Stolichna
+    postal_code: '1618'
+    country: Bulgaria
+id_list:
+  items:
+  - uid: '21842'
+    id_type: V.A.T. Number
+    id_number: BG 204589523
+    id_country: Bulgaria
+  - uid: '140885'
+    id_type: Organization Established Date
+    id_number: '2017'
+remarks: "(Linked To: PEEVSKI, Delyan Slavchev)"

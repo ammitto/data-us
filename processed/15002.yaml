@@ -1,0 +1,58 @@
+---
+uid: '15002'
+first_name: Agustin
+last_name: FLORES APODACA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '21948'
+    type: a.k.a.
+    category: weak
+    last_name: EL NINO
+  - uid: '21949'
+    type: a.k.a.
+    category: weak
+    last_name: EL BARBON
+  - uid: '21950'
+    type: a.k.a.
+    category: weak
+    last_name: EL INGENIERO
+address_list:
+  items:
+  - uid: '2'
+    address1: Calle Sierra Madre Occidental No. 1280
+    address2: Colonia Canadas
+    city: Culiacan
+    state_or_province: Sinaloa
+    postal_code: '8000'
+    country: Mexico
+id_list:
+  items:
+  - uid: '2'
+    id_type: Passport
+    id_number: '040070827'
+    id_country: Mexico
+  - uid: '15683'
+    id_type: C.U.R.P.
+    id_number: FOAA640609HSLLPG00
+    id_country: Mexico
+  - uid: '15684'
+    id_type: R.F.C.
+    id_number: FOAA640609DX9
+    id_country: Mexico
+  - uid: '127060'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '11266'
+    date_of_birth: '09 Jun 1964'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '27059'
+    place_of_birth: Sinaloa, Mexico
+    main_entry: 'true'

@@ -1,0 +1,45 @@
+---
+uid: '44091'
+last_name: JOINT STOCK COMPANY SCIENTIFIC PRODUCTION ENTERPRISE RESEARCH AND DESIGN
+  INSTITUTE OF WELL LOGGING
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '68220'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY NPP VNIIGIS
+  - uid: '68221'
+    type: a.k.a.
+    category: weak
+    last_name: AO NPP VNIIGIS
+address_list:
+  items:
+  - uid: '65618'
+    address1: 1, ul. Gorkogo Oktyabrski
+    state_or_province: Bashkortostan Republic
+    postal_code: '452614'
+    country: Russia
+id_list:
+  items:
+  - uid: '33500'
+    id_type: Registration Number
+    id_number: '1020201929439'
+    id_country: Russia
+  - uid: '33501'
+    id_type: Government Gazette Number
+    id_number: '01423872'
+    id_country: Russia
+  - uid: '33502'
+    id_type: Tax ID No.
+    id_number: '0265013492'
+    id_country: Russia
+  - uid: '163663'
+    id_type: Organization Established Date
+    id_number: 26 Dec 1995
+  - uid: '175764'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

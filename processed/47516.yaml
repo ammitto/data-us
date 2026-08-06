@@ -1,0 +1,49 @@
+---
+uid: '47516'
+last_name: PUBLIC JOINT STOCK COMPANY BYSTROBANK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73552'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY BYSTROBANK
+  - uid: '73553'
+    type: a.k.a.
+    category: strong
+    last_name: IZHLADABANK
+address_list:
+  items:
+  - uid: '70935'
+    address1: Pushkinskaya Street 268
+    city: Izhevsk
+    postal_code: '426008'
+    country: Russia
+id_list:
+  items:
+  - uid: '38004'
+    id_type: Registration Number
+    id_number: '1021800001508'
+    id_country: Russia
+  - uid: '38005'
+    id_type: Tax ID No.
+    id_number: '1831002591'
+    id_country: Russia
+  - uid: '38007'
+    id_type: Legal Entity Number
+    id_number: 25340000QGMWTRG3X533
+  - uid: '176402'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '169043'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '169042'
+    id_type: SWIFT/BIC
+    id_number: BYJSRU33
+  - uid: '169041'
+    id_type: Website
+    id_number: www.bystrobank.ru

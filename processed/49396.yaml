@@ -1,0 +1,50 @@
+---
+uid: '49396'
+last_name: JOINT STOCK COMPANY OMSKIY NAUCHNO ISSLEDOVATELSKIY INSTITUT PRIBOROSTROENIYA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77046'
+    type: a.k.a.
+    category: weak
+    last_name: AO ONIIP
+  - uid: '77047'
+    type: a.k.a.
+    category: strong
+    last_name: OMSK INSTRUMENT RESEARCH INSTITUTE
+  - uid: '77048'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY OMSK SCIENTIFIC RESEARCH INSTITUTE OF INSTRUMENT
+      ENGINEERING
+  - uid: '78796'
+    type: a.k.a.
+    category: weak
+    last_name: JSC ONIIP
+address_list:
+  items:
+  - uid: '74458'
+    address1: Ulitsa Maslennikova
+    address2: Dom 231
+    city: Omsk
+    postal_code: '644009'
+    country: Russia
+id_list:
+  items:
+  - uid: '40673'
+    id_type: Tax ID No.
+    id_number: '5506218498'
+    id_country: Russia
+  - uid: '40674'
+    id_type: Registration Number
+    id_number: '1115543024574'
+    id_country: Russia
+  - uid: '172471'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '178386'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

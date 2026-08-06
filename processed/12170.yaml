@@ -1,0 +1,47 @@
+---
+uid: '12170'
+first_name: Arturo
+last_name: OLVERA ESTRADA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '18651'
+    address1: c/o GENETICA GANADERA RANCHO ALEJANDRA S.P.R. DE R. L. DE C.V.
+    city: Ensenada
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '18652'
+    address1: c/o GENETICA IMPORT-EXPORT S.P.R. DE R.L. DE C.V.
+    city: Ensenada
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '18653'
+    address1: c/o CLUB DEPORTIVO OJOS NEGROS A.C.
+    city: Conocido Poblado de Ojos Negros
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '18654'
+    address1: Calle Cuarta
+    address2: Poblado Ojos Negros
+    city: Ensenada
+    state_or_province: Baja California
+    country: Mexico
+id_list:
+  items:
+  - uid: '6605'
+    id_type: C.U.R.P.
+    id_number: OEEA510903HJCLSR03
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '7951'
+    date_of_birth: 03 Sep 1951
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '7952'
+    place_of_birth: San Antonio Ameca, Jalisco, Mexico
+    main_entry: 'true'

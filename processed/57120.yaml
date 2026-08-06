@@ -1,0 +1,41 @@
+---
+uid: '57120'
+first_name: Liliana
+last_name: OROZCO ROMERO
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+address_list:
+  items:
+  - uid: '87473'
+    country: Mexico
+id_list:
+  items:
+  - uid: '51347'
+    id_type: C.U.R.P.
+    id_number: OORL760114MCHRML06
+    id_country: Mexico
+  - uid: '51348'
+    id_type: R.F.C.
+    id_number: OORL760114EN6
+    id_country: Mexico
+  - uid: '197795'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '196733'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '96734'
+    date_of_birth: 14 Jan 1976
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '96735'
+    place_of_birth: Chihuahua, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: OROZCO ROMERO, Alfredo)"

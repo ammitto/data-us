@@ -1,0 +1,40 @@
+---
+uid: '41956'
+last_name: LOGAID
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '62564'
+    address1: ul. 1-ya Volskaya d. 26
+    address2: 'floor 2, kom #9'
+    city: Moscow
+    postal_code: '111674'
+    country: Russia
+  - uid: '62565'
+    address1: Ryazanskiy prospekt, dom 10
+    address2: stroenie 2
+    city: Moscow
+    postal_code: '109428'
+    country: Russia
+  - uid: '62566'
+    address1: ul. Svobody 95k2
+    address2: 1 podyezd, 1 etazh
+    city: Moscow
+    postal_code: '125481'
+    country: Russia
+id_list:
+  items:
+  - uid: '31316'
+    id_type: Registration Number
+    id_number: '1147746464095'
+    id_country: Russia
+  - uid: '31317'
+    id_type: Tax ID No.
+    id_number: '7721831364'
+    id_country: Russia
+  - uid: '173704'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

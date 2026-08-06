@@ -1,0 +1,30 @@
+---
+uid: '39677'
+last_name: HARBOUR SHIP MANAGEMENT LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '59107'
+    address1: Trust Company Complex, Ajeltake Road
+    address2: Ajeltake Island
+    city: Majuro
+    postal_code: MH96960
+    country: Marshall Islands
+  - uid: '59108'
+    address1: Ap 22, Carrer de Pallars 193
+    city: Barcelona
+    postal_code: '08018'
+    country: Spain
+id_list:
+  items:
+  - uid: '28848'
+    id_type: Identification Number
+    id_number: IMO 6235071
+  - uid: '156224'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: "(Linked To: ARTEMOV, Viktor Sergiyovich)"

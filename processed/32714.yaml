@@ -1,0 +1,36 @@
+---
+uid: '32714'
+last_name: INVESTIGATIVE COMMITTEE OF THE REPUBLIC OF BELARUS
+sdn_type: Entity
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '51408'
+    type: a.k.a.
+    category: strong
+    last_name: SLEDSTVENNIY KOMITET RESPUBLIKI BELARUS
+  - uid: '51409'
+    type: a.k.a.
+    category: strong
+    last_name: BELARUSIAN INVESTIGATIVE COMMITTEE
+  - uid: '51410'
+    type: a.k.a.
+    category: strong
+    last_name: INVESTIGATIVE COMMITTEE OF BELARUS
+address_list:
+  items:
+  - uid: '49271'
+    address1: Frunze St., bldg. 19
+    city: Minsk
+    postal_code: '220034'
+    country: Belarus
+id_list:
+  items:
+  - uid: '142361'
+    id_type: Target Type
+    id_number: Government Entity
+  - uid: '142360'
+    id_type: Organization Established Date
+    id_number: 12 Sep 2011

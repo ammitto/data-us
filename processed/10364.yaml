@@ -1,0 +1,40 @@
+---
+uid: '10364'
+last_name: ESTABLO PUERTO RICO S.A. DE C.V.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '10082'
+    type: a.k.a.
+    category: strong
+    last_name: ESTABLO LECHERO PUERTO RICO
+address_list:
+  items:
+  - uid: '14063'
+    address1: Carretera El Salado
+    address2: Quila KM 4
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '14064'
+    address1: Calle Indio De Guelatao Interior 20230
+    address2: Colonia Miguel Hidalgo
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '14065'
+    address1: Avenida Manuel Vallarta 2141
+    address2: Colonia Centro
+    city: Culiacan
+    state_or_province: Sinaloa
+    postal_code: '80129'
+    country: Mexico
+id_list:
+  items:
+  - uid: '4946'
+    id_type: R.F.C.
+    id_number: EPR-000322-UM9
+    id_country: Mexico

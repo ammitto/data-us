@@ -1,0 +1,50 @@
+---
+uid: '49944'
+last_name: NAUCHNO PROIZVODSTVENNOE OBYEDINENIE GRAN
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77830'
+    type: a.k.a.
+    category: strong
+    last_name: NPO GRAN
+  - uid: '77831'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY NAUCHNO PROIZVODSTVENNOE OBYEDINENIE GRAN
+  - uid: '77832'
+    type: a.k.a.
+    category: weak
+    last_name: LIMITED LIABILITY COMPANY GRAN
+  - uid: '77833'
+    type: a.k.a.
+    category: strong
+    last_name: GRAN SCIENTIFIC AND PRODUCTION ASSOCIATION
+  - uid: '77834'
+    type: a.k.a.
+    category: weak
+    last_name: NPP GERAN
+address_list:
+  items:
+  - uid: '75526'
+    address1: PR-KT Lenina
+    address2: D. 21V, Office 516/8
+    city: Chelyabinsk
+    postal_code: '454090'
+    country: Russia
+id_list:
+  items:
+  - uid: '41462'
+    id_type: Registration Number
+    id_number: '1227400042264'
+    id_country: Russia
+  - uid: '41463'
+    id_type: Tax ID No.
+    id_number: '7451461159'
+    id_country: Russia
+  - uid: '178053'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

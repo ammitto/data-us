@@ -1,0 +1,50 @@
+---
+uid: '45749'
+first_name: Dongjin
+last_name: LEE
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70680'
+    type: a.k.a.
+    category: strong
+    last_name: DONGJIN
+    first_name: Lee
+  - uid: '70681'
+    type: a.k.a.
+    category: weak
+    last_name: LEE, DJ
+address_list:
+  items:
+  - uid: '68057'
+    country: Korea, South
+id_list:
+  items:
+  - uid: '35474'
+    id_type: Passport
+    id_number: M72673454
+    id_country: Korea, South
+  - uid: '35475'
+    id_type: Passport
+    id_number: M10069085
+    id_country: Korea, South
+  - uid: '176983'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '166342'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '66339'
+    date_of_birth: 10 Jul 1962
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '66340'
+    place_of_birth: Busan, South Korea
+    main_entry: 'true'
+remarks: "(Linked To: LIMITED LIABILITY COMPANY AK MICROTECH)"

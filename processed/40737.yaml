@@ -1,0 +1,43 @@
+---
+uid: '40737'
+first_name: Hossein
+last_name: SHAMSABADI
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+aka_list:
+  items:
+  - uid: '63346'
+    type: a.k.a.
+    category: strong
+    last_name: SHAMSABADI
+    first_name: Hosein
+address_list:
+  items:
+  - uid: '60708'
+    country: Iran
+id_list:
+  items:
+  - uid: '29896'
+    id_type: National ID No.
+    id_number: '2181176574'
+    id_country: Iran
+  - uid: '158157'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '158154'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '58187'
+    date_of_birth: 04 Jun 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '58188'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: PARAVAR PARS COMPANY)"

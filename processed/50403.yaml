@@ -1,0 +1,34 @@
+---
+uid: '50403'
+last_name: JOINT STOCK COMPANY OKTOGLASS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78782'
+    type: a.k.a.
+    category: weak
+    last_name: OCTOGLASS
+address_list:
+  items:
+  - uid: '76416'
+    address1: pom. II, etazh 23, d. 12
+    address2: naberezhnaya Presnenskaya
+    city: Moscow
+    postal_code: '123112'
+    country: Russia
+id_list:
+  items:
+  - uid: '42181'
+    id_type: Tax ID No.
+    id_number: '7724402282'
+    id_country: Russia
+  - uid: '42182'
+    id_type: Registration Number
+    id_number: '1177746181249'
+    id_country: Russia
+  - uid: '178376'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

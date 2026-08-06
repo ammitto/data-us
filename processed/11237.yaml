@@ -1,0 +1,62 @@
+---
+uid: '11237'
+first_name: Jaime Arturo
+last_name: LADINO AVILA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '11660'
+    type: a.k.a.
+    category: strong
+    last_name: COLOSIO
+    first_name: Vincente
+  - uid: '11661'
+    type: a.k.a.
+    category: strong
+    last_name: CONTREAS
+    first_name: Miguel Angel
+  - uid: '11662'
+    type: a.k.a.
+    category: weak
+    last_name: EL OJON
+  - uid: '11663'
+    type: a.k.a.
+    category: weak
+    last_name: FAYO
+address_list:
+  items:
+  - uid: '16418'
+    address1: c/o GRUPO ROLA S.A. DE C.V.
+    city: Colima
+    state_or_province: Colima
+    country: Mexico
+  - uid: '16419'
+    address1: Calle Jesus Ponce 1083
+    address2: Colonia Jardin Vista Hermosa
+    city: Colima
+    state_or_province: Colima
+    country: Mexico
+id_list:
+  items:
+  - uid: '5704'
+    id_type: R.F.C.
+    id_number: LAAJ640724
+    id_country: Mexico
+  - uid: '5705'
+    id_type: C.U.R.P.
+    id_number: LAAJ640724HCMDVM07
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '6582'
+    date_of_birth: 24 Jul 1964
+    main_entry: 'true'
+  - uid: '6583'
+    date_of_birth: 26 Aug 1962
+    main_entry: 'false'
+  - uid: '6584'
+    date_of_birth: 13 Nov 1964
+    main_entry: 'false'

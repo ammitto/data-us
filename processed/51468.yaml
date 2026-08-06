@@ -1,0 +1,37 @@
+---
+uid: '51468'
+last_name: JSC RT REGISTRAR
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80712'
+    type: a.k.a.
+    category: strong
+    last_name: AO RT REGISTRATOR
+address_list:
+  items:
+  - uid: '78422'
+    address1: Ul. Donskaya D. 13, Et. 1A
+    address2: Pom. XII, Kom. 11
+    city: Moscow
+    postal_code: '119049'
+    country: Russia
+id_list:
+  items:
+  - uid: '43829'
+    id_type: Registration Number
+    id_number: '1025403189790'
+    id_country: Russia
+  - uid: '43830'
+    id_type: Tax ID No.
+    id_number: '5407175878'
+    id_country: Russia
+  - uid: '181008'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '182826'
+    id_type: Target Type
+    id_number: Financial Institution

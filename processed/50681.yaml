@@ -1,0 +1,37 @@
+---
+uid: '50681'
+first_name: Zviad
+last_name: KHARAZISHVILI
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '79292'
+    type: a.k.a.
+    category: weak
+    last_name: KHAREBA
+address_list:
+  items:
+  - uid: '76873'
+    address1: Micro District III
+    address2: Gldani Bldg 68
+    address3: Apt. 71
+    city: Tbilisi
+    country: Georgia
+id_list:
+  items:
+  - uid: '179259'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '79257'
+    date_of_birth: 20 Mar 1975
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '79258'
+    place_of_birth: Kareli, Georgia
+    main_entry: 'true'

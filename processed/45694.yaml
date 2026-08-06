@@ -1,0 +1,39 @@
+---
+uid: '45694'
+last_name: ZAVOD PODSHIPNIKOVYKH UZLOV
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70584'
+    type: a.k.a.
+    category: weak
+    last_name: OOO ZPU
+address_list:
+  items:
+  - uid: '67925'
+    address1: ul. Priozernaya
+    address2: d. 4
+    city: Chelyabinsk
+    postal_code: '454046'
+    country: Russia
+  - uid: '67926'
+    address1: ul. Elkina 112
+    address2: floor 2, office 218B
+    city: Chelyabinsk
+    country: Russia
+id_list:
+  items:
+  - uid: '35386'
+    id_type: Tax ID No.
+    id_number: '7449117247'
+    id_country: Russia
+  - uid: '35387'
+    id_type: Registration Number
+    id_number: '1147449000643'
+    id_country: Russia
+  - uid: '176001'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

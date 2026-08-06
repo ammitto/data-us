@@ -1,0 +1,31 @@
+---
+uid: '48340'
+first_name: Rodolfo
+last_name: MALDONADO BUSTOS
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '72523'
+    country: Mexico
+id_list:
+  items:
+  - uid: '39224'
+    id_type: C.U.R.P.
+    id_number: MABR650126HGRLSD08
+    id_country: Mexico
+  - uid: '170622'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '70619'
+    date_of_birth: 26 Jan 1965
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '70620'
+    place_of_birth: Guerrero, Mexico
+    main_entry: 'true'

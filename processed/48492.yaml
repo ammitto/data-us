@@ -1,0 +1,39 @@
+---
+uid: '48492'
+last_name: RED DOLPHIN JOINT STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75358'
+    type: a.k.a.
+    category: strong
+    last_name: I SPHERA JOINT STOCK COMPANY
+  - uid: '75359'
+    type: a.k.a.
+    category: strong
+    last_name: AO KRASNYI DELFIN
+address_list:
+  items:
+  - uid: '72754'
+    address1: Per. Khimicheskii D. 1
+    address2: Lit. BE, Floor 3
+    address3: Pomeshch. 60
+    city: Saint Petersburg
+    postal_code: '198095'
+    country: Russia
+id_list:
+  items:
+  - uid: '39395'
+    id_type: Registration ID
+    id_number: '1077847590040'
+    id_country: Russia
+  - uid: '39396'
+    id_type: Tax ID No.
+    id_number: '7805439611'
+    id_country: Russia
+  - uid: '171310'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

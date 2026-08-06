@@ -1,0 +1,42 @@
+---
+uid: '13359'
+first_name: Mayela
+last_name: CARDONA MARTINEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '22936'
+    type: a.k.a.
+    category: strong
+    last_name: CARDONA DE IBARRA
+    first_name: Mayela
+address_list:
+  items:
+  - uid: '21338'
+    address1: Calle Lago de La Doga 5312
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+id_list:
+  items:
+  - uid: '7873'
+    id_type: Passport
+    id_number: '99020046985'
+    id_country: Mexico
+  - uid: '7874'
+    id_type: R.F.C.
+    id_number: CAIM610224
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '9417'
+    date_of_birth: 24 Feb 1961
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '9418'
+    place_of_birth: Coahuila, Mexico
+    main_entry: 'true'

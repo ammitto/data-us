@@ -1,0 +1,41 @@
+---
+uid: '40378'
+first_name: Luis Alfonso
+last_name: ZAMUDIO LERMA
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '60168'
+    address1: Calle Frida Kahlo 2464
+    address2: Fraccionamiento Residencial Los Cisnes
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '60169'
+    address1: Calle Diego Valadez 1321
+    address2: Col. Chapultepec
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+id_list:
+  items:
+  - uid: '29538'
+    id_type: C.U.R.P.
+    id_number: ZALL650409HSLMRS03
+    id_country: Mexico
+  - uid: '157498'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '57495'
+    date_of_birth: '09 Apr 1965'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '57496'
+    place_of_birth: Sinaloa, Mexico
+    main_entry: 'true'

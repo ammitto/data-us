@@ -1,0 +1,43 @@
+---
+uid: '35058'
+first_name: Peter Charles
+last_name: MBAGA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '55153'
+    type: a.k.a.
+    category: weak
+    last_name: ABU KAIDHA
+  - uid: '55154'
+    type: a.k.a.
+    category: weak
+    last_name: Issa
+address_list:
+  items:
+  - uid: '52627'
+    city: Johannesburg
+    country: South Africa
+id_list:
+  items:
+  - uid: '24816'
+    id_type: Passport
+    id_number: AB321592
+    id_country: Tanzania
+    expiration_date: '08 Mar 2019'
+  - uid: '146946'
+    id_type: Gender
+    id_number: Male
+  - uid: '147117'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '46944'
+    date_of_birth: 25 Sep 1976
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC STATE OF IRAQ AND SYRIA - MOZAMBIQUE)"

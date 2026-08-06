@@ -1,0 +1,54 @@
+---
+uid: '42196'
+first_name: Aleksei Vladimirovich
+last_name: BASHKIROV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65584'
+    type: a.k.a.
+    category: strong
+    last_name: BASHKIROV
+    first_name: Alexey Vladimirovich
+address_list:
+  items:
+  - uid: '62977'
+    address1: Christou Keli, 10A Residence Blanco, Flat 103
+    address2: Neapoli
+    city: Limassol
+    postal_code: '3101'
+    country: Cyprus
+  - uid: '62978'
+    address1: 26 Zoologicheskaya, Building 1, Apartment 25
+    city: Moscow
+    postal_code: '123056'
+    country: Russia
+id_list:
+  items:
+  - uid: '31666'
+    id_type: Passport
+    id_number: '530691501'
+    id_country: Russia
+  - uid: '31667'
+    id_type: Tax ID No.
+    id_number: '770300386581'
+    id_country: Russia
+  - uid: '175426'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '160494'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '60490'
+    date_of_birth: 15 Apr 1977
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '60491'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'

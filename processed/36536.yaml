@@ -1,0 +1,34 @@
+---
+uid: '36536'
+first_name: Aleksei Valeryevich
+last_name: TROSHIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '54944'
+    country: Russia
+id_list:
+  items:
+  - uid: '25996'
+    id_type: Tax ID No.
+    id_number: '781712817387'
+    id_country: Russia
+  - uid: '26714'
+    id_type: Passport
+    id_number: '720397581'
+    id_country: Russia
+  - uid: '174244'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '152404'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '56068'
+    date_of_birth: '09 Dec 1980'
+    main_entry: 'true'
+remarks: "(Linked To: AKTSIONERNOE OBSHCHESTVO NATSIONALNAYA INZHINIRINGOVAYA KORPORATSIYA)"

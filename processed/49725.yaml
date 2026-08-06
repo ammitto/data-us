@@ -1,0 +1,58 @@
+---
+uid: '49725'
+last_name: AUTONOMOUS NON-PROFIT ORGANIZATION DIALOG
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77523'
+    type: a.k.a.
+    category: strong
+    last_name: NON-PROFIT ORGANIZATION FOR THE DEVELOPMENT OF DIGITAL PROJECTS IN
+      THE FIELD OF PUBLIC RELATIONS AND COMMUNICATIONS DIALOG
+  - uid: '77524'
+    type: a.k.a.
+    category: strong
+    last_name: AVTONOMNAYA NEKOMMERCHESKAYA ORGANIZATSIYA PO RAZVITIYU TSIFROVYKH
+      PROEKTOV V SFERE OBSHCHESTVENNYKH SVYAZEI I KOMMUNIKATSII DIALOG
+  - uid: '77525'
+    type: a.k.a.
+    category: strong
+    last_name: ANO DIALOG
+  - uid: '77526'
+    type: a.k.a.
+    category: weak
+    last_name: DIALOG
+  - uid: '77527'
+    type: a.k.a.
+    category: weak
+    last_name: DIALOGUE
+address_list:
+  items:
+  - uid: '75115'
+    address1: Ul. Timura Frunze, D. 11, Str. 1, Floor 1
+    address2: Pomeshch. VI Kom. 14
+    city: Moscow
+    postal_code: '119021'
+    country: Russia
+id_list:
+  items:
+  - uid: '41191'
+    id_type: Tax ID No.
+    id_number: '9709056472'
+    id_country: Russia
+  - uid: '41192'
+    id_type: Business Registration Number
+    id_number: '1197700016414'
+    id_country: Russia
+  - uid: '173143'
+    id_type: Organization Established Date
+    id_number: 13 Nov 2019
+  - uid: '178697'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '173142'
+    id_type: Website
+    id_number: www.anodialog.ru

@@ -1,0 +1,107 @@
+---
+uid: '10616'
+first_name: Arturo
+last_name: MEZA CAZARES
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '10583'
+    type: a.k.a.
+    category: strong
+    last_name: MEZA GASTELLUM
+    first_name: Arturo
+  - uid: '10584'
+    type: a.k.a.
+    category: strong
+    last_name: MEZA CAZAREZ
+    first_name: Arturo
+  - uid: '10585'
+    type: a.k.a.
+    category: strong
+    last_name: MEZA JR.
+    first_name: Arturo
+address_list:
+  items:
+  - uid: '14769'
+    address1: Avenida Rodolfo Robles 153 Sur, Colonia Jorge Almada
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '14770'
+    address1: 'Avenida Ignacio Aldama #257, Colonia Centro'
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '14771'
+    address1: Calle G. Robles No. 153, Colonia Almada Sur
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '14772'
+    address1: Avenida Rodolfo G. Robles No. 153 Sur, Colonia Almada
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '14773'
+    address1: Calle Benito Juarez No. 636, Oriente, Colonia Centro
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '14774'
+    address1: Predio de San Rafael, Sindicatura de Costa Rica
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '14775'
+    address1: Avenida Ignacio Aldama No. 257 Norte
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '14776'
+    address1: c/o SISTEMA DE RADIO DE SINALOA, S.A. DE C.V.
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '14777'
+    address1: c/o CONSORCIO INMOBILIARIO DEL VALLE DE CULIACAN, S.A. DE C.V.
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '14778'
+    address1: c/o COMERCIAL DOMELY, S.A. DE C.V.
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+id_list:
+  items:
+  - uid: '5152'
+    id_type: R.F.C.
+    id_number: MECA760306V70
+    id_country: Mexico
+  - uid: '5153'
+    id_type: Identification Number
+    id_number: B9457110
+    id_country: United States
+  - uid: '5247'
+    id_type: R.F.C.
+    id_number: MECA760329
+    id_country: Mexico
+  - uid: '195881'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '5956'
+    date_of_birth: 06 Mar 1976
+    main_entry: 'true'
+  - uid: '5957'
+    date_of_birth: 29 Mar 1976
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '5958'
+    place_of_birth: Culiacan, Sinaloa, Mexico
+    main_entry: 'true'

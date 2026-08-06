@@ -1,0 +1,50 @@
+---
+uid: '45715'
+last_name: GEA OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70626'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU GEA
+  - uid: '70627'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY GEA
+address_list:
+  items:
+  - uid: '67973'
+    address1: Ter. OEZ Alabuga, Ul. Sh-2, Str. 5/12
+    address2: Pomeshch. 36
+    city: Yelabuga
+    state_or_province: Volga federal region, Tatarstan
+    country: Russia
+id_list:
+  items:
+  - uid: '35419'
+    id_type: Tax ID No.
+    id_number: '1646048200'
+    id_country: Russia
+  - uid: '35420'
+    id_type: Registration Number
+    id_number: '1201600024878'
+    id_country: Russia
+  - uid: '35421'
+    id_type: Registration Number
+    id_number: '43974020'
+    id_country: Russia
+  - uid: '176015'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '166288'
+    id_type: Organization Established Date
+    id_number: 26 Mar 2020
+  - uid: '170085'
+    id_type: 'Organization Type:'
+    id_number: Manufacture of pulp, paper and paperboard
+remarks: "(Linked To: JOINT STOCK COMPANY SPECIAL ECONOMIC ZONE OF INDUSTRIAL PRODUCTION
+  ALABUGA)"

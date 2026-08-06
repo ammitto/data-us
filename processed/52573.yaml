@@ -1,0 +1,41 @@
+---
+uid: '52573'
+last_name: JOINT STOCK COMPANY TUGANSK MINING AND PROCESSING ENTERPRISE ILMENITE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '82287'
+    type: a.k.a.
+    category: strong
+    last_name: ILMENITE TMPE JSC
+  - uid: '82288'
+    type: a.k.a.
+    category: strong
+    last_name: TGOK ILMENITE JSC
+  - uid: '82289'
+    type: a.k.a.
+    category: strong
+    last_name: TUGANSKY GOK
+address_list:
+  items:
+  - uid: '80295'
+    address1: ul. Zavodskaya d. 100
+    city: S. Oktyabrskoe
+    postal_code: '634583'
+    country: Russia
+id_list:
+  items:
+  - uid: '45596'
+    id_type: Registration Number
+    id_number: '1027000762260'
+    id_country: Russia
+  - uid: '45597'
+    id_type: Tax ID No.
+    id_number: '7014038550'
+    id_country: Russia
+  - uid: '184271'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

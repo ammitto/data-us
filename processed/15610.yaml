@@ -1,0 +1,55 @@
+---
+uid: '15610'
+first_name: Hamad
+last_name: EL KHAIRY
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '23198'
+    type: a.k.a.
+    category: strong
+    last_name: KHAIRY
+    first_name: Abderrahmane Ould Mohamed Lemine Ould Mohamed
+  - uid: '23199'
+    type: a.k.a.
+    category: strong
+    last_name: KHEIROU
+    first_name: Hamada Ould Mohamed
+  - uid: '23200'
+    type: a.k.a.
+    category: weak
+    last_name: QUMQUM, Abou
+  - uid: '23201'
+    type: a.k.a.
+    category: strong
+    last_name: KHEIROU
+    first_name: Amada Ould
+id_list:
+  items:
+  - uid: '8382'
+    id_type: Identification Number
+    id_number: '47911'
+    id_country: Mali
+    issue_date: 17 Oct 2006
+  - uid: '8383'
+    id_type: Passport
+    id_number: A1447120
+    id_country: Mali
+    expiration_date: 19 Oct 2011
+  - uid: '186187'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '12814'
+    date_of_birth: '1970'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '12815'
+    place_of_birth: Nouakchott, Mauritania
+    main_entry: 'true'

@@ -1,0 +1,39 @@
+---
+uid: '37267'
+first_name: Jesus Francisco
+last_name: CAMACHO PORCHAS
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '58407'
+    type: a.k.a.
+    category: weak
+    last_name: Pilo
+address_list:
+  items:
+  - uid: '55726'
+    city: Hermosillo
+    state_or_province: Sonora
+    country: Mexico
+id_list:
+  items:
+  - uid: '26554'
+    id_type: C.U.R.P.
+    id_number: CAPJ800511HSRMRS01
+    id_country: Mexico
+  - uid: '151780'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '51777'
+    date_of_birth: 11 May 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '51778'
+    place_of_birth: Sonora, Mexico
+    main_entry: 'true'

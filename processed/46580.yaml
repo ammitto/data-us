@@ -1,0 +1,37 @@
+---
+uid: '46580'
+last_name: LIMITED LIABILITY COMPANY URALHELICOM
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '71901'
+    type: a.k.a.
+    category: strong
+    last_name: URALSKAYA VERTOLETNAYA KOMPANIYA
+  - uid: '71902'
+    type: a.k.a.
+    category: strong
+    last_name: URAL HELICOPTER COMPANY
+address_list:
+  items:
+  - uid: '69329'
+    address1: Ul. Botanicheskaya D.30
+    city: Yekaterinburg
+    postal_code: '620137'
+    country: Russia
+id_list:
+  items:
+  - uid: '36548'
+    id_type: Registration Number
+    id_number: '1036601478980'
+    id_country: Russia
+  - uid: '36549'
+    id_type: Tax ID No.
+    id_number: '6625029332'
+    id_country: Russia
+  - uid: '174999'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

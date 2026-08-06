@@ -1,0 +1,33 @@
+---
+uid: '47531'
+last_name: STEREOTECH
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73583'
+    type: a.k.a.
+    category: strong
+    last_name: STEREOTEK
+address_list:
+  items:
+  - uid: '70962'
+    address1: Ul. Im. Tsiolkovskogo D. 9A, Office 14
+    city: Volgograd
+    postal_code: '400001'
+    country: Russia
+id_list:
+  items:
+  - uid: '38030'
+    id_type: Registration Number
+    id_number: '1163443057800'
+    id_country: Russia
+  - uid: '38031'
+    id_type: Tax ID No.
+    id_number: '3459068062'
+    id_country: Russia
+  - uid: '169747'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

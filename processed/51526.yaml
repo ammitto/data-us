@@ -1,0 +1,45 @@
+---
+uid: '51526'
+last_name: ENERGY OF OIL AND GAS SERVICE LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '80785'
+    type: a.k.a.
+    category: weak
+    last_name: ENGS LLC
+address_list:
+  items:
+  - uid: '78510'
+    address1: Yakimanskaya Naberezhnaya D. 4
+    address2: Str.1
+    city: Moscow
+    postal_code: '119180'
+    country: Russia
+  - uid: '78511'
+    address1: Ul. Grimau D. 10A
+    address2: Str. 1
+    city: Moscow
+    postal_code: '117292'
+    country: Russia
+id_list:
+  items:
+  - uid: '43932'
+    id_type: Registration Number
+    id_number: '1087746582714'
+    id_country: Russia
+  - uid: '43933'
+    id_type: Tax ID No.
+    id_number: '7727650928'
+    id_country: Russia
+  - uid: '181168'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183480'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

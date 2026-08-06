@@ -1,0 +1,28 @@
+---
+uid: '45068'
+last_name: LIMITED LIABILITY COMPANY MV
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '67127'
+    address1: ul. Lenina d. 62
+    city: Vorkuta
+    postal_code: '169908'
+    country: Russia
+id_list:
+  items:
+  - uid: '34791'
+    id_type: Registration Number
+    id_number: '1101103000272'
+    id_country: Russia
+  - uid: '34792'
+    id_type: Tax ID No.
+    id_number: '1103002065'
+    id_country: Russia
+  - uid: '175935'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: JSC VORKUTAUGOL)"

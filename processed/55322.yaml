@@ -1,0 +1,29 @@
+---
+uid: '55322'
+last_name: CARTEL DE SANTA ROSA DE LIMA
+sdn_type: Entity
+program_list:
+  programs:
+  - TCO
+aka_list:
+  items:
+  - uid: '86092'
+    type: a.k.a.
+    category: strong
+    last_name: SANTA ROSA DE LIMA CARTEL
+  - uid: '86093'
+    type: a.k.a.
+    category: weak
+    last_name: CSRL
+address_list:
+  items:
+  - uid: '84592'
+    country: Mexico
+id_list:
+  items:
+  - uid: '192587'
+    id_type: Organization Established Date
+    id_number: '2014'
+  - uid: '192586'
+    id_type: Target Type
+    id_number: Criminal Organization

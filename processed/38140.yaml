@@ -1,0 +1,41 @@
+---
+uid: '38140'
+last_name: JOINT STOCK COMPANY VOLOGODSKY OPTIKO MEKHANICHESKY FACTORY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59862'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY VOMZ
+  - uid: '59863'
+    type: a.k.a.
+    category: strong
+    last_name: VOLOGDA OPTICAL AND MECHANICAL PLANT JSC
+address_list:
+  items:
+  - uid: '57152'
+    address1: 54 Maltseva Str.
+    city: Vologda
+    state_or_province: Vologda Region
+    postal_code: '160009'
+    country: Russia
+id_list:
+  items:
+  - uid: '27423'
+    id_type: Tax ID No.
+    id_number: '3525023010'
+    id_country: Russia
+  - uid: '27424'
+    id_type: Registration Number
+    id_number: '1023500882437'
+    id_country: Russia
+  - uid: '153410'
+    id_type: Organization Established Date
+    id_number: 14 Apr 1994
+  - uid: '174635'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,43 @@
+---
+uid: '35216'
+first_name: Rashid Gumarovich
+last_name: NURGALIEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '55387'
+    type: a.k.a.
+    category: strong
+    last_name: NURGALIYEV
+    first_name: Rashid
+address_list:
+  items:
+  - uid: '52905'
+    country: Russia
+id_list:
+  items:
+  - uid: '175288'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '147287'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '47288'
+    date_of_birth: '08 Oct 1956'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '47289'
+    place_of_birth: Zhetiqara, Kazakhstan
+    main_entry: 'true'
+  - uid: '47290'
+    place_of_birth: Zhetikara, Kazakhstan
+    main_entry: 'false'
+  - uid: '47291'
+    place_of_birth: Dzhetigara, Kazakhstan
+    main_entry: 'false'

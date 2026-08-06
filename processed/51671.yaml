@@ -1,0 +1,45 @@
+---
+uid: '51671'
+last_name: PUBLIC JOINT STOCK COMPANY NATIONAL BANK TRUST
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80965'
+    type: a.k.a.
+    category: strong
+    last_name: NATIONAL BANK TRUST
+address_list:
+  items:
+  - uid: '78741'
+    address1: Mozhaysky Val Str., 8
+    city: Moscow
+    postal_code: '121148'
+    country: Russia
+id_list:
+  items:
+  - uid: '44203'
+    id_type: Legal Entity Number
+    id_number: 253400QR501VVARKW142
+  - uid: '44204'
+    id_type: Registration Number
+    id_number: '1027800000480'
+    id_country: Russia
+  - uid: '44205'
+    id_type: Tax ID No.
+    id_number: '7831001567'
+    id_country: Russia
+  - uid: '181652'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '181651'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '181654'
+    id_type: SWIFT/BIC
+    id_number: NBTRRUMM
+  - uid: '181653'
+    id_type: Website
+    id_number: www.trust.ru

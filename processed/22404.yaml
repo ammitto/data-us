@@ -1,0 +1,36 @@
+---
+uid: '22404'
+first_name: Aleksandr Nikolayevich
+last_name: VOROBEV
+sdn_type: Individual
+program_list:
+  programs:
+  - UKRAINE-EO13661
+address_list:
+  items:
+  - uid: '34129'
+    country: Russia
+id_list:
+  items:
+  - uid: '14158'
+    id_type: Passport
+    id_number: '754116204'
+    id_country: Russia
+    expiration_date: 29 Dec 2026
+  - uid: '143831'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '123856'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '23853'
+    date_of_birth: 13 Mar 1970
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '23854'
+    place_of_birth: Gavrilov Yam, Russia
+    main_entry: 'true'

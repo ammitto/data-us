@@ -1,0 +1,34 @@
+---
+uid: '49700'
+last_name: RELAN LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - SDGT
+address_list:
+  items:
+  - uid: '75028'
+    address1: Room 1508
+    address2: 15/F., Office Tower Two
+    address3: Grand Plaza, 625 Nathan Road, Kowloon
+    city: Hong Kong
+    country: China
+id_list:
+  items:
+  - uid: '41120'
+    id_type: Business Registration Number
+    id_number: '73866245'
+    id_country: Hong Kong
+  - uid: '41122'
+    id_type: Company Number
+    id_number: '3135115'
+    id_country: Hong Kong
+  - uid: '173046'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '173045'
+    id_type: Organization Established Date
+    id_number: 15 Mar 2022
+remarks: "(Linked To: MINISTRY OF DEFENSE AND ARMED FORCES LOGISTICS)"

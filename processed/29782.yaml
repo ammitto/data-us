@@ -1,0 +1,58 @@
+---
+uid: '29782'
+first_name: Ali
+last_name: DARASSA
+sdn_type: Individual
+program_list:
+  programs:
+  - CAR
+aka_list:
+  items:
+  - uid: '52129'
+    type: a.k.a.
+    category: strong
+    last_name: MAHAMAT
+    first_name: Ali Darassa
+  - uid: '52130'
+    type: a.k.a.
+    category: strong
+    last_name: DARASSA
+    first_name: Ali Mahamat
+  - uid: '52131'
+    type: a.k.a.
+    category: strong
+    last_name: DARAS
+    first_name: Ali
+  - uid: '52132'
+    type: a.k.a.
+    category: strong
+    last_name: DARRASSA
+    first_name: Ali
+  - uid: '52133'
+    type: a.k.a.
+    category: strong
+    last_name: MAHAMANT
+    first_name: Ali Darassa
+address_list:
+  items:
+  - uid: '49801'
+    city: Alindao
+    country: Central African Republic
+id_list:
+  items:
+  - uid: '142922'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '36712'
+    date_of_birth: 22 Sep 1978
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '42920'
+    place_of_birth: Kabo, Ouham prefecture, Central African Republic
+    main_entry: 'true'
+  - uid: '42921'
+    place_of_birth: Bousso, Chad
+    main_entry: 'false'

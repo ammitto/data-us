@@ -1,0 +1,34 @@
+---
+uid: '9344'
+first_name: Marco Marino
+last_name: DIODATO DEL GALLO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '8813'
+    type: a.k.a.
+    category: weak
+    last_name: RENATO
+address_list:
+  items:
+  - uid: '11528'
+    country: Bolivia
+id_list:
+  items:
+  - uid: '4027'
+    id_type: Passport
+    id_number: 072130-A
+    id_country: Italy
+date_of_birth_list:
+  items:
+  - uid: '4313'
+    date_of_birth: 28 Jan 1957
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '4314'
+    place_of_birth: Italy
+    main_entry: 'true'

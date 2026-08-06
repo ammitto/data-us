@@ -1,0 +1,30 @@
+---
+uid: '50685'
+last_name: EP-MEB
+sdn_type: Aircraft
+program_list:
+  programs:
+  - SDGT
+  - IFSR
+id_list:
+  items:
+  - uid: '194836'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '179163'
+    id_type: Aircraft Manufacture Date
+    id_number: '1997'
+  - uid: '179165'
+    id_type: Aircraft Model
+    id_number: Avro RJ85
+  - uid: '179166'
+    id_type: Aircraft Operator
+    id_number: MAHAN AIR
+  - uid: '179164'
+    id_type: Aircraft Manufacturer's Serial Number (MSN)
+    id_number: E2319
+  - uid: '194839'
+    id_type: Aircraft Tail Number
+    id_number: EP-MEB
+remarks: "(Linked To: MAHAN AIR)"

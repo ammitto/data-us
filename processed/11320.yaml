@@ -1,0 +1,81 @@
+---
+uid: '11320'
+first_name: Fritz Martin
+last_name: GELOWICZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '11871'
+    type: a.k.a.
+    category: strong
+    last_name: GELOWICZ
+    first_name: Abdullah
+  - uid: '11873'
+    type: a.k.a.
+    category: strong
+    last_name: GELOWICZ
+    first_name: Fritz Martin Abdullah
+  - uid: '11874'
+    type: a.k.a.
+    category: strong
+    last_name: GELOWITZ
+    first_name: Fritz Martin Abdullah
+  - uid: '11876'
+    type: a.k.a.
+    category: weak
+    last_name: BENZL
+  - uid: '11878'
+    type: a.k.a.
+    category: strong
+    last_name: KONARS
+    first_name: Robert
+  - uid: '11879'
+    type: a.k.a.
+    category: strong
+    last_name: GEBERT
+    first_name: Markus
+address_list:
+  items:
+  - uid: '16590'
+    address1: Boefinger Weg 20
+    city: Ulm
+    postal_code: '89075'
+    country: Germany
+  - uid: '16591'
+    address1: Eberhardstrasse 70
+    city: Ulm
+    postal_code: '89073'
+    country: Germany
+id_list:
+  items:
+  - uid: '5766'
+    id_type: Passport
+    id_number: '7020069907'
+    id_country: Germany
+  - uid: '5770'
+    id_type: Personal ID Card
+    id_number: '7020783883'
+  - uid: '185928'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '6662'
+    date_of_birth: 01 Sep 1979
+    main_entry: 'true'
+  - uid: '6663'
+    date_of_birth: 10 Apr 1979
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '6664'
+    place_of_birth: Munich, Germany
+    main_entry: 'true'
+  - uid: '6665'
+    place_of_birth: Liege, Belgium
+    main_entry: 'false'
+remarks: currently incarcerated at Stuttgart-Stammheim, Germany

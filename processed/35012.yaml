@@ -1,0 +1,47 @@
+---
+uid: '35012'
+last_name: NERO DRINKS COMPANY LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - TCO
+aka_list:
+  items:
+  - uid: '55082'
+    type: a.k.a.
+    category: strong
+    last_name: NERO DRINKS COMPANY SL
+  - uid: '55083'
+    type: a.k.a.
+    category: strong
+    last_name: NERO VODKA
+address_list:
+  items:
+  - uid: '52564'
+    address1: 15 Cumbernauld Road
+    address2: Stepps
+    city: Glasgow
+    state_or_province: Scotland
+    postal_code: G33 6LE
+    country: United Kingdom
+  - uid: '52565'
+    address1: Unit 20310
+    address2: PO Box 6945
+    city: London
+    postal_code: W1A 6US
+    country: United Kingdom
+  - uid: '52567'
+    address1: C Dinamarca 46 B
+    address2: Urbanizacion Faro De Calaburra
+    city: Mijas
+    country: Spain
+id_list:
+  items:
+  - uid: '24726'
+    id_type: Company Number
+    id_number: SC591051
+    id_country: United Kingdom
+  - uid: '24727'
+    id_type: Tax ID No.
+    id_number: B93681724
+    id_country: Spain

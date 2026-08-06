@@ -1,0 +1,37 @@
+---
+uid: '13135'
+last_name: SAMAN BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '14782'
+    type: a.k.a.
+    category: strong
+    last_name: BANK-E SAMAN
+address_list:
+  items:
+  - uid: '20996'
+    address1: Vali Asr. St. No. 3
+    address2: Before Vey Park intersection, corner of Tarakesh Dooz St.
+    city: Tehran
+    country: Iran
+  - uid: '45334'
+    address1: 2, Tarkeshdooz Alley, before Parkway Cross
+    address2: Valiasr St.
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '137301'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '111710'
+    id_type: SWIFT/BIC
+    id_number: SABCIRTH
+  - uid: '137343'
+    id_type: Website
+    id_number: sb24.ir

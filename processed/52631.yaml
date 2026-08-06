@@ -1,0 +1,50 @@
+---
+uid: '52631'
+last_name: LIMITED LIABILITY COMPANY MANAGEMENT METALLURGICAL COMPANY STEEL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '82438'
+    type: a.k.a.
+    category: weak
+    last_name: LLC MMC STEEL
+  - uid: '82439'
+    type: a.k.a.
+    category: weak
+    last_name: MMC STEEL CORPORATION
+  - uid: '82440'
+    type: a.k.a.
+    category: strong
+    last_name: OOO UMK STAL
+  - uid: '82442'
+    type: a.k.a.
+    category: strong
+    last_name: OOO UGMK STAL
+address_list:
+  items:
+  - uid: '80414'
+    address1: zd. 1 k. 1 ofis 407, prospekt Uspenski
+    city: Verkhnyaya Pyshma
+    postal_code: '624091'
+    country: Russia
+  - uid: '80415'
+    address1: 125 Uspenskiy ave.
+    city: Verkhnyaya Pyshma
+    postal_code: '624097'
+    country: Russia
+id_list:
+  items:
+  - uid: '45704'
+    id_type: Registration Number
+    id_number: '1056600304683'
+    id_country: Russia
+  - uid: '45705'
+    id_type: Tax ID No.
+    id_number: '6606021264'
+    id_country: Russia
+  - uid: '184414'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

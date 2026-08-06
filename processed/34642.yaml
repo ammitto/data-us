@@ -1,0 +1,49 @@
+---
+uid: '34642'
+last_name: LIMITED LIABILITY COMPANY PROMISING INVESTMENTS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54227'
+    type: a.k.a.
+    category: weak
+    last_name: PROMISING INVESTMENTS LLC
+  - uid: '54228'
+    type: a.k.a.
+    category: weak
+    last_name: PERSPECTIVE INVESTMENTS LIMITED LIABILITY COMPANY
+address_list:
+  items:
+  - uid: '51856'
+    address1: 46 Molodezhnaya St., Office 335
+    city: Odintsovo
+    state_or_province: Moscow Region
+    postal_code: '143007'
+    country: Russia
+id_list:
+  items:
+  - uid: '24231'
+    id_type: Registration Number
+    id_number: '1105032001458'
+    id_country: Russia
+  - uid: '24232'
+    id_type: Tax ID No.
+    id_number: '5032218680'
+    id_country: Russia
+  - uid: '175156'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '146720'
+    id_type: Executive Order 14024 Directive Information -
+    id_number: 'For more information on directives, please visit the following link:
+      https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives'
+  - uid: '146899'
+    id_type: 'Listing Date (EO 14024 Directive 2):'
+    id_number: 24 Feb 2022
+  - uid: '146900'
+    id_type: 'Effective Date (EO 14024 Directive 2):'
+    id_number: 26 Mar 2022
+remarks: "(Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)"

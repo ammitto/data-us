@@ -1,0 +1,61 @@
+---
+uid: '38758'
+last_name: OAO RADIOAVIONIKA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '60593'
+    type: a.k.a.
+    category: strong
+    last_name: OTKRYTOE ATSIONERNOE OBSHCHESTVO RADIOAVIONIKA
+  - uid: '60594'
+    type: a.k.a.
+    category: strong
+    last_name: OJSC RADIOAVIONIKA
+  - uid: '60595'
+    type: a.k.a.
+    category: strong
+    last_name: OPEN JOINT STOCK COMPANY RADIOAVIONIKA
+  - uid: '60596'
+    type: a.k.a.
+    category: strong
+    last_name: RADIOAVIONICA JSC
+  - uid: '60597'
+    type: a.k.a.
+    category: strong
+    last_name: RADIOAVIONIKA PAO
+  - uid: '60598'
+    type: a.k.a.
+    category: strong
+    last_name: RADIOAVIONICA CORPORATION
+address_list:
+  items:
+  - uid: '57848'
+    address1: d.4 litera B
+    address2: prospekt Troitski
+    city: St. Petersburg
+    postal_code: '190005'
+    country: Russia
+id_list:
+  items:
+  - uid: '28039'
+    id_type: Registration Number
+    id_number: '1027810239555'
+    id_country: Russia
+  - uid: '28040'
+    id_type: Tax ID No.
+    id_number: '7809015518'
+    id_country: Russia
+  - uid: '28041'
+    id_type: Government Gazette Number
+    id_number: '27465454'
+    id_country: Russia
+  - uid: '174707'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '154353'
+    id_type: Organization Established Date
+    id_number: '08 Feb 1993'

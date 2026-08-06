@@ -1,0 +1,107 @@
+---
+uid: '11476'
+first_name: Pedro Antonio
+last_name: BERMUDEZ SUAZA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNT
+aka_list:
+  items:
+  - uid: '12148'
+    type: a.k.a.
+    category: strong
+    last_name: AGUILAR DEL BOSQUE
+    first_name: Mauricio
+  - uid: '12149'
+    type: a.k.a.
+    category: strong
+    last_name: AGUILAR VELEZ
+    first_name: Luis Antonio
+  - uid: '12150'
+    type: a.k.a.
+    category: strong
+    last_name: VEGA LUJAN
+    first_name: Diego Rodrigo
+  - uid: '12151'
+    type: a.k.a.
+    category: weak
+    last_name: EL ARQUITECTO
+address_list:
+  items:
+  - uid: '17050'
+    address1: c/o ASES DE COMPETENCIA Y CIA. S.A.
+    city: Medellin
+    country: Colombia
+  - uid: '17051'
+    address1: c/o CONSTRUCTORA GUADALEST S.A.
+    city: Medellin
+    country: Colombia
+  - uid: '17052'
+    address1: c/o FRANZUL S.A.
+    city: Medellin
+    country: Colombia
+  - uid: '17053'
+    address1: c/o GRUPO GUADALEST S.A. DE C.V.
+    city: Mexico City
+    state_or_province: Distrito Federal
+    country: Mexico
+  - uid: '17054'
+    address1: c/o HIERROS DE JERUSALEM S.A.
+    city: Medellin
+    country: Colombia
+  - uid: '17055'
+    address1: Av. Hipolito Taine 253 2
+    address2: Col. Chapultepec Morales
+    address3: Miguel Hidalgo
+    city: Mexico City
+    state_or_province: Distrito Federal
+    postal_code: '11560'
+    country: Mexico
+  - uid: '17056'
+    address1: Camino a San Mateo 41, edificio Mackenzie
+    address2: la Cuspide departamento 1003
+    address3: Colonia Lomas Verdes
+    city: Naucalpan de Juarez
+    state_or_province: Estado de Mexico
+    country: Mexico
+id_list:
+  items:
+  - uid: '5859'
+    id_type: Cedula No.
+    id_number: '70123377'
+    id_country: Colombia
+  - uid: '5860'
+    id_type: R.F.C.
+    id_number: VELD580310
+    id_country: Mexico
+  - uid: '5861'
+    id_type: Credencial electoral
+    id_number: AGBSMR59033015H800
+    id_country: Mexico
+  - uid: '5862'
+    id_type: Passport
+    id_number: '05400005349'
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '6868'
+    date_of_birth: 30 Mar 1957
+    main_entry: 'true'
+  - uid: '6869'
+    date_of_birth: 10 Mar 1958
+    main_entry: 'false'
+  - uid: '6870'
+    date_of_birth: 30 Mar 1959
+    main_entry: 'false'
+  - uid: '6871'
+    date_of_birth: 22 Aug 1959
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '6872'
+    place_of_birth: Medellin, Colombia
+    main_entry: 'true'
+  - uid: '6873'
+    place_of_birth: Huamantla, Tlaxcala, Mexico
+    main_entry: 'false'

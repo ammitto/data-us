@@ -1,0 +1,42 @@
+---
+uid: '44915'
+last_name: JOINT STOCK COMPANY MECHANICAL ENGINEERING RESEARCH INSTITUTE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69477'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO NAUCHNOISSLEDOVATELSKI MASHINOSTROITELNY INSTITUT
+      IMENI V V BAKHIREVA
+  - uid: '69478'
+    type: a.k.a.
+    category: strong
+    last_name: NIMI IM V V BAKHIREVA AO
+  - uid: '69479'
+    type: a.k.a.
+    category: strong
+    last_name: NIMI NAMED AFTER V V BAHIREV JSC
+address_list:
+  items:
+  - uid: '66841'
+    address1: Sh. Leningradskoe D. 58
+    city: Moscow
+    postal_code: '125212'
+    country: Russia
+id_list:
+  items:
+  - uid: '34504'
+    id_type: Registration Number
+    id_number: '1127747236341'
+    id_country: Russia
+  - uid: '34505'
+    id_type: Tax ID No.
+    id_number: '7743873015'
+    id_country: Russia
+  - uid: '175843'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

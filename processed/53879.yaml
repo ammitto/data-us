@@ -1,0 +1,44 @@
+---
+uid: '53879'
+last_name: GLOBAL TANKERS PRIVATE LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '82223'
+    address1: 213, Sector 36-A
+    city: Chandigarh
+    state_or_province: Chandigarh
+    postal_code: '160036'
+    country: India
+  - uid: '82224'
+    address1: Plot No. C 98, Phase 7, Industrial Area
+    city: Mohali
+    state_or_province: Punjab
+    postal_code: '160055'
+    country: India
+  - uid: '82226'
+    address1: A5 Transportnagar
+    city: Gorakhpur
+    state_or_province: Uttar Pradesh
+    postal_code: '273001'
+    country: India
+id_list:
+  items:
+  - uid: '47281'
+    id_type: Identification Number
+    id_number: IMO 6025151
+  - uid: '47282'
+    id_type: Registration Number
+    id_number: '031196'
+    id_country: India
+  - uid: '47283'
+    id_type: C.I.N.
+    id_number: U63090CH2008PTC031196
+    id_country: India
+  - uid: '188942'
+    id_type: Organization Established Date
+    id_number: '09 Apr 2008'
+remarks: "(Linked To: BRAR, Jugwinder Singh)"

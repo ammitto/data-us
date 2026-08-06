@@ -1,0 +1,50 @@
+---
+uid: '48547'
+first_name: Peiji
+last_name: TONG
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '75780'
+    type: a.k.a.
+    category: strong
+    last_name: TONG
+    first_name: Peigi
+  - uid: '75781'
+    type: a.k.a.
+    category: weak
+    last_name: PJ
+  - uid: '75782'
+    type: a.k.a.
+    category: weak
+    last_name: Dr P
+  - uid: '75783'
+    type: a.k.a.
+    category: weak
+    last_name: Small Bull
+address_list:
+  items:
+  - uid: '73173'
+    country: China
+id_list:
+  items:
+  - uid: '39713'
+    id_type: National ID No.
+    id_number: '210103199705154515'
+    id_country: China
+  - uid: '171104'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '71106'
+    date_of_birth: 15 May 1997
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '71105'
+    place_of_birth: Shenyang, Liaoning Province, China
+    main_entry: 'true'

@@ -1,0 +1,34 @@
+---
+uid: '52171'
+last_name: FULDA SHIPPING CO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+address_list:
+  items:
+  - uid: '79631'
+    address1: 80 Broad Street
+    city: Monrovia
+    country: Liberia
+id_list:
+  items:
+  - uid: '45065'
+    id_type: Identification Number
+    id_number: IMO 6491531
+  - uid: '45066'
+    id_type: Registration Number
+    id_number: C-126622
+    id_country: Liberia
+  - uid: '183089'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183253'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '183090'
+    id_type: Organization Established Date
+    id_number: '2024'
+remarks: "(Linked To: HALAVINS, Aleksejs)"

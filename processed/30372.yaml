@@ -1,0 +1,42 @@
+---
+uid: '30372'
+last_name: RAH NEGAR PARS MIDDLE EAST COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13876
+aka_list:
+  items:
+  - uid: '47632'
+    type: a.k.a.
+    category: strong
+    last_name: RAHNEGAR KHAVARMIYANEH PARS COMPANY
+  - uid: '47633'
+    type: a.k.a.
+    category: strong
+    last_name: RAHNEGAR MIDDLE EAST PARS COMPANY
+address_list:
+  items:
+  - uid: '45847'
+    address1: 9th Floor
+    address2: Islamic Revolution Mostazafan Foundation Building, Before Africa Blvd,
+      Resalat Hwy
+    address3: District 6
+    city: Tehran
+    state_or_province: Tehran
+    postal_code: '1519613511'
+    country: Iran
+id_list:
+  items:
+  - uid: '20483'
+    id_type: Registration Number
+    id_number: '429795'
+    id_country: Iran
+  - uid: '20484'
+    id_type: National ID No.
+    id_number: '10320823609'
+    id_country: Iran
+  - uid: '137967'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: ISLAMIC REVOLUTION MOSTAZAFAN FOUNDATION)"

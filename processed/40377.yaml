@@ -1,0 +1,35 @@
+---
+uid: '40377'
+first_name: Ludim
+last_name: ZAMUDIO IBARRA
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '60166'
+    address1: Calle Diego Rivera 374, Interior 3
+    address2: Colonia Privada Los Cisnes, Desarrollo Urbano Tres Rios
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+id_list:
+  items:
+  - uid: '29537'
+    id_type: C.U.R.P.
+    id_number: ZAIL910903HSLMBD06
+    id_country: Mexico
+  - uid: '157494'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '57491'
+    date_of_birth: 03 Sep 1991
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '57492'
+    place_of_birth: Sinaloa, Mexico
+    main_entry: 'true'

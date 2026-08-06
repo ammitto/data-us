@@ -1,0 +1,34 @@
+---
+uid: '12755'
+first_name: Javier Antonio
+last_name: CALLE SERNA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '13911'
+    type: a.k.a.
+    category: weak
+    last_name: COMBA
+  - uid: '13912'
+    type: a.k.a.
+    category: weak
+    last_name: COMBATIENTE
+id_list:
+  items:
+  - uid: '7185'
+    id_type: Cedula No.
+    id_number: '16760066'
+    id_country: Colombia
+date_of_birth_list:
+  items:
+  - uid: '8495'
+    date_of_birth: 02 Feb 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '8496'
+    place_of_birth: Puerto Asis, Putumayo, Colombia
+    main_entry: 'true'

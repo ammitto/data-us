@@ -1,0 +1,42 @@
+---
+uid: '41033'
+first_name: Aleksey Olegovich
+last_name: CHEKUNKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63975'
+    type: a.k.a.
+    category: strong
+    last_name: CHEKUNKOV
+    first_name: Aleksei Olegovich
+address_list:
+  items:
+  - uid: '61310'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '30369'
+    id_type: Tax ID No.
+    id_number: '773012831665'
+    id_country: Russia
+  - uid: '173566'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '158823'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '58820'
+    date_of_birth: 03 Oct 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '58822'
+    place_of_birth: Minsk, Belarus
+    main_entry: 'true'

@@ -1,0 +1,31 @@
+---
+uid: '32120'
+last_name: VA BO COMPANY EOOD
+sdn_type: Entity
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '50468'
+    type: a.k.a.
+    category: strong
+    last_name: VA BO KAMPANI EOOD
+address_list:
+  items:
+  - uid: '48405'
+    address1: 43 Moskovska Str.
+    city: Sofia
+    state_or_province: Stolichna
+    postal_code: '1000'
+    country: Bulgaria
+id_list:
+  items:
+  - uid: '21911'
+    id_type: Government Gazette Number
+    id_number: '202066022'
+    id_country: Bulgaria
+  - uid: '141137'
+    id_type: Organization Established Date
+    id_number: '2012'
+remarks: "(Linked To: BOJKOV, Vassil Kroumov)"

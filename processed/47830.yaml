@@ -1,0 +1,37 @@
+---
+uid: '47830'
+first_name: Vitaliy Viktorovich
+last_name: BULYUK
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '71582'
+    address1: Apartment 8, 15 Gumanenko St.
+    city: Skadovsk
+    state_or_province: Kherson Region
+    country: Ukraine
+id_list:
+  items:
+  - uid: '38548'
+    id_type: Tax ID No.
+    id_number: '2555708838'
+    id_country: Ukraine
+  - uid: '176476'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '169341'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '69340'
+    date_of_birth: 21 Dec 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '69343'
+    place_of_birth: Golopristanskiy Region, Gladkovka, Kherson Region, Ukraine
+    main_entry: 'true'

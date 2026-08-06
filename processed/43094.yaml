@@ -1,0 +1,47 @@
+---
+uid: '43094'
+first_name: Yulia Aleksandrovna
+last_name: SERGEEVA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '67177'
+    type: a.k.a.
+    category: strong
+    last_name: SERGEEVA
+    first_name: Julia
+address_list:
+  items:
+  - uid: '64679'
+    country: Russia
+id_list:
+  items:
+  - uid: '32905'
+    id_type: National ID No.
+    id_number: '4503550173'
+    id_country: Russia
+  - uid: '32906'
+    id_type: Passport
+    id_number: '530329881'
+    id_country: Russia
+    issue_date: 14 Feb 2013
+    expiration_date: 10 Nov 2021
+  - uid: '175517'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '162643'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '62644'
+    date_of_birth: 22 Jan 1978
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '62645'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'

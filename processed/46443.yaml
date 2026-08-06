@@ -1,0 +1,42 @@
+---
+uid: '46443'
+last_name: NAUCHNO ISSLEDOVATELSKI INSTITUT KHIMICHESKIKH ISTOCHNIKOV TOKA AKTSIONERNOE
+  OBSHCHESTVO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '71663'
+    type: a.k.a.
+    category: weak
+    last_name: NIIHIT
+  - uid: '71664'
+    type: a.k.a.
+    category: strong
+    last_name: NIIHIT 2 JOINT STOCK COMPANY
+  - uid: '71665'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO NIIKHIT
+address_list:
+  items:
+  - uid: '69079'
+    address1: Ul. Im. Ordzhonikidze GK D.11 A
+    city: Saratov
+    postal_code: '410015'
+    country: Russia
+id_list:
+  items:
+  - uid: '36326'
+    id_type: Registration Number
+    id_number: '1026402485636'
+    id_country: Russia
+  - uid: '36327'
+    id_type: Tax ID No.
+    id_number: '6451118983'
+    id_country: Russia
+  - uid: '174963'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

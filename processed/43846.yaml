@@ -1,0 +1,41 @@
+---
+uid: '43846'
+first_name: Dora Vanessa
+last_name: VALDEZ FERNANDEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '65286'
+    address1: Fray Bernardino de Sahagun 3198
+    city: Culiacan
+    state_or_province: Sinaloa
+    postal_code: '80240'
+    country: Mexico
+  - uid: '65287'
+    address1: Calle Benito Juarez 820
+    city: Culiacan
+    state_or_province: Sinaloa
+    postal_code: '80000'
+    country: Mexico
+id_list:
+  items:
+  - uid: '33247'
+    id_type: C.U.R.P.
+    id_number: VAFD721108MDGLRR06
+    id_country: Mexico
+  - uid: '163425'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '63427'
+    date_of_birth: '08 Nov 1972'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '63428'
+    place_of_birth: Durango, Mexico
+    main_entry: 'true'

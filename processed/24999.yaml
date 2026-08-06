@@ -1,0 +1,41 @@
+---
+uid: '24999'
+first_name: Erhan
+last_name: CULHA
+sdn_type: Individual
+program_list:
+  programs:
+  - DPRK
+id_list:
+  items:
+  - uid: '16084'
+    id_type: Personal ID Card
+    id_number: '10589535602'
+  - uid: '16085'
+    id_type: Passport
+    id_number: U09787534
+    id_country: Turkey
+    issue_date: 12 Sep 2014
+    expiration_date: 12 Sep 2024
+  - uid: '135298'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '128203'
+    id_type: Gender
+    id_number: Male
+  - uid: '128489'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+date_of_birth_list:
+  items:
+  - uid: '28201'
+    date_of_birth: 17 Oct 1954
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '28202'
+    place_of_birth: Istanbul, Turkey
+    main_entry: 'true'
+remarks: "(Linked To: SIA FALCON INTERNATIONAL GROUP)"
+title: General Manager

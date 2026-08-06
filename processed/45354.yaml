@@ -1,0 +1,47 @@
+---
+uid: '45354'
+last_name: SABERIN KISH COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+  - IRGC
+aka_list:
+  items:
+  - uid: '70147'
+    type: a.k.a.
+    category: strong
+    last_name: SABERIN KISH CO.
+  - uid: '70643'
+    type: a.k.a.
+    category: strong
+    last_name: TEJARAT PAYDAR OFOGH
+address_list:
+  items:
+  - uid: '67466'
+    city: Kish Island
+    country: Iran
+  - uid: '67989'
+    address1: Number 9, Bahard First
+    address2: Resalat Square, Hengam Street
+    city: Tehran
+    postal_code: '1677745783'
+    country: Iran
+id_list:
+  items:
+  - uid: '35073'
+    id_type: National ID No.
+    id_number: '10861528470'
+    id_country: Iran
+  - uid: '35074'
+    id_type: Registration Number
+    id_number: '1205'
+    id_country: Iran
+  - uid: '165817'
+    id_type: Organization Established Date
+    id_number: 30 Oct 2001
+  - uid: '166309'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS)"

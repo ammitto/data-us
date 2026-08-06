@@ -1,0 +1,40 @@
+---
+uid: '49960'
+last_name: ELPROM LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77881'
+    type: a.k.a.
+    category: strong
+    last_name: ELPROM LLC
+address_list:
+  items:
+  - uid: '75570'
+    address1: Ul. Pulkovskaya
+    address2: D. 2, K. 1, Lit. A, Pom. 69-N
+    city: Saint Petersburg
+    postal_code: '196142'
+    country: Russia
+  - uid: '75571'
+    address1: Marshala Govorova Str. 40
+    address2: Lit. A, Office 34
+    city: Saint Petersburg
+    postal_code: '198095'
+    country: Russia
+id_list:
+  items:
+  - uid: '41494'
+    id_type: Registration Number
+    id_number: '1127847332007'
+    id_country: Russia
+  - uid: '41495'
+    id_type: Tax ID No.
+    id_number: '7805592546'
+    id_country: Russia
+  - uid: '177996'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

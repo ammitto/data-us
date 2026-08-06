@@ -1,0 +1,59 @@
+---
+uid: '23335'
+first_name: Muhammad
+last_name: AL-GHAZALI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '36769'
+    type: a.k.a.
+    category: strong
+    last_name: AL-GHAZALI
+    first_name: Muhammad Abd al-Karim
+  - uid: '36770'
+    type: a.k.a.
+    category: strong
+    last_name: MAWARI
+    first_name: Abu Hisham
+  - uid: '36771'
+    type: a.k.a.
+    category: strong
+    last_name: AL-MAWARI
+    first_name: Abu Hisham
+  - uid: '36772'
+    type: a.k.a.
+    category: weak
+    last_name: Abu Sa'id
+  - uid: '36773'
+    type: a.k.a.
+    category: weak
+    last_name: Abu Faris
+  - uid: '36774'
+    type: a.k.a.
+    category: weak
+    last_name: Rashid
+id_list:
+  items:
+  - uid: '186667'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '25033'
+    date_of_birth: '1987'
+    main_entry: 'false'
+  - uid: '25034'
+    date_of_birth: '1988'
+    main_entry: 'true'
+  - uid: '25035'
+    date_of_birth: '1989'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '25031'
+    place_of_birth: Ibb Governorate, Yemen
+    main_entry: 'true'

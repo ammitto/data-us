@@ -1,0 +1,30 @@
+---
+uid: '49207'
+last_name: AO PROTON PM
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '74079'
+    address1: PR-kt Komsomolskii D.93
+    city: Perm
+    postal_code: '614010'
+    country: Russia
+id_list:
+  items:
+  - uid: '40362'
+    id_type: Registration Number
+    id_number: '1025900893622'
+    id_country: Russia
+  - uid: '40363'
+    id_type: Tax ID No.
+    id_number: '5904006044'
+    id_country: Russia
+  - uid: '172167'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '172168'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

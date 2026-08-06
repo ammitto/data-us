@@ -1,0 +1,107 @@
+---
+uid: '11798'
+first_name: Jose de Jesus
+last_name: MENDEZ VARGAS
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '12568'
+    type: a.k.a.
+    category: strong
+    last_name: MENDEZ VARGAS
+    first_name: Jesus
+  - uid: '12569'
+    type: a.k.a.
+    category: strong
+    last_name: MENDEZ
+    first_name: Jesus
+  - uid: '12570'
+    type: a.k.a.
+    category: weak
+    last_name: CHANGO
+  - uid: '12571'
+    type: a.k.a.
+    category: weak
+    last_name: EL CHANGO
+  - uid: '12572'
+    type: a.k.a.
+    category: weak
+    last_name: CHANGO MENDEZ
+  - uid: '12573'
+    type: a.k.a.
+    category: weak
+    last_name: CHUY
+  - uid: '12574'
+    type: a.k.a.
+    category: weak
+    last_name: CHUY MENDEZ
+  - uid: '12575'
+    type: a.k.a.
+    category: weak
+    last_name: CHAMULA
+address_list:
+  items:
+  - uid: '17844'
+    city: Tazumbos
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '17845'
+    address1: Calle Dr. Lose Luis Mora Col Morelos
+    city: Apatzingan
+    state_or_province: Michoacan
+    country: Mexico
+  - uid: '17846'
+    address1: Calle Carlos Salazar Col Buenos Aires
+    city: Apatzingan
+    state_or_province: Michoacan
+    country: Mexico
+  - uid: '17847'
+    city: Toluca
+    state_or_province: Mexico
+    country: Mexico
+  - uid: '17848'
+    address1: Calle Acatitla 122
+    address2: Col. Ferrocarril
+    city: Apatzingan
+    country: Mexico
+  - uid: '17849'
+    address1: Potrero Grande de C de Paracuaro
+    city: Apatzingan
+    country: Mexico
+  - uid: '17850'
+    address1: c/o Club Abaro
+    address2: Ave Vicente Villada
+    city: Mexico City
+    state_or_province: Municipio de Mexico City, D.F.
+    country: Mexico
+id_list:
+  items:
+  - uid: '6170'
+    id_type: C.U.R.P.
+    id_number: MEVJ890918HGRNRS09
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '7305'
+    date_of_birth: 28 Feb 1974
+    main_entry: 'true'
+  - uid: '7306'
+    date_of_birth: 06 Aug 1973
+    main_entry: 'false'
+  - uid: '7307'
+    date_of_birth: 18 Sep 1989
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '7308'
+    place_of_birth: El Coloma, Michoacan
+    main_entry: 'true'
+  - uid: '7309'
+    place_of_birth: Eduardo Neri, Guerrero
+    main_entry: 'false'
+  - uid: '7310'
+    place_of_birth: Acapulco de Juarez, Guerrero
+    main_entry: 'false'

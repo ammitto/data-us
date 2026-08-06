@@ -1,0 +1,40 @@
+---
+uid: '58128'
+first_name: Hossein Ghorbani
+last_name: ZAHED
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '89876'
+    type: a.k.a.
+    category: strong
+    last_name: GHORBANIZAHED
+    first_name: Hossein
+address_list:
+  items:
+  - uid: '89255'
+    state_or_province: Dubai
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '52686'
+    id_type: National ID No.
+    id_number: '0075194953'
+    id_country: Iran
+  - uid: '199561'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '99559'
+    date_of_birth: 13 Oct 1982
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '99562'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: SHAMKHANI, Mohammad Hossein)"

@@ -1,0 +1,50 @@
+---
+uid: '35003'
+last_name: JSC RUSSIAN EXPORT CENTER
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '55052'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO ROSSIISKII EKSPORTNYI TSENTR
+  - uid: '55053'
+    type: a.k.a.
+    category: strong
+    last_name: AO ROSSIISKII EKSPORTNYI TSENTR
+  - uid: '55054'
+    type: a.k.a.
+    category: strong
+    last_name: AO ROSSISKI EKSPORTNY TSENTR
+  - uid: '55055'
+    type: f.k.a.
+    category: strong
+    last_name: AO NATSIONALNY EKSPORTNY TSENTR
+address_list:
+  items:
+  - uid: '52542'
+    address1: D. 12 etazh 13 pom. 1301, naberezhnaya Krasnopresnenskaya
+    city: Moscow
+    postal_code: '123610'
+    country: Russia
+id_list:
+  items:
+  - uid: '24708'
+    id_type: Registration Number
+    id_number: '1157746363994'
+    id_country: Russia
+  - uid: '24709'
+    id_type: Tax ID No.
+    id_number: '7703376553'
+    id_country: Russia
+  - uid: '175225'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '146613'
+    id_type: Website
+    id_number: exportcenter.ru
+remarks: "(Linked To: STATE CORPORATION BANK FOR DEVELOPMENT AND FOREIGN ECONOMIC
+  AFFAIRS VNESHECONOMBANK)"

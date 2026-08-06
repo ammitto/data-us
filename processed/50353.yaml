@@ -1,0 +1,37 @@
+---
+uid: '50353'
+last_name: LIMITED LIABILITY COMPANY PROTEKTOR
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78696'
+    type: a.k.a.
+    category: weak
+    last_name: LLC PROPARTS
+  - uid: '78697'
+    type: a.k.a.
+    category: strong
+    last_name: LLC LAMPUR
+address_list:
+  items:
+  - uid: '76313'
+    address1: K. 7, D. 7A Proezd Stroitelny
+    city: Moscow
+    postal_code: '125362'
+    country: Russia
+id_list:
+  items:
+  - uid: '42091'
+    id_type: Registration Number
+    id_number: '1187746854140'
+    id_country: Russia
+  - uid: '42092'
+    id_type: Tax ID No.
+    id_number: '9731012061'
+    id_country: Russia
+  - uid: '178321'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

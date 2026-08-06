@@ -1,0 +1,29 @@
+---
+uid: '54893'
+last_name: OKA SHIPPING INC.
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '83871'
+    address1: Trust Company Complex
+    address2: Ajeltake Road
+    city: Ajeltake Island
+    state_or_province: Majuro
+    postal_code: '96960'
+    country: Marshall Islands
+id_list:
+  items:
+  - uid: '48704'
+    id_type: Identification Number
+    id_number: IMO 6284628
+  - uid: '48705'
+    id_type: Registration Number
+    id_number: '112526'
+    id_country: Marshall Islands
+  - uid: '191383'
+    id_type: Organization Established Date
+    id_number: 30 Dec 2021
+remarks: "(Linked To: CRIOS SHIPPING L.L.C)"

@@ -1,0 +1,37 @@
+---
+uid: '49766'
+first_name: Domingo
+last_name: MEDINA DIAZ
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '77586'
+    type: a.k.a.
+    category: weak
+    last_name: EL MINGO
+address_list:
+  items:
+  - uid: '75187'
+    country: Mexico
+id_list:
+  items:
+  - uid: '41226'
+    id_type: C.U.R.P.
+    id_number: MEDD611119HGRDZM01
+    id_country: Mexico
+  - uid: '177100'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '77102'
+    date_of_birth: 19 Nov 1961
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '77101'
+    place_of_birth: Guerrero, Mexico
+    main_entry: 'true'

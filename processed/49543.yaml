@@ -1,0 +1,37 @@
+---
+uid: '49543'
+first_name: Dmitrii Vladimirovich
+last_name: ALIKHANOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77297'
+    type: a.k.a.
+    category: strong
+    last_name: ALIKHANOV
+    first_name: Dmitry Vladimirovich
+address_list:
+  items:
+  - uid: '74822'
+    country: Russia
+id_list:
+  items:
+  - uid: '172659'
+    id_type: Gender
+    id_number: Male
+  - uid: '172662'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '72660'
+    date_of_birth: 13 Sep 1976
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '72661'
+    place_of_birth: Vladikavkaz, Russia
+    main_entry: 'true'

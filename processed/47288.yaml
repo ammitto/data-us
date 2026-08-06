@@ -1,0 +1,48 @@
+---
+uid: '47288'
+last_name: TRAINING CENTER OF THE RUSSIAN MINISTRY OF INTERNAL AFFAIRS IN MANAGUA
+sdn_type: Entity
+program_list:
+  programs:
+  - NICARAGUA
+aka_list:
+  items:
+  - uid: '73526'
+    type: a.k.a.
+    category: weak
+    last_name: RUSSIA-NICARAGUA ANTI-NARCOTICS TRAINING CENTER
+  - uid: '73681'
+    type: a.k.a.
+    category: weak
+    last_name: MVD TRAINING CENTER
+  - uid: '73691'
+    type: a.k.a.
+    category: strong
+    last_name: TRAINING CENTER OF THE MINISTRY OF THE INTERIOR OF THE RUSSIAN FEDERATION
+      IN MANAGUA
+  - uid: '76376'
+    type: a.k.a.
+    category: strong
+    last_name: CENTRO DE CAPACITACION DEL MINISTERIO DEL INTERIOR DE LA FEDERACION
+      DE RUSIA EN MANAGUA
+  - uid: '76377'
+    type: a.k.a.
+    category: weak
+    last_name: CENTRO DE CAPACITACION ANTINARCOTICO RUSIA-NICARAGUA
+address_list:
+  items:
+  - uid: '70912'
+    address1: Las Colinas
+    address2: 3a Etapa
+    city: Managua
+    postal_code: '14199'
+    country: Nicaragua
+id_list:
+  items:
+  - uid: '169034'
+    id_type: Target Type
+    id_number: Government Entity
+  - uid: '169032'
+    id_type: Organization Established Date
+    id_number: 01 Oct 2017
+remarks: "(Linked To: NICARAGUAN NATIONAL POLICE)"

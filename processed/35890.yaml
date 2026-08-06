@@ -1,0 +1,41 @@
+---
+uid: '35890'
+last_name: JOINT STOCK COMPANY REDUCTOR - PM
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56429'
+    type: a.k.a.
+    category: strong
+    last_name: JSC REDUCTOR - PM
+  - uid: '56430'
+    type: a.k.a.
+    category: strong
+    last_name: AO REDUKTOR-PM
+address_list:
+  items:
+  - uid: '53863'
+    address1: Pr-Kt Komsomolskii D. 93
+    city: Perm
+    postal_code: '614990'
+    country: Russia
+id_list:
+  items:
+  - uid: '25235'
+    id_type: Registration Number
+    id_number: '1025902394385'
+    id_country: Russia
+  - uid: '25236'
+    id_type: Tax ID No.
+    id_number: '5948017501'
+    id_country: Russia
+  - uid: '173285'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '149083'
+    id_type: Organization Established Date
+    id_number: 31 Aug 1995
+remarks: "(Linked To: VERTOLETY ROSSII AO)"

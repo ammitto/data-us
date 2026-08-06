@@ -1,0 +1,47 @@
+---
+uid: '27321'
+first_name: Muhammad
+last_name: HAYDAR
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '43320'
+    type: a.k.a.
+    category: strong
+    last_name: HAYDAR
+    first_name: Muhammad Ali
+  - uid: '43321'
+    type: a.k.a.
+    category: strong
+    last_name: HAIDAR
+    first_name: Mohamad Ali
+  - uid: '43322'
+    type: a.k.a.
+    category: weak
+    last_name: HAYDAR, Abu Ali
+id_list:
+  items:
+  - uid: '17935'
+    id_type: Passport
+    id_number: 469/2005
+    id_country: Lebanon
+  - uid: '186963'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '132447'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '32445'
+    date_of_birth: 25 Nov 1959
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '32446'
+    place_of_birth: Kabrika, Lebanon
+    main_entry: 'true'

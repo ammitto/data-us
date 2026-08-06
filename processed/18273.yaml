@@ -1,0 +1,59 @@
+---
+uid: '18273'
+last_name: JSC VEB.DV
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13662
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '28221'
+    type: f.k.a.
+    category: strong
+    last_name: JSC FAR EAST AND ARCTIC REGION DEVELOPMENT FUND
+  - uid: '28224'
+    type: f.k.a.
+    category: strong
+    last_name: OJSC THE FAR EAST AND BAIKAL REGION DEVELOPMENT FUND
+  - uid: '55112'
+    type: a.k.a.
+    category: strong
+    last_name: AO VEB.DV
+  - uid: '55113'
+    type: f.k.a.
+    category: strong
+    last_name: FAR EAST AND BAIKAL REGION DEVELOPMENT FUND OJSC
+address_list:
+  items:
+  - uid: '27639'
+    address1: Nab. Presnenskaya D. 10, pom II komn 8-59
+    city: Moscow
+    postal_code: '123112'
+    country: Russia
+id_list:
+  items:
+  - uid: '24756'
+    id_type: Registration Number
+    id_number: '1112721010995'
+    id_country: Russia
+  - uid: '24757'
+    id_type: Tax ID No.
+    id_number: '2721188289'
+    id_country: Russia
+  - uid: '117524'
+    id_type: Website
+    id_number: fondvostok.ru
+  - uid: '117566'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 1
+  - uid: '151171'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '173868'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: STATE CORPORATION BANK FOR DEVELOPMENT AND FOREIGN ECONOMIC AFFAIRS
+  VNESHECONOMBANK)'

@@ -1,0 +1,37 @@
+---
+uid: '26579'
+first_name: Mohammad Javad
+last_name: SAFARI
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+address_list:
+  items:
+  - uid: '40311'
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '17205'
+    id_type: Passport
+    id_number: G9345199
+    id_country: Iran
+  - uid: '131141'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '131144'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '31142'
+    date_of_birth: 07 Aug 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '31143'
+    place_of_birth: Borazjam, Dashtestan, Bushehr, Iran
+    main_entry: 'true'
+remarks: "(Linked To: SHAHID FAKHAR MOGHADDAM GROUP)"

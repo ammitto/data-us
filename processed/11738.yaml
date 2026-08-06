@@ -1,0 +1,43 @@
+---
+uid: '11738'
+first_name: Mohamed Abdi
+last_name: GARAAD
+sdn_type: Individual
+program_list:
+  programs:
+  - SOMALIA
+aka_list:
+  items:
+  - uid: '12441'
+    type: a.k.a.
+    category: strong
+    last_name: GARAD
+    first_name: Abdi
+  - uid: '12442'
+    type: a.k.a.
+    category: strong
+    last_name: GARAD
+    first_name: Mohamed
+  - uid: '12443'
+    type: a.k.a.
+    category: strong
+    last_name: GARAAD
+    first_name: Mohamud Mohamed
+address_list:
+  items:
+  - uid: '17734'
+    city: Eyl
+    country: Somalia
+  - uid: '17735'
+    city: Garowe
+    country: Somalia
+date_of_birth_list:
+  items:
+  - uid: '7238'
+    date_of_birth: circa 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '7239'
+    place_of_birth: Eyl, Somalia
+    main_entry: 'true'

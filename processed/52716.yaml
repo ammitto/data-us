@@ -1,0 +1,35 @@
+---
+uid: '52716'
+last_name: AKTSIONERNOE OBSHCHESTVO TRANZAKTSII I RASCHETY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+address_list:
+  items:
+  - uid: '80577'
+    address1: Proezd Lugovoi D. 9, K. 1, Pomeshch. 2/1
+    city: Moscow
+    postal_code: '109652'
+    country: Russia
+id_list:
+  items:
+  - uid: '45857'
+    id_type: Registration Number
+    id_number: '1247700404907'
+    id_country: Russia
+  - uid: '45858'
+    id_type: Tax ID No.
+    id_number: '9723231824'
+    id_country: Russia
+  - uid: '184574'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184575'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '184576'
+    id_type: Organization Established Date
+    id_number: 31 May 2024

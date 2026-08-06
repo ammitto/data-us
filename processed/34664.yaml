@@ -1,0 +1,45 @@
+---
+uid: '34664'
+last_name: ELITNYE DOMA OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54278'
+    type: a.k.a.
+    category: strong
+    last_name: ELITNYE DOMA LLC
+  - uid: '54279'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU ELITNYE DOMA
+  - uid: '54280'
+    type: f.k.a.
+    category: strong
+    last_name: ELITNYE DOMA AO
+address_list:
+  items:
+  - uid: '51883'
+    address1: Ul. Smirnovskaya d. 10, Str. 8, Kabinet 8
+    city: Moscow
+    postal_code: '109052'
+    country: Russia
+id_list:
+  items:
+  - uid: '24272'
+    id_type: Registration Number
+    id_number: '1147748157061'
+    id_country: Russia
+  - uid: '24273'
+    id_type: Tax ID No.
+    id_number: '7706415641'
+    id_country: Russia
+  - uid: '175162'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '146045'
+    id_type: Organization Established Date
+    id_number: 26 Feb 2004
+remarks: "(Linked To: PROMSVYAZBANK PUBLIC JOINT STOCK COMPANY)"

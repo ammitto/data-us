@@ -1,0 +1,42 @@
+---
+uid: '41029'
+first_name: Aleksandr Aleksandrovich
+last_name: KOZLOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63965'
+    type: a.k.a.
+    category: strong
+    last_name: KOZLOV
+    first_name: Alexander Alexandrovich
+address_list:
+  items:
+  - uid: '61298'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '30366'
+    id_type: Tax ID No.
+    id_number: '280602036120'
+    id_country: Russia
+  - uid: '158813'
+    id_type: Gender
+    id_number: Male
+  - uid: '173562'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '58809'
+    date_of_birth: 02 Jan 1981
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '58811'
+    place_of_birth: Yuzhno-Sakhalinsk, Sakhalin Region, Russia
+    main_entry: 'true'

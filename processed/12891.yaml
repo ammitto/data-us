@@ -1,0 +1,83 @@
+---
+uid: '12891'
+first_name: Abbas Hussein
+last_name: HARB
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '14297'
+    type: a.k.a.
+    category: strong
+    last_name: HARB
+    first_name: Abass Hussein
+address_list:
+  items:
+  - uid: '20410'
+    address1: Ave Pedro Melean, cruce con Calle No. 73
+    address2: Local No. 22, Sector Santa Rosa
+    city: Valencia
+    country: Venezuela
+  - uid: '20411'
+    address1: Calle 10A No.12-21
+    city: Maicao
+    country: Colombia
+  - uid: '20412'
+    address1: Carrera 70 No. 76-50 BG 3
+    city: Barranquilla
+    country: Colombia
+  - uid: '20899'
+    address1: Calle 10 No 11-63
+    city: Maicao
+    country: Colombia
+id_list:
+  items:
+  - uid: '7281'
+    id_type: Passport
+    id_number: '1368212'
+    id_country: Venezuela
+  - uid: '7282'
+    id_type: National Foreign ID Number
+    id_number: '264521'
+    id_country: Colombia
+  - uid: '7283'
+    id_type: 'NIT #'
+    id_number: '6390001813'
+    id_country: Colombia
+  - uid: '7284'
+    id_type: Matricula Mercantil No
+    id_number: '398329'
+    id_country: Colombia
+  - uid: '7285'
+    id_type: Matricula Mercantil No
+    id_number: '398330'
+    id_country: Colombia
+  - uid: '7286'
+    id_type: Matricula Mercantil No
+    id_number: '076592'
+    id_country: Colombia
+  - uid: '7287'
+    id_type: Matricula Mercantil No
+    id_number: '041789'
+    id_country: Colombia
+  - uid: '7288'
+    id_type: National ID No.
+    id_number: '21495203'
+    id_country: Venezuela
+  - uid: '7289'
+    id_type: National ID No.
+    id_number: '22465548'
+    id_country: Venezuela
+date_of_birth_list:
+  items:
+  - uid: '8668'
+    date_of_birth: 11 Nov 1979
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '8670'
+    place_of_birth: Lebanon
+    main_entry: 'true'
+remarks: "(Linked To: IMPORTADORA SILVANIA; Linked To: IMPORTADORA SILVANIA, C.A.)"

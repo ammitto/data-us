@@ -1,0 +1,33 @@
+---
+uid: '48121'
+last_name: OBSHCHESTVO S OGRANICHENNOY OTVETSTVENNOSTYU VEB3 INTEGRATOR
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74755'
+    type: a.k.a.
+    category: weak
+    last_name: OOO WEB3 INTEGRATOR
+address_list:
+  items:
+  - uid: '72173'
+    address1: Nab. Bersenevskaya D. 6,
+    address2: Str. 3, Pomeshch. I, Kom 9 Ach, Et 4
+    city: Moscow
+    postal_code: '119072'
+    country: Russia
+id_list:
+  items:
+  - uid: '39008'
+    id_type: Tax ID No.
+    id_number: '7706464945'
+    id_country: Russia
+  - uid: '176605'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '170079'
+    id_type: Organization Established Date
+    id_number: 15 Jan 2019

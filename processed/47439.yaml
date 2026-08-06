@@ -1,0 +1,46 @@
+---
+uid: '47439'
+last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU ALYANS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73378'
+    type: a.k.a.
+    category: strong
+    last_name: ALYANS OOO
+address_list:
+  items:
+  - uid: '70756'
+    address1: Ul. Plekhanova D. 4A, Komnata 14K
+    city: Moscow
+    postal_code: '111123'
+    country: Russia
+  - uid: '70757'
+    address1: d. 5 pomeshch./etazh 1.1-2/Tsokolny N 0, ul. Parkovaya D. Sukhanovo
+      Vidnoe
+    city: Moscow region
+    postal_code: '142702'
+    country: Russia
+id_list:
+  items:
+  - uid: '37870'
+    id_type: Registration Number
+    id_number: '1067760832259'
+    id_country: Russia
+  - uid: '37871'
+    id_type: Government Gazette Number
+    id_number: '98911549'
+    id_country: Russia
+  - uid: '37872'
+    id_type: Tax ID No.
+    id_number: '7710655004'
+    id_country: Russia
+  - uid: '169789'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '168942'
+    id_type: Organization Established Date
+    id_number: 11 Dec 2006

@@ -1,0 +1,55 @@
+---
+uid: '30406'
+last_name: PARS ENERGY-GOSTAR DRILLING AND EXPLORATION
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13876
+aka_list:
+  items:
+  - uid: '47767'
+    type: a.k.a.
+    category: weak
+    last_name: PEDEX
+  - uid: '47768'
+    type: a.k.a.
+    category: strong
+    last_name: PARS ENERGY GOSTAR DRILLING AND EXPLORATION
+  - uid: '47769'
+    type: a.k.a.
+    category: strong
+    last_name: PARS ENERGY GOSTAR CO.
+  - uid: '47770'
+    type: a.k.a.
+    category: strong
+    last_name: PARS ENERGY DEVELOPMENT
+address_list:
+  items:
+  - uid: '45964'
+    address1: Karim Khan Zand St. - Shahid Hosseini St. - Corner of West 4th - No.
+      34
+    city: Tehran
+    country: Iran
+  - uid: '45965'
+    address1: Pars Gostar Energy Exploration and Drilling Company Support Site, Side
+      of the Judiciary, Entrance to Hamidiya City, Hamidiya District
+    city: Khuzestan
+    postal_code: '6344153669'
+    country: Iran
+id_list:
+  items:
+  - uid: '20548'
+    id_type: Registration Number
+    id_number: '40918'
+    id_country: Iran
+  - uid: '20549'
+    id_type: National ID No.
+    id_number: '10100862988'
+    id_country: Iran
+  - uid: '138040'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '138042'
+    id_type: Website
+    id_number: http://pedex.ir
+remarks: "(Linked To: ISLAMIC REVOLUTION MOSTAZAFAN FOUNDATION)"

@@ -1,0 +1,49 @@
+---
+uid: '51760'
+last_name: ROSSITA BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '81078'
+    type: a.k.a.
+    category: strong
+    last_name: RUSSITA BANK
+  - uid: '81079'
+    type: a.k.a.
+    category: strong
+    last_name: RUSSITABANK LTD
+address_list:
+  items:
+  - uid: '78879'
+    address1: ul. 1-ya Brestskaya 22
+    city: Moscow
+    postal_code: '125047'
+    country: Russia
+id_list:
+  items:
+  - uid: '44375'
+    id_type: Legal Entity Number
+    id_number: 253400D9TTHM66P87109
+  - uid: '44376'
+    id_type: Registration Number
+    id_number: '1027739254036'
+    id_country: Russia
+  - uid: '44377'
+    id_type: Tax ID No.
+    id_number: '7730067441'
+    id_country: Russia
+  - uid: '181940'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '181939'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '181942'
+    id_type: SWIFT/BIC
+    id_number: RICIRUMM
+  - uid: '181941'
+    id_type: Website
+    id_number: www.russitabank.ru

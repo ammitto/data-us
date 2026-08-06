@@ -1,0 +1,56 @@
+---
+uid: '30526'
+first_name: Osama Al Kuni
+last_name: IBRAHIM
+sdn_type: Individual
+program_list:
+  programs:
+  - LIBYA3
+aka_list:
+  items:
+  - uid: '47944'
+    type: a.k.a.
+    category: strong
+    last_name: MILAD
+    first_name: Osama
+  - uid: '47945'
+    type: a.k.a.
+    category: strong
+    last_name: AL-MILAD
+    first_name: Osama
+  - uid: '47946'
+    type: a.k.a.
+    category: weak
+    last_name: ZAWIYA, Osama
+  - uid: '47947'
+    type: a.k.a.
+    category: weak
+    last_name: ZAWIYAH, Osama
+  - uid: '47948'
+    type: a.k.a.
+    category: strong
+    last_name: AL KUNI
+    first_name: Osama
+address_list:
+  items:
+  - uid: '46164'
+    city: Zawiyah
+    country: Libya
+id_list:
+  items:
+  - uid: '138185'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '38181'
+    date_of_birth: 04 Apr 1976
+    main_entry: 'true'
+  - uid: '38182'
+    date_of_birth: 02 Apr 1976
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '38183'
+    place_of_birth: Tripoli, Libya
+    main_entry: 'true'

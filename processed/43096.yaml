@@ -1,0 +1,44 @@
+---
+uid: '43096'
+last_name: JOINT STOCK COMPANY POLIMETALL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '66778'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY POLYMETAL
+address_list:
+  items:
+  - uid: '64290'
+    address1: prospekt Narodnogo Opolcheniya, d. 2 ofis 1063 Biznes-tsentr Gals
+    city: Saint Petersburg
+    postal_code: '198216'
+    country: Russia
+id_list:
+  items:
+  - uid: '32660'
+    id_type: Registration ID
+    id_number: '1027802743308'
+    id_country: Russia
+  - uid: '32661'
+    id_type: Tax ID No.
+    id_number: '7805104870'
+    id_country: Russia
+  - uid: '162070'
+    id_type: Organization Established Date
+    id_number: 12 Mar 1998
+  - uid: '162071'
+    id_type: 'Organization Type:'
+    id_number: Mining of other non-ferrous metal ores
+  - uid: '175519'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184377'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

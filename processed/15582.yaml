@@ -1,0 +1,87 @@
+---
+uid: '15582'
+first_name: Musa
+last_name: KALIM
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '23098'
+    type: a.k.a.
+    category: strong
+    last_name: KHALIM
+    first_name: Musa
+  - uid: '23099'
+    type: a.k.a.
+    category: strong
+    last_name: BARICH
+    first_name: Musa Kalim
+  - uid: '23100'
+    type: a.k.a.
+    category: strong
+    last_name: KALIM
+    first_name: Mohammed Musa
+  - uid: '23101'
+    type: a.k.a.
+    category: strong
+    last_name: ALIZAI
+    first_name: Musa Khalim
+  - uid: '23102'
+    type: a.k.a.
+    category: strong
+    last_name: QALEM
+    first_name: Musa
+  - uid: '23103'
+    type: a.k.a.
+    category: strong
+    last_name: QALIM
+    first_name: Musa
+  - uid: '23104'
+    type: a.k.a.
+    category: strong
+    last_name: KHALEEM
+    first_name: Musa
+  - uid: '23105'
+    type: a.k.a.
+    category: strong
+    last_name: KALEEM
+    first_name: Musa
+address_list:
+  items:
+  - uid: '23260'
+    address1: Chahgay Bazaar
+    city: Chahgay
+    country: Pakistan
+  - uid: '23261'
+    address1: Haji Mohammed Plaza
+    address2: Tol Aram Road
+    address3: Nearest Jamal Dean Afghani Road
+    city: Quetta
+    country: Pakistan
+  - uid: '23262'
+    address1: Dr Barno Road
+    city: Quetta
+    country: Pakistan
+id_list:
+  items:
+  - uid: '8359'
+    id_type: National ID No.
+    id_number: 54101-6356624-9
+    id_country: Pakistan
+  - uid: '8360'
+    id_type: Passport
+    id_number: AD4756241
+    id_country: Pakistan
+    issue_date: 02 Nov 2008
+    expiration_date: 01 Nov 2013
+  - uid: '186182'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+place_of_birth_list:
+  items:
+  - uid: '12758'
+    place_of_birth: Pakistan
+    main_entry: 'true'

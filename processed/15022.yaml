@@ -1,0 +1,67 @@
+---
+uid: '15022'
+first_name: Gabriela
+last_name: VAZQUEZ VILLAVICENCIO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '22344'
+    address1: Edificio G-11 Interior No. 24, Unidad Habitacional
+    address2: Lomas de Plateros
+    address3: Delegacion Alvaro Obregon
+    city: Distrito Federal
+    postal_code: Codigo Postal 01480
+    country: Mexico
+  - uid: '22345'
+    address1: Calle Campos Eliseos No. 403 Interior 202
+    address2: Colonia Polanco
+    address3: Delegacion Miguel Hidalgo
+    city: Distrito Federal
+    postal_code: Codigo Postal 11550
+    country: Mexico
+  - uid: '22346'
+    address1: Calle Moliere No. 66
+    address2: Colonia Palmas Polanco
+    address3: Delegacion Miguel Hidalgo
+    city: Distrito Federal
+    postal_code: Codigo Postal 11560
+    country: Mexico
+  - uid: '22347'
+    address1: Calle Ferrocarril de Cintura No. 300
+    address2: Colonia Carranza Emilio
+    address3: Delegacion Venustiano Carranza
+    city: Distrito Federal
+    postal_code: Codigo Postal 15230
+    country: Mexico
+  - uid: '22348'
+    address1: Calle Moliere No. 227
+    address2: Colonia Polanco
+    address3: Delegacion Miguel Hidalgo
+    city: Distrito Federal
+    postal_code: Codigo Postal 11560
+    country: Mexico
+  - uid: '22349'
+    address1: Francisco P. Miranda 3
+    address2: Colonia Lomas de Plateros
+    city: Ciudad de Mexico
+    postal_code: CP 01480
+    country: Mexico
+id_list:
+  items:
+  - uid: '8021'
+    id_type: C.U.R.P.
+    id_number: VAVG650228MDFZLB05
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '11307'
+    date_of_birth: 28 Feb 1965
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '11308'
+    place_of_birth: Distrito Federal, Mexico
+    main_entry: 'true'

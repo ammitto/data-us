@@ -1,0 +1,95 @@
+---
+uid: '16885'
+last_name: JOINT STOCK COMPANY SCIENTIFIC AND PRODUCTION CORPORATION URALVAGONZAVOD
+  NAMED AFTER F E DZERZHINSKY
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13661
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '25793'
+    type: a.k.a.
+    category: weak
+    last_name: UVZ
+  - uid: '25794'
+    type: a.k.a.
+    category: strong
+    last_name: OJSC RESEARCH AND PRODUCTION CORPORATION URALVAGONZAVOD
+  - uid: '25795'
+    type: a.k.a.
+    category: strong
+    last_name: URALVAGONZAVOD CORPORATION
+  - uid: '25796'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY RESEARCH AND PRODUCTION CORPORATION URALVAGONZAVOD
+  - uid: '25797'
+    type: a.k.a.
+    category: strong
+    last_name: RESEARCH AND PRODUCTION CORPORATION URALVAGONZAVOD OAO
+  - uid: '25798'
+    type: a.k.a.
+    category: strong
+    last_name: NAUCHNO-PROIZVODSTVENNAYA KORPORATSIYA URALVAGONZAVOD OAO
+  - uid: '25800'
+    type: a.k.a.
+    category: strong
+    last_name: NPK URALVAGONZAVOD OAO
+  - uid: '76260'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO NAUCHNO PROIZVODSTVENNAIA KORPORATSIIA URALVAGONZAVOD
+      IMENI F E DZERZHINSKOGO
+address_list:
+  items:
+  - uid: '25573'
+    address1: 40 Bolshaya Yakimanka Street
+    city: Moscow
+    postal_code: '119049'
+    country: Russia
+  - uid: '69650'
+    address1: 28 Vostochnoye Shosse
+    city: Nizhni Tagil
+    state_or_province: Sverdlovsk Region
+    postal_code: '66207'
+    country: Russia
+  - uid: '73605'
+    address1: Pr-kt Lenina, d. 204
+    city: Rubtsovsk
+    postal_code: '658225'
+    country: Russia
+  - uid: '73606'
+    address1: Pr-kt Lenina, d. 3
+    city: Chelyabinsk
+    postal_code: '454007'
+    country: Russia
+  - uid: '73607'
+    address1: Ul. Pervomaiskaya d. 14
+    city: Volchansk
+    postal_code: '624941'
+    country: Russia
+id_list:
+  items:
+  - uid: '36804'
+    id_type: Tax ID No.
+    id_number: '6623029538'
+    id_country: Russia
+  - uid: '36805'
+    id_type: Registration Number
+    id_number: '1086623002190'
+    id_country: Russia
+  - uid: '143707'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '171687'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '172443'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
+  - uid: '171688'
+    id_type: Organization Established Date
+    id_number: 31 Mar 2008

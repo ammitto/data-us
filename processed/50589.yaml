@@ -1,0 +1,44 @@
+---
+uid: '50589'
+last_name: VAFA WHOLESALE LTD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79106'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTIU OPTOVAIA FIRMA VAFA
+  - uid: '79107'
+    type: a.k.a.
+    category: strong
+    last_name: OOO OF VAFA
+address_list:
+  items:
+  - uid: '76702'
+    address1: ulitsa Generala Yepisheva 20D
+    city: Astrakhan
+    state_or_province: Astrakhan Oblast
+    postal_code: '414024'
+    country: Russia
+id_list:
+  items:
+  - uid: '42427'
+    id_type: Identification Number
+    id_number: IMO 5266323
+  - uid: '42428'
+    id_type: Tax ID No.
+    id_number: '3016023425'
+    id_country: Russia
+  - uid: '42429'
+    id_type: Business Registration Number
+    id_number: '1023000821029'
+    id_country: Russia
+  - uid: '178878'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '178877'
+    id_type: Organization Established Date
+    id_number: 12 Aug 1996

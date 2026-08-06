@@ -1,0 +1,33 @@
+---
+uid: '47433'
+last_name: OAO KRASNOARMEYSKIY MEKHANICHESKIY ZAVOD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73362'
+    type: a.k.a.
+    category: weak
+    last_name: JSC KMZ
+address_list:
+  items:
+  - uid: '70744'
+    address1: Ul. Zavodskaya D.10
+    city: Krasnoarmeysk
+    postal_code: '412801'
+    country: Russia
+id_list:
+  items:
+  - uid: '37853'
+    id_type: Registration Number
+    id_number: '1026401731531'
+    id_country: Russia
+  - uid: '37854'
+    id_type: Tax ID No.
+    id_number: '6442005951'
+    id_country: Russia
+  - uid: '169787'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

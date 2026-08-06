@@ -1,0 +1,42 @@
+---
+uid: '46848'
+first_name: Sergey Vladimirovich
+last_name: DOKUCHAEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '72354'
+    type: a.k.a.
+    category: strong
+    last_name: DOKUCHAEV
+    first_name: Sergei Vladimirovich
+address_list:
+  items:
+  - uid: '69810'
+    country: Russia
+id_list:
+  items:
+  - uid: '36936'
+    id_type: Tax ID No.
+    id_number: '772130881808'
+    id_country: Russia
+  - uid: '176329'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '167691'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '67693'
+    date_of_birth: 19 Jul 1957
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '67694'
+    place_of_birth: Kuybyshev, Russia
+    main_entry: 'true'
+remarks: "(Linked To: PJSC VYSOCHAISHY)"

@@ -1,0 +1,27 @@
+---
+uid: '49231'
+last_name: OOO SOYUZ PODSHIPNIK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '74130'
+    address1: ul. Agregatnaya 3-Ya d. 23
+    state_or_province: Kursk
+    postal_code: '305022'
+    country: Russia
+id_list:
+  items:
+  - uid: '40411'
+    id_type: Registration Number
+    id_number: '1057747885469'
+    id_country: Russia
+  - uid: '40412'
+    id_type: Tax ID No.
+    id_number: '7725546537'
+    id_country: Russia
+  - uid: '172205'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

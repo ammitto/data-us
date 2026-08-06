@@ -1,0 +1,33 @@
+---
+uid: '52632'
+last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTIU SV POLIMER
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '82443'
+    type: a.k.a.
+    category: weak
+    last_name: SV POLYMER
+address_list:
+  items:
+  - uid: '80427'
+    address1: d. 23 litera A pom. 41-N, Zona 2, Rabochee Mesto, ul. Novgorodskaya
+    city: Saint Petersburg
+    postal_code: '191124'
+    country: Russia
+id_list:
+  items:
+  - uid: '45715'
+    id_type: Registration Number
+    id_number: '1187847282864'
+    id_country: Russia
+  - uid: '45716'
+    id_type: Tax ID No.
+    id_number: '7842163859'
+    id_country: Russia
+  - uid: '184423'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

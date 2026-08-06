@@ -1,0 +1,40 @@
+---
+uid: '44578'
+last_name: DEFENSE ENGINEERING LIMITED LIABILITY PARTNERSHIP
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK
+aka_list:
+  items:
+  - uid: '68871'
+    type: a.k.a.
+    category: strong
+    last_name: DEFENS INZHINIRING
+  - uid: '68877'
+    type: a.k.a.
+    category: weak
+    last_name: DEFENSE ENGINEERING, TOO
+address_list:
+  items:
+  - uid: '66349'
+    address1: Ul. Dinmukhamed Konaev 12/1
+    city: Sultan
+    country: Kazakhstan
+id_list:
+  items:
+  - uid: '34080'
+    id_type: Company Number
+    id_number: '181140030924'
+    id_country: Kazakhstan
+  - uid: '164557'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '164558'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '164801'
+    id_type: Organization Established Date
+    id_number: 27 Nov 2018
+remarks: "(Linked To: MKRTYCHEV, Ashot)"

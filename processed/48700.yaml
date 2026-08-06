@@ -1,0 +1,52 @@
+---
+uid: '48700'
+first_name: Talha
+last_name: AL-LIBI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '75776'
+    type: a.k.a.
+    category: strong
+    last_name: MOHAMED SALEM
+    first_name: Sidi Mohamed Ould
+  - uid: '75777'
+    type: a.k.a.
+    category: strong
+    last_name: MOHAMED SALEM
+    first_name: Abderrahmane Ould
+  - uid: '75778'
+    type: a.k.a.
+    category: weak
+    last_name: AL-AZAWADI, Abu Talha
+  - uid: '75779'
+    type: a.k.a.
+    category: weak
+    last_name: AL-BARBOUCI, Abu Talha
+address_list:
+  items:
+  - uid: '73172'
+    country: Mali
+id_list:
+  items:
+  - uid: '171162'
+    id_type: Gender
+    id_number: Male
+  - uid: '171102'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '71099'
+    date_of_birth: '1974'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '71100'
+    place_of_birth: Zouerate, Mauritania
+    main_entry: 'true'
+remarks: "(Linked To: JAMA'AT NUSRAT AL-ISLAM WAL-MUSLIMIN)"

@@ -1,0 +1,49 @@
+---
+uid: '41923'
+first_name: Varvara Andreevna
+last_name: SKOCH
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65164'
+    type: a.k.a.
+    category: strong
+    last_name: SKOCH
+    first_name: Varvara Andreyevna
+address_list:
+  items:
+  - uid: '62541'
+    address1: 34 Woronzow Road, St. John's Wood
+    city: London
+    postal_code: NW8 6AT
+    country: United Kingdom
+id_list:
+  items:
+  - uid: '31310'
+    id_type: National ID No.
+    id_number: '1287920'
+    id_country: Cyprus
+  - uid: '31311'
+    id_type: Tax ID No.
+    id_number: '773009211904'
+    id_country: Russia
+  - uid: '173702'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '160176'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '60179'
+    date_of_birth: 19 May 2002
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '60180'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'
+remarks: "(Linked To: SKOCH, Andrei Vladimirovich)"

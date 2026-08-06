@@ -1,0 +1,39 @@
+---
+uid: '57913'
+first_name: Manuchehr
+last_name: GOLCHIN
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+address_list:
+  items:
+  - uid: '88854'
+    country: Iran
+id_list:
+  items:
+  - uid: '52426'
+    id_type: National ID No.
+    id_number: '0046380450'
+    id_country: Iran
+  - uid: '52427'
+    id_type: Passport
+    id_number: B97415946
+    id_country: Iran
+    expiration_date: 05 Jan 2028
+  - uid: '198672'
+    id_type: Gender
+    id_number: Male
+  - uid: '198677'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '98673'
+    date_of_birth: 23 Nov 1959
+    main_entry: 'true'
+  - uid: '98706'
+    date_of_birth: 24 Nov 1959
+    main_entry: 'false'
+remarks: "(Linked To: MINISTRY OF DEFENSE AND ARMED FORCES LOGISTICS)"

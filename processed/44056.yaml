@@ -1,0 +1,42 @@
+---
+uid: '44056'
+first_name: Jefferson
+last_name: KOIJEE
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '72395'
+    type: a.k.a.
+    category: strong
+    last_name: KOIJEE
+    first_name: Jefferson Tamba
+address_list:
+  items:
+  - uid: '69837'
+    address1: 21 Street Sinkor
+    city: Monrovia
+    country: Liberia
+id_list:
+  items:
+  - uid: '36954'
+    id_type: Passport
+    id_number: DP0003662
+    id_country: Liberia
+    issue_date: 27 Jan 2023
+    expiration_date: 27 Jan 2025
+  - uid: '167757'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '67755'
+    date_of_birth: 07 Sep 1985
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '67756'
+    place_of_birth: Monrovia, Liberia
+    main_entry: 'true'

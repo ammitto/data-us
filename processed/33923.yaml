@@ -1,0 +1,43 @@
+---
+uid: '33923'
+first_name: Zeljko
+last_name: BOJIC
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '53606'
+    type: a.k.a.
+    category: strong
+    last_name: BOJIC
+    first_name: Zeljko Radoslav
+address_list:
+  items:
+  - uid: '51216'
+    address1: Lole Ribar Street
+    address2: Number L3/10/2
+    city: Mitrovica North
+    country: Kosovo
+id_list:
+  items:
+  - uid: '23780'
+    id_type: Passport
+    id_number: P00608659
+    id_country: Kosovo
+    expiration_date: 19 Mar 2025
+  - uid: '145313'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '45311'
+    date_of_birth: 16 Jul 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '45312'
+    place_of_birth: Mitrovica, Kosovo
+    main_entry: 'true'
+remarks: "(Linked To: VESELINOVIC, Zvonko)"

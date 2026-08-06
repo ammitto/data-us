@@ -1,0 +1,33 @@
+---
+uid: '19250'
+first_name: Mingfu
+last_name: CHEN
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+id_list:
+  items:
+  - uid: '11569'
+    id_type: Passport
+    id_number: G22168109
+    expiration_date: 26 Apr 2017
+  - uid: '11570'
+    id_type: Identification Number
+    id_number: '341181198004300019'
+    id_country: China
+  - uid: '118926'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '18896'
+    date_of_birth: 30 Apr 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '18897'
+    place_of_birth: Anhui, China
+    main_entry: 'true'
+remarks: "(Linked To: NAVID COMPOSITE MATERIAL COMPANY)"

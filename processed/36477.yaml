@@ -1,0 +1,52 @@
+---
+uid: '36477'
+first_name: Kirill Konstantinovich
+last_name: MALOFEYEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '57528'
+    type: a.k.a.
+    category: strong
+    last_name: MALOFEEV
+    first_name: Kirill Konstantinovich
+  - uid: '57529'
+    type: a.k.a.
+    category: weak
+    last_name: Likkrit
+address_list:
+  items:
+  - uid: '54846'
+    address1: Tvardovskogo Str 18 2 142
+    city: Moscow
+    postal_code: '123458'
+    country: Russia
+id_list:
+  items:
+  - uid: '25937'
+    id_type: Tax ID No.
+    id_number: '772078537711'
+    id_country: Russia
+  - uid: '25938'
+    id_type: National ID No.
+    id_number: '4515477394'
+    id_country: Russia
+  - uid: '174230'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '150231'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '50233'
+    date_of_birth: 04 Oct 1995
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '50234'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'

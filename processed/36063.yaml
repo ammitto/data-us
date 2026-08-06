@@ -1,0 +1,54 @@
+---
+uid: '36063'
+last_name: PUBLIC JOINT STOCK COMPANY AMURSKY SHIPBUILDING PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56852'
+    type: a.k.a.
+    category: strong
+    last_name: AMUR SHIPBUILDING PLANT PUBLIC COMPANY
+  - uid: '56853'
+    type: a.k.a.
+    category: strong
+    last_name: AMUR SHIPBUILDING PLANT
+  - uid: '56854'
+    type: a.k.a.
+    category: weak
+    last_name: PJSC ASZ
+  - uid: '56855'
+    type: a.k.a.
+    category: strong
+    last_name: PJSC AMURSKY SUDOSTROITELNY FACTORY
+  - uid: '56856'
+    type: a.k.a.
+    category: strong
+    last_name: JSC AMURSKY SUDOSTROITELNY ZAVOD
+  - uid: '56857'
+    type: a.k.a.
+    category: strong
+    last_name: PUBLICHNOE AKTSIONERNOE OBSCHESTVO AMURSKIY SUDOSTROITELNYI ZAVOD
+address_list:
+  items:
+  - uid: '54226'
+    address1: 1 Alleya Truda St.
+    city: Komsomolsk-On-Amur
+    state_or_province: Khabarovsk Region
+    postal_code: '681000'
+    country: Russia
+id_list:
+  items:
+  - uid: '25446'
+    id_type: Tax ID No.
+    id_number: '2703000015'
+    id_country: Russia
+  - uid: '149451'
+    id_type: Organization Established Date
+    id_number: 21 Dec 1992
+  - uid: '173970'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: JOINT STOCK COMPANY UNITED SHIPBUILDING CORPORATION)"

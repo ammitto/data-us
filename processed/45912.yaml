@@ -1,0 +1,34 @@
+---
+uid: '45912'
+first_name: Beyshen Kasymovich
+last_name: ISAEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '68670'
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '35659'
+    id_type: Passport
+    id_number: '756769025'
+    id_country: Russia
+  - uid: '166579'
+    id_type: Gender
+    id_number: Male
+  - uid: '176087'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '66581'
+    date_of_birth: 24 Jul 1975
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '66580'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'

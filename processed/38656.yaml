@@ -1,0 +1,47 @@
+---
+uid: '38656'
+first_name: Irina Aleksandrovna
+last_name: SHOIGU
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '60449'
+    type: a.k.a.
+    category: strong
+    last_name: SHOYGU
+    first_name: Irina Aleksandrovna
+  - uid: '60450'
+    type: a.k.a.
+    category: strong
+    last_name: ANTIPINA
+    first_name: Irina Aleksandrovna
+address_list:
+  items:
+  - uid: '57704'
+    country: Russia
+id_list:
+  items:
+  - uid: '27916'
+    id_type: Tax ID No.
+    id_number: '503201763587'
+    id_country: Russia
+  - uid: '174692'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '154153'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '54151'
+    date_of_birth: 31 May 1955
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '54152'
+    place_of_birth: Krasnoyarsk, Russia
+    main_entry: 'true'
+remarks: "(Linked To: SHOIGU, Sergei Kuzhugetovich)"

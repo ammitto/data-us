@@ -1,0 +1,49 @@
+---
+uid: '39936'
+first_name: Mohsen
+last_name: BARMAHANI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13846
+aka_list:
+  items:
+  - uid: '62147'
+    type: a.k.a.
+    category: strong
+    last_name: BORMAHANI
+    first_name: Mohsen
+address_list:
+  items:
+  - uid: '59524'
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '29176'
+    id_type: Passport
+    id_number: A54062245
+    id_country: Iran
+    expiration_date: 12 Jul 2026
+  - uid: '29177'
+    id_type: National ID No.
+    id_number: '1063893488'
+    id_country: Iran
+  - uid: '156727'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '156710'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '56707'
+    date_of_birth: 24 May 1979
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '56708'
+    place_of_birth: Neishabur, Iran
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC REPUBLIC OF IRAN BROADCASTING)"
+title: Deputy Director, Islamic Republic of Iran Broadcasting

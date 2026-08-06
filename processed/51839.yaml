@@ -1,0 +1,39 @@
+---
+uid: '51839'
+last_name: PUBLIC JOINT STOCK COMMERCIAL BANK DERZHAVA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '79000'
+    address1: 2 Bldg 9 Bolshoy Savvinskiy Lane
+    city: Moscow
+    postal_code: '119435'
+    country: Russia
+id_list:
+  items:
+  - uid: '44533'
+    id_type: Legal Entity Number
+    id_number: 253400K8490BM0R69348
+  - uid: '44534'
+    id_type: Registration Number
+    id_number: '1027739120199'
+    id_country: Russia
+  - uid: '44535'
+    id_type: Tax ID No.
+    id_number: '7729003482'
+    id_country: Russia
+  - uid: '182190'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '182191'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '182188'
+    id_type: SWIFT/BIC
+    id_number: DERZRUMM
+  - uid: '182189'
+    id_type: Website
+    id_number: www.derzhava.ru

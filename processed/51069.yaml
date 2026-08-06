@@ -1,0 +1,31 @@
+---
+uid: '51069'
+last_name: INTELLEKT TELEKOM LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '77590'
+    address1: Ul. Mashinostroitelei Str. 19
+    address2: Pomeshch. 500/8-17
+    city: Yekaterinburg
+    postal_code: '620012'
+    country: Russia
+id_list:
+  items:
+  - uid: '43141'
+    id_type: Tax ID No.
+    id_number: '6686141148'
+    id_country: Russia
+  - uid: '43142'
+    id_type: Registration Number
+    id_number: '1226600024034'
+    id_country: Russia
+  - uid: '180462'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '180029'
+    id_type: Organization Established Date
+    id_number: 26 Apr 2022

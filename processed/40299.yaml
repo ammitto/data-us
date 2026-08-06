@@ -1,0 +1,49 @@
+---
+uid: '40299'
+first_name: Moslem
+last_name: MOEIN
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+aka_list:
+  items:
+  - uid: '62675'
+    type: a.k.a.
+    category: strong
+    last_name: MO'IN
+    first_name: Moslem
+address_list:
+  items:
+  - uid: '60070'
+    address1: Part 7, Block 25, Ground Floor, 16th Street, Sarvestan Street, Chaghamirza
+      Phase 2 Shahid Mehrabi
+    city: Kermanshah
+    country: Iran
+id_list:
+  items:
+  - uid: '29478'
+    id_type: Birth Certificate Number
+    id_number: '3477'
+    id_country: Iran
+  - uid: '29480'
+    id_type: National ID No.
+    id_number: '3341588477'
+    id_country: Iran
+  - uid: '157398'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '157396'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '57390'
+    date_of_birth: 22 Sep 1985
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '57392'
+    place_of_birth: Eslamabad, Iran
+    main_entry: 'true'
+remarks: "(Linked To: BASIJ RESISTANCE FORCE)"

@@ -1,0 +1,41 @@
+---
+uid: '43378'
+first_name: Martin
+last_name: GARCIA CORRALES
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '67231'
+    type: a.k.a.
+    category: weak
+    last_name: Tano
+  - uid: '67232'
+    type: a.k.a.
+    category: weak
+    last_name: Cachuchas
+address_list:
+  items:
+  - uid: '64727'
+    country: Mexico
+id_list:
+  items:
+  - uid: '32957'
+    id_type: C.U.R.P.
+    id_number: GACM800413HSLRRR06
+    id_country: Mexico
+  - uid: '162737'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '62734'
+    date_of_birth: 13 Apr 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '62735'
+    place_of_birth: Sinaloa, Mexico
+    main_entry: 'true'

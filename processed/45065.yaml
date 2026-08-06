@@ -1,0 +1,36 @@
+---
+uid: '45065'
+first_name: Alireza
+last_name: ABEDINEJAD
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13846
+address_list:
+  items:
+  - uid: '67122'
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '34786'
+    id_type: National ID No.
+    id_number: '0491500998'
+    id_country: Iran
+  - uid: '165505'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '165432'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '65434'
+    date_of_birth: 16 Apr 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '65439'
+    place_of_birth: Shahre Rey, Tehran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: DOURAN SOFTWARE TECHNOLOGIES)"

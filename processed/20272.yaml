@@ -1,0 +1,43 @@
+---
+uid: '20272'
+first_name: Mikhail Sergeyevich
+last_name: SHEREMET
+sdn_type: Individual
+program_list:
+  programs:
+  - UKRAINE-EO13660
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59384'
+    type: a.k.a.
+    category: strong
+    last_name: SHEREMET
+    first_name: Mikhail Sergeevich
+address_list:
+  items:
+  - uid: '56613'
+    country: Russia
+id_list:
+  items:
+  - uid: '152832'
+    id_type: Gender
+    id_number: Male
+  - uid: '143940'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '173916'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '20752'
+    date_of_birth: 23 May 1971
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '20753'
+    place_of_birth: Dzhankoy, Ukraine
+    main_entry: 'true'
+title: Member of the State Duma of the Federal Assembly of the Russian Federation

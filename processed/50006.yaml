@@ -1,0 +1,39 @@
+---
+uid: '50006'
+last_name: AO NPP SAIT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77953'
+    type: a.k.a.
+    category: weak
+    last_name: SAIT
+address_list:
+  items:
+  - uid: '75656'
+    address1: G Zelenograd, Proezd 4806 D 5, Str 20
+    address2: Office M 05
+    city: Moscow
+    postal_code: '124498'
+    country: Russia
+  - uid: '75657'
+    address1: Al. Solnechnaya D. 6, Pom/Komn XIII/14
+    city: Zelenograd
+    postal_code: '124527'
+    country: Russia
+id_list:
+  items:
+  - uid: '41551'
+    id_type: Registration Number
+    id_number: '1037700225056'
+    id_country: Russia
+  - uid: '41552'
+    id_type: Tax ID No.
+    id_number: '7735071466'
+    id_country: Russia
+  - uid: '178162'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,42 @@
+---
+uid: '52437'
+first_name: Nicolas
+last_name: SIERRA SANTANA
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '82124'
+    type: a.k.a.
+    category: weak
+    last_name: El Gordo
+  - uid: '82125'
+    type: a.k.a.
+    category: weak
+    last_name: El Coruco
+address_list:
+  items:
+  - uid: '80097'
+    country: Mexico
+id_list:
+  items:
+  - uid: '45426'
+    id_type: C.U.R.P.
+    id_number: SISN770910HMNRNC09
+    id_country: Mexico
+  - uid: '184047'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '84049'
+    date_of_birth: 10 Sep 1977
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '84050'
+    place_of_birth: Michoacan, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: LOS VIAGRAS)"

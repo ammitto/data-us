@@ -1,0 +1,41 @@
+---
+uid: '50548'
+first_name: Roberto
+last_name: CASTELLANOS MEZA
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '79039'
+    type: a.k.a.
+    category: weak
+    last_name: BONQUES, Beto
+  - uid: '79647'
+    type: a.k.a.
+    category: weak
+    last_name: BONQUES BROTHERS
+address_list:
+  items:
+  - uid: '76645'
+    country: Mexico
+id_list:
+  items:
+  - uid: '42376'
+    id_type: C.U.R.P.
+    id_number: CAMR750606HNTSZB00
+    id_country: Mexico
+  - uid: '178721'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '78720'
+    date_of_birth: 06 Jun 1975
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '78718'
+    place_of_birth: Nayarit, Mexico
+    main_entry: 'true'

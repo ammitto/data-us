@@ -1,0 +1,42 @@
+---
+uid: '43318'
+last_name: OOO TRAST LODZHISTIKS GRUPP
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '67173'
+    type: a.k.a.
+    category: strong
+    last_name: TRUST LOGISTICS GROUP LLC
+address_list:
+  items:
+  - uid: '64669'
+    address1: u. Yurovskaya D. 92, pom.I komn. 40
+    city: Moscow
+    postal_code: '125466'
+    country: Russia
+  - uid: '64670'
+    address1: ul. Baryshikha, 32 korp. 1, pomeshch. 1/1
+    city: Moscow
+    postal_code: '125368'
+    country: Russia
+id_list:
+  items:
+  - uid: '32899'
+    id_type: Registration Number
+    id_number: '5147746261823'
+    id_country: Russia
+  - uid: '32900'
+    id_type: Tax ID No.
+    id_number: '7733899720'
+    id_country: Russia
+  - uid: '162555'
+    id_type: Organization Established Date
+    id_number: 22 Oct 2014
+  - uid: '175710'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: AKIFYEV, Pavel Viktorovich)"

@@ -1,0 +1,44 @@
+---
+uid: '43857'
+last_name: STAUT COMPANY LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '67889'
+    type: a.k.a.
+    category: strong
+    last_name: STAUT CO LTD
+  - uid: '67890'
+    type: a.k.a.
+    category: strong
+    last_name: STAUT DESIGN CENTER
+address_list:
+  items:
+  - uid: '65326'
+    address1: Pr-kt Obukhovskoi Oborony d. 123A
+    address2: pom. 20
+    city: Saint Petersburg
+    postal_code: '192029'
+    country: Russia
+  - uid: '65327'
+    address1: ul. Moiseenko d. 41, lit. B
+    address2: 'pomeshch. #4, floor 2, office 1'
+    city: Saint Petersburg
+    postal_code: '191144'
+    country: Russia
+id_list:
+  items:
+  - uid: '33278'
+    id_type: Registration Number
+    id_number: '1089847105259'
+    id_country: Russia
+  - uid: '33279'
+    id_type: Tax ID No.
+    id_number: '7811401214'
+    id_country: Russia
+  - uid: '175726'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

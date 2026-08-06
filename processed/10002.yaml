@@ -1,0 +1,27 @@
+---
+uid: '10002'
+last_name: COMERCIALIZADORA DE CAFE DEL OCCIDENTE CODECAFE LTDA.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDNT
+aka_list:
+  items:
+  - uid: '9672'
+    type: a.k.a.
+    category: strong
+    last_name: CODECAFE
+address_list:
+  items:
+  - uid: '13101'
+    address1: Carrera 8 No. 23-09
+    address2: Ofc. 903
+    city: Pereira
+    state_or_province: Risaralda
+    country: Colombia
+id_list:
+  items:
+  - uid: '4540'
+    id_type: 'NIT #'
+    id_number: 816004106-0
+    id_country: Colombia

@@ -1,0 +1,51 @@
+---
+uid: '10620'
+first_name: Roberto
+last_name: PEREZ VERDUZCO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '10592'
+    type: a.k.a.
+    category: strong
+    last_name: PEREZ VERDUGO
+    first_name: Roberto
+address_list:
+  items:
+  - uid: '14801'
+    address1: Calle Cerro Agudo No. 3191, Colonia Loma Linda
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '14802'
+    address1: c/o SEPRIV, S.A. DE C.V.
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+id_list:
+  items:
+  - uid: '5160'
+    id_type: R.F.C.
+    id_number: PEVR6310292D8
+    id_country: Mexico
+  - uid: '5161'
+    id_type: C.U.R.P.
+    id_number: PEVR631029HSLRRB06
+    id_country: Mexico
+  - uid: '5162'
+    id_type: Passport
+    id_number: '040049618'
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '5976'
+    date_of_birth: 29 Oct 1963
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '5977'
+    place_of_birth: Culiacan, Sinaloa, Mexico
+    main_entry: 'true'

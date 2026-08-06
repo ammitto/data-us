@@ -1,0 +1,74 @@
+---
+uid: '11313'
+first_name: Mukhtar
+last_name: ROBOW
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '11856'
+    type: a.k.a.
+    category: strong
+    last_name: RUBU
+    first_name: Mukhtar Ali
+  - uid: '11857'
+    type: a.k.a.
+    category: strong
+    last_name: ALI
+    first_name: Mukhtar Abdullahi
+  - uid: '11858'
+    type: a.k.a.
+    category: strong
+    last_name: ALI
+    first_name: Mujahid Mukhtar Robow
+  - uid: '11859'
+    type: a.k.a.
+    category: strong
+    last_name: ALI
+    first_name: Shaykh Mukhtar Robo
+  - uid: '11860'
+    type: a.k.a.
+    category: weak
+    last_name: ABU MANSUR
+  - uid: '11861'
+    type: a.k.a.
+    category: weak
+    last_name: ABU MANSOUR
+id_list:
+  items:
+  - uid: '5762'
+    id_type: National ID No.
+    id_number: '1372584'
+    id_country: Kenya
+  - uid: '5763'
+    id_type: Passport
+    id_number: '0310857'
+    id_country: Eritrea
+    issue_date: 21 Aug 2006
+    expiration_date: 20 Aug 2008
+  - uid: '186389'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '6654'
+    date_of_birth: '1969'
+    main_entry: 'true'
+  - uid: '6655'
+    date_of_birth: 10 Oct 1969
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '6656'
+    place_of_birth: Xudur, Somalia
+    main_entry: 'true'
+  - uid: '6657'
+    place_of_birth: Keren, Eritrea
+    main_entry: 'false'
+remarks: "(Following data derived from an Eritrean passport issued under the alias
+  name of Mukhtar Abdullahi Ali: Alt. DOB: 10 October 1969; Alt. POB: Keren Eritrea;
+  nationality: Eritrean; National ID No.: 1372584, Kenya; Passport No.: 0310857, Eritrea,
+  Issue Date 21 August 2006, Expire Date 20 August 2008)"

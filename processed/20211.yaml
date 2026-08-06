@@ -1,0 +1,50 @@
+---
+uid: '20211'
+last_name: FAU 'GLAVGOSEKSPERTIZA ROSSII'
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13685
+aka_list:
+  items:
+  - uid: '31852'
+    type: a.k.a.
+    category: strong
+    last_name: FEDERAL AUTONOMOUS INSTITUTION 'MAIN DIRECTORATE OF STATE EXAMINATION'
+  - uid: '31853'
+    type: a.k.a.
+    category: strong
+    last_name: GLAVGOSEKSPERTIZA
+  - uid: '31854'
+    type: a.k.a.
+    category: strong
+    last_name: GENERAL BOARD OF STATE EXPERT REVIEW
+address_list:
+  items:
+  - uid: '30528'
+    address1: Furkasovskiy Lane, building 6
+    city: Moscow
+    postal_code: '101000'
+    country: Russia
+  - uid: '30529'
+    address1: 13 Demidova Street
+    city: Sevastopol
+    state_or_province: Crimea
+    country: Ukraine
+  - uid: '30530'
+    address1: 10 Vokzalnaya Street
+    city: Sevastopol
+    state_or_province: Crimea
+    country: Ukraine
+id_list:
+  items:
+  - uid: '143878'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '120678'
+    id_type: Website
+    id_number: http://gge.ru
+  - uid: '120679'
+    id_type: Email Address
+    id_number: info@gge.ru

@@ -1,0 +1,40 @@
+---
+uid: '27533'
+last_name: SILVER BRIDGE SHIPPING CO-HKG
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK4
+aka_list:
+  items:
+  - uid: '44459'
+    type: a.k.a.
+    category: strong
+    last_name: SILVER BRIDGE SHIPPING CO., LIMITED
+  - uid: '44460'
+    type: a.k.a.
+    category: strong
+    last_name: SILVER BRIDGE SHIPPING CO., LTD.
+address_list:
+  items:
+  - uid: '42722'
+    address1: Unit B-01, 20th Floor
+    address2: Full Win Commercial Centre
+    address3: 573 Nathan Road, Yau Ma Tei, Kowloon
+    country: Hong Kong
+id_list:
+  items:
+  - uid: '18703'
+    id_type: Company Number
+    id_number: '2400341'
+    id_country: Hong Kong
+  - uid: '18707'
+    id_type: Identification Number
+    id_number: IMO 5931563
+  - uid: '138502'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '134275'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210

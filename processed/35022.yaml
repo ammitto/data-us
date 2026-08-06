@@ -1,0 +1,43 @@
+---
+uid: '35022'
+last_name: LLC PROGOROD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '55104'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU NOVYE GORODSKIE PROEKTY
+  - uid: '55105'
+    type: a.k.a.
+    category: strong
+    last_name: OOO PROGOROD
+  - uid: '55106'
+    type: a.k.a.
+    category: strong
+    last_name: NOVYE GORODSKIE PROEKTY
+address_list:
+  items:
+  - uid: '52587'
+    address1: d. 10 etazh 7 pom. XIII kom. 2,ul. Vozdvizhenka
+    city: Moscow
+    postal_code: '125009'
+    country: Russia
+id_list:
+  items:
+  - uid: '24750'
+    id_type: Registration Number
+    id_number: '1207700089101'
+    id_country: Russia
+  - uid: '24751'
+    id_type: Tax ID No.
+    id_number: '9704013161'
+    id_country: Russia
+  - uid: '175239'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: STATE CORPORATION BANK FOR DEVELOPMENT AND FOREIGN ECONOMIC
+  AFFAIRS VNESHECONOMBANK)"

@@ -1,0 +1,31 @@
+---
+uid: '19234'
+first_name: Alma Delia
+last_name: LIRA SOTELO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '31371'
+    country: Mexico
+id_list:
+  items:
+  - uid: '11546'
+    id_type: C.U.R.P.
+    id_number: LISA720414MDFRTL08
+    id_country: Mexico
+  - uid: '119812'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '18863'
+    date_of_birth: 14 Apr 1972
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '18864'
+    place_of_birth: Mexico City, D.F., Mexico
+    main_entry: 'true'

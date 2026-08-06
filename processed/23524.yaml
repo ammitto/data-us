@@ -1,0 +1,29 @@
+---
+uid: '23524'
+last_name: CK INTERNATIONAL LTD
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK4
+address_list:
+  items:
+  - uid: '35573'
+    address1: c/o Korea Uljibong Shipping Co., Jongbaek 1-dong, Rakrang-guyok
+    city: Pyongyang
+    country: Korea, North
+  - uid: '35688'
+    address1: Room 9, Unit A, 3rd Floor, Cheong Sun Tower, 116-118, Wing Lok Street,
+      Sheung Wan
+    country: Hong Kong
+id_list:
+  items:
+  - uid: '15059'
+    id_type: Company Number
+    id_number: IMO 5980332
+  - uid: '135275'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '127358'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210

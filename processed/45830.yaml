@@ -1,0 +1,44 @@
+---
+uid: '45830'
+last_name: JOINT STOCK COMPANY SCAN
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70821'
+    type: a.k.a.
+    category: weak
+    last_name: JSC SCAN
+  - uid: '70822'
+    type: a.k.a.
+    category: strong
+    last_name: CLOSED JOINT STOCK COMPANY SCAN
+address_list:
+  items:
+  - uid: '68194'
+    address1: Ul. Druzhby D.10 B
+    city: Moscow
+    postal_code: '119330'
+    country: Russia
+id_list:
+  items:
+  - uid: '35577'
+    id_type: Registration Number
+    id_number: '5077746460380'
+    id_country: Russia
+  - uid: '35578'
+    id_type: Tax ID No.
+    id_number: '7729571904'
+    id_country: Russia
+  - uid: '35579'
+    id_type: Government Gazette Number
+    id_number: '80712625'
+    id_country: Russia
+  - uid: '166454'
+    id_type: Organization Established Date
+    id_number: 04 Apr 2007
+  - uid: '176067'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,35 @@
+---
+uid: '41081'
+first_name: Sergey Konstantinovich
+last_name: SITNIKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '61403'
+    state_or_province: Kostroma Region
+    country: Russia
+id_list:
+  items:
+  - uid: '30417'
+    id_type: Tax ID No.
+    id_number: '440101386036'
+    id_country: Russia
+  - uid: '173612'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '159004'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '59002'
+    date_of_birth: 18 Jan 1963
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '59003'
+    place_of_birth: Kostroma, Kostroma Region, Russia
+    main_entry: 'true'

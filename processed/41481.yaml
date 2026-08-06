@@ -1,0 +1,41 @@
+---
+uid: '41481'
+last_name: DEFENSE TECHNOLOGY AND SCIENCE RESEARCH CENTER
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '64554'
+    type: a.k.a.
+    category: weak
+    last_name: DTSRC
+  - uid: '64555'
+    type: a.k.a.
+    category: strong
+    last_name: INSTITUTE FOR DEFENSE EDUCATION AND RESEARCH
+  - uid: '64556'
+    type: a.k.a.
+    category: strong
+    last_name: MOASSESE AMOZESH VA TAHGHIGHATI
+  - uid: '64557'
+    type: a.k.a.
+    category: weak
+    last_name: MAVT CO.
+address_list:
+  items:
+  - uid: '61915'
+    address1: Pasdaran Avenue, P.O. Box 19585/777
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '159568'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '159657'
+    id_type: Target Type
+    id_number: Government Entity
+remarks: "(Linked To: MINISTRY OF DEFENSE AND ARMED FORCES LOGISTICS)"

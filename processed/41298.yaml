@@ -1,0 +1,37 @@
+---
+uid: '41298'
+first_name: Huatao
+last_name: YAO
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '61711'
+    country: China
+id_list:
+  items:
+  - uid: '30682'
+    id_type: National ID No.
+    id_number: '130531199008160212'
+    id_country: China
+  - uid: '160829'
+    id_type: Phone Number
+    id_number: '8618233039691'
+  - uid: '160830'
+    id_type: Phone Number
+    id_number: '862787366298'
+  - uid: '159341'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '59340'
+    date_of_birth: 16 Aug 1990
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '60850'
+    place_of_birth: Hebei, China
+    main_entry: 'true'

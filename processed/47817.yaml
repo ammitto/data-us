@@ -1,0 +1,38 @@
+---
+uid: '47817'
+last_name: JOINT STOCK COMPANY SAMARA METALLURGICAL PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74184'
+    type: a.k.a.
+    category: weak
+    last_name: JSC SMZ
+address_list:
+  items:
+  - uid: '71555'
+    address1: 29 Alma-Atinskaya Street, Building 33/34
+    city: Samara
+    postal_code: '443051'
+    country: Russia
+  - uid: '71556'
+    address1: 10 Presnenskaya Embankment, Block B
+    city: Moscow
+    postal_code: '123112'
+    country: Russia
+id_list:
+  items:
+  - uid: '38520'
+    id_type: Registration Number
+    id_number: '1026300763389'
+    id_country: Russia
+  - uid: '38521'
+    id_type: Tax ID No.
+    id_number: '6310000160'
+    id_country: Russia
+  - uid: '176468'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

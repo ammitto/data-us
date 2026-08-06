@@ -1,0 +1,37 @@
+---
+uid: '56484'
+first_name: Efrain Antonio
+last_name: CAMPO FLORES
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '86472'
+    city: Caracas
+    country: Venezuela
+id_list:
+  items:
+  - uid: '50526'
+    id_type: Passport
+    id_number: '081303148'
+    id_country: Venezuela
+    expiration_date: 28 Nov 2018
+  - uid: '50527'
+    id_type: Cedula No.
+    id_number: '18330183'
+    id_country: Venezuela
+  - uid: '194878'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '94876'
+    date_of_birth: 25 Aug 1986
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '94877'
+    place_of_birth: Valencia, Venezuela
+    main_entry: 'true'

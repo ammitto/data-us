@@ -1,0 +1,33 @@
+---
+uid: '40810'
+last_name: LIMITED LIABILITY COMPANY GARANTIYA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63491'
+    type: a.k.a.
+    category: strong
+    last_name: GARANTIYA OOO
+address_list:
+  items:
+  - uid: '60841'
+    address1: bulvar Tverskoi, d. 15 str. 2
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '30022'
+    id_type: Tax ID No.
+    id_number: '7703610362'
+    id_country: Russia
+  - uid: '30023'
+    id_type: Registration Number
+    id_number: '5067746901426'
+    id_country: Russia
+  - uid: '174150'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: UDODOV, Aleksandr Yevgenyevich)"

@@ -1,0 +1,37 @@
+---
+uid: '48926'
+first_name: Alexander
+last_name: CELIS DURANGO
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '76227'
+    type: a.k.a.
+    category: weak
+    last_name: Bayron
+address_list:
+  items:
+  - uid: '73597'
+    country: Colombia
+id_list:
+  items:
+  - uid: '40010'
+    id_type: Cedula No.
+    id_number: '10933010'
+    id_country: Colombia
+  - uid: '171681'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '71682'
+    date_of_birth: 05 Aug 1978
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '71683'
+    place_of_birth: Necocli, Antioquia, Colombia
+    main_entry: 'true'

@@ -1,0 +1,43 @@
+---
+uid: '11322'
+first_name: Adem
+last_name: YILMAZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '16599'
+    address1: Sudliche Ringstrasse 133
+    city: Langen
+    postal_code: '63225'
+    country: Germany
+id_list:
+  items:
+  - uid: '5768'
+    id_type: Passport
+    id_number: TR-P 614166
+    id_country: Turkey
+  - uid: '5769'
+    id_type: Passport
+    id_number: '0018850'
+    id_country: Turkey
+  - uid: '185929'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '6670'
+    date_of_birth: 11 Apr 1978
+    main_entry: 'false'
+  - uid: '6671'
+    date_of_birth: 04 Nov 1978
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '6672'
+    place_of_birth: Bayburt, Turkey
+    main_entry: 'true'
+remarks: currently incarcerated at Weiterstadt, Germany

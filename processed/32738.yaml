@@ -1,0 +1,33 @@
+---
+uid: '32738'
+first_name: Artur Aleksandrovich
+last_name: ZHIROV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '51854'
+    type: a.k.a.
+    category: strong
+    last_name: ZHIROV
+    first_name: Artur
+address_list:
+  items:
+  - uid: '49314'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '142404'
+    id_type: Gender
+    id_number: Male
+  - uid: '175109'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '42406'
+    date_of_birth: 06 Jul 1961
+    main_entry: 'true'

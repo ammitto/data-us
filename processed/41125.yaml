@@ -1,0 +1,42 @@
+---
+uid: '41125'
+last_name: KNS GROUP OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '64143'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVESTSTVENNOSTYU KNS GROUP
+  - uid: '64144'
+    type: a.k.a.
+    category: strong
+    last_name: KNS GROUP LLC
+  - uid: '64145'
+    type: a.k.a.
+    category: weak
+    last_name: YADRO
+address_list:
+  items:
+  - uid: '61481'
+    address1: Rochdelskaya street, house 15, building 15, floor 4, unit 4, room 4
+    city: Moscow
+    postal_code: '123376'
+    country: Russia
+id_list:
+  items:
+  - uid: '30471'
+    id_type: Business Registration Number
+    id_number: '5147746249668'
+    id_country: Russia
+  - uid: '30472'
+    id_type: Tax ID No.
+    id_number: '7701411241'
+    id_country: Russia
+  - uid: '173653'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: LIMITED LIABILITY COMPANY HOLDING INTELLIGENT COMPUTER SYSTEMS)"

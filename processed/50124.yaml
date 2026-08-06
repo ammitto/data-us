@@ -1,0 +1,51 @@
+---
+uid: '50124'
+last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU RASPADSKAYA UGOLNAYA KOMPANIYA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78151'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY RASPADSKAYA COAL COMPANY
+  - uid: '78152'
+    type: a.k.a.
+    category: strong
+    last_name: OOO RASPADSKAYA COAL COMPANY
+  - uid: '78153'
+    type: a.k.a.
+    category: strong
+    last_name: RASPADSKAYA UGOLNAYA KOMPANIYA
+  - uid: '78154'
+    type: a.k.a.
+    category: weak
+    last_name: RUK OOO
+address_list:
+  items:
+  - uid: '75838'
+    address1: d. 33, Ofis 201, Prospekt Kurako (Kuibyshevski R-N)
+    city: Novokuznetsk
+    state_or_province: Kemerovo region
+    postal_code: '654006'
+    country: Russia
+  - uid: '75839'
+    address1: PR. Kurako D. 33
+    city: Novokuznetsk
+    postal_code: '654027'
+    country: Russia
+id_list:
+  items:
+  - uid: '41710'
+    id_type: Registration Number
+    id_number: '1154253003750'
+    id_country: Russia
+  - uid: '41711'
+    id_type: Tax ID No.
+    id_number: '4253029657'
+    id_country: Russia
+  - uid: '178068'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

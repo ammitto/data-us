@@ -1,0 +1,38 @@
+---
+uid: '50783'
+last_name: LIMITED LIABILITY COMPANY NPO UTESOV
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '77058'
+    address1: Ul. Professorov Bogoslavskikh, 5A
+    address2: Office 312
+    city: Donetsk
+    postal_code: '283045'
+    country: Ukraine
+  - uid: '77060'
+    state_or_province: Tula
+    country: Russia
+  - uid: '77062'
+    address1: Slavyansky Boulevard
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '42692'
+    id_type: Registration Number
+    id_number: '1239300004206'
+    id_country: Russia
+  - uid: '42693'
+    id_type: Tax ID No.
+    id_number: '9308024040'
+    id_country: Russia
+  - uid: '179427'
+    id_type: Organization Established Date
+    id_number: 25 Apr 2023
+  - uid: '179428'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

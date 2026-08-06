@@ -1,0 +1,58 @@
+---
+uid: '45808'
+last_name: HOME CREDIT & FINANCE BANK LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70774'
+    type: a.k.a.
+    category: strong
+    last_name: HOME CREDIT AND FINANCE BANK LIMITED LIABILITY COMPANY
+  - uid: '70775'
+    type: a.k.a.
+    category: strong
+    last_name: HOME CREDIT & FINANCE BANK LLC
+  - uid: '70776'
+    type: a.k.a.
+    category: strong
+    last_name: HOME CREDIT AND FINANCE BANK LLC
+  - uid: '70777'
+    type: a.k.a.
+    category: weak
+    last_name: HCF BANK
+address_list:
+  items:
+  - uid: '68150'
+    address1: Build. 1 Pravdi Str., 8
+    city: Moscow
+    postal_code: '125040'
+    country: Russia
+id_list:
+  items:
+  - uid: '35555'
+    id_type: Registration Number
+    id_number: '1027700280937'
+    id_country: Russia
+  - uid: '35556'
+    id_type: Tax ID No.
+    id_number: '7735057951'
+    id_country: Russia
+  - uid: '35557'
+    id_type: Legal Entity Number
+    id_number: 2534007XNRQ38CWWDP74
+  - uid: '35558'
+    id_type: Identification Number
+    id_number: ADQ9VQ.00005.ME.643
+    id_country: Russia
+  - uid: '166765'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '176062'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '166411'
+    id_type: SWIFT/BIC
+    id_number: HCFBRUMM

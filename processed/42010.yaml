@@ -1,0 +1,39 @@
+---
+uid: '42010'
+first_name: Anton Anatolyevich
+last_name: EFIMOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65298'
+    type: a.k.a.
+    category: strong
+    last_name: EFIMOV
+    first_name: Anton Anatolevich
+address_list:
+  items:
+  - uid: '62696'
+    country: Spain
+  - uid: '62697'
+    country: Estonia
+  - uid: '62698'
+    country: Russia
+id_list:
+  items:
+  - uid: '176947'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '160187'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '60189'
+    date_of_birth: 31 Aug 1975
+    main_entry: 'true'
+  - uid: '60190'
+    date_of_birth: '08 Aug 1975'
+    main_entry: 'false'

@@ -1,0 +1,27 @@
+---
+uid: '50825'
+last_name: ZG OPTIQUE SA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '77150'
+    address1: Rue de Fin-De-Praz 24
+    city: Saint-Aubin Sauges
+    postal_code: '2024'
+    country: Switzerland
+id_list:
+  items:
+  - uid: '42775'
+    id_type: Tax ID No.
+    id_number: '102945998'
+    id_country: Switzerland
+  - uid: '42776'
+    id_type: Registration Number
+    id_number: ch-645.1.009.280-5
+    id_country: Switzerland
+  - uid: '179467'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

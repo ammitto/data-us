@@ -1,0 +1,31 @@
+---
+uid: '52440'
+first_name: Manuel Enrique
+last_name: CASTILLO RENGIFO
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+address_list:
+  items:
+  - uid: '80103'
+    country: Venezuela
+id_list:
+  items:
+  - uid: '45429'
+    id_type: Cedula No.
+    id_number: V-10049604
+    id_country: Venezuela
+  - uid: '184061'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '84059'
+    date_of_birth: 24 Nov 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '84060'
+    place_of_birth: Bolivar, Venezuela
+    main_entry: 'true'

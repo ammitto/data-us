@@ -1,0 +1,49 @@
+---
+uid: '51706'
+last_name: JOINT STOCK COMMERCIAL MORTGAGE BANK AKIBANK PUBLIC JOINT STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '81007'
+    type: a.k.a.
+    category: strong
+    last_name: COMMERCIAL JOINT STOCK MORTGAGE BANK AKIBANK
+address_list:
+  items:
+  - uid: '78796'
+    address1: 88a Mira Avenue
+    city: Naberezhnye Chelny
+    postal_code: '423827'
+    country: Russia
+id_list:
+  items:
+  - uid: '44263'
+    id_type: Global Intermediary Identification Number
+    id_number: 2A5KLS.99999.SL.643
+  - uid: '44264'
+    id_type: Legal Entity Number
+    id_number: 253400CM1NDPRTJUJQ96
+    id_country: Russia
+  - uid: '44265'
+    id_type: Registration Number
+    id_number: '1021600000839'
+    id_country: Russia
+  - uid: '44266'
+    id_type: Tax ID No.
+    id_number: '1650002455'
+    id_country: Russia
+  - uid: '181765'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '181766'
+    id_type: SWIFT/BIC
+    id_number: AKOARU22
+  - uid: '181761'
+    id_type: Website
+    id_number: www.akibank.ru
+  - uid: '181760'
+    id_type: Target Type
+    id_number: Financial Institution

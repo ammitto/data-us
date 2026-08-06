@@ -1,0 +1,32 @@
+---
+uid: '30563'
+first_name: Mehran
+last_name: BABRI
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+address_list:
+  items:
+  - uid: '46245'
+    country: Iran
+id_list:
+  items:
+  - uid: '20667'
+    id_type: Passport
+    id_number: L36915048
+    id_country: Iran
+    expiration_date: 03 Mar 2021
+  - uid: '138340'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '138342'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '38343'
+    date_of_birth: 03 Oct 1968
+    main_entry: 'true'
+remarks: "(Linked To: SHAHID MEISAMI GROUP)"

@@ -1,0 +1,59 @@
+---
+uid: '25119'
+last_name: LIMITED LIABILITY COMPANY INFRASTRUCTURE PROJECTS MANAGEMENT COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13685
+aka_list:
+  items:
+  - uid: '39607'
+    type: a.k.a.
+    category: weak
+    last_name: LLC UKIP
+  - uid: '39608'
+    type: a.k.a.
+    category: weak
+    last_name: UKIP, OOO
+  - uid: '39609'
+    type: a.k.a.
+    category: weak
+    last_name: UKIP
+  - uid: '39610'
+    type: a.k.a.
+    category: strong
+    last_name: MANAGEMENT COMPANY FOR INFRASTRUCTURE PROJECTS
+  - uid: '39611'
+    type: a.k.a.
+    category: strong
+    last_name: UPRAVLYAYUSHCHAYA KOMPANIYA INFRASTRUKTURNYKH PROEKTOV
+address_list:
+  items:
+  - uid: '38039'
+    address1: Sevastopolskaya Street
+    address2: House 41/2
+    city: Simferopol
+    state_or_province: Crimea
+    postal_code: '295024'
+    country: Ukraine
+id_list:
+  items:
+  - uid: '16204'
+    id_type: Registration Number
+    id_number: '1149102091654'
+    id_country: Russia
+  - uid: '16205'
+    id_type: Tax ID No.
+    id_number: '9102045582'
+    id_country: Russia
+  - uid: '16206'
+    id_type: Government Gazette Number
+    id_number: '00742767'
+    id_country: Russia
+  - uid: '143987'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '128371'
+    id_type: Email Address
+    id_number: fnatali@mail.ru

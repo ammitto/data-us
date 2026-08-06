@@ -1,0 +1,32 @@
+---
+uid: '45018'
+first_name: Hossein
+last_name: AMJADIAN
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+address_list:
+  items:
+  - uid: '67019'
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '34875'
+    id_type: Passport
+    id_number: H33409785
+    id_country: Iran
+    expiration_date: 29 Feb 2020
+  - uid: '165509'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '165346'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '65540'
+    date_of_birth: 26 Jul 1971
+    main_entry: 'true'
+remarks: "(Linked To: LAW ENFORCEMENT FORCES OF THE ISLAMIC REPUBLIC OF IRAN)"

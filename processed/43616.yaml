@@ -1,0 +1,46 @@
+---
+uid: '43616'
+first_name: Un Jong
+last_name: CHOE
+sdn_type: Individual
+program_list:
+  programs:
+  - DPRK4
+aka_list:
+  items:
+  - uid: '67594'
+    type: a.k.a.
+    category: strong
+    last_name: CHOE
+    first_name: Unjong
+  - uid: '67595'
+    type: a.k.a.
+    category: strong
+    last_name: CH'OE
+    first_name: U'n-cho'ng
+address_list:
+  items:
+  - uid: '65030'
+    city: Beijing
+    country: China
+id_list:
+  items:
+  - uid: '33138'
+    id_type: Passport
+    id_number: '108410051'
+    id_country: Korea, North
+  - uid: '163141'
+    id_type: Gender
+    id_number: Female
+  - uid: '163143'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '163144'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+date_of_birth_list:
+  items:
+  - uid: '63140'
+    date_of_birth: 10 May 1978
+    main_entry: 'true'

@@ -1,0 +1,35 @@
+---
+uid: '51561'
+last_name: TAIMYRBURSERVIS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+address_list:
+  items:
+  - uid: '78575'
+    address1: Ul. Dalnyaya Zd. 4
+    city: Dudinka
+    postal_code: '647000'
+    country: Russia
+id_list:
+  items:
+  - uid: '44002'
+    id_type: Registration Number
+    id_number: '1177746882444'
+    id_country: Russia
+  - uid: '44003'
+    id_type: Tax ID No.
+    id_number: '7703432328'
+    id_country: Russia
+  - uid: '181242'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183502'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '181241'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

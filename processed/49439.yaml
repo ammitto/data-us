@@ -1,0 +1,33 @@
+---
+uid: '49439'
+last_name: LIMITED LIABILITY COMPANY KOULSTAR
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77111'
+    type: a.k.a.
+    category: weak
+    last_name: LLC COALSTAR
+address_list:
+  items:
+  - uid: '74544'
+    address1: Room 19, Floor 7, 6 Gasheka Street
+    city: Moscow
+    postal_code: '125047'
+    country: Russia
+id_list:
+  items:
+  - uid: '40746'
+    id_type: Registration Number
+    id_number: '5177746031623'
+    id_country: Russia
+  - uid: '40747'
+    id_type: Tax ID No.
+    id_number: '7704445577'
+    id_country: Russia
+  - uid: '172776'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

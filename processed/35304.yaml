@@ -1,0 +1,50 @@
+---
+uid: '35304'
+first_name: Yekaterina Sergeyevna
+last_name: IGNATOVA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '55537'
+    type: a.k.a.
+    category: strong
+    last_name: IGNATOVA
+    first_name: Yekaterina
+  - uid: '55538'
+    type: a.k.a.
+    category: strong
+    last_name: IGNATOVA
+    first_name: Ekaterina
+address_list:
+  items:
+  - uid: '53066'
+    address1: 10 Presnenskaya Naberezhnaya
+    city: Moscow
+    postal_code: '123112'
+    country: Russia
+id_list:
+  items:
+  - uid: '25015'
+    id_type: Tax ID No.
+    id_number: '771406273815'
+    id_country: Russia
+  - uid: '176702'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '147533'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '47530'
+    date_of_birth: 21 Mar 1968
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '47531'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'
+remarks: "(Linked To: CHEMEZOV, Sergei)"

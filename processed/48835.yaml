@@ -1,0 +1,46 @@
+---
+uid: '48835'
+last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTIU TEKHNOLOGICHESKIE SISTEMY
+  I SERVIS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76023'
+    type: a.k.a.
+    category: weak
+    last_name: OOO TSS
+  - uid: '76024'
+    type: a.k.a.
+    category: strong
+    last_name: TECHNOLOGICAL SYSTEMS AND SERVICE
+address_list:
+  items:
+  - uid: '73425'
+    address1: 19 Smoliachkova Ul
+    address2: Litera A
+    address3: Office 611
+    city: Saint Petersburg
+    postal_code: '194044'
+    country: Russia
+  - uid: '73426'
+    address1: 10 Avtomobilny Pr-d
+    address2: Str. 8
+    city: Moscow
+    postal_code: '109052'
+    country: Russia
+id_list:
+  items:
+  - uid: '39889'
+    id_type: Registration Number
+    id_number: '1147847392791'
+    id_country: Russia
+  - uid: '39890'
+    id_type: Tax ID No.
+    id_number: '7802876821'
+    id_country: Russia
+  - uid: '171514'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

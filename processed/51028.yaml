@@ -1,0 +1,57 @@
+---
+uid: '51028'
+first_name: Algoney Hamdan Daglo
+last_name: MUSA
+sdn_type: Individual
+program_list:
+  programs:
+  - SUDAN-EO14098
+aka_list:
+  items:
+  - uid: '79953'
+    type: a.k.a.
+    category: strong
+    last_name: DAGALO
+    first_name: Al-Qoni Hamdan
+  - uid: '79954'
+    type: a.k.a.
+    category: strong
+    last_name: DAGALO
+    first_name: Algoney Hamdan
+address_list:
+  items:
+  - uid: '77524'
+    city: Dubai
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '43068'
+    id_type: Passport
+    id_number: B00017334
+    id_country: Sudan
+  - uid: '43069'
+    id_type: Passport
+    id_number: B00024943
+    id_country: Sudan
+    expiration_date: 27 Sep 2031
+  - uid: '51227'
+    id_type: Passport
+    id_number: AK1586127
+    id_country: Kenya
+  - uid: '51228'
+    id_type: UAE Identification
+    id_number: '784199014302485'
+    id_country: United Arab Emirates
+  - uid: '179927'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '79928'
+    date_of_birth: 07 Aug 1990
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '79929'
+    place_of_birth: Nayala North, Sudan
+    main_entry: 'true'

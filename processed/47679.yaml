@@ -1,0 +1,47 @@
+---
+uid: '47679'
+first_name: Georgii Semenovich
+last_name: POGIBLOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74620'
+    type: a.k.a.
+    category: strong
+    last_name: POGIBLOV
+    first_name: Georgiy Semenovich
+address_list:
+  items:
+  - uid: '72165'
+    city: Novosibirsk
+    country: Russia
+id_list:
+  items:
+  - uid: '38297'
+    id_type: Tax ID No.
+    id_number: '540309234395'
+    id_country: Russia
+  - uid: '38945'
+    id_type: Passport
+    id_number: '752790751'
+    id_country: Russia
+    expiration_date: 04 Feb 2026
+  - uid: '169568'
+    id_type: Gender
+    id_number: Male
+  - uid: '169825'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '69144'
+    date_of_birth: 13 Nov 1968
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '69569'
+    place_of_birth: Novosibirsk, Russia
+    main_entry: 'true'

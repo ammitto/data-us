@@ -1,0 +1,49 @@
+---
+uid: '43068'
+last_name: JOINT STOCK COMPANY EXPERIMENTAL DESIGN BUREAU NAMED AFTER A.S. YAKOVLEV
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '66678'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY OKB NAMED AFTER A.S. YAKOVLEV
+  - uid: '66679'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT-STOCK COMPANY A.S. YAKOVLEV DESIGN BUREAU
+  - uid: '66680'
+    type: a.k.a.
+    category: strong
+    last_name: JSC A.S. YAKOVLEV DB
+  - uid: '66681'
+    type: a.k.a.
+    category: strong
+    last_name: OJSC OPYTNO-KONSTRUKTORSKOYE BYURO IM. A.S. YAKOVLEVA
+address_list:
+  items:
+  - uid: '64213'
+    address1: 68 Leningradsky Ave
+    city: Moscow
+    postal_code: '125315'
+    country: Russia
+id_list:
+  items:
+  - uid: '32639'
+    id_type: Tax ID No.
+    id_number: '7714039849'
+    id_country: Russia
+  - uid: '32640'
+    id_type: Registration Number
+    id_number: '1027739252298'
+    id_country: Russia
+  - uid: '175506'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '161981'
+    id_type: Organization Established Date
+    id_number: 31 Aug 1993
+remarks: "(Linked To: PUBLIC JOINT STOCK COMPANY YAKOVLEV)"

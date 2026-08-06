@@ -1,0 +1,53 @@
+---
+uid: '42323'
+last_name: ARTUAL GALLERY
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '65734'
+    type: a.k.a.
+    category: weak
+    last_name: THE ART GALLERY
+address_list:
+  items:
+  - uid: '63143'
+    address1: Eden Garden Building, Ground Floor
+    address2: Fawzi Al Daouk Street
+    city: Beirut
+    country: Lebanon
+  - uid: '63144'
+    address1: Wazir Building, 1st Floor
+    address2: Ahmad Soloh Street
+    address3: Jnah
+    city: Beirut
+    country: Lebanon
+  - uid: '63145'
+    address1: Property No. 3673, 1st Floor
+    address2: Ahmed Saleh Street
+    address3: Msaytbeh
+    city: Beirut
+    country: Lebanon
+id_list:
+  items:
+  - uid: '31823'
+    id_type: Registration Number
+    id_number: '3427220'
+    id_country: Lebanon
+  - uid: '31824'
+    id_type: Registration Number
+    id_number: '1024026'
+    id_country: Lebanon
+  - uid: '160665'
+    id_type: Organization Established Date
+    id_number: 20 Mar 2018
+  - uid: '160666'
+    id_type: Website
+    id_number: http://artual.co
+  - uid: '160667'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: "(Linked To: AHMAD, Hind Nazem)"

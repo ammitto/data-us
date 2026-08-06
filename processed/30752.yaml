@@ -1,0 +1,43 @@
+---
+uid: '30752'
+last_name: PASARGAD STEEL COMPLEX
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13871
+aka_list:
+  items:
+  - uid: '48372'
+    type: a.k.a.
+    category: weak
+    last_name: PASCO
+  - uid: '48373'
+    type: a.k.a.
+    category: strong
+    last_name: ZOBE AHAN PASARGAD INDUSTRY COMPLEX COMPANY
+  - uid: '48374'
+    type: a.k.a.
+    category: strong
+    last_name: PASARGAD STEEL ZOB INDUSTRIAL COMPLEX
+address_list:
+  items:
+  - uid: '46507'
+    address1: No. 3, Nasim Alley, Movahed Danesh St., Aghdasieh
+    city: Tehran
+    country: Iran
+  - uid: '46508'
+    address1: West Atefi Street 33, Africa Avenue
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '20833'
+    id_type: Registration Number
+    id_number: '218641'
+    id_country: Iran
+  - uid: '138670'
+    id_type: Website
+    id_number: www.pascosteel.com
+  - uid: '138669'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

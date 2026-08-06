@@ -1,0 +1,35 @@
+---
+uid: '50773'
+last_name: LIMITED LIABILITY COMPANY PTERO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '77036'
+    address1: B-R Ramenskii, D. 1
+    city: Moscow
+    postal_code: '119607'
+    country: Russia
+  - uid: '77037'
+    address1: Vernadskogo Ave. 12D
+    city: Moscow
+    postal_code: '119415'
+    country: Russia
+id_list:
+  items:
+  - uid: '42673'
+    id_type: Registration Number
+    id_number: '1177746381086'
+    id_country: Russia
+  - uid: '42674'
+    id_type: Tax ID No.
+    id_number: '7714989706'
+    id_country: Russia
+  - uid: '179410'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '179409'
+    id_type: Organization Established Date
+    id_number: 13 Apr 2017

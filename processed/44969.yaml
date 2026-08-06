@@ -1,0 +1,54 @@
+---
+uid: '44969'
+last_name: AKTSIONERNOE OBSHCHESTVO BASHVZRYVTEKHNOLOGII
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69594'
+    type: a.k.a.
+    category: strong
+    last_name: BASHVZRYVTECHNOLOGII JSC
+  - uid: '69595'
+    type: a.k.a.
+    category: weak
+    last_name: JSC BVT
+  - uid: '69596'
+    type: a.k.a.
+    category: weak
+    last_name: BVT AO
+address_list:
+  items:
+  - uid: '66917'
+    address1: Ul. Rabochaya D. 42
+    city: Samara
+    postal_code: '443041'
+    country: Russia
+  - uid: '66918'
+    address1: Ul. Rostovskaya D. 18
+    city: Ufa
+    state_or_province: Republic of Bashkortostan
+    postal_code: '450071'
+    country: Russia
+id_list:
+  items:
+  - uid: '34599'
+    id_type: Registration Number
+    id_number: '1030204205382'
+    id_country: Russia
+  - uid: '34600'
+    id_type: Government Gazette Number
+    id_number: '52989204'
+    id_country: Russia
+  - uid: '34601'
+    id_type: Tax ID No.
+    id_number: '0276061770'
+    id_country: Russia
+  - uid: '165303'
+    id_type: Organization Established Date
+    id_number: 10 Nov 2000
+  - uid: '175853'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

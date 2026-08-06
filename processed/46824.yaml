@@ -1,0 +1,44 @@
+---
+uid: '46824'
+last_name: LIMITED LIABILITY COMPANY YUNA ENGINEERING
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '72335'
+    type: a.k.a.
+    category: strong
+    last_name: YUNA ENGINEERING LLC
+  - uid: '72369'
+    type: a.k.a.
+    category: strong
+    last_name: YUNA INZHINIRING
+address_list:
+  items:
+  - uid: '69788'
+    address1: 12 Academic Ilyushin Str.
+    city: Moscow
+    postal_code: '123290'
+    country: Russia
+  - uid: '69789'
+    address1: d. 16 pom. 628 Fryazino
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '36910'
+    id_type: Tax ID No.
+    id_number: '7714494904'
+    id_country: Russia
+  - uid: '36911'
+    id_type: Government Gazette Number
+    id_number: '57792038'
+    id_country: Russia
+  - uid: '176320'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '167655'
+    id_type: Organization Established Date
+    id_number: 24 Oct 2022

@@ -1,0 +1,50 @@
+---
+uid: '9395'
+first_name: Marisela
+last_name: CARRERA YLLADES
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '8845'
+    type: a.k.a.
+    category: strong
+    last_name: CARRERA ILLADES
+    first_name: Marisela
+address_list:
+  items:
+  - uid: '11670'
+    address1: c/o CAMBIOS PALMILLA S.A. DE C.V.
+    city: Hidalgo del Parral
+    country: Mexico
+  - uid: '11671'
+    address1: Calle Decima No. 14
+    city: Hidalgo del Parral
+    state_or_province: Chihuahua
+    country: Mexico
+id_list:
+  items:
+  - uid: '4049'
+    id_type: R.F.C.
+    id_number: CATM-680202-T88
+    id_country: Mexico
+  - uid: '4050'
+    id_type: C.U.R.P.
+    id_number: CAYM680202MCHRLR06
+    id_country: Mexico
+  - uid: '4051'
+    id_type: C.U.R.P.
+    id_number: CAIM680202MCHRLR08
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '4359'
+    date_of_birth: 02 Feb 1968
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '4360'
+    place_of_birth: Hidalgo del Parral, Chihuahua, Mexico
+    main_entry: 'true'

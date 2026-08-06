@@ -1,0 +1,42 @@
+---
+uid: '50014'
+last_name: LIMITED LIABILITY COMPANY COMPANY SCAN
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '75675'
+    address1: UL Zoi I Aleksandra Kosmodemyanskikh, D. 26/21
+    address2: Str. 1
+    address3: Pom. 1/4
+    city: Moscow,
+    postal_code: '125130'
+    country: Russia
+  - uid: '75676'
+    address1: Leningradskoe sh., d. 4
+    address2: corp. 1
+    address3: 1 et., pom. III
+    city: Moscow
+    postal_code: '125080'
+    country: Russia
+id_list:
+  items:
+  - uid: '41567'
+    id_type: Tax ID No.
+    id_number: '7734668980'
+    id_country: Russia
+  - uid: '41568'
+    id_type: Registration Number
+    id_number: '1117746953400'
+    id_country: Russia
+  - uid: '178692'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '177496'
+    id_type: Website
+    id_number: comscan.ru
+  - uid: '177497'
+    id_type: Organization Established Date
+    id_number: 24 Nov 2011

@@ -1,0 +1,41 @@
+---
+uid: '9978'
+first_name: Miguel Angel
+last_name: URIBE URIBE
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '13067'
+    address1: Calle Nevado de Toluca 845
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '13068'
+    address1: c/o INMOBILIARIA LA PROVINCIA S.A. DE C.V.
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '13069'
+    address1: c/o INMOBILIARIA ESTADO 29 S.A. DE C.V.
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+id_list:
+  items:
+  - uid: '4531'
+    id_type: C.U.R.P.
+    id_number: UIUM570802HBCRRG08
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '5041'
+    date_of_birth: 02 Aug 1957
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '5042'
+    place_of_birth: Tijuana, Baja California, Mexico
+    main_entry: 'true'

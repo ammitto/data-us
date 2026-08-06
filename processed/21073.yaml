@@ -1,0 +1,53 @@
+---
+uid: '21073'
+last_name: CAMELIAS BAR, S.A. DE C.V.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '33429'
+    type: a.k.a.
+    category: strong
+    last_name: CAMELIAS BAR
+  - uid: '33430'
+    type: a.k.a.
+    category: weak
+    last_name: LA CAMELIA
+  - uid: '33431'
+    type: a.k.a.
+    category: strong
+    last_name: LA CAMELIA RESTAURANTE & CANTINA
+  - uid: '33432'
+    type: a.k.a.
+    category: strong
+    last_name: RESTAURANTE BAR LA CAMELIA
+address_list:
+  items:
+  - uid: '32023'
+    city: Guadalajara
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '32024'
+    address1: Av. Chapalita 50
+    city: Guadalajara
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '32025'
+    address1: Lazaro Cardenas 2729 y Arboledas
+    city: Guadalajara
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '32026'
+    address1: Mariano Otero 1499
+    address2: Col. Verde Valle
+    city: Guadalajara
+    state_or_province: Jalisco
+    country: Mexico
+id_list:
+  items:
+  - uid: '13181'
+    id_type: Folio Mercantil No.
+    id_number: 26075 (Jalisco)
+    id_country: Mexico

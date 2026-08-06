@@ -1,0 +1,45 @@
+---
+uid: '15036'
+last_name: ARTAVIL
+sdn_type: Vessel
+program_list:
+  programs:
+  - IRAN
+aka_list:
+  items:
+  - uid: '22153'
+    type: f.k.a.
+    category: strong
+    last_name: ABADAN
+  - uid: '23827'
+    type: f.k.a.
+    category: weak
+    last_name: ALPHA
+  - uid: '40680'
+    type: f.k.a.
+    category: strong
+    last_name: SHONA
+id_list:
+  items:
+  - uid: '8045'
+    id_type: Vessel Registration Identification
+    id_number: IMO 9187629
+  - uid: '8114'
+    id_type: MMSI
+    id_number: '572469210'
+  - uid: '111445'
+    id_type: Former Vessel Flag
+    id_number: Malta
+  - uid: '112992'
+    id_type: Former Vessel Flag
+    id_number: Tuvalu
+  - uid: '113470'
+    id_type: Former Vessel Flag
+    id_number: None Identified
+  - uid: '129996'
+    id_type: Former Vessel Flag
+    id_number: Tanzania
+  - uid: '119227'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: NATIONAL IRANIAN TANKER COMPANY)"

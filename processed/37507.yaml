@@ -1,0 +1,42 @@
+---
+uid: '37507'
+first_name: God Semenovich
+last_name: NISANOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '56113'
+    address1: Noviy Arbat
+    address2: 31, 12-130
+    city: Moscow
+    postal_code: '121099'
+    country: Russia
+id_list:
+  items:
+  - uid: '26709'
+    id_type: Passport
+    id_number: K00412210
+    id_country: Cyprus
+  - uid: '26710'
+    id_type: Tax ID No.
+    id_number: '772374165781'
+    id_country: Russia
+  - uid: '173424'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '152384'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '52382'
+    date_of_birth: 24 Apr 1972
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '52383'
+    place_of_birth: Krasnaya Sloboda, Azerbaijan
+    main_entry: 'true'

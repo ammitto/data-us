@@ -1,0 +1,54 @@
+---
+uid: '38166'
+first_name: Natalya Valeryevna
+last_name: POPOVA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59894'
+    type: a.k.a.
+    category: strong
+    last_name: POPOVA
+    first_name: Natalia Valerevna
+address_list:
+  items:
+  - uid: '57186'
+    address1: Bolshaya Dorogomilovskaya Str., 10-50
+    city: Moscow
+    postal_code: '121059'
+    country: Russia
+id_list:
+  items:
+  - uid: '27455'
+    id_type: Passport
+    id_number: '753835603'
+    id_country: Russia
+    issue_date: 20 Oct 2016
+    expiration_date: 20 Oct 2026
+  - uid: '27456'
+    id_type: National ID No.
+    id_number: '4516843328'
+    id_country: Russia
+  - uid: '174646'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '153434'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '53436'
+    date_of_birth: 28 Jul 1981
+    main_entry: 'true'
+  - uid: '53437'
+    date_of_birth: 03 Sep 1984
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '53435'
+    place_of_birth: Dedovsk, Russia
+    main_entry: 'true'
+remarks: "(Linked To: LLC VEB VENTURES; Linked To: DMITRIEV, Kirill Aleksandrovich)"

@@ -1,0 +1,36 @@
+---
+uid: '51792'
+last_name: AKTSIONERNOE OBSHCHESTVO BANK AGROROS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '78927'
+    address1: Ul. Chernyshevskogo, 90
+    city: Saratov
+    postal_code: '410017'
+    country: Russia
+id_list:
+  items:
+  - uid: '44433'
+    id_type: Registration Number
+    id_number: '1026400001770'
+    id_country: Russia
+  - uid: '44434'
+    id_type: Tax ID No.
+    id_number: '6453033870'
+    id_country: Russia
+  - uid: '182039'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '182038'
+    id_type: SWIFT/BIC
+    id_number: AGZARUM1
+  - uid: '182036'
+    id_type: Website
+    id_number: www.agroros.ru
+  - uid: '182040'
+    id_type: Target Type
+    id_number: Financial Institution

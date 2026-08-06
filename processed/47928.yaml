@@ -1,0 +1,46 @@
+---
+uid: '47928'
+first_name: Yevgeniy Olegovich
+last_name: CHERNET
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74362'
+    type: a.k.a.
+    category: strong
+    last_name: CHERNET
+    first_name: Evgueni
+  - uid: '74365'
+    type: a.k.a.
+    category: strong
+    last_name: CHERNET
+    first_name: Evgeni Olegovich
+  - uid: '74366'
+    type: a.k.a.
+    category: strong
+    last_name: CHERNET
+    first_name: Evgeny
+address_list:
+  items:
+  - uid: '71771'
+    country: Russia
+id_list:
+  items:
+  - uid: '38731'
+    id_type: Tax ID No.
+    id_number: '774336539380'
+    id_country: Russia
+  - uid: '169468'
+    id_type: Gender
+    id_number: Male
+  - uid: '169681'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '69466'
+    date_of_birth: 18 Nov 1946
+    main_entry: 'true'

@@ -1,0 +1,34 @@
+---
+uid: '44847'
+last_name: GLOBALTRANS LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69349'
+    type: a.k.a.
+    category: weak
+    last_name: GT LTD
+address_list:
+  items:
+  - uid: '66725'
+    address1: Ul. Respublikanskaya D. 24
+    address2: K. 1 Str. 1, Pomeshch. 22-N, Office 2
+    city: Saint Petersburg
+    postal_code: '195112'
+    country: Russia
+id_list:
+  items:
+  - uid: '34431'
+    id_type: Registration Number
+    id_number: '1217800018204'
+    id_country: Russia
+  - uid: '34432'
+    id_type: Tax ID No.
+    id_number: '7806582269'
+    id_country: Russia
+  - uid: '173809'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,44 @@
+---
+uid: '16268'
+first_name: Sergey Yevgeniyevich
+last_name: MOSKALENKO
+sdn_type: Individual
+program_list:
+  programs:
+  - TCO
+aka_list:
+  items:
+  - uid: '24502'
+    type: a.k.a.
+    category: strong
+    last_name: MOSKALENKO
+    first_name: Sergei Yevgeniyevich
+address_list:
+  items:
+  - uid: '24567'
+    address1: Haldenstrasse 26
+    city: Lucerne
+    country: Switzerland
+id_list:
+  items:
+  - uid: '8908'
+    id_type: Passport
+    id_number: CA1702697
+    id_country: Uzbekistan
+  - uid: '8909'
+    id_type: Passport
+    id_number: CA1938292
+    id_country: Uzbekistan
+date_of_birth_list:
+  items:
+  - uid: '14622'
+    date_of_birth: '08 Nov 1951'
+    main_entry: 'true'
+  - uid: '14623'
+    date_of_birth: '08 Nov 1961'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '14624'
+    place_of_birth: Surkhandaria Region, Uzbekistan
+    main_entry: 'true'

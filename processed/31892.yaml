@@ -1,0 +1,37 @@
+---
+uid: '31892'
+first_name: Edwin Ramon
+last_name: CASTRO RIVERA
+sdn_type: Individual
+program_list:
+  programs:
+  - NICARAGUA
+address_list:
+  items:
+  - uid: '48443'
+    country: Nicaragua
+id_list:
+  items:
+  - uid: '21693'
+    id_type: Passport
+    id_number: A0008826
+    id_country: Nicaragua
+    issue_date: 02 Feb 2012
+    expiration_date: 02 Feb 2022
+  - uid: '21694'
+    id_type: National ID No.
+    id_number: 2810501570012H
+    id_country: Nicaragua
+  - uid: '140462'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '40460'
+    date_of_birth: 05 Jan 1957
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '40461'
+    place_of_birth: Leon, Nicaragua
+    main_entry: 'true'

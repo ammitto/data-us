@@ -1,0 +1,38 @@
+---
+uid: '51606'
+last_name: VETERAN
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+address_list:
+  items:
+  - uid: '78638'
+    address1: ul. Magistralnaya d. 7
+    city: Buzuluk
+    postal_code: '461040'
+    country: Russia
+id_list:
+  items:
+  - uid: '44089'
+    id_type: Registration Number
+    id_number: '1025600575626'
+    id_country: Russia
+  - uid: '44090'
+    id_type: Tax ID No.
+    id_number: '5603007580'
+    id_country: Russia
+  - uid: '181390'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183514'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '181391'
+    id_type: Organization Established Date
+    id_number: 06 Sep 1993
+  - uid: '181392'
+    id_type: 'Organization Type:'
+    id_number: Support activities for petroleum and natural gas extraction

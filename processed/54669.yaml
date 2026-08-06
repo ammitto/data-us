@@ -1,0 +1,47 @@
+---
+uid: '54669'
+first_name: Jorge Luis
+last_name: FAVELA LOPEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+address_list:
+  items:
+  - uid: '83491'
+    city: Cerro Agudo
+    state_or_province: Sinaloa
+    country: Mexico
+id_list:
+  items:
+  - uid: '48358'
+    id_type: R.F.C.
+    id_number: FALJ630423PE2
+    id_country: Mexico
+  - uid: '48359'
+    id_type: R.F.C.
+    id_number: FALJ630423PEZ
+    id_country: Mexico
+  - uid: '48360'
+    id_type: C.U.R.P.
+    id_number: FALJ630423HSLVPR02
+    id_country: Mexico
+  - uid: '190909'
+    id_type: Gender
+    id_number: Male
+  - uid: '193924'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '90906'
+    date_of_birth: 23 Apr 1963
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '90907'
+    place_of_birth: Sinaloa, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: SINALOA CARTEL)"

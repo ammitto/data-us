@@ -1,0 +1,76 @@
+---
+uid: '18784'
+last_name: JOINT STOCK COMMERCIAL BANK NOVIKOMBANK
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13662
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '29586'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNY KOMMERCHESKI BANK NOVIKOMBANK AKTSIONERNOE OBSHCHESTVO
+  - uid: '29587'
+    type: a.k.a.
+    category: strong
+    last_name: AO AKB NOVIKOMBANK
+  - uid: '54935'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMMERCIAL BANK NOVIKOMBANK JOINT STOCK COMPANY
+  - uid: '54936'
+    type: a.k.a.
+    category: strong
+    last_name: NOVIKOMBANK JCSB
+  - uid: '54938'
+    type: f.k.a.
+    category: strong
+    last_name: NOVIKOMBANK AO
+address_list:
+  items:
+  - uid: '52481'
+    address1: bld.1,Polyanka Bolshaya str. 50/1
+    city: Moscow
+    postal_code: '119180'
+    country: Russia
+id_list:
+  items:
+  - uid: '11062'
+    id_type: Registration ID
+    id_number: '1027739075891'
+    id_country: Russia
+  - uid: '11063'
+    id_type: Government Gazette Number
+    id_number: '17541272'
+    id_country: Russia
+  - uid: '11064'
+    id_type: Tax ID No.
+    id_number: '7706196340'
+    id_country: Russia
+  - uid: '118273'
+    id_type: BIK (RU)
+    id_number: '044583162'
+  - uid: '118271'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 3
+  - uid: '151159'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '173911'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '146545'
+    id_type: Organization Established Date
+    id_number: '1993'
+  - uid: '118272'
+    id_type: SWIFT/BIC
+    id_number: CNOVRUMM
+  - uid: '118270'
+    id_type: Website
+    id_number: http://www.novikom.ru
+remarks: 'All offices worldwide. For more information on directives, please visit
+  the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: STATE CORPORATION ROSTEC)'

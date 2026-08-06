@@ -1,0 +1,36 @@
+---
+uid: '54542'
+last_name: ATLANTIS MZ
+sdn_type: Vessel
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '84853'
+    type: a.k.a.
+    category: strong
+    last_name: TOMIE
+  - uid: '84854'
+    type: a.k.a.
+    category: strong
+    last_name: CAILI STAR
+id_list:
+  items:
+  - uid: '48167'
+    id_type: MMSI
+    id_number: '620800003'
+  - uid: '48168'
+    id_type: Vessel Registration Identification
+    id_number: IMO 9218181
+  - uid: '190605'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '190655'
+    id_type: Vessel Year of Build
+    id_number: '2000'
+  - uid: '190669'
+    id_type: Former Vessel Flag
+    id_number: Comoros
+remarks: "(Linked To: ATLANTIS M. SHIPPING CO)"

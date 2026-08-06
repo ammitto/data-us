@@ -1,0 +1,29 @@
+---
+uid: '51326'
+first_name: Aleksandr Sergeyevich
+last_name: USHKO
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '78143'
+    country: Russia
+id_list:
+  items:
+  - uid: '43585'
+    id_type: Passport
+    id_number: '550403152'
+    id_country: Russia
+  - uid: '180620'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '180622'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '80621'
+    date_of_birth: 15 Jan 1991
+    main_entry: 'true'

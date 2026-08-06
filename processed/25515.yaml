@@ -1,0 +1,25 @@
+---
+uid: '25515'
+last_name: EP-CFI
+sdn_type: Aircraft
+program_list:
+  programs:
+  - IRAN
+id_list:
+  items:
+  - uid: '129202'
+    id_type: Aircraft Manufacture Date
+    id_number: 22 Jan 1996
+  - uid: '129204'
+    id_type: Aircraft Model
+    id_number: F28
+  - uid: '129205'
+    id_type: Aircraft Operator
+    id_number: Iran Air
+  - uid: '129203'
+    id_type: Aircraft Manufacturer's Serial Number (MSN)
+    id_number: '11511'
+  - uid: '129451'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: IRAN AIR)"

@@ -1,0 +1,41 @@
+---
+uid: '36329'
+last_name: TSARGRAD-KULTURA OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '57188'
+    type: a.k.a.
+    category: strong
+    last_name: TSARGRAD-CULTURE LLC
+address_list:
+  items:
+  - uid: '54550'
+    address1: per. Partiinyi d. 1
+    address2: k. 57 str. 3, floor 1, pom/komn I/16
+    city: Moscow
+    postal_code: '115093'
+    country: Russia
+id_list:
+  items:
+  - uid: '25722'
+    id_type: Registration Number
+    id_number: '1217700417550'
+    id_country: Russia
+  - uid: '25723'
+    id_type: Tax ID No.
+    id_number: '9725058950'
+    id_country: Russia
+  - uid: '174001'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '149920'
+    id_type: Organization Established Date
+    id_number: 07 Sep 2021
+  - uid: '150205'
+    id_type: 'Organization Type:'
+    id_number: Other amusement and recreation activities
+remarks: "(Linked To: TSARGRAD-MEDIA OOO)"

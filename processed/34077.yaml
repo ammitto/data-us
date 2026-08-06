@@ -1,0 +1,34 @@
+---
+uid: '34077'
+first_name: Mohammad Jahangir
+last_name: ALAM
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+address_list:
+  items:
+  - uid: '51324'
+    country: Bangladesh
+id_list:
+  items:
+  - uid: '23719'
+    id_type: Passport
+    id_number: BG0011847
+    id_country: Bangladesh
+    issue_date: 25 Aug 2019
+    expiration_date: 24 Aug 2024
+  - uid: '145133'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '45129'
+    date_of_birth: 19 Oct 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '45130'
+    place_of_birth: Dinajpur, Bangladesh
+    main_entry: 'true'
+remarks: "(Linked To: RAPID ACTION BATTALION)"

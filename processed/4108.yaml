@@ -1,0 +1,70 @@
+---
+uid: '4108'
+first_name: Miguel Angel
+last_name: RODRIGUEZ OREJUELA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNT
+aka_list:
+  items:
+  - uid: '7783'
+    type: a.k.a.
+    category: weak
+    last_name: EL SENOR
+  - uid: '7784'
+    type: a.k.a.
+    category: weak
+    last_name: PATRICIA
+  - uid: '7785'
+    type: a.k.a.
+    category: weak
+    last_name: PATRICIO
+  - uid: '7786'
+    type: a.k.a.
+    category: weak
+    last_name: PATTY
+  - uid: '7787'
+    type: a.k.a.
+    category: weak
+    last_name: PAT
+  - uid: '7788'
+    type: a.k.a.
+    category: weak
+    last_name: MANUEL
+  - uid: '7789'
+    type: a.k.a.
+    category: weak
+    last_name: MANOLO
+  - uid: '7790'
+    type: a.k.a.
+    category: weak
+    last_name: MIKE
+  - uid: '7791'
+    type: a.k.a.
+    category: weak
+    last_name: MAURO
+  - uid: '7792'
+    type: a.k.a.
+    category: weak
+    last_name: DOCTOR M.R.O.
+address_list:
+  items:
+  - uid: '2008'
+    address1: Casa No. 19, Avenida Lago, Ciudad Jardin
+    city: Cali
+    country: Colombia
+id_list:
+  items:
+  - uid: '1017'
+    id_type: Cedula No.
+    id_number: '6095803'
+    id_country: Colombia
+date_of_birth_list:
+  items:
+  - uid: '1034'
+    date_of_birth: 23 Nov 1943
+    main_entry: 'true'
+  - uid: '1035'
+    date_of_birth: 15 Jul 1943
+    main_entry: 'false'

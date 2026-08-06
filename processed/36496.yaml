@@ -1,0 +1,80 @@
+---
+uid: '36496'
+last_name: PUBLIC JOINT STOCK COMPANY ROSBANK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '60028'
+    type: a.k.a.
+    category: strong
+    last_name: ROSBANK PJSC
+  - uid: '60029'
+    type: f.k.a.
+    category: strong
+    last_name: AKB ROSBANK PAO
+  - uid: '60030'
+    type: f.k.a.
+    category: strong
+    last_name: AKB ROSBANK OAO
+  - uid: '60031'
+    type: f.k.a.
+    category: strong
+    last_name: JOINT STOCK COMMERCIAL BANK ROSBANK
+  - uid: '60032'
+    type: f.k.a.
+    category: strong
+    last_name: COMMERCIAL BANK NEZAVISIMOST
+address_list:
+  items:
+  - uid: '57286'
+    address1: 34 Mashy Poryvaevoy Street
+    city: Moscow
+    postal_code: '107078'
+    country: Russia
+  - uid: '57287'
+    address1: PO Box 208
+    city: Moscow
+    postal_code: '107078'
+    country: Russia
+id_list:
+  items:
+  - uid: '27539'
+    id_type: Registration Number
+    id_number: '1027739460737'
+    id_country: Russia
+  - uid: '27540'
+    id_type: Tax ID No.
+    id_number: '7730060164'
+    id_country: Russia
+  - uid: '27541'
+    id_type: Legal Entity Number
+    id_number: HOXMZG026UQNRK6J0C60
+  - uid: '153541'
+    id_type: Equity Ticker
+    id_number: ROSB
+  - uid: '153540'
+    id_type: ISIN
+    id_number: RU000A0HHK26
+  - uid: '153539'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '153537'
+    id_type: SWIFT/BIC
+    id_number: RSBNRUMM
+  - uid: '153538'
+    id_type: Website
+    id_number: https://www.rosbank.ru/
+  - uid: '174237'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184259'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '153536'
+    id_type: Organization Established Date
+    id_number: 02 Mar 1993

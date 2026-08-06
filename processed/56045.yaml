@@ -1,0 +1,36 @@
+---
+uid: '56045'
+first_name: Yong Su
+last_name: U
+sdn_type: Individual
+program_list:
+  programs:
+  - DPRK4
+address_list:
+  items:
+  - uid: '85836'
+    city: Dandong
+    country: China
+id_list:
+  items:
+  - uid: '50232'
+    id_type: Passport
+    id_number: '481231176'
+    id_country: Korea, North
+    expiration_date: 17 May 2026
+  - uid: '194200'
+    id_type: Gender
+    id_number: Male
+  - uid: '194203'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '194204'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+date_of_birth_list:
+  items:
+  - uid: '94201'
+    date_of_birth: 19 Jun 1971
+    main_entry: 'true'
+remarks: "(Linked To: KOREA MANGYONGDAE COMPUTER TECHNOLOGY CORPORATION)"

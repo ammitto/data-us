@@ -1,0 +1,58 @@
+---
+uid: '18708'
+last_name: LIMITED LIABILITY COMPANY SBERBANK INVESTMENTS
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13662
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '29285'
+    type: a.k.a.
+    category: strong
+    last_name: SBERBANK INVESTMENTS LLC
+  - uid: '29286'
+    type: a.k.a.
+    category: strong
+    last_name: SBERBANK INVESTMENTS OOO
+address_list:
+  items:
+  - uid: '28410'
+    address1: 46 Molodezhnaya St.
+    city: Odintsovo
+    state_or_province: Moscow Region
+    postal_code: '143002'
+    country: Russia
+id_list:
+  items:
+  - uid: '24693'
+    id_type: Registration Number
+    id_number: '1105032007761'
+    id_country: Russia
+  - uid: '24694'
+    id_type: Tax ID No.
+    id_number: '5039441'
+    id_country: Russia
+  - uid: '173877'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '151186'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '118414'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 1
+  - uid: '146736'
+    id_type: Executive Order 14024 Directive Information -
+    id_number: 'For more information on directives, please visit the following link:
+      https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives'
+  - uid: '146869'
+    id_type: 'Listing Date (EO 14024 Directive 2):'
+    id_number: 24 Feb 2022
+  - uid: '146870'
+    id_type: 'Effective Date (EO 14024 Directive 2):'
+    id_number: 26 Mar 2022
+remarks: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)'

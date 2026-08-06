@@ -1,0 +1,33 @@
+---
+uid: '50568'
+first_name: Anton Sergeevich
+last_name: ANISIMOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '76685'
+    address1: Garibaldi St., 3
+    city: Moscow
+    postal_code: '119313'
+    country: Russia
+id_list:
+  items:
+  - uid: '178798'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '178787'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '78785'
+    date_of_birth: 19 Feb 1985
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '78786'
+    place_of_birth: Syktyvkar, Komi Republic, Russia
+    main_entry: 'true'

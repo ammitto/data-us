@@ -1,0 +1,31 @@
+---
+uid: '44097'
+first_name: Pavel Yurevich
+last_name: SOROKIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '65630'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '175769'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '163669'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '63671'
+    date_of_birth: 01 Aug 1985
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '64148'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'

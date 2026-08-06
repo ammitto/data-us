@@ -1,0 +1,48 @@
+---
+uid: '50673'
+first_name: Ali Malek
+last_name: SHAHKOUI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+  - IRGC
+aka_list:
+  items:
+  - uid: '79282'
+    type: a.k.a.
+    category: strong
+    last_name: SHAHKOUEI
+    first_name: Ali Jomeh Malak
+  - uid: '79323'
+    type: a.k.a.
+    category: strong
+    last_name: SHAHKU'I
+    first_name: Ali Malek
+address_list:
+  items:
+  - uid: '76834'
+    country: Iran
+id_list:
+  items:
+  - uid: '42532'
+    id_type: National ID No.
+    id_number: '2122857447'
+    id_country: Iran
+  - uid: '179290'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '179127'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '79239'
+    date_of_birth: '09 Aug 1987'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '79240'
+    place_of_birth: Gorgan, Iran
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS)"

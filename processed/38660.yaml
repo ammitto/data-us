@@ -1,0 +1,39 @@
+---
+uid: '38660'
+last_name: TACO LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '60459'
+    type: a.k.a.
+    category: strong
+    last_name: TAKO LLC
+address_list:
+  items:
+  - uid: '57713'
+    address1: Garegin Nzhdeh Str.
+    address2: Unit 17
+    address3: Shengavit
+    city: Yerevan
+    postal_code: '0026'
+    country: Armenia
+id_list:
+  items:
+  - uid: '27936'
+    id_type: Registration Number
+    id_number: 269.110.1228684
+    id_country: Armenia
+  - uid: '27937'
+    id_type: Tax ID No.
+    id_number: '02298191'
+    id_country: Armenia
+  - uid: '154171'
+    id_type: 'Organization Type:'
+    id_number: Wholesale of electronic and telecommunications equipment and parts
+  - uid: '174696'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: RADIOAVTOMATIKA LLC)"

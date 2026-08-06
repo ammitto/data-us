@@ -1,0 +1,33 @@
+---
+uid: '35966'
+first_name: Mikhail Lvovich
+last_name: KUCHMENT
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '53967'
+    address1: Demiana Bednogo Street, 23
+    address2: block 1, flat 40
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '25318'
+    id_type: Passport
+    id_number: '756767859'
+    id_country: Russia
+  - uid: '149172'
+    id_type: Gender
+    id_number: Male
+  - uid: '173313'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '49171'
+    date_of_birth: 28 Aug 1973
+    main_entry: 'true'
+remarks: "(Linked To: SOVCOMBANK OPEN JOINT STOCK COMPANY)"

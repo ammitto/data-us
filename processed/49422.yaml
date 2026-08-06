@@ -1,0 +1,37 @@
+---
+uid: '49422'
+first_name: Olga Vladimirovna
+last_name: VOLKOVA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77088'
+    type: a.k.a.
+    category: strong
+    last_name: VOLKOVA
+    first_name: Olha Volodymyrivna
+address_list:
+  items:
+  - uid: '74513'
+    state_or_province: Donetsk
+    country: Ukraine
+id_list:
+  items:
+  - uid: '40716'
+    id_type: Tax ID No.
+    id_number: '2731019589'
+    id_country: Ukraine
+  - uid: '172502'
+    id_type: Gender
+    id_number: Female
+  - uid: '172758'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '72501'
+    date_of_birth: '09 Oct 1974'
+    main_entry: 'true'

@@ -1,0 +1,40 @@
+---
+uid: '35011'
+last_name: LLC NM-TEKH
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '55089'
+    type: a.k.a.
+    category: strong
+    last_name: NM-TEKH
+address_list:
+  items:
+  - uid: '52572'
+    address1: pr-kt Georgievskii d. 7
+    city: Zelenograd
+    postal_code: '124498'
+    country: Russia
+  - uid: '52573'
+    address1: al. Solnechnaya d. 6, floor 1 pom. xii office 4, 4a
+    city: Zelenograd
+    postal_code: '124527'
+    country: Russia
+id_list:
+  items:
+  - uid: '24733'
+    id_type: Registration Number
+    id_number: '1197746306790'
+    id_country: Russia
+  - uid: '24734'
+    id_type: Tax ID No.
+    id_number: '7735183410'
+    id_country: Russia
+  - uid: '175231'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: STATE CORPORATION BANK FOR DEVELOPMENT AND FOREIGN ECONOMIC
+  AFFAIRS VNESHECONOMBANK)"

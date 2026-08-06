@@ -1,0 +1,41 @@
+---
+uid: '35340'
+last_name: NIZHNIY NOVGOROD SOKOL AIRCRAFT MANUFACTURING PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '55643'
+    type: a.k.a.
+    category: strong
+    last_name: NIZHNIY NOVGOROD AVIATION PLANT SOKOL
+  - uid: '55645'
+    type: a.k.a.
+    category: strong
+    last_name: NAZ SOKOL
+  - uid: '55646'
+    type: a.k.a.
+    category: strong
+    last_name: SOKOL AIRCRAFT PLANT
+  - uid: '55647'
+    type: a.k.a.
+    category: strong
+    last_name: PJSC NAZ SOKOL
+address_list:
+  items:
+  - uid: '53147'
+    address1: 1 Chaadaev St.
+    city: Nizhny Novgorod
+    postal_code: '603035'
+    country: Russia
+id_list:
+  items:
+  - uid: '25050'
+    id_type: Tax ID No.
+    id_number: '5259008341'
+    id_country: Russia
+  - uid: '176729'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

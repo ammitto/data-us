@@ -1,0 +1,46 @@
+---
+uid: '51544'
+last_name: RN-GRP LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+address_list:
+  items:
+  - uid: '78547'
+    address1: Yuzhnaya Promzona
+    address2: VTK
+    city: Raduzhny
+    postal_code: '628460'
+    country: Russia
+  - uid: '78548'
+    address1: Per. Chapaevskii D. 14
+    address2: Et 1 Pom.II
+    address3: Kom 46
+    city: Moscow
+    postal_code: '125252'
+    country: Russia
+id_list:
+  items:
+  - uid: '43970'
+    id_type: Registration Number
+    id_number: '1028601465111'
+    id_country: Russia
+  - uid: '43971'
+    id_type: Tax ID No.
+    id_number: '8609016058'
+    id_country: Russia
+  - uid: '181203'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183498'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '183019'
+    id_type: Organization Established Date
+    id_number: 20 Aug 2015
+  - uid: '183018'
+    id_type: Website
+    id_number: https://ooorngrp.rosneft.com/

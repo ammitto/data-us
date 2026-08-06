@@ -1,0 +1,42 @@
+---
+uid: '42436'
+first_name: Brayan Moises
+last_name: LUQUIN RODRIGUEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '63304'
+    address1: Calle Mezquitan 194
+    address2: Barrio Santa Maria
+    city: Puerto Vallarta
+    state_or_province: Jalisco
+    postal_code: '48325'
+    country: Mexico
+  - uid: '63305'
+    address1: Las Palmas 35
+    address2: Colonia Nuevo Vallarta
+    city: Jarretaderas
+    state_or_province: Nayarit
+    country: Mexico
+id_list:
+  items:
+  - uid: '32016'
+    id_type: C.U.R.P.
+    id_number: LURB921106HJCQDR01
+    id_country: Mexico
+  - uid: '160908'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '60907'
+    date_of_birth: 06 Nov 1992
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '60910'
+    place_of_birth: Jalisco, Mexico
+    main_entry: 'true'

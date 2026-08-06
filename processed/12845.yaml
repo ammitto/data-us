@@ -1,0 +1,58 @@
+---
+uid: '12845'
+first_name: Muhammad
+last_name: HAMSHO
+sdn_type: Individual
+program_list:
+  programs:
+  - PAARSSR-EO13894
+aka_list:
+  items:
+  - uid: '14100'
+    type: a.k.a.
+    category: strong
+    last_name: HAMSHU
+    first_name: Muhammad Sabir
+  - uid: '14101'
+    type: a.k.a.
+    category: strong
+    last_name: HAMSHO
+    first_name: Mohammed Saber
+  - uid: '14102'
+    type: a.k.a.
+    category: strong
+    last_name: HAMSHO
+    first_name: Mohammad
+  - uid: '14103'
+    type: a.k.a.
+    category: strong
+    last_name: HAMCHO
+    first_name: Mohamed
+  - uid: '14104'
+    type: a.k.a.
+    category: strong
+    last_name: HAMSHOU
+    first_name: Mohammed
+address_list:
+  items:
+  - uid: '43953'
+    country: Syria
+id_list:
+  items:
+  - uid: '7257'
+    id_type: Passport
+    id_number: '002954347'
+    id_country: Syria
+  - uid: '135716'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '8609'
+    date_of_birth: 20 May 1966
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '8610'
+    place_of_birth: Damascus, Syria
+    main_entry: 'true'

@@ -1,0 +1,68 @@
+---
+uid: '23649'
+first_name: Guiqin
+last_name: SU
+sdn_type: Individual
+program_list:
+  programs:
+  - TCO
+aka_list:
+  items:
+  - uid: '37358'
+    type: a.k.a.
+    category: strong
+    last_name: SU
+    first_name: Gui Qin
+  - uid: '37359'
+    type: a.k.a.
+    category: strong
+    last_name: WEI
+    first_name: Su
+  - uid: '37360'
+    type: a.k.a.
+    category: strong
+    last_name: SU
+    first_name: Zhao
+  - uid: '37361'
+    type: a.k.a.
+    category: weak
+    last_name: SU, Madame
+address_list:
+  items:
+  - uid: '35805'
+    address1: Flat G
+    address2: 19 FL Maple Mansion
+    address3: Taikoo Shing, Quarry Bay
+    country: Hong Kong
+id_list:
+  items:
+  - uid: '15119'
+    id_type: Passport
+    id_number: G55408772
+    id_country: China
+  - uid: '15120'
+    id_type: Passport
+    id_number: G42695702
+    id_country: China
+  - uid: '15121'
+    id_type: Passport
+    id_number: E03807847
+    id_country: China
+  - uid: '15122'
+    id_type: National ID No.
+    id_number: R9733840
+    id_country: China
+  - uid: '125615'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '25612'
+    date_of_birth: 03 Dec 1959
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '25613'
+    place_of_birth: Liaoning Province, China
+    main_entry: 'true'
+remarks: "(Linked To: ZHAO WEI TCO)"

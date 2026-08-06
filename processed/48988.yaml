@@ -1,0 +1,60 @@
+---
+uid: '48988'
+last_name: RAFORT LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK
+aka_list:
+  items:
+  - uid: '76324'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY RAFORT
+  - uid: '76325'
+    type: a.k.a.
+    category: strong
+    last_name: RAFORT, OOO
+  - uid: '76326'
+    type: a.k.a.
+    category: weak
+    last_name: RAFORT
+  - uid: '76334'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU RAFORT
+  - uid: '76338'
+    type: a.k.a.
+    category: weak
+    last_name: LIMITED LIABILITY COMPANY RUBIN
+  - uid: '76339'
+    type: a.k.a.
+    category: weak
+    last_name: RUBIN, OOO
+address_list:
+  items:
+  - uid: '73678'
+    address1: Apartment 40, Building 43, Tatarskaya Street
+    city: Ryazan
+    state_or_province: Ryazan Oblast
+    postal_code: '390005'
+    country: Russia
+id_list:
+  items:
+  - uid: '40055'
+    id_type: Business Registration Number
+    id_number: '1086234013051'
+    id_country: Russia
+    issue_date: 16 Oct 2008
+  - uid: '40056'
+    id_type: Tax ID No.
+    id_number: '6234061793'
+    id_country: Russia
+  - uid: '171813'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '171812'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+remarks: "(Linked To: GAZARYAN, Rafael Anatolyevich)"

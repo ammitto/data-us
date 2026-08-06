@@ -1,0 +1,39 @@
+---
+uid: '50636'
+last_name: BEIJING RESEARCH INSTITUTE OF AUTOMATION FOR MACHINERY INDUSTRY CO. LTD.
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+aka_list:
+  items:
+  - uid: '79244'
+    type: a.k.a.
+    category: weak
+    last_name: RIAMB
+  - uid: '79246'
+    type: a.k.a.
+    category: weak
+    last_name: RAIMB
+address_list:
+  items:
+  - uid: '76782'
+    address1: No. 1, Teaching Gate
+    address2: Deshengmenwai
+    address3: Xicheng District
+    city: Beijing
+    postal_code: '100120'
+    country: China
+id_list:
+  items:
+  - uid: '42493'
+    id_type: Registration Number
+    id_number: '110000001661767'
+    id_country: China
+  - uid: '42495'
+    id_type: Unified Social Credit Code (USCC)
+    id_number: 91110102400000018P
+    id_country: China
+  - uid: '179060'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

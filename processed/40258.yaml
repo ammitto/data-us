@@ -1,0 +1,47 @@
+---
+uid: '40258'
+first_name: Vasiliy Yuryevich
+last_name: GOLUBEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '62621'
+    type: a.k.a.
+    category: strong
+    last_name: GOLUBEV
+    first_name: Vasily Yurievich
+  - uid: '62622'
+    type: a.k.a.
+    category: strong
+    last_name: GOLUBEV
+    first_name: Vasili Yurevich
+address_list:
+  items:
+  - uid: '60008'
+    state_or_province: Rostov region
+    country: Russia
+id_list:
+  items:
+  - uid: '29444'
+    id_type: Tax ID No.
+    id_number: '500300258082'
+    id_country: Russia
+  - uid: '157279'
+    id_type: Gender
+    id_number: Male
+  - uid: '174061'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '57277'
+    date_of_birth: 30 Jan 1957
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '57278'
+    place_of_birth: Ermakovskaya, Rostov Region, Russia
+    main_entry: 'true'

@@ -1,0 +1,51 @@
+---
+uid: '40078'
+first_name: Muhammad
+last_name: MARUF
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '62297'
+    type: a.k.a.
+    category: strong
+    last_name: MUSANNA
+    first_name: Maulana
+  - uid: '62298'
+    type: a.k.a.
+    category: strong
+    last_name: UBAIDULLAH
+    first_name: Maulana
+  - uid: '62299'
+    type: a.k.a.
+    category: weak
+    last_name: HAMZAH, Ali
+address_list:
+  items:
+  - uid: '59688'
+    country: Afghanistan
+id_list:
+  items:
+  - uid: '156861'
+    id_type: Gender
+    id_number: Male
+  - uid: '156869'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '56857'
+    date_of_birth: 31 Jan 1988
+    main_entry: 'true'
+  - uid: '56858'
+    date_of_birth: 31 Jan 1985
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '56859'
+    place_of_birth: Pakistan
+    main_entry: 'true'
+remarks: "(Linked To: AL-QA'IDA IN THE INDIAN SUBCONTINENT)"

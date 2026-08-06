@@ -1,0 +1,52 @@
+---
+uid: '44686'
+first_name: Mansur Mussaevich
+last_name: SOLTAEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69068'
+    type: a.k.a.
+    category: strong
+    last_name: SOLTAEV
+    first_name: Mansur Mussayevitch
+  - uid: '69069'
+    type: a.k.a.
+    category: strong
+    last_name: SOLTAYEV
+    first_name: Mansur Mussayevich
+  - uid: '69070'
+    type: a.k.a.
+    category: strong
+    last_name: SOLTAJEV
+    first_name: Mansur Mussajevic
+address_list:
+  items:
+  - uid: '66505'
+    state_or_province: Chechen Republic
+    country: Russia
+id_list:
+  items:
+  - uid: '34204'
+    id_type: Tax ID No.
+    id_number: '201480830976'
+    id_country: Russia
+  - uid: '173787'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '164832'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '64830'
+    date_of_birth: 13 Jun 1978
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '64831'
+    place_of_birth: Saratov, Russia
+    main_entry: 'true'

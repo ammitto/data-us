@@ -1,0 +1,59 @@
+---
+uid: '32795'
+first_name: Salem ould
+last_name: BREIHMATT
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+  - HOSTAGES-EO14078
+aka_list:
+  items:
+  - uid: '51603'
+    type: a.k.a.
+    category: weak
+    last_name: Abu Hamza al-Shanqiti
+  - uid: '51604'
+    type: a.k.a.
+    category: weak
+    last_name: Abu Hamza al-Shinqiti
+  - uid: '51605'
+    type: a.k.a.
+    category: weak
+    last_name: Hamza al-Mauritani
+  - uid: '51606'
+    type: a.k.a.
+    category: weak
+    last_name: NITRIK, Hamza
+  - uid: '51607'
+    type: a.k.a.
+    category: strong
+    last_name: OULD ABED
+    first_name: Cheikh ould Mohamed Saleck
+address_list:
+  items:
+  - uid: '49411'
+    country: Mali
+id_list:
+  items:
+  - uid: '171163'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '142512'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '42508'
+    date_of_birth: '1984'
+    main_entry: 'true'
+  - uid: '42509'
+    date_of_birth: '1978'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '42510'
+    place_of_birth: Mauritania
+    main_entry: 'true'
+remarks: "(Linked To: JAMA'AT NUSRAT AL-ISLAM WAL-MUSLIMIN)"

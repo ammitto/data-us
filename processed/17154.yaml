@@ -1,0 +1,33 @@
+---
+uid: '17154'
+last_name: KHAVARMIANEH BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '26326'
+    type: a.k.a.
+    category: strong
+    last_name: MIDDLE EAST BANK
+address_list:
+  items:
+  - uid: '26075'
+    address1: No. 22, Second Floor Sabounchi St.
+    address2: Shahid Beheshti Ave.
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '116093'
+    id_type: SWIFT/BIC
+    id_number: KHMIIRTH
+  - uid: '137344'
+    id_type: Website
+    id_number: www.middleeastbank.ir
+  - uid: '137299'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: All offices worldwide

@@ -1,0 +1,54 @@
+---
+uid: '54764'
+last_name: KOREA SOBAEKSU TRADING CORPORATION
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+aka_list:
+  items:
+  - uid: '85432'
+    type: a.k.a.
+    category: strong
+    last_name: KOREA SOBAEKSU UNITED CORPORATION
+  - uid: '85433'
+    type: a.k.a.
+    category: strong
+    last_name: SOBAEKSU UNITED CORP.
+  - uid: '85434'
+    type: a.k.a.
+    category: strong
+    last_name: SOBAEKU UNITED CORP
+  - uid: '85435'
+    type: a.k.a.
+    category: strong
+    last_name: KOREA SOBAEKSU UNITED CO.
+address_list:
+  items:
+  - uid: '83911'
+    address1: Huale St. Aojing Park Building 23
+    address2: Unit 2 12-01
+    address3: Zhongshan District
+    city: Dalian
+    state_or_province: Liaoning
+    country: China
+  - uid: '83912'
+    address1: 5 Center St.
+    address2: Xinxing District
+    address3: Donggang City
+    city: Dandong
+    state_or_province: Liaoning
+    country: China
+id_list:
+  items:
+  - uid: '191474'
+    id_type: 'Organization Type:'
+    id_number: Other information technology and computer service activities
+  - uid: '191659'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '191660'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+remarks: "(Linked To: MUNITIONS INDUSTRY DEPARTMENT)"

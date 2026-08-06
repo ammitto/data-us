@@ -1,0 +1,40 @@
+---
+uid: '35007'
+last_name: LLC SPECIAL ORGANIZATION FOR PROJECT FINANCE FACTORY OF PROJECT FINANCE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '55071'
+    type: a.k.a.
+    category: strong
+    last_name: SPETSIALIZIROVANNOE OBSHCHESTVO PROEKTNOGO FINANSIROVANIYA FABRIKA
+      PROEKTNOGO FINANSIROVANIYA
+  - uid: '55072'
+    type: a.k.a.
+    category: weak
+    last_name: PROJECT FINANCE FACTORY
+address_list:
+  items:
+  - uid: '52553'
+    address1: pr-kt Akademika Sakharova d. 9, komnata 220
+    city: Moscow
+    postal_code: '107078'
+    country: Russia
+id_list:
+  items:
+  - uid: '24716'
+    id_type: Registration Number
+    id_number: '1187746103885'
+    id_country: Russia
+  - uid: '24717'
+    id_type: Tax ID No.
+    id_number: '7708330489'
+    id_country: Russia
+  - uid: '175228'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: STATE CORPORATION BANK FOR DEVELOPMENT AND FOREIGN ECONOMIC
+  AFFAIRS VNESHECONOMBANK)"

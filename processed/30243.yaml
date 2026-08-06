@@ -1,0 +1,67 @@
+---
+uid: '30243'
+first_name: Gibran
+last_name: BASSIL
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '47429'
+    type: a.k.a.
+    category: strong
+    last_name: BASSIL
+    first_name: Gebran Gerji
+  - uid: '47430'
+    type: a.k.a.
+    category: strong
+    last_name: BASSIL
+    first_name: Gebran
+  - uid: '47431'
+    type: a.k.a.
+    category: strong
+    last_name: BASSIL
+    first_name: Gebran Jerji
+  - uid: '47432'
+    type: a.k.a.
+    category: strong
+    last_name: BASSIL
+    first_name: Jibran
+address_list:
+  items:
+  - uid: '45680'
+    address1: Embassies Street
+    city: Baabda
+    state_or_province: Mount Lebanon Governorate
+    country: Lebanon
+  - uid: '45682'
+    address1: Bank Street
+    city: Beirut
+    state_or_province: Beirut Governorate
+    country: Lebanon
+  - uid: '45683'
+    address1: Mar Mikhael Street
+    city: Beirut
+    state_or_province: Beirut Governorate
+    country: Lebanon
+id_list:
+  items:
+  - uid: '20347'
+    id_type: Passport
+    id_number: LD0000004
+    id_country: Lebanon
+    expiration_date: 23 Aug 2022
+  - uid: '137761'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '37758'
+    date_of_birth: 21 Jun 1970
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '37759'
+    place_of_birth: Batroun, Northern Governorate, Lebanon
+    main_entry: 'true'

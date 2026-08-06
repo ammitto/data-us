@@ -1,0 +1,43 @@
+---
+uid: '54522'
+first_name: Hector Rusthenford
+last_name: GUERRERO FLORES
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+  - TCO
+aka_list:
+  items:
+  - uid: '84832'
+    type: a.k.a.
+    category: weak
+    last_name: NINO GUERRERO
+address_list:
+  items:
+  - uid: '83273'
+    country: Venezuela
+id_list:
+  items:
+  - uid: '48146'
+    id_type: Cedula No.
+    id_number: V-17367457
+    id_country: Venezuela
+  - uid: '190962'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '190562'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '90558'
+    date_of_birth: 30 May 1983
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '90559'
+    place_of_birth: Maracay, Venezuela
+    main_entry: 'true'
+remarks: "(Linked To: TREN DE ARAGUA)"

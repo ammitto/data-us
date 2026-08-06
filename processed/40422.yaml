@@ -1,0 +1,38 @@
+---
+uid: '40422'
+last_name: MINING ENTERPRISE NO 1
+sdn_type: Entity
+program_list:
+  programs:
+  - BURMA-EO14014
+aka_list:
+  items:
+  - uid: '63186'
+    type: a.k.a.
+    category: strong
+    last_name: NO. 1 MINING ENTERPRISE
+  - uid: '63187'
+    type: a.k.a.
+    category: strong
+    last_name: MYANMAR MINING ENTERPRISE NUMBER 1
+  - uid: '63188'
+    type: a.k.a.
+    category: strong
+    last_name: MYANMA MINING ENTERPRISE NUMBER 1
+  - uid: '63189'
+    type: a.k.a.
+    category: strong
+    last_name: MINING ENTERPRISE NUMBER ONE
+address_list:
+  items:
+  - uid: '60563'
+    address1: Bu Tar Street
+    address2: Forest Street
+    city: Monywa
+    state_or_province: Sagaing Region
+    country: Burma
+id_list:
+  items:
+  - uid: '158072'
+    id_type: 'Organization Type:'
+    id_number: Mining and Quarrying

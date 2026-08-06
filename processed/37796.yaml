@@ -1,0 +1,42 @@
+---
+uid: '37796'
+first_name: Aleksandr Dmitrievich
+last_name: KHARICHEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59347'
+    type: a.k.a.
+    category: strong
+    last_name: HARICHEV
+    first_name: Aleksandr Dmitrievich
+  - uid: '59348'
+    type: a.k.a.
+    category: strong
+    last_name: KHARICHEV
+    first_name: Alexander
+address_list:
+  items:
+  - uid: '58502'
+    country: Russia
+id_list:
+  items:
+  - uid: '155100'
+    id_type: Gender
+    id_number: Male
+  - uid: '173521'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '55098'
+    date_of_birth: '08 Feb 1966'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '55099'
+    place_of_birth: Kostroma, Russia
+    main_entry: 'true'

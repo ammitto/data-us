@@ -1,0 +1,41 @@
+---
+uid: '38164'
+last_name: ACADEMICIAN A.L. MINTS RADIOTECHNICAL INSTITUTE JOINT STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59888'
+    type: a.k.a.
+    category: strong
+    last_name: RTI IMENI ACADEMICIAN A.L. MINTS
+  - uid: '59889'
+    type: a.k.a.
+    category: strong
+    last_name: RADIO TECHNICAL AND INFORMATION SYSTEMS IMENI A.L. MINTS
+  - uid: '59890'
+    type: a.k.a.
+    category: strong
+    last_name: ACADEMICIAN A.L. MINTS RADIO ENGINEERING INSTITUTE
+address_list:
+  items:
+  - uid: '57179'
+    address1: St. 8 Marta, House 10, Structure 1
+    city: Moscow
+    postal_code: '127083'
+    country: Russia
+id_list:
+  items:
+  - uid: '27448'
+    id_type: Tax ID No.
+    id_number: '7713006449'
+    id_country: Russia
+  - uid: '27449'
+    id_type: Registration Number
+    id_number: '1027739323831'
+    id_country: Russia
+  - uid: '174644'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

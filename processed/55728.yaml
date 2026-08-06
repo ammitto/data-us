@@ -1,0 +1,28 @@
+---
+uid: '55728'
+last_name: OCEAN INC.
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '85267'
+    address1: Trust Company Complex
+    address2: Ajeltake Road
+    city: Majuro
+    state_or_province: Ajeltake Island
+    postal_code: '96960'
+    country: Marshall Islands
+id_list:
+  items:
+  - uid: '49792'
+    id_type: Identification Number
+    id_number: IMO 0110647
+  - uid: '49794'
+    id_type: Registration Number
+    id_number: '128086'
+    id_country: Marshall Islands
+  - uid: '193439'
+    id_type: Organization Established Date
+    id_number: 26 Sep 2024

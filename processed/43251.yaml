@@ -1,0 +1,43 @@
+---
+uid: '43251'
+first_name: Andrey Aleksandrovich
+last_name: ZHIDKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '67054'
+    type: a.k.a.
+    category: strong
+    last_name: ZHIDKOV
+    first_name: Andrei Aleksandrovich
+address_list:
+  items:
+  - uid: '64550'
+    city: Melitopol
+    state_or_province: Zaporizhzhia region
+    country: Ukraine
+id_list:
+  items:
+  - uid: '32810'
+    id_type: Tax ID No.
+    id_number: '780719977500'
+    id_country: Russia
+  - uid: '175667'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '162441'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '62439'
+    date_of_birth: 15 Sep 1979
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '62440'
+    place_of_birth: Inta, Komi Republic, Russia
+    main_entry: 'true'

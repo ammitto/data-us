@@ -1,0 +1,37 @@
+---
+uid: '20581'
+last_name: KOREA OIL EXPLORATION CORPORATION
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK3
+aka_list:
+  items:
+  - uid: '32515'
+    type: a.k.a.
+    category: strong
+    last_name: KOREA OIL EXPLORATION COMPANY
+  - uid: '32516'
+    type: a.k.a.
+    category: weak
+    last_name: KOEC
+  - uid: '32517'
+    type: a.k.a.
+    category: strong
+    last_name: CHOSUN OIL EXPLORATION COMPANY
+address_list:
+  items:
+  - uid: '31209'
+    address1: Ulam Dong
+    address2: Taedonggang District
+    city: Pyongyang
+    country: Korea, North
+id_list:
+  items:
+  - uid: '135025'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '127207'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210

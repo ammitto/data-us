@@ -1,0 +1,42 @@
+---
+uid: '49173'
+last_name: JSC RESEARCH AND PRODUCTION COMPANY MAGNETON
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76635'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO NAUCHNO-PROIZVODSTVENNOE OBYDINENIE MAGNETON
+  - uid: '76636'
+    type: a.k.a.
+    category: strong
+    last_name: AO NPO MAGNETON
+address_list:
+  items:
+  - uid: '74006'
+    address1: Ul. Kuibysheva D. 26
+    city: Vladimir
+    postal_code: '600035'
+    country: Russia
+  - uid: '74007'
+    address1: Ul. Shchipok D. 18, Kom. 10, 10A, 10B, Floor 5
+    city: Moscow
+    postal_code: '115093'
+    country: Russia
+id_list:
+  items:
+  - uid: '40294'
+    id_type: Registration Number
+    id_number: '1023301456364'
+    id_country: Russia
+  - uid: '40295'
+    id_type: Tax ID No.
+    id_number: '3328100019'
+    id_country: Russia
+  - uid: '172120'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,50 @@
+---
+uid: '40868'
+last_name: LIMITED LIABILITY COMPANY PREPREG-DUBNA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63591'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU PREPREG-DUBNA
+  - uid: '63592'
+    type: a.k.a.
+    category: strong
+    last_name: PREPREG-DUBNA, OOO
+address_list:
+  items:
+  - uid: '60934'
+    address1: Ul. Elektrodnyaya D. 8
+    city: Dubna
+    postal_code: '141981'
+    country: Russia
+  - uid: '60935'
+    address1: D. 8, Ul. Tekhnologicheskaya
+    city: Dubna
+    state_or_province: Moskovskaya Obl.
+    postal_code: '141981'
+    country: Russia
+id_list:
+  items:
+  - uid: '30116'
+    id_type: Registration Number
+    id_number: '1115010001138'
+    id_country: Russia
+  - uid: '30117'
+    id_type: Tax ID No.
+    id_number: '5010043203'
+    id_country: Russia
+  - uid: '30118'
+    id_type: Government Gazette Number
+    id_number: '90160486'
+    id_country: Russia
+  - uid: '158399'
+    id_type: Organization Established Date
+    id_number: 15 Apr 2011
+  - uid: '175299'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

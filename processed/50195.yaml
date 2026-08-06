@@ -1,0 +1,39 @@
+---
+uid: '50195'
+first_name: Marat Khanbalevich
+last_name: GABITOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '76208'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '41821'
+    id_type: Tax ID No.
+    id_number: '501003306539'
+    id_country: Russia
+  - uid: '42007'
+    id_type: National ID No.
+    id_number: '4509776350'
+    id_country: Russia
+  - uid: '178234'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '177791'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '78206'
+    date_of_birth: 14 Jun 1956
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '78205'
+    place_of_birth: Kirov, Russia
+    main_entry: 'true'

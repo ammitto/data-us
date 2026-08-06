@@ -1,0 +1,36 @@
+---
+uid: '41237'
+first_name: Dariush
+last_name: BAKHSHI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+address_list:
+  items:
+  - uid: '61648'
+    city: Orumiyeh
+    state_or_province: West Azerbaijan Province
+    country: Iran
+id_list:
+  items:
+  - uid: '30597'
+    id_type: National ID No.
+    id_number: '2851316567'
+    id_country: Iran
+  - uid: '159276'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '159249'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '59314'
+    date_of_birth: 10 Mar 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '59250'
+    place_of_birth: Salmas, West Azerbaijan Province, Iran
+    main_entry: 'true'

@@ -1,0 +1,49 @@
+---
+uid: '41202'
+last_name: ENTEBAGH GOSTAR SEPEHR COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-HR
+aka_list:
+  items:
+  - uid: '64238'
+    type: a.k.a.
+    category: strong
+    last_name: ENTEBAGH GOSTAR SEPEHR
+  - uid: '64239'
+    type: a.k.a.
+    category: strong
+    last_name: ENTEBAGH GOSTAR COMPANY
+  - uid: '64240'
+    type: a.k.a.
+    category: weak
+    last_name: ESG GROUP
+address_list:
+  items:
+  - uid: '61616'
+    address1: No. 2, Corner of North Yasaman, End of Third Yas
+    address2: Golha Boulevard, Golestan Town Railway
+    city: Tehran
+    state_or_province: Tehran Province
+    country: Iran
+id_list:
+  items:
+  - uid: '30571'
+    id_type: National ID No.
+    id_number: '14006006930'
+    id_country: Iran
+  - uid: '30572'
+    id_type: Registration ID
+    id_number: '529379'
+    id_country: Iran
+  - uid: '159272'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '159220'
+    id_type: Website
+    id_number: www.egsepehr.com
+  - uid: '159221'
+    id_type: Website
+    id_number: www.egsepehr.ir
+remarks: "(Linked To: LAW ENFORCEMENT FORCES OF THE ISLAMIC REPUBLIC OF IRAN)"

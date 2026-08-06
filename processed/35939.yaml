@@ -1,0 +1,39 @@
+---
+uid: '35939'
+first_name: Severo
+last_name: FLORES MENDOZA
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '56522'
+    type: a.k.a.
+    category: weak
+    last_name: REY MAGO
+address_list:
+  items:
+  - uid: '53932'
+    city: Ameca
+    state_or_province: Jalisco
+    country: Mexico
+id_list:
+  items:
+  - uid: '25303'
+    id_type: C.U.R.P.
+    id_number: FOMS761109HJCLNV04
+    id_country: Mexico
+  - uid: '149114'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '49113'
+    date_of_birth: '09 Nov 1976'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '49116'
+    place_of_birth: Tequila, Jalisco, Mexico
+    main_entry: 'true'

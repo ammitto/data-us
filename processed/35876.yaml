@@ -1,0 +1,45 @@
+---
+uid: '35876'
+last_name: RADUGA STATE MACHINE BUILDING DESIGN BUREAU JOINT STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56380'
+    type: a.k.a.
+    category: strong
+    last_name: RADUGA STATE ENGINEERING DESIGN BUREAU JSC NAMED AFTER A.Y. BEREZNYAK
+  - uid: '56381'
+    type: a.k.a.
+    category: strong
+    last_name: AO GOSMKB RADUGA IM. A.YA.BEREZNYAKA
+  - uid: '56382'
+    type: a.k.a.
+    category: strong
+    last_name: RADUGA DESIGN BUREAU
+address_list:
+  items:
+  - uid: '53835'
+    address1: Ul. Zhukovskogo D. 2, Lit. A
+    city: Dubna
+    postal_code: '141980'
+    country: Russia
+id_list:
+  items:
+  - uid: '25207'
+    id_type: Tax ID No.
+    id_number: '5010031470'
+    id_country: Russia
+  - uid: '25208'
+    id_type: Registration Number
+    id_number: '1055024900006'
+    id_country: Russia
+  - uid: '173271'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '149069'
+    id_type: Organization Established Date
+    id_number: 25 Dec 1991
+remarks: "(Linked To: TACTICAL MISSILES CORPORATION JSC)"

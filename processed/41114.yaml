@@ -1,0 +1,28 @@
+---
+uid: '41114'
+last_name: LIMITED LIABILITY COMPANY OSNOVA LAB
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '61458'
+    address1: Spartakovskaya square, house 14, building 2
+    city: Moscow
+    postal_code: '105082'
+    country: Russia
+id_list:
+  items:
+  - uid: '30453'
+    id_type: Registration Number
+    id_number: '1157746344755'
+    id_country: Russia
+  - uid: '30454'
+    id_type: Tax ID No.
+    id_number: '7701100976'
+    id_country: Russia
+  - uid: '173644'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: LIMITED LIABILITY COMPANY CITADEL)"

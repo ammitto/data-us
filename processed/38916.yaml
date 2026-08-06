@@ -1,0 +1,54 @@
+---
+uid: '38916'
+first_name: Valery Mykhailovych
+last_name: PAKHNYTS
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '60768'
+    type: a.k.a.
+    category: strong
+    last_name: PAKHNITS
+    first_name: Valeriy Mikhailovich
+  - uid: '60769'
+    type: a.k.a.
+    category: strong
+    last_name: PAKHNITS
+    first_name: Valery Mikhailovich
+  - uid: '60770'
+    type: a.k.a.
+    category: strong
+    last_name: PAHNITS
+    first_name: Valerij Mihajlovich
+address_list:
+  items:
+  - uid: '58006'
+    address1: 5 Myslichenko St. Chmyrevka village
+    city: Starobilsk district
+    state_or_province: Luhansk region
+    country: Ukraine
+id_list:
+  items:
+  - uid: '28159'
+    id_type: Tax ID No.
+    id_number: '1938008353'
+    id_country: Ukraine
+  - uid: '154626'
+    id_type: Gender
+    id_number: Male
+  - uid: '174723'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '54624'
+    date_of_birth: 22 Jan 1953
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '54625'
+    place_of_birth: Mariupol, Ukraine
+    main_entry: 'true'

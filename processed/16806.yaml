@@ -1,0 +1,43 @@
+---
+uid: '16806'
+last_name: OOO VOLGA GROUP
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13661
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56593'
+    type: a.k.a.
+    category: strong
+    last_name: VOLGA GROUP HOLDING LIMITED LIABILITY COMPANY
+address_list:
+  items:
+  - uid: '25430'
+    address1: Begovaya St., Dom 3, Str. 1
+    city: Moscow
+    postal_code: '12528'
+    country: Russia
+  - uid: '53999'
+    address1: Timura Frunze, House 11, Building 1
+    address2: floor 2, unit IV, room 2
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '25332'
+    id_type: Registration Number
+    id_number: '1147746803049'
+    id_country: Russia
+  - uid: '25333'
+    id_type: Tax ID No.
+    id_number: '7718989383'
+    id_country: Russia
+  - uid: '151222'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '173844'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

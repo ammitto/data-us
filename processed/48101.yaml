@@ -1,0 +1,32 @@
+---
+uid: '48101'
+first_name: Vadim Konstantinovich
+last_name: KALININ
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '72153'
+    address1: Apartment 16, 9 Gagarina Street
+    city: Kharp
+    postal_code: '629405'
+    country: Russia
+id_list:
+  items:
+  - uid: '38993'
+    id_type: Tax ID No.
+    id_number: '663401241613'
+    id_country: Russia
+  - uid: '170036'
+    id_type: Gender
+    id_number: Male
+  - uid: '176599'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '70035'
+    date_of_birth: 07 Mar 1973
+    main_entry: 'true'

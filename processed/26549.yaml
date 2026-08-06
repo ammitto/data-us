@@ -1,0 +1,36 @@
+---
+uid: '26549'
+last_name: BANCO CORPORATIVO SA
+sdn_type: Entity
+program_list:
+  programs:
+  - NICARAGUA
+aka_list:
+  items:
+  - uid: '41909'
+    type: a.k.a.
+    category: weak
+    last_name: BANCORP
+  - uid: '41910'
+    type: a.k.a.
+    category: weak
+    last_name: BANCO NACIONAL
+  - uid: '41911'
+    type: a.k.a.
+    category: weak
+    last_name: BANCO NATIONAL
+  - uid: '41912'
+    type: a.k.a.
+    category: weak
+    last_name: NATIONAL BANK
+address_list:
+  items:
+  - uid: '40259'
+    address1: 2 Cuadras Aloeste y 3 Cuadras Alnorte
+    city: Managua
+    country: Nicaragua
+id_list:
+  items:
+  - uid: '131075'
+    id_type: SWIFT/BIC
+    id_number: BOFPNIMA

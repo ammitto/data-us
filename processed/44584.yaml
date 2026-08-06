@@ -1,0 +1,66 @@
+---
+uid: '44584'
+first_name: Riad
+last_name: SALAMEH
+sdn_type: Individual
+program_list:
+  programs:
+  - LEBANON
+aka_list:
+  items:
+  - uid: '68884'
+    type: a.k.a.
+    category: strong
+    last_name: SALAME
+    first_name: Riad Toufic
+  - uid: '68885'
+    type: a.k.a.
+    category: strong
+    last_name: SALAMAH
+    first_name: Riad bin Tawfiq
+  - uid: '68886'
+    type: a.k.a.
+    category: strong
+    last_name: SALIMI
+    first_name: Riyad
+  - uid: '68887'
+    type: a.k.a.
+    category: strong
+    last_name: SALAMEH
+    first_name: Riyad Tawfeek
+address_list:
+  items:
+  - uid: '66360'
+    address1: Street 10
+    address2: Matn District
+    city: Rabieh
+    state_or_province: Mount Lebanon
+    country: Lebanon
+id_list:
+  items:
+  - uid: '34086'
+    id_type: National ID No.
+    id_number: '1869570'
+    id_country: Lebanon
+  - uid: '34088'
+    id_type: Passport
+    id_number: 160D15
+    id_country: Lebanon
+    expiration_date: '08 Oct 2020'
+  - uid: '34089'
+    id_type: Passport
+    id_number: 14AF60880
+    id_country: France
+  - uid: '164580'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '64579'
+    date_of_birth: 17 Jul 1950
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '64586'
+    place_of_birth: Antelias, Lebanon
+    main_entry: 'true'

@@ -1,0 +1,55 @@
+---
+uid: '43112'
+last_name: FEDERAL STATE GOVERNMENTAL INSTITUTION 223 FLIGHT UNIT STATE AIRLINES OF
+  THE MINISTRY OF DEFENSE OF THE RUSSIAN FEDERATION
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '66810'
+    type: a.k.a.
+    category: strong
+    last_name: FGBU GOSUDARSTVENNAYA AVIAKOMPANIYA 223 LETNYY OTRYAD MO RF
+  - uid: '66811'
+    type: a.k.a.
+    category: strong
+    last_name: FGBU GAK 223 LETNYI OTRYAD MO RF
+  - uid: '66812'
+    type: a.k.a.
+    category: strong
+    last_name: 223RD STATE AIRLINE FLIGHT UNIT
+  - uid: '66813'
+    type: a.k.a.
+    category: weak
+    last_name: 223RD FLIGHT DETACHMENT
+  - uid: '66814'
+    type: a.k.a.
+    category: weak
+    last_name: 223RD FLIGHT UNIT
+address_list:
+  items:
+  - uid: '64325'
+    address1: Ul. aerodromnaya d. 2, str. 1
+    city: Shchelkovo, Shchelkovskii district
+    state_or_province: Moscow Region
+    postal_code: '141103'
+    country: Russia
+id_list:
+  items:
+  - uid: '32695'
+    id_type: Tax ID No.
+    id_number: '5050017062'
+    id_country: Russia
+  - uid: '32696'
+    id_type: Registration Number
+    id_number: '1035010206989'
+    id_country: Russia
+  - uid: '175534'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '162094'
+    id_type: Organization Established Date
+    id_number: 12 Mar 1993
+remarks: "(Linked To: PRIVATE MILITARY COMPANY 'WAGNER')"

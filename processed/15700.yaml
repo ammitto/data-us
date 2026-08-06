@@ -1,0 +1,32 @@
+---
+uid: '15700'
+first_name: Tomasa
+last_name: GARCIA RIOS
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '23470'
+    address1: Cipriano Obeso 1520
+    address2: Colonia Chapultepec
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+id_list:
+  items:
+  - uid: '8442'
+    id_type: C.U.R.P.
+    id_number: GART710307MSLRSM00
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '12975'
+    date_of_birth: 07 Mar 1971
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '12977'
+    place_of_birth: Culiacan, Sinaloa, Mexico
+    main_entry: 'true'

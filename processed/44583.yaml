@@ -1,0 +1,45 @@
+---
+uid: '44583'
+first_name: Nady
+last_name: SALAMEH
+sdn_type: Individual
+program_list:
+  programs:
+  - LEBANON
+aka_list:
+  items:
+  - uid: '68889'
+    type: a.k.a.
+    category: strong
+    last_name: SALAME
+    first_name: Nadi Riad
+address_list:
+  items:
+  - uid: '66358'
+    address1: Street 10
+    address2: Matn District
+    city: Rabieh
+    state_or_province: Mount Lebanon
+    country: Lebanon
+  - uid: '66364'
+    country: United Kingdom
+id_list:
+  items:
+  - uid: '34085'
+    id_type: Passport
+    id_number: '282003'
+    id_country: Lebanon
+    expiration_date: 28 Dec 2006
+  - uid: '164584'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '64573'
+    date_of_birth: 04 Dec 1986
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '64574'
+    place_of_birth: Neuilly-Sur-Seine, France
+    main_entry: 'true'

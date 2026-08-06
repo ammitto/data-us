@@ -1,0 +1,41 @@
+---
+uid: '32499'
+first_name: Meliton
+last_name: ROCHIN HURTADO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '51012'
+    type: a.k.a.
+    category: weak
+    last_name: EL SIXTY THREE
+  - uid: '51013'
+    type: a.k.a.
+    category: weak
+    last_name: EL 63
+address_list:
+  items:
+  - uid: '48902'
+    country: Mexico
+id_list:
+  items:
+  - uid: '22278'
+    id_type: C.U.R.P.
+    id_number: ROHM751028HSRCRL00
+    id_country: Mexico
+  - uid: '142112'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '42109'
+    date_of_birth: 28 Oct 1975
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '42110'
+    place_of_birth: Hermosillo, Sonora, Mexico
+    main_entry: 'true'

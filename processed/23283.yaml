@@ -1,0 +1,81 @@
+---
+uid: '23283'
+first_name: Benjamin
+last_name: BOL MEL
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '36709'
+    type: a.k.a.
+    category: strong
+    last_name: BOL MEL KUOL
+    first_name: Benjamin
+  - uid: '36713'
+    type: a.k.a.
+    category: strong
+    last_name: BOL MOL KUOT
+    first_name: Benjamin
+  - uid: '36716'
+    type: a.k.a.
+    category: strong
+    last_name: BOR
+    first_name: Benjamin
+  - uid: '36782'
+    type: a.k.a.
+    category: strong
+    last_name: BOL
+    first_name: Benjamin
+address_list:
+  items:
+  - uid: '35319'
+    address1: Othaya Road
+    address2: 'Othaya Villas House #2'
+    city: Nairobi
+    postal_code: '00202'
+    country: Kenya
+  - uid: '35320'
+    address1: Hai-Jalaba
+    address2: Centre Street
+    city: Juba
+    state_or_province: Central Equatoria
+    country: South Sudan
+  - uid: '35321'
+    city: Juba
+    country: South Sudan
+id_list:
+  items:
+  - uid: '14815'
+    id_type: Passport
+    id_number: B00000006
+    id_country: South Sudan
+    issue_date: 26 Jul 2013
+    expiration_date: 26 Jul 2018
+  - uid: '125044'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '25036'
+    date_of_birth: 03 Jan 1978
+    main_entry: 'true'
+  - uid: '25037'
+    date_of_birth: 24 Dec 1978
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '25038'
+    place_of_birth: Awiil, Sudan
+    main_entry: 'true'
+  - uid: '25039'
+    place_of_birth: Rialdit, South Sudan
+    main_entry: 'false'
+  - uid: '25040'
+    place_of_birth: Warrap State, South Sudan
+    main_entry: 'false'
+  - uid: '25041'
+    place_of_birth: Abiem, Aweil East County, Northern Bahr al Ghazal, South Sudan
+    main_entry: 'false'
+title: President of ABMC Thai-South Sudan Construction Company

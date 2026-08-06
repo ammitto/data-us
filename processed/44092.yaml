@@ -1,0 +1,31 @@
+---
+uid: '44092'
+last_name: LIMITED LIABILITY COMPANY RUSTMASH
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '65620'
+    address1: Ul. Lenina D. 1
+    address2: Korp. 120
+    city: Taldom
+    postal_code: '141960'
+    country: Russia
+id_list:
+  items:
+  - uid: '33503'
+    id_type: Registration Number
+    id_number: '1105010001909'
+    id_country: Russia
+  - uid: '33504'
+    id_type: Tax ID No.
+    id_number: '5078019486'
+    id_country: Russia
+  - uid: '175765'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '163664'
+    id_type: Organization Established Date
+    id_number: 22 Jul 2010

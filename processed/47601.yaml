@@ -1,0 +1,34 @@
+---
+uid: '47601'
+last_name: OBLTRANSTERMINAL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73715'
+    type: a.k.a.
+    category: strong
+    last_name: TRANSPORT AND LOGISTICS CENTER ELEKTROUGLI
+address_list:
+  items:
+  - uid: '71109'
+    address1: Ul. Zheleznodorozhnaya, Vld 29
+    address2: Str. 1, Pomeshch. 88
+    city: Elektrougli
+    postal_code: '142455'
+    country: Russia
+id_list:
+  items:
+  - uid: '38155'
+    id_type: Registration Number
+    id_number: '1165053050579'
+    id_country: Russia
+  - uid: '38156'
+    id_type: Tax ID No.
+    id_number: '5053042571'
+    id_country: Russia
+  - uid: '176410'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

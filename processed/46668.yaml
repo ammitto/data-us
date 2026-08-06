@@ -1,0 +1,33 @@
+---
+uid: '46668'
+last_name: LIMITED LIABILITY COMPANY PENZA BEARING PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '72035'
+    type: a.k.a.
+    category: strong
+    last_name: PENZENSKII PODSHIPNIKOVYI ZAVOD
+address_list:
+  items:
+  - uid: '69491'
+    address1: Ul. Antonova D. 3, Kabinet 91
+    city: Penza
+    postal_code: '440629'
+    country: Russia
+id_list:
+  items:
+  - uid: '36681'
+    id_type: Registration Number
+    id_number: '1025801102051'
+    id_country: Russia
+  - uid: '36683'
+    id_type: Tax ID No.
+    id_number: '5834018533'
+    id_country: Russia
+  - uid: '175054'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

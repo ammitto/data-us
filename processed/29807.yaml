@@ -1,0 +1,42 @@
+---
+uid: '29807'
+first_name: Amin Hosseinzadeh
+last_name: KHANMIRI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+aka_list:
+  items:
+  - uid: '46712'
+    type: a.k.a.
+    category: strong
+    last_name: HOSEINZADEH
+    first_name: Amin
+address_list:
+  items:
+  - uid: '44962'
+    country: Iran
+id_list:
+  items:
+  - uid: '19932'
+    id_type: Passport
+    id_number: X20406521
+    id_country: Iran
+  - uid: '137023'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '136789'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '36787'
+    date_of_birth: 19 Feb 1989
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '36788'
+    place_of_birth: Azarshahr, Iran
+    main_entry: 'true'
+remarks: "(Linked To: IRANIAN MINISTRY OF INTELLIGENCE AND SECURITY)"

@@ -1,0 +1,20 @@
+---
+uid: '31934'
+last_name: FINVAL
+sdn_type: Vessel
+program_list:
+  programs:
+  - PEESA-EO14039
+  - RUSSIA-EO14024
+id_list:
+  items:
+  - uid: '21734'
+    id_type: Vessel Registration Identification
+    id_number: IMO 9272412
+  - uid: '183206'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '140764'
+    id_type: 'PEESA Information:'
+    id_number: Property and Interests in Property Blocked, Except Importation of Goods
+remarks: "(Linked To: FEDERAL STATE BUDGETARY INSTITUTION MARINE RESCUE SERVICE)"

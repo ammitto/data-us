@@ -1,0 +1,44 @@
+---
+uid: '44445'
+first_name: Ali
+last_name: SHAFIU
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '66157'
+    country: Afghanistan
+id_list:
+  items:
+  - uid: '34010'
+    id_type: National ID No.
+    id_number: A325164
+    id_country: Maldives
+  - uid: '34011'
+    id_type: Passport
+    id_number: E0491095
+    id_country: Maldives
+    expiration_date: 16 Jun 2019
+  - uid: '164442'
+    id_type: Digital Currency Address - USDT
+    id_number: TVacWx7F5wgMgn49L5frDf9KLgdYy8nPHL
+  - uid: '164261'
+    id_type: Gender
+    id_number: Male
+  - uid: '164441'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '64439'
+    date_of_birth: 07 Sep 1988
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '64440'
+    place_of_birth: Male, Maldives
+    main_entry: 'true'
+remarks: "(Linked To: ISIL KHORASAN)"

@@ -1,0 +1,85 @@
+---
+uid: '7828'
+first_name: Mehrez
+last_name: AMDOUNI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '5636'
+    type: a.k.a.
+    category: strong
+    last_name: FUSCO
+    first_name: Fabio
+  - uid: '5637'
+    type: a.k.a.
+    category: strong
+    last_name: HASSAN
+    first_name: Mohamed
+  - uid: '6639'
+    type: a.k.a.
+    category: weak
+    last_name: ABU THALE
+  - uid: '8861'
+    type: a.k.a.
+    category: strong
+    last_name: AL-AMDOUNI
+    first_name: Mehrez Ben Mahmoud Ben Sassi
+  - uid: '14696'
+    type: a.k.a.
+    category: strong
+    last_name: HAMDOUNI
+    first_name: Meherez
+  - uid: '14697'
+    type: a.k.a.
+    category: strong
+    last_name: AMDOUNI
+    first_name: Mehrez ben Tah
+  - uid: '14698'
+    type: a.k.a.
+    category: strong
+    last_name: AMDOUNI
+    first_name: Meherez ben Ahdoud ben
+id_list:
+  items:
+  - uid: '4071'
+    id_type: Passport
+    id_number: G737411
+    id_country: Tunisia
+    issue_date: 24 Oct 1990
+    expiration_date: 20 Sep 1997
+  - uid: '4072'
+    id_type: Passport
+    id_number: '0801888'
+    id_country: Bosnia and Herzegovina
+  - uid: '185718'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '2032'
+    date_of_birth: 18 Dec 1969
+    main_entry: 'true'
+  - uid: '8966'
+    date_of_birth: 25 May 1968
+    main_entry: 'false'
+  - uid: '8967'
+    date_of_birth: 18 Dec 1968
+    main_entry: 'false'
+  - uid: '8968'
+    date_of_birth: 14 Jul 1969
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '2033'
+    place_of_birth: Tunis, Tunisia
+    main_entry: 'true'
+  - uid: '8969'
+    place_of_birth: Naples, Italy
+    main_entry: 'false'
+  - uid: '8970'
+    place_of_birth: Algeria
+    main_entry: 'false'

@@ -1,0 +1,56 @@
+---
+uid: '10356'
+first_name: Modesta
+last_name: ZAMBADA NIEBLA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '14099'
+    address1: c/o NUEVA INDUSTRIA DE GANADEROS DE CULIACAN S.A. DE C.V.
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '14100'
+    address1: c/o JAMARO CONSTRUCTORES S.A. DE C.V.
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '14101'
+    address1: c/o ESTABLO PUERTO RICO S.A. DE C.V.
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '14102'
+    address1: 'Calle Ciudad de Hermosillo # 1168'
+    address2: Fraccionamiento Las Quintas
+    city: Culiacan
+    state_or_province: Sinaloa
+    postal_code: '80060'
+    country: Mexico
+id_list:
+  items:
+  - uid: '4961'
+    id_type: C.U.R.P.
+    id_number: ZANM821122MSLMBD07
+    id_country: Mexico
+  - uid: '4962'
+    id_type: R.F.C.
+    id_number: ZANM-821122-H87
+    id_country: Mexico
+  - uid: '4963'
+    id_type: Passport
+    id_number: '95040018273'
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '5509'
+    date_of_birth: 22 Nov 1982
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '5510'
+    place_of_birth: Culiacan, Sinaloa, Mexico
+    main_entry: 'true'

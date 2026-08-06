@@ -1,0 +1,41 @@
+---
+uid: '29114'
+last_name: IRAN CENTRAL IRON ORE COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13871
+aka_list:
+  items:
+  - uid: '45842'
+    type: a.k.a.
+    category: weak
+    last_name: ICIOC
+address_list:
+  items:
+  - uid: '44059'
+    address1: Bafq Old Rd
+    city: Yazd
+    postal_code: '8975136748'
+    country: Iran
+  - uid: '44061'
+    address1: Mohammad Dehestani Bafghi Boulevard
+    city: Yazd
+    postal_code: '8975136748'
+    country: Iran
+  - uid: '44062'
+    address1: P.O. Box 1111
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '19384'
+    id_type: Registration Number
+    id_number: '49'
+    id_country: Iran
+  - uid: '135837'
+    id_type: Website
+    id_number: www.icioc.ir
+  - uid: '135834'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

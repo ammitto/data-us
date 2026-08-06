@@ -1,0 +1,47 @@
+---
+uid: '50565'
+first_name: Margarita Simonovna
+last_name: SIMONYAN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79072'
+    type: a.k.a.
+    category: strong
+    last_name: SIMONIYAN
+    first_name: Margarita Simonovna
+address_list:
+  items:
+  - uid: '76679'
+    address1: Novokuznetskaya Street 35-37 1 14
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '42395'
+    id_type: Tax ID No.
+    id_number: '230810605961'
+    id_country: Russia
+  - uid: '42396'
+    id_type: Passport
+    id_number: '531257733'
+    id_country: Russia
+  - uid: '178801'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '178774'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '78772'
+    date_of_birth: 06 Apr 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '78773'
+    place_of_birth: Krasnodar, Russia
+    main_entry: 'true'

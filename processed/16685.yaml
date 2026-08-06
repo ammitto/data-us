@@ -1,0 +1,53 @@
+---
+uid: '16685'
+first_name: Sergei
+last_name: CHEMEZOV
+sdn_type: Individual
+program_list:
+  programs:
+  - UKRAINE-EO13661
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '25350'
+    type: a.k.a.
+    category: strong
+    last_name: CHEMEZOV
+    first_name: Sergey Victorovich
+  - uid: '55533'
+    type: a.k.a.
+    category: strong
+    last_name: CHEMEZOV
+    first_name: Sergey
+address_list:
+  items:
+  - uid: '53172'
+    address1: 21 Gogolevskiy Bulvar
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '25013'
+    id_type: Tax ID No.
+    id_number: '770202363089'
+    id_country: Russia
+  - uid: '151138'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '173836'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '147518'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '15200'
+    date_of_birth: 20 Aug 1952
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '15199'
+    place_of_birth: Cheremkhovo, Irkutsk, Russia
+    main_entry: 'true'

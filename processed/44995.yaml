@@ -1,0 +1,36 @@
+---
+uid: '44995'
+last_name: LIMITED LIABILITY COMPANY SIBIRSKAYA UGOLNAYA KOMPANIYA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69666'
+    type: a.k.a.
+    category: strong
+    last_name: OOO SIBUGOL
+address_list:
+  items:
+  - uid: '66974'
+    address1: d. 4A etazh 1 pom. I
+    address2: Kom. 14, Ofis 7D
+    address3: ul. Kutuzovskaya
+    city: Odintsovo
+    postal_code: '143001'
+    country: Russia
+id_list:
+  items:
+  - uid: '34654'
+    id_type: Registration Number
+    id_number: '1155032010066'
+    id_country: Russia
+  - uid: '34656'
+    id_type: Tax ID No.
+    id_number: '5032216202'
+    id_country: Russia
+  - uid: '175878'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: UNITED ARCTIC COMPANY LLC)"

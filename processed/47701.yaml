@@ -1,0 +1,50 @@
+---
+uid: '47701'
+first_name: Pu Ung
+last_name: YU
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+aka_list:
+  items:
+  - uid: '73934'
+    type: a.k.a.
+    category: strong
+    last_name: YU
+    first_name: Bu Ung
+  - uid: '73935'
+    type: a.k.a.
+    category: weak
+    last_name: Mr. O
+address_list:
+  items:
+  - uid: '71319'
+    address1: 67 Kap 2-9-1
+    address2: Sobuk 1 Tonglo
+    address3: Cho'lso' District
+    city: Shenyang
+    country: China
+id_list:
+  items:
+  - uid: '38334'
+    id_type: Passport
+    id_number: PS927320340
+    issue_date: 02 Sep 2017
+    expiration_date: 02 Sep 2022
+  - uid: '170488'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '169193'
+    id_type: Gender
+    id_number: Male
+  - uid: '170487'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+date_of_birth_list:
+  items:
+  - uid: '69192'
+    date_of_birth: 16 Sep 1966
+    main_entry: 'true'
+remarks: "(Linked To: TANCHON COMMERCIAL BANK)"

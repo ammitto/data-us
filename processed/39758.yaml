@@ -1,0 +1,35 @@
+---
+uid: '39758'
+first_name: Aleksandr Aleksandrovich
+last_name: IVANOV
+sdn_type: Individual
+program_list:
+  programs:
+  - CAR
+aka_list:
+  items:
+  - uid: '61952'
+    type: a.k.a.
+    category: strong
+    last_name: IVANOV
+    first_name: Alexander
+address_list:
+  items:
+  - uid: '59252'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '28919'
+    id_type: Tax ID No.
+    id_number: '771873416848'
+    id_country: Russia
+  - uid: '157722'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '56160'
+    date_of_birth: 14 Jun 1960
+    main_entry: 'true'
+remarks: "(Linked To: PRIVATE MILITARY COMPANY 'WAGNER')"

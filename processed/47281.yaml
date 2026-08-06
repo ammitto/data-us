@@ -1,0 +1,33 @@
+---
+uid: '47281'
+last_name: AKTSIONERNOE OBSHCHESTVO ZAVOD ELEKON
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73038'
+    type: a.k.a.
+    category: strong
+    last_name: ZAVOD ELECON
+address_list:
+  items:
+  - uid: '70438'
+    address1: Ul. Korolenko D. 58
+    city: Kazan
+    postal_code: '420094'
+    country: Russia
+id_list:
+  items:
+  - uid: '37571'
+    id_type: Registration Number
+    id_number: '1021603145541'
+    id_country: Russia
+  - uid: '37572'
+    id_type: Tax ID No.
+    id_number: '1657032272'
+    id_country: Russia
+  - uid: '169661'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

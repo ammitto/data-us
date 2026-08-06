@@ -1,0 +1,58 @@
+---
+uid: '32682'
+last_name: CLOSED JOINT STOCK COMPANY ABSOLUTBANK
+sdn_type: Entity
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '51298'
+    type: a.k.a.
+    category: strong
+    last_name: ABSOLUTBANK
+  - uid: '51299'
+    type: a.k.a.
+    category: strong
+    last_name: ZAKRYTAYE AKTSYYANERNAYE TAVARYSTVA ABSALYUTBANK
+  - uid: '51300'
+    type: a.k.a.
+    category: strong
+    last_name: ZAKRYTOYE AKTSIONERNOYE OBSHCHESTVO ABSOLYUTBANK
+  - uid: '51301'
+    type: a.k.a.
+    category: strong
+    last_name: CJSC ABSOLUTBANK
+  - uid: '51302'
+    type: a.k.a.
+    category: strong
+    last_name: ZAT ABSALYUTBANK
+  - uid: '51303'
+    type: a.k.a.
+    category: strong
+    last_name: ZAO ABSOLYUTBANK
+address_list:
+  items:
+  - uid: '49203'
+    address1: 95 Nezavisimosti ave
+    city: Minsk
+    postal_code: '220023'
+    country: Belarus
+id_list:
+  items:
+  - uid: '22440'
+    id_type: Registration Number
+    id_number: '100331707'
+    id_country: Belarus
+  - uid: '142301'
+    id_type: Organization Established Date
+    id_number: 30 Mar 2000
+  - uid: '142582'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '142580'
+    id_type: SWIFT/BIC
+    id_number: ABLTBY22
+  - uid: '142581'
+    id_type: Website
+    id_number: www.absolutbank.by

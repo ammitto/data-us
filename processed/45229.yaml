@@ -1,0 +1,57 @@
+---
+uid: '45229'
+first_name: Nikolai Aleksandrovich
+last_name: TUPIKIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70015'
+    type: a.k.a.
+    category: strong
+    last_name: TUPIKIN
+    first_name: Nikolay
+address_list:
+  items:
+  - uid: '67312'
+    address1: Raspletina, Dom 17, Korpus 2, Kv. 7
+    city: Moscow
+    postal_code: '123060'
+    country: Russia
+id_list:
+  items:
+  - uid: '34956'
+    id_type: Tax ID No.
+    id_number: '773402066160'
+    id_country: Russia
+  - uid: '34957'
+    id_type: Registration ID
+    id_number: '319774600345330'
+    id_country: Russia
+  - uid: '34958'
+    id_type: National ID No.
+    id_number: '4503851519'
+    id_country: Russia
+  - uid: '34959'
+    id_type: Passport
+    id_number: '727760853'
+    id_country: Russia
+  - uid: '165637'
+    id_type: Gender
+    id_number: Male
+  - uid: '175953'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '65634'
+    date_of_birth: 06 Jun 1977
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '65635'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'
+remarks: "(Linked To: COMPANY GROUP STRUCTURA LLC)"

@@ -1,0 +1,65 @@
+---
+uid: '30122'
+first_name: Ahmed Luqman
+last_name: TALIB
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '47204'
+    type: a.k.a.
+    category: strong
+    last_name: TALEB
+    first_name: Adam Ahmad
+address_list:
+  items:
+  - uid: '45467'
+    country: Australia
+  - uid: '45468'
+    country: Turkey
+  - uid: '45469'
+    country: Qatar
+  - uid: '45470'
+    country: Brazil
+id_list:
+  items:
+  - uid: '20227'
+    id_type: Passport
+    id_number: N7693460
+    id_country: Australia
+    expiration_date: 17 Jan 2024
+  - uid: '20228'
+    id_type: Passport
+    id_number: N5230514
+    id_country: Australia
+    expiration_date: 29 Jul 2021
+  - uid: '20229'
+    id_type: Passport
+    id_number: M6215165
+    id_country: Australia
+    expiration_date: 24 Jan 2012
+  - uid: '20230'
+    id_type: Passport
+    id_number: '137492291'
+    id_country: Venezuela
+    expiration_date: 17 Jul 2021
+  - uid: '137435'
+    id_type: Gender
+    id_number: Male
+  - uid: '187296'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '37432'
+    date_of_birth: 12 Feb 1990
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '37433'
+    place_of_birth: Birmingham, United Kingdom
+    main_entry: 'true'
+remarks: "(Linked To: AL QA'IDA)"

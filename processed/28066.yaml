@@ -1,0 +1,31 @@
+---
+uid: '28066'
+last_name: VENTSPILS ATTISTIBAS AGENTURA
+sdn_type: Entity
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '44252'
+    type: a.k.a.
+    category: strong
+    last_name: VENTSPILS DEVELOPMENT AGENCY
+  - uid: '44253'
+    type: a.k.a.
+    category: strong
+    last_name: VENTSPILS DEVELOPMENT ASSOCIATION
+address_list:
+  items:
+  - uid: '42479'
+    address1: Inzenieru 101A
+    city: Ventspils
+    postal_code: '3601'
+    country: Latvia
+id_list:
+  items:
+  - uid: '18552'
+    id_type: Tax ID No.
+    id_number: '40008033300'
+    id_country: Latvia
+remarks: "(Linked To: LEMBERGS, Aivars)"

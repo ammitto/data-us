@@ -1,0 +1,20 @@
+---
+uid: '37482'
+last_name: NEGA
+sdn_type: Vessel
+program_list:
+  programs:
+  - RUSSIA-EO14024
+id_list:
+  items:
+  - uid: '26669'
+    id_type: MMSI
+    id_number: '273337970'
+  - uid: '26682'
+    id_type: Vessel Registration Identification
+    id_number: RS 130280
+    id_country: Russia
+  - uid: '173414'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: LIMITED LIABILITY CORPORATION GELIOS)"

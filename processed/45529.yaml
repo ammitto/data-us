@@ -1,0 +1,44 @@
+---
+uid: '45529'
+last_name: JOINT STOCK COMPANY OMUTNINSK METALLURGICAL PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70396'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO OMUTNINSKI METALLURGICHESKI ZAVOD
+  - uid: '70397'
+    type: a.k.a.
+    category: weak
+    last_name: OMZ AO
+address_list:
+  items:
+  - uid: '67712'
+    address1: 2 Rus Kokovikhina
+    city: Omutninsk
+    postal_code: '612740'
+    country: Russia
+id_list:
+  items:
+  - uid: '35198'
+    id_type: Registration Number
+    id_number: '1024300962971'
+    id_country: Russia
+  - uid: '35199'
+    id_type: Government Gazette Number
+    id_number: '00186329'
+    id_country: Russia
+  - uid: '35200'
+    id_type: Tax ID No.
+    id_number: '4322000130'
+    id_country: Russia
+  - uid: '166072'
+    id_type: Organization Established Date
+    id_number: 04 Sep 2002
+  - uid: '175977'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

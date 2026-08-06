@@ -1,0 +1,33 @@
+---
+uid: '36297'
+last_name: SUNGNISAN TRADING CORPORATION
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+aka_list:
+  items:
+  - uid: '57150'
+    type: a.k.a.
+    category: strong
+    last_name: KOREA SUNGRISAN TRADING CORPORATION
+address_list:
+  items:
+  - uid: '54506'
+    address1: Chungsong 2-dong
+    address3: Nangnang District
+    city: Pyongyang
+    country: Korea, North
+id_list:
+  items:
+  - uid: '149868'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
+  - uid: '149870'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '149869'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+remarks: "(Linked To: MINISTRY OF ROCKET INDUSTRY)"

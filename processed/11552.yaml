@@ -1,0 +1,35 @@
+---
+uid: '11552'
+first_name: Jorge Enrique
+last_name: RINCON ORDONEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNT
+address_list:
+  items:
+  - uid: '17250'
+    address1: Transversal 24 No. 87-15
+    address2: Apto. 7000
+    city: Bogota
+    country: Colombia
+id_list:
+  items:
+  - uid: '5934'
+    id_type: Cedula No.
+    id_number: '7526915'
+    id_country: Colombia
+  - uid: '5935'
+    id_type: Passport
+    id_number: AJ842281
+    id_country: Colombia
+date_of_birth_list:
+  items:
+  - uid: '7003'
+    date_of_birth: '09 Dec 1957'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '7004'
+    place_of_birth: Armenia
+    main_entry: 'true'

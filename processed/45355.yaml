@@ -1,0 +1,43 @@
+---
+uid: '45355'
+last_name: JSC ABS ZEIM AUTOMATION
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70150'
+    type: a.k.a.
+    category: strong
+    last_name: ABS ZEIM AVTOMATIZATSIYA OAO
+address_list:
+  items:
+  - uid: '67469'
+    address1: d. 1 Ivana Yakoleva Avenue
+    city: Cheboksary
+    postal_code: '428003'
+    country: Russia
+  - uid: '67470'
+    address1: Prospekt I.Ya.Yakovleva d. 1
+    city: Cheboksary
+    postal_code: '428020'
+    country: Russia
+id_list:
+  items:
+  - uid: '35076'
+    id_type: Registration Number
+    id_number: '1022101130314'
+    id_country: Russia
+  - uid: '35077'
+    id_type: Tax ID No.
+    id_number: '2128006240'
+    id_country: Russia
+  - uid: '35079'
+    id_type: Government Gazette Number
+    id_number: '05784911'
+    id_country: Russia
+  - uid: '175969'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: ASSET AUTOMATION LLC)"

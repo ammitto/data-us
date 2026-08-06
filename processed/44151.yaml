@@ -1,0 +1,41 @@
+---
+uid: '44151'
+last_name: BUROVAYA KOMPANIYA EURASIA LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '68288'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY EVRAZIYA
+  - uid: '68289'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU BUROVAYA KOMPANIYA EVRAZIYA
+  - uid: '68290'
+    type: a.k.a.
+    category: weak
+    last_name: BKE OOO
+address_list:
+  items:
+  - uid: '65697'
+    address1: 40, 2 Ulitsa Narodnogo Opolcheniya
+    city: Moscow
+    postal_code: '123298'
+    country: Russia
+id_list:
+  items:
+  - uid: '33560'
+    id_type: Tax ID No.
+    id_number: '8608049090'
+    id_country: Russia
+  - uid: '33561'
+    id_type: Registration Number
+    id_number: '1028601443034'
+    id_country: Russia
+  - uid: '175781'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

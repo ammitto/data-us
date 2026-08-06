@@ -1,0 +1,35 @@
+---
+uid: '35779'
+first_name: Elena Aleksandrovna
+last_name: GEORGIEVA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '53669'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '25098'
+    id_type: Tax ID No.
+    id_number: '771988299175'
+    id_country: Russia
+  - uid: '148863'
+    id_type: Gender
+    id_number: Female
+  - uid: '173235'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '48861'
+    date_of_birth: 15 Feb 1977
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '48862'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'

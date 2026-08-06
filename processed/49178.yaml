@@ -1,0 +1,33 @@
+---
+uid: '49178'
+last_name: JOINT STOCK COMPANY OBORONAUTO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76648'
+    type: a.k.a.
+    category: strong
+    last_name: AO OBORONAVTO
+address_list:
+  items:
+  - uid: '74017'
+    address1: Nab. Krasnopresnenskaya D. 12, Pomeshch. 1/18
+    city: Moscow
+    postal_code: '123610'
+    country: Russia
+id_list:
+  items:
+  - uid: '40304'
+    id_type: Registration Number
+    id_number: '1227700119679'
+    id_country: Russia
+  - uid: '40305'
+    id_type: Tax ID No.
+    id_number: '7743376366'
+    id_country: Russia
+  - uid: '172125'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,44 @@
+---
+uid: '19138'
+first_name: Mercedes
+last_name: BARRIOS HERNANDEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '30191'
+    type: a.k.a.
+    category: weak
+    last_name: LA MECHE
+address_list:
+  items:
+  - uid: '29251'
+    city: Xochitepec
+    state_or_province: Morelos
+    country: Mexico
+id_list:
+  items:
+  - uid: '11427'
+    id_type: C.U.R.P.
+    id_number: BAHM710505MGRRRR07
+    id_country: Mexico
+  - uid: '11428'
+    id_type: R.F.C.
+    id_number: BAHM710505Q91
+    id_country: Mexico
+  - uid: '118762'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '18759'
+    date_of_birth: 05 May 1971
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '18760'
+    place_of_birth: Acapulco de Juarez, Guerrero, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: LAREDO DRUG TRAFFICKING ORGANIZATION)"

@@ -1,0 +1,53 @@
+---
+uid: '7210'
+first_name: Abu Hamza
+last_name: AL-MASRI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '5142'
+    type: a.k.a.
+    category: strong
+    last_name: AL-MISRI
+    first_name: Abu Hamza
+  - uid: '5143'
+    type: a.k.a.
+    category: strong
+    last_name: MUSTAFA
+    first_name: Mustafa Kamel
+  - uid: '5144'
+    type: a.k.a.
+    category: strong
+    last_name: KAMEL
+    first_name: Mustafa
+  - uid: '5148'
+    type: a.k.a.
+    category: strong
+    last_name: EMAN
+    first_name: Adam Ramsey
+address_list:
+  items:
+  - uid: '5444'
+    address1: 9 Albourne Road, Shepherds Bush
+    city: London
+    postal_code: W12 OLW
+    country: United Kingdom
+  - uid: '5445'
+    address1: 8 Adie Road, Hammersmith
+    city: London
+    postal_code: W6 OPW
+    country: United Kingdom
+id_list:
+  items:
+  - uid: '185654'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '1406'
+    date_of_birth: 15 Apr 1958
+    main_entry: 'true'

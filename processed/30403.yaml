@@ -1,0 +1,56 @@
+---
+uid: '30403'
+last_name: COAL TAR REFINING COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13876
+aka_list:
+  items:
+  - uid: '47755'
+    type: a.k.a.
+    category: weak
+    last_name: C.T.R.
+  - uid: '47756'
+    type: a.k.a.
+    category: strong
+    last_name: COKE WASTE WATER REFINING CO.
+  - uid: '47757'
+    type: a.k.a.
+    category: strong
+    last_name: COAL TAR REFINING CO.
+  - uid: '47758'
+    type: a.k.a.
+    category: weak
+    last_name: COAL TAR COMPANY
+address_list:
+  items:
+  - uid: '45955'
+    address1: No. 106, Mohtasham Kashani Ave.
+    city: Esfahan
+    country: Iran
+  - uid: '45957'
+    address1: No. 343, Zafar St., Vali-e-Asr Ave.
+    city: Tehran
+    country: Iran
+  - uid: '45958'
+    address1: Valiasr St., corner of Zafer St., No. 343
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '20542'
+    id_type: Registration Number
+    id_number: '387'
+    id_country: Iran
+  - uid: '20543'
+    id_type: National ID No.
+    id_number: '10260328063'
+    id_country: Iran
+  - uid: '138035'
+    id_type: Website
+    id_number: http://ctr-co.com
+  - uid: '138036'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: ISLAMIC REVOLUTION MOSTAZAFAN FOUNDATION)"

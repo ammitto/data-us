@@ -1,0 +1,34 @@
+---
+uid: '41065'
+last_name: LIMITED LIABILITY COMPANY ASTRAKOM
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '64033'
+    type: a.k.a.
+    category: strong
+    last_name: ASTRACOM CO. LTD.
+address_list:
+  items:
+  - uid: '61371'
+    address1: Shpalernaya Street, Building 24, Letter A, Warehouse 1-N, Office 6 &
+      7
+    state_or_province: Saint Petersburg
+    postal_code: '191123'
+    country: Russia
+id_list:
+  items:
+  - uid: '30396'
+    id_type: Registration Number
+    id_number: '1027802483972'
+    id_country: Russia
+  - uid: '30397'
+    id_type: Tax ID No.
+    id_number: '7804085896'
+    id_country: Russia
+  - uid: '173596'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

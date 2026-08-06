@@ -1,0 +1,34 @@
+---
+uid: '46528'
+last_name: LIMITED LIABILITY COMPANY SPECTRUM
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '71814'
+    type: a.k.a.
+    category: strong
+    last_name: SPEKTRUM OOO
+address_list:
+  items:
+  - uid: '69226'
+    address1: Ul. Yalagina D. 3, Pomeshcheniya 10-14, 16, 17
+    city: Elektrostal
+    state_or_province: Russia
+    postal_code: '144010'
+    country: Russia
+id_list:
+  items:
+  - uid: '36451'
+    id_type: Registration Number
+    id_number: '1105053000656'
+    id_country: Russia
+  - uid: '36452'
+    id_type: Tax ID No.
+    id_number: '5053068643'
+    id_country: Russia
+  - uid: '174991'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

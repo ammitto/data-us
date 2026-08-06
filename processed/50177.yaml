@@ -1,0 +1,48 @@
+---
+uid: '50177'
+first_name: Ilya
+last_name: MEDVEDOVSKY
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78564'
+    type: a.k.a.
+    category: strong
+    last_name: MEDVEDOVSKII
+    first_name: Ilia Davidovich
+  - uid: '78565'
+    type: a.k.a.
+    category: strong
+    last_name: MEDVEDOVSKIY
+    first_name: Ilya Davidovich
+address_list:
+  items:
+  - uid: '76174'
+    city: Saint Petersburg
+    country: Russia
+id_list:
+  items:
+  - uid: '41988'
+    id_type: Passport
+    id_number: '646432280'
+    id_country: Russia
+    expiration_date: 28 May 2017
+  - uid: '178496'
+    id_type: Gender
+    id_number: Male
+  - uid: '178497'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '78127'
+    date_of_birth: 25 Dec 1972
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '78128'
+    place_of_birth: Russia
+    main_entry: 'true'

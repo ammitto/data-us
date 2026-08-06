@@ -1,0 +1,31 @@
+---
+uid: '52344'
+last_name: TRIDENT INFINITY LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+address_list:
+  items:
+  - uid: '79965'
+    address1: Shop 113, Plot 9, Bhoomi Mall, Sector 15, CBD Belapur
+    city: Mumbai
+    postal_code: '400614'
+    country: India
+  - uid: '79966'
+    address1: F2-2A, Oceanic House, Providence Highway
+    state_or_province: Mahe
+    country: Seychelles
+id_list:
+  items:
+  - uid: '45322'
+    id_type: Identification Number
+    id_number: IMO 6443583
+  - uid: '183831'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183832'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

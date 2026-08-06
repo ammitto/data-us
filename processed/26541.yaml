@@ -1,0 +1,58 @@
+---
+uid: '26541'
+first_name: Suleyman
+last_name: SAKAN
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - SDGT
+aka_list:
+  items:
+  - uid: '84763'
+    type: a.k.a.
+    category: strong
+    last_name: SAKAN DASTGIRI
+    first_name: Soleyman
+address_list:
+  items:
+  - uid: '40345'
+    city: Istanbul
+    country: Turkey
+id_list:
+  items:
+  - uid: '17216'
+    id_type: Passport
+    id_number: U06595028
+    id_country: Turkey
+  - uid: '48086'
+    id_type: Passport
+    id_number: N97115360
+    id_country: Iran
+    expiration_date: 12 May 2027
+  - uid: '48088'
+    id_type: National ID No.
+    id_number: '63853420562'
+    id_country: Turkey
+  - uid: '48089'
+    id_type: National ID No.
+    id_number: '2830281772'
+    id_country: Iran
+  - uid: '190423'
+    id_type: Gender
+    id_number: Male
+  - uid: '186872'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '31172'
+    date_of_birth: 25 Sep 1965
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '90422'
+    place_of_birth: Maku, Iran
+    main_entry: 'true'
+remarks: "(Linked To: ANSAR EXCHANGE)"

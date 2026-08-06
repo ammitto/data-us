@@ -1,0 +1,33 @@
+---
+uid: '11898'
+first_name: Jhon Freddy
+last_name: MANCO TORRES
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '18070'
+    address1: c/o VIGILAR COLOMBIA LTDA.
+    city: Apartado
+    state_or_province: Antioquia
+    country: Colombia
+  - uid: '18071'
+    country: Colombia
+id_list:
+  items:
+  - uid: '6279'
+    id_type: Cedula No.
+    id_number: '71981992'
+    id_country: Colombia
+date_of_birth_list:
+  items:
+  - uid: '7399'
+    date_of_birth: 22 Oct 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '7400'
+    place_of_birth: Colombia
+    main_entry: 'true'

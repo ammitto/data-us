@@ -1,0 +1,36 @@
+---
+uid: '50314'
+last_name: LIMITED LIABILITY COMPANY VOSTOCHNO SIBIRSKAYA KOMPANIYA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78635'
+    type: a.k.a.
+    category: weak
+    last_name: OOO VSK
+address_list:
+  items:
+  - uid: '76241'
+    address1: d. 76
+    address2: Ul. Petra Alekseeva
+    city: Yakutsk
+    postal_code: '677015'
+    country: Russia
+id_list:
+  items:
+  - uid: '42027'
+    id_type: Registration Number
+    id_number: '1141447001926'
+    id_country: Russia
+  - uid: '42028'
+    id_type: Tax ID No.
+    id_number: '1435277560'
+    id_country: Russia
+  - uid: '178255'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: PUBLIC JOINT STOCK COMPANY YAKUTSKAYA TOPLIVNO ENERGETICHESKAYA
+  KOMPANIYA)"

@@ -1,0 +1,45 @@
+---
+uid: '35873'
+last_name: JOINT STOCK COMPANY 356 AIRCRAFT REPAIR PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56368'
+    type: a.k.a.
+    category: weak
+    last_name: 356 AIRCRAFT REPAIR PLANT
+  - uid: '56369'
+    type: a.k.a.
+    category: weak
+    last_name: AO 356 ARZ
+  - uid: '56371'
+    type: a.k.a.
+    category: weak
+    last_name: 356 ARZ PAO
+address_list:
+  items:
+  - uid: '53827'
+    address1: Ter. Engels 1
+    city: Engels
+    postal_code: '413101'
+    country: Russia
+id_list:
+  items:
+  - uid: '25199'
+    id_type: Registration Number
+    id_number: '1076449000870'
+    id_country: Russia
+  - uid: '25201'
+    id_type: Tax ID No.
+    id_number: '64449042335'
+    id_country: Russia
+  - uid: '149065'
+    id_type: Organization Established Date
+    id_number: '08 Dec 1997'
+  - uid: '173268'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: VERTOLETY ROSSII AO)"

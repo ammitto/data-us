@@ -1,0 +1,41 @@
+---
+uid: '47602'
+last_name: UPRAVLYAYUSHCHAYA KOMPANIYA UZTM KARTEKS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73717'
+    type: a.k.a.
+    category: strong
+    last_name: UK UZTM KARTEX LLC
+address_list:
+  items:
+  - uid: '71112'
+    address1: Nab. Ovchinnikovskaya D. 20, Str. 1
+    address2: Floor 8
+    address3: Komnata 50
+    city: Moscow
+    postal_code: '115035'
+    country: Russia
+  - uid: '71113'
+    address1: Proezd 1-I Krasnogvardeiskii D. 15
+    address2: Floor 34, Pomeshch. 28
+    city: Moscow
+    postal_code: '123112'
+    country: Russia
+id_list:
+  items:
+  - uid: '38157'
+    id_type: Registration Number
+    id_number: '1167746813453'
+    id_country: Russia
+  - uid: '38158'
+    id_type: Tax ID No.
+    id_number: '77272298791'
+    id_country: Russia
+  - uid: '169710'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

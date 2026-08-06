@@ -1,0 +1,44 @@
+---
+uid: '48655'
+last_name: SCIENTIFIC EQUIPMENT GROUP OF COMPANIES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75674'
+    type: a.k.a.
+    category: strong
+    last_name: NAUCHNYE PRIBORY I SISTEMY
+  - uid: '75675'
+    type: a.k.a.
+    category: strong
+    last_name: SCIENTIFIC EQUIPMENT GROUP
+address_list:
+  items:
+  - uid: '73076'
+    address1: Ul. Inzhenernaya D. 4a
+    address2: Of. 212
+    city: Novosibirsk
+    postal_code: '630128'
+    country: Russia
+  - uid: '73077'
+    address1: Pr-kt Krasnyi D. 1
+    address2: Office 214
+    city: Novosibirsk
+    postal_code: '630007'
+    country: Russia
+id_list:
+  items:
+  - uid: '39646'
+    id_type: Registration Number
+    id_number: '1145476045241'
+    id_country: Russia
+  - uid: '39647'
+    id_type: Tax ID No.
+    id_number: '5408308016'
+    id_country: Russia
+  - uid: '171326'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

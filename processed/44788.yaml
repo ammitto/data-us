@@ -1,0 +1,52 @@
+---
+uid: '44788'
+first_name: Yang
+last_name: FAN
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '70138'
+    type: a.k.a.
+    category: weak
+    last_name: CATHY
+address_list:
+  items:
+  - uid: '66666'
+    city: Zhuhai
+    country: China
+  - uid: '66667'
+    city: Hong Kong
+    country: China
+id_list:
+  items:
+  - uid: '34370'
+    id_type: National ID No.
+    id_number: '421002198510231027'
+    id_country: China
+  - uid: '34371'
+    id_type: Passport
+    id_number: EA5661672
+    id_country: China
+    issue_date: 02 Jul 2017
+    expiration_date: 02 Jul 2027
+  - uid: '165028'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '165032'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '65029'
+    date_of_birth: 23 Oct 1985
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '65030'
+    place_of_birth: China
+    main_entry: 'true'
+remarks: "(Linked To: HONGKONG HIMARK ELECTRON MODEL LIMITED)"

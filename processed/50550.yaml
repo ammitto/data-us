@@ -1,0 +1,41 @@
+---
+uid: '50550'
+first_name: Ivan Atzayacatl
+last_name: CASTANEDA MEZA
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '79644'
+    type: a.k.a.
+    category: weak
+    last_name: BONQUES BROTHERS
+  - uid: '79649'
+    type: a.k.a.
+    category: weak
+    last_name: BONQUES, Axa
+address_list:
+  items:
+  - uid: '76649'
+    country: Mexico
+id_list:
+  items:
+  - uid: '42378'
+    id_type: C.U.R.P.
+    id_number: CAMI840912HNTSZV09
+    id_country: Mexico
+  - uid: '178727'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '78726'
+    date_of_birth: 12 Sep 1984
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '78728'
+    place_of_birth: Nayarit, Mexico
+    main_entry: 'true'

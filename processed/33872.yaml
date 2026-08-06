@@ -1,0 +1,28 @@
+---
+uid: '33872'
+first_name: Radovan
+last_name: RADIC
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+address_list:
+  items:
+  - uid: '51212'
+    country: Kosovo
+id_list:
+  items:
+  - uid: '23778'
+    id_type: Identification Number
+    id_number: '005221713'
+    id_country: Serbia
+    expiration_date: 25 Mar 2024
+  - uid: '144877'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '45305'
+    date_of_birth: 19 Oct 1981
+    main_entry: 'true'
+remarks: "(Linked To: VESELINOVIC, Zvonko)"

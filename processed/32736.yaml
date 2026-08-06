@@ -1,0 +1,44 @@
+---
+uid: '32736'
+first_name: Konstantin
+last_name: KUDRYAVTSEV
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+  - MAGNIT
+aka_list:
+  items:
+  - uid: '51483'
+    type: a.k.a.
+    category: strong
+    last_name: KUDRYAVTSEV
+    first_name: Konstantin Borisovich
+  - uid: '51484'
+    type: a.k.a.
+    category: strong
+    last_name: SOKOLOV
+    first_name: Konstantin
+  - uid: '51485'
+    type: a.k.a.
+    category: strong
+    last_name: SOKOLOV
+    first_name: Konstantin Yevgenievich
+address_list:
+  items:
+  - uid: '49309'
+    country: Russia
+id_list:
+  items:
+  - uid: '142396'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '42398'
+    date_of_birth: 28 Apr 1980
+    main_entry: 'true'
+  - uid: '42399'
+    date_of_birth: 28 Apr 1979
+    main_entry: 'false'
+remarks: "(Linked To: FEDERAL SECURITY SERVICE)"

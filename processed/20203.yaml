@@ -1,0 +1,53 @@
+---
+uid: '20203'
+last_name: OAO 'URANIS-RADIOSISTEMY'
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13685
+aka_list:
+  items:
+  - uid: '31837'
+    type: a.k.a.
+    category: strong
+    last_name: OJSC 'URANIS RADIO SYSTEMS'
+  - uid: '31838'
+    type: a.k.a.
+    category: strong
+    last_name: URANIS-RADIOSISTEMY OAO
+  - uid: '31840'
+    type: a.k.a.
+    category: strong
+    last_name: OJSC URANIS-RADIOSISTEMY
+address_list:
+  items:
+  - uid: '30517'
+    address1: 33 G, Vakulenchuk Street
+    city: Sevastopol
+    state_or_province: Crimea
+    postal_code: '99053'
+    country: Ukraine
+id_list:
+  items:
+  - uid: '12462'
+    id_type: Registration ID
+    id_number: '1149204003233'
+  - uid: '12463'
+    id_type: Tax ID No.
+    id_number: '9201001120'
+  - uid: '143922'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '120675'
+    id_type: Website
+    id_number: www.uranis.net
+  - uid: '120672'
+    id_type: Email Address
+    id_number: info@uranis.net
+  - uid: '120673'
+    id_type: Email Address
+    id_number: uranis@uranis.net
+  - uid: '120674'
+    id_type: Email Address
+    id_number: vlad_k@uranis.net

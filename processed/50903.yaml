@@ -1,0 +1,32 @@
+---
+uid: '50903'
+last_name: ENERGOTEST LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '77298'
+    address1: Ul. Avtozavodskaya D. 14/23
+    city: Moscow
+    postal_code: '115280'
+    country: Russia
+  - uid: '77299'
+    address1: Ul. Leninskaya Sloboda D. 23, Str. 2
+    city: Moscow
+    postal_code: '115280'
+    country: Russia
+id_list:
+  items:
+  - uid: '42895'
+    id_type: Registration Number
+    id_number: '5067746397087'
+    id_country: Russia
+  - uid: '42896'
+    id_type: Tax ID No.
+    id_number: '7725580753'
+    id_country: Russia
+  - uid: '179690'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

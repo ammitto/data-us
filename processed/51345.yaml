@@ -1,0 +1,54 @@
+---
+uid: '51345'
+last_name: JOINT STOCK COMPANY PERSPECTIVE TECHNOLOGIES CENTER
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80514'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO TSENTR PERSPEKTIVNYKH TEKHNOLOGI
+  - uid: '80515'
+    type: a.k.a.
+    category: weak
+    last_name: JSC CPT
+  - uid: '80516'
+    type: a.k.a.
+    category: weak
+    last_name: TSPT AO
+address_list:
+  items:
+  - uid: '78183'
+    address1: Sh. Kashirskoe
+    address2: D. 44
+    address3: K. 2
+    city: Moscow
+    postal_code: '115409'
+    country: Russia
+id_list:
+  items:
+  - uid: '43622'
+    id_type: Registration Number
+    id_number: '1027700343626'
+    id_country: Russia
+  - uid: '43623'
+    id_type: Tax ID No.
+    id_number: '7724185856'
+    id_country: Russia
+  - uid: '43624'
+    id_type: Government Gazette Number
+    id_number: '42935911'
+    id_country: Russia
+  - uid: '180735'
+    id_type: Organization Established Date
+    id_number: 11 Jul 1996
+  - uid: '180736'
+    id_type: Organization Established Date
+    id_number: 22 Oct 2002
+  - uid: '180737'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: CJSC PERSPECTIVE TECHNOLOGIES AGENCY)"

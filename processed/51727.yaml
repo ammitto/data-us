@@ -1,0 +1,52 @@
+---
+uid: '51727'
+last_name: LIMITED LIABILITY COMPANY BANK ROUND
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '81036'
+    type: a.k.a.
+    category: strong
+    last_name: FERROBANK LLC
+  - uid: '81037'
+    type: a.k.a.
+    category: strong
+    last_name: SEVERO VOSTOCHNY INVESTICIONNY BANK
+address_list:
+  items:
+  - uid: '78823'
+    address1: Shosse Rublevskoe 28
+    city: Moscow
+    postal_code: '121609'
+    country: Russia
+id_list:
+  items:
+  - uid: '44303'
+    id_type: Global Intermediary Identification Number
+    id_number: WMPFR8.99999.SL.643
+  - uid: '44304'
+    id_type: Legal Entity Number
+    id_number: 2534007K00A37GLA3D37
+  - uid: '44305'
+    id_type: Registration Number
+    id_number: '1027700140753'
+    id_country: Russia
+  - uid: '44306'
+    id_type: Tax ID No.
+    id_number: '7712002554'
+    id_country: Russia
+  - uid: '181832'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '181835'
+    id_type: SWIFT/BIC
+    id_number: SVIBRUMM
+  - uid: '181834'
+    id_type: Website
+    id_number: www.round.ru
+  - uid: '181833'
+    id_type: Target Type
+    id_number: Financial Institution

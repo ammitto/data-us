@@ -1,0 +1,61 @@
+---
+uid: '57696'
+first_name: Yousef
+last_name: EBRAHIMI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '89280'
+    type: a.k.a.
+    category: strong
+    last_name: IBRAHIMI
+    first_name: Yusuf
+address_list:
+  items:
+  - uid: '88483'
+    country: Iran
+  - uid: '88542'
+    country: Turkey
+id_list:
+  items:
+  - uid: '52147'
+    id_type: National ID No.
+    id_number: '1501300148'
+    id_country: Iran
+  - uid: '52148'
+    id_type: National ID No.
+    id_number: '72376169360'
+    id_country: Turkey
+  - uid: '52149'
+    id_type: Passport
+    id_number: V45786901
+    id_country: Iran
+  - uid: '52206'
+    id_type: Passport
+    id_number: U23890441
+    id_country: Turkey
+    expiration_date: 22 Feb 2031
+  - uid: '52207'
+    id_type: Passport
+    id_number: RA053188
+    id_country: Dominica
+  - uid: '198143'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '198106'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '98104'
+    date_of_birth: 16 Dec 1977
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '98105'
+    place_of_birth: Ahar, Iran
+    main_entry: 'true'
+remarks: "(Linked To: EBRAHIMI AND ASSOCIATES PARTNERSHIP COMPANY)"

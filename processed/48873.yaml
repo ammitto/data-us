@@ -1,0 +1,30 @@
+---
+uid: '48873'
+first_name: Aleksey Vasilyevich
+last_name: LISYUK
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '73509'
+    country: Russia
+id_list:
+  items:
+  - uid: '171579'
+    id_type: Gender
+    id_number: Male
+  - uid: '176654'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '71578'
+    date_of_birth: '1984'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '71580'
+    place_of_birth: Ussuriysk, Russia
+    main_entry: 'true'

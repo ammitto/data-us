@@ -1,0 +1,74 @@
+---
+uid: '7831'
+first_name: Lionel
+last_name: DUMONT
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '5638'
+    type: a.k.a.
+    category: strong
+    last_name: BROUGERE
+    first_name: Jacques
+  - uid: '5639'
+    type: a.k.a.
+    category: strong
+    last_name: BRUGERE
+    first_name: Jacques
+  - uid: '6642'
+    type: a.k.a.
+    category: weak
+    last_name: BILAL
+  - uid: '6643'
+    type: a.k.a.
+    category: weak
+    last_name: ABU KHAMZA
+  - uid: '6644'
+    type: a.k.a.
+    category: weak
+    last_name: ABOU HAMZA
+  - uid: '6645'
+    type: a.k.a.
+    category: weak
+    last_name: ABOU HANZA
+  - uid: '6646'
+    type: a.k.a.
+    category: weak
+    last_name: LAJONEL DIMON
+  - uid: '6647'
+    type: a.k.a.
+    category: weak
+    last_name: BILAL KUMKAL
+  - uid: '6648'
+    type: a.k.a.
+    category: weak
+    last_name: KOUMAL
+  - uid: '6649'
+    type: a.k.a.
+    category: weak
+    last_name: HAMZA
+id_list:
+  items:
+  - uid: '185721'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '2038'
+    date_of_birth: 21 Jan 1971
+    main_entry: 'true'
+  - uid: '2040'
+    date_of_birth: 19 Jan 1971
+    main_entry: 'false'
+  - uid: '3730'
+    date_of_birth: 29 Jan 1975
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '2039'
+    place_of_birth: Roubaix, France
+    main_entry: 'true'

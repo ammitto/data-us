@@ -1,0 +1,50 @@
+---
+uid: '26746'
+last_name: VOLTRA TRANSCOR ENERGY BVBA
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '42263'
+    type: a.k.a.
+    category: strong
+    last_name: VOLTRA TRANSCOR ENERGY
+  - uid: '42264'
+    type: f.k.a.
+    category: weak
+    last_name: SOFTLINE
+address_list:
+  items:
+  - uid: '40564'
+    address1: Frankrijklei 156 (5deV)
+    city: Antwerpen
+    postal_code: '2000'
+    country: Belgium
+id_list:
+  items:
+  - uid: '17396'
+    id_type: V.A.T. Number
+    id_number: BE0443680473
+    id_country: Belgium
+  - uid: '17397'
+    id_type: Enterprise Number
+    id_number: '0443680473'
+    id_country: Belgium
+  - uid: '17398'
+    id_type: Branch Unit Number
+    id_number: '2052342727'
+    id_country: Belgium
+  - uid: '131505'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
+      Sanctions Regulations
+  - uid: '131491'
+    id_type: D-U-N-S Number
+    id_number: 37-339-4675
+  - uid: '186889'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: "(Linked To: BAZZI, Wael)"

@@ -1,0 +1,31 @@
+---
+uid: '15437'
+last_name: EX-301
+sdn_type: Aircraft
+program_list:
+  programs:
+  - SDGT
+  - NPWMD
+  - IFSR
+id_list:
+  items:
+  - uid: '133542'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '112314'
+    id_type: Aircraft Construction Number (also called L/N or S/N or F/N)
+    id_number: '524'
+  - uid: '112315'
+    id_type: Aircraft Manufacture Date
+    id_number: 27 Sep 1989
+  - uid: '112316'
+    id_type: Aircraft Model
+    id_number: A310-304
+  - uid: '112317'
+    id_type: Aircraft Operator
+    id_number: MAHAN AIR
+  - uid: '186124'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: "(Linked To: MAHAN AIR)"

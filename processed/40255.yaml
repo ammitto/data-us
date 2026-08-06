@@ -1,0 +1,44 @@
+---
+uid: '40255'
+first_name: Gennadiy Oleksandrovych
+last_name: GARKUSHA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '62613'
+    type: a.k.a.
+    category: strong
+    last_name: GARKUSHA
+    first_name: Gennadiy Aleksandrovich
+  - uid: '62614'
+    type: a.k.a.
+    category: strong
+    last_name: HARKUSHA
+    first_name: Hennadiy
+address_list:
+  items:
+  - uid: '60002'
+    address1: 11 Petrenko St.
+    city: Kherson
+    state_or_province: Kherson Region
+    country: Ukraine
+id_list:
+  items:
+  - uid: '29439'
+    id_type: Tax ID No.
+    id_number: '2486201770'
+    id_country: Ukraine
+  - uid: '174058'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '157266'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '57265'
+    date_of_birth: 26 Jan 1968
+    main_entry: 'true'

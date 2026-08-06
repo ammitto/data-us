@@ -1,0 +1,43 @@
+---
+uid: '53414'
+first_name: Yuri Vladimirovich
+last_name: BELYAKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '83378'
+    type: a.k.a.
+    category: strong
+    last_name: BELIAKOV
+    first_name: Yury
+address_list:
+  items:
+  - uid: '81543'
+    country: Russia
+id_list:
+  items:
+  - uid: '46615'
+    id_type: Tax ID No.
+    id_number: '540697174841'
+    id_country: Russia
+  - uid: '187837'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '187836'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '87835'
+    date_of_birth: 24 Oct 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '87841'
+    place_of_birth: Vologodskaya Oblast, Russia
+    main_entry: 'true'
+remarks: "(Linked To: AL-JAMAL, Sa'id Ahmad Muhammad)"

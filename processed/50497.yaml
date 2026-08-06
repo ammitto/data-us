@@ -1,0 +1,55 @@
+---
+uid: '50497'
+last_name: TECHNOMAR
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78923'
+    type: a.k.a.
+    category: strong
+    last_name: TEHNOMAR
+  - uid: '78924'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOY OTVETSTVENNOSTYU TEKHNOMAR
+  - uid: '78925'
+    type: a.k.a.
+    category: strong
+    last_name: OOO TEKHNOMAR
+  - uid: '78926'
+    type: a.k.a.
+    category: strong
+    last_name: OOO TEXHOMAP
+address_list:
+  items:
+  - uid: '76558'
+    address1: 12 Aviamotornaya Street
+    city: Moscow
+    country: Russia
+  - uid: '76559'
+    address1: 29 Entuziastov Highway
+    address2: Floor 11
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '42294'
+    id_type: Tax ID No.
+    id_number: '7733276404'
+    id_country: Russia
+  - uid: '42295'
+    id_type: Registration Number
+    id_number: '1167746298653'
+    id_country: Russia
+  - uid: '178542'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '178543'
+    id_type: Organization Established Date
+    id_number: 24 Mar 2016
+  - uid: '178544'
+    id_type: 'Organization Type:'
+    id_number: Wholesale of other machinery and equipment

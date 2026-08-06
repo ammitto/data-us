@@ -1,0 +1,46 @@
+---
+uid: '34139'
+first_name: Manuel Helder
+last_name: VIEIRA DIAS
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '53533'
+    type: a.k.a.
+    category: weak
+    last_name: KOPELIPA
+  - uid: '53646'
+    type: a.k.a.
+    category: strong
+    last_name: VIEIRA DIAS JUNIOR
+    first_name: Manuel Helder
+address_list:
+  items:
+  - uid: '51172'
+    address1: Rua de Coimbra, No 3
+    city: Luanda
+    state_or_province: Luanda
+    country: Angola
+id_list:
+  items:
+  - uid: '23779'
+    id_type: Passport
+    id_number: N2360712
+    id_country: Angola
+    expiration_date: 07 Aug 2028
+  - uid: '145309'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '45308'
+    date_of_birth: 04 Oct 1953
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '45306'
+    place_of_birth: Luanda, Angola
+    main_entry: 'true'

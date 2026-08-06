@@ -1,0 +1,57 @@
+---
+uid: '39657'
+first_name: Abbas
+last_name: NILFORUSHAN
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+  - IFSR
+  - IRGC
+aka_list:
+  items:
+  - uid: '61788'
+    type: a.k.a.
+    category: strong
+    last_name: NILFOROUSHAN
+    first_name: Abbas
+  - uid: '61890'
+    type: a.k.a.
+    category: strong
+    last_name: NILFRUSHAN DARDASHTI
+    first_name: Abbas Mortaza
+  - uid: '61891'
+    type: a.k.a.
+    category: strong
+    last_name: NILFOROUSHAN DARDASHTI
+    first_name: Abbas
+address_list:
+  items:
+  - uid: '59046'
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '28857'
+    id_type: Passport
+    id_number: P46631463
+    id_country: Iran
+    expiration_date: 26 Sep 2023
+  - uid: '155955'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '155954'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '55951'
+    date_of_birth: 23 Aug 1966
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '55952'
+    place_of_birth: Isfahan, Iran
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS)"
+title: Deputy Commander for Operations

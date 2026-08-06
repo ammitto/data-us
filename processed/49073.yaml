@@ -1,0 +1,44 @@
+---
+uid: '49073'
+first_name: "'Abdallah Najib Ahmad"
+last_name: AL-JAMAL
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '76465'
+    type: a.k.a.
+    category: strong
+    last_name: AL-JAMAL
+    first_name: "'Abdallah"
+  - uid: '76466'
+    type: a.k.a.
+    category: strong
+    last_name: SALIH
+    first_name: Qasim Nasir Muhammad
+address_list:
+  items:
+  - uid: '73830'
+    country: Yemen
+id_list:
+  items:
+  - uid: '40158'
+    id_type: Passport
+    id_number: '06134611'
+    id_country: Yemen
+    expiration_date: 26 Feb 2026
+  - uid: '171944'
+    id_type: Gender
+    id_number: Male
+  - uid: '171943'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '71945'
+    date_of_birth: 02 Feb 1997
+    main_entry: 'true'
+remarks: "(Linked To: AL-JAMAL, Sa'id Ahmad Muhammad)"

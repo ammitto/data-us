@@ -1,0 +1,28 @@
+---
+uid: '8187'
+first_name: Ali Saddam Hussein
+last_name: AL-TIKRITI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAQ2
+aka_list:
+  items:
+  - uid: '6300'
+    type: a.k.a.
+    category: weak
+    last_name: HASSAN
+date_of_birth_list:
+  items:
+  - uid: '2540'
+    date_of_birth: '1980'
+    main_entry: 'true'
+  - uid: '2543'
+    date_of_birth: '1983'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '2541'
+    place_of_birth: Iraq
+    main_entry: 'true'
+remarks: son of Saddam Hussein al-Tikriti

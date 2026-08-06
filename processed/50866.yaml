@@ -1,0 +1,40 @@
+---
+uid: '50866'
+first_name: Zhanpeng
+last_name: HUANG
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '77228'
+    country: China
+id_list:
+  items:
+  - uid: '42834'
+    id_type: National ID No.
+    id_number: '441522199405202831'
+    id_country: China
+  - uid: '179605'
+    id_type: Gender
+    id_number: Male
+  - uid: '179606'
+    id_type: Phone Number
+    id_number: '8615697580537'
+  - uid: '179610'
+    id_type: Phone Number
+    id_number: '8618826483838'
+  - uid: '179617'
+    id_type: Phone Number
+    id_number: '8618826483830'
+date_of_birth_list:
+  items:
+  - uid: '79603'
+    date_of_birth: 20 May 1994
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '92687'
+    place_of_birth: China
+    main_entry: 'true'

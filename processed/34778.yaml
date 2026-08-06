@@ -1,0 +1,43 @@
+---
+uid: '34778'
+last_name: STATE AUTHORITY FOR MILITARY INDUSTRY OF THE REPUBLIC OF BELARUS
+sdn_type: Entity
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '54597'
+    type: a.k.a.
+    category: strong
+    last_name: STATE MILITARY-INDUSTRIAL COMMITTEE OF BELARUS
+  - uid: '54598'
+    type: a.k.a.
+    category: strong
+    last_name: BELARUSIAN STATE AUTHORITY FOR MILITARY INDUSTRY
+  - uid: '75786'
+    type: a.k.a.
+    category: strong
+    last_name: GOSKOMVOYENPROM
+  - uid: '75788'
+    type: a.k.a.
+    category: strong
+    last_name: DZIARZAUNY VAJENNA-PRAMYSLOVY KAMITET
+address_list:
+  items:
+  - uid: '52149'
+    address1: 115 Nezavisimosti Avenue
+    city: Minsk
+    postal_code: '220114'
+    country: Belarus
+id_list:
+  items:
+  - uid: '146249'
+    id_type: Organization Established Date
+    id_number: 30 Dec 2003
+  - uid: '171111'
+    id_type: Website
+    id_number: http://www.vpk.gov.by/
+  - uid: '146250'
+    id_type: Target Type
+    id_number: Government Entity

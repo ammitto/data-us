@@ -1,0 +1,31 @@
+---
+uid: '28003'
+first_name: Mohammad Javad
+last_name: AZARI JAHROMI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN
+  - IRAN-TRA
+address_list:
+  items:
+  - uid: '42353'
+    country: Iran
+id_list:
+  items:
+  - uid: '133307'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '133308'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '33305'
+    date_of_birth: 16 Sep 1981
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '33306'
+    place_of_birth: Jahrom, Iran
+    main_entry: 'true'

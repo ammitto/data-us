@@ -1,0 +1,50 @@
+---
+uid: '39141'
+last_name: LIMITED LIABILITY COMPANY GROUP OF COMPANIES AKVARIUS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '61208'
+    type: a.k.a.
+    category: strong
+    last_name: LLC GRUPPA AKVARIUS
+  - uid: '61209'
+    type: a.k.a.
+    category: weak
+    last_name: AQUARIUS
+  - uid: '61210'
+    type: a.k.a.
+    category: strong
+    last_name: LLC PRODUCTION COMPANY AQUARIUS
+address_list:
+  items:
+  - uid: '58276'
+    address1: Vl6str1 22 km Kiyevskoye Highway
+    city: Moscow
+    postal_code: '119027'
+    country: Russia
+  - uid: '58277'
+    address1: Kievskoe Shosse, 22-km
+    address2: 6, Bldg. 1
+    city: Moscow
+    postal_code: '108811'
+    country: Russia
+id_list:
+  items:
+  - uid: '28346'
+    id_type: Tax ID No.
+    id_number: '7701321693'
+    id_country: Russia
+  - uid: '28347'
+    id_type: Registration Number
+    id_number: '1037701002217'
+    id_country: Russia
+  - uid: '174729'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '154896'
+    id_type: Organization Established Date
+    id_number: '09 Jan 2003'

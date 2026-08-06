@@ -1,0 +1,49 @@
+---
+uid: '49515'
+first_name: Oleg Petrovich
+last_name: SHPAKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77247'
+    type: a.k.a.
+    category: strong
+    last_name: SHPAKAU
+    first_name: Aleh Piatrovich
+address_list:
+  items:
+  - uid: '74712'
+    address1: 2 Pervomayskaya Street
+    address2: Apartment 9
+    city: Mogilev
+    country: Belarus
+id_list:
+  items:
+  - uid: '40870'
+    id_type: National ID No.
+    id_number: 3040464M067PB2
+    id_country: Belarus
+  - uid: '40871'
+    id_type: Passport
+    id_number: KB1586184
+    id_country: Belarus
+  - uid: '172616'
+    id_type: Gender
+    id_number: Male
+  - uid: '172753'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '72613'
+    date_of_birth: 04 Apr 1964
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '72614'
+    place_of_birth: Mogilev, Belarus
+    main_entry: 'true'
+remarks: "(Linked To: JOINT STOCK COMPANY BELARUSREZINOTEKHNIKA)"

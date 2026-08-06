@@ -1,0 +1,34 @@
+---
+uid: '48481'
+last_name: LATICOM LTD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '72728'
+    address1: 4806-I Proezd Zelenograd
+    address2: 4 St
+    city: Moscow
+    country: Russia
+  - uid: '72729'
+    address1: Proezd 4922-I D. 4
+    address2: Str. 3
+    address3: Pomeshch. 3/1
+    city: Zelenograd
+    postal_code: '124498'
+    country: Russia
+id_list:
+  items:
+  - uid: '39373'
+    id_type: Registration Number
+    id_number: '5077746296800'
+    id_country: Russia
+  - uid: '39374'
+    id_type: Tax ID No.
+    id_number: '7735528382'
+    id_country: Russia
+  - uid: '171337'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

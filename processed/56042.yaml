@@ -1,0 +1,42 @@
+---
+uid: '56042'
+first_name: Sung Hyok
+last_name: JONG
+sdn_type: Individual
+program_list:
+  programs:
+  - DPRK3
+aka_list:
+  items:
+  - uid: '87047'
+    type: a.k.a.
+    category: strong
+    last_name: CHONG
+    first_name: Sung-hyok
+address_list:
+  items:
+  - uid: '85831'
+    city: Vladivostok
+    country: Russia
+id_list:
+  items:
+  - uid: '50201'
+    id_type: Passport
+    id_number: '754420338'
+    id_country: Korea, North
+  - uid: '194195'
+    id_type: Gender
+    id_number: Male
+  - uid: '194196'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '194197'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+date_of_birth_list:
+  items:
+  - uid: '94193'
+    date_of_birth: 19 Aug 1971
+    main_entry: 'true'
+remarks: "(Linked To: FOREIGN TRADE BANK OF THE DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA)"

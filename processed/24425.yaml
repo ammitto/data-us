@@ -1,0 +1,32 @@
+---
+uid: '24425'
+first_name: Jose David
+last_name: CABELLO RONDON
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+address_list:
+  items:
+  - uid: '36894'
+    state_or_province: Monagas
+    country: Venezuela
+id_list:
+  items:
+  - uid: '15581'
+    id_type: Cedula No.
+    id_number: '10300226'
+    id_country: Venezuela
+  - uid: '15582'
+    id_type: Passport
+    id_number: B0133819
+    id_country: Venezuela
+    expiration_date: '08 Apr 2013'
+  - uid: '126743'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '26741'
+    date_of_birth: 11 Sep 1969
+    main_entry: 'true'

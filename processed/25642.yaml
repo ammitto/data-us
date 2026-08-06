@@ -1,0 +1,32 @@
+---
+uid: '25642'
+last_name: POWER PLANT EQUIPMENT MANUFACTURING COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN
+aka_list:
+  items:
+  - uid: '40284'
+    type: a.k.a.
+    category: weak
+    last_name: POWERPLANT EQUIPMENT MANUFACTURING COMPANY
+  - uid: '40285'
+    type: a.k.a.
+    category: strong
+    last_name: SATNA COMPANY
+  - uid: '40757'
+    type: a.k.a.
+    category: weak
+    last_name: SATNA
+address_list:
+  items:
+  - uid: '38786'
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '129576'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: ATOMIC ENERGY ORGANIZATION OF IRAN)"

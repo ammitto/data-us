@@ -1,0 +1,36 @@
+---
+uid: '50373'
+last_name: LIMITED LIABILITY COMPANY SIBIRSKIY INSTITUT GORNOVO DELA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78732'
+    type: a.k.a.
+    category: strong
+    last_name: LLC SIGD
+address_list:
+  items:
+  - uid: '76356'
+    address1: Pom. 3
+    address2: D. 7/2
+    address3: Prospekt Pritomski
+    city: Kemerovo
+    postal_code: '650066'
+    country: Russia
+id_list:
+  items:
+  - uid: '42126'
+    id_type: Registration Number
+    id_number: '1034223011570'
+    id_country: Russia
+  - uid: '42127'
+    id_type: Tax ID No.
+    id_number: '4223035036'
+    id_country: Russia
+  - uid: '178343'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: JOINT STOCK COMPANY HOLDINGOVAYA KOMPANIYA SDS UGOL)"

@@ -1,0 +1,43 @@
+---
+uid: '11949'
+first_name: Miguel Angel
+last_name: SOTO PARRA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '12679'
+    type: a.k.a.
+    category: strong
+    last_name: SOTO PARUA
+    first_name: Miguel Angel
+address_list:
+  items:
+  - uid: '18136'
+    country: Mexico
+id_list:
+  items:
+  - uid: '6336'
+    id_type: C.U.R.P.
+    id_number: SOPM720913HPLTRG03
+    id_country: Mexico
+  - uid: '6337'
+    id_type: Cartilla de Servicio Militar Nacional
+    id_number: C26300
+    id_country: Mexico
+  - uid: '6338'
+    id_type: R.F.C.
+    id_number: SOPM720913
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '7521'
+    date_of_birth: 13 Sep 1972
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '7522'
+    place_of_birth: Puebla, Puebla
+    main_entry: 'true'

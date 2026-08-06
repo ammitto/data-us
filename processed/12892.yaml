@@ -1,0 +1,54 @@
+---
+uid: '12892'
+first_name: Kassem Mohamad
+last_name: SALEH
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '14641'
+    type: a.k.a.
+    category: strong
+    last_name: SALEH
+    first_name: Qasim
+address_list:
+  items:
+  - uid: '20415'
+    address1: 'Calle 10A # 11A-02'
+    city: Maicao
+    country: Colombia
+  - uid: '20416'
+    address1: Ave Pedro Melean, cruce con Calle No. 73
+    address2: Local No. 22
+    address3: Sector Santa Rosa
+    city: Valencia
+    country: Venezuela
+id_list:
+  items:
+  - uid: '7290'
+    id_type: Passport
+    id_number: '1243712'
+    id_country: Lebanon
+  - uid: '7291'
+    id_type: National Foreign ID Number
+    id_number: '264619'
+    id_country: Colombia
+  - uid: '7292'
+    id_type: National Foreign ID Number
+    id_number: '22075502'
+    id_country: Venezuela
+  - uid: '7293'
+    id_type: 'NIT #'
+    id_number: '6390003192'
+    id_country: Colombia
+  - uid: '7294'
+    id_type: Matricula Mercantil No
+    id_number: '0081931'
+date_of_birth_list:
+  items:
+  - uid: '8671'
+    date_of_birth: 10 Feb 1980
+    main_entry: 'true'
+remarks: "(Linked To: IMPORTADORA SILVANIA, C.A.; Linked To: BODEGA MICHIGAN)"

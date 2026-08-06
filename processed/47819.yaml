@@ -1,0 +1,34 @@
+---
+uid: '47819'
+first_name: Konstantin Ivanovich
+last_name: STRUKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '71557'
+    country: Russia
+id_list:
+  items:
+  - uid: '38525'
+    id_type: Tax ID No.
+    id_number: '741600653047'
+    id_country: Russia
+  - uid: '176469'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '169311'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '69305'
+    date_of_birth: 10 Sep 1958
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '69308'
+    place_of_birth: Dimitrovo, Russia
+    main_entry: 'true'

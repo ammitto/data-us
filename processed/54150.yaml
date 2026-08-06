@@ -1,0 +1,37 @@
+---
+uid: '54150'
+first_name: Dehui
+last_name: QIN
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+address_list:
+  items:
+  - uid: '82647'
+    city: Shanghai
+    country: China
+id_list:
+  items:
+  - uid: '47639'
+    id_type: National ID No.
+    id_number: '420529197003112113'
+    id_country: China
+  - uid: '189716'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '189711'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '89715'
+    date_of_birth: 11 Mar 1970
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '89712'
+    place_of_birth: Wufeng Tujia Autonomous County, Yichang, Hubei Province, China
+    main_entry: 'true'
+remarks: "(Linked To: SHANGHAI TANCHAIN NEW MATERIAL TECHNOLOGY CO LTD)"

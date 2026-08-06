@@ -1,0 +1,39 @@
+---
+uid: '15045'
+last_name: DORE
+sdn_type: Vessel
+program_list:
+  programs:
+  - IRAN
+aka_list:
+  items:
+  - uid: '22157'
+    type: f.k.a.
+    category: strong
+    last_name: DAVAR
+  - uid: '24765'
+    type: f.k.a.
+    category: strong
+    last_name: COMPANION
+  - uid: '40671'
+    type: f.k.a.
+    category: strong
+    last_name: DAL LAKE
+id_list:
+  items:
+  - uid: '8054'
+    id_type: Vessel Registration Identification
+    id_number: IMO 9357717
+  - uid: '8123'
+    id_type: MMSI
+    id_number: '677049300'
+  - uid: '111467'
+    id_type: Former Vessel Flag
+    id_number: Cyprus
+  - uid: '112998'
+    id_type: Former Vessel Flag
+    id_number: Tanzania
+  - uid: '119260'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: NATIONAL IRANIAN TANKER COMPANY)"

@@ -1,0 +1,35 @@
+---
+uid: '42098'
+last_name: MIKHAILOVSKIY GORNO OBOGATITELNIY KOMBINAT JOINT STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '62868'
+    address1: Ulitsa Lenina 21
+    city: Zheleznogorsk
+    state_or_province: Kursk Region
+    postal_code: '307170'
+    country: Russia
+id_list:
+  items:
+  - uid: '31580'
+    id_type: Registration Number
+    id_number: '1024601215088'
+    id_country: Russia
+  - uid: '31581'
+    id_type: Tax ID No.
+    id_number: '4633001577'
+    id_country: Russia
+  - uid: '175404'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '160350'
+    id_type: Organization Established Date
+    id_number: 24 Jul 1996
+  - uid: '160351'
+    id_type: 'Organization Type:'
+    id_number: Mining of iron ores
+remarks: "(Linked To: HOLDINGOVAYA KOMPANIYA METALLOINVEST AO)"

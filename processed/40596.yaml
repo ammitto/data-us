@@ -1,0 +1,38 @@
+---
+uid: '40596'
+first_name: Myo Myint
+last_name: OO
+sdn_type: Individual
+program_list:
+  programs:
+  - BURMA-EO14014
+address_list:
+  items:
+  - uid: '60603'
+    country: Burma
+id_list:
+  items:
+  - uid: '29837'
+    id_type: Passport
+    id_number: DM002422
+    id_country: Burma
+    issue_date: 19 Mar 2014
+    expiration_date: 18 Mar 2024
+  - uid: '29838'
+    id_type: National ID No.
+    id_number: 12DAGATA024453
+    id_country: Burma
+  - uid: '158030'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '58027'
+    date_of_birth: 23 Jun 1960
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '58028'
+    place_of_birth: Yangon, Burma
+    main_entry: 'true'
+title: Union Minister of Energy

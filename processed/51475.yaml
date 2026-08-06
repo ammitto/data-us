@@ -1,0 +1,41 @@
+---
+uid: '51475'
+last_name: AKTSIONERNOE OBSHCHESTVO VEDENIE REESTROV KOMPANII
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80726'
+    type: a.k.a.
+    category: strong
+    last_name: AO VRK
+address_list:
+  items:
+  - uid: '78438'
+    address1: Prosp. Lenina D. 28
+    city: Yekaterinburg
+    postal_code: '620014'
+    country: Russia
+  - uid: '78439'
+    address1: Ul. Dobrolyubova D. 16, Floor 5
+    city: Yekaterinburg
+    postal_code: '620014'
+    country: Russia
+id_list:
+  items:
+  - uid: '43843'
+    id_type: Registration Number
+    id_number: '1026605227923'
+    id_country: Russia
+  - uid: '43844'
+    id_type: Tax ID No.
+    id_number: '6661049239'
+    id_country: Russia
+  - uid: '182821'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '181015'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

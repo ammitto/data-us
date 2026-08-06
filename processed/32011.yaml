@@ -1,0 +1,62 @@
+---
+uid: '32011'
+first_name: Vassil Kroumov
+last_name: BOJKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '50190'
+    type: a.k.a.
+    category: strong
+    last_name: BOZHKOV
+    first_name: Vasil
+  - uid: '50191'
+    type: a.k.a.
+    category: weak
+    last_name: Cherepa
+  - uid: '50192'
+    type: a.k.a.
+    category: weak
+    last_name: The Skull
+address_list:
+  items:
+  - uid: '48162'
+    address1: 79 Vassil Levski Blvd
+    city: Sofia
+    postal_code: '1000'
+    country: Bulgaria
+  - uid: '48163'
+    city: Dubai
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '21793'
+    id_type: Passport
+    id_number: '440210366'
+    id_country: Bulgaria
+    expiration_date: 23 Aug 2023
+  - uid: '21794'
+    id_type: Passport
+    id_number: '385950465'
+    id_country: Bulgaria
+    expiration_date: 11 Apr 2024
+  - uid: '21795'
+    id_type: National ID No.
+    id_number: '647475973'
+    id_country: Bulgaria
+  - uid: '140776'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '40774'
+    date_of_birth: 29 Jul 1956
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '40775'
+    place_of_birth: Velingrad, Bulgaria
+    main_entry: 'true'

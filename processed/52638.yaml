@@ -1,0 +1,37 @@
+---
+uid: '52638'
+last_name: JOINT STOCK COMPANY SCIENTIFIC PRODUCTION ENTERPRISE RUSBAL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '82456'
+    type: a.k.a.
+    category: strong
+    last_name: JSC SPE RUSBAL
+  - uid: '82457'
+    type: a.k.a.
+    category: strong
+    last_name: AO NPP RUSBAL
+address_list:
+  items:
+  - uid: '80428'
+    address1: d. 48, k. 1, ul. Svobody
+    city: Moscow
+    postal_code: '125364'
+    country: Russia
+id_list:
+  items:
+  - uid: '45719'
+    id_type: Tax ID No.
+    id_number: '7733182410'
+    id_country: Russia
+  - uid: '45720'
+    id_type: Registration Number
+    id_number: '1047733040080'
+    id_country: Russia
+  - uid: '184424'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

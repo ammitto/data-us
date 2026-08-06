@@ -1,0 +1,58 @@
+---
+uid: '42332'
+first_name: Ali
+last_name: NACHAR
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '65745'
+    type: a.k.a.
+    category: strong
+    last_name: NACHAR
+    first_name: Ali Moussa
+  - uid: '65746'
+    type: a.k.a.
+    category: strong
+    last_name: NACHER
+    first_name: Ali Moussa
+  - uid: '65747'
+    type: a.k.a.
+    category: strong
+    last_name: NACHEIR
+    first_name: Ali Moussa
+  - uid: '65751'
+    type: a.k.a.
+    category: strong
+    last_name: NASHAR
+    first_name: "'Ali Musa"
+address_list:
+  items:
+  - uid: '63175'
+    country: Lebanon
+id_list:
+  items:
+  - uid: '31836'
+    id_type: Identification Number
+    id_number: '000049952325'
+    id_country: Lebanon
+  - uid: '160683'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '160689'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '60681'
+    date_of_birth: 30 Jul 1967
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '60682'
+    place_of_birth: Ivory Coast
+    main_entry: 'true'
+remarks: "(Linked To: AHMAD, Firas Nazem)"

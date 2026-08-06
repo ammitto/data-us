@@ -1,0 +1,41 @@
+---
+uid: '43543'
+first_name: Svetlana Andreyevna
+last_name: BOYKO
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '67483'
+    type: a.k.a.
+    category: weak
+    last_name: BOYKO, Sveta
+address_list:
+  items:
+  - uid: '64960'
+    city: St. Petersburg
+    country: Russia
+id_list:
+  items:
+  - uid: '33124'
+    id_type: Tax ID No.
+    id_number: '781102544700'
+    id_country: Russia
+  - uid: '163033'
+    id_type: Gender
+    id_number: Female
+  - uid: '175720'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '63031'
+    date_of_birth: 14 Apr 1990
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '63032'
+    place_of_birth: Leningrad, Russia
+    main_entry: 'true'

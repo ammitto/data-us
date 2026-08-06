@@ -1,0 +1,46 @@
+---
+uid: '28529'
+last_name: MEDICAL EQUIPMENT AND DRUGS INTERNATIONAL CORPORATION
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '44842'
+    type: a.k.a.
+    category: strong
+    last_name: MEDICAL EQUIPMENT & DRUGS INTERNATIONAL CORPORATION
+  - uid: '44843'
+    type: a.k.a.
+    category: weak
+    last_name: DRUGS AND MEDICAL SUPPLIES
+  - uid: '44975'
+    type: a.k.a.
+    category: weak
+    last_name: MEDIC
+address_list:
+  items:
+  - uid: '43126'
+    address1: Safco Center B1-B2
+    address2: Airport Road
+    city: Beirut
+    country: Lebanon
+  - uid: '43127'
+    address1: Property 2933, Section 35
+    address2: Safco Center, Basement
+    address3: Airport Road, Borj al Barajneh
+    country: Lebanon
+  - uid: '43128'
+    country: Lebanon
+id_list:
+  items:
+  - uid: '18899'
+    id_type: Commercial Registry Number
+    id_number: '2034502'
+    id_country: Lebanon
+  - uid: '187017'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: "(Linked To: ATLAS HOLDING)"

@@ -1,0 +1,41 @@
+---
+uid: '37674'
+last_name: ZR ENERGY DMCC
+sdn_type: Entity
+program_list:
+  programs:
+  - LEBANON
+address_list:
+  items:
+  - uid: '56343'
+    address1: 'Unit No: 1305, Platinum Tower'
+    address2: 'Plot No: JLT-PH1-I2, Jumeirah Lakes Towers'
+    city: Dubai
+    country: United Arab Emirates
+  - uid: '57649'
+    address1: Quai Du Mont-Blanc 4th Floor
+    address2: '1201'
+    city: Geneva
+    country: Switzerland
+id_list:
+  items:
+  - uid: '28016'
+    id_type: Registration Number
+    id_number: DMCC4189
+    id_country: United Arab Emirates
+    issue_date: 19 Jun 2013
+  - uid: '28076'
+    id_type: License
+    id_number: DMCC-33225
+    id_country: United Arab Emirates
+    issue_date: 23 Jul 2013
+    expiration_date: 22 Jul 2023
+  - uid: '31451'
+    id_type: Legal Entity Number
+    id_number: 213800TWK2R9AGIQXV07
+  - uid: '160232'
+    id_type: Organization Established Date
+    id_number: 23 Jul 2013
+  - uid: '152616'
+    id_type: Website
+    id_number: www.zrenergy.com

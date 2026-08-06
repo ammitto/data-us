@@ -1,0 +1,36 @@
+---
+uid: '37675'
+last_name: ZR GROUP SAL HOLDING
+sdn_type: Entity
+program_list:
+  programs:
+  - LEBANON
+aka_list:
+  items:
+  - uid: '59040'
+    type: a.k.a.
+    category: strong
+    last_name: Z-R GROUP SAL HOLDING
+address_list:
+  items:
+  - uid: '56347'
+    address1: Al Maliya Street
+    city: Beirut
+    country: Lebanon
+  - uid: '56350'
+    address1: Nejmeh Square
+    address2: Real Estate No. 1084 of the Port Real Estate District
+    city: Beirut
+    country: Lebanon
+id_list:
+  items:
+  - uid: '26906'
+    id_type: Commercial Registry Number
+    id_number: '1900527'
+    id_country: Lebanon
+  - uid: '154076'
+    id_type: Website
+    id_number: https://zr-group.net
+  - uid: '152638'
+    id_type: Organization Established Date
+    id_number: 17 Aug 2005

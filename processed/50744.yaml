@@ -1,0 +1,44 @@
+---
+uid: '50744'
+last_name: NAUCHNO PROIZVODSTVENNOE PREDPRIYATIE TRIM SSHP IZMERITELNYE SISTEMY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79436'
+    type: a.k.a.
+    category: strong
+    last_name: SCIENTIFIC PRODUCTION ENTERPRISE TRIM SSHP MEASURING SYSTEMS
+  - uid: '79437'
+    type: a.k.a.
+    category: strong
+    last_name: NPP TRIM SSHP IZMERITELNYE SISTEMY
+address_list:
+  items:
+  - uid: '76962'
+    address1: PR-KT Kondratyevskii D. 40
+    address2: K. 14, Lit. A, Pom. 10N
+    city: Saint Petersburg
+    postal_code: '195197'
+    country: Russia
+  - uid: '76963'
+    address1: Bolshoy Sampsonievsky Prospect, D. 106
+    address2: Lit. A
+    city: Saint Petersburg
+    postal_code: '194156'
+    country: Russia
+id_list:
+  items:
+  - uid: '42620'
+    id_type: Registration Number
+    id_number: '1057812638839'
+    id_country: Russia
+  - uid: '42621'
+    id_type: Tax ID No.
+    id_number: '7804323773'
+    id_country: Russia
+  - uid: '179371'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

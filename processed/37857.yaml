@@ -1,0 +1,53 @@
+---
+uid: '37857'
+first_name: Sergey Anatolevich
+last_name: SERDYUKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59494'
+    type: a.k.a.
+    category: strong
+    last_name: SERDIUKOV
+    first_name: Sergei
+address_list:
+  items:
+  - uid: '56732'
+    address1: 7 Mokhovaya
+    city: St. Saint Petersburg
+    postal_code: '191028'
+    country: Russia
+id_list:
+  items:
+  - uid: '27155'
+    id_type: Passport
+    id_number: '753062010'
+    id_country: Russia
+  - uid: '27156'
+    id_type: Tax ID No.
+    id_number: '782512960173'
+    id_country: Russia
+  - uid: '27157'
+    id_type: National ID No.
+    id_number: '4007341959'
+    id_country: Russia
+  - uid: '153029'
+    id_type: Gender
+    id_number: Male
+  - uid: '174605'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '53028'
+    date_of_birth: 23 Jun 1987
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '53031'
+    place_of_birth: Leningrad, Russia
+    main_entry: 'true'
+remarks: "(Linked To: SERDYUKOV, Anatoly Eduardovich)"

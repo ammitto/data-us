@@ -1,0 +1,45 @@
+---
+uid: '44853'
+last_name: LIMITED LIABILITY COMPANY STRELOI
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69361'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU STRELOI
+  - uid: '69362'
+    type: a.k.a.
+    category: strong
+    last_name: STRELOI OOO
+  - uid: '69363'
+    type: a.k.a.
+    category: strong
+    last_name: STRELOY LLC
+address_list:
+  items:
+  - uid: '66740'
+    address1: Per. Dmitrovskii D. 13
+    address2: Office 7
+    city: Saint Petersburg
+    postal_code: '191025'
+    country: Russia
+id_list:
+  items:
+  - uid: '34443'
+    id_type: Registration Number
+    id_number: '1137847445999'
+    id_country: Russia
+  - uid: '34444'
+    id_type: Tax ID No.
+    id_number: '7840498176'
+    id_country: Russia
+  - uid: '165073'
+    id_type: Organization Established Date
+    id_number: 19 Nov 2013
+  - uid: '173814'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

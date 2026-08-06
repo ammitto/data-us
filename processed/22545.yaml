@@ -1,0 +1,33 @@
+---
+uid: '22545'
+first_name: Sergey Makarovich
+last_name: NAZAROV
+sdn_type: Individual
+program_list:
+  programs:
+  - UKRAINE-EO13661
+  - UKRAINE-EO13660
+address_list:
+  items:
+  - uid: '34085'
+    country: Russia
+id_list:
+  items:
+  - uid: '123975'
+    id_type: Gender
+    id_number: Male
+  - uid: '143992'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+date_of_birth_list:
+  items:
+  - uid: '23974'
+    date_of_birth: 27 Jul 1961
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '23976'
+    place_of_birth: Kizel, Russia
+    main_entry: 'true'
+title: Deputy Minister of Economic Development of the Russian Federation

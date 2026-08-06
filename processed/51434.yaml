@@ -1,0 +1,36 @@
+---
+uid: '51434'
+last_name: ZAKRYTOE AKTSIONERNOE OBSHCHESTVO PERVYI SPETSIALIZIROVANNYI DEPOZITARII
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80653'
+    type: a.k.a.
+    category: strong
+    last_name: ZAO PRSD
+address_list:
+  items:
+  - uid: '78347'
+    address1: 4-YA Ul. 8 Marta D. 6A
+    city: Moscow
+    postal_code: '125167'
+    country: Russia
+id_list:
+  items:
+  - uid: '43759'
+    id_type: Registration Number
+    id_number: '1027700373678'
+    id_country: Russia
+  - uid: '43760'
+    id_type: Tax ID No.
+    id_number: '7710198911'
+    id_country: Russia
+  - uid: '180948'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '182815'
+    id_type: Target Type
+    id_number: Financial Institution

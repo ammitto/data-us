@@ -1,0 +1,49 @@
+---
+uid: '18133'
+last_name: AL-NASER AIRLINES
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - SDGT
+aka_list:
+  items:
+  - uid: '28006'
+    type: a.k.a.
+    category: strong
+    last_name: ALNASER AIRLINES
+  - uid: '38656'
+    type: a.k.a.
+    category: strong
+    last_name: AL NASER WINGS
+  - uid: '38657'
+    type: a.k.a.
+    category: strong
+    last_name: AL NASER WINGS AIRLINES
+address_list:
+  items:
+  - uid: '27435'
+    address1: Al-Karrada
+    address2: Babil Region - District 929
+    address3: St. 21, Home 46
+    city: Baghdad
+    country: Iraq
+  - uid: '27436'
+    address1: P.O. Box 28360
+    city: Dubai
+    country: United Arab Emirates
+  - uid: '27437'
+    address1: P.O. Box 911399
+    city: Amman
+    postal_code: '11191'
+    country: Jordan
+id_list:
+  items:
+  - uid: '117301'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '186441'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: "(Linked To: MAHAN AIR)"

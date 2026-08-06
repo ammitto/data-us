@@ -1,0 +1,30 @@
+---
+uid: '54696'
+last_name: LOS MAYOS
+sdn_type: Entity
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+aka_list:
+  items:
+  - uid: '85992'
+    type: a.k.a.
+    category: strong
+    last_name: LA MAYIZA
+address_list:
+  items:
+  - uid: '83546'
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+id_list:
+  items:
+  - uid: '190984'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '190983'
+    id_type: Target Type
+    id_number: Criminal Organization
+remarks: "(Linked To: SINALOA CARTEL)"

@@ -1,0 +1,32 @@
+---
+uid: '32037'
+last_name: DECART OOD
+sdn_type: Entity
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '50249'
+    type: a.k.a.
+    category: strong
+    last_name: DEKART OOD
+address_list:
+  items:
+  - uid: '48217'
+    address1: 2A Krakra Str.
+    address2: Oborishte Distr.
+    city: Sofia
+    state_or_province: Stolichna
+    postal_code: '1504'
+    country: Bulgaria
+id_list:
+  items:
+  - uid: '21821'
+    id_type: V.A.T. Number
+    id_number: BG 131122494
+    id_country: Bulgaria
+  - uid: '141036'
+    id_type: Organization Established Date
+    id_number: '2003'
+remarks: "(Linked To: VABO SYSTEMS EOOD)"

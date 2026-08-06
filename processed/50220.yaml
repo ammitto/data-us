@@ -1,0 +1,49 @@
+---
+uid: '50220'
+last_name: AVIAKOMPANIYA RADA LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - BELARUS-EO14038
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78363'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU AVIAKOMPANIYA RADA
+  - uid: '78364'
+    type: a.k.a.
+    category: strong
+    last_name: AVIAKOMPANIYA RADA, OOO
+  - uid: '78365'
+    type: a.k.a.
+    category: strong
+    last_name: RADA AIRLINES LLC
+address_list:
+  items:
+  - uid: '76024'
+    address1: 16, pom. 411, 412, ul. Lozhinskaya
+    city: Minsk
+    postal_code: '220125'
+    country: Belarus
+  - uid: '76025'
+    address1: 35 Starinovskaya St., Office 3N
+    city: Minsk
+    postal_code: '220056'
+    country: Belarus
+id_list:
+  items:
+  - uid: '41860'
+    id_type: Tax ID No.
+    id_number: '192457896'
+    id_country: Belarus
+  - uid: '178174'
+    id_type: 'Organization Type:'
+    id_number: Freight air transport
+  - uid: '177842'
+    id_type: Organization Established Date
+    id_number: 07 Apr 2015
+  - uid: '178208'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

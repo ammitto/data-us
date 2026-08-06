@@ -1,0 +1,48 @@
+---
+uid: '26408'
+first_name: Jorge Alejandro
+last_name: PAURA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '41755'
+    type: a.k.a.
+    category: weak
+    last_name: LARRY
+address_list:
+  items:
+  - uid: '40133'
+    city: Buenos Aires
+    country: Argentina
+id_list:
+  items:
+  - uid: '17124'
+    id_type: Passport
+    id_number: AAB376848
+    id_country: Argentina
+  - uid: '17125'
+    id_type: D.N.I.
+    id_number: '18580686'
+    id_country: Argentina
+  - uid: '17126'
+    id_type: C.U.I.T.
+    id_number: '20185806864'
+    id_country: Argentina
+  - uid: '130958'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '30956'
+    date_of_birth: 31 Oct 1967
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '30957'
+    place_of_birth: Buenos Aires, Argentina
+    main_entry: 'true'
+remarks: "(Linked To: BAJER S.R.L.; Linked To: HIGH NUTRITION SOCIEDAD DE RESPONSABILIDAD
+  LIMITADA)"

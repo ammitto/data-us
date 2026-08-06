@@ -1,0 +1,51 @@
+---
+uid: '50733'
+last_name: JOINT STOCK COMPANY SCIENTIFIC RESEARCH INSTITUTE OF COMMUNICATION SYSTEMS
+  AND AUTOMATED CONTROL SYSTEMS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79407'
+    type: a.k.a.
+    category: weak
+    last_name: AO NIISSU
+  - uid: '79408'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY SCIENTIFIC RESEARCH INSTITUTE OF COMMUNICATION
+      AND CONTROL SYSTEMS
+  - uid: '79409'
+    type: a.k.a.
+    category: strong
+    last_name: FEDERAL STATE UNITARY ENTERPRISE SCIENTIFIC RESEARCH INSTITUTE OF COMMUNICATION
+      AND CONTROL SYSTEMS
+  - uid: '79410'
+    type: a.k.a.
+    category: strong
+    last_name: JSC NIICS AND ACS
+address_list:
+  items:
+  - uid: '76941'
+    address1: Starokaluzhskoe Shosse D. 58
+    city: Moscow
+    postal_code: '117630'
+    country: Russia
+id_list:
+  items:
+  - uid: '42600'
+    id_type: Registration Number
+    id_number: '1127746262390'
+    id_country: Russia
+  - uid: '42601'
+    id_type: Tax ID No.
+    id_number: '7728804257'
+    id_country: Russia
+  - uid: '179354'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '179353'
+    id_type: Organization Established Date
+    id_number: 02 Jan 1992

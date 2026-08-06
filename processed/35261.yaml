@@ -1,0 +1,54 @@
+---
+uid: '35261'
+last_name: OOO ITERANET
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63704'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVESTVENNOSTYU ITERANET
+address_list:
+  items:
+  - uid: '52996'
+    address1: d. 16 str. 17, per. Truzhenikov 1-I
+    city: Moscow
+    postal_code: '119121'
+    country: Russia
+  - uid: '61028'
+    address1: Sevastopolskii Pr 28, Korp. 1
+    city: Moscow
+    postal_code: '117209'
+    country: Russia
+id_list:
+  items:
+  - uid: '24964'
+    id_type: Tax ID No.
+    id_number: '7704199755'
+    id_country: Russia
+  - uid: '24965'
+    id_type: Registration Number
+    id_number: '1027739111168'
+    id_country: Russia
+  - uid: '24966'
+    id_type: Government Gazette Number
+    id_number: '51037789'
+    id_country: Russia
+  - uid: '147422'
+    id_type: Organization Established Date
+    id_number: 27 Apr 1999
+  - uid: '176697'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '158468'
+    id_type: 'Organization Type:'
+    id_number: Wired telecommunications activities
+  - uid: '158483'
+    id_type: Target Type
+    id_number: Private Company
+  - uid: '158484'
+    id_type: Website
+    id_number: www.iteranet.ru

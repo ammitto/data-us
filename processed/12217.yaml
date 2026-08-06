@@ -1,0 +1,29 @@
+---
+uid: '12217'
+first_name: Hong-Sop
+last_name: RI
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+address_list:
+  items:
+  - uid: '18708'
+    address1: c/o General Bureau of Atomic Energy
+    address2: Haeudong, Pyongchen District
+    city: Pyongyang
+    country: Korea, North
+id_list:
+  items:
+  - uid: '134869'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '127650'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+date_of_birth_list:
+  items:
+  - uid: '7970'
+    date_of_birth: '1940'
+    main_entry: 'true'

@@ -1,0 +1,39 @@
+---
+uid: '41003'
+last_name: OPEN JOINT STOCK COMPANY CORPORATION NOVOSIBIRSK PLANT ELEKTROSIGNAL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63890'
+    type: a.k.a.
+    category: strong
+    last_name: OAO ELEKTROSIGNAL PLANT
+  - uid: '63891'
+    type: a.k.a.
+    category: strong
+    last_name: ELEKTROSIGNAL CORPORATION
+address_list:
+  items:
+  - uid: '61244'
+    address1: 31 Dobrolyubova St.
+    address2: Building 2, Floor 3
+    city: Novosibirsk
+    state_or_province: Novosibirsk Region
+    postal_code: '630009'
+    country: Russia
+id_list:
+  items:
+  - uid: '30334'
+    id_type: Registration Number
+    id_number: '1035401944291'
+    id_country: Russia
+  - uid: '30335'
+    id_type: Tax ID No.
+    id_number: '5405262331'
+    id_country: Russia
+  - uid: '175352'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

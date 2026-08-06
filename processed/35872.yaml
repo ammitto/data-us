@@ -1,0 +1,46 @@
+---
+uid: '35872'
+last_name: JOINT STOCK COMPANY STATE MACHINE BUILDING DESIGN BUREAU VYMPEL BY NAME
+  I.I. TOROPOV
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56367'
+    type: a.k.a.
+    category: strong
+    last_name: GOS MKB VYMPEL IM. I.I. TOROPOVA AO
+  - uid: '56370'
+    type: a.k.a.
+    category: strong
+    last_name: VYMPEL STATE ENGINEERING DESIGN BUREAU JSC NAMED AFTER I.I. TOROPOV
+  - uid: '56372'
+    type: a.k.a.
+    category: strong
+    last_name: AO GOS MKB VYMPEL IM. I.I. TOROPOVA
+address_list:
+  items:
+  - uid: '53828'
+    address1: Sh. Volokolamskoe D. 90
+    city: Moscow
+    postal_code: '125424'
+    country: Russia
+id_list:
+  items:
+  - uid: '25200'
+    id_type: Registration Number
+    id_number: '1057747296166'
+    id_country: Russia
+  - uid: '25202'
+    id_type: Tax ID No.
+    id_number: '7733546058'
+    id_country: Russia
+  - uid: '173267'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '149066'
+    id_type: Organization Established Date
+    id_number: 26 Dec 1991
+remarks: "(Linked To: TACTICAL MISSILES CORPORATION JSC)"

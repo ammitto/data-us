@@ -1,0 +1,29 @@
+---
+uid: '50313'
+first_name: Pavel Andreyevich
+last_name: BELOUSOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '76240'
+    country: Russia
+id_list:
+  items:
+  - uid: '42025'
+    id_type: Tax ID No.
+    id_number: '772875030320'
+    id_country: Russia
+  - uid: '178254'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '178252'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '78250'
+    date_of_birth: 24 May 1994
+    main_entry: 'true'

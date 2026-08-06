@@ -1,0 +1,45 @@
+---
+uid: '49454'
+first_name: Aleksandr Nikolayevich
+last_name: BORODAYEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77143'
+    type: a.k.a.
+    category: strong
+    last_name: BORODAEV
+    first_name: Alexander Nikolaevich
+address_list:
+  items:
+  - uid: '74579'
+    address1: Apartment 27
+    address2: 21 Efremova Street
+    city: Moscow
+    postal_code: '119048'
+    country: Russia
+id_list:
+  items:
+  - uid: '40775'
+    id_type: Tax ID No.
+    id_number: '771543705601'
+    id_country: Russia
+  - uid: '172531'
+    id_type: Gender
+    id_number: Male
+  - uid: '172777'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '72529'
+    date_of_birth: 02 May 1972
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '72530'
+    place_of_birth: Kemerovo, Russia
+    main_entry: 'true'

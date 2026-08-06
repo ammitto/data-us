@@ -1,0 +1,19 @@
+---
+uid: '54823'
+last_name: SIMBA
+sdn_type: Vessel
+program_list:
+  programs:
+  - IRAN-EO13902
+id_list:
+  items:
+  - uid: '48599'
+    id_type: MMSI
+    id_number: '636021266'
+  - uid: '48601'
+    id_type: Vessel Registration Identification
+    id_number: IMO 9719862
+  - uid: '191406'
+    id_type: Vessel Year of Build
+    id_number: '2015'
+remarks: "(Linked To: MARVISE SMC DMCC)"

@@ -1,0 +1,46 @@
+---
+uid: '22623'
+first_name: Wei
+last_name: SUN
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+address_list:
+  items:
+  - uid: '34248'
+    address1: 224-4 Shifu Da Lu
+    address2: RM 1305
+    address3: Heping District
+    city: Sheyang City
+    state_or_province: Liaoning Province
+    country: China
+  - uid: '34249'
+    address1: 200-69 Yinhe East Road
+    address2: Tianfu County
+    address3: Benxi Manchurian Autonomous Region
+    state_or_province: Liaoning Province
+    country: China
+id_list:
+  items:
+  - uid: '14278'
+    id_type: National ID No.
+    id_number: '210521198207010412'
+    id_country: China
+    expiration_date: 13 Aug 2029
+  - uid: '135154'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '127684'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '124085'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '24084'
+    date_of_birth: 01 Jul 1982
+    main_entry: 'true'
+remarks: "(Linked To: FOREIGN TRADE BANK OF THE DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA)"

@@ -1,0 +1,54 @@
+---
+uid: '26305'
+first_name: Marcellin
+last_name: BASENGEZI
+sdn_type: Individual
+program_list:
+  programs:
+  - DRCONGO
+aka_list:
+  items:
+  - uid: '41460'
+    type: a.k.a.
+    category: strong
+    last_name: BASENGEZI
+    first_name: Marcellin Mukolo
+  - uid: '41461'
+    type: a.k.a.
+    category: strong
+    last_name: MUKOLO
+    first_name: Basengezi Marcellin
+  - uid: '41462'
+    type: a.k.a.
+    category: strong
+    last_name: MAKOLO
+    first_name: Marcelin Basengezi
+address_list:
+  items:
+  - uid: '39896'
+    address1: Appartement 29 Cite Du Fleuve
+    address2: Cite Du Fleuve
+    address3: Kingabwa Limete
+    city: Kinshasa
+    country: Congo, Democratic Republic of the
+id_list:
+  items:
+  - uid: '16974'
+    id_type: Passport
+    id_number: OP0155187
+    id_country: Congo, Democratic Republic of the
+    issue_date: 24 Jan 2016
+    expiration_date: 19 Jan 2021
+  - uid: '130718'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '30719'
+    date_of_birth: 30 Nov 1985
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '30720'
+    place_of_birth: Kaziba, Congo, Democratic Republic of the
+    main_entry: 'true'

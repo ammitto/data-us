@@ -1,0 +1,45 @@
+---
+uid: '50890'
+last_name: INSTITUTE FOR SYSTEM PROGRAMMING OF THE RUSSIAN ACADEMY OF SCIENCES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79706'
+    type: a.k.a.
+    category: weak
+    last_name: ISP RAN
+  - uid: '79707'
+    type: a.k.a.
+    category: strong
+    last_name: INSTITUTE OF SYSTEM PROGRAMMING NAMED AFTER V P IVANNIKOV RAN
+  - uid: '79708'
+    type: a.k.a.
+    category: strong
+    last_name: FEDERAL STATE BUDGETARY SCIENTIFIC INSTITUTION V P IVANNIKOV INSTITUTE
+      FOR SYSTEM PROGRAMMING OF THE RUSSIAN ACADEMY OF SCIENCES
+address_list:
+  items:
+  - uid: '77271'
+    address1: Ul Aleksandra Solzhenitsyna D 25
+    city: Moscow
+    postal_code: '109004'
+    country: Russia
+id_list:
+  items:
+  - uid: '42869'
+    id_type: Registration Number
+    id_number: '1037700067327'
+    id_country: Russia
+  - uid: '42870'
+    id_type: Tax ID No.
+    id_number: '7709006125'
+    id_country: Russia
+  - uid: '179669'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '179668'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

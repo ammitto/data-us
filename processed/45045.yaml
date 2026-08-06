@@ -1,0 +1,27 @@
+---
+uid: '45045'
+last_name: LIMITED LIABILITY COMPANY LIS GRUPP
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '67080'
+    address1: 36 Khamovnicheskiy Val Street, Suite 14N, Room 5
+    city: Moscow
+    postal_code: '119048'
+    country: Russia
+id_list:
+  items:
+  - uid: '34763'
+    id_type: Tax ID No.
+    id_number: '7704398990'
+    id_country: Russia
+  - uid: '34771'
+    id_type: Registration Number
+    id_number: '1177746270129'
+    id_country: Russia
+  - uid: '175920'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

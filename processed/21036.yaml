@@ -1,0 +1,65 @@
+---
+uid: '21036'
+first_name: Oscar Armando
+last_name: JIMENEZ HERNANDEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '31941'
+    address1: Calle Ramon Castellanos 1037-A
+    address2: Col. San Isidro
+    city: Guadalajara
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '31942'
+    address1: C Emilio Rabaza 2027
+    address2: Col. Blanco y Cuellar
+    city: Guadalajara
+    state_or_province: Jalisco
+    postal_code: '44730'
+    country: Mexico
+id_list:
+  items:
+  - uid: '13114'
+    id_type: C.U.R.P.
+    id_number: JIHO780630HJCMRS07
+    id_country: Mexico
+  - uid: '13115'
+    id_type: C.U.R.P.
+    id_number: JIHO780730HJCMRS06
+    id_country: Mexico
+  - uid: '13116'
+    id_type: R.F.C.
+    id_number: JIHO780630A70
+    id_country: Mexico
+  - uid: '13118'
+    id_type: I.F.E.
+    id_number: '069582506439'
+    id_country: Mexico
+  - uid: '13119'
+    id_type: Credencial electoral
+    id_number: JMHROS78063014H200
+    id_country: Mexico
+  - uid: '13120'
+    id_type: Credencial electoral
+    id_number: JIHO78063014H200
+    id_country: Mexico
+  - uid: '121844'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '21841'
+    date_of_birth: 30 Jun 1978
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '21842'
+    place_of_birth: Guadalajara, Jalisco, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: FLORES DRUG TRAFFICKING ORGANIZATION; Linked To: CORPORATIVO
+  INMOBILIARIO UNIVERSAL, S.A. DE C.V.; Linked To: SERVICIOS EMPRESARIALES FICIE,
+  S.A. DE C.V.)"

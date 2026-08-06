@@ -1,0 +1,46 @@
+---
+uid: '50277'
+first_name: Igor Borisovich
+last_name: AKSENOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78532'
+    type: a.k.a.
+    category: strong
+    last_name: AKSONOV
+    first_name: Ihor Borysovych
+  - uid: '78533'
+    type: a.k.a.
+    category: strong
+    last_name: AKSYONOV
+    first_name: Igor Borisovich
+address_list:
+  items:
+  - uid: '76147'
+    country: Russia
+id_list:
+  items:
+  - uid: '41966'
+    id_type: Tax ID No.
+    id_number: '732800052176'
+    id_country: Russia
+  - uid: '178005'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '177992'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '77989'
+    date_of_birth: 20 Nov 1971
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '77990'
+    place_of_birth: Baikonur, Kazakhstan
+    main_entry: 'true'

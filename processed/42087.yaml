@@ -1,0 +1,41 @@
+---
+uid: '42087'
+last_name: JOINT STOCK COMPANY VLADIMIR PRODUCTION AMALGAMATION TOCHMASH
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65453'
+    type: a.k.a.
+    category: strong
+    last_name: JSC VPA TOCHMASH
+  - uid: '65454'
+    type: a.k.a.
+    category: strong
+    last_name: VPO TOCHMASH AO
+  - uid: '65455'
+    type: a.k.a.
+    category: weak
+    last_name: TOCHMASH
+  - uid: '65456'
+    type: a.k.a.
+    category: strong
+    last_name: VLADIMIR TOCHMASH
+address_list:
+  items:
+  - uid: '62846'
+    address1: D. 1a Ul. Severnaya
+    city: Vladimir
+    postal_code: '600007'
+    country: Russia
+id_list:
+  items:
+  - uid: '31559'
+    id_type: Tax ID No.
+    id_number: '3329051460'
+    id_country: Russia
+  - uid: '175401'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

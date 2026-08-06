@@ -1,0 +1,46 @@
+---
+uid: '48703'
+last_name: GROUPE D'INVESTISSEMENT FINANCIER SA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75792'
+    type: a.k.a.
+    category: weak
+    last_name: GIF SA
+address_list:
+  items:
+  - uid: '73179'
+    address1: Avenue De La Ferme Rose 7 B. 15
+    city: Brussels
+    postal_code: '1180'
+    country: Belgium
+  - uid: '73180'
+    address1: Roze Hoevelaan 7 B. 15
+    city: Brussels
+    postal_code: '1180'
+    country: Belgium
+  - uid: '73181'
+    address1: 243 Avenue Dolez
+    city: Uccle
+    postal_code: '1180'
+    country: Belgium
+id_list:
+  items:
+  - uid: '39716'
+    id_type: Registration Number
+    id_number: 0473.155.607
+    id_country: Belgium
+  - uid: '39717'
+    id_type: Identification Number
+    id_number: 1298404-16
+    id_country: Belgium
+  - uid: '171649'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '171112'
+    id_type: Organization Established Date
+    id_number: 20 Oct 2000

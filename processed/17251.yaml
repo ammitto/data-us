@@ -1,0 +1,50 @@
+---
+uid: '17251'
+last_name: JSC V. TIKHOMIROV SCIENTIFIC RESEARCH INSTITUTE OF INSTRUMENT DESIGN
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13661
+aka_list:
+  items:
+  - uid: '26551'
+    type: a.k.a.
+    category: strong
+    last_name: JSC NIIP
+  - uid: '26552'
+    type: f.k.a.
+    category: strong
+    last_name: OTKRYTOE AKTSIONERNOE OBSHCHESTVO NAUCHNO ISSLEDOVATELSKI INSTITUT
+      PRIBOROSTROENIYA IMENI V.V. TIKHOMIROVA
+address_list:
+  items:
+  - uid: '26289'
+    address1: 3 Ul. Gagarina
+    city: Zhukovski
+    state_or_province: Moskovskaya Obl
+    postal_code: '140180'
+    country: Russia
+  - uid: '26291'
+    address1: Gagarin Str, 3
+    city: Zhukovsky
+    postal_code: '140180'
+    country: Russia
+id_list:
+  items:
+  - uid: '9670'
+    id_type: Registration ID
+    id_number: '1025001627859'
+  - uid: '9671'
+    id_type: Government Gazette Number
+    id_number: '13185231'
+    id_country: Russia
+  - uid: '143519'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '116115'
+    id_type: Website
+    id_number: http://www.niip.ru
+  - uid: '116116'
+    id_type: Email Address
+    id_number: niip@niip.ru

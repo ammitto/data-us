@@ -1,0 +1,42 @@
+---
+uid: '55914'
+first_name: Kamla Kanayalal
+last_name: KASAT
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13846
+address_list:
+  items:
+  - uid: '85588'
+    address1: 96 Arudh Niwas, Hindu Colony, 3rd Lane, Dadar
+    city: Mumbai
+    state_or_province: Maharashtra
+    postal_code: '400014'
+    country: India
+id_list:
+  items:
+  - uid: '50064'
+    id_type: Passport
+    id_number: P0276130
+    id_country: India
+  - uid: '50065'
+    id_type: Identification Number
+    id_number: '02941790'
+    id_country: India
+  - uid: '193982'
+    id_type: 'Executive Order 13846 information:'
+    id_number: BLOCKING PROPERTY AND INTERESTS IN PROPERTY.  Sec. 5(a)(iv)
+  - uid: '193899'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '93898'
+    date_of_birth: 04 Jul 1953
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '93897'
+    place_of_birth: Parbhani Maharashtra, India
+    main_entry: 'true'

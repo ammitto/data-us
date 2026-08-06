@@ -1,0 +1,39 @@
+---
+uid: '58070'
+first_name: Jose Jesus
+last_name: GUTIERREZ VALDEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+address_list:
+  items:
+  - uid: '89180'
+    city: Ixtlan Del Rio
+    state_or_province: Nayarit
+    country: Mexico
+id_list:
+  items:
+  - uid: '52614'
+    id_type: C.U.R.P.
+    id_number: GUVJ790828HZSTLS18
+    id_country: Mexico
+  - uid: '199397'
+    id_type: Gender
+    id_number: Male
+  - uid: '199400'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '99396'
+    date_of_birth: 28 Aug 1979
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '99399'
+    place_of_birth: Zacatecas, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: CARTEL DE JALISCO NUEVA GENERACION)"

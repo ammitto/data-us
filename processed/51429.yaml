@@ -1,0 +1,40 @@
+---
+uid: '51429'
+last_name: AKTSIONERNOE OBSHCHESTVO DEPOZITARNAYA KOMPANIYA REGION
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80643'
+    type: a.k.a.
+    category: strong
+    last_name: AO DK REGION
+  - uid: '81522'
+    type: a.k.a.
+    category: weak
+    last_name: DEPOSITORY COMPANY REGION
+address_list:
+  items:
+  - uid: '78335'
+    address1: Ul. Krymskii Val D. 3, Str. 2, Antresol 3, Pomeshch. I, Kom 32-57
+    city: Moscow
+    postal_code: '107023'
+    country: Russia
+id_list:
+  items:
+  - uid: '43749'
+    id_type: Registration Number
+    id_number: '1037708002144'
+    id_country: Russia
+  - uid: '43750'
+    id_type: Tax ID No.
+    id_number: '7708213619'
+    id_country: Russia
+  - uid: '182796'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '180943'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,46 @@
+---
+uid: '49390'
+last_name: INJECT RESEARCH AND PRODUCTION ENTERPRISE LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77030'
+    type: a.k.a.
+    category: strong
+    last_name: INJECT RME LLC
+  - uid: '77031'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTIU NAUCHNO PROIZVODSTVENNOE
+      PREDPRIIATIE INZHEKT
+  - uid: '77032'
+    type: a.k.a.
+    category: weak
+    last_name: OOO NPP INZHEKT
+address_list:
+  items:
+  - uid: '74446'
+    address1: Ul. Elmashevskaya
+    address2: Vladenie 3 A Office 1
+    city: Saratov
+    postal_code: '410033'
+    country: Russia
+id_list:
+  items:
+  - uid: '40661'
+    id_type: Tax ID No.
+    id_number: '6453142068'
+    id_country: Russia
+  - uid: '40662'
+    id_type: Registration Number
+    id_number: '1156451017436'
+    id_country: Russia
+  - uid: '172732'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '172467'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

@@ -1,0 +1,36 @@
+---
+uid: '24036'
+first_name: Seyed Ali
+last_name: MIRKARIMI
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+id_list:
+  items:
+  - uid: '15408'
+    id_type: Birth Certificate Number
+    id_number: '1973'
+  - uid: '15409'
+    id_type: National ID No.
+    id_number: 428-486320-7
+  - uid: '15412'
+    id_type: Passport
+    id_number: '86486868'
+    id_country: Iran
+  - uid: '126181'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '126153'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '26150'
+    date_of_birth: 20 Sep 1983
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '26152'
+    place_of_birth: Zanjan, Iran
+    main_entry: 'true'

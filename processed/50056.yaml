@@ -1,0 +1,42 @@
+---
+uid: '50056'
+last_name: AKTSIONERNOE OBSHCHESTVO EVRAZ VANADI TULA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78039'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY EVRAZ VANADY TULA
+  - uid: '78040'
+    type: a.k.a.
+    category: strong
+    last_name: EVRAZ VANADI TULA AO
+  - uid: '78041'
+    type: a.k.a.
+    category: strong
+    last_name: EVRAZ VANADII TULA
+address_list:
+  items:
+  - uid: '75739'
+    address1: d.1, ul. Przhevalskogo
+    city: Tula
+    state_or_province: Tula region
+    postal_code: '300016'
+    country: Russia
+id_list:
+  items:
+  - uid: '41621'
+    id_type: Registration Number
+    id_number: '1027100507103'
+    id_country: Russia
+  - uid: '41622'
+    id_type: Tax ID No.
+    id_number: '7105008754'
+    id_country: Russia
+  - uid: '178052'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

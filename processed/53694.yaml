@@ -1,0 +1,38 @@
+---
+uid: '53694'
+last_name: PUBLIC JOINT STOCK COMPANY SARATOV OIL REFINERY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '83709'
+    type: a.k.a.
+    category: strong
+    last_name: PUBLICHNOE AKTSIONERNOE OBSCHESTVO SARATOVSKIY NEFTEPERERABATYVAYUSCHYI
+      ZAVOD
+  - uid: '83710'
+    type: a.k.a.
+    category: strong
+    last_name: SARATOVSKY REFINERY PJSC
+address_list:
+  items:
+  - uid: '81957'
+    address1: 1 Bryanskaya Street
+    city: Saratov
+    postal_code: '410022'
+    country: Russia
+id_list:
+  items:
+  - uid: '47052'
+    id_type: Registration Number
+    id_number: '1026402483810'
+    id_country: Russia
+  - uid: '47054'
+    id_type: Tax ID No.
+    id_number: '6451114900'
+    id_country: Russia
+  - uid: '188571'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

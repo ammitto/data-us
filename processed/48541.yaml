@@ -1,0 +1,33 @@
+---
+uid: '48541'
+last_name: LIMITED LIABILITY COMPANY UNIQUE LAB
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75441'
+    type: a.k.a.
+    category: strong
+    last_name: YUNIK LEB
+address_list:
+  items:
+  - uid: '72865'
+    address1: Ul. Bumazhnaya D. 17, Lit. A, Pomeshch. 268B
+    city: Saint Petersburg
+    postal_code: '190020'
+    country: Russia
+id_list:
+  items:
+  - uid: '39486'
+    id_type: Registration Number
+    id_number: '1167847364233'
+    id_country: Russia
+  - uid: '39487'
+    id_type: Tax ID No.
+    id_number: '7839071647'
+    id_country: Russia
+  - uid: '171211'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

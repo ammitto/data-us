@@ -1,0 +1,54 @@
+---
+uid: '49275'
+last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU ANALITICHESKAYA MANUFAKTURA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76841'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY ANALYTICAL MANUFACTURE
+  - uid: '76842'
+    type: a.k.a.
+    category: strong
+    last_name: ANALITICHESKAYA MANUFAKTURA OOO
+  - uid: '77320'
+    type: a.k.a.
+    category: weak
+    last_name: ANALYTICAL MANUFACTORY
+address_list:
+  items:
+  - uid: '74221'
+    address1: Sh. Rublevskoe, D. 9, ET/POM/KOM 1/I/10B
+    city: Moscow
+    postal_code: '121108'
+    country: Russia
+id_list:
+  items:
+  - uid: '40488'
+    id_type: Business Registration Number
+    id_number: '1187746024696'
+    id_country: Russia
+  - uid: '40491'
+    id_type: Tax ID No.
+    id_number: '9701098128'
+    id_country: Russia
+  - uid: '40492'
+    id_type: Government Gazette Number
+    id_number: '23281390'
+    id_country: Russia
+  - uid: '172812'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '172278'
+    id_type: 'Organization Type:'
+    id_number: Non-specialized wholesale trade
+  - uid: '172280'
+    id_type: Website
+    id_number: amanuf.ru
+  - uid: '172279'
+    id_type: Organization Established Date
+    id_number: 16 Jan 2018

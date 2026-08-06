@@ -1,0 +1,69 @@
+---
+uid: '37049'
+last_name: MG-FLOT LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '58185'
+    type: a.k.a.
+    category: strong
+    last_name: TRANSMORFLOT SHIPPING COMPANY
+  - uid: '79086'
+    type: a.k.a.
+    category: strong
+    last_name: TRANSMORFLOT LLC
+  - uid: '79087'
+    type: a.k.a.
+    category: strong
+    last_name: MG-FLOT LLC
+  - uid: '79088'
+    type: a.k.a.
+    category: strong
+    last_name: MG-FLOT OOO
+  - uid: '79089'
+    type: a.k.a.
+    category: strong
+    last_name: TRANSMORPORT OOO
+address_list:
+  items:
+  - uid: '55469'
+    address1: House 18 D Premise 1, Lenina Street
+    city: Akhtynskiy District
+    state_or_province: Republic of Dagestan
+    postal_code: '368730'
+    country: Russia
+  - uid: '76694'
+    address1: ul. Chkalova, D. 27
+    city: Olya
+    state_or_province: Astrakhan Oblast
+    postal_code: '416425'
+    country: Russia
+id_list:
+  items:
+  - uid: '26353'
+    id_type: Tax ID No.
+    id_number: '3017041900'
+    id_country: Russia
+  - uid: '26358'
+    id_type: Identification Number
+    id_number: IMO 6330601
+  - uid: '42414'
+    id_type: Business Registration Number
+    id_number: '1053001124483'
+    id_country: Russia
+  - uid: '42415'
+    id_type: Government Gazette Number
+    id_number: '75191644'
+    id_country: Russia
+  - uid: '42416'
+    id_type: Identification Number
+    id_number: IMO 6016988
+  - uid: '174461'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '178826'
+    id_type: Organization Established Date
+    id_number: 17 Feb 2005

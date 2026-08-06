@@ -1,0 +1,41 @@
+---
+uid: '57119'
+first_name: Alfredo
+last_name: OROZCO ROMERO
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+address_list:
+  items:
+  - uid: '87471'
+    country: Mexico
+id_list:
+  items:
+  - uid: '51345'
+    id_type: C.U.R.P.
+    id_number: OORA790529HCHRML03
+    id_country: Mexico
+  - uid: '51346'
+    id_type: R.F.C.
+    id_number: OORA790529H89
+    id_country: Mexico
+  - uid: '196732'
+    id_type: Gender
+    id_number: Male
+  - uid: '197794'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '96729'
+    date_of_birth: 29 May 1979
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '96730'
+    place_of_birth: Chihuahua, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: OJEDA AVILES, Armando de Jesus)"

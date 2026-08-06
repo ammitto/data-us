@@ -1,0 +1,45 @@
+---
+uid: '35886'
+last_name: JOINT STOCK COMPANY CONCERN SEA UNDERWATER WEAPON GIDROPRIBOR
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56414'
+    type: a.k.a.
+    category: strong
+    last_name: AO KONSTERN MPO GIDROPRIBOR
+  - uid: '56415'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO KONSTERN MORSKOE PODVONOE ORUZHIE GIDROPRIBOR
+  - uid: '56416'
+    type: a.k.a.
+    category: strong
+    last_name: JSC CONCERN SEA UNDERWATER WEAPON GIDROPRIBOR
+address_list:
+  items:
+  - uid: '53854'
+    address1: PR-KT B. Sampsonievskii D. 24
+    city: Saint Petersburg
+    postal_code: '194044'
+    country: Russia
+id_list:
+  items:
+  - uid: '25227'
+    id_type: Registration Number
+    id_number: '1069847557394'
+    id_country: Russia
+  - uid: '25228'
+    id_type: Tax ID No.
+    id_number: '7802375889'
+    id_country: Russia
+  - uid: '173281'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '149079'
+    id_type: Organization Established Date
+    id_number: 15 Sep 1943
+remarks: "(Linked To: TACTICAL MISSILES CORPORATION JSC)"

@@ -1,0 +1,36 @@
+---
+uid: '50966'
+first_name: Daria Aleksandrovna
+last_name: SHACHENOK
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '77432'
+    city: St. Petersburg
+    country: Russia
+id_list:
+  items:
+  - uid: '42989'
+    id_type: Passport
+    id_number: '726062731'
+    id_country: Russia
+  - uid: '180123'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '179837'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '79836'
+    date_of_birth: 26 Apr 1982
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '80722'
+    place_of_birth: St. Petersburg, Russia
+    main_entry: 'true'
+remarks: "(Linked To: LLC AM LOGISTICS)"

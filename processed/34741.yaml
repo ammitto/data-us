@@ -1,0 +1,93 @@
+---
+uid: '34741'
+last_name: JOINT STOCK COMPANY SOVCOMFLOT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '54480'
+    type: a.k.a.
+    category: strong
+    last_name: PAO SOVCOMFLOT
+  - uid: '54481'
+    type: a.k.a.
+    category: strong
+    last_name: PUBLICHNOE AKTSIONERNOE OBSCHESTVO SOVREMENNYY KOMMERCHESKIY FLOT
+  - uid: '54812'
+    type: a.k.a.
+    category: strong
+    last_name: JSC SOVCOMFLOT
+  - uid: '72688'
+    type: a.k.a.
+    category: strong
+    last_name: PUBLIC JOINT STOCK COMPANY MODERN COMMERCIAL FLEET
+  - uid: '72689'
+    type: a.k.a.
+    category: weak
+    last_name: SCF GROUP
+  - uid: '72690'
+    type: a.k.a.
+    category: weak
+    last_name: SCF
+address_list:
+  items:
+  - uid: '52059'
+    address1: Ul. Gasheka D. 6
+    city: Moscow
+    postal_code: '125047'
+    country: Russia
+  - uid: '52060'
+    address1: Nab. Reki Moiki d.3, Lit. A
+    city: Saint Petersburg
+    postal_code: '191186'
+    country: Russia
+  - uid: '70116'
+    address1: Building 3, Letter A, Moyka River Embankment
+    city: Saint Petersburg
+    postal_code: '191186'
+    country: Russia
+id_list:
+  items:
+  - uid: '24409'
+    id_type: Tax ID No.
+    id_number: '7702060116'
+    id_country: Russia
+  - uid: '24410'
+    id_type: Registration Number
+    id_number: '1027739028712'
+    id_country: Russia
+  - uid: '37282'
+    id_type: Legal Entity Number
+    id_number: 253400DYLWR5A6YAWJ69
+  - uid: '146174'
+    id_type: Website
+    id_number: sovcomflot.ru
+  - uid: '146175'
+    id_type: Website
+    id_number: www.scf-group.com
+  - uid: '175193'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183616'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '146712'
+    id_type: Executive Order 14024 Directive Information -
+    id_number: 'For more information on directives, please visit the following link:
+      https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives'
+  - uid: '146684'
+    id_type: Executive Order 14024 Directive Information
+    id_number: Subject to Directive 3 - All transactions in, provision of financing
+      for, and other dealings in new debt of longer than 14 days maturity or new equity
+      where such new debt or new equity is issued on or after the 'Effective Date
+      (EO 14024 Directive)' associated with this name are prohibited.
+  - uid: '146834'
+    id_type: 'Listing Date (EO 14024 Directive 3):'
+    id_number: 24 Feb 2022
+  - uid: '146835'
+    id_type: 'Effective Date (EO 14024 Directive 3):'
+    id_number: 26 Mar 2022

@@ -1,0 +1,43 @@
+---
+uid: '16828'
+last_name: STROYGAZMONTAZH
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13661
+aka_list:
+  items:
+  - uid: '25677'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY STROYGAZMONTAZH
+  - uid: '25696'
+    type: a.k.a.
+    category: strong
+    last_name: STROYGAZMONTAZH CORPORATION
+  - uid: '25697'
+    type: a.k.a.
+    category: weak
+    last_name: SGM
+address_list:
+  items:
+  - uid: '25468'
+    address1: 53 prospekt Vernadskogo
+    city: Moscow
+    postal_code: '119415'
+    country: Russia
+id_list:
+  items:
+  - uid: '143515'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '115447'
+    id_type: Website
+    id_number: www.ooosgm.com
+  - uid: '115448'
+    id_type: Website
+    id_number: www.ooosgm.ru
+  - uid: '115449'
+    id_type: Email Address
+    id_number: info@ooosgm.ru

@@ -1,0 +1,44 @@
+---
+uid: '42721'
+first_name: Vladimir Stefanovich
+last_name: LITVINENKO
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '66209'
+    type: a.k.a.
+    category: strong
+    last_name: LITVINENKO
+    first_name: Vladimir Stefanovic
+address_list:
+  items:
+  - uid: '63716'
+    city: St. Petersburg
+    country: Russia
+id_list:
+  items:
+  - uid: '32263'
+    id_type: Tax ID No.
+    id_number: '780151794940'
+    id_country: Russia
+  - uid: '175452'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '161513'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '61511'
+    date_of_birth: 14 Aug 1955
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '61512'
+    place_of_birth: Krasnodar territory, Russia
+    main_entry: 'true'
+remarks: "(Linked To: FEDERAL STATE BUDGET EDUCATIONAL INSTITUTION OF HIGHER EDUCATION
+  SAINT PETERSBURG MINING UNIVERSITY)"

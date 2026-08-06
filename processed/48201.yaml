@@ -1,0 +1,35 @@
+---
+uid: '48201'
+first_name: Brett Warrick
+last_name: MAC DONALD
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '72251'
+    country: South Africa
+id_list:
+  items:
+  - uid: '39052'
+    id_type: National ID No.
+    id_number: '7507035002085'
+    id_country: South Africa
+  - uid: '170215'
+    id_type: Gender
+    id_number: Male
+  - uid: '172727'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '70219'
+    date_of_birth: 03 Jul 1975
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '70218'
+    place_of_birth: South Africa
+    main_entry: 'true'
+remarks: "(Linked To: PRIVATE MILITARY COMPANY 'WAGNER')"

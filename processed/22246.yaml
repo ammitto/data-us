@@ -1,0 +1,30 @@
+---
+uid: '22246'
+last_name: SHANGHAI NORTH TRANSWAY INTERNATIONAL TRADING CO.
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+address_list:
+  items:
+  - uid: '33699'
+    address1: Room 201, Building 1, Dahua Hotel
+    address2: No. 1568 Hutai Road
+    city: Shanghai
+    country: China
+  - uid: '33701'
+    address1: Room 2301, Building 6
+    address2: Lane 1139, Pudong Avenue
+    address3: Pudong New District
+    city: Shanghai
+    country: China
+  - uid: '33703'
+    address1: 181 Fute Rd 1st floor Rm 103
+    address2: Shanghai Free Trade Experiment District
+    country: China
+id_list:
+  items:
+  - uid: '123675'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

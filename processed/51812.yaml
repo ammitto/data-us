@@ -1,0 +1,39 @@
+---
+uid: '51812'
+last_name: VITABANK PJSC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '78959'
+    address1: Room 2, Ulyanovykh Street, 1
+    city: Podolsk
+    postal_code: '142116'
+    country: Russia
+id_list:
+  items:
+  - uid: '44474'
+    id_type: Legal Entity Number
+    id_number: 253400V0NM3W1NJVVD50
+  - uid: '44476'
+    id_type: Registration Number
+    id_number: '1027800000183'
+    id_country: Russia
+  - uid: '44477'
+    id_type: Tax ID No.
+    id_number: '7831000147'
+    id_country: Russia
+  - uid: '182104'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '182101'
+    id_type: SWIFT/BIC
+    id_number: VITARU2P
+  - uid: '182103'
+    id_type: Website
+    id_number: www.vitabank.ru
+  - uid: '182105'
+    id_type: Target Type
+    id_number: Financial Institution

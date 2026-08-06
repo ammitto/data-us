@@ -1,0 +1,37 @@
+---
+uid: '47845'
+last_name: LIMITED LIABILITY COMPANY MODERN MARINE ARCTIC TRANSPORT SPG
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74227'
+    type: a.k.a.
+    category: strong
+    last_name: OOO SMART LNG
+  - uid: '74228'
+    type: a.k.a.
+    category: strong
+    last_name: OOO SMART SPG
+address_list:
+  items:
+  - uid: '71607'
+    address1: ul. Udaltsova 2
+    city: Moscow
+    postal_code: '119415'
+    country: Russia
+id_list:
+  items:
+  - uid: '38576'
+    id_type: Registration Number
+    id_number: '1197746631653'
+    id_country: Russia
+  - uid: '38579'
+    id_type: Tax ID No.
+    id_number: '9729290230'
+    id_country: Russia
+  - uid: '176488'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

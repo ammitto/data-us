@@ -1,0 +1,23 @@
+---
+uid: '10130'
+last_name: NATIONAL STANDARDS AND CALIBRATION LABORATORY
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+aka_list:
+  items:
+  - uid: '9821'
+    type: a.k.a.
+    category: strong
+    last_name: NSCL
+  - uid: '9822'
+    type: a.k.a.
+    category: strong
+    last_name: NATIONAL CALIBRATION CENTRE
+address_list:
+  items:
+  - uid: '13525'
+    address1: P.O. Box 4470
+    city: Damascus
+    country: Syria

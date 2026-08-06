@@ -1,0 +1,54 @@
+---
+uid: '48581'
+first_name: Siarhei
+last_name: CHARHEIKA
+sdn_type: Individual
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '75513'
+    type: a.k.a.
+    category: strong
+    last_name: CHERGEIKO
+    first_name: Sergey Viktorovich
+  - uid: '75514'
+    type: a.k.a.
+    category: strong
+    last_name: CHARHEIKA
+    first_name: Siarhei Viktaravich
+  - uid: '75515'
+    type: a.k.a.
+    category: weak
+    last_name: CHERGEIKO, S.V.
+address_list:
+  items:
+  - uid: '72929'
+    address1: Academic Vyotsky St 3 apt. 114
+    city: Minsk
+    country: Belarus
+id_list:
+  items:
+  - uid: '39529'
+    id_type: National ID No.
+    id_number: 3270886K030PB1
+    id_country: Belarus
+  - uid: '39530'
+    id_type: Passport
+    id_number: KH2638135
+    id_country: Belarus
+  - uid: '170848'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '70847'
+    date_of_birth: 27 Aug 1986
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '70901'
+    place_of_birth: Mochulino Village, Belarus
+    main_entry: 'true'
+remarks: "(Linked To: PELENG JSC)"

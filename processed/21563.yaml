@@ -1,0 +1,49 @@
+---
+uid: '21563'
+first_name: Muhammad 'Abd-al-Amir
+last_name: FARHAT
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+  - IFSR
+  - IRGC
+aka_list:
+  items:
+  - uid: '34214'
+    type: a.k.a.
+    category: strong
+    last_name: FARHAT
+    first_name: Mohammad Abdul Amir
+  - uid: '34228'
+    type: a.k.a.
+    category: strong
+    last_name: FARHAT
+    first_name: Mohammad
+id_list:
+  items:
+  - uid: '13501'
+    id_type: Passport
+    id_number: RL 2325452
+    id_country: Lebanon
+    expiration_date: 31 Jul 2017
+  - uid: '186609'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '122448'
+    id_type: Gender
+    id_number: Male
+  - uid: '122478'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '22446'
+    date_of_birth: 23 Aug 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '22447'
+    place_of_birth: Kuwait
+    main_entry: 'true'

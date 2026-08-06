@@ -1,0 +1,42 @@
+---
+uid: '27855'
+first_name: Mohammad-Reza
+last_name: ASHTIANI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13876
+  - IRAN-CON-ARMS-EO
+aka_list:
+  items:
+  - uid: '43920'
+    type: a.k.a.
+    category: strong
+    last_name: ASHTIANI
+    first_name: Mohammed Reza Gharayi
+address_list:
+  items:
+  - uid: '42176'
+    country: Iran
+id_list:
+  items:
+  - uid: '133119'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '133147'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '33120'
+    date_of_birth: '1960'
+    main_entry: 'true'
+  - uid: '33146'
+    date_of_birth: '1961'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '33121'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: MINISTRY OF DEFENSE AND ARMED FORCES LOGISTICS)"

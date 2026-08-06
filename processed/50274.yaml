@@ -1,0 +1,38 @@
+---
+uid: '50274'
+last_name: STRATIM LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78523'
+    type: a.k.a.
+    category: strong
+    last_name: STRATIM LLC
+address_list:
+  items:
+  - uid: '76139'
+    address1: ul. Varvarskaia
+    address2: '6'
+    address3: pomeshch. P6
+    city: Nizhny Novgorod
+    postal_code: '603000'
+    country: Russia
+id_list:
+  items:
+  - uid: '41958'
+    id_type: Registration Number
+    id_number: '1245200009075'
+    id_country: Russia
+  - uid: '41959'
+    id_type: Tax ID No.
+    id_number: '5260494520'
+    id_country: Russia
+  - uid: '177986'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '177985'
+    id_type: Organization Established Date
+    id_number: 01 Apr 2024

@@ -1,0 +1,67 @@
+---
+uid: '34416'
+first_name: Stanislav
+last_name: SHEVCHUK
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '53873'
+    type: a.k.a.
+    category: strong
+    last_name: SHEVCHUK
+    first_name: Stanislav Anatolevich
+  - uid: '75330'
+    type: a.k.a.
+    category: strong
+    last_name: CHEVTCHOUK
+    first_name: Stanislav
+  - uid: '75331'
+    type: a.k.a.
+    category: strong
+    last_name: SHEVCHUK
+    first_name: Stanislav Anatolyevich
+address_list:
+  items:
+  - uid: '51544'
+    address1: Ul Asanalieva 8 24
+    city: Minsk
+    country: Belarus
+  - uid: '51545'
+    address1: C. De Villarroel 159 4 4
+    address2: L'Eixample
+    city: Barcelona
+    postal_code: '08036'
+    country: Spain
+id_list:
+  items:
+  - uid: '39365'
+    id_type: Passport
+    id_number: '530780883'
+    id_country: Russia
+    expiration_date: 16 Dec 2024
+  - uid: '40790'
+    id_type: Passport
+    id_number: '514676569'
+    id_country: Russia
+    expiration_date: 26 Apr 2015
+  - uid: '145689'
+    id_type: Gender
+    id_number: Male
+  - uid: '152733'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '45687'
+    date_of_birth: 14 Jul 1975
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '52731'
+    place_of_birth: Penza, Russia
+    main_entry: 'true'
+remarks: "(Linked To: RUSSIAN IMPERIAL MOVEMENT)"

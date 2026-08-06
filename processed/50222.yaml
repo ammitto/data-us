@@ -1,0 +1,53 @@
+---
+uid: '50222'
+last_name: UE RUBISTAR
+sdn_type: Entity
+program_list:
+  programs:
+  - BELARUS-EO14038
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78371'
+    type: a.k.a.
+    category: strong
+    last_name: RUBISTAR, UP
+  - uid: '78372'
+    type: a.k.a.
+    category: strong
+    last_name: RUBYSTAR AIRWAYS
+  - uid: '78373'
+    type: a.k.a.
+    category: strong
+    last_name: PRODUCTION UNITARY ENTERPRISE RUBISTAR MIKHOLAPA E.I. SMOLEVICHI DISTRICT
+  - uid: '78374'
+    type: a.k.a.
+    category: strong
+    last_name: UE RUBISTAR MIKHOLAPA E.I. SMOLEVICHI DISTRICT
+  - uid: '78375'
+    type: a.k.a.
+    category: strong
+    last_name: PROIZVODSTVENNOE UNITARNOE PREDPRIVATIE RUBISTAR MIKHOLAPA E.I. SMOLEVICHSKII
+      RAION
+address_list:
+  items:
+  - uid: '76030'
+    address1: Ul. Peschanaya, d. 20
+    city: Smolevichi
+    postal_code: '222201'
+    country: Belarus
+id_list:
+  items:
+  - uid: '41862'
+    id_type: Tax ID No.
+    id_number: '600436180'
+    id_country: Belarus
+  - uid: '178175'
+    id_type: 'Organization Type:'
+    id_number: Freight air transport
+  - uid: '177844'
+    id_type: Organization Established Date
+    id_number: 23 Mar 1997
+  - uid: '178212'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,33 @@
+---
+uid: '40947'
+first_name: Lutwin
+last_name: SCHOMMER
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '61119'
+    address1: Schoenenstrasse
+    city: Rueschlikon
+    postal_code: '8803'
+    country: Switzerland
+id_list:
+  items:
+  - uid: '30247'
+    id_type: Passport
+    id_number: X0995321
+    id_country: Switzerland
+  - uid: '175327'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '158601'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '58598'
+    date_of_birth: 11 Jul 1957
+    main_entry: 'true'
+remarks: "(Linked To: TAMYNA AG)"

@@ -1,0 +1,36 @@
+---
+uid: '35784'
+first_name: Stepan Kirillovich
+last_name: KOVALCHUK
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '53679'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '25105'
+    id_type: Passport
+    id_number: '644557612'
+    id_country: Russia
+  - uid: '173239'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '148876'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '48877'
+    date_of_birth: 03 May 1994
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '48878'
+    place_of_birth: Russia
+    main_entry: 'true'
+remarks: "(Linked To: KOVALCHUK, Kirill Mikhailovich)"

@@ -1,0 +1,44 @@
+---
+uid: '40476'
+last_name: JOINT STOCK COMPANY TERRA TECH
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '62907'
+    type: a.k.a.
+    category: strong
+    last_name: AO TERRA TEKH
+  - uid: '62908'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO TERRA TEKH
+address_list:
+  items:
+  - uid: '60284'
+    address1: Ul. Aviamotornaya D. 53, Str. 1
+    address2: Kom. 93
+    city: Moscow
+    postal_code: '111250'
+    country: Russia
+id_list:
+  items:
+  - uid: '29616'
+    id_type: Registration Number
+    id_number: '5177746378431'
+    id_country: Russia
+  - uid: '29617'
+    id_type: Tax ID No.
+    id_number: '7722429553'
+    id_country: Russia
+  - uid: '174089'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '157647'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
+  - uid: '157648'
+    id_type: Organization Established Date
+    id_number: 25 Dec 2017

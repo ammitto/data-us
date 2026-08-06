@@ -1,0 +1,45 @@
+---
+uid: '39177'
+last_name: JOINT STOCK COMPANY INSTITUTE FOR SCIENTIFIC RESEARCH ELEKTRONNOY TEKHNIKI
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '61089'
+    type: a.k.a.
+    category: strong
+    last_name: RESEARCH INSTITUTE OF ELECTRONIC ENGINEERING
+  - uid: '61090'
+    type: a.k.a.
+    category: strong
+    last_name: ELECTRONIC TECHNOLOGY RESEARCH INSTITUTE
+  - uid: '61091'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY NIIET
+address_list:
+  items:
+  - uid: '58326'
+    address1: 5 Starykh Bolshevikov Str.
+    city: Voronezh
+    state_or_province: Voronezh Region
+    postal_code: '394033'
+    country: Russia
+id_list:
+  items:
+  - uid: '28396'
+    id_type: Tax ID No.
+    id_number: '3661057900'
+    id_country: Russia
+  - uid: '28397'
+    id_type: Registration Number
+    id_number: '1123668048789'
+    id_country: Russia
+  - uid: '154929'
+    id_type: Organization Established Date
+    id_number: 11 Oct 2012
+  - uid: '174744'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,38 @@
+---
+uid: '39501'
+first_name: Nikolay Nikolayevich
+last_name: KOSOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '61572'
+    type: a.k.a.
+    category: strong
+    last_name: KOSOV
+    first_name: Nikolai
+address_list:
+  items:
+  - uid: '58849'
+    city: Budapest
+    country: Hungary
+id_list:
+  items:
+  - uid: '155610'
+    id_type: Gender
+    id_number: Male
+  - uid: '174782'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '55607'
+    date_of_birth: 30 Jun 1955
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '55608'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'

@@ -1,0 +1,34 @@
+---
+uid: '49030'
+last_name: AZADEGAN TRANSPORTATION COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+  - IFSR
+  - IRGC
+address_list:
+  items:
+  - uid: '73773'
+    address1: Kilometer 9 Jadeh Makhsos, Esteghlal Town, Obeydi Blvd
+    address2: Jalal Amadegah St, Shahid Hasheminejad
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '40104'
+    id_type: Registration Number
+    id_number: '81273'
+    id_country: Iran
+  - uid: '40105'
+    id_type: National ID No.
+    id_number: '10101259330'
+    id_country: Iran
+  - uid: '171857'
+    id_type: Organization Established Date
+    id_number: 04 Dec 1990
+  - uid: '171913'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS)"

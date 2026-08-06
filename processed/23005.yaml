@@ -1,0 +1,26 @@
+---
+uid: '23005'
+last_name: RYUGYONG COMMERCIAL BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK4
+address_list:
+  items:
+  - uid: '34720'
+    country: Korea, North
+  - uid: '34721'
+    city: Beijing
+    country: China
+  - uid: '34722'
+    city: Dandong
+    country: China
+id_list:
+  items:
+  - uid: '135105'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '127270'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210

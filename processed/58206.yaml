@@ -1,0 +1,30 @@
+---
+uid: '58206'
+last_name: EMPRESA DE ENERGIA S.A.
+sdn_type: Entity
+program_list:
+  programs:
+  - CUBA-EO14404
+aka_list:
+  items:
+  - uid: '90016'
+    type: a.k.a.
+    category: weak
+    last_name: ENERSA
+address_list:
+  items:
+  - uid: '89419'
+    city: Havana
+    country: Cuba
+id_list:
+  items:
+  - uid: '52831'
+    id_type: Entity Code
+    id_number: '60600'
+    id_country: Cuba
+  - uid: '199830'
+    id_type: Organization Established Date
+    id_number: 01 Jan 2012
+  - uid: '199831'
+    id_type: 'Organization Type:'
+    id_number: Wholesale of solid, liquid and gaseous fuels and related products

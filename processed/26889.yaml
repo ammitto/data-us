@@ -1,0 +1,64 @@
+---
+uid: '26889'
+first_name: Amer
+last_name: FOZ
+sdn_type: Individual
+program_list:
+  programs:
+  - PAARSSR-EO13894
+aka_list:
+  items:
+  - uid: '42530'
+    type: a.k.a.
+    category: strong
+    last_name: FOZ
+    first_name: Amer Zuhair
+  - uid: '50450'
+    type: a.k.a.
+    category: strong
+    last_name: FOZ
+    first_name: Amer Zuheir
+address_list:
+  items:
+  - uid: '48382'
+    address1: Yenisehir Mahallesi Ataturk Bulvari Yalim Apt. 61/1-A
+    city: Iskenderun Hatay
+    country: Turkey
+  - uid: '48383'
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '17536'
+    id_type: Passport
+    id_number: O6O1O274747
+    id_country: Syria
+  - uid: '21896'
+    id_type: Passport
+    id_number: U10511291
+    id_country: Turkey
+  - uid: '21897'
+    id_type: Passport
+    id_number: RE0027453
+    id_country: Syria
+  - uid: '21898'
+    id_type: National ID No.
+    id_number: '69736232604'
+    id_country: Turkey
+  - uid: '21899'
+    id_type: National ID No.
+    id_number: '162280535'
+    id_country: United Arab Emirates
+  - uid: '131714'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '31713'
+    date_of_birth: 11 Mar 1976
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '31715'
+    place_of_birth: Homs, Syria
+    main_entry: 'true'
+remarks: "(Linked To: FOZ, Samer)"

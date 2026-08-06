@@ -1,0 +1,132 @@
+---
+uid: '27189'
+last_name: JAMMAL TRUST BANK S.A.L.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '43049'
+    type: a.k.a.
+    category: strong
+    last_name: JAMMAL TRUST BANK
+  - uid: '43050'
+    type: a.k.a.
+    category: weak
+    last_name: JTB
+address_list:
+  items:
+  - uid: '41293'
+    address1: JTB Tower
+    address2: Elias Hraoui Avenue
+    city: Beirut
+    country: Lebanon
+  - uid: '41294'
+    address1: Jammal Trust Bank SAL Building
+    address2: Rashid Karame Ave
+    city: Beirut
+    country: Lebanon
+  - uid: '41295'
+    address1: PO Box 11-5640 & 13-5750
+    address2: Bank's Bldg
+    address3: Rashid Karameh Ave
+    city: Beirut
+    country: Lebanon
+  - uid: '41296'
+    address1: SCI La Balance
+    address2: Boulevard Giscard D'estaing
+    city: Abidjan
+    country: Cote d Ivoire
+  - uid: '41297'
+    address1: 15A Burma Road
+    city: Apapa
+    state_or_province: Lagos State
+    country: Nigeria
+  - uid: '41298'
+    address1: 3rd Floor
+    address2: Berkeley Court
+    address3: 6/7 Pollen St
+    city: London
+    postal_code: W1S 1ND
+    country: United Kingdom
+  - uid: '41299'
+    city: Al-Buss
+    country: Lebanon
+  - uid: '41301'
+    city: Al Furzol
+    country: Lebanon
+  - uid: '41302'
+    city: Baalbeck
+    country: Lebanon
+  - uid: '41303'
+    city: Beirut
+    country: Lebanon
+  - uid: '41304'
+    city: Bint Jbeil
+    country: Lebanon
+  - uid: '41305'
+    city: Bourj El Barajneh
+    country: Lebanon
+  - uid: '41306'
+    city: Dora
+    country: Lebanon
+  - uid: '41307'
+    city: Ghazieh
+    country: Lebanon
+  - uid: '41308'
+    city: Jbeil
+    country: Lebanon
+  - uid: '41309'
+    city: Jwaya
+    country: Lebanon
+  - uid: '41310'
+    city: Kana
+    country: Lebanon
+  - uid: '41311'
+    city: Labwe
+    country: Lebanon
+  - uid: '41312'
+    city: Marjeyoun
+    country: Lebanon
+  - uid: '41313'
+    city: Nabatieh
+    country: Lebanon
+  - uid: '41314'
+    city: Saida
+    country: Lebanon
+  - uid: '41315'
+    city: Tibnin
+    country: Lebanon
+  - uid: '41316'
+    city: Tripoli
+    country: Lebanon
+  - uid: '41317'
+    city: Tyre
+    country: Lebanon
+  - uid: '41318'
+    city: Verdun
+    country: Lebanon
+  - uid: '41319'
+    city: Abidjan
+    country: Cote d Ivoire
+  - uid: '41320'
+    city: Apapa
+    country: Nigeria
+  - uid: '41321'
+    city: London
+    country: United Kingdom
+id_list:
+  items:
+  - uid: '186923'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '132265'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
+      Sanctions Regulations
+  - uid: '132197'
+    id_type: SWIFT/BIC
+    id_number: JTBKLBBE
+remarks: 'All Branches Worldwide; (Linked To: HIZBALLAH)'

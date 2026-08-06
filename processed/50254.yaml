@@ -1,0 +1,41 @@
+---
+uid: '50254'
+first_name: Valery Alexandrovich
+last_name: GABRIEL
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78472'
+    type: a.k.a.
+    category: strong
+    last_name: GABRIEL
+    first_name: Valerii Aleksandrovich
+address_list:
+  items:
+  - uid: '76092'
+    country: Russia
+id_list:
+  items:
+  - uid: '41925'
+    id_type: Tax ID No.
+    id_number: '732808701175'
+    id_country: Russia
+  - uid: '178028'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '177928'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '77926'
+    date_of_birth: 03 Jan 1956
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '77927'
+    place_of_birth: Starobelsk, Luhansk Region, Ukraine
+    main_entry: 'true'

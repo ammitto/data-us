@@ -1,0 +1,39 @@
+---
+uid: '29221'
+first_name: David Eugenio
+last_name: DE LIMA SALAS
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+address_list:
+  items:
+  - uid: '44208'
+    address1: Villas Martinique Casa 131 El Morro
+    city: Lecherias
+    state_or_province: Anzoategui
+    country: Venezuela
+id_list:
+  items:
+  - uid: '19464'
+    id_type: Cedula No.
+    id_number: V-4719253
+    id_country: Venezuela
+  - uid: '19465'
+    id_type: Passport
+    id_number: '144763935'
+    id_country: Venezuela
+    expiration_date: 02 Jul 2022
+  - uid: '135937'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '35935'
+    date_of_birth: 03 Apr 1959
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '35936'
+    place_of_birth: Puerto La Cruz, Estado Anzoategui, Venezuela
+    main_entry: 'true'

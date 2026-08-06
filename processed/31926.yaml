@@ -1,0 +1,44 @@
+---
+uid: '31926'
+last_name: NORD STREAM 2 AG
+sdn_type: Entity
+program_list:
+  programs:
+  - PEESA-EO14039
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '50022'
+    type: a.k.a.
+    category: strong
+    last_name: NEW EUROPEAN PIPELINE AG
+address_list:
+  items:
+  - uid: '48019'
+    address1: Baarerstrasse 52
+    city: Zug
+    postal_code: '6300'
+    country: Switzerland
+  - uid: '48020'
+    address1: Gotthardstrasse 2
+    city: Zug
+    postal_code: '6300'
+    country: Switzerland
+  - uid: '48021'
+    address1: Bahnhofstrasse 10
+    city: Zug
+    postal_code: '6301'
+    country: Switzerland
+id_list:
+  items:
+  - uid: '21725'
+    id_type: Business Registration Number
+    id_number: CH-170.3.039.850-1
+    id_country: Switzerland
+  - uid: '21726'
+    id_type: Identification Number
+    id_number: CHE-444.239.548
+    id_country: Switzerland
+  - uid: '183230'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

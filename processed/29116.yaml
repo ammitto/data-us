@@ -1,0 +1,52 @@
+---
+uid: '29116'
+first_name: Igor Valerievich
+last_name: LAVRENKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+  - ELECTION-EO13848
+  - UKRAINE-EO13661
+address_list:
+  items:
+  - uid: '44077'
+    city: Surat Thani
+    postal_code: '84320'
+    country: Thailand
+  - uid: '44078'
+    address1: Chaoyang District
+    city: Beijing
+    country: China
+id_list:
+  items:
+  - uid: '19386'
+    id_type: Passport
+    id_number: RE0028598
+    id_country: Saint Kitts and Nevis
+  - uid: '19387'
+    id_type: Passport
+    id_number: RE0013455
+    id_country: Saint Kitts and Nevis
+  - uid: '19388'
+    id_type: Passport
+    id_number: 51NO5354610
+    id_country: Russia
+  - uid: '135847'
+    id_type: Gender
+    id_number: Male
+  - uid: '144101'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+date_of_birth_list:
+  items:
+  - uid: '35843'
+    date_of_birth: 30 Jan 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '35844'
+    place_of_birth: Russia
+    main_entry: 'true'
+remarks: "(Linked To: PRIGOZHIN, Yevgeniy Viktorovich)"

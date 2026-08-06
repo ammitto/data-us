@@ -1,0 +1,46 @@
+---
+uid: '53820'
+last_name: ASATRYAN LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK3
+aka_list:
+  items:
+  - uid: '83862'
+    type: a.k.a.
+    category: strong
+    last_name: ASATRYAN LLC
+  - uid: '83863'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY ASATRYAN
+address_list:
+  items:
+  - uid: '82146'
+    address1: Office 2, Dom 113/5, Vokzalnaya Street, Artyomovsky Urban Okrug
+    city: Artyom
+    state_or_province: Primorsky Krai
+    postal_code: '692760'
+    country: Russia
+id_list:
+  items:
+  - uid: '47210'
+    id_type: Tax ID No.
+    id_number: '2502065020'
+    id_country: Russia
+  - uid: '47213'
+    id_type: Registration Number
+    id_number: '1212500013934'
+    id_country: Russia
+  - uid: '188844'
+    id_type: Organization Established Date
+    id_number: 10 Jun 2021
+  - uid: '188843'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '188842'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+remarks: "(Linked To: ASATRYAN, Gayk)"

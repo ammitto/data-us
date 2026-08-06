@@ -1,0 +1,46 @@
+---
+uid: '12824'
+first_name: Hassan Mahat
+last_name: OMAR
+sdn_type: Individual
+program_list:
+  programs:
+  - SOMALIA
+aka_list:
+  items:
+  - uid: '14050'
+    type: a.k.a.
+    category: strong
+    last_name: ADAM
+    first_name: Sheikh Hassaan Hussein
+  - uid: '14051'
+    type: a.k.a.
+    category: strong
+    last_name: HUSSEIN
+    first_name: Sheikh Hassaan
+  - uid: '14052'
+    type: a.k.a.
+    category: strong
+    last_name: OMAR
+    first_name: Hassan Mahad
+id_list:
+  items:
+  - uid: '7237'
+    id_type: Kenyan ID No.
+    id_number: '23446085'
+    id_country: Kenya
+  - uid: '7238'
+    id_type: Passport
+    id_number: A1180173
+    id_country: Kenya
+    expiration_date: 20 Aug 2017
+date_of_birth_list:
+  items:
+  - uid: '8560'
+    date_of_birth: 10 Apr 1979
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '8561'
+    place_of_birth: Garissa, Kenya
+    main_entry: 'true'

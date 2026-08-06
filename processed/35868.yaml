@@ -1,0 +1,42 @@
+---
+uid: '35868'
+last_name: JOINT STOCK COMPANY 150 AIRCRAFT REPAIR PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56359'
+    type: a.k.a.
+    category: weak
+    last_name: AO 150 ARZ
+  - uid: '56360'
+    type: a.k.a.
+    category: weak
+    last_name: 150 AIRCRAFT REPAIR PLANT
+address_list:
+  items:
+  - uid: '53824'
+    address1: Ul. Garnizonnaya D. 4
+    city: Svetlyi
+    state_or_province: P. Lyublino-Novoe
+    postal_code: '238347'
+    country: Russia
+id_list:
+  items:
+  - uid: '25195'
+    id_type: Registration Number
+    id_number: '1093925016767'
+    id_country: Russia
+  - uid: '25196'
+    id_type: Tax ID No.
+    id_number: '3913501370'
+    id_country: Russia
+  - uid: '173263'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '149063'
+    id_type: Organization Established Date
+    id_number: 03 Dec 1996
+remarks: "(Linked To: VERTOLETY ROSSII AO)"

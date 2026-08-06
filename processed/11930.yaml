@@ -1,0 +1,31 @@
+---
+uid: '11930'
+first_name: Nabor
+last_name: VARGAS GARCIA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '18167'
+    country: Mexico
+id_list:
+  items:
+  - uid: '6371'
+    id_type: C.U.R.P.
+    id_number: VAGN760712HHGRRB06
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '7609'
+    date_of_birth: 12 Jul 1976
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '7610'
+    place_of_birth: Pachuca, Hidalgo, Mexico
+    main_entry: 'true'
+  - uid: '7611'
+    place_of_birth: Pachuca De Soto, Hidalgo, Mexico
+    main_entry: 'false'

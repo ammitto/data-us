@@ -1,0 +1,33 @@
+---
+uid: '56620'
+first_name: Aldo Martin
+last_name: SAENZ ULLOA
+sdn_type: Individual
+program_list:
+  programs:
+  - NICARAGUA
+address_list:
+  items:
+  - uid: '86633'
+    address1: Nindiri
+    city: Masaya
+    country: Nicaragua
+id_list:
+  items:
+  - uid: '50692'
+    id_type: National ID No.
+    id_number: '0861211580003G'
+    id_country: Nicaragua
+  - uid: '195143'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '95144'
+    date_of_birth: 12 Nov 1958
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '95145'
+    place_of_birth: Chinandega, Nicaragua
+    main_entry: 'true'

@@ -1,0 +1,31 @@
+---
+uid: '24497'
+last_name: EP-MNF
+sdn_type: Aircraft
+program_list:
+  programs:
+  - IFSR
+  - SDGT
+  - NPWMD
+id_list:
+  items:
+  - uid: '187160'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '126905'
+    id_type: Aircraft Manufacture Date
+    id_number: 07 Aug 1990
+  - uid: '126907'
+    id_type: Aircraft Model
+    id_number: A310-304
+  - uid: '126908'
+    id_type: Aircraft Operator
+    id_number: Mahan Air
+  - uid: '126906'
+    id_type: Aircraft Manufacturer's Serial Number (MSN)
+    id_number: '547'
+  - uid: '126904'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: MAHAN AIR)"

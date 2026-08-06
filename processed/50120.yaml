@@ -1,0 +1,32 @@
+---
+uid: '50120'
+last_name: SPE OU
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '75830'
+    address1: Laki Tn 16
+    city: Tallinn
+    postal_code: '10621'
+    country: Estonia
+id_list:
+  items:
+  - uid: '41702'
+    id_type: Tax ID No.
+    id_number: '14263832'
+    id_country: Estonia
+  - uid: '41703'
+    id_type: V.A.T. Number
+    id_number: EE101978060
+    id_country: Estonia
+  - uid: '177667'
+    id_type: Organization Established Date
+    id_number: 22 May 2017
+  - uid: '177666'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: PUSHKOV, Aleksandr Aleksandrovich; Linked To: KALINOV, Konstantin
+  Svyatoslavovich)"

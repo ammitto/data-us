@@ -1,0 +1,40 @@
+---
+uid: '39496'
+first_name: Il Ho
+last_name: JON
+sdn_type: Individual
+program_list:
+  programs:
+  - DPRK2
+aka_list:
+  items:
+  - uid: '61926'
+    type: a.k.a.
+    category: strong
+    last_name: CHON
+    first_name: Il Ho
+address_list:
+  items:
+  - uid: '59223'
+    country: Korea, North
+id_list:
+  items:
+  - uid: '28896'
+    id_type: Passport
+    id_number: PS463120423
+    id_country: Korea, North
+  - uid: '156138'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '156127'
+    id_type: Gender
+    id_number: Male
+  - uid: '156139'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+date_of_birth_list:
+  items:
+  - uid: '56129'
+    date_of_birth: 20 Feb 1956
+    main_entry: 'true'

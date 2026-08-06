@@ -1,0 +1,36 @@
+---
+uid: '50740'
+last_name: OOO KONSTRUKTORSKOE BYURO SPEKTR INZHINIRING
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79425'
+    type: a.k.a.
+    category: strong
+    last_name: SPEKTR ENGINEERING DESIGN BUREAU
+address_list:
+  items:
+  - uid: '76955'
+    address1: Ul. Promyshlennaya D. 33
+    city: Berdsk
+    postal_code: '633004'
+    country: Russia
+id_list:
+  items:
+  - uid: '42614'
+    id_type: Registration Number
+    id_number: '1195476049185'
+    id_country: Russia
+  - uid: '42615'
+    id_type: Tax ID No.
+    id_number: '5445029645'
+    id_country: Russia
+  - uid: '179367'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '179366'
+    id_type: Organization Established Date
+    id_number: 02 Jul 2019

@@ -1,0 +1,75 @@
+---
+uid: '10357'
+first_name: Monica del Rosario
+last_name: ZAMBADA NIEBLA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '10089'
+    type: a.k.a.
+    category: strong
+    last_name: ZAMBADA NIEBLA
+    first_name: Monica del Rocio
+address_list:
+  items:
+  - uid: '14094'
+    address1: c/o NUEVA INDUSTRIA DE GANADEROS DE CULIACAN S.A. DE C.V.
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '14095'
+    address1: c/o JAMARO CONSTRUCTORES S.A. DE C.V.
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '14096'
+    address1: c/o ESTABLO PUERTO RICO S.A. DE C.V.
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '14097'
+    address1: 'Calle Ciudad de Hermosillo # 1168'
+    address2: Fraccionamiento Las Quintas
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '14098'
+    address1: Calle Ciudad de Puebla 1254
+    address2: Colonia Las Quintas
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+id_list:
+  items:
+  - uid: '4957'
+    id_type: C.U.R.P.
+    id_number: ZANM800402MSLMBN02
+    id_country: Mexico
+  - uid: '4958'
+    id_type: R.F.C.
+    id_number: ZANM-800402
+    id_country: Mexico
+  - uid: '4959'
+    id_type: Passport
+    id_number: '040037016'
+    id_country: Mexico
+  - uid: '4960'
+    id_type: Passport
+    id_number: '95040018272'
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '5504'
+    date_of_birth: 02 Mar 1980
+    main_entry: 'true'
+  - uid: '5505'
+    date_of_birth: 02 Apr 1980
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '5506'
+    place_of_birth: Culiacan, Sinaloa, Mexico
+    main_entry: 'true'

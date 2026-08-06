@@ -1,0 +1,45 @@
+---
+uid: '42035'
+last_name: AF TELECOM HOLDING LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65354'
+    type: a.k.a.
+    category: strong
+    last_name: AF TELEKOM KHOLDING OOO
+  - uid: '65355'
+    type: a.k.a.
+    category: strong
+    last_name: AF TELEKOM HOLDING OOO
+address_list:
+  items:
+  - uid: '62743'
+    address1: d. 18 etazh 3 kom. 64, per.1-l Tverskoi-Yamskoi
+    city: Moscow
+    postal_code: '125047'
+    country: Russia
+id_list:
+  items:
+  - uid: '31466'
+    id_type: Registration Number
+    id_number: '5077746801963'
+    id_country: Russia
+  - uid: '31467'
+    id_type: Tax ID No.
+    id_number: '7715650360'
+    id_country: Russia
+  - uid: '31468'
+    id_type: Government Gazette Number
+    id_number: '80873481'
+    id_country: Russia
+  - uid: '160256'
+    id_type: Organization Established Date
+    id_number: 18 May 2007
+  - uid: '175373'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: LIMITED LIABILITY COMPANY USM TELECOM)"

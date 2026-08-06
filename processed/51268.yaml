@@ -1,0 +1,44 @@
+---
+uid: '51268'
+first_name: William Alfredo
+last_name: CASTILLO BOLLE
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+aka_list:
+  items:
+  - uid: '80461'
+    type: a.k.a.
+    category: strong
+    last_name: CASTILLO BOLLE
+    first_name: Wiliam Alfredo
+address_list:
+  items:
+  - uid: '78130'
+    city: Caracas
+    country: Venezuela
+id_list:
+  items:
+  - uid: '43573'
+    id_type: Cedula No.
+    id_number: V5973031
+    id_country: Venezuela
+  - uid: '43574'
+    id_type: Diplomatic Passport
+    id_number: '045793721'
+    id_country: Venezuela
+    expiration_date: 13 Jul 2027
+  - uid: '180599'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '80596'
+    date_of_birth: 18 Dec 1961
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '80598'
+    place_of_birth: Caracas, Venezuela
+    main_entry: 'true'

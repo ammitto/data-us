@@ -1,0 +1,40 @@
+---
+uid: '49935'
+last_name: SPEECH TECHNOLOGY CENTER LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77809'
+    type: a.k.a.
+    category: weak
+    last_name: TSRT
+address_list:
+  items:
+  - uid: '75505'
+    address1: Ul. Krasutskogo
+    address2: D.4, Korp. 4
+    city: Saint Petersburg
+    postal_code: '196188'
+    country: Russia
+  - uid: '75506'
+    address1: Nab. Vyborgskaya
+    address2: D. 45, Lit. E, Pom. Office 1-N, 133
+    city: Saint Petersburg
+    postal_code: '194044'
+    country: Russia
+id_list:
+  items:
+  - uid: '41444'
+    id_type: Registration Number
+    id_number: '1027810243295'
+    id_country: Russia
+  - uid: '41445'
+    id_type: Tax ID No.
+    id_number: '7805093681'
+    id_country: Russia
+  - uid: '178058'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

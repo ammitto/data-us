@@ -1,0 +1,67 @@
+---
+uid: '11500'
+first_name: Walid
+last_name: MAKLED GARCIA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '12186'
+    type: a.k.a.
+    category: strong
+    last_name: MAKLED GARCIA
+    first_name: Valed
+  - uid: '12187'
+    type: a.k.a.
+    category: strong
+    last_name: WAKLED GARCIA
+    first_name: Walid
+  - uid: '12188'
+    type: a.k.a.
+    category: weak
+    last_name: EL TURCO WALID
+address_list:
+  items:
+  - uid: '17139'
+    address1: Calle Rio Orinoco
+    address2: Ankara Building
+    address3: Valle de Camoruco
+    city: Valencia
+    state_or_province: Carabobo
+    country: Venezuela
+  - uid: '17140'
+    city: Guacara
+    state_or_province: Carabobo
+    country: Venezuela
+  - uid: '17141'
+    city: Valencia
+    state_or_province: Carabobo
+    country: Venezuela
+  - uid: '17142'
+    city: Puerto Cabello
+    state_or_province: Carabobo
+    country: Venezuela
+  - uid: '17143'
+    city: Maracaibo
+    state_or_province: Zulia
+    country: Venezuela
+  - uid: '17144'
+    city: Curacao
+    country: Netherlands Antilles
+id_list:
+  items:
+  - uid: '5887'
+    id_type: Cedula No.
+    id_number: '18489167'
+    id_country: Venezuela
+  - uid: '5888'
+    id_type: Passport
+    id_number: '18489167'
+    id_country: Venezuela
+date_of_birth_list:
+  items:
+  - uid: '6922'
+    date_of_birth: 06 Jun 1969
+    main_entry: 'true'

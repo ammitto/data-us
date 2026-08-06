@@ -1,0 +1,63 @@
+---
+uid: '25151'
+first_name: Lidy Alejandra
+last_name: SANDOVAL LOPEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+address_list:
+  items:
+  - uid: '38087'
+    address1: Calle Mateo del Regil No. Ext. 31
+    address2: Col. Fraccionamiento IMSS
+    city: Tepic
+    state_or_province: Nayarit
+    postal_code: C.P. 63186
+    country: Mexico
+  - uid: '38387'
+    address1: Palomas Numero 14
+    address2: Colonia El Armadillo
+    city: Tepic
+    state_or_province: Nayarit
+    country: Mexico
+  - uid: '38389'
+    address1: Lote de Terreno Marcado Numero 6
+    address2: Manzana 1, Vialidad Privada, Fraccionamiento Lago David
+    address3: clave catastral 01-059-14-101-006
+    city: Tepic
+    state_or_province: Nayarit
+    country: Mexico
+  - uid: '38393'
+    address1: Calle Paseo de los Bosques MZ-A
+    address2: Colonia Bonaterra
+    address3: clave catastral 1-59-14-300-17
+    city: Tepic
+    state_or_province: Nayarit
+    country: Mexico
+  - uid: '39922'
+    address1: Lote de Terreno Marcado Numero 7
+    address2: Manzana 1, Vialidad Privada
+    address3: Fraccionamiento Lago David
+    city: Tepic
+    state_or_province: Nayarit
+    country: Mexico
+id_list:
+  items:
+  - uid: '16238'
+    id_type: C.U.R.P.
+    id_number: SALL891008MNTNPD09
+    id_country: Mexico
+  - uid: '128410'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '28408'
+    date_of_birth: '08 Oct 1989'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '28411'
+    place_of_birth: Nayarit, Mexico
+    main_entry: 'true'

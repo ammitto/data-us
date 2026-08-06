@@ -1,0 +1,41 @@
+---
+uid: '35306'
+first_name: Stanislav Sergeyevich
+last_name: CHEMEZOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '55542'
+    type: a.k.a.
+    category: strong
+    last_name: CHEMEZOV
+    first_name: Stanislav
+address_list:
+  items:
+  - uid: '53070'
+    address1: 36 Yuzhnoye Highway
+    address2: Tolyatti
+    state_or_province: Samara
+    postal_code: '445024'
+    country: Russia
+id_list:
+  items:
+  - uid: '25016'
+    id_type: Tax ID No.
+    id_number: '770203814714'
+    id_country: Russia
+  - uid: '147538'
+    id_type: Gender
+    id_number: Male
+  - uid: '176703'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '47536'
+    date_of_birth: '1973'
+    main_entry: 'true'
+remarks: "(Linked To: CHEMEZOV, Sergei)"

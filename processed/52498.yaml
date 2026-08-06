@@ -1,0 +1,48 @@
+---
+uid: '52498'
+first_name: Meisam
+last_name: EMAMJOMEH
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '82371'
+    type: a.k.a.
+    category: strong
+    last_name: EMAMJOME
+    first_name: Meisam
+address_list:
+  items:
+  - uid: '80184'
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '45488'
+    id_type: National ID No.
+    id_number: '0064420701'
+    id_country: Iran
+  - uid: '45489'
+    id_type: Passport
+    id_number: '538993944'
+    id_country: United Kingdom
+  - uid: '45490'
+    id_type: Passport
+    id_number: K96797853
+    id_country: Iran
+    expiration_date: 05 Aug 2028
+  - uid: '184162'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '84158'
+    date_of_birth: 14 Feb 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '84530'
+    place_of_birth: Iran
+    main_entry: 'true'
+remarks: "(Linked To: ARSA GAS COMPANY)"

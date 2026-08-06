@@ -1,0 +1,61 @@
+---
+uid: '57228'
+first_name: Maya
+last_name: BOUSTANY
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '88661'
+    type: a.k.a.
+    category: strong
+    last_name: AL-BUSTANI
+    first_name: Maya
+  - uid: '88662'
+    type: a.k.a.
+    category: strong
+    last_name: AL-BUSTANI
+    first_name: Maya Shadi
+address_list:
+  items:
+  - uid: '87701'
+    country: Qatar
+  - uid: '87702'
+    city: Al-Dabieh
+    state_or_province: Mount Lebanon
+    country: Lebanon
+id_list:
+  items:
+  - uid: '51498'
+    id_type: National ID No.
+    id_number: '000043641387'
+    id_country: Lebanon
+  - uid: '51499'
+    id_type: Passport
+    id_number: LR2067544
+    id_country: Lebanon
+    expiration_date: 22 Apr 2031
+  - uid: '197039'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
+      Sanctions Regulations
+  - uid: '197041'
+    id_type: Gender
+    id_number: Female
+  - uid: '197038'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '97040'
+    date_of_birth: '09 Sep 1981'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '97042'
+    place_of_birth: Al-Dabieh, Lebanon
+    main_entry: 'true'
+remarks: "(Linked To: HAMIEH, Alaa Hassan)"

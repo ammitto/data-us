@@ -1,0 +1,34 @@
+---
+uid: '44931'
+first_name: Bahman
+last_name: REYHANI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+  - IRGC
+  - IFSR
+address_list:
+  items:
+  - uid: '66866'
+    city: Kermanshah
+    country: Iran
+id_list:
+  items:
+  - uid: '34855'
+    id_type: Passport
+    id_number: E51007873
+    id_country: Iran
+    expiration_date: 30 Sep 2024
+  - uid: '165493'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '165234'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '65532'
+    date_of_birth: 20 Feb 1965
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS)"

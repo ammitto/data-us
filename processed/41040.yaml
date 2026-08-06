@@ -1,0 +1,42 @@
+---
+uid: '41040'
+first_name: Aleksandr Vyacheslavovich
+last_name: KURENKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63984'
+    type: a.k.a.
+    category: strong
+    last_name: KURENKOV
+    first_name: Alexander Vyacheslavovich
+address_list:
+  items:
+  - uid: '61321'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '30372'
+    id_type: Tax ID No.
+    id_number: '502723272765'
+    id_country: Russia
+  - uid: '158850'
+    id_type: Gender
+    id_number: Male
+  - uid: '173573'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '58848'
+    date_of_birth: 02 Jun 1972
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '58849'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'

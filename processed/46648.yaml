@@ -1,0 +1,33 @@
+---
+uid: '46648'
+last_name: LIMITED LIABILITY COMPANY INVENT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '72094'
+    type: a.k.a.
+    category: weak
+    last_name: INVENT LTD
+address_list:
+  items:
+  - uid: '69451'
+    address1: Ul. Marata D. 15
+    city: Nizhny Novgorod
+    postal_code: '603002'
+    country: Russia
+id_list:
+  items:
+  - uid: '36644'
+    id_type: Registration Number
+    id_number: '1105257000970'
+    id_country: Russia
+  - uid: '36645'
+    id_type: Tax ID No.
+    id_number: '5257114908'
+    id_country: Russia
+  - uid: '175038'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

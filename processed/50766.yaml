@@ -1,0 +1,28 @@
+---
+uid: '50766'
+last_name: OOO DST URAL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '77020'
+    address1: Ul. Geroev Tankograda D. 28P
+    address2: Office 1
+    city: Chelyabinsk
+    postal_code: '454081'
+    country: Russia
+id_list:
+  items:
+  - uid: '42657'
+    id_type: Registration Number
+    id_number: '1137453000992'
+    id_country: Russia
+  - uid: '42658'
+    id_type: Tax ID No.
+    id_number: '7453251929'
+    id_country: Russia
+  - uid: '179396'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

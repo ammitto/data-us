@@ -1,0 +1,39 @@
+---
+uid: '29897'
+last_name: SHANGHAI CISHUN FINE CHEMICAL CO, LTD.
+sdn_type: Entity
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '46925'
+    type: a.k.a.
+    category: strong
+    last_name: SHANGHAI FAST-FINE CHEMICALS CO., LTD.
+  - uid: '53686'
+    type: a.k.a.
+    category: strong
+    last_name: SHANGHAI JUAN-CHEM.INDUSTRY CO., LTD.
+address_list:
+  items:
+  - uid: '45085'
+    address1: No. 555, Lansong Road
+    address2: Pudong New Area
+    city: Shanghai
+    postal_code: '200120'
+    country: China
+  - uid: '45112'
+    address1: Room 103, No. 1800 Hangjin Road
+    address2: Pudong New District
+    city: Shanghai
+    country: China
+id_list:
+  items:
+  - uid: '20026'
+    id_type: Unified Social Credit Code (USCC)
+    id_number: 91310115MA1K41CK14
+    id_country: China
+  - uid: '144714'
+    id_type: Email Address
+    id_number: 1160437003@qq.com

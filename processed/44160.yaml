@@ -1,0 +1,36 @@
+---
+uid: '44160'
+last_name: OBSHESTVO S OGRANICHENNOJ OTVETSTVENNOSTYU NIPIGAZ IT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '68307'
+    type: a.k.a.
+    category: strong
+    last_name: NIPIGAS IT LLC
+address_list:
+  items:
+  - uid: '65716'
+    address1: 65 Profsoyuznaya Street
+    address2: Room 1
+    city: Moscow
+    postal_code: '117342'
+    country: Russia
+id_list:
+  items:
+  - uid: '33574'
+    id_type: Registration Number
+    id_number: '1237700161115'
+    id_country: Russia
+  - uid: '33575'
+    id_type: Tax ID No.
+    id_number: '9728089667'
+    id_country: Russia
+  - uid: '175785'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: NAUCHNO ISSLEDOVATELSKII I PROEKTNYI INSTITUT PO PERERABOTKE
+  GAZA AO)"

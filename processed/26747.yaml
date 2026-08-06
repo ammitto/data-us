@@ -1,0 +1,36 @@
+---
+uid: '26747'
+last_name: OFFISCOOP NV
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '40566'
+    address1: Frankrijklei 156, 5eVerd
+    city: Antwerpen
+    postal_code: '2000'
+    country: Belgium
+id_list:
+  items:
+  - uid: '17399'
+    id_type: Branch Unit Number
+    id_number: '2093373727'
+    id_country: Belgium
+  - uid: '17400'
+    id_type: Enterprise Number
+    id_number: '0473365047'
+    id_country: Belgium
+  - uid: '186890'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '131492'
+    id_type: D-U-N-S Number
+    id_number: 37-163-1008
+  - uid: '131506'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
+      Sanctions Regulations
+remarks: "(Linked To: BAZZI, Wael)"

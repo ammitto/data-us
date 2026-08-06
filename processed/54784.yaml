@@ -1,0 +1,61 @@
+---
+uid: '54784'
+first_name: Alireza
+last_name: DERAKHSHAN
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '85276'
+    type: a.k.a.
+    category: weak
+    last_name: Captain D
+  - uid: '85278'
+    type: a.k.a.
+    category: strong
+    last_name: DERAKHSHAN
+    first_name: Alireza Allahkaram
+  - uid: '85651'
+    type: a.k.a.
+    category: strong
+    last_name: DERAKHSHAN
+    first_name: Ali Reza
+address_list:
+  items:
+  - uid: '83896'
+    country: Monaco
+  - uid: '84111'
+    city: Dubai
+    country: United Arab Emirates
+  - uid: '84112'
+    country: Turkey
+id_list:
+  items:
+  - uid: '48533'
+    id_type: Passport
+    id_number: R0098492
+    id_country: Dominica
+  - uid: '48534'
+    id_type: Passport
+    id_number: U96419862
+    id_country: Iran
+  - uid: '48928'
+    id_type: National ID No.
+    id_number: '6109639478'
+    id_country: Iran
+  - uid: '191197'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '91193'
+    date_of_birth: 23 Sep 1975
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '91194'
+    place_of_birth: Dashtestan, Iran
+    main_entry: 'true'
+remarks: "(Linked To: SHAMKHANI, Mohammad Hossein)"

@@ -1,0 +1,29 @@
+---
+uid: '13137'
+last_name: TAT BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN
+aka_list:
+  items:
+  - uid: '22039'
+    type: a.k.a.
+    category: strong
+    last_name: BANK-E TAT
+address_list:
+  items:
+  - uid: '20998'
+    address1: Shahid Ahmad Ghasir (Bocharest)
+    address2: Shahid Ahmadian (15th) St., No. 1
+    city: Tehran
+    country: Iran
+  - uid: '22581'
+    address1: No. 1 Ahmadian Street, Bokharest Avenue
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '111711'
+    id_type: SWIFT/BIC
+    id_number: TATBIRTH

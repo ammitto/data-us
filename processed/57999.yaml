@@ -1,0 +1,39 @@
+---
+uid: '57999'
+first_name: Julio Cesar
+last_name: CASTELLANOS CEJA
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+address_list:
+  items:
+  - uid: '89003'
+    city: Colima
+    state_or_province: Colima
+    country: Mexico
+id_list:
+  items:
+  - uid: '52535'
+    id_type: C.U.R.P.
+    id_number: CACJ910218HCMSJL08
+    id_country: Mexico
+  - uid: '198968'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '198966'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '98964'
+    date_of_birth: 18 Feb 1991
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '98965'
+    place_of_birth: Colima, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: CARTEL DE JALISCO NUEVA GENERACION)"

@@ -1,0 +1,36 @@
+---
+uid: '42873'
+first_name: Vadim Veniaminovich
+last_name: GARSHIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '63984'
+    country: Russia
+id_list:
+  items:
+  - uid: '32458'
+    id_type: Passport
+    id_number: '736240066'
+    id_country: Russia
+    issue_date: 13 Oct 2014
+    expiration_date: 13 Oct 2024
+  - uid: '175488'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '161706'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '61730'
+    date_of_birth: 01 May 1961
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '61729'
+    place_of_birth: Yevpatoriya, Ukraine
+    main_entry: 'true'

@@ -1,0 +1,48 @@
+---
+uid: '50756'
+last_name: TD ESKO LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79464'
+    type: a.k.a.
+    category: strong
+    last_name: LLC TRADING HOUSE ENERGOSPETSKOMPLEKT
+  - uid: '79465'
+    type: a.k.a.
+    category: strong
+    last_name: TRADING HOUSE ESKO
+address_list:
+  items:
+  - uid: '76995'
+    address1: Ul. Pionerskaya
+    address2: Floor / Pomesch Polupodval, Lit. A., Kom. 10-12
+    city: Krasnogorsk
+    postal_code: '143402'
+    country: Russia
+  - uid: '76996'
+    address1: Promyshlennaya St., House 16A
+    city: Yaroslavl
+    postal_code: '150064'
+    country: Russia
+  - uid: '76997'
+    address1: Ul. Gilyarovskogo, Dom 51
+    city: Moscow
+    postal_code: '129110'
+    country: Russia
+id_list:
+  items:
+  - uid: '42641'
+    id_type: Registration Number
+    id_number: '1127746401419'
+    id_country: Russia
+  - uid: '42642'
+    id_type: Tax ID No.
+    id_number: '7702790095'
+    id_country: Russia
+  - uid: '179383'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,38 @@
+---
+uid: '37222'
+last_name: OOO NORD MARIN INZHINIRING
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '58358'
+    type: a.k.a.
+    category: strong
+    last_name: NORD MARIN INZHINIRING
+address_list:
+  items:
+  - uid: '55678'
+    address1: Sh. Leningradskoe D. 39
+    address2: Str. 6, Pom. XXIV
+    city: Moscow
+    postal_code: '125212'
+    country: Russia
+id_list:
+  items:
+  - uid: '26523'
+    id_type: Registration Number
+    id_number: '1167746706137'
+    id_country: Russia
+  - uid: '26524'
+    id_type: Tax ID No.
+    id_number: '7743165541'
+    id_country: Russia
+  - uid: '151716'
+    id_type: Organization Established Date
+    id_number: 27 Jul 2016
+  - uid: '174527'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: KOCHMAN, Evgeniy Borisovich)"

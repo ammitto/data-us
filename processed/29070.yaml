@@ -1,0 +1,52 @@
+---
+uid: '29070'
+first_name: Ali Muhammad
+last_name: HAMSHO
+sdn_type: Individual
+program_list:
+  programs:
+  - PAARSSR-EO13894
+aka_list:
+  items:
+  - uid: '45707'
+    type: a.k.a.
+    category: strong
+    last_name: HAMCHO
+    first_name: Ali Mohamad
+  - uid: '45708'
+    type: a.k.a.
+    category: strong
+    last_name: HAMSHOU
+    first_name: Ali Mohammed
+  - uid: '45709'
+    type: a.k.a.
+    category: strong
+    last_name: HAMCHO
+    first_name: Ali
+address_list:
+  items:
+  - uid: '43935'
+    city: Damascus
+    country: Syria
+  - uid: '43936'
+    city: Paris
+    country: France
+id_list:
+  items:
+  - uid: '19333'
+    id_type: Passport
+    id_number: N005361042
+    id_country: Syria
+  - uid: '135683'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '35686'
+    date_of_birth: 03 Nov 1998
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '35689'
+    place_of_birth: Damascus, Syria
+    main_entry: 'true'

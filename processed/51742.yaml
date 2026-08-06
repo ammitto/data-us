@@ -1,0 +1,24 @@
+---
+uid: '51742'
+last_name: SYMPHONY
+sdn_type: Vessel
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+id_list:
+  items:
+  - uid: '44339'
+    id_type: Vessel Registration Identification
+    id_number: IMO 9309588
+  - uid: '44340'
+    id_type: MMSI
+    id_number: '314947000'
+  - uid: '181880'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183591'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+remarks: "(Linked To: FORNAX SHIP MANAGEMENT FZCO)"

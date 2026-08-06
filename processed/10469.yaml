@@ -1,0 +1,42 @@
+---
+uid: '10469'
+first_name: Ramiro
+last_name: VANOY MURILLO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNT
+aka_list:
+  items:
+  - uid: '10320'
+    type: a.k.a.
+    category: strong
+    last_name: VANOY RAMIREZ
+    first_name: Ramiro
+  - uid: '10321'
+    type: a.k.a.
+    category: weak
+    last_name: CUCO
+address_list:
+  items:
+  - uid: '14386'
+    address1: Carrera 86 No. 13B-89
+    address2: Apt. 302F
+    city: Cali
+    country: Colombia
+id_list:
+  items:
+  - uid: '5070'
+    id_type: Cedula No.
+    id_number: '462653'
+    id_country: Colombia
+date_of_birth_list:
+  items:
+  - uid: '5704'
+    date_of_birth: 31 Mar 1948
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '5705'
+    place_of_birth: Yacopi, Cundinamarca, Colombia
+    main_entry: 'true'

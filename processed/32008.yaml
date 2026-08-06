@@ -1,0 +1,34 @@
+---
+uid: '32008'
+last_name: CSKA BASKETBALL CLUB
+sdn_type: Entity
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '50182'
+    type: a.k.a.
+    category: strong
+    last_name: PROFESIONALEN BASKETBOLEN KLUB TSSKA 48 AD
+  - uid: '50183'
+    type: a.k.a.
+    category: strong
+    last_name: PROFESSIONAL BASKETBALL CLUB-CSKA-48 AD
+address_list:
+  items:
+  - uid: '48156'
+    address1: Bul. Dragan Tsankov, N3, Stadion-Tsska
+    city: Sofia
+    postal_code: '1164'
+    country: Bulgaria
+id_list:
+  items:
+  - uid: '21788'
+    id_type: V.A.T. Number
+    id_number: BG 131083632
+    id_country: Bulgaria
+  - uid: '141097'
+    id_type: Organization Established Date
+    id_number: '2003'
+remarks: "(Linked To: NOVE-AD-HOLDING AD)"

@@ -1,0 +1,33 @@
+---
+uid: '50001'
+last_name: NAUCHNO ISSLEDOVATELSKAYA LABORATORIYA AEROKOSMICHESKOI TEKHNIKI DOSAAF
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77939'
+    type: a.k.a.
+    category: strong
+    last_name: NILAKT DOSAAF
+address_list:
+  items:
+  - uid: '75646'
+    address1: Ul. Barrikad D. 174, Office 311
+    city: Kaluga
+    postal_code: '248018'
+    country: Russia
+id_list:
+  items:
+  - uid: '41540'
+    id_type: Registration Number
+    id_number: '1117746842080'
+    id_country: Russia
+  - uid: '41541'
+    id_type: Tax ID No.
+    id_number: '7733781710'
+    id_country: Russia
+  - uid: '178167'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

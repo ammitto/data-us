@@ -1,0 +1,63 @@
+---
+uid: '12823'
+first_name: Omar
+last_name: HAMMAMI
+sdn_type: Individual
+program_list:
+  programs:
+  - SOMALIA
+aka_list:
+  items:
+  - uid: '14044'
+    type: a.k.a.
+    category: strong
+    last_name: AL-AMRIKI
+    first_name: Abu Mansour
+  - uid: '14045'
+    type: a.k.a.
+    category: strong
+    last_name: AL-AMRIKI
+    first_name: Abu Mansur
+  - uid: '14046'
+    type: a.k.a.
+    category: strong
+    last_name: AL-AMRIKI
+    first_name: Abu Mansuur
+  - uid: '14047'
+    type: a.k.a.
+    category: weak
+    last_name: FAROUK
+  - uid: '14048'
+    type: a.k.a.
+    category: weak
+    last_name: FAROUQ
+  - uid: '14049'
+    type: a.k.a.
+    category: strong
+    last_name: HAMMAMI
+    first_name: Umar
+  - uid: '14099'
+    type: a.k.a.
+    category: strong
+    last_name: HAMMAMI
+    first_name: Omar Shafik
+id_list:
+  items:
+  - uid: '7255'
+    id_type: Passport
+    id_number: '403062567'
+    id_country: United States
+  - uid: '7256'
+    id_type: SSN
+    id_number: 423-31-3021
+    id_country: United States
+date_of_birth_list:
+  items:
+  - uid: '8558'
+    date_of_birth: 06 May 1984
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '8559'
+    place_of_birth: Alabama, USA
+    main_entry: 'true'

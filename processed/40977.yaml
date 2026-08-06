@@ -1,0 +1,46 @@
+---
+uid: '40977'
+last_name: ENERGOSPECMONTAZH JSC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63833'
+    type: a.k.a.
+    category: strong
+    last_name: JSC ENERGOSPECMONTAZH
+  - uid: '63836'
+    type: a.k.a.
+    category: strong
+    last_name: JSC ENERGOSPETSMONTAZH
+address_list:
+  items:
+  - uid: '61186'
+    address1: 27, Boytsovaya Street
+    city: Moscow
+    postal_code: '107150'
+    country: Russia
+  - uid: '61187'
+    address1: House 43, structure 1, Kabinet 12 etazh 10
+    address2: Highway Altufyevskoye
+    city: Moscow
+    postal_code: '127410'
+    country: Russia
+id_list:
+  items:
+  - uid: '30299'
+    id_type: Public Registration Number
+    id_number: '07629706'
+    id_country: Russia
+  - uid: '30300'
+    id_type: Tax ID No.
+    id_number: '7718083574'
+    id_country: Russia
+  - uid: '30301'
+    id_type: Registration Number
+    id_number: '1027739052912'
+  - uid: '175337'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,66 @@
+---
+uid: '45037'
+last_name: JOINT STOCK COMPANY KRAFTWAY CORPORATION PLS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69765'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY KRAFTVEY KORPOREYSHN PLS
+  - uid: '69766'
+    type: a.k.a.
+    category: strong
+    last_name: JSC KRAFTWAY CORPORATION PLC
+  - uid: '69767'
+    type: a.k.a.
+    category: strong
+    last_name: JSC KRAFTVEY KORPOREYSHN PLS
+  - uid: '69768'
+    type: a.k.a.
+    category: strong
+    last_name: AO KRAFTVEI KORPOREISHN PLS
+  - uid: '69769'
+    type: a.k.a.
+    category: strong
+    last_name: AO KRAFTWAY PSC
+  - uid: '69770'
+    type: a.k.a.
+    category: strong
+    last_name: CRAFTWAY CORPORATON PLS
+address_list:
+  items:
+  - uid: '67060'
+    address1: Sh. Kievskoe d. 64
+    city: Obninsk
+    state_or_province: Kaluga Region
+    postal_code: '249032'
+    country: Russia
+  - uid: '67061'
+    address1: '16'
+    address2: 3rd Mytishchinskaya Street
+    city: Moscow
+    postal_code: '129626'
+    country: Russia
+id_list:
+  items:
+  - uid: '34741'
+    id_type: Tax ID No.
+    id_number: '5018037096'
+    id_country: Russia
+  - uid: '34742'
+    id_type: Registration Number
+    id_number: '1025002041525'
+    id_country: Russia
+  - uid: '175913'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '165372'
+    id_type: 'Organization Type:'
+    id_number: Other information technology and computer service activities
+  - uid: '165371'
+    id_type: Website
+    id_number: kraftway.ru

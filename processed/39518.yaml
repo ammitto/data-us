@@ -1,0 +1,53 @@
+---
+uid: '39518'
+first_name: Yusuf Ahmed Hajji
+last_name: NUROW
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '61589'
+    type: a.k.a.
+    category: weak
+    last_name: ADE, Gees
+  - uid: '61590'
+    type: a.k.a.
+    category: weak
+    last_name: FOOTADE, Abdurrahman
+address_list:
+  items:
+  - uid: '58869'
+    city: Qunyo Barrow
+    state_or_province: Middle Juba
+    country: Somalia
+id_list:
+  items:
+  - uid: '155636'
+    id_type: Gender
+    id_number: Male
+  - uid: '155637'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '55630'
+    date_of_birth: '1979'
+    main_entry: 'true'
+  - uid: '55631'
+    date_of_birth: '1980'
+    main_entry: 'false'
+  - uid: '55632'
+    date_of_birth: '1981'
+    main_entry: 'false'
+  - uid: '55633'
+    date_of_birth: '1982'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '55634'
+    place_of_birth: Kobon, Somalia
+    main_entry: 'true'
+remarks: "(Linked To: AL-SHABAAB)"

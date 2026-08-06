@@ -1,0 +1,41 @@
+---
+uid: '32614'
+last_name: BELKAZTRANS UKRAINE
+sdn_type: Entity
+program_list:
+  programs:
+  - BELARUS
+aka_list:
+  items:
+  - uid: '51166'
+    type: a.k.a.
+    category: strong
+    last_name: BELKAZTRANS UKRAINE LLC
+  - uid: '51167'
+    type: a.k.a.
+    category: strong
+    last_name: BELKAZTRANS UKRAINA TOV
+  - uid: '51168'
+    type: a.k.a.
+    category: strong
+    last_name: TOVARYSTVO Z OBMEZHENOYU VIDPOVIDALNISTYU BELKAZTRANS UKRAINA
+address_list:
+  items:
+  - uid: '49089'
+    address1: Bud. 3, Korpus A, vul. Leiptsyzka
+    city: Kyiv
+    postal_code: '01015'
+    country: Ukraine
+id_list:
+  items:
+  - uid: '22375'
+    id_type: Tax ID No.
+    id_number: '419096426535'
+    id_country: Ukraine
+  - uid: '22376'
+    id_type: Government Gazette Number
+    id_number: '41909645'
+    id_country: Ukraine
+  - uid: '142228'
+    id_type: Organization Established Date
+    id_number: '2018'

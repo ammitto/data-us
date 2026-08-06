@@ -1,0 +1,32 @@
+---
+uid: '54320'
+last_name: HONESTAR
+sdn_type: Vessel
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '86171'
+    type: a.k.a.
+    category: strong
+    last_name: SHUN KAI XING
+id_list:
+  items:
+  - uid: '47896'
+    id_type: Vessel Registration Identification
+    id_number: IMO 9187368
+  - uid: '47897'
+    id_type: MMSI
+    id_number: '352003792'
+  - uid: '190100'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '192746'
+    id_type: Former Vessel Flag
+    id_number: Panama
+  - uid: '190360'
+    id_type: Vessel Year of Build
+    id_number: '1999'
+remarks: "(Linked To: UNICO SHIPPING CO LTD)"

@@ -1,0 +1,63 @@
+---
+uid: '44480'
+first_name: Jinaau
+last_name: NASEEM
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '68758'
+    type: a.k.a.
+    category: strong
+    last_name: NASEEN
+    first_name: Jinau
+  - uid: '68759'
+    type: a.k.a.
+    category: strong
+    last_name: NASYM
+    first_name: Hasen
+address_list:
+  items:
+  - uid: '66231'
+    address1: Hithadhoo
+    city: Addu City
+    country: Maldives
+  - uid: '66232'
+    address1: Raaspareege
+    city: Male
+    country: Maldives
+id_list:
+  items:
+  - uid: '33977'
+    id_type: National ID No.
+    id_number: A384648
+    id_country: Maldives
+  - uid: '33978'
+    id_type: Passport
+    id_number: LA29E1351
+    id_country: Maldives
+    expiration_date: 07 Jul 2027
+  - uid: '33979'
+    id_type: Passport
+    id_number: LA15E1477
+    id_country: Maldives
+  - uid: '164333'
+    id_type: Gender
+    id_number: Male
+  - uid: '164334'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '64332'
+    date_of_birth: '08 Aug 1994'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '64336'
+    place_of_birth: Hithadhoo, Addu City, Maldives
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC STATE OF IRAQ AND THE LEVANT)"

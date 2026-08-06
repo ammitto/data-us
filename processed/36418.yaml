@@ -1,0 +1,38 @@
+---
+uid: '36418'
+last_name: LIMITED LIABILITY COMPANY SBERBANK SERVICE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '57367'
+    type: a.k.a.
+    category: strong
+    last_name: SBERBANK SERVICE LLC
+  - uid: '57368'
+    type: a.k.a.
+    category: strong
+    last_name: SBERBANK-SERVICE
+address_list:
+  items:
+  - uid: '54710'
+    address1: 18 Suschevsky Val Street, floor 7
+    city: Moscow
+    postal_code: '127018'
+    country: Russia
+id_list:
+  items:
+  - uid: '25815'
+    id_type: Registration Number
+    id_number: '1137746703709'
+    id_country: Russia
+  - uid: '25816'
+    id_type: Tax ID No.
+    id_number: '7736663049'
+    id_country: Russia
+  - uid: '174199'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)"

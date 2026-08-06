@@ -1,0 +1,38 @@
+---
+uid: '49386'
+last_name: JOINT STOCK COMPANY KIROV ENERGOMASH PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77023'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO ZAVOD KIROV ENERGOMASH
+address_list:
+  items:
+  - uid: '74439'
+    address1: Pr-kt Stachek, 47 litera i
+    address2: pomeshch. 2-n
+    address3: Kabinet 401
+    city: Saint Petersburg
+    postal_code: '198097'
+    country: Russia
+id_list:
+  items:
+  - uid: '40655'
+    id_type: Tax ID No.
+    id_number: '7805060301'
+    id_country: Russia
+  - uid: '40656'
+    id_type: Registration Number
+    id_number: '1027802714444'
+    id_country: Russia
+  - uid: '172466'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
+  - uid: '172736'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,41 @@
+---
+uid: '43544'
+first_name: Anna
+last_name: TRAVNIKOVA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '67485'
+    type: a.k.a.
+    category: weak
+    last_name: TAUSENT, Anna
+  - uid: '67486'
+    type: a.k.a.
+    category: weak
+    last_name: TOWSENT, Anna
+address_list:
+  items:
+  - uid: '64962'
+    city: Kaluga
+    country: Russia
+id_list:
+  items:
+  - uid: '175721'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '163038'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '63036'
+    date_of_birth: '09 Jan 1990'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '63035'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'

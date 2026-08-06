@@ -1,0 +1,41 @@
+---
+uid: '39197'
+first_name: Erick Manuel
+last_name: OCHOA VILLAGRAN
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '61149'
+    type: a.k.a.
+    category: weak
+    last_name: PERICA
+address_list:
+  items:
+  - uid: '58365'
+    country: Guatemala
+id_list:
+  items:
+  - uid: '28436'
+    id_type: Cedula No.
+    id_number: L-1247674
+    id_country: Guatemala
+  - uid: '28437'
+    id_type: C.U.I.
+    id_number: '1680324221213'
+    id_country: Guatemala
+  - uid: '154956'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '54950'
+    date_of_birth: 01 Jun 1985
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '54953'
+    place_of_birth: San Marcos, Guatemala
+    main_entry: 'true'

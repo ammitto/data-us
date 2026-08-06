@@ -1,0 +1,37 @@
+---
+uid: '30648'
+first_name: Mohammad
+last_name: BASERI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+aka_list:
+  items:
+  - uid: '48199'
+    type: a.k.a.
+    category: weak
+    last_name: SANAI
+address_list:
+  items:
+  - uid: '46403'
+    country: Iran
+id_list:
+  items:
+  - uid: '138518'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '138517'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '38495'
+    date_of_birth: 19 Sep 1972
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '38496'
+    place_of_birth: Semnan, Iran
+    main_entry: 'true'
+remarks: "(Linked To: IRANIAN MINISTRY OF INTELLIGENCE AND SECURITY)"

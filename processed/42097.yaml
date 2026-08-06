@@ -1,0 +1,41 @@
+---
+uid: '42097'
+last_name: MANAGEMENT COMPANY METALLOINVEST LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65468'
+    type: a.k.a.
+    category: strong
+    last_name: UPRAVLYAYUSHTAYA KOMPANIYA METALLOINVEST OOO
+address_list:
+  items:
+  - uid: '62866'
+    address1: Ulitsa Tsiolkovskogo 14/16
+    city: Korolev
+    state_or_province: Moscow Oblast
+    postal_code: '141070'
+    country: Russia
+id_list:
+  items:
+  - uid: '31578'
+    id_type: Registration Number
+    id_number: '1065018030120'
+    id_country: Russia
+  - uid: '31579'
+    id_type: Tax ID No.
+    id_number: '5018108484'
+    id_country: Russia
+  - uid: '160348'
+    id_type: Organization Established Date
+    id_number: 06 May 2006
+  - uid: '160349'
+    id_type: 'Organization Type:'
+    id_number: Activities of holding companies
+  - uid: '175403'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: HOLDINGOVAYA KOMPANIYA METALLOINVEST AO)"

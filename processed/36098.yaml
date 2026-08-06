@@ -1,0 +1,49 @@
+---
+uid: '36098'
+last_name: JOINT STOCK COMPANY SUDOEXPORT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56936'
+    type: a.k.a.
+    category: strong
+    last_name: JSC VNESHNEEKONOMICHESKOYE ENTERPRISE SUDOEXPORT
+  - uid: '56937'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT-STOCK COMPANY FOREIGN ECONOMIC ENTERPRISE SUDOEXPORT
+  - uid: '56950'
+    type: a.k.a.
+    category: weak
+    last_name: SUDOEXPORT
+address_list:
+  items:
+  - uid: '54311'
+    address1: 11 Tikhvinsky Pereulok Bld.2
+    city: Moscow
+    postal_code: '127055'
+    country: Russia
+  - uid: '54312'
+    address1: 11 Sadovaya-Kudrinskaya St.
+    city: Moscow
+    postal_code: '123231'
+    country: Russia
+id_list:
+  items:
+  - uid: '25519'
+    id_type: Tax ID No.
+    id_number: '7703788275'
+    id_country: Russia
+  - uid: '149513'
+    id_type: Website
+    id_number: www.sudoexport.ru
+  - uid: '149514'
+    id_type: Organization Established Date
+    id_number: 17 Apr 2013
+  - uid: '173976'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: JOINT STOCK COMPANY UNITED SHIPBUILDING CORPORATION)"

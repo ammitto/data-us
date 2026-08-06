@@ -1,0 +1,85 @@
+---
+uid: '18268'
+last_name: EXIMBANK OF RUSSIA JSC
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13662
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '28200'
+    type: a.k.a.
+    category: strong
+    last_name: ROSEKSIMBANK, ZAO
+  - uid: '28201'
+    type: a.k.a.
+    category: strong
+    last_name: RUSSIAN EXPORT-IMPORT BANK
+  - uid: '28202'
+    type: a.k.a.
+    category: strong
+    last_name: GOSUDARSTVENNY SPETSIALIZIROVANNY ROSSISKI EKSPORTNO-IMPORTNY BANK
+      (ZAKRYTOE AKTSIONERNOE OBSHCHESTVO)
+  - uid: '28203'
+    type: a.k.a.
+    category: strong
+    last_name: STATE SPECIALIZED RUSSIAN EXPORT-IMPORT BANK JOINT-STOCK COMPANY
+  - uid: '54898'
+    type: a.k.a.
+    category: strong
+    last_name: EXIMBANK OF RUSSIA ZAO
+  - uid: '54899'
+    type: a.k.a.
+    category: strong
+    last_name: EXIMBANK OF RUSSIA
+  - uid: '54901'
+    type: a.k.a.
+    category: strong
+    last_name: AO ROSEKSIMBANK
+address_list:
+  items:
+  - uid: '27626'
+    address1: 12 Krasnopresnenskaya Embankments
+    city: Moscow
+    postal_code: '123610'
+    country: Russia
+id_list:
+  items:
+  - uid: '10549'
+    id_type: Registration Number
+    id_number: '1027739109133'
+    id_country: Russia
+  - uid: '24617'
+    id_type: Tax ID No.
+    id_number: '7704001959'
+    id_country: Russia
+  - uid: '24619'
+    id_type: Legal Entity Number
+    id_number: 253400HA6URWT39X2982
+  - uid: '146532'
+    id_type: Organization Established Date
+    id_number: 24 May 1994
+  - uid: '117570'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 1
+  - uid: '146786'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '117518'
+    id_type: SWIFT/BIC
+    id_number: EXIRRUMM
+  - uid: '117519'
+    id_type: Website
+    id_number: eximbank.ru
+  - uid: '151144'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '173866'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: 'All offices worldwide; for more information on directives, please visit
+  the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: STATE CORPORATION BANK FOR DEVELOPMENT AND FOREIGN ECONOMIC AFFAIRS
+  VNESHECONOMBANK)'

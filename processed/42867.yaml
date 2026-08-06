@@ -1,0 +1,37 @@
+---
+uid: '42867'
+last_name: OSTEC-TEST LTD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '66424'
+    type: a.k.a.
+    category: strong
+    last_name: OSTEK-TEST
+address_list:
+  items:
+  - uid: '63951'
+    address1: ul. Moldavskaya d. 5
+    address2: str. 2
+    city: Moscow
+    postal_code: '121467'
+    country: Russia
+id_list:
+  items:
+  - uid: '32436'
+    id_type: Registration Number
+    id_number: '5147746189025'
+    id_country: Russia
+  - uid: '32437'
+    id_type: Tax ID No.
+    id_number: '7731481020'
+    id_country: Russia
+  - uid: '175482'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '161700'
+    id_type: Organization Established Date
+    id_number: 23 Apr 2013

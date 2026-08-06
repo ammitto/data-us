@@ -1,0 +1,32 @@
+---
+uid: '20573'
+last_name: KOREA NATIONAL INSURANCE CORPORATION
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK3
+aka_list:
+  items:
+  - uid: '32496'
+    type: a.k.a.
+    category: strong
+    last_name: KOREA NATIONAL INSURANCE COMPANY
+  - uid: '32497'
+    type: a.k.a.
+    category: strong
+    last_name: KOREA FOREIGN INSURANCE COMPANY
+address_list:
+  items:
+  - uid: '31196'
+    address1: Central District
+    city: Pyongyang
+    country: Korea, North
+id_list:
+  items:
+  - uid: '127199'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '134897'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214

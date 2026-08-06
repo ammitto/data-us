@@ -1,0 +1,37 @@
+---
+uid: '48659'
+last_name: NAUCHNO PROIZVODSTVENNAYA FIRMA DOLOMANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75684'
+    type: a.k.a.
+    category: strong
+    last_name: ZAO NPF DOLOMANT
+  - uid: '75685'
+    type: a.k.a.
+    category: strong
+    last_name: SCIENTIFIC PRODUCTION COMPANY DOLOMANT
+address_list:
+  items:
+  - uid: '73087'
+    address1: Ul. Vvedenskogo D. 3
+    city: Moscow
+    postal_code: '117342'
+    country: Russia
+id_list:
+  items:
+  - uid: '39654'
+    id_type: Registration Number
+    id_number: '1047796326137'
+    id_country: Russia
+  - uid: '39655'
+    id_type: Tax ID No.
+    id_number: '7728512529'
+    id_country: Russia
+  - uid: '171325'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

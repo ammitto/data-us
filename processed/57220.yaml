@@ -1,0 +1,45 @@
+---
+uid: '57220'
+first_name: Eduardo Javier
+last_name: ISLAS VALDEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+aka_list:
+  items:
+  - uid: '88648'
+    type: a.k.a.
+    category: weak
+    last_name: Crosty
+address_list:
+  items:
+  - uid: '87684'
+    city: Nuevo Laredo
+    state_or_province: Tamaulipas
+    country: Mexico
+id_list:
+  items:
+  - uid: '51489'
+    id_type: C.U.R.P.
+    id_number: IAVE850225HTSSLD02
+    id_country: Mexico
+  - uid: '197248'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '197008'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '97005'
+    date_of_birth: 25 Feb 1985
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '97006'
+    place_of_birth: Tamaulipas, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: CARTEL DEL NORESTE)"

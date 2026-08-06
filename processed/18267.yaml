@@ -1,0 +1,53 @@
+---
+uid: '18267'
+last_name: OJSC ORENBURGNEFT
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13662
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '28197'
+    type: a.k.a.
+    category: strong
+    last_name: ORENBURGNEFT
+  - uid: '28198'
+    type: a.k.a.
+    category: strong
+    last_name: OAO JSC ORENBURGNEFT
+address_list:
+  items:
+  - uid: '27624'
+    address1: St. Magistralynaya 2
+    city: Buzuluk
+    postal_code: '461040'
+    country: Russia
+id_list:
+  items:
+  - uid: '47587'
+    id_type: Tax ID No.
+    id_number: '5612002469'
+    id_country: Russia
+  - uid: '47588'
+    id_type: Registration Number
+    id_number: '1025601802357'
+    id_country: Russia
+  - uid: '117517'
+    id_type: Email Address
+    id_number: orenburgneft@rosneft.ru
+  - uid: '117583'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 2
+  - uid: '117643'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 4
+  - uid: '143669'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '190039'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: OPEN JOINT-STOCK COMPANY ROSNEFT OIL COMPANY)'

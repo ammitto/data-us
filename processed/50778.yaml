@@ -1,0 +1,41 @@
+---
+uid: '50778'
+last_name: CENTER FOR UNMANNED SYSTEMS OF THE TULA REGION
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79515'
+    type: a.k.a.
+    category: strong
+    last_name: OOO TSENTR BESPILOTNYKH SISTEM
+  - uid: '79516'
+    type: a.k.a.
+    category: weak
+    last_name: TSBS
+address_list:
+  items:
+  - uid: '77047'
+    address1: Ul. Kirova, D. 135
+    address2: K. 1, Pomeshch 9, Pomeshch 15
+    city: Tula
+    postal_code: '300004'
+    country: Russia
+id_list:
+  items:
+  - uid: '42682'
+    id_type: Registration Number
+    id_number: '1237100001467'
+    id_country: Russia
+  - uid: '42683'
+    id_type: Tax ID No.
+    id_number: '7100032961'
+    id_country: Russia
+  - uid: '179419'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '179418'
+    id_type: Organization Established Date
+    id_number: '08 Feb 2023'

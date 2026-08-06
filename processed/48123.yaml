@@ -1,0 +1,77 @@
+---
+uid: '48123'
+last_name: OBSHCHESTVO S OGRANICHENNOY OTVETSTVENNOSTYU TSENTR OBRABOTKI ELEKTRONNYKH
+  PLATEZHEY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74758'
+    type: a.k.a.
+    category: weak
+    last_name: NETEXCHANGE
+  - uid: '74759'
+    type: a.k.a.
+    category: strong
+    last_name: NETEX24
+  - uid: '74760'
+    type: a.k.a.
+    category: strong
+    last_name: NETEX TRADE
+  - uid: '74761'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOJ OTVETSTVENNOSTYU CENTR OBRABOTKI ELEKTRONNYKH
+      PLATEZHEJ
+  - uid: '74762'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOY OTVETSTVENNOSTYU TSENTR OBRABOTKI ELEKTRONNYKH
+      PLATEZHEI
+  - uid: '74763'
+    type: a.k.a.
+    category: weak
+    last_name: LIMITED LIABILITY COMPANY CENTER FOR PROCESSING ELECTRONIC PAYMENTS
+  - uid: '74767'
+    type: a.k.a.
+    category: weak
+    last_name: OOO TSOEP
+address_list:
+  items:
+  - uid: '72177'
+    address1: Ul. Vilisa Latsisa D. 41
+    address2: KV. 103
+    city: Moscow
+    postal_code: '125480'
+    country: Russia
+  - uid: '72178'
+    address1: Business Center Iskra-Park
+    address2: 35, Leningradsky Prospect
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '39011'
+    id_type: Tax ID No.
+    id_number: '7733872485'
+    id_country: Russia
+  - uid: '170087'
+    id_type: Website
+    id_number: https://www.netex24.net
+  - uid: '170088'
+    id_type: Website
+    id_number: https://www.netex24.com
+  - uid: '170089'
+    id_type: Website
+    id_number: https://www.netex.trade
+  - uid: '170090'
+    id_type: Website
+    id_number: https://www.netexchange.ru
+  - uid: '170086'
+    id_type: Organization Established Date
+    id_number: 28 Feb 2014
+  - uid: '176607'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

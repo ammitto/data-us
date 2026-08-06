@@ -1,0 +1,39 @@
+---
+uid: '33853'
+first_name: Salvador
+last_name: MANSELL CASTRILLO
+sdn_type: Individual
+program_list:
+  programs:
+  - NICARAGUA
+address_list:
+  items:
+  - uid: '50684'
+    address1: De Los Pipitos, 200 Mts. Al Oeste Bolonia
+    city: Managua
+    country: Nicaragua
+id_list:
+  items:
+  - uid: '23494'
+    id_type: Diplomatic Passport
+    id_number: A00000656D
+    id_country: Nicaragua
+    issue_date: '09 Aug 2013'
+    expiration_date: '09 Aug 2023'
+  - uid: '23495'
+    id_type: National ID No.
+    id_number: 4411312550001D
+    id_country: Nicaragua
+  - uid: '144709'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '44707'
+    date_of_birth: 13 Dec 1955
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '44708'
+    place_of_birth: Matagalpa, Nicaragua
+    main_entry: 'true'

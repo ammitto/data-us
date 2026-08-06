@@ -1,0 +1,62 @@
+---
+uid: '18284'
+last_name: RN KOMSOMOLSKIY REFINERY LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13662
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '28270'
+    type: a.k.a.
+    category: strong
+    last_name: RN-KOMSOMOLSKI NPZ OOO
+  - uid: '28271'
+    type: a.k.a.
+    category: strong
+    last_name: KOMSOMOLSK REFINERY
+  - uid: '28272'
+    type: a.k.a.
+    category: strong
+    last_name: LLC RN-KOMSOMOLSK REFINERY
+  - uid: '83676'
+    type: a.k.a.
+    category: strong
+    last_name: LLC RN KOMSOMOLSKIY NPZ
+address_list:
+  items:
+  - uid: '27665'
+    address1: 115 Leningradskaya st.
+    city: Komsomolsk-on-Amur
+    state_or_province: Khabarovsk region
+    postal_code: '681007'
+    country: Russia
+id_list:
+  items:
+  - uid: '47009'
+    id_type: Registration Number
+    id_number: '1052740255358'
+    id_country: Russia
+  - uid: '47011'
+    id_type: Tax ID No.
+    id_number: '2703032881'
+    id_country: Russia
+  - uid: '117588'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 2
+  - uid: '117648'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 4
+  - uid: '143732'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '117540'
+    id_type: Email Address
+    id_number: knpz@rosneft.ru
+  - uid: '188518'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: OPEN JOINT-STOCK COMPANY ROSNEFT OIL COMPANY)'

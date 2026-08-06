@@ -1,0 +1,57 @@
+---
+uid: '28695'
+first_name: Hassan
+last_name: PELARAK
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - IRGC
+  - SDGT
+aka_list:
+  items:
+  - uid: '45127'
+    type: a.k.a.
+    category: strong
+    last_name: POLARAK
+    first_name: Hassan
+  - uid: '45213'
+    type: a.k.a.
+    category: weak
+    last_name: JA'FARI, Hasan
+address_list:
+  items:
+  - uid: '43483'
+    country: Iran
+  - uid: '43484'
+    country: Iraq
+id_list:
+  items:
+  - uid: '19059'
+    id_type: National ID No.
+    id_number: '3051910163'
+    id_country: Iran
+  - uid: '19097'
+    id_type: Passport
+    id_number: D10001869
+    id_country: Iran
+  - uid: '19098'
+    id_type: Passport
+    id_number: V43936121
+    id_country: Iran
+  - uid: '134594'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '134683'
+    id_type: Gender
+    id_number: Male
+  - uid: '187042'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '34682'
+    date_of_birth: 03 Sep 1961
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS (IRGC)-QODS FORCE)"

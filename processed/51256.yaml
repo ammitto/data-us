@@ -1,0 +1,31 @@
+---
+uid: '51256'
+first_name: Angel Daniel
+last_name: BALESTRINI JARAMILLO
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+address_list:
+  items:
+  - uid: '77988'
+    country: Venezuela
+id_list:
+  items:
+  - uid: '43461'
+    id_type: Cedula No.
+    id_number: V12085833
+    id_country: Venezuela
+  - uid: '180391'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '80389'
+    date_of_birth: 13 Sep 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '80392'
+    place_of_birth: Caracas, Venezuela
+    main_entry: 'true'

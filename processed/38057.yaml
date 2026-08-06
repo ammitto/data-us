@@ -1,0 +1,42 @@
+---
+uid: '38057'
+last_name: LIMITED LIABILITY COMPANY BONUM INVESTMENTS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59777'
+    type: a.k.a.
+    category: strong
+    last_name: BONUM INVESTMENTS OOO
+address_list:
+  items:
+  - uid: '57074'
+    address1: per. Romanov d. 4
+    address2: et/pom/kom 4/I/30
+    city: Moscow
+    postal_code: '125009'
+    country: Russia
+id_list:
+  items:
+  - uid: '27372'
+    id_type: Registration Number
+    id_number: '1157746124656'
+    id_country: Russia
+  - uid: '27373'
+    id_type: Tax ID No.
+    id_number: '7706417487'
+    id_country: Russia
+  - uid: '176888'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '153360'
+    id_type: 'Organization Type:'
+    id_number: Other financial service activities, except insurance and pension funding
+      activities, n.e.c.
+  - uid: '153359'
+    id_type: Organization Established Date
+    id_number: 20 Feb 2015
+remarks: "(Linked To: ALIEV, Murat Magomedovich)"

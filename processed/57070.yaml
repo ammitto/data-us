@@ -1,0 +1,46 @@
+---
+uid: '57070'
+first_name: Feiwu
+last_name: BIAN
+sdn_type: Individual
+program_list:
+  programs:
+  - NICARAGUA
+address_list:
+  items:
+  - uid: '87405'
+    city: Managua
+    country: Nicaragua
+  - uid: '87406'
+    city: Guangzhou
+    state_or_province: Guangdong
+    country: China
+id_list:
+  items:
+  - uid: '51275'
+    id_type: Residency Number
+    id_number: '000126493'
+    id_country: Nicaragua
+  - uid: '51315'
+    id_type: Passport
+    id_number: EE3584492
+    id_country: China
+    issue_date: 14 Sep 2018
+    expiration_date: 13 Sep 2028
+  - uid: '51317'
+    id_type: Residency Number
+    id_number: '000081565'
+    id_country: Nicaragua
+  - uid: '196626'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '96624'
+    date_of_birth: 01 Jan 1971
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '96625'
+    place_of_birth: Fujian Province, China
+    main_entry: 'true'

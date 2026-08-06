@@ -1,0 +1,33 @@
+---
+uid: '47621'
+last_name: LLC MELYTEC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74619'
+    type: a.k.a.
+    category: weak
+    last_name: MELITEK
+address_list:
+  items:
+  - uid: '71150'
+    address1: Ul. Obrucheva D. 34/63, Str. 2
+    city: Moscow
+    postal_code: '117342'
+    country: Russia
+id_list:
+  items:
+  - uid: '38193'
+    id_type: Registration Number
+    id_number: '1077764798979'
+    id_country: Russia
+  - uid: '38194'
+    id_type: Tax ID No.
+    id_number: '7728644821'
+    id_country: Russia
+  - uid: '169898'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

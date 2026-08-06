@@ -1,0 +1,53 @@
+---
+uid: '21764'
+first_name: Abu Anas
+last_name: AL-GHANDOUR
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '34537'
+    type: a.k.a.
+    category: strong
+    last_name: GHANDOUR
+    first_name: Ahmed
+  - uid: '34538'
+    type: a.k.a.
+    category: strong
+    last_name: GHANDOUR
+    first_name: Ahmad
+  - uid: '34539'
+    type: a.k.a.
+    category: strong
+    last_name: AL-GHANDUR
+    first_name: Ahmad Naji
+  - uid: '34540'
+    type: a.k.a.
+    category: weak
+    last_name: ABU-ANAS
+address_list:
+  items:
+  - uid: '33150'
+    state_or_province: Gaza
+    country: Palestinian
+id_list:
+  items:
+  - uid: '186624'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '122815'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '22813'
+    date_of_birth: '1967'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '22814'
+    place_of_birth: Jaffa, Israel
+    main_entry: 'true'

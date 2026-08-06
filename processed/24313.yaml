@@ -1,0 +1,51 @@
+---
+uid: '24313'
+first_name: Abd al-Razzak
+last_name: FITWI
+sdn_type: Individual
+program_list:
+  programs:
+  - LIBYA3
+aka_list:
+  items:
+  - uid: '38364'
+    type: a.k.a.
+    category: strong
+    last_name: ABDELRAZAK
+    first_name: Ismail
+  - uid: '38365'
+    type: a.k.a.
+    category: strong
+    last_name: ESMAIL
+    first_name: Abdurazak
+  - uid: '38366'
+    type: a.k.a.
+    category: strong
+    last_name: FITIWI
+    first_name: Abdurazak
+address_list:
+  items:
+  - uid: '36709'
+    city: Tripoli
+    country: Libya
+  - uid: '36710'
+    city: Sabratha
+    country: Libya
+  - uid: '36808'
+    city: Benghazi
+    country: Libya
+id_list:
+  items:
+  - uid: '126486'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '26652'
+    date_of_birth: 1985 to 1987
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '26484'
+    place_of_birth: Massawa, Eritrea
+    main_entry: 'true'

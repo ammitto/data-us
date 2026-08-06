@@ -1,0 +1,51 @@
+---
+uid: '33283'
+last_name: DEPARTMENT OF FINANCIAL INVESTIGATIONS OF THE STATE CONTROL COMMITTEE OF
+  THE REPUBLIC OF BELARUS
+sdn_type: Entity
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '52540'
+    type: a.k.a.
+    category: strong
+    last_name: DEPARTAMENT FINANSAVYKH RASSLEDAVANNYAU KAMITETA DZYARZHAUNAHA KANTROLYU
+      RESPUBLIKI BELARUS
+  - uid: '52541'
+    type: a.k.a.
+    category: strong
+    last_name: FINANCIAL INVESTIGATIONS DEPARTMENT OF THE STATE CONTROL COMMITTEE
+      OF THE REPUBLIC OF BELARUS
+  - uid: '52542'
+    type: a.k.a.
+    category: weak
+    last_name: DFR
+  - uid: '52543'
+    type: a.k.a.
+    category: strong
+    last_name: DFRKGK RB
+  - uid: '52544'
+    type: a.k.a.
+    category: weak
+    last_name: DEPARTMENT OF FINANCIAL INVESTIGATIONS
+address_list:
+  items:
+  - uid: '50164'
+    address1: 17 Kalvariyskaya str.
+    city: Minsk
+    postal_code: '220004'
+    country: Belarus
+id_list:
+  items:
+  - uid: '23064'
+    id_type: Tax ID No.
+    id_number: '101463246'
+    id_country: Belarus
+  - uid: '143407'
+    id_type: Organization Established Date
+    id_number: 14 Apr 1998
+  - uid: '143419'
+    id_type: Target Type
+    id_number: Government Entity

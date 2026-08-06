@@ -1,0 +1,41 @@
+---
+uid: '43281'
+last_name: LIMITED LIABILITY COMPANY ROSTSHIPSERVICE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '67108'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY ROSTSHIPSERVIS
+  - uid: '67109'
+    type: a.k.a.
+    category: strong
+    last_name: OOO ROSTSHIPSERVIS
+address_list:
+  items:
+  - uid: '64608'
+    address1: Ulitsa Kayani, 18, 302
+    city: Rostov-on-Don
+    state_or_province: Rostov Oblast
+    postal_code: '344019'
+    country: Russia
+id_list:
+  items:
+  - uid: '32858'
+    id_type: Tax ID No.
+    id_number: '6165122403'
+    id_country: Russia
+  - uid: '32859'
+    id_type: Registration Number
+    id_number: '1056165052492'
+    id_country: Russia
+  - uid: '162486'
+    id_type: Organization Established Date
+    id_number: 13 May 2005
+  - uid: '175694'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

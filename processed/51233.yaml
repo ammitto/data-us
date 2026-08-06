@@ -1,0 +1,33 @@
+---
+uid: '51233'
+last_name: LIMITED LIABILITY COMPANY INTECHCARD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80320'
+    type: a.k.a.
+    category: strong
+    last_name: OOO INTEKHKARD
+address_list:
+  items:
+  - uid: '77939'
+    address1: d. 9 str. 31, ul. Godovikova
+    city: Moscow
+    postal_code: '129085'
+    country: Russia
+id_list:
+  items:
+  - uid: '43424'
+    id_type: Registration Number
+    id_number: '1027701010820'
+    id_country: Russia
+  - uid: '43425'
+    id_type: Tax ID No.
+    id_number: '7701314914'
+    id_country: Russia
+  - uid: '180360'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

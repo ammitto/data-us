@@ -1,0 +1,27 @@
+---
+uid: '23773'
+last_name: LIBERTY SHIPPING CO LTD
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK4
+address_list:
+  items:
+  - uid: '36067'
+    address1: Room D, 3rd Floor, Thomson Commercial Building
+    address2: 8-10 Thomson Road
+    city: Wan Chai
+    state_or_province: Hong Kong
+    country: China
+id_list:
+  items:
+  - uid: '15235'
+    id_type: Company Number
+    id_number: IMO 5513586
+  - uid: '135228'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '127402'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210

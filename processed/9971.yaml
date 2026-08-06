@@ -1,0 +1,32 @@
+---
+uid: '9971'
+last_name: PLAYA MAR S.A. DE C.V.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '13026'
+    address1: Paseo De Los Heroes
+    address2: Colonia Rio Tijuana 2110
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '13027'
+    address1: Entre Via Rapida y Jose Clemente Orozco
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '13028'
+    address1: Blvd. Agua Caliente 10440
+    address2: Colonia Aviacion 22420
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+id_list:
+  items:
+  - uid: '4518'
+    id_type: R.F.C.
+    id_number: PMA-910805
+    id_country: Mexico

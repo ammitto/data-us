@@ -1,0 +1,59 @@
+---
+uid: '33452'
+first_name: Ofelia
+last_name: HERNANDEZ SALAS
+sdn_type: Individual
+program_list:
+  programs:
+  - TCO
+aka_list:
+  items:
+  - uid: '52611'
+    type: a.k.a.
+    category: weak
+    last_name: LA LUPE
+  - uid: '52612'
+    type: a.k.a.
+    category: weak
+    last_name: DONA LUPE
+  - uid: '54251'
+    type: a.k.a.
+    category: weak
+    last_name: GUADALUPE
+  - uid: '54252'
+    type: a.k.a.
+    category: weak
+    last_name: LA GUERA
+address_list:
+  items:
+  - uid: '50224'
+    address1: 'Avenida Barreda #2318'
+    address2: Res. Quintas del Rey
+    city: Mexicali
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '57674'
+    address1: Avenida Dinamarca S/N, Col. Orizaba
+    city: Mexicali
+    state_or_province: Baja California
+    country: Mexico
+id_list:
+  items:
+  - uid: '23113'
+    id_type: C.U.R.P.
+    id_number: HESO620627MGRRLF03
+    id_country: Mexico
+  - uid: '144225'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '44221'
+    date_of_birth: 27 Jun 1962
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '44222'
+    place_of_birth: Guerrero, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: HERNANDEZ SALAS TRANSNATIONAL CRIMINAL ORGANIZATION)"

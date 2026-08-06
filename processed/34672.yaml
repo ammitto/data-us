@@ -1,0 +1,37 @@
+---
+uid: '34672'
+last_name: MANAGEMENT COMPANY PROMSVYAZ LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54316'
+    type: a.k.a.
+    category: strong
+    last_name: UK PROMSVYAZ OOO
+address_list:
+  items:
+  - uid: '51906'
+    address1: d.13 str. 1 etazh 5 kom. 1-31, ul. Nikoloyamskaya
+    city: Moscow
+    postal_code: '109240'
+    country: Russia
+id_list:
+  items:
+  - uid: '24286'
+    id_type: Registration Number
+    id_number: '1027718000067'
+    id_country: Russia
+  - uid: '24288'
+    id_type: Tax ID No.
+    id_number: '7718218817'
+    id_country: Russia
+  - uid: '146056'
+    id_type: Organization Established Date
+    id_number: 10 Jul 2002
+  - uid: '175168'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: PROMSVYAZBANK PUBLIC JOINT STOCK COMPANY)"

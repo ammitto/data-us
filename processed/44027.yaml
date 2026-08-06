@@ -1,0 +1,37 @@
+---
+uid: '44027'
+first_name: Alaaddin
+last_name: AYKUT
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+address_list:
+  items:
+  - uid: '65525'
+    city: Istanbul
+    country: Turkey
+id_list:
+  items:
+  - uid: '33414'
+    id_type: Identification Number
+    id_number: '61516474396'
+    id_country: Turkey
+  - uid: '163615'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '163614'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '63611'
+    date_of_birth: 03 Jan 1965
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '63612'
+    place_of_birth: Kilis, Turkey
+    main_entry: 'true'
+remarks: "(Linked To: IRAN AIRCRAFT MANUFACTURING INDUSTRIAL COMPANY)"

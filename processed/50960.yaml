@@ -1,0 +1,44 @@
+---
+uid: '50960'
+last_name: LLC AM LOGISTICS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80503'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY AM LOGISTICS
+address_list:
+  items:
+  - uid: '77424'
+    address1: d. 11 kv. 3
+    address2: ul. 4-Ya Krasnoarmeiskaya
+    city: St. Petersburg
+    postal_code: '190005'
+    country: Russia
+id_list:
+  items:
+  - uid: '42983'
+    id_type: Tax ID No.
+    id_number: '7839486793'
+    id_country: Russia
+  - uid: '42984'
+    id_type: Government Gazette Number
+    id_number: '31906071'
+    id_country: Russia
+  - uid: '42985'
+    id_type: Business Registration Number
+    id_number: '1137847419599'
+    id_country: Russia
+  - uid: '180122'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '180118'
+    id_type: Organization Established Date
+    id_number: 31 Oct 2013
+  - uid: '179835'
+    id_type: Website
+    id_number: amlogistics.ru

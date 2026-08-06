@@ -1,0 +1,32 @@
+---
+uid: '28122'
+last_name: MELVALE CORPORATION DOO BEOGRAD
+sdn_type: Entity
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '44325'
+    type: a.k.a.
+    category: strong
+    last_name: PREDUZECE ZA PROIZVODNJU, PROMET I USLUGE MELVALE CORPORATION DOO,
+      BEOGRAD STARI GRAD
+address_list:
+  items:
+  - uid: '42556'
+    address1: Tadeusa Koscuska 56
+    city: Belgrade
+    postal_code: '11000'
+    country: Serbia
+id_list:
+  items:
+  - uid: '18587'
+    id_type: Registration Number
+    id_number: '20100575'
+    id_country: Serbia
+  - uid: '18588'
+    id_type: Tax ID No.
+    id_number: '104150191'
+    id_country: Serbia
+remarks: "(Linked To: SARENAC, Nebojsa)"

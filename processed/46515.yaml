@@ -1,0 +1,41 @@
+---
+uid: '46515'
+last_name: FEDERAL STATE ENTERPRISE KAMENSKY COMBINE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '71877'
+    type: a.k.a.
+    category: strong
+    last_name: FEDERALNOE KAZENNOE PREDPRIYATIE KOMBINAT KAMENSKI
+  - uid: '71878'
+    type: a.k.a.
+    category: strong
+    last_name: KOMBINAT KAMENSKI FKP
+  - uid: '71879'
+    type: a.k.a.
+    category: weak
+    last_name: KOMBINAT KAMENSKII
+address_list:
+  items:
+  - uid: '69304'
+    address1: Ul. Saprygina D.8
+    city: Kamensk-Shakhtinskiy
+    postal_code: '347801'
+    country: Russia
+id_list:
+  items:
+  - uid: '36518'
+    id_type: Registration Number
+    id_number: '1066147003658'
+    id_country: Russia
+  - uid: '36519'
+    id_type: Tax ID No.
+    id_number: '6147025090'
+    id_country: Russia
+  - uid: '174979'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

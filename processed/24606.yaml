@@ -1,0 +1,44 @@
+---
+uid: '24606'
+last_name: COMMERCIAL BANK AGROSOYUZ
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK4
+aka_list:
+  items:
+  - uid: '38795'
+    type: a.k.a.
+    category: strong
+    last_name: LLC COMMERCIAL BANK AGROSOYUZ
+  - uid: '38796'
+    type: a.k.a.
+    category: strong
+    last_name: AGROSOYUZ
+  - uid: '38797'
+    type: a.k.a.
+    category: strong
+    last_name: AGROSOYUZ LLC
+address_list:
+  items:
+  - uid: '37192'
+    address1: Ulanskiy pereulok
+    address2: number 13 building 1
+    city: Moscow
+    postal_code: '101000'
+    country: Russia
+id_list:
+  items:
+  - uid: '127480'
+    id_type: SWIFT/BIC
+    id_number: AGSZRU31
+  - uid: '127481'
+    id_type: SWIFT/BIC
+    id_number: AGSZRU33
+  - uid: '127896'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '135146'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214

@@ -1,0 +1,41 @@
+---
+uid: '23551'
+first_name: Elena Nikolaevna
+last_name: KOSTENKO
+sdn_type: Individual
+program_list:
+  programs:
+  - UKRAINE-EO13660
+aka_list:
+  items:
+  - uid: '37103'
+    type: a.k.a.
+    category: strong
+    last_name: KOSTENKO
+    first_name: Olena Mykolaivna
+address_list:
+  items:
+  - uid: '35603'
+    address1: Novoannivka Street, No. 9
+    address2: Krasnodonsky District
+    state_or_province: Luhansk Region
+    country: Ukraine
+id_list:
+  items:
+  - uid: '125393'
+    id_type: Gender
+    id_number: Female
+  - uid: '143979'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+date_of_birth_list:
+  items:
+  - uid: '25391'
+    date_of_birth: 13 Nov 1968
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '25392'
+    place_of_birth: Krasnodonsky, Ukraine
+    main_entry: 'true'

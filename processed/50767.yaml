@@ -1,0 +1,36 @@
+---
+uid: '50767'
+last_name: JOINT STOCK COMPANY LASERSERVICE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79488'
+    type: a.k.a.
+    category: strong
+    last_name: AO LAZERSERVIS
+address_list:
+  items:
+  - uid: '77022'
+    address1: Ul. Vereiskaya, D. 39
+    city: Moscow
+    postal_code: '121357'
+    country: Russia
+id_list:
+  items:
+  - uid: '42659'
+    id_type: Registration Number
+    id_number: '1047731013857'
+    id_country: Russia
+  - uid: '42660'
+    id_type: Tax ID No.
+    id_number: '7731280660'
+    id_country: Russia
+  - uid: '179398'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '179397'
+    id_type: Organization Established Date
+    id_number: 11 Oct 2000

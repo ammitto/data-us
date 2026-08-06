@@ -1,0 +1,41 @@
+---
+uid: '55189'
+first_name: Zaid Ali Yahya
+last_name: AL SHARAFI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '85905'
+    type: a.k.a.
+    category: strong
+    last_name: AL SHARAFI
+    first_name: Zaid
+address_list:
+  items:
+  - uid: '84405'
+    address1: Airport St
+    city: Sana'a
+    country: Yemen
+id_list:
+  items:
+  - uid: '49186'
+    id_type: Passport
+    id_number: '02295046'
+    id_country: Yemen
+    expiration_date: 27 May 2012
+  - uid: '192354'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '192352'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '92351'
+    date_of_birth: 01 Jan 1977
+    main_entry: 'true'
+remarks: "(Linked To: ANSARALLAH)"

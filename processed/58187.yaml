@@ -1,0 +1,42 @@
+---
+uid: '58187'
+first_name: Sukhrob
+last_name: OIMAKHMADOV
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '89976'
+    type: a.k.a.
+    category: strong
+    last_name: OYMAKHMADOV
+    first_name: Sukhrob
+address_list:
+  items:
+  - uid: '89382'
+    address1: Rudaki 85, Lohuty 4-33
+    city: Dushanbe
+    country: Tajikistan
+id_list:
+  items:
+  - uid: '52788'
+    id_type: Passport
+    id_number: '402383646'
+    id_country: Tajikistan
+    expiration_date: 21 Nov 2028
+  - uid: '199756'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '99754'
+    date_of_birth: 05 Oct 1979
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '99755'
+    place_of_birth: Vahdat, Tajikistan
+    main_entry: 'true'
+remarks: "(Linked To: ZEDX DMCC)"

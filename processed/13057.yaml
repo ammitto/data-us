@@ -1,0 +1,67 @@
+---
+uid: '13057'
+first_name: Yassin
+last_name: CHOUKA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '14525'
+    type: a.k.a.
+    category: strong
+    last_name: CHOUKA
+    first_name: Yasin
+  - uid: '14526'
+    type: a.k.a.
+    category: weak
+    last_name: ABU IBRAHIM
+  - uid: '14527'
+    type: a.k.a.
+    category: weak
+    last_name: ABU IBRAHEEM THE GERMAN
+  - uid: '14528'
+    type: a.k.a.
+    category: weak
+    last_name: ABU IBRAHIM AL ALMANI
+address_list:
+  items:
+  - uid: '20804'
+    country: Pakistan
+  - uid: '20805'
+    country: Afghanistan
+  - uid: '20806'
+    address1: Karl-Barth-Strasse 14
+    city: Bonn
+    postal_code: '53129'
+    country: Germany
+id_list:
+  items:
+  - uid: '7480'
+    id_type: Passport
+    id_number: '5204893014'
+    id_country: Germany
+    issue_date: 05 Oct 2000
+    expiration_date: 05 Oct 2005
+  - uid: '7481'
+    id_type: National ID No.
+    id_number: '5209445304'
+    id_country: Germany
+    issue_date: 05 Sep 2005
+    expiration_date: 04 Sep 2010
+  - uid: '186073'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '8825'
+    date_of_birth: 11 Dec 1984
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '8826'
+    place_of_birth: Bonn, Germany
+    main_entry: 'true'
+remarks: Associated with Islamic Movement of Uzbekistan

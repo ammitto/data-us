@@ -1,0 +1,39 @@
+---
+uid: '51664'
+last_name: BCS BANK AO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '78727'
+    address1: Building 1, Prospect Mira, 69
+    city: Moscow
+    postal_code: '105064'
+    country: Russia
+id_list:
+  items:
+  - uid: '44182'
+    id_type: Legal Entity Number
+    id_number: 253400AU1YFUM0C4QG84
+  - uid: '44183'
+    id_type: Registration Number
+    id_number: '1055400000369'
+    id_country: Russia
+  - uid: '44184'
+    id_type: Tax ID No.
+    id_number: '5460000016'
+    id_country: Russia
+  - uid: '181613'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '181614'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '181616'
+    id_type: SWIFT/BIC
+    id_number: BCSBRU55
+  - uid: '181615'
+    id_type: Website
+    id_number: bank.bcs.ru

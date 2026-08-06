@@ -1,0 +1,29 @@
+---
+uid: '31412'
+last_name: AKTSIONERNOE OBSHCHESTVO PASIT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '49394'
+    type: a.k.a.
+    category: strong
+    last_name: PASIT, AO
+address_list:
+  items:
+  - uid: '47466'
+    address1: Avenue Leninsky, Building 30, Premise IA
+    city: Moscow
+    postal_code: '11934'
+    country: Russia
+id_list:
+  items:
+  - uid: '21373'
+    id_type: Tax ID No.
+    id_number: '7736185530'
+    id_country: Russia
+  - uid: '173953'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

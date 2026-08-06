@@ -1,0 +1,78 @@
+---
+uid: '12024'
+first_name: Wenceslao
+last_name: ALVAREZ ALVAREZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '12842'
+    type: a.k.a.
+    category: strong
+    last_name: ALVAREZ ALVAREZ
+    first_name: Wencho
+  - uid: '12843'
+    type: a.k.a.
+    category: strong
+    last_name: ALVAREZ ALVAREZ
+    first_name: Wenchin
+  - uid: '12844'
+    type: a.k.a.
+    category: strong
+    last_name: ALVAREZ ALVAREZ
+    first_name: Wencholin
+  - uid: '12845'
+    type: a.k.a.
+    category: strong
+    last_name: ALVAREZ ALVAREZ
+    first_name: Dobel
+address_list:
+  items:
+  - uid: '18287'
+    address1: Esquina de la Calle Vicente Guerrero y Plan de Iguala Numero 74
+    address2: Colonia Libertad
+    city: Nueva Italia
+    state_or_province: Michoacan
+    country: Mexico
+  - uid: '18288'
+    address1: Calle Articulo 123 Numero 103
+    address2: Colonia Centro
+    city: Nueva Italia
+    state_or_province: Michoacan
+    country: Mexico
+  - uid: '18289'
+    address1: Avenida Circuito Mexico Numero 1204 L-29
+    address2: Colonia Las Americas Britania
+    city: Morelia
+    state_or_province: Michoacan
+    postal_code: CP 58270
+    country: Mexico
+  - uid: '18290'
+    address1: Calle Ignacio Allende
+    address2: S/N Casi Esquina Con Lazaro Cardenas Norte
+    city: Nueva Italia
+    state_or_province: Michoacan
+    country: Mexico
+  - uid: '18291'
+    address1: Esquina de Ignacio Allende Numero y Lazaro Cardenas Norte Numero 500
+    city: Nueva Italia
+    state_or_province: Michoacan
+    country: Mexico
+id_list:
+  items:
+  - uid: '6443'
+    id_type: C.U.R.P.
+    id_number: AAAW720613HMNLLN02
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '7793'
+    date_of_birth: 13 Jun 1972
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '7796'
+    place_of_birth: Mugica, Michoacan, Mexico
+    main_entry: 'true'

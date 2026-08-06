@@ -1,0 +1,38 @@
+---
+uid: '36425'
+last_name: BARUS LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '57392'
+    type: a.k.a.
+    category: strong
+    last_name: OOO BARUS
+  - uid: '57393'
+    type: a.k.a.
+    category: strong
+    last_name: BARUS
+address_list:
+  items:
+  - uid: '54725'
+    address1: 32 Leninsky Prospekt, Floor 1, Office IB, Room 1
+    city: Moscow
+    postal_code: '119334'
+    country: Russia
+id_list:
+  items:
+  - uid: '25828'
+    id_type: Registration Number
+    id_number: '1197746639860'
+    id_country: Russia
+  - uid: '25829'
+    id_type: Tax ID No.
+    id_number: '7736324991'
+    id_country: Russia
+  - uid: '174206'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)"

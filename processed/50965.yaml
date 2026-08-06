@@ -1,0 +1,42 @@
+---
+uid: '50965'
+last_name: SLD LOJISTIK LC VE DIS TICARET LIMITED SIRKETI
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79848'
+    type: a.k.a.
+    category: strong
+    last_name: SLD LOGISTICS AND TRADING LLC
+address_list:
+  items:
+  - uid: '77430'
+    address1: Merkez Mah. Harvest Sk.
+    address2: 'Cabin No: 52'
+    address3: Sisli
+    city: Istanbul
+    postal_code: '34381'
+    country: Turkey
+id_list:
+  items:
+  - uid: '42987'
+    id_type: Registration Number
+    id_number: '390801'
+    id_country: Turkey
+  - uid: '42988'
+    id_type: Tax ID No.
+    id_number: '7721498346'
+    id_country: Turkey
+  - uid: '180121'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '179834'
+    id_type: Website
+    id_number: https://sld-logistics.org
+  - uid: '180120'
+    id_type: Organization Established Date
+    id_number: 29 Jun 2022
+remarks: "(Linked To: LLC AM LOGISTICS)"

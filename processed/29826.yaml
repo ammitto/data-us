@@ -1,0 +1,35 @@
+---
+uid: '29826'
+first_name: Reza
+last_name: MIRZAEI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+address_list:
+  items:
+  - uid: '44976'
+    country: Iran
+id_list:
+  items:
+  - uid: '19944'
+    id_type: Passport
+    id_number: F22578558
+    id_country: Iran
+  - uid: '137045'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '136845'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '36844'
+    date_of_birth: 15 May 1992
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '36846'
+    place_of_birth: Ahar, Iran
+    main_entry: 'true'
+remarks: "(Linked To: IRANIAN MINISTRY OF INTELLIGENCE AND SECURITY)"

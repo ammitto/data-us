@@ -1,0 +1,36 @@
+---
+uid: '46572'
+last_name: PODOLSKKABEL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '71867'
+    type: a.k.a.
+    category: strong
+    last_name: AO NP PODOLSKKABEL
+address_list:
+  items:
+  - uid: '69281'
+    address1: Ul. Bronnitskaya D. 11
+    city: Podolsk
+    postal_code: '142103'
+    country: Russia
+id_list:
+  items:
+  - uid: '36504'
+    id_type: Registration Number
+    id_number: '1025004706825'
+    id_country: Russia
+  - uid: '36505'
+    id_type: Tax ID No.
+    id_number: '5036002480'
+    id_country: Russia
+  - uid: '174995'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '167438'
+    id_type: Organization Established Date
+    id_number: '09 Jun 1941'

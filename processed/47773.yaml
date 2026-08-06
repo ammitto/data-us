@@ -1,0 +1,30 @@
+---
+uid: '47773'
+first_name: Pavel Ivanovich
+last_name: PINIGIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '71832'
+    country: Belarus
+id_list:
+  items:
+  - uid: '169267'
+    id_type: Gender
+    id_number: Male
+  - uid: '169626'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '69265'
+    date_of_birth: 23 Aug 1962
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '69266'
+    place_of_birth: Baranovichi, Belarus
+    main_entry: 'true'

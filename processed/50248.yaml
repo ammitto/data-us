@@ -1,0 +1,53 @@
+---
+uid: '50248'
+first_name: Alexey Ivanovich
+last_name: ISAYKIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78455'
+    type: a.k.a.
+    category: strong
+    last_name: ISAIKIN
+    first_name: Alexey Ivanovich
+  - uid: '78456'
+    type: a.k.a.
+    category: strong
+    last_name: ISAIKIN
+    first_name: Aleksei Ivanovich
+address_list:
+  items:
+  - uid: '76080'
+    address1: 19 bld. 1, Apt 54, Kosygina Street
+    city: Moscow
+    postal_code: '119334'
+    country: Russia
+id_list:
+  items:
+  - uid: '41914'
+    id_type: Tax ID No.
+    id_number: '770405603410'
+    id_country: Russia
+  - uid: '41917'
+    id_type: Passport
+    id_number: '550074072'
+    id_country: Russia
+  - uid: '178030'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '177910'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '77907'
+    date_of_birth: '09 Sep 1952'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '77912'
+    place_of_birth: Talas, Kyrgyzstan
+    main_entry: 'true'

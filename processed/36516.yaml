@@ -1,0 +1,40 @@
+---
+uid: '36516'
+first_name: Igor Yuryevich
+last_name: CHAYKA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '58783'
+    type: a.k.a.
+    category: strong
+    last_name: CHAIKA
+    first_name: Igor Yuryevich
+  - uid: '58784'
+    type: a.k.a.
+    category: weak
+    last_name: IFYAU9
+address_list:
+  items:
+  - uid: '59166'
+    country: Russia
+id_list:
+  items:
+  - uid: '26713'
+    id_type: Tax ID No.
+    id_number: '770302172306'
+    id_country: Russia
+  - uid: '156070'
+    id_type: Gender
+    id_number: Male
+  - uid: '174242'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '52396'
+    date_of_birth: 13 Dec 1988
+    main_entry: 'true'

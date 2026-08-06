@@ -1,0 +1,51 @@
+---
+uid: '48834'
+last_name: SYSTEMS OF BIOLOGICAL SYNTHESIS LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76019'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTIU SISTEMY BIOLOGICHESKOGO
+      SINTEZA
+  - uid: '76020'
+    type: a.k.a.
+    category: weak
+    last_name: OOO SBS
+  - uid: '76021'
+    type: a.k.a.
+    category: weak
+    last_name: SBS LLC
+address_list:
+  items:
+  - uid: '73421'
+    address1: Akademika Koroleva Street
+    address2: Building 13/1
+    address3: Office 35-39
+    city: Moscow
+    postal_code: '129515'
+    country: Russia
+  - uid: '73422'
+    address1: Akademika Koroleva Ul
+    address2: Building 13, str. 1, floor 2
+    address3: Rooms 60-61
+    city: Moscow
+    postal_code: '129515'
+    country: Russia
+id_list:
+  items:
+  - uid: '39887'
+    id_type: Registration Number
+    id_number: '5177746097392'
+    id_country: Russia
+  - uid: '39888'
+    id_type: Tax ID No.
+    id_number: '7736314136'
+    id_country: Russia
+  - uid: '171509'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

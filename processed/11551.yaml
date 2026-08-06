@@ -1,0 +1,32 @@
+---
+uid: '11551'
+first_name: Oscar Alonso
+last_name: ACOSTA SERNA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNT
+address_list:
+  items:
+  - uid: '17251'
+    country: Colombia
+id_list:
+  items:
+  - uid: '5936'
+    id_type: Cedula No.
+    id_number: '10141319'
+    id_country: Colombia
+  - uid: '5937'
+    id_type: Passport
+    id_number: AK253066
+    id_country: Colombia
+date_of_birth_list:
+  items:
+  - uid: '7007'
+    date_of_birth: 15 Aug 1971
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '7008'
+    place_of_birth: Argelia, Colombia
+    main_entry: 'true'

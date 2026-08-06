@@ -1,0 +1,35 @@
+---
+uid: '47957'
+last_name: LIMITED LIABILITY COMPANY FIBET NAMI ADVANCED ENGINEERING
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74415'
+    type: a.k.a.
+    category: strong
+    last_name: LLC FIBET NAMI
+address_list:
+  items:
+  - uid: '71829'
+    address1: 2 Avtomotornaya Street
+    address2: Building 1
+    address3: Office 221
+    city: Moscow
+    postal_code: '125438'
+    country: Russia
+id_list:
+  items:
+  - uid: '38780'
+    id_type: Tax ID No.
+    id_number: '7743345640'
+    id_country: Russia
+  - uid: '38781'
+    id_type: Registration Number
+    id_number: '1207700302545'
+    id_country: Russia
+  - uid: '176562'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,33 @@
+---
+uid: '57898'
+last_name: MINISTRY OF THE REVOLUTIONARY ARMED FORCES OF CUBA
+sdn_type: Entity
+program_list:
+  programs:
+  - CUBA-EO14404
+aka_list:
+  items:
+  - uid: '89534'
+    type: a.k.a.
+    category: weak
+    last_name: MINFAR
+  - uid: '89549'
+    type: a.k.a.
+    category: strong
+    last_name: MINISTERIO DE LAS FUERZAS ARMADAS REVOLUCIONARIAS
+address_list:
+  items:
+  - uid: '88823'
+    address1: Independence Avenue
+    address2: Sierra Maestra Building
+    address3: Plaza of the Revolution Municipality
+    city: Havana
+    country: Cuba
+id_list:
+  items:
+  - uid: '198643'
+    id_type: Organization Established Date
+    id_number: 16 Oct 1959
+  - uid: '198644'
+    id_type: Target Type
+    id_number: Government Entity

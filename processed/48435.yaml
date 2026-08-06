@@ -1,0 +1,45 @@
+---
+uid: '48435'
+last_name: AKTSIONERNOE OBSHCHESTVO TSENTRALNOE KONSTRUKTORSKOE BYURO APPARATOSTROENIYA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75282'
+    type: a.k.a.
+    category: weak
+    last_name: APPARATUS DEVELOPMENT JOINT STOCK COMPANY
+  - uid: '75283'
+    type: a.k.a.
+    category: weak
+    last_name: AO TSKBA
+  - uid: '75284'
+    type: a.k.a.
+    category: strong
+    last_name: CENTRAL DESIGN BUREAU OF APPARATUS ENGINEERING
+  - uid: '75285'
+    type: a.k.a.
+    category: weak
+    last_name: JSC CDBAE
+address_list:
+  items:
+  - uid: '72668'
+    address1: 36, ul Demonstratsii
+    city: Tula
+    postal_code: '300034'
+    country: Russia
+id_list:
+  items:
+  - uid: '39329'
+    id_type: Registration Number
+    id_number: '1027100740941'
+    id_country: Russia
+  - uid: '39330'
+    id_type: Tax ID No.
+    id_number: '7106002868'
+    id_country: Russia
+  - uid: '171274'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

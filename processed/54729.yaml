@@ -1,0 +1,43 @@
+---
+uid: '54729'
+first_name: Jesus
+last_name: GONZALEZ LOMELI
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+address_list:
+  items:
+  - uid: '84157'
+    city: Playas de Rosarito
+    state_or_province: Baja California
+    country: Mexico
+id_list:
+  items:
+  - uid: '48969'
+    id_type: C.U.R.P.
+    id_number: GOLJ790823HBCNMS01
+    id_country: Mexico
+  - uid: '48970'
+    id_type: Passport
+    id_number: G19323961
+    id_country: Mexico
+  - uid: '192690'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '191836'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '91834'
+    date_of_birth: 23 Aug 1979
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '91835'
+    place_of_birth: Tijuana, Baja California, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: SINALOA CARTEL)"

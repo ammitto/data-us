@@ -1,0 +1,33 @@
+---
+uid: '24705'
+first_name: Jose Francisco
+last_name: LOPEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '38956'
+    type: a.k.a.
+    category: weak
+    last_name: Chico
+  - uid: '38961'
+    type: a.k.a.
+    category: strong
+    last_name: LOPEZ CENTENO
+    first_name: Jose Francisco
+id_list:
+  items:
+  - uid: '15836'
+    id_type: Passport
+    id_number: C0915261
+    id_country: Nicaragua
+  - uid: '127602'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '27601'
+    date_of_birth: 17 Sep 1950
+    main_entry: 'true'

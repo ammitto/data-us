@@ -1,0 +1,37 @@
+---
+uid: '42865'
+last_name: OSTEC-ST LTD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '66420'
+    type: a.k.a.
+    category: strong
+    last_name: OSTEK-ST
+address_list:
+  items:
+  - uid: '63946'
+    address1: ul. Moldavskaya d. 5
+    address2: str. 2
+    city: Moscow
+    postal_code: '121467'
+    country: Russia
+id_list:
+  items:
+  - uid: '32432'
+    id_type: Registration Number
+    id_number: '1097746369820'
+    id_country: Russia
+  - uid: '32433'
+    id_type: Tax ID No.
+    id_number: '7731630120'
+    id_country: Russia
+  - uid: '175480'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '161698'
+    id_type: Organization Established Date
+    id_number: 24 Jun 2009

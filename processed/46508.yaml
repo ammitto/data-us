@@ -1,0 +1,46 @@
+---
+uid: '46508'
+last_name: AMC SERVICE FZE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '71788'
+    type: a.k.a.
+    category: weak
+    last_name: AIRCRAFT MAINTENANCE CENTER FZC
+  - uid: '71789'
+    type: a.k.a.
+    category: strong
+    last_name: AMC SERVICE FZC
+address_list:
+  items:
+  - uid: '69201'
+    address1: Q3 95
+    address2: Block Q3 Street G Floor
+    address3: Al Ruqa Al Hamra
+    city: Sharjah
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '36439'
+    id_type: License
+    id_number: '10646'
+    id_country: United Arab Emirates
+  - uid: '36440'
+    id_type: License
+    id_number: '4898'
+    id_country: United Arab Emirates
+  - uid: '36441'
+    id_type: Economic Register Number (CBLS)
+    id_number: '11613307'
+    id_country: United Arab Emirates
+  - uid: '36442'
+    id_type: Economic Register Number (CBLS)
+    id_number: '11613308'
+    id_country: United Arab Emirates
+  - uid: '174974'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

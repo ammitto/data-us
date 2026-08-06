@@ -1,0 +1,41 @@
+---
+uid: '25697'
+first_name: Ulises Jovani
+last_name: GONZALEZ VALENCIA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '38916'
+    address1: Calle Alcamo 2870-501
+    address2: Colonia Providencia
+    city: Guadalajara
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '38917'
+    address1: Calle Herradura Numero 4825
+    address2: Colonia Mirador Del Sol
+    city: Zapopan
+    state_or_province: Jalisco
+    country: Mexico
+id_list:
+  items:
+  - uid: '16601'
+    id_type: C.U.R.P.
+    id_number: GOVU860531HMNNLL06
+    id_country: Mexico
+  - uid: '129710'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '29709'
+    date_of_birth: 31 May 1986
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '29711'
+    place_of_birth: Michoacan de Ocampo, Mexico
+    main_entry: 'true'

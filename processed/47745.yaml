@@ -1,0 +1,41 @@
+---
+uid: '47745'
+last_name: JOINT STOCK COMPANY ARZAMAS MACHINE BUILDING PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74034'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY ARZAMAS MACHINERY PLANT
+  - uid: '74035'
+    type: a.k.a.
+    category: strong
+    last_name: PUBLICHNOE AKTSIONERNOE OBSCHESTVO ARZAMASSKIY MASHINOSTROITELNYI ZAVOD
+  - uid: '74036'
+    type: a.k.a.
+    category: weak
+    last_name: AO AMZ
+address_list:
+  items:
+  - uid: '71401'
+    address1: 2 May 9 St.
+    city: Arzamas
+    postal_code: '607220'
+    country: Russia
+id_list:
+  items:
+  - uid: '38397'
+    id_type: Tax ID No.
+    id_number: '5243001767'
+    id_country: Russia
+  - uid: '38398'
+    id_type: Registration Number
+    id_number: '1025201335730'
+    id_country: Russia
+  - uid: '169636'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,38 @@
+---
+uid: '12455'
+last_name: KAIRABA SUPERMARKET
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '13333'
+    type: a.k.a.
+    category: strong
+    last_name: KAIRABA SHOPPING CENTER
+address_list:
+  items:
+  - uid: '19410'
+    address1: Kairaba Ave
+    address2: P.O. Box 2176
+    city: Banjul
+    country: The Gambia
+  - uid: '19411'
+    address1: 62 Buckle Street
+    city: Banjul
+    country: The Gambia
+  - uid: '19412'
+    address1: Pipeline Road
+    city: Banjul
+    country: The Gambia
+id_list:
+  items:
+  - uid: '186009'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '120224'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
+      Sanctions Regulations

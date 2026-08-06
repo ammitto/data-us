@@ -1,0 +1,30 @@
+---
+uid: '56376'
+last_name: EP-MJG
+sdn_type: Aircraft
+program_list:
+  programs:
+  - SDGT
+  - IFSR
+id_list:
+  items:
+  - uid: '194829'
+    id_type: Aircraft Manufacture Date
+    id_number: '2002'
+  - uid: '194615'
+    id_type: Aircraft Model
+    id_number: Airbus A340-300
+  - uid: '194617'
+    id_type: Aircraft Operator
+    id_number: Mahan Air
+  - uid: '194828'
+    id_type: Aircraft Manufacturer's Serial Number (MSN)
+    id_number: '474'
+  - uid: '194830'
+    id_type: Aircraft Tail Number
+    id_number: EP-MJG
+  - uid: '194619'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: "(Linked To: MAHAN AIR)"

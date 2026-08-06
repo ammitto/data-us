@@ -1,0 +1,82 @@
+---
+uid: '13088'
+first_name: Vasiliy Aleksandrovich
+last_name: KHRISTOFOROV
+sdn_type: Individual
+program_list:
+  programs:
+  - TCO
+aka_list:
+  items:
+  - uid: '14628'
+    type: a.k.a.
+    category: strong
+    last_name: KHRISTOFOROV
+    first_name: Vasili
+  - uid: '14629'
+    type: a.k.a.
+    category: weak
+    last_name: VASYA VOSKRES
+  - uid: '14630'
+    type: a.k.a.
+    category: weak
+    last_name: VOSKRES
+address_list:
+  items:
+  - uid: '20877'
+    address1: Murjan 6 Sector
+    address2: Tower D01-T03.1, Apartment 401
+    city: Dubai
+    postal_code: '39409'
+    country: United Arab Emirates
+  - uid: '35167'
+    address1: 19 Berezovaya St.
+    address2: Apt. 152
+    city: Nizhny Novgorod
+    country: Russia
+  - uid: '35168'
+    address1: 2 Kommunalnaya Street
+    address2: Vryazino
+    address3: Shchelkovsky
+    city: Moscow
+    country: Russia
+  - uid: '35169'
+    address1: Apartment 2, House 4, Komsomolskaya Street
+    address2: Fryazino Settlement
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '7575'
+    id_type: National ID No.
+    id_number: '76481815'
+    id_country: United Arab Emirates
+  - uid: '7576'
+    id_type: Passport
+    id_number: '637186356'
+    id_country: Russia
+  - uid: '14694'
+    id_type: Passport
+    id_number: '530266990'
+    id_country: Russia
+  - uid: '14695'
+    id_type: Passport
+    id_number: '1175427'
+  - uid: '14696'
+    id_type: National ID No.
+    id_number: '2202546110'
+    id_country: Russia
+  - uid: '125113'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '8928'
+    date_of_birth: 12 Mar 1972
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '8929'
+    place_of_birth: Dzerzhinsk, Nizhny Novgorod, Russia
+    main_entry: 'true'
+remarks: "(Linked To: THIEVES-IN-LAW)"

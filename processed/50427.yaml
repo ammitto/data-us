@@ -1,0 +1,33 @@
+---
+uid: '50427'
+last_name: LIMITED LIABILITY COMPANY LEGION KOMPLEKT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78828'
+    type: a.k.a.
+    category: weak
+    last_name: LLC LEKO
+address_list:
+  items:
+  - uid: '76467'
+    address1: Floor 1, Room B2 office 35, 17 Vavilova street
+    city: Moscow
+    postal_code: '117312'
+    country: Russia
+id_list:
+  items:
+  - uid: '42220'
+    id_type: Registration Number
+    id_number: '1177746464378'
+    id_country: Russia
+  - uid: '42221'
+    id_type: Tax ID No.
+    id_number: '7743208298'
+    id_country: Russia
+  - uid: '178410'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

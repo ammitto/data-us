@@ -1,0 +1,50 @@
+---
+uid: '39916'
+first_name: Peyman
+last_name: JEBELLI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13846
+aka_list:
+  items:
+  - uid: '62129'
+    type: a.k.a.
+    category: strong
+    last_name: JEBLI
+    first_name: Peyman
+  - uid: '62130'
+    type: a.k.a.
+    category: strong
+    last_name: JEBELLI
+    first_name: Payman
+address_list:
+  items:
+  - uid: '59506'
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '29156'
+    id_type: Passport
+    id_number: D10010071
+    id_country: Iran
+    expiration_date: 25 Jun 2027
+  - uid: '156729'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '156695'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '56692'
+    date_of_birth: 25 Jan 1967
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '56693'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC REPUBLIC OF IRAN BROADCASTING)"
+title: Director, Islamic Republic of Iran Broadcasting

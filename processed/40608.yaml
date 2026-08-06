@@ -1,0 +1,43 @@
+---
+uid: '40608'
+first_name: Jamal
+last_name: BABAMORADI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+  - IRGC
+aka_list:
+  items:
+  - uid: '63131'
+    type: a.k.a.
+    category: strong
+    last_name: BABAMORADI
+    first_name: Jamal Ali
+address_list:
+  items:
+  - uid: '60506'
+    country: Iran
+id_list:
+  items:
+  - uid: '29770'
+    id_type: National ID No.
+    id_number: '0036824240'
+    id_country: Iran
+  - uid: '157911'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '157912'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '57919'
+    date_of_birth: 24 Mar 1960
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '57920'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: BONYAD TAAVON SEPAH)"

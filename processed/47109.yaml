@@ -1,0 +1,50 @@
+---
+uid: '47109'
+first_name: Alaa
+last_name: SHAMLAKH
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '72745'
+    type: a.k.a.
+    category: strong
+    last_name: SHAMALLAKH
+    first_name: Ala' Yunis Hamid
+  - uid: '72822'
+    type: a.k.a.
+    category: strong
+    last_name: SHAMALLAKH
+    first_name: Alla Y. H.
+address_list:
+  items:
+  - uid: '70432'
+    city: Istanbul
+    country: Turkey
+id_list:
+  items:
+  - uid: '37321'
+    id_type: National ID No.
+    id_number: '900222415'
+    id_country: Palestinian
+  - uid: '37322'
+    id_type: Passport
+    id_number: '3596875'
+    id_country: Palestinian
+    issue_date: 23 Nov 2014
+    expiration_date: 22 Nov 2019
+  - uid: '168306'
+    id_type: Gender
+    id_number: Male
+  - uid: '168308'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '68305'
+    date_of_birth: 07 Apr 1974
+    main_entry: 'true'
+remarks: "(Linked To: HAMAS)"

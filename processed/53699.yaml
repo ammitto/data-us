@@ -1,0 +1,38 @@
+---
+uid: '53699'
+last_name: LIMITED LIABILITY COMPANY BASHNEFT POLUS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '83718'
+    type: a.k.a.
+    category: strong
+    last_name: OOO BASHNEFT POLUS
+address_list:
+  items:
+  - uid: '81968'
+    address1: Ul. Chernyshevskogo D. 60
+    city: Ufa
+    postal_code: '450076'
+    country: Russia
+  - uid: '81969'
+    address1: Ul. Im V.I. Lenina D.31
+    city: Nar'Yan-Mar
+    postal_code: '166000'
+    country: Russia
+id_list:
+  items:
+  - uid: '47061'
+    id_type: Registration Number
+    id_number: '1108383000549'
+    id_country: Russia
+  - uid: '47063'
+    id_type: Tax ID No.
+    id_number: '2983998001'
+    id_country: Russia
+  - uid: '188581'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

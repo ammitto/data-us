@@ -1,0 +1,62 @@
+---
+uid: '36069'
+last_name: JOINT STOCK COMPANY KHABAROVSK SHIPBUILDING YARD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56884'
+    type: a.k.a.
+    category: strong
+    last_name: KHABAROVSKIY SHIPBUILDING PLANT
+  - uid: '56885'
+    type: a.k.a.
+    category: strong
+    last_name: JSC KHABAROVSK SHIPBUILDING YARD
+  - uid: '56886'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT-STOCK COMPANY KHSZ
+  - uid: '56887'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT-STOCK COMPANY KHABAROVSKY SHIPBUILDING PLANT
+  - uid: '56888'
+    type: a.k.a.
+    category: strong
+    last_name: JSC KHABAROVSKY SUDOSTROITELNY FACTORY
+  - uid: '56889'
+    type: a.k.a.
+    category: strong
+    last_name: JSC KHABAROVSKY SUDOSTROITELNY ZAVOD
+  - uid: '56891'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT-STOCK COMANY KHABAROVSKIY SHIPYARD
+  - uid: '56892'
+    type: a.k.a.
+    category: strong
+    last_name: KHABAROVSK SHIPBUILDING PLANT
+address_list:
+  items:
+  - uid: '54244'
+    address1: Suvorova St, 1
+    city: Khabarovsk
+    state_or_province: Khabarovsk Territory
+    postal_code: '680003'
+    country: Russia
+id_list:
+  items:
+  - uid: '25457'
+    id_type: Tax ID No.
+    id_number: '2723112662'
+    id_country: Russia
+  - uid: '149463'
+    id_type: Organization Established Date
+    id_number: 29 Oct 2008
+  - uid: '173973'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: JOINT STOCK COMPANY UNITED SHIPBUILDING CORPORATION)"

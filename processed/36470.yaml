@@ -1,0 +1,42 @@
+---
+uid: '36470'
+last_name: OOO BITRIVER-K
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '57516'
+    type: a.k.a.
+    category: strong
+    last_name: BITRIVER-K, LLC
+address_list:
+  items:
+  - uid: '54831'
+    address1: zd. 7 k. 1 pom. 2 kom. 213, ul. Tranzitnaya
+    city: Zheleznogorsk
+    state_or_province: Kransoyarski Kr.
+    postal_code: '662970'
+    country: Russia
+id_list:
+  items:
+  - uid: '25917'
+    id_type: Tax ID No.
+    id_number: '2452048315'
+    id_country: Russia
+  - uid: '25918'
+    id_type: Registration Number
+    id_number: '1212400001197'
+    id_country: Russia
+  - uid: '25919'
+    id_type: Government Gazette Number
+    id_number: '10690098'
+    id_country: Russia
+  - uid: '150211'
+    id_type: Organization Established Date
+    id_number: 25 Jan 2021
+  - uid: '174227'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: BITRIVER AG)"

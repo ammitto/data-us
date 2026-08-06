@@ -1,0 +1,72 @@
+---
+uid: '48603'
+first_name: Dmitry Yuryevich
+last_name: KHOROSHEV
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+aka_list:
+  items:
+  - uid: '75563'
+    type: a.k.a.
+    category: strong
+    last_name: KHOROSHEV
+    first_name: Dmitriy Yurevich
+  - uid: '75564'
+    type: a.k.a.
+    category: strong
+    last_name: YURIEVICH
+    first_name: Dmitry
+  - uid: '75565'
+    type: a.k.a.
+    category: strong
+    last_name: KHOROSHEV
+    first_name: Dmitrii Yuryevich
+  - uid: '75566'
+    type: a.k.a.
+    category: weak
+    last_name: LOCKBITSUPP
+address_list:
+  items:
+  - uid: '72971'
+    country: Russia
+id_list:
+  items:
+  - uid: '39566'
+    id_type: Tax ID No.
+    id_number: '366110340670'
+    id_country: Russia
+  - uid: '39568'
+    id_type: Passport
+    id_number: '2018278055'
+    id_country: Russia
+  - uid: '39569'
+    id_type: Passport
+    id_number: '2006801524'
+    id_country: Russia
+  - uid: '171710'
+    id_type: Email Address
+    id_number: khoroshev1@icloud.com
+  - uid: '171711'
+    id_type: Email Address
+    id_number: sitedev5@yandex.ru
+  - uid: '170893'
+    id_type: Gender
+    id_number: Male
+  - uid: '170896'
+    id_type: Digital Currency Address - XBT
+    id_number: bc1qvhnfknw852ephxyc5hm4q520zmvf9maphetc9z
+  - uid: '170897'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+date_of_birth_list:
+  items:
+  - uid: '71709'
+    date_of_birth: 17 Apr 1993
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '70894'
+    place_of_birth: Russian Federation
+    main_entry: 'true'

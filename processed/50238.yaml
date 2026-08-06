@@ -1,0 +1,47 @@
+---
+uid: '50238'
+first_name: Evgeniy Ivanovich
+last_name: MIKHOLAP
+sdn_type: Individual
+program_list:
+  programs:
+  - BELARUS-EO14038
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78419'
+    type: a.k.a.
+    category: strong
+    last_name: MIKHALAP
+    first_name: Yauheni Ivanavych
+address_list:
+  items:
+  - uid: '76060'
+    country: Belarus
+id_list:
+  items:
+  - uid: '41896'
+    id_type: Passport
+    id_number: MP3010584
+    id_country: Belarus
+    expiration_date: 23 Oct 2027
+  - uid: '41897'
+    id_type: National ID No.
+    id_number: 3110167A043PB2
+    id_country: Belarus
+  - uid: '178210'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '177895'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '77897'
+    date_of_birth: 11 Jan 1967
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '78177'
+    place_of_birth: Russia
+    main_entry: 'true'

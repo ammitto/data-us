@@ -1,0 +1,116 @@
+---
+uid: '30264'
+first_name: Jhon Fredy
+last_name: ZAPATA GARZON
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '47503'
+    type: a.k.a.
+    category: strong
+    last_name: ZAPATA GARZON
+    first_name: John Fredy
+  - uid: '47506'
+    type: a.k.a.
+    category: weak
+    last_name: CANDADO
+  - uid: '47507'
+    type: a.k.a.
+    category: weak
+    last_name: CANDADO MESSI
+  - uid: '47508'
+    type: a.k.a.
+    category: weak
+    last_name: TUSO
+address_list:
+  items:
+  - uid: '45746'
+    address1: Vereda El Silencio
+    city: Carepa
+    state_or_province: Antioquia
+    postal_code: '05147'
+    country: Colombia
+  - uid: '45753'
+    address1: Av. Cra. 7
+    address2: No. 130-00
+    city: Bogota
+    country: Colombia
+  - uid: '45755'
+    address1: Carrera 78
+    address2: Barrio Pueblo Nuevo
+    address3: Verada Carepa
+    city: Apartado
+    state_or_province: Antioquia
+    postal_code: '00829455'
+    country: Colombia
+  - uid: '45756'
+    address1: Finca El Reposo
+    address2: Vereda Aguas Claras
+    city: Necocli
+    state_or_province: Antioquia
+    postal_code: '034937'
+    country: Colombia
+  - uid: '45757'
+    address1: Finca Mariancel N-1
+    address2: Vereda Aguas Claras
+    city: Necocli
+    state_or_province: Antioquia
+    postal_code: '034938'
+    country: Colombia
+  - uid: '45758'
+    address1: Finca La Diana
+    address2: Finca Mariancel N-5
+    address3: Vereda Aguas Claras
+    city: Necocli
+    state_or_province: Antioquia
+    postal_code: '03414390'
+    country: Colombia
+  - uid: '45759'
+    address1: Finca Aguas Claritas
+    address2: Finca Mariancel N-3
+    address3: Vereda Aguas Claras
+    city: Necocli
+    state_or_province: Antioquia
+    postal_code: '03417'
+    country: Colombia
+  - uid: '45760'
+    address1: El Billar
+    address2: Vereda Cacique
+    city: La Tebaida
+    state_or_province: Quindio
+    postal_code: '28040222'
+    country: Colombia
+  - uid: '45761'
+    address1: Transversal 21 No. 18-180 Unid. Residencial Senderos De La Pradera P.H.
+      Apto. 202 Torre 3
+    city: Dosquebradas
+    state_or_province: Risaralda
+    postal_code: '29474418'
+    country: Colombia
+id_list:
+  items:
+  - uid: '20370'
+    id_type: Cedula No.
+    id_number: '71253351'
+    id_country: Colombia
+  - uid: '20408'
+    id_type: Passport
+    id_number: AS700605
+    id_country: Colombia
+  - uid: '137833'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '37835'
+    date_of_birth: 11 Apr 1978
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '37836'
+    place_of_birth: Chigorodo, Antioquia, Colombia
+    main_entry: 'true'
+remarks: "(Linked To: CLAN DEL GOLFO)"

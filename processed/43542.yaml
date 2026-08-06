@@ -1,0 +1,62 @@
+---
+uid: '43542'
+first_name: Aleksey Vyacheslavovich
+last_name: LOSEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '67479'
+    type: a.k.a.
+    category: strong
+    last_name: PERKO
+    first_name: Alexey
+  - uid: '67480'
+    type: a.k.a.
+    category: strong
+    last_name: LOSEV
+    first_name: Alexey Vyacheslavovich
+  - uid: '67481'
+    type: a.k.a.
+    category: weak
+    last_name: KALUGA, Perko
+address_list:
+  items:
+  - uid: '64958'
+    address1: Kalugskaya Street, DOM 48, KV. 9
+    city: Kaluga
+    state_or_province: Kalugskaya Oblast
+    postal_code: '248009'
+    country: Russia
+id_list:
+  items:
+  - uid: '33121'
+    id_type: Tax ID No.
+    id_number: '402903661126'
+    id_country: Russia
+  - uid: '33122'
+    id_type: National ID No.
+    id_number: '2907229130'
+    id_country: Russia
+  - uid: '33123'
+    id_type: Passport
+    id_number: '750643398'
+    id_country: Russia
+  - uid: '163028'
+    id_type: Gender
+    id_number: Male
+  - uid: '175719'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '63030'
+    date_of_birth: 10 Apr 1986
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '63027'
+    place_of_birth: Kaluga, Russia
+    main_entry: 'true'

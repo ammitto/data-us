@@ -1,0 +1,45 @@
+---
+uid: '45027'
+last_name: JOINT STOCK COMPANY 419 AIRCRAFT REPAIR PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69724'
+    type: a.k.a.
+    category: strong
+    last_name: AIRCRAFT REPAIR PLANT NO 419
+  - uid: '69725'
+    type: a.k.a.
+    category: weak
+    last_name: ARP 419
+  - uid: '69726'
+    type: a.k.a.
+    category: strong
+    last_name: 419 AVIATION REPAIR PLANT
+  - uid: '69727'
+    type: a.k.a.
+    category: weak
+    last_name: 419 ARZ
+address_list:
+  items:
+  - uid: '67037'
+    address1: 16 k. 2 Politruk Pasechnik Str.
+    city: St. Petersburg
+    postal_code: '198326'
+    country: Russia
+id_list:
+  items:
+  - uid: '34710'
+    id_type: Tax ID No.
+    id_number: '7807343496'
+    id_country: Russia
+  - uid: '34711'
+    id_type: Registration Number
+    id_number: '1097847146748'
+    id_country: Russia
+  - uid: '175905'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

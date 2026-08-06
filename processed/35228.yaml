@@ -1,0 +1,43 @@
+---
+uid: '35228'
+first_name: Nikolay Vasilievich
+last_name: KOLOMEITSEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '55409'
+    type: a.k.a.
+    category: strong
+    last_name: KOLOMEITSEV
+    first_name: Nikolai Vasilyevich
+  - uid: '55410'
+    type: a.k.a.
+    category: strong
+    last_name: KOLOMEYTSEV
+    first_name: Nikolay Vasilyevich
+address_list:
+  items:
+  - uid: '52930'
+    country: Russia
+id_list:
+  items:
+  - uid: '147337'
+    id_type: Gender
+    id_number: Male
+  - uid: '176681'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '47333'
+    date_of_birth: 01 Sep 1956
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '47335'
+    place_of_birth: Rostov Region, Russia
+    main_entry: 'true'
+title: Member of the State Duma of the Federal Assembly of the Russian Federation

@@ -1,0 +1,38 @@
+---
+uid: '56026'
+first_name: Hosein Sayyadi
+last_name: TURANLU
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+  - IFSR
+address_list:
+  items:
+  - uid: '85799'
+    city: Yazd
+    country: Iran
+id_list:
+  items:
+  - uid: '50194'
+    id_type: National ID No.
+    id_number: '0828012911'
+    id_country: Iran
+  - uid: '194140'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '194139'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '94137'
+    date_of_birth: 21 Mar 1983
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '94502'
+    place_of_birth: Shirvan, Iran
+    main_entry: 'true'
+remarks: "(Linked To: KIMIA PART SIVAN COMPANY LLC)"

@@ -1,0 +1,62 @@
+---
+uid: '48631'
+first_name: Majed
+last_name: AL-ZEER
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '79375'
+    type: a.k.a.
+    category: strong
+    last_name: AL-ZEER
+    first_name: Majid
+  - uid: '79376'
+    type: a.k.a.
+    category: strong
+    last_name: ALZEER
+    first_name: Majed
+  - uid: '79942'
+    type: a.k.a.
+    category: strong
+    last_name: AL-ZEER
+    first_name: Majed Khalil Moussa
+address_list:
+  items:
+  - uid: '76920'
+    country: Germany
+id_list:
+  items:
+  - uid: '42579'
+    id_type: Passport
+    id_number: '133670754'
+    id_country: United Kingdom
+    issue_date: '09 Nov 2022'
+  - uid: '42580'
+    id_type: Passport
+    id_number: Q721863
+    id_country: Jordan
+    issue_date: 28 Sep 2021
+  - uid: '179840'
+    id_type: Gender
+    id_number: Male
+  - uid: '179914'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '79325'
+    date_of_birth: 12 Aug 1962
+    main_entry: 'true'
+  - uid: '79326'
+    date_of_birth: 1961 to 1962
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '79839'
+    place_of_birth: Bethlehem, West Bank, Palestinian Territories
+    main_entry: 'true'
+remarks: "(Linked To: HAMAS)"

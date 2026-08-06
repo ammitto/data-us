@@ -1,0 +1,41 @@
+---
+uid: '51427'
+last_name: JOINT STOCK COMPANY AKTIV
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80639'
+    type: a.k.a.
+    category: strong
+    last_name: AO AKTIV
+address_list:
+  items:
+  - uid: '78329'
+    address1: Nab. Kanala Griboedova D. 6/2, Lit. A
+    city: Saint Petersburg
+    postal_code: '191186'
+    country: Russia
+  - uid: '78330'
+    address1: PR-KT Malyi V.O.D. 43, K. 2, Lit. V, Floor 2, Pomeshch. 31
+    city: Saint Petersburg
+    postal_code: '199178'
+    country: Russia
+id_list:
+  items:
+  - uid: '43745'
+    id_type: Registration Number
+    id_number: '1027806881585'
+    id_country: Russia
+  - uid: '43746'
+    id_type: Tax ID No.
+    id_number: '7813067004'
+    id_country: Russia
+  - uid: '182804'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '180941'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

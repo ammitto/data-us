@@ -1,0 +1,38 @@
+---
+uid: '55323'
+first_name: Jose Antonio
+last_name: YEPEZ ORTIZ
+sdn_type: Individual
+program_list:
+  programs:
+  - TCO
+aka_list:
+  items:
+  - uid: '86095'
+    type: a.k.a.
+    category: weak
+    last_name: El Marro
+address_list:
+  items:
+  - uid: '84594'
+    country: Mexico
+id_list:
+  items:
+  - uid: '49306'
+    id_type: C.U.R.P.
+    id_number: YEOA800723HGTPRN07
+    id_country: Mexico
+  - uid: '192589'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '92588'
+    date_of_birth: 23 Jul 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '92590'
+    place_of_birth: Guanajuato, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: CARTEL DE SANTA ROSA DE LIMA)"

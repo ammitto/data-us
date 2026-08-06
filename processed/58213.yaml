@@ -1,0 +1,33 @@
+---
+uid: '58213'
+first_name: Gretza
+last_name: SANCHEZ PADRON
+sdn_type: Individual
+program_list:
+  programs:
+  - CUBA-EO14404
+address_list:
+  items:
+  - uid: '89433'
+    city: Villa Clara
+    country: Cuba
+id_list:
+  items:
+  - uid: '52838'
+    id_type: National ID No.
+    id_number: '70112814739'
+    id_country: Cuba
+  - uid: '199847'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '99845'
+    date_of_birth: 28 Nov 1970
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '99844'
+    place_of_birth: Villa Clara, Cuba
+    main_entry: 'true'
+remarks: "(Linked To: UNIDAD CENTRAL DE COOPERACION MEDICA)"

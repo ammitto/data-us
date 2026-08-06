@@ -1,0 +1,47 @@
+---
+uid: '22986'
+last_name: HANA BANKING CORPORATION LTD
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK3
+aka_list:
+  items:
+  - uid: '37076'
+    type: a.k.a.
+    category: strong
+    last_name: HUALI BANK
+  - uid: '37077'
+    type: a.k.a.
+    category: strong
+    last_name: HWARYO BANK
+  - uid: '37080'
+    type: a.k.a.
+    category: strong
+    last_name: GORGEOUS BANK OF NORTH KOREA
+  - uid: '37081'
+    type: a.k.a.
+    category: strong
+    last_name: BRILLIANCE BANKING CORPORATION, LTD.
+address_list:
+  items:
+  - uid: '34676'
+    address1: Haebangsan Hotel, Jungsong-Dong
+    address2: Sungri Street, Central District
+    city: Pyongyang
+    country: Korea, North
+  - uid: '34708'
+    city: Dandong
+    country: China
+id_list:
+  items:
+  - uid: '124529'
+    id_type: SWIFT/BIC
+    id_number: BRBKKPP1
+  - uid: '127946'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '135150'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214

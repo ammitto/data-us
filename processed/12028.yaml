@@ -1,0 +1,55 @@
+---
+uid: '12028'
+last_name: ONERBANK ZAO
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN
+aka_list:
+  items:
+  - uid: '12848'
+    type: a.k.a.
+    category: strong
+    last_name: ONER-BANK
+  - uid: '12849'
+    type: a.k.a.
+    category: strong
+    last_name: HONORBANK
+  - uid: '12850'
+    type: a.k.a.
+    category: strong
+    last_name: ONERBANK
+  - uid: '12851'
+    type: a.k.a.
+    category: strong
+    last_name: EFTEKHAR BANK
+  - uid: '12852'
+    type: a.k.a.
+    category: strong
+    last_name: HONORBANK ZAO
+  - uid: '12853'
+    type: a.k.a.
+    category: strong
+    last_name: HONOR BANK
+  - uid: '12963'
+    type: a.k.a.
+    category: strong
+    last_name: ONER BANK
+address_list:
+  items:
+  - uid: '18303'
+    address1: Ulitsa Klary Tsetkin 51
+    city: Minsk
+    postal_code: '220004'
+    country: Belarus
+id_list:
+  items:
+  - uid: '6446'
+    id_type: Registration ID
+    id_number: '807000227'
+    id_country: Belarus
+    issue_date: 16 Oct 2009
+  - uid: '110063'
+    id_type: SWIFT/BIC
+    id_number: HNRBBY2X
+remarks: all offices worldwide

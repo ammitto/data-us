@@ -1,0 +1,34 @@
+---
+uid: '48879'
+first_name: Boris Yakovlevich
+last_name: VOLOGDIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '73585'
+    country: Russia
+id_list:
+  items:
+  - uid: '39954'
+    id_type: Tax ID No.
+    id_number: '701700134280'
+    id_country: Russia
+  - uid: '171593'
+    id_type: Gender
+    id_number: Male
+  - uid: '171597'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '71595'
+    date_of_birth: 22 Jul 1955
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '71596'
+    place_of_birth: Aliya Village, Chita Region, Russia
+    main_entry: 'true'

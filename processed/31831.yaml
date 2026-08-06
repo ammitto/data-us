@@ -1,0 +1,40 @@
+---
+uid: '31831'
+first_name: Mikhail
+last_name: HRYB
+sdn_type: Individual
+program_list:
+  programs:
+  - BELARUS
+aka_list:
+  items:
+  - uid: '49870'
+    type: a.k.a.
+    category: strong
+    last_name: GRIB
+    first_name: Mikhail Vyacheslavovich
+  - uid: '49871'
+    type: a.k.a.
+    category: strong
+    last_name: GRIB
+    first_name: Mikhail
+address_list:
+  items:
+  - uid: '47902'
+    city: Minsk
+    country: Belarus
+id_list:
+  items:
+  - uid: '140382'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '40380'
+    date_of_birth: 29 Jul 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '40381'
+    place_of_birth: Minsk, Belarus
+    main_entry: 'true'

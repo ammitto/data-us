@@ -1,0 +1,63 @@
+---
+uid: '19133'
+first_name: Job
+last_name: LAREDO DON JUAN
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '30180'
+    type: a.k.a.
+    category: strong
+    last_name: LAREDO DONJUAN
+    first_name: Job
+  - uid: '30181'
+    type: a.k.a.
+    category: strong
+    last_name: LAREDO
+    first_name: Antonio
+  - uid: '30182'
+    type: a.k.a.
+    category: strong
+    last_name: RODRIGUEZ
+    first_name: Antonio
+  - uid: '30183'
+    type: a.k.a.
+    category: weak
+    last_name: GORDO
+address_list:
+  items:
+  - uid: '29252'
+    city: Cuernavaca
+    state_or_province: Morelos
+    country: Mexico
+id_list:
+  items:
+  - uid: '11419'
+    id_type: C.U.R.P.
+    id_number: LADJ680317HGRRNB04
+    id_country: Mexico
+  - uid: '11420'
+    id_type: R.F.C.
+    id_number: LADJ6803175F6
+    id_country: Mexico
+  - uid: '11540'
+    id_type: R.F.C.
+    id_number: LADJ6803178D1
+    id_country: Mexico
+  - uid: '118745'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '18743'
+    date_of_birth: 17 Mar 1968
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '18744'
+    place_of_birth: San Miguel Totolapan, Guerrero, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: LAREDO DRUG TRAFFICKING ORGANIZATION)"

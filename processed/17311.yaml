@@ -1,0 +1,36 @@
+---
+uid: '17311'
+first_name: Elvis
+last_name: KELMENDI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '27612'
+    type: a.k.a.
+    category: strong
+    last_name: KELJMENDI
+    first_name: Elvis
+address_list:
+  items:
+  - uid: '27104'
+    city: Pec
+    country: Kosovo
+id_list:
+  items:
+  - uid: '9772'
+    id_type: Personal ID Card
+    id_number: '0305978934868'
+    id_country: Montenegro
+date_of_birth_list:
+  items:
+  - uid: '16270'
+    date_of_birth: 03 May 1978
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '16330'
+    place_of_birth: Prizren, Kosovo
+    main_entry: 'true'

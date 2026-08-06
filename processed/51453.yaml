@@ -1,0 +1,36 @@
+---
+uid: '51453'
+last_name: OBSHCHESTVO S OGRANICHENNOY OTVETSTVENNOSTYU OBORONREGISTR
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '81523'
+    type: a.k.a.
+    category: strong
+    last_name: OBORONREGISTR
+address_list:
+  items:
+  - uid: '78391'
+    address1: Ul. Staraya Basmannaya D. 19, Str. 12, Kom. 22
+    city: Moscow
+    postal_code: '105066'
+    country: Russia
+id_list:
+  items:
+  - uid: '43795'
+    id_type: Registration Number
+    id_number: '1047796702843'
+    id_country: Russia
+  - uid: '43796'
+    id_type: Tax ID No.
+    id_number: '7731513346'
+    id_country: Russia
+  - uid: '182830'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '180978'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

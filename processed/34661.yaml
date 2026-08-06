@@ -1,0 +1,37 @@
+---
+uid: '34661'
+last_name: ALKES TREID OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54273'
+    type: a.k.a.
+    category: strong
+    last_name: ALKES TREID LLC
+address_list:
+  items:
+  - uid: '51876'
+    address1: Ul. Smirnovskaya d. 10, Str. 3. Pom VIII
+    city: Moscow
+    state_or_province: '109052'
+    country: Russia
+id_list:
+  items:
+  - uid: '24264'
+    id_type: Registration Number
+    id_number: '1187746135862'
+    id_country: Russia
+  - uid: '24265'
+    id_type: Tax ID No.
+    id_number: '7722437025'
+    id_country: Russia
+  - uid: '146040'
+    id_type: Organization Established Date
+    id_number: '08 Feb 2018'
+  - uid: '175160'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: PROMSVYAZBANK PUBLIC JOINT STOCK COMPANY)"

@@ -1,0 +1,91 @@
+---
+uid: '18715'
+last_name: JOINT STOCK COMPANY SBERBANK
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13662
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '29310'
+    type: a.k.a.
+    category: strong
+    last_name: SUBSIDIARY BANK SBERBANK OF RUSSIA PUBLIC JOINT STOCK COMPANY
+  - uid: '29311'
+    type: a.k.a.
+    category: strong
+    last_name: SBERBANK OF RUSSIA SUBSIDIARY BANK PUBLIC JOINT STOCK COMPANY
+  - uid: '29312'
+    type: a.k.a.
+    category: strong
+    last_name: PUBLICHNE AKTSIONERNE TOVARYSTVO DOCHIRNII BANK SBERBANKU ROSII
+  - uid: '29313'
+    type: a.k.a.
+    category: strong
+    last_name: JSC SBERBANK OF RUSSIA
+  - uid: '29314'
+    type: f.k.a.
+    category: strong
+    last_name: SBERBANK OF RUSSIA SUBSIDIARY BANK PRIVATE JOINT STOCK COMPANY
+  - uid: '55008'
+    type: a.k.a.
+    category: strong
+    last_name: JSC SBERBANK
+  - uid: '55010'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNE TOVARYSTVO SBERBANK
+address_list:
+  items:
+  - uid: '28428'
+    address1: 46 Volodymyrska street
+    city: Kyiv
+    postal_code: '01601'
+    country: Ukraine
+  - uid: '52516'
+    address1: 46 Vladimirskaya St
+    city: Kyiv
+    postal_code: '01601'
+    country: Ukraine
+id_list:
+  items:
+  - uid: '11005'
+    id_type: Registration ID
+    id_number: '25959784'
+    id_country: Ukraine
+  - uid: '24671'
+    id_type: Tax ID No.
+    id_number: '259597826652'
+    id_country: Ukraine
+  - uid: '118420'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 1
+  - uid: '146691'
+    id_type: Executive Order 14024 Directive Information -
+    id_number: 'For more information on directives, please visit the following link:
+      https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives'
+  - uid: '146843'
+    id_type: 'Listing Date (EO 14024 Directive 2):'
+    id_number: 24 Feb 2022
+  - uid: '146845'
+    id_type: 'Effective Date (EO 14024 Directive 2):'
+    id_number: 26 Mar 2022
+  - uid: '151163'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '173881'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '118822'
+    id_type: SWIFT/BIC
+    id_number: SABRUAUK
+  - uid: '118154'
+    id_type: Website
+    id_number: www.sberbank.ua
+  - uid: '146585'
+    id_type: Website
+    id_number: sbrf.com.ua
+remarks: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)'

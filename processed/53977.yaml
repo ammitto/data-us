@@ -1,0 +1,43 @@
+---
+uid: '53977'
+first_name: Abdulkader Ali
+last_name: BAZARA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '84048'
+    type: a.k.a.
+    category: strong
+    last_name: BAZARA
+    first_name: Abdulkader Ali Ahmed
+address_list:
+  items:
+  - uid: '82377'
+    city: Sana'a
+    country: Yemen
+id_list:
+  items:
+  - uid: '189173'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '189165'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '89166'
+    date_of_birth: 10 Sep 1953
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '89167'
+    place_of_birth: Addis Ababa, Ethiopia
+    main_entry: 'true'
+  - uid: '89168'
+    place_of_birth: Yemen
+    main_entry: 'false'
+remarks: "(Linked To: INTERNATIONAL BANK OF YEMEN Y.S.C.)"

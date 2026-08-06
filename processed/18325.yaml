@@ -1,0 +1,39 @@
+---
+uid: '18325'
+last_name: PRIVATE JOINT-STOCK COMPANY MAKO HOLDING
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13660
+aka_list:
+  items:
+  - uid: '28409'
+    type: a.k.a.
+    category: strong
+    last_name: MAKO HOLDING
+address_list:
+  items:
+  - uid: '27760'
+    address1: Bohdan Khmelnytsky Avenue, Building 102
+    address2: Voroshilovsky District
+    city: Donetsk
+    state_or_province: Donetsk Oblast
+    postal_code: '83015'
+    country: Ukraine
+id_list:
+  items:
+  - uid: '10590'
+    id_type: Government Gazette Number
+    id_number: '34436105'
+    id_country: Ukraine
+  - uid: '143589'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '117635'
+    id_type: Website
+    id_number: http://mako.ua/
+  - uid: '117634'
+    id_type: Email Address
+    id_number: a.kyzura@mako-holding.com
+remarks: "(Linked To: YANUKOVYCH, Oleksandr Viktorovych)"

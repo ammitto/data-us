@@ -1,0 +1,36 @@
+---
+uid: '41006'
+first_name: Viktor Borisovich
+last_name: KHRISTENKO
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '61251'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '30339'
+    id_type: Tax ID No.
+    id_number: '745301741951'
+    id_country: Russia
+  - uid: '158746'
+    id_type: Gender
+    id_number: Male
+  - uid: '175355'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '58744'
+    date_of_birth: 28 Aug 1957
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '58745'
+    place_of_birth: Chelyabinsk, Chelyabinsk Region, Russia
+    main_entry: 'true'
+remarks: "(Linked To: GOLIKOVA, Tatyana Alekseyevna)"

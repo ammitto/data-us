@@ -1,0 +1,37 @@
+---
+uid: '41013'
+last_name: LIMITED LIABILITY COMPANY ANTELS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63911'
+    type: a.k.a.
+    category: strong
+    last_name: ANTELS OOO
+address_list:
+  items:
+  - uid: '61264'
+    address1: 1005 Stavskovo Street, 79A
+    city: Velikie Luki City
+    state_or_province: Pskov Region
+    postal_code: '182100'
+    country: Russia
+id_list:
+  items:
+  - uid: '30348'
+    id_type: Tax ID No.
+    id_number: '6025034034'
+    id_country: Russia
+  - uid: '30349'
+    id_type: Registration Number
+    id_number: '1096025002590'
+    id_country: Russia
+  - uid: '175362'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '158754'
+    id_type: Organization Established Date
+    id_number: 13 Oct 2009

@@ -1,0 +1,38 @@
+---
+uid: '50159'
+last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU PECHENGSKOE STROITELNOE OBEDINENIE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78228'
+    type: a.k.a.
+    category: strong
+    last_name: PECHENGASTROI OOO
+  - uid: '78229'
+    type: a.k.a.
+    category: strong
+    last_name: LLC PECHENGASTROY
+address_list:
+  items:
+  - uid: '75913'
+    address1: Ter. Promploshchadka Kgmk
+    city: Monchegorsk
+    state_or_province: Murmansk region
+    postal_code: '184507'
+    country: Russia
+id_list:
+  items:
+  - uid: '41770'
+    id_type: Registration Number
+    id_number: '1165190055007'
+    id_country: Russia
+  - uid: '41771'
+    id_type: Tax ID No.
+    id_number: '5107916719'
+    id_country: Russia
+  - uid: '178118'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

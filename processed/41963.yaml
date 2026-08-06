@@ -1,0 +1,37 @@
+---
+uid: '41963'
+last_name: AKTSIONERNOE OBSHCHESTVO TESTPRIBOR
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65199'
+    type: a.k.a.
+    category: strong
+    last_name: AO TESTPRIBOR
+  - uid: '65200'
+    type: a.k.a.
+    category: strong
+    last_name: JSC TESTPRIBOR
+address_list:
+  items:
+  - uid: '62582'
+    address1: ul. Planernaya d. 7A
+    city: Moscow
+    postal_code: '125480'
+    country: Russia
+id_list:
+  items:
+  - uid: '31330'
+    id_type: Registration Number
+    id_number: '1077761778423'
+    id_country: Russia
+  - uid: '31331'
+    id_type: Tax ID No.
+    id_number: '7733627211'
+    id_country: Russia
+  - uid: '173710'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

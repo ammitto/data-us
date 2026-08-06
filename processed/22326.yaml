@@ -1,0 +1,41 @@
+---
+uid: '22326'
+first_name: Song-hyok
+last_name: RI
+sdn_type: Individual
+program_list:
+  programs:
+  - DPRK3
+aka_list:
+  items:
+  - uid: '35141'
+    type: a.k.a.
+    category: strong
+    last_name: LI
+    first_name: Cheng He
+address_list:
+  items:
+  - uid: '33802'
+    city: Beijing
+    country: China
+id_list:
+  items:
+  - uid: '14035'
+    id_type: Passport
+    id_number: '654234735'
+    id_country: Korea, North
+  - uid: '135044'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '123731'
+    id_type: Gender
+    id_number: Male
+  - uid: '127231'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+date_of_birth_list:
+  items:
+  - uid: '23732'
+    date_of_birth: 19 Mar 1965
+    main_entry: 'true'

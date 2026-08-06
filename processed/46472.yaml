@@ -1,0 +1,34 @@
+---
+uid: '46472'
+last_name: OJSC HORIZONT HOLDING MANAGEMENT COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '71716'
+    type: a.k.a.
+    category: strong
+    last_name: OTKRYTOE AKTSIONERNOE OBSHCHESTVO UPRAVLYAYUSHCHAYA KOMPANIYA KHOLDINGA
+      GORIZONT
+  - uid: '71842'
+    type: a.k.a.
+    category: weak
+    last_name: HORIZONT GROUP
+address_list:
+  items:
+  - uid: '69121'
+    address1: 35-1 Kuibysheva St.
+    city: Minsk
+    postal_code: '220029'
+    country: Belarus
+id_list:
+  items:
+  - uid: '36376'
+    id_type: Tax ID No.
+    id_number: '101050240'
+    id_country: Belarus
+  - uid: '167273'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

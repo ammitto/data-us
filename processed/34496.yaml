@@ -1,0 +1,36 @@
+---
+uid: '34496'
+first_name: Jesus Gerardo
+last_name: CHAVEZ TAMAYO
+sdn_type: Individual
+program_list:
+  programs:
+  - TCO
+address_list:
+  items:
+  - uid: '51723'
+    address1: Internacional 29 Fronteriza
+    city: Mexicali
+    state_or_province: Baja California
+    postal_code: '21110'
+    country: Mexico
+id_list:
+  items:
+  - uid: '24116'
+    id_type: C.U.R.P.
+    id_number: CATJ651224HSLHMS05
+    id_country: Mexico
+  - uid: '145908'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '45887'
+    date_of_birth: 24 Dec 1965
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '45907'
+    place_of_birth: Sinaloa, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: HERNANDEZ SALAS TRANSNATIONAL CRIMINAL ORGANIZATION)"

@@ -1,0 +1,43 @@
+---
+uid: '49208'
+last_name: NAUCHNO PROIZVODSTVENNAYA FIRMA TREKOL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76713'
+    type: a.k.a.
+    category: strong
+    last_name: NPF TREKOL
+  - uid: '76714'
+    type: a.k.a.
+    category: weak
+    last_name: LLC R&PC TRECOL
+address_list:
+  items:
+  - uid: '74081'
+    address1: Per. Kholodilnyi D.1
+    city: Moscow
+    postal_code: '113191'
+    country: Russia
+  - uid: '74082'
+    address1: Ul. Initsiativnaya D. 3
+    address2: Kom. 41
+    city: Lyubertsy
+    postal_code: '140015'
+    country: Russia
+id_list:
+  items:
+  - uid: '40364'
+    id_type: Registration Number
+    id_number: '1037700104386'
+    id_country: Russia
+  - uid: '40365'
+    id_type: Tax ID No.
+    id_number: '7706029910'
+    id_country: Russia
+  - uid: '172171'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

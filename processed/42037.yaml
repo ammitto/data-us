@@ -1,0 +1,44 @@
+---
+uid: '42037'
+last_name: NEXIGN JOINT STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65360'
+    type: a.k.a.
+    category: weak
+    last_name: NEKSAIN AO
+address_list:
+  items:
+  - uid: '62748'
+    address1: d. 4 litera B pom. 22N, ul. Uralskaya
+    city: St. Petersburg
+    postal_code: '199155'
+    country: Russia
+id_list:
+  items:
+  - uid: '31472'
+    id_type: Registration Number
+    id_number: '1027809251744'
+    id_country: Russia
+  - uid: '31473'
+    id_type: Tax ID No.
+    id_number: '7801019126'
+    id_country: Russia
+  - uid: '31474'
+    id_type: Government Gazette Number
+    id_number: '11150642'
+    id_country: Russia
+  - uid: '160258'
+    id_type: Organization Established Date
+    id_number: 03 Mar 1992
+  - uid: '175375'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '160259'
+    id_type: 'Organization Type:'
+    id_number: Other information technology and computer service activities
+remarks: "(Linked To: LIMITED LIABILITY COMPANY USM TELECOM)"

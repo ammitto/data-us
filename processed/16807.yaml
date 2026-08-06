@@ -1,0 +1,43 @@
+---
+uid: '16807'
+last_name: OOO TRANSOIL
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13661
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56594'
+    type: a.k.a.
+    category: strong
+    last_name: TRANSOIL SNG LIMITED COMPANY
+address_list:
+  items:
+  - uid: '25432'
+    address1: Petrogradskaya Nab 18 A
+    city: Saint Petersburg
+    country: Russia
+  - uid: '54000'
+    address1: 31/1 Mayakovskogo
+    city: Saint Petersburg
+    postal_code: '191014'
+    country: Russia
+id_list:
+  items:
+  - uid: '9319'
+    id_type: Registration Number
+    id_number: '1037825043200'
+    id_country: Russia
+  - uid: '25334'
+    id_type: Tax ID No.
+    id_number: '7811139006'
+    id_country: Russia
+  - uid: '173845'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '151220'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+remarks: "(Linked To: TIMCHENKO, Gennady Nikolayevich)"

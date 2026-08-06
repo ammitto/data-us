@@ -1,0 +1,31 @@
+---
+uid: '32674'
+first_name: Fernando
+last_name: ZAGAL ANTON
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '49185'
+    country: Mexico
+id_list:
+  items:
+  - uid: '22433'
+    id_type: C.U.R.P.
+    id_number: ZAAF821014HJCGNR04
+    id_country: Mexico
+  - uid: '142285'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '42284'
+    date_of_birth: 14 Oct 1982
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '42286'
+    place_of_birth: Puerto Vallarta, Jalisco, Mexico
+    main_entry: 'true'

@@ -1,0 +1,55 @@
+---
+uid: '12177'
+first_name: Jair Fernando
+last_name: URREA LENIS
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '18628'
+    address1: c/o GRUPO CRISTAL CORONA S.A. DE C.V.
+    city: Mexico City
+    state_or_province: Distrito Federal
+    country: Mexico
+  - uid: '18629'
+    address1: Avenida Lomas Anahuac No. 133
+    address2: Edificio A., Depto. 602
+    address3: Colonia Lomas Anahuac
+    city: Delegacion Huixquilucan
+    state_or_province: Mexico
+    country: Mexico
+  - uid: '18630'
+    address1: Ret. de La Horquilla
+    address2: Lomas de Vista Hermosa
+    address3: Delegacion Cuajimalpa
+    city: Mexico City
+    state_or_province: Distrito Federal
+    country: Mexico
+  - uid: '18631'
+    city: Valencia
+    country: Venezuela
+id_list:
+  items:
+  - uid: '6594'
+    id_type: Cedula No.
+    id_number: '94492728'
+    id_country: Colombia
+  - uid: '6595'
+    id_type: Passport
+    id_number: '94492728'
+    id_country: Colombia
+date_of_birth_list:
+  items:
+  - uid: '7920'
+    date_of_birth: 04 Jun 1976
+    main_entry: 'true'
+  - uid: '7921'
+    date_of_birth: 04 Jun 1975
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '7922'
+    place_of_birth: Cali, Valle del Cauca, Colombia
+    main_entry: 'true'

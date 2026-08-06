@@ -1,0 +1,31 @@
+---
+uid: '49970'
+first_name: Kum Hyok
+last_name: SONG
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER4
+address_list:
+  items:
+  - uid: '75595'
+    address1: Changbailu No. 55
+    city: Yanji
+    state_or_province: Jilin
+    postal_code: '133000'
+    country: China
+  - uid: '75596'
+    country: Korea, North
+id_list:
+  items:
+  - uid: '177452'
+    id_type: Gender
+    id_number: Male
+  - uid: '177451'
+    id_type: Email Address
+    id_number: wangge327@yahoo.com
+date_of_birth_list:
+  items:
+  - uid: '77450'
+    date_of_birth: 30 Aug 1987
+    main_entry: 'true'

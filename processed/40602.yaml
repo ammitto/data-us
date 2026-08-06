@@ -1,0 +1,45 @@
+---
+uid: '40602'
+first_name: Mohammad Nazar
+last_name: AZIMI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+  - IRGC
+  - CAATSA - IRAN
+aka_list:
+  items:
+  - uid: '63123'
+    type: a.k.a.
+    category: strong
+    last_name: AZIMI
+    first_name: Mohammad
+address_list:
+  items:
+  - uid: '60498'
+    country: Iran
+id_list:
+  items:
+  - uid: '29763'
+    id_type: National ID No.
+    id_number: '3309730409'
+    id_country: Iran
+  - uid: '157892'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '157895'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '57888'
+    date_of_birth: 21 Mar 1960
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '57889'
+    place_of_birth: Kangavar, Iran
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS)"
+title: Commander of Najaf Ashraf West Headquarters; Brigadier General

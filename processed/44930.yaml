@@ -1,0 +1,42 @@
+---
+uid: '44930'
+first_name: Mazaher
+last_name: MAJIDI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+  - IRGC
+  - IFSR
+address_list:
+  items:
+  - uid: '66864'
+    address1: No 36, Shaqayeq St, Qahreman St, E'temadieh Street
+    city: Hamedan
+    country: Iran
+id_list:
+  items:
+  - uid: '34539'
+    id_type: Birth Certificate Number
+    id_number: '3277'
+    id_country: Iran
+  - uid: '34540'
+    id_type: National ID No.
+    id_number: '3872316141'
+    id_country: Iran
+  - uid: '34541'
+    id_type: Passport
+    id_number: K30861618
+    id_country: Iran
+  - uid: '165492'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '165232'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '65242'
+    date_of_birth: 26 May 1960
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS)"

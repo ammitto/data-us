@@ -1,0 +1,41 @@
+---
+uid: '34680'
+last_name: TRINITEX OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54345'
+    type: a.k.a.
+    category: strong
+    last_name: TRINITEX LLC
+address_list:
+  items:
+  - uid: '51935'
+    address1: d. 10 Str. 8 kom. 8, ul. Smirnovskaya
+    city: Moscow
+    postal_code: '109052'
+    country: Russia
+id_list:
+  items:
+  - uid: '24310'
+    id_type: Registration Number
+    id_number: '1187746421576'
+    id_country: Russia
+  - uid: '24312'
+    id_type: Tax ID No.
+    id_number: '7751142717'
+    id_country: Russia
+  - uid: '24313'
+    id_type: Government Gazette Number
+    id_number: '28329368'
+    id_country: Russia
+  - uid: '146067'
+    id_type: Organization Established Date
+    id_number: 19 Apr 2018
+  - uid: '175175'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: PROMSVYAZBANK PUBLIC JOINT STOCK COMPANY)"

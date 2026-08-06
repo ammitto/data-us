@@ -1,0 +1,62 @@
+---
+uid: '41001'
+first_name: Olga Vladimirovna
+last_name: SKABEYEVA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63883'
+    type: a.k.a.
+    category: strong
+    last_name: SKABYEVA
+    first_name: Olga Volodymyrivna
+  - uid: '63884'
+    type: a.k.a.
+    category: strong
+    last_name: SKABEEVA
+    first_name: Olga Vladimirovna
+  - uid: '63885'
+    type: a.k.a.
+    category: strong
+    last_name: SKABYEYEVA
+    first_name: Olha Volodymyrivna
+address_list:
+  items:
+  - uid: '61239'
+    address1: 25 Verkhnyaya Maslovka St
+    address2: Building 1 Apartment 10
+    city: Moscow
+    postal_code: '127083'
+    country: Russia
+  - uid: '61240'
+    address1: 39 Leningradskiy Avenue
+    address2: Apartment 172
+    city: Moscow
+    postal_code: '125167'
+    country: Russia
+id_list:
+  items:
+  - uid: '30331'
+    id_type: Tax ID No.
+    id_number: '343517233018'
+    id_country: Russia
+  - uid: '175350'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '159133'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '58735'
+    date_of_birth: 11 Dec 1984
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '58736'
+    place_of_birth: Volzhskiy, Volgograd Region, Russian Federation
+    main_entry: 'true'
+remarks: "(Linked To: POPOV, Yevgeny)"

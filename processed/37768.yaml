@@ -1,0 +1,52 @@
+---
+uid: '37768'
+last_name: ZALOG OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59268'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU ZALOG
+  - uid: '59269'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY WITH FOREIGN INVESTMENTS ZALOG
+address_list:
+  items:
+  - uid: '56513'
+    address1: d. 22 pom. 305
+    address2: ul. Martyna Mezhlauka
+    city: Kazan
+    state_or_province: Tatarstan Resp.
+    postal_code: '420021'
+    country: Russia
+  - uid: '56514'
+    address1: Ul. Kooperativnaya 1
+    city: Zelenodolsk
+    postal_code: '422541'
+    country: Russia
+id_list:
+  items:
+  - uid: '27026'
+    id_type: Registration Number
+    id_number: '1021606761175'
+    id_country: Russia
+  - uid: '27027'
+    id_type: Tax ID No.
+    id_number: '1648011501'
+    id_country: Russia
+  - uid: '27028'
+    id_type: Government Gazette Number
+    id_number: '57238810'
+    id_country: Russia
+  - uid: '173500'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '152750'
+    id_type: Organization Established Date
+    id_number: '2002'
+remarks: "(Linked To: KOGOGIN, Sergei Anatolyevich)"

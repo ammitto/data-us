@@ -1,0 +1,39 @@
+---
+uid: '50223'
+first_name: Siarhei Mikalaevich
+last_name: SIDARUK
+sdn_type: Individual
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '78377'
+    type: a.k.a.
+    category: strong
+    last_name: SIDORUK
+    first_name: Sergey Nikolaevich
+address_list:
+  items:
+  - uid: '76213'
+    country: Belarus
+id_list:
+  items:
+  - uid: '41863'
+    id_type: National ID No.
+    id_number: 3221262A010PB1
+    id_country: Belarus
+  - uid: '177847'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '77846'
+    date_of_birth: 22 Dec 1962
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '77848'
+    place_of_birth: Brest, Belarus
+    main_entry: 'true'
+remarks: "(Linked To: OOO RUCHSERVOMOTOR)"

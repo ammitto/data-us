@@ -1,0 +1,33 @@
+---
+uid: '46043'
+last_name: LIMITED LIABILITY COMPANY KALININGRAD BALTTRANS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '71141'
+    type: a.k.a.
+    category: weak
+    last_name: LIMITED LIABILITY COMPANY KBT
+address_list:
+  items:
+  - uid: '68591'
+    address1: 16 Zavodskaya Street, Apartment 3
+    address2: Ozerki Village, Gvardeyskiy District
+    state_or_province: Kaliningrad Region
+    country: Russia
+id_list:
+  items:
+  - uid: '35901'
+    id_type: Tax ID No.
+    id_number: '3916016237'
+    id_country: Russia
+  - uid: '35902'
+    id_type: Registration Number
+    id_number: '1173926026130'
+    id_country: Russia
+  - uid: '174916'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

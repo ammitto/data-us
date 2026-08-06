@@ -1,0 +1,42 @@
+---
+uid: '45848'
+first_name: Alaeddin
+last_name: SENGULER
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '68496'
+    city: Istanbul
+    country: Turkey
+id_list:
+  items:
+  - uid: '35819'
+    id_type: Passport
+    id_number: U01689546
+    id_country: Turkey
+    expiration_date: 16 Mar 2021
+  - uid: '35821'
+    id_type: National ID No.
+    id_number: '35677708676'
+    id_country: Turkey
+  - uid: '166643'
+    id_type: Gender
+    id_number: Male
+  - uid: '166566'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '66639'
+    date_of_birth: 03 Sep 1959
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '66640'
+    place_of_birth: Cairo, Egypt
+    main_entry: 'true'
+remarks: "(Linked To: HAMAS)"

@@ -1,0 +1,33 @@
+---
+uid: '49448'
+last_name: LIMITED LIABILITY COMPANY BEYSKIY PROMYSHLENNO TRANSPORTNYY KOMPLEKS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77130'
+    type: a.k.a.
+    category: weak
+    last_name: LLC BPTK
+address_list:
+  items:
+  - uid: '74563'
+    address1: Building 1, 43 Lenina Avenue
+    city: Abakan
+    postal_code: '655017'
+    country: Russia
+id_list:
+  items:
+  - uid: '40763'
+    id_type: Registration Number
+    id_number: '1191901002996'
+    id_country: Russia
+  - uid: '40764'
+    id_type: Tax ID No.
+    id_number: '1902029264'
+    id_country: Russia
+  - uid: '172795'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

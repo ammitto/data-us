@@ -1,0 +1,42 @@
+---
+uid: '41080'
+first_name: Natalya Vladimirovna
+last_name: KOMAROVA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '64064'
+    type: a.k.a.
+    category: strong
+    last_name: KOMAROVA
+    first_name: Natalia Vladimirovna
+address_list:
+  items:
+  - uid: '61401'
+    state_or_province: Khanty-Mansiysk Autonomous Region
+    country: Russia
+id_list:
+  items:
+  - uid: '30416'
+    id_type: Tax ID No.
+    id_number: '890400636784'
+    id_country: Russia
+  - uid: '173611'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '158999'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '58997'
+    date_of_birth: 21 Oct 1955
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '58998'
+    place_of_birth: Yazvo, Pskov Region, Russia
+    main_entry: 'true'

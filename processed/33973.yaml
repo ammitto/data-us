@@ -1,0 +1,47 @@
+---
+uid: '33973'
+first_name: Myo Swe
+last_name: WIN
+sdn_type: Individual
+program_list:
+  programs:
+  - BURMA-EO14014
+aka_list:
+  items:
+  - uid: '53543'
+    type: a.k.a.
+    category: strong
+    last_name: WIN
+    first_name: U Myo Swe
+address_list:
+  items:
+  - uid: '51176'
+    address1: Thandar Hnisi
+    city: Rangoon
+    country: Burma
+id_list:
+  items:
+  - uid: '23634'
+    id_type: Passport
+    id_number: DM005096
+    id_country: Burma
+    issue_date: 05 Feb 2019
+    expiration_date: 04 Feb 2029
+  - uid: '23781'
+    id_type: National ID No.
+    id_number: 7PAKHANAN008087
+    id_country: Burma
+  - uid: '145319'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '45317'
+    date_of_birth: 21 Jan 1961
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '45318'
+    place_of_birth: Natalin, Burma
+    main_entry: 'true'
+title: Bago Region Chief Minister

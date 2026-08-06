@@ -1,0 +1,42 @@
+---
+uid: '44296'
+last_name: CENTRAL RESEARCH INSTITUTE OF THE RUSSIAN AIR AND SPACE FORCES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '68527'
+    type: a.k.a.
+    category: weak
+    last_name: TSNII VVKO
+  - uid: '68528'
+    type: a.k.a.
+    category: strong
+    last_name: FEDERALNOE GOSUDARSTVENNOE BJUDZHETNOE UCHREZHDENIE TSENTRALNYJ NAUCHNO-ISSLEDOVATELSKIJ
+      INSTITUT VOJSK VOSDUSHNO-KOSMICHESKOJ OBORONY MINOBORONY ROSSII
+  - uid: '68529'
+    type: a.k.a.
+    category: strong
+    last_name: FGBU TSNII VVKO MINOBORONY ROSSII
+address_list:
+  items:
+  - uid: '65964'
+    address1: 32 Afanasiya Nikitina Waterfront
+    city: Tver
+    postal_code: '170026'
+    country: Russia
+id_list:
+  items:
+  - uid: '33756'
+    id_type: Tax ID No.
+    id_number: '5018163975'
+    id_country: Russia
+  - uid: '33757'
+    id_type: Registration Number
+    id_number: '1145018002711'
+    id_country: Russia
+  - uid: '173767'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

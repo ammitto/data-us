@@ -1,0 +1,38 @@
+---
+uid: '43122'
+last_name: METROVAGONMASH JOINT STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '66842'
+    type: a.k.a.
+    category: strong
+    last_name: METROVAGONMASH JSC
+  - uid: '66843'
+    type: a.k.a.
+    category: strong
+    last_name: OAO METROVAGONMASH
+address_list:
+  items:
+  - uid: '64346'
+    address1: 4 Kolontsova Street
+    city: Mytischi
+    state_or_province: Moscow Region
+    postal_code: '141009'
+    country: Russia
+id_list:
+  items:
+  - uid: '32716'
+    id_type: Tax ID No.
+    id_number: '5029006702'
+    id_country: Russia
+  - uid: '32717'
+    id_type: Registration Number
+    id_number: '1025003520310'
+    id_country: Russia
+  - uid: '176966'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

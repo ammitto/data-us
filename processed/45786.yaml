@@ -1,0 +1,36 @@
+---
+uid: '45786'
+first_name: Dmitry Ivanovich
+last_name: ZHARIKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '68675'
+    country: Russia
+id_list:
+  items:
+  - uid: '35541'
+    id_type: Passport
+    id_number: '716622064'
+    id_country: Russia
+  - uid: '166367'
+    id_type: Gender
+    id_number: Male
+  - uid: '176057'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '66365'
+    date_of_birth: 30 Jun 1970
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '66368'
+    place_of_birth: Potsdam, Germany
+    main_entry: 'true'
+remarks: "(Linked To: PUBLICHNOE AKTSIONERNOE OBSHCHESTVO KOMMERCHESKI BANK RUSSKI
+  REGIONALNY BANK)"

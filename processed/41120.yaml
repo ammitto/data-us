@@ -1,0 +1,35 @@
+---
+uid: '41120'
+last_name: LIMITED LIABILITY COMPANY ADM SYSTEMS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '64131'
+    type: a.k.a.
+    category: weak
+    last_name: OOO ADM SISTEMY
+address_list:
+  items:
+  - uid: '61470'
+    address1: Uralskaya street, house 4, letter B
+    address2: floor 5, room 29N
+    city: Saint Petersburg
+    postal_code: '199155'
+    country: Russia
+id_list:
+  items:
+  - uid: '30465'
+    id_type: Registration Number
+    id_number: '1137847334745'
+    id_country: Russia
+  - uid: '30466'
+    id_type: Tax ID No.
+    id_number: '7804514697'
+    id_country: Russia
+  - uid: '173650'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: LIMITED LIABILITY COMPANY CITADEL)"

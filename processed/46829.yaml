@@ -1,0 +1,43 @@
+---
+uid: '46829'
+first_name: Roman Aleksandrovich
+last_name: KOTEKIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '69801'
+    address1: Zelenograd, BLD 146
+    city: Moscow
+    postal_code: '124482'
+    country: Russia
+id_list:
+  items:
+  - uid: '36916'
+    id_type: Passport
+    id_number: '736017311'
+    id_country: Russia
+    issue_date: 01 Sep 2014
+    expiration_date: 01 Sep 2024
+  - uid: '36987'
+    id_type: National ID No.
+    id_number: '2405194435'
+    id_country: Russia
+  - uid: '176325'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '167669'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '67667'
+    date_of_birth: 05 Nov 1985
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '67668'
+    place_of_birth: Shuya, Russia
+    main_entry: 'true'

@@ -1,0 +1,56 @@
+---
+uid: '40196'
+last_name: KORDEX JOINT STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '62468'
+    type: a.k.a.
+    category: strong
+    last_name: NEPUBLICHNOE AKTSIONERNOE OBSCHCHESTVO KORDEX
+  - uid: '62470'
+    type: a.k.a.
+    category: strong
+    last_name: KORDEX AO
+  - uid: '62471'
+    type: f.k.a.
+    category: strong
+    last_name: KORDEX OOO
+  - uid: '62472'
+    type: a.k.a.
+    category: strong
+    last_name: AO KORDEKS
+address_list:
+  items:
+  - uid: '59865'
+    address1: 44, shosse Yaroslavskoe
+    city: Moscow
+    postal_code: '129337'
+    country: Russia
+id_list:
+  items:
+  - uid: '29359'
+    id_type: Registration Number
+    id_number: '1167746394881'
+    id_country: Russia
+  - uid: '29360'
+    id_type: Tax ID No.
+    id_number: '7716823181'
+    id_country: Russia
+  - uid: '29361'
+    id_type: Government Gazette Number
+    id_number: '63681478'
+    id_country: Russia
+  - uid: '174026'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '157089'
+    id_type: 'Organization Type:'
+    id_number: Management consultancy activities
+  - uid: '157088'
+    id_type: Organization Established Date
+    id_number: 13 Nov 2009
+remarks: "(Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)"

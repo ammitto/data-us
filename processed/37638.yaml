@@ -1,0 +1,65 @@
+---
+uid: '37638'
+last_name: NON-BANK CREDIT INSTITUTION JOINT STOCK COMPANY NATIONAL SETTLEMENT DEPOSITORY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '58949'
+    type: a.k.a.
+    category: strong
+    last_name: NATIONAL SETTLEMENT DEPOSITORY
+  - uid: '58950'
+    type: a.k.a.
+    category: weak
+    last_name: NSD
+  - uid: '58951'
+    type: a.k.a.
+    category: strong
+    last_name: NCO JSC NSD
+  - uid: '58952'
+    type: a.k.a.
+    category: strong
+    last_name: NKO AO NRD
+address_list:
+  items:
+  - uid: '56284'
+    address1: 12, Spartakovskaya St.
+    city: Moscow
+    postal_code: '105066'
+    country: Russia
+id_list:
+  items:
+  - uid: '26836'
+    id_type: Tax ID No.
+    id_number: '7702165310'
+    id_country: Russia
+  - uid: '26837'
+    id_type: Registration Number
+    id_number: '1027739132563'
+    id_country: Russia
+  - uid: '26838'
+    id_type: Legal Entity Number
+    id_number: 253400M18U5TB02TW421
+  - uid: '152569'
+    id_type: SWIFT/BIC
+    id_number: MICURUMM
+  - uid: '152570'
+    id_type: SWIFT/BIC
+    id_number: NADCRUMM
+  - uid: '152572'
+    id_type: Website
+    id_number: www.nsd.ru
+  - uid: '152571'
+    id_type: Organization Established Date
+    id_number: 27 Jun 1996
+  - uid: '184252'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '172726'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

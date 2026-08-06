@@ -1,0 +1,30 @@
+---
+uid: '11471'
+first_name: Martha Marina
+last_name: MUNERA VELASQUEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNT
+address_list:
+  items:
+  - uid: '17073'
+    address1: c/o GRUPO FALCON S.A.
+    city: Medellin
+    country: Colombia
+  - uid: '17074'
+    address1: c/o LLANOTOUR LTDA.
+    city: Rionegro
+    state_or_province: Antioquia
+    country: Colombia
+id_list:
+  items:
+  - uid: '5869'
+    id_type: Cedula No.
+    id_number: '32480630'
+    id_country: Colombia
+date_of_birth_list:
+  items:
+  - uid: '6881'
+    date_of_birth: '09 Jun 1952'
+    main_entry: 'true'

@@ -1,0 +1,39 @@
+---
+uid: '45722'
+first_name: Hosein
+last_name: HEMSI
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+aka_list:
+  items:
+  - uid: '70642'
+    type: a.k.a.
+    category: strong
+    last_name: HOMSI
+    first_name: Hosein
+address_list:
+  items:
+  - uid: '67987'
+    state_or_province: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '35427'
+    id_type: National ID No.
+    id_number: '0532987276'
+    id_country: Iran
+  - uid: '166314'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '166299'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '66303'
+    date_of_birth: 27 Oct 1982
+    main_entry: 'true'
+remarks: "(Linked To: FANAVARAN SANAT ERTEBATAT COMPANY)"

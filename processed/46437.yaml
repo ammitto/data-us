@@ -1,0 +1,49 @@
+---
+uid: '46437'
+last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU NPK AEROKON
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '72318'
+    type: a.k.a.
+    category: weak
+    last_name: AEROKON, OOO
+  - uid: '72486'
+    type: a.k.a.
+    category: strong
+    last_name: OOO NPK AEROKON
+address_list:
+  items:
+  - uid: '69066'
+    address1: ul. Tsentralnaya, D. 18
+    city: Chernyshevka
+    state_or_province: Republic of Tatarstan
+    postal_code: '422710'
+    country: Russia
+id_list:
+  items:
+  - uid: '36310'
+    id_type: Business Registration Number
+    id_number: '1021603148830'
+    id_country: Russia
+  - uid: '36311'
+    id_type: Government Gazette Number
+    id_number: '27858018'
+    id_country: Russia
+  - uid: '36312'
+    id_type: Tax ID No.
+    id_number: '1657007195'
+    id_country: Russia
+  - uid: '174957'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '167215'
+    id_type: Organization Established Date
+    id_number: 11 Dec 2022
+  - uid: '167214'
+    id_type: 'Organization Type:'
+    id_number: Manufacture of air and spacecraft and related machinery
+remarks: "(Linked To: JOINT STOCK COMPANY IZHEVSK ELECTROMECHANICAL PLANT KUPOL)"

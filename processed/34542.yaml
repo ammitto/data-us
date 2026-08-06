@@ -1,0 +1,49 @@
+---
+uid: '34542'
+last_name: LIMITED LIABILITY COMPANY MARKET FUND ADMINISTRATION
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54102'
+    type: a.k.a.
+    category: strong
+    last_name: SBERBANK FUND ADMINISTRATION LIMITED LIABILITY COMPANY
+  - uid: '54103'
+    type: a.k.a.
+    category: weak
+    last_name: MARKET FA LLC
+address_list:
+  items:
+  - uid: '51776'
+    address1: 79 V. Lenina St, room 8
+    city: Derbent
+    state_or_province: Dagestan
+    postal_code: '368602'
+    country: Russia
+id_list:
+  items:
+  - uid: '24179'
+    id_type: Registration Number
+    id_number: '1107746400827'
+    id_country: Russia
+  - uid: '24180'
+    id_type: Tax ID No.
+    id_number: '7736618039'
+    id_country: Russia
+  - uid: '175142'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '146719'
+    id_type: Executive Order 14024 Directive Information -
+    id_number: 'For more information on directives, please visit the following link:
+      https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives'
+  - uid: '146879'
+    id_type: 'Listing Date (EO 14024 Directive 2):'
+    id_number: 24 Feb 2022
+  - uid: '146880'
+    id_type: 'Effective Date (EO 14024 Directive 2):'
+    id_number: 26 Mar 2022
+remarks: "(Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)"

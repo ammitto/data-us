@@ -1,0 +1,40 @@
+---
+uid: '50186'
+last_name: OOO RUCHSERVOMOTOR
+sdn_type: Entity
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '78295'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU RUKHSERVOMOTOR
+  - uid: '78296'
+    type: a.k.a.
+    category: strong
+    last_name: OOO RUKHSERVOMOTOR
+  - uid: '78297'
+    type: a.k.a.
+    category: strong
+    last_name: TAA RUKHSERVAMOTOR
+address_list:
+  items:
+  - uid: '75967'
+    address1: Montazhnikov St. 5
+    city: Minsk
+    postal_code: '220019'
+    country: Belarus
+id_list:
+  items:
+  - uid: '41814'
+    id_type: Tax ID No.
+    id_number: '800002497'
+    id_country: Belarus
+  - uid: '177776'
+    id_type: Organization Established Date
+    id_number: 24 Feb 2000
+  - uid: '178233'
+    id_type: 'Organization Type:'
+    id_number: Manufacture of industrial, electric and electronic machinery

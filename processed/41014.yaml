@@ -1,0 +1,72 @@
+---
+uid: '41014'
+last_name: RUSSIAN FEDERAL NUCLEAR CENTER - ZABABAKHIN ALL-RUSSIA RESEARCH INSTITUTE
+  OF TECHNICAL PHYSICS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '63914'
+    type: a.k.a.
+    category: weak
+    last_name: VNIITF
+  - uid: '63915'
+    type: a.k.a.
+    category: strong
+    last_name: ZABABAKHIN ALL-RUSSIA RESEARCH INSTITUTE OF TECHNICAL PHYSICS
+  - uid: '63918'
+    type: a.k.a.
+    category: strong
+    last_name: CHELYABINSK-70
+  - uid: '63921'
+    type: a.k.a.
+    category: strong
+    last_name: VSEROSSIYSKY NAUCHNO-ISSLEDOVATELSKIY INSTITUT TEKHNICHESKOY FIZIKI
+  - uid: '63922'
+    type: a.k.a.
+    category: weak
+    last_name: RFNC-VNIITF
+  - uid: '63923'
+    type: a.k.a.
+    category: strong
+    last_name: KASLI NUCLEAR WEAPONS DEVELOPMENT CENTER
+  - uid: '63925'
+    type: a.k.a.
+    category: strong
+    last_name: ZABABAKHIN INSTITUTE
+  - uid: '63926'
+    type: a.k.a.
+    category: strong
+    last_name: FEDERAL STATE UNITARY ENTERPRISE RUSSIAN FEDERAL NUCLEAR CENTER-ACADEMICIAN
+      E.I. ZABABKHIN ALL-RUSSIAN SCIENTIFIC RESEARCH INSTITUTE OF TECHNICAL PHYSICS
+address_list:
+  items:
+  - uid: '61271'
+    address1: P.O. Box 245
+    city: Snezhinsk
+    state_or_province: Chelyabinsk Region
+    postal_code: '456770'
+    country: Russia
+id_list:
+  items:
+  - uid: '30492'
+    id_type: Tax ID No.
+    id_number: '7423000572'
+    id_country: Russia
+  - uid: '30493'
+    id_type: Registration Number
+    id_number: '1027401350932'
+    id_country: Russia
+  - uid: '158766'
+    id_type: Organization Established Date
+    id_number: '1955'
+  - uid: '175363'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184434'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

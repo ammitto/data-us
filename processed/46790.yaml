@@ -1,0 +1,51 @@
+---
+uid: '46790'
+first_name: Taha Osman Ahmed
+last_name: AL-HUSSEIN
+sdn_type: Individual
+program_list:
+  programs:
+  - SUDAN-EO14098
+aka_list:
+  items:
+  - uid: '72275'
+    type: a.k.a.
+    category: strong
+    last_name: ELHUSSEIN
+    first_name: Taha Osman A
+  - uid: '72276'
+    type: a.k.a.
+    category: strong
+    last_name: AL-HUSSEIN
+    first_name: Taha Osman
+address_list:
+  items:
+  - uid: '69731'
+    address1: P.O. Box Number 75214
+    city: Dubai
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '36873'
+    id_type: National ID No.
+    id_number: '11946895461'
+    id_country: Sudan
+  - uid: '167585'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '67581'
+    date_of_birth: 20 Jun 1964
+    main_entry: 'true'
+  - uid: '67582'
+    date_of_birth: 21 Jun 1957
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '67583'
+    place_of_birth: Shendi, Sudan
+    main_entry: 'true'
+  - uid: '67584'
+    place_of_birth: Kabushiya, Sudan
+    main_entry: 'false'

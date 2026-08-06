@@ -1,0 +1,40 @@
+---
+uid: '17671'
+last_name: CARTEL DE JALISCO NUEVA GENERACION
+sdn_type: Entity
+program_list:
+  programs:
+  - SDNTK
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+  - FTO
+aka_list:
+  items:
+  - uid: '27281'
+    type: a.k.a.
+    category: strong
+    last_name: NEW GENERATION CARTEL OF JALISCO
+  - uid: '27282'
+    type: a.k.a.
+    category: strong
+    last_name: CJNG
+  - uid: '45405'
+    type: a.k.a.
+    category: strong
+    last_name: JALISCO NEW GENERATION CARTEL
+address_list:
+  items:
+  - uid: '26867'
+    country: Mexico
+id_list:
+  items:
+  - uid: '185005'
+    id_type: 'Organization Type:'
+    id_number: Transnational Terrorist Group
+  - uid: '184971'
+    id_type: Target Type
+    id_number: Criminal Organization
+  - uid: '184736'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886

@@ -1,0 +1,46 @@
+---
+uid: '53998'
+last_name: ML.CLOUD, LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - CAATSA - RUSSIA
+  - CYBER4
+aka_list:
+  items:
+  - uid: '87329'
+    type: a.k.a.
+    category: strong
+    last_name: ML.CLOUD
+address_list:
+  items:
+  - uid: '82397'
+    address1: Tsvetochnaya St., 16 Litera P, Room 28
+    address2: Moskovskaya Zastava Municipal District
+    city: Saint Petersburg
+    postal_code: '196006'
+    country: Russia
+  - uid: '86437'
+    address1: Suite 1802, Lippo Centre, Tower One
+    address2: 89 Queensway
+    city: Hong Kong
+    country: China
+id_list:
+  items:
+  - uid: '47436'
+    id_type: Registration Number
+    id_number: '1227800008182'
+    id_country: Russia
+  - uid: '50319'
+    id_type: Tax ID No.
+    id_number: '7810938831'
+    id_country: Russia
+  - uid: '194760'
+    id_type: Organization Established Date
+    id_number: 27 Jan 2022
+  - uid: '194703'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+  - uid: '194813'
+    id_type: Website
+    id_number: ml.cloud

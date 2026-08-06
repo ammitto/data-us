@@ -1,0 +1,48 @@
+---
+uid: '16708'
+first_name: Alexander Mikhailovich
+last_name: BABAKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - UKRAINE-EO13661
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '25407'
+    type: a.k.a.
+    category: strong
+    last_name: BABAKOV
+    first_name: Aleksandr Mikhailovich
+  - uid: '25408'
+    type: a.k.a.
+    category: strong
+    last_name: BABAKOV
+    first_name: Aleksandr Mikhaylovich
+address_list:
+  items:
+  - uid: '34127'
+    country: Russia
+id_list:
+  items:
+  - uid: '123931'
+    id_type: Gender
+    id_number: Male
+  - uid: '173840'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '143702'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+date_of_birth_list:
+  items:
+  - uid: '15246'
+    date_of_birth: '08 Feb 1963'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '15247'
+    place_of_birth: Kishinev, Moldova
+    main_entry: 'true'
+title: Member of the State Duma of the Federal Assembly of the Russian Federation

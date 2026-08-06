@@ -1,0 +1,43 @@
+---
+uid: '28299'
+first_name: Nourddin Milood M
+last_name: MUSBAH
+sdn_type: Individual
+program_list:
+  programs:
+  - LIBYA3
+aka_list:
+  items:
+  - uid: '47977'
+    type: a.k.a.
+    category: strong
+    last_name: MOHAMED
+    first_name: Nour Addin Meloud
+address_list:
+  items:
+  - uid: '43985'
+    country: Malta
+  - uid: '43986'
+    country: Cyprus
+  - uid: '43987'
+    address1: Ben Ashoor
+    city: Tripoli
+    country: Libya
+id_list:
+  items:
+  - uid: '19337'
+    id_type: Passport
+    id_number: '998635'
+    id_country: Libya
+  - uid: '20648'
+    id_type: Passport
+    id_number: PK31LZK9
+    id_country: Libya
+  - uid: '135695'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '35693'
+    date_of_birth: 02 Sep 1974
+    main_entry: 'true'

@@ -1,0 +1,32 @@
+---
+uid: '52123'
+last_name: GAZPROMNEFT KHANTOS LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+address_list:
+  items:
+  - uid: '79547'
+    address1: Ul. Lenina D. 56
+    city: Khanty-Mansiysk
+    postal_code: '628011'
+    country: Russia
+id_list:
+  items:
+  - uid: '45009'
+    id_type: Registration Number
+    id_number: '1058600001118'
+    id_country: Russia
+  - uid: '45010'
+    id_type: Tax ID No.
+    id_number: '8618006063'
+    id_country: Russia
+  - uid: '183021'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183422'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

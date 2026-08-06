@@ -1,0 +1,38 @@
+---
+uid: '52356'
+first_name: Kaveh
+last_name: MERAT
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - IRGC
+  - NPWMD
+address_list:
+  items:
+  - uid: '79998'
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '45353'
+    id_type: National ID No.
+    id_number: '2992928941'
+    id_country: Iran
+  - uid: '183891'
+    id_type: Gender
+    id_number: Male
+  - uid: '183925'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '83894'
+    date_of_birth: 22 Sep 1984
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '83895'
+    place_of_birth: Kerman, Iran
+    main_entry: 'true'
+remarks: "(Linked To: SANAT DANESH RAHPUYAN AFLAK COMPANY LTD)"

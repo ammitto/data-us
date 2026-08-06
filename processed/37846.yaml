@@ -1,0 +1,41 @@
+---
+uid: '37846'
+first_name: Vladimir Zalmanovich
+last_name: LITVIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '56709'
+    address1: 26 2nd Tverskaya Yamskaya Street Apt 30
+    city: Moscow
+    postal_code: '125047'
+    country: Russia
+id_list:
+  items:
+  - uid: '27143'
+    id_type: National ID No.
+    id_number: '4504647853'
+    id_country: Russia
+  - uid: '27144'
+    id_type: Passport
+    id_number: '530002999'
+    id_country: Russia
+  - uid: '152984'
+    id_type: Gender
+    id_number: Male
+  - uid: '174594'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '52983'
+    date_of_birth: 30 Mar 1953
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '52990'
+    place_of_birth: Irkutsk, Russia
+    main_entry: 'true'

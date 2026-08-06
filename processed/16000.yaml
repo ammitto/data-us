@@ -1,0 +1,95 @@
+---
+uid: '16000'
+first_name: "'Abd-al-Hamid"
+last_name: AL-MASLI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '24001'
+    type: a.k.a.
+    category: strong
+    last_name: MUSALLI
+    first_name: "'Abd-al-Hamid"
+  - uid: '24002'
+    type: a.k.a.
+    category: strong
+    last_name: AL-MASLI
+    first_name: "'Abd al-Hamid Muhammad 'Abd al-Hamid"
+  - uid: '24003'
+    type: a.k.a.
+    category: strong
+    last_name: MASLI
+    first_name: Hamid
+  - uid: '24004'
+    type: a.k.a.
+    category: strong
+    last_name: AL-DARNAWI
+    first_name: Hamza
+  - uid: '24005'
+    type: a.k.a.
+    category: strong
+    last_name: AL-DARNAWI
+    first_name: Hamzah
+  - uid: '24006'
+    type: a.k.a.
+    category: strong
+    last_name: DARNAWI
+    first_name: Hamza
+  - uid: '24007'
+    type: a.k.a.
+    category: strong
+    last_name: DARNAWI
+    first_name: Hamzah
+  - uid: '24008'
+    type: a.k.a.
+    category: strong
+    last_name: DIRNAWI
+    first_name: Hamzah
+  - uid: '24009'
+    type: a.k.a.
+    category: strong
+    last_name: DARNAVI
+    first_name: Hamza
+  - uid: '24010'
+    type: a.k.a.
+    category: strong
+    last_name: AL-DARNAVI
+    first_name: Hamza
+  - uid: '24011'
+    type: a.k.a.
+    category: strong
+    last_name: DARNAWI
+    first_name: Abdullah
+  - uid: '24012'
+    type: a.k.a.
+    category: strong
+    last_name: AL-DARNAWI
+    first_name: Abu-Hamzah
+address_list:
+  items:
+  - uid: '24048'
+    address1: Waziristan
+    state_or_province: Federally Administered Tribal Areas
+    country: Pakistan
+id_list:
+  items:
+  - uid: '186709'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '13669'
+    date_of_birth: '1976'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '13670'
+    place_of_birth: Darnah, Libya
+    main_entry: 'true'
+  - uid: '13671'
+    place_of_birth: Danar, Libya
+    main_entry: 'false'

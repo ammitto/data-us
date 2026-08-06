@@ -1,0 +1,44 @@
+---
+uid: '45373'
+last_name: ZAVOD PRIBORNYKH PODSHIPNIKOV LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70192'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU ZAVOD PRIBORNYKH PODSHIPNIKOV
+  - uid: '70193'
+    type: a.k.a.
+    category: weak
+    last_name: ZPP OOO
+address_list:
+  items:
+  - uid: '67503'
+    address1: Ter. 18 KM Moskovskogo Shosse D. Litera 67, Kom. 5
+    city: Samara
+    postal_code: '443072'
+    country: Russia
+id_list:
+  items:
+  - uid: '35107'
+    id_type: Registration Number
+    id_number: '1026300769417'
+    id_country: Russia
+  - uid: '35108'
+    id_type: Government Gazette Number
+    id_number: '11031529'
+    id_country: Russia
+  - uid: '35109'
+    id_type: Tax ID No.
+    id_number: '6367032625'
+    id_country: Russia
+  - uid: '175971'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '165838'
+    id_type: Organization Established Date
+    id_number: 25 Dec 2001

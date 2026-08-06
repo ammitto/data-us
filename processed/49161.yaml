@@ -1,0 +1,45 @@
+---
+uid: '49161'
+last_name: GAS INDUSTRY INSURANCE COMPANY SOGAZ
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '76619'
+    type: a.k.a.
+    category: strong
+    last_name: SOGAZ INSURANCE
+  - uid: '77302'
+    type: a.k.a.
+    category: strong
+    last_name: INSURANCE COMPANY OF GAZ INDUSTRY SOGAZ
+address_list:
+  items:
+  - uid: '73975'
+    address1: PR-KT Akademika Sakharova D. 10
+    city: Moscow
+    postal_code: '107078'
+    country: Russia
+id_list:
+  items:
+  - uid: '40261'
+    id_type: Legal Entity Number
+    id_number: 253400L5RQK7PU6R7J04
+  - uid: '40262'
+    id_type: Registration Number
+    id_number: '1027739820921'
+    id_country: Russia
+  - uid: '40263'
+    id_type: Tax ID No.
+    id_number: '7736035485'
+    id_country: Russia
+  - uid: '172670'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184248'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

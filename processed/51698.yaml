@@ -1,0 +1,45 @@
+---
+uid: '51698'
+last_name: COMMERCIAL BANK ENERGOTRANSBANK JOINT STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '78786'
+    address1: ul. Klinicheskaya 83a
+    city: Kaliningrad
+    postal_code: '236016'
+    country: Russia
+id_list:
+  items:
+  - uid: '44245'
+    id_type: Global Intermediary Identification Number
+    id_number: GAEQE9.99999.SL.643
+  - uid: '44247'
+    id_type: Legal Entity Number
+    id_number: 253400UEEJPNF0G35X65
+  - uid: '44248'
+    id_type: Registration Number
+    id_number: '1023900000080'
+    id_country: Russia
+  - uid: '44249'
+    id_type: Tax ID No.
+    id_number: '3906098008'
+    id_country: Russia
+  - uid: '181726'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '181732'
+    id_type: SWIFT/BIC
+    id_number: ENGORU2K
+  - uid: '181728'
+    id_type: Website
+    id_number: www.energotransbank.com
+  - uid: '181730'
+    id_type: Website
+    id_number: www.etbank.ru
+  - uid: '181725'
+    id_type: Target Type
+    id_number: Financial Institution

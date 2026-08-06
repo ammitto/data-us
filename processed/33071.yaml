@@ -1,0 +1,66 @@
+---
+uid: '33071'
+last_name: JOINT STOCK COMPANY 140 REPAIR PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '52569'
+    type: a.k.a.
+    category: strong
+    last_name: OJSC 140 REPAIR PLANT
+  - uid: '52570'
+    type: a.k.a.
+    category: strong
+    last_name: JSC 140 REPAIR PLANT
+  - uid: '52571'
+    type: a.k.a.
+    category: strong
+    last_name: 140 REPAIR PLANT JOINT STOCK COMPANY
+  - uid: '52572'
+    type: a.k.a.
+    category: strong
+    last_name: 140 REPAIR PLANT OPEN JOINT STOCK COMPANY
+  - uid: '52573'
+    type: a.k.a.
+    category: strong
+    last_name: 140TH REPAIR PLANT JSC
+  - uid: '52574'
+    type: a.k.a.
+    category: strong
+    last_name: 140 REMONTNYI ZAVOD OAO
+  - uid: '52575'
+    type: a.k.a.
+    category: strong
+    last_name: 140 REMONTNY ZAVOD OAO
+address_list:
+  items:
+  - uid: '50181'
+    address1: 19, Chalovskaya St.
+    city: Borisov
+    state_or_province: Minsk Region
+    postal_code: '222512'
+    country: Belarus
+  - uid: '50182'
+    address1: 19, L. Chalovskoi Str.
+    city: Borisov
+    postal_code: '222512'
+    country: Belarus
+id_list:
+  items:
+  - uid: '23073'
+    id_type: Government Gazette Number
+    id_number: '14512525'
+    id_country: Belarus
+  - uid: '23074'
+    id_type: Registration Number
+    id_number: '600136102'
+    id_country: Belarus
+  - uid: '142880'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
+  - uid: '144160'
+    id_type: Organization Established Date
+    id_number: 23 Dec 2009

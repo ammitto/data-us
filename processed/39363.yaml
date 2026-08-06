@@ -1,0 +1,51 @@
+---
+uid: '39363'
+first_name: Dmitriy Nikolaevich
+last_name: CHERNYSHENKO
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '61425'
+    type: a.k.a.
+    category: strong
+    last_name: CHERNYSHENKO
+    first_name: Dmitrii Nikolayevich
+  - uid: '61426'
+    type: a.k.a.
+    category: strong
+    last_name: CHERNYSHENKO
+    first_name: Dmitry Nikolaevich
+  - uid: '61427'
+    type: a.k.a.
+    category: strong
+    last_name: CHERNYSHENKO
+    first_name: Dmitriy Nikolayevich
+address_list:
+  items:
+  - uid: '58636'
+    country: Russia
+id_list:
+  items:
+  - uid: '28543'
+    id_type: Tax ID No.
+    id_number: '770300851430'
+    id_country: Russia
+  - uid: '174779'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '155246'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '55244'
+    date_of_birth: 20 Sep 1968
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '55245'
+    place_of_birth: Saratov, Saratov Region, Russia
+    main_entry: 'true'

@@ -1,0 +1,36 @@
+---
+uid: '41011'
+last_name: LIMITED LIABILITY COMPANY LAIFINVEST
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63908'
+    type: a.k.a.
+    category: strong
+    last_name: LAIFINVEST OOO
+address_list:
+  items:
+  - uid: '61261'
+    address1: Room 416, Floor 24
+    address2: Section I, Building 10
+    address3: Testovskaya Street
+    city: Moscow
+    postal_code: '123112'
+    country: Russia
+id_list:
+  items:
+  - uid: '30346'
+    id_type: Tax ID No.
+    id_number: '7703427737'
+    id_country: Russia
+  - uid: '30347'
+    id_type: Registration Number
+    id_number: '1177746506046'
+    id_country: Russia
+  - uid: '175360'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: KHRISTENKO, Viktor Borisovich)"

@@ -1,0 +1,39 @@
+---
+uid: '32332'
+first_name: Jose Jesus
+last_name: JARQUIN JARQUIN
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '51254'
+    type: a.k.a.
+    category: weak
+    last_name: R32
+address_list:
+  items:
+  - uid: '48684'
+    city: Manzanillo
+    state_or_province: Colima
+    country: Mexico
+id_list:
+  items:
+  - uid: '22094'
+    id_type: C.U.R.P.
+    id_number: JAJJ840726HJCRRS04
+    id_country: Mexico
+  - uid: '141765'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '41764'
+    date_of_birth: 26 Jul 1984
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '41763'
+    place_of_birth: Ixtlahuacan de los Membrillos, Jalisco, Mexico
+    main_entry: 'true'

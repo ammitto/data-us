@@ -1,0 +1,37 @@
+---
+uid: '55202'
+first_name: Sayyed Ahmad
+last_name: HOSEINI MUNES
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+address_list:
+  items:
+  - uid: '84432'
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '49197'
+    id_type: National ID No.
+    id_number: '4031738625'
+    id_country: Iran
+  - uid: '192381'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '192385'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '92382'
+    date_of_birth: 18 Mar 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '92383'
+    place_of_birth: Ali Sadr, Iran
+    main_entry: 'true'
+remarks: "(Linked To: SHAHID HEMMAT SPACE GROUP)"

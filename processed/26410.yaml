@@ -1,0 +1,46 @@
+---
+uid: '26410'
+first_name: Luciano
+last_name: BRUNETTI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '41757'
+    type: a.k.a.
+    category: weak
+    last_name: BIFF TANNEN
+  - uid: '41758'
+    type: a.k.a.
+    category: weak
+    last_name: LUCHO
+address_list:
+  items:
+  - uid: '40135'
+    city: Buenos Aires
+    country: Argentina
+id_list:
+  items:
+  - uid: '17129'
+    id_type: Passport
+    id_number: AAC206993
+    id_country: Argentina
+  - uid: '17130'
+    id_type: D.N.I.
+    id_number: '34142353'
+    id_country: Argentina
+  - uid: '130966'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '30964'
+    date_of_birth: 30 Aug 1988
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '30965'
+    place_of_birth: Argentina
+    main_entry: 'true'

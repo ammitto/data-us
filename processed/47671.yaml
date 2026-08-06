@@ -1,0 +1,38 @@
+---
+uid: '47671'
+last_name: KEIS STUDIO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73870'
+    type: a.k.a.
+    category: weak
+    last_name: CASE STUDIO
+  - uid: '73871'
+    type: a.k.a.
+    category: weak
+    last_name: CASE PLATFORM
+address_list:
+  items:
+  - uid: '71256'
+    address1: Ul. Nikolaeva D. 12
+    address2: Office 804
+    city: Novosibirsk
+    postal_code: '630090'
+    country: Russia
+id_list:
+  items:
+  - uid: '38281'
+    id_type: Registration Number
+    id_number: '1155476112770'
+    id_country: Russia
+  - uid: '38282'
+    id_type: Tax ID No.
+    id_number: '5408006270'
+    id_country: Russia
+  - uid: '169837'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

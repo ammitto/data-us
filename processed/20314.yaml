@@ -1,0 +1,49 @@
+---
+uid: '20314'
+last_name: GPB-DI HOLDINGS LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13662
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '32107'
+    type: a.k.a.
+    category: strong
+    last_name: SIRITIA VENTURES LTD
+address_list:
+  items:
+  - uid: '79157'
+    address1: Glafkos Tower, Floor 4, Flat 401, 3 Menandrou
+    city: Nicosia
+    postal_code: '1066'
+    country: Cyprus
+id_list:
+  items:
+  - uid: '44709'
+    id_type: Tax ID No.
+    id_number: CY10145737M
+    id_country: Cyprus
+  - uid: '44710'
+    id_type: Registration Number
+    id_number: HE145737
+    id_country: Cyprus
+  - uid: '44711'
+    id_type: Legal Entity Number
+    id_number: 2138004OMEVX71IU7E09
+  - uid: '143890'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '182506'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
+  - uid: '120874'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 1
+  - uid: '182505'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: 'For more information on directives, please visit the following link: https://ofac.treasury.gov/sanctions-programs-and-country-information/ukraine-russia-related-sanctions#directives;
+  (Linked To: GAZPROMBANK JOINT STOCK COMPANY)'

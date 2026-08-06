@@ -1,0 +1,50 @@
+---
+uid: '25150'
+first_name: Ana Lilia
+last_name: LOPEZ TORRES
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+address_list:
+  items:
+  - uid: '38085'
+    address1: Mar de Cortes Num. Ext. 39
+    address2: Luis Donaldo Colosio
+    city: Tepic
+    state_or_province: Nayarit
+    postal_code: '63178'
+    country: Mexico
+  - uid: '38096'
+    address1: Av. de la Cultura Num. Ext. 157
+    address2: Ciudad del Valle
+    city: Tepic
+    state_or_province: Nayarit
+    postal_code: '63157'
+    country: Mexico
+  - uid: '38394'
+    address1: Doctor Mateo del Regil Numero MZ-3
+    address2: Colonia Doctor Leyva Medina
+    address3: clave catastral 1-59-11-180-17
+    city: Tepic
+    state_or_province: Nayarit
+    country: Mexico
+id_list:
+  items:
+  - uid: '16237'
+    id_type: C.U.R.P.
+    id_number: LOTA650825MSLPRN09
+    id_country: Mexico
+  - uid: '128402'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '28401'
+    date_of_birth: 25 Aug 1965
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '28403'
+    place_of_birth: Sinaloa, Mexico
+    main_entry: 'true'

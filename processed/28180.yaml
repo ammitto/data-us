@@ -1,0 +1,49 @@
+---
+uid: '28180'
+last_name: INTER ALIMENT SAL OFF-SHORE
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '44420'
+    type: a.k.a.
+    category: strong
+    last_name: INTERALIMENT OFFSHORE COMPANY
+address_list:
+  items:
+  - uid: '42656'
+    address1: Verdun 732 Center 3377/74 Mousseitbeh, Dar El-Fatwa Sector
+    address2: Rachid Karame Sreet
+    city: Beirut
+    country: Lebanon
+  - uid: '42657'
+    address1: Verdun - Center, 730, Section 74 of the property 3377
+    address2: Area Msaytbeh Real Estate - the fifth floor
+    city: Beirut
+    country: Lebanon
+  - uid: '42658'
+    address1: 732 Center, 5th Floor, Verdun Street
+    city: Beirut
+    country: Lebanon
+id_list:
+  items:
+  - uid: '18650'
+    id_type: Commercial Registry Number
+    id_number: '1801267'
+    id_country: Lebanon
+  - uid: '18674'
+    id_type: Registration ID
+    id_number: '1239305'
+  - uid: '187011'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '133609'
+    id_type: Phone Number
+    id_number: '9611797101'
+  - uid: '133615'
+    id_type: D-U-N-S Number
+    id_number: '557757412'
+remarks: "(Linked To: ASSI, Saleh)"

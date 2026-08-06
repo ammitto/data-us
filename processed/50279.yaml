@@ -1,0 +1,38 @@
+---
+uid: '50279'
+last_name: JOINT STOCK COMPANY STRATIM TECH
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78538'
+    type: a.k.a.
+    category: strong
+    last_name: JSC STRATIM TECH
+address_list:
+  items:
+  - uid: '76152'
+    address1: ul. Shipilovskaia
+    address2: d. 64
+    address3: korp. 1, pomeshch. 147
+    city: Moscow
+    postal_code: '115682'
+    country: Russia
+id_list:
+  items:
+  - uid: '41969'
+    id_type: Registration Number
+    id_number: '1237700601490'
+    id_country: Russia
+  - uid: '41970'
+    id_type: Tax ID No.
+    id_number: '9724145543'
+    id_country: Russia
+  - uid: '177994'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '177993'
+    id_type: Organization Established Date
+    id_number: 12 Sep 2023

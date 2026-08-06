@@ -1,0 +1,50 @@
+---
+uid: '30886'
+first_name: Fuad Ahmad Nuri Ali
+last_name: AL-SHAKHAN
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '48570'
+    type: a.k.a.
+    category: strong
+    last_name: AL-CHAMCHAMALI
+    first_name: Bilal
+  - uid: '48571'
+    type: a.k.a.
+    category: weak
+    last_name: KIRKUKI, Bilal
+  - uid: '48572'
+    type: a.k.a.
+    category: weak
+    last_name: KARIM, Mam
+address_list:
+  items:
+  - uid: '46723'
+    country: Iran
+id_list:
+  items:
+  - uid: '20970'
+    id_type: National ID No.
+    id_number: '00060543'
+    id_country: Iraq
+  - uid: '187311'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '138934'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '38931'
+    date_of_birth: 10 Aug 1979
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '38932'
+    place_of_birth: Gadir Karam, Tuz Khurmatu, Sala Ad-Din Province, Iraq
+    main_entry: 'true'

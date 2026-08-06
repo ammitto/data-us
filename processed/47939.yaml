@@ -1,0 +1,37 @@
+---
+uid: '47939'
+last_name: S 7 ENGINEERING LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74388'
+    type: a.k.a.
+    category: strong
+    last_name: S 7 INZHINIRING OOO
+  - uid: '74389'
+    type: a.k.a.
+    category: weak
+    last_name: S7 TECHNICS
+address_list:
+  items:
+  - uid: '71791'
+    address1: Territoriya Aeroport Domodedovo, 6/1 Domodedovo
+    state_or_province: Moscow Oblast
+    postal_code: '142015'
+    country: Russia
+id_list:
+  items:
+  - uid: '38749'
+    id_type: Registration Number
+    id_number: '1055001517405'
+    id_country: Russia
+  - uid: '38750'
+    id_type: Tax ID No.
+    id_number: '5009049835'
+    id_country: Russia
+  - uid: '169601'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

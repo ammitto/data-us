@@ -1,0 +1,38 @@
+---
+uid: '46410'
+last_name: LIMITED LIABILITY CORPORATION TRADING HOUSE EPK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '71618'
+    type: a.k.a.
+    category: weak
+    last_name: OOO TD EPK
+  - uid: '71883'
+    type: a.k.a.
+    category: strong
+    last_name: TORGOVIY DOM EPK
+address_list:
+  items:
+  - uid: '69035'
+    address1: ul. Novoostapovskaya, d. 5, str. 14
+    address2: et. 2, kom. 4
+    city: Moscow
+    postal_code: '115088'
+    country: Russia
+id_list:
+  items:
+  - uid: '36279'
+    id_type: Tax ID No.
+    id_number: '7725136315'
+    id_country: Russia
+  - uid: '36280'
+    id_type: Registration Number
+    id_number: '1027700136859'
+    id_country: Russia
+  - uid: '174945'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

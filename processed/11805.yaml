@@ -1,0 +1,39 @@
+---
+uid: '11805'
+last_name: TRANSPORTADORA PUREPECHA S.A. DE C.V.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '12611'
+    type: a.k.a.
+    category: strong
+    last_name: PUREPECHA TRUCKING CO.
+address_list:
+  items:
+  - uid: '17872'
+    address1: Avenida de la Revolution 7
+    address2: Zumpimito
+    address3: Carr. Apatzingan y Articulo 27
+    city: Uruapan
+    state_or_province: Michoacan
+    postal_code: '60190'
+    country: Mexico
+  - uid: '17873'
+    address1: Km. 7 Carretera Antigua
+    city: Nuevo Laredo
+    state_or_province: Tamaulipas
+    country: Mexico
+  - uid: '17875'
+    address1: Zaragoza 1050
+    city: Reynosa
+    state_or_province: Tabasco
+    country: Mexico
+id_list:
+  items:
+  - uid: '6184'
+    id_type: R.F.C.
+    id_number: TPU991105FB4
+    id_country: Mexico

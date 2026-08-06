@@ -1,0 +1,44 @@
+---
+uid: '26837'
+last_name: ILAM PETROCHEMICAL COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+aka_list:
+  items:
+  - uid: '42382'
+    type: a.k.a.
+    category: strong
+    last_name: ILAM PETROCHEMICAL
+  - uid: '42383'
+    type: a.k.a.
+    category: strong
+    last_name: ILAM PETROCHEMICAL CO
+  - uid: '42384'
+    type: a.k.a.
+    category: strong
+    last_name: ILAM PETROCHEMICAL INDUSTRIES
+address_list:
+  items:
+  - uid: '40720'
+    address1: Afar Blvd - Below Shahid Hemmat Bridge - Ninth Gandhi Side - Building
+      No. 2 Petrochemical Company - First Floor
+    city: Tehran
+    country: Iran
+  - uid: '40763'
+    address1: Ilam - Chawar - Ilam Petrochemical Complex
+    country: Iran
+id_list:
+  items:
+  - uid: '17489'
+    id_type: Registration Number
+    id_number: '253861'
+    id_country: Iran
+  - uid: '131609'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '131610'
+    id_type: Website
+    id_number: www.ilampetro.com
+remarks: "(Linked To: IRANIAN INVESTMENT PETROCHEMICAL GROUP COMPANY)"

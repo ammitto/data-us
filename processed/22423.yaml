@@ -1,0 +1,37 @@
+---
+uid: '22423'
+first_name: Jonathan
+last_name: ALVAREZ ESCOBAR
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '35352'
+    type: a.k.a.
+    category: weak
+    last_name: Primo
+address_list:
+  items:
+  - uid: '34826'
+    country: Colombia
+id_list:
+  items:
+  - uid: '14486'
+    id_type: Cedula No.
+    id_number: '1017136706'
+    id_country: Colombia
+  - uid: '124639'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '24638'
+    date_of_birth: 10 Sep 1986
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '24640'
+    place_of_birth: Tulua, Valle, Colombia
+    main_entry: 'true'

@@ -1,0 +1,47 @@
+---
+uid: '37925'
+last_name: EAST OCEAN RASHIN SHIPPING CO
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13846
+aka_list:
+  items:
+  - uid: '59612'
+    type: a.k.a.
+    category: strong
+    last_name: EAST OCEAN RASHIN
+  - uid: '59613'
+    type: a.k.a.
+    category: strong
+    last_name: EAST RASHIN OCEAN CO., LTD.
+  - uid: '59614'
+    type: a.k.a.
+    category: strong
+    last_name: RASHIN OCEAN EAST CO., LTD.
+address_list:
+  items:
+  - uid: '56890'
+    address1: Central Part, Enterpreneurial Neighborhood, Salehi Street, Golestan
+      Street, No. 0, Lian Building Ground Floor, Unit 1
+    city: Assaluyeh City
+    state_or_province: Bushehr Province
+    postal_code: '75119757543'
+    country: Iran
+  - uid: '56891'
+    address1: Central Part, Laneh Square, Jomhuri Eslami Street, Sadaf Alley, No.
+      0, Armin 2 Building, Second Floor, Unit 7
+    city: Assaluyeh City
+    state_or_province: Bushehr Province
+    postal_code: '7511934725'
+    country: Iran
+id_list:
+  items:
+  - uid: '27250'
+    id_type: National ID No.
+    id_number: '14008898707'
+    id_country: Iran
+  - uid: '27251'
+    id_type: Registration Number
+    id_number: '38'
+    id_country: Iran

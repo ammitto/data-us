@@ -1,0 +1,55 @@
+---
+uid: '16886'
+last_name: JOINT STOCK COMPANY UNITED SHIPBUILDING CORPORATION
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13661
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56917'
+    type: a.k.a.
+    category: strong
+    last_name: JSC UNITED SHIPBUILDING CORPORATION
+  - uid: '56918'
+    type: a.k.a.
+    category: strong
+    last_name: UNITED SHIPBUILDING CORPORATION
+  - uid: '56919'
+    type: a.k.a.
+    category: weak
+    last_name: OCK
+  - uid: '56920'
+    type: a.k.a.
+    category: weak
+    last_name: OSK AO
+  - uid: '56921'
+    type: a.k.a.
+    category: weak
+    last_name: JSC USC
+address_list:
+  items:
+  - uid: '25576'
+    address1: Ul. Marat, 90
+    city: St. Petersburg
+    postal_code: '191119'
+    country: Russia
+  - uid: '54286'
+    address1: 11 Bolshaya Tatarskaya Str. Bld. B
+    city: Moscow
+    postal_code: '115184'
+    country: Russia
+id_list:
+  items:
+  - uid: '25503'
+    id_type: Tax ID No.
+    id_number: '7838395215'
+    id_country: Russia
+  - uid: '151168'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '173850'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

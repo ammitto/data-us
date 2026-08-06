@@ -1,0 +1,38 @@
+---
+uid: '11900'
+first_name: Dairo Antonio
+last_name: USUGA DAVID
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - SDNTK
+aka_list:
+  items:
+  - uid: '45377'
+    type: a.k.a.
+    category: weak
+    last_name: OTONIEL
+address_list:
+  items:
+  - uid: '18068'
+    country: Colombia
+id_list:
+  items:
+  - uid: '6277'
+    id_type: Cedula No.
+    id_number: '71980054'
+    id_country: Colombia
+  - uid: '135331'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '7391'
+    date_of_birth: 15 Sep 1971
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '7392'
+    place_of_birth: Necocli, Antioquia, Colombia
+    main_entry: 'true'

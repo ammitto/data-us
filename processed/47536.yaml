@@ -1,0 +1,42 @@
+---
+uid: '47536'
+first_name: Mikhail Yuryevich
+last_name: CHEPURNOI
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73597'
+    type: a.k.a.
+    category: strong
+    last_name: CHEPURNOY
+    first_name: Mikhail Yuryevich
+address_list:
+  items:
+  - uid: '70972'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '38040'
+    id_type: Tax ID No.
+    id_number: '772805025904'
+    id_country: Russia
+  - uid: '169054'
+    id_type: Gender
+    id_number: Male
+  - uid: '176405'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '69055'
+    date_of_birth: 26 Feb 1970
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '69053'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'

@@ -1,0 +1,45 @@
+---
+uid: '23275'
+first_name: Sergey
+last_name: KUSIUK
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '36698'
+    type: a.k.a.
+    category: strong
+    last_name: KUSYUK
+    first_name: Sergej Nikolaevich
+  - uid: '36699'
+    type: a.k.a.
+    category: strong
+    last_name: KUSYUK
+    first_name: Serhiy
+  - uid: '36700'
+    type: a.k.a.
+    category: strong
+    last_name: KYSYUK
+    first_name: Sergei
+address_list:
+  items:
+  - uid: '35243'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '124967'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '24965'
+    date_of_birth: 01 Dec 1966
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '24966'
+    place_of_birth: Malaya Mochulka, Vinnitska, Ukraine
+    main_entry: 'true'

@@ -1,0 +1,59 @@
+---
+uid: '44081'
+last_name: INSTITUTE OF LASER PHYSICS OF THE SIBERIAN BRANCH OF THE RUSSIAN ACADEMY
+  OF SCIENCES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '68163'
+    type: a.k.a.
+    category: strong
+    last_name: INSTITUTE OF LASER PHYSICS SB RAS
+  - uid: '68164'
+    type: a.k.a.
+    category: strong
+    last_name: FEDERALNOE GOSUDARSTVENNOE BYUDZHETNOE UCHREZHDENIE NAUKI INSTITUT
+      LAZERNOI FIZIKI SIBIRSKOGO OTDELENIYA ROSSISKOI AKADEMII NAUK
+  - uid: '68165'
+    type: a.k.a.
+    category: strong
+    last_name: INSTITUTE OF LASER PHYSICS OF THE SIBERIAN BRANCH OF THE RAS
+  - uid: '68166'
+    type: a.k.a.
+    category: strong
+    last_name: ILF SO RAN FGBU
+  - uid: '68167'
+    type: a.k.a.
+    category: weak
+    last_name: ILP SB RAS
+address_list:
+  items:
+  - uid: '65594'
+    address1: 15B, prospekt Akademika Lavrenteva
+    city: Novosibirsk
+    state_or_province: Novosibirskaya Obl.
+    postal_code: '630090'
+    country: Russia
+id_list:
+  items:
+  - uid: '33467'
+    id_type: Registration Number
+    id_number: '1025403665572'
+    id_country: Russia
+  - uid: '33469'
+    id_type: Tax ID No.
+    id_number: '5408105471'
+    id_country: Russia
+  - uid: '33471'
+    id_type: Government Gazette Number
+    id_number: '11822515'
+    id_country: Russia
+  - uid: '163651'
+    id_type: Organization Established Date
+    id_number: 06 Aug 1991
+  - uid: '175754'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

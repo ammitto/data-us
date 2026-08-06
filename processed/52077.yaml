@@ -1,0 +1,40 @@
+---
+uid: '52077'
+last_name: TGR PARTNERS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '79431'
+    address1: 33-34 Alfred Place
+    city: London
+    postal_code: WC1E 7DP
+    country: United Kingdom
+  - uid: '79432'
+    city: Moscow
+    country: Russia
+  - uid: '79433'
+    city: Kiev
+    country: Ukraine
+  - uid: '79434'
+    city: Riga
+    country: Latvia
+  - uid: '79435'
+    city: Singapore
+    country: Singapore
+  - uid: '79436'
+    city: Istanbul
+    country: Turkey
+id_list:
+  items:
+  - uid: '182907'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183007'
+    id_type: Website
+    id_number: tgr.partners
+  - uid: '182906'
+    id_type: 'Organization Type:'
+    id_number: Financial and Insurance Activities

@@ -1,0 +1,37 @@
+---
+uid: '36458'
+last_name: OOO BITRIVER RUS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '57491'
+    type: a.k.a.
+    category: strong
+    last_name: BITRIVER RUS
+address_list:
+  items:
+  - uid: '54808'
+    address1: d. 11B ofis 1
+    city: Bratsk
+    postal_code: '665709'
+    country: Russia
+id_list:
+  items:
+  - uid: '25900'
+    id_type: Registration Number
+    id_number: '1173850041749'
+    id_country: Russia
+  - uid: '25901'
+    id_type: Tax ID No.
+    id_number: '3805731961'
+    id_country: Russia
+  - uid: '174216'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '150169'
+    id_type: Organization Established Date
+    id_number: 15 Nov 2017
+remarks: "(Linked To: BITRIVER AG)"

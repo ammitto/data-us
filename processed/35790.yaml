@@ -1,0 +1,51 @@
+---
+uid: '35790'
+first_name: Tatyana Aleksandrovna
+last_name: KOVALCHUK
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56241'
+    type: a.k.a.
+    category: strong
+    last_name: KOVALCHUK
+    first_name: Tatyana Alexandrovna
+  - uid: '56242'
+    type: a.k.a.
+    category: strong
+    last_name: KOVALCHUK
+    first_name: Tatiana Aleksandrovna
+address_list:
+  items:
+  - uid: '53691'
+    country: Russia
+id_list:
+  items:
+  - uid: '25114'
+    id_type: Tax ID No.
+    id_number: '780150859761'
+    id_country: Russia
+  - uid: '25115'
+    id_type: Passport
+    id_number: 51N0128733
+    id_country: Russia
+  - uid: '173242'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '148905'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '48902'
+    date_of_birth: '08 Feb 1968'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '48903'
+    place_of_birth: Russia
+    main_entry: 'true'
+remarks: "(Linked To: KOVALCHUK, Yuri Valentinovich)"

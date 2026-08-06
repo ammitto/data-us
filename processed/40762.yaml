@@ -1,0 +1,39 @@
+---
+uid: '40762'
+last_name: LALEH PETROCHEMICAL COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13846
+address_list:
+  items:
+  - uid: '60740'
+    address1: Boulevard Ivanak and Farahzadi Boulevard, Second Phase, No. 18
+    city: Tehran
+    country: Iran
+  - uid: '60753'
+    address1: No. 18, 2nd Alley, 1st Street, Khwarazm Street
+    address2: Zarafshan Street
+    address3: Phase 4, Shahrak-e Gharb
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '29927'
+    id_type: National ID No.
+    id_number: '10102340914'
+    id_country: Iran
+  - uid: '29928'
+    id_type: Business Registration Number
+    id_number: '192133'
+    id_country: Iran
+  - uid: '158241'
+    id_type: Website
+    id_number: www.lapc.ir
+  - uid: '158240'
+    id_type: Organization Established Date
+    id_number: 11 Sep 2002
+  - uid: '158239'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: MARUN PETROCHEMICAL COMPANY)"

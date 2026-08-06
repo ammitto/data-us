@@ -1,0 +1,43 @@
+---
+uid: '15001'
+first_name: Fausto Isidro
+last_name: MEZA FLORES
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '21945'
+    type: a.k.a.
+    category: weak
+    last_name: ISIDRO, Chapo
+  - uid: '21946'
+    type: a.k.a.
+    category: weak
+    last_name: ISIDRO, Chapito
+address_list:
+  items:
+  - uid: '43670'
+    state_or_province: Sinaloa
+    country: Mexico
+id_list:
+  items:
+  - uid: '15677'
+    id_type: C.U.R.P.
+    id_number: MEFF820619HSRZLS08
+    id_country: Mexico
+  - uid: '127055'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '11263'
+    date_of_birth: 19 Jun 1982
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '41268'
+    place_of_birth: Navojoa, Sonora, Mexico
+    main_entry: 'true'

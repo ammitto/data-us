@@ -1,0 +1,29 @@
+---
+uid: '46019'
+last_name: LIMITED LIABILITY COMPANY RI2
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '68543'
+    address1: d. 12 k. 1 pom. 17/1
+    address2: ul. Kolomenskaya
+    city: Moscow
+    postal_code: '115142'
+    country: Russia
+id_list:
+  items:
+  - uid: '35855'
+    id_type: Tax ID No.
+    id_number: '7725363004'
+    id_country: Russia
+  - uid: '35856'
+    id_type: Registration Number
+    id_number: '1177746279215'
+    id_country: Russia
+  - uid: '174892'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: LLC AEON DEVELOPMENT)"

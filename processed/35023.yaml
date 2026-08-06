@@ -1,0 +1,46 @@
+---
+uid: '35023'
+first_name: Irina Viktorovna
+last_name: NIKOLAEVA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '55108'
+    type: a.k.a.
+    category: strong
+    last_name: KITAEVA
+    first_name: Irina Viktorovna
+address_list:
+  items:
+  - uid: '52590'
+    country: Russia
+id_list:
+  items:
+  - uid: '24754'
+    id_type: National ID No.
+    id_number: '4607444893'
+    id_country: Russia
+  - uid: '24755'
+    id_type: Tax ID No.
+    id_number: '504603132375'
+    id_country: Russia
+  - uid: '175240'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '146642'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '46641'
+    date_of_birth: 15 Jul 1983
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '46646'
+    place_of_birth: Troitsk, Russia
+    main_entry: 'true'
+remarks: "(Linked To: OOO SERNIYA INZHINIRING)"

@@ -1,0 +1,49 @@
+---
+uid: '22412'
+first_name: Aleksey Aleksandrovich
+last_name: KOSTRUBITSKY
+sdn_type: Individual
+program_list:
+  programs:
+  - UKRAINE-EO13660
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '35318'
+    type: a.k.a.
+    category: strong
+    last_name: KOSTRUBITSKY
+    first_name: Olexiy Oleksandrovych
+address_list:
+  items:
+  - uid: '33921'
+    address1: in/h A-0050
+    city: Donetsk
+    country: Ukraine
+id_list:
+  items:
+  - uid: '30351'
+    id_type: Tax ID No.
+    id_number: '2872516676'
+    id_country: Ukraine
+  - uid: '143839'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '123874'
+    id_type: Gender
+    id_number: Male
+  - uid: '173931'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '23872'
+    date_of_birth: 24 Aug 1978
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '23873'
+    place_of_birth: Russia
+    main_entry: 'true'
+remarks: "(Linked To: MINISTRY OF EMERGENCY SITUATIONS OF THE DONETSK PEOPLE'S REPUBLIC)"

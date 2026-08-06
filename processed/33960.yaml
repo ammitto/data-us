@@ -1,0 +1,38 @@
+---
+uid: '33960'
+first_name: Alma Yanira
+last_name: MEZA OLIVARES
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+address_list:
+  items:
+  - uid: '50885'
+    city: San Salvador
+    country: El Salvador
+id_list:
+  items:
+  - uid: '23616'
+    id_type: National ID No.
+    id_number: '014973168'
+    id_country: El Salvador
+  - uid: '23617'
+    id_type: Passport
+    id_number: A01497316
+    id_country: El Salvador
+    expiration_date: 10 Dec 2019
+  - uid: '144991'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '44990'
+    date_of_birth: 15 Jul 1963
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '44993'
+    place_of_birth: San Salvador, El Salvador
+    main_entry: 'true'
+remarks: "(Linked To: LUNA MEZA, Osiris)"

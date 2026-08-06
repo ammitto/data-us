@@ -1,0 +1,37 @@
+---
+uid: '13141'
+last_name: TOURISM BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '14787'
+    type: a.k.a.
+    category: strong
+    last_name: BANK-E GARDESHGARI
+  - uid: '47107'
+    type: a.k.a.
+    category: strong
+    last_name: GARDESHGARI BANK
+address_list:
+  items:
+  - uid: '21002'
+    address1: Vali Asr St., above Vey Park
+    address2: Shahid Fiazi St., No. 51, first floor
+    city: Tehran
+    country: Iran
+  - uid: '45333'
+    address1: No. 51, Shahid Fayazi St, ValiAsr Ave
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '137342'
+    id_type: Website
+    id_number: www.tourismbank.ir
+  - uid: '137304'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

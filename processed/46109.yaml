@@ -1,0 +1,37 @@
+---
+uid: '46109'
+first_name: Manuel Alejandro
+last_name: FOUBERT CADENA
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '68693'
+    city: Puerto Vallarta
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '68694'
+    city: Leon
+    state_or_province: Guanajuato
+    country: Mexico
+id_list:
+  items:
+  - uid: '35976'
+    id_type: C.U.R.P.
+    id_number: FOCM821016HJCBDN02
+    id_country: Mexico
+  - uid: '166779'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '66778'
+    date_of_birth: 16 Oct 1982
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '66780'
+    place_of_birth: Guadalajara, Jalisco, Mexico
+    main_entry: 'true'

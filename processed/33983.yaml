@@ -1,0 +1,54 @@
+---
+uid: '33983'
+last_name: REVOLUTIONARY ARMED FORCES OF COLOMBIA - PEOPLE'S ARMY
+sdn_type: Entity
+program_list:
+  programs:
+  - FTO
+  - SDGT
+aka_list:
+  items:
+  - uid: '53268'
+    type: a.k.a.
+    category: strong
+    last_name: FARC-EP
+  - uid: '53269'
+    type: a.k.a.
+    category: strong
+    last_name: FUERZAS ARMADAS REVOLUCIONARIAS DE COLOMBIA - EJERCITO DEL PUEBLO
+  - uid: '53270'
+    type: a.k.a.
+    category: weak
+    last_name: FARC DISSIDENTS FARC-EP
+  - uid: '53271'
+    type: a.k.a.
+    category: weak
+    last_name: REVOLUTIONARY ARMED FORCES OF COLOMBIA DISSIDENTS FARC-EP
+  - uid: '53272'
+    type: a.k.a.
+    category: weak
+    last_name: FARC-D FARC-EP
+  - uid: '53273'
+    type: a.k.a.
+    category: weak
+    last_name: GRUPO ARMADO ORGANIZADO RESIDUAL FARC-EP
+  - uid: '53274'
+    type: a.k.a.
+    category: weak
+    last_name: GAO-R FARC-EP
+  - uid: '53275'
+    type: a.k.a.
+    category: weak
+    last_name: RESIDUAL ORGANIZED ARMED GROUP FARC-EP
+address_list:
+  items:
+  - uid: '50938'
+    country: Colombia
+  - uid: '50939'
+    country: Venezuela
+id_list:
+  items:
+  - uid: '188790'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886

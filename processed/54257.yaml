@@ -1,0 +1,35 @@
+---
+uid: '54257'
+first_name: Hossein
+last_name: SHETABAN
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '82877'
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '47803'
+    id_type: National ID No.
+    id_number: '2080364677'
+    id_country: Iran
+  - uid: '190007'
+    id_type: Gender
+    id_number: Male
+  - uid: '190026'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '89990'
+    date_of_birth: 20 Jul 1992
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '90006'
+    place_of_birth: Sari, Mazandaran, Iran
+    main_entry: 'true'

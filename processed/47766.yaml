@@ -1,0 +1,33 @@
+---
+uid: '47766'
+last_name: JOINT STOCK COMPANY TAGANROG METALLURGICAL PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74091'
+    type: a.k.a.
+    category: strong
+    last_name: JSC TAGMET
+address_list:
+  items:
+  - uid: '71449'
+    address1: 1 Zavodskaya Street
+    city: Taganrog
+    postal_code: '347905'
+    country: Russia
+id_list:
+  items:
+  - uid: '38436'
+    id_type: Registration Number
+    id_number: '1026102572473'
+    id_country: Russia
+  - uid: '38437'
+    id_type: Tax ID No.
+    id_number: '6154011797'
+    id_country: Russia
+  - uid: '176434'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

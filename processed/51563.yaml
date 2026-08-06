@@ -1,0 +1,36 @@
+---
+uid: '51563'
+last_name: PETRO WELT TECHNOLOGIES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+address_list:
+  items:
+  - uid: '78579'
+    address1: Per. 2-I Kazachii D. 4
+    address2: Str. 1
+    city: Moscow
+    postal_code: '119180'
+    country: Russia
+id_list:
+  items:
+  - uid: '44006'
+    id_type: Registration Number
+    id_number: '1157746800133'
+    id_country: Russia
+  - uid: '44007'
+    id_type: Tax ID No.
+    id_number: '7706425914'
+    id_country: Russia
+  - uid: '181244'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183501'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '182852'
+    id_type: Organization Established Date
+    id_number: 31 Aug 2015

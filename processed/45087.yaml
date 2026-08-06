@@ -1,0 +1,34 @@
+---
+uid: '45087'
+last_name: LIMITED LIABILITY COMPANY KRASNOYARSKAYA ENERGETICHESKAYA KOMPANIYA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69872'
+    type: a.k.a.
+    category: strong
+    last_name: OOO KEK
+address_list:
+  items:
+  - uid: '67168'
+    address1: str. 100 blok B etazh 2, pom. 4
+    city: Odintsovo
+    postal_code: '143084'
+    country: Russia
+id_list:
+  items:
+  - uid: '34833'
+    id_type: Registration Number
+    id_number: '1155032010121'
+    id_country: Russia
+  - uid: '34834'
+    id_type: Tax ID No.
+    id_number: '5032216280'
+    id_country: Russia
+  - uid: '175945'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: UNITED ARCTIC COMPANY LLC)"

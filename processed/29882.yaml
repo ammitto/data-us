@@ -1,0 +1,35 @@
+---
+uid: '29882'
+first_name: Hamid Reza
+last_name: GHADIRIAN
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+address_list:
+  items:
+  - uid: '45052'
+    country: Iran
+id_list:
+  items:
+  - uid: '19996'
+    id_type: National ID No.
+    id_number: '6199152344'
+    id_country: Iran
+  - uid: '137119'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '137076'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '37074'
+    date_of_birth: 23 Sep 1978
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '37075'
+    place_of_birth: Aran o Bigdol, Iran
+    main_entry: 'true'

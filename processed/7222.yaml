@@ -1,0 +1,35 @@
+---
+uid: '7222'
+first_name: Haji
+last_name: IBRAHIM
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '5162'
+    type: a.k.a.
+    category: strong
+    last_name: KHAN AFRIDI
+    first_name: Haji Ibrahim
+  - uid: '5163'
+    type: a.k.a.
+    category: strong
+    last_name: KHAN
+    first_name: Haji Ibrahim
+  - uid: '5164'
+    type: a.k.a.
+    category: strong
+    last_name: IBRAHIM
+    first_name: Haji Ehai
+date_of_birth_list:
+  items:
+  - uid: '1426'
+    date_of_birth: 28 Sep 1957
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '1427'
+    place_of_birth: Pakistan
+    main_entry: 'true'

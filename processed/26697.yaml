@@ -1,0 +1,74 @@
+---
+uid: '26697'
+first_name: Umar Talib Zughayr
+last_name: AL-RAWI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '42135'
+    type: a.k.a.
+    category: strong
+    last_name: AL-HASHIMI
+    first_name: Umar Talib Zughayr
+  - uid: '42136'
+    type: a.k.a.
+    category: strong
+    last_name: ZGHYR
+    first_name: "'Umr Talib"
+  - uid: '42137'
+    type: a.k.a.
+    category: strong
+    last_name: AL-RAWI
+    first_name: "'Umar Talib"
+  - uid: '42231'
+    type: a.k.a.
+    category: weak
+    last_name: AL-RAWI, Abu Umar
+  - uid: '42232'
+    type: a.k.a.
+    category: strong
+    last_name: AL-RAWI
+    first_name: Umar Talib Zughayr Karhoot
+address_list:
+  items:
+  - uid: '40482'
+    city: Samsun
+    country: Turkey
+  - uid: '40483'
+    city: al-Qa'im
+    state_or_province: Anbar Province
+    country: Iraq
+  - uid: '40484'
+    state_or_province: Mersin Province
+    country: Turkey
+id_list:
+  items:
+  - uid: '131388'
+    id_type: Gender
+    id_number: Male
+  - uid: '186882'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '131386'
+    id_type: Phone Number
+    id_number: '907816941101'
+  - uid: '131387'
+    id_type: Phone Number
+    id_number: '9647734097694'
+date_of_birth_list:
+  items:
+  - uid: '31390'
+    date_of_birth: '1970'
+    main_entry: 'true'
+  - uid: '31453'
+    date_of_birth: '1971'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '31389'
+    place_of_birth: Iraq
+    main_entry: 'true'

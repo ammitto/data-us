@@ -1,0 +1,67 @@
+---
+uid: '12487'
+first_name: Miguel
+last_name: RODRIGUEZ OLIVERA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '13404'
+    type: a.k.a.
+    category: strong
+    last_name: MORFIN RODRIGUEZ
+    first_name: Miguel
+address_list:
+  items:
+  - uid: '19524'
+    address1: C Simon Blvd. No. 47
+    address2: Col Aviacio
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '19525'
+    address1: Vereda del Canario 1
+    city: Guadalajara
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '19526'
+    address1: Sendero Las Acacias 92
+    city: Guadalajara
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '19527'
+    address1: Puerto de Hierro
+    city: Zapopan
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '19528'
+    city: Puerto Vallarta
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '19529'
+    address1: Fraccionamiento Santa Isabel
+    address2: Paseo San Eliseo 1695
+    city: Zapopan
+    state_or_province: Jalisco
+    country: Mexico
+id_list:
+  items:
+  - uid: '6948'
+    id_type: C.U.R.P.
+    id_number: ROOM760811HJCDLG00
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '8188'
+    date_of_birth: 11 Aug 1976
+    main_entry: 'true'
+  - uid: '8189'
+    date_of_birth: 02 Sep 1977
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '8190'
+    place_of_birth: Jalisco, Mexico
+    main_entry: 'true'

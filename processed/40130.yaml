@@ -1,0 +1,36 @@
+---
+uid: '40130'
+first_name: Yevgeniy Radionovich
+last_name: KIM
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '59751'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '29257'
+    id_type: National ID No.
+    id_number: '4508488884'
+    id_country: Russia
+    issue_date: 18 May 2006
+  - uid: '156942'
+    id_type: Gender
+    id_number: Male
+  - uid: '174809'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '56939'
+    date_of_birth: 01 Jul 1979
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '56941'
+    place_of_birth: Tashkent, Uzbekistan
+    main_entry: 'true'

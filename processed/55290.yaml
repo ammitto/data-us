@@ -1,0 +1,41 @@
+---
+uid: '55290'
+last_name: TAKTA FANAVARAN RASA COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '86057'
+    type: a.k.a.
+    category: strong
+    last_name: TEKTA FANAVARAN RASA COMPANY
+address_list:
+  items:
+  - uid: '84552'
+    address1: Unit 5, Floor 1, Sorna Building, No. 5
+    address2: Sheikh Mofid Street, Pasha Alley 3, Masli Mosque Neighborhood
+    address3: Central Sector, Isfahan County
+    city: Isfahan
+    state_or_province: Isfahan
+    postal_code: '8164763854'
+    country: Iran
+id_list:
+  items:
+  - uid: '49296'
+    id_type: National ID No.
+    id_number: '10260699110'
+    id_country: Iran
+  - uid: '49297'
+    id_type: Registration Number
+    id_number: '51286'
+    id_country: Iran
+  - uid: '192632'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '192550'
+    id_type: Organization Established Date
+    id_number: 17 Nov 2013
+remarks: "(Linked To: BEH JOULE PARS COMMERCIAL ENGINEERING COMPANY)"

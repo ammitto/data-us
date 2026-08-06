@@ -1,0 +1,33 @@
+---
+uid: '57977'
+first_name: Fredy Alejandro
+last_name: LOPEZ OCAMPO
+sdn_type: Individual
+program_list:
+  programs:
+  - SUDAN-EO14098
+address_list:
+  items:
+  - uid: '88974'
+    city: Panama City
+    country: Panama
+id_list:
+  items:
+  - uid: '52503'
+    id_type: Passport
+    id_number: AY858853
+    id_country: Colombia
+  - uid: '198864'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '98861'
+    date_of_birth: 01 Jun 1994
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '98862'
+    place_of_birth: Colombia
+    main_entry: 'true'
+remarks: "(Linked To: TALENT BRIDGE, S.A.)"

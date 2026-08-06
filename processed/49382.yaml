@@ -1,0 +1,41 @@
+---
+uid: '49382'
+last_name: PUBLIC JOINT STOCK COMPANY KIROV PLANT MAYAK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77005'
+    type: a.k.a.
+    category: strong
+    last_name: PUBLICHNOE AKTSIONERNOE OBSHCHESTVO KIROVSKII ZAVOD MAIAK
+  - uid: '77006'
+    type: a.k.a.
+    category: strong
+    last_name: KIROVSKI ZAVOD MAYAK PAO
+  - uid: '77007'
+    type: a.k.a.
+    category: strong
+    last_name: MAYAK PLANT OF KIROV PJSC
+address_list:
+  items:
+  - uid: '74427'
+    address1: 67 Molodoi Gvardii
+    city: Kirov
+    postal_code: '610000'
+    country: Russia
+id_list:
+  items:
+  - uid: '40648'
+    id_type: Registration Number
+    id_number: '1024301308371'
+    id_country: Russia
+  - uid: '40649'
+    id_type: Tax ID No.
+    id_number: '4345000947'
+    id_country: Russia
+  - uid: '172457'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

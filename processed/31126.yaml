@@ -1,0 +1,45 @@
+---
+uid: '31126'
+first_name: Alexander Vasilievich
+last_name: BORTNIKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - UKRAINE-EO13661
+  - NPWMD
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54937'
+    type: a.k.a.
+    category: strong
+    last_name: BORTNIKOV
+    first_name: Alexander
+address_list:
+  items:
+  - uid: '47014'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '139527'
+    id_type: Gender
+    id_number: Male
+  - uid: '173951'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '151136'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+date_of_birth_list:
+  items:
+  - uid: '39522'
+    date_of_birth: 15 Nov 1951
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '39524'
+    place_of_birth: Perm, Russia
+    main_entry: 'true'
+remarks: "(Linked To: FEDERAL SECURITY SERVICE)"

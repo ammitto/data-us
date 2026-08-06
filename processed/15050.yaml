@@ -1,0 +1,39 @@
+---
+uid: '15050'
+last_name: HERO II
+sdn_type: Vessel
+program_list:
+  programs:
+  - IRAN
+aka_list:
+  items:
+  - uid: '22159'
+    type: f.k.a.
+    category: strong
+    last_name: HADI
+  - uid: '24766'
+    type: f.k.a.
+    category: strong
+    last_name: PIONEER
+  - uid: '40666'
+    type: f.k.a.
+    category: strong
+    last_name: ZEUS
+id_list:
+  items:
+  - uid: '8059'
+    id_type: Vessel Registration Identification
+    id_number: IMO 9362073
+  - uid: '8128'
+    id_type: MMSI
+    id_number: '572459210'
+  - uid: '111479'
+    id_type: Former Vessel Flag
+    id_number: Cyprus
+  - uid: '113026'
+    id_type: Former Vessel Flag
+    id_number: Tuvalu
+  - uid: '119232'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: NATIONAL IRANIAN TANKER COMPANY)"

@@ -1,0 +1,50 @@
+---
+uid: '17164'
+first_name: Muhammad
+last_name: IQBAL
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '26353'
+    type: a.k.a.
+    category: strong
+    last_name: IQBAL
+    first_name: Mohammad
+  - uid: '26354'
+    type: a.k.a.
+    category: strong
+    last_name: IQBAL
+    first_name: Haji
+id_list:
+  items:
+  - uid: '9604'
+    id_type: Passport
+    id_number: BW1332961
+    id_country: Pakistan
+    expiration_date: 23 Jul 2011
+  - uid: '9605'
+    id_type: National ID No.
+    id_number: '3520229942967'
+    id_country: Pakistan
+  - uid: '9606'
+    id_type: National ID No.
+    id_number: '27350277794'
+    id_country: Pakistan
+  - uid: '186778'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '15952'
+    date_of_birth: 01 Jan 1950
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '15959'
+    place_of_birth: Lahore, Pakistan
+    main_entry: 'true'
+remarks: "(Linked To: LASHKAR E-TAYYIBA)"

@@ -1,0 +1,35 @@
+---
+uid: '43226'
+first_name: Ruslan Eduardovich
+last_name: SARKISOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '64488'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '32775'
+    id_type: Tax ID No.
+    id_number: '772147273371'
+    id_country: Russia
+  - uid: '175645'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '162345'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '62346'
+    date_of_birth: 01 Dec 1978
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '62348'
+    place_of_birth: Donetsk, Ukraine
+    main_entry: 'true'

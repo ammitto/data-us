@@ -1,0 +1,34 @@
+---
+uid: '45693'
+last_name: OOO TD SIBIRSKIY PODSHIPNIK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '67922'
+    address1: ul. Dzerzhinskovo
+    address2: 31-9
+    city: Vologda
+    postal_code: '160033'
+    country: Russia
+  - uid: '67923'
+    address1: ul. Gagarina
+    address2: d. 84A
+    city: Vologda
+    postal_code: '160028'
+    country: Russia
+id_list:
+  items:
+  - uid: '35384'
+    id_type: Tax ID No.
+    id_number: '5403180330'
+    id_country: Russia
+  - uid: '35385'
+    id_type: Registration Number
+    id_number: '1055403103865'
+    id_country: Russia
+  - uid: '176000'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

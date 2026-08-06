@@ -1,0 +1,43 @@
+---
+uid: '11814'
+first_name: Javier Mauricio
+last_name: GUTIERREZ HERNANDEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '18026'
+    address1: c/o BINGO INTERNACIONAL E.U.
+    city: Bogota
+    country: Colombia
+  - uid: '18027'
+    address1: c/o INVERSIONES GANADERAS Y PALMERAS S.A.
+    city: Bogota
+    country: Colombia
+  - uid: '18028'
+    address1: Calle 18 No. 6-31 of. 704
+    city: Bogota
+    country: Colombia
+  - uid: '18029'
+    address1: Carrera 7 Bis No. 123-51 apto. 201
+    address2: Barrio Santa Barbara
+    city: Bogota
+    country: Colombia
+id_list:
+  items:
+  - uid: '6254'
+    id_type: Cedula No.
+    id_number: '17339511'
+    id_country: Colombia
+date_of_birth_list:
+  items:
+  - uid: '7368'
+    date_of_birth: 11 Dec 1968
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '7369'
+    place_of_birth: Villavicencio, Colombia
+    main_entry: 'true'

@@ -1,0 +1,44 @@
+---
+uid: '11966'
+first_name: Jaime
+last_name: GONZALEZ DURAN
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '18105'
+    address1: Calle Xolmon, Tampaxal
+    address2: Colonia Aquismon
+    state_or_province: San Luis Potosi
+    postal_code: C.P. 79760
+    country: Mexico
+id_list:
+  items:
+  - uid: '6298'
+    id_type: C.U.R.P.
+    id_number: GODJ760122HSPNRM01
+    id_country: Mexico
+  - uid: '6299'
+    id_type: R.F.C.
+    id_number: GODJ760122
+    id_country: Mexico
+  - uid: '6300'
+    id_type: Cartilla de Servicio Militar Nacional
+    id_number: B8987689
+    id_country: Mexico
+  - uid: '6301'
+    id_type: C.U.I.P.
+    id_number: GODJ760122H24151162
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '7446'
+    date_of_birth: 22 Jan 1976
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '7447'
+    place_of_birth: San Luis Potosi, Mexico
+    main_entry: 'true'

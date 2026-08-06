@@ -1,0 +1,41 @@
+---
+uid: '48494'
+last_name: AVIV LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75363'
+    type: a.k.a.
+    category: strong
+    last_name: AVIV GRUPP
+address_list:
+  items:
+  - uid: '72760'
+    address1: Nikoloyamskaya St., 16/2
+    address2: bldg. 6
+    city: Moscow
+    postal_code: '109240'
+    country: Russia
+  - uid: '72761'
+    address1: Ul. 2-ya Karacharovskaya D. 1
+    address2: str. 1, et. 2
+    address3: kom 39
+    city: Moscow
+    postal_code: '109202'
+    country: Russia
+id_list:
+  items:
+  - uid: '39401'
+    id_type: Registration Number
+    id_number: '1147746259924'
+    id_country: Russia
+  - uid: '39403'
+    id_type: Tax ID No.
+    id_number: '7722837270'
+    id_country: Russia
+  - uid: '171297'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,49 @@
+---
+uid: '49509'
+first_name: Elena Aleksandrovna
+last_name: PERESELYAK
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77230'
+    type: a.k.a.
+    category: strong
+    last_name: PERASIALIAK
+    first_name: Alena Aliaksandrauna
+address_list:
+  items:
+  - uid: '74700'
+    address1: 21 Lenin Blvd.
+    address2: Apt. 24
+    city: Minsk
+    country: Belarus
+id_list:
+  items:
+  - uid: '40859'
+    id_type: National ID No.
+    id_number: 4200890B016PB7
+    id_country: Belarus
+  - uid: '40860'
+    id_type: Passport
+    id_number: MC2781840
+    id_country: Belarus
+  - uid: '172603'
+    id_type: Gender
+    id_number: Female
+  - uid: '172748'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '72601'
+    date_of_birth: 20 Aug 1990
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '72845'
+    place_of_birth: Zhodino, Minsk Region, Belarus
+    main_entry: 'true'
+remarks: "(Linked To: LIMITED LIABILITY COMPANY BAZTUBE)"

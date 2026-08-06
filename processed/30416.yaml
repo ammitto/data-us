@@ -1,0 +1,40 @@
+---
+uid: '30416'
+last_name: TABCHEM CHEMICAL INDUSTRIES CO.
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13876
+aka_list:
+  items:
+  - uid: '47813'
+    type: a.k.a.
+    category: strong
+    last_name: TABCHEM CHEMICAL INDUSTRIES COMPANY PRIVATE COMPANY
+address_list:
+  items:
+  - uid: '46022'
+    address1: 5th Floor, No. 97, S. Iranshahr St.
+    city: Tehran
+    country: Iran
+  - uid: '46023'
+    address1: Alborz industry city
+    city: Qazvin
+    country: Iran
+id_list:
+  items:
+  - uid: '20574'
+    id_type: National ID No.
+    id_number: '10100588400'
+    id_country: Iran
+  - uid: '20575'
+    id_type: Registration Number
+    id_number: '16278'
+    id_country: Iran
+  - uid: '138064'
+    id_type: Website
+    id_number: www.tabchem.ir
+  - uid: '138063'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: BEHRAN OIL CO.)"

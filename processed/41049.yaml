@@ -1,0 +1,34 @@
+---
+uid: '41049'
+first_name: Roman Viktorovich
+last_name: BUSARGIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '61339'
+    state_or_province: Saratov Region
+    country: Russia
+id_list:
+  items:
+  - uid: '30379'
+    id_type: Tax ID No.
+    id_number: '645201686790'
+  - uid: '173582'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '158891'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '58889'
+    date_of_birth: 29 Jul 1981
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '58890'
+    place_of_birth: Bolshaya Sakma, Saratov Region, Russia
+    main_entry: 'true'

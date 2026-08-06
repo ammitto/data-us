@@ -1,0 +1,56 @@
+---
+uid: '53817'
+last_name: KOREA SAENAL TRADING CORPORATION
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK4
+aka_list:
+  items:
+  - uid: '83853'
+    type: a.k.a.
+    category: strong
+    last_name: KOREA SAENAL TECHNOLOGY TRADING CORPORATION
+  - uid: '83854'
+    type: a.k.a.
+    category: strong
+    last_name: SAENAL TRADING CORPORATION
+  - uid: '83855'
+    type: a.k.a.
+    category: strong
+    last_name: KOREA SAENAL TRADING
+  - uid: '83856'
+    type: a.k.a.
+    category: strong
+    last_name: CHOSUN SAENAL TRADING CORPORATION
+  - uid: '83857'
+    type: a.k.a.
+    category: strong
+    last_name: CHOSUN SAENAL TRADING COMPANY
+  - uid: '83858'
+    type: a.k.a.
+    category: strong
+    last_name: CHOSUN SAENAL TRADING
+address_list:
+  items:
+  - uid: '82136'
+    address1: Ryugyong-dong No.1, Pothonggang District
+    city: Pyongyang
+    country: Korea, North
+  - uid: '82137'
+    address1: Chunso'ng Ward, Central District
+    city: Pyongyang
+    country: Korea, North
+  - uid: '82138'
+    address1: KoJungsong-dong Central District, KP
+    city: Pyongyang
+    country: Korea, North
+id_list:
+  items:
+  - uid: '188840'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '188839'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214

@@ -1,0 +1,67 @@
+---
+uid: '7265'
+first_name: Ramzi Mohammed Abdullah
+last_name: BINALSHIBH
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '5226'
+    type: a.k.a.
+    category: strong
+    last_name: BIN AL SHIBH
+    first_name: Ramzi
+  - uid: '5227'
+    type: a.k.a.
+    category: strong
+    last_name: BINALSHEIDAH
+    first_name: Ramzi Mohamed Abdullah
+  - uid: '5228'
+    type: a.k.a.
+    category: strong
+    last_name: OMAR
+    first_name: Ramzi Mohammed Abdellah
+address_list:
+  items:
+  - uid: '50106'
+    address1: Guantanamo Bay detention center
+    country: Cuba
+id_list:
+  items:
+  - uid: '1582'
+    id_type: Passport
+    id_number: R85243
+    id_country: Yemen
+  - uid: '1583'
+    id_type: Passport
+    id_number: A755350
+    id_country: Saudi Arabia
+  - uid: '1584'
+    id_type: Passport
+    id_number: '00085243'
+    id_country: Yemen
+  - uid: '143343'
+    id_type: Gender
+    id_number: Male
+  - uid: '185681'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '1470'
+    date_of_birth: 01 May 1972
+    main_entry: 'true'
+  - uid: '1474'
+    date_of_birth: 16 Sep 1973
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '1471'
+    place_of_birth: Hadramawt, Yemen
+    main_entry: 'true'
+  - uid: '1473'
+    place_of_birth: Khartoum Sudan
+    main_entry: 'false'

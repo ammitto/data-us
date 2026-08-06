@@ -1,0 +1,34 @@
+---
+uid: '13012'
+last_name: EL PALOMAR CAR WASH, S.A. DE C.V.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '20714'
+    address1: Plaza El Palomar
+    address2: Zona M Unico El P. Panor
+    address3: Col. El Palomar
+    city: Tlajomulco
+    state_or_province: Jalisco
+    postal_code: '45645'
+    country: Mexico
+  - uid: '20715'
+    address1: Paseo De Las Lomas 6272
+    address2: Col. Lomas De Colli
+    city: Zapopan
+    state_or_province: Jalsico
+    postal_code: '45037'
+    country: Mexico
+id_list:
+  items:
+  - uid: '7431'
+    id_type: R.F.C.
+    id_number: PCW010604T1
+    id_country: Mexico
+  - uid: '7432'
+    id_type: Folio Mercantil No.
+    id_number: '10374'
+    id_country: Mexico

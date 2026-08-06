@@ -1,0 +1,35 @@
+---
+uid: '26418'
+first_name: Omar Jose
+last_name: PRIETO FERNANDEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+aka_list:
+  items:
+  - uid: '41650'
+    type: a.k.a.
+    category: strong
+    last_name: PRIETO
+    first_name: Omar
+address_list:
+  items:
+  - uid: '40059'
+    city: San Francisco
+    state_or_province: Zulia
+    country: Venezuela
+id_list:
+  items:
+  - uid: '17060'
+    id_type: Cedula No.
+    id_number: '9761075'
+    id_country: Venezuela
+  - uid: '130859'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '30858'
+    date_of_birth: 25 May 1969
+    main_entry: 'true'

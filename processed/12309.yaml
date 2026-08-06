@@ -1,0 +1,83 @@
+---
+uid: '12309'
+first_name: Alfredo
+last_name: ALVAREZ ZEPEDA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '13220'
+    type: a.k.a.
+    category: strong
+    last_name: ONTIVEROS RIOS
+    first_name: Gabino
+  - uid: '13221'
+    type: a.k.a.
+    category: strong
+    last_name: RODRIGO ALVAREZ
+    first_name: Sacarias
+address_list:
+  items:
+  - uid: '18972'
+    address1: C. Paloma 903
+    address2: Col. Fatima
+    city: Durango
+    state_or_province: Durango
+    postal_code: C.P. 34080
+    country: Mexico
+  - uid: '18973'
+    address1: Colonia San Jose del Barranco
+    city: Badiraguato
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '19086'
+    address1: Boulevard Jesus Kumate Rodriguez
+    address2: Kilometro 2 Edificio 2
+    address3: Colonia Rincon del Valle
+    city: Culiacan
+    state_or_province: Sinaloa
+    postal_code: C.P. 80155
+    country: Mexico
+  - uid: '19087'
+    address1: Calle Loc Cospita S/N
+    address2: Colonia Loc Cospita
+    city: Culiacan
+    state_or_province: Sinaloa
+    postal_code: C.P. 80000
+    country: Mexico
+id_list:
+  items:
+  - uid: '6742'
+    id_type: Credencial electoral
+    id_number: RDALSC77091210H700
+    id_country: Mexico
+  - uid: '6743'
+    id_type: C.U.R.P.
+    id_number: OIRG810219HSLNSB09
+    id_country: Mexico
+  - uid: '6744'
+    id_type: C.U.R.P.
+    id_number: ROAS770912HDGDLC02
+    id_country: Mexico
+  - uid: '7046'
+    id_type: R.F.C.
+    id_number: OIRG810219GGA
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '8037'
+    date_of_birth: 12 Sep 1977
+    main_entry: 'true'
+  - uid: '8039'
+    date_of_birth: 19 Feb 1981
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '8038'
+    place_of_birth: Culiacan, Sinaloa, Mexico
+    main_entry: 'true'
+  - uid: '8040'
+    place_of_birth: Vicente Guerrero, Durango, Mexico
+    main_entry: 'false'

@@ -1,0 +1,53 @@
+---
+uid: '44970'
+last_name: JOINT STOCK COMPANY HMS GROUP
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69598'
+    type: a.k.a.
+    category: strong
+    last_name: HMS GROUP JSC
+  - uid: '69599'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO GRUPPA GMS
+  - uid: '69600'
+    type: f.k.a.
+    category: strong
+    last_name: GRUPPA GMS OAO
+  - uid: '69601'
+    type: f.k.a.
+    category: strong
+    last_name: INVESTITSIONNO PROMYSHLENNAYA GRUPPA GIDRAVLICHESKIE MASHINY I SISTEMY
+      OOO
+address_list:
+  items:
+  - uid: '66920'
+    address1: Ul. Chayanova D. 7
+    city: Moscow
+    postal_code: '125047'
+    country: Russia
+id_list:
+  items:
+  - uid: '34602'
+    id_type: Tax ID No.
+    id_number: '7708678325'
+    id_country: Russia
+  - uid: '34603'
+    id_type: Government Gazette Number
+    id_number: '72718329'
+    id_country: Russia
+  - uid: '34604'
+    id_type: Registration ID
+    id_number: '5087746036483'
+    id_country: Russia
+  - uid: '175854'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '165304'
+    id_type: Organization Established Date
+    id_number: 02 Mar 2004

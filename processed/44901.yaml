@@ -1,0 +1,45 @@
+---
+uid: '44901'
+first_name: Andrey
+last_name: ZHUYKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+aka_list:
+  items:
+  - uid: '69462'
+    type: a.k.a.
+    category: weak
+    last_name: DIF
+  - uid: '69463'
+    type: a.k.a.
+    category: weak
+    last_name: DEFENDER
+address_list:
+  items:
+  - uid: '66812'
+    city: Sochi
+    country: Russia
+  - uid: '66813'
+    city: Yekaterinburg
+    country: Russia
+id_list:
+  items:
+  - uid: '165153'
+    id_type: Email Address
+    id_number: megaprof@gmail.com
+  - uid: '165154'
+    id_type: Email Address
+    id_number: refflex@gmail.com
+  - uid: '165283'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+  - uid: '165155'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '65152'
+    date_of_birth: 18 Feb 1982
+    main_entry: 'true'

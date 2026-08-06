@@ -1,0 +1,35 @@
+---
+uid: '54189'
+first_name: Liangsheng
+last_name: SU
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER4
+address_list:
+  items:
+  - uid: '82730'
+    address1: Phum 14, Tonle Basak, Chamkar Mon
+    city: Phnom Penh
+    postal_code: '12301'
+    country: Cambodia
+id_list:
+  items:
+  - uid: '47698'
+    id_type: Passport
+    id_number: N01524000
+    id_country: Cambodia
+    expiration_date: 20 Feb 2029
+  - uid: '189820'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '89818'
+    date_of_birth: 02 Feb 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '89819'
+    place_of_birth: Fujian Province, China
+    main_entry: 'true'

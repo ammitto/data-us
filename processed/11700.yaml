@@ -1,0 +1,30 @@
+---
+uid: '11700'
+first_name: Hector
+last_name: CONTRERAS NOVOA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '17655'
+    address1: Avenida Chapalita No. 1015
+    city: Zapopan
+    state_or_province: Jalisco
+    country: Mexico
+id_list:
+  items:
+  - uid: '6072'
+    id_type: C.U.R.P.
+    id_number: CONH680916HJCNVC05
+    id_country: Mexico
+  - uid: '6073'
+    id_type: Passport
+    id_number: '03140180849'
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '7142'
+    date_of_birth: 16 Sep 1968
+    main_entry: 'true'

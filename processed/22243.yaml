@@ -1,0 +1,36 @@
+---
+uid: '22243'
+first_name: Ruan
+last_name: RUNLING
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+aka_list:
+  items:
+  - uid: '35017'
+    type: a.k.a.
+    category: strong
+    last_name: RUNLING
+    first_name: Ricky
+  - uid: '35018'
+    type: a.k.a.
+    category: strong
+    last_name: RUAN
+    first_name: Ricky
+id_list:
+  items:
+  - uid: '13975'
+    id_type: Passport
+    id_number: P01519268
+    id_country: China
+    expiration_date: 15 Feb 2017
+  - uid: '123676'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '23596'
+    date_of_birth: 02 Apr 1982
+    main_entry: 'true'

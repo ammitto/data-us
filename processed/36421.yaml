@@ -1,0 +1,38 @@
+---
+uid: '36421'
+last_name: LIMITED LIABILITY COMPANY RUTARGET
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '57380'
+    type: a.k.a.
+    category: strong
+    last_name: RUTARGET LLC
+  - uid: '57381'
+    type: a.k.a.
+    category: strong
+    last_name: RUTARGET LIMITED
+address_list:
+  items:
+  - uid: '54717'
+    address1: Room 1-N, 29 Letter A, Line 18, of Vasilyevsky Island
+    city: St. Petersburg
+    postal_code: '199178'
+    country: Russia
+id_list:
+  items:
+  - uid: '25820'
+    id_type: Tax ID No.
+    id_number: '7801579142'
+    id_country: Russia
+  - uid: '25821'
+    id_type: Registration Number
+    id_number: '1127847377118'
+    id_country: Russia
+  - uid: '174202'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)"

@@ -1,0 +1,34 @@
+---
+uid: '52195'
+last_name: LIMITED LIABILITY COMPANY AIDRONEKS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '81741'
+    type: a.k.a.
+    category: strong
+    last_name: IDRONEX
+address_list:
+  items:
+  - uid: '79685'
+    address1: Suite 16, Letter A, Building 6
+    address2: 63 Blagodatnaya Street
+    city: Saint Petersburg
+    postal_code: '196105'
+    country: Russia
+id_list:
+  items:
+  - uid: '45103'
+    id_type: Registration Number
+    id_number: '1197847232220'
+    id_country: Russia
+  - uid: '45104'
+    id_type: Tax ID No.
+    id_number: '7810781443'
+    id_country: Russia
+  - uid: '183127'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

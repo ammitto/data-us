@@ -1,0 +1,45 @@
+---
+uid: '11950'
+first_name: Alejandro
+last_name: PEREZ MANCILLA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '18135'
+    address1: Calle Ninos Heroes No. 143
+    address2: entre Miguel Hidalgo y Jose Maria Morelos
+    city: Saltillo
+    state_or_province: Coahuila
+    postal_code: C.P. 25060
+    country: Mexico
+id_list:
+  items:
+  - uid: '6332'
+    id_type: C.U.R.P.
+    id_number: PEMA741223HTSRNL06
+    id_country: Mexico
+  - uid: '6333'
+    id_type: Electoral Registry No.
+    id_number: PRMNAL74122328H701
+    id_country: Mexico
+  - uid: '6334'
+    id_type: Cartilla de Servicio Militar Nacional
+    id_number: B9764183
+    id_country: Mexico
+  - uid: '6335'
+    id_type: R.F.C.
+    id_number: PEMA741223
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '7517'
+    date_of_birth: 23 Dec 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '7518'
+    place_of_birth: Reynosa, Tamaulipas
+    main_entry: 'true'

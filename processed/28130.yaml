@@ -1,0 +1,38 @@
+---
+uid: '28130'
+first_name: Kim
+last_name: SOPHARY
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+address_list:
+  items:
+  - uid: '42594'
+    address1: '135'
+    address2: Street 110
+    address3: Takhmao
+    state_or_province: Kandal
+    postal_code: '0811'
+    country: Cambodia
+id_list:
+  items:
+  - uid: '18617'
+    id_type: Passport
+    id_number: N00013860
+    id_country: Cambodia
+    expiration_date: 13 Aug 2024
+  - uid: '133484'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '33473'
+    date_of_birth: 12 Dec 1982
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '33483'
+    place_of_birth: Kampong Cham, Cambodia
+    main_entry: 'true'
+remarks: "(Linked To: KIM, Kun)"

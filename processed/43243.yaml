@@ -1,0 +1,47 @@
+---
+uid: '43243'
+first_name: Igor Albertovich
+last_name: KESAEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '67037'
+    type: a.k.a.
+    category: strong
+    last_name: KESAEV
+    first_name: Ihor Albertovych
+  - uid: '67038'
+    type: a.k.a.
+    category: strong
+    last_name: KESAYEV
+    first_name: Igor Albertovich
+address_list:
+  items:
+  - uid: '64533'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '32795'
+    id_type: Tax ID No.
+    id_number: '770604683378'
+    id_country: Russia
+  - uid: '175659'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '162427'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '62425'
+    date_of_birth: 30 Oct 1966
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '62426'
+    place_of_birth: Vladikavkaz, North Ossetia-Alania Republic, Russia
+    main_entry: 'true'

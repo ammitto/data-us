@@ -1,0 +1,40 @@
+---
+uid: '11225'
+last_name: GLOBAL INTERFACE COMPANY INC.
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+aka_list:
+  items:
+  - uid: '11635'
+    type: f.k.a.
+    category: strong
+    last_name: TRANS SCIENTIFIC CORP.
+address_list:
+  items:
+  - uid: '16376'
+    address1: 9F-1, No. 22
+    address2: Hsin Yi Rd.
+    address3: Sec. 2
+    city: Taipei
+    country: Taiwan
+  - uid: '16377'
+    address1: 1st Floor, No. 49
+    address2: Lane 280
+    address3: Kuang Fu S. Road
+    city: Taipei
+    country: Taiwan
+id_list:
+  items:
+  - uid: '5695'
+    id_type: 'Business Registration Document #'
+    id_number: '12873346'
+    id_country: Taiwan
+  - uid: '134911'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '127712'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210

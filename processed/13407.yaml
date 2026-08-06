@@ -1,0 +1,41 @@
+---
+uid: '13407'
+first_name: Juan Ignacio
+last_name: ESPARRAGOZA GASTELUM
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '21451'
+    address1: Avenida de la Patria No. 685 Interior 1
+    address2: Fraccionamiento Jardines Universidad
+    city: Zapopan
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '21452'
+    address1: Calle Gutierrez Zamora No. 223
+    address2: Fraccionamiento Las Aguilas
+    address3: Delegacion Alvaro Obregon
+    city: Mexico City
+    state_or_province: Distrito Federal
+    postal_code: C.P. 01020
+    country: Mexico
+id_list:
+  items:
+  - uid: '7922'
+    id_type: R.F.C.
+    id_number: EAGJ721112CI2
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '9472'
+    date_of_birth: 12 Nov 1972
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '9473'
+    place_of_birth: San Luis Rio Colorado, Sinaloa, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: GRUPO IMPERGOZA, S.A. DE C.V.)"

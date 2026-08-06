@@ -1,0 +1,42 @@
+---
+uid: '44157'
+first_name: Vasiliy Nikolaevich
+last_name: ANOKHIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '68298'
+    type: a.k.a.
+    category: strong
+    last_name: ANOKHIN
+    first_name: Vasily Nikolayevich
+address_list:
+  items:
+  - uid: '65710'
+    state_or_province: Smolensk Region
+    country: Russia
+id_list:
+  items:
+  - uid: '33569'
+    id_type: Tax ID No.
+    id_number: '502009476264'
+    id_country: Russia
+  - uid: '175782'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '163737'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '63735'
+    date_of_birth: 24 May 1983
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '63736'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'

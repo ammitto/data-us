@@ -1,0 +1,49 @@
+---
+uid: '36073'
+first_name: Bahaddin
+last_name: AYAN
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '56896'
+    type: a.k.a.
+    category: strong
+    last_name: AYAN
+    first_name: Bahattin
+address_list:
+  items:
+  - uid: '54252'
+    address1: Bahcekoy Mah Ihlamur Sk N4 Bahcekoy Sariyer
+    city: Istanbul
+    country: Turkey
+  - uid: '54253'
+    address1: Resit Pasa Birgul Mh Denizbank Ust Sit Yol Sk N29 Istinye
+    city: Istanbul
+    country: Turkey
+id_list:
+  items:
+  - uid: '25463'
+    id_type: National ID No.
+    id_number: '37937088634'
+    id_country: Turkey
+  - uid: '149470'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '149473'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '49471'
+    date_of_birth: 07 Jan 1989
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '49472'
+    place_of_birth: Ankara, Turkey
+    main_entry: 'true'
+remarks: "(Linked To: ASB GROUP OF COMPANIES LIMITED)"

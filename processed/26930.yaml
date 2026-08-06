@@ -1,0 +1,45 @@
+---
+uid: '26930'
+last_name: JUI CHENG SHIPPING COMPANY LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK4
+aka_list:
+  items:
+  - uid: '42587'
+    type: a.k.a.
+    category: strong
+    last_name: JUI CHENG SHIPPING CO., LIMITED
+  - uid: '42588'
+    type: a.k.a.
+    category: strong
+    last_name: JUI CHENG SHIPPING CO LTD
+address_list:
+  items:
+  - uid: '40912'
+    address1: Care of Jui Zong Ship Management Co Ltd
+    address2: 5th Floor, 551, Jiuru 1st Road, Sanmin District
+    city: Kaohsiung
+    postal_code: '80764'
+    country: Taiwan
+  - uid: '40914'
+    address1: Room B, 21/F Kaikwong Commercial Building, 332 Lockhart Road
+    city: Wan Chai
+    country: Hong Kong
+id_list:
+  items:
+  - uid: '17561'
+    id_type: Commercial Registry Number
+    id_number: '0925906'
+    id_country: Hong Kong
+  - uid: '17571'
+    id_type: Company Number
+    id_number: IMO 5499198
+  - uid: '135258'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '131766'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210

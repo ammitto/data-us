@@ -1,0 +1,56 @@
+---
+uid: '11963'
+first_name: Victor Manuel
+last_name: VASQUEZ MIRELES
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '12661'
+    type: a.k.a.
+    category: strong
+    last_name: VAZQUEZ MIRELES
+    first_name: Victor Manuel
+address_list:
+  items:
+  - uid: '18115'
+    city: Guadalupe
+    state_or_province: Nuevo Leon
+    country: Mexico
+  - uid: '18116'
+    city: San Nicholas
+    state_or_province: Nuevo Leon
+    country: Mexico
+  - uid: '18117'
+    city: Tampico
+    state_or_province: Tamaulipas
+    country: Mexico
+  - uid: '18118'
+    address1: Calle Abelardo Rodriguez
+    city: Matamoros
+    state_or_province: Tamaulipas
+    country: Mexico
+id_list:
+  items:
+  - uid: '6305'
+    id_type: C.U.R.P.
+    id_number: VAMV670603HTSZRC06
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '7462'
+    date_of_birth: 03 Jun 1967
+    main_entry: 'true'
+  - uid: '7463'
+    date_of_birth: 03 Jun 1977
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '7464'
+    place_of_birth: Tamaulipas, Mexico
+    main_entry: 'true'
+  - uid: '7465'
+    place_of_birth: Mexico
+    main_entry: 'false'

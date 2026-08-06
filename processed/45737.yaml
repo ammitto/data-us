@@ -1,0 +1,33 @@
+---
+uid: '45737'
+last_name: PROMKOMPLEKT SINTEZ
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '68030'
+    address1: Ul. Orshanskaya D. 5
+    address2: Pom. 2
+    city: Moscow
+    postal_code: '121552'
+    country: Russia
+  - uid: '68031'
+    address1: Nab. Presnenskaya D. 10
+    city: Moscow
+    postal_code: '123112'
+    country: Russia
+id_list:
+  items:
+  - uid: '35456'
+    id_type: Registration Number
+    id_number: '1137746986519'
+    id_country: Russia
+  - uid: '35457'
+    id_type: Tax ID No.
+    id_number: '7729754778'
+    id_country: Russia
+  - uid: '176020'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

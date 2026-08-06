@@ -1,0 +1,44 @@
+---
+uid: '40217'
+first_name: Ali Ahmed
+last_name: NAAJI
+sdn_type: Individual
+program_list:
+  programs:
+  - SOMALIA
+aka_list:
+  items:
+  - uid: '62528'
+    type: a.k.a.
+    category: strong
+    last_name: HAJI
+    first_name: Ali Ahmed
+  - uid: '62529'
+    type: a.k.a.
+    category: weak
+    last_name: NAJI, Ali
+  - uid: '65681'
+    type: a.k.a.
+    category: strong
+    last_name: NAJI
+    first_name: Cali Axmed
+  - uid: '65682'
+    type: a.k.a.
+    category: strong
+    last_name: NAJI
+    first_name: Ali Ahmed
+address_list:
+  items:
+  - uid: '63094'
+    city: Kismayo
+    country: Somalia
+id_list:
+  items:
+  - uid: '160624'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '60623'
+    date_of_birth: 01 Jan 1974
+    main_entry: 'true'

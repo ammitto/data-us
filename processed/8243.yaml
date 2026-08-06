@@ -1,0 +1,36 @@
+---
+uid: '8243'
+first_name: Fernando Melciades
+last_name: ZEVALLOS GONZALES
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '6459'
+    type: a.k.a.
+    category: strong
+    last_name: GONZALES
+    first_name: Hernan
+  - uid: '6460'
+    type: a.k.a.
+    category: strong
+    last_name: ZEVALLOS GONZALEZ
+    first_name: Fernando
+id_list:
+  items:
+  - uid: '3413'
+    id_type: LE Number
+    id_number: '07552116'
+    id_country: Peru
+date_of_birth_list:
+  items:
+  - uid: '2641'
+    date_of_birth: '08 Jul 1957'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '2642'
+    place_of_birth: Juanjui, San Martin, Peru
+    main_entry: 'true'

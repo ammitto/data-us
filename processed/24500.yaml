@@ -1,0 +1,31 @@
+---
+uid: '24500'
+last_name: EP-MMC
+sdn_type: Aircraft
+program_list:
+  programs:
+  - IFSR
+  - SDGT
+  - NPWMD
+id_list:
+  items:
+  - uid: '126920'
+    id_type: Aircraft Manufacture Date
+    id_number: 18 Jun 1999
+  - uid: '126922'
+    id_type: Aircraft Model
+    id_number: A340-313X
+  - uid: '126923'
+    id_type: Aircraft Operator
+    id_number: Mahan Air
+  - uid: '126921'
+    id_type: Aircraft Manufacturer's Serial Number (MSN)
+    id_number: '282'
+  - uid: '126919'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '187163'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: "(Linked To: MAHAN AIR)"

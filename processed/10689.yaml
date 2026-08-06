@@ -1,0 +1,100 @@
+---
+uid: '10689'
+first_name: Muhammad
+last_name: SAEED
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '10711'
+    type: a.k.a.
+    category: strong
+    last_name: SAEED
+    first_name: Hafiz Muhammad
+  - uid: '10712'
+    type: a.k.a.
+    category: strong
+    last_name: SAEED
+    first_name: Hafiz
+  - uid: '10713'
+    type: a.k.a.
+    category: weak
+    last_name: HAFIZ SAHIB
+  - uid: '10714'
+    type: a.k.a.
+    category: strong
+    last_name: SAEED
+    first_name: Hafiz Mohammad
+  - uid: '10715'
+    type: a.k.a.
+    category: strong
+    last_name: SAYEED
+    first_name: Hafez Mohammad
+  - uid: '10716'
+    type: a.k.a.
+    category: strong
+    last_name: SAYID
+    first_name: Hafiz Mohammad
+  - uid: '10717'
+    type: a.k.a.
+    category: strong
+    last_name: SYEED
+    first_name: Hafiz Mohammad
+  - uid: '10718'
+    type: a.k.a.
+    category: weak
+    last_name: TATA JI
+  - uid: '10719'
+    type: a.k.a.
+    category: strong
+    last_name: SAYED
+    first_name: Hafiz Mohammad
+  - uid: '14680'
+    type: a.k.a.
+    category: strong
+    last_name: SAEED HAFIZ
+    first_name: Muhammad
+address_list:
+  items:
+  - uid: '15084'
+    address1: House No. 116 E
+    address2: Mohalla Johar
+    address3: 'Town: Lahore, Tehsil:'
+    city: Lahore City, Lahore District
+    country: Pakistan
+id_list:
+  items:
+  - uid: '5269'
+    id_type: National ID No.
+    id_number: 3520025509842-7
+    id_country: Pakistan
+  - uid: '7588'
+    id_type: National ID No.
+    id_number: '23250460642'
+    id_country: Pakistan
+  - uid: '7589'
+    id_type: Passport
+    id_number: BE5978421
+    id_country: Pakistan
+    issue_date: 14 Nov 2007
+    expiration_date: 12 Nov 2012
+  - uid: '7590'
+    id_type: Passport
+    id_number: Booklet A5250088
+    id_country: Pakistan
+  - uid: '186345'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '6114'
+    date_of_birth: 05 Jun 1950
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '6115'
+    place_of_birth: Sargodha, Punjab, Pakistan
+    main_entry: 'true'

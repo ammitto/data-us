@@ -1,0 +1,30 @@
+---
+uid: '42756'
+first_name: Dirk
+last_name: TROENDLE
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '63804'
+    country: Germany
+id_list:
+  items:
+  - uid: '32316'
+    id_type: Passport
+    id_number: C93XHRVNT
+    id_country: Germany
+  - uid: '175470'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '161568'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '61567'
+    date_of_birth: 11 Mar 1956
+    main_entry: 'true'
+remarks: "(Linked To: MORETTI, Walter)"

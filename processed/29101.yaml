@@ -1,0 +1,37 @@
+---
+uid: '29101'
+last_name: M INVEST, OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - CYBER2
+  - ELECTION-EO13848
+  - UKRAINE-EO13661
+address_list:
+  items:
+  - uid: '44020'
+    address1: d. 76 korp. 4 litera A ofis N620, prospekt Obukhovskoi Oborony
+    city: St. Petersburg
+    country: Russia
+  - uid: '44021'
+    city: Khartoum
+    country: Sudan
+id_list:
+  items:
+  - uid: '19372'
+    id_type: Government Gazette Number
+    id_number: '06513574'
+    id_country: Russia
+  - uid: '19373'
+    id_type: Tax ID No.
+    id_number: '7811636632'
+    id_country: Russia
+  - uid: '19374'
+    id_type: Registration Number
+    id_number: '1177847044066'
+    id_country: Russia
+  - uid: '144146'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+remarks: "(Linked To: PRIGOZHIN, Yevgeniy Viktorovich)"

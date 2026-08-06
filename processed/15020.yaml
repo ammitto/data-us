@@ -1,0 +1,44 @@
+---
+uid: '15020'
+first_name: Oscar Dominguez
+last_name: VILLA DIAZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '22025'
+    type: a.k.a.
+    category: strong
+    last_name: VILLA DIAZ
+    first_name: Oscar Domingo
+address_list:
+  items:
+  - uid: '22339'
+    address1: Calle Acapulco No. 35 Interior 804
+    address2: Colonia Roma
+    address3: Delegacion Cuauhtemoc
+    city: Distrito Federal
+    postal_code: Codigo Postal 06700
+    country: Mexico
+id_list:
+  items:
+  - uid: '8017'
+    id_type: R.F.C.
+    id_number: VIDO450920SK6
+    id_country: Mexico
+  - uid: '8018'
+    id_type: Passport
+    id_number: '06340040209'
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '11303'
+    date_of_birth: 20 Sep 1945
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '11304'
+    place_of_birth: Guadalajara, Jalisco, Mexico
+    main_entry: 'true'

@@ -1,0 +1,40 @@
+---
+uid: '54968'
+first_name: Hadi
+last_name: NOURI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '84000'
+    country: Iran
+id_list:
+  items:
+  - uid: '48829'
+    id_type: National ID No.
+    id_number: '3800047055'
+    id_country: Iran
+  - uid: '48831'
+    id_type: Passport
+    id_number: X60474161
+    id_country: Iran
+    expiration_date: 30 Oct 2027
+  - uid: '192153'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '191611'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '91616'
+    date_of_birth: 18 Aug 1978
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '91617'
+    place_of_birth: Ghorveh, Iran
+    main_entry: 'true'
+remarks: "(Linked To: CYRUS OFFSHORE BANK)"

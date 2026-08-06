@@ -1,0 +1,42 @@
+---
+uid: '54319'
+last_name: UNICO SHIPPING CO LTD
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '84590'
+    type: a.k.a.
+    category: strong
+    last_name: UNICO SHIPPING COMPANY LIMITED
+address_list:
+  items:
+  - uid: '82961'
+    address1: Room D07, 8th Floor, Phase 2, Kai Tak Factory Building
+    address2: 99, King Fuk Street
+    address3: San Po Kong
+    city: Hong Kong
+    country: China
+  - uid: '82962'
+    address1: Unit 1208, Building B 1, Wanda Plaza
+    address2: 8, Aojiang Lu
+    address3: Taijiang Qu
+    city: Fuzhou
+    state_or_province: Fujian
+    postal_code: '350009'
+    country: China
+id_list:
+  items:
+  - uid: '47895'
+    id_type: Identification Number
+    id_number: IMO 6484539
+  - uid: '190098'
+    id_type: Organization Established Date
+    id_number: 07 Feb 2024
+  - uid: '190097'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: RAYAN ROSHD AFZAR COMPANY)"

@@ -1,0 +1,45 @@
+---
+uid: '51613'
+last_name: GAZPROMNEFT MARINE BUNKER LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13662
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '78647'
+    address1: 3-ya Liniya V.O d. 62, 5, lit. A
+    city: Saint Petersburg
+    postal_code: '199178'
+    country: Russia
+  - uid: '78648'
+    address1: Block R, 80 Bolshoi prospect, Vasilyevski Island
+    city: Saint Petersburg
+    postal_code: '199106'
+    country: Russia
+  - uid: '78649'
+    address1: Ul. Galernaya 5 Lit A.
+    city: Saint Petersburg
+    postal_code: '190000'
+    country: Russia
+id_list:
+  items:
+  - uid: '44102'
+    id_type: Registration Number
+    id_number: '1077847626042'
+    id_country: Russia
+  - uid: '44103'
+    id_type: Tax ID No.
+    id_number: '7838392447'
+    id_country: Russia
+  - uid: '44104'
+    id_type: Identification Number
+    id_number: IMO 5402692
+  - uid: '181478'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183290'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

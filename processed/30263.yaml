@@ -1,0 +1,49 @@
+---
+uid: '30263'
+first_name: Eugenio Dario
+last_name: MOLINA LOPEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '48821'
+    city: La Democracia
+    state_or_province: Huehuetenango
+    country: Guatemala
+  - uid: '49561'
+    city: Agua Zarca
+    state_or_province: Huehuetenango
+    country: Guatemala
+  - uid: '49562'
+    city: Santa Ana Huista
+    state_or_province: Huehuetenango
+    country: Guatemala
+  - uid: '49563'
+    city: San Antonio Huista
+    state_or_province: Huehuetenango
+    country: Guatemala
+id_list:
+  items:
+  - uid: '20367'
+    id_type: C.U.I.
+    id_number: '1798585561331'
+    id_country: Guatemala
+  - uid: '20368'
+    id_type: 'NIT #'
+    id_number: '6574734'
+    id_country: Guatemala
+  - uid: '141962'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '41960'
+    date_of_birth: 02 Jun 1964
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '41961'
+    place_of_birth: Guatemala
+    main_entry: 'true'

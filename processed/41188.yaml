@@ -1,0 +1,48 @@
+---
+uid: '41188'
+first_name: Win Min
+last_name: SOE
+sdn_type: Individual
+program_list:
+  programs:
+  - BURMA-EO14014
+address_list:
+  items:
+  - uid: '62064'
+    address1: 201, Tetkatho Yeikmon Condo-C
+    address2: New University Avenue
+    city: Bahan Township
+    state_or_province: Yangon
+    postal_code: '11201'
+    country: Burma
+  - uid: '62107'
+    address1: 45 Zayathukha Road
+    city: 54-Thuwunna Thingangyun Township
+    state_or_province: Yangon
+    country: Burma
+id_list:
+  items:
+  - uid: '30937'
+    id_type: National ID No.
+    id_number: 9/MANAMAN031190
+    id_country: Burma
+  - uid: '30979'
+    id_type: Passport
+    id_number: MD222228
+    id_country: Burma
+    issue_date: 15 May 2018
+    expiration_date: 14 May 2023
+  - uid: '159677'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '59676'
+    date_of_birth: 26 Mar 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '59713'
+    place_of_birth: Mandalay, Burma
+    main_entry: 'true'
+remarks: "(Linked To: LATT, Tun Min)"

@@ -1,0 +1,37 @@
+---
+uid: '51521'
+last_name: RPK NORD LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+address_list:
+  items:
+  - uid: '78501'
+    address1: Pr-kt Lenina D. 82
+    address2: Floor 17
+    address3: Office 1701
+    city: Murmansk
+    postal_code: '183038'
+    country: Russia
+id_list:
+  items:
+  - uid: '43923'
+    id_type: Tax ID No.
+    id_number: '5190045920'
+    id_country: Russia
+  - uid: '43924'
+    id_type: Registration Number
+    id_number: '1155190003165'
+    id_country: Russia
+  - uid: '181159'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183481'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '181158'
+    id_type: Organization Established Date
+    id_number: 19 Mar 2015

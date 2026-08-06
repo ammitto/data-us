@@ -1,0 +1,46 @@
+---
+uid: '34876'
+last_name: TACTICAL MISSILES CORPORATION JSC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '54747'
+    type: a.k.a.
+    category: weak
+    last_name: KTRV
+  - uid: '56470'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSCHESTVO KORPORATSIYA TAKTICHESKOE RAKETNOE VOORUZHENIE
+address_list:
+  items:
+  - uid: '53887'
+    address1: d. 7, ul. Ilicha
+    city: Korolev
+    state_or_province: Moskovskaya Obl.
+    postal_code: '141080'
+    country: Russia
+id_list:
+  items:
+  - uid: '25257'
+    id_type: Registration Number
+    id_number: '1035003364021'
+    id_country: Russia
+  - uid: '25258'
+    id_type: Government Gazette Number
+    id_number: '07503313'
+    id_country: Russia
+  - uid: '175216'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184329'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '149093'
+    id_type: Organization Established Date
+    id_number: 13 Mar 2003

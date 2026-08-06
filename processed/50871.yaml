@@ -1,0 +1,44 @@
+---
+uid: '50871'
+first_name: Reza
+last_name: HEIDARI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+  - IFSR
+aka_list:
+  items:
+  - uid: '79676'
+    type: a.k.a.
+    category: strong
+    last_name: HAYDARI
+    first_name: Reza
+address_list:
+  items:
+  - uid: '86423'
+    country: Iran
+id_list:
+  items:
+  - uid: '42839'
+    id_type: National ID No.
+    id_number: '0049509640'
+    id_country: Iran
+  - uid: '179637'
+    id_type: Gender
+    id_number: Male
+  - uid: '179638'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '79634'
+    date_of_birth: 27 Dec 1957
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '79635'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: YAZD INTERNATIONAL AIRWAYS COMPANY)"

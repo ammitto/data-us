@@ -1,0 +1,29 @@
+---
+uid: '46015'
+last_name: LIMITED LIABILITY COMPANY INTEGRATED SOLUTIONS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '68534'
+    address1: 13 Perevedenovskiy Lane
+    address2: Building 18, Suite 21N/3
+    address3: Basmannyy Municipal District
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '35845'
+    id_type: Tax ID No.
+    id_number: '9701245870'
+    id_country: Russia
+  - uid: '35846'
+    id_type: Registration Number
+    id_number: '1237700265593'
+    id_country: Russia
+  - uid: '174888'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: LIMITED LIABILITY COMPANY KISMET CAPITAL GROUP)"

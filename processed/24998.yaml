@@ -1,0 +1,48 @@
+---
+uid: '24998'
+first_name: Huseyin
+last_name: SAHIN
+sdn_type: Individual
+program_list:
+  programs:
+  - DPRK
+address_list:
+  items:
+  - uid: '37838'
+    address1: Adnan Saygun
+    address2: Cad Canan SK N1 Mercan St K 4 D 9 ULUS
+    city: Istanbul
+    country: Turkey
+id_list:
+  items:
+  - uid: '16082'
+    id_type: National ID No.
+    id_number: '31202133364'
+  - uid: '16083'
+    id_type: Passport
+    id_number: U00618757
+    id_country: Turkey
+    issue_date: 12 Aug 2010
+    expiration_date: 11 Aug 2020
+  - uid: '128492'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '128197'
+    id_type: Gender
+    id_number: Male
+  - uid: '135297'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+date_of_birth_list:
+  items:
+  - uid: '28195'
+    date_of_birth: 01 Apr 1957
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '28196'
+    place_of_birth: Gumusova, Turkey
+    main_entry: 'true'
+remarks: "(Linked To: SIA FALCON INTERNATIONAL GROUP)"
+title: Chief Executive Officer

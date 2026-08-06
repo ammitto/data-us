@@ -1,0 +1,74 @@
+---
+uid: '17022'
+last_name: OPEN JOINT-STOCK COMPANY ROSNEFT OIL COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13662
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '26109'
+    type: a.k.a.
+    category: strong
+    last_name: OJSC ROSNEFT OIL COMPANY
+  - uid: '26110'
+    type: a.k.a.
+    category: strong
+    last_name: ROSNEFT OIL COMPANY
+  - uid: '26111'
+    type: a.k.a.
+    category: strong
+    last_name: OAO ROSNEFT OIL COMPANY
+  - uid: '26112'
+    type: a.k.a.
+    category: strong
+    last_name: OIL COMPANY ROSNEFT
+  - uid: '26113'
+    type: a.k.a.
+    category: strong
+    last_name: ROSNEFT
+address_list:
+  items:
+  - uid: '25840'
+    address1: 26/1 Sofiyskaya Embankment
+    city: Moscow
+    postal_code: '115035'
+    country: Russia
+id_list:
+  items:
+  - uid: '9502'
+    id_type: Registration ID
+    id_number: '1027700043502'
+    id_country: Russia
+  - uid: '9503'
+    id_type: Government Gazette Number
+    id_number: '00044428'
+    id_country: Russia
+  - uid: '9504'
+    id_type: Tax ID No.
+    id_number: '7706107510'
+    id_country: Russia
+  - uid: '143715'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '116148'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 2
+  - uid: '116149'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 4
+  - uid: '189891'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '115776'
+    id_type: Website
+    id_number: www.rosneft.com
+  - uid: '115777'
+    id_type: Website
+    id_number: www.rosneft.ru
+  - uid: '115775'
+    id_type: Email Address
+    id_number: postman@rosneft.ru
+remarks: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.'

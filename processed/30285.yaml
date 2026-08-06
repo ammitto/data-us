@@ -1,0 +1,92 @@
+---
+uid: '30285'
+first_name: Mohammad
+last_name: SOLTANMOHAMMADI
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '47480'
+    type: a.k.a.
+    category: strong
+    last_name: WANG
+    first_name: Chung Lung
+  - uid: '47548'
+    type: a.k.a.
+    category: strong
+    last_name: WANG
+    first_name: Chung Lang
+  - uid: '47550'
+    type: a.k.a.
+    category: strong
+    last_name: SELTAN MOHAMMEDI
+    first_name: Mohammed
+  - uid: '47551'
+    type: a.k.a.
+    category: strong
+    last_name: SULTAN MOHMADI
+    first_name: Mohhamad
+  - uid: '47552'
+    type: a.k.a.
+    category: strong
+    last_name: WANG
+    first_name: Zhong-Lang
+address_list:
+  items:
+  - uid: '45714'
+    address1: 'Apartment # 1504, Fairooz Tower'
+    address2: Dubai Marina
+    city: Dubai
+    country: United Arab Emirates
+  - uid: '45715'
+    address1: 216 Ocean Drive, Sentosa Cove
+    city: Singapore
+    postal_code: '098622'
+    country: Singapore
+id_list:
+  items:
+  - uid: '20387'
+    id_type: National ID No.
+    id_number: S27602
+    id_country: United Kingdom
+  - uid: '20388'
+    id_type: Passport
+    id_number: '518015439'
+    id_country: United Kingdom
+    expiration_date: 07 Apr 2026
+  - uid: '20389'
+    id_type: Passport
+    id_number: T96397867
+    id_country: Iran
+  - uid: '20390'
+    id_type: Passport
+    id_number: '038016890'
+    id_country: United Kingdom
+  - uid: '20391'
+    id_type: Passport
+    id_number: '093045489'
+    id_country: United Kingdom
+  - uid: '20395'
+    id_type: Passport
+    id_number: U11283369
+    id_country: Iran
+  - uid: '137794'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '137793'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '37797'
+    date_of_birth: 04 Nov 1960
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '37798'
+    place_of_birth: Hamedan, Iran
+    main_entry: 'true'
+remarks: "(Linked To: HODA TRADING)"

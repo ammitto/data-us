@@ -1,0 +1,64 @@
+---
+uid: '23552'
+last_name: LENGIPRONEFTEKHIM OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13662
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '37105'
+    type: a.k.a.
+    category: strong
+    last_name: LLC LENGIPRONEFTEKHIM
+  - uid: '37106'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY OIL REFINING AND PETROCHEMICAL FACILITIES
+      DESIGN INSTITUTE
+  - uid: '37107'
+    type: a.k.a.
+    category: strong
+    last_name: INSTITUT PO PROEKTIROVANIYU PREDPRIYATY NEFTEPERERABATYVAYUSCHEY I
+      NEFTEKHIMICHESKOY PROMYSHLENNOSTI, LIMITED LIABILITY COMPANY
+  - uid: '82053'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY DESIGN AND ENGINEERING INSTITUTE FOR OIL
+      REFINING AND PETROCHEMICAL ENTERPRISES
+address_list:
+  items:
+  - uid: '35606'
+    address1: D. 94, Obvodnogo Kanala, nab
+    city: St. Petersburg
+    postal_code: '196084'
+    country: Russia
+id_list:
+  items:
+  - uid: '15017'
+    id_type: Registration ID
+    id_number: '1057803105755'
+    id_country: Russia
+  - uid: '15019'
+    id_type: Tax ID No.
+    id_number: '7810327462'
+    id_country: Russia
+  - uid: '183031'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '125411'
+    id_type: Email Address
+    id_number: lgnch@lgnch.spb.ru
+  - uid: '125595'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 4
+  - uid: '125412'
+    id_type: Nationality of Registration
+    id_number: Russia
+  - uid: '143980'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+remarks: 'For more information, please reference the following link: http://www.treasury.gov/resource-center/sanctions/OFAC-Enforcement/Pages/OFAC-Recent-Actions.aspx;
+  (Linked To: SURGUTNEFTEGAS)'

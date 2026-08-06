@@ -1,0 +1,45 @@
+---
+uid: '54510'
+last_name: OCEAN VOYAGE LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '84827'
+    type: a.k.a.
+    category: strong
+    last_name: OCEAN VOYAGE MAHDUD MASULIYYATLI CAMIYYATI
+address_list:
+  items:
+  - uid: '83266'
+    address1: Zahid Xalilov
+    address2: House 113, M12, Apt. M2
+    city: Baku
+    postal_code: AZ1141
+    country: Azerbaijan
+  - uid: '83267'
+    address1: Apartment M2, M12
+    address2: Zahid Khalilov Kucasi, Yasamal District
+    address3: '113'
+    city: Baku
+    postal_code: AZ1141
+    country: Azerbaijan
+id_list:
+  items:
+  - uid: '48134'
+    id_type: Tax ID No.
+    id_number: '1308871731'
+    id_country: Azerbaijan
+  - uid: '48135'
+    id_type: Identification Number
+    id_number: IMO 6507571
+  - uid: '190534'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '190533'
+    id_type: Organization Established Date
+    id_number: 04 Jun 2024
+remarks: "(Linked To: ANSARALLAH)"

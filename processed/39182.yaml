@@ -1,0 +1,40 @@
+---
+uid: '39182'
+last_name: JSC ADDITIVE TECHNOLOGIES CENTER
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '61105'
+    type: a.k.a.
+    category: strong
+    last_name: JSC CENTER ADDITIVNYKH TEKHNOLOGY
+  - uid: '61106'
+    type: a.k.a.
+    category: weak
+    last_name: JSC ATC
+address_list:
+  items:
+  - uid: '58338'
+    address1: 7, Vishnevaya Str
+    city: Moscow
+    postal_code: '125362'
+    country: Russia
+id_list:
+  items:
+  - uid: '28405'
+    id_type: Tax ID No.
+    id_number: '7733325690'
+    id_country: Russia
+  - uid: '28406'
+    id_type: Registration Number
+    id_number: '1187746120407'
+    id_country: Russia
+  - uid: '174749'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '154930'
+    id_type: Organization Established Date
+    id_number: '2018'

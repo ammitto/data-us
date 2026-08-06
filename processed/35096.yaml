@@ -1,0 +1,52 @@
+---
+uid: '35096'
+first_name: Vladimir Vladimirovich
+last_name: PUTIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '55207'
+    type: a.k.a.
+    category: strong
+    last_name: PUTIN
+    first_name: Vladimir
+address_list:
+  items:
+  - uid: '52704'
+    address1: Kremlin
+    city: Moscow
+    country: Russia
+  - uid: '52705'
+    address1: Novo-Ogaryevo
+    state_or_province: Moscow Region
+    country: Russia
+  - uid: '52706'
+    address1: Bocharov Ruchey
+    city: Sochi
+    country: Russia
+  - uid: '52707'
+    address1: Valdai
+    state_or_province: Novgorod Region
+    country: Russia
+id_list:
+  items:
+  - uid: '147011'
+    id_type: Gender
+    id_number: Male
+  - uid: '175271'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '47007'
+    date_of_birth: 07 Oct 1952
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '47008'
+    place_of_birth: Leningrad, Russia
+    main_entry: 'true'
+title: President of the Russian Federation

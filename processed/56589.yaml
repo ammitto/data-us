@@ -1,0 +1,33 @@
+---
+uid: '56589'
+last_name: SINO MARINE SERVICES LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - VENEZUELA-EO13850
+aka_list:
+  items:
+  - uid: '87661'
+    type: a.k.a.
+    category: strong
+    last_name: SINO MARINE SERVICES LTD
+address_list:
+  items:
+  - uid: '86583'
+    address1: 14, Wells View Drive
+    city: Bromley
+    state_or_province: Kent
+    postal_code: BR2 9UL
+    country: United Kingdom
+id_list:
+  items:
+  - uid: '50637'
+    id_type: Identification Number
+    id_number: IMO 5967460
+  - uid: '50638'
+    id_type: Company Number
+    id_number: '10214578'
+    id_country: United Kingdom
+  - uid: '195248'
+    id_type: Organization Established Date
+    id_number: 01 Jan 2016

@@ -1,0 +1,48 @@
+---
+uid: '12528'
+first_name: Hector Manuel
+last_name: AVENDANO OJEDA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '19646'
+    address1: c/o AUTODROMO CULIACAN
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '19647'
+    address1: Calle Antonio Caso No. 500
+    address3: Colonia Aurora
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '19648'
+    address1: Calle Mision de Sab Gabriel Arcangel No 2335
+    address2: Interior A
+    address3: Colonia Real Nueva Galicia
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+id_list:
+  items:
+  - uid: '7014'
+    id_type: C.U.R.P.
+    id_number: AEOH711102HSLVJC08
+    id_country: Mexico
+  - uid: '7015'
+    id_type: R.F.C.
+    id_number: AEOH-711102-I99
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '8213'
+    date_of_birth: 02 Nov 1971
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '8214'
+    place_of_birth: Sinaloa, Mexico
+    main_entry: 'true'

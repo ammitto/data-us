@@ -1,0 +1,49 @@
+---
+uid: '27022'
+last_name: TAWU MECHANICAL ENGINEERING AND TRADING COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '42791'
+    type: a.k.a.
+    category: strong
+    last_name: TAWU BVBA MECHANICAL ENGINEERING AND TRADING COMPANY
+  - uid: '42792'
+    type: a.k.a.
+    category: strong
+    last_name: TAWU BVBA
+  - uid: '42793'
+    type: a.k.a.
+    category: weak
+    last_name: TAWU
+  - uid: '42794'
+    type: f.k.a.
+    category: strong
+    last_name: METAALKUNDE BV
+address_list:
+  items:
+  - uid: '41062'
+    address1: Bleidenhoek 34, 2230 Herselt
+    country: Belgium
+id_list:
+  items:
+  - uid: '17654'
+    id_type: V.A.T. Number
+    id_number: BE0686.896.689
+    id_country: Belgium
+  - uid: '17655'
+    id_type: Business Registration Number
+    id_number: '686896689'
+    id_country: Belgium
+  - uid: '17656'
+    id_type: Business Registration Number
+    id_number: BE0686896689
+    id_country: Belgium
+  - uid: '131989'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: IRAN CENTRIFUGE TECHNOLOGY COMPANY)"

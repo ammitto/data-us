@@ -1,0 +1,54 @@
+---
+uid: '18276'
+last_name: RN-YUGANSKNEFTEGAZ LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13662
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '28234'
+    type: a.k.a.
+    category: strong
+    last_name: YUGANSKNEFTEGAZ
+  - uid: '28235'
+    type: a.k.a.
+    category: strong
+    last_name: RN-YUGANSKNEFTEGAZ OOO
+address_list:
+  items:
+  - uid: '27645'
+    address1: Lenina St., 26
+    city: Nefteyugansk
+    state_or_province: Tyumen Region
+    postal_code: '628309'
+    country: Russia
+id_list:
+  items:
+  - uid: '47085'
+    id_type: Registration Number
+    id_number: '1058602819538'
+    id_country: Russia
+  - uid: '47086'
+    id_type: Tax ID No.
+    id_number: '8604035473'
+    id_country: Russia
+  - uid: '143474'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '117593'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 2
+  - uid: '117653'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 4
+  - uid: '117528'
+    id_type: Email Address
+    id_number: rn_yng@yungjsc.com
+  - uid: '188609'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: OPEN JOINT-STOCK COMPANY ROSNEFT OIL COMPANY)'

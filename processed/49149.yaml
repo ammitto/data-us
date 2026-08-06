@@ -1,0 +1,51 @@
+---
+uid: '49149'
+first_name: Azruddin Intiaz
+last_name: MOHAMED
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '76594'
+    type: a.k.a.
+    category: strong
+    last_name: MOHAMED
+    first_name: Azruddin
+  - uid: '76595'
+    type: a.k.a.
+    category: weak
+    last_name: MOHAMED, Azurdeen
+  - uid: '76596'
+    type: a.k.a.
+    category: weak
+    last_name: MOHAMED, Azadeen
+address_list:
+  items:
+  - uid: '73946'
+    address1: Lot 3 Felicity Drive
+    city: East Coast Demerara
+    country: Guyana
+id_list:
+  items:
+  - uid: '40243'
+    id_type: Passport
+    id_number: R0429399
+    id_country: Guyana
+  - uid: '40907'
+    id_type: Passport
+    id_number: A033726
+  - uid: '172061'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '72060'
+    date_of_birth: 01 Mar 1987
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '72063'
+    place_of_birth: Georgetown, Guyana
+    main_entry: 'true'

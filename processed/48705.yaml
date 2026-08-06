@@ -1,0 +1,44 @@
+---
+uid: '48705'
+first_name: Viktor Gennadevich
+last_name: LABIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75795'
+    type: a.k.a.
+    category: strong
+    last_name: LABIN
+    first_name: Victor Guennadievitch
+address_list:
+  items:
+  - uid: '73186'
+    address1: Avenue Winston Churchill 59 B.11
+    city: Brussels
+    postal_code: '1180'
+    country: Belgium
+  - uid: '73187'
+    address1: Avenue Dolez 243
+    city: Uccle
+    postal_code: '1180'
+    country: Belgium
+id_list:
+  items:
+  - uid: '39719'
+    id_type: National ID No.
+    id_number: '4508527239'
+    id_country: Russia
+  - uid: '171117'
+    id_type: Gender
+    id_number: Male
+  - uid: '171651'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '71116'
+    date_of_birth: 11 Mar 1961
+    main_entry: 'true'

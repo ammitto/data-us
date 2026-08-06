@@ -1,0 +1,47 @@
+---
+uid: '41043'
+first_name: Sergey Evgenyevich
+last_name: TSIVILEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63990'
+    type: a.k.a.
+    category: strong
+    last_name: TSIVILYOV
+    first_name: Sergei Evgenievich
+  - uid: '63991'
+    type: a.k.a.
+    category: strong
+    last_name: TSIVILEV
+    first_name: Sergey Evgenevich
+address_list:
+  items:
+  - uid: '61325'
+    state_or_province: Kemerovo Region
+    country: Russia
+id_list:
+  items:
+  - uid: '30374'
+    id_type: Tax ID No.
+    id_number: '783901472526'
+    id_country: Russia
+  - uid: '173576'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '158864'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '58861'
+    date_of_birth: 21 Sep 1961
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '58862'
+    place_of_birth: Mariupol, Donetsk Region, Ukraine
+    main_entry: 'true'

@@ -1,0 +1,48 @@
+---
+uid: '48774'
+first_name: Yaroslav Viktorovich
+last_name: BULYGIN
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75921'
+    type: a.k.a.
+    category: strong
+    last_name: BULYGIN
+    first_name: Jaroslav Viktorovich
+  - uid: '75922'
+    type: a.k.a.
+    category: strong
+    last_name: BULYGIN
+    first_name: Iaroslav
+address_list:
+  items:
+  - uid: '73333'
+    country: Russia
+id_list:
+  items:
+  - uid: '39825'
+    id_type: Passport
+    id_number: '750041312'
+    id_country: Russia
+    expiration_date: 31 May 2024
+  - uid: '39826'
+    id_type: Tax ID No.
+    id_number: '502907154264'
+    id_country: Russia
+  - uid: '171409'
+    id_type: Gender
+    id_number: Male
+  - uid: '171706'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '71407'
+    date_of_birth: 02 Aug 1973
+    main_entry: 'true'
+remarks: "(Linked To: INTELLER LLC)"

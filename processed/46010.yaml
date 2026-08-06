@@ -1,0 +1,35 @@
+---
+uid: '46010'
+first_name: Viktor Leonidovich
+last_name: EVTUKHOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '68524'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '35837'
+    id_type: Tax ID No.
+    id_number: '781001361883'
+    id_country: Russia
+  - uid: '174883'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '166674'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '66675'
+    date_of_birth: 02 Mar 1968
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '66673'
+    place_of_birth: St. Petersburg, Russia
+    main_entry: 'true'

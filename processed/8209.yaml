@@ -1,0 +1,40 @@
+---
+uid: '8209'
+first_name: Youcef
+last_name: ABBES
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '6760'
+    type: a.k.a.
+    category: weak
+    last_name: GIUSEPPE
+address_list:
+  items:
+  - uid: '7517'
+    address1: Via Padova 82
+    city: Milan
+    country: Italy
+  - uid: '7519'
+    address1: Via Manzoni, 33, Cinisello Balsamo
+    city: Milan
+    country: Italy
+id_list:
+  items:
+  - uid: '185796'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '2592'
+    date_of_birth: 05 Jan 1965
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '2593'
+    place_of_birth: Bab El Aoued, Algeria
+    main_entry: 'true'

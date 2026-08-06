@@ -1,0 +1,65 @@
+---
+uid: '30397'
+last_name: BONYAD EASTERN RAILWAY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13876
+aka_list:
+  items:
+  - uid: '47727'
+    type: a.k.a.
+    category: strong
+    last_name: BONRAIL COMPANY
+  - uid: '47728'
+    type: a.k.a.
+    category: strong
+    last_name: BONRAIL
+  - uid: '47730'
+    type: a.k.a.
+    category: strong
+    last_name: BONRAILCO
+  - uid: '47731'
+    type: a.k.a.
+    category: strong
+    last_name: BONYAD EASTERN RAILWAY CO
+  - uid: '47732'
+    type: a.k.a.
+    category: strong
+    last_name: BONYAD EASTERN RAILWAY
+  - uid: '47733'
+    type: a.k.a.
+    category: strong
+    last_name: RAH AHAN SHARGHI CO.
+address_list:
+  items:
+  - uid: '45935'
+    address1: No. 20, 13th Street, Vozara St, Khalede Eslamboli, District 6
+    city: Tehran
+    country: Iran
+  - uid: '45937'
+    address1: No. 173, Mottahari St
+    city: Tehran
+    country: Iran
+  - uid: '45939'
+    address1: No. 173, Before Jahantab St., After Mofateh Intersection, Motahari Ave
+    city: Tehran
+    postal_code: '1513753511'
+    country: Iran
+id_list:
+  items:
+  - uid: '20531'
+    id_type: Registration Number
+    id_number: '92123'
+    id_country: Iran
+  - uid: '20532'
+    id_type: National ID No.
+    id_number: '10101364468'
+    id_country: Iran
+  - uid: '138025'
+    id_type: Website
+    id_number: http://bonrailco.ir/
+  - uid: '138024'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: ISLAMIC REVOLUTION MOSTAZAFAN FOUNDATION)"

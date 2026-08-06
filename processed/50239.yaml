@@ -1,0 +1,45 @@
+---
+uid: '50239'
+last_name: JOINT STOCK COMPANY ZAVOLZHSKY CRAWLER VEHICLE PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78421'
+    type: a.k.a.
+    category: strong
+    last_name: AO ZAVOLZHSKIY ZAVOD GUSENICHNIKH TYAGACHEY
+  - uid: '78422'
+    type: a.k.a.
+    category: weak
+    last_name: JSC ZCVP
+  - uid: '78423'
+    type: a.k.a.
+    category: strong
+    last_name: ZAVOLZHSKY TRACKED TRACTOR PLANT
+  - uid: '78424'
+    type: a.k.a.
+    category: weak
+    last_name: AO ZZGT
+address_list:
+  items:
+  - uid: '76062'
+    address1: 1 Zheleznodorozhnaya Street
+    city: Zavolzhe
+    postal_code: '606522'
+    country: Russia
+id_list:
+  items:
+  - uid: '41898'
+    id_type: Registration Number
+    id_number: '1115248002110'
+    id_country: Russia
+  - uid: '41899'
+    id_type: Tax ID No.
+    id_number: '5248031980'
+    id_country: Russia
+  - uid: '178080'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,32 @@
+---
+uid: '33192'
+first_name: Andrei Iosifovich
+last_name: MAKAREVICH
+sdn_type: Individual
+program_list:
+  programs:
+  - BELARUS-EO14038
+address_list:
+  items:
+  - uid: '49863'
+    address1: 135A-81, Prospekt Pobyediteley
+    city: Minsk
+    country: Belarus
+id_list:
+  items:
+  - uid: '22873'
+    id_type: Tax ID No.
+    id_number: AC1072277
+    id_country: Belarus
+  - uid: '22874'
+    id_type: National ID No.
+    id_number: 3090584A072PB8
+    id_country: Belarus
+  - uid: '143080'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '43081'
+    date_of_birth: '09 May 1984'
+    main_entry: 'true'

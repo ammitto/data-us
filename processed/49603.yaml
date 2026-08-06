@@ -1,0 +1,41 @@
+---
+uid: '49603'
+first_name: Ivan
+last_name: CAZARIN MOLINA
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '77359'
+    type: a.k.a.
+    category: weak
+    last_name: EL TANQUE
+  - uid: '77360'
+    type: a.k.a.
+    category: weak
+    last_name: DELGADO RENTERIA, Victor Hugo
+address_list:
+  items:
+  - uid: '74890'
+    country: Mexico
+id_list:
+  items:
+  - uid: '41008'
+    id_type: C.U.R.P.
+    id_number: CAMI841015HVZZLV05
+    id_country: Mexico
+  - uid: '172883'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '72880'
+    date_of_birth: 15 Oct 1984
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '72881'
+    place_of_birth: Veracruz, Mexico
+    main_entry: 'true'

@@ -1,0 +1,48 @@
+---
+uid: '54800'
+first_name: Kyong Hun
+last_name: JO
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+aka_list:
+  items:
+  - uid: '85305'
+    type: a.k.a.
+    category: strong
+    last_name: CHO
+    first_name: Kyo'ng-hun
+address_list:
+  items:
+  - uid: '83723'
+    country: Korea, North
+id_list:
+  items:
+  - uid: '48554'
+    id_type: Passport
+    id_number: '108432959'
+    id_country: Korea, North
+    issue_date: 19 Oct 2018
+    expiration_date: 19 Oct 2023
+  - uid: '191223'
+    id_type: Gender
+    id_number: Male
+  - uid: '191651'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '191653'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+date_of_birth_list:
+  items:
+  - uid: '91220'
+    date_of_birth: 19 Jun 1990
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '91222'
+    place_of_birth: Pyongyang, North Korea
+    main_entry: 'true'
+remarks: "(Linked To: KOREA SOBAEKSU TRADING CORPORATION)"

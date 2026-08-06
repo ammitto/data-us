@@ -1,0 +1,37 @@
+---
+uid: '28290'
+last_name: IRAN ALLOY STEEL COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13871
+aka_list:
+  items:
+  - uid: '44551'
+    type: a.k.a.
+    category: weak
+    last_name: IASCO
+address_list:
+  items:
+  - uid: '42791'
+    address1: No. 51 Mashahir Ave., Ghaem Magham Farhani St.
+    address2: Karimkhan St.
+    city: Tehran
+    country: Iran
+  - uid: '42792'
+    address1: Azadegan Blvd., Martyr Dehghan Manshadi Blvd., Km 24
+    address2: IASCO Road
+    city: Yazd
+    country: Iran
+id_list:
+  items:
+  - uid: '18740'
+    id_type: Registration Number
+    id_number: '2220'
+    id_country: Iran
+  - uid: '133731'
+    id_type: Website
+    id_number: www.iasco.ir
+  - uid: '133752'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

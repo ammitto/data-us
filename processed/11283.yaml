@@ -1,0 +1,40 @@
+---
+uid: '11283'
+first_name: La Bo
+last_name: KYA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '11784'
+    type: a.k.a.
+    category: weak
+    last_name: CHA LA BO
+  - uid: '11785'
+    type: a.k.a.
+    category: weak
+    last_name: JA LA BO
+  - uid: '11786'
+    type: a.k.a.
+    category: weak
+    last_name: KYA LA BO
+address_list:
+  items:
+  - uid: '16527'
+    address1: Nakawngmu
+    state_or_province: Shan
+    country: Burma
+  - uid: '16528'
+    address1: Wan Hong
+    state_or_province: Shan
+    country: Burma
+date_of_birth_list:
+  items:
+  - uid: '6637'
+    date_of_birth: '1940'
+    main_entry: 'true'
+  - uid: '6638'
+    date_of_birth: '1942'
+    main_entry: 'false'

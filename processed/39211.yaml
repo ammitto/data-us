@@ -1,0 +1,40 @@
+---
+uid: '39211'
+first_name: Hennadiy Oleksandrovych
+last_name: SHELESTENKO
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '61185'
+    type: a.k.a.
+    category: strong
+    last_name: SHELESTENKO
+    first_name: Gennadiy Aleksandrovich
+address_list:
+  items:
+  - uid: '58400'
+    address1: Apartment 360
+    address2: 75 Stepan Razin Street
+    city: Kherson
+    state_or_province: Kherson Region
+    country: Ukraine
+id_list:
+  items:
+  - uid: '28450'
+    id_type: Tax ID No.
+    id_number: '2433418476'
+    id_country: Ukraine
+  - uid: '155003'
+    id_type: Gender
+    id_number: Male
+  - uid: '174768'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '55002'
+    date_of_birth: 16 Aug 1966
+    main_entry: 'true'

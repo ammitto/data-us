@@ -1,0 +1,57 @@
+---
+uid: '40488'
+first_name: Jonatan
+last_name: ZIMENKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '62930'
+    type: a.k.a.
+    category: strong
+    last_name: ZIMENKOV
+    first_name: Natan Igorevich
+  - uid: '62931'
+    type: a.k.a.
+    category: strong
+    last_name: ZIMENKOV
+    first_name: Jonathan
+address_list:
+  items:
+  - uid: '60308'
+    country: Russia
+id_list:
+  items:
+  - uid: '29628'
+    id_type: Passport
+    id_number: YB0612378
+    id_country: Italy
+  - uid: '29629'
+    id_type: Tax ID No.
+    id_number: '770509857842'
+    id_country: Russia
+  - uid: '157676'
+    id_type: Gender
+    id_number: Male
+  - uid: '174097'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '157928'
+    id_type: Digital Currency Address - XBT
+    id_number: bc1qfg4gfg0y6t6xjnpmlhuwx5k0wlw6nmfzxn2psc
+  - uid: '157927'
+    id_type: Digital Currency Address - ETH
+    id_number: '0x39D908dac893CBCB53Cc86e0ECc369aA4DeF1A29'
+date_of_birth_list:
+  items:
+  - uid: '57675'
+    date_of_birth: 11 Sep 1994
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '57680'
+    place_of_birth: Haifa, Israel
+    main_entry: 'true'
+remarks: "(Linked To: ZIMENKOV, Igor Vladimirovich; Linked To: ROSOBORONEKSPORT OAO)"

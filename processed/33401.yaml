@@ -1,0 +1,50 @@
+---
+uid: '33401'
+first_name: Igor Anatolievich
+last_name: MARSHALOV
+sdn_type: Individual
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '52539'
+    type: a.k.a.
+    category: strong
+    last_name: MARSHALAU
+    first_name: Ihar Anatolievich
+address_list:
+  items:
+  - uid: '50162'
+    address1: ul. Shchukina 15
+    city: Minsk
+    country: Belarus
+  - uid: '50163'
+    address1: ul. Frantsiska Skoriny 43A, kv. 41
+    city: Minsk
+    country: Belarus
+id_list:
+  items:
+  - uid: '23062'
+    id_type: National ID No.
+    id_number: 3120172H018PB4
+    id_country: Belarus
+  - uid: '23063'
+    id_type: Tax ID No.
+    id_number: EA8156054
+    id_country: Belarus
+  - uid: '143403'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '43404'
+    date_of_birth: 12 Jan 1972
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '43405'
+    place_of_birth: Shklov, Mogilev Oblast, Belarus
+    main_entry: 'true'
+remarks: "(Linked To: DEPARTMENT OF FINANCIAL INVESTIGATIONS OF THE STATE CONTROL
+  COMMITTEE OF THE REPUBLIC OF BELARUS)"

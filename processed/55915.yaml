@@ -1,0 +1,57 @@
+---
+uid: '55915'
+first_name: Kunal Kanayalal
+last_name: KASAT
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13846
+aka_list:
+  items:
+  - uid: '86878'
+    type: a.k.a.
+    category: strong
+    last_name: KASAT
+    first_name: Kunal Kanaiyalal
+address_list:
+  items:
+  - uid: '85618'
+    address1: 96 Arudh Niwas, Hindu Colony, 3rd Lane
+    address2: Dadar (E)
+    city: Mumbai
+    state_or_province: Maharashtra
+    postal_code: '400014'
+    country: India
+  - uid: '85619'
+    city: Singapore
+    country: Singapore
+id_list:
+  items:
+  - uid: '50082'
+    id_type: Identification Number
+    id_number: '02943387'
+    id_country: India
+  - uid: '50083'
+    id_type: Passport
+    id_number: Z3884961
+    id_country: India
+  - uid: '50084'
+    id_type: National ID No.
+    id_number: S8169820A
+    id_country: Singapore
+  - uid: '193914'
+    id_type: Gender
+    id_number: Male
+  - uid: '193983'
+    id_type: 'Executive Order 13846 information:'
+    id_number: BLOCKING PROPERTY AND INTERESTS IN PROPERTY.  Sec. 5(a)(iv)
+date_of_birth_list:
+  items:
+  - uid: '93912'
+    date_of_birth: 12 Nov 1981
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '93913'
+    place_of_birth: Mumbai, Maharashtra, India
+    main_entry: 'true'

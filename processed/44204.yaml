@@ -1,0 +1,38 @@
+---
+uid: '44204'
+last_name: FEDERAL STATE ENTERPRISE YA M SVERDLOV PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '68360'
+    type: a.k.a.
+    category: strong
+    last_name: PLANT NAMED AFTER IA M SVERDLOV FEDERAL STATE ENTERPRISE
+address_list:
+  items:
+  - uid: '65783'
+    address1: Sverdlova Street 4
+    city: Dzerzhinsk
+    postal_code: '606002'
+    country: Russia
+id_list:
+  items:
+  - uid: '33627'
+    id_type: Tax ID No.
+    id_number: '5249002485'
+    id_country: Russia
+  - uid: '33628'
+    id_type: Registration Number
+    id_number: '1025201752982'
+    id_country: Russia
+  - uid: '175791'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184325'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

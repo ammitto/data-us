@@ -1,0 +1,30 @@
+---
+uid: '24481'
+last_name: EP-CAQ
+sdn_type: Aircraft
+program_list:
+  programs:
+  - IFSR
+  - SDGT
+id_list:
+  items:
+  - uid: '187144'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '126825'
+    id_type: Aircraft Manufacture Date
+    id_number: 01 Oct 1992
+  - uid: '126827'
+    id_type: Aircraft Model
+    id_number: B737
+  - uid: '126828'
+    id_type: Aircraft Operator
+    id_number: Caspian Air
+  - uid: '126826'
+    id_type: Aircraft Manufacturer's Serial Number (MSN)
+    id_number: '26467'
+  - uid: '126824'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: CASPIAN AIRLINES)"

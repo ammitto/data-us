@@ -1,0 +1,46 @@
+---
+uid: '50183'
+last_name: AKTSIONERNOE OBSHCHESTVO TAIMYRSKAYA TOPLIVNAYA KOMPANIYA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78283'
+    type: f.k.a.
+    category: strong
+    last_name: TAIMYRSKAYA TOPLIVNAYA KOMPANIYA AO
+  - uid: '78284'
+    type: a.k.a.
+    category: strong
+    last_name: JSC TAIMYR FUEL COMPANY
+  - uid: '78285'
+    type: a.k.a.
+    category: weak
+    last_name: JSC TTK
+  - uid: '78286'
+    type: a.k.a.
+    category: weak
+    last_name: TTK AO
+address_list:
+  items:
+  - uid: '75959'
+    address1: 15, ul. Bograda
+    city: Krasnoyarsk
+    state_or_province: Krasnoyarsk region
+    postal_code: '660049'
+    country: Russia
+id_list:
+  items:
+  - uid: '41807'
+    id_type: Registration Number
+    id_number: '1022401787418'
+    id_country: Russia
+  - uid: '41808'
+    id_type: Tax ID No.
+    id_number: '2460047153'
+    id_country: Russia
+  - uid: '178081'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

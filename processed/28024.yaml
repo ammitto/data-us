@@ -1,0 +1,62 @@
+---
+uid: '28024'
+first_name: Seka Musa
+last_name: BALUKU
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+  - SDGT
+aka_list:
+  items:
+  - uid: '44153'
+    type: a.k.a.
+    category: strong
+    last_name: BALUKU
+    first_name: Seka
+  - uid: '44154'
+    type: a.k.a.
+    category: strong
+    last_name: KAJUJU
+    first_name: Mzee
+  - uid: '49255'
+    type: a.k.a.
+    category: weak
+    last_name: LUMU
+  - uid: '49256'
+    type: a.k.a.
+    category: weak
+    last_name: LUMONDE
+  - uid: '49257'
+    type: a.k.a.
+    category: weak
+    last_name: MAKUBA
+address_list:
+  items:
+  - uid: '42394'
+    country: Congo, Democratic Republic of the
+  - uid: '47353'
+    state_or_province: North Kivu Province
+    country: Congo, Democratic Republic of the
+id_list:
+  items:
+  - uid: '133345'
+    id_type: Gender
+    id_number: Male
+  - uid: '186986'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '33347'
+    date_of_birth: '1976'
+    main_entry: 'true'
+  - uid: '33348'
+    date_of_birth: '1975'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '33346'
+    place_of_birth: Kasese District, Rwenzururu Sub-Region, Western Uganda
+    main_entry: 'true'

@@ -1,0 +1,44 @@
+---
+uid: '49148'
+first_name: Nazar
+last_name: MOHAMED
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '76592'
+    type: a.k.a.
+    category: weak
+    last_name: MOHAMMED, Nazar
+address_list:
+  items:
+  - uid: '73944'
+    address1: Lot 275 Barrow Street
+    city: Demerara
+    country: Guyana
+id_list:
+  items:
+  - uid: '40240'
+    id_type: Passport
+    id_number: A005493
+    id_country: Guyana
+  - uid: '40241'
+    id_type: Passport
+    id_number: R1163199
+    id_country: Guyana
+  - uid: '172056'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '72055'
+    date_of_birth: 27 Mar 1953
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '72059'
+    place_of_birth: Essequibo Coast, Guyana
+    main_entry: 'true'
+remarks: "(Linked To: MOHAMED'S ENTERPRISE)"

@@ -1,0 +1,45 @@
+---
+uid: '21171'
+first_name: Yevgeniy Viktorovich
+last_name: PRIGOZHIN
+sdn_type: Individual
+program_list:
+  programs:
+  - UKRAINE-EO13661
+  - CYBER2
+  - ELECTION-EO13848
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '33591'
+    type: a.k.a.
+    category: strong
+    last_name: PRIGOZHIN
+    first_name: Evgeny
+address_list:
+  items:
+  - uid: '32253'
+    country: Russia
+id_list:
+  items:
+  - uid: '122032'
+    id_type: Gender
+    id_number: Male
+  - uid: '151221'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '173924'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '22031'
+    date_of_birth: 01 Jun 1961
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '47489'
+    place_of_birth: Leningrad, Russia
+    main_entry: 'true'
+remarks: "(Linked To: INTERNET RESEARCH AGENCY LLC)"

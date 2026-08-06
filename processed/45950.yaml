@@ -1,0 +1,38 @@
+---
+uid: '45950'
+last_name: LIMITED LIABILITY COMPANY SCIENTIFIC PRODUCTION COMPANY ELECTRONIC OPTICAL
+  AND MECHANICAL SYSTEMS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70998'
+    type: a.k.a.
+    category: weak
+    last_name: LLC NPC EOMS
+  - uid: '71002'
+    type: a.k.a.
+    category: weak
+    last_name: NPK EOMS
+address_list:
+  items:
+  - uid: '68394'
+    address1: d. 1, str. 17, etazh/komnata 2/1, shosse Varshavskoe
+    city: Moscow
+    postal_code: '117105'
+    country: Russia
+id_list:
+  items:
+  - uid: '35724'
+    id_type: Registration Number
+    id_number: '1177746419960'
+    id_country: Russia
+  - uid: '35728'
+    id_type: Tax ID No.
+    id_number: '7726401559'
+    id_country: Russia
+  - uid: '174832'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,41 @@
+---
+uid: '41066'
+last_name: CLOSED JOINT STOCK COMPANY NORSI TRANS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '64035'
+    type: a.k.a.
+    category: strong
+    last_name: ZAKRYTOE AKTSIONERNOE OBSHCHESTVO NORSI TRANS
+  - uid: '64038'
+    type: a.k.a.
+    category: strong
+    last_name: CJSC NORSI-TRANS
+address_list:
+  items:
+  - uid: '61374'
+    address1: 12 Bolshaya Novodmitrovskaya Street, Unit 36
+    city: Moscow
+    state_or_province: Moscow Region
+    postal_code: '127015'
+    country: Russia
+id_list:
+  items:
+  - uid: '30399'
+    id_type: Registration Number
+    id_number: '1037700030477'
+    id_country: Russia
+  - uid: '30400'
+    id_type: Tax ID No.
+    id_number: '7705051215'
+    id_country: Russia
+  - uid: '173597'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '158958'
+    id_type: Organization Established Date
+    id_number: 22 Sep 1995

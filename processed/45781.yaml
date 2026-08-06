@@ -1,0 +1,35 @@
+---
+uid: '45781'
+last_name: RESEARCH AND PRODUCTION COMPANY HORST
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70740'
+    type: a.k.a.
+    category: weak
+    last_name: FIRMA KHORST
+address_list:
+  items:
+  - uid: '68122'
+    address1: Ul. Akademika Yangelya D 14
+    address2: Korp 2
+    address3: KV 257
+    city: Moscow
+    postal_code: '117534'
+    country: Russia
+id_list:
+  items:
+  - uid: '35532'
+    id_type: Registration Number
+    id_number: '1037739344004'
+    id_country: Russia
+  - uid: '35533'
+    id_type: Tax ID No.
+    id_number: '7726038952'
+    id_country: Russia
+  - uid: '176053'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

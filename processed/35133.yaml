@@ -1,0 +1,32 @@
+---
+uid: '35133'
+first_name: Valeriya
+last_name: KALABAYEVA
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+  - ELECTION-EO13848
+  - NPWMD
+address_list:
+  items:
+  - uid: '52760'
+    country: Russia
+id_list:
+  items:
+  - uid: '24880'
+    id_type: Passport
+    id_number: '653701605'
+    id_country: Russia
+  - uid: '147076'
+    id_type: Gender
+    id_number: Female
+  - uid: '154572'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+date_of_birth_list:
+  items:
+  - uid: '47075'
+    date_of_birth: 01 Oct 1997
+    main_entry: 'true'
+remarks: "(Linked To: SOUTHFRONT)"

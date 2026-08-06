@@ -1,0 +1,31 @@
+---
+uid: '55218'
+first_name: Antonios
+last_name: MARGARITIS
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '84513'
+    country: Greece
+id_list:
+  items:
+  - uid: '49247'
+    id_type: National ID No.
+    id_number: P288786
+    id_country: Greece
+  - uid: '192444'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '92498'
+    date_of_birth: 21 Jan 1976
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '92442'
+    place_of_birth: Athens, Greece
+    main_entry: 'true'

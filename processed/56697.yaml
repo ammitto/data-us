@@ -1,0 +1,41 @@
+---
+uid: '56697'
+first_name: Imran
+last_name: ASGHAR
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '86764'
+    address1: 27 28 Jumeirah Park
+    address2: District 6
+    address3: St F
+    city: Dubai
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '50800'
+    id_type: Passport
+    id_number: BM1828063
+    id_country: Pakistan
+    expiration_date: 19 Oct 2032
+  - uid: '195409'
+    id_type: Gender
+    id_number: Male
+  - uid: '195415'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '95408'
+    date_of_birth: 19 Dec 1962
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '95412'
+    place_of_birth: Lahore, Pakistan
+    main_entry: 'true'
+remarks: "(Linked To: ARKAN MARS PETROLEUM DMCC)"

@@ -1,0 +1,33 @@
+---
+uid: '55242'
+first_name: Mame Mandiaye
+last_name: NIANG
+sdn_type: Individual
+program_list:
+  programs:
+  - ICC-EO14203
+address_list:
+  items:
+  - uid: '84492'
+    city: The Hague
+    country: Netherlands
+id_list:
+  items:
+  - uid: '49226'
+    id_type: Passport
+    id_number: A02027828
+    id_country: Senegal
+    expiration_date: 22 Nov 2022
+  - uid: '192468'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '92466'
+    date_of_birth: 20 Sep 1960
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '92467'
+    place_of_birth: Dakar, Senegal
+    main_entry: 'true'

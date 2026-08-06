@@ -1,0 +1,40 @@
+---
+uid: '40930'
+last_name: TPZ-RONDOL OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '61082'
+    address1: D. 47-B kom. 406, ul. Marata
+    city: Tula
+    state_or_province: Tulskaya Oblast
+    postal_code: '300004'
+    country: Russia
+  - uid: '61083'
+    address1: Ul Marata D 139
+    city: Tula
+    postal_code: '300004'
+    country: Russia
+id_list:
+  items:
+  - uid: '30222'
+    id_type: Registration Number
+    id_number: '1047100571979'
+    id_country: Russia
+  - uid: '30223'
+    id_type: Tax ID No.
+    id_number: '7105032482'
+    id_country: Russia
+  - uid: '30224'
+    id_type: Government Gazette Number
+    id_number: '72570950'
+    id_country: Russia
+  - uid: '175320'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '158542'
+    id_type: Organization Established Date
+    id_number: 06 Apr 2004

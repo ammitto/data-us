@@ -1,0 +1,34 @@
+---
+uid: '36322'
+last_name: KURORT LIVADIYA OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '54536'
+    address1: ul. Baturina d. 44
+    city: Livadia
+    postal_code: '298655'
+    country: Ukraine
+id_list:
+  items:
+  - uid: '25708'
+    id_type: Registration Number
+    id_number: '1169102055451'
+    id_country: Russia
+  - uid: '25709'
+    id_type: Tax ID No.
+    id_number: '9102204257'
+    id_country: Russia
+  - uid: '150198'
+    id_type: 'Organization Type:'
+    id_number: Other human health activities
+  - uid: '149913'
+    id_type: Organization Established Date
+    id_number: 05 Feb 2016
+  - uid: '173994'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: TSARGRAD OOO)"

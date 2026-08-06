@@ -1,0 +1,38 @@
+---
+uid: '50900'
+last_name: OPYTNO KONSTRUKTORSKOE BYURO PRIBOR
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79729'
+    type: a.k.a.
+    category: strong
+    last_name: OKB PRIBOR
+  - uid: '79730'
+    type: a.k.a.
+    category: strong
+    last_name: PRIBOR OPEN DESIGN BUREAU
+address_list:
+  items:
+  - uid: '77292'
+    address1: Ul. Gerasima Kurina D. 10, K. 1
+    address2: E 2 P I K 8A KAB 205A
+    city: Moscow
+    postal_code: '121108'
+    country: Russia
+id_list:
+  items:
+  - uid: '42889'
+    id_type: Registration Number
+    id_number: '1157746535165'
+    id_country: Russia
+  - uid: '42890'
+    id_type: Tax ID No.
+    id_number: '7703382109'
+    id_country: Russia
+  - uid: '179687'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,45 @@
+---
+uid: '51828'
+last_name: PRIMORSKY TERRITORIAL COMMERCIAL BANK SOCIETY WITH LIMITED LIABILITY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '81154'
+    type: a.k.a.
+    category: strong
+    last_name: PRIMTERKOMBANK
+address_list:
+  items:
+  - uid: '78983'
+    address1: Ul. Semenovskaya D. 6G
+    city: Vladivostok
+    postal_code: '690091'
+    country: Russia
+id_list:
+  items:
+  - uid: '44509'
+    id_type: Legal Entity Number
+    id_number: 253400TD5K0GYG98VH27
+  - uid: '44510'
+    id_type: Registration Number
+    id_number: '1022500001325'
+    id_country: Russia
+  - uid: '44511'
+    id_type: Tax ID No.
+    id_number: '2540015598'
+    id_country: Russia
+  - uid: '182156'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '182157'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '182152'
+    id_type: SWIFT/BIC
+    id_number: PTCBRU8V
+  - uid: '182154'
+    id_type: Website
+    id_number: www.ptkb.ru

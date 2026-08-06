@@ -1,0 +1,29 @@
+---
+uid: '45983'
+last_name: LIMITED LIABILITY COMPANY TSRTI
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '68469'
+    address1: d. 3A str. 5 etazh 1 pom. A1
+    address2: ul. 1-Ya Frunzenskaya
+    city: Moscow
+    postal_code: '119146'
+    country: Russia
+id_list:
+  items:
+  - uid: '35789'
+    id_type: Registration Number
+    id_number: '1187746293360'
+    id_country: Russia
+  - uid: '35790'
+    id_type: Tax ID No.
+    id_number: '7704452856'
+    id_country: Russia
+  - uid: '174860'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: LIMITED LIABILITY COMPANY INFRASTRUCTURE CORPORATION AEON)"

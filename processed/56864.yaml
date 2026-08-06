@@ -1,0 +1,30 @@
+---
+uid: '56864'
+first_name: Babak Morteza
+last_name: ZANJANI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '87047'
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '195851'
+    id_type: Gender
+    id_number: Male
+  - uid: '195876'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '95850'
+    date_of_birth: 12 Mar 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '95852'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'

@@ -1,0 +1,74 @@
+---
+uid: '37782'
+last_name: JOINT STOCK COMPANY UNITED ENGINE CORPORATION
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '59314'
+    type: a.k.a.
+    category: weak
+    last_name: AO ODK
+  - uid: '59315'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO OBEDINENNAYA DVIGATELESTROITELNAYA KORPORATSIYA
+  - uid: '59316'
+    type: a.k.a.
+    category: strong
+    last_name: UNITED ENGINE CORP JSC
+  - uid: '90057'
+    type: a.k.a.
+    category: weak
+    last_name: OTKRYTOE AKTSIONERNOE OBSHCHESTVO UPRAVLYAYUSHCHAYA KOMPANIYA OBEDINENNAYA
+      DVIGATELESTROITELNAYA KORPORATSIYA
+address_list:
+  items:
+  - uid: '56547'
+    address1: 16, Budyonny Avenue
+    city: Moscow
+    postal_code: '105118'
+    country: Russia
+  - uid: '56548'
+    address1: Per. Mayakovskogo D. 11
+    city: Moscow
+    postal_code: '109147'
+    country: Russia
+id_list:
+  items:
+  - uid: '27061'
+    id_type: Registration Number
+    id_number: '1107746081717'
+    id_country: Russia
+  - uid: '27062'
+    id_type: Tax ID No.
+    id_number: '7731644035'
+    id_country: Russia
+  - uid: '52864'
+    id_type: Government Gazette Number
+    id_number: '84023868'
+    id_country: Russia
+  - uid: '173514'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184328'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '199886'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 3
+  - uid: '199884'
+    id_type: Website
+    id_number: www.uk-odk.ru
+  - uid: '199885'
+    id_type: Email Address
+    id_number: info@uecrus.com
+  - uid: '152769'
+    id_type: Organization Established Date
+    id_number: 22 Nov 2007
+remarks: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: STATE CORPORATION ROSTEC)'

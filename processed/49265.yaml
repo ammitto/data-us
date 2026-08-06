@@ -1,0 +1,51 @@
+---
+uid: '49265'
+last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU TORGOVY DOM KHIMMED
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76817'
+    type: a.k.a.
+    category: strong
+    last_name: TD KHIMMED OOO
+  - uid: '76818'
+    type: a.k.a.
+    category: strong
+    last_name: TORGOVYI DOM KHIMMED
+  - uid: '76819'
+    type: a.k.a.
+    category: strong
+    last_name: TD KHIMMED
+address_list:
+  items:
+  - uid: '74200'
+    address1: Kashirskoe Shosse, Dom 3, Korpus 2, Stroenie 4
+    city: Moscow
+    postal_code: '115230'
+    country: Russia
+id_list:
+  items:
+  - uid: '40473'
+    id_type: Business Registration Number
+    id_number: '1097746351504'
+    id_country: Russia
+  - uid: '40474'
+    id_type: Tax ID No.
+    id_number: '7724709468'
+    id_country: Russia
+  - uid: '40475'
+    id_type: Government Gazette Number
+    id_number: '62112778'
+    id_country: Russia
+  - uid: '172254'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '172255'
+    id_type: Website
+    id_number: chimmed.ru
+  - uid: '172253'
+    id_type: Organization Established Date
+    id_number: 15 Jun 2009

@@ -1,0 +1,49 @@
+---
+uid: '41077'
+first_name: Alexey Borisovich
+last_name: SHMELEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '64057'
+    type: a.k.a.
+    category: strong
+    last_name: SHMELEV
+    first_name: Aleksei Borisovich
+address_list:
+  items:
+  - uid: '61398'
+    address1: 8 Kutuzovskiy Ave, Apt 104
+    city: Moscow, Moscow Region
+    postal_code: '121248'
+    country: Russia
+id_list:
+  items:
+  - uid: '30409'
+    id_type: Passport
+    id_number: '728723089'
+    id_country: Russia
+  - uid: '30412'
+    id_type: Tax ID No.
+    id_number: '773000449370'
+    id_country: Russia
+  - uid: '173608'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '158995'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '58993'
+    date_of_birth: 22 Feb 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '58994'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'
+remarks: "(Linked To: CLOSED JOINT STOCK COMPANY RSK TECHNOLOGIES)"

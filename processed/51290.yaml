@@ -1,0 +1,40 @@
+---
+uid: '51290'
+last_name: O-SI-ES-TSENTR, OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80396'
+    type: a.k.a.
+    category: strong
+    last_name: OCS-CENTER LTD
+  - uid: '80501'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU O-SI-ES-TSENTR
+address_list:
+  items:
+  - uid: '78056'
+    address1: Domovladenie 6 Str. 1 Kom. 7, Km. Kievskoe Shosse 22-I (P Moskovski)
+    city: Moscow
+    postal_code: '108811'
+    country: Russia
+id_list:
+  items:
+  - uid: '43499'
+    id_type: Tax ID No.
+    id_number: '7701341820'
+    id_country: Russia
+  - uid: '43500'
+    id_type: Registration Number
+    id_number: '1037701914612'
+    id_country: Russia
+  - uid: '180491'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '180455'
+    id_type: Organization Established Date
+    id_number: 17 Jul 2003

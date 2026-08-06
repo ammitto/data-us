@@ -1,0 +1,38 @@
+---
+uid: '7939'
+first_name: Zaini
+last_name: ZAKARIA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '6864'
+    address1: A-1-8 Pangsapuri Sri Tanjung, Jalan Sky BS2, Bukit Sentosa Rawang
+    city: Selangor
+    postal_code: '48300'
+    country: Malaysia
+id_list:
+  items:
+  - uid: '2006'
+    id_type: Passport
+    id_number: A11457974
+    id_country: Malaysia
+  - uid: '185755'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '2303'
+    date_of_birth: 16 Jun 1967
+    main_entry: 'true'
+  - uid: '2305'
+    date_of_birth: 16 May 1967
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '2304'
+    place_of_birth: Kelantan, Malaysia
+    main_entry: 'true'

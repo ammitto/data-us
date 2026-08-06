@@ -1,0 +1,39 @@
+---
+uid: '35021'
+last_name: LLC BAIKAL CENTER
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '55101'
+    type: a.k.a.
+    category: strong
+    last_name: TSENTR RAZVITIYA BAIKALSKOGO REGIONA
+  - uid: '55102'
+    type: a.k.a.
+    category: strong
+    last_name: BAIKAL.TSENTR
+address_list:
+  items:
+  - uid: '52585'
+    address1: Vozdvizhenka d. 7/6, str. 1, pomeshch. 10
+    city: Moscow
+    postal_code: '119019'
+    country: Russia
+id_list:
+  items:
+  - uid: '24747'
+    id_type: Registration Number
+    id_number: '1097746515240'
+    id_country: Russia
+  - uid: '24748'
+    id_type: Tax ID No.
+    id_number: '7704732846'
+    id_country: Russia
+  - uid: '175238'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: STATE CORPORATION BANK FOR DEVELOPMENT AND FOREIGN ECONOMIC
+  AFFAIRS VNESHECONOMBANK)"

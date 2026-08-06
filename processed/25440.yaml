@@ -1,0 +1,29 @@
+---
+uid: '25440'
+last_name: BANK SEPAH INTERNATIONAL PLC
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+address_list:
+  items:
+  - uid: '38488'
+    address1: 5/7 Eastcheap, EC3M 1JT
+    city: London
+    country: United Kingdom
+id_list:
+  items:
+  - uid: '129043'
+    id_type: SWIFT/BIC
+    id_number: SEPBGB2L
+  - uid: '129041'
+    id_type: Website
+    id_number: www.banksepah.co.uk
+  - uid: '129042'
+    id_type: Website
+    id_number: www.banksepah.com
+  - uid: '129040'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: BANK SEPAH)"

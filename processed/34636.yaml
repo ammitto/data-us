@@ -1,0 +1,48 @@
+---
+uid: '34636'
+last_name: VYDAYUSHCHIESYA KREDITY MICROCREDIT COMPANY LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54207'
+    type: a.k.a.
+    category: strong
+    last_name: MCC VYDAYUSHIESYA KREDITY LLC
+  - uid: '54208'
+    type: a.k.a.
+    category: strong
+    last_name: MIKROKREDITNAYA KOMPANIYA VYDAYUSHCHIESYA KREDITY
+address_list:
+  items:
+  - uid: '51844'
+    address1: 32 Kutuzovsky Avenue, building 1, floor 6, room 6.C.01
+    city: Moscow
+    postal_code: '121170'
+    country: Russia
+id_list:
+  items:
+  - uid: '24219'
+    id_type: Registration Number
+    id_number: '1177746493473'
+    id_country: Russia
+  - uid: '24220'
+    id_type: Tax ID No.
+    id_number: '7725374454'
+    id_country: Russia
+  - uid: '146722'
+    id_type: Executive Order 14024 Directive Information -
+    id_number: 'For more information on directives, please visit the following link:
+      https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives'
+  - uid: '146901'
+    id_type: 'Listing Date (EO 14024 Directive 2):'
+    id_number: 24 Feb 2022
+  - uid: '146902'
+    id_type: 'Effective Date (EO 14024 Directive 2):'
+    id_number: 26 Mar 2022
+  - uid: '175151'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)"

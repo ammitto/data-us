@@ -1,0 +1,54 @@
+---
+uid: '27026'
+last_name: TAMIN KALAYE SABZ ARAS COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '42801'
+    type: a.k.a.
+    category: strong
+    last_name: TAMIN KALAYE SABZ
+  - uid: '42803'
+    type: a.k.a.
+    category: strong
+    last_name: TAMIN KALAYE SABZ COMPANY
+  - uid: '42804'
+    type: a.k.a.
+    category: strong
+    last_name: KALAYE SABZ ORZ COMPANY
+  - uid: '42805'
+    type: a.k.a.
+    category: weak
+    last_name: KSO COMPANY
+  - uid: '42806'
+    type: a.k.a.
+    category: weak
+    last_name: TS COMPANY
+  - uid: '42807'
+    type: a.k.a.
+    category: weak
+    last_name: TS CO.
+address_list:
+  items:
+  - uid: '41071'
+    address1: No. 13, Unit 12, Sazman Ab Ave., Jenah Blvd
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '17659'
+    id_type: Company Number
+    id_number: '10980302323'
+    id_country: Iran
+  - uid: '17660'
+    id_type: National ID No.
+    id_number: '1463468660'
+    id_country: Iran
+  - uid: '131955'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: IRAN CENTRIFUGE TECHNOLOGY COMPANY)"

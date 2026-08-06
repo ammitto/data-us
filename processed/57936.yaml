@@ -1,0 +1,38 @@
+---
+uid: '57936'
+first_name: Jean Malic
+last_name: KALIMA KAREKEZI
+sdn_type: Individual
+program_list:
+  programs:
+  - DRCONGO
+address_list:
+  items:
+  - uid: '88891'
+    city: Kigali
+    country: Rwanda
+id_list:
+  items:
+  - uid: '52451'
+    id_type: National ID No.
+    id_number: '1196380005387371'
+    id_country: Rwanda
+  - uid: '52452'
+    id_type: Passport
+    id_number: PC638680
+    id_country: Rwanda
+    expiration_date: 06 May 2031
+  - uid: '198728'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '98727'
+    date_of_birth: 25 May 1963
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '98730'
+    place_of_birth: Uvira, Democratic Republic of the Congo
+    main_entry: 'true'
+remarks: "(Linked To: GASABO GOLD REFINERY LTD)"

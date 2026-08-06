@@ -1,0 +1,31 @@
+---
+uid: '11186'
+first_name: Hugo Armando
+last_name: CARVAJAL BARRIOS
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+address_list:
+  items:
+  - uid: '16268'
+    country: Spain
+id_list:
+  items:
+  - uid: '23761'
+    id_type: Cedula No.
+    id_number: 8.352.301
+    id_country: Venezuela
+  - uid: '145281'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '6536'
+    date_of_birth: 01 Apr 1960
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '6537'
+    place_of_birth: Puerto La Cruz, Venezuela
+    main_entry: 'true'

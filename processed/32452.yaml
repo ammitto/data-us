@@ -1,0 +1,32 @@
+---
+uid: '32452'
+last_name: LOS HUISTAS DRUG TRAFFICKING ORGANIZATION
+sdn_type: Entity
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '56267'
+    type: a.k.a.
+    category: weak
+    last_name: LOS HUISTAS DTO
+address_list:
+  items:
+  - uid: '48844'
+    city: Santa Ana Huista
+    state_or_province: Huehuetenango
+    country: Guatemala
+  - uid: '49564'
+    city: San Antonio Huista
+    state_or_province: Huehuetenango
+    country: Guatemala
+  - uid: '49565'
+    city: La Democracia
+    state_or_province: Huehuetenango
+    country: Guatemala
+id_list:
+  items:
+  - uid: '148947'
+    id_type: Target Type
+    id_number: Criminal Organization

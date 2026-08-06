@@ -1,0 +1,46 @@
+---
+uid: '26367'
+last_name: PETROLEOS DE VENEZUELA, S.A.
+sdn_type: Entity
+program_list:
+  programs:
+  - VENEZUELA-EO13850
+aka_list:
+  items:
+  - uid: '41581'
+    type: a.k.a.
+    category: strong
+    last_name: PDVSA
+  - uid: '41582'
+    type: a.k.a.
+    category: strong
+    last_name: PETROLEOS DE VENEZUELA S.A
+  - uid: '41583'
+    type: a.k.a.
+    category: strong
+    last_name: REFINERIA EL PALITO
+  - uid: '41584'
+    type: a.k.a.
+    category: strong
+    last_name: PETROLEOS DE VENEZUELA S A
+address_list:
+  items:
+  - uid: '39972'
+    address1: Edificio Petroleos De Venezuela, Torre Este, Piso 9
+    address2: Avenida Libertador con calle El Empalme, La Campina
+    city: Caracas
+    postal_code: '1010'
+    country: Venezuela
+  - uid: '39973'
+    address1: Torre Este Piso 9
+    address2: Edif Petroleos de Venezuela, Avenida Libertador
+    address3: Urb La Campina
+    city: Caracas
+    state_or_province: Distrito Federal
+    country: Venezuela
+id_list:
+  items:
+  - uid: '17024'
+    id_type: 'RIF #'
+    id_number: J-00095036-9
+    id_country: Venezuela

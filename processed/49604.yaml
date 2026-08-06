@@ -1,0 +1,48 @@
+---
+uid: '49604'
+first_name: Basem
+last_name: NAIM
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '77362'
+    type: a.k.a.
+    category: strong
+    last_name: NAIM
+    first_name: Bassem
+  - uid: '77363'
+    type: a.k.a.
+    category: strong
+    last_name: NAEM
+    first_name: Basem
+address_list:
+  items:
+  - uid: '74893'
+    country: 'Region: Gaza'
+id_list:
+  items:
+  - uid: '41029'
+    id_type: Passport
+    id_number: A0016271
+    id_country: Palestinian
+  - uid: '172890'
+    id_type: Gender
+    id_number: Male
+  - uid: '172884'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '72933'
+    date_of_birth: 24 Jan 1963
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '72934'
+    place_of_birth: Beit Hanoun, Gaza Strip
+    main_entry: 'true'
+remarks: "(Linked To: HAMAS)"

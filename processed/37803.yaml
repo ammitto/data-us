@@ -1,0 +1,46 @@
+---
+uid: '37803'
+last_name: SCIENTIFIC AND RESEARCH INSTITUTE FERRIT DOMEN
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59365'
+    type: a.k.a.
+    category: strong
+    last_name: AO NII FERRIT DOMEN
+  - uid: '59366'
+    type: a.k.a.
+    category: strong
+    last_name: FERRITE DOMEN COMPANY
+  - uid: '59367'
+    type: a.k.a.
+    category: strong
+    last_name: RESEARCH INSTITUTE FERRIT DOMAIN
+address_list:
+  items:
+  - uid: '56598'
+    address1: Ul. Tsvetochnaya, D. 25
+    address2: Korp. 3
+    city: Saint Petersburg
+    postal_code: '196084'
+    country: Russia
+id_list:
+  items:
+  - uid: '27108'
+    id_type: Registration Number
+    id_number: '1037821019631'
+    id_country: Russia
+  - uid: '27109'
+    id_type: Tax ID No.
+    id_number: '7810245940'
+    id_country: Russia
+  - uid: '173528'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '152812'
+    id_type: Organization Established Date
+    id_number: 22 May 1959
+remarks: "(Linked To: OPEN JOINT STOCK COMPANY RUSSIAN ELECTRONICS)"

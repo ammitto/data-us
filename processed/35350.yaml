@@ -1,0 +1,49 @@
+---
+uid: '35350'
+last_name: DESIGN BUREAU OF SPECIAL MACHINE-BUILDING
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '55692'
+    type: a.k.a.
+    category: weak
+    last_name: KBSM AO
+  - uid: '55693'
+    type: a.k.a.
+    category: strong
+    last_name: DESIGN BUREAU OF SPECIAL MACHINEBUILDING AO
+  - uid: '55697'
+    type: a.k.a.
+    category: strong
+    last_name: DESIGN BUREAU OF SPECIAL MACHINE BUILDING
+  - uid: '55700'
+    type: a.k.a.
+    category: strong
+    last_name: KBSM DESIGN BUREAU OF SPECIAL MACHINEBUILDING
+  - uid: '55702'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT-STOCK COMPANY KBSM
+  - uid: '55704'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT-STOCK COMPANY ENGINEERING OFFICE SPETSIALNOGO MASHINOSTROYENIYA
+address_list:
+  items:
+  - uid: '53178'
+    address1: Obukhovskoy Oborony Ave
+    city: Saint Petersburg
+    postal_code: '192012'
+    country: Russia
+id_list:
+  items:
+  - uid: '25064'
+    id_type: Tax ID No.
+    id_number: '7802205799'
+    id_country: Russia
+  - uid: '176739'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,42 @@
+---
+uid: '38159'
+last_name: JOINT STOCK COMPANY PENZENSKY NAUCHNO ISSLEDOVATELSKY ELEKTROTEKHNICHESKY
+  HIGHER EDUCATION INSTITUTION
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59875'
+    type: a.k.a.
+    category: strong
+    last_name: JSC PENZA ELECTROTECHNICAL RESEARCH INSTITUTE
+  - uid: '59876'
+    type: a.k.a.
+    category: weak
+    last_name: PNIEI JSC
+address_list:
+  items:
+  - uid: '57168'
+    address1: 9 Sovetskaya Str.
+    city: Penza
+    state_or_province: Penza Region
+    postal_code: '440026'
+    country: Russia
+id_list:
+  items:
+  - uid: '27438'
+    id_type: Tax ID No.
+    id_number: '5836649358'
+    id_country: Russia
+  - uid: '27439'
+    id_type: Registration Number
+    id_number: '1115836009255'
+    id_country: Russia
+  - uid: '174639'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '153428'
+    id_type: Organization Established Date
+    id_number: 30 Dec 2011

@@ -1,0 +1,31 @@
+---
+uid: '16523'
+first_name: Pere
+last_name: PUNTI
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '25078'
+    type: a.k.a.
+    category: strong
+    last_name: SANE
+    first_name: Pedro Punti
+id_list:
+  items:
+  - uid: '9127'
+    id_type: Passport
+    id_number: AAD225212
+    id_country: Spain
+    expiration_date: 12 May 2020
+  - uid: '114986'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '14990'
+    date_of_birth: 27 Aug 1944
+    main_entry: 'true'

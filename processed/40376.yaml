@@ -1,0 +1,35 @@
+---
+uid: '40376'
+first_name: Ludim
+last_name: ZAMUDIO LERMA
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '60164'
+    address1: Boulevard Doctor Mora 1776
+    address2: Colonia La Campina
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+id_list:
+  items:
+  - uid: '29536'
+    id_type: C.U.R.P.
+    id_number: ZALL720419HSLMRD06
+    id_country: Mexico
+  - uid: '157490'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '57487'
+    date_of_birth: 19 Apr 1972
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '57488'
+    place_of_birth: Sinaloa, Mexico
+    main_entry: 'true'

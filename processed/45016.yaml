@@ -1,0 +1,35 @@
+---
+uid: '45016'
+last_name: LIMITED LIABILITY COMPANY SEVERNAYA ALMAZNAYA KOMPANIYA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69704'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY NORTH DIAMOND COMPANY
+address_list:
+  items:
+  - uid: '67015'
+    address1: d. 1 pom. 31
+    address2: pl. Metallistov
+    city: Vorkuta
+    postal_code: '169901'
+    country: Russia
+id_list:
+  items:
+  - uid: '34692'
+    id_type: Registration Number
+    id_number: '1073528012700'
+    id_country: Russia
+  - uid: '34693'
+    id_type: Tax ID No.
+    id_number: '3528130677'
+    id_country: Russia
+  - uid: '175897'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: JSC VORKUTAUGOL)"

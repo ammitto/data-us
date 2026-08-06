@@ -1,0 +1,38 @@
+---
+uid: '52062'
+first_name: Luis Armando
+last_name: PEREZ CASTANEDA
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '81528'
+    type: a.k.a.
+    category: weak
+    last_name: Bruno
+address_list:
+  items:
+  - uid: '79402'
+    country: Colombia
+id_list:
+  items:
+  - uid: '44899'
+    id_type: Cedula No.
+    id_number: '71941532'
+    id_country: Colombia
+  - uid: '182843'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '82840'
+    date_of_birth: 02 Oct 1991
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '82841'
+    place_of_birth: Apartado, Antioquia, Colombia
+    main_entry: 'true'
+remarks: "(Linked To: CLAN DEL GOLFO)"

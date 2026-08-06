@@ -1,0 +1,42 @@
+---
+uid: '51768'
+last_name: JOINT STOCK COMPANY ROYAL CREDIT BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '81089'
+    type: a.k.a.
+    category: weak
+    last_name: DZEMGI
+address_list:
+  items:
+  - uid: '78891'
+    address1: 100 letiya Vladivostoku Avenue, 155, 3rd Floor, Letter B
+    city: Vladivostok
+    postal_code: '690068'
+    country: Russia
+id_list:
+  items:
+  - uid: '44895'
+    id_type: Registration Number
+    id_number: '1022700000685'
+    id_country: Russia
+  - uid: '44896'
+    id_type: Tax ID No.
+    id_number: '2703006553'
+    id_country: Russia
+  - uid: '181961'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '181963'
+    id_type: SWIFT/BIC
+    id_number: ROCERU33
+  - uid: '181962'
+    id_type: Website
+    id_number: www.royal-bank.ru
+  - uid: '181964'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,73 @@
+---
+uid: '12295'
+first_name: Hafiz Abdul Rahman
+last_name: MAKKI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '13194'
+    type: a.k.a.
+    category: strong
+    last_name: MAKKI
+    first_name: HAFIZ ABDUL REHMAN
+  - uid: '13195'
+    type: a.k.a.
+    category: strong
+    last_name: MAKI
+    first_name: HAFAZ ABDUL RAHMAN
+  - uid: '13196'
+    type: a.k.a.
+    category: strong
+    last_name: MAKKI
+    first_name: ABDULRAHMAN
+  - uid: '14686'
+    type: a.k.a.
+    category: strong
+    last_name: REHMAN
+    first_name: Hafiz Abdul
+address_list:
+  items:
+  - uid: '18878'
+    city: Muridke
+    state_or_province: Punjab Province
+    country: Pakistan
+id_list:
+  items:
+  - uid: '7600'
+    id_type: National ID No.
+    id_number: '6110111883885'
+    id_country: Pakistan
+  - uid: '7601'
+    id_type: National ID No.
+    id_number: '34454009709'
+    id_country: Pakistan
+  - uid: '7602'
+    id_type: Passport
+    id_number: CG9153881
+    id_country: Pakistan
+    issue_date: 02 Nov 2007
+    expiration_date: 31 Oct 2012
+  - uid: '7603'
+    id_type: Passport
+    id_number: A5199819
+    id_country: Pakistan
+  - uid: '185996'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '8010'
+    date_of_birth: '1948'
+    main_entry: 'false'
+  - uid: '8956'
+    date_of_birth: 10 Dec 1954
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '8011'
+    place_of_birth: Bahawalpur, Punjab Province, Pakistan
+    main_entry: 'true'

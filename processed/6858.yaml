@@ -1,0 +1,31 @@
+---
+uid: '6858'
+first_name: Miguel Angel
+last_name: CARO QUINTERO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '89058'
+    country: Mexico
+id_list:
+  items:
+  - uid: '52550'
+    id_type: C.U.R.P.
+    id_number: CAQM630309HSLRNG00
+    id_country: Mexico
+  - uid: '199169'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '1191'
+    date_of_birth: '09 Mar 1963'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '1192'
+    place_of_birth: Sinaloa, Mexico
+    main_entry: 'true'

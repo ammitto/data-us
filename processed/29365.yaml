@@ -1,0 +1,41 @@
+---
+uid: '29365'
+first_name: Jose Luis
+last_name: GUTIERREZ PARRA
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+address_list:
+  items:
+  - uid: '44413'
+    address1: Calle Sucre, Res. Puma, Piso 2, Apto 24, Urb. Chacao
+    city: Caracas
+    state_or_province: Miranda
+    postal_code: '1060'
+    country: Venezuela
+id_list:
+  items:
+  - uid: '19553'
+    id_type: Cedula No.
+    id_number: V-7048576
+    id_country: Venezuela
+  - uid: '19554'
+    id_type: Passport
+    id_number: '108109658'
+    id_country: Venezuela
+    issue_date: 15 Oct 2014
+    expiration_date: 14 Oct 2019
+  - uid: '136184'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '36185'
+    date_of_birth: 13 Jun 1963
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '36186'
+    place_of_birth: Puerto Ayacucho, Venezuela
+    main_entry: 'true'

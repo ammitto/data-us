@@ -1,0 +1,33 @@
+---
+uid: '56316'
+first_name: Fabjon
+last_name: HYSA
+sdn_type: Individual
+program_list:
+  programs:
+  - TCO
+address_list:
+  items:
+  - uid: '86181'
+    country: Canada
+id_list:
+  items:
+  - uid: '50343'
+    id_type: Passport
+    id_number: '1893770'
+    id_country: Albania
+    expiration_date: 15 Jun 2006
+  - uid: '194460'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '94457'
+    date_of_birth: 27 Sep 1993
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '94458'
+    place_of_birth: Elbasan, Albania
+    main_entry: 'true'
+remarks: "(Linked To: HYSA ORGANIZED CRIME GROUP)"

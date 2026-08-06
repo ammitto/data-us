@@ -1,0 +1,38 @@
+---
+uid: '51547'
+last_name: SAO VIET PETROL TRANSPORTATION COMPANY LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+  - IRAN-EO13846
+address_list:
+  items:
+  - uid: '78554'
+    address1: 3rd Floor, Viet Tower Building, 1, Thai Ha Street, Trung Liet Ward,
+      Dong Da District
+    city: Hanoi
+    country: Vietnam
+id_list:
+  items:
+  - uid: '43976'
+    id_type: Identification Number
+    id_number: IMO 6169710
+  - uid: '50500'
+    id_type: Business Registration Number
+    id_number: '0109132188'
+    id_country: Vietnam
+  - uid: '194809'
+    id_type: Organization Established Date
+    id_number: '2020'
+  - uid: '194808'
+    id_type: 'Executive Order 13846 information:'
+    id_number: BLOCKING PROPERTY AND INTERESTS IN PROPERTY.  Sec. 5(a)(iv)
+  - uid: '181207'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183240'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

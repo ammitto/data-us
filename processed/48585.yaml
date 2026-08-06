@@ -1,0 +1,39 @@
+---
+uid: '48585'
+last_name: LLC INNOTECH SOLUTIONS
+sdn_type: Entity
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '75528'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOY OTVETSTVENNOSTYU INNOTEKH SOLYUSHNS
+address_list:
+  items:
+  - uid: '72938'
+    address1: 104-105, Pobediteley avenue
+    city: Minsk
+    postal_code: '220062'
+    country: Belarus
+  - uid: '72939'
+    address1: 21B-4, 9, Kulman Street
+    city: Minsk
+    postal_code: '220100'
+    country: Belarus
+id_list:
+  items:
+  - uid: '39570'
+    id_type: Tax ID No.
+    id_number: '193156727'
+    id_country: Belarus
+  - uid: '170858'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
+  - uid: '170857'
+    id_type: Organization Established Date
+    id_number: Oct 2018
+remarks: "(Linked To: OJSC AGAT-CONTROL SYSTEM-MANAGING COMPANY OF GEOINFORMATION
+  CONTROL SYSTEMS HOLDING)"

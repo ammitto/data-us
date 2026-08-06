@@ -1,0 +1,37 @@
+---
+uid: '47686'
+last_name: LIMITED LIABILITY COMPANY SAFEDATA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73911'
+    type: a.k.a.
+    category: weak
+    last_name: LIMITED LIABILITY COMPANY DATA STORAGE CENTER
+  - uid: '73912'
+    type: a.k.a.
+    category: strong
+    last_name: TSENTR KHRANENIYA DANNYKH
+address_list:
+  items:
+  - uid: '71287'
+    address1: Nikitskii Per D.7 Str.1
+    city: Moscow
+    postal_code: '125009'
+    country: Russia
+id_list:
+  items:
+  - uid: '38310'
+    id_type: Registration Number
+    id_number: '1067759957275'
+    id_country: Russia
+  - uid: '38311'
+    id_type: Tax ID No.
+    id_number: '7703616170'
+    id_country: Russia
+  - uid: '169847'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

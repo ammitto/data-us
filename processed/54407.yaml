@@ -1,0 +1,29 @@
+---
+uid: '54407'
+last_name: WHITE SANDS SHIPMANAGEMENT CORP.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '83096'
+    address1: Suite 10, 3rd Floor, La Ciotat
+    city: Mont Fleuri
+    country: Seychelles
+id_list:
+  items:
+  - uid: '48016'
+    id_type: Identification Number
+    id_number: IMO 6405037
+  - uid: '190377'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '190265'
+    id_type: Organization Established Date
+    id_number: 21 Apr 2023
+  - uid: '190266'
+    id_type: 'Organization Type:'
+    id_number: Sea and coastal freight water transport
+remarks: "(Linked To: AL-QATIRJI COMPANY)"

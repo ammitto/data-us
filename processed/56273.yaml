@@ -1,0 +1,38 @@
+---
+uid: '56273'
+first_name: Jie
+last_name: MA
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+address_list:
+  items:
+  - uid: '86092'
+    city: Xining
+    state_or_province: Qinghai
+    country: China
+id_list:
+  items:
+  - uid: '50270'
+    id_type: National ID No.
+    id_number: '630102198212180413'
+    id_country: China
+  - uid: '194338'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '194337'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '94336'
+    date_of_birth: 18 Dec 1982
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '94340'
+    place_of_birth: Chengdong District, Xining, Qinghai, China
+    main_entry: 'true'
+remarks: "(Linked To: OJE PARVAZ MADO NAFAR COMPANY)"

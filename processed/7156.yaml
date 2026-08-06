@@ -1,0 +1,66 @@
+---
+uid: '7156'
+last_name: DISTRIBUIDORA IMPERIAL DE BAJA CALIFORNIA, S.A. DE C.V.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '5092'
+    type: a.k.a.
+    category: strong
+    last_name: DISTRIBUIDORA IMPERIAL
+  - uid: '5093'
+    type: a.k.a.
+    category: strong
+    last_name: DIBC
+address_list:
+  items:
+  - uid: '5288'
+    address1: Blvd. Agua Caliente 1381, Colonia Revolucion
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '5289'
+    address1: Avenida Rio Nazas 10202
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '5290'
+    address1: Heroes de Nacozari 3213 Colonia Maya
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '5291'
+    address1: Lerdo de Tejada 1879 Sector Juarez
+    city: Guadalajara
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '5292'
+    address1: Ramon Morales No. 732 Colonia El Mirador
+    city: Guadalajara
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '5293'
+    address1: Rio Balsas 1579 Los Nogales
+    city: Ciudad Juarez
+    state_or_province: Chihuahua
+    country: Mexico
+  - uid: '5294'
+    address1: Luz Savinon 718-C Colonia del Valle
+    city: Mexico City
+    state_or_province: Distrito Federal
+    country: Mexico
+  - uid: '5295'
+    address1: P.O. Box 434440
+    city: San Ysidro
+    state_or_province: CA
+    postal_code: '92173'
+    country: United States
+id_list:
+  items:
+  - uid: '1537'
+    id_type: R.F.C.
+    id_number: DIB-771110-HQ1
+    id_country: Mexico

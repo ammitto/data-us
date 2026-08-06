@@ -1,0 +1,57 @@
+---
+uid: '18735'
+last_name: VTB REAL ESTATE LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13662
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '29389'
+    type: a.k.a.
+    category: strong
+    last_name: VTB NEDVIZHIMOST, OOO
+  - uid: '29390'
+    type: a.k.a.
+    category: strong
+    last_name: VTB REAL ESTATE, LLC
+address_list:
+  items:
+  - uid: '59944'
+    address1: d. 10 etazh 7 (BLOK A), Naberezhnaya Presnenskaya
+    city: Moscow
+    postal_code: '123112'
+    country: Russia
+id_list:
+  items:
+  - uid: '10989'
+    id_type: Registration ID
+    id_number: '1117746272907'
+    id_country: Russia
+  - uid: '29406'
+    id_type: Government Gazette Number
+    id_number: '91457857'
+    id_country: Russia
+  - uid: '29407'
+    id_type: Tax ID No.
+    id_number: '7729679810'
+    id_country: Russia
+  - uid: '118221'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 1
+  - uid: '143597'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '157169'
+    id_type: 'Organization Type:'
+    id_number: Real estate activities on a fee or contract basis
+  - uid: '173892'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '157168'
+    id_type: Organization Established Date
+    id_number: '08 Apr 2011'
+remarks: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)'

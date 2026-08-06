@@ -1,0 +1,33 @@
+---
+uid: '52008'
+last_name: OPEN JOINT STOCK COMPANY VOLZHSKY ABRASIVE WORKS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '81414'
+    type: a.k.a.
+    category: strong
+    last_name: VOLZHSKI ABRAZIVNY ZAVOD PAO
+address_list:
+  items:
+  - uid: '79294'
+    address1: Ul. Im F.G.Loginova 169
+    city: Volzhski
+    postal_code: '404119'
+    country: Russia
+id_list:
+  items:
+  - uid: '44810'
+    id_type: Registration Number
+    id_number: '1023402019596'
+    id_country: Russia
+  - uid: '44812'
+    id_type: Tax ID No.
+    id_number: '3435000467'
+    id_country: Russia
+  - uid: '182665'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

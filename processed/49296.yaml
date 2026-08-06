@@ -1,0 +1,39 @@
+---
+uid: '49296'
+last_name: LIMITED LIABILITY COMPANY OBSKY GAS CHEMICAL COMPLEX
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '76882'
+    type: a.k.a.
+    category: strong
+    last_name: LLC OBSKY GCC
+address_list:
+  items:
+  - uid: '74268'
+    address1: Ul. Khudi Seroko D. 39
+    address2: Pomeshch. 20
+    city: Yar Sale
+    postal_code: '629700'
+    country: Russia
+id_list:
+  items:
+  - uid: '40528'
+    id_type: Registration Number
+    id_number: '1198901000121'
+    id_country: Russia
+  - uid: '40529'
+    id_type: Tax ID No.
+    id_number: '8901037441'
+    id_country: Russia
+  - uid: '172312'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184312'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

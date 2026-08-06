@@ -1,0 +1,45 @@
+---
+uid: '57017'
+first_name: Gedo Hamdan Ahmed
+last_name: MOHAMED
+sdn_type: Individual
+program_list:
+  programs:
+  - SUDAN-EO14098
+aka_list:
+  items:
+  - uid: '88338'
+    type: a.k.a.
+    category: weak
+    last_name: ABU SHOK
+  - uid: '88339'
+    type: a.k.a.
+    category: weak
+    last_name: ABANSHUK
+  - uid: '88340'
+    type: a.k.a.
+    category: weak
+    last_name: ABU NSHOUK
+address_list:
+  items:
+  - uid: '87252'
+    country: Sudan
+id_list:
+  items:
+  - uid: '51202'
+    id_type: National ID No.
+    id_number: '21932935991'
+    id_country: Sudan
+  - uid: '196227'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '96228'
+    date_of_birth: '1973'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '96272'
+    place_of_birth: Kutum, North Darfur, Sudan
+    main_entry: 'true'

@@ -1,0 +1,24 @@
+---
+uid: '51639'
+last_name: NURKEZ
+sdn_type: Vessel
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+id_list:
+  items:
+  - uid: '44145'
+    id_type: Vessel Registration Identification
+    id_number: IMO 9253325
+  - uid: '44147'
+    id_type: MMSI
+    id_number: '352002470'
+  - uid: '181502'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183360'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+remarks: "(Linked To: SERPENS LIMITED)"

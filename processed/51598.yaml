@@ -1,0 +1,39 @@
+---
+uid: '51598'
+last_name: SERVICE PROM KOMPLEKTATSIYA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+address_list:
+  items:
+  - uid: '78623'
+    address1: ul. Industrialnaya 14, Pgt.
+    city: Yablonovskii
+    postal_code: '385140'
+    country: Russia
+  - uid: '78624'
+    address1: ul. Olimpiiskaya d. 8, lit. A
+    address2: pomeshch. 3
+    address3: 3/1 kabinet 503
+    city: Krasnodar
+    postal_code: '350049'
+    country: Russia
+id_list:
+  items:
+  - uid: '44071'
+    id_type: Registration Number
+    id_number: '1120107000848'
+    id_country: Russia
+  - uid: '44072'
+    id_type: Tax ID No.
+    id_number: '0107022448'
+    id_country: Russia
+  - uid: '181371'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183511'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

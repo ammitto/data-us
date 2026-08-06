@@ -1,0 +1,48 @@
+---
+uid: '41999'
+last_name: JOINT STOCK COMPANY COMPEL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65278'
+    type: a.k.a.
+    category: weak
+    last_name: AO KOMPEL
+address_list:
+  items:
+  - uid: '62668'
+    address1: ul. Novokhokhlovskaya d. 23
+    address2: str. 1
+    city: Moscow
+    postal_code: '109052'
+    country: Russia
+  - uid: '62669'
+    address1: Pr-kt Volgogradskii d. 28A
+    address2: pom I et 3 kom 6
+    city: Moscow
+    postal_code: '109316'
+    country: Russia
+  - uid: '62670'
+    address1: Bolshoi pr-t V.O., 18
+    city: Saint Petersburg
+    country: Russia
+  - uid: '62671'
+    address1: K. Marksa pr-t, 57
+    city: Novosibirsk
+    country: Russia
+id_list:
+  items:
+  - uid: '31402'
+    id_type: Registration Number
+    id_number: '1027700032161'
+    id_country: Russia
+  - uid: '31403'
+    id_type: Tax ID No.
+    id_number: '7713005406'
+    id_country: Russia
+  - uid: '176946'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,43 @@
+---
+uid: '57226'
+first_name: Raoof
+last_name: FADEL
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '87696'
+    address1: Zone 55, Street 169, Building 85, Villa 3
+    city: Doha
+    country: Qatar
+id_list:
+  items:
+  - uid: '51493'
+    id_type: Passport
+    id_number: LR2366895
+    id_country: Lebanon
+    expiration_date: 18 Oct 2031
+  - uid: '197030'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '197028'
+    id_type: Gender
+    id_number: Male
+  - uid: '197029'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
+      Sanctions Regulations
+date_of_birth_list:
+  items:
+  - uid: '97025'
+    date_of_birth: 20 Dec 1981
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '97026'
+    place_of_birth: El Dammamm, Saudi Arabia
+    main_entry: 'true'
+remarks: "(Linked To: HIZBALLAH)"

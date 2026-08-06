@@ -1,0 +1,35 @@
+---
+uid: '29386'
+first_name: Behrouz
+last_name: KAMALVANDI
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+address_list:
+  items:
+  - uid: '44440'
+    country: Iran
+id_list:
+  items:
+  - uid: '136211'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '136214'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '36212'
+    date_of_birth: '1955'
+    main_entry: 'true'
+  - uid: '36213'
+    date_of_birth: '1956'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '36216'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: ATOMIC ENERGY ORGANIZATION OF IRAN)"

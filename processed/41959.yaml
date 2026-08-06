@@ -1,0 +1,34 @@
+---
+uid: '41959'
+last_name: LLC T-KOMPONENT SP
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65192'
+    type: a.k.a.
+    category: weak
+    last_name: T-COMPONENT
+address_list:
+  items:
+  - uid: '62573'
+    address1: Pr-kt Leninskii d. 153
+    address2: floor 2 pom. 60N office 215
+    city: Saint Petersburg
+    postal_code: '196247'
+    country: Russia
+id_list:
+  items:
+  - uid: '31322'
+    id_type: Registration Number
+    id_number: '1177847066990'
+    id_country: Russia
+  - uid: '31323'
+    id_type: Tax ID No.
+    id_number: '7810656900'
+    id_country: Russia
+  - uid: '173707'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

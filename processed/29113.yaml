@@ -1,0 +1,38 @@
+---
+uid: '29113'
+first_name: Andrei Sergeevich
+last_name: MANDEL
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+  - ELECTION-EO13848
+  - UKRAINE-EO13661
+address_list:
+  items:
+  - uid: '44056'
+    city: St. Petersburg
+    country: Russia
+id_list:
+  items:
+  - uid: '19383'
+    id_type: Passport
+    id_number: '753615660'
+  - uid: '144078'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '135831'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '35828'
+    date_of_birth: 02 Mar 1990
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '35830'
+    place_of_birth: Germany
+    main_entry: 'true'
+remarks: "(Linked To: M INVEST, OOO)"

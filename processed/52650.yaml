@@ -1,0 +1,41 @@
+---
+uid: '52650'
+last_name: SCIENTIFIC RESEARCH INSTITUTE OF COMMAND DEVICES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '82496'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO NAUCHNO ISSLEDOVATELSKII INSTITUT KOMANDNYKH
+      PRIBOROV
+  - uid: '82498'
+    type: a.k.a.
+    category: strong
+    last_name: AO NII KOMANDNYKH PRIBOROV
+address_list:
+  items:
+  - uid: '80453'
+    address1: 16 pr-kt Tramvainyi
+    city: Saint Petersburg
+    postal_code: '198216'
+    country: Russia
+id_list:
+  items:
+  - uid: '45739'
+    id_type: Registration Number
+    id_number: '1147847231674'
+    id_country: Russia
+  - uid: '45743'
+    id_type: Tax ID No.
+    id_number: '7805654288'
+    id_country: Russia
+  - uid: '184444'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
+  - uid: '184443'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

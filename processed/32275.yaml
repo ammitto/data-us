@@ -1,0 +1,44 @@
+---
+uid: '32275'
+last_name: STATE SECURITY COMMITTEE OF THE REPUBLIC OF BELARUS
+sdn_type: Entity
+program_list:
+  programs:
+  - BELARUS
+aka_list:
+  items:
+  - uid: '50694'
+    type: a.k.a.
+    category: strong
+    last_name: BELARUSIAN STATE SECURITY COMMITTEE
+  - uid: '50695'
+    type: a.k.a.
+    category: strong
+    last_name: BELARUSIAN KGB
+  - uid: '50696'
+    type: a.k.a.
+    category: strong
+    last_name: KOMITET GOSUDARSTVENNOI BEZOPASNOSTI RESPUBLIKI BELARUS
+  - uid: '50697'
+    type: a.k.a.
+    category: strong
+    last_name: KAMITET DZYARZHAUNAI BIASPEKI RESPUBLIKI BELARUS
+address_list:
+  items:
+  - uid: '48627'
+    address1: Nezalezhnastsi Avenue
+    address2: '17'
+    city: Minsk
+    postal_code: '220030'
+    country: Belarus
+  - uid: '48628'
+    address1: Komsomolskaya str.
+    address2: '30'
+    city: Minsk
+    postal_code: '220030'
+    country: Belarus
+id_list:
+  items:
+  - uid: '141740'
+    id_type: Target Type
+    id_number: Government Entity

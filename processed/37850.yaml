@@ -1,0 +1,31 @@
+---
+uid: '37850'
+first_name: Natalya Vladimirovna
+last_name: BORISOVA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '56718'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '153000'
+    id_type: Gender
+    id_number: Female
+  - uid: '174598'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '52999'
+    date_of_birth: 19 Aug 1968
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '53002'
+    place_of_birth: Yuzhno-Sakhalinsk, Russia
+    main_entry: 'true'

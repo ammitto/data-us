@@ -1,0 +1,38 @@
+---
+uid: '57412'
+first_name: Baltazar
+last_name: SAENZ AGUILAR
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+address_list:
+  items:
+  - uid: '87987'
+    state_or_province: Sinaloa
+    country: Mexico
+id_list:
+  items:
+  - uid: '51730'
+    id_type: C.U.R.P.
+    id_number: SAAB850812HSLNGL03
+    id_country: Mexico
+  - uid: '197475'
+    id_type: Gender
+    id_number: Male
+  - uid: '198215'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '97472'
+    date_of_birth: 12 Aug 1985
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '97473'
+    place_of_birth: Sinaloa, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: GONZALEZ PENUELAS, Jesus)"

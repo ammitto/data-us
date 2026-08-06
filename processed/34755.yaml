@@ -1,0 +1,41 @@
+---
+uid: '34755'
+last_name: SOLLERS-FINANCE LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54521'
+    type: a.k.a.
+    category: strong
+    last_name: SOVCOMBANK LEASING LLC
+  - uid: '54855'
+    type: a.k.a.
+    category: strong
+    last_name: SOLLERS-FINANCE LLC
+address_list:
+  items:
+  - uid: '52087'
+    address1: Ul. Vavilova D. 24, Str. 1
+    city: Moscow
+    postal_code: '119334'
+    country: Russia
+id_list:
+  items:
+  - uid: '24430'
+    id_type: Tax ID No.
+    id_number: '7709780434'
+    id_country: Russia
+  - uid: '24431'
+    id_type: Registration Number
+    id_number: '1087746253781'
+    id_country: Russia
+  - uid: '175200'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '146213'
+    id_type: Website
+    id_number: sovcombank-leasing.ru
+remarks: "(Linked To: SOVCOMBANK OPEN JOINT STOCK COMPANY)"

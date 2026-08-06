@@ -1,0 +1,43 @@
+---
+uid: '42009'
+last_name: RSV-EKSPERT OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65295'
+    type: a.k.a.
+    category: weak
+    last_name: EKSPERT
+  - uid: '65296'
+    type: a.k.a.
+    category: weak
+    last_name: NPK EXPERT
+address_list:
+  items:
+  - uid: '62693'
+    address1: ul. Voskhod d. 26/1
+    address2: kabinet 101
+    city: Novosibirsk
+    postal_code: '630102'
+    country: Russia
+  - uid: '62694'
+    address1: Festivalnaya d. 41
+    address2: k. 2, 1 etazh
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '31422'
+    id_type: Registration Number
+    id_number: '1165476124395'
+    id_country: Russia
+  - uid: '31423'
+    id_type: Tax ID No.
+    id_number: '5405979190'
+    id_country: Russia
+  - uid: '173743'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

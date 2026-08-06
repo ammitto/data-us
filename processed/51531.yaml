@@ -1,0 +1,39 @@
+---
+uid: '51531'
+last_name: JOINT STOCK COMPANY INVESTGEOSERVIS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '80792'
+    type: a.k.a.
+    category: strong
+    last_name: AO INVESTGEOSERVIS
+address_list:
+  items:
+  - uid: '78523'
+    address1: Pr-Kt 60 Letiya Oktyabrya D. 10A
+    address2: Pom XXII
+    city: Moscow
+    postal_code: '117036'
+    country: Russia
+id_list:
+  items:
+  - uid: '43944'
+    id_type: Registration Number
+    id_number: '1067760718871'
+    id_country: Russia
+  - uid: '43945'
+    id_type: Tax ID No.
+    id_number: '7704627560'
+    id_country: Russia
+  - uid: '181180'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183482'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

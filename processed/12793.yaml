@@ -1,0 +1,88 @@
+---
+uid: '12793'
+first_name: Behnam
+last_name: SHAHRIYARI
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - SDGT
+aka_list:
+  items:
+  - uid: '13982'
+    type: a.k.a.
+    category: strong
+    last_name: SHAHRYARI
+    first_name: Behnam
+  - uid: '13983'
+    type: a.k.a.
+    category: strong
+    last_name: SHAHRIARI
+    first_name: Behnam
+  - uid: '68908'
+    type: a.k.a.
+    category: strong
+    last_name: HAMID
+    first_name: Huseyini
+  - uid: '68909'
+    type: a.k.a.
+    category: strong
+    last_name: MARALLU
+    first_name: Behnam Shahriyari
+  - uid: '68910'
+    type: a.k.a.
+    category: strong
+    last_name: MIR VAKILI
+    first_name: Seyed Ali Akbar
+  - uid: '68911'
+    type: a.k.a.
+    category: strong
+    last_name: MIRVAKILI
+    first_name: Seyed Aliakbar
+  - uid: '68912'
+    type: a.k.a.
+    category: strong
+    last_name: MIRVAKILI
+    first_name: Seyedaliakbar
+  - uid: '68913'
+    type: a.k.a.
+    category: strong
+    last_name: SHAHCHERAGHI
+    first_name: Seyed Hamid Reza
+address_list:
+  items:
+  - uid: '66477'
+    country: Iran
+id_list:
+  items:
+  - uid: '34118'
+    id_type: Passport
+    id_number: K47248790
+    id_country: Iran
+    expiration_date: 20 Oct 2023
+  - uid: '34119'
+    id_type: Passport
+    id_number: D10007350
+    id_country: Iran
+    expiration_date: 13 Oct 2025
+  - uid: '164792'
+    id_type: Gender
+    id_number: Male
+  - uid: '119530'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '186032'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '8536'
+    date_of_birth: '1968'
+    main_entry: 'true'
+  - uid: '64617'
+    date_of_birth: 22 Sep 1967
+    main_entry: 'false'
+  - uid: '64618'
+    date_of_birth: 30 Sep 1965
+    main_entry: 'false'

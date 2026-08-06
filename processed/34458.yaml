@@ -1,0 +1,36 @@
+---
+uid: '34458'
+last_name: PARSEK LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+address_list:
+  items:
+  - uid: '51608'
+    address1: Sh. Entuziastov D. 54
+    address2: Che 0 POM.VII CH K 9
+    city: Moscow
+    postal_code: '111123'
+    country: Russia
+id_list:
+  items:
+  - uid: '24078'
+    id_type: Tax ID No.
+    id_number: '7714789249'
+    id_country: Russia
+  - uid: '24079'
+    id_type: Registration Number
+    id_number: '1097746565366'
+    id_country: Russia
+  - uid: '24080'
+    id_type: Company Number
+    id_number: '62817585'
+    id_country: Russia
+  - uid: '145790'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '145789'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210

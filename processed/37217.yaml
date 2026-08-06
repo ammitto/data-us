@@ -1,0 +1,40 @@
+---
+uid: '37217'
+first_name: Evgeniy Borisovich
+last_name: KOCHMAN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '58349'
+    type: a.k.a.
+    category: strong
+    last_name: KOCHMAN
+    first_name: Evgenii Borisovich
+address_list:
+  items:
+  - uid: '55666'
+    country: Russia
+  - uid: '55667'
+    country: Monaco
+  - uid: '55975'
+    country: France
+id_list:
+  items:
+  - uid: '26517'
+    id_type: Tax ID No.
+    id_number: '770465009803'
+    id_country: Russia
+  - uid: '151711'
+    id_type: Gender
+    id_number: Male
+  - uid: '174522'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '51712'
+    date_of_birth: 25 Aug 1980
+    main_entry: 'true'

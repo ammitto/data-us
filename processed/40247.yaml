@@ -1,0 +1,42 @@
+---
+uid: '40247'
+first_name: Roman Vladimirovich
+last_name: STAROVOYT
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '62595'
+    type: a.k.a.
+    category: strong
+    last_name: STAROVOIT
+    first_name: Roman Vladimirovich
+address_list:
+  items:
+  - uid: '59986'
+    city: Kursk
+    country: Russia
+id_list:
+  items:
+  - uid: '29431'
+    id_type: Tax ID No.
+    id_number: '782613427204'
+    id_country: Russia
+  - uid: '157228'
+    id_type: Gender
+    id_number: Male
+  - uid: '174050'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '57226'
+    date_of_birth: 20 Jan 1972
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '57227'
+    place_of_birth: Kursk, Kursk Region, Russia
+    main_entry: 'true'

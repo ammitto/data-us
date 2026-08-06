@@ -1,0 +1,42 @@
+---
+uid: '40249'
+first_name: Aleksandr Viktorovich
+last_name: MOOR
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '62599'
+    type: a.k.a.
+    category: strong
+    last_name: MOOR
+    first_name: Alexander Viktorovich
+address_list:
+  items:
+  - uid: '59990'
+    state_or_province: Tyumen region
+    country: Russia
+id_list:
+  items:
+  - uid: '29433'
+    id_type: Tax ID No.
+    id_number: '720403659694'
+    id_country: Russia
+  - uid: '174052'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '157237'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '57235'
+    date_of_birth: 06 Jan 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '57236'
+    place_of_birth: Bereznyaki, Tyumen region, Russia
+    main_entry: 'true'

@@ -1,0 +1,86 @@
+---
+uid: '49260'
+last_name: NORDIC RESISTANCE MOVEMENT
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '76797'
+    type: a.k.a.
+    category: weak
+    last_name: NRM
+  - uid: '76798'
+    type: a.k.a.
+    category: weak
+    last_name: NMR
+  - uid: '76799'
+    type: a.k.a.
+    category: strong
+    last_name: SWEDISH RESISTANCE MOVEMENT
+  - uid: '76800'
+    type: a.k.a.
+    category: weak
+    last_name: SMR
+  - uid: '76801'
+    type: a.k.a.
+    category: weak
+    last_name: NRM-SWEDEN
+  - uid: '76802'
+    type: a.k.a.
+    category: strong
+    last_name: FINNISH RESISTANCE MOVEMENT
+  - uid: '76803'
+    type: a.k.a.
+    category: strong
+    last_name: SUOMEN VASTARINTALIIKE
+  - uid: '76804'
+    type: a.k.a.
+    category: weak
+    last_name: NRM-FINLAND
+  - uid: '76806'
+    type: a.k.a.
+    category: weak
+    last_name: KOHTI VAPAUTTA!
+  - uid: '76807'
+    type: a.k.a.
+    category: strong
+    last_name: NORWEGIAN RESISTANCE MOVEMENT
+  - uid: '76808'
+    type: a.k.a.
+    category: strong
+    last_name: DEN NORSKE MOTSTANDSBEVEGELSEN
+  - uid: '76809'
+    type: a.k.a.
+    category: strong
+    last_name: NRM-NORWAY
+  - uid: '76861'
+    type: a.k.a.
+    category: strong
+    last_name: NORDISKA MOTSTANDSRORELSEN
+  - uid: '76862'
+    type: a.k.a.
+    category: strong
+    last_name: SVENSKA MOTSTANDSRORELSEN
+address_list:
+  items:
+  - uid: '74186'
+    country: Sweden
+  - uid: '74187'
+    country: Norway
+  - uid: '74188'
+    country: Denmark
+  - uid: '74189'
+    country: Finland
+  - uid: '74190'
+    country: Iceland
+id_list:
+  items:
+  - uid: '172548'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '172552'
+    id_type: Organization Established Date
+    id_number: '1997'

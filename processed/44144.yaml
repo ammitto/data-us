@@ -1,0 +1,45 @@
+---
+uid: '44144'
+first_name: Maksim Valeriovych
+last_name: SOLDATOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '68277'
+    type: a.k.a.
+    category: strong
+    last_name: SOLDATOV
+    first_name: Maksim Valerevich
+address_list:
+  items:
+  - uid: '65681'
+    address1: 2 Moscovskaya St., Apartment 12
+    city: Makeevka
+    state_or_province: Donetsk Region
+    country: Ukraine
+id_list:
+  items:
+  - uid: '33547'
+    id_type: Tax ID No.
+    id_number: '3034102451'
+    id_country: Ukraine
+  - uid: '33548'
+    id_type: Tax ID No.
+    id_number: '931100211650'
+    id_country: Russia
+  - uid: '175777'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '163721'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '63720'
+    date_of_birth: 26 Jan 1983
+    main_entry: 'true'
+remarks: "(Linked To: STATE UNITARY ENTERPRISE OF THE DONETSK PEOPLE'S REPUBLIC REPUBLICAN
+  CENTER TRADING HOUSE VTORMET)"

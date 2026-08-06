@@ -1,0 +1,43 @@
+---
+uid: '57557'
+first_name: Genping
+last_name: LI
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+address_list:
+  items:
+  - uid: '88243'
+    city: Ningbo
+    state_or_province: Zhejiang
+    country: China
+id_list:
+  items:
+  - uid: '51953'
+    id_type: National ID No.
+    id_number: '362524198308156510'
+    id_country: China
+  - uid: '51954'
+    id_type: Passport
+    id_number: E10413641
+    id_country: China
+    expiration_date: 11 Dec 2022
+  - uid: '197791'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '197788'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '97789'
+    date_of_birth: 15 Aug 1983
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '97893'
+    place_of_birth: Nanfeng County, Jiangxi, China
+    main_entry: 'true'
+remarks: "(Linked To: HITEX INSULATION NINGBO COMPANY LIMITED)"

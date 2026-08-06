@@ -1,0 +1,37 @@
+---
+uid: '48440'
+last_name: INFORMATION TELECOMMUNICATION TECHNOLOGIES JOINT STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75295'
+    type: a.k.a.
+    category: weak
+    last_name: INTELTECH JSC
+  - uid: '75296'
+    type: a.k.a.
+    category: weak
+    last_name: INTELTEKH
+address_list:
+  items:
+  - uid: '72679'
+    address1: Ul. Kantemirovskaya D. 8
+    city: Saint Petersburg
+    postal_code: '197342'
+    country: Russia
+id_list:
+  items:
+  - uid: '39338'
+    id_type: Registration Number
+    id_number: '1027801525608'
+    id_country: Russia
+  - uid: '39339'
+    id_type: Tax ID No.
+    id_number: '7802030605'
+    id_country: Russia
+  - uid: '171276'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

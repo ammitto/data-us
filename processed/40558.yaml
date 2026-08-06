@@ -1,0 +1,58 @@
+---
+uid: '40558'
+first_name: Sergei Nikolaevich
+last_name: ADONEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63031'
+    type: a.k.a.
+    category: strong
+    last_name: ADONIEV
+    first_name: Sergey
+  - uid: '63032'
+    type: a.k.a.
+    category: strong
+    last_name: ADONEV
+    first_name: Sergej Nikolaevich
+address_list:
+  items:
+  - uid: '60410'
+    address1: Enzo Sireni 1
+    city: Herzliya
+    postal_code: '4673502'
+    country: Israel
+id_list:
+  items:
+  - uid: '29700'
+    id_type: Passport
+    id_number: '758231249'
+    id_country: Russia
+  - uid: '29701'
+    id_type: Passport
+    id_number: '24150347'
+    id_country: Israel
+  - uid: '29702'
+    id_type: Tax ID No.
+    id_number: '780450035797'
+    id_country: Russia
+  - uid: '157807'
+    id_type: Gender
+    id_number: Male
+  - uid: '176909'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '57805'
+    date_of_birth: 28 Jan 1961
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '57806'
+    place_of_birth: Lviv, Lviv Oblast, Ukraine
+    main_entry: 'true'
+remarks: "(Linked To: LIMITED LIABILITY COMPANY KALEIDOSKOP)"

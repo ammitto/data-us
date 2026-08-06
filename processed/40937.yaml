@@ -1,0 +1,37 @@
+---
+uid: '40937'
+first_name: Hwa Song
+last_name: PAK
+sdn_type: Individual
+program_list:
+  programs:
+  - DPRK4
+address_list:
+  items:
+  - uid: '61099'
+    address1: 1041 avenue Ulindi, Quartier Golf
+    city: Lubumbashi
+    state_or_province: Katanga
+    country: Congo, Democratic Republic of the
+id_list:
+  items:
+  - uid: '158573'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '158571'
+    id_type: Gender
+    id_number: Male
+  - uid: '158572'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+date_of_birth_list:
+  items:
+  - uid: '58568'
+    date_of_birth: 13 Oct 1962
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '58569'
+    place_of_birth: Pyongyang, North Korea
+    main_entry: 'true'

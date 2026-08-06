@@ -1,0 +1,72 @@
+---
+uid: '30624'
+first_name: Sultan
+last_name: ZABIN
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+  - YEMEN
+aka_list:
+  items:
+  - uid: '48153'
+    type: a.k.a.
+    category: strong
+    last_name: ZABIN
+    first_name: Sultan Saleh Aida Aida
+  - uid: '48154'
+    type: a.k.a.
+    category: weak
+    last_name: SAQAR, Abu
+  - uid: '48155'
+    type: a.k.a.
+    category: weak
+    last_name: SAGAR, Abu
+  - uid: '48156'
+    type: a.k.a.
+    category: strong
+    last_name: ZABIN
+    first_name: Abu Saqer
+  - uid: '48157'
+    type: a.k.a.
+    category: strong
+    last_name: ZABINYE
+    first_name: Sultan
+  - uid: '48158'
+    type: a.k.a.
+    category: strong
+    last_name: ZABEN
+    first_name: Sultan
+  - uid: '48159'
+    type: a.k.a.
+    category: strong
+    last_name: ZABIN
+    first_name: Sultan Saleh
+address_list:
+  items:
+  - uid: '46328'
+    city: Sana'a
+    country: Yemen
+id_list:
+  items:
+  - uid: '20729'
+    id_type: National ID No.
+    id_number: '10010095104'
+    id_country: Yemen
+  - uid: '20730'
+    id_type: Identification Number
+    id_number: '20322'
+    id_country: Yemen
+  - uid: '138451'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '38453'
+    date_of_birth: '1986'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '38452'
+    place_of_birth: Razih District, Sana'a, Yemen
+    main_entry: 'true'

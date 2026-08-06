@@ -1,0 +1,61 @@
+---
+uid: '27015'
+first_name: Ahmad Abdullah
+last_name: AL-JUBOURI
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '42767'
+    type: a.k.a.
+    category: strong
+    last_name: KHALAF
+    first_name: Ahmed Abdullah Abid
+  - uid: '42768'
+    type: a.k.a.
+    category: strong
+    last_name: AL-JUBOURI
+    first_name: Ahmed
+  - uid: '42769'
+    type: a.k.a.
+    category: weak
+    last_name: Abu Mazin
+  - uid: '42770'
+    type: a.k.a.
+    category: weak
+    last_name: Abu Mazen
+  - uid: '42776'
+    type: a.k.a.
+    category: strong
+    last_name: ABED
+    first_name: Ahmed Abdullah
+address_list:
+  items:
+  - uid: '41050'
+    country: Iraq
+id_list:
+  items:
+  - uid: '17648'
+    id_type: National ID No.
+    id_number: '00318953'
+    id_country: Iraq
+  - uid: '17649'
+    id_type: Passport
+    id_number: D1017310
+    id_country: Iraq
+    expiration_date: 14 Apr 2025
+  - uid: '131916'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '31924'
+    date_of_birth: 01 Jul 1967
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '31919'
+    place_of_birth: Baghdad, Iraq
+    main_entry: 'true'

@@ -1,0 +1,42 @@
+---
+uid: '40584'
+last_name: AKTSIONERNOYE OBSHCHESTVO 30 SUDOREMONTNYY ZAVOD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63085'
+    type: a.k.a.
+    category: weak
+    last_name: 30 SRZ AO
+  - uid: '63086'
+    type: a.k.a.
+    category: strong
+    last_name: 30TH SHIP REPAIR FACTORY JOINT STOCK COMPANY
+address_list:
+  items:
+  - uid: '60458'
+    address1: 23 Ulitsa Sudoremontnaya
+    city: Fokino
+    postal_code: '692890'
+    country: Russia
+id_list:
+  items:
+  - uid: '29733'
+    id_type: Tax ID No.
+    id_number: '2512304968'
+    id_country: Russia
+  - uid: '29734'
+    id_type: Registration Number
+    id_number: '1102503001083'
+    id_country: Russia
+  - uid: '174127'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '157862'
+    id_type: Organization Established Date
+    id_number: 07 Dec 2010
+remarks: "(Linked To: AKTSIONERNOYE OBSHCHESTVO DALNEVOSTOCHNYY TSENTR SUDOSTROYENIYA
+  I SUDOREMONTA)"

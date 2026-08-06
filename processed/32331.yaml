@@ -1,0 +1,39 @@
+---
+uid: '32331'
+first_name: Aldrin Miguel
+last_name: JARQUIN JARQUIN
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '51253'
+    type: a.k.a.
+    category: weak
+    last_name: CHAPARRITO
+address_list:
+  items:
+  - uid: '48682'
+    city: Manzanillo
+    state_or_province: Colima
+    country: Mexico
+id_list:
+  items:
+  - uid: '22093'
+    id_type: C.U.R.P.
+    id_number: JAJA761118HMCRRL06
+    id_country: Mexico
+  - uid: '141762'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '41760'
+    date_of_birth: 18 Nov 1976
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '41761'
+    place_of_birth: Nezahualcoyotl, Mexico, Mexico
+    main_entry: 'true'

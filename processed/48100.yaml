@@ -1,0 +1,41 @@
+---
+uid: '48100'
+first_name: Valeriy Gennadevich
+last_name: BOYARINEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74725'
+    type: a.k.a.
+    category: strong
+    last_name: BOYARINEV
+    first_name: Valery Gennadievich
+address_list:
+  items:
+  - uid: '72151'
+    country: Russia
+id_list:
+  items:
+  - uid: '38992'
+    id_type: Tax ID No.
+    id_number: '190113308460'
+    id_country: Russia
+  - uid: '176598'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '170033'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '70031'
+    date_of_birth: 02 Sep 1970
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '70032'
+    place_of_birth: Berezovka, Krasnoyarsk Region, Russia
+    main_entry: 'true'

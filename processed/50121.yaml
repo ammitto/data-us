@@ -1,0 +1,41 @@
+---
+uid: '50121'
+last_name: AKTSIONERNOE OBSHCHESTVO OBYEDINENNAYA UGOLNAYA KOMPANIYA YUZHKUZBASSUGOL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78139'
+    type: a.k.a.
+    category: strong
+    last_name: OUK YUZHKUZBASSUGOL AO
+  - uid: '78140'
+    type: a.k.a.
+    category: strong
+    last_name: AO OUK IUZHKUZBASSUGOL
+  - uid: '78141'
+    type: a.k.a.
+    category: weak
+    last_name: AO OUK YKU
+address_list:
+  items:
+  - uid: '75832'
+    address1: PR-KT Kurako D. 33
+    city: Novokuznetsk
+    postal_code: '654006'
+    country: Russia
+id_list:
+  items:
+  - uid: '41704'
+    id_type: Registration Number
+    id_number: '1024201758030'
+    id_country: Russia
+  - uid: '41705'
+    id_type: Tax ID No.
+    id_number: '4216008176'
+    id_country: Russia
+  - uid: '178056'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

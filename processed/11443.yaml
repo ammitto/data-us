@@ -1,0 +1,41 @@
+---
+uid: '11443'
+last_name: AMIN INDUSTRIAL COMPLEX
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+aka_list:
+  items:
+  - uid: '12064'
+    type: a.k.a.
+    category: strong
+    last_name: AMIN INDUSTRIAL COMPOUND
+  - uid: '12065'
+    type: a.k.a.
+    category: strong
+    last_name: AMIN INDUSTRIAL COMPANY
+address_list:
+  items:
+  - uid: '16898'
+    address1: Amin Industrial Estate
+    address2: Khalage Rd.
+    address3: Seyedi District
+    city: Mashad
+    country: Iran
+  - uid: '16899'
+    address1: Kaveh Complex
+    address2: Khalaj Rd.
+    address3: Seyedi St.
+    city: Mashad
+    country: Iran
+  - uid: '16901'
+    address1: P.O. Box 91735-549
+    city: Mashad
+    country: Iran
+id_list:
+  items:
+  - uid: '114171'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

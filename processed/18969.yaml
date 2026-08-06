@@ -1,0 +1,40 @@
+---
+uid: '18969'
+first_name: Hector Librado
+last_name: RIVERA SANDOVAL
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '31802'
+    address1: La Playita
+    city: Sinaloa
+    state_or_province: Sinaloa
+    country: Mexico
+id_list:
+  items:
+  - uid: '11313'
+    id_type: C.U.R.P.
+    id_number: RISH820603HSLVNC07
+    id_country: Mexico
+  - uid: '11314'
+    id_type: RFC
+    id_number: RISH820603V75
+    id_country: Mexico
+  - uid: '118552'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '18549'
+    date_of_birth: 03 Jun 1982
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '18550'
+    place_of_birth: Sinaloa, Sinaloa, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: RUELAS TORRES DRUG TRAFFICKING ORGANIZATION; Linked To: FELIXTAPIA,
+  S.C. DE R.L. DE C.V.)"

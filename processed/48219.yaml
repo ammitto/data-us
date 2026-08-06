@@ -1,0 +1,39 @@
+---
+uid: '48219'
+last_name: KOREA MANDAL CREDIT BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK4
+aka_list:
+  items:
+  - uid: '74883'
+    type: a.k.a.
+    category: weak
+    last_name: ANSAN
+  - uid: '74884'
+    type: a.k.a.
+    category: weak
+    last_name: KMCB
+  - uid: '74885'
+    type: a.k.a.
+    category: strong
+    last_name: MANDAL CREDIT BANK
+address_list:
+  items:
+  - uid: '72274'
+    address1: P'yo'ngch'o'n District, Ansan 2-dong
+    city: Pyongyang
+    country: Korea, North
+id_list:
+  items:
+  - uid: '170247'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '170248'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '170246'
+    id_type: Target Type
+    id_number: Financial Institution

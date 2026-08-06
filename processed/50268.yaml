@@ -1,0 +1,48 @@
+---
+uid: '50268'
+first_name: Dmitrii Sergeevich
+last_name: SOROKIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78509'
+    type: a.k.a.
+    category: strong
+    last_name: SOROKIN
+    first_name: Dmitry Sergeyevich
+address_list:
+  items:
+  - uid: '76125'
+    address1: 16-63 40-Letya Pobedy Str
+    city: Ulyanovsk
+    postal_code: '432064'
+    country: Russia
+id_list:
+  items:
+  - uid: '41947'
+    id_type: Tax ID No.
+    id_number: '732808920547'
+    id_country: Russia
+  - uid: '41948'
+    id_type: National ID No.
+    id_number: '7302481876'
+    id_country: Russia
+  - uid: '177967'
+    id_type: Gender
+    id_number: Male
+  - uid: '178504'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '77965'
+    date_of_birth: 18 Dec 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '77966'
+    place_of_birth: Miass, Russia
+    main_entry: 'true'

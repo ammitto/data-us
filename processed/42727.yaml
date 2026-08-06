@@ -1,0 +1,44 @@
+---
+uid: '42727'
+last_name: JSC NGT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '66226'
+    type: a.k.a.
+    category: weak
+    last_name: NGT AO
+  - uid: '66227'
+    type: a.k.a.
+    category: strong
+    last_name: ZAKRYTOE AKTSIONERNOE OBSHCHESTVO NGT
+address_list:
+  items:
+  - uid: '63730'
+    address1: Ul. Fominskaya D.54
+    city: Perm
+    postal_code: '614058'
+    country: Russia
+id_list:
+  items:
+  - uid: '32274'
+    id_type: Tax ID No.
+    id_number: '5902186000'
+    id_country: Russia
+  - uid: '32275'
+    id_type: Registration Number
+    id_number: '1025900513935'
+    id_country: Russia
+  - uid: '32276'
+    id_type: Government Gazette Number
+    id_number: '52275083'
+    id_country: Russia
+  - uid: '161525'
+    id_type: Organization Established Date
+    id_number: 02 Oct 2002
+  - uid: '175458'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

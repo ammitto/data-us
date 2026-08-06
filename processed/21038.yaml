@@ -1,0 +1,55 @@
+---
+uid: '21038'
+last_name: KARST, OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13685
+aka_list:
+  items:
+  - uid: '33363'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCESTVO S OGRANICHENNOI OTVETSTVENNOSTYU KARST
+  - uid: '33364'
+    type: a.k.a.
+    category: weak
+    last_name: KARST LTD.
+  - uid: '33365'
+    type: a.k.a.
+    category: weak
+    last_name: LLC KARST
+  - uid: '33366'
+    type: a.k.a.
+    category: strong
+    last_name: CONSTRUCTION HOLDING COMPANY OLD CITY - KARST
+address_list:
+  items:
+  - uid: '31952'
+    address1: D. 4 Litera A Pomeshchenie 69 ul. Kapitanskaya
+    city: St. Petersburg
+    postal_code: '199397'
+    country: Russia
+  - uid: '31953'
+    address1: 4 Kapitanskaya Street, Unit A, Office 69-N
+    city: St. Petersburg
+    postal_code: '199397'
+    country: Russia
+id_list:
+  items:
+  - uid: '13124'
+    id_type: Registration ID
+    id_number: '1037800012711'
+  - uid: '13125'
+    id_type: Government Gazette Number
+    id_number: '48937526'
+  - uid: '13126'
+    id_type: Tax ID No.
+    id_number: '7801106690'
+  - uid: '143862'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '121850'
+    id_type: Website
+    id_number: http://www.oldcitykarst.ru

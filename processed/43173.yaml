@@ -1,0 +1,40 @@
+---
+uid: '43173'
+last_name: THE ENERGY RESEARCH INSTITUTE OF THE RUSSIAN ACADEMY OF SCIENCES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '66914'
+    type: a.k.a.
+    category: weak
+    last_name: INEI RAN
+address_list:
+  items:
+  - uid: '64415'
+    address1: Ul Nagornaya D 31, Korp 2
+    city: Moscow
+    postal_code: '117186'
+    country: Russia
+id_list:
+  items:
+  - uid: '32752'
+    id_type: Registration Number
+    id_number: '1037739092643'
+    id_country: Russia
+  - uid: '32753'
+    id_type: Tax ID No.
+    id_number: '7727083080'
+    id_country: Russia
+  - uid: '32754'
+    id_type: Government Gazette Number
+    id_number: '04813131'
+    id_country: Russia
+  - uid: '175594'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '162209'
+    id_type: Organization Established Date
+    id_number: 06 Jun 1994

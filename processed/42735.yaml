@@ -1,0 +1,50 @@
+---
+uid: '42735'
+first_name: Anselm Oskar
+last_name: SCHMUCKI
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '66249'
+    type: a.k.a.
+    category: strong
+    last_name: SHMUKKI
+    first_name: Anselm Oskar
+  - uid: '66250'
+    type: a.k.a.
+    category: strong
+    last_name: SCHMUCKI
+    first_name: Oskar Anselm
+address_list:
+  items:
+  - uid: '63754'
+    address1: RB 3-220, Royal Breeze, Sofia Street
+    city: Ras al Khaimah
+    country: United Arab Emirates
+  - uid: '63757'
+    country: Switzerland
+  - uid: '63758'
+    city: Moscow
+    country: Russia
+  - uid: '63759'
+    country: Singapore
+id_list:
+  items:
+  - uid: '32419'
+    id_type: Passport
+    id_number: X7594510
+    id_country: Switzerland
+  - uid: '175461'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '161540'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '61541'
+    date_of_birth: 21 Nov 1969
+    main_entry: 'true'

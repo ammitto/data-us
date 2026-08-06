@@ -1,0 +1,52 @@
+---
+uid: '36236'
+first_name: Katerina Vladimirovna
+last_name: TIKHONOVA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '57369'
+    type: a.k.a.
+    category: strong
+    last_name: PUTINA
+    first_name: Yekaterina
+  - uid: '57370'
+    type: a.k.a.
+    category: strong
+    last_name: TIKHONOVA
+    first_name: Katerina
+  - uid: '57371'
+    type: f.k.a.
+    category: strong
+    last_name: SHAMALOVA
+    first_name: Ekaterina Vladimirovna
+address_list:
+  items:
+  - uid: '54712'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '25817'
+    id_type: Tax ID No.
+    id_number: '503227394158'
+    id_country: Russia
+  - uid: '173982'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '150109'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '50106'
+    date_of_birth: 31 Aug 1986
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '50107'
+    place_of_birth: Dresden, Germany
+    main_entry: 'true'

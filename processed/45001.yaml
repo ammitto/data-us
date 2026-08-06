@@ -1,0 +1,29 @@
+---
+uid: '45001'
+last_name: LIMITED LIABILITY COMPANY RAZREZ POLYARNIY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '66987'
+    address1: str. 100 blok B etazh 1
+    address2: pom. 6
+    city: Odintsovo
+    postal_code: '143084'
+    country: Russia
+id_list:
+  items:
+  - uid: '34666'
+    id_type: Registration Number
+    id_number: '1165032052162'
+    id_country: Russia
+  - uid: '34668'
+    id_type: Tax ID No.
+    id_number: '5032231539'
+    id_country: Russia
+  - uid: '175884'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: LIMITED LIABILITY COMPANY CARBON)"

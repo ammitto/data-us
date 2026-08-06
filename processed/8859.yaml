@@ -1,0 +1,57 @@
+---
+uid: '8859'
+last_name: MOVEMENT FOR ISLAMIC REFORM IN ARABIA
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '8097'
+    type: a.k.a.
+    category: weak
+    last_name: MIRA
+  - uid: '8098'
+    type: a.k.a.
+    category: strong
+    last_name: ISLAMIC MOVEMENT FOR REFORM
+  - uid: '8099'
+    type: a.k.a.
+    category: strong
+    last_name: AL-HARAKAT AL-ISLAMIYAH LIL-ISLAH
+  - uid: '8815'
+    type: a.k.a.
+    category: strong
+    last_name: AL-ISLAH
+  - uid: '8838'
+    type: a.k.a.
+    category: strong
+    last_name: MOVEMENT FOR REFORM IN ARABIA
+address_list:
+  items:
+  - uid: '10460'
+    address1: 'BM Box: MIRA'
+    city: London
+    postal_code: WC1N 3XX
+    country: United Kingdom
+  - uid: '11529'
+    address1: 21 Blackstone Road
+    city: London
+    postal_code: NW2 6DA
+    country: United Kingdom
+  - uid: '11557'
+    address1: Safiee Suite, EBC House
+    address2: Townsend Lane
+    city: London
+    postal_code: NW9 8LL
+    country: United Kingdom
+id_list:
+  items:
+  - uid: '4028'
+    id_type: UK Company Number
+    id_number: '03834450'
+    id_country: United Kingdom
+  - uid: '186236'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886

@@ -1,0 +1,54 @@
+---
+uid: '37853'
+first_name: Vasily Yuryevich
+last_name: BROVKO
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59486'
+    type: a.k.a.
+    category: strong
+    last_name: BROVKO
+    first_name: Vasly Yuryevich
+  - uid: '59487'
+    type: a.k.a.
+    category: strong
+    last_name: BROVKO
+    first_name: Vasiliy Yurevich
+address_list:
+  items:
+  - uid: '56724'
+    address1: 5920 Oktyabrskaya
+    city: Il Nskiy
+    state_or_province: Moscow Region
+    postal_code: '140121'
+    country: Russia
+id_list:
+  items:
+  - uid: '27150'
+    id_type: Passport
+    id_number: '514408357'
+    id_country: Russia
+  - uid: '27151'
+    id_type: National ID No.
+    id_number: '4611771881'
+    id_country: Russia
+  - uid: '174601'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '153012'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '53011'
+    date_of_birth: 06 Feb 1987
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '53014'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'

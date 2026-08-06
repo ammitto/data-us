@@ -1,0 +1,35 @@
+---
+uid: '41176'
+first_name: Eduardo
+last_name: PARDO ESPINO
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '61564'
+    address1: Privada Coyules 113
+    address2: Barrio Santa Maria
+    city: Puerto Vallarta
+    state_or_province: Jalisco
+    country: Mexico
+id_list:
+  items:
+  - uid: '30516'
+    id_type: C.U.R.P.
+    id_number: PAEE790404HMNRSD00
+    id_country: Mexico
+  - uid: '159173'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '59170'
+    date_of_birth: 04 Apr 1979
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '59171'
+    place_of_birth: Tinguindin, Michoacan de Ocampo, Mexico
+    main_entry: 'true'

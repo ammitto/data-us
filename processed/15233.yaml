@@ -1,0 +1,40 @@
+---
+uid: '15233'
+first_name: Michele
+last_name: ZAGARIA
+sdn_type: Individual
+program_list:
+  programs:
+  - TCO
+aka_list:
+  items:
+  - uid: '22411'
+    type: a.k.a.
+    category: weak
+    last_name: CAPASTORTA
+  - uid: '22458'
+    type: a.k.a.
+    category: weak
+    last_name: CAPOSTORTA
+  - uid: '22459'
+    type: a.k.a.
+    category: weak
+    last_name: MANERA
+  - uid: '22460'
+    type: a.k.a.
+    category: weak
+    last_name: ISS
+  - uid: '22461'
+    type: a.k.a.
+    category: weak
+    last_name: ZIO
+date_of_birth_list:
+  items:
+  - uid: '11783'
+    date_of_birth: 21 May 1958
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '11784'
+    place_of_birth: San Cipriano d'Aversa, Italy
+    main_entry: 'true'

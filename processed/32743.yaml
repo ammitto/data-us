@@ -1,0 +1,48 @@
+---
+uid: '32743'
+last_name: STATE INSTITUTE FOR EXPERIMENTAL MILITARY MEDICINE OF THE MINISTRY OF DEFENSE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '51505'
+    type: a.k.a.
+    category: strong
+    last_name: GOSUDARSTVENNY NAUCHNO-ISSLEDOVATELSKIY ISPYTATELNY INSTITUT VOYENNOY
+      MEDITSINY
+  - uid: '51506'
+    type: a.k.a.
+    category: strong
+    last_name: STATE INSTITUTE FOR EXPERIMENTAL MILITARY MEDICINE
+  - uid: '51507'
+    type: a.k.a.
+    category: weak
+    last_name: GNII VM
+  - uid: '51508'
+    type: a.k.a.
+    category: strong
+    last_name: GNIII VM MOD RF
+  - uid: '51509'
+    type: a.k.a.
+    category: strong
+    last_name: STATE RESEARCH EXPERIMENTAL INSTITUTE OF MILITARY MEDICINE
+address_list:
+  items:
+  - uid: '49328'
+    address1: Lesoparkovaya Street, Building 4
+    city: St. Petersburg
+    postal_code: '195043'
+    country: Russia
+id_list:
+  items:
+  - uid: '22521'
+    id_type: Tax ID No.
+    id_number: '7806194153'
+  - uid: '22522'
+    id_type: Registration ID
+    id_number: '1157847310048'
+  - uid: '175110'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

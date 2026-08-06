@@ -1,0 +1,27 @@
+---
+uid: '48431'
+last_name: LIMITED LIABILITY COMPANY POINTER
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '72660'
+    address1: Ul. Kurlyandskaya D. 28, Lit. V, Pomeshch. 54-N, Kom. 106
+    city: Saint Petersburg
+    postal_code: '190020'
+    country: Russia
+id_list:
+  items:
+  - uid: '39323'
+    id_type: Registration Number
+    id_number: '1197847073115'
+    id_country: Russia
+  - uid: '39324'
+    id_type: Tax ID No.
+    id_number: '7841082477'
+    id_country: Russia
+  - uid: '171282'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

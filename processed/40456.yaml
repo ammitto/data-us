@@ -1,0 +1,41 @@
+---
+uid: '40456'
+first_name: Igor Vladimirovich
+last_name: ZIMENKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '60305'
+    city: Moscow
+    country: Russia
+  - uid: '60306'
+    country: Cyprus
+id_list:
+  items:
+  - uid: '29626'
+    id_type: Tax ID No.
+    id_number: '770508895203'
+    id_country: Russia
+  - uid: '29627'
+    id_type: Passport
+    id_number: '720969676'
+    id_country: Russia
+  - uid: '174088'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '157673'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '57674'
+    date_of_birth: 19 Dec 1968
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '57668'
+    place_of_birth: Tashkent, Uzbekistan
+    main_entry: 'true'

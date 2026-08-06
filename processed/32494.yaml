@@ -1,0 +1,41 @@
+---
+uid: '32494'
+first_name: Sergio
+last_name: VALENZUELA VALENZUELA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '51002'
+    type: a.k.a.
+    category: weak
+    last_name: GIGIO
+  - uid: '51003'
+    type: a.k.a.
+    category: weak
+    last_name: YIYO
+address_list:
+  items:
+  - uid: '48892'
+    country: Mexico
+id_list:
+  items:
+  - uid: '22273'
+    id_type: C.U.R.P.
+    id_number: VAVS690820HSLLLR00
+    id_country: Mexico
+  - uid: '142088'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '42089'
+    date_of_birth: 20 Aug 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '42090'
+    place_of_birth: Los Mochis, Sinaloa, Mexico
+    main_entry: 'true'

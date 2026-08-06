@@ -1,0 +1,35 @@
+---
+uid: '39376'
+last_name: LA NUEVA FAMILIA MICHOACANA
+sdn_type: Entity
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - FTO
+  - SDGT
+aka_list:
+  items:
+  - uid: '61447'
+    type: a.k.a.
+    category: weak
+    last_name: LNFM
+address_list:
+  items:
+  - uid: '58644'
+    state_or_province: Guerrero
+    country: Mexico
+  - uid: '58646'
+    state_or_province: Michoacan
+    country: Mexico
+id_list:
+  items:
+  - uid: '184867'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '185009'
+    id_type: 'Organization Type:'
+    id_number: Transnational Terrorist Group
+  - uid: '156647'
+    id_type: Target Type
+    id_number: Criminal Organization

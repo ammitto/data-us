@@ -1,0 +1,30 @@
+---
+uid: '24028'
+first_name: Mostafa
+last_name: SADEGHI
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+id_list:
+  items:
+  - uid: '15396'
+    id_type: National ID No.
+    id_number: '2500094065'
+  - uid: '126179'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '26119'
+    date_of_birth: 19 Jan 1990
+    main_entry: 'true'
+  - uid: '26120'
+    date_of_birth: 20 Jan 1990
+    main_entry: 'false'
+  - uid: '26121'
+    date_of_birth: 19 Jan 1991
+    main_entry: 'false'
+  - uid: '26122'
+    date_of_birth: 20 Jan 1991
+    main_entry: 'false'

@@ -1,0 +1,44 @@
+---
+uid: '51670'
+last_name: JOINT STOCK COMPANY BANK DOM RF
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+address_list:
+  items:
+  - uid: '78738'
+    address1: St. Vozdvizhenka 10
+    city: Moscow
+    postal_code: '125009'
+    country: Russia
+id_list:
+  items:
+  - uid: '44194'
+    id_type: Legal Entity Number
+    id_number: 253400QBQPWTFL8FAS39
+  - uid: '44195'
+    id_type: Registration Number
+    id_number: '1037739527077'
+    id_country: Russia
+  - uid: '44196'
+    id_type: Tax ID No.
+    id_number: '7725038124'
+    id_country: Russia
+  - uid: '181633'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184273'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '181638'
+    id_type: SWIFT/BIC
+    id_number: BDRFRUMM
+  - uid: '181637'
+    id_type: Website
+    id_number: www.domrfbank.ru
+  - uid: '181631'
+    id_type: Target Type
+    id_number: Financial Institution

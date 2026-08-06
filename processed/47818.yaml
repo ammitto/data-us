@@ -1,0 +1,32 @@
+---
+uid: '47818'
+first_name: Gaobin
+last_name: NI
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+address_list:
+  items:
+  - uid: '71558'
+    state_or_province: Hubei Province
+    country: China
+id_list:
+  items:
+  - uid: '38523'
+    id_type: National ID No.
+    id_number: '421003198510272917'
+    id_country: China
+  - uid: '169306'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '69303'
+    date_of_birth: 27 Oct 1985
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '70261'
+    place_of_birth: Jingzhou Municipality, China
+    main_entry: 'true'

@@ -1,0 +1,47 @@
+---
+uid: '35156'
+last_name: AO NII VEKTOR
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '55420'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY SCIENTIFIC-RESEARCH INSTITUTE VEKTOR
+address_list:
+  items:
+  - uid: '52784'
+    address1: ul. Akademika Pavlova d. 14-A
+    city: Saint Petersburg
+    postal_code: '197376'
+    country: Russia
+  - uid: '52903'
+    address1: Ul. Kantemirovskaya D. 10
+    city: Saint Petersburg
+    postal_code: '197342'
+    country: Russia
+id_list:
+  items:
+  - uid: '24896'
+    id_type: Tax ID No.
+    id_number: '7813491943'
+    id_country: Russia
+  - uid: '24897'
+    id_type: Trade License No.
+    id_number: '1117847020400'
+    id_country: Russia
+  - uid: '147107'
+    id_type: Organization Established Date
+    id_number: '1908'
+  - uid: '147108'
+    id_type: Website
+    id_number: nii-vektor.ru
+  - uid: '147349'
+    id_type: Email Address
+    id_number: nii@nii-vektor.ru
+  - uid: '175274'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

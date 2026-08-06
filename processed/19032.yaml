@@ -1,0 +1,61 @@
+---
+uid: '19032'
+last_name: OPEN JOINT STOCK COMPANY KRASNODAR REGIONAL INVESTMENT BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13685
+aka_list:
+  items:
+  - uid: '30020'
+    type: a.k.a.
+    category: strong
+    last_name: OJSC KRAYINVESTBANK
+  - uid: '30021'
+    type: a.k.a.
+    category: strong
+    last_name: OAO KRAYINVESTBANK
+  - uid: '30022'
+    type: a.k.a.
+    category: strong
+    last_name: OTKRYTOE AKTSIONERNOE OBSHCHESTVO KRASNODARSKIY KRAEVOY INVESTITSIONNIY
+      BANK
+address_list:
+  items:
+  - uid: '28957'
+    address1: Ulitsa Mira 34
+    city: Krasnodar
+    postal_code: '350063'
+    country: Russia
+  - uid: '28958'
+    address1: Ulitsa Bolshaya Morskaya 23
+    city: Sevastopol
+    state_or_province: Crimea
+    postal_code: '299011'
+    country: Ukraine
+  - uid: '28959'
+    address1: Ulitsa Dolgorukovskaya/Zhukovskogo/A. Nevskogo 1/1/6
+    city: Simferopol
+    state_or_province: Crimea
+    postal_code: '295000'
+    country: Ukraine
+id_list:
+  items:
+  - uid: '11520'
+    id_type: Registration ID
+    id_number: '1022300000029'
+    id_country: Russia
+  - uid: '118805'
+    id_type: SWIFT/BIC
+    id_number: KRRIRU22
+  - uid: '118803'
+    id_type: Website
+    id_number: www.kibank.ru
+  - uid: '118802'
+    id_type: Email Address
+    id_number: mail@kibank.ru
+  - uid: '143649'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+remarks: All offices worldwide

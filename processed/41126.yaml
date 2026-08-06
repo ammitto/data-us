@@ -1,0 +1,42 @@
+---
+uid: '41126'
+last_name: JSC SCIENTIFIC AND PRODUCTION COMPANY KRYPTONIT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '64151'
+    type: a.k.a.
+    category: strong
+    last_name: KRYPTONITE NPK
+  - uid: '64152'
+    type: a.k.a.
+    category: strong
+    last_name: NPK KRYPTONIT
+  - uid: '64153'
+    type: a.k.a.
+    category: strong
+    last_name: KRYPTONIT NPC
+address_list:
+  items:
+  - uid: '61486'
+    address1: 14 Spartakovskaya square, building 2, floor 3, room 4
+    city: Moscow
+    postal_code: '105082'
+    country: Russia
+id_list:
+  items:
+  - uid: '30473'
+    id_type: Business Registration Number
+    id_number: '1187746695784'
+    id_country: Russia
+  - uid: '30474'
+    id_type: Tax ID No.
+    id_number: '9701115253'
+    id_country: Russia
+  - uid: '173654'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: LIMITED LIABILITY COMPANY HOLDING INTELLIGENT COMPUTER SYSTEMS)"

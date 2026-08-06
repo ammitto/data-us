@@ -1,0 +1,37 @@
+---
+uid: '39147'
+last_name: FEDERAL STATE FINANCED INSTITUTION OF SCIENCE PHYSICS AND TECHNOLOGY INSTITUTE
+  NAMED AFTER A. F. IOFFE OF THE RUSSIAN FEDERATION ACADEMY OF SCIENCES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '61040'
+    type: a.k.a.
+    category: strong
+    last_name: IOFFE INSTITUTE
+address_list:
+  items:
+  - uid: '58287'
+    address1: 26 Politekhnicheskaya Str.
+    city: Saint Petersburg
+    postal_code: '194021'
+    country: Russia
+id_list:
+  items:
+  - uid: '28356'
+    id_type: Tax ID No.
+    id_number: '7802072267'
+    id_country: Russia
+  - uid: '28357'
+    id_type: Registration Number
+    id_number: '1037804006998'
+    id_country: Russia
+  - uid: '174735'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '154900'
+    id_type: Organization Established Date
+    id_number: 26 Apr 1999

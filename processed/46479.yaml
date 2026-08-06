@@ -1,0 +1,59 @@
+---
+uid: '46479'
+first_name: Zabi
+last_name: VAHAP
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+  - IFSR
+aka_list:
+  items:
+  - uid: '71741'
+    type: a.k.a.
+    category: strong
+    last_name: WAHAB
+    first_name: Zabihullah Abdul
+  - uid: '71742'
+    type: a.k.a.
+    category: strong
+    last_name: VAHAP
+    first_name: Zebih Ullah
+address_list:
+  items:
+  - uid: '69135'
+    city: Dubai
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '36399'
+    id_type: Passport
+    id_number: U24258057
+    id_country: Turkey
+    expiration_date: 12 Jul 2031
+  - uid: '36400'
+    id_type: Passport
+    id_number: U13652962
+    expiration_date: 02 Dec 2026
+  - uid: '36401'
+    id_type: National ID No.
+    id_number: '25406705762'
+    id_country: Turkey
+  - uid: '167400'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '167299'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '67298'
+    date_of_birth: 01 Jan 1986
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '67301'
+    place_of_birth: Akce, Afghanistan
+    main_entry: 'true'
+remarks: "(Linked To: KARIMIAN, Mohammad Sadegh; Linked To: TRANSMART DMCC)"

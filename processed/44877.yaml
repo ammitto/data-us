@@ -1,0 +1,49 @@
+---
+uid: '44877'
+last_name: JOINT STOCK COMPANY AVTOVAZ
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '69751'
+    type: a.k.a.
+    category: strong
+    last_name: AO AVTOVAZ
+  - uid: '69752'
+    type: a.k.a.
+    category: strong
+    last_name: OPEN JOINT STOCK COMPANY AVTOVAZ
+address_list:
+  items:
+  - uid: '67053'
+    address1: Sh. Yuzhnoe D. 36
+    city: Tol'yatti
+    postal_code: '445024'
+    country: Russia
+id_list:
+  items:
+  - uid: '34727'
+    id_type: Tax ID No.
+    id_number: '6320002223'
+    id_country: Russia
+  - uid: '34728'
+    id_type: Government Gazette Number
+    id_number: '00232934'
+    id_country: Russia
+  - uid: '34729'
+    id_type: Registration Number
+    id_number: '1026301983113'
+    id_country: Russia
+  - uid: '175833'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184546'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '165364'
+    id_type: Organization Established Date
+    id_number: 20 Jul 1966

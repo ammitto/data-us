@@ -1,0 +1,55 @@
+---
+uid: '31572'
+last_name: FEDERAL GOVERNMENT INSTITUTION PRETRIAL DETENTION CENTER NO 1 OF THE DIRECTORATE
+  OF THE FEDERAL PENITENTIARY SERVICE FOR THE REPUBLIC OF CRIMEA AND SEVASTOPOL
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13685
+aka_list:
+  items:
+  - uid: '49572'
+    type: a.k.a.
+    category: strong
+    last_name: FKU SIZO-1 UFSIN OF RUSSIA FOR THE REPUBLIC OF CRIMEA AND SEVASTOPOL
+  - uid: '49573'
+    type: a.k.a.
+    category: strong
+    last_name: SIMFEROPOL REMAND PRISON
+  - uid: '49574'
+    type: a.k.a.
+    category: strong
+    last_name: DETENTION CENTER NO 1 IN SIMFEROPOL
+  - uid: '49575'
+    type: a.k.a.
+    category: strong
+    last_name: SIMFEROPOL SIZO
+address_list:
+  items:
+  - uid: '47586'
+    address1: Bulvar Lenina
+    address2: dom 4
+    city: Simferopol
+    state_or_province: Crimea
+    postal_code: '295006'
+    country: Ukraine
+  - uid: '47587'
+    address1: Lenin Boulevard, 4
+    city: Simferopol
+    state_or_province: Crimea
+    postal_code: '295006'
+    country: Ukraine
+id_list:
+  items:
+  - uid: '21455'
+    id_type: Registration Number
+    id_number: '1149102002389'
+    id_country: Russia
+  - uid: '21456'
+    id_type: Tax ID No.
+    id_number: '9102002109'
+    id_country: Russia
+  - uid: '144140'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

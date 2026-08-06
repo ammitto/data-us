@@ -1,0 +1,42 @@
+---
+uid: '52434'
+first_name: Rawa
+last_name: MAJID
+sdn_type: Individual
+program_list:
+  programs:
+  - TCO
+aka_list:
+  items:
+  - uid: '82118'
+    type: a.k.a.
+    category: strong
+    last_name: OTHMAN
+    first_name: Miran Rekawt
+  - uid: '82119'
+    type: a.k.a.
+    category: weak
+    last_name: Kurdish Fox
+address_list:
+  items:
+  - uid: '80092'
+    country: Iran
+id_list:
+  items:
+  - uid: '184045'
+    id_type: Gender
+    id_number: Male
+  - uid: '185512'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '84040'
+    date_of_birth: 12 Jul 1986
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '84039'
+    place_of_birth: Kermanshah, Iran
+    main_entry: 'true'
+remarks: "(Linked To: FOXTROT NETWORK)"

@@ -1,0 +1,66 @@
+---
+uid: '18067'
+first_name: Juan Manuel
+last_name: ALVAREZ INZUNZA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '27897'
+    type: a.k.a.
+    category: weak
+    last_name: REY MIDAS
+  - uid: '31106'
+    type: a.k.a.
+    category: strong
+    last_name: OSUNA GODOY
+    first_name: Rolando
+  - uid: '31107'
+    type: a.k.a.
+    category: strong
+    last_name: INZUNZA ZAZUETA
+    first_name: Erik Tadeo
+  - uid: '31108'
+    type: a.k.a.
+    category: strong
+    last_name: SALAS ROJO
+    first_name: Juan Manuel
+  - uid: '31109'
+    type: a.k.a.
+    category: strong
+    last_name: TAMAYO IBARRA
+    first_name: Juan Manuel
+address_list:
+  items:
+  - uid: '27323'
+    address1: 1538 Calle Turmalina Dos, Colonia Stase
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+id_list:
+  items:
+  - uid: '10309'
+    id_type: C.U.R.P.
+    id_number: AAIJ810808HSLLNN01
+    id_country: Mexico
+  - uid: '10310'
+    id_type: RFC
+    id_number: AAIJ810808SX4
+    id_country: Mexico
+  - uid: '117220'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '17217'
+    date_of_birth: '08 Aug 1981'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '17218'
+    place_of_birth: Culiacan, Sinaloa, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: OPERADORA EFICAZ PEGASO; Linked To: NUEVA ATUNERA TRITON S.A.
+  DE C.V.)"

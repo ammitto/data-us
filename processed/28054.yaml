@@ -1,0 +1,55 @@
+---
+uid: '28054'
+first_name: Rao
+last_name: ANWAR
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '44233'
+    type: a.k.a.
+    category: strong
+    last_name: AHMED
+    first_name: Rao Anwar
+  - uid: '44234'
+    type: a.k.a.
+    category: strong
+    last_name: KHAN
+    first_name: Anwar Ahmed
+  - uid: '44235'
+    type: a.k.a.
+    category: strong
+    last_name: KHAN
+    first_name: Rao Anwar Ahmed
+  - uid: '44355'
+    type: a.k.a.
+    category: strong
+    last_name: KHAN
+    first_name: Anwar Ahmed Rao
+address_list:
+  items:
+  - uid: '42454'
+    country: Pakistan
+id_list:
+  items:
+  - uid: '18620'
+    id_type: Passport
+    id_number: MU-4112252
+    id_country: Pakistan
+    issue_date: 27 May 2014
+    expiration_date: 26 May 2019
+  - uid: '133384'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '33480'
+    date_of_birth: 01 Jan 1959
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '33481'
+    place_of_birth: Karachi, Pakistan
+    main_entry: 'true'

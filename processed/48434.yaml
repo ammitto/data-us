@@ -1,0 +1,33 @@
+---
+uid: '48434'
+last_name: LIPETSKII MEKHANICHESKII ZAVOD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75280'
+    type: a.k.a.
+    category: weak
+    last_name: OOO LMZ
+address_list:
+  items:
+  - uid: '72666'
+    address1: ul. Krasnozavodskaya, d. 1, office 201
+    city: Lipetsk
+    postal_code: '398006'
+    country: Russia
+id_list:
+  items:
+  - uid: '39327'
+    id_type: Registration Number
+    id_number: '1184827011302'
+    id_country: Russia
+  - uid: '39328'
+    id_type: Tax ID No.
+    id_number: '4824096058'
+    id_country: Russia
+  - uid: '171285'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,43 @@
+---
+uid: '47720'
+last_name: JOINT STOCK COMPANY SPECIAL DESIGN BUREAU OF INSTRUMENT MAKING AND AUTOMATION
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73972'
+    type: a.k.a.
+    category: weak
+    last_name: OAO SKB PA
+  - uid: '73973'
+    type: a.k.a.
+    category: strong
+    last_name: OTKRYTOE AKTSIONERNOE OBSHCHESTVO SPETSIALNOE KONSTRUKTORSKOE BIURO
+      PRIBOROSTROENIIA I AVTOMATIKI
+  - uid: '73974'
+    type: a.k.a.
+    category: strong
+    last_name: OPEN JOINT STOCK COMPANY SPECIAL DESIGN BUREAU OF INSTRUMENT ENGINEERING
+      AND AUTOMATION
+address_list:
+  items:
+  - uid: '71356'
+    address1: 55 Krupskoi Street
+    city: Kovrov
+    postal_code: '601903'
+    country: Russia
+id_list:
+  items:
+  - uid: '38365'
+    id_type: Tax ID No.
+    id_number: '3305016642'
+    id_country: Russia
+  - uid: '38366'
+    id_type: Registration Number
+    id_number: '1023301951045'
+    id_country: Russia
+  - uid: '169649'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

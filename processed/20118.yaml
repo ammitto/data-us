@@ -1,0 +1,30 @@
+---
+uid: '20118'
+last_name: MINISTRY OF PEOPLE'S SECURITY
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK3
+aka_list:
+  items:
+  - uid: '31698'
+    type: a.k.a.
+    category: weak
+    last_name: MPS
+  - uid: '31699'
+    type: a.k.a.
+    category: strong
+    last_name: MINISTRY OF PUBLIC SECURITY
+address_list:
+  items:
+  - uid: '30403'
+    country: Korea, North
+id_list:
+  items:
+  - uid: '135062'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '127167'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210

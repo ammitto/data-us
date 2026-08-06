@@ -1,0 +1,42 @@
+---
+uid: '35173'
+first_name: Sergei Kuzhugetovich
+last_name: SHOIGU
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '60446'
+    type: a.k.a.
+    category: strong
+    last_name: SHOIGU
+    first_name: Sergey
+  - uid: '60447'
+    type: a.k.a.
+    category: strong
+    last_name: SHOYGU
+    first_name: Sergey Kuzhugetovich
+address_list:
+  items:
+  - uid: '52822'
+    country: Russia
+id_list:
+  items:
+  - uid: '147185'
+    id_type: Gender
+    id_number: Male
+  - uid: '175282'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '47183'
+    date_of_birth: 21 May 1955
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '47189'
+    place_of_birth: Chadan, Republic of Tyva, Russia
+    main_entry: 'true'

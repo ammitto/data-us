@@ -1,0 +1,49 @@
+---
+uid: '25660'
+first_name: Mohammed Reza
+last_name: REZVANIANZADEH
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN
+aka_list:
+  items:
+  - uid: '40343'
+    type: a.k.a.
+    category: strong
+    last_name: REZVANIANZADEH
+    first_name: Mohammad Reza
+  - uid: '40344'
+    type: a.k.a.
+    category: strong
+    last_name: REZVANYANZADEH
+    first_name: Mohammadreza
+  - uid: '40345'
+    type: a.k.a.
+    category: strong
+    last_name: REZVANIANZADE
+    first_name: Mohammad Reza
+id_list:
+  items:
+  - uid: '16563'
+    id_type: Passport
+    id_number: G10506469
+    id_country: Iran
+    expiration_date: 12 Dec 2022
+  - uid: '129602'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '129601'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '29599'
+    date_of_birth: 11 Dec 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '29600'
+    place_of_birth: Ardestan, Iran
+    main_entry: 'true'
+remarks: "(Linked To: ATOMIC ENERGY ORGANIZATION OF IRAN)"

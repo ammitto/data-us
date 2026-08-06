@@ -1,0 +1,57 @@
+---
+uid: '40203'
+last_name: KINOATIS LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK3
+aka_list:
+  items:
+  - uid: '62492'
+    type: a.k.a.
+    category: strong
+    last_name: KINOATIS
+  - uid: '62493'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY KINOATIS
+  - uid: '62494'
+    type: a.k.a.
+    category: strong
+    last_name: LLC KINOATIS
+address_list:
+  items:
+  - uid: '59882'
+    address1: Ul. Polkovaya D. 3, Str. 6
+    address2: ET/POM/KOM 6/1/1, 3
+    city: Moscow
+    postal_code: '127018'
+    country: Russia
+  - uid: '59883'
+    address1: Ul. Polkovaya, d. 3, Str. 6, r. 13
+    city: Moscow
+    postal_code: '127018'
+    country: Russia
+  - uid: '59884'
+    address1: 36613 Polkovaya
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '29371'
+    id_type: Tax ID No.
+    id_number: '7743531082'
+  - uid: '29372'
+    id_type: Business Registration Number
+    id_number: '1047796451658'
+  - uid: '157140'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '157104'
+    id_type: Organization Established Date
+    id_number: 23 Jun 2004
+  - uid: '157139'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+remarks: "(Linked To: SEK STUDIO)"

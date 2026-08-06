@@ -1,0 +1,38 @@
+---
+uid: '52743'
+last_name: OJSC KEREMET BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '80628'
+    address1: 40/4 Togolok Moldo str
+    city: Bishkek
+    postal_code: '720001'
+    country: Kyrgyzstan
+id_list:
+  items:
+  - uid: '45896'
+    id_type: Global Intermediary Identification Number
+    id_number: NNNQ6K.99999.SL417
+  - uid: '45897'
+    id_type: Tax ID No.
+    id_number: '02012201010017'
+    id_country: Kyrgyzstan
+  - uid: '184682'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184651'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '184653'
+    id_type: SWIFT/BIC
+    id_number: RINBKG22
+  - uid: '184652'
+    id_type: Website
+    id_number: https:/keremetbank.kg
+  - uid: '184654'
+    id_type: BIK (RU)
+    id_number: '136001'

@@ -1,0 +1,64 @@
+---
+uid: '28083'
+last_name: GRAND SERVICE EXPRESS
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13685
+aka_list:
+  items:
+  - uid: '44651'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY TRANSPORT COMPANY GRAND SERVICE EXPRESS
+  - uid: '44652'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY GRAND SERVICE EXPRESS
+  - uid: '44653'
+    type: a.k.a.
+    category: weak
+    last_name: JSC GSE
+  - uid: '44654'
+    type: a.k.a.
+    category: strong
+    last_name: AO GRAND SERVIS EKSPRESS
+  - uid: '44657'
+    type: a.k.a.
+    category: weak
+    last_name: GRAND EXPRESS
+address_list:
+  items:
+  - uid: '42932'
+    address1: 85 Sheremetevskaya St.
+    address2: Building 1
+    city: Moscow
+    postal_code: '129075'
+    country: Russia
+  - uid: '42933'
+    address1: ul. Sheremetevskaya
+    address2: d. 85
+    address3: str. 1
+    city: Moscow
+    postal_code: '129075'
+    country: Russia
+  - uid: '42935'
+    address1: P.O. Box 15
+    city: Moscow
+    postal_code: '129075'
+    country: Russia
+  - uid: '42936'
+    address1: a/ya 15
+    city: Moscow
+    postal_code: '129075'
+    country: Russia
+id_list:
+  items:
+  - uid: '18776'
+    id_type: Tax ID No.
+    id_number: '7705445700'
+    id_country: Russia
+  - uid: '144141'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

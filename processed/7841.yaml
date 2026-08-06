@@ -1,0 +1,41 @@
+---
+uid: '7841'
+first_name: Nedal
+last_name: SALEH
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '6668'
+    type: a.k.a.
+    category: weak
+    last_name: HITEM
+address_list:
+  items:
+  - uid: '6757'
+    address1: Via Milano n.105
+    city: Casal di Principe
+    state_or_province: Caserta
+    country: Italy
+  - uid: '6758'
+    address1: Via di Saliceto n.51/9
+    city: Bologna
+    country: Italy
+id_list:
+  items:
+  - uid: '185731'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '2061'
+    date_of_birth: 01 Mar 1970
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '2062'
+    place_of_birth: Taiz, Yemen
+    main_entry: 'true'

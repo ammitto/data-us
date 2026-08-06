@@ -1,0 +1,49 @@
+---
+uid: '40178'
+last_name: OKB SPEKTR OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '62401'
+    type: a.k.a.
+    category: strong
+    last_name: OBSCHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU OKB SPEKTR
+  - uid: '62402'
+    type: a.k.a.
+    category: strong
+    last_name: ZAO OKB SPEKTR
+  - uid: '62403'
+    type: a.k.a.
+    category: strong
+    last_name: OKB SPECTR LLC
+address_list:
+  items:
+  - uid: '59829'
+    address1: Ul. Chugunnaya D. 20
+    address2: Korp. 111
+    city: Saint Petersburg
+    postal_code: '194044'
+    country: Russia
+id_list:
+  items:
+  - uid: '29320'
+    id_type: Registration Number
+    id_number: '1167847477291'
+    id_country: Russia
+  - uid: '29321'
+    id_type: Tax ID No.
+    id_number: '7804585151'
+    id_country: Russia
+  - uid: '29322'
+    id_type: Government Gazette Number
+    id_number: '23109231'
+    id_country: Russia
+  - uid: '174814'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '157039'
+    id_type: Organization Established Date
+    id_number: 25 Mar 1993

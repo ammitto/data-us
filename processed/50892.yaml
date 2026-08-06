@@ -1,0 +1,41 @@
+---
+uid: '50892'
+last_name: V A TRAPEZNIKOV INSTITUTE OF CONTROL SCIENCES OF RUSSIAN ACADEMY OF SCIENCES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79714'
+    type: a.k.a.
+    category: weak
+    last_name: ICS RAS
+  - uid: '79715'
+    type: a.k.a.
+    category: strong
+    last_name: FEDERAL STATE BUDGETARY SCIENTIFIC INSTITUTION INSTITUTE FOR CONTROL
+      PROBLEM NAMED AFTER V A TRAPEZNIKOV OF THE RUSSIAN ACADEMY OF SCIENCES
+address_list:
+  items:
+  - uid: '77275'
+    address1: Ul. Profsoyuznaya D.65
+    city: Moscow
+    postal_code: '117997'
+    country: Russia
+id_list:
+  items:
+  - uid: '42873'
+    id_type: Registration Number
+    id_number: '1037739269590'
+    id_country: Russia
+  - uid: '42874'
+    id_type: Tax ID No.
+    id_number: '7728013512'
+    id_country: Russia
+  - uid: '179673'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '179672'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

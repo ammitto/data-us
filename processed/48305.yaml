@@ -1,0 +1,42 @@
+---
+uid: '48305'
+last_name: FREEBIRD TRAVEL AND TOURISM
+sdn_type: Entity
+program_list:
+  programs:
+  - PAARSSR-EO13894
+aka_list:
+  items:
+  - uid: '75034'
+    type: a.k.a.
+    category: strong
+    last_name: FREE BIRD COMPANY
+  - uid: '75035'
+    type: a.k.a.
+    category: strong
+    last_name: AL-TAIR AL-HUR
+address_list:
+  items:
+  - uid: '72433'
+    address1: Maysaloon Street
+    address2: Al Muhandiseen Building Floor No. 12
+    city: Damascus
+    country: Syria
+  - uid: '72434'
+    address1: Hour al-Enz al-Mammzar Center
+    address2: Second Floor
+    address3: Office 12
+    city: Dubai
+    country: United Arab Emirates
+  - uid: '72435'
+    city: Athens
+    country: Greece
+id_list:
+  items:
+  - uid: '170529'
+    id_type: 'Organization Type:'
+    id_number: Travel agency activities
+  - uid: '170462'
+    id_type: Organization Established Date
+    id_number: '2022'
+remarks: "(Linked To: AL-DJ, Mahmoud Abdulilah)"

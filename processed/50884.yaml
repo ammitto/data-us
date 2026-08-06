@@ -1,0 +1,40 @@
+---
+uid: '50884'
+last_name: JOINT STOCK COMPANY RESEARCH INSTITUTE OF SEMICONDUCTOR DEVICES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79687'
+    type: a.k.a.
+    category: weak
+    last_name: JSC RISD
+  - uid: '79688'
+    type: a.k.a.
+    category: weak
+    last_name: JSC NIIPP
+address_list:
+  items:
+  - uid: '77256'
+    address1: Ul. Krasnoarmeiskaya D. 99A
+    city: Tomsk
+    postal_code: '634034'
+    country: Russia
+id_list:
+  items:
+  - uid: '42857'
+    id_type: Registration Number
+    id_number: '1037000170690'
+    id_country: Russia
+  - uid: '42858'
+    id_type: Tax ID No.
+    id_number: '7017084932'
+    id_country: Russia
+  - uid: '179659'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
+  - uid: '179660'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

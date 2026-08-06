@@ -1,0 +1,45 @@
+---
+uid: '36319'
+last_name: ANALITICHESKI TSENTR KATEKHON OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '57170'
+    type: a.k.a.
+    category: strong
+    last_name: KATEHON
+  - uid: '57171'
+    type: a.k.a.
+    category: strong
+    last_name: ANALITICHESKII TSENTR KATEKHON
+address_list:
+  items:
+  - uid: '54530'
+    address1: ul. Gorbunova d. 2
+    address2: str. 3, e 9 pom II of 89
+    city: Moscow
+    postal_code: '121596'
+    country: Russia
+id_list:
+  items:
+  - uid: '25702'
+    id_type: Registration Number
+    id_number: '1167746154432'
+    id_country: Russia
+  - uid: '25703'
+    id_type: Tax ID No.
+    id_number: '9710007769'
+    id_country: Russia
+  - uid: '173991'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '149909'
+    id_type: Organization Established Date
+    id_number: 11 Feb 2016
+  - uid: '150193'
+    id_type: 'Organization Type:'
+    id_number: Management consultancy activities
+remarks: "(Linked To: TSARGRAD OOO)"

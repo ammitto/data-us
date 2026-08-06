@@ -1,0 +1,33 @@
+---
+uid: '48495'
+last_name: LIMITED LIABILITY COMPANY NEWTON TECHNICS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75365'
+    type: a.k.a.
+    category: strong
+    last_name: LLC NEWTON TECHNIKS
+address_list:
+  items:
+  - uid: '72759'
+    address1: Ferrosplavnaya st., 126A, office 4204
+    city: Chelyabinsk
+    postal_code: '454084'
+    country: Russia
+id_list:
+  items:
+  - uid: '39399'
+    id_type: Registration Number
+    id_number: '1197456035215'
+    id_country: Russia
+  - uid: '39400'
+    id_type: Tax ID No.
+    id_number: '7453330433'
+    id_country: Russia
+  - uid: '171240'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,28 @@
+---
+uid: '50997'
+last_name: SHPINNER
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '77503'
+    address1: Ul. Selskokhozyaistvennaya d. 17, k. 7, et 1
+    address2: pom. 1 kom 9
+    city: Moscow
+    postal_code: '129226'
+    country: Russia
+id_list:
+  items:
+  - uid: '43045'
+    id_type: Registration Number
+    id_number: '5137746009990'
+    id_country: Russia
+  - uid: '43046'
+    id_type: Tax ID No.
+    id_number: '7715980551'
+    id_country: Russia
+  - uid: '179890'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

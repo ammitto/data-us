@@ -1,0 +1,29 @@
+---
+uid: '46032'
+last_name: LIMITED LIABILITY COMPANY AHD SOUTH PORT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '68568'
+    address1: d. 3A str. 4, ul
+    address2: 1-Ya Frunzenskaya
+    city: Moscow
+    postal_code: '119146'
+    country: Russia
+id_list:
+  items:
+  - uid: '35878'
+    id_type: Registration Number
+    id_number: '1237700409154'
+    id_country: Russia
+  - uid: '35879'
+    id_type: Tax ID No.
+    id_number: '9704214132'
+    id_country: Russia
+  - uid: '174905'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: LLC AEON HOLDING DEVELOPMENT)"

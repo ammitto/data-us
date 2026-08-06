@@ -1,0 +1,54 @@
+---
+uid: '29584'
+first_name: Danil
+last_name: POTEKHIN
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+aka_list:
+  items:
+  - uid: '46410'
+    type: a.k.a.
+    category: weak
+    last_name: cronuswar
+  - uid: '46411'
+    type: a.k.a.
+    category: weak
+    last_name: SERGEY, Kireev Valerievich
+address_list:
+  items:
+  - uid: '44630'
+    city: Voronezh
+    country: Russia
+id_list:
+  items:
+  - uid: '136443'
+    id_type: Gender
+    id_number: Male
+  - uid: '136444'
+    id_type: Email Address
+    id_number: potekhinl4@bk.ru
+  - uid: '136445'
+    id_type: Digital Currency Address - XBT
+    id_number: 1Q9UAQbcDezmyouFrzt94t4dSMxgsUfW1X
+  - uid: '136446'
+    id_type: Digital Currency Address - XBT
+    id_number: 1Kys8fqDen8NGFUJ6AFcXfFW5qquuTH4eh
+  - uid: '136447'
+    id_type: Digital Currency Address - ETH
+    id_number: '0x7F367cC41522cE07553e823bf3be79A889DEbe1B'
+  - uid: '154595'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+date_of_birth_list:
+  items:
+  - uid: '36440'
+    date_of_birth: 14 Sep 1995
+    main_entry: 'true'
+  - uid: '36441'
+    date_of_birth: 14 Sep 1990
+    main_entry: 'false'
+  - uid: '36442'
+    date_of_birth: '08 Aug 1990'
+    main_entry: 'false'

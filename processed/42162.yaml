@@ -1,0 +1,66 @@
+---
+uid: '42162'
+first_name: Rima Yaacoub
+last_name: BAKER
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '65541'
+    type: a.k.a.
+    category: strong
+    last_name: BAKER
+    first_name: Rima Kamel Yaacoub
+  - uid: '65542'
+    type: a.k.a.
+    category: strong
+    last_name: BAQER
+    first_name: Rima Kamel
+  - uid: '65806'
+    type: a.k.a.
+    category: strong
+    last_name: AHMAD
+    first_name: Rima Kamel Nazem
+address_list:
+  items:
+  - uid: '62935'
+    address1: Eden Gardens Building, 5th Floor
+    address2: Fawzi Street
+    city: Beirut
+    country: Lebanon
+id_list:
+  items:
+  - uid: '31636'
+    id_type: Passport
+    id_number: LR0503197
+    id_country: Lebanon
+    expiration_date: 01 Aug 2022
+  - uid: '31638'
+    id_type: Passport
+    id_number: EM719287
+    id_country: Belgium
+    expiration_date: 02 Mar 2022
+  - uid: '31640'
+    id_type: Passport
+    id_number: E1277888
+    id_country: Belgium
+  - uid: '160413'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '160411'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '60408'
+    date_of_birth: 25 Feb 1970
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '60409'
+    place_of_birth: Beirut, Lebanon
+    main_entry: 'true'
+remarks: "(Linked To: AHMAD, Nazem Said)"

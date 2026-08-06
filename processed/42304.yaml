@@ -1,0 +1,60 @@
+---
+uid: '42304'
+first_name: Daoud
+last_name: EL RIZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '65679'
+    type: a.k.a.
+    category: strong
+    last_name: EL RIZ
+    first_name: Douad
+  - uid: '65680'
+    type: a.k.a.
+    category: strong
+    last_name: DAOUD
+    first_name: El Riz
+address_list:
+  items:
+  - uid: '63463'
+    city: Paris
+    country: France
+id_list:
+  items:
+  - uid: '31787'
+    id_type: Passport
+    id_number: A02118824
+    id_country: Senegal
+    expiration_date: 21 Sep 2025
+  - uid: '31788'
+    id_type: Passport
+    id_number: 05DK11992
+    id_country: France
+    expiration_date: '08 Jun 2015'
+  - uid: '31789'
+    id_type: Passport
+    id_number: 15FV05021
+    id_country: France
+    expiration_date: 14 Apr 2025
+  - uid: '31790'
+    id_type: Passport
+    id_number: A01498634
+    id_country: Senegal
+    expiration_date: 22 Apr 2020
+  - uid: '160620'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '160621'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '60960'
+    date_of_birth: 04 Oct 1983
+    main_entry: 'true'
+remarks: "(Linked To: AHMAD, Hind Nazem)"

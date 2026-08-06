@@ -1,0 +1,48 @@
+---
+uid: '42080'
+last_name: AKKERMANN CEMENT CA LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65434'
+    type: a.k.a.
+    category: strong
+    last_name: AKKERMAN CEMENT TSA LLC
+  - uid: '65435'
+    type: a.k.a.
+    category: strong
+    last_name: AKKERMAN CEMENT CENTRAL ASIA
+  - uid: '65436'
+    type: a.k.a.
+    category: strong
+    last_name: AKKERMANN TSEMENT TSA OOO
+  - uid: '65437'
+    type: a.k.a.
+    category: strong
+    last_name: AKKERMAN CEMENT CA OOO
+  - uid: '65439'
+    type: a.k.a.
+    category: strong
+    last_name: AKKERMAN CEMENT CA MAS ULIYATI CHEKLANGAN JAMIYATI
+address_list:
+  items:
+  - uid: '62833'
+    address1: Sanoat hududi
+    city: Akhangaran
+    country: Uzbekistan
+id_list:
+  items:
+  - uid: '31547'
+    id_type: Tax ID No.
+    id_number: '206795734'
+    id_country: Uzbekistan
+  - uid: '176951'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '160332'
+    id_type: Organization Established Date
+    id_number: '2006'
+remarks: "(Linked To: AKKERMAN CEMENT OOO)"

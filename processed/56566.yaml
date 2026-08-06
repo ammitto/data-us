@@ -1,0 +1,28 @@
+---
+uid: '56566'
+last_name: GOLDEN GATE SHIP MANAGEMENT
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '86568'
+    address1: Office No A-301, Mahavir Icon
+    address2: CBD Belapur, Plot 89, Sector 15, Thane
+    city: Navi Mumbai
+    state_or_province: Maharashtra
+    postal_code: '400614'
+    country: India
+id_list:
+  items:
+  - uid: '50619'
+    id_type: Identification Number
+    id_number: IMO 0029112
+  - uid: '50621'
+    id_type: Company Number
+    id_number: UDYAM-MH-33-0532049
+    id_country: India
+  - uid: '195032'
+    id_type: Organization Established Date
+    id_number: 01 Oct 2024

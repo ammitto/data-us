@@ -1,0 +1,42 @@
+---
+uid: '56043'
+first_name: Hong Gil
+last_name: HAN
+sdn_type: Individual
+program_list:
+  programs:
+  - DPRK4
+aka_list:
+  items:
+  - uid: '87049'
+    type: a.k.a.
+    category: strong
+    last_name: HAN
+    first_name: Hong Kil
+address_list:
+  items:
+  - uid: '86056'
+    city: Dandong
+    country: China
+id_list:
+  items:
+  - uid: '50269'
+    id_type: Passport
+    id_number: '381410151'
+    id_country: Korea, North
+  - uid: '194316'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '194317'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '194198'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '94314'
+    date_of_birth: 20 Jan 1974
+    main_entry: 'true'
+remarks: "(Linked To: KORYO COMMERCIAL BANK LTD.)"

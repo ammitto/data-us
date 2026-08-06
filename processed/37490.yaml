@@ -1,0 +1,48 @@
+---
+uid: '37490'
+first_name: Azim
+last_name: MONZAVI
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - IRGC
+  - SDGT
+address_list:
+  items:
+  - uid: '56038'
+    country: Iran
+id_list:
+  items:
+  - uid: '26675'
+    id_type: Passport
+    id_number: A30472984
+    id_country: Iran
+    expiration_date: '08 Jul 2019'
+  - uid: '26676'
+    id_type: National ID No.
+    id_number: '4622001640'
+    id_country: Iran
+  - uid: '26677'
+    id_type: Passport
+    id_number: E49290734
+    id_country: Iran
+    expiration_date: 16 Jun 2024
+  - uid: '152292'
+    id_type: Gender
+    id_number: Male
+  - uid: '152293'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '52291'
+    date_of_birth: 20 Sep 1963
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '52301'
+    place_of_birth: Shahrekord, Iran
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS (IRGC)-QODS FORCE)"

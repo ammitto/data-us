@@ -1,0 +1,58 @@
+---
+uid: '40907'
+last_name: FORWARD SYSTEMS, R&DC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63691'
+    type: a.k.a.
+    category: strong
+    last_name: ZAO NTTS PEREDOVYE SISTEMY
+  - uid: '63692'
+    type: a.k.a.
+    category: strong
+    last_name: CJSC NTTS PEREDOVYE SISTEMY
+  - uid: '64180'
+    type: a.k.a.
+    category: strong
+    last_name: FORWARD SYSTEMS, R AND DC
+address_list:
+  items:
+  - uid: '61026'
+    address1: 20B Glebovskaya st.
+    city: Moscow
+    postal_code: '107258'
+    country: Russia
+  - uid: '61027'
+    address1: ul. Glebovskaya, d. 20B
+    city: Moscow
+    postal_code: '107258'
+    country: Russia
+id_list:
+  items:
+  - uid: '30177'
+    id_type: Business Registration Number
+    id_number: '1027700530329'
+    id_country: Russia
+  - uid: '30178'
+    id_type: Tax ID No.
+    id_number: '7718124608'
+    id_country: Russia
+  - uid: '175307'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '158471'
+    id_type: Organization Established Date
+    id_number: 29 May 1997
+  - uid: '158472'
+    id_type: 'Organization Type:'
+    id_number: Other information technology and computer service activities
+  - uid: '158473'
+    id_type: Target Type
+    id_number: Private Company
+  - uid: '158474'
+    id_type: Website
+    id_number: www.forsys.ru

@@ -1,0 +1,42 @@
+---
+uid: '49189'
+last_name: SCIENTIFIC AND PRODUCTION ASSOCIATION OF AUTOMATICS NAMED AFTER ACADEMICIAN
+  NA SEMIKHATOV
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76673'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO NAUCHNO PROIZVODSTVENNOE OBYEDINENIE AVTOMATIKI
+      IMENI AKADEMIKA NA SEMIKHATOVA
+  - uid: '76674'
+    type: a.k.a.
+    category: weak
+    last_name: AO NPO AVTOMATIKI
+address_list:
+  items:
+  - uid: '74040'
+    address1: Ul. Mamina-Sibiryaka D.145
+    city: Yekaterinburg
+    postal_code: '620075'
+    country: Russia
+id_list:
+  items:
+  - uid: '40326'
+    id_type: Registration Number
+    id_number: '1146685026509'
+    id_country: Russia
+  - uid: '40327'
+    id_type: Tax ID No.
+    id_number: '6685066917'
+    id_country: Russia
+  - uid: '172139'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '172138'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

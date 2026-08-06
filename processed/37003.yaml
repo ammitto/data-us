@@ -1,0 +1,47 @@
+---
+uid: '37003'
+first_name: Anatolii Anatolyevich
+last_name: GAVRILENKO
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '58110'
+    type: a.k.a.
+    category: strong
+    last_name: GAVRILENKO
+    first_name: Anatoli Anatolievich
+  - uid: '58111'
+    type: a.k.a.
+    category: strong
+    last_name: GAVRILENKO
+    first_name: Anatoliy Anatolevich
+  - uid: '58112'
+    type: a.k.a.
+    category: strong
+    last_name: GAVRILENKO
+    first_name: Anatoly
+address_list:
+  items:
+  - uid: '55373'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '26280'
+    id_type: Tax ID No.
+    id_number: '771902996586'
+    id_country: Russia
+  - uid: '174425'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '151231'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '51229'
+    date_of_birth: '1972'
+    main_entry: 'true'

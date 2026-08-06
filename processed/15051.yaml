@@ -1,0 +1,46 @@
+---
+uid: '15051'
+last_name: HENNA
+sdn_type: Vessel
+program_list:
+  programs:
+  - IRAN
+aka_list:
+  items:
+  - uid: '22160'
+    type: f.k.a.
+    category: strong
+    last_name: HAMOON
+  - uid: '23480'
+    type: f.k.a.
+    category: strong
+    last_name: LENA
+  - uid: '24777'
+    type: f.k.a.
+    category: strong
+    last_name: TAMAR
+  - uid: '40665'
+    type: f.k.a.
+    category: strong
+    last_name: HALISTIC
+id_list:
+  items:
+  - uid: '8060'
+    id_type: Vessel Registration Identification
+    id_number: IMO 9212929
+  - uid: '8129'
+    id_type: MMSI
+    id_number: '572465210'
+  - uid: '111482'
+    id_type: Former Vessel Flag
+    id_number: Malta
+  - uid: '113027'
+    id_type: Former Vessel Flag
+    id_number: Tuvalu
+  - uid: '114790'
+    id_type: Former Vessel Flag
+    id_number: Tanzania
+  - uid: '119308'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: NATIONAL IRANIAN TANKER COMPANY)"

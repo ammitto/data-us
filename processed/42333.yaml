@@ -1,0 +1,41 @@
+---
+uid: '42333'
+first_name: Hussein Moussa
+last_name: NACHAR
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '65750'
+    type: a.k.a.
+    category: strong
+    last_name: NACHAR
+    first_name: Hussein
+address_list:
+  items:
+  - uid: '63177'
+    address1: Des Cataractes 3329
+    address2: Gombe
+    city: Kinshasa
+    country: Congo, Democratic Republic of the
+id_list:
+  items:
+  - uid: '31837'
+    id_type: Identification Number
+    id_number: '505120217'
+    id_country: United Kingdom
+  - uid: '160685'
+    id_type: Gender
+    id_number: Male
+  - uid: '160688'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '60684'
+    date_of_birth: 04 Jul 1966
+    main_entry: 'true'
+remarks: "(Linked To: AHMAD, Firas Nazem)"

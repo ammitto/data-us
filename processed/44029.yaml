@@ -1,0 +1,40 @@
+---
+uid: '44029'
+first_name: Mario Alberto
+last_name: JIMENEZ CASTRO
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '68073'
+    type: a.k.a.
+    category: weak
+    last_name: KASTOR
+address_list:
+  items:
+  - uid: '65530'
+    country: Mexico
+id_list:
+  items:
+  - uid: '33419'
+    id_type: C.U.R.P.
+    id_number: JICM881020HSLMSR07
+    id_country: Mexico
+  - uid: '164878'
+    id_type: Digital Currency Address - ETH
+    id_number: '0x9c2bc757b66f24d60f016b6237f8cdd414a879fa'
+  - uid: '163619'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '63617'
+    date_of_birth: 20 Oct 1988
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '63622'
+    place_of_birth: Sinaloa, Mexico
+    main_entry: 'true'

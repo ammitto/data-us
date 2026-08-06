@@ -1,0 +1,45 @@
+---
+uid: '39143'
+last_name: FEDERAL STATE FINANCED INSTITUTION OF SCIENCE PHYSICAL HIGHER EDUCATION
+  INSTITUTION NAMED AFTER P. N. LEBEDEVA OF THE RUSSIAN FEDERATION ACADEMY SCIENCES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '61031'
+    type: a.k.a.
+    category: strong
+    last_name: LEBEDEV PHYSICAL INSTITUTE OF THE RUSSIAN ACADEMY OF SCIENCES
+  - uid: '61032'
+    type: a.k.a.
+    category: weak
+    last_name: LPI RAS
+  - uid: '61207'
+    type: a.k.a.
+    category: weak
+    last_name: FIAN
+address_list:
+  items:
+  - uid: '58279'
+    address1: 53 Leninsky Ave
+    city: Moscow
+    postal_code: '119991'
+    country: Russia
+id_list:
+  items:
+  - uid: '28348'
+    id_type: Tax ID No.
+    id_number: '7736037394'
+    id_country: Russia
+  - uid: '28349'
+    id_type: Registration Number
+    id_number: '1027739617960'
+    id_country: Russia
+  - uid: '174731'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '154897'
+    id_type: Organization Established Date
+    id_number: 03 Oct 2001

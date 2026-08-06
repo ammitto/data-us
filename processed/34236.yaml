@@ -1,0 +1,42 @@
+---
+uid: '34236'
+first_name: Wilder Emilio
+last_name: SANCHEZ FARFAN
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '53688'
+    type: a.k.a.
+    category: weak
+    last_name: GATO
+address_list:
+  items:
+  - uid: '51523'
+    address1: Estancias Del Rio No. 16
+    address2: MZ Sur
+    address3: Tarqui
+    city: Guayaquil
+    state_or_province: Guayas
+    country: Ecuador
+id_list:
+  items:
+  - uid: '23996'
+    id_type: Cedula No.
+    id_number: '2100326350'
+    id_country: Ecuador
+  - uid: '145668'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '45667'
+    date_of_birth: 27 Sep 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '45671'
+    place_of_birth: Chacras, Arenillas, El Oro, Ecuador
+    main_entry: 'true'

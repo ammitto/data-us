@@ -1,0 +1,28 @@
+---
+uid: '49917'
+last_name: LIMITED LIABILITY COMPANY VECTOR
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '75458'
+    address1: ul. Tashkentskaya, d. 4, k. 2, lit. U, pomeshch. 20-N
+    address2: office 15, 16
+    city: Saint Petersburg
+    postal_code: '196006'
+    country: Russia
+id_list:
+  items:
+  - uid: '41414'
+    id_type: Registration Number
+    id_number: '1227800033097'
+    id_country: Russia
+  - uid: '41415'
+    id_type: Tax ID No.
+    id_number: '7805790530'
+    id_country: Russia
+  - uid: '177393'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

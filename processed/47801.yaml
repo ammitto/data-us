@@ -1,0 +1,37 @@
+---
+uid: '47801'
+last_name: LIMITED LIABILITY COMPANY SASOVSKI LITEINY ZAVOD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74151'
+    type: a.k.a.
+    category: strong
+    last_name: LLC SASOVSKII LITEINYI ZAVOD
+  - uid: '74153'
+    type: a.k.a.
+    category: weak
+    last_name: LLC SLZ
+address_list:
+  items:
+  - uid: '71522'
+    address1: Ul. Pushkina 21
+    city: Sasovo
+    postal_code: '391430'
+    country: Russia
+id_list:
+  items:
+  - uid: '38497'
+    id_type: Registration Number
+    id_number: '1026201399729'
+    id_country: Russia
+  - uid: '38499'
+    id_type: Tax ID No.
+    id_number: '6232004750'
+    id_country: Russia
+  - uid: '169689'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

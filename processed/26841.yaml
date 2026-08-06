@@ -1,0 +1,39 @@
+---
+uid: '26841'
+last_name: PAZARGAD NON INDUSTRIAL OPERATION COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+aka_list:
+  items:
+  - uid: '42399'
+    type: a.k.a.
+    category: strong
+    last_name: NON-INDUSTRIAL OPERATION SERVICES PAZARGAD
+  - uid: '42400'
+    type: a.k.a.
+    category: strong
+    last_name: PAZARGAD NON-INDUSTRIAL OPERATIONS CO.
+address_list:
+  items:
+  - uid: '40735'
+    address1: Complex of Petrochemical Projects, Triangular Site, P.O. Box 9531795616
+    city: Assaluyeh
+    state_or_province: Bushehr
+    country: Iran
+  - uid: '40736'
+    address1: Khalid Islumboli Street, Fifth Alley, No. 22, Second Floor
+    city: Tehran
+    postal_code: '1513643911'
+    country: Iran
+id_list:
+  items:
+  - uid: '131617'
+    id_type: Website
+    id_number: www.pazargad.org
+  - uid: '131618'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: PERSIAN GULF PETROCHEMICAL INDUSTRY CO.)"

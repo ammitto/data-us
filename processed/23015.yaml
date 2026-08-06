@@ -1,0 +1,24 @@
+---
+uid: '23015'
+last_name: CENTRAL BANK OF THE DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK3
+address_list:
+  items:
+  - uid: '34744'
+    address1: 58-1 Mansu-dong
+    address2: Sungri Street
+    address3: Central District
+    city: Pyongyang
+    country: Korea, North
+id_list:
+  items:
+  - uid: '127280'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '135163'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214

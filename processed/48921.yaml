@@ -1,0 +1,37 @@
+---
+uid: '48921'
+first_name: Jose Miguel
+last_name: DEMOYA HERNANDEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '76212'
+    type: a.k.a.
+    category: strong
+    last_name: DEMOYA
+    first_name: JOSE MIGUEL
+  - uid: '76213'
+    type: a.k.a.
+    category: weak
+    last_name: Chirimoya
+address_list:
+  items:
+  - uid: '73587'
+    country: Colombia
+id_list:
+  items:
+  - uid: '40005'
+    id_type: Cedula No.
+    id_number: '78115749'
+    id_country: Colombia
+  - uid: '171672'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '71671'
+    date_of_birth: 19 Sep 1984
+    main_entry: 'true'

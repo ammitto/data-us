@@ -1,0 +1,38 @@
+---
+uid: '9411'
+first_name: Willebaldo
+last_name: CARRASCO MIRANDA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '12757'
+    address1: c/o CORRALES SAN IGNACIO S.P.R. DE R.L. DE C.V.
+    city: Saucillo
+    state_or_province: Chihuahua
+    country: Mexico
+  - uid: '12879'
+    address1: Calle 11
+    address2: 1815 Plana Centro
+    city: Chihuahua
+    state_or_province: Chihuahua
+    postal_code: CP 31000
+    country: Mexico
+id_list:
+  items:
+  - uid: '4055'
+    id_type: C.U.R.P.
+    id_number: CAMW581006HCHRRL00
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '4387'
+    date_of_birth: 06 Oct 1958
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '4388'
+    place_of_birth: Chihuahua, Chihuahua, Mexico
+    main_entry: 'true'

@@ -1,0 +1,39 @@
+---
+uid: '20292'
+last_name: OJSC SOVFRACHT
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13685
+aka_list:
+  items:
+  - uid: '32054'
+    type: a.k.a.
+    category: strong
+    last_name: SOVFRACHT JSC
+  - uid: '32055'
+    type: a.k.a.
+    category: strong
+    last_name: PJSC 'SOVFRACHT'
+  - uid: '32056'
+    type: a.k.a.
+    category: strong
+    last_name: SOVFRAKHT
+address_list:
+  items:
+  - uid: '30694'
+    address1: Rakhmanovskiy lane, 4
+    address2: bld. 1
+    address3: Morskoy House
+    city: Moscow
+    postal_code: '127994'
+    country: Russia
+id_list:
+  items:
+  - uid: '120785'
+    id_type: Email Address
+    id_number: general@sovfracht.ru
+  - uid: '143791'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

@@ -1,0 +1,41 @@
+---
+uid: '50347'
+last_name: OPEN JOINT STOCK COMPANY MOSKOVSKII YUVELIRNYI ZAVOD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78684'
+    type: a.k.a.
+    category: weak
+    last_name: OAO MYUZ
+  - uid: '78687'
+    type: a.k.a.
+    category: strong
+    last_name: MOSCOW JEWELRY FACTORY
+  - uid: '78688'
+    type: a.k.a.
+    category: weak
+    last_name: MIUZ
+address_list:
+  items:
+  - uid: '76306'
+    address1: d. 5, ul. Nagatinskaya
+    city: Moscow
+    postal_code: '115533'
+    country: Russia
+id_list:
+  items:
+  - uid: '42085'
+    id_type: Registration Number
+    id_number: '1027700201902'
+    id_country: Russia
+  - uid: '42086'
+    id_type: Tax ID No.
+    id_number: '7724181241'
+    id_country: Russia
+  - uid: '178316'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

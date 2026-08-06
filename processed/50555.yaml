@@ -1,0 +1,40 @@
+---
+uid: '50555'
+first_name: Ali
+last_name: MAHDAVIAN
+sdn_type: Individual
+program_list:
+  programs:
+  - ELECTION-EO13848
+aka_list:
+  items:
+  - uid: '79051'
+    type: a.k.a.
+    category: strong
+    last_name: HADIAN
+    first_name: Ali
+address_list:
+  items:
+  - uid: '76659'
+    address1: Karaj, Shahrak Behdari Kh Faajr 13, Rejayi 21
+    city: Tehran
+    postal_code: '3148634998'
+    country: Iran
+id_list:
+  items:
+  - uid: '42386'
+    id_type: National ID No.
+    id_number: '0015252434'
+    id_country: Iran
+  - uid: '179345'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '178737'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '78738'
+    date_of_birth: 11 Dec 1992
+    main_entry: 'true'
+remarks: "(Linked To: EMENNET PASARGAD)"

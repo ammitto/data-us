@@ -1,0 +1,76 @@
+---
+uid: '40601'
+first_name: Kourosh
+last_name: ASIABANI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+  - IRGC
+  - CAATSA - IRAN
+aka_list:
+  items:
+  - uid: '63113'
+    type: a.k.a.
+    category: strong
+    last_name: ASIABANI
+    first_name: Kurosh
+  - uid: '63114'
+    type: a.k.a.
+    category: strong
+    last_name: ASIABANI
+    first_name: Korosh
+  - uid: '63115'
+    type: a.k.a.
+    category: strong
+    last_name: ASIYABANI
+    first_name: Koresh
+address_list:
+  items:
+  - uid: '60493'
+    address1: Number 0, Floor 2
+    address2: Golrizan Boulevard, Fajr Alley
+    address3: District 22 Bahman
+    city: Kermanshah
+    postal_code: '6714699785'
+    country: Iran
+  - uid: '60494'
+    address1: Unit 1, Paradise Building, across from Kokab Rashidi Mosque
+    address2: Nobehar Boulevard, between Shahid Iraj Faizi Alley and Shahid Khosro
+      Abassi Alley
+    address3: District 22 Bahman
+    city: Kermanshah
+    postal_code: '6714699785'
+    country: Iran
+id_list:
+  items:
+  - uid: '29761'
+    id_type: National ID No.
+    id_number: '3319728962'
+    id_country: Iran
+  - uid: '29762'
+    id_type: Birth Certificate Number
+    id_number: '28'
+    id_country: Iran
+  - uid: '157896'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '157887'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '57883'
+    date_of_birth: 31 May 1962
+    main_entry: 'true'
+  - uid: '57884'
+    date_of_birth: 31 May 1961
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '57885'
+    place_of_birth: Harsin, Iran
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS)"
+title: Deputy Commander of IRGC West Regional Headquarters (Najaf Ashraf); Second
+  Brigadier General

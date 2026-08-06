@@ -1,0 +1,78 @@
+---
+uid: '34982'
+first_name: Daniel Joseph
+last_name: KINAHAN
+sdn_type: Individual
+program_list:
+  programs:
+  - TCO
+address_list:
+  items:
+  - uid: '52462'
+    address1: 14 Palm Jumeirah
+    city: Dubai
+    postal_code: '378149'
+    country: United Arab Emirates
+  - uid: '52472'
+    address1: Avda Juan Ramon Jimenez 2
+    address2: Urbanizacion Cortijo Blanco
+    city: San Pedro de Alcantaras
+    state_or_province: Malaga
+    postal_code: '29670'
+    country: Spain
+  - uid: '52475'
+    address1: Calle Galicia No 71 A
+    address2: Guadalmina Baja
+    city: Estepona
+    country: Spain
+id_list:
+  items:
+  - uid: '24645'
+    id_type: Passport
+    id_number: PB1642995
+    id_country: Ireland
+  - uid: '24646'
+    id_type: Passport
+    id_number: PW1900911
+    id_country: Ireland
+  - uid: '24647'
+    id_type: Passport
+    id_number: P008448
+    id_country: Ireland
+  - uid: '24648'
+    id_type: Passport
+    id_number: PD4435945
+    id_country: Ireland
+  - uid: '24649'
+    id_type: Passport
+    id_number: '704043374'
+    id_country: United Kingdom
+  - uid: '24652'
+    id_type: Identification Number
+    id_number: '784197715087538'
+    id_country: United Arab Emirates
+  - uid: '24653'
+    id_type: Identification Number
+    id_number: '076822265'
+    id_country: United Arab Emirates
+  - uid: '24654'
+    id_type: Identification Number
+    id_number: '195762701'
+    id_country: United Arab Emirates
+  - uid: '146564'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '46559'
+    date_of_birth: 25 Jun 1977
+    main_entry: 'true'
+  - uid: '46560'
+    date_of_birth: 26 May 1979
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '46562'
+    place_of_birth: Dublin, Ireland
+    main_entry: 'true'
+remarks: "(Linked To: KINAHAN ORGANIZED CRIME GROUP)"

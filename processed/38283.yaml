@@ -1,0 +1,38 @@
+---
+uid: '38283'
+first_name: Sergey Vladimirovich
+last_name: YELISEYEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '60047'
+    type: a.k.a.
+    category: strong
+    last_name: YELISEYEV
+    first_name: Sergei
+address_list:
+  items:
+  - uid: '57306'
+    state_or_province: Kherson Oblast
+    country: Ukraine
+id_list:
+  items:
+  - uid: '153571'
+    id_type: Gender
+    id_number: Male
+  - uid: '174671'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '53568'
+    date_of_birth: 05 May 1971
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '53569'
+    place_of_birth: Stavropol, Russia
+    main_entry: 'true'

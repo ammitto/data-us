@@ -1,0 +1,33 @@
+---
+uid: '47827'
+last_name: LIMITED LIABILITY COMPANY GORA GOLDEN RATIO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74199'
+    type: a.k.a.
+    category: weak
+    last_name: LLC GORA
+address_list:
+  items:
+  - uid: '71575'
+    address1: 40 Bolshoy Boulevard, Floor 5, Room 118
+    city: Moscow
+    postal_code: '121205'
+    country: Russia
+id_list:
+  items:
+  - uid: '38539'
+    id_type: Tax ID No.
+    id_number: '9731087042'
+    id_country: Russia
+  - uid: '38543'
+    id_type: Registration Number
+    id_number: '1217700632632'
+    id_country: Russia
+  - uid: '176474'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

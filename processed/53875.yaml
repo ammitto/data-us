@@ -1,0 +1,45 @@
+---
+uid: '53875'
+last_name: PRIME TANKERS LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '82213'
+    address1: Street 14B, Al Quoz Industrial Area 4
+    city: Dubai
+    country: United Arab Emirates
+  - uid: '82215'
+    address1: Office 1, Mezzanine Floor, HH Shaykah Mariyam Bint Rashid
+    address2: Umm Hurair Road
+    city: Dubai
+    country: United Arab Emirates
+  - uid: '82320'
+    address1: PO Box 31559
+    city: Dubai
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '47267'
+    id_type: Identification Number
+    id_number: IMO 1904245
+  - uid: '47268'
+    id_type: Economic Register Number (CBLS)
+    id_number: '10803728'
+    id_country: United Arab Emirates
+  - uid: '47269'
+    id_type: Business Registration Number
+    id_number: '520465'
+    id_country: United Arab Emirates
+  - uid: '47383'
+    id_type: Legal Entity Number
+    id_number: 8945002C2A9YOX2Y6M46
+  - uid: '188931'
+    id_type: Organization Established Date
+    id_number: '09 Aug 2000'
+  - uid: '188930'
+    id_type: Website
+    id_number: www.primetankers.ae
+remarks: "(Linked To: BRAR, Jugwinder Singh)"

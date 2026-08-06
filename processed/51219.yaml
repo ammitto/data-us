@@ -1,0 +1,31 @@
+---
+uid: '51219'
+first_name: Jesus Ramon
+last_name: FERNANDEZ ALAYON
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+address_list:
+  items:
+  - uid: '77998'
+    country: Venezuela
+id_list:
+  items:
+  - uid: '43466'
+    id_type: Cedula No.
+    id_number: V10504917
+    id_country: Venezuela
+  - uid: '180406'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '80344'
+    date_of_birth: 03 Feb 1971
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '80343'
+    place_of_birth: Caracas, Venezuela
+    main_entry: 'true'

@@ -1,0 +1,65 @@
+---
+uid: '42944'
+first_name: Davoud
+last_name: DAMGHANI
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '66519'
+    type: a.k.a.
+    category: strong
+    last_name: DAMGHANI
+    first_name: Davud
+  - uid: '66529'
+    type: a.k.a.
+    category: strong
+    last_name: DAMGHANI
+    first_name: Davood
+  - uid: '66530'
+    type: a.k.a.
+    category: strong
+    last_name: DAMQANI
+    first_name: Davoud
+  - uid: '66531'
+    type: a.k.a.
+    category: strong
+    last_name: DAMQANI
+    first_name: Davood
+address_list:
+  items:
+  - uid: '64061'
+    city: Beijing
+    country: China
+id_list:
+  items:
+  - uid: '32528'
+    id_type: Passport
+    id_number: D10003642
+    id_country: Iran
+    issue_date: 30 Jun 2018
+    expiration_date: 30 Jun 2023
+  - uid: '32536'
+    id_type: National ID No.
+    id_number: '0053758110'
+    id_country: Iran
+  - uid: '161816'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '161815'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '61812'
+    date_of_birth: 14 Mar 1971
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '61813'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: MINISTRY OF DEFENSE AND ARMED FORCES LOGISTICS)"

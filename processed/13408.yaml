@@ -1,0 +1,53 @@
+---
+uid: '13408'
+first_name: Ofelia
+last_name: MONZON ARAUJO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '21456'
+    address1: Calle Bahia de Topolobampo No. 1628
+    address2: Colonia Nuevo Culiacan
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '21457'
+    address1: Boulevard Pedro Infante No. 3050
+    address2: Colonia Recursos Hidraulicos
+    city: Culiacan
+    state_or_province: Sinaloa
+    postal_code: C.P. 80100
+    country: Mexico
+id_list:
+  items:
+  - uid: '7923'
+    id_type: R.F.C.
+    id_number: MOAO520406F27
+    id_country: Mexico
+  - uid: '7924'
+    id_type: C.U.R.P.
+    id_number: MOAO520406MSLNRF03
+    id_country: Mexico
+  - uid: '7925'
+    id_type: R.F.C.
+    id_number: MOAO-530406
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '9474'
+    date_of_birth: 06 Apr 1952
+    main_entry: 'true'
+  - uid: '9475'
+    date_of_birth: 06 Apr 1953
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '9476'
+    place_of_birth: Bacacoragua, Badiraguato, Sinaloa, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: ESTACIONES DE SERVICIOS CANARIAS, S.A. DE C.V.; Linked To: GASOLINERA
+  ALAMOS COUNTRY, S.A. DE C.V.; Linked To: GASOLINERA Y SERVICIOS VILLABONITA, S.A.
+  DE C.V.)"

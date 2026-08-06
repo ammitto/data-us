@@ -1,0 +1,53 @@
+---
+uid: '46004'
+first_name: Lavrentii Aleksandrovich
+last_name: ZAKHAROV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '71084'
+    type: a.k.a.
+    category: strong
+    last_name: ZAKHAROV
+    first_name: Lavrentiy Aleksandrovich
+address_list:
+  items:
+  - uid: '68510'
+    address1: 272 Pushkinskaya Street
+    address2: Apt. 41
+    city: Izhevsk
+    postal_code: '426008'
+    country: Russia
+  - uid: '68512'
+    address1: Flat 612
+    address2: Romney House
+    address3: 47 Marsham Street
+    city: London
+    postal_code: SW1P 3DS
+    country: United Kingdom
+id_list:
+  items:
+  - uid: '35828'
+    id_type: Passport
+    id_number: '089132114'
+    id_country: Russia
+  - uid: '166659'
+    id_type: Gender
+    id_number: Male
+  - uid: '174878'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '66657'
+    date_of_birth: 26 Feb 1999
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '66806'
+    place_of_birth: Izhevsk, Russia
+    main_entry: 'true'
+remarks: "(Linked To: ZAKHAROV, Aleksandr Vyacheslavovich)"

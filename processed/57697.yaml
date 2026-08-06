@@ -1,0 +1,60 @@
+---
+uid: '57697'
+first_name: Ali Hazrati
+last_name: CHAKHERLO
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '89282'
+    type: a.k.a.
+    category: strong
+    last_name: CHAKHARLOO
+    first_name: Ali Hazrati
+  - uid: '89283'
+    type: a.k.a.
+    category: strong
+    last_name: HAZRATI
+    first_name: Ali
+address_list:
+  items:
+  - uid: '88465'
+    state_or_province: Istanbul
+    country: Turkey
+id_list:
+  items:
+  - uid: '52150'
+    id_type: National ID No.
+    id_number: '2870484119'
+    id_country: Iran
+  - uid: '52151'
+    id_type: National Foreign ID Number
+    id_number: '99390181000'
+    id_country: Turkey
+  - uid: '52152'
+    id_type: Residency Number
+    id_number: YAA 095363
+    id_country: Turkey
+  - uid: '52153'
+    id_type: Residency Number
+    id_number: YAB 253356
+    id_country: Turkey
+  - uid: '198146'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '198111'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '98109'
+    date_of_birth: 07 Jan 1993
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '98110'
+    place_of_birth: Iran
+    main_entry: 'true'
+remarks: "(Linked To: EBRAHIMI AND ASSOCIATES PARTNERSHIP COMPANY)"

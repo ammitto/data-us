@@ -1,0 +1,45 @@
+---
+uid: '33013'
+first_name: Luis Antonio
+last_name: BERMUDEZ MEJIA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '51915'
+    type: a.k.a.
+    category: weak
+    last_name: TATA
+  - uid: '51916'
+    type: a.k.a.
+    category: weak
+    last_name: TONO
+address_list:
+  items:
+  - uid: '49667'
+    country: Colombia
+id_list:
+  items:
+  - uid: '22701'
+    id_type: Cedula No.
+    id_number: '84006210'
+    id_country: Colombia
+  - uid: '22702'
+    id_type: Passport
+    id_number: AM019495
+    id_country: Colombia
+  - uid: '142775'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '42772'
+    date_of_birth: 11 Apr 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '42773'
+    place_of_birth: Barrancas, La Guajira, Colombia
+    main_entry: 'true'

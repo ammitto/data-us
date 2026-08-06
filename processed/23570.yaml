@@ -1,0 +1,59 @@
+---
+uid: '23570'
+last_name: SO TVERNEFTEPRODUKT OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13662
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '37166'
+    type: a.k.a.
+    category: strong
+    last_name: LLC MA TVERNEFTEPRODUCT
+  - uid: '37167'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY MARKETING ASSOCIATION TVERNEFTEPRODUCT
+  - uid: '82054'
+    type: a.k.a.
+    category: strong
+    last_name: SBYTOVOE OBYEDINENIE TVERNEFTEPRODUKT
+address_list:
+  items:
+  - uid: '35645'
+    address1: 6 Novotorzhskaya Ulitsa
+    city: Tver
+    country: Russia
+id_list:
+  items:
+  - uid: '15039'
+    id_type: Registration ID
+    id_number: '1026900510647'
+    id_country: Russia
+  - uid: '15041'
+    id_type: Tax ID No.
+    id_number: '6905041501'
+    id_country: Russia
+  - uid: '125445'
+    id_type: Nationality of Registration
+    id_number: Russia
+  - uid: '143954'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '125444'
+    id_type: Website
+    id_number: www.tvernefteproduct.ru
+  - uid: '125443'
+    id_type: Email Address
+    id_number: tnp@dep.tvcom.ru
+  - uid: '125605'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 4
+  - uid: '183032'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: 'For more information, please reference the following link: http://www.treasury.gov/resource-center/sanctions/OFAC-Enforcement/Pages/OFAC-Recent-Actions.aspx;
+  (Linked To: SURGUTNEFTEGAS)'

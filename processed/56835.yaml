@@ -1,0 +1,31 @@
+---
+uid: '56835'
+last_name: BLACK STONE OIL AND GAS
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '88075'
+    type: a.k.a.
+    category: strong
+    last_name: BLACK STONE OIL & GAS SPC
+address_list:
+  items:
+  - uid: '87013'
+    city: Muscat
+    state_or_province: Muscat Governorate
+    country: Oman
+id_list:
+  items:
+  - uid: '50960'
+    id_type: Identification Number
+    id_number: IMO 0242372
+  - uid: '50961'
+    id_type: Registration Number
+    id_number: '1547543'
+    id_country: Oman
+  - uid: '195789'
+    id_type: Organization Established Date
+    id_number: 22 Apr 2024

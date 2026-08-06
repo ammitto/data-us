@@ -1,0 +1,48 @@
+---
+uid: '37872'
+first_name: Igor Nikolaevich
+last_name: ZAVIYALOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59527'
+    type: a.k.a.
+    category: strong
+    last_name: ZAVYALOV
+    first_name: Igor Nikolayevich
+address_list:
+  items:
+  - uid: '56766'
+    address1: Bolshoy Fakelniy Per 9 11 16
+    city: Moscow
+    postal_code: '109047'
+    country: Russia
+id_list:
+  items:
+  - uid: '27176'
+    id_type: Passport
+    id_number: '513699705'
+    id_country: Russia
+  - uid: '27177'
+    id_type: National ID No.
+    id_number: '4508340851'
+    id_country: Russia
+  - uid: '153065'
+    id_type: Gender
+    id_number: Male
+  - uid: '174615'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '53063'
+    date_of_birth: 19 Jan 1960
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '53068'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'

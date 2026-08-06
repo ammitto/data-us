@@ -1,0 +1,50 @@
+---
+uid: '16031'
+last_name: PARS OIL CO.
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN
+  - IRAN-EO13876
+aka_list:
+  items:
+  - uid: '24072'
+    type: a.k.a.
+    category: strong
+    last_name: PARS OIL
+  - uid: '24118'
+    type: a.k.a.
+    category: strong
+    last_name: SHERKAT NAFT PARS SAHAMI AAM
+address_list:
+  items:
+  - uid: '24122'
+    address1: No. 346, Pars Oil Company Building
+    address2: Modarres Highway, East Mirdamad Boulevard
+    city: Tehran
+    postal_code: '1549944511'
+    country: Iran
+  - uid: '24123'
+    address1: Postal Box 14155-1473
+    city: Tehran
+    postal_code: '159944511'
+    country: Iran
+  - uid: '46794'
+    country: Iran
+id_list:
+  items:
+  - uid: '20953'
+    id_type: National ID No.
+    id_number: '10100302746'
+    id_country: Iran
+  - uid: '20954'
+    id_type: Registration Number
+    id_number: '6388'
+    id_country: Iran
+  - uid: '113693'
+    id_type: Website
+    id_number: http://www.parsoilco.com
+  - uid: '119043'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: TADBIR ENERGY DEVELOPMENT GROUP CO.)"

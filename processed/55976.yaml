@@ -1,0 +1,39 @@
+---
+uid: '55976'
+first_name: Yun
+last_name: ZHOU
+sdn_type: Individual
+program_list:
+  programs:
+  - TCO
+aka_list:
+  items:
+  - uid: '86946'
+    type: a.k.a.
+    category: weak
+    last_name: ZHOU, Sandy
+address_list:
+  items:
+  - uid: '85720'
+    city: Hong Kong
+    country: China
+id_list:
+  items:
+  - uid: '50137'
+    id_type: Passport
+    id_number: G30024177
+    id_country: China
+  - uid: '194066'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '94067'
+    date_of_birth: 17 Oct 1982
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '94068'
+    place_of_birth: Hubei, China
+    main_entry: 'true'
+remarks: "(Linked To: CHEN, Zhi)"

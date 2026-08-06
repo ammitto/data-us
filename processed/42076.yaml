@@ -1,0 +1,37 @@
+---
+uid: '42076'
+last_name: U-TERRA LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65427'
+    type: a.k.a.
+    category: strong
+    last_name: YU-TERRA LLC
+address_list:
+  items:
+  - uid: '62824'
+    address1: d. 28 pom. 1 kom. 34, shosse Rublevskoe
+    city: Moscow
+    postal_code: '121609'
+    country: Russia
+id_list:
+  items:
+  - uid: '31536'
+    id_type: Registration Number
+    id_number: '12277000667700'
+    id_country: Russia
+  - uid: '31537'
+    id_type: Tax ID No.
+    id_number: '9731088695'
+    id_country: Russia
+  - uid: '173753'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '160327'
+    id_type: Organization Established Date
+    id_number: 11 Feb 2022
+remarks: "(Linked To: USM URBAN MINING LIMITED LIABILITY COMPANY)"

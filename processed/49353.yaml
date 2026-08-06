@@ -1,0 +1,38 @@
+---
+uid: '49353'
+last_name: ELEKKOM LOGISTIK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76965'
+    type: a.k.a.
+    category: strong
+    last_name: LLC ELEKKOM LOGISTICS
+address_list:
+  items:
+  - uid: '74368'
+    address1: Pr. I. Ya. Yakovleva D. 3, Of. 908
+    city: Cheboksary
+    postal_code: '428020'
+    country: Russia
+  - uid: '74369'
+    address1: Pr-Kt I. Ya. Yakovelva Zd. 3, Floor 8
+    city: Cheboksary
+    postal_code: '428003'
+    country: Russia
+id_list:
+  items:
+  - uid: '40601'
+    id_type: Registration Number
+    id_number: '1142130002442'
+    id_country: Russia
+  - uid: '40602'
+    id_type: Tax ID No.
+    id_number: '2130133291'
+    id_country: Russia
+  - uid: '172403'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,58 @@
+---
+uid: '49606'
+first_name: Ghazi
+last_name: HAMAD
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '77367'
+    type: a.k.a.
+    category: weak
+    last_name: UMAR, Abu
+  - uid: '77392'
+    type: a.k.a.
+    category: strong
+    last_name: HAMAD
+    first_name: Ghazi Ahmad
+address_list:
+  items:
+  - uid: '74922'
+    country: Saudi Arabia
+  - uid: '74923'
+    city: Sao Paulo
+    country: Brazil
+  - uid: '74924'
+    country: Azerbaijan
+  - uid: '79350'
+    country: Qatar
+id_list:
+  items:
+  - uid: '41030'
+    id_type: Passport
+    id_number: A0028383
+    id_country: Palestinian
+  - uid: '41031'
+    id_type: Passport
+    id_number: A0027535
+    id_country: Palestinian
+  - uid: '172892'
+    id_type: Gender
+    id_number: Male
+  - uid: '172891'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '72935'
+    date_of_birth: '1964'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '72893'
+    place_of_birth: Gaza Strip
+    main_entry: 'true'
+remarks: "(Linked To: HAMAS)"

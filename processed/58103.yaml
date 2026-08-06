@@ -1,0 +1,28 @@
+---
+uid: '58103'
+last_name: SEA LEAD SHIPPING PTE. LTD.
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '89213'
+    address1: 78 Shenton Way
+    address2: "#10 Unit No. 001"
+    city: Singapore
+    postal_code: '79120'
+    country: Singapore
+id_list:
+  items:
+  - uid: '52646'
+    id_type: Identification Number
+    id_number: IMO 6104579
+  - uid: '52647'
+    id_type: Registration Number
+    id_number: 201708559N
+    id_country: Singapore
+  - uid: '199488'
+    id_type: Organization Established Date
+    id_number: 28 Mar 2017
+remarks: "(Linked To: SHAMKHANI, Mohammad Hossein)"

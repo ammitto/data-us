@@ -1,0 +1,62 @@
+---
+uid: '31301'
+first_name: Artem Nikolaevich
+last_name: STEPANOV
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+  - UKRAINE-EO13661
+  - RUSSIA-EO14024
+  - ELECTION-EO13848
+aka_list:
+  items:
+  - uid: '74811'
+    type: a.k.a.
+    category: strong
+    last_name: STEPANOV
+    first_name: Artem Nikolayevich
+address_list:
+  items:
+  - uid: '47382'
+    address1: Rabochaya Street 10-72
+    city: Solnechnogorsk
+    state_or_province: Moscow Oblast
+    postal_code: '141503'
+    country: Russia
+  - uid: '72224'
+    address1: Rabochaya Street, House 10, Apartment 72
+    city: Solnechnogorsk
+    state_or_province: Solnechnogorsk District, Moscow Region
+    country: Russia
+id_list:
+  items:
+  - uid: '21334'
+    id_type: Tax ID No.
+    id_number: '504403080602'
+    id_country: Russia
+  - uid: '39034'
+    id_type: National ID No.
+    id_number: '4613340436'
+    id_country: Russia
+  - uid: '139822'
+    id_type: Gender
+    id_number: Male
+  - uid: '144088'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '170353'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '39821'
+    date_of_birth: 31 Mar 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '39997'
+    place_of_birth: Solnechnogorsk, Moscow, Russia
+    main_entry: 'true'
+remarks: "(Linked To: OOO YUNIDZHET)"

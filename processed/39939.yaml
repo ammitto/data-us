@@ -1,0 +1,49 @@
+---
+uid: '39939'
+first_name: Ameneh Sadat
+last_name: ZABIHPOUR
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13846
+aka_list:
+  items:
+  - uid: '62152'
+    type: a.k.a.
+    category: strong
+    last_name: ZABIH POUR
+    first_name: Ameneh Sadat
+  - uid: '62153'
+    type: a.k.a.
+    category: strong
+    last_name: ZABIHPOUR AHMADI
+    first_name: Ameneh Sadat
+address_list:
+  items:
+  - uid: '59530'
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '29179'
+    id_type: Passport
+    id_number: '09324611'
+    id_country: Iran
+    expiration_date: 05 Jul 2017
+  - uid: '156721'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '156722'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '56719'
+    date_of_birth: 07 Aug 1984
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '56720'
+    place_of_birth: Babol, Iran
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC REPUBLIC OF IRAN BROADCASTING)"

@@ -1,0 +1,33 @@
+---
+uid: '54803'
+first_name: Elisabetta
+last_name: CADEDDU
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '83729'
+    country: Italy
+id_list:
+  items:
+  - uid: '48564'
+    id_type: Passport
+    id_number: YB7094181
+    id_country: Italy
+    expiration_date: 26 Oct 2030
+  - uid: '191236'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '91235'
+    date_of_birth: 29 May 1967
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '91237'
+    place_of_birth: Iglesias, Italy
+    main_entry: 'true'
+remarks: "(Linked To: MAX ENERGY FUEL TRADING L.L.C)"

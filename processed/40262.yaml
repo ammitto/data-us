@@ -1,0 +1,48 @@
+---
+uid: '40262'
+first_name: Volodymyr Vitalyovych
+last_name: LIPANDIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '62634'
+    type: a.k.a.
+    category: strong
+    last_name: LIPANDIN
+    first_name: Vladimir Vitalievich
+address_list:
+  items:
+  - uid: '60016'
+    address1: 10 Mayakovskogo St
+    city: Kherson
+    state_or_province: Kherson Region
+    country: Ukraine
+id_list:
+  items:
+  - uid: '29448'
+    id_type: Tax ID No.
+    id_number: '2598011553'
+    id_country: Ukraine
+  - uid: '29449'
+    id_type: Passport
+    id_number: TT 103777
+    id_country: Ukraine
+  - uid: '174064'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '157387'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '57296'
+    date_of_birth: 17 Feb 1971
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '57297'
+    place_of_birth: Kyiv, Ukraine
+    main_entry: 'true'

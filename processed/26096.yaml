@@ -1,0 +1,45 @@
+---
+uid: '26096'
+first_name: Vladlen
+last_name: AMTCHENTSEV
+sdn_type: Individual
+program_list:
+  programs:
+  - DPRK3
+address_list:
+  items:
+  - uid: '39570'
+    country: Singapore
+id_list:
+  items:
+  - uid: '16778'
+    id_type: Passport
+    id_number: M00021291
+    id_country: South Africa
+    issue_date: 04 May 2010
+    expiration_date: 03 May 2020
+  - uid: '16782'
+    id_type: National ID No.
+    id_number: '6901256079081'
+    id_country: South Africa
+  - uid: '130417'
+    id_type: Gender
+    id_number: Male
+  - uid: '130418'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '135257'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+date_of_birth_list:
+  items:
+  - uid: '30414'
+    date_of_birth: 25 Jan 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '30415'
+    place_of_birth: Klimovsk, Russia
+    main_entry: 'true'
+remarks: "(Linked To: VELMUR MANAGEMENT PTE LTD)"

@@ -1,0 +1,48 @@
+---
+uid: '56541'
+first_name: Mateo Andres
+last_name: DUQUE BOTERO
+sdn_type: Individual
+program_list:
+  programs:
+  - SUDAN-EO14098
+address_list:
+  items:
+  - uid: '86530'
+    address1: Calle 77 9 76 APT 302
+    city: Bogota
+    country: Colombia
+id_list:
+  items:
+  - uid: '50569'
+    id_type: Cedula No.
+    id_number: '79782423'
+    id_country: Colombia
+  - uid: '50571'
+    id_type: Passport
+    id_number: AS272175
+    id_country: Colombia
+    expiration_date: 31 Mar 2026
+  - uid: '50572'
+    id_type: Passport
+    id_number: XDD789846
+    id_country: Spain
+  - uid: '50573'
+    id_type: Passport
+    id_number: BF868819
+    id_country: Colombia
+    expiration_date: 01 Mar 2035
+  - uid: '194965'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '94961'
+    date_of_birth: 07 Apr 1975
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '94962'
+    place_of_birth: Bogota, Colombia
+    main_entry: 'true'
+remarks: "(Linked To: MAINE GLOBAL CORP S.A.S.)"

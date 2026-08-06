@@ -1,0 +1,55 @@
+---
+uid: '11472'
+first_name: Nora
+last_name: MEJIA ARTEAGA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNT
+address_list:
+  items:
+  - uid: '17066'
+    address1: c/o AGROESPINAL S.A.
+    city: Medellin
+    country: Colombia
+  - uid: '17067'
+    address1: c/o AGROGANADERA LOS SANTOS S.A.
+    city: Medellin
+    country: Colombia
+  - uid: '17068'
+    address1: c/o ASES DE COMPETENCIA Y CIA. S.A.
+    city: Medellin
+    country: Colombia
+  - uid: '17069'
+    address1: c/o FRANZUL S.A.
+    city: Medellin
+    country: Colombia
+  - uid: '17070'
+    address1: c/o GRUPO FALCON S.A.
+    city: Medellin
+    country: Colombia
+  - uid: '17071'
+    address1: c/o HIERROS DE JERUSALEM S.A.
+    city: Medellin
+    country: Colombia
+  - uid: '17072'
+    address1: c/o LLANOTOUR LTDA.
+    city: Rionegro
+    state_or_province: Antioquia
+    country: Colombia
+id_list:
+  items:
+  - uid: '5868'
+    id_type: Cedula No.
+    id_number: '32488894'
+    id_country: Colombia
+date_of_birth_list:
+  items:
+  - uid: '6879'
+    date_of_birth: '08 Mar 1946'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '6880'
+    place_of_birth: Medellin, Colombia
+    main_entry: 'true'

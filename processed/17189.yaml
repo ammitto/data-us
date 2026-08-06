@@ -1,0 +1,47 @@
+---
+uid: '17189'
+first_name: Hamid Hamad Hamid
+last_name: AL-'ALI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '26432'
+    type: a.k.a.
+    category: strong
+    last_name: AL-'ALI
+    first_name: Hamid Hamad
+  - uid: '26433'
+    type: a.k.a.
+    category: strong
+    last_name: AL-'ALI
+    first_name: Hamad Hamid
+  - uid: '26434'
+    type: a.k.a.
+    category: weak
+    last_name: ABU SULTAN
+id_list:
+  items:
+  - uid: '9611'
+    id_type: Passport
+    id_number: '001714467'
+    id_country: Kuwait
+  - uid: '9612'
+    id_type: Passport
+    id_number: '101505554'
+  - uid: '186785'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '16012'
+    date_of_birth: 17 Nov 1960
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '16013'
+    place_of_birth: Qatar
+    main_entry: 'true'

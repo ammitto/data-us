@@ -1,0 +1,37 @@
+---
+uid: '31533'
+first_name: Julio Modesto
+last_name: RODRIGUEZ BALLADARES
+sdn_type: Individual
+program_list:
+  programs:
+  - NICARAGUA
+address_list:
+  items:
+  - uid: '48445'
+    country: Nicaragua
+id_list:
+  items:
+  - uid: '21437'
+    id_type: Passport
+    id_number: C01659683
+    id_country: Nicaragua
+    issue_date: 14 Apr 2014
+    expiration_date: 14 Apr 2024
+  - uid: '21613'
+    id_type: National ID No.
+    id_number: 0012201630050J
+    id_country: Nicaragua
+  - uid: '140049'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '40048'
+    date_of_birth: 22 Jan 1963
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '40050'
+    place_of_birth: Nicaragua
+    main_entry: 'true'

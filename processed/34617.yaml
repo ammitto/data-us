@@ -1,0 +1,48 @@
+---
+uid: '34617'
+last_name: TEKHNOLOGII KREDITOVANIYA LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54188'
+    type: a.k.a.
+    category: strong
+    last_name: OOO TEHNOLOGII KREDITOVANYA
+  - uid: '54189'
+    type: a.k.a.
+    category: strong
+    last_name: OOO LENDING TECHNOLOGIES
+address_list:
+  items:
+  - uid: '51827'
+    address1: Room 1.104, 23/1 Vavilova St.
+    city: Moscow
+    postal_code: '117312'
+    country: Russia
+id_list:
+  items:
+  - uid: '24217'
+    id_type: Registration Number
+    id_number: '1187746782519'
+    id_country: Russia
+  - uid: '24218'
+    id_type: Tax ID No.
+    id_number: '7736317458'
+    id_country: Russia
+  - uid: '175150'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '146724'
+    id_type: Executive Order 14024 Directive Information -
+    id_number: 'For more information on directives, please visit the following link:
+      https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives'
+  - uid: '146896'
+    id_type: 'Listing Date (EO 14024 Directive 2):'
+    id_number: 24 Feb 2022
+  - uid: '146897'
+    id_type: 'Effective Date (EO 14024 Directive 2):'
+    id_number: 26 Mar 2022
+remarks: "(Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)"

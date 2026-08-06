@@ -1,0 +1,30 @@
+---
+uid: '21107'
+last_name: LLC RUSCHEMTRADE
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13685
+address_list:
+  items:
+  - uid: '32132'
+    address1: st. Mashinostroitelnyj, 3
+    city: Rostov-on-Don
+    postal_code: '344090'
+    country: Russia
+  - uid: '32137'
+    address1: 86/1
+    city: Temryuk
+    state_or_province: Krasnodar
+    postal_code: '353500'
+    country: Russia
+id_list:
+  items:
+  - uid: '143863'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '121927'
+    id_type: Website
+    id_number: http://ruschemtrade.com
+remarks: "(Linked To: OJSC SOVFRACHT)"

@@ -1,0 +1,36 @@
+---
+uid: '52176'
+last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU MTV
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '81710'
+    type: a.k.a.
+    category: strong
+    last_name: MTV HOLDING
+address_list:
+  items:
+  - uid: '79648'
+    address1: d. 15 pom. 6102, proezd 1-I Krasnogvardeiski
+    city: Moscow
+    postal_code: '123112'
+    country: Russia
+id_list:
+  items:
+  - uid: '45071'
+    id_type: Registration Number
+    id_number: '1177746828181'
+    id_country: Russia
+  - uid: '45072'
+    id_type: Tax ID No.
+    id_number: '7704440000'
+    id_country: Russia
+  - uid: '183103'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183614'
+    id_type: 'Organization Type:'
+    id_number: Computer programming activities

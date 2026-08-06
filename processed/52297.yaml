@@ -1,0 +1,44 @@
+---
+uid: '52297'
+first_name: Wail Muhammad Said
+last_name: ABD-AL-WADUD
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '81920'
+    type: a.k.a.
+    category: strong
+    last_name: ABDULWADOD
+    first_name: Wail Mohammed Saeed
+address_list:
+  items:
+  - uid: '79885'
+    country: Yemen
+id_list:
+  items:
+  - uid: '45252'
+    id_type: Passport
+    id_number: '07872046'
+    id_country: Yemen
+    expiration_date: 25 Jul 2028
+  - uid: '183691'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '183687'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '83689'
+    date_of_birth: 10 Feb 1994
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '83690'
+    place_of_birth: Hodaidah, Yemen
+    main_entry: 'true'
+remarks: "(Linked To: ANSARALLAH)"

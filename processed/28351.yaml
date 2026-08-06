@@ -1,0 +1,32 @@
+---
+uid: '28351'
+first_name: Sergei Andreevich
+last_name: DANILENKO
+sdn_type: Individual
+program_list:
+  programs:
+  - UKRAINE-EO13660
+address_list:
+  items:
+  - uid: '42940'
+    city: Sevastopol
+    country: Ukraine
+id_list:
+  items:
+  - uid: '133880'
+    id_type: Gender
+    id_number: Male
+  - uid: '144123'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+date_of_birth_list:
+  items:
+  - uid: '33875'
+    date_of_birth: 14 Mar 1960
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '33877'
+    place_of_birth: Krasnodar, Russia
+    main_entry: 'true'

@@ -1,0 +1,39 @@
+---
+uid: '47989'
+last_name: OOO STANDARD LINE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74468'
+    type: a.k.a.
+    category: strong
+    last_name: OOO STANDART LAIN
+address_list:
+  items:
+  - uid: '71905'
+    address1: ul. Ilyushina (Aviatsionny Mkr.), str. 2A, pom. 64
+    city: Domodedovo
+    state_or_province: Moscow
+    postal_code: '142007'
+    country: Russia
+  - uid: '71907'
+    address1: sh. Kashirskoe d.7
+    city: Domodedovo
+    postal_code: '142000'
+    country: Russia
+id_list:
+  items:
+  - uid: '38844'
+    id_type: Registration Number
+    id_number: '1125009001655'
+    id_country: Russia
+  - uid: '38845'
+    id_type: Tax ID No.
+    id_number: '5009082825'
+    id_country: Russia
+  - uid: '176573'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

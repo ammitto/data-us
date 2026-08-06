@@ -1,0 +1,33 @@
+---
+uid: '34102'
+first_name: Mohsen
+last_name: EBRAHIMI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+address_list:
+  items:
+  - uid: '51116'
+    country: Iran
+id_list:
+  items:
+  - uid: '23738'
+    id_type: National ID No.
+    id_number: '48107174'
+    id_country: Iran
+  - uid: '145178'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '145180'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '45181'
+    date_of_birth: '1961'
+    main_entry: 'true'
+  - uid: '45182'
+    date_of_birth: '1962'
+    main_entry: 'false'
+remarks: "(Linked To: IRAN'S COUNTER-TERROR SPECIAL FORCES)"

@@ -1,0 +1,55 @@
+---
+uid: '57860'
+first_name: Mohammad Shakol
+last_name: MIHANDOUST
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '89488'
+    type: a.k.a.
+    category: strong
+    last_name: SHAKOOR
+    first_name: Haji Muhammad
+  - uid: '89489'
+    type: a.k.a.
+    category: strong
+    last_name: SHAKOOR
+    first_name: Muhammad
+address_list:
+  items:
+  - uid: '88749'
+    country: United Arab Emirates
+  - uid: '88750'
+    country: Turkey
+id_list:
+  items:
+  - uid: '52359'
+    id_type: National ID No.
+    id_number: '18986951490'
+    id_country: Turkey
+  - uid: '52360'
+    id_type: Passport
+    id_number: U23085392
+    id_country: Turkey
+    expiration_date: 31 Jan 2030
+  - uid: '52421'
+    id_type: Passport
+    id_number: U33171256
+    id_country: Turkey
+    expiration_date: 20 Feb 2034
+  - uid: '198530'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '98526'
+    date_of_birth: 24 Nov 1982
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '98529'
+    place_of_birth: Chabar, Iran
+    main_entry: 'true'

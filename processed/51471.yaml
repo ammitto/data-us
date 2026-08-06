@@ -1,0 +1,36 @@
+---
+uid: '51471'
+last_name: JSC SERVICE REESTR
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80718'
+    type: a.k.a.
+    category: strong
+    last_name: AO SERVICE REESTR
+address_list:
+  items:
+  - uid: '78429'
+    address1: Ul. Sretenka D. 12
+    city: Moscow
+    postal_code: '107045'
+    country: Russia
+id_list:
+  items:
+  - uid: '43835'
+    id_type: Registration Number
+    id_number: '1028601354055'
+    id_country: Russia
+  - uid: '43836'
+    id_type: Tax ID No.
+    id_number: '8605006147'
+    id_country: Russia
+  - uid: '182827'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '181011'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

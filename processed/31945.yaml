@@ -1,0 +1,47 @@
+---
+uid: '31945'
+first_name: Win
+last_name: SHEIN
+sdn_type: Individual
+program_list:
+  programs:
+  - BURMA-EO14014
+aka_list:
+  items:
+  - uid: '50062'
+    type: a.k.a.
+    category: strong
+    last_name: SHEIN
+    first_name: U Win
+address_list:
+  items:
+  - uid: '48050'
+    address1: Myananyadanar
+    city: Naypyitaw
+    country: Burma
+id_list:
+  items:
+  - uid: '21746'
+    id_type: Passport
+    id_number: DM001478
+    id_country: Burma
+    issue_date: 10 Sep 2012
+    expiration_date: '09 Sep 2022'
+  - uid: '21747'
+    id_type: National ID No.
+    id_number: 12DAGANA011336
+    id_country: Burma
+  - uid: '140592'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '40591'
+    date_of_birth: 31 Jul 1957
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '40593'
+    place_of_birth: Mandalay, Burma
+    main_entry: 'true'
+title: Minister for Planning, Finance, and Industry

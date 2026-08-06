@@ -1,0 +1,40 @@
+---
+uid: '50292'
+last_name: JOINT STOCK COMPANY OKTAVA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78577'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO OKTAVA
+  - uid: '78578'
+    type: a.k.a.
+    category: strong
+    last_name: OKTAVA PLANT
+address_list:
+  items:
+  - uid: '76185'
+    address1: D. 24 Kaminskogo ul.
+    city: Tula
+    postal_code: '300000'
+    country: Russia
+id_list:
+  items:
+  - uid: '41995'
+    id_type: Registration Number
+    id_number: '1027100967740'
+    id_country: Russia
+  - uid: '41996'
+    id_type: Tax ID No.
+    id_number: '7107033763'
+    id_country: Russia
+  - uid: '178147'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '178146'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

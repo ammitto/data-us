@@ -1,0 +1,49 @@
+---
+uid: '38096'
+last_name: NOVASTREAM LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '60455'
+    type: a.k.a.
+    category: strong
+    last_name: LLC NOVASTREAM
+  - uid: '60456'
+    type: a.k.a.
+    category: strong
+    last_name: OOO NOVASTREAM
+  - uid: '60766'
+    type: a.k.a.
+    category: strong
+    last_name: NOVASTREAM LTD
+address_list:
+  items:
+  - uid: '58004'
+    address1: Ul. Severnaya D. 2A
+    address2: Pomeshch. 51
+    city: Vladimir
+    postal_code: '600007'
+    country: Russia
+id_list:
+  items:
+  - uid: '28157'
+    id_type: Registration Number
+    id_number: '1223300003079'
+    id_country: Russia
+  - uid: '28158'
+    id_type: Tax ID No.
+    id_number: '3329101270'
+    id_country: Russia
+  - uid: '174629'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '153388'
+    id_type: 'Organization Type:'
+    id_number: Wholesale of other machinery and equipment
+  - uid: '154527'
+    id_type: Organization Established Date
+    id_number: 22 Apr 2022
+remarks: "(Linked To: RADIOAVTOMATIKA LLC)"

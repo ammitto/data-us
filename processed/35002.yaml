@@ -1,0 +1,43 @@
+---
+uid: '35002'
+last_name: LLC RESORT ZOLOTOE KOLTSO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '55049'
+    type: a.k.a.
+    category: strong
+    last_name: LLC KURORT ZOLOTOE KOLTSO
+  - uid: '55050'
+    type: a.k.a.
+    category: strong
+    last_name: KURORT ZOLOTOE KOLTSO
+address_list:
+  items:
+  - uid: '52538'
+    address1: ul. Svobody D. 8, office 6, g. Pereslavl-Zalesskii
+    postal_code: '152020'
+    country: Russia
+  - uid: '52539'
+    address1: Shosse Varshavskoe D 47, korp 4
+    city: Moscow
+    postal_code: '114230'
+    country: Russia
+id_list:
+  items:
+  - uid: '24705'
+    id_type: Registration Number
+    id_number: '1157746795733'
+    id_country: Russia
+  - uid: '24706'
+    id_type: Tax ID No.
+    id_number: '7724331673'
+    id_country: Russia
+  - uid: '175224'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: STATE CORPORATION BANK FOR DEVELOPMENT AND FOREIGN ECONOMIC
+  AFFAIRS VNESHECONOMBANK)"

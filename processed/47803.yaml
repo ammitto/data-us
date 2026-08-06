@@ -1,0 +1,34 @@
+---
+uid: '47803'
+last_name: LIMITED LIABILITY COMPANY API FAKTORI
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74156'
+    type: a.k.a.
+    category: strong
+    last_name: OOO API FAKTORI
+address_list:
+  items:
+  - uid: '71525'
+    address1: 42 Bolshoy Boulevard, Building 1
+    city: Moscow
+    postal_code: '121205'
+    country: Russia
+id_list:
+  items:
+  - uid: '38501'
+    id_type: Tax ID No.
+    id_number: '9731065480'
+    id_country: Russia
+  - uid: '38502'
+    id_type: Registration Number
+    id_number: '1207700201114'
+    id_country: Russia
+  - uid: '176459'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: JOINT STOCK COMPANY RIMERA)"

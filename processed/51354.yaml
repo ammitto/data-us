@@ -1,0 +1,36 @@
+---
+uid: '51354'
+last_name: CERES SHIPPING LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '80575'
+    type: a.k.a.
+    category: strong
+    last_name: CERES SHIPPING LTD-HKG
+address_list:
+  items:
+  - uid: '78254'
+    address1: Room 2703, Richmond Comm. Bldg., 109 Argyle Street
+    address2: Mongkok, Kowloon
+    city: Hong Kong
+    country: China
+id_list:
+  items:
+  - uid: '43697'
+    id_type: Identification Number
+    id_number: IMO 6126330
+  - uid: '43698'
+    id_type: Company Number
+    id_number: '2874294'
+    id_country: Hong Kong
+  - uid: '43699'
+    id_type: Business Registration Number
+    id_number: '71177840'
+    id_country: Hong Kong
+  - uid: '180824'
+    id_type: Organization Established Date
+    id_number: 17 Sep 2019

@@ -1,0 +1,31 @@
+---
+uid: '17147'
+first_name: Alejandro
+last_name: CABRERA SARABIA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+id_list:
+  items:
+  - uid: '9596'
+    id_type: RFC
+    id_number: CASA-730717-664
+    id_country: Mexico
+  - uid: '9597'
+    id_type: C.U.R.P.
+    id_number: CASA730717HDGBRL00
+    id_country: Mexico
+  - uid: '116300'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '15927'
+    date_of_birth: 17 Jul 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '15928'
+    place_of_birth: Santiago Papasquiaro, Durango, Mexico
+    main_entry: 'true'

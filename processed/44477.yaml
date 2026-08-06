@@ -1,0 +1,49 @@
+---
+uid: '44477'
+first_name: Vitalij Viktorovic
+last_name: PERFILEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '68750'
+    type: a.k.a.
+    category: strong
+    last_name: PERFYLYEV
+    first_name: Vitalij Viktorovvij
+  - uid: '68751'
+    type: a.k.a.
+    category: strong
+    last_name: PERFILEV
+    first_name: Vitalii Viktorovitch
+address_list:
+  items:
+  - uid: '66225'
+    city: Bangui
+    country: Central African Republic
+id_list:
+  items:
+  - uid: '33976'
+    id_type: Passport
+    id_number: '752987491'
+    id_country: Russia
+    expiration_date: 30 Mar 2026
+  - uid: '173777'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '165520'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '64328'
+    date_of_birth: 11 Sep 1983
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '64330'
+    place_of_birth: Novosibirsk, Russian Federation
+    main_entry: 'true'
+remarks: "(Linked To: PRIVATE MILITARY COMPANY 'WAGNER')"

@@ -1,0 +1,31 @@
+---
+uid: '28343'
+first_name: Ali Akbar
+last_name: SALEHI
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+address_list:
+  items:
+  - uid: '42930'
+    country: Iran
+id_list:
+  items:
+  - uid: '133847'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '133869'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '33845'
+    date_of_birth: 24 Mar 1949
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '33846'
+    place_of_birth: Karbala, Iraq
+    main_entry: 'true'

@@ -1,0 +1,53 @@
+---
+uid: '28571'
+first_name: Ahmad
+last_name: AL-HAMIDAWI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '44949'
+    type: a.k.a.
+    category: strong
+    last_name: AL-HAMIDAWI
+    first_name: Ahmad Muhsin Faraj
+  - uid: '44950'
+    type: a.k.a.
+    category: strong
+    last_name: AL-SAEDI
+    first_name: Ahmed Kadhim Raheem
+  - uid: '44951'
+    type: a.k.a.
+    category: strong
+    last_name: AL-SA'IDI
+    first_name: Ahmad Kazim Rahim
+  - uid: '44952'
+    type: a.k.a.
+    category: weak
+    last_name: HUSAYN, Abu
+address_list:
+  items:
+  - uid: '43214'
+    city: Baghdad
+    country: Iraq
+id_list:
+  items:
+  - uid: '134358'
+    id_type: Gender
+    id_number: Male
+  - uid: '187028'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '34355'
+    date_of_birth: 25 Mar 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '34356'
+    place_of_birth: Iraq
+    main_entry: 'true'

@@ -1,0 +1,52 @@
+---
+uid: '26787'
+first_name: Juan Carlos
+last_name: CRUZ OVALLE
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '42300'
+    type: a.k.a.
+    category: weak
+    last_name: EL HIELERO
+address_list:
+  items:
+  - uid: '40601'
+    address1: 5 Calle, 1-35, Zona 1
+    city: Tecun Uman, Ayutla
+    state_or_province: San Marcos
+    country: Guatemala
+id_list:
+  items:
+  - uid: '17439'
+    id_type: 'NIT #'
+    id_number: 844191K
+    id_country: Guatemala
+  - uid: '17440'
+    id_type: Cedula No.
+    id_number: L-1225277
+    id_country: Guatemala
+  - uid: '17460'
+    id_type: C.U.I.
+    id_number: '1678215981801'
+    id_country: Guatemala
+  - uid: '131537'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '31535'
+    date_of_birth: 11 Sep 1975
+    main_entry: 'true'
+  - uid: '32812'
+    date_of_birth: 06 Nov 1975
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '31536'
+    place_of_birth: Puerto Barrios, Izabal, Guatemala
+    main_entry: 'true'
+remarks: "(Linked To: JC CAR AUDIO; Linked To: STAR MARKET MELANYE)"

@@ -1,0 +1,34 @@
+---
+uid: '47574'
+last_name: JOINT STOCK COMPANY GAZPROM SPACE SYSTEMS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73653'
+    type: a.k.a.
+    category: strong
+    last_name: GAZPROM KOSMICHESKIE SISTEMY AO
+address_list:
+  items:
+  - uid: '71052'
+    address1: ul. Moskovskaya
+    address2: d. 77, lit. B
+    city: Shchelkovo
+    postal_code: '141108'
+    country: Russia
+id_list:
+  items:
+  - uid: '38110'
+    id_type: Tax ID No.
+    id_number: '5018035691'
+    id_country: Russia
+  - uid: '38111'
+    id_type: Registration Number
+    id_number: '1025002045177'
+    id_country: Russia
+  - uid: '169781'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

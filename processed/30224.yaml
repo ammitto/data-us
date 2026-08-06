@@ -1,0 +1,55 @@
+---
+uid: '30224'
+first_name: Lin Na
+last_name: WEI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13846
+aka_list:
+  items:
+  - uid: '47385'
+    type: a.k.a.
+    category: strong
+    last_name: WEI
+    first_name: Linna
+address_list:
+  items:
+  - uid: '45659'
+    address1: No. 5, The Lotus Pond, Hecheng District
+    city: Huaihua
+    state_or_province: Hunan Province
+    country: China
+id_list:
+  items:
+  - uid: '20335'
+    id_type: National ID No.
+    id_number: '520103198011285623'
+    id_country: China
+  - uid: '137685'
+    id_type: Gender
+    id_number: Female
+  - uid: '137688'
+    id_type: 'Executive Order 13846 information:'
+    id_number: FOREIGN EXCHANGE.  Sec. 5(a)(ii)
+  - uid: '137689'
+    id_type: 'Executive Order 13846 information:'
+    id_number: BANKING TRANSACTIONS.  Sec. 5(a)(iii)
+  - uid: '137690'
+    id_type: 'Executive Order 13846 information:'
+    id_number: BLOCKING PROPERTY AND INTERESTS IN PROPERTY.  Sec. 5(a)(iv)
+  - uid: '137691'
+    id_type: 'Executive Order 13846 information:'
+    id_number: IMPORT SANCTIONS.  Sec. 5(a)(vi)
+date_of_birth_list:
+  items:
+  - uid: '37686'
+    date_of_birth: 28 Nov 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '37687'
+    place_of_birth: Yunyan District, Guiyang, Guizhou Province, China
+    main_entry: 'true'
+remarks: "(Linked To: BINRIN LIMITED)"
+title: Director of Binrin Limited

@@ -1,0 +1,53 @@
+---
+uid: '29543'
+first_name: Zuoyou
+last_name: LIN
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13846
+address_list:
+  items:
+  - uid: '44602'
+    address1: Jinxing Village, Shitang Town
+    city: Wenling City
+    state_or_province: Zhejiang
+    country: China
+  - uid: '44603'
+    address1: No. 445, Xia Hu, Che Guan Village, Shitang Town
+    city: Wenling City
+    state_or_province: Zhejiang
+    country: China
+id_list:
+  items:
+  - uid: '19728'
+    id_type: Residency Number
+    id_number: '332623197504107459'
+    id_country: China
+  - uid: '136407'
+    id_type: 'Executive Order 13846 information:'
+    id_number: FOREIGN EXCHANGE.  Sec. 5(a)(ii)
+  - uid: '136408'
+    id_type: 'Executive Order 13846 information:'
+    id_number: BANKING TRANSACTIONS.  Sec. 5(a)(iii)
+  - uid: '136409'
+    id_type: 'Executive Order 13846 information:'
+    id_number: BLOCKING PROPERTY AND INTERESTS IN PROPERTY.  Sec. 5(a)(iv)
+  - uid: '136410'
+    id_type: 'Executive Order 13846 information:'
+    id_number: IMPORT SANCTIONS.  Sec. 5(a)(vi)
+  - uid: '136364'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '36562'
+    date_of_birth: 10 Apr 1975
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '36365'
+    place_of_birth: Wenling County, Taizhou District, Zhejiang Province, China
+    main_entry: 'true'
+remarks: "(Linked To: SINO ENERGY SHIPPING HONGKONG LIMITED)"
+title: Director

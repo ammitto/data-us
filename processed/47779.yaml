@@ -1,0 +1,51 @@
+---
+uid: '47779'
+first_name: Stanislav Alexandrovich
+last_name: ORLOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74114'
+    type: a.k.a.
+    category: weak
+    last_name: Spaniard
+address_list:
+  items:
+  - uid: '71478'
+    address1: 4 Fomichevoi Street, Apartment 3
+    city: Moscow
+    postal_code: '125481'
+    country: Russia
+id_list:
+  items:
+  - uid: '38460'
+    id_type: Passport
+    id_number: '4507686257'
+    id_country: Russia
+  - uid: '38461'
+    id_type: Tax ID No.
+    id_number: '773370193596'
+    id_country: Russia
+  - uid: '38463'
+    id_type: National ID No.
+    id_number: '11308319818'
+    id_country: Russia
+  - uid: '169279'
+    id_type: Gender
+    id_number: Male
+  - uid: '176442'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '69276'
+    date_of_birth: 21 Feb 1981
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '69277'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'

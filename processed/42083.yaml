@@ -1,0 +1,41 @@
+---
+uid: '42083'
+last_name: LIMITED LIABILITY COMPANY FORUM
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65445'
+    type: a.k.a.
+    category: weak
+    last_name: OOO FORUM
+address_list:
+  items:
+  - uid: '62838'
+    address1: 15 Olimpiyskaya Street, Suite 8, Novogorsk Micro District
+    city: Khimki
+    state_or_province: Moscow Oblast
+    postal_code: '141435'
+    country: Russia
+id_list:
+  items:
+  - uid: '31549'
+    id_type: Tax ID No.
+    id_number: '7703600646'
+    id_country: Russia
+  - uid: '31550'
+    id_type: Registration Number
+    id_number: '1067746829292'
+    id_country: Russia
+  - uid: '160336'
+    id_type: 'Organization Type:'
+    id_number: Real estate activities with own or leased property
+  - uid: '160335'
+    id_type: Organization Established Date
+    id_number: 19 Jul 2006
+  - uid: '175397'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: USMANOV, Alisher Burhanovich)"

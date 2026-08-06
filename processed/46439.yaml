@@ -1,0 +1,42 @@
+---
+uid: '46439'
+last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU PLAZ
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '71656'
+    type: a.k.a.
+    category: weak
+    last_name: PLAZ, OOO
+address_list:
+  items:
+  - uid: '69071'
+    address1: ul. Politekhnicheskaya, D. 22
+    address2: Lit. V, Pomeshch. 1-N
+    city: Saint Petersburg
+    state_or_province: Northwest Federal Region
+    postal_code: '194021'
+    country: Russia
+id_list:
+  items:
+  - uid: '36315'
+    id_type: Business Registration Number
+    id_number: '5067847004341'
+    id_country: Russia
+  - uid: '36317'
+    id_type: Government Gazette Number
+    id_number: '94599428'
+    id_country: Russia
+  - uid: '36319'
+    id_type: Tax ID No.
+    id_number: '7816388172'
+    id_country: Russia
+  - uid: '174959'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '167216'
+    id_type: Organization Established Date
+    id_number: 06 May 2006

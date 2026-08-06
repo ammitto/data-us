@@ -1,0 +1,33 @@
+---
+uid: '11722'
+first_name: Maureen Patricia
+last_name: GUTIERREZ BARBOZA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '17689'
+    address1: c/o ILC EXPORTACIONES, S. DE R.L. DE C.V.
+    city: Mexico
+    state_or_province: Distrito Federal
+    country: Mexico
+  - uid: '17690'
+    country: Mexico
+id_list:
+  items:
+  - uid: '6090'
+    id_type: Cedula No.
+    id_number: '108390780'
+    id_country: Costa Rica
+date_of_birth_list:
+  items:
+  - uid: '7163'
+    date_of_birth: 11 Jun 1972
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '7164'
+    place_of_birth: Carmen Central San Jose, Costa Rica
+    main_entry: 'true'

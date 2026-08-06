@@ -1,0 +1,35 @@
+---
+uid: '47432'
+last_name: UNIMATIK MSK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73360'
+    type: a.k.a.
+    category: weak
+    last_name: UNIMATIC
+address_list:
+  items:
+  - uid: '70741'
+    address1: B-R Osennii D. 23
+    address2: Pomeshch. I
+    address3: Kom. 5
+    city: Moscow
+    postal_code: '121609'
+    country: Russia
+id_list:
+  items:
+  - uid: '37850'
+    id_type: Registration Number
+    id_number: '1207700161789'
+    id_country: Russia
+  - uid: '37851'
+    id_type: Tax ID No.
+    id_number: '7714460133'
+    id_country: Russia
+  - uid: '169788'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

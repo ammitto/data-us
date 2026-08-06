@@ -1,0 +1,58 @@
+---
+uid: '19586'
+last_name: KOREA OCEAN SHIPPING AGENCY
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK3
+address_list:
+  items:
+  - uid: '29739'
+    address1: Moranbong District
+    city: Pyongyang
+    country: Korea, North
+  - uid: '29740'
+    address1: Namp'o Branch
+    city: Namp'o
+    state_or_province: South P'yo'ngan Province
+    country: Korea, North
+  - uid: '29741'
+    address1: Hungnam Branch
+    city: Hungnam
+    state_or_province: South Hamgyong Province
+    country: Korea, North
+  - uid: '29742'
+    address1: Chongjin Branch
+    address2: Songphyong District
+    city: Chongjin
+    state_or_province: North Hamgyong Province
+    country: Korea, North
+  - uid: '29743'
+    address1: Haeju Branch
+    city: Haeju
+    state_or_province: South Hwanghae Province
+    country: Korea, North
+  - uid: '29744'
+    address1: Songnim Branch
+    city: Songnim
+    state_or_province: North Hwanghae Province
+    country: Korea, North
+  - uid: '29745'
+    address1: Wonsan Branch
+    city: Wonsan
+    state_or_province: Kangwon Province
+    country: Korea, North
+  - uid: '29746'
+    address1: Rason Branch
+    city: Rason
+    state_or_province: North Hamgyong Province
+    country: Korea, North
+id_list:
+  items:
+  - uid: '135057'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '127142'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210

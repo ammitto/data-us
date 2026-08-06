@@ -1,0 +1,35 @@
+---
+uid: '11768'
+first_name: Orlando
+last_name: CIFUENTES VARGAS
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNT
+aka_list:
+  items:
+  - uid: '12548'
+    type: a.k.a.
+    category: weak
+    last_name: EL CHUTE
+address_list:
+  items:
+  - uid: '17784'
+    address1: c/o RESTAURANTE BAR PUNTA DEL ESTE
+    city: Cali
+    country: Colombia
+  - uid: '17785'
+    address1: c/o SERVIAGRICOLA CIFUENTES E.U.
+    city: Cali
+    country: Colombia
+id_list:
+  items:
+  - uid: '6133'
+    id_type: Cedula No.
+    id_number: '14890941'
+    id_country: Colombia
+date_of_birth_list:
+  items:
+  - uid: '7267'
+    date_of_birth: 10 Jun 1965
+    main_entry: 'true'

@@ -1,0 +1,44 @@
+---
+uid: '16179'
+last_name: PALMA DEL BAJO AGUAN, S.A.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '24325'
+    type: a.k.a.
+    category: strong
+    last_name: PALBASA
+  - uid: '24326'
+    type: a.k.a.
+    category: strong
+    last_name: PALMAS DEL BAJO AGUAN
+  - uid: '24327'
+    type: a.k.a.
+    category: weak
+    last_name: PALMEROS DEL BAJO AGUAN
+address_list:
+  items:
+  - uid: '24345'
+    city: Tocoa
+    state_or_province: Colon
+    country: Honduras
+  - uid: '24347'
+    address1: El Centro Principal
+    address2: 1 Ave 2 Cll
+    address3: No. 13
+    city: Tocoa
+    state_or_province: Colon
+    country: Honduras
+  - uid: '24349'
+    city: Chacalpa, Bajo Aguan
+    state_or_province: Colon
+    country: Honduras
+id_list:
+  items:
+  - uid: '8799'
+    id_type: RTN
+    id_number: '05019007109210'
+    id_country: Honduras

@@ -1,0 +1,43 @@
+---
+uid: '7942'
+first_name: Aschraf
+last_name: AL-DAGMA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '6688'
+    type: a.k.a.
+    category: weak
+    last_name: NOOR
+address_list:
+  items:
+  - uid: '6867'
+    address1: Clemens-August Strasse 10, Kolpinghaus
+    city: Beckum
+    postal_code: '59269'
+    country: Germany
+  - uid: '6868'
+    address1: Leipziger Strasse 64
+    city: Altenburg
+    postal_code: '04600'
+    country: Germany
+id_list:
+  items:
+  - uid: '185757'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '2312'
+    date_of_birth: 28 Apr 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '2313'
+    place_of_birth: Abasan, Gaza Strip
+    main_entry: 'true'
+remarks: nationality possibly Palestinian;arrested 23 Apr 2002

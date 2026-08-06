@@ -1,0 +1,33 @@
+---
+uid: '53649'
+last_name: LUKOIL KALININGRADMORNEFT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '83628'
+    type: a.k.a.
+    category: strong
+    last_name: LUKOIL KMN
+address_list:
+  items:
+  - uid: '81869'
+    address1: Ul. Kievskaya D. 23
+    city: Kaliningrad
+    postal_code: '236039'
+    country: Russia
+id_list:
+  items:
+  - uid: '46968'
+    id_type: Registration Number
+    id_number: '1023901643061'
+    id_country: Russia
+  - uid: '46969'
+    id_type: Tax ID No.
+    id_number: '3900004998'
+    id_country: Russia
+  - uid: '188487'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

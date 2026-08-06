@@ -1,0 +1,33 @@
+---
+uid: '41008'
+last_name: JOINT STOCK COMPANY MARINE ARCTIC GEOLOGICAL EXPEDITION
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63903'
+    type: a.k.a.
+    category: weak
+    last_name: JSC MAGE
+address_list:
+  items:
+  - uid: '61255'
+    address1: Building 26, Sofi Perovskoy Street
+    city: Murmansk
+    postal_code: '183038'
+    country: Russia
+id_list:
+  items:
+  - uid: '30341'
+    id_type: Registration Number
+    id_number: '1025100841039'
+    id_country: Russia
+  - uid: '30343'
+    id_type: Tax ID No.
+    id_number: '5190100088'
+    id_country: Russia
+  - uid: '175357'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

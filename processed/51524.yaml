@@ -1,0 +1,45 @@
+---
+uid: '51524'
+last_name: AKTSIONERNOE OBSHCHESTVO SAMOTLORNEFTEPROMKHIM
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '80782'
+    type: a.k.a.
+    category: weak
+    last_name: AO SNPKH
+address_list:
+  items:
+  - uid: '78506'
+    address1: Ul. Industrialnaya D. 95
+    address2: Str. 1
+    city: Nizhnevartovsk
+    postal_code: '628600'
+    country: Russia
+  - uid: '78507'
+    address1: Ul. Industrialnaya ZD. 95
+    address2: Str. 1
+    city: Nizhnevartovsk
+    postal_code: '628616'
+    country: Russia
+id_list:
+  items:
+  - uid: '43929'
+    id_type: Registration Number
+    id_number: '1048600521408'
+    id_country: Russia
+  - uid: '43930'
+    id_type: Tax ID No.
+    id_number: '8603118208'
+    id_country: Russia
+  - uid: '181163'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183477'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

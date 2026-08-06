@@ -1,0 +1,44 @@
+---
+uid: '23014'
+first_name: Hyo'k
+last_name: CHU
+sdn_type: Individual
+program_list:
+  programs:
+  - DPRK4
+aka_list:
+  items:
+  - uid: '36148'
+    type: a.k.a.
+    category: strong
+    last_name: JU
+    first_name: Hyok
+address_list:
+  items:
+  - uid: '34741'
+    city: Vladivostok
+    country: Russia
+id_list:
+  items:
+  - uid: '14472'
+    id_type: Passport
+    id_number: '836420186'
+    id_country: Korea, North
+    issue_date: 28 Oct 2016
+    expiration_date: 28 Oct 2021
+  - uid: '127279'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '135162'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '124557'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '24555'
+    date_of_birth: 23 Nov 1986
+    main_entry: 'true'
+title: Foreign Trade Bank of the Democratic People's Republic of Korea representative

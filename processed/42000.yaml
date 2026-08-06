@@ -1,0 +1,28 @@
+---
+uid: '42000'
+last_name: MATRIKS ELEKTRONIKA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '62673'
+    address1: ul. Lineinaya d. 227
+    address2: office 201
+    city: Novosibirsk
+    postal_code: '630111'
+    country: Russia
+id_list:
+  items:
+  - uid: '31404'
+    id_type: Registration Number
+    id_number: '1175476088897'
+    id_country: Russia
+  - uid: '31405'
+    id_type: Tax ID No.
+    id_number: '5402035309'
+    id_country: Russia
+  - uid: '173734'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

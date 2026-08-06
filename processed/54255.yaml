@@ -1,0 +1,35 @@
+---
+uid: '54255'
+first_name: Farahnaz
+last_name: MESHKAT
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '82873'
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '47800'
+    id_type: National ID No.
+    id_number: '4578559319'
+    id_country: Iran
+  - uid: '189974'
+    id_type: Gender
+    id_number: Female
+  - uid: '190035'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '89975'
+    date_of_birth: 25 Aug 1967
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '89976'
+    place_of_birth: Damghan, Iran
+    main_entry: 'true'

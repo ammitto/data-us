@@ -1,0 +1,45 @@
+---
+uid: '32675'
+first_name: Dzmitry Iurevich
+last_name: HARA
+sdn_type: Individual
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '51257'
+    type: a.k.a.
+    category: strong
+    last_name: GORA
+    first_name: Dmitry Yurievich
+  - uid: '51258'
+    type: a.k.a.
+    category: strong
+    last_name: GORA
+    first_name: Dmitry Iurevich
+  - uid: '51259'
+    type: a.k.a.
+    category: strong
+    last_name: GORA
+    first_name: Dmitri
+address_list:
+  items:
+  - uid: '49188'
+    city: Minsk
+    country: Belarus
+id_list:
+  items:
+  - uid: '142290'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '42288'
+    date_of_birth: 04 May 1970
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '42291'
+    place_of_birth: Tbilisi, Georgia
+    main_entry: 'true'

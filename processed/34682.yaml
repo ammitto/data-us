@@ -1,0 +1,89 @@
+---
+uid: '34682'
+last_name: JOINT STOCK COMPANY ALFA-BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '54353'
+    type: a.k.a.
+    category: strong
+    last_name: ALFA-BANK
+  - uid: '54354'
+    type: a.k.a.
+    category: strong
+    last_name: JSC ALFA-BANK
+  - uid: '54359'
+    type: a.k.a.
+    category: strong
+    last_name: AO ALFA-BANK
+  - uid: '54360'
+    type: f.k.a.
+    category: strong
+    last_name: OPEN JOINT STOCK COMPANY ALFA-BANK
+address_list:
+  items:
+  - uid: '51939'
+    address1: Kalanchevskaya Street 27
+    city: Moscow
+    postal_code: '107078'
+    country: Russia
+  - uid: '51940'
+    address1: 27, Kalanchyovskaya Ul.
+    city: Moscow
+    postal_code: '107078'
+    country: Russia
+id_list:
+  items:
+  - uid: '24318'
+    id_type: Registration Number
+    id_number: '1027700067328'
+    id_country: Russia
+  - uid: '24319'
+    id_type: Tax ID No.
+    id_number: '7728168971'
+    id_country: Russia
+  - uid: '147116'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '147248'
+    id_type: Executive Order 14024 Directive Information -
+    id_number: 'For more information on directives, please visit the following link:
+      https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives'
+  - uid: '147247'
+    id_type: Executive Order 14024 Directive Information
+    id_number: Subject to Directive 3 - All transactions in, provision of financing
+      for, and other dealings in new debt of longer than 14 days maturity or new equity
+      where such new debt or new equity is issued on or after the 'Effective Date
+      (EO 14024 Directive)' associated with this name are prohibited.
+  - uid: '147250'
+    id_type: 'Listing Date (EO 14024 Directive 3):'
+    id_number: 24 Feb 2022
+  - uid: '147249'
+    id_type: 'Effective Date (EO 14024 Directive 3):'
+    id_number: 26 Mar 2022
+  - uid: '146078'
+    id_type: Organization Established Date
+    id_number: '1990'
+  - uid: '175177'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184255'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '147128'
+    id_type: BIK (RU)
+    id_number: '044525593'
+  - uid: '146079'
+    id_type: SWIFT/BIC
+    id_number: ALFARUMM
+  - uid: '146076'
+    id_type: Website
+    id_number: alfabank.ru
+  - uid: '146077'
+    id_type: Website
+    id_number: alfabank.com

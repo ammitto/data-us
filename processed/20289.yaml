@@ -1,0 +1,61 @@
+---
+uid: '20289'
+last_name: SMT-K
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13685
+aka_list:
+  items:
+  - uid: '32040'
+    type: a.k.a.
+    category: strong
+    last_name: SMT-CRIMEA
+  - uid: '32041'
+    type: a.k.a.
+    category: strong
+    last_name: OOO 'SMT-K'
+  - uid: '32042'
+    type: a.k.a.
+    category: strong
+    last_name: OOO 'CMT-K'
+  - uid: '32043'
+    type: a.k.a.
+    category: strong
+    last_name: SOVMORTRANS-CRIMEA
+  - uid: '32044'
+    type: a.k.a.
+    category: strong
+    last_name: KRYM SMT OOO LLC
+  - uid: '32045'
+    type: a.k.a.
+    category: strong
+    last_name: LLC CMT CRIMEA
+address_list:
+  items:
+  - uid: '30686'
+    address1: ul. Zoi Zhiltsovoy, d. 15
+    address2: office 51
+    city: Simferopol
+    state_or_province: Crimea
+    country: Ukraine
+  - uid: '30687'
+    address1: Vokzalnoye Highway 140
+    city: Kerch
+    country: Ukraine
+  - uid: '30688'
+    address1: Anapskoye Highway 1
+    city: Temryuk
+    country: Russia
+id_list:
+  items:
+  - uid: '143789'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '120782'
+    id_type: Email Address
+    id_number: info@smt-k.ru
+  - uid: '120783'
+    id_type: Email Address
+    id_number: info@parom-k.ru

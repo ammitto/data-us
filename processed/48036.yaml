@@ -1,0 +1,33 @@
+---
+uid: '48036'
+last_name: JOINT STOCK COMPANY PERVOURALSKIY NEW PIPE PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74562'
+    type: a.k.a.
+    category: weak
+    last_name: JSC PNTZ
+address_list:
+  items:
+  - uid: '72001'
+    address1: 1 Torgovaya Street
+    city: Pervouralsk
+    postal_code: '623100'
+    country: Russia
+id_list:
+  items:
+  - uid: '38924'
+    id_type: Registration Number
+    id_number: '1026601503840'
+    id_country: Russia
+  - uid: '38926'
+    id_type: Tax ID No.
+    id_number: '6625004271'
+    id_country: Russia
+  - uid: '176588'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

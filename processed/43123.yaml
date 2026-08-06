@@ -1,0 +1,47 @@
+---
+uid: '43123'
+last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTIU MEZHDUNARODNYE TRANSPORTNYE
+  USLUGI
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '66845'
+    type: a.k.a.
+    category: weak
+    last_name: OOO MTU
+  - uid: '66846'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY INTERNATIONAL TRANSPORTATION SERVICES
+  - uid: '66847'
+    type: a.k.a.
+    category: weak
+    last_name: ITS LLC
+address_list:
+  items:
+  - uid: '64348'
+    address1: ul. Pushkina, 66
+    city: Astrakhan
+    state_or_province: Astrakhan Oblast
+    postal_code: '414006'
+    country: Russia
+id_list:
+  items:
+  - uid: '32718'
+    id_type: Registration Number
+    id_number: '1047796470226'
+    id_country: Russia
+  - uid: '32719'
+    id_type: Tax ID No.
+    id_number: '7730509361'
+    id_country: Russia
+  - uid: '175544'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '162104'
+    id_type: Organization Established Date
+    id_number: 29 Jun 2004
+remarks: "(Linked To: KHAZAR SEA SHIPPING LINES)"

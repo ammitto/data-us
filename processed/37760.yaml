@@ -1,0 +1,60 @@
+---
+uid: '37760'
+last_name: AKTSIONERNOE OBSHCHESTVO TORGOVO-FINANSOVAYA KOMPANIYA KAMAZ
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59245'
+    type: a.k.a.
+    category: strong
+    last_name: TFK KAMAZ AO
+  - uid: '59246'
+    type: a.k.a.
+    category: strong
+    last_name: JSC TFK KAMAZ
+  - uid: '59247'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT-STOCK COMPANY TRADING-FINANCIAL COMPANY KAMAZ
+  - uid: '59248'
+    type: f.k.a.
+    category: strong
+    last_name: TORGOVO-FINANSOVAYA KOMPANIYA KAMAZ AO
+address_list:
+  items:
+  - uid: '56495'
+    address1: Raion Avtomobilnogo Zavoda
+    address2: ABK-421
+    city: Naberezhnyye Chelny
+    postal_code: '423800'
+    country: Russia
+  - uid: '56496'
+    address1: 12, proezd Avtosborochny
+    city: Naberezhnye Chelny
+    state_or_province: Tatarstan Resp.
+    postal_code: '423800'
+    country: Russia
+id_list:
+  items:
+  - uid: '27008'
+    id_type: Registration Number
+    id_number: '1021602019097'
+    id_country: Russia
+  - uid: '27009'
+    id_type: Tax ID No.
+    id_number: '1653019048'
+    id_country: Russia
+  - uid: '27010'
+    id_type: Government Gazette Number
+    id_number: '47104250'
+    id_country: Russia
+  - uid: '173493'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '152740'
+    id_type: Organization Established Date
+    id_number: 23 Oct 1997
+remarks: "(Linked To: KAMAZ PUBLICLY TRADED COMPANY)"

@@ -1,0 +1,45 @@
+---
+uid: '48842'
+last_name: RUSATOM MACHINE TOOLS JOINT STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76040'
+    type: a.k.a.
+    category: weak
+    last_name: RMT JSC
+  - uid: '76041'
+    type: a.k.a.
+    category: weak
+    last_name: AO RUSSTAN
+address_list:
+  items:
+  - uid: '73441'
+    address1: Ul. 3-ya Yamskogo Polya d. 2
+    address2: K. 26
+    city: Moscow
+    postal_code: '125124'
+    country: Russia
+  - uid: '73442'
+    address1: Per. Pyzhevskii D. 5, Str. 1
+    address2: Floor/Pomeshch. 2/I
+    address3: Kom./Office 39/205
+    city: Moscow
+    postal_code: '119017'
+    country: Russia
+id_list:
+  items:
+  - uid: '39900'
+    id_type: Tax ID No.
+    id_number: '9706022877'
+    id_country: Russia
+  - uid: '39901'
+    id_type: Registration Number
+    id_number: '1227700146838'
+    id_country: Russia
+  - uid: '176647'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

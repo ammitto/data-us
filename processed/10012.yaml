@@ -1,0 +1,29 @@
+---
+uid: '10012'
+last_name: KOREA HYOKSIN TRADING CORPORATION
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+aka_list:
+  items:
+  - uid: '9720'
+    type: a.k.a.
+    category: strong
+    last_name: KOREA HYOKSIN EXPORT AND IMPORT CORPORATION
+address_list:
+  items:
+  - uid: '13175'
+    address1: Rakwon-dong
+    address2: Pothonggang District
+    city: Pyongyang
+    country: Korea, North
+id_list:
+  items:
+  - uid: '134901'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '127639'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210

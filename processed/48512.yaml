@@ -1,0 +1,41 @@
+---
+uid: '48512'
+last_name: LIMITED LIABILITY COMPANY TRADING AND PRODUCTION COMPLEX MAXIMUM
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75395'
+    type: a.k.a.
+    category: strong
+    last_name: LLC TPK MAXIMUM
+  - uid: '75396'
+    type: a.k.a.
+    category: strong
+    last_name: TORGOVO PROIZVODSTVENNYI KOMPLEKS MAKSIMUM
+  - uid: '75397'
+    type: a.k.a.
+    category: strong
+    last_name: TPK MAKSIMUM
+address_list:
+  items:
+  - uid: '72799'
+    address1: Ul. Malakhovskogo D. 52, Pomeshch. 10
+    city: Voronezh
+    postal_code: '394019'
+    country: Russia
+id_list:
+  items:
+  - uid: '39435'
+    id_type: Registration Number
+    id_number: '1143668026435'
+    id_country: Russia
+  - uid: '39436'
+    id_type: Tax ID No.
+    id_number: '3662204227'
+    id_country: Russia
+  - uid: '171244'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

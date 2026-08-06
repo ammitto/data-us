@@ -1,0 +1,36 @@
+---
+uid: '49219'
+last_name: JOINT STOCK COMPANY THE CENTRAL RESEARCH INSTITUTE KURS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76738'
+    type: a.k.a.
+    category: strong
+    last_name: AO TSNII KURS
+address_list:
+  items:
+  - uid: '74105'
+    address1: Ul. Kirpichnaya D. 34A
+    city: Moscow
+    postal_code: '105187'
+    country: Russia
+id_list:
+  items:
+  - uid: '40390'
+    id_type: Registration Number
+    id_number: '1067746378798'
+    id_country: Russia
+  - uid: '40391'
+    id_type: Tax ID No.
+    id_number: '7719584213'
+    id_country: Russia
+  - uid: '172186'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '172184'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

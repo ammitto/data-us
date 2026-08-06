@@ -1,0 +1,32 @@
+---
+uid: '33024'
+first_name: Dmitriy Aleksandrovich
+last_name: KOVACH
+sdn_type: Individual
+program_list:
+  programs:
+  - BELARUS-EO14038
+address_list:
+  items:
+  - uid: '49692'
+    address1: Myastrovskaya St., 24-63
+    city: Minsk
+    country: Belarus
+id_list:
+  items:
+  - uid: '22718'
+    id_type: National ID No.
+    id_number: 3140179M004PB1
+    id_country: Belarus
+  - uid: '22719'
+    id_type: Tax ID No.
+    id_number: MA6914146
+    id_country: Belarus
+  - uid: '142801'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '42802'
+    date_of_birth: 14 Jan 1979
+    main_entry: 'true'

@@ -1,0 +1,38 @@
+---
+uid: '20130'
+first_name: Song Nam
+last_name: KANG
+sdn_type: Individual
+program_list:
+  programs:
+  - DPRK3
+address_list:
+  items:
+  - uid: '30436'
+    country: Korea, North
+id_list:
+  items:
+  - uid: '12394'
+    id_type: Passport
+    id_number: '654410025'
+    id_country: Korea, North
+    expiration_date: 14 Oct 2019
+  - uid: '127176'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '135084'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+date_of_birth_list:
+  items:
+  - uid: '20608'
+    date_of_birth: 28 Jul 1962
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '20609'
+    place_of_birth: North P'yo'ngan Province, North Korea
+    main_entry: 'true'
+remarks: "(Linked To: MINISTRY OF STATE SECURITY)"
+title: Bureau Director

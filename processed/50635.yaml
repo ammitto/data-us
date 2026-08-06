@@ -1,0 +1,47 @@
+---
+uid: '50635'
+first_name: Vadim Gennadievich
+last_name: POGODIN
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+aka_list:
+  items:
+  - uid: '79243'
+    type: a.k.a.
+    category: weak
+    last_name: BIBA
+  - uid: '79245'
+    type: a.k.a.
+    category: weak
+    last_name: SHGRYUV
+address_list:
+  items:
+  - uid: '76781'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '42492'
+    id_type: Passport
+    id_number: '642774845'
+    id_country: Russia
+  - uid: '42494'
+    id_type: National ID No.
+    id_number: '4508703790'
+    id_country: Russia
+  - uid: '179059'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '79056'
+    date_of_birth: 19 Mar 1986
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '79057'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'
+remarks: "(Linked To: EVIL CORP)"

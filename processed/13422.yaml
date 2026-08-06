@@ -1,0 +1,62 @@
+---
+uid: '13422'
+first_name: Cristian Ivan
+last_name: ESPARRAGOZA GASTELUM
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '21486'
+    address1: Avenida de la Patria No. 685 Interior 1
+    address2: Fraccionamiento Jardines Universidad
+    city: Zapopan
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '21487'
+    address1: Calle Bulgaria No. 139 Interior 4
+    address2: Colonia Portales
+    address3: Delegacion Benito Juarez
+    city: Mexico City
+    state_or_province: Distrito Federal
+    postal_code: C.P. 03300
+    country: Mexico
+  - uid: '21488'
+    address1: Calle Rumania No. 10
+    address2: Colonia Portales
+    address3: Delegacion Benito Juarez
+    city: Mexico City
+    state_or_province: Distrito Federal
+    postal_code: C.P. 03300
+    country: Mexico
+  - uid: '21489'
+    address1: Calle Sierra Gorda No. 37 Interior 60
+    address2: Colonia Lomas de Chapultepec
+    address3: Delegacion Miguel Hidalgo
+    city: Mexico City
+    state_or_province: Distrito Federal
+    postal_code: C.P. 11000
+    country: Mexico
+id_list:
+  items:
+  - uid: '7939'
+    id_type: R.F.C.
+    id_number: EAGC810117AY8
+    id_country: Mexico
+  - uid: '7940'
+    id_type: C.U.R.P.
+    id_number: EAGC810117HJCSSR07
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '9483'
+    date_of_birth: 17 Jan 1981
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '9484'
+    place_of_birth: Guadalajara, Jalisco, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: GRUPO CINJAB, S.A. DE C.V.; Linked To: GRUPO IMPERGOZA, S.A.
+  DE C.V.)"

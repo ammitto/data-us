@@ -1,0 +1,45 @@
+---
+uid: '48049'
+first_name: Jesus
+last_name: SALAS AGUAYO
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '74590'
+    type: a.k.a.
+    category: weak
+    last_name: CHUYIN
+  - uid: '74591'
+    type: a.k.a.
+    category: weak
+    last_name: EL CHUYIN
+  - uid: '74592'
+    type: a.k.a.
+    category: weak
+    last_name: CHUY
+address_list:
+  items:
+  - uid: '72020'
+    country: Mexico
+id_list:
+  items:
+  - uid: '38932'
+    id_type: C.U.R.P.
+    id_number: SAAJ760529HCHLGS03
+    id_country: Mexico
+  - uid: '169537'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '69536'
+    date_of_birth: 29 May 1976
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '69539'
+    place_of_birth: Chihuahua, Mexico
+    main_entry: 'true'

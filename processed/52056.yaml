@@ -1,0 +1,47 @@
+---
+uid: '52056'
+first_name: Andrei
+last_name: ANISIMOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '81516'
+    type: a.k.a.
+    category: strong
+    last_name: ANISIMOV
+    first_name: Andrey
+address_list:
+  items:
+  - uid: '79390'
+    city: New Delhi
+    country: India
+id_list:
+  items:
+  - uid: '44889'
+    id_type: National ID No.
+    id_number: '0704331276'
+    id_country: Russia
+  - uid: '44890'
+    id_type: Passport
+    id_number: '550869419'
+    id_country: Russia
+    expiration_date: 07 Oct 2032
+  - uid: '182772'
+    id_type: Gender
+    id_number: Male
+  - uid: '182771'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '82774'
+    date_of_birth: 14 Mar 1984
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '82775'
+    place_of_birth: Shturm, Russia
+    main_entry: 'true'

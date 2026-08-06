@@ -1,0 +1,36 @@
+---
+uid: '37766'
+last_name: JOINT STOCK COMPANY KRASNODARSKIY AVTOCENTR KAMAZ
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '56509'
+    address1: d. 125, ul. Krasnaya Stanitsa Dinskaya
+    city: Dinskoi Raion
+    state_or_province: Krasnodarski Kr.
+    postal_code: '353202'
+    country: Russia
+id_list:
+  items:
+  - uid: '27022'
+    id_type: Registration Number
+    id_number: '1022303612418'
+    id_country: Russia
+  - uid: '27023'
+    id_type: Tax ID No.
+    id_number: '2330025470'
+    id_country: Russia
+  - uid: '27024'
+    id_type: Government Gazette Number
+    id_number: '26378374'
+    id_country: Russia
+  - uid: '152745'
+    id_type: Organization Established Date
+    id_number: '08 Aug 2002'
+  - uid: '173498'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: KAMAZ PUBLICLY TRADED COMPANY)"

@@ -1,0 +1,38 @@
+---
+uid: '40272'
+first_name: Artem Alexandrovich
+last_name: USS
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '62655'
+    type: a.k.a.
+    category: strong
+    last_name: USS
+    first_name: Artyom Aleksandrovich
+address_list:
+  items:
+  - uid: '60038'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '29458'
+    id_type: Tax ID No.
+    id_number: '246606011108'
+    id_country: Russia
+  - uid: '157340'
+    id_type: Gender
+    id_number: Male
+  - uid: '174073'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '57339'
+    date_of_birth: 22 Apr 1982
+    main_entry: 'true'
+remarks: "(Linked To: USS, Alexander Viktorovich)"

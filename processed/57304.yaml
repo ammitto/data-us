@@ -1,0 +1,32 @@
+---
+uid: '57304'
+first_name: Maurice Facundo
+last_name: ORTEGA MURILLO
+sdn_type: Individual
+program_list:
+  programs:
+  - NICARAGUA
+address_list:
+  items:
+  - uid: '87813'
+    city: Managua
+    country: Nicaragua
+id_list:
+  items:
+  - uid: '51595'
+    id_type: National ID No.
+    id_number: '0010107850028J'
+    id_country: Nicaragua
+  - uid: '197167'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '97164'
+    date_of_birth: 01 Jul 1985
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '97166'
+    place_of_birth: Managua, Nicaragua
+    main_entry: 'true'

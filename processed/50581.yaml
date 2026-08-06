@@ -1,0 +1,47 @@
+---
+uid: '50581'
+first_name: Elena Mikhaylovna
+last_name: AFANASYEVA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79082'
+    type: a.k.a.
+    category: strong
+    last_name: SHUDRA
+    first_name: Helena
+  - uid: '79083'
+    type: a.k.a.
+    category: strong
+    last_name: PESTI
+    first_name: Victoria
+address_list:
+  items:
+  - uid: '76691'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '42413'
+    id_type: Passport
+    id_number: '752654183'
+    id_country: Russia
+  - uid: '178820'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '178818'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '78816'
+    date_of_birth: 22 Jun 1997
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '78817'
+    place_of_birth: Saratov, Russia
+    main_entry: 'true'

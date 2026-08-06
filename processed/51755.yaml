@@ -1,0 +1,30 @@
+---
+uid: '51755'
+last_name: STREAM SHIP MANAGEMENT FZCO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+address_list:
+  items:
+  - uid: '78871'
+    address1: Unit 27700-001, Dubai Silicon Oasis
+    city: Dubai
+    country: United Arab Emirates
+  - uid: '78873'
+    address1: P.O. Box 342001
+    city: Dubai
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '44365'
+    id_type: Identification Number
+    id_number: IMO 6450201
+  - uid: '181929'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183582'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

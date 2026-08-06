@@ -1,0 +1,50 @@
+---
+uid: '55822'
+first_name: Sherif Ahmed Ewis
+last_name: AHMED
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '86738'
+    type: a.k.a.
+    category: strong
+    last_name: AMAR
+    first_name: Saif Aldeen
+address_list:
+  items:
+  - uid: '85816'
+    country: Turkey
+id_list:
+  items:
+  - uid: '49946'
+    id_type: Passport
+    id_number: A19586466
+    id_country: Egypt
+    expiration_date: 21 Dec 2023
+  - uid: '49947'
+    id_type: Passport
+    id_number: N010823022
+    id_country: Syria
+  - uid: '49948'
+    id_type: National ID No.
+    id_number: '28703032200032'
+    id_country: Egypt
+  - uid: '194170'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '193729'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '93726'
+    date_of_birth: 03 Mar 1987
+    main_entry: 'true'
+  - uid: '93727'
+    date_of_birth: 03 Mar 1983
+    main_entry: 'false'
+remarks: "(Linked To: HASM)"

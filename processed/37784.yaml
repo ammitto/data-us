@@ -1,0 +1,43 @@
+---
+uid: '37784'
+first_name: Aleksandr Evgenyevich
+last_name: ANANCHENKO
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14065
+aka_list:
+  items:
+  - uid: '59321'
+    type: a.k.a.
+    category: strong
+    last_name: ANANCHENKO
+    first_name: Oleksandr Yevhenovych
+  - uid: '59322'
+    type: a.k.a.
+    category: strong
+    last_name: ANANCHENKO
+    first_name: Aleksandr Evgenevich
+address_list:
+  items:
+  - uid: '56552'
+    city: Donetsk
+    country: Ukraine
+id_list:
+  items:
+  - uid: '152777'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '52774'
+    date_of_birth: 02 Feb 1966
+    main_entry: 'true'
+  - uid: '52775'
+    date_of_birth: '1967'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '52776'
+    place_of_birth: Selydove, Donetsk Oblast, Ukraine
+    main_entry: 'true'

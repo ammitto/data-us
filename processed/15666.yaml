@@ -1,0 +1,39 @@
+---
+uid: '15666'
+last_name: KOREAN COMMITTEE FOR SPACE TECHNOLOGY
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+aka_list:
+  items:
+  - uid: '23353'
+    type: a.k.a.
+    category: strong
+    last_name: DPRK COMMITTEE FOR SPACE TECHNOLOGY
+  - uid: '23354'
+    type: a.k.a.
+    category: strong
+    last_name: DEPARTMENT OF SPACE TECHNOLOGY OF NORTH KOREA
+  - uid: '23355'
+    type: a.k.a.
+    category: strong
+    last_name: COMMITTEE FOR SPACE TECHNOLOGY
+  - uid: '23356'
+    type: a.k.a.
+    category: strong
+    last_name: KCST
+address_list:
+  items:
+  - uid: '23401'
+    city: Pyongyang
+    country: Korea, North
+id_list:
+  items:
+  - uid: '127644'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '134970'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214

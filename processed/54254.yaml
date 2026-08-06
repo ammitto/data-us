@@ -1,0 +1,35 @@
+---
+uid: '54254'
+first_name: Fazlolah
+last_name: ZARRINGHALAM
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '82906'
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '47830'
+    id_type: National ID No.
+    id_number: '4579090470'
+    id_country: Iran
+  - uid: '190031'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '190023'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '89989'
+    date_of_birth: 23 Jun 1952
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '89988'
+    place_of_birth: Damghan, Iran
+    main_entry: 'true'

@@ -1,0 +1,41 @@
+---
+uid: '37777'
+last_name: JOINT STOCK COMPANY PLASMA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59297'
+    type: a.k.a.
+    category: strong
+    last_name: JSC PLASMA
+  - uid: '59298'
+    type: a.k.a.
+    category: weak
+    last_name: AO PLAZMA
+address_list:
+  items:
+  - uid: '56537'
+    address1: Ul. Tsiolkovskogo D. 24
+    city: Ryazan
+    postal_code: '390023'
+    country: Russia
+id_list:
+  items:
+  - uid: '27050'
+    id_type: Registration Number
+    id_number: '1026201102850'
+    id_country: Russia
+  - uid: '27051'
+    id_type: Tax ID No.
+    id_number: '6230005886'
+    id_country: Russia
+  - uid: '152764'
+    id_type: Organization Established Date
+    id_number: '1959'
+  - uid: '173509'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: OPEN JOINT STOCK COMPANY RUSSIAN ELECTRONICS)"

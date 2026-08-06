@@ -1,0 +1,59 @@
+---
+uid: '11274'
+first_name: Atchara
+last_name: PRAPATWORA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '11820'
+    type: a.k.a.
+    category: strong
+    last_name: ATCHARA
+    first_name: Samsaeng
+  - uid: '11821'
+    type: a.k.a.
+    category: strong
+    last_name: ATCHARA
+    first_name: Chiwinpraphasri
+  - uid: '11822'
+    type: a.k.a.
+    category: strong
+    last_name: SAENGKHAM
+    first_name: Samsaeng
+  - uid: '11823'
+    type: a.k.a.
+    category: strong
+    last_name: ATCHARA
+    first_name: Praptwora
+address_list:
+  items:
+  - uid: '16548'
+    address1: c/o DEHONG THAILONG HOTEL CO., LTD.
+    state_or_province: Yunnan Province
+    country: China
+  - uid: '16549'
+    address1: 88/2 Soi Klong Nam Kaew
+    address2: Tambon Sam Sen Nok
+    address3: Huay Khwang
+    city: Bangkok
+    country: Thailand
+id_list:
+  items:
+  - uid: '5751'
+    id_type: National ID No.
+    id_number: '3509900001907'
+    id_country: Thailand
+    expiration_date: Sep 2006
+  - uid: '5752'
+    id_type: Passport
+    id_number: V487440
+    id_country: Thailand
+    expiration_date: May 2007
+date_of_birth_list:
+  items:
+  - uid: '6645'
+    date_of_birth: '09 Sep 1948'
+    main_entry: 'true'

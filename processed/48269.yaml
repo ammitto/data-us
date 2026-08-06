@@ -1,0 +1,43 @@
+---
+uid: '48269'
+first_name: Song Ho
+last_name: JONG
+sdn_type: Individual
+program_list:
+  programs:
+  - DPRK4
+aka_list:
+  items:
+  - uid: '74985'
+    type: a.k.a.
+    category: strong
+    last_name: CHO'NG
+    first_name: So'ng-ho
+address_list:
+  items:
+  - uid: '72363'
+    city: Vladivostok
+    country: Russia
+id_list:
+  items:
+  - uid: '39117'
+    id_type: Passport
+    id_number: '109110001'
+    id_country: Korea, North
+    expiration_date: 05 Jan 2024
+  - uid: '170362'
+    id_type: Gender
+    id_number: Male
+  - uid: '170493'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '170494'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+date_of_birth_list:
+  items:
+  - uid: '70361'
+    date_of_birth: 15 Nov 1972
+    main_entry: 'true'
+remarks: "(Linked To: JINMYONG JOINT BANK)"

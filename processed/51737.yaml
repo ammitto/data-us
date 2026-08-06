@@ -1,0 +1,38 @@
+---
+uid: '51737'
+last_name: SOFTWATER NAVIGATION HOLDING LTD.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '78847'
+    address1: Trust Company Complex, Ajeltake Road
+    city: Majuro
+    state_or_province: Ajeltake Island
+    postal_code: MH 96960
+    country: Marshall Islands
+  - uid: '78851'
+    address1: 1st Floor General Building, Adnan Hakim Street
+    address2: Baabda-Bir Hassan
+    city: Ghobeiry
+    state_or_province: Mount Lebanon
+    country: Lebanon
+id_list:
+  items:
+  - uid: '44545'
+    id_type: Registration Number
+    id_number: '120208'
+    id_country: Marshall Islands
+  - uid: '44725'
+    id_type: Identification Number
+    id_number: IMO 6414066
+  - uid: '182757'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '181897'
+    id_type: Organization Established Date
+    id_number: 23 May 2023
+remarks: "(Linked To: AL-QATIRJI COMPANY)"

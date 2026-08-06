@@ -1,0 +1,35 @@
+---
+uid: '42030'
+last_name: USM GOLD LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '62733'
+    address1: d. 28 etazh 13 pom. 1 Kom. 21, shosse Rublevskoe
+    city: Moscow
+    postal_code: '121609'
+    country: Russia
+id_list:
+  items:
+  - uid: '31455'
+    id_type: Registration Number
+    id_number: '1217700580899'
+    id_country: Russia
+  - uid: '31456'
+    id_type: Tax ID No.
+    id_number: '9731086049'
+    id_country: Russia
+  - uid: '175368'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '160248'
+    id_type: 'Organization Type:'
+    id_number: Activities of holding companies
+  - uid: '160247'
+    id_type: Organization Established Date
+    id_number: 30 Nov 2021
+remarks: "(Linked To: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU KHOLDINGOVAYA KOMPANIYA
+  YUESEM)"

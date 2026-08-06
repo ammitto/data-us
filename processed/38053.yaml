@@ -1,0 +1,60 @@
+---
+uid: '38053'
+last_name: LIMITED LIABILITY COMPANY BONUM CAPITAL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59770'
+    type: a.k.a.
+    category: strong
+    last_name: BONUM CAPITAL LLC
+  - uid: '59771'
+    type: a.k.a.
+    category: strong
+    last_name: BONUM KEPITAL OOO
+address_list:
+  items:
+  - uid: '57063'
+    address1: per. Staromonetnyi d. 37
+    address2: str. 1, pom. I, floor 3, komn. 15
+    city: Moscow
+    postal_code: '119017'
+    country: Russia
+  - uid: '57064'
+    address1: per. Romanov d. 4
+    address2: et/pom/kom 4/I/32
+    city: Moscow
+    postal_code: '125009'
+    country: Russia
+  - uid: '57065'
+    address1: Tsvetnoy b-r, 15
+    address2: building 1, room 63
+    city: Moscow
+    postal_code: '127051'
+    country: Russia
+id_list:
+  items:
+  - uid: '27367'
+    id_type: Tax ID No.
+    id_number: '7722757160'
+    id_country: Russia
+  - uid: '27368'
+    id_type: Registration Number
+    id_number: '1117746760130'
+    id_country: Russia
+  - uid: '27576'
+    id_type: Legal Entity Number
+    id_number: 253400XGWKKNWUCF4147
+  - uid: '153350'
+    id_type: Organization Established Date
+    id_number: 27 Sep 2011
+  - uid: '153349'
+    id_type: 'Organization Type:'
+    id_number: Trusts, funds and similar financial entities
+  - uid: '176884'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: ALIEV, Murat Magomedovich)"

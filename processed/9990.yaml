@@ -1,0 +1,44 @@
+---
+uid: '9990'
+first_name: Wilmer de Jesus
+last_name: GOMEZ BUSTAMANTE
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNT
+address_list:
+  items:
+  - uid: '13130'
+    address1: c/o GAVIOTAS LTDA.
+    city: Cartago
+    state_or_province: Valle
+    country: Colombia
+  - uid: '13131'
+    address1: Calle 17A No. 8N-15
+    city: Cartago
+    state_or_province: Valle
+    country: Colombia
+id_list:
+  items:
+  - uid: '4571'
+    id_type: Cedula No.
+    id_number: '16223940'
+    id_country: Colombia
+  - uid: '4572'
+    id_type: Passport
+    id_number: AH345442
+    id_country: Colombia
+  - uid: '4573'
+    id_type: Passport
+    id_number: AF002565
+    id_country: Colombia
+date_of_birth_list:
+  items:
+  - uid: '5073'
+    date_of_birth: 26 Jan 1970
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '5074'
+    place_of_birth: Aguila, Valle
+    main_entry: 'true'

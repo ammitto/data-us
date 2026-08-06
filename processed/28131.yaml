@@ -1,0 +1,35 @@
+---
+uid: '28131'
+first_name: Kim
+last_name: PHARA
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+address_list:
+  items:
+  - uid: '42595'
+    address1: '135'
+    address2: St. 110 SR.
+    address3: Takhmao
+    state_or_province: Kandal
+    country: Cambodia
+id_list:
+  items:
+  - uid: '18618'
+    id_type: Passport
+    id_number: N0263817
+  - uid: '133489'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '33474'
+    date_of_birth: 10 Sep 1984
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '33485'
+    place_of_birth: Cambodia
+    main_entry: 'true'
+remarks: "(Linked To: KIM, Kun)"

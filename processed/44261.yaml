@@ -1,0 +1,50 @@
+---
+uid: '44261'
+last_name: JOINT STOCK COMPANY SPECIAL RESEARCH BUREAU OF MOSCOW POWER ENGINEERING
+  INSTITUTE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '68460'
+    type: a.k.a.
+    category: weak
+    last_name: AO OKB MEI
+  - uid: '68461'
+    type: a.k.a.
+    category: weak
+    last_name: JSC OKB MEI
+  - uid: '68462'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO OSOBOE KONSTRUKTORSKOE BYURO MOSKOVSKOGO ENERGETICHESKOGO
+      INSTITUTA
+address_list:
+  items:
+  - uid: '65888'
+    address1: ul. Krasnokazarmennaya D. 14
+    city: Moscow
+    postal_code: '111250'
+    country: Russia
+id_list:
+  items:
+  - uid: '33690'
+    id_type: Registration Number
+    id_number: '1097746729816'
+    id_country: Russia
+  - uid: '33691'
+    id_type: Tax ID No.
+    id_number: '7722701431'
+    id_country: Russia
+  - uid: '33694'
+    id_type: Government Gazette Number
+    id_number: '02066983'
+    id_country: Russia
+  - uid: '175817'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '163920'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

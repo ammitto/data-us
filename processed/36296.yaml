@@ -1,0 +1,34 @@
+---
+uid: '36296'
+last_name: UNCHON TRADING CORPORATION
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+aka_list:
+  items:
+  - uid: '57147'
+    type: a.k.a.
+    category: strong
+    last_name: UNCHON TRADING CORP.
+  - uid: '57148'
+    type: a.k.a.
+    category: strong
+    last_name: UNCHEN TRADING CORP.
+address_list:
+  items:
+  - uid: '54504'
+    country: Korea, North
+id_list:
+  items:
+  - uid: '149872'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '149871'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '149867'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
+remarks: "(Linked To: MINISTRY OF ROCKET INDUSTRY)"

@@ -1,0 +1,33 @@
+---
+uid: '49284'
+last_name: LIMITED LIABILITY COMPANY REVOLEMC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76860'
+    type: a.k.a.
+    category: strong
+    last_name: REVOLEMS
+address_list:
+  items:
+  - uid: '74239'
+    address1: Ul. Gorbunova D. 2, Str. 2, Office 616, 618
+    city: Moscow
+    postal_code: '121596'
+    country: Russia
+id_list:
+  items:
+  - uid: '40505'
+    id_type: Registration Number
+    id_number: '1187746790153'
+    id_country: Russia
+  - uid: '40506'
+    id_type: Tax ID No.
+    id_number: '7719481419'
+    id_country: Russia
+  - uid: '172288'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

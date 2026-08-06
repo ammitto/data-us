@@ -1,0 +1,32 @@
+---
+uid: '54568'
+last_name: AEZA LOGISTIC LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - CYBER4
+  - CAATSA - RUSSIA
+address_list:
+  items:
+  - uid: '83326'
+    address1: Ul. Zolnaya d. 15, str. 1, Pomeshch 1N, Office 603A
+    city: St. Petersburg
+    postal_code: '193318'
+    country: Russia
+id_list:
+  items:
+  - uid: '48211'
+    id_type: Tax ID No.
+    id_number: '7810965578'
+    id_country: Russia
+  - uid: '48212'
+    id_type: Business Registration Number
+    id_number: '1247800096081'
+    id_country: Russia
+  - uid: '190673'
+    id_type: Organization Established Date
+    id_number: 27 Sep 2024
+  - uid: '190832'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+remarks: "(Linked To: AEZA GROUP LLC)"

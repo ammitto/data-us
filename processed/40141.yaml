@@ -1,0 +1,55 @@
+---
+uid: '40141'
+first_name: Conan Tonathiu
+last_name: CASTRO RAMIREZ
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '62361'
+    type: a.k.a.
+    category: strong
+    last_name: CASTRO
+    first_name: Conan
+  - uid: '62362'
+    type: a.k.a.
+    category: strong
+    last_name: CASTRO RAMIREZ
+    first_name: Conan
+address_list:
+  items:
+  - uid: '59776'
+    city: Antiguo Cuscatlan
+    state_or_province: La Libertad
+    country: El Salvador
+id_list:
+  items:
+  - uid: '29276'
+    id_type: Passport
+    id_number: C01141422
+    id_country: El Salvador
+    expiration_date: 26 Jan 2027
+  - uid: '29277'
+    id_type: Passport
+    id_number: DA000506
+    id_country: El Salvador
+    expiration_date: 18 Sep 2024
+  - uid: '156995'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '56992'
+    date_of_birth: 31 May 1978
+    main_entry: 'true'
+  - uid: '56993'
+    date_of_birth: 30 May 1978
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '56994'
+    place_of_birth: San Salvador, El Salvador
+    main_entry: 'true'
+title: Salvadoran Presidential Legal Secretary

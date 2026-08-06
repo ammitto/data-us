@@ -1,0 +1,42 @@
+---
+uid: '46774'
+first_name: Aleksandr Valeryevich
+last_name: POTAPOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '72228'
+    type: a.k.a.
+    category: strong
+    last_name: POTAPOV
+    first_name: Aleksandr Valerievich
+address_list:
+  items:
+  - uid: '69700'
+    country: Russia
+id_list:
+  items:
+  - uid: '36845'
+    id_type: Tax ID No.
+    id_number: '770405465488'
+    id_country: Russia
+  - uid: '172744'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '167561'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '67559'
+    date_of_birth: 23 Feb 1963
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '67560'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'
+remarks: "(Linked To: JOINT STOCK COMPANY CONCERN URALVAGONZAVOD)"

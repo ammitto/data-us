@@ -1,0 +1,37 @@
+---
+uid: '51400'
+first_name: Rokas
+last_name: KARPAVICIUS
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '80594'
+    type: a.k.a.
+    category: strong
+    last_name: KARPIS
+    first_name: Rokas
+address_list:
+  items:
+  - uid: '78275'
+    country: Lithuania
+  - uid: '78276'
+    city: Santa Cruz de Tenerife
+    country: Spain
+id_list:
+  items:
+  - uid: '180860'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '80858'
+    date_of_birth: 04 Jan 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '80859'
+    place_of_birth: Lithuania
+    main_entry: 'true'

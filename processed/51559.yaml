@@ -1,0 +1,43 @@
+---
+uid: '51559'
+last_name: PAKER SERVICE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '80832'
+    type: a.k.a.
+    category: weak
+    last_name: PACKER SERVICE
+address_list:
+  items:
+  - uid: '78571'
+    address1: Varshavskoe Shosse D. 1
+    address2: Str. 6
+    address3: Office 27
+    city: Moscow
+    postal_code: '117105'
+    country: Russia
+id_list:
+  items:
+  - uid: '43998'
+    id_type: Registration Number
+    id_number: '1067758006348'
+    id_country: Russia
+  - uid: '43999'
+    id_type: Tax ID No.
+    id_number: '7718607570'
+    id_country: Russia
+  - uid: '181239'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183500'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '182851'
+    id_type: Organization Established Date
+    id_number: 17 Oct 2006

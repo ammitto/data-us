@@ -1,0 +1,30 @@
+---
+uid: '15885'
+first_name: Aleksey
+last_name: KRIVORUCHKO
+sdn_type: Individual
+program_list:
+  programs:
+  - MAGNIT
+aka_list:
+  items:
+  - uid: '23789'
+    type: a.k.a.
+    category: strong
+    last_name: KRIVORUCHKO
+    first_name: Alex
+  - uid: '23790'
+    type: a.k.a.
+    category: strong
+    last_name: KRIVORUCHKO
+    first_name: Alexei
+date_of_birth_list:
+  items:
+  - uid: '13389'
+    date_of_birth: 25 Aug 1977
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '13390'
+    place_of_birth: Moscow Region, Russia
+    main_entry: 'true'

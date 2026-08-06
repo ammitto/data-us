@@ -1,0 +1,64 @@
+---
+uid: '30373'
+last_name: KAVEH PARS MINING INDUSTRIES DEVELOPMENT COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13876
+aka_list:
+  items:
+  - uid: '47636'
+    type: a.k.a.
+    category: strong
+    last_name: SHERKATE SANAYE MADANIYE KAVEH PARS
+  - uid: '47637'
+    type: a.k.a.
+    category: strong
+    last_name: GHOSTARESHE SANAYIE MADANI KAWEH PARS
+  - uid: '47638'
+    type: a.k.a.
+    category: strong
+    last_name: KAVEH-PARS MINING INDUSTRIES DEVELOPMENT COMPANY
+  - uid: '47639'
+    type: a.k.a.
+    category: weak
+    last_name: KAVEH PARS
+  - uid: '47641'
+    type: a.k.a.
+    category: weak
+    last_name: KMID
+address_list:
+  items:
+  - uid: '45852'
+    address1: 9th Floor, Central Building, No 0, Resalat Highway - Bonyad Mostazafan,
+      Modares Hwy, District 3
+    city: Tehran
+    state_or_province: Tehran Province
+    postal_code: '1519613519'
+    country: Iran
+  - uid: '45853'
+    address1: Argentina Square, Beginning of Africa Highway, Bonyad Mostazafan Building
+      Number 1
+    city: Tehran
+    country: Iran
+  - uid: '45854'
+    address1: Africa Boulevard, No. 5, End of Arash Street
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '20487'
+    id_type: National ID No.
+    id_number: '10103057702'
+    id_country: Iran
+  - uid: '20488'
+    id_type: Registration Number
+    id_number: '272808'
+    id_country: Iran
+  - uid: '137980'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '137979'
+    id_type: Website
+    id_number: http://kpars.ir
+remarks: "(Linked To: ISLAMIC REVOLUTION MOSTAZAFAN FOUNDATION)"

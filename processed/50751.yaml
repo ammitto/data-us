@@ -1,0 +1,39 @@
+---
+uid: '50751'
+last_name: OOO KOLOVRAT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79456'
+    type: a.k.a.
+    category: strong
+    last_name: SIDERUS
+address_list:
+  items:
+  - uid: '76982'
+    address1: Ul. Osennaya D. 23
+    address2: Pomeshch 114A/1/9
+    city: Moscow
+    postal_code: '121609'
+    country: Russia
+  - uid: '76984'
+    address1: Preobrazhenskaya Sq. 8
+    city: Moscow
+    postal_code: '107061'
+    country: Russia
+id_list:
+  items:
+  - uid: '42634'
+    id_type: Registration Number
+    id_number: '1177746518740'
+    id_country: Russia
+  - uid: '42635'
+    id_type: Tax ID No.
+    id_number: '9701077015'
+    id_country: Russia
+  - uid: '179378'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

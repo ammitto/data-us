@@ -1,0 +1,45 @@
+---
+uid: '22424'
+first_name: Tito Aldemar
+last_name: RUANO YANDUN
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '35354'
+    type: a.k.a.
+    category: weak
+    last_name: DON T
+  - uid: '35355'
+    type: a.k.a.
+    category: weak
+    last_name: DON TITO
+  - uid: '36373'
+    type: a.k.a.
+    category: weak
+    last_name: DON TI
+address_list:
+  items:
+  - uid: '33949'
+    country: Colombia
+id_list:
+  items:
+  - uid: '14535'
+    id_type: Cedula No.
+    id_number: '98337819'
+    id_country: Colombia
+  - uid: '124711'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '24712'
+    date_of_birth: 18 Oct 1975
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '24713'
+    place_of_birth: Ipiales, Narino, Colombia
+    main_entry: 'true'

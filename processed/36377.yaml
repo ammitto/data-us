@@ -1,0 +1,46 @@
+---
+uid: '36377'
+first_name: Andrey Ivanovich
+last_name: GRIGORYEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '57269'
+    type: a.k.a.
+    category: strong
+    last_name: GRIGORYEV
+    first_name: Andrei Ivanovich
+  - uid: '57270'
+    type: a.k.a.
+    category: strong
+    last_name: GRIGORIEV
+    first_name: Andrey Ivanovich
+  - uid: '57271'
+    type: a.k.a.
+    category: strong
+    last_name: GRIGOR'EV
+    first_name: Andrej Ivanovich
+address_list:
+  items:
+  - uid: '54626'
+    country: Russia
+id_list:
+  items:
+  - uid: '25778'
+    id_type: Tax ID No.
+    id_number: '772788747079'
+    id_country: Russia
+  - uid: '174175'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '149970'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '49968'
+    date_of_birth: 30 Jan 1963
+    main_entry: 'true'

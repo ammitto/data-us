@@ -1,0 +1,63 @@
+---
+uid: '11284'
+first_name: Cheng Yu
+last_name: LI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '11779'
+    type: a.k.a.
+    category: weak
+    last_name: AH LI KO
+  - uid: '11780'
+    type: a.k.a.
+    category: strong
+    last_name: BUNTHAWEE
+    first_name: Sae Jang
+  - uid: '11781'
+    type: a.k.a.
+    category: strong
+    last_name: BUNTHAWEE
+    first_name: Sae Chang
+  - uid: '11782'
+    type: a.k.a.
+    category: strong
+    last_name: BOONTHAWEE
+    first_name: Sae Jang
+  - uid: '11783'
+    type: a.k.a.
+    category: weak
+    last_name: LI CHENG YU
+address_list:
+  items:
+  - uid: '16524'
+    state_or_province: Shan
+    country: Burma
+  - uid: '16525'
+    address1: 199/132, Mu 8, Tambon Non Jom
+    address2: Amphur San Sai
+    city: Chiang Mai
+    country: Thailand
+  - uid: '16526'
+    address1: 725, Mu 10, Tambon Nong Bua
+    address2: Amphur Chaiprakan
+    city: Chiang Mai
+    country: Thailand
+id_list:
+  items:
+  - uid: '5739'
+    id_type: National ID No.
+    id_number: '5502100007251'
+    id_country: Thailand
+  - uid: '5740'
+    id_type: Passport
+    id_number: X638456
+    id_country: Thailand
+date_of_birth_list:
+  items:
+  - uid: '6636'
+    date_of_birth: 06 Jun 1961
+    main_entry: 'true'

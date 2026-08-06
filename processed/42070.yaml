@@ -1,0 +1,34 @@
+---
+uid: '42070'
+last_name: KOVROV MECHANICAL PLANT PJSC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65401'
+    type: a.k.a.
+    category: strong
+    last_name: KOVROV MECHANICAL PLANT
+  - uid: '65451'
+    type: a.k.a.
+    category: weak
+    last_name: PJSC KMZ
+address_list:
+  items:
+  - uid: '62803'
+    address1: 26, Sotsialisticheskaya Street
+    city: Kovrov
+    state_or_province: Vladimirskaya oblast
+    postal_code: '601909'
+    country: Russia
+id_list:
+  items:
+  - uid: '31516'
+    id_type: Tax ID No.
+    id_number: '3305004397'
+    id_country: Russia
+  - uid: '175387'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

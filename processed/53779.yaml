@@ -1,0 +1,49 @@
+---
+uid: '53779'
+first_name: Saw Chit
+last_name: THU
+sdn_type: Individual
+program_list:
+  programs:
+  - BURMA-EO14014
+  - TCO
+aka_list:
+  items:
+  - uid: '83789'
+    type: a.k.a.
+    category: strong
+    last_name: MYINT
+    first_name: Saw San
+  - uid: '83790'
+    type: a.k.a.
+    category: strong
+    last_name: THU
+    first_name: Maung Chit
+  - uid: '83791'
+    type: a.k.a.
+    category: weak
+    last_name: THU, Chit
+address_list:
+  items:
+  - uid: '82094'
+    state_or_province: Karen State
+    country: Burma
+id_list:
+  items:
+  - uid: '47171'
+    id_type: National ID No.
+    id_number: 3LabanaN069004
+    id_country: Burma
+  - uid: '188772'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '88770'
+    date_of_birth: 15 Dec 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '88771'
+    place_of_birth: Inn village, Hlaingbwe, Karen State, Burma
+    main_entry: 'true'

@@ -1,0 +1,35 @@
+---
+uid: '40953'
+last_name: TAMIMED
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '61134'
+    address1: ul. Novozavodskaya d. 8, k. 4
+    address2: Floor 1 Pom. VIII K 5 Of 1
+    city: Moscow
+    postal_code: '121087'
+    country: Russia
+id_list:
+  items:
+  - uid: '30256'
+    id_type: Registration Number
+    id_number: '1207700352420'
+    id_country: Russia
+  - uid: '30257'
+    id_type: Tax ID No.
+    id_number: '7730259249'
+    id_country: Russia
+  - uid: '158620'
+    id_type: Organization Established Date
+    id_number: 24 Sep 2020
+  - uid: '175331'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '158619'
+    id_type: Target Type
+    id_number: Private Company
+remarks: "(Linked To: MORETTI, Svetlana Alekseyevna)"

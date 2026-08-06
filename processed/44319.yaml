@@ -1,0 +1,37 @@
+---
+uid: '44319'
+last_name: AO NPO KURGANPRIBOR
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '68553'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO NAUCHNOPROIZVODSTVENNOE OBEDINENIE KURGANPRIBOR
+  - uid: '68554'
+    type: a.k.a.
+    category: strong
+    last_name: KURGANPRIBOR JSC
+address_list:
+  items:
+  - uid: '65994'
+    address1: Ul. Yastrzhembskogo D. 41A
+    city: Kurgan
+    postal_code: '640007'
+    country: Russia
+id_list:
+  items:
+  - uid: '33785'
+    id_type: Registration Number
+    id_number: '1074501002839'
+    id_country: Russia
+  - uid: '33786'
+    id_type: Tax ID No.
+    id_number: '4501129676'
+    id_country: Russia
+  - uid: '173775'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

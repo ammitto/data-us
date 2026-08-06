@@ -1,0 +1,38 @@
+---
+uid: '47351'
+last_name: ALKHALEEJ BANK CO LTD
+sdn_type: Entity
+program_list:
+  programs:
+  - SUDAN-EO14098
+aka_list:
+  items:
+  - uid: '73190'
+    type: a.k.a.
+    category: strong
+    last_name: AL-KHALEEJ BANK
+  - uid: '73191'
+    type: a.k.a.
+    category: strong
+    last_name: AL ROWAD BANK FOR DEVELOPMENT & INVESTMENT
+  - uid: '73229'
+    type: a.k.a.
+    category: strong
+    last_name: AL ROWAD BANK FOR DEVELOPMENT AND INVESTMENT
+address_list:
+  items:
+  - uid: '70556'
+    address1: Albaraka Tower, 6th Floor, 1 Al Qasr
+    city: Khartoum
+    country: Sudan
+id_list:
+  items:
+  - uid: '168798'
+    id_type: SWIFT/BIC
+    id_number: KHJBSDKH
+  - uid: '168799'
+    id_type: Website
+    id_number: www.al-khaleejbank.com
+  - uid: '168815'
+    id_type: Target Type
+    id_number: Financial Institution

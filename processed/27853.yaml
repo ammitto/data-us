@@ -1,0 +1,30 @@
+---
+uid: '27853'
+first_name: Mohsen
+last_name: QOMI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13876
+address_list:
+  items:
+  - uid: '42172'
+    country: Iran
+id_list:
+  items:
+  - uid: '133109'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '133113'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '33110'
+    date_of_birth: '1960'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '33111'
+    place_of_birth: Mamazand, Varamin, Tehran, Iran
+    main_entry: 'true'

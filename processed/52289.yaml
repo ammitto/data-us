@@ -1,0 +1,35 @@
+---
+uid: '52289'
+first_name: In Chol
+last_name: JONG
+sdn_type: Individual
+program_list:
+  programs:
+  - DPRK3
+address_list:
+  items:
+  - uid: '79876'
+    country: Laos
+id_list:
+  items:
+  - uid: '45246'
+    id_type: Passport
+    id_number: '390220044'
+    id_country: Korea, North
+    expiration_date: 12 May 2025
+  - uid: '183651'
+    id_type: Gender
+    id_number: Male
+  - uid: '183656'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '183655'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+date_of_birth_list:
+  items:
+  - uid: '83653'
+    date_of_birth: 05 Jan 1979
+    main_entry: 'true'
+remarks: "(Linked To: CHONSURIM TRADING CORPORATION)"

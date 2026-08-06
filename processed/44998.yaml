@@ -1,0 +1,46 @@
+---
+uid: '44998'
+last_name: ARCTIC TRANSSHIPMENT LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69672'
+    type: a.k.a.
+    category: strong
+    last_name: LLC NOVATEK ZAPADNAYA ARKTIKA
+  - uid: '69673'
+    type: a.k.a.
+    category: strong
+    last_name: LLC ARKTICHESKAYA PEREVALKA
+address_list:
+  items:
+  - uid: '66982'
+    address1: 59 Leninskaya Street
+    address2: Office 705
+    city: Petropavlovsk-Kamchatskiy
+    state_or_province: Kamchatskiy Territory
+    postal_code: '683001'
+    country: Russia
+  - uid: '66983'
+    address1: Spolokhi Street
+    address2: Building 4A, Floor 4, Room 14
+    city: Murmansk
+    state_or_province: Murmansk Region
+    postal_code: '183025'
+    country: Russia
+id_list:
+  items:
+  - uid: '34660'
+    id_type: Registration Number
+    id_number: '1195190002875'
+    id_country: Russia
+  - uid: '34662'
+    id_type: Tax ID No.
+    id_number: '5190080642'
+    id_country: Russia
+  - uid: '175881'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

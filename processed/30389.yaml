@@ -1,0 +1,33 @@
+---
+uid: '30389'
+last_name: SINA CURRENCY EXCHANGE COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13876
+aka_list:
+  items:
+  - uid: '47697'
+    type: a.k.a.
+    category: strong
+    last_name: SHERKAT-E SARRAFI SINA
+address_list:
+  items:
+  - uid: '45904'
+    address1: Shahid Beheshti Street, Number 287
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '20508'
+    id_type: Registration Number
+    id_number: '428695'
+    id_country: Iran
+  - uid: '20511'
+    id_type: National ID No.
+    id_number: '10320810830'
+    id_country: Iran
+  - uid: '138005'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: SINA BANK)"

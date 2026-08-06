@@ -1,0 +1,89 @@
+---
+uid: '17068'
+last_name: OCEAN MARITIME MANAGEMENT COMPANY LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK
+aka_list:
+  items:
+  - uid: '26222'
+    type: a.k.a.
+    category: strong
+    last_name: EAST SEA SHIPPING COMPANY
+  - uid: '28456'
+    type: a.k.a.
+    category: strong
+    last_name: KOREA MIRAE SHIPPING CO. LTD.
+  - uid: '28457'
+    type: a.k.a.
+    category: strong
+    last_name: HAEYANG CREW MANAGEMENT COMPANY
+address_list:
+  items:
+  - uid: '25933'
+    address1: Dongheung-dong Changgwang Street
+    address2: Chung-ku
+    address3: PO Box 125
+    city: Pyongyang
+    country: Korea, North
+  - uid: '25934'
+    address1: Donghung Dong
+    address2: Central District
+    address3: PO Box 120
+    city: Pyongyang
+    country: Korea, North
+  - uid: '25935'
+    address1: No. 10, 10th Floor, Unit 1
+    address2: Wu Wu Lu 32-1
+    address3: Zhong Shan Qu
+    city: Dalian City
+    state_or_province: Liaoning Province
+    country: China
+  - uid: '25936'
+    address1: 22 Jin Cheng Jie
+    address2: Zhong Shan Qu
+    city: Dalian City
+    state_or_province: Liaoning Province
+    country: China
+  - uid: '25937'
+    address1: 43-39 Lugovaya
+    city: Vladivostok
+    country: Russia
+  - uid: '25938'
+    address1: CPO Box 120
+    address2: Tonghung-dong
+    address3: Chung-gu
+    city: Pyongyang
+    country: Korea, North
+  - uid: '25939'
+    city: Bangkok
+    country: Thailand
+  - uid: '25940'
+    city: Lima
+    country: Peru
+  - uid: '25941'
+    city: Port Said
+    country: Egypt
+  - uid: '25942'
+    country: Singapore
+  - uid: '25943'
+    country: Brazil
+  - uid: '27822'
+    city: Hong Kong
+    country: China
+  - uid: '27823'
+    city: Shenzhen
+    country: China
+id_list:
+  items:
+  - uid: '9559'
+    id_type: Identification Number
+    id_number: IMO 1790183
+  - uid: '127074'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '134957'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214

@@ -1,0 +1,52 @@
+---
+uid: '30380'
+last_name: TEHRAN CEMENT COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13876
+aka_list:
+  items:
+  - uid: '47661'
+    type: a.k.a.
+    category: strong
+    last_name: TEHRAN CEMENT PUBLIC JOINT STOCK COMPANY
+  - uid: '47662'
+    type: a.k.a.
+    category: strong
+    last_name: TEHRAN CEMENT
+address_list:
+  items:
+  - uid: '45866'
+    address1: P.O. Box 11365-657, 5, Shahid Anooshirvan Street
+    address2: Ferdowsi Street-Shahid Taghavi Street
+    city: Tehran
+    postal_code: '1145687813'
+    country: Iran
+  - uid: '45868'
+    address1: Kooshk Avenue, The End Northern Arbab Jamshid - 11365, P.O. Box
+    city: Tehran
+    postal_code: '11365657'
+    country: Iran
+  - uid: '45869'
+    address1: Tehran Cement Building, Ferdosi Avenue, Shahid Taghavi Street
+    address2: Martyred, Anoushirvani Alley
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '20496'
+    id_type: National ID No.
+    id_number: '10861081241'
+    id_country: Iran
+  - uid: '20497'
+    id_type: Registration Number
+    id_number: '4503'
+    id_country: Iran
+  - uid: '137990'
+    id_type: Website
+    id_number: www.tehrancement.com
+  - uid: '137991'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: KAVEH PARS MINING INDUSTRIES DEVELOPMENT COMPANY)"

@@ -1,0 +1,50 @@
+---
+uid: '38158'
+first_name: Anton Sergeevich
+last_name: URUSOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59880'
+    type: a.k.a.
+    category: strong
+    last_name: URUSOV
+    first_name: Anton Sergeyevich
+address_list:
+  items:
+  - uid: '57173'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '27441'
+    id_type: Tax ID No.
+    id_number: '732898489410'
+    id_country: Russia
+  - uid: '27447'
+    id_type: Passport
+    id_number: '752826108'
+    id_country: Russia
+    issue_date: 15 Feb 2016
+    expiration_date: 15 Feb 2026
+  - uid: '174638'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '153430'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '53427'
+    date_of_birth: 11 Sep 1986
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '53429'
+    place_of_birth: Ulyanovsk, Russia
+    main_entry: 'true'
+remarks: "(Linked To: JOINT STOCK COMPANY PROMISING INDUSTRIAL AND INFRASTRUCTURE
+  TECHNOLOGIES)"

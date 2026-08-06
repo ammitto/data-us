@@ -1,0 +1,44 @@
+---
+uid: '11554'
+first_name: Francisco Antonio
+last_name: FLOREZ UPEGUI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNT
+aka_list:
+  items:
+  - uid: '12214'
+    type: a.k.a.
+    category: weak
+    last_name: DON PACHO
+address_list:
+  items:
+  - uid: '17245'
+    address1: c/o FLOREZ HERMANOS LTDA.
+    city: Medellin
+    country: Colombia
+  - uid: '17246'
+    address1: c/o CANALES VENECIA LTDA.
+    city: Envigado
+    state_or_province: Antioquia
+    country: Colombia
+  - uid: '17247'
+    address1: Calle 4 Sur No. 43B-60
+    city: Medellin
+    country: Colombia
+id_list:
+  items:
+  - uid: '5931'
+    id_type: Cedula No.
+    id_number: '8308988'
+    id_country: Colombia
+  - uid: '5932'
+    id_type: Passport
+    id_number: AG708213
+    id_country: Colombia
+date_of_birth_list:
+  items:
+  - uid: '6998'
+    date_of_birth: 10 May 1950
+    main_entry: 'true'

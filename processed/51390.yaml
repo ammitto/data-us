@@ -1,0 +1,31 @@
+---
+uid: '51390'
+first_name: Alexis Jose
+last_name: RODRIGUEZ CABELLO
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+address_list:
+  items:
+  - uid: '78253'
+    country: Venezuela
+id_list:
+  items:
+  - uid: '43696'
+    id_type: Cedula No.
+    id_number: V8959785
+    id_country: Venezuela
+  - uid: '180821'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '80822'
+    date_of_birth: 01 Oct 1965
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '80929'
+    place_of_birth: Venezuela
+    main_entry: 'true'

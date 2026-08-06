@@ -1,0 +1,44 @@
+---
+uid: '32735'
+first_name: Aleksei Semyonovich
+last_name: SEDOV
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+aka_list:
+  items:
+  - uid: '51479'
+    type: a.k.a.
+    category: strong
+    last_name: SEDOV
+    first_name: Aleksei
+  - uid: '51481'
+    type: a.k.a.
+    category: strong
+    last_name: SEDOV
+    first_name: Alexei Semenovich
+  - uid: '51482'
+    type: a.k.a.
+    category: strong
+    last_name: SEDOV
+    first_name: Alexei
+address_list:
+  items:
+  - uid: '49310'
+    country: Russia
+id_list:
+  items:
+  - uid: '142395'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '42393'
+    date_of_birth: 26 Aug 1954
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '42394'
+    place_of_birth: Sochi, Russia
+    main_entry: 'true'

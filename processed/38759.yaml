@@ -1,0 +1,40 @@
+---
+uid: '38759'
+last_name: ZAO NTTS MODUL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '60600'
+    type: a.k.a.
+    category: strong
+    last_name: CLOSED JOINT STOCK COMPANY SCIENTIFIC AND TECHNICAL CENTER MODUL
+  - uid: '60601'
+    type: a.k.a.
+    category: strong
+    last_name: CJSC STC MODUL
+address_list:
+  items:
+  - uid: '57850'
+    address1: D.3 Ul.4-ya Vosmogo Marta
+    city: Moscow
+    postal_code: '125167'
+    country: Russia
+id_list:
+  items:
+  - uid: '28042'
+    id_type: Registration Number
+    id_number: '1037739183892'
+    id_country: Russia
+  - uid: '28043'
+    id_type: Tax ID No.
+    id_number: '7714009178'
+    id_country: Russia
+  - uid: '154354'
+    id_type: Organization Established Date
+    id_number: 26 Aug 1992
+  - uid: '174708'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

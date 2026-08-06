@@ -1,0 +1,43 @@
+---
+uid: '50219'
+first_name: Evgeniy Yurievich
+last_name: KROKHOTIN
+sdn_type: Individual
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '78361'
+    type: a.k.a.
+    category: strong
+    last_name: KRAKHOTSIN
+    first_name: Yauheni Yurevich
+address_list:
+  items:
+  - uid: '76022'
+    country: Belarus
+id_list:
+  items:
+  - uid: '41858'
+    id_type: Passport
+    id_number: MP2682225
+    id_country: Belarus
+    expiration_date: 26 Feb 2065
+  - uid: '41859'
+    id_type: National ID No.
+    id_number: 3260265C035PB4
+    id_country: Belarus
+  - uid: '177839'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '77841'
+    date_of_birth: 26 Feb 1965
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '78185'
+    place_of_birth: Belarus
+    main_entry: 'true'

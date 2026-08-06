@@ -1,0 +1,89 @@
+---
+uid: '10626'
+first_name: Blanca Armida
+last_name: AGUIRRE SANCHEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '14821'
+    address1: Blvd. Agua Caliente No. 148
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '14822'
+    address1: Calle Ixtapan de la Sal No. 12137, Fraccionamiento Colinas de Agua Caliente
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '14823'
+    address1: C. Cerro Alto No. 7855, Fracc. Lomas de Agua Caliente
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '14824'
+    address1: Avenida Central No. 10200, Departamento 401 Guion "E," Colonia Hipodromo
+      Dos
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '14825'
+    address1: c/o MULTISERVICIOS AGSA, S.A. DE C.V.
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '14826'
+    address1: c/o AGBAS CONSULTORES, S.A. DE C.V.
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '14828'
+    address1: c/o MEXGLOBO, S.A. DE C.V.
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '14830'
+    address1: c/o HACIENDA CIEN ANOS DE TIJUANA, S. DE R.L. DE C.V.
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '15013'
+    address1: c/o COCINA DE TIJUANA, S. DE R.L. DE C.V.
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '15029'
+    address1: Diaz Miron, Calle 1903 3 Zona Central
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+id_list:
+  items:
+  - uid: '5172'
+    id_type: R.F.C.
+    id_number: AUSB580307CR4
+    id_country: Mexico
+  - uid: '5173'
+    id_type: Passport
+    id_number: '04020067193'
+    id_country: Mexico
+  - uid: '5174'
+    id_type: Electoral Registry No.
+    id_number: AGSNBL58030702M801
+    id_country: Mexico
+  - uid: '5243'
+    id_type: R.F.C.
+    id_number: AUSB580307CRA
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '6000'
+    date_of_birth: 07 Mar 1958
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '6001'
+    place_of_birth: Tijuana, Baja California, Mexico
+    main_entry: 'true'

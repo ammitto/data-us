@@ -1,0 +1,91 @@
+---
+uid: '23052'
+first_name: Abu Sulayman
+last_name: AL-ADANI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '36245'
+    type: a.k.a.
+    category: strong
+    last_name: AL-ADANI
+    first_name: Sulayman
+  - uid: '36246'
+    type: a.k.a.
+    category: strong
+    last_name: AL-SAY'ARI
+    first_name: Muhammad Qan'an
+  - uid: '36247'
+    type: a.k.a.
+    category: strong
+    last_name: AL-SAY'ARI
+    first_name: Muhammad Ahmed
+  - uid: '36248'
+    type: a.k.a.
+    category: strong
+    last_name: AL-SAY'ARI
+    first_name: Nashwan
+  - uid: '36249'
+    type: a.k.a.
+    category: strong
+    last_name: MUTHANNA
+    first_name: Muhsin Ahmad Salah
+  - uid: '36250'
+    type: a.k.a.
+    category: strong
+    last_name: MUTHANA
+    first_name: Mohsen Ahmed Saleh
+  - uid: '36251'
+    type: a.k.a.
+    category: strong
+    last_name: AL-ADANI
+    first_name: Nashwan
+  - uid: '36252'
+    type: a.k.a.
+    category: strong
+    last_name: ABU-SULAYMAN
+    first_name: Nashwan al-Adani
+  - uid: '36253'
+    type: a.k.a.
+    category: weak
+    last_name: AL-MUHAJIR, Abu Usama
+  - uid: '36254'
+    type: a.k.a.
+    category: strong
+    last_name: QAN'AN
+    first_name: Muhammad Salih Muhammad
+  - uid: '36255'
+    type: a.k.a.
+    category: strong
+    last_name: AL-HASHIMI
+    first_name: Abu Ma'ali
+address_list:
+  items:
+  - uid: '34813'
+    country: Yemen
+id_list:
+  items:
+  - uid: '14480'
+    id_type: Passport
+    id_number: '05867398'
+    id_country: Yemen
+  - uid: '14481'
+    id_type: Passport
+    id_number: '04988639'
+    id_country: Jordan
+  - uid: '186657'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '124616'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '24617'
+    date_of_birth: 13 Jan 1988
+    main_entry: 'true'
+remarks: "(Linked To: ISIL-YEMEN)"

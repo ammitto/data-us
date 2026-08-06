@@ -1,0 +1,35 @@
+---
+uid: '45252'
+last_name: DOMINION TVERSKAYA YAROSLAVSKAYA LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '67338'
+    address1: d. 12 str. 1 etazh 2 Ch. pom. I, ul.Tverskaya
+    city: Moscow
+    postal_code: '125375'
+    country: Russia
+id_list:
+  items:
+  - uid: '34983'
+    id_type: Tax ID No.
+    id_number: '9710013970'
+    id_country: Russia
+  - uid: '34984'
+    id_type: Registration Number
+    id_number: '1167746621448'
+    id_country: Russia
+  - uid: '34985'
+    id_type: Government Gazette Number
+    id_number: '03343090'
+    id_country: Russia
+  - uid: '175960'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '165663'
+    id_type: Organization Established Date
+    id_number: '2016'
+remarks: "(Linked To: POPOVIC, Nenad)"

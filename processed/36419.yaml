@@ -1,0 +1,51 @@
+---
+uid: '36419'
+last_name: LIMITED LIABILITY COMPANY KORUS CONSULTING CIS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '57377'
+    type: a.k.a.
+    category: strong
+    last_name: KORUS CONSULTING CIS LLC
+  - uid: '57378'
+    type: a.k.a.
+    category: strong
+    last_name: KORUS CONSULTING SNG
+  - uid: '90068'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU KORUS KONSALTING SNG
+address_list:
+  items:
+  - uid: '54715'
+    address1: Room 1N, 68 letter N Bolshoy Sampsonievskiy Ave
+    city: St. Petersburg
+    postal_code: '194100'
+    country: Russia
+id_list:
+  items:
+  - uid: '25818'
+    id_type: Tax ID No.
+    id_number: '7801392271'
+    id_country: Russia
+  - uid: '25819'
+    id_type: Registration Number
+    id_number: '1057812752502'
+    id_country: Russia
+  - uid: '174200'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '199894'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '199893'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 1
+remarks: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)'

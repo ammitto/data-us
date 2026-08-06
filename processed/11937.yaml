@@ -1,0 +1,49 @@
+---
+uid: '11937'
+first_name: Jose Antonio
+last_name: GALARZA CORONADO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '12684'
+    type: a.k.a.
+    category: strong
+    last_name: GALARZA CORONADO
+    first_name: Antonio
+address_list:
+  items:
+  - uid: '18153'
+    address1: Privada Los Ebanos 105
+    address2: Fraccionamiento Pedregal
+    city: San Nicholas de Los Garza
+    state_or_province: Nuevo Leon
+    country: Mexico
+  - uid: '18154'
+    address1: Espana Street
+    address2: Col. Buena Vista
+    city: Matamoros
+    state_or_province: Tamaulipas
+    country: Mexico
+  - uid: '18155'
+    city: Nuevo Laredo
+    state_or_province: Tamaulipas
+    country: Mexico
+id_list:
+  items:
+  - uid: '6363'
+    id_type: C.U.R.P.
+    id_number: GACA601113HTSLRN00
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '7576'
+    date_of_birth: 13 Nov 1960
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '7577'
+    place_of_birth: Matamoros, Tamaulipas, Mexico
+    main_entry: 'true'

@@ -1,0 +1,30 @@
+---
+uid: '26952'
+first_name: Ali Akbar
+last_name: VELAYATI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13876
+address_list:
+  items:
+  - uid: '40966'
+    country: Iran
+id_list:
+  items:
+  - uid: '131818'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '131823'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '31819'
+    date_of_birth: 25 Jun 1945
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '31820'
+    place_of_birth: Shemiran, Tehran, Iran
+    main_entry: 'true'

@@ -1,0 +1,41 @@
+---
+uid: '37182'
+first_name: Dwi Dahlia
+last_name: SUSANTI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '55616'
+    city: Idlib
+    country: Syria
+  - uid: '55617'
+    address1: Kel. Sambonjaya
+    address2: Kec. Mangkubumi
+    city: Tasikmalaya
+    country: Indonesia
+id_list:
+  items:
+  - uid: '26481'
+    id_type: Passport
+    id_number: B 3306967
+    id_country: Indonesia
+  - uid: '26482'
+    id_type: Identification Number
+    id_number: '197607281998032001'
+    id_country: Indonesia
+  - uid: '151670'
+    id_type: Gender
+    id_number: Female
+  - uid: '151680'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '51669'
+    date_of_birth: 28 Jul 1976
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC STATE OF IRAQ AND THE LEVANT)"

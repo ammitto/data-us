@@ -1,0 +1,43 @@
+---
+uid: '50180'
+last_name: AKTSIONERNOE OBSHCHESTVO NORILSKI GORNO METALLURGICHESKI KOMBINAT IM AP
+  ZAVENYAGINA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78273'
+    type: a.k.a.
+    category: strong
+    last_name: NORILSKI KOMBINAT AO
+  - uid: '78274'
+    type: a.k.a.
+    category: strong
+    last_name: AO NORILSK KOMBINAT
+  - uid: '78275'
+    type: a.k.a.
+    category: strong
+    last_name: AO NORILSKII KOMBINAT
+address_list:
+  items:
+  - uid: '75953'
+    address1: 2, pl. Gvardeiskaya
+    city: Norilsk
+    state_or_province: Krasnoyarsk region
+    postal_code: '663302'
+    country: Russia
+id_list:
+  items:
+  - uid: '41801'
+    id_type: Registration Number
+    id_number: '1022401625003'
+    id_country: Russia
+  - uid: '41802'
+    id_type: Tax ID No.
+    id_number: '2457009990'
+    id_country: Russia
+  - uid: '178079'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,33 @@
+---
+uid: '48529'
+last_name: PUBLIC JOINT STOCK COMPANY AVTODIZEL YAROSLAVL MOTOR PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75434'
+    type: a.k.a.
+    category: weak
+    last_name: YAMZ
+address_list:
+  items:
+  - uid: '72837'
+    address1: Prospekt Oktyabrya ZD. 75
+    city: Yaroslavl
+    postal_code: '150040'
+    country: Russia
+id_list:
+  items:
+  - uid: '39469'
+    id_type: Registration Number
+    id_number: '1027600510761'
+    id_country: Russia
+  - uid: '39470'
+    id_type: Tax ID No.
+    id_number: '7601000640'
+    id_country: Russia
+  - uid: '171344'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

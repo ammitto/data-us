@@ -1,0 +1,38 @@
+---
+uid: '55050'
+last_name: COALITION OF CONGOLESE PATRIOTIC RESISTANCE-FORCE DE FRAPPE
+sdn_type: Entity
+program_list:
+  programs:
+  - DRCONGO
+aka_list:
+  items:
+  - uid: '85708'
+    type: a.k.a.
+    category: strong
+    last_name: COALITION DES PATRIOTES RESISTANTS CONGOLAIS-FORCE DE FRAPPE
+  - uid: '85709'
+    type: a.k.a.
+    category: weak
+    last_name: PARECO-FF
+  - uid: '85710'
+    type: a.k.a.
+    category: weak
+    last_name: PARECO
+address_list:
+  items:
+  - uid: '84172'
+    address1: Masisi Territory
+    state_or_province: North Kivu
+    country: Congo, Democratic Republic of the
+id_list:
+  items:
+  - uid: '191963'
+    id_type: Organization Established Date
+    id_number: 23 Nov 2022
+  - uid: '191964'
+    id_type: Organization Established Date
+    id_number: '2006'
+  - uid: '192043'
+    id_type: Target Type
+    id_number: Armed Group

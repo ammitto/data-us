@@ -1,0 +1,41 @@
+---
+uid: '38876'
+last_name: ROTEK ELPOM, LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '60707'
+    type: a.k.a.
+    category: strong
+    last_name: ROTEK-ELPOM
+address_list:
+  items:
+  - uid: '57964'
+    address1: Ul. Marksistskaya D. 22, Str. 1
+    address2: Floor 8
+    address3: Office 801/11
+    city: Moscow
+    postal_code: '109147'
+    country: Russia
+id_list:
+  items:
+  - uid: '28116'
+    id_type: Tax ID No.
+    id_number: '7703545018'
+    id_country: Russia
+  - uid: '28117'
+    id_type: Trade License No.
+    id_number: '1057746425978'
+    id_country: Russia
+  - uid: '174720'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '154488'
+    id_type: Website
+    id_number: www.raven-black.com
+  - uid: '154487'
+    id_type: Organization Established Date
+    id_number: 14 Mar 2005

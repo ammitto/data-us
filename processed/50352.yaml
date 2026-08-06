@@ -1,0 +1,37 @@
+---
+uid: '50352'
+last_name: JOINT STOCK COMPANY PROIZVODSTVENNOE OBYEDINENIE KRISTALL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78693'
+    type: a.k.a.
+    category: strong
+    last_name: AO PO KRISTALL
+  - uid: '78694'
+    type: a.k.a.
+    category: strong
+    last_name: JSC PRODUCTION CORPORATION KRISTALL
+address_list:
+  items:
+  - uid: '76311'
+    address1: d. 2, ul. Shkadova
+    city: Smolensk
+    postal_code: '214031'
+    country: Russia
+id_list:
+  items:
+  - uid: '42089'
+    id_type: Registration Number
+    id_number: '1036758337021'
+    id_country: Russia
+  - uid: '42090'
+    id_type: Tax ID No.
+    id_number: '6731044928'
+    id_country: Russia
+  - uid: '178320'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

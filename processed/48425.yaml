@@ -1,0 +1,37 @@
+---
+uid: '48425'
+last_name: LIMITED LIABILITY COMPANY REIL TREIN SERVICE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75259'
+    type: a.k.a.
+    category: weak
+    last_name: RAIL TRAIN SERVICE
+  - uid: '75260'
+    type: a.k.a.
+    category: weak
+    last_name: RAILTRAINSERVICE
+address_list:
+  items:
+  - uid: '72645'
+    address1: Ul. Kakhovka D. 10, K. 3
+    city: Moscow
+    postal_code: '117461'
+    country: Russia
+id_list:
+  items:
+  - uid: '39311'
+    id_type: Registration Number
+    id_number: '5117746041100'
+    id_country: Russia
+  - uid: '39312'
+    id_type: Tax ID No.
+    id_number: '7727769031'
+    id_country: Russia
+  - uid: '176615'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

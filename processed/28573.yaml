@@ -1,0 +1,45 @@
+---
+uid: '28573'
+first_name: Liz Paola
+last_name: DOLDAN GONZALEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '44956'
+    type: a.k.a.
+    category: strong
+    last_name: DOLDAN GONZALEZ
+    first_name: Liz Paola Florinda
+address_list:
+  items:
+  - uid: '49703'
+    address1: Avenida Canadones Chaquenos Numero 23
+    address2: Barrio Obrero
+    city: Ciudad Del Este
+    country: Paraguay
+id_list:
+  items:
+  - uid: '18963'
+    id_type: 'RUC #'
+    id_number: 3379699-8
+    id_country: Paraguay
+  - uid: '22754'
+    id_type: Passport
+    id_number: '3379699'
+    id_country: Paraguay
+  - uid: '142832'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '42822'
+    date_of_birth: 07 Sep 1986
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '42835'
+    place_of_birth: Pdte. Stroessner, Paraguay
+    main_entry: 'true'

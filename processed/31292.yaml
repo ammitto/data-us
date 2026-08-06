@@ -1,0 +1,42 @@
+---
+uid: '31292'
+last_name: TRANS LOGISTIK, OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - CYBER2
+  - ELECTION-EO13848
+  - UKRAINE-EO13661
+aka_list:
+  items:
+  - uid: '49151'
+    type: a.k.a.
+    category: weak
+    last_name: TRANS LOGISTIC
+address_list:
+  items:
+  - uid: '47265'
+    address1: d. 37 litera A etazh, pom.
+    address2: ofis 2/66/215, prospekt Stachek
+    city: St. Petersburg
+    postal_code: '198097'
+    country: Russia
+id_list:
+  items:
+  - uid: '21234'
+    id_type: Government Gazette Number
+    id_number: '20567335'
+    id_country: Russia
+  - uid: '21235'
+    id_type: Tax ID No.
+    id_number: '7805719070'
+    id_country: Russia
+  - uid: '21236'
+    id_type: Registration Number
+    id_number: '1177847397848'
+    id_country: Russia
+  - uid: '144138'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+remarks: "(Linked To: PRIGOZHIN, Yevgeniy Viktorovich)"

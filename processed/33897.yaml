@@ -1,0 +1,58 @@
+---
+uid: '33897'
+last_name: PUBLIC JOINT-STOCK COMPANY COMMERCIAL BANK 'SPUTNIK'
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+aka_list:
+  items:
+  - uid: '58786'
+    type: a.k.a.
+    category: strong
+    last_name: COMMERCIAL BANK SPUTNIK PUBLIC JOINT-STOCK COMPANY
+  - uid: '58787'
+    type: a.k.a.
+    category: strong
+    last_name: BANK SPUTNIK CJSC
+  - uid: '58788'
+    type: a.k.a.
+    category: strong
+    last_name: CB SPUTNIK PJSC
+  - uid: '58789'
+    type: a.k.a.
+    category: strong
+    last_name: CB SPUTNIK
+  - uid: '58790'
+    type: a.k.a.
+    category: strong
+    last_name: BANK SPUTNIK
+  - uid: '58791'
+    type: f.k.a.
+    category: strong
+    last_name: OPEN JOINT-STOCK COMPANY COMMERCIAL BANK 'SPUTNIK'
+address_list:
+  items:
+  - uid: '56123'
+    address1: Agibalov St. 48
+    address2: Office 70
+    city: Samara
+    state_or_province: Samarskaya, Oblast
+    postal_code: '443041'
+    country: Russia
+id_list:
+  items:
+  - uid: '26716'
+    id_type: Registration Number
+    id_number: '1071'
+    id_country: Russia
+  - uid: '152412'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '152407'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '152408'
+    id_type: SWIFT/BIC
+    id_number: CSPJRU33

@@ -1,0 +1,48 @@
+---
+uid: '41797'
+first_name: Nasiba Erkinovna
+last_name: NARZIEVA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '62367'
+    country: Uzbekistan
+id_list:
+  items:
+  - uid: '31179'
+    id_type: Passport
+    id_number: AA0124604
+    id_country: Uzbekistan
+    issue_date: 21 Jun 2016
+    expiration_date: 20 Jun 2022
+  - uid: '31180'
+    id_type: Passport
+    id_number: FA0002578
+    id_country: Uzbekistan
+    expiration_date: 14 Jan 2029
+  - uid: '31181'
+    id_type: Passport
+    id_number: CA2609496
+    id_country: Uzbekistan
+    issue_date: 01 Jun 2009
+    expiration_date: 29 Jun 2029
+  - uid: '160011'
+    id_type: Gender
+    id_number: Female
+  - uid: '176941'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '60012'
+    date_of_birth: 30 Jun 1984
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '60013'
+    place_of_birth: Tashkent, Uzbekistan
+    main_entry: 'true'
+remarks: "(Linked To: NASIRKHODJAEV, Shokhrukh Olimdjonovich)"

@@ -1,0 +1,33 @@
+---
+uid: '47764'
+last_name: JOINT STOCK COMPANY SINARSKIY PIPE PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74087'
+    type: a.k.a.
+    category: weak
+    last_name: JSC SINTZ
+address_list:
+  items:
+  - uid: '71446'
+    address1: 1 Zavodskiy Passage Street
+    city: Kamensk-Uralskiy
+    postal_code: '623401'
+    country: Russia
+id_list:
+  items:
+  - uid: '38432'
+    id_type: Registration Number
+    id_number: '1026600931686'
+    id_country: Russia
+  - uid: '38433'
+    id_type: Tax ID No.
+    id_number: '6612000551'
+    id_country: Russia
+  - uid: '176432'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

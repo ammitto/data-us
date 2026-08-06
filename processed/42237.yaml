@@ -1,0 +1,57 @@
+---
+uid: '42237'
+first_name: Mohamad
+last_name: WEHBE
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '65617'
+    type: a.k.a.
+    category: strong
+    last_name: WAHBI
+    first_name: Muhammad
+address_list:
+  items:
+  - uid: '63018'
+    address1: Bedfordview
+    address2: Ekurhuleni
+    country: South Africa
+  - uid: '63019'
+    address1: 25 Sandhurst Vista
+    address2: 13 Riepen Ave
+    address3: Riepen Park
+    city: Sandton
+    postal_code: '2196'
+    country: South Africa
+id_list:
+  items:
+  - uid: '31700'
+    id_type: Identification Number
+    id_number: '9204146485189'
+    id_country: South Africa
+  - uid: '31701'
+    id_type: Passport
+    id_number: '2654120'
+    id_country: Lebanon
+    expiration_date: 22 Oct 2018
+  - uid: '160536'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '160808'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '60534'
+    date_of_birth: 14 Apr 1992
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '60535'
+    place_of_birth: Lebanon
+    main_entry: 'true'
+remarks: "(Linked To: AHMAD, Firas Nazem)"

@@ -1,0 +1,44 @@
+---
+uid: '48332'
+last_name: JSC NIIEVM
+sdn_type: Entity
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '75106'
+    type: a.k.a.
+    category: strong
+    last_name: OPEN JOINT STOCK COMPANY RESEARCH INSTITUTE OF ELECTRONIC COMPUTERS
+  - uid: '75107'
+    type: a.k.a.
+    category: strong
+    last_name: OAO NAUCHNO-ISSLEDOVATELSKIY INSTITUT ELEKTRONNYKH VYCHISLITELNYKH
+      MASHIN
+  - uid: '75519'
+    type: a.k.a.
+    category: strong
+    last_name: AAT NAVUKOVA-DASLEDCHY INSTYTUT ELEKTRONNYKH VYLICHALNYKH MASHYN
+  - uid: '75520'
+    type: a.k.a.
+    category: strong
+    last_name: COMPUTER RESEARCH INSTITUTE NIIEVM
+address_list:
+  items:
+  - uid: '72932'
+    address1: 155 Bogdanovicha St.
+    city: Minsk
+    postal_code: '220040'
+    country: Belarus
+id_list:
+  items:
+  - uid: '39533'
+    id_type: Tax ID No.
+    id_number: '100219724'
+    id_country: Belarus
+  - uid: '170854'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
+remarks: "(Linked To: OJSC AGAT-CONTROL SYSTEM-MANAGING COMPANY OF GEOINFORMATION
+  CONTROL SYSTEMS HOLDING)"

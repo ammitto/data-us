@@ -1,0 +1,31 @@
+---
+uid: '46497'
+first_name: Pedro
+last_name: INZUNZA NORIEGA
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '69178'
+    country: Mexico
+id_list:
+  items:
+  - uid: '36425'
+    id_type: C.U.R.P.
+    id_number: IUNP621124HSLNRD01
+    id_country: Mexico
+  - uid: '167367'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '67364'
+    date_of_birth: 24 Nov 1962
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '67365'
+    place_of_birth: Sinaloa, Mexico
+    main_entry: 'true'

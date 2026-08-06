@@ -1,0 +1,33 @@
+---
+uid: '46727'
+last_name: JOINT STOCK COMPANY OZGRK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '72148'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY OZERNAYA MINING COMPANY
+address_list:
+  items:
+  - uid: '69620'
+    address1: 10 Naberezhnaya Presnenskaya
+    city: Moscow
+    postal_code: '123112'
+    country: Russia
+id_list:
+  items:
+  - uid: '36786'
+    id_type: Registration Number
+    id_number: '1187746993114'
+    id_country: Russia
+  - uid: '36787'
+    id_type: Tax ID No.
+    id_number: '9705126249'
+    id_country: Russia
+  - uid: '176258'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,56 @@
+---
+uid: '53797'
+first_name: Reza Amiri
+last_name: MOGHADAM
+sdn_type: Individual
+program_list:
+  programs:
+  - HOSTAGES-EO14078
+aka_list:
+  items:
+  - uid: '83802'
+    type: a.k.a.
+    category: strong
+    last_name: MOQADAM
+    first_name: Reza Amiri
+  - uid: '83803'
+    type: a.k.a.
+    category: strong
+    last_name: MOGHADDAM
+    first_name: Reza Amiri
+  - uid: '83804'
+    type: a.k.a.
+    category: strong
+    last_name: AMIRINIA
+    first_name: Ahmad
+address_list:
+  items:
+  - uid: '82119'
+    country: Iran
+id_list:
+  items:
+  - uid: '47187'
+    id_type: Passport
+    id_number: P59446693
+    id_country: Iran
+    expiration_date: 05 Sep 2027
+  - uid: '47188'
+    id_type: Passport
+    id_number: D10004770
+    id_country: Iran
+    expiration_date: 17 Feb 2024
+  - uid: '188807'
+    id_type: Gender
+    id_number: Male
+  - uid: '188809'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '88805'
+    date_of_birth: 30 Apr 1961
+    main_entry: 'true'
+  - uid: '88806'
+    date_of_birth: 30 Apr 1960
+    main_entry: 'false'
+remarks: "(Linked To: IRANIAN MINISTRY OF INTELLIGENCE AND SECURITY)"

@@ -1,0 +1,38 @@
+---
+uid: '40268'
+first_name: Alexander Viktorovich
+last_name: USS
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '62648'
+    type: a.k.a.
+    category: strong
+    last_name: USS
+    first_name: Alexander Viktorovich
+address_list:
+  items:
+  - uid: '60031'
+    state_or_province: Krasnoyarsk Territory
+    country: Russia
+id_list:
+  items:
+  - uid: '174069'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '157327'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '57326'
+    date_of_birth: 03 Nov 1954
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '57334'
+    place_of_birth: Novogorodka, Krasnoyarsk Territory, Russia
+    main_entry: 'true'

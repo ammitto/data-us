@@ -1,0 +1,28 @@
+---
+uid: '12558'
+first_name: Mani
+last_name: JAFARI
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+id_list:
+  items:
+  - uid: '7043'
+    id_type: Passport
+    id_number: '10734'
+    id_country: Iran
+  - uid: '113957'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '8263'
+    date_of_birth: 22 Mar 1977
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '8264'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'

@@ -1,0 +1,29 @@
+---
+uid: '18955'
+last_name: PYONGJIN SHIP MANAGEMENT COMPANY LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK
+address_list:
+  items:
+  - uid: '28838'
+    address1: Ryukkyo 1-dong, Pyongchon-guyok
+    city: Pyongyang
+    country: Korea, North
+  - uid: '28839'
+    address1: 102 Ryuggyo 1-dong, Pyongchon District
+    city: Pyongyang
+    country: Korea, North
+id_list:
+  items:
+  - uid: '11285'
+    id_type: Identification Number
+    id_number: IMO 5817790
+  - uid: '134938'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '127113'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210

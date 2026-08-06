@@ -1,0 +1,44 @@
+---
+uid: '27032'
+first_name: Mohammad
+last_name: FAKHRZADEH
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '42821'
+    type: a.k.a.
+    category: strong
+    last_name: FAKHR ZADEH
+    first_name: Mohammad
+address_list:
+  items:
+  - uid: '41085'
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '17667'
+    id_type: National ID No.
+    id_number: '3932714806'
+    id_country: Iran
+  - uid: '131969'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '131972'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '31970'
+    date_of_birth: 22 May 1978
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '31971'
+    place_of_birth: Malayer, Iran
+    main_entry: 'true'
+remarks: "(Linked To: IRAN CENTRIFUGE TECHNOLOGY COMPANY)"

@@ -1,0 +1,35 @@
+---
+uid: '28927'
+first_name: Habil
+last_name: DARVISH
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+address_list:
+  items:
+  - uid: '43717'
+    country: Iran
+id_list:
+  items:
+  - uid: '135491'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '135484'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '35480'
+    date_of_birth: '1952'
+    main_entry: 'true'
+  - uid: '35481'
+    date_of_birth: '1953'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '35482'
+    place_of_birth: Para Qeshlaq, Parsabad-Moghan, Iran
+    main_entry: 'true'
+remarks: "(Linked To: LAW ENFORCEMENT FORCES OF THE ISLAMIC REPUBLIC OF IRAN COOPERATIVE
+  FOUNDATION)"

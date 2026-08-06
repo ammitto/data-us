@@ -1,0 +1,34 @@
+---
+uid: '42007'
+last_name: PROISTOK OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65291'
+    type: a.k.a.
+    category: strong
+    last_name: PROISTOCK
+address_list:
+  items:
+  - uid: '62689'
+    address1: ul. Aerodromnaya d. 8
+    address2: lit. A, pomeshch. 235
+    city: Saint Petersburg
+    postal_code: '197348'
+    country: Russia
+id_list:
+  items:
+  - uid: '31418'
+    id_type: Registration Number
+    id_number: '1167847164605'
+    id_country: Russia
+  - uid: '31419'
+    id_type: Tax ID No.
+    id_number: '7814646621'
+    id_country: Russia
+  - uid: '173741'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

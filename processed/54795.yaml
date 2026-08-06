@@ -1,0 +1,25 @@
+---
+uid: '54795'
+last_name: YUG
+sdn_type: Vessel
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '85290'
+    type: a.k.a.
+    category: weak
+    last_name: MUR
+id_list:
+  items:
+  - uid: '48547'
+    id_type: MMSI
+    id_number: '620999317'
+  - uid: '48549'
+    id_type: Vessel Registration Identification
+    id_number: IMO 9288875
+  - uid: '191392'
+    id_type: Vessel Year of Build
+    id_number: '2005'
+remarks: "(Linked To: YUG SHIPPING INC.)"

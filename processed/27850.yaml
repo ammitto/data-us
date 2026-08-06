@@ -1,0 +1,47 @@
+---
+uid: '27850'
+first_name: Mohammad
+last_name: BAGHERI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13876
+aka_list:
+  items:
+  - uid: '43907'
+    type: a.k.a.
+    category: strong
+    last_name: BAGHERI AFSHORDI
+    first_name: Mohammad
+  - uid: '43908'
+    type: a.k.a.
+    category: strong
+    last_name: BAQERI
+    first_name: Mohammad Hossein
+  - uid: '43909'
+    type: a.k.a.
+    category: strong
+    last_name: BAGHERI
+    first_name: Mohammed
+address_list:
+  items:
+  - uid: '42166'
+    country: Iran
+id_list:
+  items:
+  - uid: '133099'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '133091'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '33088'
+    date_of_birth: '1960'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '33089'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'

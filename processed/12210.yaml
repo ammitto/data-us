@@ -1,0 +1,41 @@
+---
+uid: '12210'
+last_name: RECONNAISSANCE GENERAL BUREAU
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK
+  - DPRK2
+aka_list:
+  items:
+  - uid: '13147'
+    type: a.k.a.
+    category: strong
+    last_name: CHONGCH'AL CH'ONGGUK
+  - uid: '13148'
+    type: a.k.a.
+    category: weak
+    last_name: RGB
+  - uid: '13149'
+    type: a.k.a.
+    category: strong
+    last_name: KPA UNIT 586
+address_list:
+  items:
+  - uid: '18686'
+    address1: Hyongjesan-Guyok
+    city: Pyongyang
+    country: Korea, North
+  - uid: '18687'
+    address1: Nungrado
+    city: Pyongyang
+    country: Korea, North
+id_list:
+  items:
+  - uid: '127067'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '134865'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214

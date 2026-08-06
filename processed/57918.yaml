@@ -1,0 +1,40 @@
+---
+uid: '57918'
+first_name: Sajjad
+last_name: AHADZADEH
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - IRAN-CON-ARMS-EO
+address_list:
+  items:
+  - uid: '88868'
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '52435'
+    id_type: National ID No.
+    id_number: '0072094400'
+    id_country: Iran
+  - uid: '52436'
+    id_type: Passport
+    id_number: D10006855
+    id_country: Iran
+  - uid: '198705'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '198693'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '98691'
+    date_of_birth: 26 Mar 1983
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '98692'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'

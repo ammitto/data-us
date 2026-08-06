@@ -1,0 +1,34 @@
+---
+uid: '51835'
+last_name: JOINT STOCK COMPANY ROSNEFTEFLOT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+address_list:
+  items:
+  - uid: '78994'
+    address1: Nab. Presnenskaya D. 6
+    address2: Str. 2
+    address3: Delovoi Kompleks Imperiya
+    city: Moscow
+    postal_code: '109004'
+    country: Russia
+id_list:
+  items:
+  - uid: '44527'
+    id_type: Registration Number
+    id_number: '1026500526590'
+    id_country: Russia
+  - uid: '44530'
+    id_type: Tax ID No.
+    id_number: '6501096047'
+    id_country: Russia
+  - uid: '182179'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183255'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

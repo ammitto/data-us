@@ -1,0 +1,60 @@
+---
+uid: '36389'
+first_name: Mikhail Yurevich
+last_name: ALEKSEEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '57309'
+    type: a.k.a.
+    category: strong
+    last_name: ALEKSEYEV
+    first_name: Mikhail Yurievich
+  - uid: '57310'
+    type: a.k.a.
+    category: strong
+    last_name: ALEXEEV
+    first_name: Mikhail Yurievich
+  - uid: '57311'
+    type: a.k.a.
+    category: strong
+    last_name: ALEXEYEV
+    first_name: Mikhail Iurievich
+  - uid: '57312'
+    type: a.k.a.
+    category: strong
+    last_name: ALEKSEEV
+    first_name: Mikhail
+address_list:
+  items:
+  - uid: '54651'
+    address1: 4 Usievicha St. Apt. 45, H.
+    city: Moscow
+    postal_code: '125319'
+    country: Russia
+id_list:
+  items:
+  - uid: '25786'
+    id_type: Passport
+    id_number: '220051483'
+    id_country: Russia
+  - uid: '174183'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '150012'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '50010'
+    date_of_birth: 04 Jan 1964
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '50011'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'
+remarks: "(Linked To: PUBLIC JOINT STOCK COMPANY BANK FINANCIAL CORPORATION OTKRITIE)"

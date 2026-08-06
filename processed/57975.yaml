@@ -1,0 +1,67 @@
+---
+uid: '57975'
+last_name: FIRST VPN SERVICE
+sdn_type: Entity
+program_list:
+  programs:
+  - CYBER4
+aka_list:
+  items:
+  - uid: '89668'
+    type: a.k.a.
+    category: strong
+    last_name: 1VPNS
+  - uid: '89669'
+    type: a.k.a.
+    category: weak
+    last_name: FVPNS
+  - uid: '89670'
+    type: a.k.a.
+    category: strong
+    last_name: FIRSTVPN
+address_list:
+  items:
+  - uid: '88972'
+    city: Dnipro
+    country: Ukraine
+id_list:
+  items:
+  - uid: '198857'
+    id_type: Digital Currency Address - XBT
+    id_number: bc1qdnr88f4d2yqunnc4mjsguezm6g3mlwe44z5dw8
+  - uid: '198858'
+    id_type: Digital Currency Address - XBT
+    id_number: bc1qr4ankqmvmrhce3ydvzse86dfx5s3zhehfr9tg9
+  - uid: '198859'
+    id_type: Digital Currency Address - ETH
+    id_number: '0x2711d73d559f62f4f855ee21f38378f528e07985'
+  - uid: '198854'
+    id_type: Organization Established Date
+    id_number: Oct 2014
+  - uid: '198855'
+    id_type: 'Organization Type:'
+    id_number: Computer programming activities
+  - uid: '198856'
+    id_type: Digital Currency Address - TRX
+    id_number: TUuaxBAWfA5nmsqNfycxYrzEvz4a5GJMGY
+  - uid: '198846'
+    id_type: Website
+    id_number: 1vpns.com
+  - uid: '198847'
+    id_type: Website
+    id_number: 1vpns.net
+  - uid: '198849'
+    id_type: Website
+    id_number: 1vpns.org
+  - uid: '198850'
+    id_type: Website
+    id_number: 1jabber.com
+  - uid: '198852'
+    id_type: Website
+    id_number: t.me/FirstVPNService
+  - uid: '198853'
+    id_type: Email Address
+    id_number: support@1vpns.com
+  - uid: '198860'
+    id_type: Digital Currency Address - LTC
+    id_number: ltc1qr8ntsedq8tv0svmxqhzvdcdl5k7kntdmnhwep7

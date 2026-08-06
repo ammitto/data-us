@@ -1,0 +1,35 @@
+---
+uid: '35967'
+first_name: Sergey Nikolaevich
+last_name: BONDAROVICH
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '53969'
+    country: Russia
+id_list:
+  items:
+  - uid: '25319'
+    id_type: Passport
+    id_number: '437899482'
+    id_country: Russia
+  - uid: '173314'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '149176'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '49174'
+    date_of_birth: 20 Feb 1968
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '49175'
+    place_of_birth: Zhodino, Belarus
+    main_entry: 'true'
+remarks: "(Linked To: SOVCOMBANK OPEN JOINT STOCK COMPANY)"

@@ -1,0 +1,31 @@
+---
+uid: '26591'
+last_name: BANCO PRODEM S.A.
+sdn_type: Entity
+program_list:
+  programs:
+  - VENEZUELA-EO13850
+aka_list:
+  items:
+  - uid: '41993'
+    type: f.k.a.
+    category: strong
+    last_name: FONDO FINANCIERO PRIVADO PRODEM S.A.
+address_list:
+  items:
+  - uid: '40339'
+    address1: Calle Belisario Salinas No 520
+    address2: esquina, Sanchez Lima
+    address3: La Paz
+    city: La Paz
+    country: Bolivia
+id_list:
+  items:
+  - uid: '17214'
+    id_type: Tax ID No.
+    id_number: '1029837028'
+    id_country: Bolivia
+  - uid: '131167'
+    id_type: SWIFT/BIC
+    id_number: BPRMBOLP
+remarks: "(Linked To: BANCO DE DESARROLLO ECONOMICO Y SOCIAL DE VENEZUELA)"

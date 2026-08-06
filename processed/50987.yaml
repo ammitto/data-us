@@ -1,0 +1,33 @@
+---
+uid: '50987'
+last_name: MAGNITOGORSKII ELEKTRODNYI ZAVOD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79892'
+    type: a.k.a.
+    category: weak
+    last_name: LLC MEZ
+address_list:
+  items:
+  - uid: '77483'
+    address1: sh. Beloretskoe d. 5, kabinet 1
+    city: Magnitogorsk
+    postal_code: '455022'
+    country: Russia
+id_list:
+  items:
+  - uid: '43025'
+    id_type: Registration Number
+    id_number: '1177456061771'
+    id_country: Russia
+  - uid: '43026'
+    id_type: Tax ID No.
+    id_number: '7456037049'
+    id_country: Russia
+  - uid: '179880'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

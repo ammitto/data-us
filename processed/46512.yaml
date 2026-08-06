@@ -1,0 +1,62 @@
+---
+uid: '46512'
+last_name: NATIONAL CLEARING CENTER
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '76395'
+    type: a.k.a.
+    category: strong
+    last_name: CENTRAL COUNTERPARTY NATIONAL CLEARING CENTER
+  - uid: '76396'
+    type: a.k.a.
+    category: weak
+    last_name: NCC
+  - uid: '76397'
+    type: a.k.a.
+    category: strong
+    last_name: CCP NCC
+address_list:
+  items:
+  - uid: '73752'
+    address1: 13 Bolshoy Kislovskii Per.
+    city: Moscow
+    postal_code: '125009'
+    country: Russia
+id_list:
+  items:
+  - uid: '40094'
+    id_type: Legal Entity Number
+    id_number: 2534007UK6G30KDX1A47
+  - uid: '40095'
+    id_type: Government Gazette Number
+    id_number: '96537839'
+    id_country: Russia
+  - uid: '40096'
+    id_type: Tax ID No.
+    id_number: '7750004023'
+    id_country: Russia
+  - uid: '40097'
+    id_type: Registration Number
+    id_number: '1067711004481'
+    id_country: Russia
+  - uid: '184250'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '171824'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '172718'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '171826'
+    id_type: SWIFT/BIC
+    id_number: NCCBRUMM
+  - uid: '171825'
+    id_type: Organization Established Date
+    id_number: 30 May 2006

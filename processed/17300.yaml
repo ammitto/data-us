@@ -1,0 +1,44 @@
+---
+uid: '17300'
+first_name: Abd al-Baset
+last_name: AZZOUZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '26767'
+    type: a.k.a.
+    category: strong
+    last_name: AZOUZ
+    first_name: Abdelbassed
+  - uid: '26769'
+    type: a.k.a.
+    category: strong
+    last_name: AZUZ
+    first_name: Abdulbasit
+id_list:
+  items:
+  - uid: '9736'
+    id_type: Passport
+    id_number: '223611'
+    id_country: Libya
+  - uid: '9737'
+    id_type: Passport
+    id_number: C00146605
+    id_country: United Kingdom
+  - uid: '186418'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '16240'
+    date_of_birth: 07 Feb 1966
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '16241'
+    place_of_birth: Doma, Libya
+    main_entry: 'true'

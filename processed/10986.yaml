@@ -1,0 +1,32 @@
+---
+uid: '10986'
+first_name: Armando
+last_name: AGUIRRE CARDONA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '15999'
+    country: Mexico
+id_list:
+  items:
+  - uid: '5494'
+    id_type: C.U.R.P.
+    id_number: AUCA551028HNLGRR03
+    id_country: Mexico
+  - uid: '5495'
+    id_type: R.F.C.
+    id_number: AUCA551028
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '6456'
+    date_of_birth: 28 Oct 1955
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '6457'
+    place_of_birth: Nuevo Leon, Monterrey, Mexico
+    main_entry: 'true'

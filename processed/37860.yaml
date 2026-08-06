@@ -1,0 +1,71 @@
+---
+uid: '37860'
+last_name: JOINT STOCK COMPANY STATE TRANSPORTATION LEASING COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '59499'
+    type: a.k.a.
+    category: strong
+    last_name: GTLK AO
+  - uid: '59500'
+    type: a.k.a.
+    category: strong
+    last_name: PUBLIC JOINT STOCK COMPANY STATE TRANSPORT LEASING COMPANY
+  - uid: '59501'
+    type: a.k.a.
+    category: strong
+    last_name: PJSC STLC
+  - uid: '59502'
+    type: a.k.a.
+    category: strong
+    last_name: PJSC GTLK
+  - uid: '59503'
+    type: a.k.a.
+    category: strong
+    last_name: JSC GTLK
+  - uid: '60102'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOYE OBSHCHESTVO GOSUDARSTVENNAYA TRANSPORTNAYA LIZINGOVAYA
+      KOMPANIYA
+address_list:
+  items:
+  - uid: '56738'
+    address1: 31A Leningradsky prospekt
+    address2: Bldg 1
+    city: Moscow
+    postal_code: '125284'
+    country: Russia
+  - uid: '56740'
+    address1: ul. Respubliki
+    address2: D. 73, Kom. 100
+    city: Salekhard
+    state_or_province: Yamalo-Nenets Autonomous Region
+    postal_code: '629008'
+    country: Russia
+id_list:
+  items:
+  - uid: '27161'
+    id_type: Government Gazette Number
+    id_number: '57992197'
+    id_country: Russia
+  - uid: '27162'
+    id_type: Tax ID No.
+    id_number: '7720261827'
+    id_country: Russia
+  - uid: '27163'
+    id_type: Registration Number
+    id_number: '1027739407189'
+    id_country: Russia
+  - uid: '174607'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184547'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

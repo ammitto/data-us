@@ -1,0 +1,50 @@
+---
+uid: '29407'
+first_name: Fadi
+last_name: SAQR
+sdn_type: Individual
+program_list:
+  programs:
+  - PAARSSR-EO13894
+aka_list:
+  items:
+  - uid: '46230'
+    type: a.k.a.
+    category: strong
+    last_name: SAKR
+    first_name: Fady
+  - uid: '46231'
+    type: a.k.a.
+    category: strong
+    last_name: SAQER
+    first_name: Fadi
+  - uid: '46232'
+    type: a.k.a.
+    category: strong
+    last_name: SAQIR
+    first_name: Fadi
+  - uid: '46233'
+    type: a.k.a.
+    category: strong
+    last_name: SAKIR
+    first_name: Fadi
+address_list:
+  items:
+  - uid: '44479'
+    city: Damascus
+    country: Syria
+id_list:
+  items:
+  - uid: '136270'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '36268'
+    date_of_birth: '1975'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '36269'
+    place_of_birth: Jeblah, Syria
+    main_entry: 'true'

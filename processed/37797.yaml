@@ -1,0 +1,38 @@
+---
+uid: '37797'
+last_name: AKTSIONERNOE OBSHCHESTVO NAUCHNO ISSLEDOVATELSKII INSTITUT PROMYSHLENNOGO
+  TELEVIDENIYA RASTR
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59350'
+    type: a.k.a.
+    category: strong
+    last_name: AO NIIPT RASTR
+address_list:
+  items:
+  - uid: '56585'
+    address1: Ul. Bolshaya Sankt-Peterburgskaya D. 39
+    city: Velikiy Novgorod
+    postal_code: '173001'
+    country: Russia
+id_list:
+  items:
+  - uid: '27096'
+    id_type: Registration Number
+    id_number: '1114345026784'
+    id_country: Russia
+  - uid: '27097'
+    id_type: Tax ID No.
+    id_number: '4345309407'
+    id_country: Russia
+  - uid: '173522'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '152807'
+    id_type: Organization Established Date
+    id_number: '1982'
+remarks: "(Linked To: OPEN JOINT STOCK COMPANY RUSSIAN ELECTRONICS)"

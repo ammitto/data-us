@@ -1,0 +1,43 @@
+---
+uid: '49469'
+last_name: JOINT STOCK COMPANY RUSSIAN GLASS COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77166'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY RSK
+  - uid: '77167'
+    type: a.k.a.
+    category: weak
+    last_name: JSC RGC
+  - uid: '77168'
+    type: a.k.a.
+    category: weak
+    last_name: RGC HOLDING COMPANY
+address_list:
+  items:
+  - uid: '74608'
+    address1: Building 3
+    address2: 503 Vyborg Highway
+    address3: Pargolovo
+    city: Saint Petersburg
+    postal_code: '194362'
+    country: Russia
+id_list:
+  items:
+  - uid: '40802'
+    id_type: Registration Number
+    id_number: '1089847341913'
+    id_country: Russia
+  - uid: '40803'
+    id_type: Tax ID No.
+    id_number: '7802445776'
+    id_country: Russia
+  - uid: '172553'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

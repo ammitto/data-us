@@ -1,0 +1,33 @@
+---
+uid: '46664'
+last_name: LIMITED LIABILITY COMPANY SREDNEVOLZHSKY BEARING PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '72028'
+    type: a.k.a.
+    category: strong
+    last_name: SREDNEVOLZHSKII PODSHIPNIKOVYI ZAVOD
+address_list:
+  items:
+  - uid: '69484'
+    address1: Prkt Kirova D. 10
+    city: Samara
+    postal_code: '443022'
+    country: Russia
+id_list:
+  items:
+  - uid: '36676'
+    id_type: Registration Number
+    id_number: '1066319099604'
+    id_country: Russia
+  - uid: '36677'
+    id_type: Tax ID No.
+    id_number: '6319130781'
+    id_country: Russia
+  - uid: '175051'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,109 @@
+---
+uid: '17016'
+last_name: GAZPROMBANK JOINT STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13662
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '26095'
+    type: f.k.a.
+    category: strong
+    last_name: GAZPROMBANK OPEN JOINT STOCK COMPANY
+  - uid: '54916'
+    type: a.k.a.
+    category: strong
+    last_name: BANK GPB JSC
+  - uid: '54918'
+    type: f.k.a.
+    category: strong
+    last_name: JOINT STOCK BANK OF THE GAS INDUSTRY GAZPROMBANK
+address_list:
+  items:
+  - uid: '25807'
+    address1: 16 Nametkina Street
+    address2: Bldg. 1
+    city: Moscow
+    postal_code: '117420'
+    country: Russia
+  - uid: '79149'
+    address1: 6 Enh-Taivan St.
+    city: Ulaanbaatar
+    postal_code: '14250'
+    country: Mongolia
+  - uid: '79150'
+    address1: 6 Floor, Business Center Q, Block A, Building 15A, Kabanbay Batyra Avenue
+    city: Astana
+    postal_code: '010000'
+    country: Kazakhstan
+  - uid: '79151'
+    address1: 10/48 Malcha Marg, Diplomatic Enclave, Chanakyapuri
+    city: Delhi
+    postal_code: '110021'
+    country: India
+  - uid: '79152'
+    address1: Central International Trade Center, Suite No. 1205, Tower C, No. 6A
+      Jianguomenwai Avenue, Chaoyang
+    city: Liaoning
+    postal_code: '100022'
+    country: China
+id_list:
+  items:
+  - uid: '9495'
+    id_type: Registration Number
+    id_number: '1027700167110'
+    id_country: Russia
+  - uid: '9497'
+    id_type: Tax ID No.
+    id_number: '7744001497'
+    id_country: Russia
+  - uid: '44704'
+    id_type: Legal Entity Number
+    id_number: 253400WSS48YWMBUA688
+  - uid: '151146'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '115749'
+    id_type: SWIFT/BIC
+    id_number: GAZPRUMM
+  - uid: '115751'
+    id_type: Website
+    id_number: www.gazprombank.ru
+  - uid: '182491'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '116139'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 1
+  - uid: '182493'
+    id_type: Organization Established Date
+    id_number: 31 Jul 1990
+  - uid: '182492'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '182497'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
+  - uid: '146689'
+    id_type: Executive Order 14024 Directive Information -
+    id_number: 'For more information on directives, please visit the following link:
+      https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives'
+  - uid: '146709'
+    id_type: Executive Order 14024 Directive Information
+    id_number: Subject to Directive 3 - All transactions in, provision of financing
+      for, and other dealings in new debt of longer than 14 days maturity or new equity
+      where such new debt or new equity is issued on or after the 'Effective Date
+      (EO 14024 Directive)' associated with this name are prohibited.
+  - uid: '146849'
+    id_type: 'Listing Date (EO 14024 Directive 3):'
+    id_number: 24 Feb 2022
+  - uid: '146850'
+    id_type: 'Effective Date (EO 14024 Directive 3):'
+    id_number: 26 Mar 2022
+  - uid: '146534'
+    id_type: Organization Established Date
+    id_number: 31 Jul 1990
+remarks: 'For more information on directives, please visit the following link: https://ofac.treasury.gov/sanctions-programs-and-country-information/ukraine-russia-related-sanctions#directives'

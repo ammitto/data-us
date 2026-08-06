@@ -1,0 +1,47 @@
+---
+uid: '36936'
+first_name: Yurii Nikolaevich
+last_name: SHAMALOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '58047'
+    type: a.k.a.
+    category: strong
+    last_name: SHAMALOV
+    first_name: Yuri Nikolaevich
+  - uid: '58048'
+    type: a.k.a.
+    category: strong
+    last_name: SHAMALOV
+    first_name: Yury
+address_list:
+  items:
+  - uid: '55309'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '26236'
+    id_type: Tax ID No.
+    id_number: '699134712'
+    id_country: Russia
+  - uid: '174405'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '151049'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '51048'
+    date_of_birth: 10 Jun 1970
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '51628'
+    place_of_birth: Leningrad, Russia
+    main_entry: 'true'

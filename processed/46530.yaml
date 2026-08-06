@@ -1,0 +1,37 @@
+---
+uid: '46530'
+last_name: JSC ZENIT BELOMO
+sdn_type: Entity
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '71821'
+    type: a.k.a.
+    category: strong
+    last_name: AAT ZENIT BELOMA
+  - uid: '71822'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY ZENIT BELOMO
+  - uid: '71823'
+    type: a.k.a.
+    category: strong
+    last_name: OTKRYTOE AKTSIONERNOE OBSHCHESTVO ZENIT BELOMO
+address_list:
+  items:
+  - uid: '69230'
+    address1: 26 Chapayev Str., Vileyka
+    state_or_province: Minsk Region
+    postal_code: '222416'
+    country: Belarus
+id_list:
+  items:
+  - uid: '36455'
+    id_type: Tax ID No.
+    id_number: '600102155'
+    id_country: Belarus
+  - uid: '167403'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

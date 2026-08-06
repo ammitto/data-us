@@ -1,0 +1,33 @@
+---
+uid: '47561'
+last_name: AKTSIONERNOE OBSHCHESTVO NAVIS ELEKTRONIKA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '71024'
+    address1: ul. Kulneva
+    address2: d. 3, str. 1, pom. III, kom. 14A
+    city: Moscow
+    postal_code: '121170'
+    country: Russia
+  - uid: '71025'
+    address1: Dmitrovskoe shosse, d. 157, str. 8
+    city: Moscow
+    postal_code: '127411'
+    country: Russia
+id_list:
+  items:
+  - uid: '38084'
+    id_type: Tax ID No.
+    id_number: '7730702460'
+    id_country: Russia
+  - uid: '38085'
+    id_type: Registration Number
+    id_number: '1147746193891'
+    id_country: Russia
+  - uid: '169783'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

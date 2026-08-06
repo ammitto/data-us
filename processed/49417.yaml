@@ -1,0 +1,38 @@
+---
+uid: '49417'
+last_name: JOINT STOCK COMPANY RUSSKIE ELEKTRICHESKIE DVIGATELI
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77080'
+    type: a.k.a.
+    category: weak
+    last_name: RED AO
+  - uid: '77121'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY RUSSIAN ELECTRIC MOTORS
+address_list:
+  items:
+  - uid: '74556'
+    address1: Ulitsa Eniseiskaya
+    address2: Dom 8-I
+    city: Chelyabinsk
+    postal_code: '45410'
+    country: Russia
+id_list:
+  items:
+  - uid: '40757'
+    id_type: Tax ID No.
+    id_number: '7449126763'
+    id_country: Russia
+  - uid: '40759'
+    id_type: Registration Number
+    id_number: '1157449004833'
+    id_country: Russia
+  - uid: '172515'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

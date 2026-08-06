@@ -1,0 +1,34 @@
+---
+uid: '48887'
+last_name: LIMITED LIABILITY COMPANY SOVREMENNYE GORNO TRANSPORTNYE TEKHNOLOGII
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76163'
+    type: a.k.a.
+    category: weak
+    last_name: LLC SGTT
+address_list:
+  items:
+  - uid: '73536'
+    address1: d. 93 pom. 201, prospekt Kosta
+    city: Vladikavkaz
+    postal_code: '362008'
+    country: Russia
+id_list:
+  items:
+  - uid: '39967'
+    id_type: Registration Number
+    id_number: '1191513002020'
+    id_country: Russia
+  - uid: '39968'
+    id_type: Tax ID No.
+    id_number: '1513075148'
+    id_country: Russia
+  - uid: '176660'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: JOINT STOCK COMPANY RAZREZ KOLYVANSKIY)"

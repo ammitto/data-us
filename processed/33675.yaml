@@ -1,0 +1,31 @@
+---
+uid: '33675'
+last_name: PINGTAN MARINE ENTERPRISE LTD.
+sdn_type: Entity
+program_list:
+  programs:
+  - GLOMAG
+address_list:
+  items:
+  - uid: '50491'
+    country: Cayman Islands
+  - uid: '50492'
+    address1: 18-19/F, Zhongshan Building A, No. 154 Hudong Road
+    city: Fuzhou
+    postal_code: '350001'
+    country: China
+id_list:
+  items:
+  - uid: '155058'
+    id_type: 'Organization Type:'
+    id_number: Marine Fishing
+  - uid: '144531'
+    id_type: Equity Ticker
+    id_number: PME US
+  - uid: '144532'
+    id_type: ISIN
+    id_number: KYG7114V1023
+  - uid: '155059'
+    id_type: Organization Established Date
+    id_number: 18 Jan 2010
+remarks: "(Linked To: ZHUO, Xinrong)"

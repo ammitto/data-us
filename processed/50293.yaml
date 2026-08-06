@@ -1,0 +1,55 @@
+---
+uid: '50293'
+last_name: K A VOLODIN INSTRUMENT ENGINEERING PLANT FEDERAL STATE UNITARY ENTERPRISE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78580'
+    type: a.k.a.
+    category: strong
+    last_name: IEP FSUE
+  - uid: '78581'
+    type: a.k.a.
+    category: strong
+    last_name: INSTRUMENT ENGINEERING PLANT FSUE
+  - uid: '78582'
+    type: a.k.a.
+    category: strong
+    last_name: PREDSTAVITELSTVO FEDERALNOGO GOSUDARSTVENNOGO UNITARNOGO PREDPRIIATIIA
+      PRIBOROSTROITELNYI ZAVOD IMENI K A VOLODINA
+address_list:
+  items:
+  - uid: '76187'
+    address1: 13 Zarechnaia ul.
+    city: Trekhgornyi
+    postal_code: '456082'
+    country: Russia
+  - uid: '76188'
+    address1: 25 str. 1 Bolshaia Polianka ul.
+    city: Moscow
+    postal_code: '119180'
+    country: Russia
+  - uid: '76190'
+    address1: 24 Alleia Druzhby ul., Evpatoriia
+    city: Crimea
+    postal_code: '97493'
+    country: Ukraine
+id_list:
+  items:
+  - uid: '41997'
+    id_type: Registration Number
+    id_number: '1027400661650'
+    id_country: Russia
+  - uid: '41998'
+    id_type: Tax ID No.
+    id_number: '7405000428'
+    id_country: Russia
+  - uid: '178148'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
+  - uid: '178150'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

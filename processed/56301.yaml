@@ -1,0 +1,39 @@
+---
+uid: '56301'
+last_name: EVA HANDELSGESELLSCHAFT UG
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '87332'
+    type: a.k.a.
+    category: strong
+    last_name: MVM TRADING COMPANY LLC
+address_list:
+  items:
+  - uid: '86155'
+    address1: An der Schanze 1A
+    city: Osterburg
+    state_or_province: Sachsen-Anhalt
+    postal_code: '39606'
+    country: Germany
+id_list:
+  items:
+  - uid: '50323'
+    id_type: Registration Number
+    id_number: 39576B30334
+    id_country: Germany
+  - uid: '50324'
+    id_type: Trade License No.
+    id_number: HRB 30334
+    id_country: Germany
+  - uid: '194430'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '194429'
+    id_type: Organization Established Date
+    id_number: 29 Jul 2021
+remarks: "(Linked To: KLINGE, Marco)"

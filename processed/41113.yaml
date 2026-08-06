@@ -1,0 +1,40 @@
+---
+uid: '41113'
+last_name: LIMITED LIABILITY COMPANY HOLDING INTELLIGENT COMPUTER SYSTEMS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '64121'
+    type: a.k.a.
+    category: weak
+    last_name: IKS HOLDING
+  - uid: '64122'
+    type: a.k.a.
+    category: weak
+    last_name: X-HOLDING
+address_list:
+  items:
+  - uid: '61456'
+    address1: Michurinskiy avenue, house 27, apartment 5
+    address2: floor 4, room 9
+    city: Moscow
+    state_or_province: Ramenki District
+    postal_code: '119607'
+    country: Russia
+id_list:
+  items:
+  - uid: '30451'
+    id_type: Registration Number
+    id_number: '1187746987317'
+    id_country: Russia
+  - uid: '30452'
+    id_type: Tax ID No.
+    id_number: '9701124836'
+    id_country: Russia
+  - uid: '173643'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: CHEREPENNIKOV, Anton Andreyevich)"

@@ -1,0 +1,37 @@
+---
+uid: '49389'
+last_name: JOINT STOCK COMPANY OLOVYANNAYA RUDNAYA KOMPANIYA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77027'
+    type: a.k.a.
+    category: weak
+    last_name: JSC ORK
+  - uid: '77028'
+    type: a.k.a.
+    category: weak
+    last_name: TIN MINING COMPANY
+address_list:
+  items:
+  - uid: '74445'
+    address1: ul. Lenina 26A
+    city: Gorny
+    postal_code: '682707'
+    country: Russia
+id_list:
+  items:
+  - uid: '40659'
+    id_type: Registration Number
+    id_number: '1102717000198'
+    id_country: Russia
+  - uid: '40660'
+    id_type: Tax ID No.
+    id_number: '2717017562'
+    id_country: Russia
+  - uid: '172754'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

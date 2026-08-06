@@ -1,0 +1,56 @@
+---
+uid: '8591'
+first_name: Soliman
+last_name: AL-BUTHE
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '7821'
+    type: a.k.a.
+    category: strong
+    last_name: AL-BATAHAI
+    first_name: Soliman
+  - uid: '7822'
+    type: a.k.a.
+    category: strong
+    last_name: AL-BATHI
+    first_name: Soliman
+  - uid: '10008'
+    type: a.k.a.
+    category: strong
+    last_name: AL-BUTHE
+    first_name: Suliman Hamd Suleiman
+  - uid: '10009'
+    type: a.k.a.
+    category: strong
+    last_name: AL BUTHI
+    first_name: Soliman H.S.
+id_list:
+  items:
+  - uid: '3569'
+    id_type: Passport
+    id_number: B049614
+    id_country: Saudi Arabia
+  - uid: '3570'
+    id_type: Passport
+    id_number: C536660
+    id_country: Saudi Arabia
+    issue_date: 05 May 2001
+    expiration_date: 11 Mar 2006
+  - uid: '186224'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '3926'
+    date_of_birth: '08 Dec 1961'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '3927'
+    place_of_birth: Cairo, Egypt
+    main_entry: 'true'

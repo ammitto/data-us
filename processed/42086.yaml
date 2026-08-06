@@ -1,0 +1,36 @@
+---
+uid: '42086'
+last_name: MEGAFON PAO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '62844'
+    address1: Pereulok Oruzheinyi, Dom 41
+    city: Moscow
+    state_or_province: Moscow Region
+    postal_code: '127006'
+    country: Russia
+id_list:
+  items:
+  - uid: '31556'
+    id_type: Registration Number
+    id_number: '1027809169585'
+    id_country: Russia
+  - uid: '31557'
+    id_type: Tax ID No.
+    id_number: '7812014560'
+    id_country: Russia
+  - uid: '160342'
+    id_type: 'Organization Type:'
+    id_number: Wireless telecommunications activities
+  - uid: '160341'
+    id_type: Organization Established Date
+    id_number: 17 Jun 1993
+  - uid: '175400'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: LIMITED LIABILITY COMPANY USM TELECOM; Linked To: AF TELECOM
+  HOLDING LIMITED LIABILITY COMPANY)"

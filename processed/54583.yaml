@@ -1,0 +1,60 @@
+---
+uid: '54583'
+first_name: Issa Hussein
+last_name: KASSIR
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '84939'
+    type: a.k.a.
+    category: strong
+    last_name: QASIR
+    first_name: "'Isa Husayn"
+  - uid: '84940'
+    type: a.k.a.
+    category: strong
+    last_name: KSIR
+    first_name: Isa
+  - uid: '84941'
+    type: a.k.a.
+    category: strong
+    last_name: KASSEER
+    first_name: Issa Hussein
+address_list:
+  items:
+  - uid: '83358'
+    address1: Deir Qanoun en Nahr
+    city: Tyre
+    state_or_province: South Governorate
+    country: Lebanon
+id_list:
+  items:
+  - uid: '48247'
+    id_type: National ID No.
+    id_number: '000004334212'
+    id_country: Lebanon
+  - uid: '190698'
+    id_type: Gender
+    id_number: Male
+  - uid: '190710'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '190733'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
+      Sanctions Regulations
+date_of_birth_list:
+  items:
+  - uid: '90695'
+    date_of_birth: 21 Jul 1977
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '90697'
+    place_of_birth: El Kouayt, Lebanon
+    main_entry: 'true'
+remarks: "(Linked To: AL-QARD AL-HASSAN ASSOCIATION)"

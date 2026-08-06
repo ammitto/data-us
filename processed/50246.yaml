@@ -1,0 +1,46 @@
+---
+uid: '50246'
+last_name: JOINT STOCK COMPANY STRATIM
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78447'
+    type: a.k.a.
+    category: strong
+    last_name: JSC STRATIM
+  - uid: '78448'
+    type: a.k.a.
+    category: strong
+    last_name: STRATIM DESIGN BUREAU
+  - uid: '78449'
+    type: a.k.a.
+    category: strong
+    last_name: STRATIM COMPANY
+address_list:
+  items:
+  - uid: '76076'
+    address1: Pr-kt Federativnyi
+    address2: D. 5, Korp. 1
+    address3: Pomeshch. 1/1
+    city: Moscow
+    postal_code: '111399'
+    country: Russia
+id_list:
+  items:
+  - uid: '41910'
+    id_type: Registration Number
+    id_number: '1237700447324'
+    id_country: Russia
+  - uid: '41911'
+    id_type: Tax ID No.
+    id_number: '7720901379'
+    id_country: Russia
+  - uid: '177905'
+    id_type: Organization Established Date
+    id_number: 03 Jul 2023
+  - uid: '178001'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

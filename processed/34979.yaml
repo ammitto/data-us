@@ -1,0 +1,35 @@
+---
+uid: '34979'
+last_name: KINAHAN ORGANIZED CRIME GROUP
+sdn_type: Entity
+program_list:
+  programs:
+  - TCO
+aka_list:
+  items:
+  - uid: '54891'
+    type: a.k.a.
+    category: strong
+    last_name: KINAHAN ORGANISED CRIME GROUP
+  - uid: '54892'
+    type: a.k.a.
+    category: weak
+    last_name: KOCG
+address_list:
+  items:
+  - uid: '52448'
+    country: Ireland
+  - uid: '52449'
+    country: United Kingdom
+  - uid: '52450'
+    country: Spain
+  - uid: '52451'
+    country: Netherlands
+  - uid: '52452'
+    city: Dubai
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '150147'
+    id_type: Target Type
+    id_number: Criminal Organization

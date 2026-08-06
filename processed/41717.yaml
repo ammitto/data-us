@@ -1,0 +1,35 @@
+---
+uid: '41717'
+first_name: Ana Gabriela
+last_name: RUBIO ZEA
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '62266'
+    country: Guatemala
+id_list:
+  items:
+  - uid: '31936'
+    id_type: C.U.I.
+    id_number: '1997455950101'
+    id_country: Guatemala
+  - uid: '31937'
+    id_type: 'NIT #'
+    id_number: '60724218'
+    id_country: Guatemala
+  - uid: '159890'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '59891'
+    date_of_birth: 07 Jul 1990
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '60851'
+    place_of_birth: Guatemala
+    main_entry: 'true'

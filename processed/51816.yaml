@@ -1,0 +1,39 @@
+---
+uid: '51816'
+last_name: JSCB ENERGOBANK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '78965'
+    address1: 13/52, Pushkina Street
+    city: Kazan
+    postal_code: '420111'
+    country: Russia
+id_list:
+  items:
+  - uid: '44484'
+    id_type: Legal Entity Number
+    id_number: 253400A1C30ARX8W0205
+  - uid: '44485'
+    id_type: Registration Number
+    id_number: '1021600000289'
+    id_country: Russia
+  - uid: '44487'
+    id_type: Tax ID No.
+    id_number: '1653011835'
+    id_country: Russia
+  - uid: '182120'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '182117'
+    id_type: SWIFT/BIC
+    id_number: TRCBRU2K
+  - uid: '182118'
+    id_type: Website
+    id_number: www.energobank.ru
+  - uid: '182119'
+    id_type: Target Type
+    id_number: Financial Institution

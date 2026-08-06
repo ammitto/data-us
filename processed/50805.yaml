@@ -1,0 +1,34 @@
+---
+uid: '50805'
+last_name: LIMITED LIABILITY COMPANY PK KOMPRESSOR CHLB
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79562'
+    type: a.k.a.
+    category: strong
+    last_name: PK COMPRESSOR LLC
+address_list:
+  items:
+  - uid: '77108'
+    address1: Ul. Neglinnaya D. 21
+    address2: Office 1
+    city: Chelyabinsk
+    postal_code: '454106'
+    country: Russia
+id_list:
+  items:
+  - uid: '42735'
+    id_type: Registration Number
+    id_number: '1157448002700'
+    id_country: Russia
+  - uid: '42736'
+    id_type: Tax ID No.
+    id_number: '7448177081'
+    id_country: Russia
+  - uid: '180641'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

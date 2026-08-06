@@ -1,0 +1,33 @@
+---
+uid: '52585'
+last_name: LIMITED LIABILITY COMPANY TORGOVYY DOM VOLFRAM MOLIBDEN
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '82306'
+    type: a.k.a.
+    category: weak
+    last_name: LLC TD VM
+address_list:
+  items:
+  - uid: '80318'
+    address1: d. 35 str. 9 etazh / kom. 5/12, ul. Nizhnyaya Krasnoselskaya
+    city: Moscow
+    postal_code: '105066'
+    country: Russia
+id_list:
+  items:
+  - uid: '45619'
+    id_type: Tax ID No.
+    id_number: '9701122109'
+    id_country: Russia
+  - uid: '45620'
+    id_type: Registration Number
+    id_number: '1187746807269'
+    id_country: Russia
+  - uid: '184291'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

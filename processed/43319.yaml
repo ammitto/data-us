@@ -1,0 +1,30 @@
+---
+uid: '43319'
+last_name: LLC SYMPHONY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '64672'
+    address1: Lane Yakovoapostolsky, 15
+    city: Moscow
+    postal_code: '105064'
+    country: Russia
+id_list:
+  items:
+  - uid: '32901'
+    id_type: Registration Number
+    id_number: '1227700713217'
+    id_country: Russia
+  - uid: '32902'
+    id_type: Tax ID No.
+    id_number: '9709087135'
+    id_country: Russia
+  - uid: '175711'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '162557'
+    id_type: Organization Established Date
+    id_number: 02 Nov 2022

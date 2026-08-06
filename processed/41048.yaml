@@ -1,0 +1,43 @@
+---
+uid: '41048'
+first_name: Yuriy Mikhailovich
+last_name: MILEKHIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '64001'
+    type: a.k.a.
+    category: strong
+    last_name: MILEKHIN
+    first_name: Yuriy Mihailovich
+address_list:
+  items:
+  - uid: '61517'
+    country: Russia
+id_list:
+  items:
+  - uid: '30377'
+    id_type: Tax ID No.
+    id_number: '505600438416'
+    id_country: Russia
+  - uid: '158883'
+    id_type: Gender
+    id_number: Male
+  - uid: '173581'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '58880'
+    date_of_birth: 27 May 1947
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '58882'
+    place_of_birth: Tambov, Russia
+    main_entry: 'true'
+remarks: "(Linked To: FEDERAL STATE UNITARY ENTERPRISE FEDERAL CENTER OF DUAL TECHNOLOGIES
+  SOYUZ)"

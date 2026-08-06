@@ -1,0 +1,73 @@
+---
+uid: '35936'
+last_name: JOINT STOCK COMPANY MIKRON
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '56507'
+    type: a.k.a.
+    category: strong
+    last_name: MIKRON JSC
+  - uid: '56508'
+    type: a.k.a.
+    category: strong
+    last_name: PJSC MIKRON
+  - uid: '56509'
+    type: a.k.a.
+    category: strong
+    last_name: PUBLICHNOE AKTSIONERNOE OBSCHESTVO MIKRON
+  - uid: '56510'
+    type: f.k.a.
+    category: strong
+    last_name: NII MOLEKULYARNOI ELEKTRONIKI I ZAVOD MIKRON PAO
+  - uid: '56511'
+    type: f.k.a.
+    category: strong
+    last_name: OTKRYTOE AKTSIONERNOE OBSHCHESTVO NII MOLEKULYARNOY ELECKTRONIKI I
+      ZAVOD MIKRON
+  - uid: '56512'
+    type: f.k.a.
+    category: strong
+    last_name: NIIME AND MIKRON
+address_list:
+  items:
+  - uid: '53924'
+    address1: 1st Zapadny Proezd 12/1
+    city: Zelenograd
+    postal_code: '124460'
+    country: Russia
+  - uid: '53925'
+    address1: d. 6 str. 1
+    address2: ul. Akademika Valieva
+    city: Zelenograd
+    state_or_province: Moscow
+    postal_code: '124460'
+    country: Russia
+id_list:
+  items:
+  - uid: '25296'
+    id_type: Registration Number
+    id_number: '1027700073466'
+    id_country: Russia
+  - uid: '25297'
+    id_type: Tax ID No.
+    id_number: '7735007358'
+    id_country: Russia
+  - uid: '25298'
+    id_type: Government Gazette Number
+    id_number: '07589295'
+    id_country: Russia
+  - uid: '173305'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184542'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '149107'
+    id_type: Organization Established Date
+    id_number: 13 Jan 1994

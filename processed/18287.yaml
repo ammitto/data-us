@@ -1,0 +1,67 @@
+---
+uid: '18287'
+last_name: VEB ENGINEERING LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13662
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '28285'
+    type: a.k.a.
+    category: strong
+    last_name: OOO VEB INZHINIRING
+  - uid: '28286'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU VEB INZHINIRING
+  - uid: '55043'
+    type: a.k.a.
+    category: strong
+    last_name: VEB ENGINEERING LIMITED LIABILITY COMPANY
+  - uid: '55044'
+    type: a.k.a.
+    category: strong
+    last_name: OOO VEB ENGINEERING
+address_list:
+  items:
+  - uid: '27670'
+    address1: d. 9 prospekt Akademika Sakharova
+    city: Moscow
+    postal_code: '107996'
+    country: Russia
+  - uid: '52533'
+    address1: Per. Lyalin D. 19, Korpus 1, Pom. XXIV, Kom 11
+    city: Moscow
+    postal_code: '101000'
+    country: Russia
+id_list:
+  items:
+  - uid: '24701'
+    id_type: Registration Number
+    id_number: '1107746181674'
+    id_country: Russia
+  - uid: '24702'
+    id_type: Tax ID No.
+    id_number: '7708715560'
+    id_country: Russia
+  - uid: '173871'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '151167'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '117544'
+    id_type: Website
+    id_number: vebeng.ru
+  - uid: '117561'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 1
+  - uid: '146610'
+    id_type: Organization Established Date
+    id_number: 11 Mar 2010
+remarks: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: STATE CORPORATION BANK FOR DEVELOPMENT AND FOREIGN ECONOMIC AFFAIRS
+  VNESHECONOMBANK)'

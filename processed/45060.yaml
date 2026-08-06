@@ -1,0 +1,43 @@
+---
+uid: '45060'
+first_name: Olga Vladimironva
+last_name: SYROVATSKAYA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69826'
+    type: a.k.a.
+    category: strong
+    last_name: BOKAREVA
+    first_name: Olga
+address_list:
+  items:
+  - uid: '67111'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '34776'
+    id_type: Tax ID No.
+    id_number: '771065006817'
+    id_country: Russia
+  - uid: '175932'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '165428'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '65425'
+    date_of_birth: 12 Oct 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '65426'
+    place_of_birth: Slovyansk, Ukraine
+    main_entry: 'true'
+remarks: "(Linked To: BOKAREV, Andrei Removich)"

@@ -1,0 +1,46 @@
+---
+uid: '52131'
+last_name: OKRYU TRADING COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK4
+aka_list:
+  items:
+  - uid: '81655'
+    type: a.k.a.
+    category: strong
+    last_name: KOREAN FOREIGN TRADE COMPANY OKRYU
+  - uid: '81662'
+    type: a.k.a.
+    category: strong
+    last_name: KOREYSKAYA VNESHNETORGOVAYA KOMPANIYA OKRYU
+  - uid: '81663'
+    type: a.k.a.
+    category: weak
+    last_name: OKRYU TRADE CO.
+  - uid: '81911'
+    type: a.k.a.
+    category: strong
+    last_name: OKRYU TRADING CORPORATION
+address_list:
+  items:
+  - uid: '79574'
+    address1: Phyongchon District
+    city: Pyongyang
+    country: Korea, North
+  - uid: '79575'
+    city: Rason
+    country: Korea, North
+id_list:
+  items:
+  - uid: '183884'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '183885'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '183041'
+    id_type: Email Address
+    id_number: okryu@star-co.net.kp

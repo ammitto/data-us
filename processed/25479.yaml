@@ -1,0 +1,33 @@
+---
+uid: '25479'
+last_name: IRITAL SHIPPING LINES COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN
+aka_list:
+  items:
+  - uid: '40099'
+    type: a.k.a.
+    category: strong
+    last_name: IR-ITAL
+  - uid: '40100'
+    type: a.k.a.
+    category: strong
+    last_name: IRITAL SHIPPING S.R.L.
+address_list:
+  items:
+  - uid: '38573'
+    address1: Via Gerolamo Morone 6
+    city: Milano
+    postal_code: '20121'
+    country: Italy
+id_list:
+  items:
+  - uid: '16498'
+    id_type: Trade License No.
+    id_number: GE0426505
+    id_country: Italy
+  - uid: '129095'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

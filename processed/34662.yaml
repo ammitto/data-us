@@ -1,0 +1,41 @@
+---
+uid: '34662'
+last_name: ANTARES OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54276'
+    type: a.k.a.
+    category: strong
+    last_name: ANTARES LLC
+  - uid: '54446'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY ANTARES
+address_list:
+  items:
+  - uid: '51880'
+    address1: Ul. Smirnovskaya d. 10, Str. 8. kabinet 10
+    city: Moscow
+    postal_code: '109052'
+    country: Russia
+id_list:
+  items:
+  - uid: '24269'
+    id_type: Registration Number
+    id_number: '7722399997'
+    id_country: Russia
+  - uid: '24270'
+    id_type: Tax ID No.
+    id_number: '7722399997'
+    id_country: Russia
+  - uid: '175161'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '146044'
+    id_type: Organization Established Date
+    id_number: 02 Jun 2017
+remarks: "(Linked To: PROMSVYAZBANK PUBLIC JOINT STOCK COMPANY)"

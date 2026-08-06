@@ -1,0 +1,42 @@
+---
+uid: '40246'
+first_name: Alexey Vladimirovich
+last_name: OSTROVSKIY
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '62593'
+    type: a.k.a.
+    category: strong
+    last_name: OSTROVSKIY
+    first_name: Aleksey Vladimirovich
+address_list:
+  items:
+  - uid: '59984'
+    city: Smolensk
+    country: Russia
+id_list:
+  items:
+  - uid: '29430'
+    id_type: Tax ID No.
+    id_number: '772912868708'
+    id_country: Russia
+  - uid: '174049'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '157224'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '57222'
+    date_of_birth: 14 Jan 1976
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '57223'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'

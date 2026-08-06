@@ -1,0 +1,45 @@
+---
+uid: '35354'
+last_name: THE PLANAR COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '55725'
+    type: a.k.a.
+    category: strong
+    last_name: PLANAR ELEMENTS
+  - uid: '55726'
+    type: a.k.a.
+    category: strong
+    last_name: LLC PLANAR
+  - uid: '55728'
+    type: a.k.a.
+    category: strong
+    last_name: OOO PLANAR
+address_list:
+  items:
+  - uid: '53180'
+    address1: Office 1, 76 Likhvintseva St.
+    city: Izhevsk
+    postal_code: '426034'
+    country: Russia
+  - uid: '53181'
+    address1: Office 23, Building 2, Corpus 58, 1 Partiynyy Pereulok Lane
+    city: Moscow
+    postal_code: '115093'
+    country: Russia
+id_list:
+  items:
+  - uid: '25066'
+    id_type: Tax ID No.
+    id_number: '1833015934'
+    id_country: Russia
+  - uid: '176743'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '147637'
+    id_type: Website
+    id_number: planar-elements.ru

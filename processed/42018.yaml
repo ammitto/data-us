@@ -1,0 +1,57 @@
+---
+uid: '42018'
+last_name: DEXIAS LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65312'
+    type: a.k.a.
+    category: strong
+    last_name: DEXIAS LLC
+  - uid: '65314'
+    type: f.k.a.
+    category: weak
+    last_name: TSOFT LLC
+  - uid: '65316'
+    type: f.k.a.
+    category: weak
+    last_name: TSOFT OOO
+  - uid: '65319'
+    type: f.k.a.
+    category: weak
+    last_name: MAINBOX LLC
+  - uid: '65320'
+    type: f.k.a.
+    category: strong
+    last_name: MAINBOX LIMITED LIABILITY COMPANY
+address_list:
+  items:
+  - uid: '62710'
+    address1: Ul. Ryabinovaya D. 3, K. 2, KV. 261
+    city: Moscow
+    postal_code: '121471'
+    country: Russia
+id_list:
+  items:
+  - uid: '31438'
+    id_type: Registration Number
+    id_number: '1167746674644'
+    id_country: Russia
+  - uid: '31439'
+    id_type: Government Gazette Number
+    id_number: '03555170'
+    id_country: Russia
+  - uid: '31440'
+    id_type: Tax ID No.
+    id_number: '7702403726'
+    id_country: Russia
+  - uid: '173747'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '160216'
+    id_type: Organization Established Date
+    id_number: 15 Jul 2016
+remarks: "(Linked To: FIROV, Alim Khazkhismelovich)"

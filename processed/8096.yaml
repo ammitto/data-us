@@ -1,0 +1,46 @@
+---
+uid: '8096'
+first_name: Kamel Ben Mouldi Ben Hassan
+last_name: HAMRAOUI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '6700'
+    type: a.k.a.
+    category: weak
+    last_name: KAMEL
+  - uid: '6701'
+    type: a.k.a.
+    category: weak
+    last_name: KIMO
+address_list:
+  items:
+  - uid: '7233'
+    address1: Via Bertesi 27
+    city: Cremona
+    country: Italy
+id_list:
+  items:
+  - uid: '4084'
+    id_type: Passport
+    id_number: P229856
+    issue_date: 01 Nov 2002
+    expiration_date: 31 Oct 2007
+  - uid: '185772'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '2398'
+    date_of_birth: 21 Oct 1977
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '2399'
+    place_of_birth: Beja, Tunisia
+    main_entry: 'true'
+remarks: arrested 1 Apr 2003

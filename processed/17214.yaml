@@ -1,0 +1,29 @@
+---
+uid: '17214'
+first_name: Arman
+last_name: IMANIRAD
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+id_list:
+  items:
+  - uid: '9641'
+    id_type: Passport
+    id_number: WS188312
+    id_country: Canada
+  - uid: '116041'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '16042'
+    date_of_birth: 07 Jun 1984
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '16043'
+    place_of_birth: Arak, Iran
+    main_entry: 'true'
+remarks: "(Linked To: ALUMINAT)"

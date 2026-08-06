@@ -1,0 +1,40 @@
+---
+uid: '19036'
+last_name: PAO MOSOBLBANK
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13661
+aka_list:
+  items:
+  - uid: '30036'
+    type: a.k.a.
+    category: strong
+    last_name: PUBLIC JOINT STOCK COMPANY MOSCOW REGIONAL BANK
+  - uid: '30037'
+    type: a.k.a.
+    category: strong
+    last_name: AKB MOSOBLBANK OAO
+  - uid: '30038'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNY KOMMERCHESKI BANK MOSKOVSKI OBLASTNOI BANK OTKRYTOE AKTSIONERNOE
+      OBSHCHESTVO
+address_list:
+  items:
+  - uid: '28969'
+    address1: Ulitsa Semenovskaya B
+    address2: D. 32, Str. 1
+    city: Moscow
+    postal_code: '107023'
+    country: Russia
+id_list:
+  items:
+  - uid: '143653'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '118817'
+    id_type: SWIFT/BIC
+    id_number: MOBKRUMM
+remarks: "(Linked To: SMP BANK)"

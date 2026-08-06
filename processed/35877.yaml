@@ -1,0 +1,45 @@
+---
+uid: '35877'
+last_name: JOINT STOCK COMPANY KAZAN HELICOPTERS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56384'
+    type: a.k.a.
+    category: strong
+    last_name: AO KAZANSKII VERTOLETNYI ZAVOD
+  - uid: '56385'
+    type: a.k.a.
+    category: strong
+    last_name: KAZANSKI VERTOLETNY ZAVOD AO
+  - uid: '56386'
+    type: a.k.a.
+    category: strong
+    last_name: KAZAN HELICOPTERS
+address_list:
+  items:
+  - uid: '53836'
+    address1: Ul. Tetsevskaya D. 14
+    city: Kazan
+    postal_code: '420085'
+    country: Russia
+id_list:
+  items:
+  - uid: '25209'
+    id_type: Registration Number
+    id_number: '1021603881683'
+    id_country: Russia
+  - uid: '25210'
+    id_type: Tax ID No.
+    id_number: '1656002652'
+    id_country: Russia
+  - uid: '149070'
+    id_type: Organization Established Date
+    id_number: '1993'
+  - uid: '173272'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: VERTOLETY ROSSII AO)"

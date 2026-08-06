@@ -1,0 +1,45 @@
+---
+uid: '50631'
+first_name: Aleksandr Viktorovich
+last_name: RYZHENKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+aka_list:
+  items:
+  - uid: '79227'
+    type: a.k.a.
+    category: weak
+    last_name: MALOY, Sanya
+  - uid: '79228'
+    type: a.k.a.
+    category: weak
+    last_name: MALOY, Sasha
+  - uid: '79229'
+    type: a.k.a.
+    category: weak
+    last_name: GUESTER
+  - uid: '79230'
+    type: a.k.a.
+    category: weak
+    last_name: CHERDAKMUDAK
+address_list:
+  items:
+  - uid: '76772'
+    country: Russia
+id_list:
+  items:
+  - uid: '42483'
+    id_type: Passport
+    id_number: '643501126'
+    id_country: Russia
+  - uid: '179043'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '79042'
+    date_of_birth: 26 May 1993
+    main_entry: 'true'
+remarks: "(Linked To: EVIL CORP)"

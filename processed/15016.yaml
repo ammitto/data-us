@@ -1,0 +1,112 @@
+---
+uid: '15016'
+first_name: Victor Manuel
+last_name: FELIX FELIX
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '22020'
+    type: a.k.a.
+    category: strong
+    last_name: CASTRO RODRIGUEZ
+    first_name: Raul
+address_list:
+  items:
+  - uid: '22314'
+    address1: Callejon Hortensias No. 320
+    address2: Colonia Ciudad Bugambilias
+    city: Zapopan
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '22315'
+    address1: Calle Madero No. 39 Poniente, Lote 51
+    address2: Colonia Centro
+    city: Culiacan
+    state_or_province: Sinaloa
+    postal_code: Codigo Postal 80000
+    country: Mexico
+  - uid: '22316'
+    address1: Privada San Geronimo No. 1801
+    address2: Fraccionamiento San Jeronimo
+    city: Mexicali
+    state_or_province: Baja California
+    postal_code: Codigo Postal 21297
+    country: Mexico
+  - uid: '22317'
+    address1: Calle Victor Hugo No. 177, Interior 12
+    address2: Colonia Portales
+    address3: Delegacion Benito Juarez
+    city: Distrito Federal
+    postal_code: Codigo Postal 03300
+    country: Mexico
+  - uid: '22318'
+    address1: Circuito de las Flores Norte 2252
+    address2: Fraccionamiento Ciudad Bugambilias
+    city: Zapopan
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '22319'
+    address1: Presa la Boquilla 1033
+    address2: Colonia Las Quintas
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '22320'
+    address1: Boulevard Francisco I. Madero 39 Poniente Despacho 501
+    address2: Colonia Centro
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '22321'
+    address1: Sevilla 1526 302 A
+    address2: Fraccionamiento el Cid
+    city: Mazatlan
+    state_or_province: Sinaloa
+    postal_code: CP 82110
+    country: Mexico
+  - uid: '22322'
+    address1: Privada de San Jeronimo
+    address2: San Jeronimo
+    city: Algodones
+    state_or_province: Baja California
+    postal_code: CP 21298
+    country: Mexico
+  - uid: '22323'
+    address1: Privada Puerta de Roble Numero 17-E
+    address2: Fraccionamiento Puerta de Roble
+    city: Zapopan
+    state_or_province: Jalisco
+    country: Mexico
+id_list:
+  items:
+  - uid: '8004'
+    id_type: C.U.R.P.
+    id_number: FEFV571110HSLLLC08
+    id_country: Mexico
+  - uid: '8005'
+    id_type: R.F.C.
+    id_number: FEFV571110-G75
+    id_country: Mexico
+  - uid: '8006'
+    id_type: Credencial electoral
+    id_number: FLFLVC57111025H101
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '11293'
+    date_of_birth: 10 Nov 1957
+    main_entry: 'true'
+  - uid: '11294'
+    date_of_birth: 20 Jan 1958
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '11295'
+    place_of_birth: Culiacan, Sinaloa, Mexico
+    main_entry: 'true'
+  - uid: '11296'
+    place_of_birth: Baja, California, Mexico
+    main_entry: 'false'

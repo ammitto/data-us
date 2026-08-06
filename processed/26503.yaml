@@ -1,0 +1,47 @@
+---
+uid: '26503'
+last_name: EVROFINANCE MOSNARBANK
+sdn_type: Entity
+program_list:
+  programs:
+  - VENEZUELA-EO13850
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '81290'
+    type: a.k.a.
+    category: strong
+    last_name: BANK EVROFINANCE
+address_list:
+  items:
+  - uid: '40173'
+    address1: 29, ul. Novy Arbat
+    city: Moscow
+    postal_code: '121099'
+    country: Russia
+id_list:
+  items:
+  - uid: '17155'
+    id_type: Registration ID
+    id_number: '1027700565970'
+    id_country: Russia
+  - uid: '17156'
+    id_type: Tax ID No.
+    id_number: '7703115760'
+    id_country: Russia
+  - uid: '44703'
+    id_type: Legal Entity Number
+    id_number: 253400R9321UP8XXUB33
+  - uid: '130987'
+    id_type: SWIFT/BIC
+    id_number: EVRFRUMM
+  - uid: '182490'
+    id_type: Website
+    id_number: www.evrofinance.ru
+  - uid: '182489'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '182488'
+    id_type: Target Type
+    id_number: Financial Institution
+remarks: "(Linked To: PETROLEOS DE VENEZUELA, S.A.)"

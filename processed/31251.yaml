@@ -1,0 +1,49 @@
+---
+uid: '31251'
+first_name: Igor Victorovich
+last_name: KRASNOV
+sdn_type: Individual
+program_list:
+  programs:
+  - UKRAINE-EO13661
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '49110'
+    type: a.k.a.
+    category: strong
+    last_name: KRASNOV
+    first_name: Igor
+  - uid: '49111'
+    type: a.k.a.
+    category: strong
+    last_name: KRASNOV
+    first_name: Igor Viktorovich
+address_list:
+  items:
+  - uid: '47202'
+    address1: 6-3 Michurinsky Prospekt
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '151177'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '139664'
+    id_type: Gender
+    id_number: Male
+  - uid: '173952'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '39662'
+    date_of_birth: 24 Dec 1975
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '39663'
+    place_of_birth: Arkhangelsk, Russia
+    main_entry: 'true'

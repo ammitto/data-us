@@ -1,0 +1,33 @@
+---
+uid: '15501'
+first_name: Ines
+last_name: CORONEL BARRERAS
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '23103'
+    address1: La Angostura
+    city: Canelas
+    state_or_province: Durango
+    postal_code: '34500'
+    country: Mexico
+  - uid: '23104'
+    address1: Avenida Puebla A No. 2209
+    address2: Colonia Federal
+    city: San Luis Rio Colorado
+    state_or_province: Sonora
+    postal_code: '83489'
+    country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '12580'
+    date_of_birth: 21 Jan 1968
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '12581'
+    place_of_birth: Durango, Mexico
+    main_entry: 'true'

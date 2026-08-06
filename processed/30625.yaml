@@ -1,0 +1,48 @@
+---
+uid: '30625'
+last_name: AL-MUSTAFA INTERNATIONAL UNIVERSITY
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - SDGT
+aka_list:
+  items:
+  - uid: '48163'
+    type: a.k.a.
+    category: strong
+    last_name: AL-MUSTAFA UNIVERSITY
+address_list:
+  items:
+  - uid: '46331'
+    address1: Muallim Boulevard
+    address2: PO Box 439
+    city: Qom
+    country: Iran
+  - uid: '46376'
+    address1: Central District, Moalem Square, 8 Moalem Ally Shahid Golbarg, Moalem
+      Boulevard, No. 0, Basement
+    city: Qom
+    state_or_province: Qom Province
+    postal_code: '3715697867'
+    country: Iran
+id_list:
+  items:
+  - uid: '20752'
+    id_type: National ID No.
+    id_number: '10590000383'
+    id_country: Iran
+  - uid: '138462'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '138479'
+    id_type: 'Organization Type:'
+    id_number: Higher education
+  - uid: '138460'
+    id_type: Website
+    id_number: http://en.miu.ac/ir/
+  - uid: '187305'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS (IRGC)-QODS FORCE)"

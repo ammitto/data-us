@@ -1,0 +1,25 @@
+---
+uid: '33597'
+last_name: ERITREAN DEFENSE FORCES
+sdn_type: Entity
+program_list:
+  programs:
+  - ETHIOPIA-EO14046
+aka_list:
+  items:
+  - uid: '52814'
+    type: a.k.a.
+    category: strong
+    last_name: ERITREAN DEFENSE FORCE
+address_list:
+  items:
+  - uid: '50384'
+    country: Eritrea
+id_list:
+  items:
+  - uid: '144412'
+    id_type: Target Type
+    id_number: Government Entity
+  - uid: '144715'
+    id_type: Organization Established Date
+    id_number: '1993'

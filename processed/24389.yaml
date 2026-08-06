@@ -1,0 +1,92 @@
+---
+uid: '24389'
+first_name: Mohammad Ibrahim
+last_name: BAZZI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '38488'
+    type: a.k.a.
+    category: strong
+    last_name: BAZZI
+    first_name: Muhammad Ibrahim
+  - uid: '38489'
+    type: a.k.a.
+    category: strong
+    last_name: BAZZI
+    first_name: Mohamed
+  - uid: '38490'
+    type: a.k.a.
+    category: strong
+    last_name: BAZZI
+    first_name: Muhammed
+address_list:
+  items:
+  - uid: '36841'
+    address1: Adnan Al-Hakim Street
+    address2: Yahala Bldg.
+    city: Jnah
+    country: Lebanon
+  - uid: '36842'
+    address1: Eglantierlaan 13-15, 2020
+    city: Antwerpen
+    country: Belgium
+  - uid: '37109'
+    address1: Villa Bazzi
+    address2: Dohat Al-Hoss
+    country: Lebanon
+id_list:
+  items:
+  - uid: '15539'
+    id_type: Passport
+    id_number: EJ341406
+    id_country: Belgium
+    expiration_date: 31 May 2017
+  - uid: '15540'
+    id_type: Passport
+    id_number: '750249737'
+  - uid: '15541'
+    id_type: Passport
+    id_number: '899002098'
+    id_country: United Kingdom
+  - uid: '15542'
+    id_type: Passport
+    id_number: 487/2007
+    id_country: Lebanon
+  - uid: '15686'
+    id_type: Passport
+    id_number: RL3400400
+    id_country: Lebanon
+  - uid: '15687'
+    id_type: Passport
+    id_number: '0236370'
+    id_country: Sierra Leone
+  - uid: '15688'
+    id_type: Passport
+    id_number: D0000687
+    id_country: The Gambia
+  - uid: '187125'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '126694'
+    id_type: Gender
+    id_number: Male
+  - uid: '126695'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
+      Sanctions Regulations
+date_of_birth_list:
+  items:
+  - uid: '26690'
+    date_of_birth: 10 Aug 1964
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '26691'
+    place_of_birth: Bent Jbeil, Lebanon
+    main_entry: 'true'
+remarks: "(Linked To: HIZBALLAH)"

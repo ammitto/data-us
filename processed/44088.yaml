@@ -1,0 +1,61 @@
+---
+uid: '44088'
+last_name: JOINT STOCK COMPANY URALELEKTROMED
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '68206'
+    type: a.k.a.
+    category: strong
+    last_name: URALELEKTROMED AO
+  - uid: '68207'
+    type: a.k.a.
+    category: strong
+    last_name: URALELEKTROMED JSC
+  - uid: '68208'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO URALELEKTROMED
+  - uid: '68209'
+    type: a.k.a.
+    category: strong
+    last_name: URALELEKTROMED PUBLIC JOINT STOCK COMPANY
+  - uid: '68210'
+    type: f.k.a.
+    category: strong
+    last_name: OPEN JOINT STOCK COMPANY URALELECTROMED
+address_list:
+  items:
+  - uid: '65610'
+    address1: 1, Lenin Street
+    city: Lugovskoy
+    postal_code: '624091'
+    country: Russia
+  - uid: '65611'
+    address1: 1, prospekt Uspenski Verkhnyaya Pyshma
+    state_or_province: Sverdlovsk region
+    postal_code: '624091'
+    country: Russia
+id_list:
+  items:
+  - uid: '33491'
+    id_type: Registration Number
+    id_number: '1026600726657'
+    id_country: Russia
+  - uid: '33492'
+    id_type: Tax ID No.
+    id_number: '6606003385'
+    id_country: Russia
+  - uid: '33493'
+    id_type: Government Gazette Number
+    id_number: '00194429'
+    id_country: Russia
+  - uid: '175761'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '163660'
+    id_type: Organization Established Date
+    id_number: 23 Dec 1992

@@ -1,0 +1,62 @@
+---
+uid: '28023'
+first_name: Khamis Farhan Al-Khanjar
+last_name: AL-ISSAWI
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '44341'
+    type: a.k.a.
+    category: strong
+    last_name: AL-KHANJAR
+    first_name: Khamis
+  - uid: '44342'
+    type: a.k.a.
+    category: strong
+    last_name: ALESSAWI
+    first_name: Khamis F Ali
+  - uid: '44343'
+    type: a.k.a.
+    category: strong
+    last_name: ALI
+    first_name: Khames Farhan Ali
+  - uid: '44344'
+    type: a.k.a.
+    category: strong
+    last_name: ALI
+    first_name: Khamees Farhan Ali
+address_list:
+  items:
+  - uid: '42405'
+    country: Jordan
+  - uid: '42406'
+    country: Iraq
+id_list:
+  items:
+  - uid: '18600'
+    id_type: Passport
+    id_number: D1022354
+    id_country: Iraq
+    expiration_date: 21 May 2023
+  - uid: '133373'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '33371'
+    date_of_birth: '1965'
+    main_entry: 'true'
+  - uid: '33459'
+    date_of_birth: '08 Sep 1968'
+    main_entry: 'false'
+  - uid: '33460'
+    date_of_birth: '08 Sep 1965'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '33372'
+    place_of_birth: Fallujah, Iraq
+    main_entry: 'true'

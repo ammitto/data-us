@@ -1,0 +1,48 @@
+---
+uid: '40326'
+last_name: JOINT STOCK COMPANY OBUKHOVSKOYE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '62714'
+    type: a.k.a.
+    category: strong
+    last_name: OBUHOVSKOE JSC
+  - uid: '62715'
+    type: a.k.a.
+    category: strong
+    last_name: CJSC OBUKHOVSKOYE
+  - uid: '62716'
+    type: a.k.a.
+    category: strong
+    last_name: SC OBUKHOVSKOYE
+address_list:
+  items:
+  - uid: '60106'
+    address1: Tsvetochnaya st., 7
+    city: Saint Petersburg
+    state_or_province: '196084'
+    postal_code: Russia
+    country: Russia
+id_list:
+  items:
+  - uid: '29512'
+    id_type: Tax ID No.
+    id_number: '7805025258'
+    id_country: Russia
+  - uid: '29513'
+    id_type: Registration Number
+    id_number: '1037811025152'
+    id_country: Russia
+  - uid: '174085'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '157439'
+    id_type: Organization Established Date
+    id_number: '08 Jan 2002'
+  - uid: '157440'
+    id_type: Organization Established Date
+    id_number: '1994'

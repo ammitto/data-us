@@ -1,0 +1,47 @@
+---
+uid: '21664'
+last_name: OPERADORA LOS FAMOSOS, S.A. DE C.V.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '34373'
+    type: a.k.a.
+    category: strong
+    last_name: KENZO SUSHI
+  - uid: '34413'
+    type: a.k.a.
+    category: strong
+    last_name: OPERADORA LOS FAMOSOS, S.A.P.I. DE C.V.
+address_list:
+  items:
+  - uid: '32970'
+    address1: 'Calle Ottawa #1568 T'
+    address2: Plaza Fusion Galerias
+    address3: Colonia Providencia
+    city: Guadalajara
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '32971'
+    address1: Av. Providencia 1568
+    address2: Providencia
+    city: Guadalajara
+    state_or_province: Jalisco
+    postal_code: '44630'
+    country: Mexico
+  - uid: '42839'
+    address1: 'Av. Real Acueducto #360 Int 1-A'
+    city: Zapopan
+    state_or_province: Jalisco
+    country: Mexico
+id_list:
+  items:
+  - uid: '13675'
+    id_type: R.F.C.
+    id_number: OFA101214KG1
+    id_country: Mexico
+  - uid: '122634'
+    id_type: Website
+    id_number: www.kenzosushi.mx

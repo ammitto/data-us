@@ -1,0 +1,41 @@
+---
+uid: '51466'
+last_name: AKTSIONERNOE OBSHCHESTVO AGENTSTVO REGIONALNYI NEZAVISIMYI REGISTRATOR
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80710'
+    type: a.k.a.
+    category: strong
+    last_name: AO AGENTSTVO RNR
+address_list:
+  items:
+  - uid: '78418'
+    address1: Ul. Demonstratsii D. 27, Korp. 1
+    city: Tula
+    postal_code: '300034'
+    country: Russia
+  - uid: '78420'
+    address1: Ul. 9-GO Maya D. 10, K. B
+    city: Lipetsk
+    postal_code: '398017'
+    country: Russia
+id_list:
+  items:
+  - uid: '43824'
+    id_type: Registration Number
+    id_number: '1027100964527'
+    id_country: Russia
+  - uid: '43825'
+    id_type: Tax ID No.
+    id_number: '7107039003'
+    id_country: Russia
+  - uid: '181005'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '182816'
+    id_type: Target Type
+    id_number: Financial Institution

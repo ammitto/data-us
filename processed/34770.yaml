@@ -1,0 +1,53 @@
+---
+uid: '34770'
+first_name: Aliaksei Ivanavich
+last_name: RYMASHEUSKI
+sdn_type: Individual
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '54558'
+    type: a.k.a.
+    category: strong
+    last_name: RIMASHEVSKIY
+    first_name: Aleksey Ivanovich
+  - uid: '54559'
+    type: a.k.a.
+    category: strong
+    last_name: RIMASHEVSKY
+    first_name: Aleksei
+  - uid: '54560'
+    type: a.k.a.
+    category: strong
+    last_name: RIMASHEVSKIY
+    first_name: Alexey
+address_list:
+  items:
+  - uid: '52117'
+    city: Minsk
+    country: Belarus
+id_list:
+  items:
+  - uid: '24456'
+    id_type: Passport
+    id_number: MP2145720
+    id_country: Belarus
+  - uid: '24457'
+    id_type: National ID No.
+    id_number: 3290681A146PB8
+    id_country: Belarus
+  - uid: '146227'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '46224'
+    date_of_birth: 29 Jun 1981
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '46225'
+    place_of_birth: Salihorsk, Minsk Oblast, Belarus
+    main_entry: 'true'

@@ -1,0 +1,39 @@
+---
+uid: '49741'
+first_name: Qianpei
+last_name: SHI
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+address_list:
+  items:
+  - uid: '75119'
+    city: Beijing
+    country: China
+id_list:
+  items:
+  - uid: '41204'
+    id_type: National ID No.
+    id_number: 32068119890709081X
+  - uid: '177352'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '177353'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '176844'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '76843'
+    date_of_birth: '09 Jul 1989'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '76845'
+    place_of_birth: Qidong, Jiangsu Province
+    main_entry: 'true'
+remarks: "(Linked To: CHOE, Chol Min)"

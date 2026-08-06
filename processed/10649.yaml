@@ -1,0 +1,45 @@
+---
+uid: '10649'
+last_name: HACIENDA CIEN ANOS DE TIJUANA, S. DE R.L. DE C.V.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '10596'
+    type: a.k.a.
+    category: strong
+    last_name: COCINA ANTIGUA, S. DE R.L. DE C.V.
+  - uid: '10646'
+    type: a.k.a.
+    category: strong
+    last_name: LA HACIENDA DE TIJUANA, S. DE R.L. DE C.V.
+address_list:
+  items:
+  - uid: '14931'
+    address1: Blvd. Sanchez Taboada S/N, No. 10451, Zona Rio, Fte. de Saverios e Arreola
+      y cion accesso
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '14932'
+    address1: Calle Jose Maria Velazco No. 1407, Colonia Zona Rio
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '15025'
+    address1: Sanchez Taboada 10451, Rio Tijuana, Arreola y Cjon de Acceso Frente
+      a Saveri
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+id_list:
+  items:
+  - uid: '5244'
+    id_type: R.F.C.
+    id_number: HTI010702GR7
+    id_country: Mexico
+  - uid: '5246'
+    id_type: R.F.C.
+    id_number: CAN010702DF8
+    id_country: Mexico

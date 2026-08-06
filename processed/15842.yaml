@@ -1,0 +1,42 @@
+---
+uid: '15842'
+first_name: Jairo Estuardo
+last_name: ORELLANA MORALES
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '23720'
+    type: a.k.a.
+    category: weak
+    last_name: EL PELON
+address_list:
+  items:
+  - uid: '23768'
+    address1: Aldea Dona Maria
+    state_or_province: Zacapa
+    country: Guatemala
+id_list:
+  items:
+  - uid: '8555'
+    id_type: Cedula No.
+    id_number: R-19 42080
+    id_country: Guatemala
+  - uid: '8556'
+    id_type: Passport
+    id_number: '111904000420805'
+    id_country: Guatemala
+    issue_date: 28 Aug 2008
+    expiration_date: 28 Aug 2013
+date_of_birth_list:
+  items:
+  - uid: '13319'
+    date_of_birth: 28 Sep 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '13322'
+    place_of_birth: Zacapa, Guatemala
+    main_entry: 'true'

@@ -1,0 +1,37 @@
+---
+uid: '45248'
+first_name: Misa
+last_name: VACIC
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70034'
+    type: a.k.a.
+    category: strong
+    last_name: VACICH
+    first_name: Misha
+address_list:
+  items:
+  - uid: '67330'
+    country: Serbia
+id_list:
+  items:
+  - uid: '175956'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '165654'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '65652'
+    date_of_birth: 05 Jun 1985
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '65653'
+    place_of_birth: Belgrade, Serbia
+    main_entry: 'true'

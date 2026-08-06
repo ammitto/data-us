@@ -1,0 +1,33 @@
+---
+uid: '54215'
+first_name: Solomy Balungi
+last_name: BOSSA
+sdn_type: Individual
+program_list:
+  programs:
+  - ICC-EO14203
+address_list:
+  items:
+  - uid: '82796'
+    city: The Hague
+    country: Netherlands
+id_list:
+  items:
+  - uid: '47746'
+    id_type: Passport
+    id_number: DA023555
+    id_country: Uganda
+    expiration_date: '09 Dec 2021'
+  - uid: '189905'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '90329'
+    date_of_birth: 14 Apr 1956
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '89904'
+    place_of_birth: Kampala, Uganda
+    main_entry: 'true'

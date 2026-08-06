@@ -1,0 +1,41 @@
+---
+uid: '34750'
+last_name: JOINT STOCK COMPANY SOVCOMBANK LIFE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54507'
+    type: a.k.a.
+    category: strong
+    last_name: SOVCOMBANK LIFE JSC
+  - uid: '54850'
+    type: a.k.a.
+    category: strong
+    last_name: JSC SOVCOMBANK LIFE
+address_list:
+  items:
+  - uid: '52074'
+    address1: Ul. Butyrskaya, D. 76, P. 1
+    city: Moscow
+    postal_code: '127015'
+    country: Russia
+id_list:
+  items:
+  - uid: '24419'
+    id_type: Tax ID No.
+    id_number: '7730058711'
+    id_country: Russia
+  - uid: '24420'
+    id_type: Registration Number
+    id_number: '1027739059754'
+    id_country: Russia
+  - uid: '175197'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '146187'
+    id_type: Website
+    id_number: sovcomlife.ru
+remarks: "(Linked To: SOVCOMBANK OPEN JOINT STOCK COMPANY)"

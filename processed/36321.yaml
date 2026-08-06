@@ -1,0 +1,35 @@
+---
+uid: '36321'
+last_name: TSARGRAD-MEDIA OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '54534'
+    address1: B-r Novinskii d. 31
+    address2: office 5-01
+    city: Moscow
+    postal_code: '123242'
+    country: Russia
+id_list:
+  items:
+  - uid: '25706'
+    id_type: Registration Number
+    id_number: '1157746897604'
+    id_country: Russia
+  - uid: '25707'
+    id_type: Tax ID No.
+    id_number: '7703398765'
+    id_country: Russia
+  - uid: '173993'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '149922'
+    id_type: Organization Established Date
+    id_number: 30 Sep 2015
+  - uid: '150206'
+    id_type: 'Organization Type:'
+    id_number: Motion picture, video and television programme production activities
+remarks: "(Linked To: TSARGRAD OOO)"

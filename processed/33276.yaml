@@ -1,0 +1,57 @@
+---
+uid: '33276'
+first_name: Yahya Muhammad
+last_name: AL-'ABD-AL-MUHSIN
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '52297'
+    type: a.k.a.
+    category: strong
+    last_name: AL-ABU HAYDAR
+    first_name: Yahya Muhammad
+  - uid: '52298'
+    type: a.k.a.
+    category: weak
+    last_name: YAHYA, Sayyid
+  - uid: '52299'
+    type: a.k.a.
+    category: strong
+    last_name: AL-ABDULMOHSEN
+    first_name: Yahya Mohamad
+  - uid: '52300'
+    type: a.k.a.
+    category: strong
+    last_name: ALABDULMOHSEN
+    first_name: Yahya Mohammed Y
+address_list:
+  items:
+  - uid: '50001'
+    country: Saudi Arabia
+id_list:
+  items:
+  - uid: '22942'
+    id_type: Passport
+    id_number: P045620
+    id_country: Saudi Arabia
+    expiration_date: 22 Mar 2019
+  - uid: '22943'
+    id_type: National ID No.
+    id_number: '1003159462'
+    id_country: Saudi Arabia
+  - uid: '187365'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '143191'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '43189'
+    date_of_birth: 16 Dec 1979
+    main_entry: 'true'
+remarks: "(Linked To: AL BANAI, Ali Reda Hassan)"

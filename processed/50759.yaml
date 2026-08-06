@@ -1,0 +1,39 @@
+---
+uid: '50759'
+last_name: OOO NAUCHNO PROIZVODSTVENNAYA FIRMA AVEK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79470'
+    type: a.k.a.
+    category: strong
+    last_name: NPF AVEK
+address_list:
+  items:
+  - uid: '77005'
+    address1: Ul. Stepana Razina D. 95
+    address2: Office 12
+    city: Yekaterinburg
+    postal_code: '620142'
+    country: Russia
+  - uid: '77006'
+    address1: Ul. Pervomaiskaya 109-300
+    city: Yekaterinburg
+    postal_code: '620049'
+    country: Russia
+id_list:
+  items:
+  - uid: '42645'
+    id_type: Registration Number
+    id_number: '1026605414813'
+    id_country: Russia
+  - uid: '42646'
+    id_type: Tax ID No.
+    id_number: '6662021290'
+    id_country: Russia
+  - uid: '179388'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

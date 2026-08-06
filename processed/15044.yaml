@@ -1,0 +1,28 @@
+---
+uid: '15044'
+last_name: DEEP SEA
+sdn_type: Vessel
+program_list:
+  programs:
+  - IRAN
+aka_list:
+  items:
+  - uid: '40672'
+    type: f.k.a.
+    category: strong
+    last_name: DARAB
+id_list:
+  items:
+  - uid: '8053'
+    id_type: Vessel Registration Identification
+    id_number: IMO 9218492
+  - uid: '8122'
+    id_type: MMSI
+    id_number: '256862000'
+  - uid: '113474'
+    id_type: Former Vessel Flag
+    id_number: Malta
+  - uid: '119318'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: NATIONAL IRANIAN TANKER COMPANY)"

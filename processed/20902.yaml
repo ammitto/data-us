@@ -1,0 +1,37 @@
+---
+uid: '20902'
+first_name: Pedro Luis
+last_name: ZULETA NOSCUE
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '36160'
+    type: a.k.a.
+    category: weak
+    last_name: El Invalido
+address_list:
+  items:
+  - uid: '34823'
+    country: Colombia
+id_list:
+  items:
+  - uid: '14483'
+    id_type: Cedula No.
+    id_number: '18110470'
+    id_country: Colombia
+  - uid: '124629'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '24627'
+    date_of_birth: 22 Sep 1964
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '24628'
+    place_of_birth: Corinto, Cauca, Colombia
+    main_entry: 'true'

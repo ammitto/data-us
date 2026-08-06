@@ -1,0 +1,51 @@
+---
+uid: '39643'
+first_name: Abdirahman Fahiye
+last_name: ISSE MOHAMUD
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '61756'
+    type: a.k.a.
+    category: weak
+    last_name: ADEN, Ahmed
+  - uid: '61757'
+    type: a.k.a.
+    category: weak
+    last_name: FAHIYE, Abdirahman
+  - uid: '61758'
+    type: a.k.a.
+    category: strong
+    last_name: "'ISA"
+    first_name: Abd-al-Rahman Fahiye
+  - uid: '61759'
+    type: a.k.a.
+    category: weak
+    last_name: AL-SHARQAWI, Shaykh Abu-Mus'ab
+address_list:
+  items:
+  - uid: '59019'
+    country: Somalia
+id_list:
+  items:
+  - uid: '155918'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '155916'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '55914'
+    date_of_birth: '1985'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '55915'
+    place_of_birth: Bosaso, Somalia
+    main_entry: 'true'
+remarks: "(Linked To: ISIS-SOMALIA)"

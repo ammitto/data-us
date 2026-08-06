@@ -1,0 +1,40 @@
+---
+uid: '10595'
+first_name: Amir
+last_name: AZAM
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '10494'
+    type: a.k.a.
+    category: strong
+    last_name: SHEIKH MOHAMMED
+    first_name: Amir Azam
+address_list:
+  items:
+  - uid: '14706'
+    address1: c/o A A TRADING FZCO
+    city: Dubai
+    country: United Arab Emirates
+  - uid: '14707'
+    city: Dubai
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '5132'
+    id_type: Passport
+    id_number: '039856039'
+    id_country: United Kingdom
+date_of_birth_list:
+  items:
+  - uid: '5914'
+    date_of_birth: 02 Nov 1971
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '5915'
+    place_of_birth: Chiswick, England
+    main_entry: 'true'

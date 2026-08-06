@@ -1,0 +1,40 @@
+---
+uid: '49280'
+last_name: AKTSIONERNOE OBSHCHESTVO RUSGAZDOBYCHA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '76854'
+    type: a.k.a.
+    category: weak
+    last_name: AO RGD
+address_list:
+  items:
+  - uid: '74233'
+    address1: Ul. Vereiskaya D. 29, Str. 134
+    address2: BTS Vereiskaya Plaza 3
+    address3: Floor 7
+    city: Moscow
+    postal_code: '121357'
+    country: Russia
+id_list:
+  items:
+  - uid: '40501'
+    id_type: Registration Number
+    id_number: '1127747296918'
+    id_country: Russia
+  - uid: '40502'
+    id_type: Tax ID No.
+    id_number: '7705529981'
+    id_country: Russia
+  - uid: '172286'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184310'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

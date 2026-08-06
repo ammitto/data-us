@@ -1,0 +1,38 @@
+---
+uid: '41979'
+last_name: OOO TITAN-MICRO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65236'
+    type: a.k.a.
+    category: strong
+    last_name: TITAN-MIKRO
+address_list:
+  items:
+  - uid: '62615'
+    address1: ul. Svobody d. 103
+    address2: str. 8, floor 2, kom. 4
+    city: Moscow
+    postal_code: '125481'
+    country: Russia
+  - uid: '62616'
+    address1: 11th Floor, 65 Profsoyuznaya Street
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '31362'
+    id_type: Registration Number
+    id_number: '1216200001533'
+    id_country: Russia
+  - uid: '31363'
+    id_type: Tax ID No.
+    id_number: '6230119259'
+    id_country: Russia
+  - uid: '173717'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

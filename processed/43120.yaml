@@ -1,0 +1,31 @@
+---
+uid: '43120'
+last_name: LIMITED LIABILITY COMPANY SBYTOVAYA ENERGETICHESKAYA KOMPANIYA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '64342'
+    address1: Ul. Chugunnaya, d. 20 Litera N Pom. 3-N
+    city: Saint Petersburg
+    postal_code: '194044'
+    country: Russia
+id_list:
+  items:
+  - uid: '32712'
+    id_type: Registration Number
+    id_number: '1077847010340'
+    id_country: Russia
+  - uid: '32713'
+    id_type: Tax ID No.
+    id_number: '7804355599'
+    id_country: Russia
+  - uid: '175542'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '162102'
+    id_type: Organization Established Date
+    id_number: '09 Feb 2007'
+remarks: "(Linked To: JOINT STOCK COMPANY LOMO)"

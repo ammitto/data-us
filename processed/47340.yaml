@@ -1,0 +1,41 @@
+---
+uid: '47340'
+first_name: Muhammad Ahmad
+last_name: AL-TALIBI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '73179'
+    type: a.k.a.
+    category: weak
+    last_name: AL-TALIBI, Abi Ja'far
+address_list:
+  items:
+  - uid: '70543'
+    country: Yemen
+id_list:
+  items:
+  - uid: '37666'
+    id_type: Passport
+    id_number: '01197425'
+    id_country: Yemen
+  - uid: '168756'
+    id_type: Gender
+    id_number: Male
+  - uid: '168749'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '68748'
+    date_of_birth: 01 Jan 1983
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '68760'
+    place_of_birth: Dhahyan, Sa'dah, Yemen
+    main_entry: 'true'

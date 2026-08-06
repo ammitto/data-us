@@ -1,0 +1,59 @@
+---
+uid: '18782'
+last_name: ROSOBORONEKSPORT OAO
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13662
+  - RUSSIA-EO14024
+  - IRAN-CON-ARMS-EO
+aka_list:
+  items:
+  - uid: '29576'
+    type: a.k.a.
+    category: strong
+    last_name: RUSSIAN DEFENSE EXPORT ROSOBORONEXPORT
+  - uid: '29577'
+    type: a.k.a.
+    category: strong
+    last_name: ROSOBORONEXPORT JSC
+  - uid: '29578'
+    type: a.k.a.
+    category: strong
+    last_name: ROSOBORONEKSPORT OJSC
+address_list:
+  items:
+  - uid: '28561'
+    address1: 27 Stromynka Ul.
+    city: Moscow
+    postal_code: '107076'
+    country: Russia
+id_list:
+  items:
+  - uid: '11056'
+    id_type: Registration ID
+    id_number: '1117746521452'
+    id_country: Russia
+  - uid: '11057'
+    id_type: Government Gazette Number
+    id_number: '56467052'
+    id_country: Russia
+  - uid: '11058'
+    id_type: Tax ID No.
+    id_number: '7718852163'
+    id_country: Russia
+  - uid: '118266'
+    id_type: Website
+    id_number: www.roe.ru
+  - uid: '151207'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '118265'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 3
+  - uid: '173910'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: STATE CORPORATION ROSTEC)'

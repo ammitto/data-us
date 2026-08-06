@@ -1,0 +1,52 @@
+---
+uid: '45712'
+first_name: Ilya Vladimirovich
+last_name: VORONKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70619'
+    type: a.k.a.
+    category: strong
+    last_name: VORONKOV
+    first_name: Ilya
+address_list:
+  items:
+  - uid: '70463'
+    city: Pushkino
+    country: Russia
+id_list:
+  items:
+  - uid: '35412'
+    id_type: Tax ID No.
+    id_number: '503821710850'
+    id_country: Russia
+  - uid: '37589'
+    id_type: Passport
+    id_number: '762164380'
+    id_country: Russia
+    expiration_date: 29 Dec 2029
+  - uid: '37590'
+    id_type: National ID No.
+    id_number: '4613211883'
+    id_country: Russia
+  - uid: '168649'
+    id_type: Gender
+    id_number: Male
+  - uid: '176012'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '68646'
+    date_of_birth: 23 Sep 1993
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '68647'
+    place_of_birth: Pushkino, Russia
+    main_entry: 'true'
+remarks: "(Linked To: ALBATROS OOO)"

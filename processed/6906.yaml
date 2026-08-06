@@ -1,0 +1,39 @@
+---
+uid: '6906'
+first_name: Abd al-Hadi
+last_name: AL-IRAQI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '4745'
+    type: a.k.a.
+    category: strong
+    last_name: AL-IRAQI
+    first_name: Abdal al-Hadi
+address_list:
+  items:
+  - uid: '50101'
+    address1: Guantanamo Bay detention center
+    country: Cuba
+id_list:
+  items:
+  - uid: '185863'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '143320'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '43321'
+    date_of_birth: '1961'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '43322'
+    place_of_birth: Mosul, Iraq
+    main_entry: 'true'

@@ -1,0 +1,59 @@
+---
+uid: '42298'
+first_name: Fadi
+last_name: SADER
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '65669'
+    type: a.k.a.
+    category: strong
+    last_name: SADER
+    first_name: Fadi Wadie
+  - uid: '65670'
+    type: a.k.a.
+    category: strong
+    last_name: SADER
+    first_name: Fadi Wadie Naer
+  - uid: '65671'
+    type: a.k.a.
+    category: strong
+    last_name: SADER
+    first_name: Fadie Wadie Nasr
+address_list:
+  items:
+  - uid: '63353'
+    city: Hong Kong
+    country: China
+id_list:
+  items:
+  - uid: '31778'
+    id_type: Passport
+    id_number: GA238402
+    id_country: Canada
+    expiration_date: 25 Apr 2024
+  - uid: '31779'
+    id_type: Identification Number
+    id_number: M177091 3
+    id_country: Hong Kong
+  - uid: '160601'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '160603'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '60602'
+    date_of_birth: 19 Jan 1963
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '60604'
+    place_of_birth: Beirut, Lebanon
+    main_entry: 'true'
+remarks: "(Linked To: AHMAD, Firas Nazem)"

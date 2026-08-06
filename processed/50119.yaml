@@ -1,0 +1,29 @@
+---
+uid: '50119'
+first_name: Konstantin Svyatoslavovich
+last_name: KALINOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '75827'
+    city: Moscow
+    country: Russia
+  - uid: '75828'
+    city: Tallinn
+    country: Estonia
+id_list:
+  items:
+  - uid: '177663'
+    id_type: Gender
+    id_number: Male
+  - uid: '177668'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '77664'
+    date_of_birth: 19 May 1983
+    main_entry: 'true'

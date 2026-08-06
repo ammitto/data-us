@@ -1,0 +1,29 @@
+---
+uid: '57732'
+first_name: Joaquin
+last_name: QUINTAS SOLA
+sdn_type: Individual
+program_list:
+  programs:
+  - CUBA-EO14404
+address_list:
+  items:
+  - uid: '88536'
+    city: Colon
+    state_or_province: Matanzas
+    country: Cuba
+id_list:
+  items:
+  - uid: '198253'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '98252'
+    date_of_birth: 24 Sep 1938
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '98255'
+    place_of_birth: Santiago de Cuba, Cuba
+    main_entry: 'true'

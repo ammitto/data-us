@@ -1,0 +1,37 @@
+---
+uid: '54355'
+first_name: Yanbing
+last_name: ZHANG
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+address_list:
+  items:
+  - uid: '83013'
+    country: China
+id_list:
+  items:
+  - uid: '47967'
+    id_type: Passport
+    id_number: EJ4090952
+    id_country: China
+    expiration_date: 20 Apr 2031
+  - uid: '190173'
+    id_type: Gender
+    id_number: Male
+  - uid: '190361'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '90172'
+    date_of_birth: 02 Oct 1982
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '90175'
+    place_of_birth: Hebei, China
+    main_entry: 'true'
+remarks: "(Linked To: RAYAN ROSHD AFZAR COMPANY)"

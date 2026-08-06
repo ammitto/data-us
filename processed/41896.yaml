@@ -1,0 +1,63 @@
+---
+uid: '41896'
+last_name: SUMILAB, S.A. DE C.V.
+sdn_type: Entity
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+aka_list:
+  items:
+  - uid: '85068'
+    type: a.k.a.
+    category: strong
+    last_name: SUMILAB
+address_list:
+  items:
+  - uid: '62504'
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '62505'
+    address1: Boulevard Enrique Cabrera 2212
+    city: Culiacan
+    state_or_province: Sinaloa
+    postal_code: C.P. 80020
+    country: Mexico
+  - uid: '83482'
+    city: Mazatlan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '83483'
+    city: Los Mochis
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '83484'
+    city: Ciudad Obregon
+    state_or_province: Sonora
+    country: Mexico
+  - uid: '83485'
+    city: Hermosillo
+    state_or_province: Sonora
+    country: Mexico
+id_list:
+  items:
+  - uid: '31276'
+    id_type: R.F.C.
+    id_number: SUM010525IF9
+    id_country: Mexico
+  - uid: '31277'
+    id_type: Folio Mercantil No.
+    id_number: '56745'
+    id_country: Mexico
+  - uid: '160148'
+    id_type: 'Organization Type:'
+    id_number: Manufacture of chemicals and chemical products
+  - uid: '193915'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '160127'
+    id_type: Organization Established Date
+    id_number: 25 May 2001
+remarks: "(Linked To: SINALOA CARTEL)"

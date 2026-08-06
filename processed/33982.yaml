@@ -1,0 +1,74 @@
+---
+uid: '33982'
+first_name: Hernan Dario
+last_name: VELASQUEZ SALDARRIAGA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '53259'
+    type: a.k.a.
+    category: strong
+    last_name: VELASQUEZ
+    first_name: Hernan Dario
+  - uid: '53260'
+    type: a.k.a.
+    category: weak
+    last_name: EL PAISA
+  - uid: '53261'
+    type: a.k.a.
+    category: weak
+    last_name: OSCAR
+  - uid: '53262'
+    type: a.k.a.
+    category: weak
+    last_name: GARCIA, Carlos Alberto
+  - uid: '53263'
+    type: a.k.a.
+    category: weak
+    last_name: PAISA
+  - uid: '53264'
+    type: a.k.a.
+    category: weak
+    last_name: BUITRAGO, Hermides
+  - uid: '53265'
+    type: a.k.a.
+    category: weak
+    last_name: MONTERO, Oscar
+  - uid: '53266'
+    type: a.k.a.
+    category: weak
+    last_name: SUNCE, Antonio Rodriguez
+address_list:
+  items:
+  - uid: '50935'
+    state_or_province: Apure
+    country: Venezuela
+  - uid: '50936'
+    country: Colombia
+id_list:
+  items:
+  - uid: '23643'
+    id_type: Cedula No.
+    id_number: '71391335'
+    id_country: Colombia
+  - uid: '187388'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '145038'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '45036'
+    date_of_birth: 10 Jan 1963
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '45037'
+    place_of_birth: Remedios, Antioquia, Colombia
+    main_entry: 'true'
+remarks: "(Linked To: SEGUNDA MARQUETALIA)"

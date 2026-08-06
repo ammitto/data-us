@@ -1,0 +1,46 @@
+---
+uid: '4635'
+last_name: BANK REFAH KARGARAN
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '3555'
+    type: a.k.a.
+    category: strong
+    last_name: WORKERS' WELFARE BANK - OF IRAN
+  - uid: '12051'
+    type: a.k.a.
+    category: strong
+    last_name: BANK REFAH
+address_list:
+  items:
+  - uid: '2901'
+    address1: No. 40 North Shiraz Street, Mollasadra Ave, Vanak Sq
+    city: Tehran
+    postal_code: '19917'
+    country: Iran
+  - uid: '45327'
+    address1: No. 40, North Shiraz St, Mollasadra Ave
+    city: Tehran
+    country: Iran
+  - uid: '45328'
+    address1: 40, Northern Shirazi St, Molla Sadra Ave
+    city: Tehran
+    postal_code: '19917'
+    country: Iran
+id_list:
+  items:
+  - uid: '137294'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '137332'
+    id_type: Website
+    id_number: www.bankrefah.ir
+  - uid: '137333'
+    id_type: Website
+    id_number: www.refah-bank.ir
+remarks: all offices worldwide

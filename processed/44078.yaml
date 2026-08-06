@@ -1,0 +1,54 @@
+---
+uid: '44078'
+last_name: UMMC NONFERROUS METALS PROCESSING LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '68149'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY UMMC NFMP
+  - uid: '68150'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU UGMK OTSM
+  - uid: '68151'
+    type: a.k.a.
+    category: strong
+    last_name: UGMK OTSM OOO
+address_list:
+  items:
+  - uid: '65587'
+    address1: Ul. Petrova D. 59, Lit. D.
+    city: Verkhnyaya Pyshma
+    postal_code: '624092'
+    country: Russia
+  - uid: '65588'
+    address1: str. 1 kab. 206, prospekt Uspenski
+    city: Verkhnyaya Pyshma
+    state_or_province: Sverdlovsk region
+    postal_code: '624091'
+    country: Russia
+id_list:
+  items:
+  - uid: '33458'
+    id_type: Registration Number
+    id_number: '1076606001152'
+    id_country: Russia
+  - uid: '33459'
+    id_type: Tax ID No.
+    id_number: '6606024709'
+    id_country: Russia
+  - uid: '33460'
+    id_type: Government Gazette Number
+    id_number: '81180857'
+    id_country: Russia
+  - uid: '175751'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '163648'
+    id_type: Organization Established Date
+    id_number: 04 May 2007

@@ -1,0 +1,42 @@
+---
+uid: '40036'
+first_name: Marina Konstantinovna
+last_name: SEREDA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '59644'
+    state_or_province: Donetsk Oblast
+    country: Ukraine
+  - uid: '59645'
+    address1: 27 Anapskoe Highway
+    address2: Apartment 5
+    city: Novorossiysk
+    state_or_province: Krasnodar Region
+    postal_code: '353907'
+    country: Russia
+id_list:
+  items:
+  - uid: '29239'
+    id_type: National ID No.
+    id_number: '0305911404'
+    id_country: Russia
+  - uid: '156827'
+    id_type: Gender
+    id_number: Female
+  - uid: '174795'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '56828'
+    date_of_birth: 17 Jul 1985
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '56829'
+    place_of_birth: Novorossiysk, Russia
+    main_entry: 'true'

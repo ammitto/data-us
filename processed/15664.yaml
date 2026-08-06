@@ -1,0 +1,49 @@
+---
+uid: '15664'
+last_name: CASA EL VIEJO LUIS DISTRIBUIDORA, S.A. DE C.V.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '23345'
+    type: a.k.a.
+    category: strong
+    last_name: EL VIEJO LUIS
+  - uid: '23372'
+    type: a.k.a.
+    category: strong
+    last_name: TEQUILA EL VIEJO LUIS
+  - uid: '23373'
+    type: a.k.a.
+    category: strong
+    last_name: CASA EL VIEJO LUIS
+  - uid: '23374'
+    type: a.k.a.
+    category: strong
+    last_name: CASA VIEJO LUIS
+address_list:
+  items:
+  - uid: '23409'
+    address1: El Paraiso No. 6848
+    address2: Col. Ciudad Granja
+    city: Zapopan
+    state_or_province: Jalisco
+    postal_code: '45010'
+    country: Mexico
+  - uid: '23410'
+    address1: Blvd. Luis Donaldo Colosio s/n Bonfil
+    city: Cancun
+    state_or_province: Quintana Roo
+    country: Mexico
+id_list:
+  items:
+  - uid: '8419'
+    id_type: RFC
+    id_number: CVL090120UT2
+    id_country: Mexico
+  - uid: '8420'
+    id_type: Folio Mercantil No.
+    id_number: '46920'
+    id_country: Mexico

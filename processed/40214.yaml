@@ -1,0 +1,40 @@
+---
+uid: '40214'
+last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU DOLGOVOI TSENTR
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '62518'
+    type: a.k.a.
+    category: strong
+    last_name: DOLGOVOI TSENTR, OOO
+address_list:
+  items:
+  - uid: '59908'
+    address1: Pl. Turgenevskaya D. 2, Pomeshch. XV, Kom. 6
+    city: Moscow
+    postal_code: '101000'
+    country: Russia
+id_list:
+  items:
+  - uid: '29390'
+    id_type: Registration Number
+    id_number: '1067746524471'
+    id_country: Russia
+  - uid: '29391'
+    id_type: Tax ID No.
+    id_number: '7708597482'
+    id_country: Russia
+  - uid: '157120'
+    id_type: Organization Established Date
+    id_number: 24 Apr 2006
+  - uid: '157121'
+    id_type: 'Organization Type:'
+    id_number: Other business support service activities n.e.c.
+  - uid: '174035'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)"

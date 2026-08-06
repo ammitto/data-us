@@ -1,0 +1,36 @@
+---
+uid: '41009'
+last_name: LIMITED LIABILITY COMPANY GOLFESTEIT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63905'
+    type: a.k.a.
+    category: strong
+    last_name: GOLFESTEIT OOO
+address_list:
+  items:
+  - uid: '61258'
+    address1: Room 416, Floor 24
+    address2: Section I, Building 10
+    address3: Testovskaya Street
+    city: Moscow
+    postal_code: '123112'
+    country: Russia
+id_list:
+  items:
+  - uid: '30344'
+    id_type: Tax ID No.
+    id_number: '7703427840'
+    id_country: Russia
+  - uid: '30345'
+    id_type: Registration Number
+    id_number: '1177746513273'
+    id_country: Russia
+  - uid: '175358'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: KHRISTENKO, Viktor Borisovich)"

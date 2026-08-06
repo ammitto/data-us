@@ -1,0 +1,63 @@
+---
+uid: '39499'
+last_name: KOREA PAEKHO TRADING CORPORATION
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK2
+aka_list:
+  items:
+  - uid: '63682'
+    type: a.k.a.
+    category: strong
+    last_name: PAEKHO FINE ART CORPORATION
+  - uid: '63683'
+    type: a.k.a.
+    category: strong
+    last_name: KOREA PAEKHO TRADING CORPORATION, LTD.
+  - uid: '63684'
+    type: a.k.a.
+    category: weak
+    last_name: KPTC
+  - uid: '63685'
+    type: a.k.a.
+    category: strong
+    last_name: PAEKHO CONSTRUCTION SARL
+  - uid: '63686'
+    type: a.k.a.
+    category: strong
+    last_name: WHITE TIGER TRADING COMPANY
+  - uid: '63687'
+    type: a.k.a.
+    category: weak
+    last_name: DEPARTMENT 30
+  - uid: '63688'
+    type: a.k.a.
+    category: strong
+    last_name: PAEKHO TRADING COMPANY
+  - uid: '63689'
+    type: a.k.a.
+    category: strong
+    last_name: PAEKHO ARTS TRADING COMPANY
+  - uid: '63690'
+    type: a.k.a.
+    category: strong
+    last_name: JOSON PAEKHO MUYOK HOESA
+address_list:
+  items:
+  - uid: '61025'
+    address1: Chongryu 3-dong, Taedonggang District
+    city: Pyongyang
+    country: Korea, North
+id_list:
+  items:
+  - uid: '159168'
+    id_type: Target Type
+    id_number: Government Entity
+  - uid: '158585'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '158584'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214

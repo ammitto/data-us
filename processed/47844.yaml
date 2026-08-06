@@ -1,0 +1,40 @@
+---
+uid: '47844'
+last_name: LIMITED LIABILITY COMPANY 2050 ADDITIVE TECHNOLOGIES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74226'
+    type: a.k.a.
+    category: weak
+    last_name: LLC 2050 AT
+address_list:
+  items:
+  - uid: '71606'
+    address1: 4 Samokatnaya Street
+    address2: Building 45
+    city: Moscow
+    postal_code: '111033'
+    country: Russia
+  - uid: '71609'
+    address1: 1 Bolshoy Gnezdnikovskiy Lane
+    address2: Building 2
+    city: Moscow
+    postal_code: '125009'
+    country: Russia
+id_list:
+  items:
+  - uid: '38577'
+    id_type: Registration Number
+    id_number: '1187746803881'
+    id_country: Russia
+  - uid: '38578'
+    id_type: Tax ID No.
+    id_number: '7703465267'
+    id_country: Russia
+  - uid: '169814'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

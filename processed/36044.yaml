@@ -1,0 +1,42 @@
+---
+uid: '36044'
+last_name: UNITED SHIPBUILDING CORPORATION JSC AYSBERG CENTRAL DESIGN BUILDING
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56761'
+    type: a.k.a.
+    category: strong
+    last_name: CENTRAL DESIGN BUREAU USC-ICEBERG JSC
+  - uid: '56762'
+    type: a.k.a.
+    category: strong
+    last_name: USC-ICEBERG CENTRAL DESIGN BUREAU
+  - uid: '56763'
+    type: a.k.a.
+    category: strong
+    last_name: ICEBERG CENTRAL DESIGN BUREAU
+  - uid: '56765'
+    type: a.k.a.
+    category: strong
+    last_name: JSC TSKB AYSBERG
+address_list:
+  items:
+  - uid: '54173'
+    address1: 36 Bolshoi Ave. V. I.
+    city: St. Petersburg
+    postal_code: '199034'
+    country: Russia
+id_list:
+  items:
+  - uid: '25432'
+    id_type: Tax ID No.
+    id_number: '7801005606'
+    id_country: Russia
+  - uid: '173339'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: JOINT STOCK COMPANY UNITED SHIPBUILDING CORPORATION)"

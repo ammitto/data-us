@@ -1,0 +1,35 @@
+---
+uid: '30374'
+first_name: Javad
+last_name: OJI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13876
+address_list:
+  items:
+  - uid: '46080'
+    country: Iran
+id_list:
+  items:
+  - uid: '20486'
+    id_type: National ID No.
+    id_number: '2296776973'
+    id_country: Iran
+  - uid: '137974'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '137977'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '37975'
+    date_of_birth: 24 Jul 1966
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '37976'
+    place_of_birth: Shiraz, Iran
+    main_entry: 'true'
+remarks: "(Linked To: SINA ENERGY DEVELOPMENT COMPANY)"

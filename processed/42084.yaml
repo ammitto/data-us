@@ -1,0 +1,41 @@
+---
+uid: '42084'
+last_name: LIMITED LIABILITY COMPANY LAND TECHNOLOGIES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65447'
+    type: a.k.a.
+    category: strong
+    last_name: OOO ZEMELNYE TEKHNOLOGII
+address_list:
+  items:
+  - uid: '62840'
+    address1: 29 Vereyskaya Street, Building 134, Office V215
+    city: Khimki
+    state_or_province: Moscow Oblast
+    postal_code: '121357'
+    country: Russia
+id_list:
+  items:
+  - uid: '31551'
+    id_type: Tax ID No.
+    id_number: '7703583101'
+    id_country: Russia
+  - uid: '31552'
+    id_type: Registration Number
+    id_number: '1067746329914'
+    id_country: Russia
+  - uid: '175398'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '160338'
+    id_type: 'Organization Type:'
+    id_number: Real estate activities with own or leased property
+  - uid: '160337'
+    id_type: Organization Established Date
+    id_number: 01 Mar 2006
+remarks: "(Linked To: LIMITED LIABILITY COMPANY FORUM)"

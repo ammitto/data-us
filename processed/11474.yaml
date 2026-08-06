@@ -1,0 +1,32 @@
+---
+uid: '11474'
+first_name: Gloria Amparo
+last_name: DURAN PORRAS
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNT
+address_list:
+  items:
+  - uid: '17060'
+    address1: c/o FRANZUL S.A.
+    city: Medellin
+    country: Colombia
+  - uid: '17061'
+    address1: c/o HIERROS DE JERUSALEM S.A.
+    city: Medellin
+    country: Colombia
+id_list:
+  items:
+  - uid: '5866'
+    id_type: Cedula No.
+    id_number: '42895110'
+    id_country: Colombia
+date_of_birth_list:
+  items:
+  - uid: '6876'
+    date_of_birth: 11 Feb 1968
+    main_entry: 'true'
+  - uid: '6877'
+    date_of_birth: 02 Nov 1968
+    main_entry: 'false'

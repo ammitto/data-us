@@ -1,0 +1,44 @@
+---
+uid: '47148'
+last_name: GOLDEN TRIANGLE BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK4
+aka_list:
+  items:
+  - uid: '72840'
+    type: a.k.a.
+    category: weak
+    last_name: GTB
+  - uid: '72843'
+    type: a.k.a.
+    category: strong
+    last_name: GOLDEN DELTA BANK
+address_list:
+  items:
+  - uid: '70211'
+    address1: GTB Building, Namsan-Dong Rason
+    city: Namsan
+    country: Korea, North
+  - uid: '70212'
+    city: Rajin-Songbong Free Economic and Trade Zone
+    country: Korea, North
+id_list:
+  items:
+  - uid: '183845'
+    id_type: SWIFT/BIC
+    id_number: KGTBKPP1
+  - uid: '180676'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '183846'
+    id_type: Organization Established Date
+    id_number: Feb 1995
+  - uid: '183847'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '180677'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214

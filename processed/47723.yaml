@@ -1,0 +1,37 @@
+---
+uid: '47723'
+last_name: JOINT STOCK COMPANY ASTEIS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73983'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO ASTEIS
+  - uid: '73984'
+    type: a.k.a.
+    category: strong
+    last_name: JSC ASTEYS
+address_list:
+  items:
+  - uid: '71361'
+    address1: 28 Proezd Rezervnyi
+    city: Naberezhnye Chelny
+    postal_code: '423800'
+    country: Russia
+id_list:
+  items:
+  - uid: '38370'
+    id_type: Tax ID No.
+    id_number: '1650153253'
+    id_country: Russia
+  - uid: '38371'
+    id_type: Registration Number
+    id_number: '1071650002874'
+    id_country: Russia
+  - uid: '169647'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

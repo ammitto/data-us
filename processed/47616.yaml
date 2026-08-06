@@ -1,0 +1,63 @@
+---
+uid: '47616'
+first_name: Mehti
+last_name: GAFAR ZADA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73740'
+    type: a.k.a.
+    category: strong
+    last_name: KAFAR ZADE
+    first_name: Mekhti Fikret Ogly
+  - uid: '73741'
+    type: a.k.a.
+    category: strong
+    last_name: GAFAR ZADE
+    first_name: Mekhti Fikret
+  - uid: '73743'
+    type: a.k.a.
+    category: strong
+    last_name: GAFAR ZADE
+    first_name: Mekhti Fikret Oglu
+  - uid: '73745'
+    type: a.k.a.
+    category: strong
+    last_name: MEHTI
+    first_name: Gafar Zada
+address_list:
+  items:
+  - uid: '71141'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '38186'
+    id_type: Passport
+    id_number: C03895864
+    id_country: Azerbaijan
+    issue_date: 11 Apr 2022
+    expiration_date: 10 Apr 2032
+  - uid: '38187'
+    id_type: National ID No.
+    id_number: 0V9WV73
+    id_country: Azerbaijan
+  - uid: '169097'
+    id_type: Gender
+    id_number: Male
+  - uid: '169608'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '69099'
+    date_of_birth: 30 Nov 1978
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '69100'
+    place_of_birth: Azerbaijan
+    main_entry: 'true'

@@ -1,0 +1,42 @@
+---
+uid: '50224'
+last_name: LLC LABORATORY OF ADDITIVE TECHNOLOGIES
+sdn_type: Entity
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '78379'
+    type: a.k.a.
+    category: strong
+    last_name: OOO LABORATORIYA ADDITIVNYKH TEKHNOLOGIY
+  - uid: '78380'
+    type: a.k.a.
+    category: strong
+    last_name: TAA LABARATORYYA ADYTYUNYKH TECHNALOHIY
+  - uid: '78381'
+    type: a.k.a.
+    category: strong
+    last_name: LLC LASER DEVICES AND TECHNOLOGIES
+address_list:
+  items:
+  - uid: '76033'
+    address1: Pekinskiy bld. 22
+    city: Minsk
+    postal_code: '222205'
+    country: Belarus
+  - uid: '76034'
+    address1: Tsentralnaya Str. 2, room ll6
+    city: Yutski
+    postal_code: '222744'
+    country: Belarus
+id_list:
+  items:
+  - uid: '41864'
+    id_type: Tax ID No.
+    id_number: '691827047'
+    id_country: Belarus
+  - uid: '177850'
+    id_type: Organization Established Date
+    id_number: '09 Feb 2017'

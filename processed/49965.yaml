@@ -1,0 +1,34 @@
+---
+uid: '49965'
+last_name: KUGEL LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '75582'
+    address1: Ul. Zapadnaya (Tekhnopark Promzona)
+    address2: Vladenie 16, Office 2, Rp. Gorki Leninskie
+    city: Vidnoe
+    postal_code: '142712'
+    country: Russia
+  - uid: '75583'
+    address1: 4, Naberezhnaya Str.
+    address2: Senitsa Settlement
+    city: Minsk
+    postal_code: '223056'
+    country: Belarus
+id_list:
+  items:
+  - uid: '41504'
+    id_type: Registration Number
+    id_number: '1117746935800'
+    id_country: Russia
+  - uid: '41505'
+    id_type: Tax ID No.
+    id_number: '7721742033'
+    id_country: Russia
+  - uid: '178000'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

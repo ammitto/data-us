@@ -1,0 +1,38 @@
+---
+uid: '35917'
+last_name: SPORTIVNO-OZDOROVITELNYI TSENTR IRKUT-ZENIT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56489'
+    type: a.k.a.
+    category: strong
+    last_name: SOTS IRKUT-ZENIT
+  - uid: '56490'
+    type: a.k.a.
+    category: strong
+    last_name: IRKUT-ZENIT OOO
+address_list:
+  items:
+  - uid: '53906'
+    address1: ul Aviastroitelei d 4 korp A
+    city: Irkutsk
+    postal_code: '664002'
+    country: Russia
+id_list:
+  items:
+  - uid: '25278'
+    id_type: Tax ID No.
+    id_number: '3810034846'
+    id_country: Russia
+  - uid: '25279'
+    id_type: Registration Number
+    id_number: '1043801428065'
+    id_country: Russia
+  - uid: '173302'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: PUBLIC JOINT STOCK COMPANY YAKOVLEV)"

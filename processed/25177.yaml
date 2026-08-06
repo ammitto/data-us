@@ -1,0 +1,40 @@
+---
+uid: '25177'
+last_name: JOINT STOCK COMPANY SANATORIUM AY-PETRI
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13685
+aka_list:
+  items:
+  - uid: '39701'
+    type: a.k.a.
+    category: strong
+    last_name: JSC SANATORIUM AY-PETRI
+  - uid: '39702'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY AI-PETRI SANATORIUM
+address_list:
+  items:
+  - uid: '38136'
+    address1: House 15, Alupkinskoye shosse
+    address2: Urban Village Koreiz
+    city: City of Yalta
+    state_or_province: Crimea
+    postal_code: '298671'
+    country: Ukraine
+id_list:
+  items:
+  - uid: '16281'
+    id_type: Registration Number
+    id_number: '1169102093797'
+    id_country: Russia
+  - uid: '16282'
+    id_type: Tax ID No.
+    id_number: '9103082749'
+    id_country: Russia
+  - uid: '144001'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

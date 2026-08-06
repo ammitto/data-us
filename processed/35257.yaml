@@ -1,0 +1,43 @@
+---
+uid: '35257'
+first_name: Sergei Alekseevich
+last_name: BOBKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - CAATSA - RUSSIA
+aka_list:
+  items:
+  - uid: '56595'
+    type: a.k.a.
+    category: strong
+    last_name: BOBKOV
+    first_name: Sergey Alekseyevich
+address_list:
+  items:
+  - uid: '52989'
+    country: Russia
+id_list:
+  items:
+  - uid: '24956'
+    id_type: Tax ID No.
+    id_number: '7726000947136'
+    id_country: Russia
+  - uid: '149235'
+    id_type: Gender
+    id_number: Male
+  - uid: '153792'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+date_of_birth_list:
+  items:
+  - uid: '49233'
+    date_of_birth: 21 Jun 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '49234'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'
+remarks: "(Linked To: STATE RESEARCH CENTER OF THE RUSSIAN FEDERATION FGUP CENTRAL
+  SCIENTIFIC RESEARCH INSTITUTE OF CHEMISTRY AND MECHANICS)"

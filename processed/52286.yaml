@@ -1,0 +1,35 @@
+---
+uid: '52286'
+first_name: Kyong Sik
+last_name: SON
+sdn_type: Individual
+program_list:
+  programs:
+  - DPRK3
+address_list:
+  items:
+  - uid: '79862'
+    city: Shenyang
+    country: China
+id_list:
+  items:
+  - uid: '45241'
+    id_type: Passport
+    id_number: '381220302'
+    id_country: Korea, North
+  - uid: '183649'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '183650'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '183643'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '83644'
+    date_of_birth: 20 Apr 1959
+    main_entry: 'true'
+remarks: "(Linked To: KOREA OSONG SHIPPING CORPORATION)"

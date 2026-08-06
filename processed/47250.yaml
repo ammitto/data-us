@@ -1,0 +1,32 @@
+---
+uid: '47250'
+last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU FAKTOR TS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '70380'
+    address1: 1-I Magistralnyi PR-D D. 11, Str. 1
+    city: Moscow
+    postal_code: '123290'
+    country: Russia
+  - uid: '70381'
+    address1: Ul. Donbasskaya D. 2, Str. 1
+    city: Vidnoye
+    postal_code: '142703'
+    country: Russia
+id_list:
+  items:
+  - uid: '37518'
+    id_type: Registration Number
+    id_number: '1027700452108'
+    id_country: Russia
+  - uid: '37519'
+    id_type: Tax ID No.
+    id_number: '7716032944'
+    id_country: Russia
+  - uid: '169891'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

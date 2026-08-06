@@ -1,0 +1,49 @@
+---
+uid: '46232'
+first_name: Ismail Musa Ahmad
+last_name: BARHUM
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '71393'
+    type: a.k.a.
+    category: strong
+    last_name: BARHUM
+    first_name: Isma'il Musa Ahmad
+  - uid: '71394'
+    type: a.k.a.
+    category: strong
+    last_name: BARHOUM
+    first_name: Ismail
+address_list:
+  items:
+  - uid: '68819'
+    city: Rafah
+    country: 'Region: Gaza'
+id_list:
+  items:
+  - uid: '36079'
+    id_type: National ID No.
+    id_number: '918496571'
+    id_country: Palestinian
+  - uid: '166949'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '166955'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '66950'
+    date_of_birth: 23 Dec 1968
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '66952'
+    place_of_birth: Rafah, Gaza Strip
+    main_entry: 'true'
+remarks: "(Linked To: HAMAS)"

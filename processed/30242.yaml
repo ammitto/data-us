@@ -1,0 +1,49 @@
+---
+uid: '30242'
+first_name: Falih
+last_name: AL-FAYYADH
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '47443'
+    type: a.k.a.
+    category: strong
+    last_name: ALFAYYADH
+    first_name: Faleh
+  - uid: '47444'
+    type: a.k.a.
+    category: strong
+    last_name: ALFAYYADH
+    first_name: Falih
+  - uid: '48586'
+    type: a.k.a.
+    category: strong
+    last_name: AL FAYYADH
+    first_name: Falih Faisal Fahad
+address_list:
+  items:
+  - uid: '45678'
+    country: Iraq
+id_list:
+  items:
+  - uid: '20987'
+    id_type: Passport
+    id_number: D1019262
+    id_country: Iraq
+    expiration_date: 14 Jul 2026
+  - uid: '137755'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '37752'
+    date_of_birth: 27 Mar 1956
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '37754'
+    place_of_birth: Iraq
+    main_entry: 'true'

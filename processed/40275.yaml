@@ -1,0 +1,41 @@
+---
+uid: '40275'
+first_name: Dmitriy Andreevich
+last_name: ARTYUKHOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '60044'
+    state_or_province: Yamalo-Nenets Autonomous Area
+    country: Russia
+id_list:
+  items:
+  - uid: '29461'
+    id_type: Tax ID No.
+    id_number: '720414941639'
+    id_country: Russia
+  - uid: '157358'
+    id_type: Gender
+    id_number: Male
+  - uid: '174076'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '57354'
+    date_of_birth: 17 Feb 1988
+    main_entry: 'true'
+  - uid: '57355'
+    date_of_birth: 07 Feb 1988
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '57356'
+    place_of_birth: Tyumen, Tyumen Region, Russia
+    main_entry: 'true'
+  - uid: '57357'
+    place_of_birth: Yamalo-Nenets Autonomous Area, Russia
+    main_entry: 'false'

@@ -1,0 +1,42 @@
+---
+uid: '45863'
+first_name: Andrey Petrovich
+last_name: DUKHVALOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70867'
+    type: a.k.a.
+    category: strong
+    last_name: DOUKHVALOV
+    first_name: Andrey
+address_list:
+  items:
+  - uid: '74943'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '35620'
+    id_type: Passport
+    id_number: '531133295'
+    id_country: Russia
+  - uid: '170581'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '166507'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '66504'
+    date_of_birth: 03 Dec 1957
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '66505'
+    place_of_birth: Kharkov, Ukraine
+    main_entry: 'true'

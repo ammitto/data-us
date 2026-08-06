@@ -1,0 +1,31 @@
+---
+uid: '44852'
+last_name: VERTIKAL LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '66738'
+    address1: Pr-Kt Moskovskii D. 148
+    address2: Lit. D, Pomeshch. 8
+    city: Saint Petersburg
+    postal_code: '196084'
+    country: Russia
+id_list:
+  items:
+  - uid: '34441'
+    id_type: Registration Number
+    id_number: '1097847083839'
+    id_country: Russia
+  - uid: '34442'
+    id_type: Tax ID No.
+    id_number: '7840410492'
+    id_country: Russia
+  - uid: '173813'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '165072'
+    id_type: Organization Established Date
+    id_number: 24 Mar 2009

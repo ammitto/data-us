@@ -1,0 +1,53 @@
+---
+uid: '46474'
+first_name: Luis Miguel
+last_name: MARTINEZ MORALES
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '71723'
+    type: a.k.a.
+    category: weak
+    last_name: MARTINEZ, Miguel Miguelito
+  - uid: '71724'
+    type: a.k.a.
+    category: weak
+    last_name: MARTINEZ, Miguel
+  - uid: '71725'
+    type: a.k.a.
+    category: weak
+    last_name: Miguelito
+address_list:
+  items:
+  - uid: '69127'
+    address1: Colonia Las Hojarascas
+    address2: Km 19.5 Carretera Interamericana
+    city: Mixco
+    country: Guatemala
+id_list:
+  items:
+  - uid: '36395'
+    id_type: National ID No.
+    id_number: '2459072030502'
+    id_country: Guatemala
+  - uid: '36396'
+    id_type: Passport
+    id_number: '245907203'
+    id_country: Guatemala
+    expiration_date: 15 Nov 2022
+  - uid: '167292'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '67291'
+    date_of_birth: 12 Sep 1989
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '67294'
+    place_of_birth: Santa Lucia Cotzumalguapa, Guatemala
+    main_entry: 'true'

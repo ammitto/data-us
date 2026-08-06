@@ -1,0 +1,41 @@
+---
+uid: '52950'
+first_name: Hamid
+last_name: BOVARD
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '82876'
+    type: a.k.a.
+    category: strong
+    last_name: BOORD
+    first_name: Hamid
+address_list:
+  items:
+  - uid: '80923'
+    country: Iran
+id_list:
+  items:
+  - uid: '46087'
+    id_type: National ID No.
+    id_number: '1881030784'
+    id_country: Iran
+  - uid: '184961'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '184947'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '84946'
+    date_of_birth: 27 Mar 1964
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '84953'
+    place_of_birth: Shushtar, Iran
+    main_entry: 'true'

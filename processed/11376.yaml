@@ -1,0 +1,52 @@
+---
+uid: '11376'
+first_name: Mohammed Yahya
+last_name: MUJAHID
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '11974'
+    type: a.k.a.
+    category: strong
+    last_name: AZIZ
+    first_name: Mohammad Yahya
+  - uid: '12002'
+    type: a.k.a.
+    category: strong
+    last_name: MUJAHID
+    first_name: Muhammad Yahya
+  - uid: '12003'
+    type: a.k.a.
+    category: strong
+    last_name: MUJAHID
+    first_name: Yahya
+id_list:
+  items:
+  - uid: '5792'
+    id_type: National ID No.
+    id_number: 35404-1577309-9
+    id_country: Pakistan
+  - uid: '7599'
+    id_type: National ID No.
+    id_number: '26961341469'
+    id_country: Pakistan
+  - uid: '185937'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '6766'
+    date_of_birth: 12 Mar 1961
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '6767'
+    place_of_birth: Lahore, Punjab Province, Pakistan
+    main_entry: 'true'
+  - uid: '8955'
+    place_of_birth: Sheikhupura, Pakistan
+    main_entry: 'false'

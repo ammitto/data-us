@@ -1,0 +1,71 @@
+---
+uid: '49152'
+last_name: NEWTON ITM
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76603'
+    type: a.k.a.
+    category: strong
+    last_name: NEYUTON ITM
+  - uid: '76604'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY NEYUTON ITM
+  - uid: '76605'
+    type: a.k.a.
+    category: strong
+    last_name: ENGINEERING CENTER SDM LLC
+address_list:
+  items:
+  - uid: '73952'
+    address1: Prkt Mira D. 102
+    address2: Str. 31, Pomeshch 4N/3
+    city: Moscow
+    postal_code: '129626'
+    country: Russia
+  - uid: '73953'
+    address1: 13/3 Tikhaya St., Floor 4
+    address2: r/p Zarechye
+    city: Odintsovo
+    postal_code: '143085'
+    country: Russia
+  - uid: '73954'
+    address1: 69 km MKAD
+    address2: OOK ZAO Greenwood, Bld. 9
+    city: Putilkovo
+    postal_code: '143085'
+    country: Russia
+  - uid: '73955'
+    address1: 28A Pulkovo Highway
+    address2: Pulkovo Star
+    city: Saint Petersburg
+    postal_code: '196158'
+    country: Russia
+  - uid: '73956'
+    address1: 4B Automobile Street
+    address2: Pushkin
+    city: Saint Petersburg
+    state_or_province: '196650'
+    country: Russia
+  - uid: '73957'
+    address1: 79 Chkalov Street
+    city: Kozelsk
+    postal_code: '249722'
+    country: Russia
+id_list:
+  items:
+  - uid: '40247'
+    id_type: Registration Number
+    id_number: '1185024007398'
+    id_country: Russia
+  - uid: '40248'
+    id_type: Tax ID No.
+    id_number: '5032295067'
+    id_country: Russia
+  - uid: '172069'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

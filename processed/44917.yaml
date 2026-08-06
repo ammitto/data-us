@@ -1,0 +1,41 @@
+---
+uid: '44917'
+last_name: AKTSIONERNOE OBSHCHESTVO ULYANOVSKII PATRONNYI ZAVOD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69482'
+    type: a.k.a.
+    category: weak
+    last_name: AO UPZ
+  - uid: '69483'
+    type: a.k.a.
+    category: strong
+    last_name: JSC THE ULYANOVSK CARTRIDGE WORKS
+  - uid: '69484'
+    type: a.k.a.
+    category: strong
+    last_name: ULNAMMO
+address_list:
+  items:
+  - uid: '66845'
+    address1: ul. Shoferov D. 1
+    city: Ulyanovsk
+    postal_code: '432007'
+    country: Russia
+id_list:
+  items:
+  - uid: '34508'
+    id_type: Registration Number
+    id_number: '1047301521520'
+    id_country: Russia
+  - uid: '34509'
+    id_type: Tax ID No.
+    id_number: '7328500127'
+    id_country: Russia
+  - uid: '175845'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

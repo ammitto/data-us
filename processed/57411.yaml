@@ -1,0 +1,38 @@
+---
+uid: '57411'
+first_name: Luis Arnulfo
+last_name: MORENO ZAMORA
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+address_list:
+  items:
+  - uid: '87985'
+    state_or_province: Sinaloa
+    country: Mexico
+id_list:
+  items:
+  - uid: '51729'
+    id_type: C.U.R.P.
+    id_number: MOZL900201HSLRMS01
+    id_country: Mexico
+  - uid: '198214'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '197470'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '97468'
+    date_of_birth: 01 Feb 1990
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '97469'
+    place_of_birth: Sinaloa, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: GONZALEZ PENUELAS, Jesus)"

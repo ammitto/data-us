@@ -1,0 +1,41 @@
+---
+uid: '30082'
+last_name: KOREA CHOLSAN GENERAL TRADING CORPORATION
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK3
+aka_list:
+  items:
+  - uid: '47112'
+    type: a.k.a.
+    category: strong
+    last_name: CHOLSAN TRADING COMPANY
+  - uid: '47113'
+    type: a.k.a.
+    category: strong
+    last_name: CHOLSON LLC
+  - uid: '47114'
+    type: a.k.a.
+    category: strong
+    last_name: CHKHOLSAN
+address_list:
+  items:
+  - uid: '45341'
+    country: Russia
+  - uid: '45342'
+    address1: Tongdaewon District
+    city: Pyongyang
+    country: Korea, North
+id_list:
+  items:
+  - uid: '137552'
+    id_type: 'Organization Type:'
+    id_number: Construction of other civil engineering projects
+  - uid: '137349'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '137348'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210

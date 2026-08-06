@@ -1,0 +1,41 @@
+---
+uid: '35878'
+last_name: AKTSIONERNOE OBSHCHESTVO RAVENSTVO-SERVICE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56389'
+    type: a.k.a.
+    category: strong
+    last_name: AO RAVENSTVO-SERVICE
+  - uid: '56392'
+    type: a.k.a.
+    category: strong
+    last_name: SC RAWENSTVO-SERVICE
+address_list:
+  items:
+  - uid: '53840'
+    address1: Ul. Promyshlennaya D. 19
+    city: Saint Petersburg
+    postal_code: '198099'
+    country: Russia
+id_list:
+  items:
+  - uid: '25215'
+    id_type: Registration Number
+    id_number: '1079847012453'
+    id_country: Russia
+  - uid: '25216'
+    id_type: Tax ID No.
+    id_number: '7805417618'
+    id_country: Russia
+  - uid: '173273'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '149073'
+    id_type: Organization Established Date
+    id_number: 25 Mar 1993
+remarks: "(Linked To: JOINT STOCK COMPANY CONCERN GRANIT-ELECTRON)"

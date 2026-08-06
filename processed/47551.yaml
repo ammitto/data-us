@@ -1,0 +1,34 @@
+---
+uid: '47551'
+first_name: Igor Yevgenyevich
+last_name: MOLOTOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '71002'
+    country: Russia
+id_list:
+  items:
+  - uid: '38067'
+    id_type: National ID No.
+    id_number: '4509154695'
+    id_country: Russia
+  - uid: '169063'
+    id_type: Gender
+    id_number: Male
+  - uid: '169922'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '69061'
+    date_of_birth: 06 Mar 1962
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '69062'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'

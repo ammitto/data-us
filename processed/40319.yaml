@@ -1,0 +1,41 @@
+---
+uid: '40319'
+last_name: JOINT STOCK COMPANY BATTERY COMPANY RIGEL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '62691'
+    type: a.k.a.
+    category: strong
+    last_name: JSC AKKUMULYATORNAYA COMPANY RIGEL
+  - uid: '62692'
+    type: a.k.a.
+    category: strong
+    last_name: JSC AKKUMULYATORNAYA KOMPANIYA RIGEL
+  - uid: '62693'
+    type: a.k.a.
+    category: strong
+    last_name: BATTERY COMPANY RIGEL JSC
+address_list:
+  items:
+  - uid: '60091'
+    address1: Professora Popova st., 38
+    city: Saint Petersburg
+    postal_code: '197376'
+    country: Russia
+id_list:
+  items:
+  - uid: '29500'
+    id_type: Tax ID No.
+    id_number: '7813054118'
+    id_country: Russia
+  - uid: '29501'
+    id_type: Registration Number
+    id_number: '1027806869991'
+    id_country: Russia
+  - uid: '174080'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

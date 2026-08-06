@@ -1,0 +1,41 @@
+---
+uid: '26465'
+last_name: SMILE TECHNOLOGIES S.A.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '41736'
+    type: a.k.a.
+    category: strong
+    last_name: SMILE WALLET LIMITED
+  - uid: '41737'
+    type: a.k.a.
+    category: strong
+    last_name: SMILE WALLET LTD
+  - uid: '41738'
+    type: a.k.a.
+    category: strong
+    last_name: SMILE PAYMENTS
+address_list:
+  items:
+  - uid: '40117'
+    address1: Avenida Chivilcoy 3157
+    address2: piso 2
+    address3: departamento D
+    city: Buenos Aires
+    country: Argentina
+id_list:
+  items:
+  - uid: '17118'
+    id_type: C.U.I.T.
+    id_number: '30715339176'
+    id_country: Argentina
+  - uid: '130950'
+    id_type: Website
+    id_number: www.smiletechnologies.com.ar
+  - uid: '130951'
+    id_type: Website
+    id_number: smilepayments.com

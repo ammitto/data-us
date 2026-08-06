@@ -1,0 +1,33 @@
+---
+uid: '10903'
+first_name: Cumhur
+last_name: YAKUT
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '11122'
+    type: a.k.a.
+    category: strong
+    last_name: TANN
+    first_name: Ahmet
+address_list:
+  items:
+  - uid: '15710'
+    city: Dubai
+    country: United Arab Emirates
+  - uid: '15711'
+    city: Bartin
+    country: Turkey
+date_of_birth_list:
+  items:
+  - uid: '6332'
+    date_of_birth: 18 Mar 1955
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '6333'
+    place_of_birth: Turkey
+    main_entry: 'true'

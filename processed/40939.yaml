@@ -1,0 +1,37 @@
+---
+uid: '40939'
+first_name: Walter
+last_name: MORETTI
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '61123'
+    address1: Orange Grove, Blk F, Flat 3
+    address2: Triq il-Birbal
+    city: Balzan
+    country: Malta
+id_list:
+  items:
+  - uid: '30249'
+    id_type: Passport
+    id_number: X8346052
+    id_country: Switzerland
+  - uid: '175322'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '158608'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '58607'
+    date_of_birth: 17 Nov 1965
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '58609'
+    place_of_birth: Altdorf, Switzerland
+    main_entry: 'true'

@@ -1,0 +1,47 @@
+---
+uid: '43234'
+first_name: Viktoriya Valeriyevna
+last_name: ABRAMCHENKO
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '67003'
+    type: a.k.a.
+    category: strong
+    last_name: ABRAMCHENKO
+    first_name: Viktoria Valerievna
+  - uid: '67004'
+    type: a.k.a.
+    category: strong
+    last_name: ABRAMCHENKO
+    first_name: Viktoriya Valeryevna
+address_list:
+  items:
+  - uid: '64504'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '32784'
+    id_type: Tax ID No.
+    id_number: '190301150585'
+    id_country: Russia
+  - uid: '175650'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '162378'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '62376'
+    date_of_birth: 22 May 1975
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '62377'
+    place_of_birth: Chernogorsk, Khakasia Republic, Russia
+    main_entry: 'true'

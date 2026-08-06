@@ -1,0 +1,39 @@
+---
+uid: '56891'
+first_name: Hossein Zare
+last_name: KAMALI
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - IRAN-HR
+  - IRGC
+address_list:
+  items:
+  - uid: '87134'
+    country: Iran
+id_list:
+  items:
+  - uid: '51016'
+    id_type: Passport
+    id_number: R57381834
+    id_country: Iran
+    expiration_date: 01 Jul 2027
+  - uid: '195886'
+    id_type: Gender
+    id_number: Male
+  - uid: '196007'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '95885'
+    date_of_birth: 27 Jun 1961
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '95887'
+    place_of_birth: Mehriz, Iran
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS)"
+title: IRGC Commander for Hamadan Province

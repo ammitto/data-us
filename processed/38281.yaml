@@ -1,0 +1,40 @@
+---
+uid: '38281'
+first_name: Kyrylo Serhiyovych
+last_name: STREMOUSOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '60043'
+    type: a.k.a.
+    category: strong
+    last_name: STRIMOUSOV
+    first_name: Kirill Sergeevich
+address_list:
+  items:
+  - uid: '57302'
+    address1: Apartment 48, Ilyushin Kulika Street 129
+    city: Kherson
+    state_or_province: Kherson Region
+    postal_code: '73009'
+    country: Ukraine
+id_list:
+  items:
+  - uid: '27557'
+    id_type: Tax ID No.
+    id_number: '2811903133'
+    id_country: Ukraine
+  - uid: '174669'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '153563'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '53564'
+    date_of_birth: 26 Dec 1976
+    main_entry: 'true'

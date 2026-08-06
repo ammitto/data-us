@@ -1,0 +1,52 @@
+---
+uid: '58225'
+last_name: SKIEZ TRAVELS AND LOGISTICS PRIVATE LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - SDGT
+aka_list:
+  items:
+  - uid: '90051'
+    type: a.k.a.
+    category: strong
+    last_name: SKIEZ TRAVELS AND LOGISTICS PVT LTD
+  - uid: '90052'
+    type: a.k.a.
+    category: weak
+    last_name: SKIEZ TRAVEL
+address_list:
+  items:
+  - uid: '89455'
+    city: Srinagar
+    state_or_province: Jammu and Kashmir
+    postal_code: '190001'
+    country: India
+  - uid: '89456'
+    address1: A-287, Second Floor
+    address2: Defence Colony
+    city: New Delhi
+    state_or_province: Delhi
+    country: India
+id_list:
+  items:
+  - uid: '52861'
+    id_type: Tax ID No.
+    id_number: ABECS9772K
+    id_country: India
+  - uid: '52862'
+    id_type: Identification Number
+    id_number: U60210JK2020PTC011906
+    id_country: India
+  - uid: '199876'
+    id_type: Organization Established Date
+    id_number: 27 Nov 2020
+  - uid: '199882'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '199877'
+    id_type: Website
+    id_number: https://skiez.in
+remarks: "(Linked To: MAHAN AIR)"

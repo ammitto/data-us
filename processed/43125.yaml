@@ -1,0 +1,53 @@
+---
+uid: '43125'
+last_name: SEVERNAYA ZVEZDA LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '66851'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU SEVERNAYA ZVEZDA
+  - uid: '66852'
+    type: a.k.a.
+    category: strong
+    last_name: OOO SEVERNAIA ZVEZDA
+  - uid: '66853'
+    type: a.k.a.
+    category: weak
+    last_name: NORTH STAR
+  - uid: '66854'
+    type: a.k.a.
+    category: weak
+    last_name: LLC NORTHERN STAR
+address_list:
+  items:
+  - uid: '64352'
+    address1: zd. 31 etzah 2 kom. 44, 45, ul. Sovetskaya
+    city: Dudinka
+    postal_code: '647000'
+    country: Russia
+id_list:
+  items:
+  - uid: '32723'
+    id_type: Registration Number
+    id_number: '1062457033022'
+    id_country: Russia
+  - uid: '32724'
+    id_type: Tax ID No.
+    id_number: '2457062730'
+    id_country: Russia
+  - uid: '32725'
+    id_type: Government Gazette Number
+    id_number: '97616736'
+    id_country: Russia
+  - uid: '175546'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '162106'
+    id_type: Organization Established Date
+    id_number: 16 Oct 2006
+remarks: "(Linked To: ARCTIC ENERGY GROUP LIMITED LIABILITY COMPANY)"

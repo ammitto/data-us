@@ -1,0 +1,42 @@
+---
+uid: '54644'
+first_name: Yahya Mohammed Mohammed
+last_name: AL WAZIR
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '83456'
+    country: Yemen
+id_list:
+  items:
+  - uid: '48329'
+    id_type: Passport
+    id_number: '04496457'
+    id_country: Yemen
+    expiration_date: 01 Oct 2017
+  - uid: '48330'
+    id_type: Passport
+    id_number: '02156424'
+    id_country: Yemen
+    expiration_date: 20 Dec 2011
+  - uid: '190877'
+    id_type: Gender
+    id_number: Male
+  - uid: '190879'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '90875'
+    date_of_birth: 17 May 1981
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '90876'
+    place_of_birth: Al-Amanah, Yemen
+    main_entry: 'true'
+remarks: "(Linked To: ANSARALLAH)"

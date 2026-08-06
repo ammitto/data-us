@@ -1,0 +1,43 @@
+---
+uid: '26590'
+last_name: BANCO DE VENEZUELA SA BANCO UNIVERSAL
+sdn_type: Entity
+program_list:
+  programs:
+  - VENEZUELA-EO13850
+aka_list:
+  items:
+  - uid: '41991'
+    type: a.k.a.
+    category: strong
+    last_name: BANCO DE VENEZUELA, S.A.C.A.
+  - uid: '41995'
+    type: a.k.a.
+    category: strong
+    last_name: BANCO DE VENEZUELA SA, BANCO UNIVERSAL
+  - uid: '41996'
+    type: a.k.a.
+    category: strong
+    last_name: BANCO DE VENEZUELA
+  - uid: '41997'
+    type: f.k.a.
+    category: strong
+    last_name: BANCO DE VENEZUELA, S.A.
+address_list:
+  items:
+  - uid: '40337'
+    address1: Av Universidad Esq. de Sociedad
+    address2: Torre Banco de Venezuela
+    city: Caracas
+    state_or_province: Distrito Federal
+    country: Venezuela
+id_list:
+  items:
+  - uid: '17213'
+    id_type: National ID No.
+    id_number: G200099976
+    id_country: Venezuela
+  - uid: '131168'
+    id_type: SWIFT/BIC
+    id_number: VZLAVECA
+remarks: "(Linked To: BANCO DE DESARROLLO ECONOMICO Y SOCIAL DE VENEZUELA)"

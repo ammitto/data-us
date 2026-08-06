@@ -1,0 +1,41 @@
+---
+uid: '35313'
+first_name: Pavel Arkadyevich
+last_name: ROTENBERG
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '55562'
+    type: a.k.a.
+    category: strong
+    last_name: ROTENBERG
+    first_name: Pavel Arkadievich
+address_list:
+  items:
+  - uid: '53085'
+    country: Russia
+id_list:
+  items:
+  - uid: '176708'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '147571'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '47564'
+    date_of_birth: 29 Feb 2000
+    main_entry: 'true'
+  - uid: '47565'
+    date_of_birth: 20 Feb 2000
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '47566'
+    place_of_birth: St. Peterburg, Russia
+    main_entry: 'true'
+remarks: "(Linked To: ROTENBERG, Arkady Romanovich)"

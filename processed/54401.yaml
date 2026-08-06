@@ -1,0 +1,70 @@
+---
+uid: '54401'
+first_name: Salim Ahmed
+last_name: SAID
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '84680'
+    type: a.k.a.
+    category: strong
+    last_name: SAEED
+    first_name: Mohammed
+  - uid: '84681'
+    type: a.k.a.
+    category: strong
+    last_name: OMEED
+    first_name: Salam
+  - uid: '84682'
+    type: a.k.a.
+    category: strong
+    last_name: SALEM
+    first_name: Omed
+  - uid: '84683'
+    type: a.k.a.
+    category: strong
+    last_name: "'UMED"
+    first_name: Salim
+  - uid: '84684'
+    type: a.k.a.
+    category: strong
+    last_name: "'UMEED"
+    first_name: Salim
+address_list:
+  items:
+  - uid: '83086'
+    address1: Villa D-24 The Palm Jumeirah
+    city: Dubai
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '48008'
+    id_type: National ID No.
+    id_number: '784197736807633'
+    id_country: United Kingdom
+  - uid: '48009'
+    id_type: Passport
+    id_number: '513075044'
+    id_country: United Kingdom
+    expiration_date: '08 Mar 2026'
+  - uid: '48011'
+    id_type: Passport
+    id_number: '556957176'
+    id_country: United Kingdom
+    expiration_date: 28 Jan 2029
+  - uid: '190253'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '90252'
+    date_of_birth: 04 Dec 1977
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '90254'
+    place_of_birth: Chardgloo, Iraq
+    main_entry: 'true'

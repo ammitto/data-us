@@ -1,0 +1,44 @@
+---
+uid: '40242'
+first_name: Andrey Yuryevich
+last_name: VOROBYEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '62582'
+    type: a.k.a.
+    category: strong
+    last_name: VOROBYOV
+    first_name: Andrei Yurievich
+  - uid: '62583'
+    type: a.k.a.
+    category: strong
+    last_name: VOROBEV
+    first_name: Andrey Yurevich
+address_list:
+  items:
+  - uid: '59976'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '157210'
+    id_type: Gender
+    id_number: Male
+  - uid: '174045'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '57208'
+    date_of_birth: 14 Apr 1970
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '57209'
+    place_of_birth: Krasnoyarsk, Russia
+    main_entry: 'true'
+remarks: "(Linked To: VOROBYOV, Yury Leonidovich)"

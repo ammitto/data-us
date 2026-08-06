@@ -1,0 +1,56 @@
+---
+uid: '41796'
+first_name: Shokhrukh Olimdjonovich
+last_name: NASIRKHODJAEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65090'
+    type: a.k.a.
+    category: strong
+    last_name: NASIRKHODJAEV
+    first_name: Shokrukh
+address_list:
+  items:
+  - uid: '62364'
+    country: United Arab Emirates
+  - uid: '62365'
+    country: Uzbekistan
+id_list:
+  items:
+  - uid: '31176'
+    id_type: Passport
+    id_number: AA0615681
+    id_country: Uzbekistan
+    issue_date: 04 Jan 2013
+    expiration_date: 04 Jan 2023
+  - uid: '31177'
+    id_type: Passport
+    id_number: CA2645862
+    id_country: Uzbekistan
+    issue_date: 02 Jun 2009
+    expiration_date: 06 Sep 2025
+  - uid: '31178'
+    id_type: Passport
+    id_number: FA0163946
+    id_country: Uzbekistan
+    expiration_date: 24 Mar 2029
+  - uid: '176940'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '160008'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '60010'
+    date_of_birth: 07 Sep 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '60009'
+    place_of_birth: Tashkent, Uzbekistan
+    main_entry: 'true'

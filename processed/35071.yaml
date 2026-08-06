@@ -1,0 +1,60 @@
+---
+uid: '35071'
+first_name: Maiya Nikolaevna
+last_name: TOKAREVA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '55177'
+    type: a.k.a.
+    category: strong
+    last_name: TOKAREVA
+    first_name: Mayya
+  - uid: '55179'
+    type: f.k.a.
+    category: strong
+    last_name: BOLOTOVA
+    first_name: Mayya
+  - uid: '55180'
+    type: f.k.a.
+    category: strong
+    last_name: BOLOTOVA
+    first_name: Maiya Nikolaevna
+address_list:
+  items:
+  - uid: '52661'
+    address1: Brusova Str., 19, 5
+    city: Moscow
+    postal_code: '125009'
+    country: Russia
+id_list:
+  items:
+  - uid: '24837'
+    id_type: Tax ID No.
+    id_number: '772450740210'
+    id_country: Russia
+  - uid: '24839'
+    id_type: Passport
+    id_number: '530212750'
+    id_country: Russia
+    issue_date: 12 Apr 2012
+    expiration_date: 12 Apr 2022
+  - uid: '175257'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '146972'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '46971'
+    date_of_birth: 18 Jan 1975
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '46973'
+    place_of_birth: Karaganda, Kazakhstan
+    main_entry: 'true'

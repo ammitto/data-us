@@ -1,0 +1,33 @@
+---
+uid: '45697'
+last_name: OOO INSTRUMENTALNO PODSHIPNIKOVAYA KOMPANIYA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '67932'
+    address1: sh. Metallurgov
+    address2: d. 33P, pom. 6
+    city: Chelyabinsk
+    country: Russia
+  - uid: '67933'
+    address1: Sverdlovskii Trakt
+    address2: 14 3 floor
+    city: Chelyabinsk
+    postal_code: '454036'
+    country: Russia
+id_list:
+  items:
+  - uid: '35392'
+    id_type: Tax ID No.
+    id_number: '7453188579'
+    id_country: Russia
+  - uid: '35393'
+    id_type: Registration Number
+    id_number: '1077453020556'
+    id_country: Russia
+  - uid: '176003'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,46 @@
+---
+uid: '40568'
+last_name: AKTSIONERNOYE OBSHCHESTVO TSENTR SUDOREMONTA DALZAVOD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63052'
+    type: a.k.a.
+    category: weak
+    last_name: TSSD AO
+  - uid: '63053'
+    type: a.k.a.
+    category: strong
+    last_name: DALZAVOD SHIP REPAIR CENTRE JOINT STOCK COMPANY
+  - uid: '63054'
+    type: a.k.a.
+    category: weak
+    last_name: TSSD JSC
+address_list:
+  items:
+  - uid: '60430'
+    address1: 2 Dalzvodskaya Street
+    city: Vladivostok
+    postal_code: '690001'
+    country: Russia
+id_list:
+  items:
+  - uid: '29714'
+    id_type: Tax ID No.
+    id_number: '2536210349'
+    id_country: Russia
+  - uid: '29717'
+    id_type: Registration Number
+    id_number: '1082536014120'
+    id_country: Russia
+  - uid: '157851'
+    id_type: Organization Established Date
+    id_number: 06 Nov 2008
+  - uid: '174115'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: AKTSIONERNOYE OBSHCHESTVO DALNEVOSTOCHNYY TSENTR SUDOSTROYENIYA
+  I SUDOREMONTA)"

@@ -1,0 +1,42 @@
+---
+uid: '28978'
+first_name: Majid
+last_name: AGHA'I
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '45545'
+    type: a.k.a.
+    category: strong
+    last_name: AGHAEI
+    first_name: Majid
+address_list:
+  items:
+  - uid: '43779'
+    country: Iran
+id_list:
+  items:
+  - uid: '19277'
+    id_type: National ID No.
+    id_number: '1199310281'
+    id_country: Iran
+  - uid: '135575'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '135574'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '35571'
+    date_of_birth: 13 Apr 1984
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '35572'
+    place_of_birth: Ghom, Iran
+    main_entry: 'true'

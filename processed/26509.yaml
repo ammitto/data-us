@@ -1,0 +1,38 @@
+---
+uid: '26509'
+last_name: YAROSLAVSKY SHIPBUILDING PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '41817'
+    type: a.k.a.
+    category: strong
+    last_name: YAROSLAVL SHIPYARD OPEN JOINT-STOCK COMPANY
+  - uid: '41818'
+    type: a.k.a.
+    category: strong
+    last_name: OJSC YAROSLAVSKY SHIPYARD
+  - uid: '41819'
+    type: a.k.a.
+    category: strong
+    last_name: OJSC YAROSLAVSKY SHIPBUILDING PLANT
+  - uid: '41820'
+    type: a.k.a.
+    category: strong
+    last_name: PJSC YAROSLAVSKY SHIPBUILDING PLANT
+address_list:
+  items:
+  - uid: '40182'
+    address1: 1, Korabelnaya Str.
+    city: Yaroslavl
+    postal_code: '150006'
+    country: Russia
+id_list:
+  items:
+  - uid: '144061'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

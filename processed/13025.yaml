@@ -1,0 +1,37 @@
+---
+uid: '13025'
+first_name: Joel
+last_name: VALDEZ BENITES
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '20740'
+    address1: Avenida Mar Baltico No. 944
+    address2: Colonia Lombardo Toledano
+    city: Culiacan
+    state_or_province: Sinaloa
+    postal_code: C.P. 80010
+    country: Mexico
+id_list:
+  items:
+  - uid: '7449'
+    id_type: C.U.R.P.
+    id_number: VABJ720420HSLLNL00
+    id_country: Mexico
+  - uid: '7450'
+    id_type: Passport
+    id_number: G04809091
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '8801'
+    date_of_birth: 20 Apr 1972
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '8802'
+    place_of_birth: Badiraguato, Sinaloa, Mexico
+    main_entry: 'true'

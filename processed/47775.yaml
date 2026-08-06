@@ -1,0 +1,33 @@
+---
+uid: '47775'
+last_name: PUBLIC JOINT STOCK COMPANY IZHNEFTEMASH
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74107'
+    type: a.k.a.
+    category: strong
+    last_name: IZHNEFTEMASH PAO
+address_list:
+  items:
+  - uid: '71468'
+    address1: 2 Ordzhonikidze Street
+    city: Izhevsk
+    postal_code: '426063'
+    country: Russia
+id_list:
+  items:
+  - uid: '38453'
+    id_type: Tax ID No.
+    id_number: '1835012826'
+    id_country: Russia
+  - uid: '38455'
+    id_type: Registration Number
+    id_number: '1021801650804'
+    id_country: Russia
+  - uid: '169694'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

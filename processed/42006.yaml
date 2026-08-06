@@ -1,0 +1,28 @@
+---
+uid: '42006'
+last_name: AVESTO OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '62687'
+    address1: ul. Gelsingforsskaya d. 3
+    address2: lit. Z, pomeshch. 411-416
+    city: Saint Petersburg
+    postal_code: '194044'
+    country: Russia
+id_list:
+  items:
+  - uid: '31416'
+    id_type: Registration Number
+    id_number: '1187847245520'
+    id_country: Russia
+  - uid: '31417'
+    id_type: Tax ID No.
+    id_number: '7813618950'
+    id_country: Russia
+  - uid: '173740'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

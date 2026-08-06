@@ -1,0 +1,36 @@
+---
+uid: '55018'
+first_name: Ali Morteza
+last_name: BIRANG
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '84174'
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '48918'
+    id_type: Passport
+    id_number: W53642578
+    id_country: Iran
+    expiration_date: 15 Mar 2026
+  - uid: '48981'
+    id_type: National ID No.
+    id_number: '1379244511'
+    id_country: Iran
+  - uid: '192144'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '191977'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '91975'
+    date_of_birth: 16 Apr 1978
+    main_entry: 'true'
+remarks: "(Linked To: RUNC EXCHANGE SYSTEM COMPANY)"

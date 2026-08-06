@@ -1,0 +1,46 @@
+---
+uid: '38136'
+last_name: FEDERAL STATE BUDGETARY SCIENTIFIC INSTITUTION RESEARCH AND PRODUCTION
+  COMPLEX TECHNOLOGY CENTER
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59848'
+    type: a.k.a.
+    category: strong
+    last_name: SMC TECHNOLOGICAL CENTRE
+  - uid: '59849'
+    type: a.k.a.
+    category: strong
+    last_name: SCIENTIFIC MANUFACTURING COMPLEX TECHNOLOGICAL CENTER
+  - uid: '59850'
+    type: a.k.a.
+    category: strong
+    last_name: NPK TECHNOLOGICAL CENTER
+address_list:
+  items:
+  - uid: '57144'
+    address1: Shokina Square, House 1, Bld. 7 Off. 7237
+    city: Zelenograd
+    state_or_province: Moscow
+    postal_code: '124498'
+    country: Russia
+id_list:
+  items:
+  - uid: '27416'
+    id_type: Tax ID No.
+    id_number: '7735096460'
+    id_country: Russia
+  - uid: '27417'
+    id_type: Registration Number
+    id_number: '1027700428480'
+    id_country: Russia
+  - uid: '174631'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '153408'
+    id_type: Organization Established Date
+    id_number: 13 Mar 2000

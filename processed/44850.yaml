@@ -1,0 +1,34 @@
+---
+uid: '44850'
+last_name: LIMITED LIABILITY COMPANY ASERVICE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69355'
+    type: a.k.a.
+    category: strong
+    last_name: OOO AVIASERVIS
+address_list:
+  items:
+  - uid: '66733'
+    address1: Pl. Morskoi Slavy D. 1
+    address2: 'Lit. A, Chast Pomeshcheniya 3-N, Chast Pomeshcheniya #691'
+    city: Saint Petersburg
+    postal_code: '199106'
+    country: Russia
+id_list:
+  items:
+  - uid: '34437'
+    id_type: Registration Number
+    id_number: '1197847181388'
+    id_country: Russia
+  - uid: '34438'
+    id_type: Tax ID No.
+    id_number: '7801671250'
+    id_country: Russia
+  - uid: '173811'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

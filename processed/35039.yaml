@@ -1,0 +1,28 @@
+---
+uid: '35039'
+last_name: OOO FOTON PRO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '52610'
+    address1: Ul. Lodygina D. 3, Korpus Golit. Korp, Et/Pom/Rab 2/206/2
+    city: Saransk
+    postal_code: '430034'
+    country: Russia
+id_list:
+  items:
+  - uid: '24781'
+    id_type: Tax ID No.
+    id_number: '1327025929'
+    id_country: Russia
+  - uid: '24782'
+    id_type: Registration Number
+    id_number: '1151327002452'
+    id_country: Russia
+  - uid: '175248'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: GRININ, Yevgeniy Aleksandrovich)"

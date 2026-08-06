@@ -1,0 +1,33 @@
+---
+uid: '52659'
+last_name: JOINT STOCK COMPANY ANTARES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '82519'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO ANTARES
+address_list:
+  items:
+  - uid: '80471'
+    address1: 13 str. 1, pomeshch. 19 per. 4-i Likhachevskii
+    city: Moscow
+    postal_code: '125438'
+    country: Russia
+id_list:
+  items:
+  - uid: '45764'
+    id_type: Registration Number
+    id_number: '1117746785936'
+    id_country: Russia
+  - uid: '45765'
+    id_type: Tax ID No.
+    id_number: '7743831248'
+    id_country: Russia
+  - uid: '184464'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

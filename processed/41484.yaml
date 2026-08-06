@@ -1,0 +1,52 @@
+---
+uid: '41484'
+first_name: Murat
+last_name: BUKEY
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '64629'
+    type: a.k.a.
+    category: weak
+    last_name: MURAT, Recep
+address_list:
+  items:
+  - uid: '61924'
+    country: Turkey
+id_list:
+  items:
+  - uid: '30825'
+    id_type: National ID No.
+    id_number: '38119667258'
+    id_country: Turkey
+  - uid: '30826'
+    id_type: Passport
+    id_number: U21720683
+    id_country: Turkey
+    expiration_date: 12 Apr 2029
+  - uid: '30827'
+    id_type: Passport
+    id_number: U01789726
+    id_country: Turkey
+    expiration_date: 30 Mar 2021
+  - uid: '159576'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '159580'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '59577'
+    date_of_birth: 02 Jan 1971
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '59578'
+    place_of_birth: Izmir, Turkey
+    main_entry: 'true'
+remarks: "(Linked To: PAIDAR, Amanallah)"

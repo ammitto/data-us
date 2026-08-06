@@ -1,0 +1,42 @@
+---
+uid: '39180'
+last_name: JSC MOSCOW CENTER OF SPARC TECHNOLOGIES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '61100'
+    type: a.k.a.
+    category: weak
+    last_name: JSC MCST
+  - uid: '61101'
+    type: a.k.a.
+    category: strong
+    last_name: JSC MTSST
+address_list:
+  items:
+  - uid: '58332'
+    address1: 1, Bld. 23, Nagatinskaya Street
+    city: Moscow
+    postal_code: '117105'
+    country: Russia
+  - uid: '58333'
+    address1: 51, Leninsky Ave
+    city: Moscow
+    postal_code: '119049'
+    country: Russia
+id_list:
+  items:
+  - uid: '28401'
+    id_type: Tax ID No.
+    id_number: '7736053886'
+    id_country: Russia
+  - uid: '28402'
+    id_type: Registration Number
+    id_number: '1027739148469'
+    id_country: Russia
+  - uid: '174747'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

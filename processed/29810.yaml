@@ -1,0 +1,35 @@
+---
+uid: '29810'
+first_name: Ali
+last_name: KAMALI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+address_list:
+  items:
+  - uid: '44959'
+    country: Iran
+id_list:
+  items:
+  - uid: '19934'
+    id_type: Passport
+    id_number: F38965053
+    id_country: Iran
+  - uid: '137017'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '136798'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '36796'
+    date_of_birth: '09 Jan 1993'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '36797'
+    place_of_birth: Mashhad, Iran
+    main_entry: 'true'
+remarks: "(Linked To: IRANIAN MINISTRY OF INTELLIGENCE AND SECURITY)"

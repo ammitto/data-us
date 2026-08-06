@@ -1,0 +1,57 @@
+---
+uid: '22223'
+first_name: Khalid Ali Mabkhut
+last_name: AL-ARADAH
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '35012'
+    type: a.k.a.
+    category: strong
+    last_name: AL-ARADAH
+    first_name: Khalid Ali
+  - uid: '35013'
+    type: a.k.a.
+    category: strong
+    last_name: AL-ARADEH
+    first_name: Khalid
+  - uid: '35014'
+    type: a.k.a.
+    category: strong
+    last_name: AL-ARRADAH
+    first_name: Khalid
+  - uid: '35015'
+    type: a.k.a.
+    category: strong
+    last_name: ARADA
+    first_name: Khalid
+address_list:
+  items:
+  - uid: '33688'
+    city: Marib
+    state_or_province: Marib Governorate
+    country: Yemen
+id_list:
+  items:
+  - uid: '123595'
+    id_type: Gender
+    id_number: Male
+  - uid: '186628'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '23592'
+    date_of_birth: 01 Jan 1965
+    main_entry: 'true'
+  - uid: '23593'
+    date_of_birth: 01 Aug 1957
+    main_entry: 'false'
+  - uid: '23594'
+    date_of_birth: 01 Jan 1957
+    main_entry: 'false'
+remarks: "(Linked To: AL-QA'IDA IN THE ARABIAN PENINSULA)"

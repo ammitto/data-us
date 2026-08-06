@@ -1,0 +1,43 @@
+---
+uid: '46408'
+last_name: OPEN JOINT STOCK COMPANY EBC MANAGEMENT COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '71614'
+    type: a.k.a.
+    category: weak
+    last_name: OAO UK EPK
+  - uid: '71875'
+    type: a.k.a.
+    category: strong
+    last_name: OAO UPRAVLAYUSHAYA KOMPANIYA EPK
+address_list:
+  items:
+  - uid: '69030'
+    address1: ul. Novoostapovskaya, d. 5, str. 14
+    address2: et. 2, kom. 2
+    city: Moscow
+    postal_code: '115088'
+    country: Russia
+  - uid: '69031'
+    address1: ul. Sharikopodshipnikovskaya, d. 13, str. 62
+    city: Moscow
+    postal_code: '115088'
+    country: Russia
+id_list:
+  items:
+  - uid: '36275'
+    id_type: Tax ID No.
+    id_number: '7723557068'
+    id_country: Russia
+  - uid: '36276'
+    id_type: Registration Number
+    id_number: '1057749391028'
+    id_country: Russia
+  - uid: '174943'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

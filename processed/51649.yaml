@@ -1,0 +1,57 @@
+---
+uid: '51649'
+last_name: ALFASTRAKHOVANIE GROUP
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13662
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80935'
+    type: a.k.a.
+    category: strong
+    last_name: ALFASTRAKHOVANIE JSC
+  - uid: '80936'
+    type: a.k.a.
+    category: strong
+    last_name: ALFASTRAKHOVANIE PLC
+address_list:
+  items:
+  - uid: '78700'
+    address1: Likhacheva Prospekt, 15, Office 2/15
+    city: Moscow
+    postal_code: '115820'
+    country: Russia
+  - uid: '78701'
+    address1: Ul. Shabolovka D. 31, Str. 5
+    city: Moscow
+    postal_code: '115162'
+    country: Russia
+id_list:
+  items:
+  - uid: '44157'
+    id_type: Registration Number
+    id_number: '1027739431730'
+    id_country: Russia
+  - uid: '44158'
+    id_type: Tax ID No.
+    id_number: '7713056834'
+    id_country: Russia
+  - uid: '44159'
+    id_type: Legal Entity Number
+    id_number: 253400QMD7MRJ6LTSS76
+    id_country: Russia
+  - uid: '181544'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183243'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '181546'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '181545'
+    id_type: Website
+    id_number: www.alfastrah.ru

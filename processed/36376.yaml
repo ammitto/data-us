@@ -1,0 +1,47 @@
+---
+uid: '36376'
+last_name: ADVANCED RESEARCH FOUNDATION
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '57267'
+    type: a.k.a.
+    category: weak
+    last_name: FPI
+  - uid: '59539'
+    type: a.k.a.
+    category: strong
+    last_name: FOND PERSPEKTIVNYKH ISSLEDOVANIY
+address_list:
+  items:
+  - uid: '54624'
+    address1: Nab. Berezhkovskaya
+    address2: D. 22
+    address3: Str. 3
+    city: Moscow
+    postal_code: '121059'
+    country: Russia
+id_list:
+  items:
+  - uid: '25776'
+    id_type: Tax ID No.
+    id_number: '7710480347'
+    id_country: Russia
+  - uid: '25777'
+    id_type: Registration Number
+    id_number: '1127799026596'
+    id_country: Russia
+  - uid: '184552'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '149967'
+    id_type: Website
+    id_number: fpi.gov.ru
+  - uid: '173352'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

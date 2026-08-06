@@ -1,0 +1,47 @@
+---
+uid: '52269'
+last_name: ROSE SHIPPING LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '81871'
+    type: a.k.a.
+    category: strong
+    last_name: ROSE SHIPPING LTD-LIB
+  - uid: '81872'
+    type: a.k.a.
+    category: strong
+    last_name: ROSE SHIPPING LTD
+address_list:
+  items:
+  - uid: '79858'
+    address1: 80 Broad Street
+    city: Monrovia
+    country: Liberia
+  - uid: '79859'
+    address1: '2'
+    address2: Plastira Street
+    address3: 166 73
+    city: Voula
+    country: Greece
+id_list:
+  items:
+  - uid: '45235'
+    id_type: Identification Number
+    id_number: IMO 5379292
+  - uid: '45236'
+    id_type: V.A.T. Number
+    id_number: '098093215'
+    id_country: Greece
+  - uid: '183639'
+    id_type: Website
+    id_number: www.rose-shipping.gr
+  - uid: '183637'
+    id_type: Organization Established Date
+    id_number: 29 May 1995
+  - uid: '183638'
+    id_type: Organization Established Date
+    id_number: '2003'

@@ -1,0 +1,86 @@
+---
+uid: '34675'
+last_name: PUBLIC JOINT STOCK COMPANY TRANSKAPITALBANK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '54328'
+    type: a.k.a.
+    category: strong
+    last_name: PJSC TRANSKAPITALBANK
+  - uid: '54329'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK BANK TRANSCAPITALBANK
+  - uid: '54330'
+    type: a.k.a.
+    category: strong
+    last_name: TRANSKAPITALBANK
+  - uid: '54331'
+    type: a.k.a.
+    category: strong
+    last_name: TRANSCAPITALBANK PJSC
+  - uid: '54332'
+    type: a.k.a.
+    category: strong
+    last_name: TKB BANK PJSC
+  - uid: '54333'
+    type: a.k.a.
+    category: weak
+    last_name: TKB PJSC
+  - uid: '54334'
+    type: f.k.a.
+    category: strong
+    last_name: OPEN JOINT STOCK BANK TRANSCAPITALBANK
+  - uid: '54335'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMMERCIAL BANK TRANSCAPITALBANK CLOSED JOINT STOCK COMPANY
+address_list:
+  items:
+  - uid: '51926'
+    address1: 27/35, Voroncovskaya Ul.
+    city: Moscow
+    postal_code: '109147'
+    country: Russia
+  - uid: '51930'
+    address1: Bldg. 1, 24/2, Pokrovka str.
+    city: Moscow
+    postal_code: '105062'
+    country: Russia
+id_list:
+  items:
+  - uid: '24314'
+    id_type: Registration Number
+    id_number: '1027739186970'
+    id_country: Russia
+  - uid: '24315'
+    id_type: Tax ID No.
+    id_number: '7709129705'
+    id_country: Russia
+  - uid: '176853'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184126'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '146066'
+    id_type: Organization Established Date
+    id_number: '1992'
+  - uid: '146069'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '146068'
+    id_type: SWIFT/BIC
+    id_number: TJSCRUMM
+  - uid: '146064'
+    id_type: Website
+    id_number: www.tkbbank.ru
+  - uid: '146065'
+    id_type: Website
+    id_number: tkbbank.com

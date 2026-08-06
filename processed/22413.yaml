@@ -1,0 +1,52 @@
+---
+uid: '22413'
+first_name: Oleksii Oleksandrovych
+last_name: DYKIY
+sdn_type: Individual
+program_list:
+  programs:
+  - UKRAINE-EO13660
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '62641'
+    type: a.k.a.
+    category: strong
+    last_name: DYKYI
+    first_name: Oleksiy Oleksandrovych
+  - uid: '62643'
+    type: a.k.a.
+    category: strong
+    last_name: DIKIY
+    first_name: Aleksey Aleksandrovich
+address_list:
+  items:
+  - uid: '34107'
+    city: Donetsk
+    country: Ukraine
+id_list:
+  items:
+  - uid: '29454'
+    id_type: Tax ID No.
+    id_number: '2721421655'
+    id_country: Ukraine
+  - uid: '173932'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '123876'
+    id_type: Gender
+    id_number: Male
+  - uid: '143840'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+date_of_birth_list:
+  items:
+  - uid: '23875'
+    date_of_birth: 05 Jul 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '57319'
+    place_of_birth: Donetsk Region, Ukraine
+    main_entry: 'true'

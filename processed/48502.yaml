@@ -1,0 +1,40 @@
+---
+uid: '48502'
+last_name: ELEKTRONNYI ARKHIV
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75375'
+    type: a.k.a.
+    category: weak
+    last_name: ELAR
+address_list:
+  items:
+  - uid: '72776'
+    address1: Bumazhnyi Proezd D. 14
+    address2: Str. 2
+    city: Moscow
+    postal_code: '127015'
+    country: Russia
+  - uid: '72777'
+    address1: Sh. Leningradskoe Str. 25A
+    address2: Office 9/3
+    city: Khimki
+    postal_code: '141402'
+    country: Russia
+id_list:
+  items:
+  - uid: '39413'
+    id_type: Registration Number
+    id_number: '5147746108868'
+    id_country: Russia
+  - uid: '39415'
+    id_type: Tax ID No.
+    id_number: '9705001507'
+    id_country: Russia
+  - uid: '171300'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

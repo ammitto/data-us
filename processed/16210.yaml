@@ -1,0 +1,43 @@
+---
+uid: '16210'
+first_name: Juanita Del Carmen
+last_name: RIOS HERNANDEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '24415'
+    address1: Avenida Constitucion No. 2224
+    address2: Colonia San Rafael
+    city: Nuevo Laredo
+    state_or_province: Tamaulipas
+    postal_code: '88200'
+    country: Mexico
+id_list:
+  items:
+  - uid: '8833'
+    id_type: C.U.R.P.
+    id_number: RIHJ770111MTSSRN08
+    id_country: Mexico
+  - uid: '8834'
+    id_type: Credencial electoral
+    id_number: '0844040737482'
+    id_country: Mexico
+  - uid: '8880'
+    id_type: R.F.C.
+    id_number: RIHJ770111DD
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '14525'
+    date_of_birth: 11 Jan 1977
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '14526'
+    place_of_birth: Tamaulipas, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: TREVINO MORALES, Miguel; Linked To: DISTRIBUIDORA E IMPORTADORA
+  DE PRODUCTOS MEDICOS DEL NORTE, S.A. DE C.V.)"

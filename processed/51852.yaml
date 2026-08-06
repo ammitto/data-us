@@ -1,0 +1,46 @@
+---
+uid: '51852'
+first_name: Aleksandr Valeryevich
+last_name: DYUKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '81193'
+    type: a.k.a.
+    category: strong
+    last_name: DYUKOV
+    first_name: Alexander
+address_list:
+  items:
+  - uid: '79027'
+    country: Russia
+id_list:
+  items:
+  - uid: '44562'
+    id_type: Tax ID No.
+    id_number: '782570676482'
+    id_country: Russia
+  - uid: '182235'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183449'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '182233'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '82238'
+    date_of_birth: 13 Dec 1967
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '82240'
+    place_of_birth: Saint Petersburg, Russia
+    main_entry: 'true'

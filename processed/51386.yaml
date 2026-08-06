@@ -1,0 +1,28 @@
+---
+uid: '51386'
+last_name: SHANGHAI FUTURE SHIP MANAGEMENT CO LTD
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '80570'
+    type: a.k.a.
+    category: strong
+    last_name: SHANGHAI FUTURE SHIP MGMT CO
+address_list:
+  items:
+  - uid: '78247'
+    address1: Room D11, 3rd Floor, Building 65, 248, Donglan Lu, Minghang Qu
+    city: Shanghai
+    postal_code: '201102'
+    country: China
+id_list:
+  items:
+  - uid: '43691'
+    id_type: Identification Number
+    id_number: IMO 6171619
+  - uid: '180814'
+    id_type: Organization Established Date
+    id_number: '2019'

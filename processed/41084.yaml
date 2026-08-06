@@ -1,0 +1,36 @@
+---
+uid: '41084'
+first_name: Nikita Petrovich
+last_name: BUSEL
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '61410'
+    city: Melitopol, Zaporizhzhia Region
+    country: Ukraine
+id_list:
+  items:
+  - uid: '30422'
+    id_type: Tax ID No.
+    id_number: '526097814054'
+    id_country: Russia
+  - uid: '173615'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '159010'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '59008'
+    date_of_birth: 11 Dec 1982
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '59009'
+    place_of_birth: Samara, Russian Federation
+    main_entry: 'true'
+remarks: "(Linked To: STATE UNITARY ENTERPRISE STATE GRAIN OPERATOR)"

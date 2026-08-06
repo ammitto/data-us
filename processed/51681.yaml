@@ -1,0 +1,35 @@
+---
+uid: '51681'
+first_name: Roman Anatolyevich
+last_name: MARSHAVIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+address_list:
+  items:
+  - uid: '78759'
+    country: Russia
+id_list:
+  items:
+  - uid: '181680'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183471'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '181674'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '81668'
+    date_of_birth: 16 Sep 1977
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '81671'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'

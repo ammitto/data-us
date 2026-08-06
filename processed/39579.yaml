@@ -1,0 +1,53 @@
+---
+uid: '39579'
+first_name: Umar
+last_name: AKBAR
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '61653'
+    type: a.k.a.
+    category: strong
+    last_name: AKBAR
+    first_name: Hamza
+address_list:
+  items:
+  - uid: '58928'
+    address1: 118 Mallinson Rd
+    address2: Asherville
+    city: Durban
+    state_or_province: KwaZulu-Natal
+    postal_code: '4001'
+    country: South Africa
+  - uid: '58929'
+    address1: Flat 5, 6 St
+    address2: Sydenham
+    city: Durban
+    state_or_province: KwaZulu-Natal
+    country: South Africa
+id_list:
+  items:
+  - uid: '28720'
+    id_type: National ID No.
+    id_number: '9809065830080'
+    id_country: South Africa
+  - uid: '28721'
+    id_type: Passport
+    id_number: A06246615
+    id_country: South Africa
+  - uid: '155802'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '155801'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '55799'
+    date_of_birth: 06 Sep 1998
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC STATE OF IRAQ AND THE LEVANT)"

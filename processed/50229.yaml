@@ -1,0 +1,36 @@
+---
+uid: '50229'
+last_name: LIMITED LIABILITY COMPANY TOCHNAYA MEKHANIKA
+sdn_type: Entity
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '78391'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOY OTVETSTVENNOSTYU TOCHNAYA MEKHANIKA
+  - uid: '78392'
+    type: a.k.a.
+    category: weak
+    last_name: PRECISION MECHANICS LLC
+address_list:
+  items:
+  - uid: '76045'
+    address1: UL. Kazintsa 9/121A
+    city: Minsk
+    postal_code: '220108'
+    country: Belarus
+id_list:
+  items:
+  - uid: '41869'
+    id_type: Tax ID No.
+    id_number: '191111141'
+    id_country: Belarus
+  - uid: '177852'
+    id_type: Organization Established Date
+    id_number: 05 Feb 2009
+  - uid: '178231'
+    id_type: 'Organization Type:'
+    id_number: Manufacture of other fabricated metal products n.e.c.

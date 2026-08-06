@@ -1,0 +1,45 @@
+---
+uid: '48900'
+last_name: LLC SIBCAPITAL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76178'
+    type: a.k.a.
+    category: strong
+    last_name: BPKH OOO
+  - uid: '76179'
+    type: a.k.a.
+    category: strong
+    last_name: BASHKIRSKIY PROMYSHLENNYI HOLDING OOO
+  - uid: '76180'
+    type: a.k.a.
+    category: strong
+    last_name: OOO BASHKIR INDUSTRIAL HOLDING COMPANY
+  - uid: '76181'
+    type: a.k.a.
+    category: strong
+    last_name: BASHKIR INDUSTRIAL HOLDING LLC
+address_list:
+  items:
+  - uid: '73554'
+    address1: d. 42 etazh 2 pom. 12, ul. Sotsialisticheskaya
+    city: Blagoveshchensk
+    postal_code: '453434'
+    country: Russia
+id_list:
+  items:
+  - uid: '39984'
+    id_type: Registration Number
+    id_number: '1210200047969'
+    id_country: Russia
+  - uid: '39985'
+    id_type: Tax ID No.
+    id_number: '0258954788'
+    id_country: Russia
+  - uid: '171629'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

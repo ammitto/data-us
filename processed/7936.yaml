@@ -1,0 +1,40 @@
+---
+uid: '7936'
+first_name: Yazid
+last_name: SUFAAT
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '5887'
+    type: a.k.a.
+    category: strong
+    last_name: BIN SUFAAT
+    first_name: Yazud
+  - uid: '5888'
+    type: a.k.a.
+    category: strong
+    last_name: SHUFAAT
+    first_name: Yazid
+id_list:
+  items:
+  - uid: '2005'
+    id_type: Passport
+    id_number: A10472263
+    id_country: Malaysia
+  - uid: '185753'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '2294'
+    date_of_birth: 20 Jan 1964
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '2295'
+    place_of_birth: Johor, Malaysia
+    main_entry: 'true'

@@ -1,0 +1,72 @@
+---
+uid: '51332'
+first_name: Evgeniy
+last_name: KRAYUSHKIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80484'
+    type: a.k.a.
+    category: strong
+    last_name: KRAYUSHIN
+    first_name: Evgeny
+  - uid: '80485'
+    type: a.k.a.
+    category: strong
+    last_name: KRAIUSHKIN
+    first_name: Evgenii
+  - uid: '80486'
+    type: a.k.a.
+    category: strong
+    last_name: KRAIUSHKIN
+    first_name: Evgenii Vladimirovich
+address_list:
+  items:
+  - uid: '78155'
+    address1: 19 74 Miryy Microdistrict
+    city: Uglich
+    state_or_province: Yaroslavl Region
+    postal_code: '152620'
+    country: Russia
+  - uid: '78156'
+    address1: Building 41
+    address2: 3 Zheleznodorozhniy Lane
+    address3: Dmitrov
+    city: Moscow
+    country: Russia
+  - uid: '78157'
+    address1: 9 Melitopolskaya ul.
+    address2: Str. 3
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '43588'
+    id_type: National ID No.
+    id_number: '7812932944'
+    id_country: Russia
+  - uid: '43589'
+    id_type: Passport
+    id_number: '730727217'
+    id_country: Russia
+    expiration_date: 19 Jun 2023
+  - uid: '180680'
+    id_type: Gender
+    id_number: Male
+  - uid: '180682'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '80678'
+    date_of_birth: 28 Mar 1990
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '80679'
+    place_of_birth: Uglich, Russia
+    main_entry: 'true'
+remarks: "(Linked To: TECHNOPOLE COMPANY)"

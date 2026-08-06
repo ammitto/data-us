@@ -1,0 +1,59 @@
+---
+uid: '50287'
+last_name: ISTOK ENGINEERING AND CONSTRUCTION JOINT STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78559'
+    type: a.k.a.
+    category: strong
+    last_name: ISTOK E&C JSC
+  - uid: '78560'
+    type: a.k.a.
+    category: strong
+    last_name: ISTOK E AND C JSC
+  - uid: '78561'
+    type: a.k.a.
+    category: strong
+    last_name: JSC KIS ISTOK
+address_list:
+  items:
+  - uid: '76169'
+    address1: Ul. Krasnokazarmennaya D. 12
+    address2: Str. 38
+    address3: Floor/Pom./Komnata 2/Iv/19
+    city: Moscow
+    postal_code: '111250'
+    country: Russia
+  - uid: '76170'
+    address1: ul. Oktiabrskaia
+    address2: '11'
+    city: Ozersk
+    state_or_province: Chelyabinsk Oblast
+    country: Russia
+  - uid: '76171'
+    address1: ul. Dibunovskaia
+    address2: '55'
+    address3: litera a
+    city: Saint Petersburg
+    postal_code: '197183'
+    country: Russia
+id_list:
+  items:
+  - uid: '41984'
+    id_type: Tax ID No.
+    id_number: '9722006872'
+    id_country: Russia
+  - uid: '41985'
+    id_type: Registration Number
+    id_number: '1217700403690'
+    id_country: Russia
+  - uid: '178111'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '178110'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

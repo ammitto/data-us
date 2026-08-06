@@ -1,0 +1,46 @@
+---
+uid: '35345'
+last_name: KURGANMASHZAVOD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '55669'
+    type: a.k.a.
+    category: strong
+    last_name: KURGANMASHZAVOD PUBLIC JOINT-STOCK COMPANY
+  - uid: '55670'
+    type: a.k.a.
+    category: strong
+    last_name: KURGANMASHZAVOD PJSC
+  - uid: '55671'
+    type: a.k.a.
+    category: strong
+    last_name: PJSC KURGANSKY MASHINOSTROITELNY FACTORY
+address_list:
+  items:
+  - uid: '53158'
+    address1: 17 Mashinostroitely Ave. Letter 1J
+    city: Kurgan
+    postal_code: '640021'
+    country: Russia
+id_list:
+  items:
+  - uid: '25057'
+    id_type: Tax ID No.
+    id_number: '4501008142'
+    id_country: Russia
+  - uid: '147624'
+    id_type: Website
+    id_number: www.kurganmash.ru
+  - uid: '176734'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '147625'
+    id_type: Organization Established Date
+    id_number: 23 Mar 1992
+  - uid: '147627'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

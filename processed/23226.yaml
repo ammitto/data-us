@@ -1,0 +1,31 @@
+---
+uid: '23226'
+first_name: Cuiying
+last_name: LIU
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '35142'
+    city: Dezhou
+    state_or_province: Shandong
+    country: China
+id_list:
+  items:
+  - uid: '14680'
+    id_type: Citizen's Card Number
+    id_number: '371482195512120326'
+    id_country: China
+  - uid: '14681'
+    id_type: Chinese Commercial Code
+    id_number: '0491 5050 5391'
+  - uid: '124922'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '24923'
+    date_of_birth: 12 Dec 1955
+    main_entry: 'true'

@@ -1,0 +1,47 @@
+---
+uid: '39365'
+first_name: Aleksey Valerevich
+last_name: SAZANOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '61431'
+    type: a.k.a.
+    category: strong
+    last_name: SAZANOV
+    first_name: Aleksei Valerievich
+  - uid: '61432'
+    type: a.k.a.
+    category: strong
+    last_name: SAZANOV
+    first_name: Alexey Valeryevich
+  - uid: '61433'
+    type: a.k.a.
+    category: strong
+    last_name: SAZANOV
+    first_name: Alexei Valerevich
+address_list:
+  items:
+  - uid: '58640'
+    country: Russia
+id_list:
+  items:
+  - uid: '155254'
+    id_type: Gender
+    id_number: Male
+  - uid: '174781'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '55252'
+    date_of_birth: 13 Apr 1983
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '55253'
+    place_of_birth: Nizhniy Novgorod, Russia
+    main_entry: 'true'

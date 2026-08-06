@@ -1,0 +1,115 @@
+---
+uid: '17015'
+last_name: STATE CORPORATION BANK FOR DEVELOPMENT AND FOREIGN ECONOMIC AFFAIRS VNESHECONOMBANK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '26088'
+    type: a.k.a.
+    category: weak
+    last_name: VEB
+  - uid: '55018'
+    type: a.k.a.
+    category: strong
+    last_name: GOSUDARSTVENNAYA KORPORATSIYA RAZVITIYA VEB.RF
+  - uid: '55019'
+    type: a.k.a.
+    category: strong
+    last_name: STATE DEVELOPMENT CORPORATION VEB.RF
+  - uid: '55020'
+    type: a.k.a.
+    category: strong
+    last_name: GK VEB.RF
+  - uid: '55021'
+    type: a.k.a.
+    category: strong
+    last_name: VEB.RF
+  - uid: '55022'
+    type: a.k.a.
+    category: weak
+    last_name: BANK FOR DEVELOPMENT
+  - uid: '55023'
+    type: f.k.a.
+    category: strong
+    last_name: VNESHECONOMBANK
+  - uid: '55024'
+    type: f.k.a.
+    category: strong
+    last_name: VNESHEKONOMBANK SSSR
+  - uid: '55025'
+    type: f.k.a.
+    category: strong
+    last_name: VNESHEKONOMBANK GK
+  - uid: '55026'
+    type: f.k.a.
+    category: strong
+    last_name: BANK FOR FOREIGN TRADE OF THE U.S.S.R.
+address_list:
+  items:
+  - uid: '25805'
+    address1: Akademik Sakharov Ave 9
+    city: Moscow
+    postal_code: '107996'
+    country: Russia
+  - uid: '52521'
+    address1: Pr-kt, Akademika Sakharova, D. 9
+    city: Moscow
+    postal_code: '107078'
+    country: Russia
+  - uid: '74649'
+    address1: 20A, CITIC Building, 19, Joanguomenwai Dajie
+    city: Beijing
+    postal_code: '100004'
+    country: China
+  - uid: '74650'
+    address1: Shop No. 11, Arcade Ground Floor, World Trade Centre, Cuffe Prade, Colaba
+    city: Mumbai
+    postal_code: '400005'
+    country: India
+id_list:
+  items:
+  - uid: '24679'
+    id_type: Government Gazette Number
+    id_number: '00005061'
+    id_country: Russia
+  - uid: '24680'
+    id_type: Registration Number
+    id_number: '1077711000102'
+    id_country: Russia
+  - uid: '24681'
+    id_type: Tax ID No.
+    id_number: '7750004150'
+    id_country: Russia
+  - uid: '115778'
+    id_type: BIK (RU)
+    id_number: '044525060'
+  - uid: '146960'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 1
+  - uid: '115748'
+    id_type: SWIFT/BIC
+    id_number: BFEARUMM
+  - uid: '115791'
+    id_type: Website
+    id_number: www.veb.ru
+  - uid: '146596'
+    id_type: Organization Established Date
+    id_number: 18 Aug 1922
+  - uid: '146597'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
+  - uid: '146598'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '151187'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '172700'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.'

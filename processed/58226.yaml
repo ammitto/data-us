@@ -1,0 +1,37 @@
+---
+uid: '58226'
+last_name: AIR CARGO PRO LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - SDGT
+aka_list:
+  items:
+  - uid: '90054'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY AIRCARGOPRO
+  - uid: '90055'
+    type: a.k.a.
+    category: strong
+    last_name: AIRCARGOPRO LTD
+address_list:
+  items:
+  - uid: '89458'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '52863'
+    id_type: Tax ID No.
+    id_number: '5047116112'
+    id_country: Russia
+  - uid: '199879'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '199878'
+    id_type: Organization Established Date
+    id_number: 26 May 2010
+remarks: "(Linked To: MAHAN AIR)"

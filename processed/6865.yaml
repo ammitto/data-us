@@ -1,0 +1,31 @@
+---
+uid: '6865'
+first_name: Oscar
+last_name: MALHERBE DE LEON
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '89063'
+    country: Mexico
+id_list:
+  items:
+  - uid: '52555'
+    id_type: C.U.R.P.
+    id_number: MALO640110HTSLNS02
+    id_country: Mexico
+  - uid: '199184'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '1204'
+    date_of_birth: 10 Jan 1964
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '1205'
+    place_of_birth: Sinaloa, Mexico
+    main_entry: 'true'

@@ -1,0 +1,53 @@
+---
+uid: '29677'
+first_name: Yusuf
+last_name: FINYANUS
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '46544'
+    type: a.k.a.
+    category: strong
+    last_name: FENYANUS
+    first_name: Joseph
+  - uid: '46545'
+    type: a.k.a.
+    category: strong
+    last_name: FENIANOS
+    first_name: Youssef
+  - uid: '46546'
+    type: a.k.a.
+    category: strong
+    last_name: FINIANOS
+    first_name: Yusif
+  - uid: '46547'
+    type: a.k.a.
+    category: strong
+    last_name: FINIANOS
+    first_name: Joseph
+address_list:
+  items:
+  - uid: '44771'
+    country: Lebanon
+id_list:
+  items:
+  - uid: '136592'
+    id_type: Gender
+    id_number: Male
+  - uid: '187067'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '36593'
+    date_of_birth: 01 Jan 1964 to 31 Dec 1964
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '36595'
+    place_of_birth: Zgharta, Lebanon
+    main_entry: 'true'

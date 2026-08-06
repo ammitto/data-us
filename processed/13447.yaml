@@ -1,0 +1,52 @@
+---
+uid: '13447'
+first_name: Maria Guadalupe
+last_name: GASTELUM PAYAN
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '21538'
+    address1: Avenida Camino a la Tijera No. 806
+    address2: Fraccionamiento La Tijera
+    city: Tlajomulco de Zuniga
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '21539'
+    address1: Calle Chichen Itza No. 4644
+    address2: Colonia Mirador del Sol
+    city: Zapopan
+    state_or_province: Jalisco
+    postal_code: C.P. 45054
+    country: Mexico
+  - uid: '21540'
+    address1: Calle Morelos No. 2223
+    address2: Colonia Arcos Vallarta
+    city: Guadalajara
+    state_or_province: Jalisco
+    postal_code: C.P. 44130
+    country: Mexico
+id_list:
+  items:
+  - uid: '7958'
+    id_type: R.F.C.
+    id_number: GAPG4908307H1
+    id_country: Mexico
+  - uid: '7959'
+    id_type: C.U.R.P.
+    id_number: GAPG490830MSLSYD06
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '9494'
+    date_of_birth: 30 Aug 1949
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '9495'
+    place_of_birth: Pericos, Sinaloa, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: GRUPO IMPERGOZA, S.A. DE C.V.; Linked To: DESARROLLOS EVEREST,
+  S.A. DE C.V.)"

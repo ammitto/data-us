@@ -1,0 +1,42 @@
+---
+uid: '34757'
+last_name: SOVCOMBANK ASSET MANAGEMENT LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54526'
+    type: f.k.a.
+    category: strong
+    last_name: VOSTOCHNY CAPITAL MANAGEMENT COMPANY LLC
+  - uid: '54856'
+    type: a.k.a.
+    category: strong
+    last_name: SOVCOMBANK ASSET MANAGEMENT LLC
+address_list:
+  items:
+  - uid: '52092'
+    address1: Pl. Suvorovskaya D. 1/52, K. 1
+    address2: Floor 5, Pomeshch. 522-1
+    city: Moscow
+    postal_code: '127473'
+    country: Russia
+id_list:
+  items:
+  - uid: '24433'
+    id_type: Tax ID No.
+    id_number: '7707404272'
+    id_country: Russia
+  - uid: '24434'
+    id_type: Registration Number
+    id_number: '1187746039392'
+    id_country: Russia
+  - uid: '146215'
+    id_type: Website
+    id_number: www.vostochniy-capital.ru
+  - uid: '175201'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: SOVCOMBANK OPEN JOINT STOCK COMPANY)"

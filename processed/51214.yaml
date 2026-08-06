@@ -1,0 +1,52 @@
+---
+uid: '51214'
+last_name: PUBLIC JOINT STOCK COMPANY SCIENTIFIC PRODUCTION ENTERPRISE IMPULSE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80291'
+    type: a.k.a.
+    category: strong
+    last_name: PAO NPP IMPULSE
+  - uid: '80292'
+    type: a.k.a.
+    category: strong
+    last_name: PUBLICHNOE AKTCIONERNOE OBSHCHESTVO NAUCHNO PROIZVODSTVENNOE PREDPRIIATIE
+      IMPULS
+  - uid: '80295'
+    type: a.k.a.
+    category: strong
+    last_name: PJSC RESEARCH AND PRODUCTION ASSOCIATION IMPULSE
+  - uid: '80296'
+    type: a.k.a.
+    category: strong
+    last_name: IMPULS RESEARCH AND DEVELOPMENT ENTERPRISE
+address_list:
+  items:
+  - uid: '77903'
+    address1: 102 Mira Avenue
+    city: Moscow
+    postal_code: '129626'
+    country: Russia
+id_list:
+  items:
+  - uid: '43398'
+    id_type: Tax ID No.
+    id_number: '7717022177'
+    id_country: Russia
+  - uid: '43399'
+    id_type: Registration Number
+    id_number: '1027700206511'
+    id_country: Russia
+  - uid: '180338'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '180339'
+    id_type: Organization Established Date
+    id_number: 03 Jun 1994
+  - uid: '180340'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

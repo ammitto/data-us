@@ -1,0 +1,46 @@
+---
+uid: '54178'
+first_name: Lecheng
+last_name: DONG
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER4
+aka_list:
+  items:
+  - uid: '84370'
+    type: a.k.a.
+    category: strong
+    last_name: HENG
+    first_name: Tong
+address_list:
+  items:
+  - uid: '82709'
+    address1: Kouk Chambak, Chom Chao, Por Sen Chey
+    city: Phnom Penh
+    country: Cambodia
+id_list:
+  items:
+  - uid: '47695'
+    id_type: Passport
+    id_number: N1922404
+    id_country: Cambodia
+    expiration_date: 30 Jun 2031
+  - uid: '47696'
+    id_type: Passport
+    id_number: E56812460
+    id_country: China
+    expiration_date: 30 Jun 2025
+  - uid: '189792'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '89789'
+    date_of_birth: 15 Dec 1968
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '89790'
+    place_of_birth: Yunnan Province, China
+    main_entry: 'true'

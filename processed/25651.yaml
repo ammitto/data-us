@@ -1,0 +1,35 @@
+---
+uid: '25651'
+last_name: ATOMIC FUEL DEVELOPMENT ENGINEERING COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN
+aka_list:
+  items:
+  - uid: '40310'
+    type: a.k.a.
+    category: strong
+    last_name: MATSA COMPANY
+  - uid: '40311'
+    type: a.k.a.
+    category: weak
+    last_name: ENID
+  - uid: '40759'
+    type: a.k.a.
+    category: weak
+    last_name: MATSA
+  - uid: '40760'
+    type: a.k.a.
+    category: strong
+    last_name: ENERGY NOVIN INDUSTRIAL DEVELOPMENT
+address_list:
+  items:
+  - uid: '38804'
+    country: Iran
+id_list:
+  items:
+  - uid: '129589'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: ATOMIC ENERGY ORGANIZATION OF IRAN)"

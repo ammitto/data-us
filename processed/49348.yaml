@@ -1,0 +1,36 @@
+---
+uid: '49348'
+last_name: JOINT STOCK COMPANY SOLIKAMSK PLANT URAL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76957'
+    type: a.k.a.
+    category: strong
+    last_name: AO SOLIKAMSKII ZAVOD URAL
+address_list:
+  items:
+  - uid: '74359'
+    address1: Ul. Energetikov D. 19A
+    city: Solikamsk
+    postal_code: '618554'
+    country: Russia
+id_list:
+  items:
+  - uid: '40595'
+    id_type: Registration Number
+    id_number: '1115919002561'
+    id_country: Russia
+  - uid: '40596'
+    id_type: Tax ID No.
+    id_number: '5919015877'
+    id_country: Russia
+  - uid: '172422'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '172420'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

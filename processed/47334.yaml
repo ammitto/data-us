@@ -1,0 +1,44 @@
+---
+uid: '47334'
+last_name: SMART BATTERIES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73143'
+    type: a.k.a.
+    category: weak
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU SMART BETTERIZ
+address_list:
+  items:
+  - uid: '70530'
+    address1: Proezd Zavoda Serp I Molot D. 3
+    address2: Korp. 2, Et. 10
+    address3: Kom. 1
+    city: Moscow
+    postal_code: '111250'
+    country: Russia
+  - uid: '70531'
+    address1: Sh. Khoroshevskoe D. 32A, ET 4
+    address2: POM.VIA, OF 415/2
+    city: Moscow
+    postal_code: '125284'
+    country: Russia
+id_list:
+  items:
+  - uid: '37659'
+    id_type: Registration Number
+    id_number: '1197746509234'
+    id_country: Russia
+  - uid: '37660'
+    id_type: Tax ID No.
+    id_number: '7714450590'
+    id_country: Russia
+  - uid: '169915'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '170057'
+    id_type: 'Organization Type:'
+    id_number: Maintenance and repair of motor vehicles

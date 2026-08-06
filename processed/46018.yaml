@@ -1,0 +1,29 @@
+---
+uid: '46018'
+last_name: LIMITED LIABILITY COMPANY INFRASTRACTURE HOLDING 1
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '68542'
+    address1: 4 Olkhovskaya Street
+    address2: Building 2, Floor 4, Suite 456
+    address3: Basmannyy Municipal District
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '35853'
+    id_type: Tax ID No.
+    id_number: '9701209173'
+    id_country: Russia
+  - uid: '35854'
+    id_type: Registration Number
+    id_number: '1227700342935'
+    id_country: Russia
+  - uid: '174891'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: LIMITED LIABILITY COMPANY KISMET CAPITAL GROUP)"

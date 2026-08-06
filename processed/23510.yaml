@@ -1,0 +1,36 @@
+---
+uid: '23510'
+last_name: GOORYONG SHIPPING CO LTD
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK4
+aka_list:
+  items:
+  - uid: '37212'
+    type: f.k.a.
+    category: strong
+    last_name: GOORYONG SHIPPING BANGKOK
+address_list:
+  items:
+  - uid: '35544'
+    address1: Changgyong 2-dong, Sosong-guyok
+    city: Pyongyang
+    country: Korea, North
+  - uid: '35687'
+    address1: Warranton Ville 458Soi 5Pattanakan Soi 44Suanluang
+    city: Bangkok
+    postal_code: '10250'
+    country: Thailand
+id_list:
+  items:
+  - uid: '15055'
+    id_type: Company Number
+    id_number: IMO 5055293
+  - uid: '127345'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '135182'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214

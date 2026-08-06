@@ -1,0 +1,43 @@
+---
+uid: '11740'
+first_name: Mohamed
+last_name: SA'ID
+sdn_type: Individual
+program_list:
+  programs:
+  - SOMALIA
+aka_list:
+  items:
+  - uid: '12447'
+    type: a.k.a.
+    category: weak
+    last_name: ATOM
+  - uid: '12448'
+    type: a.k.a.
+    category: strong
+    last_name: ATOM
+    first_name: Mohamed Sa'id
+  - uid: '12449'
+    type: a.k.a.
+    category: strong
+    last_name: ATOM
+    first_name: Mohamed Siad
+address_list:
+  items:
+  - uid: '17740'
+    city: Galgala
+    state_or_province: Puntland
+    country: Somalia
+  - uid: '17741'
+    city: Badhan
+    country: Somalia
+date_of_birth_list:
+  items:
+  - uid: '7242'
+    date_of_birth: circa 1966
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '7243'
+    place_of_birth: Galgala, Puntland, Somalia
+    main_entry: 'true'

@@ -1,0 +1,37 @@
+---
+uid: '44219'
+last_name: OZEAN GROUP GMBH
+sdn_type: Entity
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '68386'
+    type: a.k.a.
+    category: strong
+    last_name: OZEAN HORIZONT VERWALTUNGS GMBH
+address_list:
+  items:
+  - uid: '65809'
+    address1: Seestr 9
+    city: Herrenberg
+    state_or_province: Baden-Wurttemberg
+    postal_code: '71083'
+    country: Germany
+  - uid: '69285'
+    address1: Johannes-Kepler-Str 14 + 18
+    city: Herrenberg
+    state_or_province: Baden-Wurttemberg
+    postal_code: '71083'
+    country: Germany
+id_list:
+  items:
+  - uid: '33649'
+    id_type: Registration Number
+    id_number: HRB 766317 (Stuttgart)
+    id_country: Germany
+  - uid: '163823'
+    id_type: Organization Established Date
+    id_number: 22 Jun 2018
+remarks: "(Linked To: RAHMANI, Ajmal)"

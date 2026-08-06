@@ -1,0 +1,50 @@
+---
+uid: '32745'
+first_name: Alexey Alexandrovich
+last_name: ALEXANDROV
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+  - MAGNIT
+aka_list:
+  items:
+  - uid: '51511'
+    type: a.k.a.
+    category: strong
+    last_name: ALEXANDROV
+    first_name: Alexey
+  - uid: '51512'
+    type: a.k.a.
+    category: strong
+    last_name: ALEXANDROV
+    first_name: Aleksey Alexandrovich
+  - uid: '51513'
+    type: a.k.a.
+    category: strong
+    last_name: FROLOV
+    first_name: Alexey
+  - uid: '51517'
+    type: a.k.a.
+    category: strong
+    last_name: FROLOV
+    first_name: Aleksey Andreevich
+address_list:
+  items:
+  - uid: '49331'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '142428'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '42426'
+    date_of_birth: 16 Jun 1981
+    main_entry: 'true'
+  - uid: '42427'
+    date_of_birth: 16 Jun 1980
+    main_entry: 'false'
+remarks: "(Linked To: FEDERAL SECURITY SERVICE)"

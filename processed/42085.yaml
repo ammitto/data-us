@@ -1,0 +1,41 @@
+---
+uid: '42085'
+last_name: LIMITED LIABILITY COMPANY NOVOGORSK REAL ESTATE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65449'
+    type: a.k.a.
+    category: strong
+    last_name: OOO NOVOGORSK NEDVIZHIMOST
+address_list:
+  items:
+  - uid: '62842'
+    address1: 15 Olimpiyskaya Street, Suite 14
+    city: Khimki
+    state_or_province: Moscow Oblast
+    postal_code: '141435'
+    country: Russia
+id_list:
+  items:
+  - uid: '31553'
+    id_type: Tax ID No.
+    id_number: '7729699051'
+    id_country: Russia
+  - uid: '31554'
+    id_type: Registration Number
+    id_number: '5117746034225'
+    id_country: Russia
+  - uid: '160339'
+    id_type: Organization Established Date
+    id_number: 19 Dec 2011
+  - uid: '175399'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '160340'
+    id_type: 'Organization Type:'
+    id_number: Real estate activities with own or leased property
+remarks: "(Linked To: LIMITED LIABILITY COMPANY FORUM)"

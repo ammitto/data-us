@@ -1,0 +1,45 @@
+---
+uid: '19909'
+first_name: German
+last_name: MUNOZ HOYOS
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '31353'
+    country: Colombia
+  - uid: '31354'
+    country: Mexico
+id_list:
+  items:
+  - uid: '12217'
+    id_type: Passport
+    id_number: A0630659
+    id_country: Colombia
+  - uid: '12218'
+    id_type: Passport
+    id_number: G15527939
+    id_country: Mexico
+  - uid: '12219'
+    id_type: C.U.R.P.
+    id_number: MUHG650126HNEXYR06
+    id_country: Mexico
+  - uid: '12220'
+    id_type: Cedula No.
+    id_number: '10268158'
+    id_country: Colombia
+date_of_birth_list:
+  items:
+  - uid: '20381'
+    date_of_birth: 26 Jan 1965
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '20380'
+    place_of_birth: Manizales, Caldas, Colombia
+    main_entry: 'true'
+remarks: "(Linked To: AVICAL S.A.; Linked To: INVERSIONES LA PLATA M & M S. EN C.A.;
+  Linked To: ROMIK S.A.; Linked To: GEMUHO HOLDING, INC; Linked To: UNIREFRICLIMA
+  S.A.)"

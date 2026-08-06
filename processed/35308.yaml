@@ -1,0 +1,37 @@
+---
+uid: '35308'
+last_name: ALAXY
+sdn_type: Entity
+program_list:
+  programs:
+  - DRCONGO
+aka_list:
+  items:
+  - uid: '55546'
+    type: a.k.a.
+    category: strong
+    last_name: ALAXY BVBA
+  - uid: '55547'
+    type: f.k.a.
+    category: strong
+    last_name: BERKENRODE BVBA
+address_list:
+  items:
+  - uid: '53074'
+    address1: Jacob Jacobsstraat 56
+    city: Antwerp
+    postal_code: '2018'
+    country: Belgium
+id_list:
+  items:
+  - uid: '25019'
+    id_type: Enterprise Number
+    id_number: '0478862274'
+    id_country: Belgium
+  - uid: '148745'
+    id_type: 'Organization Type:'
+    id_number: Other business support service activities n.e.c.
+  - uid: '147546'
+    id_type: Target Type
+    id_number: Private Company
+remarks: "(Linked To: GOETZ, Alain Francois Viviane)"

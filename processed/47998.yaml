@@ -1,0 +1,39 @@
+---
+uid: '47998'
+last_name: LIMITED LIABILITY COMPANY ADDITIVE TECHNOLOGY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74484'
+    type: a.k.a.
+    category: strong
+    last_name: ADDITIVE TECHNOLOGY GROUP
+address_list:
+  items:
+  - uid: '71922'
+    address1: 25 Chapayeva Street, Letter A
+    address2: Floor 6, Suite 158
+    city: Saint Petersburg
+    postal_code: '197046'
+    country: Russia
+  - uid: '71924'
+    address1: 65 Aviamotornaya Street, Building 1
+    city: Moscow
+    postal_code: '111024'
+    country: Russia
+id_list:
+  items:
+  - uid: '38856'
+    id_type: Registration Number
+    id_number: '1167847343190'
+    id_country: Russia
+  - uid: '38858'
+    id_type: Tax ID No.
+    id_number: '7839070717'
+    id_country: Russia
+  - uid: '169804'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

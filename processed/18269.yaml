@@ -1,0 +1,59 @@
+---
+uid: '18269'
+last_name: OJSC SAMOTLORNEFTEGAZ
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13662
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '28205'
+    type: a.k.a.
+    category: strong
+    last_name: SAMOTLORNEFTEGAZ JSC
+  - uid: '28206'
+    type: a.k.a.
+    category: strong
+    last_name: SAMOTLORNEFTEGAZ
+address_list:
+  items:
+  - uid: '27628'
+    address1: Lenina St. 4, the Tyumen Region
+    city: Khanty-Mansiysk
+    state_or_province: Autonomous District, Nizhnevartovsk
+    postal_code: '628606'
+    country: Russia
+  - uid: '81930'
+    address1: Ul. Lenina D. 4
+    city: Nizhnevartovsk
+    postal_code: '628600'
+    country: Russia
+id_list:
+  items:
+  - uid: '47030'
+    id_type: Registration Number
+    id_number: '1028600940576'
+    id_country: Russia
+  - uid: '47031'
+    id_type: Tax ID No.
+    id_number: '8603089934'
+    id_country: Russia
+  - uid: '188543'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '117587'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 2
+  - uid: '117647'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 4
+  - uid: '143724'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '117520'
+    id_type: Email Address
+    id_number: NVSNGinfo@rosneft.ru
+remarks: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: OPEN JOINT-STOCK COMPANY ROSNEFT OIL COMPANY)'

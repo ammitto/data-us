@@ -1,0 +1,32 @@
+---
+uid: '23481'
+first_name: Yuequn
+last_name: ZHU
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+id_list:
+  items:
+  - uid: '14959'
+    id_type: Passport
+    id_number: G40986974
+    id_country: China
+    expiration_date: 01 Mar 2020
+  - uid: '125312'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '125316'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '25314'
+    date_of_birth: 01 Nov 1979
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '25315'
+    place_of_birth: Jiangsu, China
+    main_entry: 'true'

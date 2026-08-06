@@ -1,0 +1,41 @@
+---
+uid: '50281'
+last_name: JOINT STOCK COMPANY GEOFIZICA COSMOS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78544'
+    type: a.k.a.
+    category: strong
+    last_name: AO NPP GEOFIZIKA KOSMOS
+  - uid: '78545'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO NAUCHNO PROIZVODSTVENNOE PREDPRIIATIE GEOFIZIKA
+      KOSMOS
+address_list:
+  items:
+  - uid: '76158'
+    address1: D. 11 Ul. Irkutskaya korp. 1
+    city: Moscow
+    postal_code: '107497'
+    country: Russia
+id_list:
+  items:
+  - uid: '41973'
+    id_type: Registration Number
+    id_number: '5077746924074'
+    id_country: Russia
+  - uid: '41974'
+    id_type: Tax ID No.
+    id_number: '7718649612'
+    id_country: Russia
+  - uid: '178006'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '178003'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

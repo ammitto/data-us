@@ -1,0 +1,37 @@
+---
+uid: '12577'
+first_name: Duran
+last_name: KALKAN
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '13503'
+    type: a.k.a.
+    category: strong
+    last_name: ERDEM
+    first_name: Selahattin
+id_list:
+  items:
+  - uid: '7065'
+    id_type: Turkish Identification Number
+    id_number: '18538165962'
+    id_country: Turkey
+date_of_birth_list:
+  items:
+  - uid: '8312'
+    date_of_birth: '1954'
+    main_entry: 'true'
+  - uid: '8313'
+    date_of_birth: '1958'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '8314'
+    place_of_birth: Adana, Tufanbeyli, Turkey
+    main_entry: 'true'
+  - uid: '8315'
+    place_of_birth: Derik, Turkey
+    main_entry: 'false'

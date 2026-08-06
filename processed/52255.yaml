@@ -1,0 +1,34 @@
+---
+uid: '52255'
+last_name: LIMITED LIABILITY COMPANY POLYEZNY ELEMENT 5
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '81833'
+    type: a.k.a.
+    category: weak
+    last_name: LLC PE 5
+address_list:
+  items:
+  - uid: '79807'
+    address1: Str. 1, D. 1, Ul 2-Ya Karacharovskaya
+    address2: Vn. Ter. G. Municipal District Nizhehorodskiy
+    city: Moscow
+    postal_code: '109202'
+    country: Russia
+id_list:
+  items:
+  - uid: '45207'
+    id_type: Registration Number
+    id_number: '1237700342131'
+    id_country: Russia
+  - uid: '45208'
+    id_type: Tax ID No.
+    id_number: '9721206357'
+    id_country: Russia
+  - uid: '183199'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

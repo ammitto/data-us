@@ -1,0 +1,28 @@
+---
+uid: '35037'
+last_name: OOO NAUCHNO-TEKHNICHESKII TSENTR METROTEK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '52606'
+    address1: Ul. Yablochkova D. 21, Korpus 3
+    city: Moscow
+    postal_code: '127322'
+    country: Russia
+id_list:
+  items:
+  - uid: '24777'
+    id_type: Tax ID No.
+    id_number: '9715250083'
+    id_country: Russia
+  - uid: '24778'
+    id_type: Registration Number
+    id_number: '1167746288976'
+    id_country: Russia
+  - uid: '175246'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: ZAKHAROV, Andrey Georgiyevich)"

@@ -1,0 +1,37 @@
+---
+uid: '38296'
+first_name: Jose
+last_name: CALDERON RIJO
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '60067'
+    type: a.k.a.
+    category: weak
+    last_name: La Arana
+address_list:
+  items:
+  - uid: '57324'
+    country: Dominican Republic
+id_list:
+  items:
+  - uid: '27596'
+    id_type: Cedula No.
+    id_number: '02601165380'
+    id_country: Dominican Republic
+  - uid: '153591'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '53587'
+    date_of_birth: 04 Dec 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '53588'
+    place_of_birth: La Romana, Dominican Republic
+    main_entry: 'true'

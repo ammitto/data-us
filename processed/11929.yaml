@@ -1,0 +1,44 @@
+---
+uid: '11929'
+first_name: Mario
+last_name: FLORES SOTO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '12696'
+    type: a.k.a.
+    category: strong
+    last_name: FLORES SOTO
+    first_name: Mario Alberto
+address_list:
+  items:
+  - uid: '18168'
+    address1: Privada A2 28
+    address2: Colonia Infonavit
+    city: Nuevo Laredo
+    state_or_province: Tamaulipas
+    country: Mexico
+  - uid: '18169'
+    address1: Calle Tierra del Soconusco 252
+    city: Nuevo Laredo
+    state_or_province: Tamaulipas
+    country: Mexico
+id_list:
+  items:
+  - uid: '6372'
+    id_type: C.U.R.P.
+    id_number: FOSM671031HDGLTR03
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '7614'
+    date_of_birth: 31 Oct 1967
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '7615'
+    place_of_birth: Durango
+    main_entry: 'true'

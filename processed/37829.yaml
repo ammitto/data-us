@@ -1,0 +1,38 @@
+---
+uid: '37829'
+last_name: 64TH GUARDS DETACHED MOTOR RIFLE BRIGADE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59442'
+    type: a.k.a.
+    category: strong
+    last_name: 64TH SEPARATE GUARDS MOTORIZED RIFLE BRIGADE
+  - uid: '59443'
+    type: a.k.a.
+    category: strong
+    last_name: 64TH SEPARATE MOTORIZED INFANTRY BRIGADE
+  - uid: '59444'
+    type: a.k.a.
+    category: strong
+    last_name: 64TH SEPARATE MOTORIZED RIFLE BRIGADE
+address_list:
+  items:
+  - uid: '56665'
+    city: Knyaze-Volkonskoye
+    state_or_province: Khabarovsk Oblast
+    country: Russia
+id_list:
+  items:
+  - uid: '174583'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '152943'
+    id_type: Target Type
+    id_number: Government Entity
+  - uid: '152942'
+    id_type: Organization Established Date
+    id_number: 01 Jan 2009

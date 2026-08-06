@@ -1,0 +1,38 @@
+---
+uid: '46653'
+last_name: JOINT STOCK COMPANY DUBNA CABLE PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '72008'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO DUBNENSKII KABELNYI ZAVOD
+  - uid: '72009'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY DUBNENSKY CABLE PLANT
+address_list:
+  items:
+  - uid: '69462'
+    address1: Pr-Kt Nauki D. 14
+    address2: K. 4
+    city: Dubna
+    postal_code: '141983'
+    country: Russia
+id_list:
+  items:
+  - uid: '36655'
+    id_type: Registration Number
+    id_number: '1185007007261'
+    id_country: Russia
+  - uid: '36656'
+    id_type: Tax ID No.
+    id_number: '5010054903'
+    id_country: Russia
+  - uid: '175042'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

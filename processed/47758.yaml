@@ -1,0 +1,32 @@
+---
+uid: '47758'
+last_name: LIMITED LIABILITY COMPANY HYPERSPACE TECHNOLOGIES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '71434'
+    address1: 2 Surgutskaya Street
+    address2: Room 301
+    city: Almetyevsk
+    postal_code: '423461'
+    country: Russia
+id_list:
+  items:
+  - uid: '38424'
+    id_type: Tax ID No.
+    id_number: '1644100380'
+    id_country: Russia
+  - uid: '38431'
+    id_type: Registration Number
+    id_number: '1221600058899'
+    id_country: Russia
+  - uid: '176429'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '170068'
+    id_type: 'Organization Type:'
+    id_number: Computer programming activities
+remarks: "(Linked To: JOINT STOCK COMPANY RIMERA)"

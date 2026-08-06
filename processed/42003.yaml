@@ -1,0 +1,34 @@
+---
+uid: '42003'
+last_name: NAUCHNO-PROIZVODSTVENNOE PREDPRIYATIE GURAMI ELEKTRONIKS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65285'
+    type: a.k.a.
+    category: strong
+    last_name: NPP GURAMI ELEKTRONIKS
+address_list:
+  items:
+  - uid: '62680'
+    address1: ul. Profsoyuznaya d. 37A
+    address2: floor/office 4/412
+    city: Naro-Fominsk
+    postal_code: '143306'
+    country: Russia
+id_list:
+  items:
+  - uid: '31410'
+    id_type: Registration Number
+    id_number: '1205000027770'
+    id_country: Russia
+  - uid: '31411'
+    id_type: Tax ID No.
+    id_number: '5030098049'
+    id_country: Russia
+  - uid: '173737'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,33 @@
+---
+uid: '56334'
+last_name: HYSA HOLDINGS INC
+sdn_type: Entity
+program_list:
+  programs:
+  - TCO
+aka_list:
+  items:
+  - uid: '87373'
+    type: a.k.a.
+    category: strong
+    last_name: GESTION HYSA INC
+address_list:
+  items:
+  - uid: '86216'
+    city: Montreal
+    state_or_province: Quebec
+    country: Canada
+id_list:
+  items:
+  - uid: '50360'
+    id_type: Company Number
+    id_number: 798018-3
+    id_country: Canada
+  - uid: '50392'
+    id_type: Business Number
+    id_number: 842067886RC0001
+    id_country: Canada
+  - uid: '194499'
+    id_type: Organization Established Date
+    id_number: 27 Oct 2011
+remarks: "(Linked To: HYSA, Luftar)"

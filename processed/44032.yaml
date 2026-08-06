@@ -1,0 +1,41 @@
+---
+uid: '44032'
+last_name: JOINT STOCK COMPANY TULA CARTRIDGE WORKS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '68081'
+    type: a.k.a.
+    category: strong
+    last_name: TULAMMO
+  - uid: '68082'
+    type: a.k.a.
+    category: weak
+    last_name: AO TPZ
+  - uid: '68083'
+    type: a.k.a.
+    category: strong
+    last_name: TULA CARTRIDGE PLANT
+address_list:
+  items:
+  - uid: '65536'
+    address1: ul. Marata D. 47 B
+    city: Tula
+    postal_code: '300004'
+    country: Russia
+id_list:
+  items:
+  - uid: '33423'
+    id_type: Registration Number
+    id_number: '1027100507268'
+    id_country: Russia
+  - uid: '33424'
+    id_type: Tax ID No.
+    id_number: '7105008338'
+    id_country: Russia
+  - uid: '175741'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

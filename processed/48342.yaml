@@ -1,0 +1,38 @@
+---
+uid: '48342'
+first_name: Josue
+last_name: LOPEZ HERNANDEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '75164'
+    type: a.k.a.
+    category: weak
+    last_name: El Colima
+address_list:
+  items:
+  - uid: '72527'
+    country: Mexico
+id_list:
+  items:
+  - uid: '39226'
+    id_type: C.U.R.P.
+    id_number: LOHJ761220HGRPRS05
+    id_country: Mexico
+  - uid: '170630'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '70627'
+    date_of_birth: 20 Dec 1976
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '70628'
+    place_of_birth: Guerrero, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: LA NUEVA FAMILIA MICHOACANA)"

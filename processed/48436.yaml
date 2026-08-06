@@ -1,0 +1,38 @@
+---
+uid: '48436'
+last_name: JOINT STOCK COMPANY CLASS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75287'
+    type: a.k.a.
+    category: weak
+    last_name: NPP KLASS
+address_list:
+  items:
+  - uid: '72670'
+    address1: Sh. Entuziastov, D 56, Str. 21
+    city: Moscow
+    postal_code: '111123'
+    country: Russia
+  - uid: '72671'
+    address1: Ul. Sovetskaya D. 3, Floor 2, Kom. 2
+    city: Lukhovitsy
+    postal_code: '140501'
+    country: Russia
+id_list:
+  items:
+  - uid: '39331'
+    id_type: Registration Number
+    id_number: '1027700450975'
+    id_country: Russia
+  - uid: '39332'
+    id_type: Tax ID No.
+    id_number: '7724032017'
+    id_country: Russia
+  - uid: '171278'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

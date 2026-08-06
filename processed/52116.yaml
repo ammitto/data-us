@@ -1,0 +1,45 @@
+---
+uid: '52116'
+first_name: Kwang Chol
+last_name: RO
+sdn_type: Individual
+program_list:
+  programs:
+  - DPRK2
+aka_list:
+  items:
+  - uid: '81614'
+    type: a.k.a.
+    category: weak
+    last_name: NO, Kwang Chol
+  - uid: '81615'
+    type: a.k.a.
+    category: weak
+    last_name: RO, Gwang Chol
+address_list:
+  items:
+  - uid: '79524'
+    country: Korea, North
+id_list:
+  items:
+  - uid: '182992'
+    id_type: Gender
+    id_number: Male
+  - uid: '182997'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '182996'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+date_of_birth_list:
+  items:
+  - uid: '82991'
+    date_of_birth: 22 Aug 1958
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '82995'
+    place_of_birth: Nampo, Pyongannam-Do, North Korea
+    main_entry: 'true'
+title: Minister of the Ministry of People's Armed Forces

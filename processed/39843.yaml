@@ -1,0 +1,36 @@
+---
+uid: '39843'
+first_name: Dmitry
+last_name: KUDRYAKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+id_list:
+  items:
+  - uid: '29085'
+    id_type: C.U.I.
+    id_number: '3749997750101'
+    id_country: Guatemala
+  - uid: '29086'
+    id_type: 'NIT #'
+    id_number: '79478034'
+    id_country: Guatemala
+  - uid: '29087'
+    id_type: Passport
+    id_number: '531079231'
+    id_country: Russia
+    expiration_date: 24 Mar 2026
+  - uid: '156622'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '56621'
+    date_of_birth: 11 Dec 1964
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '56624'
+    place_of_birth: Irkutsk, Russia
+    main_entry: 'true'

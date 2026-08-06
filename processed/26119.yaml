@@ -1,0 +1,48 @@
+---
+uid: '26119'
+last_name: GLOBAL VISION GROUP
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+  - IFSR
+  - IRGC
+aka_list:
+  items:
+  - uid: '41140'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY GLOBAL CONCEPTS GROUP
+  - uid: '41141'
+    type: a.k.a.
+    category: weak
+    last_name: LLC GKG
+address_list:
+  items:
+  - uid: '39576'
+    address1: Office I Room 7
+    address2: Building 3, House 22
+    address3: Staromonetny Lane
+    city: Moscow
+    postal_code: '119180'
+    country: Russia
+  - uid: '39580'
+    country: Russia
+  - uid: '39581'
+    address1: Staromonetne STR 22/3
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '130454'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
+      Sanctions Regulations
+  - uid: '130457'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '186842'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: "(Linked To: ALCHWIKI, Mhd Amer)"

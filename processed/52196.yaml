@@ -1,0 +1,37 @@
+---
+uid: '52196'
+first_name: Aleksandr Sergeyevich
+last_name: KOZLOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '79687'
+    address1: 16-8-32 Glinki Street, Pushkin City
+    city: Saint Petersburg
+    postal_code: '196601'
+    country: Russia
+id_list:
+  items:
+  - uid: '45105'
+    id_type: Tax ID No.
+    id_number: '782023355772'
+    id_country: Russia
+  - uid: '183128'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183131'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '83129'
+    date_of_birth: 07 Aug 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '83130'
+    place_of_birth: Saint Petersburg, Russia
+    main_entry: 'true'

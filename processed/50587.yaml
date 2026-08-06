@@ -1,0 +1,60 @@
+---
+uid: '50587'
+first_name: Yong Phat
+last_name: LY
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '79096'
+    type: a.k.a.
+    category: weak
+    last_name: PAD SUPA
+  - uid: '79097'
+    type: a.k.a.
+    category: weak
+    last_name: PHAT SUPHAPHA
+  - uid: '79099'
+    type: a.k.a.
+    category: weak
+    last_name: PAT SUPAPHA
+  - uid: '79100'
+    type: a.k.a.
+    category: weak
+    last_name: PUT SUPAPA
+  - uid: '79101'
+    type: a.k.a.
+    category: weak
+    last_name: PHAT, Suphapha
+address_list:
+  items:
+  - uid: '76811'
+    address1: 9352 Moo 1 Wangkraja Amphur Muang
+    city: Trat Trat
+    postal_code: '23000'
+    country: Thailand
+id_list:
+  items:
+  - uid: '42516'
+    id_type: National ID No.
+    id_number: '5230200031049'
+    id_country: Thailand
+  - uid: '178845'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '78840'
+    date_of_birth: 07 Jan 1958
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '78842'
+    place_of_birth: Thmor Sor Village, Thmor Sor Commune, Botum Sakor District, Koh
+      Kong Province, Cambodia
+    main_entry: 'true'
+  - uid: '78844'
+    place_of_birth: Trat, Thailand
+    main_entry: 'false'

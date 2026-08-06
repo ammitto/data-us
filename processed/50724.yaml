@@ -1,0 +1,37 @@
+---
+uid: '50724'
+last_name: JSC FINVAL ENERGY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79379'
+    type: a.k.a.
+    category: strong
+    last_name: AO FINVAL ENERGO
+  - uid: '79380'
+    type: a.k.a.
+    category: strong
+    last_name: JSC FINVAL ENERGO
+address_list:
+  items:
+  - uid: '76922'
+    address1: Volgogradskii Prospekt D.32 K.11
+    city: Moscow
+    postal_code: '109316'
+    country: Russia
+id_list:
+  items:
+  - uid: '42582'
+    id_type: Registration Number
+    id_number: '1087746104907'
+    id_country: Russia
+  - uid: '42583'
+    id_type: Tax ID No.
+    id_number: '7721609835'
+    id_country: Russia
+  - uid: '179332'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,54 @@
+---
+uid: '32991'
+first_name: Zulma Maria
+last_name: MUSSO TORRES
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '51890'
+    type: a.k.a.
+    category: strong
+    last_name: MUSO
+    first_name: Sulma
+  - uid: '51891'
+    type: a.k.a.
+    category: weak
+    last_name: LA PATRONA
+  - uid: '51892'
+    type: a.k.a.
+    category: weak
+    last_name: LA SENORA
+address_list:
+  items:
+  - uid: '49661'
+    country: Colombia
+id_list:
+  items:
+  - uid: '22693'
+    id_type: Cedula No.
+    id_number: '36141965'
+    id_country: Colombia
+  - uid: '22694'
+    id_type: Passport
+    id_number: AP517448
+    id_country: Colombia
+  - uid: '22695'
+    id_type: Passport
+    id_number: AB2574362
+    id_country: Colombia
+  - uid: '142762'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '42760'
+    date_of_birth: 27 May 1963
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '42763'
+    place_of_birth: Santa Marta, Colombia
+    main_entry: 'true'

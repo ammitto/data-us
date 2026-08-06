@@ -1,0 +1,41 @@
+---
+uid: '26147'
+first_name: Yadher Rafael
+last_name: JAQUEZ ARAUJO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '41204'
+    type: a.k.a.
+    category: weak
+    last_name: JAKE MATE
+  - uid: '41205'
+    type: a.k.a.
+    category: weak
+    last_name: JAQUE MATE
+address_list:
+  items:
+  - uid: '39616'
+    country: Dominican Republic
+id_list:
+  items:
+  - uid: '16831'
+    id_type: Cedula No.
+    id_number: 001-1733889-7
+    id_country: Dominican Republic
+  - uid: '130504'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '30502'
+    date_of_birth: 15 Oct 1985
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '30503'
+    place_of_birth: Santo Domingo, Dominican Republic
+    main_entry: 'true'

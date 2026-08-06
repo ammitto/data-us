@@ -1,0 +1,64 @@
+---
+uid: '9332'
+first_name: Ibrahim Sabawi Ibrahim Hasan
+last_name: AL-TIKRITI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAQ2
+aka_list:
+  items:
+  - uid: '8754'
+    type: a.k.a.
+    category: strong
+    last_name: AL-TIKRITI
+    first_name: Ibrahim Sab'awi Ibrahim Hasan
+  - uid: '8755'
+    type: a.k.a.
+    category: strong
+    last_name: AL-TIKRITI
+    first_name: Ibrahim Sabawi Ibrahim Hassan
+  - uid: '8756'
+    type: a.k.a.
+    category: strong
+    last_name: AL-TIKRITI
+    first_name: Ibrahim Sabawi Ibrahim Al-Hassan
+  - uid: '8757'
+    type: a.k.a.
+    category: strong
+    last_name: SALMAN
+    first_name: Muhammad Da'ud
+address_list:
+  items:
+  - uid: '11495'
+    country: Iraq
+  - uid: '11496'
+    address1: Al-Shahid Street
+    address2: Al-Mahata Neighborhood
+    city: Az Zabadani
+    country: Syria
+  - uid: '11497'
+    address1: Fuad Dawod Farm
+    address2: Az Zabadani
+    city: Damascus
+    country: Syria
+id_list:
+  items:
+  - uid: '4019'
+    id_type: Passport
+    id_number: '284173'
+    id_country: Iraq
+    expiration_date: 21 Aug 2005
+date_of_birth_list:
+  items:
+  - uid: '4270'
+    date_of_birth: 25 Oct 1983
+    main_entry: 'true'
+  - uid: '4272'
+    date_of_birth: '1977'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '4320'
+    place_of_birth: Baghdad, Iraq
+    main_entry: 'true'

@@ -1,0 +1,37 @@
+---
+uid: '58067'
+first_name: Uriel
+last_name: HERNANDEZ MORALES
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+address_list:
+  items:
+  - uid: '89174'
+    country: Mexico
+id_list:
+  items:
+  - uid: '52611'
+    id_type: C.U.R.P.
+    id_number: HEMU880802HCSRRR07
+    id_country: Mexico
+  - uid: '199382'
+    id_type: Gender
+    id_number: Male
+  - uid: '199385'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '99381'
+    date_of_birth: 02 Aug 1988
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '99384'
+    place_of_birth: Chiapas, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: CARTEL DE JALISCO NUEVA GENERACION)"

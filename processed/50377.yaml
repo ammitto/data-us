@@ -1,0 +1,37 @@
+---
+uid: '50377'
+last_name: LIMITED LIABILITY COMPANY MEZHREGIONSTROY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78742'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY INTERREGIONCONSTRUCTION
+  - uid: '78743'
+    type: a.k.a.
+    category: weak
+    last_name: LLC IRC
+address_list:
+  items:
+  - uid: '76363'
+    address1: Pomeshch. 4/2, D. 3, Ul. Marshala Sokolovskogo
+    city: Moscow
+    postal_code: '123060'
+    country: Russia
+id_list:
+  items:
+  - uid: '42132'
+    id_type: Registration Number
+    id_number: '1097746504778'
+    id_country: Russia
+  - uid: '42133'
+    id_type: Tax ID No.
+    id_number: '7725675317'
+    id_country: Russia
+  - uid: '178349'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

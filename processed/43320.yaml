@@ -1,0 +1,33 @@
+---
+uid: '43320'
+first_name: Svetlana Yuryevna
+last_name: VERKHOVTSEVA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '64674'
+    address1: Sjatoozerskaja 28-24
+    city: Moscow
+    country: Russia
+  - uid: '64675'
+    country: Czech Republic
+id_list:
+  items:
+  - uid: '32903'
+    id_type: Tax ID No.
+    id_number: '110200499266'
+    id_country: Russia
+  - uid: '175712'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '162577'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '62575'
+    date_of_birth: 02 Dec 1961
+    main_entry: 'true'

@@ -1,0 +1,64 @@
+---
+uid: '35299'
+first_name: Alain Francois Viviane
+last_name: GOETZ
+sdn_type: Individual
+program_list:
+  programs:
+  - DRCONGO
+aka_list:
+  items:
+  - uid: '55513'
+    type: a.k.a.
+    category: strong
+    last_name: GOETZ
+    first_name: Alain
+  - uid: '55520'
+    type: a.k.a.
+    category: strong
+    last_name: GOZ
+    first_name: Alen
+address_list:
+  items:
+  - uid: '53051'
+    address1: The Palm Jumeirah 0-35, 65919
+    city: Dubai
+    country: United Arab Emirates
+  - uid: '53052'
+    address1: Villa 39, Frond N, The Palm Jumeirah
+    city: Dubai
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '25001'
+    id_type: Passport
+    id_number: EP985086
+    id_country: Belgium
+    issue_date: '08 May 2018'
+    expiration_date: 07 May 2025
+  - uid: '25002'
+    id_type: Identification Number
+    id_number: '784196536027277'
+    id_country: United Arab Emirates
+  - uid: '25005'
+    id_type: Passport
+    id_number: '50641895930'
+    id_country: Turkey
+    expiration_date: 10 Jul 2030
+  - uid: '147496'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '47498'
+    date_of_birth: 24 Apr 1965
+    main_entry: 'true'
+  - uid: '47499'
+    date_of_birth: 20 Apr 1965
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '47500'
+    place_of_birth: Antwerp, Belgium
+    main_entry: 'true'
+remarks: "(Linked To: AFRICAN GOLD REFINERY LIMITED)"

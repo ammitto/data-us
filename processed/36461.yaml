@@ -1,0 +1,35 @@
+---
+uid: '36461'
+first_name: Fatima Shaykhievna
+last_name: KHAZUEVA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '54814'
+    state_or_province: Republic of Chechnya
+    country: Russia
+  - uid: '57794'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '150288'
+    id_type: Gender
+    id_number: Female
+  - uid: '174218'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '50177'
+    date_of_birth: 26 Jun 1991
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '50178'
+    place_of_birth: Makhkety, Vedensky District, Republic of Chechnya, Russia
+    main_entry: 'true'
+remarks: "(Linked To: KADYROV, Ramzan Akhmatovich)"

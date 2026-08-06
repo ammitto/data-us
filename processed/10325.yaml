@@ -1,0 +1,21 @@
+---
+uid: '10325'
+first_name: Straton
+last_name: MUSONI
+sdn_type: Individual
+program_list:
+  programs:
+  - DRCONGO
+date_of_birth_list:
+  items:
+  - uid: '5399'
+    date_of_birth: 06 Apr 1961
+    main_entry: 'true'
+  - uid: '5400'
+    date_of_birth: 04 Jun 1961
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '5401'
+    place_of_birth: Mugambazi, Kigali
+    main_entry: 'true'

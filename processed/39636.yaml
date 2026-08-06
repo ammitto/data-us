@@ -1,0 +1,62 @@
+---
+uid: '39636'
+first_name: Abdirahman Mohamed
+last_name: OMAR
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '61727'
+    type: a.k.a.
+    category: strong
+    last_name: CUMAR
+    first_name: Cabdiraxman Maxamed
+  - uid: '61728'
+    type: a.k.a.
+    category: weak
+    last_name: OMAR, Abdi Mohamed
+  - uid: '61729'
+    type: a.k.a.
+    category: strong
+    last_name: CUMAR
+    first_name: Cabdi Maxamed
+  - uid: '61730'
+    type: a.k.a.
+    category: weak
+    last_name: DHOFAYE
+  - uid: '61731'
+    type: a.k.a.
+    category: weak
+    last_name: DHOOFAYE
+  - uid: '61732'
+    type: a.k.a.
+    category: strong
+    last_name: DHUFAAYE
+    first_name: Cabdi Muhammad
+address_list:
+  items:
+  - uid: '59004'
+    city: Bosaso
+    country: Somalia
+id_list:
+  items:
+  - uid: '155890'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '155888'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '55887'
+    date_of_birth: '1962'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '55909'
+    place_of_birth: Bosaso, Somalia
+    main_entry: 'true'
+remarks: "(Linked To: ISIS-SOMALIA)"

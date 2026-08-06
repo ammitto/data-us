@@ -1,0 +1,39 @@
+---
+uid: '47529'
+last_name: SCANFORM
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73580'
+    type: a.k.a.
+    category: strong
+    last_name: SKANFORM
+address_list:
+  items:
+  - uid: '70959'
+    address1: Ul. Rokossovskogo, Novoilyinskii District, D. 29, Kv. 160
+    city: Novokuznetsk
+    postal_code: '654044'
+    country: Russia
+id_list:
+  items:
+  - uid: '38028'
+    id_type: Registration Number
+    id_number: '1204200016162'
+    id_country: Russia
+  - uid: '38029'
+    id_type: Tax ID No.
+    id_number: '4253049068'
+    id_country: Russia
+  - uid: '169748'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '170103'
+    id_type: Website
+    id_number: scanform.ru
+  - uid: '170091'
+    id_type: 'Organization Type:'
+    id_number: Manufacture of computers and peripheral equipment

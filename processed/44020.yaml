@@ -1,0 +1,44 @@
+---
+uid: '44020'
+last_name: DELTA-AERO TECHNICAL SERVICE CENTER LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '68053'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY TECHNICAL SERVICE CENTER DELTA-AERO
+  - uid: '68054'
+    type: a.k.a.
+    category: strong
+    last_name: LLC TSTO DELTA-AERO
+address_list:
+  items:
+  - uid: '65511'
+    address1: Vn. Ter. Settlement Moskovsky
+    address2: Kievskoe Highway 22 km
+    address3: household 4, building 1, floor 6, room/office 620 A/37
+    city: Moscow
+    postal_code: '108511'
+    country: Russia
+id_list:
+  items:
+  - uid: '33404'
+    id_type: Tax ID No.
+    id_number: '7730263823'
+    id_country: Russia
+  - uid: '33405'
+    id_type: Business Registration Number
+    id_number: '1217700171809'
+    id_country: Russia
+  - uid: '163589'
+    id_type: Organization Established Date
+    id_number: 12 Apr 2021
+  - uid: '163590'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: IRAN AIRCRAFT MANUFACTURING INDUSTRIAL COMPANY)"

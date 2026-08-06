@@ -1,0 +1,36 @@
+---
+uid: '15892'
+first_name: Ivan Pavlovitch
+last_name: PROKOPENKO
+sdn_type: Individual
+program_list:
+  programs:
+  - MAGNIT
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '60406'
+    state_or_province: Tula Region
+    country: Russia
+id_list:
+  items:
+  - uid: '29699'
+    id_type: Tax ID No.
+    id_number: '773407989940'
+    id_country: Russia
+  - uid: '173822'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '157804'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '13412'
+    date_of_birth: 28 Sep 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '13413'
+    place_of_birth: Vinnitsa, Ukraine
+    main_entry: 'true'

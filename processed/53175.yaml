@@ -1,0 +1,45 @@
+---
+uid: '53175'
+first_name: Tin Myo
+last_name: AUNG
+sdn_type: Individual
+program_list:
+  programs:
+  - BURMA-EO14014
+  - DPRK
+address_list:
+  items:
+  - uid: '81137'
+    country: Burma
+id_list:
+  items:
+  - uid: '46292'
+    id_type: Passport
+    id_number: MI361289
+    id_country: Burma
+    expiration_date: 14 Dec 2028
+  - uid: '49506'
+    id_type: National ID No.
+    id_number: 7TANGANAN097221
+    id_country: Burma
+  - uid: '185509'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '185510'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '185494'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '85492'
+    date_of_birth: 03 Dec 1972
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '85493'
+    place_of_birth: Taungoo, Burma
+    main_entry: 'true'
+remarks: "(Linked To: ROYAL SHUNE LEI COMPANY LIMITED)"

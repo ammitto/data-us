@@ -1,0 +1,34 @@
+---
+uid: '15461'
+last_name: EP-MNE
+sdn_type: Aircraft
+program_list:
+  programs:
+  - SDGT
+  - NPWMD
+  - IFSR
+id_list:
+  items:
+  - uid: '133533'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '112418'
+    id_type: Aircraft Construction Number (also called L/N or S/N or F/N)
+    id_number: '641'
+  - uid: '112419'
+    id_type: Aircraft Manufacture Date
+    id_number: 14 Apr 1986
+  - uid: '112420'
+    id_type: Aircraft Model
+    id_number: B747-3B3
+  - uid: '112422'
+    id_type: Aircraft Operator
+    id_number: MAHAN AIR
+  - uid: '112421'
+    id_type: Aircraft Manufacturer's Serial Number (MSN)
+    id_number: '23480'
+  - uid: '186144'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: "(Linked To: MAHAN AIR)"

@@ -1,0 +1,53 @@
+---
+uid: '27854'
+first_name: Gholamreza
+last_name: SOLEIMANI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13876
+  - IRAN-HR
+  - IRGC
+aka_list:
+  items:
+  - uid: '43917'
+    type: a.k.a.
+    category: strong
+    last_name: SOLEIMANI
+    first_name: Gholam Reza
+  - uid: '43918'
+    type: a.k.a.
+    category: strong
+    last_name: SOLEYMANI
+    first_name: Gholam Reza
+  - uid: '53419'
+    type: a.k.a.
+    category: strong
+    last_name: SOLEIMANY
+    first_name: Gholamreza
+address_list:
+  items:
+  - uid: '42174'
+    country: Iran
+id_list:
+  items:
+  - uid: '133114'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '133118'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '33115'
+    date_of_birth: '1964'
+    main_entry: 'true'
+  - uid: '33145'
+    date_of_birth: '1965'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '45135'
+    place_of_birth: Farsan, Iran
+    main_entry: 'true'
+remarks: "(Linked To: BASIJ RESISTANCE FORCE)"

@@ -1,0 +1,38 @@
+---
+uid: '56558'
+first_name: Hatem Elsaid Farid Ibrahim
+last_name: SAKR
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '86556'
+    address1: Al Mizhar 1
+    city: Dubai
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '50603'
+    id_type: Passport
+    id_number: A28342914
+    id_country: Egypt
+    expiration_date: 14 Jul 2028
+  - uid: '50604'
+    id_type: Identification Number
+    id_number: '784198495048732'
+    id_country: United Arab Emirates
+  - uid: '195012'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '95291'
+    date_of_birth: 14 Apr 1984
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '95011'
+    place_of_birth: Kafr El Sheikh, Egypt
+    main_entry: 'true'

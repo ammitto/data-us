@@ -1,0 +1,67 @@
+---
+uid: '44035'
+last_name: SCIENTIFIC PRODUCTION COMPANY OPTOLINK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '68092'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY RESEARCH AND PRODUCTION COMPANY OPTOLINK
+  - uid: '68093'
+    type: a.k.a.
+    category: strong
+    last_name: OOO NPK OPTOLINK
+  - uid: '68094'
+    type: a.k.a.
+    category: strong
+    last_name: LLC RPC OPTOLINK
+  - uid: '68095'
+    type: a.k.a.
+    category: strong
+    last_name: SPC OPTOLINK
+  - uid: '68096'
+    type: a.k.a.
+    category: strong
+    last_name: NPK OPTOLINK LLC
+  - uid: '68097'
+    type: a.k.a.
+    category: strong
+    last_name: OPTOLINK RPC LLC
+address_list:
+  items:
+  - uid: '65542'
+    address1: 6A Sosnovaya Alley, Building 5
+    city: Zelenograd, Moscow
+    postal_code: '124489'
+    country: Russia
+  - uid: '65543'
+    address1: Pr-d 4806 d. 5, g. Zelenograd
+    city: Moscow
+    postal_code: '124498'
+    country: Russia
+  - uid: '65544'
+    city: Saratov
+    country: Russia
+  - uid: '65545'
+    city: Arzamas
+    country: Russia
+id_list:
+  items:
+  - uid: '33429'
+    id_type: Registration Number
+    id_number: '1027700040719'
+    id_country: Russia
+  - uid: '33430'
+    id_type: Tax ID No.
+    id_number: '7735105059'
+    id_country: Russia
+  - uid: '175744'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '163624'
+    id_type: Organization Established Date
+    id_number: 18 Jul 2001

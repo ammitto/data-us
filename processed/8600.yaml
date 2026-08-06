@@ -1,0 +1,80 @@
+---
+uid: '8600'
+first_name: Luis Antonio
+last_name: HERNANDEZ ZEA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNT
+aka_list:
+  items:
+  - uid: '7831'
+    type: a.k.a.
+    category: weak
+    last_name: EL CAPITAN
+address_list:
+  items:
+  - uid: '9830'
+    address1: Carrera 53 No. 35-35
+    city: Bogota
+    country: Colombia
+  - uid: '9831'
+    address1: c/o INTERCONTINENTAL DE AVIACION S.A.
+    city: Bogota
+    country: Colombia
+  - uid: '9832'
+    address1: c/o AEROVIAS ATLANTICO LTDA. AEROATLANTICO LTDA.
+    city: Baranquilla
+    country: Colombia
+  - uid: '9833'
+    address1: c/o ASOCIACION TURISTICA INTERNACIONAL S.C.S.
+    city: Bogota
+    country: Colombia
+  - uid: '9834'
+    address1: c/o CIA CONSTRUCTORA Y COMERCIALIZADORA DEL SUR LTDA.
+    city: Bogota
+    country: Colombia
+  - uid: '9835'
+    address1: c/o GREEN ISLAND S.A.
+    city: Bogota
+    country: Colombia
+  - uid: '9836'
+    address1: c/o INTERCONTINENTAL DE FINANCIACION AEREA  S.A.
+    city: Bogota
+    country: Colombia
+  - uid: '9837'
+    address1: c/o INVERSIONES Y COMERCIALIZADORA INCOM LTDA.
+    city: Cali
+    country: Colombia
+  - uid: '9838'
+    address1: c/o LARGO LEASING LTD.
+    city: George Town
+    country: Cayman Islands
+  - uid: '9839'
+    address1: c/o TRANS PACIFIC WORLD LEASING LIMITED
+    city: Port Vila
+    country: Vanuatu
+id_list:
+  items:
+  - uid: '3581'
+    id_type: Passport
+    id_number: P006320
+    id_country: Colombia
+  - uid: '3582'
+    id_type: Passport
+    id_number: PE022166
+    id_country: Colombia
+  - uid: '3583'
+    id_type: Cedula No.
+    id_number: '79252957'
+    id_country: Colombia
+date_of_birth_list:
+  items:
+  - uid: '3942'
+    date_of_birth: 07 May 1960
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '3943'
+    place_of_birth: Bogota, Colombia
+    main_entry: 'true'

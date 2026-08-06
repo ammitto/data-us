@@ -1,0 +1,40 @@
+---
+uid: '44780'
+first_name: Ali Akbar
+last_name: POURJAMSHIDIAN
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+  - IRGC
+  - IFSR
+aka_list:
+  items:
+  - uid: '69557'
+    type: a.k.a.
+    category: strong
+    last_name: POURJAMSHIDIAN
+    first_name: Aliakbar
+address_list:
+  items:
+  - uid: '67165'
+    country: Iran
+id_list:
+  items:
+  - uid: '34579'
+    id_type: Passport
+    id_number: V43937498
+    id_country: Iran
+    expiration_date: 18 Dec 2022
+  - uid: '165488'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '164990'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '65284'
+    date_of_birth: 30 Dec 1962
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS)"

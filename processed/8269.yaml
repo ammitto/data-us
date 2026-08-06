@@ -1,0 +1,49 @@
+---
+uid: '8269'
+first_name: Kamel
+last_name: DARRAJI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '8870'
+    type: a.k.a.
+    category: strong
+    last_name: DARRAJI
+    first_name: Kamal Ben Mohamed Ben Ahmed
+address_list:
+  items:
+  - uid: '7788'
+    address1: via Belotti, n. 16
+    city: Busto Arsizio
+    state_or_province: Varese
+    country: Italy
+id_list:
+  items:
+  - uid: '3323'
+    id_type: Italian Fiscal Code
+    id_number: DRRKML67L22Z352Q
+  - uid: '3324'
+    id_type: Italian Fiscal Code
+    id_number: DRRKLB67L22Z352S
+  - uid: '4089'
+    id_type: Passport
+    id_number: L029899
+    issue_date: 14 Aug 1995
+    expiration_date: 13 Aug 2000
+  - uid: '186220'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '2656'
+    date_of_birth: 22 Jul 1967
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '2657'
+    place_of_birth: Menzel Bouzelfa, Tunisia
+    main_entry: 'true'

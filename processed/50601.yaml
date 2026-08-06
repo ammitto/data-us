@@ -1,0 +1,42 @@
+---
+uid: '50601'
+last_name: KOH KONG RESORT
+sdn_type: Entity
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '79129'
+    type: a.k.a.
+    category: strong
+    last_name: KOH KONG CASINO RESORT
+  - uid: '79130'
+    type: a.k.a.
+    category: strong
+    last_name: KOH KONG RESORT AND CASINO
+  - uid: '79131'
+    type: a.k.a.
+    category: strong
+    last_name: KOH RONG RESORT AND CASINO
+address_list:
+  items:
+  - uid: '76720'
+    address1: Phum Cham Yeam, Khum Paklong, Srok Mondul Seyma, AH123
+    city: Khum Pak Khlang
+    country: Cambodia
+id_list:
+  items:
+  - uid: '178930'
+    id_type: Email Address
+    id_number: info@kohkongresort.com
+  - uid: '178929'
+    id_type: Phone Number
+    id_number: 85 51 155 5706
+  - uid: '178926'
+    id_type: Organization Established Date
+    id_number: '1998'
+  - uid: '179173'
+    id_type: 'Organization Type:'
+    id_number: Short term accommodation activities
+remarks: "(Linked To: LY, Yong Phat)"

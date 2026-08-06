@@ -1,0 +1,35 @@
+---
+uid: '40998'
+first_name: Igor Ivanovich
+last_name: KOBZEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '61233'
+    state_or_province: Irkutsk Region
+    country: Russia
+id_list:
+  items:
+  - uid: '30328'
+    id_type: Tax ID No.
+    id_number: '366218895903'
+    id_country: Russia
+  - uid: '175347'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '158723'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '58721'
+    date_of_birth: 29 Oct 1966
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '58722'
+    place_of_birth: Voronezh, Voronezh Region, Russia
+    main_entry: 'true'

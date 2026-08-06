@@ -1,0 +1,94 @@
+---
+uid: '16884'
+last_name: JOINT STOCK COMPANY MILITARY-INDUSTRIAL CORPORATION NPO MASHINOSTROYENIA
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13661
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '25784'
+    type: a.k.a.
+    category: strong
+    last_name: MIC NPO MASHINOSTROYENIYA JSC
+  - uid: '25785'
+    type: a.k.a.
+    category: strong
+    last_name: MILITARY INDUSTRIAL CORPORATION NPO MASHINOSTROENIA OAO
+  - uid: '25786'
+    type: a.k.a.
+    category: strong
+    last_name: VOENNO-PROMYSHLENNAYA KORPORATSIYA NAUCHNO-PROIZVODSTVENNOE OBEDINENIE
+      MASHINOSTROENIYA OAO
+  - uid: '25787'
+    type: a.k.a.
+    category: strong
+    last_name: JSC MIC NPO MASHINOSTROYENIA
+  - uid: '25788'
+    type: a.k.a.
+    category: strong
+    last_name: VPK NPO MASHINOSTROENIYA
+  - uid: '25943'
+    type: a.k.a.
+    category: strong
+    last_name: OPEN JOINT STOCK COMPANY MILITARY INDUSTRIAL CORPORATION SCIENTIFIC
+      AND PRODUCTION MACHINE BUILDING ASSOCIATION
+  - uid: '25945'
+    type: a.k.a.
+    category: strong
+    last_name: MIC NPO MASHINOSTROYENIA JSC
+  - uid: '25946'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY MILITARY INDUSTRIAL CONSORTIUM NPO MASHINOSTROYENIA
+address_list:
+  items:
+  - uid: '25567'
+    address1: 33, Gagarina St.
+    city: Reutov-town
+    state_or_province: Moscow Region
+    postal_code: '143966'
+    country: Russia
+  - uid: '25568'
+    address1: 33 Gagarin Street
+    city: Reutov
+    state_or_province: Moscow Region
+    postal_code: '143966'
+    country: Russia
+  - uid: '25570'
+    address1: 33 Gagarina ul.
+    city: Reutov
+    state_or_province: Moskovskaya obl
+    postal_code: '143966'
+    country: Russia
+id_list:
+  items:
+  - uid: '9372'
+    id_type: Government Gazette Number
+    id_number: '07501739'
+    id_country: Russia
+  - uid: '9373'
+    id_type: Registration ID
+    id_number: '1075012001492'
+    id_country: Russia
+  - uid: '9374'
+    id_type: Tax ID No.
+    id_number: '5012039795'
+    id_country: Russia
+  - uid: '143706'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '173849'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '115512'
+    id_type: Website
+    id_number: www.npomash.ru
+  - uid: '115510'
+    id_type: Email Address
+    id_number: export@npomash.ru
+  - uid: '115511'
+    id_type: Email Address
+    id_number: vpk@npomash.ru

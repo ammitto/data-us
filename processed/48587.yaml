@@ -1,0 +1,48 @@
+---
+uid: '48587'
+last_name: LIMITED LIABILITY COMPANY ULTRAN ELECTRONIC COMPONENTS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75531'
+    type: a.k.a.
+    category: strong
+    last_name: ULTRAN EK OOO
+  - uid: '75532'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU ULTRAN ELEKTRONNYE KOMPONENTY
+address_list:
+  items:
+  - uid: '72943'
+    address1: d. 22, litera L, pom. 1-N, kom. 8
+    address2: ul. Politekhnicheskaya
+    city: St. Petersburg
+    postal_code: '194021'
+    country: Russia
+id_list:
+  items:
+  - uid: '39538'
+    id_type: Business Registration Number
+    id_number: '1187847176330'
+    id_country: Russia
+  - uid: '39539'
+    id_type: Tax ID No.
+    id_number: '7802669110'
+    id_country: Russia
+  - uid: '39540'
+    id_type: Government Gazette Number
+    id_number: '29702993'
+    id_country: Russia
+  - uid: '171645'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '170860'
+    id_type: Organization Established Date
+    id_number: 20 Jun 2018
+  - uid: '170861'
+    id_type: Website
+    id_number: ultran.ru

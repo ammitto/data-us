@@ -1,0 +1,39 @@
+---
+uid: '8273'
+first_name: Chabaane Ben Mohamed
+last_name: TRABELSI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '7792'
+    address1: via Cuasso, n. 2
+    city: Porto Ceresio
+    state_or_province: Varese
+    country: Italy
+id_list:
+  items:
+  - uid: '3411'
+    id_type: Italian Fiscal Code
+    id_number: TRBCBN66E01Z352O
+  - uid: '4092'
+    id_type: Passport
+    id_number: L 945660
+    issue_date: 04 Dec 1998
+    expiration_date: 03 Dec 2001
+  - uid: '186223'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '2664'
+    date_of_birth: 01 May 1966
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '4433'
+    place_of_birth: Rainneen, Tunisia
+    main_entry: 'true'

@@ -1,0 +1,69 @@
+---
+uid: '16223'
+last_name: JAMIA TALEEM-UL-QURAN-WAL-HADITH MADRASSA
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '24414'
+    type: a.k.a.
+    category: strong
+    last_name: GANJ MADRASSA
+  - uid: '24415'
+    type: a.k.a.
+    category: strong
+    last_name: JAMIA MADRASSA DUR UL KORAN WASUNA
+  - uid: '24416'
+    type: a.k.a.
+    category: strong
+    last_name: MADRASA TALEEMUL QURAN WAL HADITH
+  - uid: '24417'
+    type: a.k.a.
+    category: strong
+    last_name: MADRASA TALEEMUL QURAN WAL SUNNAH
+  - uid: '24418'
+    type: a.k.a.
+    category: strong
+    last_name: TALALIM QURAN MADRASSA
+  - uid: '24419'
+    type: a.k.a.
+    category: strong
+    last_name: TALEEM UL-QURAN MADRASSA
+  - uid: '24420'
+    type: a.k.a.
+    category: strong
+    last_name: MAWIYA MADRASSA
+  - uid: '24421'
+    type: a.k.a.
+    category: strong
+    last_name: TASIN AL-QURAN ABU HAMZA
+  - uid: '24422'
+    type: a.k.a.
+    category: strong
+    last_name: MOW-YA MADRASSA
+  - uid: '24423'
+    type: a.k.a.
+    category: strong
+    last_name: GANJOO MADRASSA
+address_list:
+  items:
+  - uid: '24453'
+    address1: Gunj Gate, Phandu Road
+    city: Peshawar
+    country: Pakistan
+  - uid: '24454'
+    address1: Near the Baron Gate, Ganj area
+    city: Peshawar
+    country: Pakistan
+  - uid: '24455'
+    address1: Lahori and Yaka Tote Rd. at the intersection near the Ganj Gate
+    city: Peshawar
+    country: Pakistan
+id_list:
+  items:
+  - uid: '186716'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886

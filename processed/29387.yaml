@@ -1,0 +1,43 @@
+---
+uid: '29387'
+first_name: Pezhman
+last_name: RAHIMIAN
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '46175'
+    type: a.k.a.
+    category: strong
+    last_name: RAHIMIAN
+    first_name: Pejman
+address_list:
+  items:
+  - uid: '44442'
+    country: Iran
+id_list:
+  items:
+  - uid: '19589'
+    id_type: National ID No.
+    id_number: '1285917855'
+    id_country: Iran
+  - uid: '136217'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '136218'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '90388'
+    date_of_birth: 29 Aug 1977
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '36219'
+    place_of_birth: Esfahan, Esfahan Province, Iran
+    main_entry: 'true'
+remarks: "(Linked To: ATOMIC ENERGY ORGANIZATION OF IRAN)"

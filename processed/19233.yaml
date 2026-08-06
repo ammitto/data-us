@@ -1,0 +1,45 @@
+---
+uid: '19233'
+first_name: Javier
+last_name: LIRA SOTELO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '30288'
+    type: a.k.a.
+    category: weak
+    last_name: EL HANNIBAL
+  - uid: '30289'
+    type: a.k.a.
+    category: weak
+    last_name: EL CARNICERO
+address_list:
+  items:
+  - uid: '31370'
+    country: Mexico
+id_list:
+  items:
+  - uid: '11543'
+    id_type: C.U.R.P.
+    id_number: LISJ650716HDFRTV04
+    id_country: Mexico
+  - uid: '11544'
+    id_type: RFC
+    id_number: LISJ650716SD0
+    id_country: Mexico
+  - uid: '119811'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '18860'
+    date_of_birth: 16 Jul 1965
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '18862'
+    place_of_birth: Mexico City, D.F., Mexico
+    main_entry: 'true'

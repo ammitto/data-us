@@ -1,0 +1,33 @@
+---
+uid: '57795'
+first_name: Francesca Paola
+last_name: ALBANESE
+sdn_type: Individual
+program_list:
+  programs:
+  - ICC-EO14203
+address_list:
+  items:
+  - uid: '88655'
+    city: Tunis
+    country: Tunisia
+id_list:
+  items:
+  - uid: '52288'
+    id_type: Passport
+    id_number: YA4652441
+    id_country: Italy
+    expiration_date: '08 Jan 2024'
+  - uid: '198417'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '98415'
+    date_of_birth: 30 Mar 1977
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '98416'
+    place_of_birth: Ariano Irpino, Italy
+    main_entry: 'true'

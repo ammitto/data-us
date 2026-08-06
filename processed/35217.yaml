@@ -1,0 +1,38 @@
+---
+uid: '35217'
+first_name: Sergey Semyonovich
+last_name: SOBYANIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '55389'
+    type: a.k.a.
+    category: strong
+    last_name: SOBYANIN
+    first_name: Sergei
+address_list:
+  items:
+  - uid: '52907'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '147295'
+    id_type: Gender
+    id_number: Male
+  - uid: '175289'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '47293'
+    date_of_birth: 21 Jun 1958
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '47294'
+    place_of_birth: Nyaksimvol, Beryozovo District, Tyumen Oblast, Russia
+    main_entry: 'true'

@@ -1,0 +1,133 @@
+---
+uid: '25578'
+last_name: BANK MELLI IRAN
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - IRAN
+  - SDGT
+aka_list:
+  items:
+  - uid: '40205'
+    type: a.k.a.
+    category: strong
+    last_name: BANK MELLI
+  - uid: '40206'
+    type: a.k.a.
+    category: strong
+    last_name: MELLI BANK
+  - uid: '40207'
+    type: a.k.a.
+    category: strong
+    last_name: NATIONAL BANK OF IRAN
+  - uid: '40208'
+    type: a.k.a.
+    category: weak
+    last_name: BMI
+address_list:
+  items:
+  - uid: '38680'
+    address1: Ferdowsi Avenue - PO Box 11365-171
+    city: Tehran
+    country: Iran
+  - uid: '38681'
+    address1: 43 Avenue Montaigne
+    city: Paris
+    postal_code: '75008'
+    country: France
+  - uid: '38682'
+    address1: Room 704-6, Wheelock Hse, 20 Pedder St
+    country: Hong Kong
+  - uid: '38683'
+    address1: Bank Melli Iran Bldg, 111 St 24, 929 Arasat
+    city: Baghdad
+    country: Iraq
+  - uid: '38684'
+    address1: PO Box 2643, Ruwi, 112
+    city: Muscat
+    country: Oman
+  - uid: '38685'
+    address1: PO Box 2656, Liva Street
+    city: Abu Dhabi
+    country: United Arab Emirates
+  - uid: '38686'
+    address1: PO Box 248, Hamad Bin Abdulla St
+    city: Fujairah
+    country: United Arab Emirates
+  - uid: '38687'
+    address1: PO Box 1888, Clock Tower, Industrial Rd, Al Ain Club Bldg, Al Ain
+    city: Abu Dhabi
+    country: United Arab Emirates
+  - uid: '38688'
+    address1: PO Box 1894, Baniyas St, Deira
+    city: Dubai
+    country: United Arab Emirates
+  - uid: '38689'
+    address1: PO Box 5270, Oman Street Al Nakheel
+    city: Ras Al-Khaimah
+    country: United Arab Emirates
+  - uid: '38690'
+    address1: PO Box 459, Al Borj St
+    city: Sharjah
+    country: United Arab Emirates
+  - uid: '38691'
+    address1: PO Box 3093, Ahmed Seddiqui Bldg, Khalid Bin El-Walid St, Bur-Dubai
+    city: Dubai
+    country: United Arab Emirates
+  - uid: '38692'
+    address1: PO Box 1894, Al Wasl Rd, Jumeirah
+    city: Dubai
+    country: United Arab Emirates
+  - uid: '38693'
+    address1: Postfach 112 129, Holzbruecke 2, 20421
+    city: Hamburg
+    country: Germany
+  - uid: '38694'
+    address1: 23 Nobel Avenue
+    city: Baku
+    country: Azerbaijan
+  - uid: '38696'
+    address1: Bank Melli Iran Building, Ferdowsi Avenue
+    city: Tehran
+    postal_code: 11365-144
+    country: Iran
+  - uid: '38697'
+    address1: No. 136 Mirdamad Boulevard, Opposite Al-ghadir Mosque
+    city: Tehran
+    country: Iran
+  - uid: '38698'
+    address1: Al Ashar Estiqlal Street - Hal Al Zohor
+    city: Basra
+    country: Iraq
+  - uid: '38699'
+    address1: 98a Kensington High Street
+    city: London
+    postal_code: W8 4SG
+    country: United Kingdom
+  - uid: '38700'
+    address1: 767 5th Ave, 44th Fl
+    city: New York
+    state_or_province: NY
+    postal_code: '10153'
+    country: United States
+  - uid: '38701'
+    address1: PO Box 1420
+    city: New York
+    state_or_province: NY
+    postal_code: '10153'
+    country: United States
+id_list:
+  items:
+  - uid: '186806'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '129490'
+    id_type: Website
+    id_number: www.bmi.ir
+  - uid: '129489'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: 'All Offices Worldwide; (Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS (IRGC)-QODS
+  FORCE)'

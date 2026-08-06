@@ -1,0 +1,43 @@
+---
+uid: '48528'
+last_name: UNIFIED METALWORKING CENTER
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75431'
+    type: a.k.a.
+    category: strong
+    last_name: EDINYI TSENTR METALLOOBRABOTKI
+  - uid: '75432'
+    type: a.k.a.
+    category: weak
+    last_name: ETSM
+address_list:
+  items:
+  - uid: '72834'
+    address1: 11V Mikhailova St.
+    city: Saint Petersburg
+    postal_code: '195009'
+    country: Russia
+  - uid: '72835'
+    address1: Pr-Kt Engelsa D. 27, Lit. K, Pomeshch. 1-N
+    address2: Kom. 52
+    city: Saint Petersburg
+    postal_code: '194156'
+    country: Russia
+id_list:
+  items:
+  - uid: '39467'
+    id_type: Registration Number
+    id_number: '1167847190169'
+    id_country: Russia
+  - uid: '39468'
+    id_type: Tax ID No.
+    id_number: '7802574250'
+    id_country: Russia
+  - uid: '171250'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

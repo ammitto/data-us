@@ -1,0 +1,30 @@
+---
+uid: '41010'
+first_name: Igor Vladimirovich
+last_name: BORISOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '61260'
+    country: Russia
+id_list:
+  items:
+  - uid: '175359'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '158750'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '58749'
+    date_of_birth: 01 Jan 1962
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '58753'
+    place_of_birth: Altaiskoye village, Altai Region, Altai Territory, Russia
+    main_entry: 'true'

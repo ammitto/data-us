@@ -1,0 +1,41 @@
+---
+uid: '48656'
+last_name: MEZHDUNARODNYI KLUB OPTICHESKIKH INNOVATSII
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75677'
+    type: a.k.a.
+    category: weak
+    last_name: MKOI
+address_list:
+  items:
+  - uid: '73079'
+    address1: Ul. Novodmitrovskaya D. 2
+    address2: K. 2
+    address3: Et/Pom.4/XXIIIB
+    city: Moscow
+    postal_code: '127015'
+    country: Russia
+  - uid: '73080'
+    address1: Ul. Nizhnyaya D. 14.
+    address2: Str. 5
+    city: Moscow
+    state_or_province: '125040'
+    country: Russia
+id_list:
+  items:
+  - uid: '39648'
+    id_type: Registration Number
+    id_number: '1097746622775'
+    id_country: Russia
+  - uid: '39649'
+    id_type: Tax ID No.
+    id_number: '7715778105'
+    id_country: Russia
+  - uid: '171324'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

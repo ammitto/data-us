@@ -1,0 +1,39 @@
+---
+uid: '33619'
+first_name: Rodolfo Francisco
+last_name: LOPEZ GUTIERREZ
+sdn_type: Individual
+program_list:
+  programs:
+  - NICARAGUA
+address_list:
+  items:
+  - uid: '50396'
+    address1: 'Residencial El Dorado #125'
+    city: Managua
+    country: Nicaragua
+id_list:
+  items:
+  - uid: '23238'
+    id_type: Passport
+    id_number: C01190809
+    id_country: Nicaragua
+    issue_date: 02 Mar 2012
+    expiration_date: 02 Mar 2022
+  - uid: '23239'
+    id_type: National ID No.
+    id_number: 2410310530001B
+    id_country: Nicaragua
+  - uid: '144424'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '44425'
+    date_of_birth: 03 Oct 1953
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '44426'
+    place_of_birth: Jinotega, Nicaragua
+    main_entry: 'true'

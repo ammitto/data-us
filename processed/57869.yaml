@@ -1,0 +1,46 @@
+---
+uid: '57869'
+first_name: Bo
+last_name: CHEN
+sdn_type: Individual
+program_list:
+  programs:
+  - TCO
+address_list:
+  items:
+  - uid: '88786'
+    country: Cambodia
+id_list:
+  items:
+  - uid: '52381'
+    id_type: Passport
+    id_number: N00079594
+    id_country: Cambodia
+    issue_date: 01 Dec 2014
+    expiration_date: 01 Dec 2024
+  - uid: '52383'
+    id_type: Passport
+    id_number: RV051092
+    id_country: Vanuatu
+  - uid: '52385'
+    id_type: Passport
+    id_number: EB8938194
+    id_country: China
+  - uid: '52386'
+    id_type: Passport
+    id_number: MC492481
+    id_country: Burma
+  - uid: '198561'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '98560'
+    date_of_birth: 05 Sep 1982
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '98571'
+    place_of_birth: China
+    main_entry: 'true'
+remarks: "(Linked To: PRINCE GROUP TRANSNATIONAL CRIMINAL ORGANIZATION)"

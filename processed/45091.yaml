@@ -1,0 +1,33 @@
+---
+uid: '45091'
+last_name: LIMITED LIABILITY COMPANY INTERNATIONAL BUSINESS CORPORATION
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69880'
+    type: a.k.a.
+    category: weak
+    last_name: LLC IBC
+address_list:
+  items:
+  - uid: '67177'
+    address1: 27 Yartsevskaya St., Apt. 172, Room 1
+    city: Moscow
+    postal_code: '121552'
+    country: Russia
+id_list:
+  items:
+  - uid: '34838'
+    id_type: Registration Number
+    id_number: '1227700743940'
+    id_country: Russia
+  - uid: '34839'
+    id_type: Tax ID No.
+    id_number: '9731103375'
+    id_country: Russia
+  - uid: '175948'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,46 @@
+---
+uid: '44034'
+last_name: TAMBOVSKII POROKHOVOI ZAVOD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '68088'
+    type: a.k.a.
+    category: weak
+    last_name: TPZ
+  - uid: '68089'
+    type: a.k.a.
+    category: strong
+    last_name: TAMBOV GUNPOWDER PLANT
+  - uid: '68090'
+    type: a.k.a.
+    category: strong
+    last_name: TAMBOV POWDER PLANT
+address_list:
+  items:
+  - uid: '65540'
+    address1: PR-kt Truda D.23
+    city: Kotovsk
+    postal_code: '393190'
+    country: Russia
+id_list:
+  items:
+  - uid: '33427'
+    id_type: Registration ID
+    id_number: '1026801010994'
+    id_country: Russia
+  - uid: '33428'
+    id_type: Tax ID No.
+    id_number: '6825000757'
+    id_country: Russia
+  - uid: '175743'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184554'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

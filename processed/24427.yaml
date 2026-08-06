@@ -1,0 +1,81 @@
+---
+uid: '24427'
+first_name: Rafael Alfredo
+last_name: SARRIA DIAZ
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+aka_list:
+  items:
+  - uid: '38540'
+    type: a.k.a.
+    category: strong
+    last_name: SARRIA-DIAZ
+    first_name: Rafael A
+  - uid: '38541'
+    type: a.k.a.
+    category: strong
+    last_name: SARRIA
+    first_name: Rafael
+address_list:
+  items:
+  - uid: '36898'
+    state_or_province: Miranda
+    country: Venezuela
+  - uid: '36899'
+    address1: La Moraleja
+    city: Madrid
+    country: Spain
+  - uid: '36901'
+    address1: 5599 NW 23rd Ave
+    city: Boca Raton
+    state_or_province: FL
+    postal_code: '33496'
+    country: United States
+  - uid: '37112'
+    address1: 480 Park Avenue
+    address2: Apt. 10B
+    city: New York
+    state_or_province: NY
+    postal_code: '10022'
+    country: United States
+  - uid: '37131'
+    address1: Calle de la Pena Pintada, 11
+    city: Madrid
+    state_or_province: Comunidad de Madrid
+    postal_code: '28034'
+    country: Spain
+  - uid: '37133'
+    address1: Calle Los Malabares
+    address2: Quinta Anauco
+    address3: Valle Arriba
+    city: Caracas
+    state_or_province: Miranda
+    postal_code: '1080'
+    country: Venezuela
+id_list:
+  items:
+  - uid: '15584'
+    id_type: Cedula No.
+    id_number: '6974302'
+    id_country: Venezuela
+  - uid: '15585'
+    id_type: Passport
+    id_number: '114910699'
+    id_country: Venezuela
+    expiration_date: 02 Feb 2020
+  - uid: '15586'
+    id_type: Passport
+    id_number: F0018546
+    id_country: Venezuela
+    expiration_date: 02 Jul 2014
+  - uid: '126746'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '27424'
+    date_of_birth: 11 Nov 1965
+    main_entry: 'true'
+remarks: "(Linked To: CABELLO RONDON, Diosdado)"

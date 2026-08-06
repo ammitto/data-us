@@ -1,0 +1,37 @@
+---
+uid: '48922'
+first_name: Jose Gonzalo
+last_name: SANCHEZ SANCHEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '76215'
+    type: a.k.a.
+    category: weak
+    last_name: Gonzalito
+address_list:
+  items:
+  - uid: '73589'
+    country: Colombia
+id_list:
+  items:
+  - uid: '40006'
+    id_type: Cedula No.
+    id_number: '11002977'
+    id_country: Colombia
+  - uid: '171670'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '71668'
+    date_of_birth: 30 Dec 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '71669'
+    place_of_birth: Monteria, Cordoba, Colombia
+    main_entry: 'true'

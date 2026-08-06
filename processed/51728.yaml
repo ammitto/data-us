@@ -1,0 +1,48 @@
+---
+uid: '51728'
+last_name: NK BANK JOINT STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '81040'
+    type: a.k.a.
+    category: strong
+    last_name: NATSIONALNY KOSMICHESKI BANK
+address_list:
+  items:
+  - uid: '78826'
+    address1: Miusskaya Sq 2
+    city: Moscow
+    postal_code: '125047'
+    country: Russia
+id_list:
+  items:
+  - uid: '44308'
+    id_type: Global Intermediary Identification Number
+    id_number: EQCQ2M.99999.SL.643
+  - uid: '44309'
+    id_type: Legal Entity Number
+    id_number: 253400GTA5PKPW4J0X50
+  - uid: '44310'
+    id_type: Registration Number
+    id_number: '1027739028536'
+    id_country: Russia
+  - uid: '44311'
+    id_type: Tax ID No.
+    id_number: '7734205131'
+    id_country: Russia
+  - uid: '181838'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '181839'
+    id_type: SWIFT/BIC
+    id_number: NASPRUMM
+  - uid: '181840'
+    id_type: Website
+    id_number: www.nkbank.ru
+  - uid: '181837'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

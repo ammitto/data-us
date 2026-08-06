@@ -1,0 +1,59 @@
+---
+uid: '53994'
+first_name: Aleksandr Aleksandrovich
+last_name: VOLOSOVIK
+sdn_type: Individual
+program_list:
+  programs:
+  - CAATSA - RUSSIA
+  - CYBER4
+aka_list:
+  items:
+  - uid: '84080'
+    type: a.k.a.
+    category: weak
+    last_name: Yalishanda
+  - uid: '84082'
+    type: a.k.a.
+    category: weak
+    last_name: podzemniy1
+  - uid: '84083'
+    type: a.k.a.
+    category: weak
+    last_name: Ohyeahhellno
+address_list:
+  items:
+  - uid: '86393'
+    city: St. Petersburg
+    country: Russia
+id_list:
+  items:
+  - uid: '47426'
+    id_type: Passport
+    id_number: '762988138'
+    id_country: Russia
+    issue_date: 01 Apr 2020
+    expiration_date: 01 Apr 2030
+  - uid: '47429'
+    id_type: Tax ID No.
+    id_number: '253609232850'
+    id_country: Russia
+  - uid: '194799'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+  - uid: '194745'
+    id_type: Gender
+    id_number: Male
+  - uid: '194433'
+    id_type: Digital Currency Address - XBT
+    id_number: 18dLDAWi8LmrHbEq3QzDJb9SLxCf4uimXB
+date_of_birth_list:
+  items:
+  - uid: '89206'
+    date_of_birth: 30 Jan 1983
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '89207'
+    place_of_birth: USSR
+    main_entry: 'true'

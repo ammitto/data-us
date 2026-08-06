@@ -1,0 +1,33 @@
+---
+uid: '49213'
+last_name: ELEKTRORADIOAVTOMATIKA JSC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76728'
+    type: a.k.a.
+    category: weak
+    last_name: AO ERA
+address_list:
+  items:
+  - uid: '74093'
+    address1: Per. Grivtsova D.1/64
+    city: Saint Petersburg
+    postal_code: '190031'
+    country: Russia
+id_list:
+  items:
+  - uid: '40376'
+    id_type: Registration Number
+    id_number: '1027810260136'
+    id_country: Russia
+  - uid: '40379'
+    id_type: Tax ID No.
+    id_number: '7812018283'
+    id_country: Russia
+  - uid: '172178'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

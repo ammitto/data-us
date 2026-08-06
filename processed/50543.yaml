@@ -1,0 +1,41 @@
+---
+uid: '50543'
+last_name: INTEGRITY TECHNOLOGY GROUP, INCORPORATED
+sdn_type: Entity
+program_list:
+  programs:
+  - CYBER2
+aka_list:
+  items:
+  - uid: '79022'
+    type: a.k.a.
+    category: strong
+    last_name: BEIJING INTEGRITY TECHNOLOGY COMPANY, LIMITED
+  - uid: '79023'
+    type: a.k.a.
+    category: weak
+    last_name: YONGXIN ZHICHENG TECHNOLOGY GROUP COMPANY, LIMITED
+address_list:
+  items:
+  - uid: '76632'
+    address1: Room 103, Building 6, No. 9, Fenghao East Road, Haidian District
+    city: Beijing
+    country: China
+id_list:
+  items:
+  - uid: '42367'
+    id_type: Unified Social Credit Code (USCC)
+    id_number: 91110108562135265P
+    id_country: China
+  - uid: '178693'
+    id_type: Organization Established Date
+    id_number: 02 Sep 2010
+  - uid: '178694'
+    id_type: 'Organization Type:'
+    id_number: Computer programming activities
+  - uid: '178696'
+    id_type: Equity Ticker
+    id_number: 688244 CH
+  - uid: '178695'
+    id_type: Website
+    id_number: www.integritytech.com.cn

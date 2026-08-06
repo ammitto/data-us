@@ -1,0 +1,25 @@
+---
+uid: '37069'
+last_name: SAPFIR
+sdn_type: Vessel
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79090'
+    type: a.k.a.
+    category: strong
+    last_name: ETIM EMIN
+id_list:
+  items:
+  - uid: '26371'
+    id_type: Vessel Registration Identification
+    id_number: IMO 8700010
+  - uid: '42417'
+    id_type: MMSI
+    id_number: '273355400'
+  - uid: '174481'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: MG-FLOT LIMITED LIABILITY COMPANY)"

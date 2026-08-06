@@ -1,0 +1,34 @@
+---
+uid: '42008'
+last_name: MIKROSAN OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65293'
+    type: a.k.a.
+    category: weak
+    last_name: MICROSUN
+address_list:
+  items:
+  - uid: '62691'
+    address1: Pr-kt Krasnyi d. 54
+    address2: pom. 433
+    city: Novosibirsk
+    postal_code: '630000'
+    country: Russia
+id_list:
+  items:
+  - uid: '31420'
+    id_type: Registration Number
+    id_number: '1025403209182'
+    id_country: Russia
+  - uid: '31421'
+    id_type: Tax ID No.
+    id_number: '5407216683'
+    id_country: Russia
+  - uid: '173742'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

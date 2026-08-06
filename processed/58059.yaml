@@ -1,0 +1,30 @@
+---
+uid: '58059'
+last_name: MINISTRY OF TOURISM OF CUBA
+sdn_type: Entity
+program_list:
+  programs:
+  - CUBA-EO14404
+aka_list:
+  items:
+  - uid: '89799'
+    type: a.k.a.
+    category: weak
+    last_name: MINTUR
+  - uid: '89830'
+    type: a.k.a.
+    category: strong
+    last_name: MINISTERIO DE TURISMO DE CUBA
+address_list:
+  items:
+  - uid: '89158'
+    city: Havana
+    country: Cuba
+id_list:
+  items:
+  - uid: '199350'
+    id_type: Organization Established Date
+    id_number: 21 Apr 1994
+  - uid: '199351'
+    id_type: Target Type
+    id_number: Government Entity

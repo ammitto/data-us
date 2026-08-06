@@ -1,0 +1,60 @@
+---
+uid: '23252'
+first_name: Dan
+last_name: GERTLER
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+address_list:
+  items:
+  - uid: '35192'
+    address1: 17 Daniel Street
+    city: Bnei Brak
+    country: Israel
+  - uid: '35193'
+    address1: 28 Daniel Street
+    city: Bnei Brak
+    country: Israel
+  - uid: '35194'
+    address1: Avenue Tchatchi 29
+    city: Gombe
+    state_or_province: Kinshasa
+    country: Congo, Democratic Republic of the
+id_list:
+  items:
+  - uid: '14732'
+    id_type: Passport
+    id_number: '10945182'
+    id_country: Israel
+    issue_date: 28 Jun 2010
+    expiration_date: 27 Jun 2020
+  - uid: '14733'
+    id_type: Passport
+    id_number: '10926248'
+    id_country: Israel
+    issue_date: 25 Feb 2008
+    expiration_date: 27 Feb 2018
+  - uid: '14734'
+    id_type: Passport
+    id_number: DB0009084
+    id_country: Congo, Democratic Republic of the
+    issue_date: 28 May 2015
+    expiration_date: 27 May 2020
+  - uid: '14816'
+    id_type: National ID No.
+    id_number: '027100619'
+    id_country: Israel
+  - uid: '125047'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '24956'
+    date_of_birth: 23 Dec 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '24957'
+    place_of_birth: Tel Aviv, Israel
+    main_entry: 'true'

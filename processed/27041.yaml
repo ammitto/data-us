@@ -1,0 +1,28 @@
+---
+uid: '27041'
+first_name: Rafael Ramon
+last_name: BLANCO MARRERO
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+address_list:
+  items:
+  - uid: '41103'
+    city: Caracas
+    state_or_province: Capital District
+    country: Venezuela
+id_list:
+  items:
+  - uid: '17677'
+    id_type: Cedula No.
+    id_number: '6250588'
+    id_country: Venezuela
+  - uid: '131983'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '31984'
+    date_of_birth: 28 Feb 1968
+    main_entry: 'true'

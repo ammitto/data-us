@@ -1,0 +1,61 @@
+---
+uid: '26745'
+first_name: Wael
+last_name: BAZZI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '42258'
+    type: a.k.a.
+    category: strong
+    last_name: BAZZI
+    first_name: Wa'el
+  - uid: '42261'
+    type: a.k.a.
+    category: strong
+    last_name: BAZZI
+    first_name: Wa'il Muhammad
+address_list:
+  items:
+  - uid: '40562'
+    address1: Eglantierlaan 15
+    city: Antwerpen
+    postal_code: '2020'
+    country: Belgium
+id_list:
+  items:
+  - uid: '17394'
+    id_type: National ID No.
+    id_number: '89103150321'
+  - uid: '17395'
+    id_type: Passport
+    id_number: EN312261
+    id_country: Belgium
+  - uid: '186888'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '131490'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
+      Sanctions Regulations
+  - uid: '131486'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '31487'
+    date_of_birth: 01 Oct 1989 to 31 Oct 1989
+    main_entry: 'true'
+  - uid: '31488'
+    date_of_birth: 31 Oct 1989
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '31485'
+    place_of_birth: Freetown, Sierra Leone
+    main_entry: 'true'
+remarks: "(Linked To: BAZZI, Mohammad Ibrahim)"

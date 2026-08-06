@@ -1,0 +1,34 @@
+---
+uid: '52568'
+last_name: JOINT STOCK COMPANY NEW SPACE CORPORATION
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '82274'
+    type: a.k.a.
+    category: weak
+    last_name: NEW SPACE CORP
+address_list:
+  items:
+  - uid: '80284'
+    address1: d. 12 etazh 77 kom. 2.3 OFIS 14
+    address2: naberezhnaya Presnenskaya
+    city: Moscow
+    postal_code: '123112'
+    country: Russia
+id_list:
+  items:
+  - uid: '45589'
+    id_type: Tax ID No.
+    id_number: '9703055602'
+    id_country: Russia
+  - uid: '45590'
+    id_type: Registration Number
+    id_number: '1217700511324'
+    id_country: Russia
+  - uid: '184254'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

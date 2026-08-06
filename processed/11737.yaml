@@ -1,0 +1,56 @@
+---
+uid: '11737'
+first_name: Abshir
+last_name: ABDILLAHI
+sdn_type: Individual
+program_list:
+  programs:
+  - SOMALIA
+aka_list:
+  items:
+  - uid: '12435'
+    type: a.k.a.
+    category: weak
+    last_name: BOYAH
+  - uid: '12436'
+    type: a.k.a.
+    category: strong
+    last_name: ABDULLAHI
+    first_name: Abshir
+  - uid: '12437'
+    type: a.k.a.
+    category: strong
+    last_name: BOYAH
+    first_name: Abshir
+  - uid: '12438'
+    type: a.k.a.
+    category: strong
+    last_name: ABDULI
+    first_name: Aburashid Abdulahi
+  - uid: '12439'
+    type: a.k.a.
+    category: strong
+    last_name: ABDULAHI
+    first_name: Asad
+  - uid: '12440'
+    type: a.k.a.
+    category: weak
+    last_name: BOOYAH
+address_list:
+  items:
+  - uid: '17731'
+    city: Eyl
+    country: Somalia
+  - uid: '17732'
+    city: Garowe
+    country: Somalia
+date_of_birth_list:
+  items:
+  - uid: '7236'
+    date_of_birth: circa 1966
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '7237'
+    place_of_birth: Eyl, Somalia
+    main_entry: 'true'

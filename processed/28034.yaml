@@ -1,0 +1,46 @@
+---
+uid: '28034'
+first_name: John Top
+last_name: LAM
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '44372'
+    type: a.k.a.
+    category: strong
+    last_name: TUT
+    first_name: John Top Lam
+address_list:
+  items:
+  - uid: '42612'
+    city: Nairobi
+    postal_code: 248-00100
+    country: Kenya
+id_list:
+  items:
+  - uid: '18634'
+    id_type: National ID No.
+    id_number: '000119903'
+    id_country: South Sudan
+  - uid: '18635'
+    id_type: Passport
+    id_number: R00339720
+    id_country: South Sudan
+    issue_date: 21 Mar 2016
+    expiration_date: 21 Mar 2021
+  - uid: '133554'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '33555'
+    date_of_birth: 12 Sep 1979
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '33556'
+    place_of_birth: Ayod, South Sudan
+    main_entry: 'true'

@@ -1,0 +1,30 @@
+---
+uid: '58208'
+last_name: CENTRO DE INVESTIGACIONES DEL PETROLEO S.A.
+sdn_type: Entity
+program_list:
+  programs:
+  - CUBA-EO14404
+aka_list:
+  items:
+  - uid: '90019'
+    type: a.k.a.
+    category: weak
+    last_name: CEINPET
+address_list:
+  items:
+  - uid: '89423'
+    city: Cerro
+    country: Cuba
+id_list:
+  items:
+  - uid: '52833'
+    id_type: Entity Code
+    id_number: '14774'
+    id_country: Cuba
+  - uid: '199834'
+    id_type: Organization Established Date
+    id_number: 02 Jun 2020
+  - uid: '199835'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

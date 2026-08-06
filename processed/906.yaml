@@ -1,0 +1,43 @@
+---
+uid: '906'
+last_name: HAVIN BANK LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - CUBA
+aka_list:
+  items:
+  - uid: '46100'
+    type: a.k.a.
+    category: strong
+    last_name: HAVANA INTERNATIONAL BANK, LTD
+address_list:
+  items:
+  - uid: '44386'
+    address1: 4th Floor
+    address2: 189 Marsh Wall
+    city: London
+    postal_code: E14 9SH
+    country: United Kingdom
+  - uid: '44387'
+    address1: Edificio Atlantic, Oficina 4 H
+    address2: Calle D No. 8 entre 1ra. y 3ra.
+    address3: Vedado, Plaza de la Revolucion
+    city: Havana
+    postal_code: '10400'
+    country: Cuba
+id_list:
+  items:
+  - uid: '19525'
+    id_type: Company Number
+    id_number: '01074897'
+    id_country: United Kingdom
+  - uid: '136109'
+    id_type: SWIFT/BIC
+    id_number: HAVIGB2L
+  - uid: '136110'
+    id_type: Website
+    id_number: www.havanaintbank.co.uk
+  - uid: '136111'
+    id_type: Website
+    id_number: www.hib.uk.com

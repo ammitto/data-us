@@ -1,0 +1,45 @@
+---
+uid: '35879'
+last_name: JOINT STOCK COMPANY SMOLENSK AIRCRAFT PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56390'
+    type: a.k.a.
+    category: strong
+    last_name: SMOLENSK AIRCRAFT PLANT JSC
+  - uid: '56391'
+    type: a.k.a.
+    category: strong
+    last_name: JSC SMOLENSK AVIATION PLANT
+  - uid: '56393'
+    type: a.k.a.
+    category: weak
+    last_name: AO SMAZ
+address_list:
+  items:
+  - uid: '53839'
+    address1: Ul. Frunze D. 74
+    city: Smolensk
+    postal_code: '214006'
+    country: Russia
+id_list:
+  items:
+  - uid: '25211'
+    id_type: Registration Number
+    id_number: '1026701424056'
+    id_country: Russia
+  - uid: '25212'
+    id_type: Tax ID No.
+    id_number: '6729001476'
+    id_country: Russia
+  - uid: '149071'
+    id_type: Organization Established Date
+    id_number: '1926'
+  - uid: '173274'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: TACTICAL MISSILES CORPORATION JSC)"

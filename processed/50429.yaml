@@ -1,0 +1,33 @@
+---
+uid: '50429'
+first_name: KIRILL VIKTOROVICH
+last_name: MARKIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '76470'
+    country: Russia
+id_list:
+  items:
+  - uid: '42222'
+    id_type: Tax ID No.
+    id_number: '771385560380'
+    id_country: Russia
+  - uid: '42224'
+    id_type: Passport
+    id_number: '4510076072'
+    id_country: Russia
+  - uid: '178414'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '178413'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '78411'
+    date_of_birth: 14 Mar 1988
+    main_entry: 'true'

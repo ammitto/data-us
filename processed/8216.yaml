@@ -1,0 +1,41 @@
+---
+uid: '8216'
+first_name: Tarik Nasser S.
+last_name: AL OBAIDI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAQ2
+aka_list:
+  items:
+  - uid: '6332'
+    type: a.k.a.
+    category: strong
+    last_name: AL-'UBAYDI
+    first_name: Tarik
+  - uid: '6333'
+    type: a.k.a.
+    category: strong
+    last_name: AL-'UBAYDI
+    first_name: Tariq
+address_list:
+  items:
+  - uid: '7530'
+    city: Baghdad
+    country: Iraq
+id_list:
+  items:
+  - uid: '2276'
+    id_type: Passport
+    id_number: '212331'
+    id_country: Iraq
+date_of_birth_list:
+  items:
+  - uid: '2594'
+    date_of_birth: '1945'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '2595'
+    place_of_birth: Baghdad, Iraq
+    main_entry: 'true'

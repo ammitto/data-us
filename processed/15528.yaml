@@ -1,0 +1,40 @@
+---
+uid: '15528'
+first_name: Diego
+last_name: PEREZ HENAO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '22930'
+    type: a.k.a.
+    category: strong
+    last_name: VILLEGAS GOMEZ
+    first_name: Diego
+  - uid: '22931'
+    type: a.k.a.
+    category: weak
+    last_name: DIEGO RASTROJO
+id_list:
+  items:
+  - uid: '8329'
+    id_type: Cedula No.
+    id_number: '94369359'
+    id_country: Colombia
+  - uid: '8330'
+    id_type: Passport
+    id_number: AI729787
+    id_country: Colombia
+date_of_birth_list:
+  items:
+  - uid: '12658'
+    date_of_birth: 07 Apr 1971
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '12659'
+    place_of_birth: Bolivar, Valle de Cauca, Colombia
+    main_entry: 'true'
+remarks: "(Linked To: LOS RASTROJOS)"

@@ -1,0 +1,42 @@
+---
+uid: '26326'
+last_name: L-INMO, SOCIEDAD ANONIMA DE CAPITAL VARIABLE
+sdn_type: Entity
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '41477'
+    type: a.k.a.
+    category: strong
+    last_name: L. INMO INMOBILIARIA
+  - uid: '42292'
+    type: a.k.a.
+    category: strong
+    last_name: L-INMO, S.A. DE C.V.
+address_list:
+  items:
+  - uid: '39919'
+    city: Distrito Federal
+    country: Mexico
+  - uid: '39920'
+    address1: Carretera Tepic-Aguamilpa Sin Numero
+    address2: Fraccion de la Parcela 75 Z-2 P1/1 del ejido de La Cantera
+    address3: clave catastral 1-7-D21-D3-6215
+    city: Tepic
+    state_or_province: Nayarit
+    country: Mexico
+  - uid: '39921'
+    address1: Carretera Tepic-Aguamilpa Sin Numero
+    address2: Fraccion de la Parcela 75 Z-2 P1/1 del ejido de La Cantera
+    address3: clave catastral 1-7-D21-D3-6218
+    city: Tepic
+    state_or_province: Nayarit
+    country: Mexico
+id_list:
+  items:
+  - uid: '16997'
+    id_type: R.F.C.
+    id_number: LIN1412111Q0
+    id_country: Mexico

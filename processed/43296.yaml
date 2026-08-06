@@ -1,0 +1,47 @@
+---
+uid: '43296'
+first_name: Vadim Viktorovich
+last_name: ILMIYEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '67147'
+    type: a.k.a.
+    category: strong
+    last_name: ILMIEV
+    first_name: Vadim Viktorovich
+  - uid: '67148'
+    type: a.k.a.
+    category: strong
+    last_name: ILMIIEV
+    first_name: Vadym
+address_list:
+  items:
+  - uid: '64644'
+    state_or_province: Kherson Region
+    country: Ukraine
+id_list:
+  items:
+  - uid: '32876'
+    id_type: Tax ID No.
+    id_number: '2433321334'
+    id_country: Ukraine
+  - uid: '162529'
+    id_type: Gender
+    id_number: Male
+  - uid: '175705'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '62527'
+    date_of_birth: 15 Aug 1966
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '62528'
+    place_of_birth: Samarkand, Uzbekistan
+    main_entry: 'true'

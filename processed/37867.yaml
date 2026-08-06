@@ -1,0 +1,53 @@
+---
+uid: '37867'
+first_name: Sergey Anatolyevich
+last_name: TSYB
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59519'
+    type: a.k.a.
+    category: strong
+    last_name: TSYB
+    first_name: Sergei Anatolyevich
+  - uid: '59520'
+    type: a.k.a.
+    category: strong
+    last_name: TSYB
+    first_name: Sergej Anatol'evich
+address_list:
+  items:
+  - uid: '56758'
+    address1: Chapaevsky Per 3-902
+    city: Moscow
+    postal_code: '125057'
+    country: Russia
+id_list:
+  items:
+  - uid: '27171'
+    id_type: Tax ID No.
+    id_number: '771479226905'
+    id_country: Russia
+  - uid: '27172'
+    id_type: Passport
+    id_number: '120008377'
+    id_country: Russia
+  - uid: '174611'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '153050'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '53049'
+    date_of_birth: 29 Apr 1968
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '53052'
+    place_of_birth: Obninsk, Russia
+    main_entry: 'true'

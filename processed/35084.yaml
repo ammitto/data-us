@@ -1,0 +1,43 @@
+---
+uid: '35084'
+first_name: Nikolay Petrovich
+last_name: TOKAREV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '55201'
+    type: a.k.a.
+    category: strong
+    last_name: TOKAREV
+    first_name: Nikolay
+  - uid: '55202'
+    type: a.k.a.
+    category: strong
+    last_name: TOKAREV
+    first_name: Nikolai
+address_list:
+  items:
+  - uid: '52688'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '175270'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '146991'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '46990'
+    date_of_birth: 20 Dec 1950
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '46989'
+    place_of_birth: Karaganda, Kazakhstan
+    main_entry: 'true'

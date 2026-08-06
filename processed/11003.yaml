@@ -1,0 +1,56 @@
+---
+uid: '11003'
+last_name: INMOBILIARIA GAXIOLA HERMANOS S.A. DE C.V.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '11415'
+    type: f.k.a.
+    category: strong
+    last_name: DISTRIBUIDORA DE MUEBLES GAXIOLA HERMANOS
+  - uid: '11416'
+    type: a.k.a.
+    category: strong
+    last_name: INMOBILIARIA GAXIOLA
+address_list:
+  items:
+  - uid: '15912'
+    address1: Blvd. Francisco Eusebio km. 177-7, Col. 5 de Mayo
+    city: Hermosillo
+    state_or_province: Sonora
+    postal_code: '83010'
+    country: Mexico
+  - uid: '15913'
+    address1: Blvd. L Encinas numero 581-A, Esquina Truqui, Colonia Pimentel
+    city: Hermosillo
+    state_or_province: Sonora
+    country: Mexico
+  - uid: '15914'
+    address1: Michoacan 404 Inter. 11, Colonia Cerrada Paraiso
+    city: Hermosillo
+    state_or_province: Sonora
+    postal_code: '83170'
+    country: Mexico
+  - uid: '15915'
+    address1: Blvd. Jose Maria Morelos s/n y Ave 13 Col Colinas del Bachoco
+    city: Hermosilo
+    state_or_province: Sonora
+    postal_code: '83000'
+    country: Mexico
+  - uid: '15916'
+    city: Guadalajara
+    state_or_province: Jalisco
+    country: Mexico
+id_list:
+  items:
+  - uid: '5466'
+    id_type: R.F.C.
+    id_number: IGH910522UM3
+    id_country: Mexico
+  - uid: '5467'
+    id_type: R.F.C.
+    id_number: DMG910522
+    id_country: Mexico

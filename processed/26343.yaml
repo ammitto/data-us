@@ -1,0 +1,27 @@
+---
+uid: '26343'
+last_name: FLIGHT TRAVEL LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - SDGT
+address_list:
+  items:
+  - uid: '39933'
+    address1: 50 Nalbandyan Street
+    city: Yerevan
+    country: Armenia
+id_list:
+  items:
+  - uid: '130745'
+    id_type: Email Address
+    id_number: flighttravelevn@gmail.com
+  - uid: '130755'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '186847'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: "(Linked To: MAHAN AIR)"

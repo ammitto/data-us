@@ -1,0 +1,44 @@
+---
+uid: '50267'
+first_name: Sergei Ivanovich
+last_name: SHKLIANIK
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78507'
+    type: a.k.a.
+    category: strong
+    last_name: SHKLYANIK
+    first_name: Sergey
+address_list:
+  items:
+  - uid: '76123'
+    address1: 28-100 Grokholyskiy Ln.
+    city: Moscow
+    postal_code: '129010'
+    country: Russia
+id_list:
+  items:
+  - uid: '41946'
+    id_type: Tax ID No.
+    id_number: '770804439659'
+    id_country: Russia
+  - uid: '178501'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '177964'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '77960'
+    date_of_birth: 04 May 1956
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '77961'
+    place_of_birth: Savichi, Belarus
+    main_entry: 'true'

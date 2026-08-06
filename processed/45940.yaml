@@ -1,0 +1,34 @@
+---
+uid: '45940'
+last_name: LIMITED LIABILITY COMPANY SPUTNIK SPETSPOSTAVKA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70986'
+    type: a.k.a.
+    category: strong
+    last_name: LLC SPUTNIK SP
+address_list:
+  items:
+  - uid: '68367'
+    address1: 12 Gavanskaya St.
+    address2: Room 2B, Suite 5N, Office 2
+    city: Saint Petersburg
+    postal_code: '199106'
+    country: Russia
+id_list:
+  items:
+  - uid: '35697'
+    id_type: Registration Number
+    id_number: '1207800172216'
+    id_country: Russia
+  - uid: '35698'
+    id_type: Tax ID No.
+    id_number: '7801692370'
+    id_country: Russia
+  - uid: '174822'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

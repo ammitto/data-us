@@ -1,0 +1,32 @@
+---
+uid: '13134'
+last_name: KARAFARIN BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '14781'
+    type: a.k.a.
+    category: strong
+    last_name: BANK-E KARAFARIN
+address_list:
+  items:
+  - uid: '20995'
+    address1: Zafar St. No. 315
+    address2: Between Vali Asr and Jordan
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '111713'
+    id_type: SWIFT/BIC
+    id_number: KBIDIRTH
+  - uid: '137337'
+    id_type: Website
+    id_number: www.karafarinbank.com
+  - uid: '137298'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

@@ -1,0 +1,38 @@
+---
+uid: '43916'
+first_name: Younes
+last_name: EL BALLOUTI
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '67947'
+    type: a.k.a.
+    category: weak
+    last_name: EL MAGICO
+address_list:
+  items:
+  - uid: '65404'
+    city: Dubai
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '33336'
+    id_type: National ID No.
+    id_number: 95.01.04-133.03
+    id_country: Belgium
+  - uid: '163530'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '63527'
+    date_of_birth: 04 Jan 1995
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '63528'
+    place_of_birth: Antwerp, Belgium
+    main_entry: 'true'

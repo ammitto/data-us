@@ -1,0 +1,49 @@
+---
+uid: '40401'
+first_name: Lu'ay Jasim Hammadi
+last_name: AL-JUBURI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '62797'
+    type: a.k.a.
+    category: strong
+    last_name: HAMMADI
+    first_name: Lu'ay Jasim
+  - uid: '62798'
+    type: a.k.a.
+    category: weak
+    last_name: Hajji Lu'ay
+  - uid: '62799'
+    type: a.k.a.
+    category: strong
+    last_name: AL-JUBURI
+    first_name: Lu'ay Jasim Hammadi Mahdi
+address_list:
+  items:
+  - uid: '60214'
+    city: Mersin
+    country: Turkey
+id_list:
+  items:
+  - uid: '157548'
+    id_type: Gender
+    id_number: Male
+  - uid: '157544'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '57545'
+    date_of_birth: 06 Oct 1970
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '57546'
+    place_of_birth: Baghdad, Iraq
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC STATE OF IRAQ AND THE LEVANT)"

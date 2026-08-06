@@ -1,0 +1,39 @@
+---
+uid: '50672'
+first_name: Mustafa
+last_name: BAZVAND
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+  - IRGC
+aka_list:
+  items:
+  - uid: '79280'
+    type: a.k.a.
+    category: strong
+    last_name: BAZVAND
+    first_name: Mostafa
+address_list:
+  items:
+  - uid: '76832'
+    country: Iran
+id_list:
+  items:
+  - uid: '179292'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '179123'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '79125'
+    date_of_birth: 21 Sep 1988
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '79124'
+    place_of_birth: Rumeshkan, Lorestan Province, Iran
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS)"

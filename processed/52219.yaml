@@ -1,0 +1,33 @@
+---
+uid: '52219'
+last_name: LIMITED LIABILITY COMPANY FIRST LOGISTICS COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '81775'
+    type: a.k.a.
+    category: weak
+    last_name: LLC PLK
+address_list:
+  items:
+  - uid: '79735'
+    address1: d.20 k. 4 pom. 31, ul, Rechnaya
+    city: Krasnogorsk
+    postal_code: '143403'
+    country: Russia
+id_list:
+  items:
+  - uid: '45145'
+    id_type: Registration Number
+    id_number: '1235000128340'
+    id_country: Russia
+  - uid: '45146'
+    id_type: Tax ID No.
+    id_number: '5024237311'
+    id_country: Russia
+  - uid: '183159'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,41 @@
+---
+uid: '43072'
+last_name: SC TULA RUBBER TECHNICAL ARTICLES PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '66697'
+    type: a.k.a.
+    category: strong
+    last_name: JSC TULSKY FACTORY RTI
+  - uid: '66698'
+    type: a.k.a.
+    category: strong
+    last_name: TULA INDUSTRIAL RUBBER PRODUCTS PLANT
+address_list:
+  items:
+  - uid: '64221'
+    address1: 15 Smidovich Str.
+    city: Tula
+    state_or_province: Tula Region
+    postal_code: '300026'
+    country: Russia
+id_list:
+  items:
+  - uid: '32647'
+    id_type: Tax ID No.
+    id_number: '7104001869'
+    id_country: Russia
+  - uid: '32648'
+    id_type: Registration Number
+    id_number: '1027100592090'
+    id_country: Russia
+  - uid: '175510'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '161985'
+    id_type: Organization Established Date
+    id_number: 18 Mar 1993

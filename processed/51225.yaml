@@ -1,0 +1,36 @@
+---
+uid: '51225'
+last_name: ROSATOM MICROELECTRONICS JOINT STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80307'
+    type: a.k.a.
+    category: weak
+    last_name: RAM JSC
+address_list:
+  items:
+  - uid: '77922'
+    address1: ul. Raspletina, 5 str. 1
+    city: Moscow
+    postal_code: '123060'
+    country: Russia
+id_list:
+  items:
+  - uid: '43410'
+    id_type: Registration Number
+    id_number: '5067746792779'
+    id_country: Russia
+  - uid: '43411'
+    id_type: Tax ID No.
+    id_number: '7721566412'
+    id_country: Russia
+  - uid: '180354'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '180353'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

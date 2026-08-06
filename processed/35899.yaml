@@ -1,0 +1,38 @@
+---
+uid: '35899'
+last_name: LIMITED LIABILITY COMPANY KAPO-AVTOTRANS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56461'
+    type: a.k.a.
+    category: strong
+    last_name: KAPO-AVTOTRANS OOO
+  - uid: '56462'
+    type: a.k.a.
+    category: strong
+    last_name: PSK AVIASTROI
+address_list:
+  items:
+  - uid: '53882'
+    address1: ul Dementyeva d 2B
+    city: Kazan
+    postal_code: '420127'
+    country: Russia
+id_list:
+  items:
+  - uid: '25253'
+    id_type: Tax ID No.
+    id_number: '1661022799'
+    id_country: Russia
+  - uid: '25254'
+    id_type: Registration Number
+    id_number: '1081690078700'
+    id_country: Russia
+  - uid: '173294'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: TUPOLEV PUBLIC JOINT STOCK COMPANY)"

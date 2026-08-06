@@ -1,0 +1,41 @@
+---
+uid: '56293'
+first_name: Batoul
+last_name: SHAFIEI
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+address_list:
+  items:
+  - uid: '86134'
+    country: Iran
+id_list:
+  items:
+  - uid: '50307'
+    id_type: Passport
+    id_number: B59952372
+    id_country: Iran
+    expiration_date: 26 Sep 2027
+  - uid: '50308'
+    id_type: National ID No.
+    id_number: '1289224586'
+    id_country: Iran
+  - uid: '194398'
+    id_type: Gender
+    id_number: Female
+  - uid: '194402'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '94400'
+    date_of_birth: 28 Mar 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '94401'
+    place_of_birth: Isfahan, Iran
+    main_entry: 'true'
+remarks: "(Linked To: IRAN AIRCRAFT MANUFACTURING INDUSTRIAL COMPANY)"

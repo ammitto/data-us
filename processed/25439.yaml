@@ -1,0 +1,49 @@
+---
+uid: '25439'
+last_name: VALFAJR SHIPPING COMPANY PJS
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN
+aka_list:
+  items:
+  - uid: '40013'
+    type: a.k.a.
+    category: strong
+    last_name: VALFAJR SHIPPING CO.
+  - uid: '40014'
+    type: a.k.a.
+    category: strong
+    last_name: VALFAJR 8 SHIPPING CO.
+  - uid: '40015'
+    type: a.k.a.
+    category: strong
+    last_name: VALFAJR SHIPPING LINES
+address_list:
+  items:
+  - uid: '38485'
+    address1: Corner of Shabnam Alley 119
+    city: Tehran
+    country: Iran
+  - uid: '38486'
+    address1: No 101, Ghaem Magham Farhani Street
+    city: Tehran
+    country: Iran
+  - uid: '39016'
+    address1: No. 11, Abshar Alley, Corner of Azodi Street
+    address2: PO Box 15875-4155
+    city: Tehran
+    postal_code: '1581674347'
+    country: Iran
+  - uid: '39017'
+    address1: Valfajr Blvd
+    city: Bushehr
+    country: Iran
+id_list:
+  items:
+  - uid: '129039'
+    id_type: Website
+    id_number: www.valfajr.ir
+  - uid: '129038'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

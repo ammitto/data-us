@@ -1,0 +1,49 @@
+---
+uid: '54662'
+first_name: Martha Emilia
+last_name: CONDE URAGA
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+aka_list:
+  items:
+  - uid: '85053'
+    type: a.k.a.
+    category: weak
+    last_name: Martita
+address_list:
+  items:
+  - uid: '83472'
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+id_list:
+  items:
+  - uid: '48346'
+    id_type: R.F.C.
+    id_number: COUM620809KI9
+    id_country: Mexico
+  - uid: '48347'
+    id_type: C.U.R.P.
+    id_number: COUM620809MSLNRR08
+    id_country: Mexico
+  - uid: '193917'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '190889'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '90886'
+    date_of_birth: '09 Aug 1962'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '90887'
+    place_of_birth: Sinaloa, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: SINALOA CARTEL)"

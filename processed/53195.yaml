@@ -1,0 +1,67 @@
+---
+uid: '53195'
+first_name: Fatimah 'Abdallah
+last_name: AYYUB
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '83140'
+    type: a.k.a.
+    category: strong
+    last_name: AYOUB
+    first_name: Fatima Abdallah
+  - uid: '83141'
+    type: a.k.a.
+    category: strong
+    last_name: AYYOUB
+    first_name: Fatima Abdalla
+address_list:
+  items:
+  - uid: '81152'
+    address1: Second Floor
+    address2: Hana Building
+    address3: Mehaniyya Street
+    city: Harat Hreik
+    country: Lebanon
+  - uid: '81153'
+    address1: Knisseh Street, Hijazi Et Issa Building
+    city: Harat Hreik
+    country: Lebanon
+id_list:
+  items:
+  - uid: '46306'
+    id_type: National ID No.
+    id_number: '3578548'
+    id_country: Lebanon
+  - uid: '46307'
+    id_type: Passport
+    id_number: RL2398766
+    id_country: Lebanon
+  - uid: '185531'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '185528'
+    id_type: Gender
+    id_number: Female
+  - uid: '185575'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
+      Sanctions Regulations
+date_of_birth_list:
+  items:
+  - uid: '85526'
+    date_of_birth: 13 Jul 1983
+    main_entry: 'true'
+  - uid: '85530'
+    date_of_birth: 28 Apr 1989
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '85527'
+    place_of_birth: Baalbek, Lebanon
+    main_entry: 'true'
+remarks: "(Linked To: HIZBALLAH)"

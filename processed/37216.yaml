@@ -1,0 +1,41 @@
+---
+uid: '37216'
+first_name: Juan Carlos
+last_name: MORGAN HUERTA
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '58347'
+    type: a.k.a.
+    category: weak
+    last_name: Cacayo
+address_list:
+  items:
+  - uid: '55664'
+    address1: Campillo 86, Piso 2, Loc. 214
+    city: Nogales
+    state_or_province: Sonora
+    postal_code: '84030'
+    country: Mexico
+id_list:
+  items:
+  - uid: '26516'
+    id_type: C.U.R.P.
+    id_number: MOHJ740925HSRRRN00
+    id_country: Mexico
+  - uid: '151710'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '51707'
+    date_of_birth: 25 Sep 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '51708'
+    place_of_birth: Sonora, Mexico
+    main_entry: 'true'

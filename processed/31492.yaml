@@ -1,0 +1,30 @@
+---
+uid: '31492'
+first_name: Junzheng
+last_name: WANG
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+address_list:
+  items:
+  - uid: '47526'
+    city: Urumqi
+    state_or_province: Xinjiang
+    country: China
+id_list:
+  items:
+  - uid: '140002'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '40000'
+    date_of_birth: May 1963
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '40001'
+    place_of_birth: Linyi City, Shandong Province, China
+    main_entry: 'true'
+remarks: "(Linked To: XINJIANG PRODUCTION AND CONSTRUCTION CORPS)"

@@ -1,0 +1,41 @@
+---
+uid: '46703'
+first_name: Aleksandr Vladimirovich
+last_name: PAN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '72104'
+    type: a.k.a.
+    category: strong
+    last_name: PAN
+    first_name: Alexander Vladimirovich
+address_list:
+  items:
+  - uid: '69569'
+    country: Russia
+id_list:
+  items:
+  - uid: '36752'
+    id_type: Tax ID No.
+    id_number: '772146760809'
+    id_country: Russia
+  - uid: '175088'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '167513'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '67510'
+    date_of_birth: 15 Mar 1976
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '67511'
+    place_of_birth: Semipalatinsk, Russia
+    main_entry: 'true'

@@ -1,0 +1,33 @@
+---
+uid: '50905'
+last_name: GIGANT COMPUTER SYSTEMS LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79737'
+    type: a.k.a.
+    category: weak
+    last_name: GCS LLC
+address_list:
+  items:
+  - uid: '77303'
+    address1: Ul. 2-YA Entuziastov D. 5, Korp. 41
+    city: Moscow
+    postal_code: '111024'
+    country: Russia
+id_list:
+  items:
+  - uid: '42899'
+    id_type: Registration Number
+    id_number: '1127747243260'
+    id_country: Russia
+  - uid: '42900'
+    id_type: Tax ID No.
+    id_number: '7720768984'
+    id_country: Russia
+  - uid: '179692'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

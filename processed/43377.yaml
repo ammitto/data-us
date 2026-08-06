@@ -1,0 +1,75 @@
+---
+uid: '43377'
+first_name: Sang Man
+last_name: KIM
+sdn_type: Individual
+program_list:
+  programs:
+  - DPRK4
+aka_list:
+  items:
+  - uid: '67286'
+    type: a.k.a.
+    category: strong
+    last_name: KIM
+    first_name: Sangman
+address_list:
+  items:
+  - uid: '64806'
+    country: Russia
+  - uid: '64807'
+    country: Korea, North
+id_list:
+  items:
+  - uid: '32976'
+    id_type: Passport
+    id_number: '109420132'
+    id_country: Korea, North
+    issue_date: 16 Oct 2019
+    expiration_date: 16 Oct 2024
+  - uid: '32996'
+    id_type: Passport
+    id_number: '827220538'
+    id_country: Korea, North
+  - uid: '32997'
+    id_type: Passport
+    id_number: '563220082'
+    id_country: Korea, North
+  - uid: '162809'
+    id_type: Digital Currency Address - XBT
+    id_number: 1D6gG9iKEhPitTcWRJiniuj1jYM2hNeAfJ
+  - uid: '162814'
+    id_type: Digital Currency Address - XBT
+    id_number: 1FCNgfZWpYMeYhy9t18AAkTBu8AsdoAc1Z
+  - uid: '162810'
+    id_type: Digital Currency Address - ETH
+    id_number: '0x97b1043abd9e6fc31681635166d430a458d14f9c'
+  - uid: '162811'
+    id_type: Digital Currency Address - ETH
+    id_number: '0xb6f5ec1a0a9cd1526536d3f0426c429529471f40'
+  - uid: '162743'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '162740'
+    id_type: Gender
+    id_number: Male
+  - uid: '162742'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '162812'
+    id_type: Digital Currency Address - USDT
+    id_number: '0xb6f5ec1a0a9cd1526536d3f0426c429529471f40'
+  - uid: '162813'
+    id_type: Digital Currency Address - USDC
+    id_number: '0xb6f5ec1a0a9cd1526536d3f0426c429529471f40'
+date_of_birth_list:
+  items:
+  - uid: '62739'
+    date_of_birth: 25 Apr 1965
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '62879'
+    place_of_birth: North Pyongan Province, North Korea
+    main_entry: 'true'

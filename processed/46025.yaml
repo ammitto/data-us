@@ -1,0 +1,28 @@
+---
+uid: '46025'
+last_name: LIMITED LIABILITY COMPANY RADIO REKLAMA NN
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '68554'
+    address1: 32 Belinskogo Street
+    address2: Office 301
+    city: Nizhniy Novgorod
+    country: Russia
+id_list:
+  items:
+  - uid: '35864'
+    id_type: Tax ID No.
+    id_number: '5260450762'
+    id_country: Russia
+  - uid: '35865'
+    id_type: Registration Number
+    id_number: '1175275087030'
+    id_country: Russia
+  - uid: '174898'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: LIMITED LIABILITY COMPANY INFRASTRACTURE HOLDING 1)"

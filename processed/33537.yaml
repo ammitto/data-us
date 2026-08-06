@@ -1,0 +1,41 @@
+---
+uid: '33537'
+last_name: DIRECTORATE OF DEFENSE INDUSTRIES
+sdn_type: Entity
+program_list:
+  programs:
+  - BURMA-EO14014
+aka_list:
+  items:
+  - uid: '53534'
+    type: a.k.a.
+    category: weak
+    last_name: KA PA SA
+  - uid: '53535'
+    type: a.k.a.
+    category: strong
+    last_name: MINISTRY OF DEFENSE DIRECTORATE OF DEFENSE INDUSTRIES
+  - uid: '53536'
+    type: a.k.a.
+    category: weak
+    last_name: DEFENSE PRODUCTS INDUSTRIES
+  - uid: '53537'
+    type: a.k.a.
+    category: strong
+    last_name: MYANMA DEFENSE PRODUCTS INDUSTRY
+  - uid: '53538'
+    type: a.k.a.
+    category: strong
+    last_name: MYANMAR DEFENSE PRODUCTS INDUSTRY
+address_list:
+  items:
+  - uid: '51173'
+    address1: Ministry of Defense
+    address2: Shwedagon Pagoda Road
+    city: Rangoon
+    country: Burma
+id_list:
+  items:
+  - uid: '145315'
+    id_type: Target Type
+    id_number: Government Entity

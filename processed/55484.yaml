@@ -1,0 +1,55 @@
+---
+uid: '55484'
+first_name: Alireza
+last_name: DERAKHSHAN
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - SDGT
+aka_list:
+  items:
+  - uid: '86394'
+    type: a.k.a.
+    category: strong
+    last_name: DERAKHSHAN
+    first_name: Alireza Mohammad Javad
+address_list:
+  items:
+  - uid: '84839'
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '49527'
+    id_type: Passport
+    id_number: I96938324
+    id_country: Iran
+    expiration_date: 10 Mar 2026
+  - uid: '49530'
+    id_type: Residency Number
+    id_number: 784-1983-3659407-6
+    id_country: United Arab Emirates
+  - uid: '192956'
+    id_type: Gender
+    id_number: Male
+  - uid: '193072'
+    id_type: Digital Currency Address - ETH
+    id_number: '0xdb2720ebad55399117ddb4c4a4afd9a4ccada8fe'
+  - uid: '193071'
+    id_type: Digital Currency Address - TRX
+    id_number: TSxAAo67VTDgKT537EVXxdogkJtk9c6ojz
+  - uid: '193080'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '92955'
+    date_of_birth: 26 Dec 1983
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '93033'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS (IRGC)-QODS FORCE)"

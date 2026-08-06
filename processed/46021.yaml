@@ -1,0 +1,28 @@
+---
+uid: '46021'
+last_name: LIMITED LIABILITY COMPANY ID SOLUTION
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '68546'
+    address1: 60B Dorozhnaya St.
+    address2: Office 421
+    city: Moscow
+    postal_code: '117405'
+    country: Russia
+id_list:
+  items:
+  - uid: '35857'
+    id_type: Registration Number
+    id_number: '5115003000327'
+    id_country: Russia
+  - uid: '35858'
+    id_type: Tax ID No.
+    id_number: '5003091492'
+    id_country: Russia
+  - uid: '174894'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

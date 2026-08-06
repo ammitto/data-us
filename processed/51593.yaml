@@ -1,0 +1,33 @@
+---
+uid: '51593'
+last_name: LIMITED LIABILITY COMPANY OIL SERVICE GARANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+address_list:
+  items:
+  - uid: '78617'
+    address1: ul. Ulyanovskaya d. 52/55
+    address2: Office 20, 21
+    city: Samara
+    postal_code: '443001'
+    country: Russia
+id_list:
+  items:
+  - uid: '44060'
+    id_type: Registration Number
+    id_number: '1126315005948'
+    id_country: Russia
+  - uid: '44061'
+    id_type: Tax ID No.
+    id_number: '6315646631'
+    id_country: Russia
+  - uid: '181358'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183507'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

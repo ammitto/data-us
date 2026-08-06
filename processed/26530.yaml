@@ -1,0 +1,47 @@
+---
+uid: '26530'
+last_name: ANSAR EXCHANGE
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - SDGT
+  - IRGC
+aka_list:
+  items:
+  - uid: '41875'
+    type: a.k.a.
+    category: strong
+    last_name: SARAFI ANSAR
+  - uid: '41876'
+    type: a.k.a.
+    category: strong
+    last_name: SARAFI ANSAR COMPANY
+address_list:
+  items:
+  - uid: '40223'
+    address1: No. 41, Joibar Street, Fatemi Square
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '17179'
+    id_type: Business Registration Number
+    id_number: '423264'
+    id_country: Iran
+  - uid: '17180'
+    id_type: National ID No.
+    id_number: '10320743975'
+    id_country: Iran
+  - uid: '186863'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '131036'
+    id_type: Website
+    id_number: Ansarexchange.ir
+  - uid: '131037'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: ANSAR BANK; Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS (IRGC)-QODS
+  FORCE; Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS)"

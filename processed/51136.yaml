@@ -1,0 +1,48 @@
+---
+uid: '51136'
+first_name: Alexander Vasilyevich
+last_name: FOMIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80160'
+    type: a.k.a.
+    category: strong
+    last_name: FOMIN
+    first_name: Aleksandr Vasilyevich
+address_list:
+  items:
+  - uid: '77721'
+    address1: Kolymazhnyy Pereulok
+    city: Moscow
+    postal_code: '119019'
+    country: Russia
+id_list:
+  items:
+  - uid: '43270'
+    id_type: Passport
+    id_number: '200276901'
+    id_country: Russia
+  - uid: '43271'
+    id_type: Tax ID No.
+    id_number: '772728554330'
+    id_country: Russia
+  - uid: '180182'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '180180'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '80178'
+    date_of_birth: 25 May 1959
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '80179'
+    place_of_birth: Ridder, Kazakhstan
+    main_entry: 'true'

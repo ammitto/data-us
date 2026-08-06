@@ -1,0 +1,33 @@
+---
+uid: '50849'
+last_name: DRAGON ROAD LTD
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '77201'
+    address1: Trust Company Complex
+    address2: Ajeltake Road
+    city: Ajeltake
+    state_or_province: Majuro MH
+    postal_code: '96960'
+    country: Marshall Islands
+id_list:
+  items:
+  - uid: '42822'
+    id_type: Identification Number
+    id_number: IMO 6421332
+  - uid: '42823'
+    id_type: Business Number
+    id_number: '119410'
+    id_country: Marshall Islands
+  - uid: '179563'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '179538'
+    id_type: Organization Established Date
+    id_number: 11 Apr 2023
+remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS (IRGC)-QODS FORCE)"

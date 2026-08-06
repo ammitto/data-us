@@ -1,0 +1,34 @@
+---
+uid: '50361'
+last_name: LIMITED LIABILITY COMPANY ENERGETICHESKAYA KOMPANIYA SIBMAINING
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78712'
+    type: a.k.a.
+    category: strong
+    last_name: LLC EC SIBMINING
+address_list:
+  items:
+  - uid: '76330'
+    address1: Office 303
+    address2: 121 Pisareva Street
+    city: Novosibirsk
+    postal_code: '630005'
+    country: Russia
+id_list:
+  items:
+  - uid: '42102'
+    id_type: Registration Number
+    id_number: '1104217007421'
+    id_country: Russia
+  - uid: '42104'
+    id_type: Tax ID No.
+    id_number: '4217128701'
+    id_country: Russia
+  - uid: '178329'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

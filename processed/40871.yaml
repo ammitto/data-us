@@ -1,0 +1,55 @@
+---
+uid: '40871'
+last_name: PERM SCIENTIFIC RESEARCH TECHNOLOGICAL INSTITUTE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63603'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO PERMSKI NAUCHNO-ISSLEDOVATELSKI TEKHNOLOGICHESKI
+      INSTITUT
+  - uid: '63604'
+    type: a.k.a.
+    category: strong
+    last_name: PNITI, AO
+  - uid: '63605'
+    type: a.k.a.
+    category: strong
+    last_name: JSC PNITI
+  - uid: '63606'
+    type: f.k.a.
+    category: strong
+    last_name: PNITI PAO
+address_list:
+  items:
+  - uid: '60941'
+    address1: Ul. Geroev Khasana D. 41
+    city: Perm
+    postal_code: '614990'
+    country: Russia
+  - uid: '60942'
+    address1: D. 41 Korp. 1, Pm. A261, Ul. Geroev Khasana
+    city: Perm
+    postal_code: '614064'
+    country: Russia
+id_list:
+  items:
+  - uid: '30125'
+    id_type: Registration Number
+    id_number: '1025900913390'
+    id_country: Russia
+  - uid: '30126'
+    id_type: Tax ID No.
+    id_number: '5904000518'
+    id_country: Russia
+  - uid: '30127'
+    id_type: Government Gazette Number
+    id_number: '07501343'
+    id_country: Russia
+  - uid: '175302'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

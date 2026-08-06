@@ -1,0 +1,33 @@
+---
+uid: '50351'
+last_name: LIMITED LIABILITY COMPANY SOL GROUP
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '76309'
+    address1: Pom. 14, Etazh 4, 7/1 Krasninskaya St. 2-Ya
+    city: Smolensk
+    postal_code: '214004'
+    country: Russia
+id_list:
+  items:
+  - uid: '42087'
+    id_type: Registration Number
+    id_number: '1236700000195'
+    id_country: Russia
+  - uid: '42088'
+    id_type: Tax ID No.
+    id_number: '6732241816'
+    id_country: Russia
+  - uid: '178319'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '178537'
+    id_type: Organization Established Date
+    id_number: 13 Jan 2023
+  - uid: '178538'
+    id_type: 'Organization Type:'
+    id_number: Wholesale of other machinery and equipment

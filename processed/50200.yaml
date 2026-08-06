@@ -1,0 +1,32 @@
+---
+uid: '50200'
+last_name: VLATE LOGISTIK LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '78326'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU VLATE LOGISTIK
+address_list:
+  items:
+  - uid: '76004'
+    address1: 48 ul. Komarova
+    city: Pogranichny
+    postal_code: '231773'
+    country: Belarus
+id_list:
+  items:
+  - uid: '41838'
+    id_type: Tax ID No.
+    id_number: '192003422'
+    id_country: Belarus
+  - uid: '178180'
+    id_type: 'Organization Type:'
+    id_number: Transportation and storage
+  - uid: '177815'
+    id_type: Organization Established Date
+    id_number: 15 Apr 2013

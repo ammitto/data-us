@@ -1,0 +1,51 @@
+---
+uid: '49690'
+last_name: ATROPARS COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - SDGT
+aka_list:
+  items:
+  - uid: '77452'
+    type: a.k.a.
+    category: strong
+    last_name: ATRO PARS COMPANY
+  - uid: '77487'
+    type: a.k.a.
+    category: strong
+    last_name: ATROPARS EXCHANGE
+  - uid: '77488'
+    type: a.k.a.
+    category: strong
+    last_name: ATROPARS GOLD & JEWELRY MFG
+  - uid: '77489'
+    type: a.k.a.
+    category: strong
+    last_name: ATROPARS GOLD AND JEWELRY MFG
+  - uid: '77508'
+    type: a.k.a.
+    category: strong
+    last_name: ATROPARS MFG
+address_list:
+  items:
+  - uid: '75082'
+    address1: No. 17 Samadi St. Farid Asghar St. Vahid Dastjeri Ave
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '41104'
+    id_type: National ID No.
+    id_number: '10102890879'
+    id_country: Iran
+  - uid: '41105'
+    id_type: Registration Number
+    id_number: '248506'
+    id_country: Iran
+  - uid: '173027'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: "(Linked To: MINISTRY OF DEFENSE AND ARMED FORCES LOGISTICS)"

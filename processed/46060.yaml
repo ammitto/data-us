@@ -1,0 +1,43 @@
+---
+uid: '46060'
+last_name: LIMITED LIABILITY COMPANY ROSKAPSTROY NOVOROSSIYA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '71165'
+    type: a.k.a.
+    category: weak
+    last_name: RKS NR LLC
+address_list:
+  items:
+  - uid: '68630'
+    address1: 1 Altufevskoye Highway
+    city: Moscow
+    postal_code: '127106'
+    country: Russia
+  - uid: '68631'
+    address1: 45 Milchakova St., Office 4A
+    city: Rostov-on-Don
+    country: Russia
+  - uid: '68632'
+    address1: per. Nakhimova, d. 6, Mariupol
+    state_or_province: Donetsk Region
+    postal_code: '87500'
+    country: Ukraine
+id_list:
+  items:
+  - uid: '35922'
+    id_type: Registration Number
+    id_number: '1226100012115'
+    id_country: Russia
+  - uid: '35923'
+    id_type: Tax ID No.
+    id_number: '6168116983'
+    id_country: Russia
+  - uid: '174932'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: FEDERAL AUTONOMOUS INSTITUTION ROSKAPSTROY)"

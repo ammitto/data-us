@@ -1,0 +1,47 @@
+---
+uid: '45862'
+first_name: Daniil Sergeyevich
+last_name: BORSHCHEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70863'
+    type: a.k.a.
+    category: strong
+    last_name: BORSHCHEV
+    first_name: Daniil
+  - uid: '70864'
+    type: a.k.a.
+    category: strong
+    last_name: BORSCHEV
+    first_name: Daniil
+address_list:
+  items:
+  - uid: '68237'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '35618'
+    id_type: Passport
+    id_number: '530309650'
+    id_country: Russia
+  - uid: '170574'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '166499'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '66496'
+    date_of_birth: 04 Dec 1975
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '66497'
+    place_of_birth: Barnaul, Russia
+    main_entry: 'true'

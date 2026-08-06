@@ -1,0 +1,54 @@
+---
+uid: '10382'
+first_name: Jorge Mario
+last_name: PAREDES CORDOVA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '10134'
+    type: a.k.a.
+    category: weak
+    last_name: EL GORDO
+  - uid: '10135'
+    type: a.k.a.
+    category: weak
+    last_name: HIPER
+  - uid: '10136'
+    type: a.k.a.
+    category: strong
+    last_name: ARRAIZA BETANCUR
+    first_name: Mario Jorge
+  - uid: '10137'
+    type: a.k.a.
+    category: strong
+    last_name: PAREDEZ CORDOVA
+    first_name: Jorge Mario
+  - uid: '10138'
+    type: a.k.a.
+    category: strong
+    last_name: CORDON
+    first_name: Mario
+address_list:
+  items:
+  - uid: '14182'
+    address1: Morazan El Progreso
+    country: Guatemala
+id_list:
+  items:
+  - uid: '4980'
+    id_type: Passport
+    id_number: 1102020001107JK
+    id_country: Guatemala
+date_of_birth_list:
+  items:
+  - uid: '5570'
+    date_of_birth: '09 Jan 1966'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '5571'
+    place_of_birth: Morazan, El Progreso, Guatemala
+    main_entry: 'true'

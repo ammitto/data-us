@@ -1,0 +1,53 @@
+---
+uid: '50240'
+last_name: DESIGN BUREAU OF CHEMICAL MACHINE BUILDING KBKHM
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78426'
+    type: a.k.a.
+    category: strong
+    last_name: AM ISAYEV CHEMICAL ENGINEERING DESIGN BUREAU
+  - uid: '78427'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO KONSTRUKTORSKOE BIURO KHIMICHESKOGO MASHINOSTROENIIA
+      IMENI AM ISAEVA
+  - uid: '78428'
+    type: a.k.a.
+    category: strong
+    last_name: AO KBKHIMMASH IM AM ISAEVA
+  - uid: '78429'
+    type: a.k.a.
+    category: strong
+    last_name: KB KHIM MASH
+  - uid: '78430'
+    type: a.k.a.
+    category: strong
+    last_name: DESIGN BUREAU FOR CHEMICAL MACHINE BUILDING
+address_list:
+  items:
+  - uid: '76064'
+    address1: 12 Bogomolova St.
+    city: Korolyev
+    postal_code: '141070'
+    country: Russia
+id_list:
+  items:
+  - uid: '41900'
+    id_type: Registration Number
+    id_number: '1195081083878'
+    id_country: Russia
+  - uid: '41901'
+    id_type: Tax ID No.
+    id_number: '5018202198'
+    id_country: Russia
+  - uid: '178076'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '177898'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

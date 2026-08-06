@@ -1,0 +1,28 @@
+---
+uid: '48125'
+last_name: BITFINGROUP OU
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '72182'
+    address1: Lasnamae linnaosa
+    address2: Vaike-Paala tn 2
+    city: Tallinn
+    state_or_province: Harju maakond
+    postal_code: '11415'
+    country: Estonia
+id_list:
+  items:
+  - uid: '39013'
+    id_type: Registration Number
+    id_number: '16323700'
+    id_country: Estonia
+  - uid: '176609'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '170098'
+    id_type: Organization Established Date
+    id_number: 23 Sep 2021

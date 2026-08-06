@@ -1,0 +1,41 @@
+---
+uid: '45031'
+last_name: JOINT STOCK COMPANY OMSK PLANT OF CIVIL AVIATION
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69738'
+    type: a.k.a.
+    category: strong
+    last_name: JSC OMSK CIVIL AVIATION PLANT
+  - uid: '69739'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY OMSKY FACTORY GRAZHDANSKOY AVIATSII
+  - uid: '69740'
+    type: a.k.a.
+    category: weak
+    last_name: JSC OZGA
+address_list:
+  items:
+  - uid: '67045'
+    address1: 112 Surovtseva Str
+    city: Omsk
+    postal_code: '644015'
+    country: Russia
+id_list:
+  items:
+  - uid: '34717'
+    id_type: Tax ID No.
+    id_number: '5507029944'
+    id_country: Russia
+  - uid: '34718'
+    id_type: Registration Number
+    id_number: '1025501378572'
+    id_country: Russia
+  - uid: '175908'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

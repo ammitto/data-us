@@ -1,0 +1,38 @@
+---
+uid: '50909'
+last_name: LIMITED LIABILITY COMPANY NTC ARSENAL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79744'
+    type: a.k.a.
+    category: strong
+    last_name: LTD NTC ARSENAL
+  - uid: '79745'
+    type: a.k.a.
+    category: strong
+    last_name: NTTS ARSENAL
+address_list:
+  items:
+  - uid: '77312'
+    address1: Ul. Varshavskaya D. 5A, Lit. R
+    address2: Pomeshch. 8-N, Kom. 17
+    city: Saint Petersburg
+    postal_code: '196128'
+    country: Russia
+id_list:
+  items:
+  - uid: '42907'
+    id_type: Registration Number
+    id_number: '1217800012055'
+    id_country: Russia
+  - uid: '42908'
+    id_type: Tax ID No.
+    id_number: '7810912488'
+    id_country: Russia
+  - uid: '179696'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

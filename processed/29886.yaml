@@ -1,0 +1,39 @@
+---
+uid: '29886'
+first_name: Elena Nikolaevna
+last_name: IVANOVA
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+address_list:
+  items:
+  - uid: '45062'
+    city: St. Petersburg
+    country: Russia
+id_list:
+  items:
+  - uid: '20001'
+    id_type: Passport
+    id_number: '737144264'
+    id_country: Russia
+  - uid: '20002'
+    id_type: National ID No.
+    id_number: '4009952155'
+  - uid: '154570'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+  - uid: '137091'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '37089'
+    date_of_birth: 07 Nov 1964
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '37090'
+    place_of_birth: Karamzino Village, Russia
+    main_entry: 'true'
+remarks: "(Linked To: NPP PT OKEANOS, AO)"

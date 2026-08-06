@@ -1,0 +1,44 @@
+---
+uid: '23124'
+first_name: Ignacio
+last_name: GONZALEZ PENUELAS
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '36394'
+    type: a.k.a.
+    category: weak
+    last_name: NACHO GONZALEZ
+  - uid: '41267'
+    type: a.k.a.
+    category: strong
+    last_name: GONZALEZ PENUELAS
+    first_name: Jose Ignacio
+address_list:
+  items:
+  - uid: '39645'
+    city: Sinaloa
+    country: Mexico
+id_list:
+  items:
+  - uid: '16843'
+    id_type: C.U.R.P.
+    id_number: GOPI720731HSLNXG07
+    id_country: Mexico
+  - uid: '124738'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '24736'
+    date_of_birth: 31 Jul 1972
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '24737'
+    place_of_birth: Sinaloa, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: GONZALEZ PENUELAS DRUG TRAFFICKING ORGANIZATION)"

@@ -1,0 +1,40 @@
+---
+uid: '38282'
+first_name: Volodymyr Vasilyovich
+last_name: SALDO
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '60045'
+    type: a.k.a.
+    category: strong
+    last_name: SALDO
+    first_name: Vladimir Vasilievich
+address_list:
+  items:
+  - uid: '57304'
+    address1: 36 Suvorova St., Apt. 28
+    city: Kherson
+    state_or_province: Kherson Oblast
+    postal_code: '73009'
+    country: Ukraine
+id_list:
+  items:
+  - uid: '27558'
+    id_type: Tax ID No.
+    id_number: '2061716030'
+    id_country: Ukraine
+  - uid: '153566'
+    id_type: Gender
+    id_number: Male
+  - uid: '174670'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '53565'
+    date_of_birth: 12 Jun 1956
+    main_entry: 'true'

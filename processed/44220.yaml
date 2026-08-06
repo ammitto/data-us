@@ -1,0 +1,42 @@
+---
+uid: '44220'
+first_name: Ilya Eduardovich
+last_name: TOROSOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '68388'
+    type: a.k.a.
+    category: strong
+    last_name: TOROSYAN
+    first_name: Ilya Edikovich
+address_list:
+  items:
+  - uid: '65812'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '33650'
+    id_type: Tax ID No.
+    id_number: '771571859280'
+    id_country: Russia
+  - uid: '175800'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '163828'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '63824'
+    date_of_birth: 14 Oct 1982
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '63826'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'

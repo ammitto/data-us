@@ -1,0 +1,43 @@
+---
+uid: '53404'
+last_name: RAVEE SARL
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '83839'
+    type: a.k.a.
+    category: strong
+    last_name: RAVEE CO
+address_list:
+  items:
+  - uid: '81479'
+    address1: Property number 7317
+    city: Baalbek
+    country: Lebanon
+id_list:
+  items:
+  - uid: '46600'
+    id_type: Commercial Registry Number
+    id_number: '3682619'
+    id_country: Lebanon
+    issue_date: 11 Aug 2022
+  - uid: '46601'
+    id_type: Commercial Registry Number
+    id_number: '4009185'
+    id_country: Lebanon
+    issue_date: 23 Jul 2020
+  - uid: '187816'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '187817'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
+      Sanctions Regulations
+  - uid: '187802'
+    id_type: 'Organization Type:'
+    id_number: Non-specialized wholesale trade
+remarks: "(Linked To: HIZBALLAH)"

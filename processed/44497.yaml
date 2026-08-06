@@ -1,0 +1,47 @@
+---
+uid: '44497'
+first_name: Jesus Miguel
+last_name: VIBANCO GARCIA
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '68788'
+    type: a.k.a.
+    category: weak
+    last_name: JASPER
+  - uid: '68789'
+    type: a.k.a.
+    category: strong
+    last_name: VIVANCO GARCIA
+    first_name: Jesus Miguel
+  - uid: '69110'
+    type: a.k.a.
+    category: strong
+    last_name: VIVANCO JR.
+    first_name: Miguel Angel
+address_list:
+  items:
+  - uid: '66266'
+    country: Mexico
+id_list:
+  items:
+  - uid: '34037'
+    id_type: C.U.R.P.
+    id_number: VIGJ951006HSLBRS01
+    id_country: Mexico
+  - uid: '164475'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '64472'
+    date_of_birth: 06 Oct 1995
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '64476'
+    place_of_birth: Sinaloa, Mexico
+    main_entry: 'true'

@@ -1,0 +1,38 @@
+---
+uid: '44659'
+first_name: Zaw Min
+last_name: TUN
+sdn_type: Individual
+program_list:
+  programs:
+  - BURMA-EO14014
+aka_list:
+  items:
+  - uid: '69150'
+    type: a.k.a.
+    category: strong
+    last_name: HTUN
+    first_name: Zaw Min
+address_list:
+  items:
+  - uid: '66470'
+    country: Burma
+id_list:
+  items:
+  - uid: '34179'
+    id_type: National ID No.
+    id_number: 9/PABATHA(N)010135
+    id_country: Burma
+  - uid: '164779'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '64782'
+    date_of_birth: 20 Jul 2001
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '64781'
+    place_of_birth: Burma
+    main_entry: 'true'

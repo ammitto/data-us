@@ -1,0 +1,28 @@
+---
+uid: '56667'
+first_name: Vincent
+last_name: NYAKARUNDI
+sdn_type: Individual
+program_list:
+  programs:
+  - DRCONGO
+address_list:
+  items:
+  - uid: '86702'
+    city: Kigali
+    country: Rwanda
+id_list:
+  items:
+  - uid: '195312'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '95310'
+    date_of_birth: 05 Nov 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '95311'
+    place_of_birth: Cikitoke, Burundi
+    main_entry: 'true'

@@ -1,0 +1,41 @@
+---
+uid: '11438'
+last_name: CARTEL DEL NORESTE
+sdn_type: Entity
+program_list:
+  programs:
+  - SDNTK
+  - TCO
+  - ILLICIT-DRUGS-EO14059
+  - FTO
+  - SDGT
+aka_list:
+  items:
+  - uid: '45285'
+    type: a.k.a.
+    category: weak
+    last_name: CDN
+  - uid: '45292'
+    type: a.k.a.
+    category: weak
+    last_name: NORTHEAST CARTEL
+  - uid: '84458'
+    type: a.k.a.
+    category: weak
+    last_name: LOS ZETAS
+address_list:
+  items:
+  - uid: '16885'
+    country: Mexico
+id_list:
+  items:
+  - uid: '185008'
+    id_type: 'Organization Type:'
+    id_number: Transnational Terrorist Group
+  - uid: '184975'
+    id_type: Target Type
+    id_number: Criminal Organization
+  - uid: '184866'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886

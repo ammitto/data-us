@@ -1,0 +1,38 @@
+---
+uid: '44822'
+last_name: AKTSIONERNOE OBSHCHESTVO TASKOM
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69319'
+    type: a.k.a.
+    category: strong
+    last_name: AO TASKOM
+  - uid: '69320'
+    type: a.k.a.
+    category: strong
+    last_name: TACKOM
+address_list:
+  items:
+  - uid: '66694'
+    address1: Ter. Severnaya Promyshlennaya Zona
+    address2: Vladenie 6, Str. 1
+    city: Vorsino
+    postal_code: '249020'
+    country: Russia
+id_list:
+  items:
+  - uid: '34401'
+    id_type: Registration Number
+    id_number: '1094025002246'
+    id_country: Russia
+  - uid: '34402'
+    id_type: Tax ID No.
+    id_number: '4025422770'
+    id_country: Russia
+  - uid: '173799'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

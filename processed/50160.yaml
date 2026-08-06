@@ -1,0 +1,52 @@
+---
+uid: '50160'
+last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU ZAPOLYARNAYA STROITELNAYA
+  KOMPANIYA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78231'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY POLAR CONSTRUCTION COMPANY
+  - uid: '78232'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY ZAPOLARNAYA CONSTRUCTION COMPANY
+  - uid: '78233'
+    type: a.k.a.
+    category: strong
+    last_name: ZAPOLYARNAYA STROITELNAYA KOMPANIYA
+  - uid: '78234'
+    type: a.k.a.
+    category: weak
+    last_name: ZSK OOO
+address_list:
+  items:
+  - uid: '75915'
+    address1: Ul. Betonnaya D. 13A, Pomeshch. I/Floor 2
+    city: Staraya Kupavna
+    postal_code: '142450'
+    country: Russia
+  - uid: '75916'
+    address1: 8, ul. Taimyrskaya
+    city: Norilsk
+    state_or_province: Krasnoyarsk region
+    postal_code: '663330'
+    country: Russia
+id_list:
+  items:
+  - uid: '41772'
+    id_type: Registration Number
+    id_number: '1062457022880'
+    id_country: Russia
+  - uid: '41773'
+    id_type: Tax ID No.
+    id_number: '2457061775'
+    id_country: Russia
+  - uid: '178116'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

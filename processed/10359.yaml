@@ -1,0 +1,84 @@
+---
+uid: '10359'
+first_name: Maria Teresa
+last_name: ZAMBADA NIEBLA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '14080'
+    address1: c/o NUEVA INDUSTRIA DE GANADEROS DE CULIACAN S.A. DE C.V.
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '14081'
+    address1: c/o JAMARO CONSTRUCTORES S.A. DE C.V.
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '14082'
+    address1: c/o ESTABLO PUERTO RICO S.A. DE C.V.
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '14083'
+    address1: c/o ESTANCIA INFANTIL NINO FELIZ S.C.
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '14084'
+    address1: 'Calle Ciudad de Hermosillo # 1168'
+    address2: Fraccionamiento Las Quintas
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '14085'
+    address1: Calle Rio Quelite 210
+    address2: Colonia Guadlupe
+    city: Culiacan
+    state_or_province: Sinaloa
+    postal_code: '80220'
+    country: Mexico
+  - uid: '14086'
+    address1: Avenida Universidad No. 1900
+    address2: Colonia Copilco
+    city: Coyoacan
+    state_or_province: Distrito Federal
+    postal_code: '04350'
+    country: Mexico
+  - uid: '14087'
+    address1: Calle Cerro de la Campana 649
+    address2: Colonia Colinas de San Miguel
+    city: Culiacan
+    state_or_province: Sinaloa
+    postal_code: '80060'
+    country: Mexico
+id_list:
+  items:
+  - uid: '4950'
+    id_type: C.U.R.P.
+    id_number: ZANT690617MSLMBR01
+    id_country: Mexico
+  - uid: '4951'
+    id_type: R.F.C.
+    id_number: ZANT-690617-B73
+    id_country: Mexico
+  - uid: '4952'
+    id_type: Passport
+    id_number: '97040021870'
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '5495'
+    date_of_birth: 17 Jun 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '5496'
+    place_of_birth: Culiacan, Sinaloa, Mexico
+    main_entry: 'true'
+  - uid: '5497'
+    place_of_birth: Sonora, Mexico
+    main_entry: 'false'

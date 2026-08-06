@@ -1,0 +1,41 @@
+---
+uid: '50143'
+first_name: Inocencio Antonio
+last_name: FIGUEROA ARIZALETA
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+aka_list:
+  items:
+  - uid: '78184'
+    type: a.k.a.
+    category: weak
+    last_name: ARIZALETA, Inocencio Antonio
+address_list:
+  items:
+  - uid: '75877'
+    address1: Calle Piramide Red Majestic Park Torre D Apto 25 Urb Miranda
+    city: Sucre
+    state_or_province: Miranda
+    postal_code: '1090'
+    country: Venezuela
+id_list:
+  items:
+  - uid: '41743'
+    id_type: Cedula No.
+    id_number: '5016509'
+    id_country: Venezuela
+  - uid: '177694'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '77691'
+    date_of_birth: 17 Dec 1959
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '77692'
+    place_of_birth: Caracas, Venezuela
+    main_entry: 'true'

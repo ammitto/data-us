@@ -1,0 +1,37 @@
+---
+uid: '47718'
+last_name: JOINT STOCK COMPANY VOSKRESENSKY AGGREGATION FACTORY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73968'
+    type: a.k.a.
+    category: weak
+    last_name: JSC VAF
+  - uid: '73969'
+    type: a.k.a.
+    category: strong
+    last_name: VOSKRESENSKIY AGGREGATE PLANT
+address_list:
+  items:
+  - uid: '71352'
+    address1: 6 Ul. Tsiolkovskogo
+    city: Beloozerskii
+    postal_code: '140250'
+    country: Russia
+id_list:
+  items:
+  - uid: '38362'
+    id_type: Registration Number
+    id_number: '1235000011058'
+    id_country: Russia
+  - uid: '38363'
+    id_type: Tax ID No.
+    id_number: '5005073080'
+    id_country: Russia
+  - uid: '169650'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

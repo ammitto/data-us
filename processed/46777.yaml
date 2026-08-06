@@ -1,0 +1,37 @@
+---
+uid: '46777'
+last_name: JOINT STOCK COMPANY BARNAUL CARTRIDGE PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '72238'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO BARNAULSKII PATRONNYI ZAVOD
+  - uid: '72240'
+    type: a.k.a.
+    category: weak
+    last_name: AO BPZ
+address_list:
+  items:
+  - uid: '69707'
+    address1: 28 P.S. Kulagina St
+    city: Barnaul
+    postal_code: '656002'
+    country: Russia
+id_list:
+  items:
+  - uid: '36851'
+    id_type: Tax ID No.
+    id_number: '2224080239'
+    id_country: Russia
+  - uid: '36852'
+    id_type: Registration Number
+    id_number: '1032202168305'
+    id_country: Russia
+  - uid: '176297'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,38 @@
+---
+uid: '50608'
+first_name: Gustave
+last_name: KUBWAYO
+sdn_type: Individual
+program_list:
+  programs:
+  - DRCONGO
+aka_list:
+  items:
+  - uid: '79150'
+    type: a.k.a.
+    category: weak
+    last_name: SIRKOFF
+  - uid: '79152'
+    type: a.k.a.
+    category: weak
+    last_name: SIRKOOF
+address_list:
+  items:
+  - uid: '76733'
+    state_or_province: North Kivu
+    country: Congo, Democratic Republic of the
+id_list:
+  items:
+  - uid: '178949'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '78946'
+    date_of_birth: '1969'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '78947'
+    place_of_birth: Rwanda
+    main_entry: 'true'

@@ -1,0 +1,56 @@
+---
+uid: '12923'
+first_name: Fazal
+last_name: RAHIM
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '14371'
+    type: a.k.a.
+    category: strong
+    last_name: RAHIM
+    first_name: Fazel
+  - uid: '14373'
+    type: a.k.a.
+    category: strong
+    last_name: RAHIM
+    first_name: Fazil
+  - uid: '14375'
+    type: a.k.a.
+    category: strong
+    last_name: RAHMAN
+    first_name: Fazil
+id_list:
+  items:
+  - uid: '7327'
+    id_type: Passport
+    id_number: R512768
+    id_country: Afghanistan
+    issue_date: 25 Mar 2005
+    expiration_date: 12 Feb 2012
+  - uid: '186058'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '8715'
+    date_of_birth: 05 Jan 1974
+    main_entry: 'true'
+  - uid: '8716'
+    date_of_birth: '1977'
+    main_entry: 'false'
+  - uid: '8717'
+    date_of_birth: '1975'
+    main_entry: 'false'
+  - uid: '8718'
+    date_of_birth: 24 Jan 1973
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '8719'
+    place_of_birth: Kabul, Afghanistan
+    main_entry: 'true'

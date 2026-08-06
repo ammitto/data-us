@@ -1,0 +1,52 @@
+---
+uid: '41061'
+first_name: Aleksey Yurevich
+last_name: RUSSKIKH
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '64023'
+    type: a.k.a.
+    category: strong
+    last_name: RUSKYKH
+    first_name: Oleksii Yuriiovych
+  - uid: '64024'
+    type: a.k.a.
+    category: strong
+    last_name: RUSSKIKH
+    first_name: Alexey Yuryevich
+  - uid: '64025'
+    type: a.k.a.
+    category: strong
+    last_name: RUSSKIKH
+    first_name: Aleksei Yurievich
+address_list:
+  items:
+  - uid: '61361'
+    state_or_province: Ulyanovsk Region
+    country: Russia
+id_list:
+  items:
+  - uid: '30393'
+    id_type: Tax ID No.
+    id_number: '771907803608'
+    id_country: Russia
+  - uid: '173593'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '158930'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '58928'
+    date_of_birth: 17 Jul 1968
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '58929'
+    place_of_birth: Izhevsk, Udmurtia Republic, Russia
+    main_entry: 'true'

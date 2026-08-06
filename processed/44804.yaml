@@ -1,0 +1,44 @@
+---
+uid: '44804'
+last_name: LIMITED LIABILITY COMPANY BROKER EXPERT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69301'
+    type: a.k.a.
+    category: weak
+    last_name: LLC BROKER EXPERT
+  - uid: '69302'
+    type: a.k.a.
+    category: weak
+    last_name: BROKER EKSPERT LLC
+address_list:
+  items:
+  - uid: '66676'
+    address1: Pom. 3N, Liter M, 6, Ul. Tsvetochnaya
+    city: St. Petersburg
+    postal_code: '196084'
+    country: Russia
+id_list:
+  items:
+  - uid: '34381'
+    id_type: Registration Number
+    id_number: '1157847037105'
+    id_country: Russia
+  - uid: '34382'
+    id_type: Tax ID No.
+    id_number: '7810336185'
+    id_country: Russia
+  - uid: '173796'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '165054'
+    id_type: Organization Established Date
+    id_number: 06 Feb 2015
+  - uid: '165053'
+    id_type: 'Organization Type:'
+    id_number: Non-specialized wholesale trade
+remarks: "(Linked To: BOIS ROUGE SARLU)"

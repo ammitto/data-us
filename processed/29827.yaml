@@ -1,0 +1,42 @@
+---
+uid: '29827'
+first_name: Mahmoud
+last_name: MEHRI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+aka_list:
+  items:
+  - uid: '46744'
+    type: a.k.a.
+    category: strong
+    last_name: MAHMOOD
+    first_name: Mehri
+address_list:
+  items:
+  - uid: '44981'
+    country: Iran
+id_list:
+  items:
+  - uid: '19945'
+    id_type: Passport
+    id_number: F49959213
+    id_country: Iran
+  - uid: '137039'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '136848'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '36847'
+    date_of_birth: 19 Sep 1985
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '36849'
+    place_of_birth: Ahar, Iran
+    main_entry: 'true'
+remarks: "(Linked To: IRANIAN MINISTRY OF INTELLIGENCE AND SECURITY)"

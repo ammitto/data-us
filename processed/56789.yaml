@@ -1,0 +1,37 @@
+---
+uid: '56789'
+last_name: FARDIS PRISON
+sdn_type: Entity
+program_list:
+  programs:
+  - CAATSA - IRAN
+aka_list:
+  items:
+  - uid: '88002'
+    type: a.k.a.
+    category: strong
+    last_name: KACHOUII PRISON
+  - uid: '88003'
+    type: a.k.a.
+    category: strong
+    last_name: KACHOUEI PRISON
+  - uid: '88004'
+    type: a.k.a.
+    category: strong
+    last_name: KACHOUI PRISON
+  - uid: '88005'
+    type: a.k.a.
+    category: strong
+    last_name: FARDIS PENITENTIARY
+address_list:
+  items:
+  - uid: '86941'
+    address1: Mehrshahr
+    city: Karaj
+    state_or_province: Alborz
+    country: Iran
+id_list:
+  items:
+  - uid: '195687'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

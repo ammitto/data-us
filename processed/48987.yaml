@@ -1,0 +1,63 @@
+---
+uid: '48987'
+first_name: Aleksey
+last_name: BUDNEV
+sdn_type: Individual
+program_list:
+  programs:
+  - DPRK
+aka_list:
+  items:
+  - uid: '76322'
+    type: a.k.a.
+    category: strong
+    last_name: BUDNEV
+    first_name: Aleksei Viktorovich
+  - uid: '76346'
+    type: a.k.a.
+    category: strong
+    last_name: BUDNEV
+    first_name: Aleksey Viktorovich
+  - uid: '76347'
+    type: a.k.a.
+    category: strong
+    last_name: BUDNEV
+    first_name: Alexey
+  - uid: '76348'
+    type: a.k.a.
+    category: strong
+    last_name: BUDNEV
+    first_name: Alexey Viktorovich
+address_list:
+  items:
+  - uid: '73702'
+    address1: 34 Zolotorozhskiy Val, Building 2
+    city: Moscow
+    postal_code: '111033'
+    country: Russia
+id_list:
+  items:
+  - uid: '40054'
+    id_type: Tax ID No.
+    id_number: '504217593565'
+    id_country: Russia
+  - uid: '171778'
+    id_type: Gender
+    id_number: Male
+  - uid: '171808'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '171809'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+date_of_birth_list:
+  items:
+  - uid: '71776'
+    date_of_birth: '09 Jul 1964'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '71777'
+    place_of_birth: Krymskaya Region, Russia
+    main_entry: 'true'

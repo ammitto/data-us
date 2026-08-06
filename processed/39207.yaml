@@ -1,0 +1,49 @@
+---
+uid: '39207'
+first_name: Pavlo Ihorovych
+last_name: FILIPCHUK
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '61172'
+    type: a.k.a.
+    category: strong
+    last_name: FILIPCHUK
+    first_name: Pavel Igorevich
+address_list:
+  items:
+  - uid: '58389'
+    address1: 128 K. Libknekhta Street
+    city: Kherson
+    state_or_province: Kherson Region
+    country: Ukraine
+  - uid: '58391'
+    address1: 25 Zolina Street
+    city: Kakhovka
+    state_or_province: Kherson region
+    country: Ukraine
+id_list:
+  items:
+  - uid: '28444'
+    id_type: Tax ID No.
+    id_number: '3050100254'
+    id_country: Ukraine
+  - uid: '174764'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '154987'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '54985'
+    date_of_birth: 05 Jul 1983
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '54986'
+    place_of_birth: Zolochiv, Lviv region, Ukraine
+    main_entry: 'true'

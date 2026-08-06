@@ -1,0 +1,36 @@
+---
+uid: '23564'
+last_name: EVRO POLIS LTD.
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13661
+aka_list:
+  items:
+  - uid: '37146'
+    type: a.k.a.
+    category: strong
+    last_name: EVRO POLIS, OOO
+  - uid: '37147'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU EVRO POLIS
+address_list:
+  items:
+  - uid: '35633'
+    address1: d. 1A pom. 9.1A
+    address2: Shosse Ilinskoe
+    city: Krasnogorsk
+    state_or_province: Krasnogorski Raion, Moskovskaya Obl.
+    postal_code: '143409'
+    country: Russia
+id_list:
+  items:
+  - uid: '15040'
+    id_type: Registration ID
+    id_number: '1165024055613'
+  - uid: '144057'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+remarks: "(Linked To: PRIGOZHIN, Yevgeniy Viktorovich)"

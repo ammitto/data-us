@@ -1,0 +1,49 @@
+---
+uid: '37517'
+last_name: FAR EASTERN BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK3
+aka_list:
+  items:
+  - uid: '58795'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY FAR EASTERN BANK
+address_list:
+  items:
+  - uid: '56127'
+    address1: 27-a
+    address2: Verkhneportovaya St.
+    city: Vladivostok
+    state_or_province: Primorskiy Kray
+    postal_code: '690990'
+    country: Russia
+id_list:
+  items:
+  - uid: '26718'
+    id_type: Registration Number
+    id_number: '1022500000786'
+    id_country: Russia
+  - uid: '26719'
+    id_type: Tax ID No.
+    id_number: '2540016961'
+    id_country: Russia
+  - uid: '26720'
+    id_type: Legal Entity Number
+    id_number: 253400YGH90JM0RMLU50
+    id_country: Russia
+  - uid: '152415'
+    id_type: BIK (RU)
+    id_number: '040507705'
+  - uid: '152417'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '152416'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '152418'
+    id_type: SWIFT/BIC
+    id_number: FAEBRU8V

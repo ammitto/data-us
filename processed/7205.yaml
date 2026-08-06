@@ -1,0 +1,51 @@
+---
+uid: '7205'
+first_name: Mokhtar
+last_name: BOUCHOUCHA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '5133'
+    type: a.k.a.
+    category: strong
+    last_name: BUSHUSHA
+    first_name: Mokhtar
+  - uid: '8853'
+    type: a.k.a.
+    category: strong
+    last_name: BOUCHOUCHA
+    first_name: Al-Mokhtar Ben Mohamed Ben Al-Mokhtar
+address_list:
+  items:
+  - uid: '5439'
+    address1: Via Milano n.38
+    city: Spinadesco
+    state_or_province: CR
+    country: Italy
+id_list:
+  items:
+  - uid: '3320'
+    id_type: Italian Fiscal Code
+    id_number: BCHMHT69R13Z352T
+  - uid: '4058'
+    id_type: Passport
+    id_number: K754050
+    issue_date: 26 May 1999
+    expiration_date: 25 May 2004
+  - uid: '185650'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '1397'
+    date_of_birth: 13 Oct 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '1398'
+    place_of_birth: Tunisia
+    main_entry: 'true'

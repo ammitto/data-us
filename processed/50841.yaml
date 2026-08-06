@@ -1,0 +1,54 @@
+---
+uid: '50841'
+first_name: Prophane
+last_name: VICTOR
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '79617'
+    type: a.k.a.
+    category: strong
+    last_name: PROPHANE
+    first_name: Victor
+  - uid: '79618'
+    type: a.k.a.
+    category: strong
+    last_name: PROFANE
+    first_name: Victor
+address_list:
+  items:
+  - uid: '77187'
+    address1: 64 Pelerin 5, Petion-Ville, West
+    postal_code: HT6142
+    country: Haiti
+  - uid: '77188'
+    address1: 3, Rue Marcelin, Tabarre 61, Tabarre, Ouiest
+    postal_code: HT6125
+    country: Haiti
+id_list:
+  items:
+  - uid: '42795'
+    id_type: National ID No.
+    id_number: '0033760991'
+    id_country: Haiti
+  - uid: '42797'
+    id_type: Passport
+    id_number: R10097145
+    id_country: Haiti
+    expiration_date: '09 May 2031'
+  - uid: '179510'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '79567'
+    date_of_birth: '08 Feb 1969'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '79513'
+    place_of_birth: Port-au-Prince, Haiti
+    main_entry: 'true'

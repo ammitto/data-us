@@ -1,0 +1,44 @@
+---
+uid: '10153'
+last_name: DEFENSE INDUSTRIES ORGANIZATION
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+  - IRAN-CON-ARMS-EO
+aka_list:
+  items:
+  - uid: '9862'
+    type: a.k.a.
+    category: strong
+    last_name: DIO
+  - uid: '9863'
+    type: a.k.a.
+    category: strong
+    last_name: DEFENCE INDUSTRIES ORGANISATION
+  - uid: '9864'
+    type: a.k.a.
+    category: strong
+    last_name: SAZEMANE SANAYE DEFA
+  - uid: '9865'
+    type: a.k.a.
+    category: strong
+    last_name: SASEMAN SANAJE DEFA
+  - uid: '9866'
+    type: a.k.a.
+    category: weak
+    last_name: SASADJA
+address_list:
+  items:
+  - uid: '13576'
+    address1: P.O. Box 19585-777, Pasdaran Street
+    address2: Entrance of Babaie Highway
+    address3: Permanent Expo of Defence Industries Organization
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '114281'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

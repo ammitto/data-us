@@ -1,0 +1,40 @@
+---
+uid: '27484'
+first_name: Ramon Antonio
+last_name: AVELLAN MEDAL
+sdn_type: Individual
+program_list:
+  programs:
+  - NICARAGUA
+  - NICARAGUA-NHRAA
+address_list:
+  items:
+  - uid: '41771'
+    address1: Bello Horizonte 6TA Etapa Nl 4
+    city: Managua
+    country: Nicaragua
+id_list:
+  items:
+  - uid: '18088'
+    id_type: Passport
+    id_number: A0008696
+    id_country: Nicaragua
+    issue_date: 17 Oct 2011
+    expiration_date: 17 Oct 2021
+  - uid: '18089'
+    id_type: National ID No.
+    id_number: 0411111540000Q
+    id_country: Nicaragua
+  - uid: '132701'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '32699'
+    date_of_birth: 11 Nov 1954
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '32700'
+    place_of_birth: Jinotepe, Nicaragua
+    main_entry: 'true'

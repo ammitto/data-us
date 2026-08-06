@@ -1,0 +1,40 @@
+---
+uid: '37739'
+last_name: STATE FLIGHT TESTING CENTER NAMED AFTER V.P. CHKALOV
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59200'
+    type: a.k.a.
+    category: strong
+    last_name: 929 STATE FLIGHT TEST CENTER
+  - uid: '59202'
+    type: a.k.a.
+    category: strong
+    last_name: 929 GLITS
+address_list:
+  items:
+  - uid: '56456'
+    city: Akhtubinsk
+    state_or_province: Astrakhan Region
+    country: Russia
+  - uid: '56458'
+    address1: Khmeimim Air Base
+    country: Syria
+  - uid: '56459'
+    address1: Chkalovsky Airfield
+    country: Russia
+id_list:
+  items:
+  - uid: '173488'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '152713'
+    id_type: Organization Established Date
+    id_number: Oct 1920
+  - uid: '152715'
+    id_type: Target Type
+    id_number: Government Entity

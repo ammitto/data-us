@@ -1,0 +1,42 @@
+---
+uid: '36039'
+first_name: Andrey Vasilyevich
+last_name: LAVRISHCHEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56747'
+    type: a.k.a.
+    category: weak
+    last_name: LAVRISHEV, Andrei V
+  - uid: '56752'
+    type: a.k.a.
+    category: strong
+    last_name: LAVRISHCHEV
+    first_name: Andrei Vasilyevich
+address_list:
+  items:
+  - uid: '54770'
+    country: Russia
+id_list:
+  items:
+  - uid: '173335'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '149393'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '49390'
+    date_of_birth: 12 Oct 1959
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '49392'
+    place_of_birth: Blagoveshchensk, Amur Region, Russia
+    main_entry: 'true'
+remarks: "(Linked To: JOINT STOCK COMPANY UNITED SHIPBUILDING CORPORATION)"

@@ -1,0 +1,45 @@
+---
+uid: '39185'
+last_name: JOINT STOCK COMPANY INSTITUTE FOR SCIENTIFIC RESEARCH VYCHISLITELNYKH KOMPLEKSOV
+  NAMED AFTER M. A. KARTSEVA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '61115'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY NIIVK NAMED AFTER M. A. KARTSEVA
+  - uid: '61116'
+    type: a.k.a.
+    category: strong
+    last_name: JSC NII VYCHISLITELNYKH KOMPLEKSOV IM. M.A. KARTSEVA
+  - uid: '61117'
+    type: a.k.a.
+    category: strong
+    last_name: AO NIIVK N.A. M.A. KARTSEV
+address_list:
+  items:
+  - uid: '58344'
+    address1: Profsoyuznaya St., 108
+    city: Moscow
+    postal_code: '117437'
+    country: Russia
+id_list:
+  items:
+  - uid: '28411'
+    id_type: Tax ID No.
+    id_number: '7728032882'
+    id_country: Russia
+  - uid: '28412'
+    id_type: Registration Number
+    id_number: '1037700128828'
+    id_country: Russia
+  - uid: '174752'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '154932'
+    id_type: Organization Established Date
+    id_number: 24 May 1993

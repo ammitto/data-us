@@ -1,0 +1,41 @@
+---
+uid: '37185'
+last_name: JOINT STOCK COMPANY NTV BROADCASTING COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '58323'
+    type: a.k.a.
+    category: strong
+    last_name: AO TELEKOMPANIYA NTV
+address_list:
+  items:
+  - uid: '55623'
+    address1: ul. Akademika Koroleva d. 12
+    city: Moscow
+    postal_code: '127427'
+    country: Russia
+  - uid: '55624'
+    address1: ul. Argunovskaya d. 5
+    city: Moscow
+    postal_code: '129075'
+    country: Russia
+id_list:
+  items:
+  - uid: '26485'
+    id_type: Tax ID No.
+    id_number: '7703191457'
+    id_country: Russia
+  - uid: '26486'
+    id_type: Registration Number
+    id_number: '1027739667218'
+    id_country: Russia
+  - uid: '174519'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '151685'
+    id_type: Organization Established Date
+    id_number: '1993'

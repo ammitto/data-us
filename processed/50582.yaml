@@ -1,0 +1,42 @@
+---
+uid: '50582'
+first_name: Konstantin Sergeyevich
+last_name: KALASHNIKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79085'
+    type: a.k.a.
+    category: strong
+    last_name: KALASHNIKOV
+    first_name: Konstiantyn
+address_list:
+  items:
+  - uid: '76693'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '42476'
+    id_type: Passport
+    id_number: PU224040
+    id_country: Ukraine
+  - uid: '178823'
+    id_type: Gender
+    id_number: Male
+  - uid: '178825'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '78821'
+    date_of_birth: 26 Jan 1993
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '78822'
+    place_of_birth: Donetsk, Ukraine
+    main_entry: 'true'

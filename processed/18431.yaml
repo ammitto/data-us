@@ -1,0 +1,42 @@
+---
+uid: '18431'
+last_name: KARDIAM
+sdn_type: Entity
+program_list:
+  programs:
+  - CAR
+aka_list:
+  items:
+  - uid: '28620'
+    type: a.k.a.
+    category: strong
+    last_name: KARDIAM BVBA
+  - uid: '28621'
+    type: a.k.a.
+    category: strong
+    last_name: CARDIAM
+address_list:
+  items:
+  - uid: '27956'
+    address1: Hoveniersstraat 30
+    address2: Box 145
+    city: Antwerp
+    postal_code: '2018'
+    country: Belgium
+id_list:
+  items:
+  - uid: '10711'
+    id_type: Enterprise Number
+    id_number: 0430.033.662
+    id_country: Belgium
+  - uid: '10712'
+    id_type: V.A.T. Number
+    id_number: 0430.033.662
+    id_country: Belgium
+  - uid: '10749'
+    id_type: Branch Unit Number
+    id_number: 2030.515.945
+    id_country: Belgium
+  - uid: '117805'
+    id_type: Email Address
+    id_number: kardiam.bvba@skynet.be

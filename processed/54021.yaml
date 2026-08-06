@@ -1,0 +1,40 @@
+---
+uid: '54021'
+first_name: Manuel
+last_name: SALAZAR GUTIERREZ
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '84114'
+    type: a.k.a.
+    category: weak
+    last_name: Manguera
+  - uid: '84115'
+    type: a.k.a.
+    category: weak
+    last_name: Orejon
+address_list:
+  items:
+  - uid: '82426'
+    country: Colombia
+id_list:
+  items:
+  - uid: '47455'
+    id_type: Cedula No.
+    id_number: '76252205'
+    id_country: Colombia
+  - uid: '47456'
+    id_type: Passport
+    id_number: BC336116
+    id_country: Colombia
+  - uid: '190045'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '89249'
+    date_of_birth: 31 Dec 1966
+    main_entry: 'true'

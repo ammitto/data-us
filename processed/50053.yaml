@@ -1,0 +1,32 @@
+---
+uid: '50053'
+last_name: RUSSIAN ARTIFICIAL INTELLIGENCE RESEARCH INSTITUTE OF THE RUSSIAN ACADEMY
+  OF SCIENCES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78031'
+    type: a.k.a.
+    category: weak
+    last_name: RAIRI
+address_list:
+  items:
+  - uid: '75733'
+    address1: 60th Anniversary Prospect, 9
+    city: Moscow
+    postal_code: '117312'
+    country: Russia
+id_list:
+  items:
+  - uid: '177550'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '177548'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
+  - uid: '177549'
+    id_type: Website
+    id_number: https://rairi.frccsc.ru

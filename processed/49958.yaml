@@ -1,0 +1,50 @@
+---
+uid: '49958'
+last_name: PROTEH CO LTD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77875'
+    type: a.k.a.
+    category: strong
+    last_name: PROTEKH
+  - uid: '77876'
+    type: a.k.a.
+    category: weak
+    last_name: PROTECH LLC
+address_list:
+  items:
+  - uid: '75563'
+    address1: Ul. Tarusskaya
+    address2: D. 10, Office 207
+    city: Moscow
+    postal_code: '117588'
+    country: Russia
+  - uid: '75564'
+    address1: Dor Mkad 38 KM
+    address2: D. 4
+    city: Moscow
+    postal_code: '117574'
+    country: Russia
+  - uid: '75565'
+    address1: Ul. Ivana Chernykh 31-33
+    address2: Office 510, Aquamarine Business Center
+    city: Saint Petersburg
+    postal_code: '198095'
+    country: Russia
+id_list:
+  items:
+  - uid: '41490'
+    id_type: Registration Number
+    id_number: '1077761186381'
+    id_country: Russia
+  - uid: '41491'
+    id_type: Tax ID No.
+    id_number: '7701748975'
+    id_country: Russia
+  - uid: '178022'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

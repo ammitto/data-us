@@ -1,0 +1,28 @@
+---
+uid: '49235'
+last_name: SITEM
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '74137'
+    address1: sh. Mozhaiskoe d. 37
+    address2: pom.IA, komn. 4
+    city: Moscow
+    postal_code: '121471'
+    country: Russia
+id_list:
+  items:
+  - uid: '40417'
+    id_type: Registration Number
+    id_number: '1197746563453'
+    id_country: Russia
+  - uid: '40418'
+    id_type: Tax ID No.
+    id_number: '9731052057'
+    id_country: Russia
+  - uid: '172208'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

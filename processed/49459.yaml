@@ -1,0 +1,36 @@
+---
+uid: '49459'
+last_name: LIMITED LIABILITY COMPANY OIL TERMINAL BELOKAMENKA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77149'
+    type: a.k.a.
+    category: strong
+    last_name: NT BELOKAMENKA OOO
+address_list:
+  items:
+  - uid: '74588'
+    address1: ul. Marata d. 26
+    city: Murmansk
+    postal_code: '183010'
+    country: Russia
+id_list:
+  items:
+  - uid: '40784'
+    id_type: Registration Number
+    id_number: '1035100188331'
+    id_country: Russia
+  - uid: '40785'
+    id_type: Tax ID No.
+    id_number: '5190120165'
+    id_country: Russia
+  - uid: '172542'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
+  - uid: '172788'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,55 @@
+---
+uid: '57159'
+first_name: Fahim
+last_name: MALEKI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '88570'
+    type: a.k.a.
+    category: strong
+    last_name: FERHAN
+    first_name: Kaya
+address_list:
+  items:
+  - uid: '87545'
+    city: Tehran
+    country: Iran
+  - uid: '87574'
+    city: Istanbul
+    country: Turkey
+id_list:
+  items:
+  - uid: '51395'
+    id_type: National ID No.
+    id_number: '0491477287'
+    id_country: Iran
+  - uid: '51412'
+    id_type: National ID No.
+    id_number: '55534731654'
+    id_country: Turkey
+  - uid: '51413'
+    id_type: Passport
+    id_number: U31440834
+    id_country: Turkey
+    expiration_date: 01 Jun 2033
+  - uid: '197492'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '196833'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '96831'
+    date_of_birth: 10 Jul 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '96832'
+    place_of_birth: Shahre Ray, Iran
+    main_entry: 'true'
+remarks: "(Linked To: TEJARAT SARIR AFROOZ KISH COMPANY)"

@@ -1,0 +1,37 @@
+---
+uid: '23277'
+first_name: Mukhtar Hamid
+last_name: SHAH
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+address_list:
+  items:
+  - uid: '35247'
+    address1: 1 Hill Park Jhellum Road
+    city: Rawalpindi
+    state_or_province: Punjab
+    country: Pakistan
+id_list:
+  items:
+  - uid: '14735'
+    id_type: National ID No.
+    id_number: '3740502728729'
+    id_country: Pakistan
+  - uid: '124991'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '24973'
+    date_of_birth: 11 Aug 1939
+    main_entry: 'true'
+  - uid: '24974'
+    date_of_birth: '08 Nov 1939'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '24975'
+    place_of_birth: Chakwal, Pakistan
+    main_entry: 'true'

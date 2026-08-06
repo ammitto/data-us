@@ -1,0 +1,40 @@
+---
+uid: '48052'
+last_name: LIMITED LIABILITY COMPANY PROJECT CONSULTING BUREAU ECHELON
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74602'
+    type: a.k.a.
+    category: strong
+    last_name: PROEKTNO-KONSALTINGOVOE BYURO ESHELON
+  - uid: '74603'
+    type: a.k.a.
+    category: strong
+    last_name: LLC PKB ECHELON
+address_list:
+  items:
+  - uid: '72027'
+    address1: Ul. Elektrozavodskaya d. 24
+    city: Moscow
+    postal_code: '107023'
+    country: Russia
+id_list:
+  items:
+  - uid: '38938'
+    id_type: Tax ID No.
+    id_number: '7718990935'
+    id_country: Russia
+  - uid: '38939'
+    id_type: Registration Number
+    id_number: '1147746837677'
+    id_country: Russia
+  - uid: '176592'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '169551'
+    id_type: Organization Established Date
+    id_number: 24 Jul 2014

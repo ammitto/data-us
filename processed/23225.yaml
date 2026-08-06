@@ -1,0 +1,31 @@
+---
+uid: '23225'
+first_name: Yeyou
+last_name: CHU
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '35139'
+    city: Dalian
+    state_or_province: Liaoning
+    country: China
+id_list:
+  items:
+  - uid: '14677'
+    id_type: Citizen's Card Number
+    id_number: '210222198202016639'
+    id_country: China
+  - uid: '14678'
+    id_type: Chinese Commercial Code
+    id_number: 0443 2814 2589
+  - uid: '124920'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '24921'
+    date_of_birth: 01 Feb 1982
+    main_entry: 'true'

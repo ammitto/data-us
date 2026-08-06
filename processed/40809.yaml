@@ -1,0 +1,62 @@
+---
+uid: '40809'
+first_name: Aleksandar Hristov
+last_name: NIKOLOV
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '63490'
+    type: a.k.a.
+    category: strong
+    last_name: NIKOLOV
+    first_name: Aleksandar
+  - uid: '63492'
+    type: a.k.a.
+    category: strong
+    last_name: NIKOLOV
+    first_name: Aleksandr
+  - uid: '63493'
+    type: a.k.a.
+    category: strong
+    last_name: NIKOLOV
+    first_name: Alexandr Hristov
+  - uid: '63494'
+    type: a.k.a.
+    category: strong
+    last_name: NIKOLOV
+    first_name: Alexander Hristov
+address_list:
+  items:
+  - uid: '60842'
+    address1: GK3, BL22, AP13
+    city: Kozloduy
+    state_or_province: Vratsa
+    postal_code: '3320'
+    country: Bulgaria
+id_list:
+  items:
+  - uid: '30024'
+    id_type: National ID No.
+    id_number: '6202193988'
+    id_country: Bulgaria
+  - uid: '30025'
+    id_type: Passport
+    id_number: '385595825'
+    id_country: Bulgaria
+    expiration_date: Nov 2023
+  - uid: '158346'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '58345'
+    date_of_birth: 19 Feb 1962
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '58348'
+    place_of_birth: Belene, Bulgaria
+    main_entry: 'true'

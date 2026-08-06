@@ -1,0 +1,77 @@
+---
+uid: '12296'
+first_name: Jorge Luis
+last_name: LLANOS GAZIA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '13197'
+    type: a.k.a.
+    category: strong
+    last_name: LLANOS GAZZIA
+    first_name: Jorge Luis
+address_list:
+  items:
+  - uid: '18884'
+    address1: c/o AUDIO ALARMAS, S.A. DE C.V.
+    city: Zapopan
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '18885'
+    address1: c/o BASALTOS TONALA, S.A. DE C.V.
+    city: Tonala
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '18887'
+    address1: Avenida Lomas del Bosque No. 2700-42
+    city: Zapopan
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '18889'
+    address1: Calle Palmas No. 42
+    address2: Colonia Lomas del Bosque
+    city: Zapopan
+    state_or_province: Jalisco
+    postal_code: C.P. 45110
+    country: Mexico
+  - uid: '18890'
+    city: Jamundi
+    country: Colombia
+  - uid: '19551'
+    address1: Asuncion No. 747 Int. 702
+    address2: Providencia
+    city: Guadalajara
+    state_or_province: Jalisco
+    postal_code: C.P. 44630
+    country: Mexico
+id_list:
+  items:
+  - uid: '6720'
+    id_type: Cedula No.
+    id_number: '16446807'
+    id_country: Colombia
+  - uid: '6721'
+    id_type: Credencial electoral
+    id_number: LLGZJR57062088H900
+    id_country: Mexico
+  - uid: '6722'
+    id_type: C.U.R.P.
+    id_number: LAGJ570620HNELZR00
+    id_country: Mexico
+  - uid: '6723'
+    id_type: R.F.C.
+    id_number: LAGJ570620KV4
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '8012'
+    date_of_birth: 20 Jun 1957
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '8013'
+    place_of_birth: Cali, Colombia
+    main_entry: 'true'

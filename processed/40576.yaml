@@ -1,0 +1,38 @@
+---
+uid: '40576'
+first_name: Sergey Leonidovich
+last_name: BATEKHIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '60444'
+    address1: 9 Bolshaya Yakimanka Street
+    city: Moscow
+    postal_code: '119180'
+    country: Russia
+id_list:
+  items:
+  - uid: '29724'
+    id_type: Tax ID No.
+    id_number: '770400281769'
+    id_country: Russia
+  - uid: '176912'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '157858'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '57856'
+    date_of_birth: 22 Sep 1965
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '57857'
+    place_of_birth: Lebazhye, Leningrad Region, Russian Federation
+    main_entry: 'true'
+remarks: "(Linked To: KHOLDINGOVAYA KOMPANIYA INTERROS OOO)"

@@ -1,0 +1,50 @@
+---
+uid: '13120'
+first_name: Jesus Alfredo
+last_name: GUZMAN SALAZAR
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+aka_list:
+  items:
+  - uid: '45330'
+    type: a.k.a.
+    category: weak
+    last_name: Alfredito
+  - uid: '84710'
+    type: a.k.a.
+    category: weak
+    last_name: Menor
+address_list:
+  items:
+  - uid: '49243'
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+id_list:
+  items:
+  - uid: '7635'
+    id_type: C.U.R.P.
+    id_number: GUSJ860517HJCZLS06
+    id_country: Mexico
+  - uid: '190294'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '134805'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '8999'
+    date_of_birth: 17 May 1986
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '9001'
+    place_of_birth: Jalisco, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: SINALOA CARTEL)"

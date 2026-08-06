@@ -1,0 +1,38 @@
+---
+uid: '46088'
+last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU SIGNAL-INVEST
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '71237'
+    type: a.k.a.
+    category: strong
+    last_name: SIGNAL-INVEST OOO
+  - uid: '71238'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY SIGNAL-INVEST
+address_list:
+  items:
+  - uid: '68680'
+    address1: ul. 5-1 Kvartal
+    address2: Engels-19 Mkr
+    city: Privolzhski
+    postal_code: '413119'
+    country: Russia
+id_list:
+  items:
+  - uid: '35996'
+    id_type: Registration Number
+    id_number: '1026401975973'
+    id_country: Russia
+  - uid: '35997'
+    id_type: Tax ID No.
+    id_number: '6449031372'
+    id_country: Russia
+  - uid: '174935'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

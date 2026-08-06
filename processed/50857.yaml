@@ -1,0 +1,46 @@
+---
+uid: '50857'
+first_name: Luis Alonso
+last_name: NAVARRO QUEZADA
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '79651'
+    type: a.k.a.
+    category: strong
+    last_name: ESTRADA ARIAS
+    first_name: Josue Francisco
+  - uid: '79652'
+    type: a.k.a.
+    category: weak
+    last_name: QUEZADA, Luis
+  - uid: '79653'
+    type: a.k.a.
+    category: weak
+    last_name: MOJARRAS
+address_list:
+  items:
+  - uid: '77212'
+    country: Mexico
+id_list:
+  items:
+  - uid: '42827'
+    id_type: C.U.R.P.
+    id_number: NAQL860418HNTVZS05
+    id_country: Mexico
+  - uid: '179575'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '79572'
+    date_of_birth: 18 Apr 1986
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '79573'
+    place_of_birth: Nayarit, Mexico
+    main_entry: 'true'

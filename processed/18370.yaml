@@ -1,0 +1,27 @@
+---
+uid: '18370'
+last_name: MIZU SUSHI LOUNGE
+sdn_type: Entity
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '27870'
+    address1: Av. Francisco Villa 1329 Planta Alta
+    address2: Residencial Fluvial Vallarta
+    city: Puerto Vallarta
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '27871'
+    address1: Av. Gral. Eulogio Parra 3200 Esq. Aztecas
+    address2: Plaza Entorno Margarita L. 22 Piso 2
+    address3: Col. Monraz
+    city: Guadalajara
+    state_or_province: Jalisco
+    country: Mexico
+id_list:
+  items:
+  - uid: '117699'
+    id_type: Website
+    id_number: www.mizusushi.mx

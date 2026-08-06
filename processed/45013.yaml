@@ -1,0 +1,37 @@
+---
+uid: '45013'
+last_name: LIMITED LIABILITY COMPANY POLYARNAYA GORNO RUDNAYA KOMPANIYA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69697'
+    type: a.k.a.
+    category: weak
+    last_name: OOO PGRK
+address_list:
+  items:
+  - uid: '67009'
+    address1: Usovo Village
+    address2: Building 100, Block B
+    address3: Floor 2, Suite 10
+    city: Odintsovo
+    state_or_province: Moscow Region
+    postal_code: '143084'
+    country: Russia
+id_list:
+  items:
+  - uid: '34686'
+    id_type: Registration Number
+    id_number: '1157746092745'
+    id_country: Russia
+  - uid: '34687'
+    id_type: Tax ID No.
+    id_number: '7707332797'
+    id_country: Russia
+  - uid: '175895'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: UNITED ARCTIC COMPANY LLC)"

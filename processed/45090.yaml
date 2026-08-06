@@ -1,0 +1,41 @@
+---
+uid: '45090'
+last_name: LIMITED LIABILITY COMPANY MOSCOW BUSINESS BROKERAGE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69877'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU MOSKOVSKI BIZNES BROKERIDZH
+  - uid: '69878'
+    type: a.k.a.
+    category: weak
+    last_name: LLC MBB
+address_list:
+  items:
+  - uid: '67174'
+    address1: 29 Kalmykova St., Apt. 37
+    city: Chelyabinsk
+    postal_code: '454052'
+    country: Russia
+  - uid: '67175'
+    address1: 26 Malaya Bronnaya St., Building 2
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '34836'
+    id_type: Tax ID No.
+    id_number: '7460055442'
+    id_country: Russia
+  - uid: '34837'
+    id_type: Registration Number
+    id_number: '1227400005546'
+    id_country: Russia
+  - uid: '175947'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

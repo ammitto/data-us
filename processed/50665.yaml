@@ -1,0 +1,32 @@
+---
+uid: '50665'
+first_name: Luis Ernesto
+last_name: DUENEZ REYES
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+address_list:
+  items:
+  - uid: '76820'
+    city: Caracas
+    country: Venezuela
+id_list:
+  items:
+  - uid: '42524'
+    id_type: Cedula No.
+    id_number: '18880942'
+    id_country: Venezuela
+  - uid: '179113'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '79110'
+    date_of_birth: 20 Aug 1988
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '79111'
+    place_of_birth: San Cristobal, Venezuela
+    main_entry: 'true'

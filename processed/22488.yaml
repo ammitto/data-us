@@ -1,0 +1,67 @@
+---
+uid: '22488'
+last_name: TSMRBANK, OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13660
+  - DPRK3
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '35442'
+    type: a.k.a.
+    category: strong
+    last_name: BANK TSENTR MEZHDUNARODNYKH RASCHETOV OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU
+  - uid: '35443'
+    type: a.k.a.
+    category: strong
+    last_name: LLC TSMRBANK
+  - uid: '35444'
+    type: a.k.a.
+    category: strong
+    last_name: BANK CENTER FOR INTERNATIONAL SETTLEMENTS LLC
+address_list:
+  items:
+  - uid: '34019'
+    address1: ul. Palikha, d. 10, Str. 7
+    city: Moscow
+    postal_code: '127055'
+    country: Russia
+id_list:
+  items:
+  - uid: '14175'
+    id_type: Government Gazette Number
+    id_number: '45000256'
+    id_country: Russia
+  - uid: '14176'
+    id_type: Registration ID
+    id_number: '1157700005759'
+    id_country: Russia
+  - uid: '14177'
+    id_type: Tax ID No.
+    id_number: '7750056670'
+    id_country: Russia
+  - uid: '123927'
+    id_type: Website
+    id_number: www.nko-cmr.ru
+  - uid: '123926'
+    id_type: Email Address
+    id_number: cmr@cmrbank.ru
+  - uid: '179102'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '179101'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '179193'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '144028'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '124012'
+    id_type: BIK (RU)
+    id_number: '044525059'

@@ -1,0 +1,46 @@
+---
+uid: '15039'
+last_name: ARNICA
+sdn_type: Vessel
+program_list:
+  programs:
+  - IRAN
+aka_list:
+  items:
+  - uid: '22155'
+    type: f.k.a.
+    category: strong
+    last_name: ASTANEH
+  - uid: '23441'
+    type: f.k.a.
+    category: strong
+    last_name: NEPTUNE
+  - uid: '24763'
+    type: f.k.a.
+    category: strong
+    last_name: SEAPRIDE
+  - uid: '40676'
+    type: f.k.a.
+    category: strong
+    last_name: ALERT
+id_list:
+  items:
+  - uid: '8048'
+    id_type: Vessel Registration Identification
+    id_number: IMO 9187643
+  - uid: '8117'
+    id_type: MMSI
+    id_number: '572467210'
+  - uid: '111453'
+    id_type: Former Vessel Flag
+    id_number: Malta
+  - uid: '112994'
+    id_type: Former Vessel Flag
+    id_number: Tuvalu
+  - uid: '114783'
+    id_type: Former Vessel Flag
+    id_number: Tanzania
+  - uid: '119229'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: NATIONAL IRANIAN TANKER COMPANY)"

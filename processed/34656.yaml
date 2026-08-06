@@ -1,0 +1,79 @@
+---
+uid: '34656'
+last_name: PROMSVYAZBANK PUBLIC JOINT STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '54247'
+    type: a.k.a.
+    category: strong
+    last_name: PROMSVYAZBANK PJSC
+  - uid: '54248'
+    type: f.k.a.
+    category: strong
+    last_name: OJSC PROMSVYAZBANK
+  - uid: '54249'
+    type: a.k.a.
+    category: strong
+    last_name: PROMSVYAZBANK PAO
+  - uid: '54250'
+    type: a.k.a.
+    category: strong
+    last_name: PUBLICHNOE AKTSIONERNOE OBSHCHESTVO PROMSVYAZBANK
+address_list:
+  items:
+  - uid: '51865'
+    address1: Smirnovskaya Street 10/22
+    city: Moscow
+    postal_code: '109052'
+    country: Russia
+  - uid: '74646'
+    address1: Room 1308, SCITECH Tower22, Jianguomenwai Dajie
+    city: Beijing
+    postal_code: '100004'
+    country: China
+  - uid: '74648'
+    address1: 7, MunirkaMarg, Vasant Vhiar
+    city: New Delhi
+    postal_code: '110057'
+    country: India
+id_list:
+  items:
+  - uid: '24256'
+    id_type: Tax ID No.
+    id_number: '7744000912'
+    id_country: Russia
+  - uid: '24257'
+    id_type: Registration Number
+    id_number: '1027739019142'
+    id_country: Russia
+  - uid: '24258'
+    id_type: Government Gazette Number
+    id_number: '40148343'
+    id_country: Russia
+  - uid: '146031'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '184272'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '146028'
+    id_type: BIK (RU)
+    id_number: '044525555'
+  - uid: '172693'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '146027'
+    id_type: SWIFT/BIC
+    id_number: PRMSRUMM
+  - uid: '146029'
+    id_type: Website
+    id_number: www.psbank.ru
+  - uid: '146030'
+    id_type: Organization Established Date
+    id_number: '2001'

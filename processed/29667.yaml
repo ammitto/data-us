@@ -1,0 +1,43 @@
+---
+uid: '29667'
+first_name: Guillermo Antonio
+last_name: LUCES OSORIO
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+address_list:
+  items:
+  - uid: '44841'
+    address1: Urbanizacion Base Aragua
+    address2: 2da Avenida
+    address3: Edificio Piedra Pintada, Torre B, PH 2B
+    city: Maracay
+    state_or_province: Aragua
+    postal_code: '2101'
+    country: Venezuela
+id_list:
+  items:
+  - uid: '19789'
+    id_type: Cedula No.
+    id_number: V-9656271
+    id_country: Venezuela
+  - uid: '19912'
+    id_type: Passport
+    id_number: '095146311'
+    id_country: Venezuela
+    issue_date: 13 Jun 2014
+    expiration_date: 12 Jun 2019
+  - uid: '136527'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '36528'
+    date_of_birth: 23 Oct 1970
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '36529'
+    place_of_birth: Aragua, Venezuela
+    main_entry: 'true'

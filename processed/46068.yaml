@@ -1,0 +1,45 @@
+---
+uid: '46068'
+last_name: AIRCRAFT COMPONENTS LOGISTICS LTD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '71997'
+    type: a.k.a.
+    category: weak
+    last_name: LIMITED LIABILITY COMPANY AVIATION COMPONENTS LOGISTICS
+  - uid: '71998'
+    type: a.k.a.
+    category: weak
+    last_name: ACS LOGISTICS
+address_list:
+  items:
+  - uid: '69454'
+    address1: Ul. Vesny
+    address2: D. 34
+    address3: Pomeshch. 128
+    city: Krasnoyarsk
+    postal_code: '660077'
+    country: Russia
+  - uid: '69456'
+    address1: 24 Vodopyanova St.
+    address2: Office 2
+    city: Krasnoyarsk
+    postal_code: '660098'
+    country: Russia
+id_list:
+  items:
+  - uid: '36648'
+    id_type: Registration Number
+    id_number: '1132468013776'
+    id_country: Russia
+  - uid: '36649'
+    id_type: Tax ID No.
+    id_number: '2465288353'
+    id_country: Russia
+  - uid: '174933'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

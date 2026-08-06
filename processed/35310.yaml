@@ -1,0 +1,35 @@
+---
+uid: '35310'
+first_name: Sergey Sergeevich
+last_name: CHEMEZOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '53081'
+    country: Russia
+id_list:
+  items:
+  - uid: '25020'
+    id_type: Tax ID No.
+    id_number: '771470044675'
+    id_country: Russia
+  - uid: '147560'
+    id_type: Gender
+    id_number: Male
+  - uid: '176706'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '47548'
+    date_of_birth: 07 May 2002
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '47550'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'
+remarks: "(Linked To: CHEMEZOV, Sergei)"

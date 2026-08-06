@@ -1,0 +1,44 @@
+---
+uid: '52872'
+first_name: James
+last_name: KABAREBE
+sdn_type: Individual
+program_list:
+  programs:
+  - DRCONGO
+address_list:
+  items:
+  - uid: '80828'
+    country: Rwanda
+id_list:
+  items:
+  - uid: '46140'
+    id_type: Passport
+    id_number: PD101127
+    id_country: Rwanda
+    expiration_date: 01 Jul 2027
+  - uid: '46141'
+    id_type: Passport
+    id_number: PD101374
+    id_country: Rwanda
+    expiration_date: 14 Nov 2028
+  - uid: '46142'
+    id_type: Passport
+    id_number: RW01119
+    id_country: Rwanda
+  - uid: '184837'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '84834'
+    date_of_birth: 23 Dec 1959
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '84835'
+    place_of_birth: Rwanda
+    main_entry: 'true'
+  - uid: '84836'
+    place_of_birth: Uganda
+    main_entry: 'false'

@@ -1,0 +1,40 @@
+---
+uid: '39672'
+last_name: MONUMONT SHIP MANAGEMENT LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '59078'
+    address1: Trust Company Complex, Ajeltake Road
+    address2: Ajeltake Island
+    city: Majuro
+    postal_code: MH96960
+    country: Marshall Islands
+  - uid: '59079'
+    address1: Daire 131, Kat 11, 1st Marina B Blok
+    address2: Ankara Caddesi 147, Kordonboyu Mahallesi
+    address3: Kartal
+    city: Istanbul
+    country: Turkey
+  - uid: '59080'
+    address1: Kat 7, Rumeli Plaza
+    address2: Rumeli Caddesi, Mesrutiyet Mahallesi, Nisantasi
+    address3: Sisil
+    city: Istanbul
+    country: Turkey
+id_list:
+  items:
+  - uid: '28847'
+    id_type: Identification Number
+    id_number: IMO 6207825
+  - uid: '155986'
+    id_type: Organization Established Date
+    id_number: '2021'
+  - uid: '156226'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: "(Linked To: ARTEMOV, Viktor Sergiyovich)"

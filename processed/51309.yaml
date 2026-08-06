@@ -1,0 +1,40 @@
+---
+uid: '51309'
+first_name: Yevhen
+last_name: SKRIABIN
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '78092'
+    city: Kiev
+    country: Ukraine
+  - uid: '78093'
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '43531'
+    id_type: Residency Number
+    id_number: 784-1993-5327283-6
+    id_country: United Arab Emirates
+    expiration_date: 18 Apr 2025
+  - uid: '43532'
+    id_type: Passport
+    id_number: FT746266
+    id_country: Ukraine
+    expiration_date: 10 Jan 2029
+  - uid: '180530'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '180529'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '80527'
+    date_of_birth: 30 Dec 1993
+    main_entry: 'true'
+remarks: "(Linked To: MOTIONAVIGATIONS LIMITED)"

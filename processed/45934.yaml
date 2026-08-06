@@ -1,0 +1,34 @@
+---
+uid: '45934'
+last_name: LIMITED LIABILITY COMPANY ZALA AERO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70975'
+    type: a.k.a.
+    category: strong
+    last_name: ZALA AERO GROUP
+address_list:
+  items:
+  - uid: '68357'
+    address1: 9 Salyama Adilya St.
+    address2: Office 3
+    city: Moscow
+    postal_code: '123154'
+    country: Russia
+id_list:
+  items:
+  - uid: '35687'
+    id_type: Registration Number
+    id_number: '1091841000624'
+    id_country: Russia
+  - uid: '35689'
+    id_type: Tax ID No.
+    id_number: '1841001815'
+    id_country: Russia
+  - uid: '174817'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

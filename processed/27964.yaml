@@ -1,0 +1,26 @@
+---
+uid: '27964'
+last_name: NICARAGUAN NATIONAL POLICE
+sdn_type: Entity
+program_list:
+  programs:
+  - NICARAGUA
+  - NICARAGUA-NHRAA
+aka_list:
+  items:
+  - uid: '44034'
+    type: a.k.a.
+    category: strong
+    last_name: POLICIA NACIONAL DE NICARAGUA
+  - uid: '44035'
+    type: a.k.a.
+    category: weak
+    last_name: NNP
+address_list:
+  items:
+  - uid: '42278'
+    address1: Centro Comercial Metrocentro
+    address2: 2 Cuadras al Este
+    address3: Edificio Faustino Ruiz (Plaza el Sol)
+    city: Managua
+    country: Nicaragua

@@ -1,0 +1,37 @@
+---
+uid: '46499'
+first_name: Ulises
+last_name: FRANCO FIGUEROA
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '72416'
+    type: a.k.a.
+    category: weak
+    last_name: CHARCO
+address_list:
+  items:
+  - uid: '69182'
+    country: Mexico
+id_list:
+  items:
+  - uid: '36427'
+    id_type: C.U.R.P.
+    id_number: FAFU870617HOCRGL03
+    id_country: Mexico
+  - uid: '167375'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '67372'
+    date_of_birth: 17 Jun 1987
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '67373'
+    place_of_birth: Oaxaca, Mexico
+    main_entry: 'true'

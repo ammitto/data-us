@@ -1,0 +1,59 @@
+---
+uid: '52833'
+first_name: Aleksandr Sergeyevich
+last_name: BOLSHAKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER3
+aka_list:
+  items:
+  - uid: '82816'
+    type: a.k.a.
+    category: strong
+    last_name: SERGEEVICH
+    first_name: Aleksandr Bol'shakov
+  - uid: '82817'
+    type: a.k.a.
+    category: weak
+    last_name: WTLFNT
+  - uid: '82818'
+    type: a.k.a.
+    category: weak
+    last_name: AAELBAS
+address_list:
+  items:
+  - uid: '80808'
+    address1: 97 Vzletnaya
+    address2: Apartment 170, Entrance 2, Floor 4
+    city: Barnaul
+    postal_code: '656067'
+    country: Russia
+id_list:
+  items:
+  - uid: '46045'
+    id_type: National ID No.
+    id_number: '9933108128'
+    id_country: Russia
+  - uid: '46046'
+    id_type: Passport
+    id_number: '0114990629'
+    id_country: Russia
+  - uid: '46047'
+    id_type: Passport
+    id_number: '756311712'
+    id_country: Russia
+  - uid: '184863'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '84808'
+    date_of_birth: 23 Jul 1994
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '84809'
+    place_of_birth: Semipalatinsk, Kazakhstan
+    main_entry: 'true'
+remarks: "(Linked To: ZSERVERS)"

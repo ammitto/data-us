@@ -1,0 +1,49 @@
+---
+uid: '34669'
+last_name: PSB-FOREKS OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54295'
+    type: a.k.a.
+    category: strong
+    last_name: PSB-FOREKS LLC
+  - uid: '54296'
+    type: a.k.a.
+    category: strong
+    last_name: FUND FOR NON-BANKING TECHNOLOGIES LIMITED LIABILITY COMPANY
+  - uid: '54297'
+    type: a.k.a.
+    category: weak
+    last_name: FNBT LLC
+  - uid: '54447'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY PSB-FOREKS
+address_list:
+  items:
+  - uid: '51897'
+    address1: D. 7, Str. 8, Pom. III Kom. N1 Etazh 2, Naberezhnaya Derbenevskaya
+    city: Moscow
+    postal_code: '115114'
+    country: Russia
+id_list:
+  items:
+  - uid: '24278'
+    id_type: Tax ID No.
+    id_number: '7725323192'
+    id_country: Russia
+  - uid: '24280'
+    id_type: Registration Number
+    id_number: '1167746652193'
+    id_country: Russia
+  - uid: '175165'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '146053'
+    id_type: Organization Established Date
+    id_number: 11 Jul 2016
+remarks: "(Linked To: PROMSVYAZBANK PUBLIC JOINT STOCK COMPANY)"

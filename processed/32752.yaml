@@ -1,0 +1,44 @@
+---
+uid: '32752'
+first_name: Genadz Branislavavich
+last_name: DAVYDZKA
+sdn_type: Individual
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '51534'
+    type: a.k.a.
+    category: strong
+    last_name: DAVYDKO
+    first_name: Gennadi Bronislavovich
+  - uid: '51535'
+    type: a.k.a.
+    category: strong
+    last_name: DAVYDKO
+    first_name: Gennady
+address_list:
+  items:
+  - uid: '49344'
+    city: Minsk
+    country: Belarus
+id_list:
+  items:
+  - uid: '22534'
+    id_type: Passport
+    id_number: MP2156098
+    id_country: Belarus
+  - uid: '142467'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '42464'
+    date_of_birth: 29 Sep 1955
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '42465'
+    place_of_birth: Popovka village, Senno/Sjanno, Vitebsk Region, Belarus
+    main_entry: 'true'

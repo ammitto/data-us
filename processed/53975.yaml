@@ -1,0 +1,44 @@
+---
+uid: '53975'
+first_name: Kamal Hussain
+last_name: AL JEBRY
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '84045'
+    type: a.k.a.
+    category: strong
+    last_name: AL JABRI
+    first_name: Kamal Hussein Mohssen
+address_list:
+  items:
+  - uid: '82373'
+    city: Sana'a
+    country: Yemen
+id_list:
+  items:
+  - uid: '47408'
+    id_type: Passport
+    id_number: '00005959'
+    id_country: Yemen
+  - uid: '189170'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '189158'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '89157'
+    date_of_birth: 12 Mar 1964
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '89160'
+    place_of_birth: Yemen
+    main_entry: 'true'
+remarks: "(Linked To: INTERNATIONAL BANK OF YEMEN Y.S.C.)"

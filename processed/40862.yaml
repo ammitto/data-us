@@ -1,0 +1,46 @@
+---
+uid: '40862'
+last_name: UVICOM LTD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63574'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU NAUCHNO-PROIZVODSTVENNY
+      TSENTR UGLERODNYE VOLOKNA I KOMPOZITY
+  - uid: '63575'
+    type: a.k.a.
+    category: strong
+    last_name: UVIKOM OOO
+address_list:
+  items:
+  - uid: '60918'
+    address1: Ul. Kolontsova D. 5, Mytischi
+    postal_code: '141009'
+    country: Russia
+  - uid: '60919'
+    address1: D. 38 k. Administrativno-Bytovoi A pom. 601, prospekt Olimpiski Mytishchi
+    state_or_province: Moskovskaya Obl.
+    postal_code: '141006'
+    country: Russia
+id_list:
+  items:
+  - uid: '30099'
+    id_type: Registration Number
+    id_number: '1025003524655'
+    id_country: Russia
+  - uid: '30100'
+    id_type: Tax ID No.
+    id_number: '5029017567'
+    id_country: Russia
+  - uid: '30101'
+    id_type: Government Gazette Number
+    id_number: '18070047'
+    id_country: Russia
+  - uid: '174166'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,42 @@
+---
+uid: '47749'
+last_name: JSC IZHEVSK MOTOR PLANT AKSION HOLDING
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74050'
+    type: a.k.a.
+    category: strong
+    last_name: AO IZHEVSKII MOTOZAVOD AKSION KHOLDING
+  - uid: '74051'
+    type: a.k.a.
+    category: strong
+    last_name: IZHEVSK MOTOZAVOD AXION HOLDING JSC
+address_list:
+  items:
+  - uid: '71410'
+    address1: 90 Maksima Gorkogo Street
+    city: Izhevsk
+    postal_code: '426008'
+    country: Russia
+  - uid: '71411'
+    address1: Per. Furmannyi D. 12 Str 1
+    city: Moscow
+    postal_code: '105062'
+    country: Russia
+id_list:
+  items:
+  - uid: '38406'
+    id_type: Tax ID No.
+    id_number: '1826000616'
+    id_country: Russia
+  - uid: '38407'
+    id_type: Registration Number
+    id_number: '1021801140833'
+    id_country: Russia
+  - uid: '169632'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

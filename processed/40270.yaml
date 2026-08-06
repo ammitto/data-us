@@ -1,0 +1,35 @@
+---
+uid: '40270'
+first_name: Denis Vladimirovich
+last_name: PASLER
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '60035'
+    city: Orenburg
+    country: Russia
+id_list:
+  items:
+  - uid: '29459'
+    id_type: Tax ID No.
+    id_number: '663103035975'
+    id_country: Russia
+  - uid: '157345'
+    id_type: Gender
+    id_number: Male
+  - uid: '174071'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '57343'
+    date_of_birth: 29 Oct 1978
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '57344'
+    place_of_birth: Severouralsk, Sverdlovsk region, Russia
+    main_entry: 'true'

@@ -1,0 +1,37 @@
+---
+uid: '55556'
+first_name: Seyed Behzad
+last_name: BOUZARY
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+address_list:
+  items:
+  - uid: '84947'
+    city: Essen
+    country: Germany
+id_list:
+  items:
+  - uid: '49546'
+    id_type: Passport
+    id_number: C6XTLL1T9
+    id_country: Germany
+  - uid: '193069'
+    id_type: Gender
+    id_number: Male
+  - uid: '193070'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '93066'
+    date_of_birth: 21 Mar 1963
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '93067'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: STAR MANAGEMENT GROUP GMBH)"

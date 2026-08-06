@@ -1,0 +1,49 @@
+---
+uid: '24516'
+last_name: PROFINET PTE. LTD.
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK4
+aka_list:
+  items:
+  - uid: '38639'
+    type: a.k.a.
+    category: strong
+    last_name: PROFINET, OOO
+  - uid: '38640'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU PROFINET
+  - uid: '38641'
+    type: a.k.a.
+    category: strong
+    last_name: PROFINET AGENCY
+address_list:
+  items:
+  - uid: '37007'
+    address1: 46, ul. Malinovskogo
+    city: Nakhodka
+    state_or_province: Primorski Kr.
+    postal_code: '692919'
+    country: Russia
+  - uid: '37008'
+    address1: office 2, 30, Pogranichnaya Street
+    city: Nakhodka
+    state_or_province: Primorskiy Region
+    postal_code: '692922'
+    country: Russia
+  - uid: '37009'
+    address1: Pogranichnaya str. 30-2
+    city: Nakhodka
+    postal_code: '692922'
+    country: Russia
+id_list:
+  items:
+  - uid: '127940'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '135211'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214

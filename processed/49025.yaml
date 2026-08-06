@@ -1,0 +1,33 @@
+---
+uid: '49025'
+first_name: Griselda Margarita
+last_name: ARREDONDO PINZON
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '73756'
+    city: Puerto Vallarta
+    state_or_province: Jalisco
+    country: Mexico
+id_list:
+  items:
+  - uid: '40098'
+    id_type: C.U.R.P.
+    id_number: AEPG900601MJCRNR08
+    id_country: Mexico
+  - uid: '171830'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '71829'
+    date_of_birth: 01 Jun 1990
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '71832'
+    place_of_birth: Puerto Vallarta, Jalisco, Mexico
+    main_entry: 'true'

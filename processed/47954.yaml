@@ -1,0 +1,37 @@
+---
+uid: '47954'
+last_name: LIMITED LIABILITY COMPANY AUTO HOLDING
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74741'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY LADA AUTO HOLDING
+address_list:
+  items:
+  - uid: '71823'
+    address1: 3 Gorokhovskiy Lane
+    address2: Building 3
+    address3: Suite 9
+    city: Moscow
+    postal_code: '105064'
+    country: Russia
+id_list:
+  items:
+  - uid: '38774'
+    id_type: Tax ID No.
+    id_number: '9701184553'
+    id_country: Russia
+  - uid: '38775'
+    id_type: Registration Number
+    id_number: '1217700437415'
+    id_country: Russia
+  - uid: '176559'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: FEDERAL STATE UNITARY ENTERPRISE CENTRAL ORDER OF THE RED BANNER
+  SCIENTIFIC RESEARCH AUTOMOBILE AND AUTOMOTIVE ENGINES INSTITUTE NAMI)"

@@ -1,0 +1,30 @@
+---
+uid: '52506'
+last_name: PASAR GAS COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '80199'
+    address1: Number 113, Floor 2, Hovizeh Street, Marghab Street, Shahid Qandi-Nilufar,
+      Central Section
+    city: Tehran
+    state_or_province: Tehran
+    postal_code: '1553616914'
+    country: Iran
+id_list:
+  items:
+  - uid: '45503'
+    id_type: National ID No.
+    id_number: '10100483906'
+    id_country: Iran
+  - uid: '45504'
+    id_type: Registration Number
+    id_number: '12524'
+    id_country: Iran
+  - uid: '184169'
+    id_type: Organization Established Date
+    id_number: 10 Jan 2010
+remarks: "(Linked To: EMAMJOMEH, Seyed Asadoollah)"

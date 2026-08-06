@@ -1,0 +1,42 @@
+---
+uid: '34766'
+last_name: AKTSIONERNOE OBSHCHESTVO SOVKOMBANK STRAKHOVANIE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54544'
+    type: a.k.a.
+    category: strong
+    last_name: SOVCOMBANK INSURANCE JSC
+  - uid: '54859'
+    type: a.k.a.
+    category: strong
+    last_name: AO SOVKOMBANK STRAKHOVANIE
+address_list:
+  items:
+  - uid: '52109'
+    address1: Pr-Kt Moskovskii D.79a
+    address2: Lit.A
+    city: Saint Petersburg
+    postal_code: '196084'
+    country: Russia
+id_list:
+  items:
+  - uid: '24449'
+    id_type: Tax ID No.
+    id_number: '7812016906'
+    id_country: Russia
+  - uid: '24450'
+    id_type: Registration Number
+    id_number: '1027810229150'
+    id_country: Russia
+  - uid: '175209'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '146219'
+    id_type: Website
+    id_number: kfins.ru
+remarks: "(Linked To: SOVCOMBANK OPEN JOINT STOCK COMPANY)"

@@ -1,0 +1,30 @@
+---
+uid: '55025'
+last_name: CARTEL DE LOS SOLES
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+  - FTO
+aka_list:
+  items:
+  - uid: '85662'
+    type: a.k.a.
+    category: strong
+    last_name: CARTEL OF THE SUNS
+address_list:
+  items:
+  - uid: '84122'
+    country: Venezuela
+id_list:
+  items:
+  - uid: '191804'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '191776'
+    id_type: 'Organization Type:'
+    id_number: Transnational Terrorist Group
+  - uid: '191777'
+    id_type: Target Type
+    id_number: Criminal Organization

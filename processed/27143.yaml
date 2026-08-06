@@ -1,0 +1,40 @@
+---
+uid: '27143'
+last_name: MARITIME ASSISTANCE LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13685
+aka_list:
+  items:
+  - uid: '42952'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY MARITIME ASSISTANCE
+address_list:
+  items:
+  - uid: '41213'
+    address1: Sadovaya-Kudrinskaya street, building 32-1
+    address2: office XII on 6th fl., cabinet 4d
+    city: Moscow
+    postal_code: '123001'
+    country: Russia
+id_list:
+  items:
+  - uid: '17754'
+    id_type: Registration Number
+    id_number: '1157746142960'
+    id_country: Russia
+  - uid: '17755'
+    id_type: Tax ID No.
+    id_number: '7718075252'
+    id_country: Russia
+  - uid: '17756'
+    id_type: Government Gazette Number
+    id_number: '770301001'
+    id_country: Russia
+  - uid: '144062'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+remarks: "(Linked To: OJSC SOVFRACHT)"

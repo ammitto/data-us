@@ -1,0 +1,31 @@
+---
+uid: '56647'
+first_name: Eloisa
+last_name: FLORES DE MALPICA
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA-EO13850
+address_list:
+  items:
+  - uid: '86667'
+    country: Venezuela
+id_list:
+  items:
+  - uid: '50743'
+    id_type: Cedula No.
+    id_number: '3989591'
+    id_country: Venezuela
+  - uid: '195247'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '95250'
+    date_of_birth: 01 Dec 1948
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '95251'
+    place_of_birth: Tinaquillo, Venezuela
+    main_entry: 'true'

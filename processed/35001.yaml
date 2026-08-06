@@ -1,0 +1,47 @@
+---
+uid: '35001'
+last_name: JSC INFRAVEB
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '55046'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO VEB INFRASTRUKTURA
+  - uid: '55047'
+    type: a.k.a.
+    category: strong
+    last_name: AO INFRAVEB
+address_list:
+  items:
+  - uid: '52535'
+    address1: ul. Mashi Poryvaevoi D. 7 str. V
+    city: Moscow
+    postal_code: '107078'
+    country: Russia
+  - uid: '52536'
+    address1: ul. Vozdvizhenka D. 7/6, str. 1, et/pom/kom 3/II/7
+    city: Moscow
+    postal_code: '119019'
+    country: Russia
+id_list:
+  items:
+  - uid: '24703'
+    id_type: Registration Number
+    id_number: '1027739088410'
+    id_country: Russia
+  - uid: '24704'
+    id_type: Tax ID No.
+    id_number: '7704133578'
+    id_country: Russia
+  - uid: '175223'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '146612'
+    id_type: Website
+    id_number: vebinfra.ru
+remarks: "(Linked To: STATE CORPORATION BANK FOR DEVELOPMENT AND FOREIGN ECONOMIC
+  AFFAIRS VNESHECONOMBANK)"

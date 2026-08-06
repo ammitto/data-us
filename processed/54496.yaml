@@ -1,0 +1,38 @@
+---
+uid: '54496'
+last_name: AL-HAMMADI TRADING, SHIPPING, AND CLEARANCE CO., LTD.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '84797'
+    type: a.k.a.
+    category: strong
+    last_name: NASR AL-HAMMADI SHIPPING AND CUSTOMS CLEARANCE AND PUBLIC TRADE COMPANY
+  - uid: '84798'
+    type: a.k.a.
+    category: strong
+    last_name: AL-NASR COMPANY FOR GENERAL TRADING
+  - uid: '84799'
+    type: a.k.a.
+    category: weak
+    last_name: NIMEX
+address_list:
+  items:
+  - uid: '83239'
+    address1: Yiwu Logistics Center, 4th Floor, 498 Chemical Road
+    city: Yiwu
+    state_or_province: Zhejiang
+    country: China
+id_list:
+  items:
+  - uid: '190485'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '190484'
+    id_type: Organization Established Date
+    id_number: Dec 2019
+remarks: "(Linked To: ANSARALLAH)"

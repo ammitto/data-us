@@ -1,0 +1,42 @@
+---
+uid: '44581'
+first_name: Raja
+last_name: SALAMEH
+sdn_type: Individual
+program_list:
+  programs:
+  - LEBANON
+aka_list:
+  items:
+  - uid: '68888'
+    type: a.k.a.
+    category: strong
+    last_name: SALAME
+    first_name: Raja
+address_list:
+  items:
+  - uid: '66354'
+    address1: Chalet C9601 Portemilio Resort
+    city: Kaslik
+    state_or_province: Keserwan-Jbeil
+    country: Lebanon
+id_list:
+  items:
+  - uid: '34083'
+    id_type: Passport
+    id_number: RL1670084
+    id_country: Lebanon
+    expiration_date: 22 Oct 2018
+  - uid: '164583'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '64568'
+    date_of_birth: 15 Aug 1960
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '64566'
+    place_of_birth: Antelias, Lebanon
+    main_entry: 'true'

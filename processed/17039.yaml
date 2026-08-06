@@ -1,0 +1,58 @@
+---
+uid: '17039'
+last_name: STARS GROUP HOLDING
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '26168'
+    type: a.k.a.
+    category: strong
+    last_name: STARS GROUP SAL (HOLDING)
+  - uid: '26169'
+    type: a.k.a.
+    category: strong
+    last_name: STARS GROUP HOLDING SAL
+address_list:
+  items:
+  - uid: '25869'
+    address1: Property Number 5208/62, Issam Mohamed Amha, 6th Floor, Dallas Center,
+      Old Saida Road, C
+    country: Lebanon
+  - uid: '25870'
+    address1: Postal Box 13-5483
+    country: Lebanon
+  - uid: '25871'
+    address1: Bdeir Building, Snoubra Street, Bir El-Abed Area
+    city: Haret Hreik
+    state_or_province: Baabda
+    country: Lebanon
+  - uid: '25872'
+    address1: Bir El Abed, Hadi Nasrallah Highway, Middle East & Africa Bank Building,
+      First Floor
+    city: Beirut
+    country: Lebanon
+  - uid: '25873'
+    address1: Old Saida Road, Dallas Center, 6th Floor
+    city: Beirut
+    country: Lebanon
+id_list:
+  items:
+  - uid: '9512'
+    id_type: Commercial Registry Number
+    id_number: '1901453'
+    id_country: Lebanon
+  - uid: '186764'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '115790'
+    id_type: Website
+    id_number: www.starscom.net
+  - uid: '120235'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
+      Sanctions Regulations
+remarks: "(Linked To: AMHAZ, Kamel Mohamad)"

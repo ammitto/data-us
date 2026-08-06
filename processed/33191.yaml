@@ -1,0 +1,32 @@
+---
+uid: '33191'
+first_name: Aleksandr Pavlovich
+last_name: ZHIVLYUK
+sdn_type: Individual
+program_list:
+  programs:
+  - BELARUS-EO14038
+address_list:
+  items:
+  - uid: '49868'
+    address1: 62-164 Sukharevskaya St.
+    city: Minsk
+    country: Belarus
+id_list:
+  items:
+  - uid: '22879'
+    id_type: National ID No.
+    id_number: 3130181C043PB0
+    id_country: Belarus
+  - uid: '22880'
+    id_type: Tax ID No.
+    id_number: BA9295684
+    id_country: Belarus
+  - uid: '144247'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '43090'
+    date_of_birth: 13 Jan 1981
+    main_entry: 'true'

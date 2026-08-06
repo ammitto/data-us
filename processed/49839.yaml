@@ -1,0 +1,42 @@
+---
+uid: '49839'
+last_name: BARCO SHIP MANAGEMENT INC
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '75342'
+    address1: Trust Company Complex
+    address2: Ajeltake Road
+    address3: Ajeltake Island
+    city: Majuro
+    postal_code: MH96960
+    country: Marshall Islands
+  - uid: '75343'
+    address1: Office 201
+    address2: Art Thamani Tower
+    address3: Al-Asayel Street
+    city: Dubai
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '41317'
+    id_type: Business Registration Number
+    id_number: '118561'
+    id_country: Marshall Islands
+  - uid: '41318'
+    id_type: Identification Number
+    id_number: IMO 6389977
+  - uid: '177261'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '177263'
+    id_type: Organization Established Date
+    id_number: 21 Feb 2023
+  - uid: '177262'
+    id_type: Registration Country
+    id_number: Marshall Islands
+remarks: "(Linked To: AL-JAMAL, Sa'id Ahmad Muhammad)"

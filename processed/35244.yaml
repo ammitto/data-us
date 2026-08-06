@@ -1,0 +1,76 @@
+---
+uid: '35244'
+last_name: LIMITED LIABILITY COMPANY RVC MANAGEMENT COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '55452'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOY OTVETSTVENNOSTYU UPRAVLYAYUSHCHAYA KOMPANIYA
+      RVK
+  - uid: '55453'
+    type: a.k.a.
+    category: strong
+    last_name: RVC MANAGEMENT COMPANY LLC
+  - uid: '55454'
+    type: a.k.a.
+    category: weak
+    last_name: LLC MC RVC
+  - uid: '55455'
+    type: a.k.a.
+    category: weak
+    last_name: LLC UK RVK
+  - uid: '55456'
+    type: a.k.a.
+    category: weak
+    last_name: OOO UK RVK
+  - uid: '55457'
+    type: a.k.a.
+    category: strong
+    last_name: RUSSIAN VENTURE COMPANY
+address_list:
+  items:
+  - uid: '52966'
+    address1: D. 8, Str. 1, Etaj 12
+    address2: Nab. Presnenskaya
+    city: Moscow
+    postal_code: '123112'
+    country: Russia
+id_list:
+  items:
+  - uid: '24939'
+    id_type: Government Gazette Number
+    id_number: '33185693'
+    id_country: Russia
+  - uid: '24940'
+    id_type: Registration Number
+    id_number: '1207700502547'
+    id_country: Russia
+  - uid: '24941'
+    id_type: Tax ID No.
+    id_number: '9703024347'
+    id_country: Russia
+  - uid: '176694'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '147404'
+    id_type: Organization Established Date
+    id_number: 30 Dec 2020
+  - uid: '147405'
+    id_type: 'Organization Type:'
+    id_number: Trusts, funds and similar financial entities
+  - uid: '147406'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '147407'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
+  - uid: '147402'
+    id_type: Website
+    id_number: https://rvc.ru
+remarks: "(Linked To: JOINT STOCK COMPANY MANAGEMENT COMPANY OF THE RUSSIAN DIRECT
+  INVESTMENT FUND)"

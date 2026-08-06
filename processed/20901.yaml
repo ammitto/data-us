@@ -1,0 +1,80 @@
+---
+uid: '20901'
+first_name: Maxime
+last_name: MOKOM
+sdn_type: Individual
+program_list:
+  programs:
+  - CAR
+aka_list:
+  items:
+  - uid: '33083'
+    type: a.k.a.
+    category: strong
+    last_name: GAWAKA
+    first_name: Maxime Eli Jeoffroy Mokom
+  - uid: '33085'
+    type: a.k.a.
+    category: strong
+    last_name: MOKOM-GAWAKA
+    first_name: Maxime Jeoffroy Eli
+  - uid: '33086'
+    type: a.k.a.
+    category: strong
+    last_name: GAWAKA
+    first_name: Maxime Mokom
+  - uid: '33087'
+    type: a.k.a.
+    category: strong
+    last_name: MOCOM
+    first_name: Maxime
+  - uid: '33088'
+    type: a.k.a.
+    category: strong
+    last_name: MOKOM
+    first_name: Gawaka
+  - uid: '33090'
+    type: a.k.a.
+    category: strong
+    last_name: MOKOME
+    first_name: Maxime
+  - uid: '33091'
+    type: a.k.a.
+    category: strong
+    last_name: MOKOM
+    first_name: Maxim
+  - uid: '33092'
+    type: a.k.a.
+    category: strong
+    last_name: MOKOUM
+    first_name: Maxime
+  - uid: '33093'
+    type: a.k.a.
+    category: weak
+    last_name: Colonel Rock
+address_list:
+  items:
+  - uid: '31676'
+    address1: Boy-Rabe
+    city: Bangui
+    country: Central African Republic
+id_list:
+  items:
+  - uid: '13005'
+    id_type: Passport
+    id_number: O00006983
+    id_country: Central African Republic
+    expiration_date: 02 Feb 2017
+  - uid: '121588'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '21585'
+    date_of_birth: 30 Dec 1978
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '21586'
+    place_of_birth: Bangui, Central African Republic
+    main_entry: 'true'

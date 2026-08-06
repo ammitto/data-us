@@ -1,0 +1,38 @@
+---
+uid: '29363'
+first_name: Indira Maira
+last_name: ALFONZO IZAGUIRRE
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+address_list:
+  items:
+  - uid: '44411'
+    address1: Los Teques
+    state_or_province: Edo Miranda
+    country: Venezuela
+id_list:
+  items:
+  - uid: '19549'
+    id_type: Cedula No.
+    id_number: V-6978710
+    id_country: Venezuela
+  - uid: '19550'
+    id_type: Passport
+    id_number: '022795494'
+    id_country: Venezuela
+    expiration_date: 19 May 2014
+  - uid: '136176'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '36177'
+    date_of_birth: 29 Apr 1968
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '36178'
+    place_of_birth: Venezuela
+    main_entry: 'true'

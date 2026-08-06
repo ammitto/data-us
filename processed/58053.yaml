@@ -1,0 +1,33 @@
+---
+uid: '58053'
+last_name: ORGANIZACION SUPERIOR DE DIRECCION EMPRESARIAL CAUDAL S.A.
+sdn_type: Entity
+program_list:
+  programs:
+  - CUBA-EO14404
+aka_list:
+  items:
+  - uid: '89788'
+    type: a.k.a.
+    category: strong
+    last_name: GRUPO CAUDAL S.A.
+  - uid: '89789'
+    type: a.k.a.
+    category: strong
+    last_name: OSDE CAUDAL S.A.
+address_list:
+  items:
+  - uid: '89152'
+    city: Havana
+    country: Cuba
+id_list:
+  items:
+  - uid: '199342'
+    id_type: Organization Established Date
+    id_number: 31 Mar 2000
+  - uid: '199432'
+    id_type: 'Organization Type:'
+    id_number: Activities of holding companies
+  - uid: '199433'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

@@ -1,0 +1,24 @@
+---
+uid: '51528'
+last_name: BUK
+sdn_type: Vessel
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+id_list:
+  items:
+  - uid: '43938'
+    id_type: Vessel Registration Identification
+    id_number: IMO 9201994
+  - uid: '43939'
+    id_type: MMSI
+    id_number: '273318480'
+  - uid: '181173'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183487'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+remarks: "(Linked To: RPK NORD LIMITED LIABILITY COMPANY)"

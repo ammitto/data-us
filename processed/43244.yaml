@@ -1,0 +1,38 @@
+---
+uid: '43244'
+last_name: LIMITED LIABILITY COMPANY MERKURIY SERVISEZ
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '67040'
+    type: a.k.a.
+    category: strong
+    last_name: MERKURI SERVISEZ OOO
+address_list:
+  items:
+  - uid: '64535'
+    address1: 3 1-Ya Rybinskaya Street, Building 1, Floor 4, Complex 1/5
+    address2: Sokolniki Municipal District
+    city: Moscow
+    postal_code: '107113'
+    country: Russia
+id_list:
+  items:
+  - uid: '32796'
+    id_type: Tax ID No.
+    id_number: '7718994601'
+    id_country: Russia
+  - uid: '32797'
+    id_type: Registration Number
+    id_number: '1147746941726'
+    id_country: Russia
+  - uid: '175660'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '162430'
+    id_type: Organization Established Date
+    id_number: 19 Aug 2014
+remarks: "(Linked To: KESAEV, Igor Albertovich)"

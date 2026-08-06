@@ -1,0 +1,46 @@
+---
+uid: '40581'
+last_name: AKTSIONERNOYE OBSHCHESTVO DALNEVOSTOCHNYY ZAVOD ZVEZDA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63076'
+    type: a.k.a.
+    category: weak
+    last_name: DVZ ZVEZDA AO
+  - uid: '63077'
+    type: a.k.a.
+    category: weak
+    last_name: FEP ZVEZA JSC
+  - uid: '63078'
+    type: a.k.a.
+    category: strong
+    last_name: FAR EASTERN PLANT ZVEZDA JOINT STOCK COMPANY
+address_list:
+  items:
+  - uid: '60453'
+    address1: 1 Ulitsa Stepana Lebedeva
+    city: Bolshoi Kamen
+    postal_code: '692801'
+    country: Russia
+id_list:
+  items:
+  - uid: '29729'
+    id_type: Tax ID No.
+    id_number: '2503026908'
+    id_country: Russia
+  - uid: '29730'
+    id_type: Registration Number
+    id_number: '1082503000931'
+    id_country: Russia
+  - uid: '174125'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '157860'
+    id_type: Organization Established Date
+    id_number: 06 Nov 2008
+remarks: "(Linked To: AKTSIONERNOYE OBSHCHESTVO DALNEVOSTOCHNYY TSENTR SUDOSTROYENIYA
+  I SUDOREMONTA)"

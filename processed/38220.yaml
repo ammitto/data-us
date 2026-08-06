@@ -1,0 +1,58 @@
+---
+uid: '38220'
+last_name: ADORABELLA AG
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59976'
+    type: a.k.a.
+    category: strong
+    last_name: ADORABELLA SA
+  - uid: '59977'
+    type: a.k.a.
+    category: strong
+    last_name: ADORABELLA LTD
+  - uid: '59978'
+    type: a.k.a.
+    category: strong
+    last_name: ADORABELLA LIMITED
+  - uid: '61991'
+    type: a.k.a.
+    category: strong
+    last_name: ADORABELLA MKOOO
+address_list:
+  items:
+  - uid: '57254'
+    address1: Dammstrasse 19
+    city: Zug
+    postal_code: '6300'
+    country: Switzerland
+  - uid: '57255'
+    address1: Floor Office 1 G 25
+    address2: B-R Solnechny, 25
+    city: Kaliningrad
+    postal_code: '236006'
+    country: Russia
+id_list:
+  items:
+  - uid: '27501'
+    id_type: Registration Number
+    id_number: CH-170.3.046.017-9
+    id_country: Switzerland
+  - uid: '27502'
+    id_type: Tax ID No.
+    id_number: '495081111'
+    id_country: Switzerland
+  - uid: '27598'
+    id_type: Legal Entity Number
+    id_number: 2138006K8AF4JD339S40
+  - uid: '153477'
+    id_type: Organization Established Date
+    id_number: 02 Jul 2021
+  - uid: '174658'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: GURYEV, Andrey Grigoryevich)"

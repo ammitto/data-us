@@ -1,0 +1,30 @@
+---
+uid: '52675'
+last_name: COSMOS LINES INC
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13846
+address_list:
+  items:
+  - uid: '80506'
+    address1: 1/49
+    address2: East Street
+    address3: Vadakkumangudi
+    city: Thanjavur
+    postal_code: '614303'
+    country: India
+  - uid: '80633'
+    country: Marshall Islands
+id_list:
+  items:
+  - uid: '45796'
+    id_type: Identification Number
+    id_number: IMO 6511361
+  - uid: '45797'
+    id_type: Business Registration Number
+    id_number: '125870'
+    id_country: Marshall Islands
+  - uid: '184498'
+    id_type: Organization Established Date
+    id_number: 10 May 2024

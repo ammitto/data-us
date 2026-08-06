@@ -1,0 +1,51 @@
+---
+uid: '48544'
+last_name: JSC BIOGRAD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75446'
+    type: a.k.a.
+    category: strong
+    last_name: BIOGRAD LLC
+  - uid: '75447'
+    type: a.k.a.
+    category: strong
+    last_name: BIOGRADE LTD
+  - uid: '75448'
+    type: a.k.a.
+    category: strong
+    last_name: ZAO BIOGRAD
+address_list:
+  items:
+  - uid: '72873'
+    address1: Ul. Mira 14, Kv 630
+    city: Saint Petersburg
+    postal_code: '197101'
+    country: Russia
+  - uid: '72874'
+    address1: Pr-kt Petrovskii D. 14, Lit. A, Pom. 19N
+    city: Saint Petersburg
+    postal_code: '197110'
+    country: Russia
+  - uid: '72875'
+    address1: Torzhkovskaya st. 5, BC Optima
+    city: Saint Petersburg
+    postal_code: '197342'
+    country: Russia
+id_list:
+  items:
+  - uid: '39492'
+    id_type: Registration Number
+    id_number: '1027806867670'
+    id_country: Russia
+  - uid: '39493'
+    id_type: Tax ID No.
+    id_number: '7813030678'
+    id_country: Russia
+  - uid: '171207'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

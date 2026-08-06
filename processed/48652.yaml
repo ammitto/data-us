@@ -1,0 +1,39 @@
+---
+uid: '48652'
+first_name: Ali Habibi
+last_name: NAJAFI
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '75666'
+    type: a.k.a.
+    category: strong
+    last_name: HABIBI
+    first_name: Ali
+address_list:
+  items:
+  - uid: '73109'
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '39641'
+    id_type: National ID No.
+    id_number: '0060598298'
+    id_country: Iran
+  - uid: '170981'
+    id_type: Gender
+    id_number: Male
+  - uid: '170985'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '71002'
+    date_of_birth: 25 Dec 1977
+    main_entry: 'true'
+remarks: "(Linked To: ASEMAN PISHRANEH CO. LTD)"

@@ -1,0 +1,46 @@
+---
+uid: '44021'
+last_name: JOINT STOCK COMPANY SCIENTIFIC PRODUCTION ENTERPRISE AEROSILA
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '68056'
+    type: a.k.a.
+    category: strong
+    last_name: JSC SPE AEROSILA
+  - uid: '68057'
+    type: a.k.a.
+    category: strong
+    last_name: NPP AEROSILA, AO
+address_list:
+  items:
+  - uid: '65513'
+    address1: 6, Zhdanov Str
+    city: Stupino
+    state_or_province: Moscow region
+    postal_code: '142800'
+    country: Russia
+id_list:
+  items:
+  - uid: '33406'
+    id_type: Tax ID No.
+    id_number: '5045002261'
+    id_country: Russia
+  - uid: '33407'
+    id_type: Business Registration Number
+    id_number: '1025005917023'
+    id_country: Russia
+  - uid: '163593'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '163591'
+    id_type: Website
+    id_number: www.aerosila.ru
+  - uid: '163592'
+    id_type: Organization Established Date
+    id_number: '09 Sep 2002'
+remarks: "(Linked To: IRAN AIRCRAFT MANUFACTURING INDUSTRIAL COMPANY)"

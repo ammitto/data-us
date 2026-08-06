@@ -1,0 +1,55 @@
+---
+uid: '50607'
+last_name: STROYTREYD LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK3
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79147'
+    type: a.k.a.
+    category: strong
+    last_name: STROYTRADE
+  - uid: '79148'
+    type: a.k.a.
+    category: strong
+    last_name: STROYTREYD
+address_list:
+  items:
+  - uid: '76734'
+    address1: Pomeshch 1/1, D. 32, K. 1, Novoyasenevskiy Avenue
+    address2: Yasenevo District
+    city: Moscow
+    postal_code: '117463'
+    country: Russia
+  - uid: '76735'
+    address1: Suite 1/1, Apt. 1, Bldg. 32, Novoyasenevskiy Prospekt
+    address2: Municipal district Yasenevo
+    city: Moscow
+    postal_code: '117463'
+    country: Russia
+id_list:
+  items:
+  - uid: '42462'
+    id_type: Public Registration Number
+    id_number: '1237700700665'
+    id_country: Russia
+  - uid: '42463'
+    id_type: Tax ID No.
+    id_number: '9728108831'
+    id_country: Russia
+  - uid: '178989'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '179191'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '179273'
+    id_type: Organization Established Date
+    id_number: 17 Oct 2023
+  - uid: '178988'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214

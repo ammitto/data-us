@@ -1,0 +1,38 @@
+---
+uid: '41106'
+first_name: Artem Alekseyevich
+last_name: ZDUNOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '64104'
+    type: a.k.a.
+    category: strong
+    last_name: ZDUNOV
+    first_name: Artyom Alekseyevich
+address_list:
+  items:
+  - uid: '61442'
+    state_or_province: Mordovia Republic
+    country: Russia
+id_list:
+  items:
+  - uid: '159062'
+    id_type: Gender
+    id_number: Male
+  - uid: '173636'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '59060'
+    date_of_birth: 18 May 1978
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '59061'
+    place_of_birth: Kazan, Tatarstan Republic, Russia
+    main_entry: 'true'

@@ -1,0 +1,30 @@
+---
+uid: '46017'
+last_name: SISTEMA SMARTTEKH
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '68537'
+    address1: Per. Bolshoi Balkanskii D. 20
+    address2: Str. 1
+    address3: Et 2 Pom.24
+    city: Moscow
+    postal_code: '129090'
+    country: Russia
+id_list:
+  items:
+  - uid: '35849'
+    id_type: Registration Number
+    id_number: '1207700073459'
+    id_country: Russia
+  - uid: '35850'
+    id_type: Tax ID No.
+    id_number: '7708374327'
+    id_country: Russia
+  - uid: '174890'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: SISTEMA PUBLIC JOINT STOCK FINANCIAL CORPORATION)"

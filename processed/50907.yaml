@@ -1,0 +1,41 @@
+---
+uid: '50907'
+last_name: AO CHIP I DIP
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79740'
+    type: a.k.a.
+    category: weak
+    last_name: CHIP&DIP
+  - uid: '79741'
+    type: a.k.a.
+    category: weak
+    last_name: CHIP AND DIP
+address_list:
+  items:
+  - uid: '77307'
+    address1: Ul. Gilyarovskogo D. 39, Str. 1
+    city: Moscow
+    postal_code: '129110'
+    country: Russia
+id_list:
+  items:
+  - uid: '42903'
+    id_type: Registration Number
+    id_number: '1027700271807'
+    id_country: Russia
+  - uid: '42904'
+    id_type: Tax ID No.
+    id_number: '7729108750'
+    id_country: Russia
+  - uid: '179694'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '180852'
+    id_type: 'Organization Type:'
+    id_number: Retail sale of information and communications equipment in specialized
+      stores

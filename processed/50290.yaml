@@ -1,0 +1,49 @@
+---
+uid: '50290'
+first_name: Sergei Timofeevich
+last_name: KHVOSHCH
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78571'
+    type: a.k.a.
+    category: strong
+    last_name: KHVOSHCH
+    first_name: Serhiy Tymofiyovych
+  - uid: '78573'
+    type: a.k.a.
+    category: strong
+    last_name: KHVOSHCH
+    first_name: Sergey Timofeyevich
+address_list:
+  items:
+  - uid: '76182'
+    address1: 11/1 - 121 Kosygina
+    city: St. Petersburg
+    postal_code: '195426'
+    country: Russia
+id_list:
+  items:
+  - uid: '41992'
+    id_type: Tax ID No.
+    id_number: '780600994989'
+    id_country: Russia
+  - uid: '178144'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '178143'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '78140'
+    date_of_birth: 31 May 1951
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '78141'
+    place_of_birth: Ukraine
+    main_entry: 'true'

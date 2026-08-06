@@ -1,0 +1,49 @@
+---
+uid: '41920'
+last_name: LEBEDINSKIY GORNO OBOGATITELNIY KOMBINAT JOINT STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65158'
+    type: a.k.a.
+    category: strong
+    last_name: LEBEDINSKI GOK AO
+  - uid: '65159'
+    type: a.k.a.
+    category: strong
+    last_name: LEBEDINSKIY GOK JSC
+  - uid: '65732'
+    type: n.k.a.
+    category: weak
+    last_name: LGOK
+address_list:
+  items:
+  - uid: '62534'
+    address1: Industrial Site of LGOK
+    city: Gubkin
+    state_or_province: Belgorod Oblast
+    postal_code: '309191'
+    country: Russia
+id_list:
+  items:
+  - uid: '31303'
+    id_type: Registration Number
+    id_number: '1023102257914'
+    id_country: Russia
+  - uid: '31304'
+    id_type: Tax ID No.
+    id_number: '3127000014'
+    id_country: Russia
+  - uid: '173699'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '160168'
+    id_type: 'Organization Type:'
+    id_number: Mining of iron ores
+  - uid: '160167'
+    id_type: Organization Established Date
+    id_number: '1971'
+remarks: "(Linked To: HOLDINGOVAYA KOMPANIYA METALLOINVEST AO)"

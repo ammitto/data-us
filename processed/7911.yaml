@@ -1,0 +1,72 @@
+---
+uid: '7911'
+last_name: ASSOCIATION DE SECOURS PALESTINIENS
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '5747'
+    type: a.k.a.
+    category: weak
+    last_name: ASP
+  - uid: '5748'
+    type: a.k.a.
+    category: strong
+    last_name: ASSOCIATION FOR PALESTINIAN AID
+  - uid: '5749'
+    type: a.k.a.
+    category: strong
+    last_name: ASSOCIATION SECOUR PALESTINIEN
+  - uid: '5750'
+    type: a.k.a.
+    category: strong
+    last_name: HUMANITARE HILFSORGANISATION FUR PALASTINA
+  - uid: '5751'
+    type: a.k.a.
+    category: strong
+    last_name: LAJNA AL-IGHATHA AL-FILISTINI
+  - uid: '5752'
+    type: a.k.a.
+    category: strong
+    last_name: PALESTINE RELIEF COMMITTEE
+  - uid: '5753'
+    type: a.k.a.
+    category: strong
+    last_name: PALESTINIAN AID COUNCIL
+  - uid: '5754'
+    type: a.k.a.
+    category: strong
+    last_name: PALESTINIAN AID ORGANIZATION
+  - uid: '5755'
+    type: a.k.a.
+    category: strong
+    last_name: PALESTINIAN RELIEF SOCIETY
+  - uid: '5756'
+    type: a.k.a.
+    category: strong
+    last_name: RELIEF ASSOCIATION FOR PALESTINE
+address_list:
+  items:
+  - uid: '6831'
+    address1: c/o Faical Yaakoubi, 7 rue de l'Ancien Port
+    city: Geneva
+    postal_code: CH-1201
+    country: Switzerland
+  - uid: '6832'
+    address1: Gartnerstrasse 55
+    city: Basel
+    postal_code: CH-4109
+    country: Switzerland
+  - uid: '6833'
+    address1: Postfach 406
+    city: Basel
+    postal_code: CH-4109
+    country: Switzerland
+id_list:
+  items:
+  - uid: '185733'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886

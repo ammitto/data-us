@@ -1,0 +1,41 @@
+---
+uid: '44922'
+first_name: Mohammad
+last_name: ABDOLLAHPOUR
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - IRAN-HR
+  - IRGC
+aka_list:
+  items:
+  - uid: '69501'
+    type: a.k.a.
+    category: strong
+    last_name: ABDOLLAH-POUR
+    first_name: Mohammad
+address_list:
+  items:
+  - uid: '66899'
+    state_or_province: Gilan Province
+    country: Iran
+id_list:
+  items:
+  - uid: '165499'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '165212'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '65289'
+    date_of_birth: 21 Mar 1963 to 20 Mar 1964
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '65213'
+    place_of_birth: Astaneh Ashrafieh, Gilan, Iran
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS)"

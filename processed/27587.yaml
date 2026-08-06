@@ -1,0 +1,40 @@
+---
+uid: '27587'
+first_name: Salim
+last_name: ESSA
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '43581'
+    type: a.k.a.
+    category: strong
+    last_name: ESSA
+    first_name: Salim Aziz
+address_list:
+  items:
+  - uid: '41861'
+    city: Johannesburg
+    country: South Africa
+id_list:
+  items:
+  - uid: '18175'
+    id_type: National ID No.
+    id_number: '7801155017084'
+    id_country: South Africa
+  - uid: '18176'
+    id_type: Passport
+    id_number: M00073786
+    id_country: South Africa
+    issue_date: '09 Nov 2012'
+    expiration_date: '08 Nov 2022'
+  - uid: '132763'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '32764'
+    date_of_birth: 15 Jan 1978
+    main_entry: 'true'

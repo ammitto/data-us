@@ -1,0 +1,46 @@
+---
+uid: '37024'
+last_name: NEKOMMERCHESKAYA ORGANIZATSIYA FOND KHIMICHESKOE RAZORUZHENIE I KONVERSIYA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '58138'
+    type: a.k.a.
+    category: strong
+    last_name: NKO FOND KHIMRAZORUZHENIE
+  - uid: '58139'
+    type: a.k.a.
+    category: strong
+    last_name: FOUNDATION CHEMICAL DISARMAMENT & CONVERSION
+  - uid: '58286'
+    type: a.k.a.
+    category: strong
+    last_name: FOUNDATION CHEMICAL DISARMAMENT AND CONVERSION
+address_list:
+  items:
+  - uid: '55420'
+    address1: Ul. Pravdy D.21
+    address2: Str.1
+    city: Moscow
+    postal_code: '125865'
+    country: Russia
+id_list:
+  items:
+  - uid: '26312'
+    id_type: Tax ID No.
+    id_number: '7726275181'
+    id_country: Russia
+  - uid: '26313'
+    id_type: Registration Number
+    id_number: '1037739149491'
+    id_country: Russia
+  - uid: '174437'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '151276'
+    id_type: Organization Established Date
+    id_number: 06 Apr 1998
+remarks: "(Linked To: JOINT STOCK COMPANY MOSCOW INDUSTRIAL BANK)"

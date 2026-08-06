@@ -1,0 +1,44 @@
+---
+uid: '11942'
+first_name: Ignacio
+last_name: MATEO LAUREANO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '18144'
+    address1: Calle Mariano Matamoros No. 58, Centro
+    address2: Colonia San Gabriel Chilac
+    state_or_province: Puebla
+    country: Mexico
+  - uid: '18145'
+    address1: Calle Sagitaro y Lactea No. 3085
+    address2: Colonia Las Palmas, entre Lactea y Av. La Paz
+    city: Ciudad Victoria
+    state_or_province: Tamaulipas
+    country: Mexico
+id_list:
+  items:
+  - uid: '6350'
+    id_type: C.U.R.P.
+    id_number: MALI770731HGRTRG07
+    id_country: Mexico
+  - uid: '6351'
+    id_type: Cartilla de Servicio Militar Nacional
+    id_number: C2606947
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '7550'
+    date_of_birth: 31 Jul 1977
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '7551'
+    place_of_birth: Guerrero
+    main_entry: 'true'
+  - uid: '7552'
+    place_of_birth: Tecpan de Galeana,Guerrero
+    main_entry: 'false'

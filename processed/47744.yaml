@@ -1,0 +1,36 @@
+---
+uid: '47744'
+first_name: Alexey Vasilyevich
+last_name: TENSIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74037'
+    type: a.k.a.
+    category: strong
+    last_name: TENSIN
+    first_name: Aleksei
+address_list:
+  items:
+  - uid: '71402'
+    country: Russia
+id_list:
+  items:
+  - uid: '38399'
+    id_type: Tax ID No.
+    id_number: '183200864631'
+    id_country: Russia
+  - uid: '169243'
+    id_type: Gender
+    id_number: Male
+  - uid: '169637'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '69242'
+    date_of_birth: 28 Nov 1971
+    main_entry: 'true'

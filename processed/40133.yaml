@@ -1,0 +1,37 @@
+---
+uid: '40133'
+first_name: Lyudmila Nikolaevna
+last_name: ZAITSEVA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '59758'
+    address1: 4 Kuznechnaya Street
+    city: Krasnodar
+    postal_code: '350000'
+    country: Russia
+id_list:
+  items:
+  - uid: '29263'
+    id_type: Tax ID No.
+    id_number: '230910614470'
+    id_country: Russia
+  - uid: '156959'
+    id_type: Gender
+    id_number: Female
+  - uid: '174811'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '56958'
+    date_of_birth: 25 Jul 1979
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '56956'
+    place_of_birth: Timashevsk, Krasnodar Territory, Russia
+    main_entry: 'true'

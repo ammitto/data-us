@@ -1,0 +1,41 @@
+---
+uid: '38223'
+last_name: TECHNOPARK SKOLKOVO LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59984'
+    type: a.k.a.
+    category: strong
+    last_name: LLC TEKHNOPARK SKOLKOVO
+  - uid: '59985'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY SCIENCE AND TECHNOLOGY PARK SKOLKOVO
+address_list:
+  items:
+  - uid: '57261'
+    address1: 42 str 1 Skolkovo Innovatsionnogo Tsentra Territory
+    address2: Bolshoy Boulevard
+    city: Moscow
+    postal_code: '121205'
+    country: Russia
+id_list:
+  items:
+  - uid: '27509'
+    id_type: Tax ID No.
+    id_number: '7701902970'
+    id_country: Russia
+  - uid: '27510'
+    id_type: Registration Number
+    id_number: '5107746075949'
+    id_country: Russia
+  - uid: '174660'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '153484'
+    id_type: Organization Established Date
+    id_number: 31 Dec 2010

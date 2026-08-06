@@ -1,0 +1,63 @@
+---
+uid: '27471'
+first_name: Bin
+last_name: XU
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13846
+address_list:
+  items:
+  - uid: '41751'
+    address1: 10-301 No. 888 Dongdaming Rd
+    city: Shanghai
+    postal_code: '200082'
+    country: China
+  - uid: '41752'
+    address1: Suite 202, No. 10, Lane 888, East Da Ming Road
+    city: Shanghai
+    country: China
+  - uid: '41753'
+    address1: No. 7, Western Section, Dongfanghong Street
+    address2: Mudan District
+    city: Heze
+    state_or_province: Shandong
+    country: China
+id_list:
+  items:
+  - uid: '18079'
+    id_type: National ID No.
+    id_number: '372901197604210416'
+    id_country: China
+  - uid: '18080'
+    id_type: Passport
+    id_number: E60816568
+    id_country: China
+  - uid: '132660'
+    id_type: Email Address
+    id_number: 1044064266@qq.com
+  - uid: '132661'
+    id_type: 'Executive Order 13846 information:'
+    id_number: FOREIGN EXCHANGE.  Sec. 5(a)(ii)
+  - uid: '132662'
+    id_type: 'Executive Order 13846 information:'
+    id_number: BANKING TRANSACTIONS.  Sec. 5(a)(iii)
+  - uid: '132663'
+    id_type: 'Executive Order 13846 information:'
+    id_number: BLOCKING PROPERTY AND INTERESTS IN PROPERTY.  Sec. 5(a)(iv)
+  - uid: '132665'
+    id_type: 'Executive Order 13846 information:'
+    id_number: IMPORT SANCTIONS.  Sec. 5(a)(vi)
+  - uid: '132667'
+    id_type: 'Executive Order 13846 information:'
+    id_number: EXCLUSION OF CORPORATE OFFICERS.  Sec. 4(e)
+date_of_birth_list:
+  items:
+  - uid: '32612'
+    date_of_birth: 21 Apr 1976
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '32613'
+    place_of_birth: Heze, China
+    main_entry: 'true'

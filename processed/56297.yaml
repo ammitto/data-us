@@ -1,0 +1,37 @@
+---
+uid: '56297'
+first_name: Marco
+last_name: KLINGE
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+address_list:
+  items:
+  - uid: '86144'
+    city: Dubai
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '50314'
+    id_type: Identification Number
+    id_number: '02667099'
+    id_country: India
+  - uid: '194417'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '194416'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '94413'
+    date_of_birth: 19 Feb 1975
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '94414'
+    place_of_birth: Osterberg, Germany
+    main_entry: 'true'
+remarks: "(Linked To: PARCHIN CHEMICAL INDUSTRIES)"

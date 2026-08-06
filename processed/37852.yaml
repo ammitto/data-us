@@ -1,0 +1,41 @@
+---
+uid: '37852'
+first_name: Pavel Mikhaylovich
+last_name: OSIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59484'
+    type: a.k.a.
+    category: strong
+    last_name: OSIN
+    first_name: Pavel Mikhailovich
+address_list:
+  items:
+  - uid: '56722'
+    country: Russia
+id_list:
+  items:
+  - uid: '27183'
+    id_type: Tax ID No.
+    id_number: '773129841560'
+    id_country: Russia
+  - uid: '153008'
+    id_type: Gender
+    id_number: Male
+  - uid: '174600'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '53007'
+    date_of_birth: 14 May 1978
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '53010'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'

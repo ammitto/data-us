@@ -1,0 +1,39 @@
+---
+uid: '45331'
+last_name: VNIIR GIDROELEKTROAVTOMATIKA JSC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70118'
+    type: a.k.a.
+    category: strong
+    last_name: VNIIR GIDRO
+address_list:
+  items:
+  - uid: '67433'
+    address1: Prospekt I.Ya.Yakovleva d. 4
+    city: Cheboksary
+    postal_code: '428024'
+    country: Russia
+id_list:
+  items:
+  - uid: '35035'
+    id_type: Registration Number
+    id_number: '1082130003867'
+    id_country: Russia
+  - uid: '35036'
+    id_type: Tax ID No.
+    id_number: '2130037140'
+    id_country: Russia
+  - uid: '35037'
+    id_type: Government Gazette Number
+    id_number: '85840397'
+    id_country: Russia
+  - uid: '175965'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: JOINT STOCK COMPANY ALL-RUSSIAN SCIENTIFIC RESEARCH DESIGN AND
+  TECHNOLOGICAL INSTITUTE OF RELAY ENGINEERING WITH EXPERIMENTAL PRODUCTION)"

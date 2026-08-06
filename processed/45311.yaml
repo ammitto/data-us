@@ -1,0 +1,45 @@
+---
+uid: '45311'
+first_name: Sergey
+last_name: SAMSONENKO
+sdn_type: Individual
+program_list:
+  programs:
+  - BALKANS-EO14033
+aka_list:
+  items:
+  - uid: '71542'
+    type: a.k.a.
+    category: strong
+    last_name: SAMSONENKO
+    first_name: Sergej
+address_list:
+  items:
+  - uid: '68956'
+    city: Skopje
+    country: North Macedonia, The Republic of
+id_list:
+  items:
+  - uid: '36218'
+    id_type: National ID No.
+    id_number: '1711967450100'
+    id_country: North Macedonia, The Republic of
+  - uid: '36219'
+    id_type: Passport
+    id_number: B0518816
+    id_country: North Macedonia, The Republic of
+    expiration_date: 06 Mar 2024
+  - uid: '167146'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '67143'
+    date_of_birth: 17 Nov 1967
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '67144'
+    place_of_birth: Rostov-on-Don, Russia
+    main_entry: 'true'
+remarks: "(Linked To: KAMCEV, Jordan)"

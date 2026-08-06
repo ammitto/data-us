@@ -1,0 +1,62 @@
+---
+uid: '52071'
+first_name: Khadzhi Murat Dalgatovich
+last_name: MAGOMEDOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '81541'
+    type: a.k.a.
+    category: strong
+    last_name: MAGOMEDOV
+    first_name: Murat
+address_list:
+  items:
+  - uid: '79419'
+    address1: Maliy Kakovinskiy Pereulok
+    city: Moscow
+    postal_code: '121099'
+    country: Russia
+id_list:
+  items:
+  - uid: '44908'
+    id_type: Passport
+    id_number: '762324796'
+    id_country: Russia
+    expiration_date: 24 Jan 2030
+  - uid: '44909'
+    id_type: Passport
+    id_number: '761402005'
+    id_country: Russia
+    expiration_date: 20 Aug 2029
+  - uid: '44910'
+    id_type: Passport
+    id_number: '765180824'
+    id_country: Russia
+    expiration_date: 05 Aug 2031
+  - uid: '44911'
+    id_type: National ID No.
+    id_number: '4512894535'
+    id_country: Russia
+  - uid: '182882'
+    id_type: Gender
+    id_number: Male
+  - uid: '182880'
+    id_type: Digital Currency Address - ETH
+    id_number: '0x1999ef52700c34de7ec2b68a28aafb37db0c5ade'
+  - uid: '182883'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '82881'
+    date_of_birth: 02 Aug 1988
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '82962'
+    place_of_birth: Republic of Dagestan, Russia
+    main_entry: 'true'

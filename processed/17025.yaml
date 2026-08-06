@@ -1,0 +1,34 @@
+---
+uid: '17025'
+first_name: Juan Carlos
+last_name: MESA VALLEJO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '26132'
+    type: a.k.a.
+    category: weak
+    last_name: CARLOS CHATAS
+  - uid: '26133'
+    type: a.k.a.
+    category: weak
+    last_name: TOM
+id_list:
+  items:
+  - uid: '9518'
+    id_type: Cedula No.
+    id_number: '71698071'
+    id_country: Colombia
+date_of_birth_list:
+  items:
+  - uid: '15794'
+    date_of_birth: '08 Dec 1967'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '15795'
+    place_of_birth: Bello, Antioquia, Colombia
+    main_entry: 'true'

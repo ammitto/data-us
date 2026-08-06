@@ -1,0 +1,40 @@
+---
+uid: '34737'
+last_name: SOVCOMBANK OPEN JOINT STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '54837'
+    type: a.k.a.
+    category: strong
+    last_name: SOVCOMBANK OJSC
+address_list:
+  items:
+  - uid: '52046'
+    address1: 46 Prospekt Tekstilshchikov
+    city: Kostroma
+    postal_code: '156000'
+    country: Russia
+id_list:
+  items:
+  - uid: '24400'
+    id_type: Tax ID No.
+    id_number: '4401116480'
+    id_country: Russia
+  - uid: '175189'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184112'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '146171'
+    id_type: SWIFT/BIC
+    id_number: SOMRRUM1KST
+  - uid: '146170'
+    id_type: Website
+    id_number: sovcombank.ru

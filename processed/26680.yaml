@@ -1,0 +1,36 @@
+---
+uid: '26680'
+first_name: Aleksei
+last_name: BASHLIKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+address_list:
+  items:
+  - uid: '40450'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '17328'
+    id_type: Passport
+    id_number: '4509592875'
+    id_country: Russia
+  - uid: '131332'
+    id_type: Gender
+    id_number: Male
+  - uid: '154535'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+date_of_birth_list:
+  items:
+  - uid: '31331'
+    date_of_birth: 18 Mar 1988
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '31333'
+    place_of_birth: Russia
+    main_entry: 'true'
+remarks: "(Linked To: EVIL CORP)"

@@ -1,0 +1,26 @@
+---
+uid: '20568'
+last_name: NORTH EAST ASIA BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK3
+address_list:
+  items:
+  - uid: '31186'
+    address1: Haebangsan-dong, Central District
+    city: Pyongyang
+    country: Korea, North
+id_list:
+  items:
+  - uid: '134892'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '127194'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '121157'
+    id_type: SWIFT/BIC
+    id_number: NEABKPPY
+remarks: all offices worldwide

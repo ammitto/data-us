@@ -1,0 +1,39 @@
+---
+uid: '13420'
+last_name: GRUPO IMPERGOZA, S.A. DE C.V.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '15094'
+    type: a.k.a.
+    category: strong
+    last_name: LA TIJERA PARQUE INDUSTRIAL
+  - uid: '15095'
+    type: a.k.a.
+    category: strong
+    last_name: PROVENZA CENTER
+address_list:
+  items:
+  - uid: '21481'
+    address1: Av. Adolfo Lopez Mateos No. 5565
+    address2: Col. Santa Anita
+    city: Tlajomulco de Zuniga
+    state_or_province: Jalisco
+    postal_code: C.P. 46645
+    country: Mexico
+  - uid: '21482'
+    address1: Av. Camino A La Tijera No. 806
+    address2: Col. La Tijera
+    city: Tlajomulco de Zuniga
+    state_or_province: Jalisco
+    postal_code: C.P. 45645
+    country: Mexico
+id_list:
+  items:
+  - uid: '7937'
+    id_type: R.F.C.
+    id_number: GIM-081015-SIA
+    id_country: Mexico

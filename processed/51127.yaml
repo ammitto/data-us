@@ -1,0 +1,60 @@
+---
+uid: '51127'
+last_name: UNITED ENGINE CORPORATION PERM ENGINES RESEARCH AND PRODUCTION COMPLEX
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80121'
+    type: a.k.a.
+    category: strong
+    last_name: JSC UEC PERM ENGINES
+  - uid: '80122'
+    type: a.k.a.
+    category: strong
+    last_name: JSC UEC PERM MOTORS
+  - uid: '80123'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO ODK PERMSKIE MOTORY
+  - uid: '80124'
+    type: a.k.a.
+    category: weak
+    last_name: AO ODK PM
+  - uid: '80125'
+    type: a.k.a.
+    category: strong
+    last_name: PERM ENGINE COMPANY
+  - uid: '80126'
+    type: a.k.a.
+    category: strong
+    last_name: PERM MOTOR PLANT
+  - uid: '80127'
+    type: a.k.a.
+    category: strong
+    last_name: PERM MOTOROSTROITEL PRODUCTION ASSOCIATION
+address_list:
+  items:
+  - uid: '77708'
+    address1: 93 Komsomolskii Pr-kt
+    city: Perm
+    postal_code: '614990'
+    country: Russia
+id_list:
+  items:
+  - uid: '43258'
+    id_type: Tax ID No.
+    id_number: '5904007312'
+    id_country: Russia
+  - uid: '43259'
+    id_type: Registration Number
+    id_number: '1025900893864'
+    id_country: Russia
+  - uid: '180415'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '180165'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

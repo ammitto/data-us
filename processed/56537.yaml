@@ -1,0 +1,43 @@
+---
+uid: '56537'
+first_name: Alvaro Andres
+last_name: QUIJANO BECERRA
+sdn_type: Individual
+program_list:
+  programs:
+  - SUDAN-EO14098
+address_list:
+  items:
+  - uid: '86521'
+    city: Bogota
+    country: Colombia
+  - uid: '86522'
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '50560'
+    id_type: Cedula No.
+    id_number: '80413253'
+    id_country: Colombia
+  - uid: '50561'
+    id_type: Passport
+    id_number: AP628498
+    id_country: Colombia
+  - uid: '50562'
+    id_type: Passport
+    id_number: YB7731256
+    id_country: Italy
+    expiration_date: 01 Mar 2031
+  - uid: '194952'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '94951'
+    date_of_birth: 18 Jul 1967
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '94955'
+    place_of_birth: Bogota, Colombia
+    main_entry: 'true'

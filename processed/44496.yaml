@@ -1,0 +1,31 @@
+---
+uid: '44496'
+first_name: Julio Cesar
+last_name: DOMINGUEZ HERNANDEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '66264'
+    country: Mexico
+id_list:
+  items:
+  - uid: '34036'
+    id_type: C.U.R.P.
+    id_number: DOHJ901229HSLMRL03
+    id_country: Mexico
+  - uid: '164471'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '64467'
+    date_of_birth: 29 Dec 1990
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '64468'
+    place_of_birth: Sinaloa, Mexico
+    main_entry: 'true'

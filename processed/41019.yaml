@@ -1,0 +1,66 @@
+---
+uid: '41019'
+last_name: ALL-RUSSIAN SCIENTIFIC RESEARCH INSTITUTE OF EXPERIMENTAL PHYSICS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63932'
+    type: a.k.a.
+    category: weak
+    last_name: VNIIEF
+  - uid: '63933'
+    type: a.k.a.
+    category: strong
+    last_name: VSEROSSIYSKIY NAUCHNO-ISSLEDOVATELSKIY INSTITUT EKSPERIMENTALNOY
+  - uid: '63934'
+    type: a.k.a.
+    category: weak
+    last_name: RFNC-VNIIEF
+  - uid: '63937'
+    type: a.k.a.
+    category: strong
+    last_name: KHARITON INSTITUTE
+  - uid: '63938'
+    type: a.k.a.
+    category: strong
+    last_name: SAROV NUCLEAR WEAPONS PLANT
+  - uid: '63939'
+    type: a.k.a.
+    category: strong
+    last_name: AVANGARD ELECTROMECHANICAL PLANT
+  - uid: '63941'
+    type: a.k.a.
+    category: strong
+    last_name: FEDERAL STATE UNITARY ENTERPRISE RUSSIAN FEDERAL NUCLEAR CENTER-ALL
+      RUSSIAN SCIENTIFIC RESEARCH INSTITUTE OF EXPERIMENTAL PHYSICS
+  - uid: '63945'
+    type: a.k.a.
+    category: strong
+    last_name: ARZAMAS-16
+address_list:
+  items:
+  - uid: '61280'
+    address1: 10 Muzrukov Ave
+    city: Sarov
+    state_or_province: Nizhny Novgorod Region
+    postal_code: '607188'
+    country: Russia
+id_list:
+  items:
+  - uid: '30494'
+    id_type: Tax ID No.
+    id_number: '5254001230'
+    id_country: Russia
+  - uid: '30495'
+    id_type: Registration Number
+    id_number: '1025202199791'
+    id_country: Russia
+  - uid: '158787'
+    id_type: Organization Established Date
+    id_number: '1992'
+  - uid: '173552'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

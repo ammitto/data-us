@@ -1,0 +1,42 @@
+---
+uid: '51764'
+last_name: COMMERCIAL JOINT STOCK BANK VIKING
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '78884'
+    address1: Vladimirsky Av 17
+    city: Saint Petersburg
+    postal_code: '191002'
+    country: Russia
+id_list:
+  items:
+  - uid: '44381'
+    id_type: Global Intermediary Identification Number
+    id_number: S2VA6X.99999.SL.643
+  - uid: '44382'
+    id_type: Legal Entity Number
+    id_number: 253400FBCYVAJS5W8Q06
+  - uid: '44383'
+    id_type: Registration Number
+    id_number: '1027800000250'
+    id_country: Russia
+  - uid: '44384'
+    id_type: Tax ID No.
+    id_number: '7831000098'
+    id_country: Russia
+  - uid: '181950'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '181947'
+    id_type: SWIFT/BIC
+    id_number: VKNGRU2P
+  - uid: '181949'
+    id_type: Website
+    id_number: www.vikingbank.ru
+  - uid: '181951'
+    id_type: Target Type
+    id_number: Financial Institution

@@ -1,0 +1,41 @@
+---
+uid: '48012'
+last_name: JOINT STOCK COMPANY CHELYABINSK PIPE ROLLING PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74509'
+    type: a.k.a.
+    category: strong
+    last_name: JSC CHTPZ
+  - uid: '74510'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY CHELYABINSK PIPE PLANT
+  - uid: '74511'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY CHELPIPE
+address_list:
+  items:
+  - uid: '71952'
+    address1: 21 Mashinostroiteley Street
+    city: Chelyabinsk
+    postal_code: '454129'
+    country: Russia
+id_list:
+  items:
+  - uid: '38884'
+    id_type: Registration Number
+    id_number: '1027402694186'
+    id_country: Russia
+  - uid: '38885'
+    id_type: Tax ID No.
+    id_number: '7449006730'
+    id_country: Russia
+  - uid: '176581'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

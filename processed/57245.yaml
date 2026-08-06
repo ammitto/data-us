@@ -1,0 +1,34 @@
+---
+uid: '57245'
+first_name: Hong
+last_name: LUO
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER4
+address_list:
+  items:
+  - uid: '87735'
+    address1: 22, St. 1007, Phnom Penh Thmei, Sensok
+    city: Phnom Penh
+    country: Cambodia
+id_list:
+  items:
+  - uid: '51517'
+    id_type: Passport
+    id_number: N01460820
+    id_country: Cambodia
+    expiration_date: 26 Nov 2028
+  - uid: '197086'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '97087'
+    date_of_birth: 13 Nov 1977
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '97088'
+    place_of_birth: China
+    main_entry: 'true'

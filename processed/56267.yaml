@@ -1,0 +1,37 @@
+---
+uid: '56267'
+first_name: Maksim Vladimirovich
+last_name: MAKAROV
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER4
+  - CAATSA - RUSSIA
+address_list:
+  items:
+  - uid: '86347'
+    country: Russia
+id_list:
+  items:
+  - uid: '50448'
+    id_type: Passport
+    id_number: '772555187'
+    id_country: Russia
+    issue_date: 19 Feb 2024
+    expiration_date: 19 Feb 2034
+  - uid: '50450'
+    id_type: Tax ID No.
+    id_number: '244309586068'
+    id_country: Russia
+  - uid: '194664'
+    id_type: Gender
+    id_number: Male
+  - uid: '194696'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+date_of_birth_list:
+  items:
+  - uid: '94663'
+    date_of_birth: 23 Mar 1989
+    main_entry: 'true'
+remarks: "(Linked To: AEZA GROUP LLC)"

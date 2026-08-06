@@ -1,0 +1,31 @@
+---
+uid: '25152'
+first_name: Pablo Roberto
+last_name: SANDOVAL LOPEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+address_list:
+  items:
+  - uid: '40762'
+    country: Mexico
+id_list:
+  items:
+  - uid: '16239'
+    id_type: C.U.R.P.
+    id_number: SALP920701HNTNPB05
+    id_country: Mexico
+  - uid: '128417'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '28416'
+    date_of_birth: 01 Jul 1992
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '28418'
+    place_of_birth: Nayarit, Mexico
+    main_entry: 'true'

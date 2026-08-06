@@ -1,0 +1,41 @@
+---
+uid: '49440'
+last_name: JOINT STOCK COMPANY RESEARCH AND PRODUCTION ASSOCIATION ISKRA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77113'
+    type: a.k.a.
+    category: strong
+    last_name: PUBLICHNOE AKTSIONERNOE OBSHCHESTVO NAUCHNO PROIZVODSTVENNOE OBEDINENIE
+      ISKRA
+  - uid: '77114'
+    type: a.k.a.
+    category: strong
+    last_name: PAO NPO ISKRA
+address_list:
+  items:
+  - uid: '74547'
+    address1: 28 Akademika Vedeneeva ul.
+    city: Perm
+    postal_code: '614038'
+    country: Russia
+id_list:
+  items:
+  - uid: '40748'
+    id_type: Registration Number
+    id_number: '1025901509798'
+    id_country: Russia
+  - uid: '40749'
+    id_type: Tax ID No.
+    id_number: '5907001774'
+    id_country: Russia
+  - uid: '172738'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '172510'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

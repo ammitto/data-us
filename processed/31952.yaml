@@ -1,0 +1,61 @@
+---
+uid: '31952'
+first_name: Idris 'Ali 'Awwad
+last_name: AL-FAY
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '50116'
+    type: a.k.a.
+    category: weak
+    last_name: Abu Sayf al-Samara'i
+  - uid: '50117'
+    type: a.k.a.
+    category: weak
+    last_name: Mullah Idris
+  - uid: '50118'
+    type: a.k.a.
+    category: strong
+    last_name: KHALIF
+    first_name: Idris Ali 'Awad
+  - uid: '50128'
+    type: a.k.a.
+    category: strong
+    last_name: AL-FAY
+    first_name: Idris Ali Awad Khalif
+address_list:
+  items:
+  - uid: '48084'
+    address1: Owainat Village
+    city: Owainat District
+    state_or_province: Salah Ad Din Province
+    country: Iraq
+  - uid: '48085'
+    country: Turkey
+  - uid: '48086'
+    address1: Albu Dur
+    city: Tikrit
+    state_or_province: Salah-ad Din Province
+    country: Iraq
+id_list:
+  items:
+  - uid: '187326'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '140659'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '40657'
+    date_of_birth: 01 Jul 1971
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '40626'
+    place_of_birth: Albu Dur, Tikrit, Salah-ad Din Province, Iraq
+    main_entry: 'true'

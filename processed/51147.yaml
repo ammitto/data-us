@@ -1,0 +1,43 @@
+---
+uid: '51147'
+last_name: JOINT STOCK COMPANY 261 REPAIR FACTORY OF FUEL FILLING AND TRANSPORTATION
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80189'
+    type: a.k.a.
+    category: strong
+    last_name: 261ST REPAIR PLANT
+  - uid: '80190'
+    type: a.k.a.
+    category: strong
+    last_name: AO 261 REMONTNYI ZAVOD
+  - uid: '80191'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO 261 REMONTNYI ZAVOD SREDSTV ZAPRAVKI I TRANSPORTIROVANIIA
+      GORIUCHEGO
+address_list:
+  items:
+  - uid: '77743'
+    city: Pankovka
+    country: Russia
+id_list:
+  items:
+  - uid: '43284'
+    id_type: Registration Number
+    id_number: '1095321003260'
+    id_country: Russia
+  - uid: '43285'
+    id_type: Tax ID No.
+    id_number: '5310015581'
+    id_country: Russia
+  - uid: '180214'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
+  - uid: '180213'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

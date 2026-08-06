@@ -1,0 +1,42 @@
+---
+uid: '47991'
+last_name: LIMITED LIABILITY COMPANY TRADE HOUSE KYUTEK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74469'
+    type: a.k.a.
+    category: strong
+    last_name: LLC TD KYUTEK
+  - uid: '74470'
+    type: a.k.a.
+    category: strong
+    last_name: TH QTECH LLC
+  - uid: '74471'
+    type: a.k.a.
+    category: strong
+    last_name: TD KYUTEK OOO
+address_list:
+  items:
+  - uid: '71906'
+    address1: D. 36, Str. 2, Etazh 7 Komn 63
+    address2: Ul. Ryabinovaya
+    city: Moscow
+    postal_code: '121471'
+    country: Russia
+id_list:
+  items:
+  - uid: '38843'
+    id_type: Registration Number
+    id_number: '1167746094284'
+    id_country: Russia
+  - uid: '38846'
+    id_type: Tax ID No.
+    id_number: '7729490282'
+    id_country: Russia
+  - uid: '176574'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,39 @@
+---
+uid: '7261'
+first_name: Habib
+last_name: WADDANI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '5519'
+    address1: Via unica Borighero n.1
+    city: San Donato M.se
+    state_or_province: MI
+    country: Italy
+id_list:
+  items:
+  - uid: '3412'
+    id_type: Italian Fiscal Code
+    id_number: WDDHBB70H10Z352O
+  - uid: '4068'
+    id_type: Passport
+    id_number: L550681
+    issue_date: 23 Sep 1997
+    expiration_date: 22 Sep 2002
+  - uid: '185677'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '1462'
+    date_of_birth: 10 Jun 1970
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '1463'
+    place_of_birth: Tunis, Tunisia
+    main_entry: 'true'

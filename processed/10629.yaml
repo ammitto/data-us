@@ -1,0 +1,61 @@
+---
+uid: '10629'
+first_name: Aleyda
+last_name: RUIZ ZAVALA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '10593'
+    type: a.k.a.
+    category: strong
+    last_name: RUIZ ZAVALA
+    first_name: Aleida
+address_list:
+  items:
+  - uid: '14850'
+    address1: Calle Cerro de la Memoria No. 1976, Fraccionamiento Colinas de San Miguel
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '14851'
+    address1: c/o TOYS FACTORY, S.A. DE C.V.
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '14852'
+    address1: c/o SIN-MEX IMPORTADORA, S.A. DE C.V.
+    city: Mexico
+    state_or_province: Distrito Federal
+    country: Mexico
+  - uid: '14853'
+    address1: c/o COMERCIALIZADORA BRIMAR'S, S.A. DE. C.V.
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+id_list:
+  items:
+  - uid: '5180'
+    id_type: C.U.R.P.
+    id_number: RUZA620510MDGZVL04
+    id_country: Mexico
+  - uid: '5181'
+    id_type: R.F.C.
+    id_number: RUZA6205108L5
+    id_country: Mexico
+  - uid: '5182'
+    id_type: Electoral Registry No.
+    id_number: RZZVAL62051010M200
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '6012'
+    date_of_birth: 10 May 1962
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '6013'
+    place_of_birth: Tamazula, Durango, Mexico
+    main_entry: 'true'

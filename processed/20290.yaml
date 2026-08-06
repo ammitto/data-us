@@ -1,0 +1,59 @@
+---
+uid: '20290'
+last_name: LLC KOKSOKHIMTRANS
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13685
+  - PEESA-EO14039
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '32047'
+    type: a.k.a.
+    category: strong
+    last_name: KOKSOKHIMTRANS LTD.
+  - uid: '49839'
+    type: a.k.a.
+    category: strong
+    last_name: KOKSOKHIMTRANS OOO
+address_list:
+  items:
+  - uid: '30690'
+    address1: Rakhmanovskiy lane, 4
+    address2: bld. 1
+    address3: Morskoy House
+    city: Moscow
+    postal_code: '127994'
+    country: Russia
+  - uid: '47870'
+    address1: prospekt Olimpiyskiy 14
+    city: Moscow
+    postal_code: '129090'
+    country: Russia
+  - uid: '79819'
+    address1: d. 1, kab. 602, etazh 6, ul. Vasilisy Kozhinoi
+    city: Moscow
+    postal_code: '121096'
+    country: Russia
+id_list:
+  items:
+  - uid: '21656'
+    id_type: Government Gazette Number
+    id_number: '57067113'
+    id_country: Russia
+  - uid: '21657'
+    id_type: Business Registration Number
+    id_number: '1037739709138'
+    id_country: Russia
+  - uid: '21658'
+    id_type: Tax ID No.
+    id_number: '7707294809'
+    id_country: Russia
+  - uid: '143784'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '183604'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,34 @@
+---
+uid: '27198'
+last_name: VP-CSP
+sdn_type: Aircraft
+program_list:
+  programs:
+  - CYBER2
+  - ELECTION-EO13848
+  - UKRAINE-EO13661
+id_list:
+  items:
+  - uid: '17904'
+    id_type: Aircraft Serial Identification
+    id_number: '258210'
+  - uid: '132356'
+    id_type: Aircraft Manufacture Date
+    id_number: Sep 1991
+  - uid: '132357'
+    id_type: Aircraft Mode S Transponder Code
+    id_number: '400065'
+  - uid: '132358'
+    id_type: Aircraft Model
+    id_number: BAE 125 Series 800B
+  - uid: '132359'
+    id_type: Aircraft Operator
+    id_number: Linburg Industries LTD.
+  - uid: '132360'
+    id_type: Nationality of Registration
+    id_number: Cayman Islands
+  - uid: '144072'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+remarks: "(Linked To: LINBURG INDUSTRIES LTD.)"

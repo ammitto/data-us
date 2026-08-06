@@ -1,0 +1,45 @@
+---
+uid: '37855'
+first_name: Melaniya Andreyevna
+last_name: KONDRAKHINA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59491'
+    type: a.k.a.
+    category: strong
+    last_name: KONDRAKHINA
+    first_name: Melania
+address_list:
+  items:
+  - uid: '56728'
+    address1: Krylatskie Holmi St. 37-269
+    city: Moscow
+    postal_code: '121614'
+    country: Russia
+id_list:
+  items:
+  - uid: '27153'
+    id_type: Passport
+    id_number: '651944507'
+    id_country: Russia
+  - uid: '153021'
+    id_type: Gender
+    id_number: Female
+  - uid: '174603'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '53019'
+    date_of_birth: 11 Jan 2000
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '53020'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'
+remarks: "(Linked To: BROVKO, Vasily Yuryevich)"

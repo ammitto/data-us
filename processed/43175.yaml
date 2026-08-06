@@ -1,0 +1,50 @@
+---
+uid: '43175'
+last_name: INSTITUTE OF PETROLEUM CHEMISTRY SIBERIAN BRANCH OF THE RUSSIAN ACADEMY
+  OF SCIENCES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '66916'
+    type: a.k.a.
+    category: strong
+    last_name: IPC SB RAS
+  - uid: '66917'
+    type: a.k.a.
+    category: strong
+    last_name: IPCH SB RAS
+address_list:
+  items:
+  - uid: '64419'
+    address1: Pr-T Akademicheskii D.4
+    city: Tomsk
+    postal_code: '634021'
+    country: Russia
+  - uid: '64420'
+    address1: 3, Academichesky Ave.
+    city: Tomsk
+    postal_code: '634021'
+    country: Russia
+id_list:
+  items:
+  - uid: '32755'
+    id_type: Registration Number
+    id_number: '1027000876374'
+    id_country: Russia
+  - uid: '32756'
+    id_type: Tax ID No.
+    id_number: '7021001022'
+    id_country: Russia
+  - uid: '32757'
+    id_type: Government Gazette Number
+    id_number: '03534067'
+    id_country: Russia
+  - uid: '162224'
+    id_type: Organization Established Date
+    id_number: 05 Aug 1968
+  - uid: '175596'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

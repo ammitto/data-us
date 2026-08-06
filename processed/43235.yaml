@@ -1,0 +1,47 @@
+---
+uid: '43235'
+first_name: Igor Yevgenyevich
+last_name: LEVITIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '67006'
+    type: a.k.a.
+    category: strong
+    last_name: LEVITIN
+    first_name: Igor Evgenevich
+  - uid: '67007'
+    type: a.k.a.
+    category: strong
+    last_name: LEVITIN
+    first_name: Igor Evgenyevich
+address_list:
+  items:
+  - uid: '64506'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '32785'
+    id_type: Tax ID No.
+    id_number: '770200213419'
+    id_country: Russia
+  - uid: '175651'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '162383'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '62382'
+    date_of_birth: 21 Feb 1952
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '62381'
+    place_of_birth: Tsebrykove, Odessa Region, Ukraine
+    main_entry: 'true'

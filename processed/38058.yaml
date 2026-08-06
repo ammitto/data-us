@@ -1,0 +1,42 @@
+---
+uid: '38058'
+last_name: LIMITED LIABILITY COMPANY BONUM MANAGEMENT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59779'
+    type: a.k.a.
+    category: strong
+    last_name: BONUM MENEDZHMENT OOO
+address_list:
+  items:
+  - uid: '57076'
+    address1: B-r Tsvetnoi d. 15
+    address2: str. 1, pomeshch. 59
+    city: Moscow
+    postal_code: '127051'
+    country: Russia
+id_list:
+  items:
+  - uid: '27376'
+    id_type: Tax ID No.
+    id_number: '7706444723'
+    id_country: Russia
+  - uid: '27377'
+    id_type: Registration Number
+    id_number: '5167746424621'
+    id_country: Russia
+  - uid: '153361'
+    id_type: Organization Established Date
+    id_number: '09 Dec 2016'
+  - uid: '153362'
+    id_type: 'Organization Type:'
+    id_number: Other financial service activities, except insurance and pension funding
+      activities, n.e.c.
+  - uid: '176889'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: BONUM CAPITAL CYPRUS LTD)"

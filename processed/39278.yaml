@@ -1,0 +1,46 @@
+---
+uid: '39278'
+last_name: MIDDLE EAST KIMIYA PARS CO.
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13846
+aka_list:
+  items:
+  - uid: '61331'
+    type: a.k.a.
+    category: strong
+    last_name: MIDDLE EAST KIMIAYE PARS CO.
+  - uid: '61332'
+    type: a.k.a.
+    category: weak
+    last_name: MEKPCO
+  - uid: '61333'
+    type: a.k.a.
+    category: strong
+    last_name: KIMIAYE PARS KHAVARMIANEH PETROCHEMICAL CO.
+address_list:
+  items:
+  - uid: '58528'
+    address1: 2 J St., Abushahr St., Pars Energy Special Economic Zone, Petrochemical
+      Square
+    city: Asalouyeh Port
+    postal_code: '7511895551'
+    country: Iran
+  - uid: '58530'
+    address1: No. 3, 4th Floor, West Saro St., Corner of Aseman, Sa'adat Abad
+    city: Tehran
+    postal_code: '1998133734'
+    country: Iran
+id_list:
+  items:
+  - uid: '155119'
+    id_type: Website
+    id_number: www.mekpco.com
+  - uid: '155150'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '155215'
+    id_type: Organization Established Date
+    id_number: '2007'
+remarks: "(Linked To: TRILIANCE PETROCHEMICAL CO. LTD.)"

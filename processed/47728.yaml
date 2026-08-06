@@ -1,0 +1,42 @@
+---
+uid: '47728'
+last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTIU VOENNO OKHRANNAIA KOMPANIIA
+  KONVOI
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73999'
+    type: a.k.a.
+    category: strong
+    last_name: PRIVATE MILITARY COMPANY CONVOY
+  - uid: '74000'
+    type: a.k.a.
+    category: strong
+    last_name: PMC CONVOY
+  - uid: '74001'
+    type: a.k.a.
+    category: strong
+    last_name: OOO VOK KONVOI
+address_list:
+  items:
+  - uid: '71370'
+    address1: 5a Novocherkassky Ave., letter a, office/room 1-N/35
+    city: St. Petersburg
+    postal_code: '195112'
+    country: Russia
+id_list:
+  items:
+  - uid: '38379'
+    id_type: Tax ID No.
+    id_number: '4712026246'
+    id_country: Russia
+  - uid: '38380'
+    id_type: Registration Number
+    id_number: '1154712000024'
+    id_country: Russia
+  - uid: '169643'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

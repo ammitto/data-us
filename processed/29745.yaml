@@ -1,0 +1,43 @@
+---
+uid: '29745'
+first_name: Darya Dmitriyevna
+last_name: ASLANOVA
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+  - ELECTION-EO13848
+aka_list:
+  items:
+  - uid: '46616'
+    type: a.k.a.
+    category: strong
+    last_name: TIMOSHENKOVA
+    first_name: Darya Dmitriyevna
+address_list:
+  items:
+  - uid: '44792'
+    city: Saint Petersburg
+    country: Russia
+id_list:
+  items:
+  - uid: '19888'
+    id_type: Passport
+    id_number: 44N2592883
+    id_country: Russia
+  - uid: '154533'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+  - uid: '136691'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '36692'
+    date_of_birth: '08 Sep 1985'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '36694'
+    place_of_birth: Russia
+    main_entry: 'true'

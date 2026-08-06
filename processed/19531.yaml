@@ -1,0 +1,43 @@
+---
+uid: '19531'
+first_name: Song Chol
+last_name: KIM
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+aka_list:
+  items:
+  - uid: '30713'
+    type: a.k.a.
+    category: strong
+    last_name: KIM
+    first_name: Hak Song
+id_list:
+  items:
+  - uid: '11835'
+    id_type: Passport
+    id_number: '654120219'
+    id_country: Korea, North
+    expiration_date: 24 Feb 2019
+  - uid: '11836'
+    id_type: Passport
+    id_number: '381420565'
+    id_country: Korea, North
+    expiration_date: 23 Nov 2016
+  - uid: '127663'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '135046'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+date_of_birth_list:
+  items:
+  - uid: '19753'
+    date_of_birth: 26 Mar 1968
+    main_entry: 'true'
+  - uid: '19754'
+    date_of_birth: 15 Oct 1970
+    main_entry: 'false'
+remarks: "(Linked To: KOREA MINING DEVELOPMENT TRADING CORPORATION)"

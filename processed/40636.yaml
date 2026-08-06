@@ -1,0 +1,34 @@
+---
+uid: '40636'
+first_name: Hugo Adalberto
+last_name: VELAZQUEZ MORENO
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+address_list:
+  items:
+  - uid: '60549'
+    city: Asuncion
+    country: Paraguay
+id_list:
+  items:
+  - uid: '29806'
+    id_type: Passport
+    id_number: D15449
+    id_country: Paraguay
+    issue_date: 20 Nov 2018
+    expiration_date: 20 Nov 2023
+  - uid: '157952'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '57951'
+    date_of_birth: 03 Sep 1967
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '57954'
+    place_of_birth: Itacurubi del Rosario, Paraguay
+    main_entry: 'true'

@@ -1,0 +1,50 @@
+---
+uid: '23556'
+first_name: Viktor Pavlovich
+last_name: PEREVALOV
+sdn_type: Individual
+program_list:
+  programs:
+  - UKRAINE-EO13685
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '35616'
+    city: St. Petersburg
+    country: Russia
+  - uid: '35617'
+    address1: 133, ul. Chernyshevskogo
+    city: Vologda
+    state_or_province: Vologodskaya Obl
+    postal_code: '160019'
+    country: Russia
+  - uid: '35618'
+    address1: 122 Grazhdanskiy Prospect
+    address2: Suite 5
+    address3: Liter A
+    city: St. Petersburg
+    postal_code: '195267'
+    country: Russia
+id_list:
+  items:
+  - uid: '15023'
+    id_type: Tax ID No.
+    id_number: '780201527164'
+    id_country: Russia
+  - uid: '144030'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '125422'
+    id_type: Gender
+    id_number: Male
+  - uid: '183056'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '25421'
+    date_of_birth: 27 Jun 1963
+    main_entry: 'true'
+remarks: "(Linked To: VAD, AO)"
+title: First Deputy General Director

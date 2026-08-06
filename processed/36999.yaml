@@ -1,0 +1,73 @@
+---
+uid: '36999'
+last_name: LIMITED LIABILITY COMPANY PROMTEKHNOLOGIYA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '58091'
+    type: a.k.a.
+    category: strong
+    last_name: LLC PROMTEKHNOLOGIYA
+  - uid: '58092'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOY OTVETSTVENNOSTYU PROMTEKHNOLOGIYA
+  - uid: '58093'
+    type: a.k.a.
+    category: strong
+    last_name: PROMTECHNOLOGIA LLC
+  - uid: '58094'
+    type: a.k.a.
+    category: strong
+    last_name: OOO PROMTEKHNOLOGIYA
+  - uid: '58095'
+    type: a.k.a.
+    category: weak
+    last_name: ORSIS
+  - uid: '58096'
+    type: a.k.a.
+    category: weak
+    last_name: PROMTEHNOLOGYA
+  - uid: '58097'
+    type: a.k.a.
+    category: weak
+    last_name: PROMTECHNOLOGIES
+address_list:
+  items:
+  - uid: '55363'
+    address1: 14 Podyomnaya St.
+    address2: Housing 8
+    city: Moscow
+    postal_code: '109052'
+    country: Russia
+  - uid: '55364'
+    address1: 19 Smirnovskaya St.
+    city: Moscow
+    country: Russia
+  - uid: '55365'
+    address1: Ul. Krzhizhanovskogo, D. 29
+    address2: K. 2, Antresol 1
+    address3: Pomeschenie IV, Komnata 1
+    city: Moscow
+    postal_code: '117218'
+    country: Russia
+id_list:
+  items:
+  - uid: '26259'
+    id_type: Registration Number
+    id_number: '1097746084908'
+    id_country: Russia
+  - uid: '26260'
+    id_type: Tax ID No.
+    id_number: '7708696860'
+    id_country: Russia
+  - uid: '26261'
+    id_type: Government Gazette Number
+    id_number: '772701001'
+    id_country: Russia
+  - uid: '174421'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

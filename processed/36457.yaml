@@ -1,0 +1,41 @@
+---
+uid: '36457'
+last_name: OOO MANAGEMENT COMPANY BITRIVER
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '57488'
+    type: a.k.a.
+    category: strong
+    last_name: MC BITRIVER, LLC
+  - uid: '57489'
+    type: a.k.a.
+    category: strong
+    last_name: UK BITRIVER, LLC
+address_list:
+  items:
+  - uid: '54806'
+    address1: Ul. Annenskaya D. 17, Str. 1, Office 1.18
+    city: Moscow
+    postal_code: '127521'
+    country: Russia
+id_list:
+  items:
+  - uid: '25898'
+    id_type: Tax ID No.
+    id_number: '9715406566'
+    id_country: Russia
+  - uid: '25899'
+    id_type: Registration Number
+    id_number: '1217700448448'
+    id_country: Russia
+  - uid: '150168'
+    id_type: Organization Established Date
+    id_number: 22 Sep 2021
+  - uid: '174215'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: BITRIVER AG)"

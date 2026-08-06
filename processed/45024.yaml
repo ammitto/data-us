@@ -1,0 +1,35 @@
+---
+uid: '45024'
+last_name: LIMITED LIABILITY COMPANY PYASINSKAYA GORNAYA KOMPANIYA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69719'
+    type: a.k.a.
+    category: strong
+    last_name: OOO PYASGK
+address_list:
+  items:
+  - uid: '67033'
+    address1: str. 100 blok B etazh 3
+    address2: pom. 4
+    city: Odintsovo
+    postal_code: '143084'
+    country: Russia
+id_list:
+  items:
+  - uid: '34705'
+    id_type: Registration Number
+    id_number: '1155032010099'
+    id_country: Russia
+  - uid: '34707'
+    id_type: Tax ID No.
+    id_number: '5032216266'
+    id_country: Russia
+  - uid: '175902'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: UNITED ARCTIC COMPANY LLC)"

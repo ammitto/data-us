@@ -1,0 +1,29 @@
+---
+uid: '52532'
+last_name: LIMITED LIABILITY COMPANY UGOLNYY POTOK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '80215'
+    address1: 11 Gogolevskiy Boulevard
+    address2: Khamovniki Municipal District
+    city: Moscow
+    postal_code: '119019'
+    country: Russia
+id_list:
+  items:
+  - uid: '45525'
+    id_type: Registration Number
+    id_number: '1247700466837'
+    id_country: Russia
+  - uid: '45526'
+    id_type: Tax ID No.
+    id_number: '9704245363'
+    id_country: Russia
+  - uid: '184194'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: KOMAROV, Artem Andreyevich)"

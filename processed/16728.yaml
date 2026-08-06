@@ -1,0 +1,44 @@
+---
+uid: '16728'
+first_name: Santiago
+last_name: PEREZ OCAMPO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '25467'
+    type: a.k.a.
+    category: strong
+    last_name: ORTIZ ESPINEL
+    first_name: Juan Jose
+address_list:
+  items:
+  - uid: '25310'
+    address1: Subasta Santa Clara
+    state_or_province: Sahagun
+    country: Colombia
+id_list:
+  items:
+  - uid: '9267'
+    id_type: Cedula No.
+    id_number: '16351833'
+    id_country: Colombia
+  - uid: '9268'
+    id_type: Cedula No.
+    id_number: '294885'
+    id_country: Colombia
+date_of_birth_list:
+  items:
+  - uid: '15308'
+    date_of_birth: 15 Nov 1956
+    main_entry: 'true'
+  - uid: '15309'
+    date_of_birth: 10 May 1961
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '15306'
+    place_of_birth: Andinapolis, Trujillo, Valle, Colombia
+    main_entry: 'true'

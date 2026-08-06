@@ -1,0 +1,36 @@
+---
+uid: '48606'
+first_name: Yegor Igoryevich
+last_name: MOZHAYEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75571'
+    type: a.k.a.
+    category: weak
+    last_name: MOZHAEV, Egor Igorevich
+  - uid: '75572'
+    type: a.k.a.
+    category: weak
+    last_name: MOZHAYEV, Yegor
+address_list:
+  items:
+  - uid: '72977'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '170911'
+    id_type: Gender
+    id_number: Male
+  - uid: '176619'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '70909'
+    date_of_birth: 31 May 1982
+    main_entry: 'true'

@@ -1,0 +1,31 @@
+---
+uid: '23224'
+first_name: Na
+last_name: CHU
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '35137'
+    city: Pulandian
+    state_or_province: Liaoning
+    country: China
+id_list:
+  items:
+  - uid: '14675'
+    id_type: Citizen's Card Number
+    id_number: '210222198011096648'
+    id_country: China
+  - uid: '14676'
+    id_type: Chinese Commercial Code
+    id_number: 0443 1226
+  - uid: '124918'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '24919'
+    date_of_birth: '09 Nov 1980'
+    main_entry: 'true'

@@ -1,0 +1,35 @@
+---
+uid: '57149'
+first_name: Ehsan
+last_name: MOSLEHI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '87524'
+    country: Iran
+id_list:
+  items:
+  - uid: '51381'
+    id_type: National ID No.
+    id_number: '0067352472'
+    id_country: Iran
+  - uid: '197505'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '196802'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '96801'
+    date_of_birth: 14 Jun 1982
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '96803'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: KHAVAR TEJARAT ARKA KISH COMPANY)"

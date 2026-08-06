@@ -1,0 +1,40 @@
+---
+uid: '44086'
+last_name: LIMITED LIABILITY COMPANY STERLITAMAK CATALYST PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '68193'
+    type: a.k.a.
+    category: strong
+    last_name: STERLITAMAKSKII ZAVOD KATALIZATOROV
+  - uid: '68194'
+    type: a.k.a.
+    category: weak
+    last_name: SZK OOO
+address_list:
+  items:
+  - uid: '65605'
+    address1: Ul. Tekhnicheskaya 32
+    city: Sterlitamak
+    postal_code: '453110'
+    country: Russia
+id_list:
+  items:
+  - uid: '33483'
+    id_type: Registration Number
+    id_number: '1040203421378'
+    id_country: Russia
+  - uid: '33484'
+    id_type: Tax ID No.
+    id_number: '0268033994'
+    id_country: Russia
+  - uid: '175759'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '163656'
+    id_type: Organization Established Date
+    id_number: 11 Feb 2004

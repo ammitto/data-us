@@ -1,0 +1,47 @@
+---
+uid: '36006'
+last_name: JESTAR SANAT DELIJAN
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '56665'
+    type: a.k.a.
+    category: strong
+    last_name: JESTAR SANAT DELIJAN COMPANY
+  - uid: '56666'
+    type: a.k.a.
+    category: strong
+    last_name: GESTAR SANAT DELIJAN COMPANY
+address_list:
+  items:
+  - uid: '54072'
+    address1: No. 9 Shenasa Street
+    address2: Vali-Asr Street
+    city: Tehran
+    country: Iran
+  - uid: '54073'
+    address1: Shenasa St.
+    address2: Valiasr St.
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '25344'
+    id_type: National ID No.
+    id_number: '10861613201'
+    id_country: Iran
+  - uid: '25345'
+    id_type: Registration Number
+    id_number: '1041'
+    id_country: Iran
+  - uid: '149302'
+    id_type: Organization Established Date
+    id_number: '2005'
+  - uid: '149343'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: HOSSEINI, Mohammad Ali)"

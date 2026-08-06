@@ -1,0 +1,38 @@
+---
+uid: '44978'
+last_name: 61ST ARMORED VEHICLE REPAIR PLANT JOINT STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69621'
+    type: a.k.a.
+    category: strong
+    last_name: JSC 61ST ARMOR REPAIR PLANT
+  - uid: '69622'
+    type: a.k.a.
+    category: strong
+    last_name: OJSC 61 BTRZ
+address_list:
+  items:
+  - uid: '66936'
+    address1: 11 Zavodskaya dor.
+    address2: Strelna
+    city: St. Petersburg
+    postal_code: '198515'
+    country: Russia
+id_list:
+  items:
+  - uid: '34618'
+    id_type: Tax ID No.
+    id_number: '7819310752'
+    id_country: Russia
+  - uid: '34619'
+    id_type: Registration Number
+    id_number: '1097847131678'
+    id_country: Russia
+  - uid: '175862'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

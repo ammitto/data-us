@@ -1,0 +1,38 @@
+---
+uid: '45046'
+first_name: Alla Fedorovna
+last_name: BABAN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '67081'
+    country: United Kingdom
+  - uid: '67082'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '34754'
+    id_type: Tax ID No.
+    id_number: '772911723121'
+    id_country: Russia
+  - uid: '175921'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '165386'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '65385'
+    date_of_birth: 13 Sep 1964
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '65388'
+    place_of_birth: Arioneshty, Moldova
+    main_entry: 'true'
+remarks: "(Linked To: OKROYAN, Mkrtich Okroevich)"

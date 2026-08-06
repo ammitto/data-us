@@ -1,0 +1,33 @@
+---
+uid: '45621'
+last_name: AKTSIONERNOE OBSHCHESTVO RUST 95
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70504'
+    type: a.k.a.
+    category: weak
+    last_name: AO RUST 95
+address_list:
+  items:
+  - uid: '67819'
+    address1: Ul. Severnaya D. 12
+    city: Kolpino
+    postal_code: '196655'
+    country: Russia
+id_list:
+  items:
+  - uid: '35298'
+    id_type: Registration Number
+    id_number: '1027700457443'
+    id_country: Russia
+  - uid: '35299'
+    id_type: Tax ID No.
+    id_number: '7728120384'
+    id_country: Russia
+  - uid: '175990'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

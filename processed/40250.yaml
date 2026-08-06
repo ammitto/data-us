@@ -1,0 +1,42 @@
+---
+uid: '40250'
+first_name: Aleksey Leonidovich
+last_name: TEKSLER
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '62601'
+    type: a.k.a.
+    category: strong
+    last_name: TEXLER
+    first_name: Alexey Leonidovich
+address_list:
+  items:
+  - uid: '59992'
+    state_or_province: Chelyabinsk Region
+    country: Russia
+id_list:
+  items:
+  - uid: '29434'
+    id_type: Tax ID No.
+    id_number: '245707035985'
+    id_country: Russia
+  - uid: '174053'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '157242'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '57240'
+    date_of_birth: 19 Jan 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '57241'
+    place_of_birth: Chelyabinsk, Chelyabinsk region, Russia
+    main_entry: 'true'

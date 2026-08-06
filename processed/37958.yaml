@@ -1,0 +1,53 @@
+---
+uid: '37958'
+first_name: Mansour
+last_name: AHMADI
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+  - IFSR
+  - IRGC
+aka_list:
+  items:
+  - uid: '60097'
+    type: a.k.a.
+    category: strong
+    last_name: AHMADI
+    first_name: Mansur
+  - uid: '60098'
+    type: a.k.a.
+    category: strong
+    last_name: UNSI
+    first_name: Parsa
+  - uid: '60099'
+    type: a.k.a.
+    category: strong
+    last_name: AKBARI
+    first_name: Masoud
+address_list:
+  items:
+  - uid: '57354'
+    country: Iran
+id_list:
+  items:
+  - uid: '27605'
+    id_type: National ID No.
+    id_number: '0453740243'
+    id_country: Iran
+  - uid: '154388'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '153611'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '53610'
+    date_of_birth: 07 Jul 1988
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '53613'
+    place_of_birth: Shamiran, Tehran Province, Iran
+    main_entry: 'true'

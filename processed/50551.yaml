@@ -1,0 +1,41 @@
+---
+uid: '50551'
+first_name: Juan Carlos
+last_name: CASTANEDA MEZA
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '79645'
+    type: a.k.a.
+    category: weak
+    last_name: BONQUES BROTHERS
+  - uid: '79646'
+    type: a.k.a.
+    category: weak
+    last_name: CALOCHO
+address_list:
+  items:
+  - uid: '76651'
+    country: Mexico
+id_list:
+  items:
+  - uid: '42379'
+    id_type: C.U.R.P.
+    id_number: CAMJ770901HNTSZN05
+    id_country: Mexico
+  - uid: '178730'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '78731'
+    date_of_birth: 01 Sep 1977
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '78733'
+    place_of_birth: Nayarit, Mexico
+    main_entry: 'true'

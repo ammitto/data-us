@@ -1,0 +1,33 @@
+---
+uid: '46516'
+last_name: JOINT STOCK COMPANY STROMMASHINA SHIELD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '71880'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO STROMMASHINA SHCHIT
+address_list:
+  items:
+  - uid: '69305'
+    address1: Ul. 22 Partsyezda D. 10A
+    city: Samara
+    postal_code: '443022'
+    country: Russia
+id_list:
+  items:
+  - uid: '36520'
+    id_type: Registration Number
+    id_number: '1116318008135'
+    id_country: Russia
+  - uid: '36521'
+    id_type: Tax ID No.
+    id_number: '6318196490'
+    id_country: Russia
+  - uid: '174980'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,38 @@
+---
+uid: '15688'
+first_name: Felipe
+last_name: REYES MAGANA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '23439'
+    address1: 'Calle Juan Jose Arreola #535'
+    address2: Col. Lomas Vista Hermosa
+    city: Colima
+    state_or_province: Colima
+    country: Mexico
+id_list:
+  items:
+  - uid: '8431'
+    id_type: C.U.R.P.
+    id_number: REMF671011HJCYGL02
+    id_country: Mexico
+  - uid: '8432'
+    id_type: RFC
+    id_number: REMF671011QH1
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '12963'
+    date_of_birth: 11 Oct 1967
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '12964'
+    place_of_birth: Tonila, Jalsico
+    main_entry: 'true'
+remarks: "(Linked To: OPERADORA Y ADMINISTRADORA DE RESTAURANTES Y BARES RUDU, S.A.
+  DE C.V.; Linked To: CASA EL VIEJO LUIS DISTRIBUIDORA, S.A. DE C.V.)"

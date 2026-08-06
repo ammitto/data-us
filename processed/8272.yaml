@@ -1,0 +1,45 @@
+---
+uid: '8272'
+first_name: Habib Ben Ahmed
+last_name: LOUBIRI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '8871'
+    type: a.k.a.
+    category: strong
+    last_name: AL-LOUBIRI
+    first_name: Habib Ben Ahmed
+address_list:
+  items:
+  - uid: '7791'
+    address1: via Brughiera, n. 5
+    city: Castronno, Varese
+    country: Italy
+id_list:
+  items:
+  - uid: '3386'
+    id_type: Italian Fiscal Code
+    id_number: LBRHBB61S17Z352F
+  - uid: '4091'
+    id_type: Passport
+    id_number: M 788439
+    issue_date: 20 Oct 2001
+    expiration_date: 19 Oct 2006
+  - uid: '186222'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '2662'
+    date_of_birth: 17 Nov 1961
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '4431'
+    place_of_birth: Menzel Temime, Tunisia
+    main_entry: 'false'

@@ -1,0 +1,51 @@
+---
+uid: '34376'
+first_name: Andrey Sergeyevich
+last_name: PUCHKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '53827'
+    type: a.k.a.
+    category: strong
+    last_name: PUCHKOV
+    first_name: Andrei Sergeevich
+  - uid: '53828'
+    type: a.k.a.
+    category: strong
+    last_name: PUCHKOV
+    first_name: Andrei
+  - uid: '53829'
+    type: a.k.a.
+    category: strong
+    last_name: PUCHKOV
+    first_name: Andrey
+address_list:
+  items:
+  - uid: '51504'
+    country: Russia
+id_list:
+  items:
+  - uid: '23976'
+    id_type: Tax ID No.
+    id_number: '771910226809'
+    id_country: Russia
+  - uid: '175116'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '145647'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '45648'
+    date_of_birth: 23 Jan 1977
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '45650'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'

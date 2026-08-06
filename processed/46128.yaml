@@ -1,0 +1,33 @@
+---
+uid: '46128'
+last_name: SIGNAL-TEPLOTEKHNIKA OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '71241'
+    type: a.k.a.
+    category: strong
+    last_name: SIGNAL TEPLOTEKHNIKA
+address_list:
+  items:
+  - uid: '68699'
+    address1: ul. Dalnyaya d.5 a
+    city: Privolzhski
+    postal_code: '413110'
+    country: Russia
+id_list:
+  items:
+  - uid: '35998'
+    id_type: Registration Number
+    id_number: '1146449001687'
+    id_country: Russia
+  - uid: '35999'
+    id_type: Tax ID No.
+    id_number: '6449073453'
+    id_country: Russia
+  - uid: '174936'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

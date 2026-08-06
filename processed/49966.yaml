@@ -1,0 +1,56 @@
+---
+uid: '49966'
+first_name: Abubakar
+last_name: SWALLEH
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '77999'
+    type: a.k.a.
+    category: strong
+    last_name: ABUBAKAR
+    first_name: Swalleh
+  - uid: '78000'
+    type: a.k.a.
+    category: strong
+    last_name: SWALLEH
+    first_name: Abubaker
+address_list:
+  items:
+  - uid: '75585'
+    country: South Africa
+  - uid: '75586'
+    city: Lusaka
+    country: Zambia
+id_list:
+  items:
+  - uid: '41506'
+    id_type: Passport
+    id_number: A00195974
+    id_country: Uganda
+    expiration_date: 16 Dec 2029
+  - uid: '41507'
+    id_type: National ID No.
+    id_number: CM920231090NZA
+    id_country: Uganda
+  - uid: '177434'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '177432'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '77430'
+    date_of_birth: 13 Jan 1992
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '77431'
+    place_of_birth: Mengo, Uganda
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC STATE OF IRAQ AND THE LEVANT)"

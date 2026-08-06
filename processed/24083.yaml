@@ -1,0 +1,43 @@
+---
+uid: '24083'
+first_name: Alexey Borisovich
+last_name: MILLER
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13661
+aka_list:
+  items:
+  - uid: '58288'
+    type: a.k.a.
+    category: strong
+    last_name: MILLER
+    first_name: Alexei Borisovich
+address_list:
+  items:
+  - uid: '36449'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '143960'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '173935'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '126214'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '26212'
+    date_of_birth: 31 Jan 1962
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '26213'
+    place_of_birth: Saint-Petersburg, Russian Federation
+    main_entry: 'true'

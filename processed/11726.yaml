@@ -1,0 +1,34 @@
+---
+uid: '11726'
+first_name: Hector
+last_name: BELTRAN LEYVA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '12424'
+    type: a.k.a.
+    category: strong
+    last_name: RIVERA MUNOZ
+    first_name: Alonso
+  - uid: '12425'
+    type: a.k.a.
+    category: strong
+    last_name: BELTRAN LEYVA
+    first_name: Mario Alberto
+address_list:
+  items:
+  - uid: '17684'
+    country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '7146'
+    date_of_birth: 01 Jan 1960
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '7147'
+    place_of_birth: Mexico
+    main_entry: 'true'

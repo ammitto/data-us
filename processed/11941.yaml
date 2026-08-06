@@ -1,0 +1,46 @@
+---
+uid: '11941'
+first_name: Benjamin
+last_name: TORRES SOSA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '18146'
+    address1: Avenida Insurgentes Centro No. 60
+    address2: No. Int. 1
+    address3: Colonia Tabacalera, Delegacion Cuauhtemoc
+    city: Mexico
+    state_or_province: Distrito Federal
+    postal_code: C.P. 06030
+    country: Mexico
+id_list:
+  items:
+  - uid: '6352'
+    id_type: C.U.R.P.
+    id_number: TOSB690331HZSRSN06
+    id_country: Mexico
+  - uid: '6353'
+    id_type: Cartilla de Servicio Militar Nacional
+    id_number: B4494067
+    id_country: Mexico
+  - uid: '6354'
+    id_type: Electoral Registry No.
+    id_number: TRSSBN69033132H900
+    id_country: Mexico
+  - uid: '6355'
+    id_type: R.F.C.
+    id_number: TOSB690331
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '7555'
+    date_of_birth: 31 Mar 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '7556'
+    place_of_birth: Guadalupe, Zacatecas
+    main_entry: 'true'

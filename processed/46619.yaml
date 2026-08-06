@@ -1,0 +1,33 @@
+---
+uid: '46619'
+last_name: LIMITED LIABILITY COMPANY ENGINEERING FIRM AB UNIVERSAL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '71948'
+    type: a.k.a.
+    category: strong
+    last_name: INZHENERNAYA FIRMA AB UNIVERSAL
+address_list:
+  items:
+  - uid: '69390'
+    address1: Pr-D Kashirskii D.13
+    city: Moscow
+    postal_code: '115201'
+    country: Russia
+id_list:
+  items:
+  - uid: '36593'
+    id_type: Registration Number
+    id_number: '1035010950974'
+    id_country: Russia
+  - uid: '36594'
+    id_type: Tax ID No.
+    id_number: '5027000367'
+    id_country: Russia
+  - uid: '175019'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

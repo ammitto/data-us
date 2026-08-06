@@ -1,0 +1,66 @@
+---
+uid: '9593'
+first_name: Ibrahim Mohamed
+last_name: KHALIL
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '9042'
+    type: a.k.a.
+    category: strong
+    last_name: JASSEM
+    first_name: Khalil Ibrahim
+  - uid: '9043'
+    type: a.k.a.
+    category: strong
+    last_name: MOHAMMAD
+    first_name: Khalil Ibrahim
+  - uid: '9044'
+    type: a.k.a.
+    category: strong
+    last_name: AL ZAFIRI
+    first_name: Khalil Ibrahim
+address_list:
+  items:
+  - uid: '24835'
+    address1: Refugee shelter Alte Ziegelei
+    city: Mainz
+    postal_code: '55128'
+    country: Germany
+id_list:
+  items:
+  - uid: '4251'
+    id_type: Travel Document Number
+    id_number: A0003900
+    id_country: Germany
+  - uid: '186260'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '4632'
+    date_of_birth: 02 Jul 1975
+    main_entry: 'true'
+  - uid: '4636'
+    date_of_birth: 02 May 1972
+    main_entry: 'false'
+  - uid: '4637'
+    date_of_birth: 03 Jul 1975
+    main_entry: 'false'
+  - uid: '4638'
+    date_of_birth: '1972'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '4639'
+    place_of_birth: Baghdad, Iraq
+    main_entry: 'false'
+  - uid: '14842'
+    place_of_birth: Dayr Az-Zawr, Syria
+    main_entry: 'true'
+remarks: Temporary suspension of deportation No. T04338017, expired 08 May 2013, issued
+  by Alien's Office of the city of Mainz

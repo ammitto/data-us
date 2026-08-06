@@ -1,0 +1,45 @@
+---
+uid: '36048'
+last_name: PUBLIC JOINT STOCK COMPANY SHIPBUILDING PLANT SEVERNAYA VERF
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56784'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY SHIPBUILDING PLANT SEVERNAYA VERF
+  - uid: '56785'
+    type: a.k.a.
+    category: strong
+    last_name: SEVERNAYA SHIPYARD
+  - uid: '56786'
+    type: a.k.a.
+    category: strong
+    last_name: PJSC SUDOSTROITELNY FACTORY SEVERNAYA VERF
+  - uid: '56966'
+    type: a.k.a.
+    category: strong
+    last_name: SEVERNAYA VERF SHIPBUILDING PLANT
+address_list:
+  items:
+  - uid: '54188'
+    address1: Korabelnaya Str., 6
+    city: St. Petersburg
+    postal_code: '198096'
+    country: Russia
+id_list:
+  items:
+  - uid: '25436'
+    id_type: Tax ID No.
+    id_number: '7805034277'
+    id_country: Russia
+  - uid: '149415'
+    id_type: Organization Established Date
+    id_number: 14 Apr 1994
+  - uid: '173343'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: JOINT STOCK COMPANY UNITED SHIPBUILDING CORPORATION)"

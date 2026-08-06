@@ -1,0 +1,30 @@
+---
+uid: '47877'
+last_name: LIMITED LIABILITY COMPANY HOLDING FINANCE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '71670'
+    address1: 1 Triumfalniy Drive, Sirius Settlement
+    state_or_province: Krasnodar
+    country: Russia
+id_list:
+  items:
+  - uid: '38637'
+    id_type: Tax ID No.
+    id_number: '9703080126'
+    id_country: Russia
+  - uid: '38638'
+    id_type: Registration Number
+    id_number: '1227700164174'
+    id_country: Russia
+  - uid: '170063'
+    id_type: 'Organization Type:'
+    id_number: Other financial service activities, except insurance and pension funding
+      activities, n.e.c.
+  - uid: '176508'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

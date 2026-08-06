@@ -1,0 +1,39 @@
+---
+uid: '50536'
+first_name: Felix
+last_name: BITZIOS
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+address_list:
+  items:
+  - uid: '76616'
+    address1: Valaoritou 9
+    city: Filothei
+    state_or_province: Attica
+    postal_code: '15237'
+    country: Greece
+id_list:
+  items:
+  - uid: '42358'
+    id_type: Passport
+    id_number: AT1170869
+    id_country: Greece
+  - uid: '42359'
+    id_type: National ID No.
+    id_number: AA026331
+    id_country: Greece
+  - uid: '178669'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '78672'
+    date_of_birth: 01 May 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '78670'
+    place_of_birth: Athens, Greece
+    main_entry: 'true'

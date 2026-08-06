@@ -1,0 +1,42 @@
+---
+uid: '41103'
+first_name: Vadim Mikhailovich
+last_name: SHUMKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '64100'
+    type: a.k.a.
+    category: strong
+    last_name: SHUMKOV
+    first_name: Vadim Mikhaylovich
+address_list:
+  items:
+  - uid: '61436'
+    state_or_province: Kurgan Region
+    country: Russia
+id_list:
+  items:
+  - uid: '30444'
+    id_type: Tax ID No.
+    id_number: '860400395106'
+    id_country: Russia
+  - uid: '173633'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '159047'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '59045'
+    date_of_birth: '09 Mar 1971'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '59046'
+    place_of_birth: Shastovo, Kurgan Region, Russia
+    main_entry: 'true'

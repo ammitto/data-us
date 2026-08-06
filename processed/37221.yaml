@@ -1,0 +1,43 @@
+---
+uid: '37221'
+last_name: OOO BILDING MENEDZHMENT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '58356'
+    type: a.k.a.
+    category: weak
+    last_name: BILDING MANAGEMENT
+  - uid: '58890'
+    type: a.k.a.
+    category: strong
+    last_name: BLD MANAGEMENT
+address_list:
+  items:
+  - uid: '55676'
+    address1: Per. Butikovskii D. 7
+    address2: Floor 3
+    address3: Pom. I Komnata 1
+    city: Moscow
+    postal_code: '119034'
+    country: Russia
+id_list:
+  items:
+  - uid: '26540'
+    id_type: Registration Number
+    id_number: '1167746703464'
+    id_country: Russia
+  - uid: '26541'
+    id_type: Tax ID No.
+    id_number: '7703413861'
+    id_country: Russia
+  - uid: '174526'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '151732'
+    id_type: Organization Established Date
+    id_number: 27 Jul 2016
+remarks: "(Linked To: KOCHMAN, Evgeniy Borisovich)"

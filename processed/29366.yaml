@@ -1,0 +1,54 @@
+---
+uid: '29366'
+first_name: Andrii Leonidovych
+last_name: DERKACH
+sdn_type: Individual
+program_list:
+  programs:
+  - ELECTION-EO13848
+aka_list:
+  items:
+  - uid: '46583'
+    type: a.k.a.
+    category: strong
+    last_name: DERKACH
+    first_name: Andriy
+  - uid: '46584'
+    type: a.k.a.
+    category: strong
+    last_name: DERKACH
+    first_name: Andriy Leonidovych
+address_list:
+  items:
+  - uid: '44770'
+    address1: Mykhailo Hrushevsky APT 9A, B7-1
+    city: Kyiv
+    postal_code: '01021'
+    country: Ukraine
+id_list:
+  items:
+  - uid: '19867'
+    id_type: Passport
+    id_number: FB513714
+    id_country: Ukraine
+  - uid: '19868'
+    id_type: Passport
+    id_number: ET855378
+    id_country: Ukraine
+  - uid: '19869'
+    id_type: National ID No.
+    id_number: '2470211979'
+    id_country: Ukraine
+  - uid: '136651'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '36647'
+    date_of_birth: 19 Aug 1967
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '36650'
+    place_of_birth: Dnipropetrovsk, Ukraine
+    main_entry: 'true'

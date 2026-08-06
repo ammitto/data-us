@@ -1,0 +1,36 @@
+---
+uid: '39165'
+last_name: JOINT STOCK COMPANY ELEMENT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '61082'
+    type: a.k.a.
+    category: strong
+    last_name: ELEMENT GROUP
+address_list:
+  items:
+  - uid: '58322'
+    address1: 12 Presnenskaya Waterfront
+    city: Moscow
+    postal_code: '123112'
+    country: Russia
+id_list:
+  items:
+  - uid: '28392'
+    id_type: Tax ID No.
+    id_number: '9703014282'
+    id_country: Russia
+  - uid: '28393'
+    id_type: Registration Number
+    id_number: '1207700245532'
+    id_country: Russia
+  - uid: '154922'
+    id_type: Organization Established Date
+    id_number: 20 Jul 2020
+  - uid: '174743'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

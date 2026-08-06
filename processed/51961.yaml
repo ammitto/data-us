@@ -1,0 +1,63 @@
+---
+uid: '51961'
+first_name: Nikolay Nikolayevich
+last_name: SPASSKIY
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '81331'
+    type: a.k.a.
+    category: strong
+    last_name: SPASSKY
+    first_name: Nikolay
+  - uid: '81332'
+    type: a.k.a.
+    category: strong
+    last_name: SPASSKIY
+    first_name: Nikolay Nikolaevich
+  - uid: '81855'
+    type: a.k.a.
+    category: strong
+    last_name: SPASSKIY
+    first_name: Nikolai
+  - uid: '81856'
+    type: a.k.a.
+    category: strong
+    last_name: SPASSKII
+    first_name: Nikolai Nikolaevich
+address_list:
+  items:
+  - uid: '79198'
+    address1: 201-59 Vernadskogo
+    city: Moscow
+    postal_code: '115157'
+    country: Russia
+id_list:
+  items:
+  - uid: '44730'
+    id_type: National ID No.
+    id_number: '4506653054'
+    id_country: Russia
+  - uid: '44992'
+    id_type: Tax ID No.
+    id_number: '772911244601'
+    id_country: Russia
+  - uid: '182599'
+    id_type: Gender
+    id_number: Male
+  - uid: '182595'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '82596'
+    date_of_birth: 10 Aug 1961
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '82597'
+    place_of_birth: Sevastopol, Ukraine
+    main_entry: 'true'

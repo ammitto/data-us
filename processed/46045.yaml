@@ -1,0 +1,48 @@
+---
+uid: '46045'
+first_name: Elena Igorevna
+last_name: MILSKAIA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '71145'
+    type: a.k.a.
+    category: strong
+    last_name: MILSKAYA
+    first_name: Elena
+  - uid: '71146'
+    type: a.k.a.
+    category: strong
+    last_name: MILSKAYA
+    first_name: Yelena
+address_list:
+  items:
+  - uid: '68598'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '35905'
+    id_type: Tax ID No.
+    id_number: '774395846880'
+    id_country: Russia
+  - uid: '174918'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '166699'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '66697'
+    date_of_birth: 20 Dec 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '66698'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'
+remarks: "(Linked To: KURENKOV, Aleksandr Vyacheslavovich)"

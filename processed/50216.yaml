@@ -1,0 +1,43 @@
+---
+uid: '50216'
+first_name: Oleg Fedorovich
+last_name: BARABANOV
+sdn_type: Individual
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '78355'
+    type: a.k.a.
+    category: strong
+    last_name: BARABANAU
+    first_name: Aleh Fyedaravych
+address_list:
+  items:
+  - uid: '76016'
+    country: Belarus
+id_list:
+  items:
+  - uid: '41852'
+    id_type: Passport
+    id_number: KH2539329
+    id_country: Belarus
+    expiration_date: 13 Oct 2025
+  - uid: '41853'
+    id_type: National ID No.
+    id_number: 3290856K010PB6
+    id_country: Belarus
+  - uid: '177830'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '77831'
+    date_of_birth: 29 Aug 1956
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '78183'
+    place_of_birth: Belarus
+    main_entry: 'true'

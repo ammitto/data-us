@@ -1,0 +1,33 @@
+---
+uid: '47986'
+last_name: LIMITED LIABILITY COMPANY NATIONAL CENTRE FOR INFORMATION SECURITY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74463'
+    type: a.k.a.
+    category: strong
+    last_name: NATSINFOBEZ
+address_list:
+  items:
+  - uid: '71901'
+    address1: Berezhkovskaya nab, 38, bldg. 1, room 32
+    city: Moscow
+    postal_code: '121059'
+    country: Russia
+id_list:
+  items:
+  - uid: '38837'
+    id_type: Tax ID No.
+    id_number: '7730232060'
+    id_country: Russia
+  - uid: '38838'
+    id_type: Registration Number
+    id_number: '1177746261736'
+    id_country: Russia
+  - uid: '169805'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

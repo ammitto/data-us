@@ -1,0 +1,44 @@
+---
+uid: '55553'
+first_name: Antonio Filipe Fortio
+last_name: MIRA
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '86414'
+    type: a.k.a.
+    category: strong
+    last_name: MIRRA
+    first_name: Antonio
+address_list:
+  items:
+  - uid: '84941'
+    city: Lisboa
+    country: Portugal
+id_list:
+  items:
+  - uid: '49543'
+    id_type: National ID No.
+    id_number: '14138863'
+    id_country: Portugal
+  - uid: '193065'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '193064'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '93061'
+    date_of_birth: '09 Oct 1992'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '93062'
+    place_of_birth: Lisboa, Portugal
+    main_entry: 'true'
+remarks: "(Linked To: BUSINESS UNITED UNIPESSOAL LDA)"

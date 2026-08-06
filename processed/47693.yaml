@@ -1,0 +1,40 @@
+---
+uid: '47693'
+last_name: UNISERVICE LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73926'
+    type: a.k.a.
+    category: strong
+    last_name: UNISERVICE LLC
+address_list:
+  items:
+  - uid: '71307'
+    address1: Obruchevykh st. 1, lit. A, ind. 2-H, of. 150
+    city: St. Petersburg
+    country: Russia
+  - uid: '71308'
+    address1: Ul. Obruchevykh D. 1, Lit. A, Chast Pomeshch. 2-N, Office 150
+    city: Saint Petersburg
+    postal_code: '195220'
+    country: Russia
+id_list:
+  items:
+  - uid: '38330'
+    id_type: Registration Number
+    id_number: '1237800029807'
+    id_country: Russia
+  - uid: '38331'
+    id_type: Tax ID No.
+    id_number: '7804700100'
+    id_country: Russia
+  - uid: '169835'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '169183'
+    id_type: Organization Established Date
+    id_number: 14 Mar 2023

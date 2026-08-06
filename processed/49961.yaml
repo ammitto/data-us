@@ -1,0 +1,34 @@
+---
+uid: '49961'
+last_name: LIMITED LIABILITY COMPANY HEAD POINT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77883'
+    type: a.k.a.
+    category: strong
+    last_name: LLC HEAD POINT
+address_list:
+  items:
+  - uid: '75573'
+    address1: Ul. Bolshaya Pochtovaya
+    address2: D. 26, Str. 1, Et/Pom/Kom/Of. 6/I/2B/1
+    city: Moscow
+    postal_code: '105082'
+    country: Russia
+id_list:
+  items:
+  - uid: '41496'
+    id_type: Registration Number
+    id_number: '1037739904707'
+    id_country: Russia
+  - uid: '41497'
+    id_type: Tax ID No.
+    id_number: '7704503123'
+    id_country: Russia
+  - uid: '178004'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

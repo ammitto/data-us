@@ -1,0 +1,49 @@
+---
+uid: '44266'
+last_name: UNISTREAM COMMERCIAL BANK JSC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '68471'
+    type: a.k.a.
+    category: strong
+    last_name: AO KB YUNISTRIM
+address_list:
+  items:
+  - uid: '65898'
+    address1: Ul. Verkhnyaya Maslovka D. 20, Str. 2
+    city: Moscow
+    postal_code: '127083'
+    country: Russia
+id_list:
+  items:
+  - uid: '33707'
+    id_type: Registration Number
+    id_number: '1067711004437'
+    id_country: Russia
+  - uid: '33709'
+    id_type: Tax ID No.
+    id_number: '7750004009'
+    id_country: Russia
+  - uid: '33710'
+    id_type: Identification Number
+    id_number: 2S1RNS.99999.SL.643
+    id_country: Russia
+  - uid: '163931'
+    id_type: Organization Established Date
+    id_number: 31 May 2006
+  - uid: '175820'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '163935'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '163933'
+    id_type: SWIFT/BIC
+    id_number: UMTNRUMM
+  - uid: '163934'
+    id_type: Website
+    id_number: www.unistream.ru

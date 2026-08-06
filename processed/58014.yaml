@@ -1,0 +1,47 @@
+---
+uid: '58014'
+first_name: Gustavo
+last_name: BOTELLO RODRIGUEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+aka_list:
+  items:
+  - uid: '89737'
+    type: a.k.a.
+    category: weak
+    last_name: Viejon
+  - uid: '89738'
+    type: a.k.a.
+    category: weak
+    last_name: Tavo
+address_list:
+  items:
+  - uid: '89073'
+    country: Mexico
+id_list:
+  items:
+  - uid: '52567'
+    id_type: C.U.R.P.
+    id_number: BORG930120HMNTDS06
+    id_country: Mexico
+  - uid: '199260'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '199210'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '99208'
+    date_of_birth: 20 Jan 1993
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '99209'
+    place_of_birth: Michoacan, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: CARTEL DE JALISCO NUEVA GENERACION)"

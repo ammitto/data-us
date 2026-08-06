@@ -1,0 +1,33 @@
+---
+uid: '49020'
+last_name: LIMITED LIABILITY COMPANY RUSSIAN EAGLE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76389'
+    type: a.k.a.
+    category: weak
+    last_name: RUSSKII OREL
+address_list:
+  items:
+  - uid: '73743'
+    address1: Ul. Kotelnicheskaya D. 24A
+    city: Lyubertsy
+    postal_code: '140000'
+    country: Russia
+id_list:
+  items:
+  - uid: '40084'
+    id_type: Tax ID No.
+    id_number: '5027128078'
+    id_country: Russia
+  - uid: '40085'
+    id_type: Registration Number
+    id_number: '1075027014754'
+    id_country: Russia
+  - uid: '171819'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,28 @@
+---
+uid: '26569'
+first_name: Mohsen
+last_name: SHAFA'I
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+id_list:
+  items:
+  - uid: '131104'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '131107'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '31105'
+    date_of_birth: '1971'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '31106'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: PUYA ELECTRO SAMAN NIRU)"

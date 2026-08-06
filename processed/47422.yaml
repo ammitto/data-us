@@ -1,0 +1,41 @@
+---
+uid: '47422'
+last_name: NAUCHNO PROIZVODSTVENNAYA FIRMA KRUG
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73336'
+    type: a.k.a.
+    category: strong
+    last_name: NPF KRUG
+  - uid: '73337'
+    type: a.k.a.
+    category: strong
+    last_name: SCIENTIFIC PRODUCTION COMPANY KRUG
+  - uid: '73338'
+    type: a.k.a.
+    category: strong
+    last_name: SPC KRUG
+address_list:
+  items:
+  - uid: '70721'
+    address1: Ul Germana Titova 1
+    city: Penza
+    postal_code: '440028'
+    country: Russia
+id_list:
+  items:
+  - uid: '37831'
+    id_type: Registration Number
+    id_number: '1025801216748'
+    id_country: Russia
+  - uid: '37832'
+    id_type: Tax ID No.
+    id_number: '5837003278'
+    id_country: Russia
+  - uid: '169879'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

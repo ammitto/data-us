@@ -1,0 +1,38 @@
+---
+uid: '12191'
+last_name: AERO EXPRESS INTERCONTINENTAL S.A. DE C.V.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '13116'
+    type: a.k.a.
+    category: weak
+    last_name: AEISA
+  - uid: '13117'
+    type: a.k.a.
+    category: weak
+    last_name: INTEREXPRESS
+address_list:
+  items:
+  - uid: '18591'
+    address1: Oriente 158 No. 390-E
+    address2: Colonia Moctezuma, Segunda Seccion
+    address3: Delegacion Venustiano Carranza
+    city: Mexico City
+    state_or_province: Distrito Federal
+    country: Mexico
+  - uid: '18592'
+    address1: Avenida Ruben Dario
+    address2: Albrook Comercial Park, Deposito No. 20
+    city: Bella Vista
+    state_or_province: Distrito de Panama
+    country: Panama
+id_list:
+  items:
+  - uid: '6566'
+    id_type: R.F.C.
+    id_number: AIN-000713-GR7
+    id_country: Mexico

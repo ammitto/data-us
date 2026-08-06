@@ -1,0 +1,64 @@
+---
+uid: '25308'
+first_name: Xiaobing
+last_name: YAN
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '41771'
+    type: a.k.a.
+    category: weak
+    last_name: ZHOU, William
+  - uid: '42011'
+    type: a.k.a.
+    category: weak
+    last_name: YAN, Steven
+address_list:
+  items:
+  - uid: '38289'
+    city: Wuhan
+    state_or_province: Hubei
+    country: China
+id_list:
+  items:
+  - uid: '16376'
+    id_type: Citizen's Card Number
+    id_number: '421002197703250019'
+    id_country: China
+  - uid: '16379'
+    id_type: Chinese Commercial Code
+    id_number: 7346 2556 0365
+  - uid: '131723'
+    id_type: Digital Currency Address - XBT
+    id_number: 12QtD5BFwRsdNsAZY76UVE1xyCGNTojH9h
+  - uid: '131724'
+    id_type: Digital Currency Address - XBT
+    id_number: 1Kuf2Rd8mDyAViwBozGTNYnvWL8uYFrkVo
+  - uid: '131725'
+    id_type: Digital Currency Address - XBT
+    id_number: 13f59kUM5FU8MfTG7DCEugYarDhSD7XCoC
+  - uid: '131726'
+    id_type: Digital Currency Address - XBT
+    id_number: 1P3ZfGFLezzYGg9k5SVzQmnjyh7nrUmF2y
+  - uid: '131727'
+    id_type: Digital Currency Address - XBT
+    id_number: 1EpMiZkQVekM5ij12nMiEwttFPcDK9XhX6
+  - uid: '131728'
+    id_type: Digital Currency Address - XBT
+    id_number: 1JREJdZupiFhE7ZzQPtASuMCvvpXC7wRsC
+  - uid: '128707'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '28709'
+    date_of_birth: 25 Mar 1977
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '30986'
+    place_of_birth: Wuhan City, Hubei, China
+    main_entry: 'true'

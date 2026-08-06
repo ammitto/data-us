@@ -1,0 +1,46 @@
+---
+uid: '52051'
+last_name: AKHTAR AND SONS PRIVATE LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+aka_list:
+  items:
+  - uid: '81503'
+    type: a.k.a.
+    category: weak
+    last_name: AKHTAR AND SONS
+  - uid: '81504'
+    type: a.k.a.
+    category: strong
+    last_name: AKHTAR AND SONS PVT LTD.
+address_list:
+  items:
+  - uid: '79374'
+    address1: 10th Floor Emerald Tower
+    address2: Main Clifton Road
+    city: Karachi
+    postal_code: '74000'
+    country: Pakistan
+  - uid: '79375'
+    address1: 'Office # 1003, 10th Floor, Emerald Tower'
+    address2: G-19, Block 5
+    address3: Do Talwar, Main Clifton Road, South Saddar Town
+    city: Karachi
+    country: Pakistan
+  - uid: '79377'
+    address1: 10th Floor, Emerald Tower
+    address2: Main Clifton Road
+    city: Karachi
+    postal_code: '75600'
+    country: Pakistan
+id_list:
+  items:
+  - uid: '44882'
+    id_type: Tax ID No.
+    id_number: '0686371'
+    id_country: Pakistan
+  - uid: '182745'
+    id_type: Organization Established Date
+    id_number: '09 Nov 1995'

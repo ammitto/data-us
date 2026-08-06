@@ -1,0 +1,31 @@
+---
+uid: '41143'
+first_name: Anatoliy Vyacheslavovich
+last_name: RAZINKIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '61516'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '159126'
+    id_type: Gender
+    id_number: Male
+  - uid: '173665'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '59124'
+    date_of_birth: 24 Jan 1977
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '59125'
+    place_of_birth: Samara Region, Russia
+    main_entry: 'true'

@@ -1,0 +1,53 @@
+---
+uid: '31147'
+first_name: Audias
+last_name: FLORES SILVA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+aka_list:
+  items:
+  - uid: '48984'
+    type: a.k.a.
+    category: weak
+    last_name: Jardinero
+  - uid: '84737'
+    type: a.k.a.
+    category: strong
+    last_name: RAIGOSA PLASCENCIA
+    first_name: Gabriel
+address_list:
+  items:
+  - uid: '47069'
+    state_or_province: Zacatecas
+    country: Mexico
+  - uid: '83165'
+    state_or_province: Jalisco
+    country: Mexico
+id_list:
+  items:
+  - uid: '21148'
+    id_type: C.U.R.P.
+    id_number: FOSA801119HMNLLD09
+    id_country: Mexico
+  - uid: '139575'
+    id_type: Gender
+    id_number: Male
+  - uid: '190345'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '39572'
+    date_of_birth: 19 Nov 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '39573'
+    place_of_birth: Michoacan de Ocampo, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: CARTEL DE JALISCO NUEVA GENERACION)"

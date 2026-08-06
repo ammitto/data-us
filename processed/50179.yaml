@@ -1,0 +1,37 @@
+---
+uid: '50179'
+last_name: SERENITY CYBER SECURITY LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78270'
+    type: a.k.a.
+    category: strong
+    last_name: SERENITY CYBER SECURITY LLC
+  - uid: '78271'
+    type: a.k.a.
+    category: weak
+    last_name: MTS RED
+address_list:
+  items:
+  - uid: '75951'
+    address1: d. 5 str. 2 pom. XII (ETAZH 5) kom. 20, ul. Vorontsovskaya
+    city: Moscow
+    postal_code: '109147'
+    country: Russia
+id_list:
+  items:
+  - uid: '41799'
+    id_type: Registration Number
+    id_number: '1227700479753'
+    id_country: Russia
+  - uid: '41800'
+    id_type: Tax ID No.
+    id_number: '9709084286'
+    id_country: Russia
+  - uid: '178476'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

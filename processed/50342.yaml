@@ -1,0 +1,37 @@
+---
+uid: '50342'
+last_name: LIMITED LIABILITY COMPANY LIQUIFIED NATURAL GAS YAKUTIA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78675'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY SZHIZHENNYI PRIRODNYI GAZ YAKUTIA
+  - uid: '78676'
+    type: a.k.a.
+    category: strong
+    last_name: LNG YAKUTIA LLC
+address_list:
+  items:
+  - uid: '76297'
+    address1: ofis 102, k. 2 d. 4 prospekt Lenina
+    city: Yakutsk
+    postal_code: '677000'
+    country: Russia
+id_list:
+  items:
+  - uid: '42072'
+    id_type: Tax ID No.
+    id_number: '1400026781'
+    id_country: Russia
+  - uid: '42074'
+    id_type: Registration Number
+    id_number: '1231400009785'
+    id_country: Russia
+  - uid: '178305'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

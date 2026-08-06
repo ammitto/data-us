@@ -1,0 +1,40 @@
+---
+uid: '32711'
+first_name: Andrei Alekseevich
+last_name: RYBAKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - BELARUS
+aka_list:
+  items:
+  - uid: '51398'
+    type: a.k.a.
+    category: strong
+    last_name: RYBAKOU
+    first_name: Andrei Aliakseevich
+  - uid: '51399'
+    type: a.k.a.
+    category: strong
+    last_name: RYBAKOU
+    first_name: Andrei
+address_list:
+  items:
+  - uid: '49265'
+    city: Minsk
+    country: Belarus
+id_list:
+  items:
+  - uid: '142348'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '42346'
+    date_of_birth: 11 Jul 1976
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '42347'
+    place_of_birth: Mahilyow, Belarus
+    main_entry: 'true'

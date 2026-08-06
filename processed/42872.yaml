@@ -1,0 +1,38 @@
+---
+uid: '42872'
+last_name: RIIT LTD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '66434'
+    type: a.k.a.
+    category: weak
+    last_name: NIIIT
+address_list:
+  items:
+  - uid: '63962'
+    address1: ul. Kulakova d. 20
+    address2: str. 1G, pom. XIV et 3
+    address3: kom 10, 11, 52-57
+    city: Moscow
+    postal_code: '123592'
+    country: Russia
+id_list:
+  items:
+  - uid: '32446'
+    id_type: Registration Number
+    id_number: '5147746189014'
+    id_country: Russia
+  - uid: '32447'
+    id_type: Tax ID No.
+    id_number: '7731481013'
+    id_country: Russia
+  - uid: '161705'
+    id_type: Organization Established Date
+    id_number: 23 Apr 2013
+  - uid: '175487'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

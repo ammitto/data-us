@@ -1,0 +1,31 @@
+---
+uid: '29669'
+first_name: Williams Jose
+last_name: BENAVIDES RONDON
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+address_list:
+  items:
+  - uid: '45107'
+    country: Venezuela
+id_list:
+  items:
+  - uid: '19791'
+    id_type: Cedula No.
+    id_number: V-15631775
+    id_country: Venezuela
+  - uid: '136533'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '36534'
+    date_of_birth: 04 Apr 1981
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '36535'
+    place_of_birth: Guanipa, Anzoategui, Venezuela
+    main_entry: 'true'

@@ -1,0 +1,60 @@
+---
+uid: '28659'
+last_name: MAIN STREET 1095 PROPRIETARY LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13846
+aka_list:
+  items:
+  - uid: '45070'
+    type: a.k.a.
+    category: weak
+    last_name: MAIN STREET 1095
+  - uid: '45071'
+    type: a.k.a.
+    category: strong
+    last_name: MAIN STREET 1095 PTY LTD
+address_list:
+  items:
+  - uid: '43337'
+    address1: 306 Isie Smuts Street
+    address2: Garsfontein Ext 3
+    city: Pretoria
+    state_or_province: Gauteng
+    postal_code: '0060'
+    country: South Africa
+  - uid: '43338'
+    address1: PO Box 1707
+    address2: Garsfontein-East
+    city: Pretoria
+    state_or_province: Gauteng
+    postal_code: '0060'
+    country: South Africa
+id_list:
+  items:
+  - uid: '19032'
+    id_type: Registration Number
+    id_number: K2012219285
+    id_country: South Africa
+  - uid: '134484'
+    id_type: 'Executive Order 13846 information:'
+    id_number: LOANS FROM UNITED STATES FINANCIAL INSTITUTIONS.  Sec. 5(a)(i)
+  - uid: '134485'
+    id_type: 'Executive Order 13846 information:'
+    id_number: FOREIGN EXCHANGE.  Sec. 5(a)(ii)
+  - uid: '134486'
+    id_type: 'Executive Order 13846 information:'
+    id_number: BANKING TRANSACTIONS.  Sec. 5(a)(iii)
+  - uid: '134487'
+    id_type: 'Executive Order 13846 information:'
+    id_number: BLOCKING PROPERTY AND INTERESTS IN PROPERTY.  Sec. 5(a)(iv)
+  - uid: '134488'
+    id_type: 'Executive Order 13846 information:'
+    id_number: BAN ON INVESTMENT IN EQUITY OR DEBT OF SANCTIONED PERSON.  Sec. 5(a)(v)
+  - uid: '134489'
+    id_type: 'Executive Order 13846 information:'
+    id_number: IMPORT SANCTIONS.  Sec. 5(a)(vi)
+  - uid: '134490'
+    id_type: 'Executive Order 13846 information:'
+    id_number: SANCTIONS ON PRINCIPAL EXECUTIVE OFFICERS. Sec. 5(a)(vii)

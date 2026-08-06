@@ -1,0 +1,41 @@
+---
+uid: '12552'
+last_name: MULTIMAT IC VE DIS TICARET PAZARLAMA LIMITED SIRKETI
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '13464'
+    type: a.k.a.
+    category: strong
+    last_name: MULTIMAT DOMESTIC AND FOREIGN TRADE MARKETING LTD.
+  - uid: '13465'
+    type: a.k.a.
+    category: strong
+    last_name: MULTIMAT TEHRAN
+address_list:
+  items:
+  - uid: '19682'
+    address1: Bagdat Caddesi
+    address2: Burc Sitesi
+    address3: Number 117 A Blok D.2, Feneryolu - Kadkoy
+    city: Istanbul
+    country: Turkey
+  - uid: '19683'
+    address1: Number 39
+    address2: Alvand St.
+    address3: 1st Floor, Argentine Square
+    state_or_province: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '7036'
+    id_type: V.A.T. Number
+    id_number: Goztepe V.D. 823 026 0248
+    id_country: Turkey
+  - uid: '113924'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

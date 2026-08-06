@@ -1,0 +1,32 @@
+---
+uid: '9346'
+last_name: TANCHON COMMERCIAL BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+aka_list:
+  items:
+  - uid: '8820'
+    type: f.k.a.
+    category: strong
+    last_name: KOREA CHANGGWANG CREDIT BANK
+  - uid: '8821'
+    type: f.k.a.
+    category: strong
+    last_name: CHANGGWANG CREDIT BANK
+address_list:
+  items:
+  - uid: '11534'
+    address1: Saemul 1-Dong Pyongchon District
+    city: Pyongyang
+    country: Korea, North
+id_list:
+  items:
+  - uid: '127694'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '134856'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214

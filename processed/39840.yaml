@@ -1,0 +1,39 @@
+---
+uid: '39840'
+first_name: Obey
+last_name: CHIMUKA
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+address_list:
+  items:
+  - uid: '59435'
+    address1: 25 Northolt Bluffhill
+    city: Harare
+    country: Zimbabwe
+id_list:
+  items:
+  - uid: '29080'
+    id_type: Passport
+    id_number: EN899508
+    id_country: Zimbabwe
+    expiration_date: 15 Mar 2026
+  - uid: '29081'
+    id_type: National ID No.
+    id_number: 58158115R42
+    id_country: Zimbabwe
+  - uid: '156602'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '56606'
+    date_of_birth: 15 Jan 1975
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '56605'
+    place_of_birth: Makoni, Zimbabwe
+    main_entry: 'true'
+remarks: "(Linked To: FOSSIL CONTRACTING; Linked To: TAGWIREI, Kudakwashe Regimond)"

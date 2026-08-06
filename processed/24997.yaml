@@ -1,0 +1,42 @@
+---
+uid: '24997'
+first_name: Song Un
+last_name: RI
+sdn_type: Individual
+program_list:
+  programs:
+  - DPRK2
+address_list:
+  items:
+  - uid: '37836'
+    city: Ulaanbaatar
+    country: Mongolia
+id_list:
+  items:
+  - uid: '16081'
+    id_type: Passport
+    id_number: '836110063'
+    id_country: Korea, North
+    issue_date: 04 Feb 2016
+    expiration_date: 04 Feb 2021
+  - uid: '128191'
+    id_type: Gender
+    id_number: Male
+  - uid: '128491'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '135096'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+date_of_birth_list:
+  items:
+  - uid: '28194'
+    date_of_birth: 16 Dec 1955
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '28189'
+    place_of_birth: N. Hwanghae, North Korea
+    main_entry: 'true'
+title: Economic and Commercial Counsellor at DPRK Embassy in Mongolia

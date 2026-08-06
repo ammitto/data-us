@@ -1,0 +1,49 @@
+---
+uid: '36052'
+last_name: JOINT STOCK COMPANY SREDNE-NEVSKY SHIPYARD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56797'
+    type: a.k.a.
+    category: strong
+    last_name: SREDNE-NEVSKY SHIPYARD
+  - uid: '56798'
+    type: a.k.a.
+    category: strong
+    last_name: JSC SREDNE-NEVSKY SHIPYARD
+  - uid: '56800'
+    type: a.k.a.
+    category: strong
+    last_name: JSC SREDNE-NEVSKY SUDOSTROITELNY FACTORY
+  - uid: '56802'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY SREDNE-NEVSKY SHIPBUILDING PLANT
+  - uid: '56804'
+    type: a.k.a.
+    category: weak
+    last_name: JSC SNSZ
+address_list:
+  items:
+  - uid: '54198'
+    address1: Ponton, St. Factory, 10
+    city: St. Petersburg
+    postal_code: '196643'
+    country: Russia
+id_list:
+  items:
+  - uid: '25438'
+    id_type: Tax ID No.
+    id_number: '7817315385'
+    id_country: Russia
+  - uid: '149426'
+    id_type: Organization Established Date
+    id_number: 20 Nov 2008
+  - uid: '173346'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: JOINT STOCK COMPANY UNITED SHIPBUILDING CORPORATION)"

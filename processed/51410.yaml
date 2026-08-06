@@ -1,0 +1,31 @@
+---
+uid: '51410'
+first_name: Allende
+last_name: PERRILLA SANDOVAL
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '78296'
+    country: Colombia
+id_list:
+  items:
+  - uid: '43732'
+    id_type: Cedula No.
+    id_number: '1061741639'
+    id_country: Colombia
+  - uid: '180892'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '80889'
+    date_of_birth: 25 Mar 1990
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '80890'
+    place_of_birth: San Jose Del Guaviare, Guaviare, Colombia
+    main_entry: 'true'

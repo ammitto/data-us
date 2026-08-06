@@ -1,0 +1,47 @@
+---
+uid: '51948'
+first_name: Konstantin Ivanovich
+last_name: DENISOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '79176'
+    address1: Kedrova Street, 22, 43
+    city: Moscow
+    postal_code: '117218'
+    country: Russia
+  - uid: '79525'
+    address1: Ostrovityanova Street, 4, 304
+    city: Moscow
+    postal_code: '117513'
+    country: Russia
+id_list:
+  items:
+  - uid: '44983'
+    id_type: Tax ID No.
+    id_number: '365102650363'
+    id_country: Russia
+  - uid: '44984'
+    id_type: National ID No.
+    id_number: '4507756257'
+    id_country: Russia
+  - uid: '44985'
+    id_type: National ID No.
+    id_number: '2097047775'
+    id_country: Russia
+  - uid: '182540'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '82538'
+    date_of_birth: 25 Apr 1960
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '83941'
+    place_of_birth: Krasnyy Vostok, Almaty Region, Kazakhstan
+    main_entry: 'true'

@@ -1,0 +1,31 @@
+---
+uid: '38580'
+last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU MARKUS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '57612'
+    address1: Nab. Presnenskaya d. 12, et 45 kom 10 of 232
+    city: Moscow
+    postal_code: '123100'
+    country: Russia
+id_list:
+  items:
+  - uid: '27857'
+    id_type: Registration Number
+    id_number: '1037707028204'
+    id_country: Russia
+  - uid: '27858'
+    id_type: Tax ID No.
+    id_number: '7707327719'
+    id_country: Russia
+  - uid: '174680'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '154043'
+    id_type: Organization Established Date
+    id_number: 21 Jul 2003
+remarks: "(Linked To: CHECHIKHIN, Yuriy Valeryevich)"

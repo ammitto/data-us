@@ -1,0 +1,44 @@
+---
+uid: '34504'
+last_name: PAO ROSGOSSTRAKH BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54050'
+    type: a.k.a.
+    category: strong
+    last_name: OPEN JOINT-STOCK COMPANY ROSGOSSTRAKH BANK
+  - uid: '54051'
+    type: f.k.a.
+    category: weak
+    last_name: RUSS-BANK
+address_list:
+  items:
+  - uid: '51702'
+    address1: Stroenie 2, 43 Myasnickaya ul.
+    city: Moscow
+    postal_code: '107078'
+    country: Russia
+id_list:
+  items:
+  - uid: '24130'
+    id_type: Tax ID No.
+    id_number: '7718105676'
+    id_country: Russia
+  - uid: '24131'
+    id_type: Registration Number
+    id_number: '1027739004809'
+    id_country: Russia
+  - uid: '175131'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '145896'
+    id_type: SWIFT/BIC
+    id_number: RUIDRUMM
+  - uid: '145897'
+    id_type: Website
+    id_number: www.rgsbank.ru
+remarks: "(Linked To: PUBLIC JOINT STOCK COMPANY BANK FINANCIAL CORPORATION OTKRITIE)"

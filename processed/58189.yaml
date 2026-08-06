@@ -1,0 +1,33 @@
+---
+uid: '58189'
+last_name: QI HANG SHIP MANAGEMENT LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '89386'
+    address1: Room D, 16th Floor, China Merchants Tower, 1008
+    address2: Wanghai Lu, Nanshan Qu
+    city: Shenzhen
+    state_or_province: Guangdong
+    country: China
+  - uid: '89387'
+    address1: Rm 30 3/F East Sun Indl Ctr Blk A, 16 Shing Yip St
+    address2: Kwun Tong
+    address3: Kowloon
+    city: Hong Kong
+    country: China
+id_list:
+  items:
+  - uid: '52789'
+    id_type: Identification Number
+    id_number: IMO 0301550
+  - uid: '52790'
+    id_type: Business Registration Number
+    id_number: '78537348'
+    id_country: Hong Kong
+  - uid: '199767'
+    id_type: Organization Established Date
+    id_number: 29 Jul 2025

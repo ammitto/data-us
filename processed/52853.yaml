@@ -1,0 +1,32 @@
+---
+uid: '52853'
+last_name: LUCKY OCEAN SHIPPING LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '80811'
+    address1: Trust Company Complex, Ajeltake Road
+    city: Majuro
+    state_or_province: Ajeltake Island
+    postal_code: '96960'
+    country: Marshall Islands
+  - uid: '80812'
+    address1: Room 522, 129, Xishan Lu
+    address2: Pudong Xinqu
+    city: Shanghai
+    country: China
+id_list:
+  items:
+  - uid: '46006'
+    id_type: Registration Number
+    id_number: IMO 6445103
+  - uid: '46007'
+    id_type: Company Number
+    id_number: '122169'
+    id_country: Marshall Islands
+  - uid: '184814'
+    id_type: Organization Established Date
+    id_number: 10 Oct 2023

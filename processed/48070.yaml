@@ -1,0 +1,35 @@
+---
+uid: '48070'
+first_name: Porthos
+last_name: MARIN GONZALEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '72082'
+    address1: Calle San Jorge 4217
+    address2: Fracc. Santa Fe
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+id_list:
+  items:
+  - uid: '38956'
+    id_type: C.U.R.P.
+    id_number: MAGP960111HSLRNR03
+    id_country: Mexico
+  - uid: '169946'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '69942'
+    date_of_birth: 11 Jan 1996
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '69943'
+    place_of_birth: Sinaloa, Mexico
+    main_entry: 'true'

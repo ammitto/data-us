@@ -1,0 +1,53 @@
+---
+uid: '36057'
+last_name: JOINT PUBLIC STOCK COMPANY NEVSKOE DESIGN BUREAU
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56823'
+    type: a.k.a.
+    category: strong
+    last_name: NEVSKOE DESIGN BUREAU
+  - uid: '56824'
+    type: a.k.a.
+    category: strong
+    last_name: NEVSKOE DESIGN BUREAU JPSC
+  - uid: '56825'
+    type: a.k.a.
+    category: strong
+    last_name: JSC NEVSKOYE PROYEKTNO-KONSTRUKTORSKOYE BYURO
+  - uid: '56826'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY NEVSKOYE PROJECT AND DESIGN BUREAU
+  - uid: '56828'
+    type: a.k.a.
+    category: strong
+    last_name: NEVSKOE DESIGN AND CONSTRUCTION OFFICE
+  - uid: '56978'
+    type: a.k.a.
+    category: strong
+    last_name: JSC NEVSKOE PKB
+address_list:
+  items:
+  - uid: '54211'
+    address1: Galerny Proezd 3
+    city: Saint-Petersburg
+    postal_code: '199106'
+    country: Russia
+id_list:
+  items:
+  - uid: '25442'
+    id_type: Tax ID No.
+    id_number: '7801074335'
+    id_country: Russia
+  - uid: '149439'
+    id_type: Organization Established Date
+    id_number: 25 Sep 1995
+  - uid: '173351'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: JOINT STOCK COMPANY UNITED SHIPBUILDING CORPORATION)"

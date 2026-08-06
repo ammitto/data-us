@@ -1,0 +1,42 @@
+---
+uid: '51731'
+last_name: PUBLIC JOINT STOCK COMPANY METKOMBANK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '78830'
+    address1: ul. Oktyabrskaya 36
+    city: Kamensk-Uralskiy
+    postal_code: '623406'
+    country: Russia
+id_list:
+  items:
+  - uid: '44314'
+    id_type: Global Intermediary Identification Number
+    id_number: 9LG9H8.99999.SL.643
+  - uid: '44315'
+    id_type: Legal Entity Number
+    id_number: 253400D6K5L2K3M4R485
+  - uid: '44316'
+    id_type: Registration Number
+    id_number: '1026600000195'
+    id_country: Russia
+  - uid: '44317'
+    id_type: Tax ID No.
+    id_number: '6612010782'
+    id_country: Russia
+  - uid: '181846'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '181848'
+    id_type: SWIFT/BIC
+    id_number: MTKCRUMM
+  - uid: '181847'
+    id_type: Website
+    id_number: www.metcom.ru
+  - uid: '181845'
+    id_type: Target Type
+    id_number: Financial Institution

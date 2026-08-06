@@ -1,0 +1,29 @@
+---
+uid: '42203'
+last_name: LIMITED LIABILITY COMPANY NDN
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '62989'
+    address1: 9A Obukhovskaya St.
+    city: Solnechnogorsk
+    state_or_province: Moscow region
+    postal_code: '141503'
+    country: Russia
+id_list:
+  items:
+  - uid: '31679'
+    id_type: Registration Number
+    id_number: '1205000010600'
+    id_country: Russia
+  - uid: '31681'
+    id_type: Tax ID No.
+    id_number: '5044118129'
+    id_country: Russia
+  - uid: '175430'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: GRIGORIEV, Grigoriy Igorevich)"

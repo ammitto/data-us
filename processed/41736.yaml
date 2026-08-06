@@ -1,0 +1,54 @@
+---
+uid: '41736'
+first_name: Ashot
+last_name: MKRTYCHEV
+sdn_type: Individual
+program_list:
+  programs:
+  - DPRK
+aka_list:
+  items:
+  - uid: '64887'
+    type: a.k.a.
+    category: strong
+    last_name: MKRTYCEV
+    first_name: Asot
+address_list:
+  items:
+  - uid: '62284'
+    address1: Hana Melichkova Street 3448/37
+    city: Bratislava
+    postal_code: '84105'
+    country: Slovakia
+id_list:
+  items:
+  - uid: '31136'
+    id_type: Passport
+    id_number: BD3843329
+    id_country: Slovakia
+    expiration_date: '08 Apr 2029'
+  - uid: '31137'
+    id_type: Passport
+    id_number: BD5609822
+    id_country: Slovakia
+    expiration_date: 19 May 2024
+  - uid: '159913'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '159914'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '159908'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '59907'
+    date_of_birth: 07 May 1966
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '59910'
+    place_of_birth: Baku, Azerbaijan
+    main_entry: 'true'

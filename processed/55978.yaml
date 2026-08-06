@@ -1,0 +1,36 @@
+---
+uid: '55978'
+first_name: Sin Huat Alan
+last_name: YEO
+sdn_type: Individual
+program_list:
+  programs:
+  - TCO
+address_list:
+  items:
+  - uid: '85724'
+    country: Singapore
+id_list:
+  items:
+  - uid: '50139'
+    id_type: Passport
+    id_number: 7234580J
+    id_country: Singapore
+  - uid: '50140'
+    id_type: Passport
+    id_number: E5665088N
+    id_country: Singapore
+  - uid: '194075'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '94076'
+    date_of_birth: 27 Sep 1972
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '94077'
+    place_of_birth: Singapore
+    main_entry: 'true'
+remarks: "(Linked To: CHEN, Zhi)"

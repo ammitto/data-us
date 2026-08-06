@@ -1,0 +1,57 @@
+---
+uid: '30394'
+last_name: ALIAF COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13876
+aka_list:
+  items:
+  - uid: '47716'
+    type: a.k.a.
+    category: strong
+    last_name: ALIAF CO.
+  - uid: '47717'
+    type: a.k.a.
+    category: strong
+    last_name: SHERKAT SAHAMI ALIAF
+  - uid: '47719'
+    type: a.k.a.
+    category: strong
+    last_name: ALIAF PUBLIC JOINT STOCK CO.
+  - uid: '47720'
+    type: a.k.a.
+    category: strong
+    last_name: ALIYAF CO.
+address_list:
+  items:
+  - uid: '45929'
+    address1: No. 10, Sedaghat Building, Sedaghat Avenue, Valiasr Avenue
+    city: Tehran
+    country: Iran
+  - uid: '45930'
+    address1: Opposite depot, beginning of Shahryar Road, Old Karaj Road Fath
+    city: Tehran
+    country: Iran
+  - uid: '45931'
+    address1: Sedaghat Building, Sedaghat St., Mehrshad St.
+    city: Tehran
+    postal_code: '3717'
+    country: Iran
+id_list:
+  items:
+  - uid: '20526'
+    id_type: Registration Number
+    id_number: '10729'
+    id_country: Iran
+  - uid: '20527'
+    id_type: National ID No.
+    id_number: '10100431059'
+    id_country: Iran
+  - uid: '138020'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '138019'
+    id_type: Website
+    id_number: http://aliafco.com
+remarks: "(Linked To: ISLAMIC REVOLUTION MOSTAZAFAN FOUNDATION)"

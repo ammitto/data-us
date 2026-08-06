@@ -1,0 +1,35 @@
+---
+uid: '45953'
+last_name: LIMITED LIABILITY COMPANY AEROSCAN
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '71003'
+    type: a.k.a.
+    category: strong
+    last_name: OOO AEROSKAN
+address_list:
+  items:
+  - uid: '68391'
+    address1: 3 Perunovskiy Lane
+    address2: Building 2, Floor 2, Room 11
+    city: Moscow
+    postal_code: '127055'
+    country: Russia
+id_list:
+  items:
+  - uid: '35721'
+    id_type: Registration Number
+    id_number: '1175658025179'
+    id_country: Russia
+  - uid: '35722'
+    id_type: Tax ID No.
+    id_number: '5603045794'
+    id_country: Russia
+  - uid: '174835'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: ZAKHAROV, Nikita Aleksandrovich)"

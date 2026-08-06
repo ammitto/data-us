@@ -1,0 +1,44 @@
+---
+uid: '37679'
+first_name: Raymond Zina
+last_name: RAHME
+sdn_type: Individual
+program_list:
+  programs:
+  - LEBANON
+aka_list:
+  items:
+  - uid: '59046'
+    type: a.k.a.
+    category: strong
+    last_name: ZINA
+    first_name: Raymond Samir
+  - uid: '60410'
+    type: a.k.a.
+    category: strong
+    last_name: RAHMEH
+    first_name: Raymond
+address_list:
+  items:
+  - uid: '57823'
+    country: Lebanon
+id_list:
+  items:
+  - uid: '26909'
+    id_type: Passport
+    id_number: LR0555055
+    id_country: Lebanon
+    expiration_date: 24 Jun 2031
+  - uid: '152629'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '52633'
+    date_of_birth: 01 Oct 1968
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '52636'
+    place_of_birth: Mar Saba, Lebanon
+    main_entry: 'true'

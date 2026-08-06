@@ -1,0 +1,34 @@
+---
+uid: '56317'
+first_name: Gilberto
+last_name: LOPEZ LOPEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - TCO
+address_list:
+  items:
+  - uid: '86183'
+    city: Mazatlan
+    state_or_province: Sinaloa
+    country: Mexico
+id_list:
+  items:
+  - uid: '50344'
+    id_type: C.U.R.P.
+    id_number: LOLG810225HSLPPL07
+    id_country: Mexico
+  - uid: '194464'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '94461'
+    date_of_birth: 25 Feb 1981
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '94462'
+    place_of_birth: Culiacan, Sinaloa, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: ENTRETENIMIENTO PALERMO S.A. DE C.V.)"

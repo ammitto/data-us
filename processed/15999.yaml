@@ -1,0 +1,29 @@
+---
+uid: '15999'
+last_name: UR-CKZ
+sdn_type: Aircraft
+program_list:
+  programs:
+  - SDGT
+  - IFSR
+id_list:
+  items:
+  - uid: '186708'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '113660'
+    id_type: Aircraft Construction Number (also called L/N or S/N or F/N)
+    id_number: '159'
+  - uid: '113661'
+    id_type: Aircraft Manufacture Date
+    id_number: 01 Jan 1990
+  - uid: '113663'
+    id_type: Aircraft Model
+    id_number: BAe-146 Avro RJ300
+  - uid: '113664'
+    id_type: Aircraft Operator
+    id_number: Ukrainian-Mediterranean Airlines
+  - uid: '113662'
+    id_type: Aircraft Manufacturer's Serial Number (MSN)
+    id_number: '3159'

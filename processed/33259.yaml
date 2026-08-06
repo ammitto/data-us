@@ -1,0 +1,58 @@
+---
+uid: '33259'
+first_name: Su Xuan
+last_name: YAN
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '52285'
+    type: a.k.a.
+    category: strong
+    last_name: YAN
+    first_name: Yen
+  - uid: '52286'
+    type: a.k.a.
+    category: strong
+    last_name: YAN
+    first_name: Suxuan
+address_list:
+  items:
+  - uid: '49937'
+    address1: Room 902, Building 5, 12 Tangjing Road
+    address2: Tangxia
+    address3: Baiyun District
+    city: Guangzhou City
+    country: China
+  - uid: '49938'
+    country: Taiwan
+id_list:
+  items:
+  - uid: '22924'
+    id_type: Passport
+    id_number: EA4917489
+    id_country: China
+    expiration_date: 20 Jun 2027
+  - uid: '143172'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '143171'
+    id_type: Gender
+    id_number: Female
+  - uid: '187359'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '43169'
+    date_of_birth: '08 Oct 1983'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '43170'
+    place_of_birth: Guangdong, China
+    main_entry: 'true'
+remarks: "(Linked To: HASHEMI, Seyed Morteza Minaye)"

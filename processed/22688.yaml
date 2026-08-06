@@ -1,0 +1,56 @@
+---
+uid: '22688'
+last_name: RAYAN ROSHD AFZAR COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+aka_list:
+  items:
+  - uid: '35759'
+    type: a.k.a.
+    category: strong
+    last_name: RAYAN ROSHD COMPANY
+  - uid: '35760'
+    type: a.k.a.
+    category: weak
+    last_name: RAYAN ROSHD
+  - uid: '84408'
+    type: a.k.a.
+    category: strong
+    last_name: ARIOTEK
+address_list:
+  items:
+  - uid: '34320'
+    address1: No. 16, Barazandeh St., North Sohrevardi St.
+    address2: Seyed Khandan
+    city: Tehran
+    country: Iran
+  - uid: '34321'
+    address1: Number 24 Barzandeh St., North Sohrevardi Ave.
+    city: Tehran
+    country: Iran
+  - uid: '82770'
+    address1: North Unit, Third Floor, Plaque 2
+    address2: South Yasman Street, Fourth Yas Street
+    address3: Railway Town, Central District
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '47723'
+    id_type: National ID No.
+    id_number: '10102168390'
+    id_country: Iran
+  - uid: '47724'
+    id_type: Registration Number
+    id_number: '174449'
+    id_country: Iran
+  - uid: '124140'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '189862'
+    id_type: Organization Established Date
+    id_number: 27 May 2001
+remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS)"

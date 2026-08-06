@@ -1,0 +1,33 @@
+---
+uid: '56463'
+first_name: Luis Manuel
+last_name: PICADO GRIJALBA
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '87909'
+    type: a.k.a.
+    category: weak
+    last_name: Shock
+address_list:
+  items:
+  - uid: '86452'
+    city: Limon
+    country: Costa Rica
+id_list:
+  items:
+  - uid: '50735'
+    id_type: Cedula No.
+    id_number: '801190098'
+    id_country: Costa Rica
+  - uid: '195229'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '95228'
+    date_of_birth: 22 Dec 1981
+    main_entry: 'true'

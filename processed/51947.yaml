@@ -1,0 +1,52 @@
+---
+uid: '51947'
+first_name: Sergei Gennadyevich
+last_name: NOVIKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '81305'
+    type: a.k.a.
+    category: strong
+    last_name: NOVIKOV
+    first_name: Sergey Gennadyevich
+address_list:
+  items:
+  - uid: '79174'
+    address1: Ulitsa Mosrentgen, 32, Apt 24
+    city: Moscow
+    postal_code: '142771'
+    country: Russia
+id_list:
+  items:
+  - uid: '44719'
+    id_type: Tax ID No.
+    id_number: '500307282158'
+    id_country: Russia
+  - uid: '45370'
+    id_type: National ID No.
+    id_number: '4605643339'
+    id_country: Russia
+  - uid: '45371'
+    id_type: National ID No.
+    id_number: '4607756012'
+    id_country: Russia
+  - uid: '183001'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '182537'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '82534'
+    date_of_birth: 20 Feb 1962
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '82535'
+    place_of_birth: Kineshma, Ivanovo Region, Russia
+    main_entry: 'true'

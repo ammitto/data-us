@@ -1,0 +1,47 @@
+---
+uid: '48124'
+first_name: Timur Evgenyevich
+last_name: BUKANOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74765'
+    type: a.k.a.
+    category: strong
+    last_name: BUKANOV
+    first_name: Timur Evgen'evich
+  - uid: '74768'
+    type: a.k.a.
+    category: strong
+    last_name: BUKANOV
+    first_name: Timur Evgenevich
+address_list:
+  items:
+  - uid: '72180'
+    address1: Apt. 103
+    address2: Vilisa Lazisa Street 41
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '39012'
+    id_type: Tax ID No.
+    id_number: '773312065789'
+    id_country: Russia
+  - uid: '176608'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '170096'
+    id_type: Email Address
+    id_number: timur.bukanov@gmail.com
+  - uid: '170514'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '70093'
+    date_of_birth: 03 Aug 1978
+    main_entry: 'true'

@@ -1,0 +1,38 @@
+---
+uid: '42082'
+last_name: AKHANGARANCEMENT JOINT STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65442'
+    type: a.k.a.
+    category: strong
+    last_name: OHANGARONSEMENT AKSIYADORLIK JAMIYATIGA
+  - uid: '65443'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY OHANGARONSEMENT
+address_list:
+  items:
+  - uid: '62836'
+    address1: Promzona
+    city: g. Akhangaran
+    state_or_province: Tashkent Province
+    postal_code: '110300'
+    country: Uzbekistan
+id_list:
+  items:
+  - uid: '31548'
+    id_type: Tax ID No.
+    id_number: '200463344'
+    id_country: Uzbekistan
+  - uid: '176952'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '160334'
+    id_type: 'Organization Type:'
+    id_number: Manufacture of articles of concrete, cement and plaster
+remarks: "(Linked To: AKKERMANN CEMENT CA LIMITED LIABILITY COMPANY)"

@@ -1,0 +1,54 @@
+---
+uid: '52125'
+last_name: GAZPROMNEFT MOSCOW REFINERY JOINT STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '81637'
+    type: a.k.a.
+    category: strong
+    last_name: GAZPROM NEFT MOSCOW REFINERY JSC
+  - uid: '81638'
+    type: a.k.a.
+    category: strong
+    last_name: AO GAZPROMNEFT MOSCOW REFINERY PLANT
+  - uid: '81639'
+    type: a.k.a.
+    category: strong
+    last_name: AO GAZPROMNEFT MORP
+  - uid: '81640'
+    type: a.k.a.
+    category: strong
+    last_name: GAZPROMNEFT MOSKOVSKIY NPZ AO
+  - uid: '81641'
+    type: a.k.a.
+    category: strong
+    last_name: GAZPROMNEFT MNPZ AO
+address_list:
+  items:
+  - uid: '79551'
+    address1: Kv-l Kapotnya 2-I D. 1, K. 3
+    city: Russia
+    postal_code: '109429'
+    country: Russia
+id_list:
+  items:
+  - uid: '45013'
+    id_type: Registration Number
+    id_number: '1027700500190'
+    id_country: Russia
+  - uid: '45014'
+    id_type: Tax ID No.
+    id_number: '7723006328'
+    id_country: Russia
+  - uid: '183023'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183425'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

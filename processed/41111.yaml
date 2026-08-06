@@ -1,0 +1,54 @@
+---
+uid: '41111'
+last_name: LIMITED LIABILITY COMPANY CITADEL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '64112'
+    type: a.k.a.
+    category: strong
+    last_name: LLC TSITADEL
+  - uid: '64113'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S ORGANICHENNOI OTVETSTVENNOSTYU TSITADEL
+  - uid: '64114'
+    type: a.k.a.
+    category: strong
+    last_name: TSITADEL GROUP
+  - uid: '64115'
+    type: a.k.a.
+    category: weak
+    last_name: CITADEL LLC
+  - uid: '64116'
+    type: a.k.a.
+    category: strong
+    last_name: CITADEL OOO
+  - uid: '64117'
+    type: a.k.a.
+    category: weak
+    last_name: CITADEL HOLDING
+address_list:
+  items:
+  - uid: '61452'
+    address1: Michurinskiy avenue, House 27
+    address2: Apartment 5, Floor 2, Room 6
+    city: Moscow
+    postal_code: '119607'
+    country: Russia
+id_list:
+  items:
+  - uid: '30448'
+    id_type: Registration Number
+    id_number: '11577467895690'
+    id_country: Russia
+  - uid: '30498'
+    id_type: Tax ID No.
+    id_number: '9701012339'
+    id_country: Russia
+  - uid: '173641'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

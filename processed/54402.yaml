@@ -1,0 +1,43 @@
+---
+uid: '54402'
+last_name: DIMA SHIPPING AND TRADING COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '84686'
+    type: a.k.a.
+    category: strong
+    last_name: DIMA SHIPPING AND TRADING CO
+  - uid: '84828'
+    type: a.k.a.
+    category: strong
+    last_name: DIMA SHIPPING & TRADING COMPANY
+address_list:
+  items:
+  - uid: '83087'
+    address1: 1305 Sokak, Gazi Mah, 9/5, Yenisehir
+    city: Mersin
+    state_or_province: Mersin
+    postal_code: '33130'
+    country: Turkey
+  - uid: '83088'
+    country: Liberia
+id_list:
+  items:
+  - uid: '48007'
+    id_type: Identification Number
+    id_number: IMO 6414273
+  - uid: '190250'
+    id_type: Organization Established Date
+    id_number: '2023'
+  - uid: '190251'
+    id_type: 'Organization Type:'
+    id_number: Sea and coastal freight water transport
+  - uid: '190373'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: "(Linked To: AL-QATIRJI COMPANY)"

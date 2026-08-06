@@ -1,0 +1,54 @@
+---
+uid: '57370'
+first_name: Juan Carlos
+last_name: GONZALEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+aka_list:
+  items:
+  - uid: '88853'
+    type: a.k.a.
+    category: strong
+    last_name: VALENCIA GONZALEZ
+    first_name: Juan Carlos
+  - uid: '88854'
+    type: a.k.a.
+    category: weak
+    last_name: Pelon
+address_list:
+  items:
+  - uid: '87926'
+    country: Mexico
+  - uid: '87927'
+    address1: 24892 Three Springs Rd
+    city: Hemet
+    state_or_province: CA
+    postal_code: '92545'
+    country: United States
+id_list:
+  items:
+  - uid: '51681'
+    id_type: C.U.R.P.
+    id_number: GOXJ840912HNENXN06
+    id_country: Mexico
+  - uid: '197361'
+    id_type: Gender
+    id_number: Male
+  - uid: '197364'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '97360'
+    date_of_birth: 12 Sep 1984
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '97365'
+    place_of_birth: Santa Ana, California, United States
+    main_entry: 'true'
+remarks: "(Linked To: CARTEL DE JALISCO NUEVA GENERACION)"

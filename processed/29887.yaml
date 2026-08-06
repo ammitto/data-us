@@ -1,0 +1,39 @@
+---
+uid: '29887'
+first_name: Vladislav Yuryevich
+last_name: ZANIN
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+address_list:
+  items:
+  - uid: '45064'
+    city: St. Petersburg
+    country: Russia
+id_list:
+  items:
+  - uid: '20003'
+    id_type: Passport
+    id_number: '713295132'
+    id_country: Russia
+  - uid: '20004'
+    id_type: National ID No.
+    id_number: '4012702574'
+  - uid: '154551'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+  - uid: '137094'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '37092'
+    date_of_birth: 06 Nov 1967
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '37093'
+    place_of_birth: Primorsky Krai, Russia
+    main_entry: 'true'
+remarks: "(Linked To: NPP PT OKEANOS, AO)"

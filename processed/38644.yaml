@@ -1,0 +1,31 @@
+---
+uid: '38644'
+first_name: Ilya Dmitrievich
+last_name: MEDVEDEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '57744'
+    country: Russia
+id_list:
+  items:
+  - uid: '154149'
+    id_type: Gender
+    id_number: Male
+  - uid: '174691'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '54147'
+    date_of_birth: 03 Aug 1995
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '54148'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'
+remarks: "(Linked To: MEDVEDEV, Dmitry Anatolievich)"

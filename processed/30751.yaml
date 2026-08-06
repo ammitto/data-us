@@ -1,0 +1,49 @@
+---
+uid: '30751'
+last_name: KHAZAR STEEL CO.
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13871
+aka_list:
+  items:
+  - uid: '48370'
+    type: a.k.a.
+    category: strong
+    last_name: KHAZAR STEEL ROLLING
+address_list:
+  items:
+  - uid: '46502'
+    address1: Rasht, Rasht Industrial City, at the end of Madras Boulevard
+    city: Rasht
+    country: Iran
+  - uid: '46503'
+    address1: Valiasr Str., after Dastgardi, at the beginning of Nasri Alley, No.
+      2551
+    city: Tehran
+    postal_code: '196864311'
+    country: Iran
+  - uid: '46504'
+    city: Rasht
+    country: Iran
+  - uid: '46505'
+    address1: No. 4, 3rd. Alley, Niloofar St., Khorram Shahr St.
+    city: Tehran
+    postal_code: '1968643111'
+    country: Iran
+id_list:
+  items:
+  - uid: '20831'
+    id_type: National ID No.
+    id_number: '10102629319'
+    id_country: Iran
+  - uid: '20832'
+    id_type: Registration Number
+    id_number: '221659'
+    id_country: Iran
+  - uid: '138667'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '138668'
+    id_type: Website
+    id_number: www.khazarsteel.co

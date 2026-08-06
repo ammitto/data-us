@@ -1,0 +1,43 @@
+---
+uid: '11390'
+first_name: Leopold
+last_name: MUJYAMBERE
+sdn_type: Individual
+program_list:
+  programs:
+  - DRCONGO
+aka_list:
+  items:
+  - uid: '12018'
+    type: a.k.a.
+    category: strong
+    last_name: IBRAHIM
+    first_name: Frere Petrus
+  - uid: '12020'
+    type: a.k.a.
+    category: weak
+    last_name: MUSENYERI
+  - uid: '12021'
+    type: a.k.a.
+    category: weak
+    last_name: ACHILLE
+address_list:
+  items:
+  - uid: '16807'
+    city: Mwenga
+    state_or_province: South Kivu Province
+    country: Congo, Democratic Republic of the
+date_of_birth_list:
+  items:
+  - uid: '6804'
+    date_of_birth: 17 Mar 1962
+    main_entry: 'true'
+  - uid: '6805'
+    date_of_birth: '1966'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '6806'
+    place_of_birth: Kigali, Rwanda
+    main_entry: 'true'
+title: Colonel; Commander, FDLR CO 2nd Division

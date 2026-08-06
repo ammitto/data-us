@@ -1,0 +1,51 @@
+---
+uid: '12419'
+first_name: Carlos Fernando
+last_name: SERRALDE PLAZA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '19340'
+    address1: c/o AGROPECUARIA SERRO S.A.S.
+    city: Bogota
+    country: Colombia
+  - uid: '19341'
+    address1: c/o OBRAS, SERVICIOS Y MANTENIMIENTOS C.A.
+    city: Ciudad Ojeda
+    state_or_province: Zulia
+    country: Venezuela
+  - uid: '19342'
+    address1: Calle 98 Bis No. 57-66
+    city: Bogota
+    country: Colombia
+  - uid: '19343'
+    address1: Calle 136 No. 59-80 Apto. 102 T-6
+    city: Bogota
+    country: Colombia
+id_list:
+  items:
+  - uid: '6893'
+    id_type: Cedula No.
+    id_number: '19134433'
+    id_country: Colombia
+  - uid: '6894'
+    id_type: Cedula No.
+    id_number: '83406533'
+    id_country: Venezuela
+  - uid: '6895'
+    id_type: Matricula Mercantil No
+    id_number: '1751356'
+    id_country: Colombia
+date_of_birth_list:
+  items:
+  - uid: '8129'
+    date_of_birth: '08 Nov 1950'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '8130'
+    place_of_birth: Popayan, Cauca, Colombia
+    main_entry: 'true'

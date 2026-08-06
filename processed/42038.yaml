@@ -1,0 +1,41 @@
+---
+uid: '42038'
+first_name: Gary
+last_name: BODEAU
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+address_list:
+  items:
+  - uid: '62750'
+    address1: 11 Rue Doucet
+    address2: Delmas 83
+    city: Port Au Prince
+    postal_code: HT6120
+    country: Haiti
+id_list:
+  items:
+  - uid: '31475'
+    id_type: National ID No.
+    id_number: '0038132991'
+    id_country: Haiti
+  - uid: '31476'
+    id_type: Passport
+    id_number: PP5201306
+    id_country: Haiti
+    issue_date: 03 Apr 2019
+    expiration_date: 02 Apr 2029
+  - uid: '160261'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '60260'
+    date_of_birth: 18 Nov 1977
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '60263'
+    place_of_birth: Port Au Prince, Haiti
+    main_entry: 'true'

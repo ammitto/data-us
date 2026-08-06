@@ -1,0 +1,47 @@
+---
+uid: '23469'
+first_name: Shi
+last_name: YUHUA
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '36975'
+    type: a.k.a.
+    category: strong
+    last_name: SHI
+    first_name: Yuhua
+  - uid: '36976'
+    type: a.k.a.
+    category: strong
+    last_name: HUA
+    first_name: Shi Yu
+  - uid: '36977'
+    type: a.k.a.
+    category: weak
+    last_name: SHI, Arlex
+address_list:
+  items:
+  - uid: '35480'
+    country: China
+id_list:
+  items:
+  - uid: '14956'
+    id_type: Passport
+    id_number: PE0475719
+    id_country: China
+    expiration_date: 14 Nov 2019
+  - uid: '125306'
+    id_type: Gender
+    id_number: Male
+  - uid: '125280'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '25281'
+    date_of_birth: 05 Aug 1976
+    main_entry: 'true'

@@ -1,0 +1,45 @@
+---
+uid: '38723'
+last_name: OPEN JOINT STOCK COMPANY SVETLOGORSKKHIMVOLOKNO
+sdn_type: Entity
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '60542'
+    type: a.k.a.
+    category: strong
+    last_name: OJSC SVETLOGORSK KHIMVOLOKNO
+  - uid: '60543'
+    type: a.k.a.
+    category: strong
+    last_name: SVETLOGORSKKHIMVOLKNO OAO
+  - uid: '60544'
+    type: a.k.a.
+    category: strong
+    last_name: OTKRYTOE AKTSIONERNOE OBSHCHESTVO SVETLOGORSKKHIMVOLOKNO
+  - uid: '60545'
+    type: a.k.a.
+    category: weak
+    last_name: SOHIM
+address_list:
+  items:
+  - uid: '57800'
+    address1: d. 5, Nezhiloe Pomeshchenie
+    address2: Ul. Zavodskaya
+    city: Svetlogorsk
+    postal_code: '247439'
+    country: Belarus
+id_list:
+  items:
+  - uid: '28003'
+    id_type: Tax ID No.
+    id_number: '400031289'
+    id_country: Belarus
+  - uid: '154296'
+    id_type: Organization Established Date
+    id_number: '1964'
+  - uid: '154297'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

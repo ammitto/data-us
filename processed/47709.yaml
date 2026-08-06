@@ -1,0 +1,41 @@
+---
+uid: '47709'
+last_name: DALIR LTD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73946'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTIU DALIR
+  - uid: '73947'
+    type: a.k.a.
+    category: strong
+    last_name: OOO DALIR
+address_list:
+  items:
+  - uid: '71333'
+    address1: kv 1
+    address2: ulitsa Admiralteyskaya 54
+    city: Astrakhan
+    postal_code: '414040'
+    country: Russia
+id_list:
+  items:
+  - uid: '38344'
+    id_type: Identification Number
+    id_number: IMO 5709371
+  - uid: '38345'
+    id_type: Registration Number
+    id_number: '1063015052396'
+    id_country: Russia
+  - uid: '38346'
+    id_type: Tax ID No.
+    id_number: '3015076287'
+    id_country: Russia
+  - uid: '176420'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

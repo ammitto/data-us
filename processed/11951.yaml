@@ -1,0 +1,44 @@
+---
+uid: '11951'
+first_name: Rogelio
+last_name: GUERRA RAMIREZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '18134'
+    country: Mexico
+id_list:
+  items:
+  - uid: '6327'
+    id_type: C.U.R.P.
+    id_number: GURR730821HCLRMG
+    id_country: Mexico
+  - uid: '6328'
+    id_type: Cartilla de Servicio Militar Nacional
+    id_number: B7384371
+    id_country: Mexico
+  - uid: '6329'
+    id_type: R.F.C.
+    id_number: GURR730821
+    id_country: Mexico
+  - uid: '6330'
+    id_type: C.U.R.P.
+    id_number: GURR730821HCLRMG01
+    id_country: Mexico
+  - uid: '6331'
+    id_type: C.U.R.P.
+    id_number: GURR730821HCLRMG01
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '7513'
+    date_of_birth: 21 Aug 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '7514'
+    place_of_birth: Chiapas
+    main_entry: 'true'

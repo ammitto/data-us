@@ -1,0 +1,34 @@
+---
+uid: '11483'
+last_name: AERONAUTICA CONDOR S.A. DE C.V.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDNT
+aka_list:
+  items:
+  - uid: '12145'
+    type: a.k.a.
+    category: strong
+    last_name: AEROCONDOR S.A. DE C.V.
+address_list:
+  items:
+  - uid: '17041'
+    address1: Calle 3 Hangar 22 al 29
+    address2: Aeropuerto Internacional Toluca
+    city: Toluca
+    state_or_province: Estado de Mexico
+    postal_code: C.P. 50500
+    country: Mexico
+  - uid: '17042'
+    address1: Hangar D-2 y D-3, Puerta 2, Aviacion General
+    address2: Aeropuerto Internacional de Toluca
+    city: Toluca
+    state_or_province: Estado de Mexico
+    country: Mexico
+id_list:
+  items:
+  - uid: '5852'
+    id_type: R.F.C.
+    id_number: ACO-031113-MB8
+    id_country: Mexico

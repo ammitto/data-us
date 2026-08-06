@@ -1,0 +1,31 @@
+---
+uid: '37114'
+first_name: Kirill Aleksandrovich
+last_name: TSAREV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '55543'
+    country: Russia
+id_list:
+  items:
+  - uid: '151542'
+    id_type: Gender
+    id_number: Male
+  - uid: '174513'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '51539'
+    date_of_birth: 25 Sep 1978
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '51540'
+    place_of_birth: St. Petersburg, Russia
+    main_entry: 'true'
+remarks: "(Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)"

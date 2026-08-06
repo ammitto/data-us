@@ -1,0 +1,31 @@
+---
+uid: '39783'
+first_name: Youri
+last_name: LATORTUE
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '59280'
+    country: Haiti
+id_list:
+  items:
+  - uid: '28947'
+    id_type: National ID No.
+    id_number: 05-01-99-1967-11-00001
+    id_country: Haiti
+  - uid: '156187'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '56184'
+    date_of_birth: 13 Nov 1967
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '56185'
+    place_of_birth: Gonaives, Artibonite, Haiti
+    main_entry: 'true'

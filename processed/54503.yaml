@@ -1,0 +1,57 @@
+---
+uid: '54503'
+first_name: Antonio
+last_name: ROMERO SANCHEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+aka_list:
+  items:
+  - uid: '84814'
+    type: a.k.a.
+    category: weak
+    last_name: Romeo
+  - uid: '85632'
+    type: a.k.a.
+    category: weak
+    last_name: Comandante R
+  - uid: '85633'
+    type: a.k.a.
+    category: weak
+    last_name: Comandante Romeo
+address_list:
+  items:
+  - uid: '83254'
+    city: Piedras Negras
+    state_or_province: Coahuila
+    country: Mexico
+  - uid: '83255'
+    city: Victoria
+    state_or_province: Tamaulipas
+    country: Mexico
+id_list:
+  items:
+  - uid: '48127'
+    id_type: C.U.R.P.
+    id_number: ROSA840727HVZMNN06
+    id_country: Mexico
+  - uid: '190512'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '190515'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '90511'
+    date_of_birth: 27 Jul 1984
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '90514'
+    place_of_birth: Veracruz, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: CARTEL DEL NORESTE)"

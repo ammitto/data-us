@@ -1,0 +1,35 @@
+---
+uid: '30867'
+first_name: Dmytro Volodymyrovych
+last_name: KOVALCHUK
+sdn_type: Individual
+program_list:
+  programs:
+  - ELECTION-EO13848
+address_list:
+  items:
+  - uid: '46671'
+    address1: Str. 9 A Grushevskogo Apt V 5 1
+    city: Kiev
+    postal_code: '01021'
+    country: Ukraine
+id_list:
+  items:
+  - uid: '20931'
+    id_type: Identification Number
+    id_number: '3194020675'
+    id_country: Ukraine
+  - uid: '138852'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '38851'
+    date_of_birth: 13 Jun 1987
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '38959'
+    place_of_birth: Ukraine
+    main_entry: 'true'
+remarks: "(Linked To: DERKACH, Andrii Leonidovych)"

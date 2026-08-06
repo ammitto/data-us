@@ -1,0 +1,48 @@
+---
+uid: '55047'
+last_name: COOPERATIVE DES ARTISANAUX MINIERS DU CONGO
+sdn_type: Entity
+program_list:
+  programs:
+  - DRCONGO
+aka_list:
+  items:
+  - uid: '85701'
+    type: a.k.a.
+    category: weak
+    last_name: CDMC
+  - uid: '85702'
+    type: a.k.a.
+    category: weak
+    last_name: CDMC SARL
+  - uid: '85703'
+    type: a.k.a.
+    category: weak
+    last_name: CDMC ENTITE SARL
+address_list:
+  items:
+  - uid: '84164'
+    address1: '084, Avenue Tulipier, Quartier Les Volcans'
+    address2: Commune of Goma
+    state_or_province: North Kivu
+    country: Congo, Democratic Republic of the
+  - uid: '84165'
+    address1: 4, Quartier Filtisaf
+    city: Kalemie
+    state_or_province: Tanganyika
+    country: Congo, Democratic Republic of the
+id_list:
+  items:
+  - uid: '48975'
+    id_type: National ID No.
+    id_number: 6-118-N60346P
+    id_country: Congo, Democratic Republic of the
+  - uid: '191927'
+    id_type: Organization Established Date
+    id_number: 21 Jun 2017
+  - uid: '191928'
+    id_type: Organization Established Date
+    id_number: '2009'
+  - uid: '191929'
+    id_type: Website
+    id_number: https://cdmcentite.com

@@ -1,0 +1,45 @@
+---
+uid: '51957'
+first_name: Alexander Markovich
+last_name: LOKSHIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '79192'
+    address1: Vladimirskaya Str. 8-1-51
+    city: Moscow
+    postal_code: '111123'
+    country: Russia
+id_list:
+  items:
+  - uid: '44724'
+    id_type: Tax ID No.
+    id_number: '772027610836'
+    id_country: Russia
+  - uid: '44981'
+    id_type: National ID No.
+    id_number: '4518655538'
+    id_country: Russia
+  - uid: '44982'
+    id_type: National ID No.
+    id_number: '6602655180'
+    id_country: Russia
+  - uid: '182575'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '182578'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '82576'
+    date_of_birth: 11 Oct 1957
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '82577'
+    place_of_birth: Chita, Russia
+    main_entry: 'true'

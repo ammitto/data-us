@@ -1,0 +1,34 @@
+---
+uid: '50441'
+last_name: OBSHCHESTVO S OGRANICHENNOY OTVETSTVENNOSTYU 1M
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78856'
+    type: a.k.a.
+    category: weak
+    last_name: LIMITED LIABILITY COMPANY 1M
+address_list:
+  items:
+  - uid: '76497'
+    address1: Kom. 305 D. 61 Litera A Po. Pib Pomeshch. 594-601 (9N)
+    address2: Naberezhnaya Vyborgskaya
+    city: St. Petersburg
+    postal_code: '197342'
+    country: Russia
+id_list:
+  items:
+  - uid: '42242'
+    id_type: Tax ID No.
+    id_number: '7801340146'
+    id_country: Russia
+  - uid: '42243'
+    id_type: Registration Number
+    id_number: '1177847361625'
+    id_country: Russia
+  - uid: '178427'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,33 @@
+---
+uid: '50010'
+last_name: LIMITED LIABILITY COMPANY AFINOR
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '75666'
+    address1: Ul Bykovskogo D. 1
+    city: Voskresensk
+    postal_code: '140208'
+    country: Russia
+id_list:
+  items:
+  - uid: '41559'
+    id_type: Tax ID No.
+    id_number: '5005028619'
+    id_country: Russia
+  - uid: '41560'
+    id_type: Registration Number
+    id_number: '1025000930350'
+    id_country: Russia
+  - uid: '177521'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '177489'
+    id_type: Website
+    id_number: afinor.biz
+  - uid: '177488'
+    id_type: Organization Established Date
+    id_number: 22 Mar 1999

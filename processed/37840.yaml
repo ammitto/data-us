@@ -1,0 +1,47 @@
+---
+uid: '37840'
+first_name: Aleksandr Nikolaevich
+last_name: POPOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59461'
+    type: a.k.a.
+    category: strong
+    last_name: POPOV
+    first_name: Aleksander Nikolayevich
+  - uid: '59462'
+    type: a.k.a.
+    category: strong
+    last_name: POPOV
+    first_name: Alexandr Nikolaevich
+  - uid: '59463'
+    type: a.k.a.
+    category: strong
+    last_name: POPOV
+    first_name: Alexander Nikolayevich
+address_list:
+  items:
+  - uid: '56698'
+    country: Russia
+id_list:
+  items:
+  - uid: '174588'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '152964'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '52963'
+    date_of_birth: 30 Jun 1967
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '52966'
+    place_of_birth: Podolsk, Moscow Region, Russia
+    main_entry: 'true'

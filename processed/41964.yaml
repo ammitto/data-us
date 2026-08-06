@@ -1,0 +1,38 @@
+---
+uid: '41964'
+last_name: AKTSIONERNOE OBSHCHESTVO PROTON-ELEKTROTEKS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65202'
+    type: a.k.a.
+    category: strong
+    last_name: AO PROTON-ELEKTROTEKS
+  - uid: '65203'
+    type: a.k.a.
+    category: strong
+    last_name: JSC PROTON-ELECTROTEX
+address_list:
+  items:
+  - uid: '62584'
+    address1: ul. Leskova d. 19
+    address2: pom. 27, of. 14
+    city: Orel
+    postal_code: '302040'
+    country: Russia
+id_list:
+  items:
+  - uid: '31332'
+    id_type: Registration Number
+    id_number: '1025700825248'
+    id_country: Russia
+  - uid: '31333'
+    id_type: Tax ID No.
+    id_number: '5753020414'
+    id_country: Russia
+  - uid: '173711'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

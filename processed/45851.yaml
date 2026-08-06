@@ -1,0 +1,39 @@
+---
+uid: '45851'
+last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU ELEKTROKOM VPK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70839'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY ELECTROCOM VPK
+  - uid: '70840'
+    type: a.k.a.
+    category: weak
+    last_name: ELECTROCOM SPB
+address_list:
+  items:
+  - uid: '68216'
+    address1: Pr-Kt Prosveshcheniya D. 99
+    address2: Lit. A, Pomeshch.
+    address3: 180N Office 1
+    city: Saint Petersburg
+    postal_code: '195299'
+    country: Russia
+id_list:
+  items:
+  - uid: '35599'
+    id_type: Registration Number
+    id_number: '1177847049049'
+    id_country: Russia
+  - uid: '35600'
+    id_type: Tax ID No.
+    id_number: '7840062534'
+    id_country: Russia
+  - uid: '176069'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

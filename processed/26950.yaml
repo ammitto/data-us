@@ -1,0 +1,36 @@
+---
+uid: '26950'
+first_name: Mohammad Javad
+last_name: ZARIF
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13876
+aka_list:
+  items:
+  - uid: '42626'
+    type: a.k.a.
+    category: weak
+    last_name: ZARIF, Javad
+  - uid: '42655'
+    type: a.k.a.
+    category: strong
+    last_name: ZARIF KHONSARI
+    first_name: Mohammad Javad
+address_list:
+  items:
+  - uid: '40965'
+    country: Iran
+id_list:
+  items:
+  - uid: '131813'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '131822'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '31814'
+    date_of_birth: '08 Jan 1960'
+    main_entry: 'true'

@@ -1,0 +1,30 @@
+---
+uid: '30702'
+last_name: KGB ALPHA
+sdn_type: Entity
+program_list:
+  programs:
+  - BELARUS
+aka_list:
+  items:
+  - uid: '48310'
+    type: a.k.a.
+    category: strong
+    last_name: ALFA SPETZNAZ
+  - uid: '48311'
+    type: a.k.a.
+    category: strong
+    last_name: KGB ALFA
+  - uid: '48312'
+    type: a.k.a.
+    category: weak
+    last_name: ALPHA GROUP
+  - uid: '48313'
+    type: a.k.a.
+    category: weak
+    last_name: ALPHA UNIT
+address_list:
+  items:
+  - uid: '46463'
+    city: Minsk
+    country: Belarus

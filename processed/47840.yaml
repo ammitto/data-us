@@ -1,0 +1,38 @@
+---
+uid: '47840'
+last_name: PUBLIC JOINT STOCK COMPANY PIK SPECIALIZED HOMEBUILDER
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '74220'
+    type: a.k.a.
+    category: weak
+    last_name: PJSC PIK SHB
+address_list:
+  items:
+  - uid: '71595'
+    address1: 19 Barrikadnaya Street, Building 1
+    city: Moscow
+    postal_code: '123242'
+    country: Russia
+id_list:
+  items:
+  - uid: '38566'
+    id_type: Tax ID No.
+    id_number: '7713011336'
+    id_country: Russia
+  - uid: '38567'
+    id_type: Registration Number
+    id_number: '1027739137084'
+    id_country: Russia
+  - uid: '184548'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '169616'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,49 @@
+---
+uid: '54158'
+first_name: Mohammad
+last_name: REZAI
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+aka_list:
+  items:
+  - uid: '84335'
+    type: a.k.a.
+    category: strong
+    last_name: REZAEI
+    first_name: Mohammad
+  - uid: '84336'
+    type: a.k.a.
+    category: strong
+    last_name: REZAI
+    first_name: Mohammad Ahmad
+address_list:
+  items:
+  - uid: '82667'
+    country: Iran
+id_list:
+  items:
+  - uid: '47649'
+    id_type: National ID No.
+    id_number: '6199843703'
+    id_country: Iran
+  - uid: '189736'
+    id_type: Gender
+    id_number: Male
+  - uid: '189743'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '89735'
+    date_of_birth: 21 Apr 1964
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '89737'
+    place_of_birth: Kashan, Iran
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS AEROSPACE FORCE SELF SUFFICIENCY
+  JIHAD ORGANIZATION)"

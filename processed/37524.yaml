@@ -1,0 +1,37 @@
+---
+uid: '37524'
+last_name: JOINT STOCK COMPANY RADIOZAVOD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '58816'
+    type: a.k.a.
+    category: strong
+    last_name: JSC RADIOZAVOD
+address_list:
+  items:
+  - uid: '56142'
+    address1: Baidukova st.
+    address2: '1'
+    city: Penza
+    postal_code: '440039'
+    country: Russia
+id_list:
+  items:
+  - uid: '26732'
+    id_type: Registration Number
+    id_number: '1045802500336'
+    id_country: Russia
+  - uid: '26733'
+    id_type: Tax ID No.
+    id_number: '5835049799'
+    id_country: Russia
+  - uid: '173432'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '152426'
+    id_type: Organization Established Date
+    id_number: 14 Jan 2004

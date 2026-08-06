@@ -1,0 +1,57 @@
+---
+uid: '21263'
+first_name: Francois
+last_name: OLENGA
+sdn_type: Individual
+program_list:
+  programs:
+  - DRCONGO
+aka_list:
+  items:
+  - uid: '33692'
+    type: a.k.a.
+    category: strong
+    last_name: OLENGA TETE
+    first_name: Francois
+  - uid: '33693'
+    type: a.k.a.
+    category: strong
+    last_name: OLENGA TATE
+    first_name: Francois
+  - uid: '33694'
+    type: a.k.a.
+    category: strong
+    last_name: OKUNJI
+    first_name: Francois
+  - uid: '33695'
+    type: a.k.a.
+    category: strong
+    last_name: OTSHUNDI
+    first_name: Francois
+address_list:
+  items:
+  - uid: '32348'
+    city: Kinshasa
+    country: Congo, Democratic Republic of the
+id_list:
+  items:
+  - uid: '122099'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '22093'
+    date_of_birth: '09 Oct 1948'
+    main_entry: 'true'
+  - uid: '22094'
+    date_of_birth: 10 Sep 1948
+    main_entry: 'false'
+  - uid: '22095'
+    date_of_birth: 10 Jul 1949
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '22096'
+    place_of_birth: Kindu, Maniema, Democratic Republic of the Congo
+    main_entry: 'true'
+title: General; Chef de la Maison Militaire; Head of the Military House of the President

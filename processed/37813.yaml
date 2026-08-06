@@ -1,0 +1,42 @@
+---
+uid: '37813'
+first_name: Arsen Bashirovich
+last_name: KANOKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59406'
+    type: a.k.a.
+    category: strong
+    last_name: KANOKOV
+    first_name: Arsen
+address_list:
+  items:
+  - uid: '56629'
+    country: Russia
+id_list:
+  items:
+  - uid: '27119'
+    id_type: Tax ID No.
+    id_number: '773001202577'
+    id_country: Russia
+  - uid: '152877'
+    id_type: Gender
+    id_number: Male
+  - uid: '173536'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '52874'
+    date_of_birth: 22 Feb 1957
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '52875'
+    place_of_birth: Shitkhala, Kabardino-Balkaria, Russia
+    main_entry: 'true'
+title: Member of the Federation Council of the Federal Assembly of the Russian Federation

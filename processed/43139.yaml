@@ -1,0 +1,36 @@
+---
+uid: '43139'
+last_name: LLC FORTA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '66878'
+    type: a.k.a.
+    category: strong
+    last_name: FORTA ENGINEERING CENTER LLC
+address_list:
+  items:
+  - uid: '64379'
+    address1: 4 Shvernika Street, Building 2, Floor 6, Suite I, Room 612
+    city: Moscow
+    postal_code: '117036'
+    country: Russia
+id_list:
+  items:
+  - uid: '32750'
+    id_type: Registration Number
+    id_number: '1197746359271'
+    id_country: Russia
+  - uid: '32751'
+    id_type: Tax ID No.
+    id_number: '7727420642'
+    id_country: Russia
+  - uid: '175560'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '162131'
+    id_type: Organization Established Date
+    id_number: 04 Jun 2019

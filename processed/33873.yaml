@@ -1,0 +1,33 @@
+---
+uid: '33873'
+first_name: Miljan
+last_name: RADISAVLJEVIC
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+address_list:
+  items:
+  - uid: '51231'
+    address1: Donji Jasenovik
+    city: Zubin Potok
+    country: Kosovo
+id_list:
+  items:
+  - uid: '23840'
+    id_type: Identification Number
+    id_number: '1502104612'
+  - uid: '145366'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '44872'
+    date_of_birth: 10 Dec 1972
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '45396'
+    place_of_birth: Village Babudovici, Zubin Potok, Kosovo
+    main_entry: 'true'
+remarks: "(Linked To: VESELINOVIC, Zvonko)"

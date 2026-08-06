@@ -1,0 +1,92 @@
+---
+uid: '42306'
+first_name: Bashir Khalif
+last_name: MUSSE
+sdn_type: Individual
+program_list:
+  programs:
+  - SOMALIA
+aka_list:
+  items:
+  - uid: '65685'
+    type: a.k.a.
+    category: strong
+    last_name: MOOSA
+    first_name: Basheer Khalif
+  - uid: '65686'
+    type: a.k.a.
+    category: strong
+    last_name: MUSSE
+    first_name: Bachir Khalif
+  - uid: '65687'
+    type: a.k.a.
+    category: strong
+    last_name: MUSA
+    first_name: Bashir Khalif
+  - uid: '65688'
+    type: a.k.a.
+    category: weak
+    last_name: MOOSA, Bashir
+  - uid: '65689'
+    type: a.k.a.
+    category: strong
+    last_name: MOOSA
+    first_name: Basheer Khalid
+  - uid: '65690'
+    type: a.k.a.
+    category: strong
+    last_name: MOSSA
+    first_name: Bashir Khalif
+  - uid: '65691'
+    type: a.k.a.
+    category: strong
+    last_name: MOUSSA
+    first_name: Bachir Kalif
+  - uid: '65692'
+    type: a.k.a.
+    category: weak
+    last_name: MUSSE, Bashir
+address_list:
+  items:
+  - uid: '63097'
+    city: Dubai
+    country: United Arab Emirates
+  - uid: '63098'
+    address1: PO Box 80367
+    city: Ajman
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '31792'
+    id_type: Passport
+    id_number: 16RE41878
+    id_country: Djibouti
+    issue_date: 26 May 2016
+    expiration_date: 25 May 2021
+  - uid: '31795'
+    id_type: Residency Number
+    id_number: '083698992'
+    id_country: United Arab Emirates
+    expiration_date: 15 May 2020
+  - uid: '31796'
+    id_type: Identification Number
+    id_number: 784-1967-5350265-5
+    id_country: United Arab Emirates
+  - uid: '31797'
+    id_type: Passport
+    id_number: 16RF20973
+    id_country: Djibouti
+    expiration_date: 11 Oct 2023
+  - uid: '160631'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '60628'
+    date_of_birth: 01 Jan 1967
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '60629'
+    place_of_birth: Garowe, Puntland, Somalia
+    main_entry: 'true'

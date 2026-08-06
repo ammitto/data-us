@@ -1,0 +1,45 @@
+---
+uid: '52689'
+last_name: ATLASNOBLE GAYRIMENKUL DANISMANLIK ANONIM SIRKETI
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '82595'
+    type: a.k.a.
+    category: weak
+    last_name: ATLAS NOBLE
+  - uid: '82700'
+    type: a.k.a.
+    category: strong
+    last_name: ATLASNOBLE FOREIGN TRADE AND CONSULTANCY LIMITED
+address_list:
+  items:
+  - uid: '80530'
+    address1: Tepeoren Mah. Istanbul Park Bul. Arkeon H Evleri Sit. N:17JL
+    city: Tuzla
+    state_or_province: Istanbul
+    country: Turkey
+id_list:
+  items:
+  - uid: '45823'
+    id_type: Tax ID No.
+    id_number: 0102-0980-3860-0001
+    id_country: Turkey
+  - uid: '45824'
+    id_type: Company Number
+    id_number: 482600-5
+    id_country: Turkey
+  - uid: '45825'
+    id_type: Registration Number
+    id_number: '1477530'
+    id_country: Turkey
+  - uid: '184526'
+    id_type: Organization Established Date
+    id_number: 27 Sep 2023
+  - uid: '184525'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: MAIN DIRECTORATE OF DEEP SEA RESEARCH)"

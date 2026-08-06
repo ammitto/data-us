@@ -1,0 +1,41 @@
+---
+uid: '35862'
+last_name: JOINT STOCK COMPANY ULAN-UDE AVIATION PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56331'
+    type: a.k.a.
+    category: strong
+    last_name: ULAN-UDE AVIATION PLANT
+  - uid: '56332'
+    type: a.k.a.
+    category: weak
+    last_name: AO U-UAZ
+address_list:
+  items:
+  - uid: '53806'
+    address1: Ul. Khorinskaya D. 1
+    city: Ulan-Ude
+    postal_code: '670009'
+    country: Russia
+id_list:
+  items:
+  - uid: '25177'
+    id_type: Registration Number
+    id_number: '1020300887793'
+    id_country: Russia
+  - uid: '25178'
+    id_type: Tax ID No.
+    id_number: '0323018510'
+    id_country: Russia
+  - uid: '173257'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '149054'
+    id_type: Organization Established Date
+    id_number: 28 Feb 1994
+remarks: "(Linked To: VERTOLETY ROSSII AO)"

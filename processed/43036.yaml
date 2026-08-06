@@ -1,0 +1,49 @@
+---
+uid: '43036'
+last_name: FEDERAL STATE BUDGETARY EDUCATIONAL INSTITUTION OF HIGHER VOCATIONAL EDUCATION
+  GUBKIN RUSSIAN STATE UNIVERSITY OF OIL AND GAS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '66627'
+    type: a.k.a.
+    category: strong
+    last_name: RGU NEFTI I GAZA NIU IMENI IM GUBKINA FGU
+  - uid: '66628'
+    type: a.k.a.
+    category: strong
+    last_name: GUBKIN UNIVERSITY
+  - uid: '66629'
+    type: a.k.a.
+    category: strong
+    last_name: NATIONAL UNIVERSITY OF OIL AND GAS GUBKIN UNIVERSITY
+address_list:
+  items:
+  - uid: '64164'
+    address1: 65 Leninsky Prospekt
+    city: Moscow
+    postal_code: '119991'
+    country: Russia
+id_list:
+  items:
+  - uid: '32616'
+    id_type: Registration Number
+    id_number: '1027739073845'
+    id_country: Russia
+  - uid: '32617'
+    id_type: Tax ID No.
+    id_number: '7736093127'
+    id_country: Russia
+  - uid: '32618'
+    id_type: Government Gazette Number
+    id_number: '02066612'
+    id_country: Russia
+  - uid: '175501'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '161908'
+    id_type: Organization Established Date
+    id_number: 24 Sep 1997

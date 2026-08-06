@@ -1,0 +1,35 @@
+---
+uid: '51672'
+first_name: Peter Mikhailovich
+last_name: BOBYLEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+address_list:
+  items:
+  - uid: '78744'
+    country: Russia
+id_list:
+  items:
+  - uid: '181639'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183470'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '181642'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '81640'
+    date_of_birth: 21 Jul 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '81641'
+    place_of_birth: Chelyabinsk, Russia
+    main_entry: 'true'

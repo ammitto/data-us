@@ -1,0 +1,39 @@
+---
+uid: '56303'
+last_name: MEDIA LAND TECHNOLOGY LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - CYBER4
+  - CAATSA - RUSSIA
+aka_list:
+  items:
+  - uid: '87336'
+    type: a.k.a.
+    category: weak
+    last_name: MLT LLC
+address_list:
+  items:
+  - uid: '86159'
+    address1: Sh. Volkhovskoe Zd.11
+    address2: Office 313
+    city: Kirishi
+    postal_code: '187110'
+    country: Russia
+id_list:
+  items:
+  - uid: '50326'
+    id_type: Tax ID No.
+    id_number: '4727007790'
+    id_country: Russia
+  - uid: '50329'
+    id_type: Registration Number
+    id_number: '1224700016089'
+    id_country: Russia
+  - uid: '194761'
+    id_type: Organization Established Date
+    id_number: 14 Sep 2022
+  - uid: '194701'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+remarks: "(Linked To: MEDIA LAND, LLC)"

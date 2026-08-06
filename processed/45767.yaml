@@ -1,0 +1,34 @@
+---
+uid: '45767'
+last_name: QUANTORFORM
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70715'
+    type: a.k.a.
+    category: strong
+    last_name: KVANTORFORM
+address_list:
+  items:
+  - uid: '68094'
+    address1: Pr-D 2-I Yuzhnoportovyi D. 16
+    address2: Str. 2, Floor 1, Komn. 101A, 101-108
+    city: Moscow
+    postal_code: '115088'
+    country: Russia
+id_list:
+  items:
+  - uid: '35510'
+    id_type: Registration Number
+    id_number: '1027739562421'
+    id_country: Russia
+  - uid: '35511'
+    id_type: Tax ID No.
+    id_number: '7731199056'
+    id_country: Russia
+  - uid: '176048'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

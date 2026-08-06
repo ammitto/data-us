@@ -1,0 +1,76 @@
+---
+uid: '23553'
+last_name: VAD, AO
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13685
+aka_list:
+  items:
+  - uid: '37109'
+    type: a.k.a.
+    category: strong
+    last_name: AO, VAD
+  - uid: '37110'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO VAD
+  - uid: '37111'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY VAD
+  - uid: '37112'
+    type: a.k.a.
+    category: strong
+    last_name: JSC VAD
+  - uid: '37113'
+    type: a.k.a.
+    category: strong
+    last_name: ZAO VAD
+  - uid: '37114'
+    type: a.k.a.
+    category: strong
+    last_name: CJSC VAD
+  - uid: '37115'
+    type: a.k.a.
+    category: weak
+    last_name: HIGH-QUALITY HIGHWAYS
+address_list:
+  items:
+  - uid: '35607'
+    address1: 133, ul. Chernyshevskogo
+    city: Vologda
+    state_or_province: Vologodskaya Obl
+    postal_code: '160019'
+    country: Russia
+  - uid: '35608'
+    address1: 122 Grazhdanskiy Prospect
+    address2: Suite 5
+    address3: Liter A
+    city: St. Petersburg
+    postal_code: '195267'
+    country: Russia
+id_list:
+  items:
+  - uid: '15015'
+    id_type: Registration ID
+    id_number: '1037804006811'
+    id_country: Russia
+  - uid: '15016'
+    id_type: Tax ID No.
+    id_number: '7802059185'
+    id_country: Russia
+  - uid: '15018'
+    id_type: Government Gazette Number
+    id_number: '34390716'
+    id_country: Russia
+  - uid: '144039'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '125414'
+    id_type: Website
+    id_number: www.zaovad.com
+  - uid: '125413'
+    id_type: Email Address
+    id_number: office@zaovad.com

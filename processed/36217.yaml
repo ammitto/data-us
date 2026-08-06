@@ -1,0 +1,39 @@
+---
+uid: '36217'
+last_name: INTELLEKT LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK2
+aka_list:
+  items:
+  - uid: '57070'
+    type: a.k.a.
+    category: strong
+    last_name: INTELLEKT OOO
+address_list:
+  items:
+  - uid: '54427'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '25616'
+    id_type: Tax ID No.
+    id_number: '7701080141'
+    id_country: Russia
+  - uid: '25617'
+    id_type: Registration Number
+    id_number: '1197746161711'
+    id_country: Russia
+  - uid: '149672'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '149673'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '149671'
+    id_type: Organization Established Date
+    id_number: 04 Mar 2019
+remarks: "(Linked To: KOZLOV, Sergey Mikhaylovich)"

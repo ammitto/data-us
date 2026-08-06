@@ -1,0 +1,38 @@
+---
+uid: '36427'
+last_name: SBER VOSTOK LIMITED LIABILITY PARTNERSHIP
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '57398'
+    type: a.k.a.
+    category: strong
+    last_name: SBER VOSTOK LLP
+  - uid: '57399'
+    type: a.k.a.
+    category: strong
+    last_name: SBER EAST LLP
+  - uid: '57400'
+    type: a.k.a.
+    category: strong
+    last_name: SBER VOSTOK
+address_list:
+  items:
+  - uid: '54729'
+    address1: 13/1 Al-Farabi Avenue, block 3V, 7th floor
+    city: Almaty
+    postal_code: '050059'
+    country: Kazakhstan
+id_list:
+  items:
+  - uid: '25832'
+    id_type: Registration Number
+    id_number: '110140012405'
+    id_country: Kazakhstan
+  - uid: '174208'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)"

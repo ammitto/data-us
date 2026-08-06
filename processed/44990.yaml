@@ -1,0 +1,38 @@
+---
+uid: '44990'
+last_name: JOINT STOCK COMPANY RUSSIAN COPPER COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69652'
+    type: a.k.a.
+    category: strong
+    last_name: AO RUSSKAYA MEDNAYA COMPANY
+  - uid: '69654'
+    type: a.k.a.
+    category: weak
+    last_name: RCC GROUP
+address_list:
+  items:
+  - uid: '66961'
+    address1: 57 Gorkogo Street
+    city: Ekaterinburg
+    state_or_province: Sverdlovsk Region
+    postal_code: '620026'
+    country: Russia
+id_list:
+  items:
+  - uid: '34644'
+    id_type: Registration Number
+    id_number: '1046603513450'
+    id_country: Russia
+  - uid: '34645'
+    id_type: Tax ID No.
+    id_number: '6670061296'
+    id_country: Russia
+  - uid: '175873'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

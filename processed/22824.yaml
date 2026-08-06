@@ -1,0 +1,57 @@
+---
+uid: '22824'
+first_name: Ahmad
+last_name: ALKHALD
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '35924'
+    type: a.k.a.
+    category: strong
+    last_name: NOURE
+    first_name: Yassine
+  - uid: '35925'
+    type: a.k.a.
+    category: strong
+    last_name: ALQADHI
+    first_name: Mohammed Nawar Mohammed
+address_list:
+  items:
+  - uid: '34489'
+    city: Raqqa
+    country: Syria
+id_list:
+  items:
+  - uid: '124340'
+    id_type: Gender
+    id_number: Male
+  - uid: '186646'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '24334'
+    date_of_birth: 01 Jan 1992
+    main_entry: 'true'
+  - uid: '24335'
+    date_of_birth: 18 Aug 1993
+    main_entry: 'false'
+  - uid: '24351'
+    date_of_birth: 21 Jul 1992
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '24336'
+    place_of_birth: Aleppo, Syria
+    main_entry: 'true'
+  - uid: '24337'
+    place_of_birth: Brussels, Belgium
+    main_entry: 'false'
+  - uid: '24338'
+    place_of_birth: Baghdad, Iraq
+    main_entry: 'false'
+remarks: "(Linked To: ISLAMIC STATE OF IRAQ AND THE LEVANT)"

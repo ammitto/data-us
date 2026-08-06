@@ -1,0 +1,37 @@
+---
+uid: '27526'
+last_name: GOOD SIBLINGS LTD
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK4
+address_list:
+  items:
+  - uid: '42715'
+    city: London
+    country: United Kingdom
+  - uid: '42716'
+    address1: c/o Weihai Huijiang Trade Limited
+    address2: Room 602, 28 Crown Garden District, Weihai Economic and Technological
+      Development Zone
+    address3: Poyuzhen, Huancui Qu
+    city: Weihai
+    state_or_province: Shandong
+    postal_code: '264200'
+    country: China
+id_list:
+  items:
+  - uid: '18701'
+    id_type: Company Number
+    id_number: '11257095'
+    id_country: United Kingdom
+  - uid: '18704'
+    id_type: Identification Number
+    id_number: IMO 6040603
+  - uid: '134272'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '138501'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214

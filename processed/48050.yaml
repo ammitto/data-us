@@ -1,0 +1,46 @@
+---
+uid: '48050'
+first_name: Adrian
+last_name: AGUAYO
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '74594'
+    type: a.k.a.
+    category: weak
+    last_name: AGUAYO SALAS, Adrian
+  - uid: '74595'
+    type: a.k.a.
+    category: weak
+    last_name: ROBERTA
+  - uid: '74596'
+    type: a.k.a.
+    category: weak
+    last_name: LA ROBERTA
+address_list:
+  items:
+  - uid: '72022'
+    state_or_province: Chihuahua
+    country: Mexico
+id_list:
+  items:
+  - uid: '38933'
+    id_type: C.U.R.P.
+    id_number: AUXA800729HCHGXD02
+    id_country: Mexico
+  - uid: '169542'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '69540'
+    date_of_birth: 29 Jul 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '69543'
+    place_of_birth: Chihuahua, Mexico
+    main_entry: 'true'

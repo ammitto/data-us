@@ -1,0 +1,38 @@
+---
+uid: '50915'
+last_name: JOINT STOCK COMPANY PRIBORY SERVICE TORGOVLYA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79761'
+    type: a.k.a.
+    category: strong
+    last_name: PRIST
+  - uid: '79762'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY DEVICES SERVICE TRADE
+address_list:
+  items:
+  - uid: '77327'
+    address1: Ul. 2-I Donskoi Proezd D. 10 Stankonormal
+    address2: Str. 4, 2-I Eta
+    city: Moscow
+    postal_code: '119071'
+    country: Russia
+id_list:
+  items:
+  - uid: '42921'
+    id_type: Registration Number
+    id_number: '1037700203364'
+    id_country: Russia
+  - uid: '42922'
+    id_type: Tax ID No.
+    id_number: '7721212396'
+    id_country: Russia
+  - uid: '179707'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

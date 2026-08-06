@@ -1,0 +1,52 @@
+---
+uid: '18281'
+last_name: LLC INFRASTRUCTURE MOLZHANINOVO
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13662
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '28257'
+    type: f.k.a.
+    category: strong
+    last_name: LLC RESAD
+  - uid: '28259'
+    type: f.k.a.
+    category: strong
+    last_name: RESAD LLC
+  - uid: '55116'
+    type: a.k.a.
+    category: strong
+    last_name: INFRASTRUKTURA MOLZHANINOVO
+address_list:
+  items:
+  - uid: '27658'
+    address1: ul. Bryanskaya D. 5, et 4 pom. I kom 25
+    city: Moscow
+    postal_code: '121059'
+    country: Russia
+id_list:
+  items:
+  - uid: '24760'
+    id_type: Registration Number
+    id_number: '1027739071337'
+    id_country: Russia
+  - uid: '24761'
+    id_type: Tax ID No.
+    id_number: '7733109347'
+    id_country: Russia
+  - uid: '151191'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '173869'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '117572'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 1
+remarks: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: STATE CORPORATION BANK FOR DEVELOPMENT AND FOREIGN ECONOMIC AFFAIRS
+  VNESHECONOMBANK)'

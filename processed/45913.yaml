@@ -1,0 +1,38 @@
+---
+uid: '45913'
+first_name: Natalia Vladimirovna
+last_name: SOLOZHENTSEVA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '68672'
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '35660'
+    id_type: Passport
+    id_number: '750670051'
+    id_country: Russia
+  - uid: '35661'
+    id_type: Passport
+    id_number: K00231120
+    id_country: Cyprus
+  - uid: '166583'
+    id_type: Gender
+    id_number: Female
+  - uid: '176088'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '66582'
+    date_of_birth: 11 Jul 1966
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '66584'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'

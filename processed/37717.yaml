@@ -1,0 +1,45 @@
+---
+uid: '37717'
+last_name: OPEN JOINT STOCK COMPANY KHABAROVSK RADIO ENGINEERING PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59132'
+    type: a.k.a.
+    category: strong
+    last_name: OAO KHRTZ
+  - uid: '59133'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO KHABAROVSKIY RADIOTEKHNICHESKIY ZAVOD
+  - uid: '59134'
+    type: a.k.a.
+    category: strong
+    last_name: OJSC KHABAROVSK RADIO ENGINEERING PLANT
+  - uid: '59135'
+    type: a.k.a.
+    category: strong
+    last_name: KHRTZ PAO
+address_list:
+  items:
+  - uid: '56406'
+    address1: D. 8 K. V, Per. Kedrovy
+    city: Khabarovsk
+    postal_code: '68004'
+    country: Russia
+id_list:
+  items:
+  - uid: '26957'
+    id_type: Tax ID No.
+    id_number: '2723118304'
+    id_country: Russia
+  - uid: '26958'
+    id_type: Registration Number
+    id_number: '1092723002778'
+    id_country: Russia
+  - uid: '173470'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

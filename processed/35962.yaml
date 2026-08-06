@@ -1,0 +1,51 @@
+---
+uid: '35962'
+first_name: Natalya
+last_name: BROWNING
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56563'
+    type: a.k.a.
+    category: strong
+    last_name: BROWNING
+    first_name: Natalia
+  - uid: '56564'
+    type: f.k.a.
+    category: strong
+    last_name: TIMCHENKO
+    first_name: Natalya
+address_list:
+  items:
+  - uid: '53958'
+    country: Russia
+  - uid: '53959'
+    city: South Kensington
+    country: United Kingdom
+  - uid: '53960'
+    address1: 27 Barkston Gardens
+    city: London
+    postal_code: SW5 0ER
+    country: United Kingdom
+id_list:
+  items:
+  - uid: '173310'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '149154'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '49155'
+    date_of_birth: 11 Nov 1978
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '49156'
+    place_of_birth: St. Petersburg, Russia
+    main_entry: 'true'
+remarks: "(Linked To: TIMCHENKO, Gennady Nikolayevich)"

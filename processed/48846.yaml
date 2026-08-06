@@ -1,0 +1,58 @@
+---
+uid: '48846'
+last_name: SCIENTIFIC RESEARCH INSTITUTE OF APPLIED ACOUSTICS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76048'
+    type: a.k.a.
+    category: strong
+    last_name: FEDERALNOE GOSUDARSTVENNOE UNITARNOE PREDPRIIATIE NAUCHNO ISSLEDOVATELSKII
+      INSTITUT PRIKLADNOI AKUSTIKI
+  - uid: '76049'
+    type: a.k.a.
+    category: weak
+    last_name: FGUP NIIPA
+  - uid: '76050'
+    type: a.k.a.
+    category: strong
+    last_name: FEDERAL STATE UNITARY ENTERPRISE NIIPA
+  - uid: '76051'
+    type: a.k.a.
+    category: strong
+    last_name: APPLIED ACOUSTICS RESEARCH INSTITUTE
+  - uid: '76053'
+    type: a.k.a.
+    category: weak
+    last_name: AARI
+  - uid: '76054'
+    type: a.k.a.
+    category: weak
+    last_name: RIAA
+address_list:
+  items:
+  - uid: '73451'
+    address1: 9 May St., 7A
+    city: Dubna
+    postal_code: '141981'
+    country: Russia
+  - uid: '73452'
+    address1: 16A Nagatinskaia Ul
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '39906'
+    id_type: Registration Number
+    id_number: '1035002202070'
+    id_country: Russia
+  - uid: '39907'
+    id_type: Tax ID No.
+    id_number: '5010007607'
+    id_country: Russia
+  - uid: '171527'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

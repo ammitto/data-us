@@ -1,0 +1,39 @@
+---
+uid: '47362'
+last_name: LIMITED LIABILITY COMPANY 3D MALL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73221'
+    type: a.k.a.
+    category: weak
+    last_name: 3D MOLL
+  - uid: '73222'
+    type: a.k.a.
+    category: weak
+    last_name: 3DMALL
+address_list:
+  items:
+  - uid: '70582'
+    address1: Sh. Dmitrovskoe D. 9A
+    address2: Str. 1, Et./Pomeshch. 2/Iii
+    address3: Kom. 18, 35, 35A
+    city: Moscow
+    postal_code: '127434'
+    country: Russia
+id_list:
+  items:
+  - uid: '37697'
+    id_type: Registration Number
+    id_number: '1167746742602'
+    id_country: Russia
+  - uid: '37698'
+    id_type: Tax ID No.
+    id_number: '7731323828'
+    id_country: Russia
+  - uid: '169864'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

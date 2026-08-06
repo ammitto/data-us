@@ -1,0 +1,76 @@
+---
+uid: '20306'
+last_name: KRIOGENMASH OAO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '32092'
+    type: a.k.a.
+    category: strong
+    last_name: CRYOGENMASH
+  - uid: '32093'
+    type: a.k.a.
+    category: strong
+    last_name: OPEN JOINT-STOCK COMPANY KRIOGENNOGO MASHINOSTROYENIA
+  - uid: '69832'
+    type: a.k.a.
+    category: strong
+    last_name: PUBLICHNOE AKTSIONERNOE OBSCHESTVO KRIOGENNOGO MASHINOSTROENIYA
+  - uid: '69833'
+    type: a.k.a.
+    category: strong
+    last_name: CRYOGENMASH JOINT STOCK COMPANY
+  - uid: '69835'
+    type: f.k.a.
+    category: strong
+    last_name: OPEN JOINT STOCK COMPANY CRYOGENMASH
+address_list:
+  items:
+  - uid: '30739'
+    address1: '67'
+    address2: Lenin Avenue
+    city: Balashikha
+    state_or_province: Moscow Region
+    postal_code: '143907'
+    country: Russia
+  - uid: '30741'
+    address1: 36 Lenina Prospekt
+    city: Balashikha G.
+    postal_code: '143907'
+    country: Russia
+id_list:
+  items:
+  - uid: '12566'
+    id_type: Tax ID No.
+    id_number: '5001000066'
+    id_country: Russia
+  - uid: '12567'
+    id_type: Registration ID
+    id_number: '1025000513878'
+    id_country: Russia
+  - uid: '34779'
+    id_type: Government Gazette Number
+    id_number: '05747985'
+    id_country: Russia
+  - uid: '143883'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '120796'
+    id_type: Website
+    id_number: www.cryogenmash.ru
+  - uid: '165429'
+    id_type: Organization Established Date
+    id_number: 03 Oct 1945
+  - uid: '120870'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 1
+  - uid: '173918'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: 'For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: GAZPROMBANK JOINT STOCK COMPANY)'

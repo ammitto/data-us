@@ -1,0 +1,41 @@
+---
+uid: '43538'
+first_name: Konstantin Prokopyevich
+last_name: SAPOZHNIKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '64950'
+    address1: 63 1 Planernaya Street
+    address2: Apt 449
+    city: St. Petersburg
+    country: Russia
+id_list:
+  items:
+  - uid: '33116'
+    id_type: Passport
+    id_number: '719869507'
+    id_country: Russia
+  - uid: '33117'
+    id_type: National ID No.
+    id_number: '2912519114'
+    id_country: Russia
+  - uid: '175715'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '163010'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '63013'
+    date_of_birth: 02 Dec 1982
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '63014'
+    place_of_birth: Kaluzhskaya Area, Russia
+    main_entry: 'true'

@@ -1,0 +1,45 @@
+---
+uid: '37788'
+last_name: JOINT STOCK COMPANY RT-TEKHPRIEMKA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59329'
+    type: a.k.a.
+    category: strong
+    last_name: JSC RT-TEKHPRIEMKA
+  - uid: '59330'
+    type: a.k.a.
+    category: strong
+    last_name: RT-TECHPRIEMKA
+address_list:
+  items:
+  - uid: '56559'
+    address1: Per. Elektricheskii D. 1
+    address2: Str. 12
+    city: Moscow
+    postal_code: '123557'
+    country: Russia
+id_list:
+  items:
+  - uid: '27076'
+    id_type: Registration Number
+    id_number: '1077759874070'
+    id_country: Russia
+  - uid: '27077'
+    id_type: Tax ID No.
+    id_number: '7714710760'
+    id_country: Russia
+  - uid: '152788'
+    id_type: Organization Established Date
+    id_number: 12 Jul 1991
+  - uid: '152789'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
+  - uid: '173516'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: STATE CORPORATION ROSTEC)"

@@ -1,0 +1,37 @@
+---
+uid: '55958'
+first_name: Ing
+last_name: DARA
+sdn_type: Individual
+program_list:
+  programs:
+  - TCO
+address_list:
+  items:
+  - uid: '85684'
+    city: Phnom Penh
+    country: Cambodia
+id_list:
+  items:
+  - uid: '50123'
+    id_type: Passport
+    id_number: N00453333
+    id_country: Cambodia
+  - uid: '50124'
+    id_type: National ID No.
+    id_number: '010929329'
+    id_country: Cambodia
+  - uid: '194057'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '94058'
+    date_of_birth: 04 Sep 1981
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '94059'
+    place_of_birth: Phnom Penh, Cambodia
+    main_entry: 'true'
+remarks: "(Linked To: PRINCE GROUP TRANSNATIONAL CRIMINAL ORGANIZATION)"

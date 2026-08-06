@@ -1,0 +1,44 @@
+---
+uid: '40605'
+first_name: Ahmad
+last_name: KARIMI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+  - IRGC
+aka_list:
+  items:
+  - uid: '63132'
+    type: a.k.a.
+    category: strong
+    last_name: KARIMI
+    first_name: Ahmad Hasan
+address_list:
+  items:
+  - uid: '60509'
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '29767'
+    id_type: National ID No.
+    id_number: '0382947983'
+    id_country: Iran
+  - uid: '157901'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '157903'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '57921'
+    date_of_birth: 11 Dec 1962
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '57922'
+    place_of_birth: Qom, Iran
+    main_entry: 'true'
+remarks: "(Linked To: BONYAD TAAVON SEPAH)"

@@ -1,0 +1,45 @@
+---
+uid: '29076'
+first_name: Manal
+last_name: AL-ASSAD
+sdn_type: Individual
+program_list:
+  programs:
+  - PAARSSR-EO13894
+aka_list:
+  items:
+  - uid: '45725'
+    type: a.k.a.
+    category: strong
+    last_name: AL-AHMAD
+    first_name: Manal
+  - uid: '45726'
+    type: a.k.a.
+    category: strong
+    last_name: JAADAN
+    first_name: Manal
+  - uid: '45727'
+    type: a.k.a.
+    category: strong
+    last_name: AL-AKHRAZ
+    first_name: Manal
+address_list:
+  items:
+  - uid: '43960'
+    city: Damascus
+    country: Syria
+id_list:
+  items:
+  - uid: '135739'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '35735'
+    date_of_birth: 02 Feb 1970
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '35737'
+    place_of_birth: Damascus, Syria
+    main_entry: 'true'

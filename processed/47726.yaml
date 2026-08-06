@@ -1,0 +1,49 @@
+---
+uid: '47726'
+first_name: Valerii
+last_name: COPEICHIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73994'
+    type: a.k.a.
+    category: strong
+    last_name: COPCIN
+    first_name: Valari
+address_list:
+  items:
+  - uid: '71367'
+    address1: Plot 115, Nantale Road, Bukoto
+    address2: P.O. Box 2203
+    city: Kampala
+    country: Uganda
+id_list:
+  items:
+  - uid: '38374'
+    id_type: Passport
+    id_number: AB1893585
+    id_country: Moldova
+    expiration_date: '08 Jun 2032'
+  - uid: '38375'
+    id_type: Passport
+    id_number: AB0376112
+    id_country: Moldova
+    expiration_date: 02 Oct 2025
+  - uid: '38377'
+    id_type: Identification Number
+    id_number: '265417770002'
+    id_country: United Kingdom
+  - uid: '169226'
+    id_type: Gender
+    id_number: Male
+  - uid: '169645'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '69224'
+    date_of_birth: 05 Jul 1961
+    main_entry: 'true'

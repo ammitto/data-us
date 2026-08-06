@@ -1,0 +1,45 @@
+---
+uid: '34084'
+first_name: Ali
+last_name: HEMMATIAN
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+  - IRGC
+aka_list:
+  items:
+  - uid: '53424'
+    type: a.k.a.
+    category: strong
+    last_name: AMINIAN
+    first_name: Ali
+  - uid: '53425'
+    type: a.k.a.
+    category: weak
+    last_name: Raouf
+address_list:
+  items:
+  - uid: '51098'
+    country: Iran
+id_list:
+  items:
+  - uid: '145148'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '145143'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '45140'
+    date_of_birth: '1982'
+    main_entry: 'true'
+  - uid: '45149'
+    date_of_birth: '1983'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '45141'
+    place_of_birth: Damghan, Semnan Province, Iran
+    main_entry: 'true'

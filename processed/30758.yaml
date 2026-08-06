@@ -1,0 +1,48 @@
+---
+uid: '30758'
+last_name: BONAB STEEL INDUSTRY COMPLEX
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13871
+aka_list:
+  items:
+  - uid: '48391'
+    type: a.k.a.
+    category: strong
+    last_name: SHAHIN BONAB STEEL COMPLEX
+  - uid: '48392'
+    type: a.k.a.
+    category: strong
+    last_name: MOJTAME FOULAD SHAHIN BONAB
+address_list:
+  items:
+  - uid: '46528'
+    address1: No 17, Sarbalai Valiasr, Tavanir Bridge
+    city: Tabriz City
+    country: Iran
+  - uid: '46529'
+    address1: Bonab Industrial Zone
+    city: Bonab
+    state_or_province: East Azerbaijan
+    country: Iran
+  - uid: '46530'
+    address1: PO Box 51576-13533
+    city: Tabriz City
+    country: Iran
+id_list:
+  items:
+  - uid: '20838'
+    id_type: National ID No.
+    id_number: '742'
+    id_country: Iran
+    issue_date: '2005'
+  - uid: '138719'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '138684'
+    id_type: Website
+    id_number: www.mfbco.ir
+  - uid: '138722'
+    id_type: Organization Established Date
+    id_number: '2005'

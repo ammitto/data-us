@@ -1,0 +1,78 @@
+---
+uid: '33016'
+last_name: LIMITED LIABILITY COMPANY RNCB INSURANCE
+sdn_type: Entity
+program_list:
+  programs:
+  - PEESA-EO14039
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '51920'
+    type: a.k.a.
+    category: weak
+    last_name: CONSTANTA
+  - uid: '51921'
+    type: a.k.a.
+    category: strong
+    last_name: LLC SK KONSTANTA
+  - uid: '51922'
+    type: a.k.a.
+    category: weak
+    last_name: KONSTANTA
+  - uid: '51923'
+    type: a.k.a.
+    category: strong
+    last_name: IC CONSTANTA LLC
+  - uid: '51989'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY INSURANCE COMPANY KONSTANTA
+  - uid: '81845'
+    type: a.k.a.
+    category: strong
+    last_name: KONSTANTA OOO
+address_list:
+  items:
+  - uid: '49673'
+    address1: d. 19 etazh 3 pom. 70
+    address2: ul. Leninskaya Sloboda
+    city: Moscow
+    postal_code: '115280'
+    country: Russia
+  - uid: '49674'
+    address1: st. Leninskaya Sloboda
+    address2: house 19, floor 3, room. 70
+    city: Moscow
+    postal_code: '115280'
+    country: Russia
+  - uid: '49675'
+    address1: vn. ter. Municipal district Danilovsky
+    address2: Leninskaya Sloboda
+    address3: house 19, floor 3, suite 70
+    city: Moscow
+    postal_code: '115280'
+    country: Russia
+  - uid: '49676'
+    address1: Leninskaya Sloboda
+    address2: house 19, floor 3, suite 70
+    city: Moscow
+    postal_code: '115280'
+    country: Russia
+id_list:
+  items:
+  - uid: '22705'
+    id_type: Tax ID No.
+    id_number: '7707447597'
+    id_country: Russia
+  - uid: '22706'
+    id_type: Business Registration Number
+    id_number: '1217700000011'
+    id_country: Russia
+  - uid: '22707'
+    id_type: Government Gazette Number
+    id_number: '24544006'
+    id_country: Russia
+  - uid: '183228'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,28 @@
+---
+uid: '50948'
+last_name: EK IMPORT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '77395'
+    address1: Pl. Konstitutsii D. 3, K. 2, Lit. A
+    address2: 'Pomeshch 40-N, Chast Pomeshcheniya #1'
+    city: Saint Petersburg
+    postal_code: '196247'
+    country: Russia
+id_list:
+  items:
+  - uid: '42958'
+    id_type: Commercial Registry Number
+    id_number: '1177847045430'
+    id_country: Russia
+  - uid: '42959'
+    id_type: Tax ID No.
+    id_number: '7839078314'
+    id_country: Russia
+  - uid: '179767'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

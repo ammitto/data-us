@@ -1,0 +1,58 @@
+---
+uid: '26935'
+first_name: Ali Reza
+last_name: TANGSIRI
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - IRGC
+  - SDGT
+  - NPWMD
+aka_list:
+  items:
+  - uid: '42600'
+    type: a.k.a.
+    category: strong
+    last_name: TANGSIRI
+    first_name: Alireza
+  - uid: '63347'
+    type: a.k.a.
+    category: strong
+    last_name: TANGSIRI
+    first_name: Ali Rida
+address_list:
+  items:
+  - uid: '60709'
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '29897'
+    id_type: National ID No.
+    id_number: '5859876629'
+    id_country: Iran
+  - uid: '186895'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '131774'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '131787'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '31786'
+    date_of_birth: '1962'
+    main_entry: 'true'
+  - uid: '58189'
+    date_of_birth: 27 Aug 1963
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '58190'
+    place_of_birth: Arvandkenar, Iran
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS; Linked To: PARAVAR PARS COMPANY)"

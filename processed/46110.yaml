@@ -1,0 +1,37 @@
+---
+uid: '46110'
+first_name: Gabriela
+last_name: DEL VILLAR CONTRERAS
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '68696'
+    city: Puerto Vallarta
+    state_or_province: Jalisco
+    country: Mexico
+id_list:
+  items:
+  - uid: '35977'
+    id_type: C.U.R.P.
+    id_number: VICG841006MCHLNB04
+    id_country: Mexico
+  - uid: '35978'
+    id_type: R.F.C.
+    id_number: VICG841006F31
+    id_country: Mexico
+  - uid: '166784'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '66782'
+    date_of_birth: 06 Oct 1984
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '66783'
+    place_of_birth: Chihuahua, Chihuahua, Mexico
+    main_entry: 'true'

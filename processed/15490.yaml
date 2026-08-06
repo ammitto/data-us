@@ -1,0 +1,33 @@
+---
+uid: '15490'
+first_name: Alfredo
+last_name: ANDRADE PARRA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '23064'
+    city: Ciudad Acuna
+    state_or_province: Coahuila
+    country: Mexico
+id_list:
+  items:
+  - uid: '8283'
+    id_type: C.U.R.P.
+    id_number: AAPA731230HCLNRL07
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '12543'
+    date_of_birth: 30 Dec 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '12544'
+    place_of_birth: Ciudad Acuna, Coahuila, Mexico
+    main_entry: 'true'
+  - uid: '12547'
+    place_of_birth: Coahuila, Mexico
+    main_entry: 'false'

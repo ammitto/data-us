@@ -1,0 +1,69 @@
+---
+uid: '11184'
+last_name: IRAN ELECTRONICS INDUSTRIES
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+  - IRAN-TRA
+aka_list:
+  items:
+  - uid: '11579'
+    type: a.k.a.
+    category: weak
+    last_name: IEI
+  - uid: '11580'
+    type: a.k.a.
+    category: strong
+    last_name: SANAYE ELECTRONIC IRAN
+  - uid: '11581'
+    type: a.k.a.
+    category: strong
+    last_name: SASAD IRAN ELECTRONICS INDUSTRIES
+  - uid: '11582'
+    type: a.k.a.
+    category: strong
+    last_name: SHERKAT SANAYEH ELECTRONICS IRAN
+  - uid: '23504'
+    type: a.k.a.
+    category: strong
+    last_name: SAIRAN
+address_list:
+  items:
+  - uid: '16265'
+    address1: P.O. Box 19575-365
+    address2: Shahied Langari Street, Noboniad Sq
+    address3: Pasdaran Ave, Saltanad Abad
+    city: Tehran
+    country: Iran
+  - uid: '16266'
+    address1: P.O. Box 71365-1174
+    address2: Hossain Abad/Ardakan Road
+    city: Shiraz
+    country: Iran
+  - uid: '23572'
+    address1: Hossein Abad/Ardakan Road
+    address2: P.O. Box 555
+    city: Shiraz
+    postal_code: 71365/1174
+    country: Iran
+  - uid: '23573'
+    address1: Shahid Langari Street
+    address2: Nobonyad Square
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '5666'
+    id_type: 'Business Registration Document #'
+    id_number: '829'
+  - uid: '113105'
+    id_type: Website
+    id_number: www.ieimil.ir
+  - uid: '113106'
+    id_type: Website
+    id_number: www.ieicorp.com
+  - uid: '113986'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

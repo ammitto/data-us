@@ -1,0 +1,76 @@
+---
+uid: '45188'
+first_name: Ekaterina Valeryevna
+last_name: ZHDANOVA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69974'
+    type: a.k.a.
+    category: strong
+    last_name: ZHDANOVA
+    first_name: Yekaterina
+address_list:
+  items:
+  - uid: '67270'
+    address1: Building 4 Andreya Tarkovskogo Boulevard
+    address2: Apartment 334
+    address3: Vnukovskoe Settlement
+    city: Moscow
+    postal_code: '108811'
+    country: Russia
+  - uid: '67271'
+    address1: H.18 BLD.2 APP.390 Kantemirovskaya Street
+    city: Moscow
+    country: Russia
+  - uid: '67272'
+    address1: Vernadsky Prospekt 94-4-1235
+    city: Moscow
+    postal_code: '119571'
+    country: Russia
+id_list:
+  items:
+  - uid: '34915'
+    id_type: Passport
+    id_number: '751391473'
+    id_country: Russia
+    issue_date: 13 May 2015
+  - uid: '34919'
+    id_type: National ID No.
+    id_number: '0113962684'
+    id_country: Russia
+  - uid: '34920'
+    id_type: National ID No.
+    id_number: '0104430208'
+    id_country: Russia
+  - uid: '165595'
+    id_type: Gender
+    id_number: Female
+  - uid: '165597'
+    id_type: Digital Currency Address - XBT
+    id_number: 1Ljk8RNNabkZ9bfDYQBn98XfFozJhTjqcZ
+  - uid: '165598'
+    id_type: Digital Currency Address - XBT
+    id_number: 3685sEusmTwZBiKJ4cgV73EAhpVD1nbgbe
+  - uid: '165599'
+    id_type: Digital Currency Address - XBT
+    id_number: 39p8qWp1bkBNhi4vPpFTetKPtH7goqNDZf
+  - uid: '175951'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '165596'
+    id_type: Email Address
+    id_number: 2203390@gmail.com
+date_of_birth_list:
+  items:
+  - uid: '65592'
+    date_of_birth: 18 Mar 1986
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '65591'
+    place_of_birth: Omsukchan Village, Magadan Oblast, Russia
+    main_entry: 'true'

@@ -1,0 +1,67 @@
+---
+uid: '18321'
+last_name: STATE ENTERPRISE FEODOSIA SEA TRADING PORT
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13685
+aka_list:
+  items:
+  - uid: '28377'
+    type: a.k.a.
+    category: strong
+    last_name: THEODOSIA MERCHANT SEA PORT
+  - uid: '28378'
+    type: a.k.a.
+    category: strong
+    last_name: THEODOSIA COMMERCIAL SEAPORT
+  - uid: '28379'
+    type: a.k.a.
+    category: strong
+    last_name: THEODOSIA SEA PORT
+  - uid: '28380'
+    type: a.k.a.
+    category: strong
+    last_name: PORT OF FEODOSIA
+  - uid: '28381'
+    type: a.k.a.
+    category: strong
+    last_name: SEAPORT OF FEODOSIYA
+address_list:
+  items:
+  - uid: '27746'
+    address1: 14 Gorky Street
+    city: Theodosia
+    postal_code: '98100'
+    country: Ukraine
+  - uid: '27747'
+    address1: 14, Gorky Str.
+    city: Feodosiya
+    state_or_province: Crimea
+    postal_code: '98100'
+    country: Ukraine
+  - uid: '27748'
+    address1: Gorky Street 11
+    city: Feodosia
+    state_or_province: Crimea
+    postal_code: '98100'
+    country: Ukraine
+id_list:
+  items:
+  - uid: '10584'
+    id_type: Registration ID
+    id_number: '01125577'
+    id_country: Russia
+  - uid: '117620'
+    id_type: Website
+    id_number: www.ukrport.org.ua
+  - uid: '117619'
+    id_type: Email Address
+    id_number: theodosia@port.kafa.crimea.ua
+  - uid: '117621'
+    id_type: UN/LOCODE
+    id_number: UA FEO
+  - uid: '143768'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

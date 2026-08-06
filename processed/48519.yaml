@@ -1,0 +1,34 @@
+---
+uid: '48519'
+last_name: ALEXANDER ELECTRIC DON
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75409'
+    type: a.k.a.
+    category: weak
+    last_name: AEDON
+address_list:
+  items:
+  - uid: '72815'
+    address1: Druzhinnikov, 5B
+    address2: "/ Druzhinnikov 1"
+    city: Voronezh
+    postal_code: '394026'
+    country: Russia
+id_list:
+  items:
+  - uid: '39449'
+    id_type: Registration Number
+    id_number: '1023601580045'
+    id_country: Russia
+  - uid: '39450'
+    id_type: Tax ID No.
+    id_number: '3662055600'
+    id_country: Russia
+  - uid: '171330'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

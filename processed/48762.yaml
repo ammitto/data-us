@@ -1,0 +1,46 @@
+---
+uid: '48762'
+last_name: INTELLER LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75901'
+    type: a.k.a.
+    category: strong
+    last_name: INTELLER LIMITED LIABILITY COMPANY
+address_list:
+  items:
+  - uid: '73309'
+    address1: ul. Sovetskaya (Pervomaiskii Mkr), D. 31, Pomeshch. 2, Kab. 1
+    city: Korolev
+    state_or_province: Moscow Oblast
+    postal_code: '141069'
+    country: Russia
+id_list:
+  items:
+  - uid: '39810'
+    id_type: Business Registration Number
+    id_number: '1195081071756'
+    id_country: Russia
+  - uid: '39811'
+    id_type: Tax ID No.
+    id_number: '5018201606'
+    id_country: Russia
+  - uid: '39812'
+    id_type: Government Gazette Number
+    id_number: '41610288'
+    id_country: Russia
+  - uid: '171708'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '171380'
+    id_type: Organization Established Date
+    id_number: 25 Sep 2019
+  - uid: '171382'
+    id_type: 'Organization Type:'
+    id_number: Wholesale of other machinery and equipment
+remarks: "(Linked To: AKTSIONERNOE OBSHCHESTVO RAU FARM)"

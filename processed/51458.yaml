@@ -1,0 +1,39 @@
+---
+uid: '51458'
+last_name: FORA BANK JOINT STOCK COMMERCIAL BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '78400'
+    address1: Zubovsky Boulevard, 25
+    city: Moscow
+    postal_code: '119021'
+    country: Russia
+id_list:
+  items:
+  - uid: '43806'
+    id_type: Legal Entity Number
+    id_number: 253400USPWD55XXK2223
+  - uid: '43807'
+    id_type: Registration Number
+    id_number: '1027739553764'
+    id_country: Russia
+  - uid: '43808'
+    id_type: Tax ID No.
+    id_number: '7704113772'
+    id_country: Russia
+  - uid: '180989'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '181553'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '180986'
+    id_type: SWIFT/BIC
+    id_number: FOJSRUMM
+  - uid: '180988'
+    id_type: Website
+    id_number: www.forabank.ru

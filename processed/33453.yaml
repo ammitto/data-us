@@ -1,0 +1,51 @@
+---
+uid: '33453'
+first_name: Raul
+last_name: SAUCEDO HUIPIO
+sdn_type: Individual
+program_list:
+  programs:
+  - TCO
+aka_list:
+  items:
+  - uid: '54407'
+    type: a.k.a.
+    category: weak
+    last_name: RICARDO
+address_list:
+  items:
+  - uid: '51997'
+    address1: Avenida Dinamarca S/N, Col. Orizaba
+    city: Mexicali
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '57675'
+    address1: Priv. de Ruben Mora 27
+    address2: Col. Los Naranjos 39480
+    city: Acapulco de Juarez
+    state_or_province: Guerrero
+    country: Mexico
+id_list:
+  items:
+  - uid: '24366'
+    id_type: C.U.R.P.
+    id_number: SAHR740903HGRCPL07
+    id_country: Mexico
+  - uid: '24367'
+    id_type: I.F.E.
+    id_number: SCHPRL74090312H802
+    id_country: Mexico
+  - uid: '144226'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '46119'
+    date_of_birth: 03 Sep 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '46118'
+    place_of_birth: Guerrero, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: HERNANDEZ SALAS TRANSNATIONAL CRIMINAL ORGANIZATION)"

@@ -1,0 +1,37 @@
+---
+uid: '47987'
+last_name: ARTMARINE LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '71896'
+    address1: ul. Novgorodskaya d. 23, pomeshch. 146-n, office 248
+    city: Saint Petersburg
+    postal_code: '191124'
+    country: Russia
+  - uid: '71897'
+    address1: ul. Ramenki, d. 5, korp. 1, et. 3, pom. V, of. 2
+    city: Moscow
+    postal_code: '119607'
+    country: Russia
+  - uid: '71899'
+    address1: 1st floor of Building Dockworks 4, Waalhaven O.Z. 77
+    city: Rotterdam
+    postal_code: 3087 BM
+    country: Netherlands
+id_list:
+  items:
+  - uid: '38839'
+    id_type: Registration Number
+    id_number: '1137847421689'
+    id_country: Russia
+  - uid: '38840'
+    id_type: Tax ID No.
+    id_number: '7805634884'
+    id_country: Russia
+  - uid: '176572'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,40 @@
+---
+uid: '7843'
+first_name: Saddam Hussein
+last_name: AL-TIKRITI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAQ2
+aka_list:
+  items:
+  - uid: '5643'
+    type: a.k.a.
+    category: weak
+    last_name: ABU ALI
+  - uid: '5644'
+    type: a.k.a.
+    category: strong
+    last_name: HUSAYN
+    first_name: Saddam
+  - uid: '5645'
+    type: a.k.a.
+    category: strong
+    last_name: HUSSAIN
+    first_name: Saddam
+  - uid: '5646'
+    type: a.k.a.
+    category: strong
+    last_name: HUSSEIN
+    first_name: Saddam
+date_of_birth_list:
+  items:
+  - uid: '2066'
+    date_of_birth: 28 Apr 1937
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '2067'
+    place_of_birth: al-Awja, near Tikrit, Iraq
+    main_entry: 'true'
+remarks: named in UNSCR 1483; President since 1979

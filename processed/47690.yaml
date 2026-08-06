@@ -1,0 +1,35 @@
+---
+uid: '47690'
+last_name: MIRAN LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '71295'
+    address1: Per. Evpatoriiskii D. 7, Lit. A
+    address2: Chast Nezhilogo Pomeshcheniya 1-N
+    address3: Chast Nezhilogo Pomeshcheniya 11-N
+    city: Saint-Petersburg
+    postal_code: '195277'
+    country: Russia
+id_list:
+  items:
+  - uid: '38318'
+    id_type: Registration Number
+    id_number: '1027800560908'
+    id_country: Russia
+  - uid: '38319'
+    id_type: Tax ID No.
+    id_number: '7801149990'
+    id_country: Russia
+  - uid: '169843'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '170058'
+    id_type: 'Organization Type:'
+    id_number: Other information technology and computer service activities
+  - uid: '170101'
+    id_type: Website
+    id_number: miran.ru

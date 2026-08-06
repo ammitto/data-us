@@ -1,0 +1,49 @@
+---
+uid: '44089'
+last_name: LIMITED LIABILITY COMPANY TYUMEN PETROLEUM RESEARCH CENTER
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '68212'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU TYUMENSKI NEFTYANOI NAUCHNY
+      TSENTR
+  - uid: '68213'
+    type: a.k.a.
+    category: strong
+    last_name: TPRC LIMITED LIABILITY COMPANY
+  - uid: '68214'
+    type: a.k.a.
+    category: strong
+    last_name: TNNTS LIMITED LIABILITY COMPANY
+address_list:
+  items:
+  - uid: '65613'
+    address1: d. 42, ul. Maksima Gorkogo Tyumen
+    state_or_province: Tyumen region
+    postal_code: '625048'
+    country: Russia
+id_list:
+  items:
+  - uid: '33494'
+    id_type: Registration Number
+    id_number: '1077203000434'
+    id_country: Russia
+  - uid: '33495'
+    id_type: Tax ID No.
+    id_number: '7202157173'
+    id_country: Russia
+  - uid: '33496'
+    id_type: Government Gazette Number
+    id_number: '5544280'
+    id_country: Russia
+  - uid: '163661'
+    id_type: Organization Established Date
+    id_number: 30 Oct 2000
+  - uid: '175762'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,57 @@
+---
+uid: '11914'
+first_name: Juan Daniel
+last_name: VELASQUEZ CABALLERO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '12712'
+    type: a.k.a.
+    category: strong
+    last_name: VELASQUEZ CABALLERO
+    first_name: Daniel
+  - uid: '12713'
+    type: a.k.a.
+    category: strong
+    last_name: VELAZQUEZ CABALLERO
+    first_name: Juan Daniel
+address_list:
+  items:
+  - uid: '18204'
+    address1: Colonia Infonavit
+    city: Nuevo Laredo
+    state_or_province: Tamaulipas
+    country: Mexico
+  - uid: '18205'
+    address1: Colonia Buena Vista
+    city: Nuevo Laredo
+    state_or_province: Tamaulipas
+    country: Mexico
+  - uid: '18206'
+    address1: Calle Coahuila No. 5958
+    address3: Colonia Las Torres, Seccion 864
+    city: Nuevo Laredo
+    state_or_province: Tamaulipas
+    country: Mexico
+id_list:
+  items:
+  - uid: '6383'
+    id_type: Electoral Registry No.
+    id_number: VLCBJN73112628H700
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '7677'
+    date_of_birth: 26 Nov 1976
+    main_entry: 'true'
+  - uid: '7678'
+    date_of_birth: '1968'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '7679'
+    place_of_birth: Tamaulipas, Mexico
+    main_entry: 'true'

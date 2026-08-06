@@ -1,0 +1,38 @@
+---
+uid: '48666'
+last_name: PRINT KOLOR
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75701'
+    type: a.k.a.
+    category: weak
+    last_name: PRINT COLOR
+address_list:
+  items:
+  - uid: '73101'
+    address1: Ul. Zheleznodorozhnaya D. 24
+    city: Shcherbinka
+    postal_code: '142171'
+    country: Russia
+  - uid: '73102'
+    address1: Ul. Krasnodarskaya (Severnyi Mkr.) Str. 4
+    city: Domodedovo
+    postal_code: '142000'
+    country: Russia
+id_list:
+  items:
+  - uid: '39662'
+    id_type: Registration Number
+    id_number: '1095074005234'
+    id_country: Russia
+  - uid: '39663'
+    id_type: Tax ID No.
+    id_number: '5074112170'
+    id_country: Russia
+  - uid: '171257'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

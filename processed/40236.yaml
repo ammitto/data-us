@@ -1,0 +1,52 @@
+---
+uid: '40236'
+last_name: AO URAL CIVIL AVIATION FACTORY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '62567'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY URALS WORKS OF CIVIL AVIATION
+  - uid: '62568'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO URALSKI ZAVOD GRAZHDANSKOI AVIATSII
+  - uid: '62569'
+    type: a.k.a.
+    category: weak
+    last_name: UZGA AO
+address_list:
+  items:
+  - uid: '59964'
+    address1: Ul. Bakhchivandzhi 2G,
+    city: Ekaterinburg
+    state_or_province: Svedlovskaya Oblast
+    postal_code: '620025'
+    country: Russia
+id_list:
+  items:
+  - uid: '29416'
+    id_type: Registration Number
+    id_number: '1026605766560'
+    id_country: Russia
+  - uid: '29417'
+    id_type: Tax ID No.
+    id_number: '6664013640'
+    id_country: Russia
+  - uid: '29418'
+    id_type: Government Gazette Number
+    id_number: '01128452'
+    id_country: Russia
+  - uid: '157188'
+    id_type: 'Organization Type:'
+    id_number: Manufacture of air and spacecraft and related machinery
+  - uid: '157187'
+    id_type: Organization Established Date
+    id_number: 16 Mar 1939
+  - uid: '174039'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

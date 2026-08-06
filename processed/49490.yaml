@@ -1,0 +1,39 @@
+---
+uid: '49490'
+first_name: Siarhei
+last_name: TYTSYK
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '74661'
+    address1: 86-3 Nesterova Street
+    address2: Apartment 65
+    city: Minsk
+    postal_code: '220047'
+    country: Belarus
+id_list:
+  items:
+  - uid: '40834'
+    id_type: National ID No.
+    id_number: 3120874A089PB0
+    id_country: Belarus
+  - uid: '40835'
+    id_type: Passport
+    id_number: MP4310207
+    id_country: Belarus
+    expiration_date: 05 Mar 2029
+  - uid: '172571'
+    id_type: Gender
+    id_number: Male
+  - uid: '172761'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '72570'
+    date_of_birth: 12 Aug 1974
+    main_entry: 'true'
+remarks: "(Linked To: KVAND IS OOO)"

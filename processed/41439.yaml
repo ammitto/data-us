@@ -1,0 +1,53 @@
+---
+uid: '41439'
+first_name: Valery Valerievich
+last_name: IVANKOVICH
+sdn_type: Individual
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '64513'
+    type: a.k.a.
+    category: strong
+    last_name: IVANKOVICH
+    first_name: Valery Valerevich
+  - uid: '64514'
+    type: a.k.a.
+    category: strong
+    last_name: IVANKOVICH
+    first_name: Valerii Valerevich
+  - uid: '64515'
+    type: a.k.a.
+    category: strong
+    last_name: IVANKOVICH
+    first_name: Valeriy Valeryevich
+address_list:
+  items:
+  - uid: '61872'
+    city: Minsk
+    country: Belarus
+id_list:
+  items:
+  - uid: '30803'
+    id_type: National Foreign ID Number
+    id_number: 3150271E004PB5
+    id_country: Belarus
+  - uid: '30804'
+    id_type: Passport
+    id_number: MP3896392
+    id_country: Belarus
+  - uid: '159543'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '59541'
+    date_of_birth: 15 Feb 1971
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '59542'
+    place_of_birth: Navapolatsk, Belarus
+    main_entry: 'true'

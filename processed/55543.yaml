@@ -1,0 +1,38 @@
+---
+uid: '55543'
+last_name: STAR MANAGEMENT GROUP GMBH
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+address_list:
+  items:
+  - uid: '84915'
+    address1: Lichstr. 2
+    city: Essen
+    state_or_province: Nordrhein-Westfalen
+    postal_code: '45127'
+    country: Germany
+  - uid: '84916'
+    address1: Lindenstr. 48-52
+    city: Dusseldorf
+    postal_code: '40233'
+    country: Germany
+id_list:
+  items:
+  - uid: '49528'
+    id_type: Registration Number
+    id_number: 45130B28433
+    id_country: Germany
+  - uid: '49529'
+    id_type: V.A.T. Number
+    id_number: DE314040843
+    id_country: Germany
+  - uid: '193035'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '193034'
+    id_type: Organization Established Date
+    id_number: 21 Aug 2017
+remarks: "(Linked To: PASARGAD HELICOPTER COMPANY)"

@@ -1,0 +1,36 @@
+---
+uid: '40742'
+first_name: Mohammad Reza
+last_name: MOHAMMADI
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+address_list:
+  items:
+  - uid: '60720'
+    country: Iran
+id_list:
+  items:
+  - uid: '29903'
+    id_type: National ID No.
+    id_number: '5069643517'
+    id_country: Iran
+  - uid: '158173'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '158171'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '58201'
+    date_of_birth: 16 Apr 1971
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '58202'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: PARAVAR PARS COMPANY)"

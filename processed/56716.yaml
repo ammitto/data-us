@@ -1,0 +1,37 @@
+---
+uid: '56716'
+first_name: Ahmad
+last_name: BSEIS
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '86868'
+    country: Syria
+id_list:
+  items:
+  - uid: '50826'
+    id_type: Passport
+    id_number: '013802819'
+    id_country: Syria
+    expiration_date: 26 Jan 2026
+  - uid: '195492'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '195471'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '95470'
+    date_of_birth: 03 Jan 1990
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '95473'
+    place_of_birth: Hama, Syria
+    main_entry: 'true'
+remarks: "(Linked To: ANSARALLAH)"

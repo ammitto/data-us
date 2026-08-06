@@ -1,0 +1,42 @@
+---
+uid: '50671'
+first_name: Ahmad Reza
+last_name: AZADEH
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+aka_list:
+  items:
+  - uid: '79278'
+    type: a.k.a.
+    category: strong
+    last_name: AZADEH
+    first_name: Ahmadreza
+address_list:
+  items:
+  - uid: '76830'
+    state_or_province: Khuzestan Province
+    country: Iran
+id_list:
+  items:
+  - uid: '42531'
+    id_type: National ID No.
+    id_number: '1910107069'
+    id_country: Iran
+  - uid: '179122'
+    id_type: Gender
+    id_number: Male
+  - uid: '179299'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '79232'
+    date_of_birth: 31 May 1976
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '79233'
+    place_of_birth: Ramhormoz, Iran
+    main_entry: 'true'

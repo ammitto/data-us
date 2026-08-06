@@ -1,0 +1,38 @@
+---
+uid: '7847'
+first_name: Ali Hassan al-Majid
+last_name: AL-TIKRITI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAQ2
+aka_list:
+  items:
+  - uid: '5651'
+    type: a.k.a.
+    category: strong
+    last_name: AL-KIMAWI
+  - uid: '5652'
+    type: a.k.a.
+    category: strong
+    last_name: AL-MAJID
+    first_name: General Ali Hasan
+  - uid: '5653'
+    type: a.k.a.
+    category: strong
+    last_name: AL-MAJID
+    first_name: General Ali Hassan
+date_of_birth_list:
+  items:
+  - uid: '2080'
+    date_of_birth: '1943'
+    main_entry: 'true'
+  - uid: '2083'
+    date_of_birth: '1941'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '2081'
+    place_of_birth: al-Awja, near Tikrit, Iraq
+    main_entry: 'true'
+remarks: presidential advisor and senior member of Revolutionary Command Council

@@ -1,0 +1,43 @@
+---
+uid: '50158'
+last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU NORILSKI OBESPECHIVAYUSHCHI
+  KOMPLEKS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78224'
+    type: a.k.a.
+    category: strong
+    last_name: NORILSKI OBESPECHIVAYUSHCHI KOMPLEKS OOO
+  - uid: '78225'
+    type: a.k.a.
+    category: strong
+    last_name: NORILSKY OBESPECHIVAYUSHCHY KOMPLEKS LIMITED LIABILITY COMPANY
+  - uid: '78226'
+    type: a.k.a.
+    category: strong
+    last_name: LLC NORILSKYI OBESPECHIVAUSHYI COMPLEX
+address_list:
+  items:
+  - uid: '75911'
+    address1: 64, ul. Nansena
+    city: Norilsk
+    state_or_province: Krasnoyarsk region
+    postal_code: '663319'
+    country: Russia
+id_list:
+  items:
+  - uid: '41768'
+    id_type: Registration Number
+    id_number: '1062457024123'
+    id_country: Russia
+  - uid: '41769'
+    id_type: Tax ID No.
+    id_number: '2457061920'
+    id_country: Russia
+  - uid: '178106'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

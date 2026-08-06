@@ -1,0 +1,43 @@
+---
+uid: '50886'
+last_name: LAVRENTYEV INSTITUTE OF HYDRODYNAMICS OF SIBERIAN BRANCH OF RUSSIAN ACADEMY
+  OF SCIENCES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79695'
+    type: a.k.a.
+    category: strong
+    last_name: FEDERAL STATE BUDGETARY INSTITUTE OF SCIENCE INSTITUTE OF HYDRODYNAMICS
+      NAMED AFTER M A LAVRENTYEV OF THE SIBERIAN BRANCH OF THE RUSSIAN ACADEMY OF
+      SCIENCES
+  - uid: '79696'
+    type: a.k.a.
+    category: weak
+    last_name: IGIL SO RAN
+address_list:
+  items:
+  - uid: '77260'
+    address1: Prosp Akademika Lavrentyeva 15
+    city: Novosibirsk
+    postal_code: '630090'
+    country: Russia
+id_list:
+  items:
+  - uid: '42861'
+    id_type: Registration Number
+    id_number: '1025403648600'
+    id_country: Russia
+  - uid: '42862'
+    id_type: Tax ID No.
+    id_number: '5408100064'
+    id_country: Russia
+  - uid: '179663'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
+  - uid: '179664'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

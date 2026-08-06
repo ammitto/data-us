@@ -1,0 +1,46 @@
+---
+uid: '51956'
+first_name: Kirill Borisovich
+last_name: KOMAROV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '79190'
+    address1: 2nd Cossachy Lane
+    address2: 4-1-12
+    city: Moscow
+    postal_code: '119180'
+    country: Russia
+id_list:
+  items:
+  - uid: '44723'
+    id_type: Tax ID No.
+    id_number: '770506548638'
+    id_country: Russia
+  - uid: '44979'
+    id_type: National ID No.
+    id_number: '4518901082'
+    id_country: Russia
+  - uid: '44980'
+    id_type: National ID No.
+    id_number: '6597046656'
+    id_country: Russia
+  - uid: '182570'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '182573'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '82569'
+    date_of_birth: 29 Dec 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '82571'
+    place_of_birth: Saint Petersburg, Russia
+    main_entry: 'true'

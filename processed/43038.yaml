@@ -1,0 +1,54 @@
+---
+uid: '43038'
+last_name: SIBERIAN SCIENTIFIC RESEARCH INSTITUTE OF GEOLOGY GEOPHYSICS AND MINERAL
+  RAW MATERIAL JOINT STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '66635'
+    type: a.k.a.
+    category: strong
+    last_name: SNIIGGIMS JSC
+  - uid: '66636'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO SIBIRSKI NAUCHNO ISSLEDOVATELSKI INSTITUT
+      GEOLOGII, GEOFIZIKI I MINERALNOGO SYRYA
+  - uid: '66637'
+    type: a.k.a.
+    category: strong
+    last_name: SNIIGGIMS AO
+address_list:
+  items:
+  - uid: '64168'
+    address1: Prospekt Krasny 67
+    city: Novosibirsk
+    state_or_province: Novosibirskaya Obl
+    postal_code: '630091'
+    country: Russia
+id_list:
+  items:
+  - uid: '32622'
+    id_type: Registration Number
+    id_number: '1155476074390'
+    id_country: Russia
+  - uid: '32623'
+    id_type: Tax ID No.
+    id_number: '5406587935'
+    id_country: Russia
+  - uid: '32624'
+    id_type: Government Gazette Number
+    id_number: '01423607'
+    id_country: Russia
+  - uid: '175503'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '161910'
+    id_type: Organization Established Date
+    id_number: 07 Jul 2015
+  - uid: '161911'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

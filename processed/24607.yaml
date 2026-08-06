@@ -1,0 +1,43 @@
+---
+uid: '24607'
+first_name: Jong Won
+last_name: RI
+sdn_type: Individual
+program_list:
+  programs:
+  - DPRK2
+aka_list:
+  items:
+  - uid: '38799'
+    type: a.k.a.
+    category: strong
+    last_name: RI
+    first_name: Cho'ng-Wo'n
+  - uid: '38800'
+    type: a.k.a.
+    category: strong
+    last_name: RI
+    first_name: Jung Won
+address_list:
+  items:
+  - uid: '37194'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '15715'
+    id_type: Passport
+    id_number: PS654320421
+    expiration_date: 11 Mar 2019
+  - uid: '135296'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '127897'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+date_of_birth_list:
+  items:
+  - uid: '27482'
+    date_of_birth: 22 Apr 1971
+    main_entry: 'true'

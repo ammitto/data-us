@@ -1,0 +1,42 @@
+---
+uid: '35239'
+first_name: Yuriy Yakovlevich
+last_name: CHAYKA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '55435'
+    type: a.k.a.
+    category: strong
+    last_name: CHAIKA
+    first_name: Yury
+  - uid: '55436'
+    type: a.k.a.
+    category: strong
+    last_name: CHAIKA
+    first_name: Yuri
+address_list:
+  items:
+  - uid: '52953'
+    country: Russia
+id_list:
+  items:
+  - uid: '147379'
+    id_type: Gender
+    id_number: Male
+  - uid: '176689'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '47376'
+    date_of_birth: 21 May 1951
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '47377'
+    place_of_birth: Nikolayevsk-on-Amur, Khabarovsk Territory, Russia
+    main_entry: 'true'

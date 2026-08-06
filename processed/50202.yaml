@@ -1,0 +1,43 @@
+---
+uid: '50202'
+first_name: Oleg Romualdovich
+last_name: GERASIM
+sdn_type: Individual
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '78332'
+    type: a.k.a.
+    category: strong
+    last_name: HERASIM
+    first_name: Aleh Ramualdavych
+address_list:
+  items:
+  - uid: '76009'
+    country: Belarus
+id_list:
+  items:
+  - uid: '41840'
+    id_type: Passport
+    id_number: MP3293367
+    id_country: Belarus
+    expiration_date: 02 Feb 2027
+  - uid: '41841'
+    id_type: National ID No.
+    id_number: 3030362A074PB6
+    id_country: Belarus
+  - uid: '177817'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '77818'
+    date_of_birth: 03 Mar 1962
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '78184'
+    place_of_birth: Belarus
+    main_entry: 'true'

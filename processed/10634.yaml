@@ -1,0 +1,30 @@
+---
+uid: '10634'
+first_name: Juan Carlos
+last_name: OLIVAS OJEDA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '14876'
+    address1: Calle Sierra Madre del Sur No. 1525-A, Infonavit Canadas
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '14877'
+    address1: c/o COMERCIALIZADORA BRIMAR'S, S.A. DE. C.V.
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '6033'
+    date_of_birth: 14 Mar 1965
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '6034'
+    place_of_birth: Navolato, Sinaloa, Mexico
+    main_entry: 'true'

@@ -1,0 +1,34 @@
+---
+uid: '49383'
+first_name: Viktor Nikolaevich
+last_name: ZHILKIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '74429'
+    country: Russia
+id_list:
+  items:
+  - uid: '40650'
+    id_type: Tax ID No.
+    id_number: '434536095851'
+    id_country: Russia
+  - uid: '172461'
+    id_type: Gender
+    id_number: Male
+  - uid: '172462'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '72458'
+    date_of_birth: 03 Feb 1960
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '72459'
+    place_of_birth: Ageevo, Tula Oblast, Russia
+    main_entry: 'true'

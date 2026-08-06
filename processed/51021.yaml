@@ -1,0 +1,29 @@
+---
+uid: '51021'
+first_name: Fabio Libero
+last_name: DELCO
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '78171'
+    country: Switzerland
+id_list:
+  items:
+  - uid: '43054'
+    id_type: Passport
+    id_number: '8489687'
+    id_country: Switzerland
+  - uid: '179897'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '179899'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '79900'
+    date_of_birth: 23 Oct 1967
+    main_entry: 'true'

@@ -1,0 +1,42 @@
+---
+uid: '56757'
+first_name: Bashir
+last_name: ABBASPOUR QOMI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '87962'
+    type: a.k.a.
+    category: strong
+    last_name: ABBASPOUR GHOMI
+    first_name: Bashir
+address_list:
+  items:
+  - uid: '86900'
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '50882'
+    id_type: National ID No.
+    id_number: '2061931111'
+    id_country: Iran
+  - uid: '195627'
+    id_type: Gender
+    id_number: Male
+  - uid: '195704'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '95629'
+    date_of_birth: 25 Nov 1965
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '95630'
+    place_of_birth: Babol, Iran
+    main_entry: 'true'

@@ -1,0 +1,32 @@
+---
+uid: '58211'
+first_name: Jose Angel
+last_name: PORTAL MIRANDA
+sdn_type: Individual
+program_list:
+  programs:
+  - CUBA-EO14404
+address_list:
+  items:
+  - uid: '89429'
+    city: Havana
+    country: Cuba
+id_list:
+  items:
+  - uid: '52835'
+    id_type: National ID No.
+    id_number: '67011009482'
+    id_country: Cuba
+  - uid: '199842'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '99839'
+    date_of_birth: 10 Jan 1967
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '99840'
+    place_of_birth: Cuba
+    main_entry: 'true'

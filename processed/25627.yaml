@@ -1,0 +1,30 @@
+---
+uid: '25627'
+last_name: ATOMIC ENERGY ORGANIZATION OF IRAN
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '40255'
+    type: a.k.a.
+    category: weak
+    last_name: AEOI
+address_list:
+  items:
+  - uid: '38756'
+    address1: North Kargar Street
+    address2: P.O. Box 14155-1339
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '129552'
+    id_type: Website
+    id_number: http://www.aeoi.org.ir
+  - uid: '129551'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

@@ -1,0 +1,42 @@
+---
+uid: '40257'
+first_name: Vyacheslav Vladimirovich
+last_name: GLADKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '62619'
+    type: a.k.a.
+    category: strong
+    last_name: GLADKOV
+    first_name: Viacheslav Vladimirovich
+address_list:
+  items:
+  - uid: '60006'
+    state_or_province: Belgorod Region
+    country: Russia
+id_list:
+  items:
+  - uid: '29443'
+    id_type: Tax ID No.
+    id_number: '583800610358'
+    id_country: Russia
+  - uid: '157274'
+    id_type: Gender
+    id_number: Male
+  - uid: '174060'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '57272'
+    date_of_birth: 15 Jan 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '57273'
+    place_of_birth: Kuchki, Russia
+    main_entry: 'true'

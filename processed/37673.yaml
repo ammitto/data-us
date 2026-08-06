@@ -1,0 +1,47 @@
+---
+uid: '37673'
+last_name: LIMITED LIABILITY COMPANY PRIVATE SECURITY ORGANIZATION RSB-GROUP
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59033'
+    type: a.k.a.
+    category: strong
+    last_name: LLC PSO RSB-GROUP
+  - uid: '59034'
+    type: a.k.a.
+    category: strong
+    last_name: OBSCHESTVO S OGRANICHENNOY OTVETSTVENNOSTYU CHASTNAYA OKHRANNAYA ORGANIZATSIYA
+      RSB-GRUPP
+  - uid: '59035'
+    type: a.k.a.
+    category: strong
+    last_name: OOO CHOO RSB-GRUPP
+address_list:
+  items:
+  - uid: '56341'
+    address1: Ulitsa Krzhizhanovskogo, D. 14
+    address2: K. 2, Pom I Komn 1;2
+    city: Moskva
+    postal_code: '117218'
+    country: Russia
+id_list:
+  items:
+  - uid: '26902'
+    id_type: Registration Number
+    id_number: '5087746401573'
+    id_country: Russia
+  - uid: '26903'
+    id_type: Tax ID No.
+    id_number: '7718731144'
+    id_country: Russia
+  - uid: '152614'
+    id_type: Organization Established Date
+    id_number: 14 Nov 2008
+  - uid: '173452'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: KRINITSYN, Oleg Anatolyevich)"

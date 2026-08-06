@@ -1,0 +1,39 @@
+---
+uid: '28293'
+last_name: NATIONAL IRANIAN COPPER INDUSTRIES COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13871
+aka_list:
+  items:
+  - uid: '44557'
+    type: a.k.a.
+    category: strong
+    last_name: NATIONAL IRANIAN COPPER INDUSTRIES PUBLIC JOINT STOCK
+  - uid: '44558'
+    type: a.k.a.
+    category: weak
+    last_name: NICICO
+address_list:
+  items:
+  - uid: '42800'
+    address1: Next to Saei Park, Block No. 2161, Vali Asr Avenue
+    city: Tehran
+    country: Iran
+  - uid: '42801'
+    address1: PO Box 15115-416
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '18742'
+    id_type: Registration Number
+    id_number: '15957'
+    id_country: Iran
+  - uid: '133755'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '133734'
+    id_type: Website
+    id_number: www.nicico.com

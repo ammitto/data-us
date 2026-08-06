@@ -1,0 +1,39 @@
+---
+uid: '51774'
+last_name: LIMITED LIABILITY COMPANY BANK ORANGE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '78901'
+    address1: Letter a, Room 13-H, Ul. Ruzovskaya, 16, Lit. A
+    city: Saint Petersburg
+    postal_code: '190013'
+    country: Russia
+id_list:
+  items:
+  - uid: '44405'
+    id_type: Legal Entity Number
+    id_number: 253400D0R1WTEK19WM57
+  - uid: '44406'
+    id_type: Registration Number
+    id_number: '1023800000322'
+    id_country: Russia
+  - uid: '44408'
+    id_type: Tax ID No.
+    id_number: '3803202000'
+    id_country: Russia
+  - uid: '181982'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '181986'
+    id_type: SWIFT/BIC
+    id_number: PRSBRU2P
+  - uid: '181988'
+    id_type: Website
+    id_number: www.bankorange.ru
+  - uid: '181983'
+    id_type: Target Type
+    id_number: Financial Institution

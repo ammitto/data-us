@@ -1,0 +1,27 @@
+---
+uid: '19144'
+last_name: GRUPO CIMA PANAMA, S.A.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '29131'
+    address1: Calle 15 Y Avenida Roosevelt
+    city: Colon Free Zone
+    country: Panama
+  - uid: '29132'
+    address1: PO Box 3294
+    city: Panama City
+    country: Panama
+id_list:
+  items:
+  - uid: '11438'
+    id_type: 'RUC #'
+    id_number: 408392-1-425571
+    id_country: Panama
+  - uid: '11439'
+    id_type: 'RUC #'
+    id_number: 425571-1-408392
+    id_country: Panama

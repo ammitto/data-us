@@ -1,0 +1,33 @@
+---
+uid: '48527'
+last_name: LIMITED LIABILITY COMPANY SREDNEVOLZHSKY STANKOZAVOD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75430'
+    type: a.k.a.
+    category: weak
+    last_name: SVSZ
+address_list:
+  items:
+  - uid: '72833'
+    address1: Ul. Naberezhnaya Reki Samary 1
+    city: Samara
+    postal_code: '443036'
+    country: Russia
+id_list:
+  items:
+  - uid: '39465'
+    id_type: Registration Number
+    id_number: '1136311005258'
+    id_country: Russia
+  - uid: '39466'
+    id_type: Tax ID No.
+    id_number: '6311144662'
+    id_country: Russia
+  - uid: '171340'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

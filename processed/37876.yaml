@@ -1,0 +1,35 @@
+---
+uid: '37876'
+first_name: Anatoly Eduardovich
+last_name: SERDYUKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '56775'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '27178'
+    id_type: Passport
+    id_number: '100088011'
+    id_country: Russia
+  - uid: '153077'
+    id_type: Gender
+    id_number: Male
+  - uid: '174618'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '53076'
+    date_of_birth: '08 Jan 1962'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '53078'
+    place_of_birth: Krasnodar, Russia
+    main_entry: 'true'

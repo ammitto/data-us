@@ -1,0 +1,34 @@
+---
+uid: '47727'
+first_name: Evgenii Anatolevich
+last_name: DRONOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '71372'
+    country: Russia
+id_list:
+  items:
+  - uid: '38381'
+    id_type: Tax ID No.
+    id_number: '710600768047'
+    id_country: Russia
+  - uid: '169229'
+    id_type: Gender
+    id_number: Male
+  - uid: '169644'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '69227'
+    date_of_birth: 20 Oct 1947
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '69228'
+    place_of_birth: Tula, Russia
+    main_entry: 'true'

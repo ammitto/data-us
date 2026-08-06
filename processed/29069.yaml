@@ -1,0 +1,54 @@
+---
+uid: '29069'
+first_name: Amr Mohamed
+last_name: HAMSHO
+sdn_type: Individual
+program_list:
+  programs:
+  - PAARSSR-EO13894
+aka_list:
+  items:
+  - uid: '45700'
+    type: a.k.a.
+    category: strong
+    last_name: HAMCHO
+    first_name: Amre Mohamad
+  - uid: '45701'
+    type: a.k.a.
+    category: strong
+    last_name: HAMSHOU
+    first_name: Amrou Mohammed
+  - uid: '45703'
+    type: a.k.a.
+    category: strong
+    last_name: HAMSHO
+    first_name: Amrou Mohammed
+  - uid: '45705'
+    type: a.k.a.
+    category: strong
+    last_name: HAMCHO
+    first_name: Amre
+address_list:
+  items:
+  - uid: '43933'
+    city: Damascus
+    country: Syria
+id_list:
+  items:
+  - uid: '19332'
+    id_type: Passport
+    id_number: N005361043
+    id_country: Syria
+  - uid: '135675'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '35677'
+    date_of_birth: 07 Mar 1995
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '35678'
+    place_of_birth: Damascus, Syria
+    main_entry: 'true'

@@ -1,0 +1,35 @@
+---
+uid: '47816'
+last_name: LIMITED LIABILITY COMPANY CENTER SPRUT T
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74182'
+    type: a.k.a.
+    category: strong
+    last_name: LLC TSENTR SPRUT T
+address_list:
+  items:
+  - uid: '71551'
+    address1: Ulitsa Krasnokazarmennaya
+    address2: Dom 3
+    address3: Stroenie 5
+    city: Moscow
+    postal_code: '111250'
+    country: Russia
+id_list:
+  items:
+  - uid: '38517'
+    id_type: Tax ID No.
+    id_number: '7734220468'
+    id_country: Russia
+  - uid: '38519'
+    id_type: Registration Number
+    id_number: '1037739346590'
+    id_country: Russia
+  - uid: '176467'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

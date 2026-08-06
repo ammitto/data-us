@@ -1,0 +1,36 @@
+---
+uid: '41082'
+last_name: LIMITED LIABILITY COMPANY RSK LABS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '64067'
+    type: a.k.a.
+    category: strong
+    last_name: RSK LABS OOO
+address_list:
+  items:
+  - uid: '61405'
+    address1: 4 Lugovaya Street, Building 5, Office 19, Skolkovo Innovation Center
+      Territory
+    city: Moscow
+    state_or_province: Moscow Region
+    postal_code: '143026'
+    country: Russia
+id_list:
+  items:
+  - uid: '30418'
+    id_type: Registration Number
+    id_number: '1167746423316'
+    id_country: Russia
+  - uid: '30419'
+    id_type: Tax ID No.
+    id_number: '7731315070'
+    id_country: Russia
+  - uid: '173613'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: SHMELEV, Alexey Borisovich)"

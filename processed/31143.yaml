@@ -1,0 +1,50 @@
+---
+uid: '31143'
+first_name: Carlos Andres
+last_name: RIVERA VARELA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+aka_list:
+  items:
+  - uid: '48975'
+    type: a.k.a.
+    category: weak
+    last_name: La Firma
+address_list:
+  items:
+  - uid: '47086'
+    city: Puerto Vallarta
+    state_or_province: Jalisco
+    country: Mexico
+id_list:
+  items:
+  - uid: '21134'
+    id_type: C.U.R.P.
+    id_number: RIVC860619HNEVRR04
+    id_country: Mexico
+  - uid: '21135'
+    id_type: Cedula No.
+    id_number: '1130648070'
+    id_country: Colombia
+  - uid: '139562'
+    id_type: Gender
+    id_number: Male
+  - uid: '191724'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '39559'
+    date_of_birth: 19 Jun 1986
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '39563'
+    place_of_birth: Cali, Valle, Colombia
+    main_entry: 'true'
+remarks: "(Linked To: CARTEL DE JALISCO NUEVA GENERACION)"

@@ -1,0 +1,48 @@
+---
+uid: '12797'
+first_name: Fazl
+last_name: RABI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '13990'
+    type: a.k.a.
+    category: strong
+    last_name: RABI
+    first_name: Fazal
+  - uid: '13991'
+    type: a.k.a.
+    category: strong
+    last_name: RABBI
+    first_name: Faisal
+id_list:
+  items:
+  - uid: '186036'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '8542'
+    date_of_birth: '1972'
+    main_entry: 'true'
+  - uid: '8543'
+    date_of_birth: '1975'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '8544'
+    place_of_birth: Kohe Safi District, Parwan Province, Afghanistan
+    main_entry: 'true'
+  - uid: '8545'
+    place_of_birth: Kapisa Province, Afghanistan
+    main_entry: 'false'
+  - uid: '8546'
+    place_of_birth: Nangarhar Province, Afghanistan
+    main_entry: 'false'
+  - uid: '8547'
+    place_of_birth: Kabul Province, Afghanistan
+    main_entry: 'false'

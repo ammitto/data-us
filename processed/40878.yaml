@@ -1,0 +1,49 @@
+---
+uid: '40878'
+last_name: INDEPENDENT INSURANCE GROUP LTD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63634'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU STRAKHOVAYA KOMPANIYA
+      NEZAVISIMAYA STRAKHOVAYA GRUPPA
+  - uid: '63636'
+    type: a.k.a.
+    category: weak
+    last_name: NSG OOO
+address_list:
+  items:
+  - uid: '60967'
+    address1: Vspolniy Pereulok 18
+    address2: bldg. 2
+    city: Moscow
+    postal_code: '123001'
+    country: Russia
+id_list:
+  items:
+  - uid: '30139'
+    id_type: Registration Number
+    id_number: '1037716006360'
+    id_country: Russia
+  - uid: '30140'
+    id_type: Tax ID No.
+    id_number: '7716227728'
+    id_country: Russia
+  - uid: '30141'
+    id_type: Government Gazette Number
+    id_number: '14139641'
+    id_country: Russia
+  - uid: '159140'
+    id_type: Website
+    id_number: www.nsg-ins.ru
+  - uid: '158411'
+    id_type: Organization Established Date
+    id_number: 03 Mar 2003
+  - uid: '175305'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

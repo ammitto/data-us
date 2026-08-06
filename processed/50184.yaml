@@ -1,0 +1,38 @@
+---
+uid: '50184'
+last_name: LIMITED LIABILITY COMPANY GRK BYSTRINSKOE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78288'
+    type: a.k.a.
+    category: strong
+    last_name: LLC GRK BYSTRINSKOE
+  - uid: '78289'
+    type: a.k.a.
+    category: weak
+    last_name: GRK BYSTRINSKOYE
+address_list:
+  items:
+  - uid: '75961'
+    address1: d. 99g soor. 1, ul. Shilova
+    city: Chita
+    state_or_province: Zabaykalskiy kray
+    postal_code: '672038'
+    country: Russia
+id_list:
+  items:
+  - uid: '41809'
+    id_type: Registration Number
+    id_number: '1047796898600'
+    id_country: Russia
+  - uid: '41810'
+    id_type: Tax ID No.
+    id_number: '7701568891'
+    id_country: Russia
+  - uid: '178089'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

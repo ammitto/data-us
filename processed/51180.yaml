@@ -1,0 +1,33 @@
+---
+uid: '51180'
+last_name: LIMITED LIABILITY COMPANY INTER PODSHIPNIK GROUP
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80242'
+    type: a.k.a.
+    category: weak
+    last_name: IPG OOO
+address_list:
+  items:
+  - uid: '77811'
+    address1: d. 13 k. B, ul. Initsiativnaya
+    city: Ufa
+    postal_code: '450032'
+    country: Russia
+id_list:
+  items:
+  - uid: '43332'
+    id_type: Registration Number
+    id_number: '1180280048673'
+    id_country: Russia
+  - uid: '43333'
+    id_type: Tax ID No.
+    id_number: '0277930574'
+    id_country: Russia
+  - uid: '180268'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,59 @@
+---
+uid: '16809'
+last_name: AQUANIKA
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13661
+aka_list:
+  items:
+  - uid: '25628'
+    type: a.k.a.
+    category: strong
+    last_name: AQUANIKA LLC
+  - uid: '25629'
+    type: a.k.a.
+    category: strong
+    last_name: RUSSKOYE VREMYA LLC
+  - uid: '25630'
+    type: a.k.a.
+    category: strong
+    last_name: LLC RUSSKOYE VREMYA
+  - uid: '25631'
+    type: a.k.a.
+    category: strong
+    last_name: RUSSKOE VREMYA OOO
+  - uid: '25632'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU RUSSKOE VREMYA
+address_list:
+  items:
+  - uid: '25435'
+    address1: 47A, Sevastopolskiy Ave., of. 304
+    city: Moscow
+    postal_code: '117186'
+    country: Russia
+  - uid: '25436'
+    address1: 1/2 Rodnikovaya ul., Savasleika s., Kulebakski raion
+    state_or_province: Nizhegorodskaya oblast
+    postal_code: '607007'
+    country: Russia
+id_list:
+  items:
+  - uid: '9320'
+    id_type: Registration ID
+    id_number: '1075247000036'
+  - uid: '143511'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '115412'
+    id_type: Website
+    id_number: http://www.aquanika.com
+  - uid: '115413'
+    id_type: Website
+    id_number: http://aquanikacompany.ru
+  - uid: '115411'
+    id_type: Email Address
+    id_number: office@aquanika.com

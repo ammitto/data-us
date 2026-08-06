@@ -1,0 +1,41 @@
+---
+uid: '16906'
+last_name: LEADING EDGE SOURCING CORPORATION
+sdn_type: Entity
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '25826'
+    type: a.k.a.
+    category: strong
+    last_name: SOURCE1WELLNESS
+address_list:
+  items:
+  - uid: '25594'
+    address1: Plaza 2000 Building
+    address2: 10th Floor
+    address3: Calle 50
+    city: Panama City
+    postal_code: '0834-1987'
+    country: Panama
+  - uid: '25595'
+    address1: P.O. Box 831
+    address2: 34 Hudson Bay Avenue
+    city: Kirkland Lake
+    state_or_province: Ontario
+    postal_code: P2N 1Z3
+    country: Canada
+id_list:
+  items:
+  - uid: '9392'
+    id_type: 'RUC #'
+    id_number: '22565211782546'
+    id_country: Panama
+  - uid: '115556'
+    id_type: Website
+    id_number: http://lescpanama.com
+  - uid: '115557'
+    id_type: Website
+    id_number: http://www.sourceonewellness.com

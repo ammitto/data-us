@@ -1,0 +1,51 @@
+---
+uid: '23550'
+first_name: Pavel Vladimirovich
+last_name: MALGIN
+sdn_type: Individual
+program_list:
+  programs:
+  - UKRAINE-EO13660
+aka_list:
+  items:
+  - uid: '37100'
+    type: a.k.a.
+    category: strong
+    last_name: MALGIN
+    first_name: Pavlo Volodymirovich
+  - uid: '37101'
+    type: a.k.a.
+    category: strong
+    last_name: MALHIN
+    first_name: Pavlo
+address_list:
+  items:
+  - uid: '35600'
+    address1: Quarter Koshevogo 37
+    address2: Apt. 28
+    city: Molodogvardeysk
+    country: Ukraine
+  - uid: '35601'
+    address1: Lenin Street 3
+    address2: Apt. 1
+    city: Sorokino Krasnodon
+    country: Ukraine
+id_list:
+  items:
+  - uid: '144007'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '125390'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '25388'
+    date_of_birth: 30 Mar 1968
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '25389'
+    place_of_birth: Krasnodon, Ukraine
+    main_entry: 'true'

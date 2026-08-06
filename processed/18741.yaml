@@ -1,0 +1,58 @@
+---
+uid: '18741'
+last_name: AUCTION LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '29415'
+    type: a.k.a.
+    category: strong
+    last_name: LLC AUKCION
+  - uid: '29416'
+    type: a.k.a.
+    category: strong
+    last_name: AUKTSION OOO
+  - uid: '29417'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU AUKTSION
+  - uid: '29418'
+    type: a.k.a.
+    category: strong
+    last_name: AUKCION LIMITED LIABILITY COMPANY
+address_list:
+  items:
+  - uid: '28487'
+    address1: d.14 shosse Entuziastov
+    city: Moscow
+    postal_code: '111024'
+    country: Russia
+  - uid: '54752'
+    address1: Room 12, room IB, ground floor, 32 Leninsky Ave
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '10993'
+    id_type: Registration ID
+    id_number: '1027700256297'
+    id_country: Russia
+  - uid: '173897'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '118426'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 1
+  - uid: '118179'
+    id_type: Website
+    id_number: www.aukcion-sbrf.ru
+  - uid: '151127'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+remarks: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)'

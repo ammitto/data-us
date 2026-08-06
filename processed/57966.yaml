@@ -1,0 +1,45 @@
+---
+uid: '57966'
+first_name: Marcial Apolinar
+last_name: DIAZ ROBLES
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+aka_list:
+  items:
+  - uid: '89650'
+    type: a.k.a.
+    category: weak
+    last_name: ROBLES, Polo
+address_list:
+  items:
+  - uid: '88952'
+    city: Guadalajara
+    state_or_province: Jalisco
+    country: Mexico
+id_list:
+  items:
+  - uid: '52485'
+    id_type: C.U.R.P.
+    id_number: DIRM880826HJCZBR05
+    id_country: Mexico
+  - uid: '198811'
+    id_type: Gender
+    id_number: Male
+  - uid: '198813'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '98809'
+    date_of_birth: 26 Aug 1988
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '98810'
+    place_of_birth: Jalisco, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: CARTEL DE JALISCO NUEVA GENERACION)"

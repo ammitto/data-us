@@ -1,0 +1,47 @@
+---
+uid: '31575'
+first_name: Leonid Kronidovich
+last_name: RYZHENKIN
+sdn_type: Individual
+program_list:
+  programs:
+  - UKRAINE-EO13685
+aka_list:
+  items:
+  - uid: '49583'
+    type: a.k.a.
+    category: strong
+    last_name: RYZHENKIN
+    first_name: Leonid
+  - uid: '49584'
+    type: a.k.a.
+    category: strong
+    last_name: RIZHENKIN
+    first_name: Leonid
+address_list:
+  items:
+  - uid: '47592'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '21459'
+    id_type: Passport
+    id_number: '722706177'
+  - uid: '140074'
+    id_type: Gender
+    id_number: Male
+  - uid: '144153'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+date_of_birth_list:
+  items:
+  - uid: '40072'
+    date_of_birth: 10 Nov 1967
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '40073'
+    place_of_birth: St. Petersburg, Russia
+    main_entry: 'true'

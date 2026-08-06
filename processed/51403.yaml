@@ -1,0 +1,50 @@
+---
+uid: '51403'
+last_name: DRAGON SECURE GMBH
+sdn_type: Entity
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '80603'
+    type: a.k.a.
+    category: weak
+    last_name: KRADEN
+  - uid: '80604'
+    type: a.k.a.
+    category: weak
+    last_name: SKYDA
+address_list:
+  items:
+  - uid: '78282'
+    address1: Banhofstrasse 20
+    city: Zug
+    postal_code: '6300'
+    country: Switzerland
+id_list:
+  items:
+  - uid: '43722'
+    id_type: Registration Number
+    id_number: CH-170.4.019.396-6
+    id_country: Switzerland
+  - uid: '43723'
+    id_type: Tax ID No.
+    id_number: '280091217'
+    id_country: Switzerland
+  - uid: '180870'
+    id_type: Organization Established Date
+    id_number: 03 Mar 2022
+  - uid: '180871'
+    id_type: 'Organization Type:'
+    id_number: Computer programming activities
+  - uid: '180872'
+    id_type: 'Organization Type:'
+    id_number: Wireless telecommunications activities
+  - uid: '180868'
+    id_type: Website
+    id_number: www.kraden.com
+  - uid: '180869'
+    id_type: Website
+    id_number: Skyda.co
+remarks: "(Linked To: KARPAVICIUS, Rokas)"

@@ -1,0 +1,37 @@
+---
+uid: '44993'
+last_name: LIMITED LIABILITY COMPANY POLYARNAYA ENERGETICHESKAYA KOMPANIYA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69660'
+    type: a.k.a.
+    category: weak
+    last_name: OOO PEK
+address_list:
+  items:
+  - uid: '66969'
+    address1: Usovo Village
+    address2: Building 100, Block B
+    address3: Floor 2, Suite 5
+    city: Odintsovo
+    state_or_province: Moscow Region
+    postal_code: '143084'
+    country: Russia
+id_list:
+  items:
+  - uid: '34651'
+    id_type: Registration Number
+    id_number: '1155032010100'
+    id_country: Russia
+  - uid: '34652'
+    id_type: Tax ID No.
+    id_number: '5032216273'
+    id_country: Russia
+  - uid: '175876'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: UNITED ARCTIC COMPANY LLC)"

@@ -1,0 +1,41 @@
+---
+uid: '40600'
+first_name: Naser
+last_name: RASHEDI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+address_list:
+  items:
+  - uid: '60508'
+    country: Iran
+id_list:
+  items:
+  - uid: '29759'
+    id_type: National ID No.
+    id_number: '2002442320'
+    id_country: Iran
+  - uid: '29760'
+    id_type: Passport
+    id_number: W35402984
+    id_country: Iran
+    expiration_date: 31 Oct 2020
+  - uid: '157913'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '157882'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '57879'
+    date_of_birth: 30 Mar 1961
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '57880'
+    place_of_birth: Dezful, Iran
+    main_entry: 'true'
+remarks: "(Linked To: IRANIAN MINISTRY OF INTELLIGENCE AND SECURITY)"
+title: Iranian Ministry of Intelligence and Security Deputy Minister for Intelligence

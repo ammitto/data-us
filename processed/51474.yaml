@@ -1,0 +1,36 @@
+---
+uid: '51474'
+last_name: TSENTR UCHETA I REGISTRATSII
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80724'
+    type: a.k.a.
+    category: weak
+    last_name: TSUR
+address_list:
+  items:
+  - uid: '78436'
+    address1: Pl. Rastrelli D. 2, Str. 1, Pomeshch. 3-N, Kom. 2.58
+    city: Saint Petersburg
+    postal_code: '191124'
+    country: Russia
+id_list:
+  items:
+  - uid: '43841'
+    id_type: Registration Number
+    id_number: '1147847198806'
+    id_country: Russia
+  - uid: '43842'
+    id_type: Tax ID No.
+    id_number: '7842521215'
+    id_country: Russia
+  - uid: '181014'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '182835'
+    id_type: Target Type
+    id_number: Financial Institution

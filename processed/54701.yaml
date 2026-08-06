@@ -1,0 +1,52 @@
+---
+uid: '54701'
+first_name: Edgar Valeriano
+last_name: OROZCO CABADAS
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+aka_list:
+  items:
+  - uid: '85140'
+    type: a.k.a.
+    category: strong
+    last_name: CABADAS TORRES
+    first_name: Edgar
+  - uid: '85141'
+    type: a.k.a.
+    category: weak
+    last_name: El Kamoni
+  - uid: '85145'
+    type: a.k.a.
+    category: weak
+    last_name: El 50
+address_list:
+  items:
+  - uid: '83557'
+    country: Mexico
+id_list:
+  items:
+  - uid: '48408'
+    id_type: C.U.R.P.
+    id_number: OOCE851021HMNRBD04
+    id_country: Mexico
+  - uid: '191017'
+    id_type: Gender
+    id_number: Male
+  - uid: '191026'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '91015'
+    date_of_birth: 21 Oct 1985
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '91016'
+    place_of_birth: Michoacan, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: CARTELES UNIDOS)"

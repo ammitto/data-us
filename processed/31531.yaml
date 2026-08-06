@@ -1,0 +1,40 @@
+---
+uid: '31531'
+first_name: Leonardo Ovidio
+last_name: REYES RAMIREZ
+sdn_type: Individual
+program_list:
+  programs:
+  - NICARAGUA
+address_list:
+  items:
+  - uid: '47562'
+    address1: Villa Fontana, Club Terraza 2 C, Oeste, 1 C, Sur 25 VRS, Oeste Casa
+      137
+    city: Managua
+    country: Nicaragua
+id_list:
+  items:
+  - uid: '21433'
+    id_type: Passport
+    id_number: A00000794
+    id_country: Nicaragua
+    issue_date: 28 Mar 2014
+    expiration_date: 28 Mar 2024
+  - uid: '21614'
+    id_type: National ID No.
+    id_number: '0810304650001P'
+    id_country: Nicaragua
+  - uid: '140040'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '40180'
+    date_of_birth: 03 Apr 1965
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '40043'
+    place_of_birth: Chinandega, Nicaragua
+    main_entry: 'true'

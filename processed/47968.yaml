@@ -1,0 +1,27 @@
+---
+uid: '47968'
+last_name: JOINT STOCK COMPANY START
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '71852'
+    address1: 2 Volgogradskiy Avenue
+    city: Moscow
+    postal_code: '109316'
+    country: Russia
+id_list:
+  items:
+  - uid: '38802'
+    id_type: Tax ID No.
+    id_number: '9709079487'
+    id_country: Russia
+  - uid: '38803'
+    id_type: Registration Number
+    id_number: '1227700191663'
+    id_country: Russia
+  - uid: '176566'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

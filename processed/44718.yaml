@@ -1,0 +1,80 @@
+---
+uid: '44718'
+first_name: Roman
+last_name: SEMENOV
+sdn_type: Individual
+program_list:
+  programs:
+  - DPRK3
+aka_list:
+  items:
+  - uid: '69131'
+    type: a.k.a.
+    category: weak
+    last_name: ROMA
+  - uid: '69132'
+    type: a.k.a.
+    category: weak
+    last_name: POMA
+address_list:
+  items:
+  - uid: '66548'
+    city: Dubai
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '34238'
+    id_type: Passport
+    id_number: '731969851'
+    id_country: Russia
+  - uid: '164891'
+    id_type: Gender
+    id_number: Male
+  - uid: '164899'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '164882'
+    id_type: Digital Currency Address - ETH
+    id_number: '0xdcbEfFBECcE100cCE9E4b153C4e15cB885643193'
+  - uid: '164883'
+    id_type: Digital Currency Address - ETH
+    id_number: '0x5f48c2a71b2cc96e3f0ccae4e39318ff0dc375b2'
+  - uid: '164884'
+    id_type: Digital Currency Address - ETH
+    id_number: '0x5a7a51bfb49f190e5a6060a5bc6052ac14a3b59f'
+  - uid: '164885'
+    id_type: Digital Currency Address - ETH
+    id_number: '0xed6e0a7e4ac94d976eebfb82ccf777a3c6bad921'
+  - uid: '164886'
+    id_type: Digital Currency Address - ETH
+    id_number: '0x797d7ae72ebddcdea2a346c1834e04d1f8df102b'
+  - uid: '164887'
+    id_type: Digital Currency Address - ETH
+    id_number: '0x931546D9e66836AbF687d2bc64B30407bAc8C568'
+  - uid: '164888'
+    id_type: Digital Currency Address - ETH
+    id_number: '0x43fa21d92141BA9db43052492E0DeEE5aa5f0A93'
+  - uid: '164889'
+    id_type: Digital Currency Address - ETH
+    id_number: '0x6be0ae71e6c41f2f9d0d1a3b8d0f75e6f6a0b46e'
+  - uid: '164898'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '164893'
+    id_type: Email Address
+    id_number: semenov.roma@gmail.com
+  - uid: '164894'
+    id_type: Email Address
+    id_number: semenovroma@gmail.com
+  - uid: '164895'
+    id_type: Email Address
+    id_number: semenov.roman@mail.ru
+  - uid: '164896'
+    id_type: Email Address
+    id_number: poma@tornado.cash
+date_of_birth_list:
+  items:
+  - uid: '64892'
+    date_of_birth: '08 Nov 1987'
+    main_entry: 'true'

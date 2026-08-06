@@ -1,0 +1,36 @@
+---
+uid: '48609'
+last_name: LEDA LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75578'
+    type: a.k.a.
+    category: weak
+    last_name: LLC LEDA
+address_list:
+  items:
+  - uid: '72983'
+    address1: Ul. Gorbunova D. 2, Str. 3, Pomeshch. 31/2
+    city: Moscow
+    postal_code: '121596'
+    country: Russia
+id_list:
+  items:
+  - uid: '39576'
+    id_type: Tax ID No.
+    id_number: '7731466061'
+    id_country: Russia
+  - uid: '39577'
+    id_type: Registration Number
+    id_number: '1147746159549'
+    id_country: Russia
+  - uid: '176622'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '170914'
+    id_type: Organization Established Date
+    id_number: 21 Feb 2014

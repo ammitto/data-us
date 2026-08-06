@@ -1,0 +1,39 @@
+---
+uid: '18299'
+last_name: ROSNEFT TRADING S.A.
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13662
+  - VENEZUELA-EO13850
+address_list:
+  items:
+  - uid: '27696'
+    address1: Rue Place du Lac 2, 1204
+    city: Geneva
+    country: Switzerland
+id_list:
+  items:
+  - uid: '18874'
+    id_type: Tax ID No.
+    id_number: CHE-309.842.573
+    id_country: Switzerland
+  - uid: '18875'
+    id_type: Registration Number
+    id_number: CH-660.0.257.011-8
+    id_country: Switzerland
+  - uid: '143735'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '117581'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 2
+  - uid: '117641'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 4
+  - uid: '117555'
+    id_type: Website
+    id_number: www.rosneft.com
+remarks: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: OPEN JOINT-STOCK COMPANY ROSNEFT OIL COMPANY)'

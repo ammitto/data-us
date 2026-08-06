@@ -1,0 +1,39 @@
+---
+uid: '29792'
+last_name: NATIONAL IRANIAN OIL REFINING AND DISTRIBUTION COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+  - IFSR
+aka_list:
+  items:
+  - uid: '46666'
+    type: a.k.a.
+    category: strong
+    last_name: NIORDC
+address_list:
+  items:
+  - uid: '44849'
+    address1: 4 Varsho Street
+    city: Tehran
+    country: Iran
+  - uid: '44850'
+    address1: P.O. Box 15815/3499
+    address2: No. 4 Varsho Street
+    address3: '1598666611'
+    country: Iran
+id_list:
+  items:
+  - uid: '19915'
+    id_type: National ID No.
+    id_number: '89152'
+    id_country: Iran
+  - uid: '137414'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '187285'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: "(Linked To: MINISTRY OF PETROLEUM)"

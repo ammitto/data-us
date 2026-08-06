@@ -1,0 +1,34 @@
+---
+uid: '46734'
+last_name: LIMITED LIABILITY COMPANY VMK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '72154'
+    type: a.k.a.
+    category: strong
+    last_name: VMK OOO SAMARA
+address_list:
+  items:
+  - uid: '69632'
+    address1: 1A Smyshlyayevskoye Highway
+    address2: Office 258
+    address3: Zubchaninovka village
+    city: Samara
+    country: Russia
+id_list:
+  items:
+  - uid: '36793'
+    id_type: Registration Number
+    id_number: '1126312007800'
+    id_country: Russia
+  - uid: '36794'
+    id_type: Tax ID No.
+    id_number: '6312121234'
+    id_country: Russia
+  - uid: '176265'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

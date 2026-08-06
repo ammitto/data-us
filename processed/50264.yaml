@@ -1,0 +1,48 @@
+---
+uid: '50264'
+last_name: RUSSIAN ACADEMY OF SCIENCES SIBERIAN BRANCH KHRISTIANOVICH INSTITUTE OF
+  THEORETICAL AND APPLIED MECHANICS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78499'
+    type: a.k.a.
+    category: strong
+    last_name: FEDERALNOE GOSUDARSTVENNOE BIUDZHETNOE UCHREZHDENIE NAUKI INSTITUT
+      TEORETICHESKOI I PRIKLADNOI MEKHANIKI IM SA KHRISTIANOVICHA SIBIRSKOGO OTDELENIIA
+      ROSSIISKOI AKADEMII NAUK
+  - uid: '78500'
+    type: a.k.a.
+    category: strong
+    last_name: ITAM SB RAS
+  - uid: '78501'
+    type: a.k.a.
+    category: strong
+    last_name: ITPM SO RAN
+address_list:
+  items:
+  - uid: '76116'
+    address1: 4/1 Institutskaya ul.
+    city: Novosibirsk
+    postal_code: '630090'
+    country: Russia
+  - uid: '76117'
+    address1: 74 Taimyrskaia ul.
+    city: Tyumen
+    country: Russia
+id_list:
+  items:
+  - uid: '41941'
+    id_type: Registration Number
+    id_number: '1025403641900'
+    id_country: Russia
+  - uid: '41942'
+    id_type: Tax ID No.
+    id_number: '5408100018'
+    id_country: Russia
+  - uid: '177953'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

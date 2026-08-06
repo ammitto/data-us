@@ -1,0 +1,58 @@
+---
+uid: '18779'
+last_name: JOINT STOCK COMPANY SHVABE
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13662
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59276'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO SHVABE
+  - uid: '59277'
+    type: a.k.a.
+    category: strong
+    last_name: AO SHVABE
+  - uid: '59278'
+    type: f.k.a.
+    category: strong
+    last_name: SHVABE PAO
+address_list:
+  items:
+  - uid: '56525'
+    address1: 176, Prospekt Mira
+    city: Moscow
+    postal_code: '129366'
+    country: Russia
+id_list:
+  items:
+  - uid: '11047'
+    id_type: Registration ID
+    id_number: '1107746256727'
+    id_country: Russia
+  - uid: '11048'
+    id_type: Government Gazette Number
+    id_number: '07508641'
+    id_country: Russia
+  - uid: '11049'
+    id_type: Tax ID No.
+    id_number: '7717671799'
+    id_country: Russia
+  - uid: '118258'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 3
+  - uid: '152758'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
+  - uid: '173909'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '143549'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+remarks: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: STATE CORPORATION ROSTEC)'

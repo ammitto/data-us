@@ -1,0 +1,37 @@
+---
+uid: '43250'
+last_name: LIMITED LIABILITY COMPANY SANATORIY IM. M.V.FRUNZE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '67052'
+    type: a.k.a.
+    category: strong
+    last_name: SANATORI IM. M.V.FRUNZE OOO
+address_list:
+  items:
+  - uid: '64548'
+    address1: 87 Kurortnyy Avenue
+    city: Sochi
+    state_or_province: Krasnodar Region
+    country: Russia
+id_list:
+  items:
+  - uid: '32808'
+    id_type: Tax ID No.
+    id_number: '2319057693'
+    id_country: Russia
+  - uid: '32809'
+    id_type: Registration Number
+    id_number: '1142367014723'
+    id_country: Russia
+  - uid: '175666'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '162437'
+    id_type: Organization Established Date
+    id_number: 03 Dec 2014
+remarks: "(Linked To: KESAEV, Igor Albertovich)"

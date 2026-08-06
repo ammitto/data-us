@@ -1,0 +1,44 @@
+---
+uid: '24522'
+last_name: TRIGRON LOJISTIK KARGO LIMITED SIRKETI
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - SDGT
+aka_list:
+  items:
+  - uid: '38676'
+    type: a.k.a.
+    category: strong
+    last_name: TRIGRON CARGO LOGISTICS LTD.
+  - uid: '38677'
+    type: a.k.a.
+    category: strong
+    last_name: TRIGRON KARGO LOJISTIK
+  - uid: '38678'
+    type: a.k.a.
+    category: strong
+    last_name: TRIGRON KARGO
+address_list:
+  items:
+  - uid: '37022'
+    address1: 'Airport Hill Sitesi C Blok D. 6, NO: 11-D, Degirmenbahce Caddesi 11-D-C
+      Blok, Bahcelievler'
+    city: Istanbul
+    postal_code: '34180'
+    country: Turkey
+id_list:
+  items:
+  - uid: '15637'
+    id_type: 'Business Registration Document #'
+    id_number: '846711'
+    id_country: Turkey
+  - uid: '187173'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '127044'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: MAHAN AIR; Linked To: YEGANE, Gulnihal)"

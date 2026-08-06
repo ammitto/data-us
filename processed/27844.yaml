@@ -1,0 +1,53 @@
+---
+uid: '27844'
+first_name: Ebrahim
+last_name: RAISI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13876
+aka_list:
+  items:
+  - uid: '43893'
+    type: a.k.a.
+    category: strong
+    last_name: RA'EESI
+    first_name: Sayyid Ibrahim
+  - uid: '43894'
+    type: a.k.a.
+    category: strong
+    last_name: RAISOL-SADATI
+    first_name: Seyyid Ebrahim
+  - uid: '43895'
+    type: a.k.a.
+    category: strong
+    last_name: RAIS-O-SADAT
+    first_name: Sayyid Ebrahim
+address_list:
+  items:
+  - uid: '42154'
+    country: Iran
+id_list:
+  items:
+  - uid: '133101'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '133065'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '33066'
+    date_of_birth: 14 Dec 1960
+    main_entry: 'true'
+  - uid: '33067'
+    date_of_birth: Nov 1960
+    main_entry: 'false'
+  - uid: '33068'
+    date_of_birth: Dec 1960
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '33069'
+    place_of_birth: Masshad, Iran
+    main_entry: 'true'

@@ -1,0 +1,33 @@
+---
+uid: '49239'
+last_name: ARMORGRUPP
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76769'
+    type: a.k.a.
+    category: strong
+    last_name: ARMOUR GROUP
+address_list:
+  items:
+  - uid: '74145'
+    address1: ul. Fedoseenko D.81 KV.13
+    city: Nizhniy Novgorod
+    postal_code: '603101'
+    country: Russia
+id_list:
+  items:
+  - uid: '40425'
+    id_type: Registration Number
+    id_number: '1065263037597'
+    id_country: Russia
+  - uid: '40426'
+    id_type: Tax ID No.
+    id_number: '5263056732'
+    id_country: Russia
+  - uid: '172217'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

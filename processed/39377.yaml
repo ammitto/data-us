@@ -1,0 +1,55 @@
+---
+uid: '39377'
+first_name: Johnny
+last_name: HURTADO OLASCOAGA
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+aka_list:
+  items:
+  - uid: '61449'
+    type: a.k.a.
+    category: weak
+    last_name: EL PESCADO
+  - uid: '61450'
+    type: a.k.a.
+    category: weak
+    last_name: EL MOJARRO
+  - uid: '61452'
+    type: a.k.a.
+    category: weak
+    last_name: EL MUHADO
+  - uid: '61453'
+    type: a.k.a.
+    category: weak
+    last_name: EL PEZ
+address_list:
+  items:
+  - uid: '59463'
+    country: Mexico
+id_list:
+  items:
+  - uid: '28556'
+    id_type: C.U.R.P.
+    id_number: HUOJ730301HGRRLH02
+    id_country: Mexico
+  - uid: '188826'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '155368'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '55360'
+    date_of_birth: 01 Mar 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '55365'
+    place_of_birth: Guerrero, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: LA NUEVA FAMILIA MICHOACANA)"

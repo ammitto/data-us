@@ -1,0 +1,34 @@
+---
+uid: '56933'
+last_name: BRILLIANCE MARITIME VENTURES S.A.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '87142'
+    address1: 21st Floor, Global Plaza Building, Calle 50
+    city: Panama City
+    country: Panama
+id_list:
+  items:
+  - uid: '51087'
+    id_type: Identification Number
+    id_number: IMO 6402222
+  - uid: '51088'
+    id_type: 'RUC #'
+    id_number: 155736037-2-2023
+    id_country: Panama
+  - uid: '196018'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '196039'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
+      Sanctions Regulations
+  - uid: '196043'
+    id_type: Organization Established Date
+    id_number: 13 Apr 2023
+remarks: "(Linked To: HIZBALLAH)"

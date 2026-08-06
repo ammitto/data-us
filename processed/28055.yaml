@@ -1,0 +1,32 @@
+---
+uid: '28055'
+first_name: Marian
+last_name: KOCNER
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+address_list:
+  items:
+  - uid: '42456'
+    country: Slovakia
+id_list:
+  items:
+  - uid: '18574'
+    id_type: Passport
+    id_number: '4305176196'
+    id_country: Slovakia
+    expiration_date: 31 Mar 2025
+  - uid: '133388'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '33385'
+    date_of_birth: 17 May 1963
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '33386'
+    place_of_birth: Ruzomberok, Slovakia
+    main_entry: 'true'

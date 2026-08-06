@@ -1,0 +1,29 @@
+---
+uid: '18128'
+last_name: HOTELITO DESCONOCIDO
+sdn_type: Entity
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '27448'
+    address1: Playon de Mismaloya s/n
+    address2: La Cruz de Loreto
+    city: Tomatlan
+    state_or_province: Jalisco
+    postal_code: '48460'
+    country: Mexico
+  - uid: '27450'
+    address1: 'Blvd. Puerta de Hierro # 5210'
+    address2: Piso 8
+    address3: Col. Puerta de Hierro
+    city: Zapopan
+    state_or_province: Jalisco
+    postal_code: '45116'
+    country: Mexico
+id_list:
+  items:
+  - uid: '117316'
+    id_type: Website
+    id_number: www.hotelito.com

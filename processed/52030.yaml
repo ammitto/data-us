@@ -1,0 +1,38 @@
+---
+uid: '52030'
+last_name: LIMITED LIABILITY COMPANY REMONTNO PROIZVODSTVENNAYA BAZA KOLMAR
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '81459'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY REPAIR AND PRODUCTION BASE KOLMAR
+  - uid: '81460'
+    type: a.k.a.
+    category: weak
+    last_name: LLC RPBK
+address_list:
+  items:
+  - uid: '79339'
+    address1: ul. Sovetskaya 70, pos.
+    city: Chulman
+    postal_code: '678981'
+    country: Russia
+id_list:
+  items:
+  - uid: '44851'
+    id_type: Registration Number
+    id_number: '1181447004991'
+    id_country: Russia
+  - uid: '44852'
+    id_type: Tax ID No.
+    id_number: '1434050856'
+    id_country: Russia
+  - uid: '182691'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: JOINT STOCK COMPANY MINING AND COAL PREPARATION COMPLEX DENISOVSKIY)"

@@ -1,0 +1,28 @@
+---
+uid: '47867'
+last_name: LIMITED LIABILITY COMPANY DATA 51
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '71649'
+    address1: 22 Lenina Street, Floor 3, Office 313/2
+    city: Apatity
+    postal_code: '184209'
+    country: Russia
+id_list:
+  items:
+  - uid: '38617'
+    id_type: Tax ID No.
+    id_number: '5118004778'
+    id_country: Russia
+  - uid: '38619'
+    id_type: Registration Number
+    id_number: '1205100002425'
+    id_country: Russia
+  - uid: '176500'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: LIMITED LIABILITY COMPANY HYPERSPACE)"

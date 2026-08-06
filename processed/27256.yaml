@@ -1,0 +1,79 @@
+---
+uid: '27256'
+first_name: Zaher
+last_name: JABARIN
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '43146'
+    type: a.k.a.
+    category: strong
+    last_name: JABBAREEN
+    first_name: Zahir Ali Mousa
+  - uid: '43149'
+    type: a.k.a.
+    category: strong
+    last_name: JABARIN
+    first_name: Zaher Ali Mousa
+  - uid: '43150'
+    type: a.k.a.
+    category: strong
+    last_name: JABARIN
+    first_name: Zahir
+  - uid: '43151'
+    type: a.k.a.
+    category: strong
+    last_name: JABARIN
+    first_name: Zahar
+  - uid: '43366'
+    type: a.k.a.
+    category: strong
+    last_name: JIBRIL
+    first_name: Zaher Ali Mousa
+address_list:
+  items:
+  - uid: '41437'
+    country: Iran
+  - uid: '41439'
+    country: Turkey
+id_list:
+  items:
+  - uid: '17860'
+    id_type: Passport
+    id_number: '2987250'
+    id_country: Palestinian
+  - uid: '17861'
+    id_type: Identification Number
+    id_number: '904121555'
+    id_country: Palestinian
+  - uid: '17862'
+    id_type: Passport
+    id_number: '26899900360'
+    id_country: Qatar
+  - uid: '132264'
+    id_type: Gender
+    id_number: Male
+  - uid: '186933'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '32258'
+    date_of_birth: 11 Sep 1968
+    main_entry: 'true'
+  - uid: '32259'
+    date_of_birth: '09 Nov 1968'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '32260'
+    place_of_birth: Salfit, West Bank, Palestinian
+    main_entry: 'true'
+  - uid: '32262'
+    place_of_birth: Nablus, West Bank, Palestinian
+    main_entry: 'false'
+remarks: "(Linked To: HAMAS)"

@@ -1,0 +1,46 @@
+---
+uid: '24283'
+first_name: Oleg Vladimirovich
+last_name: DERIPASKA
+sdn_type: Individual
+program_list:
+  programs:
+  - UKRAINE-EO13661
+  - UKRAINE-EO13662
+address_list:
+  items:
+  - uid: '36669'
+    city: Moscow
+    country: Russia
+  - uid: '36670'
+    address1: 64 Severnaya Street, Oktyabrsky
+    address2: Khutor, Ust-Labinsky District
+    address3: Krasnodar Territory
+    postal_code: '352332'
+    country: Russia
+  - uid: '36671'
+    address1: '5'
+    address2: Belgrave Square
+    address3: Belgravia
+    city: London
+    postal_code: SW1X 8PH
+    country: United Kingdom
+id_list:
+  items:
+  - uid: '126434'
+    id_type: Gender
+    id_number: Male
+  - uid: '144107'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+date_of_birth_list:
+  items:
+  - uid: '26432'
+    date_of_birth: 02 Jan 1968
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '26433'
+    place_of_birth: Dzerzhinsk, Nizhny Novgorod Region, Russia
+    main_entry: 'true'

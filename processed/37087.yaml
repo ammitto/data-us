@@ -1,0 +1,37 @@
+---
+uid: '37087'
+last_name: SOLAR-INVEST LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - CYBER2
+aka_list:
+  items:
+  - uid: '76318'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTENNOSTYU SOLAR-INVEST
+address_list:
+  items:
+  - uid: '55530'
+    address1: Ul. Usacheva D. 29, K. 9, pom. IV, Komn. 16
+    city: Moscow
+    postal_code: '119048'
+    country: Russia
+id_list:
+  items:
+  - uid: '26416'
+    id_type: Tax ID No.
+    id_number: '9704025618'
+    id_country: Russia
+  - uid: '26417'
+    id_type: Registration Number
+    id_number: '1207700271701'
+    id_country: Russia
+  - uid: '179036'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '171768'
+    id_type: Organization Established Date
+    id_number: 04 Aug 2020

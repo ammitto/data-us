@@ -1,0 +1,48 @@
+---
+uid: '21406'
+first_name: Ahmad
+last_name: HASAN YUSUF
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '34008'
+    type: a.k.a.
+    category: weak
+    last_name: ABU-MARYAM
+  - uid: '34009'
+    type: a.k.a.
+    category: strong
+    last_name: HASSAN NASIR AL ZUBAYDI
+    first_name: Sajjad
+address_list:
+  items:
+  - uid: '32573'
+    country: Iran
+id_list:
+  items:
+  - uid: '186606'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '122281'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '22279'
+    date_of_birth: 07 Jan 1986
+    main_entry: 'false'
+  - uid: '22296'
+    date_of_birth: 17 Mar 1986
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '22280'
+    place_of_birth: Baghdad, Iraq
+    main_entry: 'false'
+  - uid: '22297'
+    place_of_birth: Sitra, Bahrain
+    main_entry: 'true'

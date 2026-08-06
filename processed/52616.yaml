@@ -1,0 +1,47 @@
+---
+uid: '52616'
+first_name: Dmitrii Evgenevich
+last_name: VOITIKHOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '82388'
+    type: a.k.a.
+    category: strong
+    last_name: VOITOKHOV
+    first_name: Dmitri Evgenevich
+address_list:
+  items:
+  - uid: '80381'
+    address1: St. Z Kosmodemyanskoy, 56, APT. 2
+    city: Azov
+    country: Russia
+id_list:
+  items:
+  - uid: '45678'
+    id_type: Tax ID No.
+    id_number: '614003956676'
+    id_country: Russia
+  - uid: '45848'
+    id_type: National ID No.
+    id_number: '6017291768'
+    id_country: Russia
+  - uid: '45849'
+    id_type: National ID No.
+    id_number: '6005080892'
+    id_country: Russia
+  - uid: '184379'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184382'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '84380'
+    date_of_birth: 23 Nov 1983
+    main_entry: 'true'
+remarks: "(Linked To: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTIU SV POLIMER)"

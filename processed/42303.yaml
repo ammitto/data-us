@@ -1,0 +1,53 @@
+---
+uid: '42303'
+first_name: Mehdi
+last_name: KHOSHGHADAM
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+aka_list:
+  items:
+  - uid: '65714'
+    type: a.k.a.
+    category: strong
+    last_name: KHOSH GHADAM
+    first_name: Mehdi
+address_list:
+  items:
+  - uid: '63100'
+    address1: A-1-5, Cita Damansara, PJU 3/27, Sunway Damansara
+    city: Petaling Jaya
+    state_or_province: Selangor
+    postal_code: '47810'
+    country: Malaysia
+  - uid: '63308'
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '31800'
+    id_type: National ID No.
+    id_number: '0072155434'
+    id_country: Iran
+  - uid: '31811'
+    id_type: Passport
+    id_number: T19665422
+  - uid: '160924'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '160658'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '60651'
+    date_of_birth: 15 Dec 1983
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '60936'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: PARDAZAN SYSTEM NAMAD ARMAN)"

@@ -1,0 +1,43 @@
+---
+uid: '9397'
+first_name: Arturo
+last_name: HERNANDEZ MORENO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '11664'
+    address1: c/o DEL NORTES CARNES FINAS SAN IGNACIO S.A. DE C.V.
+    city: Chihuahua
+    country: Mexico
+  - uid: '11665'
+    address1: c/o INMOBILIARIA EL ESCORPION DEL NORTE S.A. DE C.V.
+    city: Chihuahua
+    country: Mexico
+  - uid: '11666'
+    address1: c/o INMOBILIARIA EL PRESON S.A. DE C.V.
+    city: Chihuahua
+    country: Mexico
+  - uid: '11667'
+    address1: Calle 16 No. 4016
+    city: Chihuahua
+    state_or_province: Chihuahua
+    country: Mexico
+id_list:
+  items:
+  - uid: '4046'
+    id_type: R.F.C.
+    id_number: HEMA-621127
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '4351'
+    date_of_birth: 27 Nov 1962
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '4352'
+    place_of_birth: Hidalgo Del Parral, Chihuaua, Mexico
+    main_entry: 'true'

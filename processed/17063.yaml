@@ -1,0 +1,43 @@
+---
+uid: '17063'
+first_name: Igor Olegovich
+last_name: SHCHEGOLEV
+sdn_type: Individual
+program_list:
+  programs:
+  - UKRAINE-EO13661
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '26206'
+    type: a.k.a.
+    category: strong
+    last_name: SHCHYOGOLEV
+    first_name: Igor Olegovich
+address_list:
+  items:
+  - uid: '54682'
+    country: Russia
+id_list:
+  items:
+  - uid: '150070'
+    id_type: Gender
+    id_number: Male
+  - uid: '173858'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '151193'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+date_of_birth_list:
+  items:
+  - uid: '15812'
+    date_of_birth: 10 Nov 1965
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '15814'
+    place_of_birth: Vinnytsia, Ukraine
+    main_entry: 'false'
+title: Aide to the President of the Russian Federation

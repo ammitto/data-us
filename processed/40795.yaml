@@ -1,0 +1,29 @@
+---
+uid: '40795'
+last_name: HERNANDEZ SALAS TRANSNATIONAL CRIMINAL ORGANIZATION
+sdn_type: Entity
+program_list:
+  programs:
+  - TCO
+aka_list:
+  items:
+  - uid: '63480'
+    type: a.k.a.
+    category: weak
+    last_name: HERNANDEZ SALAS TCO
+address_list:
+  items:
+  - uid: '60809'
+    city: Mexicali
+    country: Mexico
+  - uid: '60811'
+    city: Tijuana
+    country: Mexico
+id_list:
+  items:
+  - uid: '163288'
+    id_type: Organization Established Date
+    id_number: '2018'
+  - uid: '163399'
+    id_type: Target Type
+    id_number: Criminal Organization

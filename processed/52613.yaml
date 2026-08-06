@@ -1,0 +1,41 @@
+---
+uid: '52613'
+last_name: POPOV COMMUNICATIONS EQUIPMENT PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '82377'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO GORKOVSKII ZAVOD APPARATURY SVIAZI IM AS POPOVA
+  - uid: '82378'
+    type: a.k.a.
+    category: strong
+    last_name: AO GZAS IM AS POPOVA
+  - uid: '82379'
+    type: a.k.a.
+    category: weak
+    last_name: JSC GZAS
+address_list:
+  items:
+  - uid: '80376'
+    address1: 100 ul. Internatsionalnaia
+    city: Nizhny Novgorod
+    postal_code: '603002'
+    country: Russia
+id_list:
+  items:
+  - uid: '45672'
+    id_type: Registration Number
+    id_number: '1025202396790'
+    id_country: Russia
+  - uid: '45673'
+    id_type: Tax ID No.
+    id_number: '5257008145'
+    id_country: Russia
+  - uid: '184375'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

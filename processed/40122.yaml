@@ -1,0 +1,31 @@
+---
+uid: '40122'
+first_name: Anton Igorevich
+last_name: LOPATIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '59735'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '174801'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '156909'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '56907'
+    date_of_birth: 04 Sep 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '56908'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'

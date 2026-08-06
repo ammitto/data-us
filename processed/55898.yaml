@@ -1,0 +1,41 @@
+---
+uid: '55898'
+first_name: Wenlong
+last_name: GU
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13846
+address_list:
+  items:
+  - uid: '85557'
+    address1: Room 55-502, Hongquiaocun
+    city: Jiangyin City
+    state_or_province: Jiangsu
+    country: China
+id_list:
+  items:
+  - uid: '50043'
+    id_type: National ID No.
+    id_number: '320106196508271211'
+    id_country: China
+  - uid: '50044'
+    id_type: Passport
+    id_number: E23148922
+    id_country: China
+  - uid: '193997'
+    id_type: 'Executive Order 13846 information:'
+    id_number: BLOCKING PROPERTY AND INTERESTS IN PROPERTY.  Sec. 5(a)(iv)
+  - uid: '193874'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '93871'
+    date_of_birth: 27 Aug 1965
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '93872'
+    place_of_birth: Jiangyin, Jiangsu, China
+    main_entry: 'true'

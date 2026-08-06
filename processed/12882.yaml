@@ -1,0 +1,36 @@
+---
+uid: '12882'
+first_name: Amilcar Jesus
+last_name: FIGUEROA SALAZAR
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+aka_list:
+  items:
+  - uid: '14265'
+    type: a.k.a.
+    category: weak
+    last_name: TINO
+address_list:
+  items:
+  - uid: '51161'
+    country: Venezuela
+id_list:
+  items:
+  - uid: '7263'
+    id_type: Cedula No.
+    id_number: '3946770'
+    id_country: Venezuela
+  - uid: '7264'
+    id_type: Passport
+    id_number: 31-2006
+    id_country: Venezuela
+  - uid: '145282'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '8644'
+    date_of_birth: 10 Jul 1954
+    main_entry: 'true'

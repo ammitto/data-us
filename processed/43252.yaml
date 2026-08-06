@@ -1,0 +1,52 @@
+---
+uid: '43252'
+last_name: OPEN JOINT STOCK COMPANY SAMUSSKIY SUDOSTROITELNO SUDOREMONTNIY ZAVOD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '67056'
+    type: a.k.a.
+    category: strong
+    last_name: OAO SAMUSSKI SUDOSTROITELNO SUDOREMONTNY ZAVOD
+  - uid: '67057'
+    type: a.k.a.
+    category: strong
+    last_name: SAMUSSKY SSRZ
+  - uid: '67058'
+    type: a.k.a.
+    category: strong
+    last_name: SAMUS SHIPBUILDING AND REPAIR YARD
+  - uid: '67059'
+    type: a.k.a.
+    category: strong
+    last_name: SAMUS SHIPYARD
+address_list:
+  items:
+  - uid: '64552'
+    address1: P. Samus, Street Lenina, D. 21
+    city: Seversk
+    state_or_province: Tomsk Oblast
+    postal_code: '634501'
+    country: Russia
+id_list:
+  items:
+  - uid: '32811'
+    id_type: Tax ID No.
+    id_number: '7014000324'
+    id_country: Russia
+  - uid: '32812'
+    id_type: Registration Number
+    id_number: '1027001684071'
+    id_country: Russia
+  - uid: '175668'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '162443'
+    id_type: Organization Established Date
+    id_number: 16 Aug 2002
+  - uid: '162444'
+    id_type: 'Organization Type:'
+    id_number: Inland passenger water transport

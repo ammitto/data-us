@@ -1,0 +1,45 @@
+---
+uid: '28006'
+first_name: Rafael Antonio
+last_name: ORTEGA MURILLO
+sdn_type: Individual
+program_list:
+  programs:
+  - NICARAGUA
+aka_list:
+  items:
+  - uid: '44115'
+    type: a.k.a.
+    category: weak
+    last_name: ORTEGA, Payo
+address_list:
+  items:
+  - uid: '42357'
+    address1: KM 13 Carretera Masaya
+    city: Managua
+    country: Nicaragua
+id_list:
+  items:
+  - uid: '18494'
+    id_type: National ID No.
+    id_number: '0010912680053D'
+    id_country: Nicaragua
+  - uid: '18495'
+    id_type: Passport
+    id_number: A00000204
+    id_country: Nicaragua
+    issue_date: 06 Aug 2012
+    expiration_date: 06 Aug 2022
+  - uid: '133310'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '33309'
+    date_of_birth: '09 Dec 1968'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '33551'
+    place_of_birth: Managua, Nicaragua
+    main_entry: 'true'

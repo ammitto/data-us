@@ -1,0 +1,34 @@
+---
+uid: '38236'
+first_name: Dmitriy Aleksandrovich
+last_name: PUMPYANSKIY
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '57264'
+    country: Russia
+id_list:
+  items:
+  - uid: '27516'
+    id_type: Tax ID No.
+    id_number: '665800421844'
+    id_country: Russia
+  - uid: '176892'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '153489'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '53487'
+    date_of_birth: 22 Mar 1964
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '53488'
+    place_of_birth: Ulan-Ude, Buryatia Republic, Russia
+    main_entry: 'true'

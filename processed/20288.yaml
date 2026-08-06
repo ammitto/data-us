@@ -1,0 +1,38 @@
+---
+uid: '20288'
+last_name: SOVFRACHT-SOVMORTRANS GROUP
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13685
+aka_list:
+  items:
+  - uid: '32037'
+    type: a.k.a.
+    category: strong
+    last_name: SOVFRACHT-SOVMORTRANS
+  - uid: '32038'
+    type: a.k.a.
+    category: strong
+    last_name: SOVFRAKHT-SOVMORTRANS
+address_list:
+  items:
+  - uid: '30683'
+    address1: Rakhmanovskiy lane, 4
+    address2: bld. 1
+    address3: Morskoy House
+    city: Moscow
+    postal_code: '127994'
+    country: Russia
+  - uid: '30684'
+    address1: Dobroslobodskaya
+    address2: 3 BC Basmanov
+    city: Moscow
+    postal_code: '105066'
+    country: Russia
+id_list:
+  items:
+  - uid: '143776'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

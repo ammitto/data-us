@@ -1,0 +1,67 @@
+---
+uid: '20315'
+last_name: GPB FINANCIAL SERVICES LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13662
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '30763'
+    address1: Arianthi Court
+    address2: 2nd floor
+    address3: 50 Agias Zonis Street
+    city: Limassol
+    postal_code: '3090'
+    country: Cyprus
+  - uid: '30764'
+    address1: Agios Athanasios, 46
+    address2: Interlink Hermes Plaza
+    address3: Floor 1
+    city: Limassol
+    postal_code: '4102'
+    country: Cyprus
+  - uid: '79153'
+    address1: Spyrou Kyprianou 65, Crystalserve Business Center, Floor 2
+    city: Limassol
+    postal_code: '4003'
+    country: Cyprus
+id_list:
+  items:
+  - uid: '12578'
+    id_type: Registration ID
+    id_number: HE 246301
+    id_country: Cyprus
+  - uid: '44705'
+    id_type: Registration Number
+    id_number: C246301
+    id_country: Cyprus
+  - uid: '44706'
+    id_type: Tax ID No.
+    id_number: 10246301D
+    id_country: Cyprus
+  - uid: '44707'
+    id_type: Legal Entity Number
+    id_number: 213800NW35DTWHTMX505
+  - uid: '182498'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '143891'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '120805'
+    id_type: Website
+    id_number: www.gpbfs.com.cy
+  - uid: '120855'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 1
+  - uid: '182499'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '182500'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
+remarks: 'For more information on directives, please visit the following link: https://ofac.treasury.gov/sanctions-programs-and-country-information/ukraine-russia-related-sanctions#directives;
+  (Linked To: GAZPROMBANK JOINT STOCK COMPANY)'

@@ -1,0 +1,35 @@
+---
+uid: '43137'
+last_name: PREOBRAZOVATEL MASH LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '64375'
+    address1: d. 3A str. 4 etazh 1 pom. 6, ul. 1-Ya Frunzenskaya
+    city: Moscow
+    postal_code: '119146'
+    country: Russia
+id_list:
+  items:
+  - uid: '32745'
+    id_type: Tax ID No.
+    id_number: '9704008683'
+    id_country: Russia
+  - uid: '32746'
+    id_type: Registration Number
+    id_number: '1197746746372'
+    id_country: Russia
+  - uid: '32747'
+    id_type: Government Gazette Number
+    id_number: '42828368'
+    id_country: Russia
+  - uid: '175558'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '162128'
+    id_type: Organization Established Date
+    id_number: 24 Dec 2019
+remarks: "(Linked To: AKVAMARIN LIMITED LIABILITY COMPANY)"

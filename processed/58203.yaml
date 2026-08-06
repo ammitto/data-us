@@ -1,0 +1,35 @@
+---
+uid: '58203'
+last_name: TERMINAL DE CONTENEDORES DE MARIEL S.A.
+sdn_type: Entity
+program_list:
+  programs:
+  - CUBA-EO14404
+aka_list:
+  items:
+  - uid: '90010'
+    type: a.k.a.
+    category: strong
+    last_name: MARIEL CONTAINER TERMINAL S.A.
+  - uid: '90011'
+    type: a.k.a.
+    category: strong
+    last_name: TCM S.A.
+address_list:
+  items:
+  - uid: '89413'
+    city: Vista del Mar
+    country: Cuba
+id_list:
+  items:
+  - uid: '52827'
+    id_type: Entity Code
+    id_number: '60597'
+    id_country: Cuba
+  - uid: '199819'
+    id_type: Organization Established Date
+    id_number: 01 Jun 2011
+  - uid: '199820'
+    id_type: 'Organization Type:'
+    id_number: Cargo handling
+remarks: "(Linked To: GRUPO DE ADMINISTRACION EMPRESARIAL S.A.)"

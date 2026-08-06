@@ -1,0 +1,29 @@
+---
+uid: '48526'
+last_name: LASSARD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '72830'
+    address1: Sh. Varshavskoe D. 26
+    address2: Str. 11
+    address3: Pomeshch. 1TS
+    city: Moscow
+    postal_code: '117105'
+    country: Russia
+id_list:
+  items:
+  - uid: '39463'
+    id_type: Registration Number
+    id_number: '1154025001030'
+    id_country: Russia
+  - uid: '39464'
+    id_type: Tax ID No.
+    id_number: '4025442914'
+    id_country: Russia
+  - uid: '171336'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

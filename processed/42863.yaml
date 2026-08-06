@@ -1,0 +1,33 @@
+---
+uid: '42863'
+last_name: CRYPTANET OU
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '66416'
+    type: f.k.a.
+    category: strong
+    last_name: BULLIONSWIFT OU
+address_list:
+  items:
+  - uid: '63941'
+    address1: Narva Mnt 7-634
+    city: Tallinn
+    postal_code: '10117'
+    country: Estonia
+id_list:
+  items:
+  - uid: '32429'
+    id_type: Tax ID No.
+    id_number: '14658163'
+    id_country: Estonia
+  - uid: '175478'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '161696'
+    id_type: Organization Established Date
+    id_number: '08 Feb 2019'
+remarks: "(Linked To: SCHMUCKI, Anselm Oskar)"

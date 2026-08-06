@@ -1,0 +1,33 @@
+---
+uid: '48402'
+last_name: LIMITED LIABILITY COMPANY IBS INFINISOFT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '72609'
+    address1: 1-I Volokolamskii proezd
+    address2: d. 10, str. 1, et/pom. 1/I, kom. 58
+    city: Moscow
+    postal_code: '123060'
+    country: Russia
+  - uid: '72610'
+    address1: sh. Dmitrovskoe, d. 9B
+    city: Moscow
+    postal_code: '127434'
+    country: Russia
+id_list:
+  items:
+  - uid: '39268'
+    id_type: Registration Number
+    id_number: '1067761258190'
+    id_country: Russia
+  - uid: '39269'
+    id_type: Tax ID No.
+    id_number: '7713605227'
+    id_country: Russia
+  - uid: '171228'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

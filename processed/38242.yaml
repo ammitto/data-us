@@ -1,0 +1,38 @@
+---
+uid: '38242'
+first_name: Ekaterina Viktorovna
+last_name: POTANINA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '57275'
+    address1: Bolshoy Kozikhsky Pereulok 14, Bl. 2, Ap. 7
+    city: Moscow
+    postal_code: '123104'
+    country: Russia
+id_list:
+  items:
+  - uid: '27523'
+    id_type: Passport
+    id_number: '531201239'
+    id_country: Russia
+  - uid: '153507'
+    id_type: Gender
+    id_number: Female
+  - uid: '176895'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '53510'
+    date_of_birth: 18 Apr 1976
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '53509'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'
+remarks: "(Linked To: POTANIN, Vladimir Olegovich)"

@@ -1,0 +1,38 @@
+---
+uid: '28112'
+first_name: Esad
+last_name: KAPIDZIC
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '44312'
+    type: a.k.a.
+    category: strong
+    last_name: KAPIDZIC
+    first_name: Eso
+address_list:
+  items:
+  - uid: '42536'
+    country: Serbia
+id_list:
+  items:
+  - uid: '133433'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '33429'
+    date_of_birth: 23 Jun 1959
+    main_entry: 'true'
+  - uid: '33430'
+    date_of_birth: 23 Jun 1958
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '33431'
+    place_of_birth: Prijepolje, Montenegro
+    main_entry: 'true'
+remarks: "(Linked To: TESIC, Slobodan)"

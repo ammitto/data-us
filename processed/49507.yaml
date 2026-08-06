@@ -1,0 +1,33 @@
+---
+uid: '49507'
+last_name: PRODUCTION UNITARY ENTERPRISE PLANT SVT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77226'
+    type: a.k.a.
+    category: strong
+    last_name: VYROBNYCHE UNITARNE PIDPRYIEMSTVO ZAVOD SVT
+  - uid: '77227'
+    type: a.k.a.
+    category: strong
+    last_name: PROIZVODSTVENNOE UNITARNOE PREDPRIYATIE ZAVOD SVT
+address_list:
+  items:
+  - uid: '74697'
+    address1: 58 Nezavisimosti Blvd., Building 11, Room 801
+    city: Minsk
+    postal_code: '220005'
+    country: Belarus
+id_list:
+  items:
+  - uid: '40858'
+    id_type: Tax ID No.
+    id_number: '190737825'
+    id_country: Belarus
+  - uid: '172600'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

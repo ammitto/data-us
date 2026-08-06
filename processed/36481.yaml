@@ -1,0 +1,47 @@
+---
+uid: '36481'
+first_name: Yevgeniy Yuryevich
+last_name: GADETSKIY
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '57536'
+    type: a.k.a.
+    category: strong
+    last_name: GADETSKI
+    first_name: Evgeni Yurevich
+  - uid: '57537'
+    type: a.k.a.
+    category: strong
+    last_name: GADETSKII
+    first_name: Evgenii Yuryevich
+address_list:
+  items:
+  - uid: '54860'
+    country: Russia
+id_list:
+  items:
+  - uid: '25942'
+    id_type: Tax ID No.
+    id_number: '482609144935'
+    id_country: Russia
+  - uid: '150249'
+    id_type: Gender
+    id_number: Male
+  - uid: '174234'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '50247'
+    date_of_birth: 24 Oct 1978
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '50248'
+    place_of_birth: Russia
+    main_entry: 'true'
+remarks: "(Linked To: SPETSINVESTSERVIS OOO)"

@@ -1,0 +1,31 @@
+---
+uid: '54400'
+last_name: TTR GO, S.A. DE C.V.
+sdn_type: Entity
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+address_list:
+  items:
+  - uid: '83083'
+    city: Puerto Vallarta
+    state_or_province: Jalisco
+    country: Mexico
+id_list:
+  items:
+  - uid: '48006'
+    id_type: R.F.C.
+    id_number: TGO1602292I6
+    id_country: Mexico
+  - uid: '190248'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '190328'
+    id_type: Organization Established Date
+    id_number: 29 Feb 2016
+  - uid: '190247'
+    id_type: 'Organization Type:'
+    id_number: Travel agency activities
+remarks: "(Linked To: IBARRA DIAZ JR., Michael)"

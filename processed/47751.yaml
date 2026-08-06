@@ -1,0 +1,37 @@
+---
+uid: '47751'
+last_name: JOINT STOCK COMPANY VERKHNYAYA SALDA CHEMICAL CONTAINER PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74055'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO VERKHNESALDINSKII ZAVOD KHIMICHESKIKH EMKOSTEI
+  - uid: '74056'
+    type: a.k.a.
+    category: weak
+    last_name: AO VZKHE
+address_list:
+  items:
+  - uid: '71418'
+    address1: 105 Molodezhny Poselok Street
+    city: Verkhnyaya Salda
+    postal_code: '624761'
+    country: Russia
+id_list:
+  items:
+  - uid: '38412'
+    id_type: Tax ID No.
+    id_number: '6623136353'
+    id_country: Russia
+  - uid: '38413'
+    id_type: Registration Number
+    id_number: '1206600070918'
+    id_country: Russia
+  - uid: '169630'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

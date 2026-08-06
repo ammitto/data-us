@@ -1,0 +1,40 @@
+---
+uid: '12560'
+first_name: Cagri
+last_name: DURANSOY
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+address_list:
+  items:
+  - uid: '88678'
+    country: Turkey
+id_list:
+  items:
+  - uid: '7044'
+    id_type: Passport
+    id_number: TR-T 577847
+    id_country: Turkey
+  - uid: '7045'
+    id_type: Passport
+    id_number: 31/2857612/2007
+    id_country: Turkey
+  - uid: '114070'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '198445'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '8268'
+    date_of_birth: 04 Aug 1985
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '8267'
+    place_of_birth: Kadikoy, Turkey
+    main_entry: 'true'
+remarks: "(Linked To: JAFARI, Milad)"

@@ -1,0 +1,31 @@
+---
+uid: '7174'
+first_name: Francisco Javier
+last_name: OROPEZA MEDRANO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '5381'
+    address1: Avenida Los Reyes 18108-D, Fraccionamiento Villa de Baja California
+      22684
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '5382'
+    address1: c/o Farmacia Vida Suprema, S.A. DE C.V.
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '1342'
+    date_of_birth: 23 Feb 1968
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '1343'
+    place_of_birth: Coahuila, Mexico
+    main_entry: 'true'

@@ -1,0 +1,35 @@
+---
+uid: '43521'
+first_name: Farhad
+last_name: FATEMI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13846
+address_list:
+  items:
+  - uid: '64932'
+    country: Iran
+id_list:
+  items:
+  - uid: '33099'
+    id_type: National ID No.
+    id_number: '0920992226'
+    id_country: Iran
+  - uid: '162999'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '162998'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '62995'
+    date_of_birth: 21 Sep 1990
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '62996'
+    place_of_birth: Mashhad, Iran
+    main_entry: 'true'
+remarks: "(Linked To: NAVYAN ABR ARVAN PRIVATE LIMITED COMPANY)"

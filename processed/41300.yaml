@@ -1,0 +1,44 @@
+---
+uid: '41300'
+first_name: Yaqin
+last_name: WU
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '61715'
+    country: China
+id_list:
+  items:
+  - uid: '30685'
+    id_type: National ID No.
+    id_number: '429004199211135144'
+    id_country: China
+  - uid: '160831'
+    id_type: Phone Number
+    id_number: '8615623932350'
+  - uid: '159346'
+    id_type: Gender
+    id_number: Female
+  - uid: '159347'
+    id_type: Email Address
+    id_number: lilywu921206@gmail.com
+  - uid: '159348'
+    id_type: Email Address
+    id_number: furody@icloud.com
+  - uid: '159349'
+    id_type: Email Address
+    id_number: 2390864901@qq.com
+date_of_birth_list:
+  items:
+  - uid: '59344'
+    date_of_birth: 13 Nov 1992
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '60848'
+    place_of_birth: Hubei, China
+    main_entry: 'true'
+remarks: "(Linked To: YAO, Huatao)"

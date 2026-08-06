@@ -1,0 +1,35 @@
+---
+uid: '15521'
+last_name: DESARROLLOS EVEREST, S.A. DE C.V.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '22901'
+    type: a.k.a.
+    category: strong
+    last_name: RESIDENCIAL DEL LAGO
+address_list:
+  items:
+  - uid: '23128'
+    address1: Cerrada Diego Rivera No. 347
+    address2: Col. Desarrollo Urbano 3 Rios
+    city: Culiacan
+    state_or_province: Sinaloa
+    postal_code: C.P. 80020
+    country: Mexico
+  - uid: '23129'
+    address1: Blvd. Jose Diego Valadez Rios 94 36
+    address2: Col. Proyecto Tres Rios
+    city: Culiacan
+    state_or_province: Sinaloa
+    postal_code: C.P. 80100
+    country: Mexico
+id_list:
+  items:
+  - uid: '8313'
+    id_type: R.F.C.
+    id_number: DEV-031020
+    id_country: Mexico

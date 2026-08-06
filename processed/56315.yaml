@@ -1,0 +1,28 @@
+---
+uid: '56315'
+first_name: Fatos
+last_name: HYSA
+sdn_type: Individual
+program_list:
+  programs:
+  - TCO
+address_list:
+  items:
+  - uid: '86179'
+    country: Albania
+id_list:
+  items:
+  - uid: '50342'
+    id_type: Passport
+    id_number: BF5921175
+    id_country: Albania
+    expiration_date: 07 Jan 2031
+  - uid: '194456'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '94454'
+    date_of_birth: 15 Jun 1972
+    main_entry: 'true'
+remarks: "(Linked To: HYSA ORGANIZED CRIME GROUP)"

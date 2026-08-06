@@ -1,0 +1,40 @@
+---
+uid: '39711'
+first_name: Mohammad Reza
+last_name: MIRHEYDARY
+sdn_type: Individual
+program_list:
+  programs:
+  - CAATSA - IRAN
+aka_list:
+  items:
+  - uid: '61870'
+    type: a.k.a.
+    category: strong
+    last_name: MIRHEIDARI
+    first_name: Mohammad Reza
+address_list:
+  items:
+  - uid: '59165'
+    country: Iran
+id_list:
+  items:
+  - uid: '156067'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '156072'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '56064'
+    date_of_birth: '1956'
+    main_entry: 'true'
+  - uid: '56065'
+    date_of_birth: '1957'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '56066'
+    place_of_birth: Iran
+    main_entry: 'true'

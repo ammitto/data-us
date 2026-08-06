@@ -1,0 +1,28 @@
+---
+uid: '49253'
+last_name: DD IMEKS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '74172'
+    address1: ul. Vostochnaya str. 160A
+    address2: pomeshch. 2
+    city: Yekaterinburg
+    postal_code: '620100'
+    country: Russia
+id_list:
+  items:
+  - uid: '40455'
+    id_type: Registration Number
+    id_number: '121660055429'
+    id_country: Russia
+  - uid: '40456'
+    id_type: Tax ID No.
+    id_number: '6685191668'
+    id_country: Russia
+  - uid: '172236'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

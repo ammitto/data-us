@@ -1,0 +1,35 @@
+---
+uid: '57699'
+first_name: Samad
+last_name: NEMATI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '88484'
+    country: Iran
+id_list:
+  items:
+  - uid: '52157'
+    id_type: National ID No.
+    id_number: '2754782796'
+    id_country: Iran
+  - uid: '198121'
+    id_type: Gender
+    id_number: Male
+  - uid: '198147'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '98119'
+    date_of_birth: 14 Feb 1982
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '98120'
+    place_of_birth: Iran
+    main_entry: 'true'
+remarks: "(Linked To: EBRAHIMI AND ASSOCIATES PARTNERSHIP COMPANY)"

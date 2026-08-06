@@ -1,0 +1,40 @@
+---
+uid: '11767'
+first_name: Yanet
+last_name: CIFUENTES VARGAS
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNT
+aka_list:
+  items:
+  - uid: '12549'
+    type: a.k.a.
+    category: weak
+    last_name: LA PECOSA
+address_list:
+  items:
+  - uid: '17786'
+    address1: Carrera 2 Oeste No. 51-51
+    city: Cali
+    country: Colombia
+id_list:
+  items:
+  - uid: '6134'
+    id_type: Cedula No.
+    id_number: '38864607'
+    id_country: Colombia
+  - uid: '6135'
+    id_type: Passport
+    id_number: AI988963
+    id_country: Colombia
+date_of_birth_list:
+  items:
+  - uid: '7268'
+    date_of_birth: 01 Aug 1963
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '7269'
+    place_of_birth: Buga, Valle, Colombia
+    main_entry: 'true'

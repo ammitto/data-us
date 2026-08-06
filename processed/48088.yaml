@@ -1,0 +1,37 @@
+---
+uid: '48088'
+first_name: Jorge Alejandro
+last_name: GARCIA VELAZCO
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '72117'
+    city: San Luis Rio Colorado
+    state_or_province: Sonora
+    country: Mexico
+id_list:
+  items:
+  - uid: '38979'
+    id_type: C.U.R.P.
+    id_number: GAVJ870112HSLRLR00
+    id_country: Mexico
+  - uid: '38980'
+    id_type: R.F.C.
+    id_number: GAVJ870112DP3
+    id_country: Mexico
+  - uid: '170003'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '70000'
+    date_of_birth: 12 Jan 1987
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '70001'
+    place_of_birth: Sinaloa, Mexico
+    main_entry: 'true'

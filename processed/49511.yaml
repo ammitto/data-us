@@ -1,0 +1,49 @@
+---
+uid: '49511'
+first_name: Dmitry Yuryevich
+last_name: MANKO
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77236'
+    type: a.k.a.
+    category: strong
+    last_name: MANKO
+    first_name: Dzmitry
+address_list:
+  items:
+  - uid: '74705'
+    address1: 40 Gorkogo Street
+    address2: Apartment 86
+    city: Bobruysk
+    country: Belarus
+id_list:
+  items:
+  - uid: '40864'
+    id_type: National ID No.
+    id_number: 3050873M062PB4
+    id_country: Belarus
+  - uid: '40865'
+    id_type: Passport
+    id_number: KB1660910
+    id_country: Belarus
+  - uid: '172610'
+    id_type: Gender
+    id_number: Male
+  - uid: '172746'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '72607'
+    date_of_birth: 05 Aug 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '72608'
+    place_of_birth: Guta Village, Mogilev Region, Belarus
+    main_entry: 'true'
+remarks: "(Linked To: JOINT STOCK COMPANY BELARUSREZINOTEKHNIKA)"

@@ -1,0 +1,29 @@
+---
+uid: '45011'
+last_name: LIMITED LIABILITY COMPANY VORKUTA MANAGEMENT COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '67005'
+    address1: d. 62 pom. 702
+    address2: ul. Lenina
+    city: Vorkuta
+    postal_code: '169908'
+    country: Russia
+id_list:
+  items:
+  - uid: '34684'
+    id_type: Registration Number
+    id_number: '1211100005368'
+    id_country: Russia
+  - uid: '34685'
+    id_type: Tax ID No.
+    id_number: '1103046601'
+    id_country: Russia
+  - uid: '175893'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: LLC RUSSIAN ENERGY GROUP)"

@@ -1,0 +1,62 @@
+---
+uid: '11940'
+first_name: Daniel
+last_name: PEREZ ROJAS
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '12682'
+    type: a.k.a.
+    category: strong
+    last_name: GONZALEZ DIAZ
+    first_name: Juan
+address_list:
+  items:
+  - uid: '18147'
+    address1: Fraccionamiento Santa Isabel
+    city: Tlajomulco De Zuniga
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '18148'
+    address1: Aldea San Cristobal
+    city: Comapa
+    state_or_province: Jutiapa
+    country: Guatemala
+  - uid: '18149'
+    city: Valle Hermoso
+    state_or_province: Tamaulipas
+    country: Mexico
+  - uid: '18150'
+    city: Matamoros
+    state_or_province: Tamaulipas
+    country: Mexico
+id_list:
+  items:
+  - uid: '6356'
+    id_type: Driver's License No.
+    id_number: 1-1-22-07-00030905-3
+    id_country: Guatemala
+    expiration_date: '2010'
+  - uid: '6357'
+    id_type: Cedula No.
+    id_number: U22-30905
+    id_country: Guatemala
+date_of_birth_list:
+  items:
+  - uid: '7559'
+    date_of_birth: 10 Feb 1977
+    main_entry: 'true'
+  - uid: '7560'
+    date_of_birth: 28 Sep 1976
+    main_entry: 'false'
+  - uid: '7561'
+    date_of_birth: 11 Feb 1977
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '7562'
+    place_of_birth: Moyuta, Guanajuato, Mexico
+    main_entry: 'true'

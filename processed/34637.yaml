@@ -1,0 +1,52 @@
+---
+uid: '34637'
+last_name: JOINT STOCK COMPANY RASCHETNIYE RESHENIYA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54210'
+    type: a.k.a.
+    category: strong
+    last_name: JSC RASCHETNIYE RESHENIYA
+  - uid: '54211'
+    type: a.k.a.
+    category: weak
+    last_name: JSC SETTLEMENT SOLUTIONS
+  - uid: '54212'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY NON-BANK CREDIT ORGANIZATION SETTLEMENT SOLUTIONS
+address_list:
+  items:
+  - uid: '51846'
+    address1: Room XLIV, 11th floor, 118/1 Varshavskoye Shosse
+    city: Moscow
+    postal_code: '117587'
+    country: Russia
+id_list:
+  items:
+  - uid: '24221'
+    id_type: Registration Number
+    id_number: '1107746390949'
+    id_country: Russia
+  - uid: '24222'
+    id_type: Tax ID No.
+    id_number: '7727718421'
+    id_country: Russia
+  - uid: '175152'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '146718'
+    id_type: Executive Order 14024 Directive Information -
+    id_number: 'For more information on directives, please visit the following link:
+      https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives'
+  - uid: '146877'
+    id_type: 'Listing Date (EO 14024 Directive 2):'
+    id_number: 24 Feb 2022
+  - uid: '146878'
+    id_type: 'Effective Date (EO 14024 Directive 2):'
+    id_number: 26 Mar 2022
+remarks: "(Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)"

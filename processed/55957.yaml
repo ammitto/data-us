@@ -1,0 +1,37 @@
+---
+uid: '55957'
+first_name: Guy
+last_name: CHHAY
+sdn_type: Individual
+program_list:
+  programs:
+  - TCO
+address_list:
+  items:
+  - uid: '85682'
+    city: Phnom Penh
+    country: Cambodia
+id_list:
+  items:
+  - uid: '50121'
+    id_type: Passport
+    id_number: N0718897
+    id_country: Cambodia
+  - uid: '50122'
+    id_type: National ID No.
+    id_number: '01052634401'
+    id_country: Cambodia
+  - uid: '194052'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '94053'
+    date_of_birth: '09 Jul 1987'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '94054'
+    place_of_birth: Phnom Penh, Cambodia
+    main_entry: 'true'
+remarks: "(Linked To: PRINCE GROUP TRANSNATIONAL CRIMINAL ORGANIZATION)"

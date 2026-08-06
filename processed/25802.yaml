@@ -1,0 +1,34 @@
+---
+uid: '25802'
+last_name: FIRST ISLAMIC INVESTMENT BANK LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '40615'
+    type: a.k.a.
+    category: weak
+    last_name: FIIB
+address_list:
+  items:
+  - uid: '39046'
+    address1: 19A-3A-3A, Level 31, Business Suite, UOA Centre, No. 19 Jalan, Pinang
+    city: Kuala Lumpur
+    postal_code: '50450'
+    country: Malaysia
+  - uid: '39047'
+    address1: Financial Park Labuan Complex Unit 13 (C), Main Office Tower Jalan Merdeka
+    city: Labuan
+    postal_code: '87000'
+    country: Malaysia
+id_list:
+  items:
+  - uid: '129977'
+    id_type: Website
+    id_number: www.fiib.com.my
+  - uid: '129976'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

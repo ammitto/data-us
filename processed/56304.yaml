@@ -1,0 +1,40 @@
+---
+uid: '56304'
+last_name: DATA CENTER KIRISHI LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - CYBER4
+  - CAATSA - RUSSIA
+aka_list:
+  items:
+  - uid: '87339'
+    type: a.k.a.
+    category: strong
+    last_name: DC KIRISHI LLC
+address_list:
+  items:
+  - uid: '86162'
+    address1: Sh. Volkhovskoe Zd.95
+    address2: Pomeshch. 1
+    address3: Sh. Volkhovskoe Zd.11
+    city: Kirishi
+    postal_code: '187110'
+    country: Russia
+id_list:
+  items:
+  - uid: '50330'
+    id_type: Tax ID No.
+    id_number: '4727007461'
+    id_country: Russia
+  - uid: '50331'
+    id_type: Registration ID
+    id_number: '1224700010908'
+    id_country: Russia
+  - uid: '194700'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+  - uid: '194762'
+    id_type: Organization Established Date
+    id_number: 01 Jul 2022
+remarks: "(Linked To: MEDIA LAND, LLC)"

@@ -1,0 +1,24 @@
+---
+uid: '56037'
+last_name: RYUJONG CREDIT BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK4
+address_list:
+  items:
+  - uid: '85821'
+    city: Pyongyang
+    country: Korea, North
+id_list:
+  items:
+  - uid: '194174'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '194175'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '194176'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214

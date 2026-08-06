@@ -1,0 +1,30 @@
+---
+uid: '11396'
+first_name: Jorge
+last_name: PORTILLA BARRAZA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '16742'
+    address1: c/o ORIENTE CONTRATISTAS GENERALES S.A.
+    city: Trujillo
+    country: Peru
+  - uid: '16743'
+    address1: Pasaje Vincente Morales
+    address2: Poblacion 11 de Septiembre
+    city: Arica
+    country: Chile
+id_list:
+  items:
+  - uid: '5830'
+    id_type: D.N.I.
+    id_number: '52249376'
+    id_country: Chile
+date_of_birth_list:
+  items:
+  - uid: '6817'
+    date_of_birth: 26 Feb 1948
+    main_entry: 'true'

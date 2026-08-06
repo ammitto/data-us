@@ -1,0 +1,35 @@
+---
+uid: '33131'
+first_name: Mahmoud
+last_name: KHAZEIN
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+address_list:
+  items:
+  - uid: '49804'
+    country: Iran
+id_list:
+  items:
+  - uid: '22793'
+    id_type: National ID No.
+    id_number: '0067024564'
+    id_country: Iran
+  - uid: '142934'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '142932'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '42929'
+    date_of_birth: 21 Nov 1978
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '42931'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: IRANIAN MINISTRY OF INTELLIGENCE AND SECURITY)"

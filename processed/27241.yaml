@@ -1,0 +1,39 @@
+---
+uid: '27241'
+first_name: Amir Luis
+last_name: SAAB MORAN
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA-EO13850
+address_list:
+  items:
+  - uid: '41420'
+    city: Barranquilla
+    country: Colombia
+  - uid: '41453'
+    state_or_province: Miranda
+    country: Venezuela
+id_list:
+  items:
+  - uid: '17850'
+    id_type: Cedula No.
+    id_number: '72170020'
+    id_country: Colombia
+  - uid: '17851'
+    id_type: Cedula No.
+    id_number: '24978833'
+    id_country: Venezuela
+  - uid: '17875'
+    id_type: Passport
+    id_number: PE135124
+    id_country: Colombia
+    expiration_date: 23 Jun 2026
+  - uid: '132298'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '32252'
+    date_of_birth: 29 Jul 1970
+    main_entry: 'true'

@@ -1,0 +1,42 @@
+---
+uid: '53935'
+last_name: AZARAB INDUSTRIES CO.
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '84002'
+    type: a.k.a.
+    category: strong
+    last_name: AZAR AB INDUSTRIES COMPANY
+  - uid: '84003'
+    type: a.k.a.
+    category: strong
+    last_name: AZARAB INDUSTRIES LLP
+address_list:
+  items:
+  - uid: '82310'
+    address1: No. 15, Molla Sadra Avenue, Vanak Square
+    city: Tehran
+    postal_code: '1991913981'
+    country: Iran
+  - uid: '82311'
+    address1: Sanaat Square
+    city: Arak
+    country: Iran
+id_list:
+  items:
+  - uid: '47374'
+    id_type: National ID No.
+    id_number: '10780042000'
+    id_country: Iran
+  - uid: '189074'
+    id_type: Website
+    id_number: www.azarab.ir
+  - uid: '189082'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: ATOMIC ENERGY ORGANIZATION OF IRAN)"

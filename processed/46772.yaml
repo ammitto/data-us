@@ -1,0 +1,41 @@
+---
+uid: '46772'
+last_name: OPEN JOINT STOCK COMPANY VA DEGTYAREV PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '72220'
+    type: a.k.a.
+    category: strong
+    last_name: OTKRYTOE AKTSIONERNOE OBSHCHESTVO ZAVOD IM VA DEGTIAREVA
+  - uid: '72221'
+    type: a.k.a.
+    category: strong
+    last_name: OJSC PLANT IM VA DEGTYAREVA
+  - uid: '72223'
+    type: a.k.a.
+    category: weak
+    last_name: OAO ZID
+address_list:
+  items:
+  - uid: '69698'
+    address1: 4 Truda St.
+    city: Kovrov
+    postal_code: '601900'
+    country: Russia
+id_list:
+  items:
+  - uid: '36842'
+    id_type: Tax ID No.
+    id_number: '3305004083'
+    id_country: Russia
+  - uid: '36843'
+    id_type: Registration Number
+    id_number: '1023301951397'
+    id_country: Russia
+  - uid: '176293'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

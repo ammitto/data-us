@@ -1,0 +1,63 @@
+---
+uid: '42318'
+first_name: Mariam
+last_name: BARREH
+sdn_type: Individual
+program_list:
+  programs:
+  - SOMALIA
+aka_list:
+  items:
+  - uid: '65719'
+    type: a.k.a.
+    category: weak
+    last_name: BARRE, Marian
+  - uid: '65720'
+    type: a.k.a.
+    category: strong
+    last_name: BARREH OMAR
+    first_name: Mariam
+  - uid: '65721'
+    type: a.k.a.
+    category: strong
+    last_name: BARRE OMAR
+    first_name: Marian
+address_list:
+  items:
+  - uid: '63127'
+    address1: Altawun Area
+    address2: Alkhan
+    city: Sharjah
+    country: United Arab Emirates
+  - uid: '63128'
+    address1: PO Box 80367
+    city: Ajman
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '31814'
+    id_type: Identification Number
+    id_number: '156087'
+    id_country: Djibouti
+  - uid: '31815'
+    id_type: Passport
+    id_number: 19RF19428
+    id_country: Djibouti
+    issue_date: 28 Dec 2020
+    expiration_date: 28 Dec 2025
+  - uid: '160657'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '60652'
+    date_of_birth: 01 Jan 1971
+    main_entry: 'true'
+  - uid: '60653'
+    date_of_birth: 10 Apr 1971
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '60654'
+    place_of_birth: Kismayo, Somalia
+    main_entry: 'true'

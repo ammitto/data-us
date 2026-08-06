@@ -1,0 +1,37 @@
+---
+uid: '48288'
+last_name: MAZIXON GMBH AND CO KG
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+address_list:
+  items:
+  - uid: '72401'
+    address1: Jesuitengasse 73
+    city: Koln
+    postal_code: '50735'
+    country: Germany
+  - uid: '72402'
+    address1: Merkenicher Haupt Str. 96
+    city: Koln
+    postal_code: '50769'
+    country: Germany
+id_list:
+  items:
+  - uid: '39135'
+    id_type: Registration Number
+    id_number: 50670A34770
+    id_country: Germany
+  - uid: '39136'
+    id_type: V.A.T. Number
+    id_number: DE338075769
+    id_country: Germany
+  - uid: '170421'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '170422'
+    id_type: Organization Established Date
+    id_number: 23 Jun 2020
+remarks: "(Linked To: KARIMI, Maziar)"

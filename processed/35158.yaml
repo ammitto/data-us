@@ -1,0 +1,50 @@
+---
+uid: '35158'
+last_name: FEDERAL STATE UNITARY ENTERPRISE CENTRAL SCIENTIFIC RESEARCH INSTITUTE
+  OF ECONOMICS INFORMATICS AND MANAGEMENT SYSTEMS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '55272'
+    type: a.k.a.
+    category: weak
+    last_name: AO TSNII EISU
+  - uid: '55273'
+    type: a.k.a.
+    category: weak
+    last_name: CNIIEISU
+address_list:
+  items:
+  - uid: '52788'
+    address1: Ul. Bronnaya M D., STR. 1
+    city: Saint Petersburg
+    postal_code: '123104'
+    country: Russia
+id_list:
+  items:
+  - uid: '24900'
+    id_type: Registration Number
+    id_number: '1147748143344'
+    id_country: Russia
+  - uid: '24901'
+    id_type: Tax ID No.
+    id_number: '7703824477'
+    id_country: Russia
+  - uid: '175275'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '147112'
+    id_type: Organization Established Date
+    id_number: 11 Nov 1991
+  - uid: '147113'
+    id_type: Website
+    id_number: cniieisu.ru
+  - uid: '158475'
+    id_type: 'Organization Type:'
+    id_number: Other information technology and computer service activities
+  - uid: '158476'
+    id_type: Target Type
+    id_number: Government Entity

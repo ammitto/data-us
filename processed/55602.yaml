@@ -1,0 +1,59 @@
+---
+uid: '55602'
+first_name: Ali
+last_name: BAKOUEI
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '86492'
+    type: a.k.a.
+    category: strong
+    last_name: BAKU'I
+    first_name: Ali
+  - uid: '86493'
+    type: a.k.a.
+    category: strong
+    last_name: BAKOUIE
+    first_name: Ali
+  - uid: '86494'
+    type: a.k.a.
+    category: strong
+    last_name: BAKU'I ZEINOLABEDIN
+    first_name: Ali
+address_list:
+  items:
+  - uid: '85052'
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '49607'
+    id_type: Passport
+    id_number: H62419567
+    id_country: Iran
+    expiration_date: 27 Mar 2028
+  - uid: '49608'
+    id_type: Passport
+    id_number: P72022539
+    id_country: Iran
+    expiration_date: 16 Mar 2030
+  - uid: '193130'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '193128'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '93126'
+    date_of_birth: 21 Mar 1966
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '93129'
+    place_of_birth: Qom, Iran
+    main_entry: 'true'

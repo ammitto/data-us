@@ -1,0 +1,34 @@
+---
+uid: '47675'
+last_name: GENAITI
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73878'
+    type: a.k.a.
+    category: weak
+    last_name: GENIT
+address_list:
+  items:
+  - uid: '71264'
+    address1: b-r Bolshoi (Innovatsionnogo Tsentra Skolkovo ter) d. 42
+    address2: str. 1, et/pom.1/335
+    city: Moscow
+    postal_code: '121250'
+    country: Russia
+id_list:
+  items:
+  - uid: '38289'
+    id_type: Registration Number
+    id_number: '1187746256642'
+    id_country: Russia
+  - uid: '38290'
+    id_type: Tax ID No.
+    id_number: '9701102208'
+    id_country: Russia
+  - uid: '169903'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,51 @@
+---
+uid: '43317'
+last_name: TRUST LOGISTIC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '67169'
+    type: a.k.a.
+    category: strong
+    last_name: TRUST LOGISTICS LLC
+  - uid: '67170'
+    type: a.k.a.
+    category: strong
+    last_name: LOGISTIKA DOVERIYA OOO
+  - uid: '67171'
+    type: a.k.a.
+    category: strong
+    last_name: OOO LOGISTIKA DOVERIIA
+address_list:
+  items:
+  - uid: '64666'
+    address1: Vladenie 5 Etazh/Pom.3/321
+    city: Khimki
+    postal_code: '141402'
+    country: Russia
+  - uid: '64667'
+    address1: ul. Engelsa, 27, et. 2 pomeshch. 89
+    city: Khimki
+    state_or_province: Moscow
+    postal_code: '141402'
+    country: Russia
+id_list:
+  items:
+  - uid: '32897'
+    id_type: Registration Number
+    id_number: '1127746399098'
+    id_country: Russia
+  - uid: '32898'
+    id_type: Tax ID No.
+    id_number: '7721758555'
+    id_country: Russia
+  - uid: '175709'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '162554'
+    id_type: Organization Established Date
+    id_number: 24 May 2012
+remarks: "(Linked To: AKIFYEV, Pavel Viktorovich)"

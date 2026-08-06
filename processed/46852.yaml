@@ -1,0 +1,46 @@
+---
+uid: '46852'
+first_name: Ali
+last_name: KOCAK
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+aka_list:
+  items:
+  - uid: '72368'
+    type: a.k.a.
+    category: strong
+    last_name: KOCHAK
+    first_name: Ali
+address_list:
+  items:
+  - uid: '69818'
+    city: Orumiyeh
+    state_or_province: West Azerbaijan Province
+    country: Iran
+  - uid: '69819'
+    country: Turkey
+id_list:
+  items:
+  - uid: '36945'
+    id_type: National ID No.
+    id_number: '20926131442'
+    id_country: Turkey
+  - uid: '167871'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '167709'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '67706'
+    date_of_birth: 30 Sep 1985
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '67708'
+    place_of_birth: Adiyaman Kahta, Turkey
+    main_entry: 'true'
+remarks: "(Linked To: SHARIFI-ZINDASHTI, Naji Ibrahim)"

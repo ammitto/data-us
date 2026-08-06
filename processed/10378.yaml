@@ -1,0 +1,30 @@
+---
+uid: '10378'
+first_name: Thabet
+last_name: AL-DURI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAQ2
+address_list:
+  items:
+  - uid: '14174'
+    address1: Karkh District
+    city: Baghdad
+    country: Iraq
+  - uid: '14175'
+    city: Rukan al-Din
+    country: Syria
+date_of_birth_list:
+  items:
+  - uid: '5556'
+    date_of_birth: '1943'
+    main_entry: 'true'
+  - uid: '5557'
+    date_of_birth: '1944'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '5898'
+    place_of_birth: Dur, Iraq
+    main_entry: 'true'

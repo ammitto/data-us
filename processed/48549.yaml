@@ -1,0 +1,39 @@
+---
+uid: '48549'
+last_name: JOINT STOCK COMPANY VLADIMIR PLANT OF METAL HOSES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75456'
+    type: a.k.a.
+    category: weak
+    last_name: AO VZM
+address_list:
+  items:
+  - uid: '72885'
+    address1: Kubysheva st., 26E
+    city: Vladimir
+    postal_code: '600035'
+    country: Russia
+  - uid: '72886'
+    address1: Ul. Letnikovskaya D. 10, Str. 1
+    address2: Pomeshch. IV, Kom. 11
+    city: Moscow
+    postal_code: '115114'
+    country: Russia
+id_list:
+  items:
+  - uid: '39500'
+    id_type: Registration Number
+    id_number: '1063328003584'
+    id_country: Russia
+  - uid: '39501'
+    id_type: Tax ID No.
+    id_number: '3328441019'
+    id_country: Russia
+  - uid: '171206'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

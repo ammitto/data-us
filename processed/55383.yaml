@@ -1,0 +1,45 @@
+---
+uid: '55383'
+last_name: MT TEVEL INCORPORATED
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '86161'
+    type: a.k.a.
+    category: strong
+    last_name: MT TEVEL INC
+address_list:
+  items:
+  - uid: '84675'
+    address1: Trust Company Complex
+    address2: Ajeltake Road
+    city: Ajeltake Island
+    state_or_province: Majuro
+    postal_code: '96960'
+    country: Marshall Islands
+  - uid: '84676'
+    address1: 16-K Gold Tower
+    address2: Cluster I
+    address3: Jumeirah Lake Towers
+    city: Dubai
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '49348'
+    id_type: Identification Number
+    id_number: IMO 0112701
+  - uid: '49349'
+    id_type: Business Registration Number
+    id_number: '127967'
+    id_country: Marshall Islands
+  - uid: '192667'
+    id_type: Organization Established Date
+    id_number: 18 Sep 2024
+  - uid: '192727'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: "(Linked To: ANSARALLAH)"

@@ -1,0 +1,48 @@
+---
+uid: '44297'
+last_name: FEDERAL STATE UNITARY ENTERPRISE CENTER FOR OPERATION OF SPACE GROUND BASED
+  INFRASTRUCTURE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '68531'
+    type: a.k.a.
+    category: weak
+    last_name: AO TSENKI
+  - uid: '68532'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO TSENTR EKSPLUATATSII OBEKTOV NAZEMNOI KOSMICHESKOI
+      INFRASTRUKTURY
+  - uid: '68533'
+    type: a.k.a.
+    category: weak
+    last_name: FSUE TSENKI
+  - uid: '68534'
+    type: a.k.a.
+    category: strong
+    last_name: FEDERALNOE GOSUDARSTVENNOE UNITARNOE PREDPRIIATIE TSENTR EKSPLUATATSII
+      OBEKTOV NAZEMNOI KOSMICHESKOI INFRASTRUKTURY
+address_list:
+  items:
+  - uid: '65966'
+    address1: 42 Shchepkina Str.
+    city: Moscow
+    postal_code: '129110'
+    country: Russia
+id_list:
+  items:
+  - uid: '33758'
+    id_type: Tax ID No.
+    id_number: '9702013720'
+    id_country: Russia
+  - uid: '33759'
+    id_type: Registration Number
+    id_number: '1207700033760'
+    id_country: Russia
+  - uid: '173768'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,41 @@
+---
+uid: '46646'
+last_name: LIMITED LIABILITY COMPANY AGRISOVGAZ
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '69444'
+    address1: Ul. Mirnaya D. 3
+    city: Maloyaroslavets
+    postal_code: '249092'
+    country: Russia
+  - uid: '69447'
+    address1: Sector A, Floor 8
+    address2: Moscow International Business Center, Tower 2000
+    address3: 23A Tarasa Shevchenko Embankment
+    city: Moscow
+    postal_code: '121151'
+    country: Russia
+  - uid: '69448'
+    address1: 51st Industrialniy Proezd
+    address2: Fyodorovskoye Industrial Park
+    address3: Annolovo Settlement, Tosnenskiy District
+    state_or_province: Leningrad Region
+    postal_code: '187046'
+    country: Russia
+id_list:
+  items:
+  - uid: '36640'
+    id_type: Registration Number
+    id_number: '1024000691725'
+    id_country: Russia
+  - uid: '36641'
+    id_type: Tax ID No.
+    id_number: '4011003730'
+    id_country: Russia
+  - uid: '175036'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

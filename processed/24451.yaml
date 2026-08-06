@@ -1,0 +1,41 @@
+---
+uid: '24451'
+last_name: GUDZON SHIPPING CO LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK4
+aka_list:
+  items:
+  - uid: '38567'
+    type: a.k.a.
+    category: strong
+    last_name: LLC GUDZON SHIPPING CO
+  - uid: '38568'
+    type: a.k.a.
+    category: strong
+    last_name: OOO GUDZON SHIPPING CO
+  - uid: '38569'
+    type: a.k.a.
+    category: strong
+    last_name: SK GUDZON, OOO
+address_list:
+  items:
+  - uid: '36941'
+    address1: ul Tigorovaya 20A
+    city: Vladivostok
+    state_or_province: Primorskiy kray
+    postal_code: '690091'
+    country: Russia
+id_list:
+  items:
+  - uid: '15603'
+    id_type: Company Number
+    id_number: IMO 5753988
+  - uid: '127964'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '135239'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214

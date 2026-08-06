@@ -1,0 +1,42 @@
+---
+uid: '49952'
+last_name: AKTSIONERNOE OBSHCHESTVO KORPORATSIYA GALAKTIKA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77861'
+    type: a.k.a.
+    category: strong
+    last_name: AO KORPORATSIYA GALAKTIKA
+  - uid: '77862'
+    type: a.k.a.
+    category: strong
+    last_name: GALACTICA CORPORATION
+  - uid: '77863'
+    type: a.k.a.
+    category: weak
+    last_name: GALAXY CORPORATION
+address_list:
+  items:
+  - uid: '75549'
+    address1: Alleya Teatralnaya
+    address2: D. 3, Str. 1
+    city: Moscow
+    postal_code: '125167'
+    country: Russia
+id_list:
+  items:
+  - uid: '41478'
+    id_type: Registration Number
+    id_number: '1027739341520'
+    id_country: Russia
+  - uid: '41479'
+    id_type: Tax ID No.
+    id_number: '7707140573'
+    id_country: Russia
+  - uid: '178033'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

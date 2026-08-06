@@ -1,0 +1,45 @@
+---
+uid: '46783'
+last_name: JOINT STOCK COMPANY NIZHNY NOVGOROD PLANT OF THE 70TH ANNIVERSARY OF VICTORY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '72254'
+    type: a.k.a.
+    category: strong
+    last_name: AO NIZHEGORODSKIY ZAVOD 70 LETIYA POBEDY
+  - uid: '72255'
+    type: a.k.a.
+    category: strong
+    last_name: AO NZ 70 LETIYA POBEDY
+  - uid: '72256'
+    type: a.k.a.
+    category: weak
+    last_name: NZSLP
+  - uid: '72257'
+    type: a.k.a.
+    category: strong
+    last_name: ZAVOD 70 LETIYA POBEDY
+address_list:
+  items:
+  - uid: '69717'
+    address1: 21 Sormovskoe Highway
+    city: Nizhny Novgorod
+    postal_code: '603052'
+    country: Russia
+id_list:
+  items:
+  - uid: '36861'
+    id_type: Tax ID No.
+    id_number: '5259113339'
+    id_country: Russia
+  - uid: '36862'
+    id_type: Registration Number
+    id_number: '1145259004296'
+    id_country: Russia
+  - uid: '176303'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

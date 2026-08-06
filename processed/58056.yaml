@@ -1,0 +1,50 @@
+---
+uid: '58056'
+last_name: CORPORACION ANTILLANA EXPORTADORA SA
+sdn_type: Entity
+program_list:
+  programs:
+  - CUBA-EO14404
+aka_list:
+  items:
+  - uid: '89793'
+    type: a.k.a.
+    category: strong
+    last_name: ANTEX S.A.
+  - uid: '89794'
+    type: a.k.a.
+    category: strong
+    last_name: CORPORACION ANTEX, S.A.
+  - uid: '89795'
+    type: a.k.a.
+    category: strong
+    last_name: CORPORACION COMERCIAL ANTEX, S.A.
+  - uid: '89796'
+    type: a.k.a.
+    category: strong
+    last_name: ANTEX EXPORTING CORPORATION S.A.
+  - uid: '89827'
+    type: a.k.a.
+    category: strong
+    last_name: ANTILLEAN EXPORTER PLC
+address_list:
+  items:
+  - uid: '89155'
+    city: Havana
+    country: Cuba
+id_list:
+  items:
+  - uid: '52623'
+    id_type: Entity Code
+    id_number: '60245'
+    id_country: Cuba
+  - uid: '199346'
+    id_type: Organization Established Date
+    id_number: 01 Jan 1998
+  - uid: '199440'
+    id_type: 'Organization Type:'
+    id_number: Management consultancy activities
+  - uid: '199441'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
+remarks: "(Linked To: GRUPO DE ADMINISTRACION EMPRESARIAL S.A.)"

@@ -1,0 +1,32 @@
+---
+uid: '10589'
+first_name: Ceylan
+last_name: DUZCAN
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '14721'
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '5141'
+    id_type: Passport
+    id_number: '315408'
+    id_country: Turkey
+  - uid: '5142'
+    id_type: Driver's License No.
+    id_number: '11550'
+    id_country: Turkey
+date_of_birth_list:
+  items:
+  - uid: '5930'
+    date_of_birth: 01 Mar 1975
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '5931'
+    place_of_birth: Savsat, Turkey
+    main_entry: 'true'

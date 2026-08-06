@@ -1,0 +1,55 @@
+---
+uid: '15950'
+last_name: BANDAR IMAM PETROCHEMICAL COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN
+  - NPWMD
+  - IFSR
+aka_list:
+  items:
+  - uid: '42424'
+    type: a.k.a.
+    category: strong
+    last_name: BANDAR IMAM PETROCHEMICAL
+  - uid: '42425'
+    type: a.k.a.
+    category: strong
+    last_name: BANDAR IMAM PETROCHEMICAL COMPANY LTD
+  - uid: '42426'
+    type: a.k.a.
+    category: strong
+    last_name: BANDAR IMAM PETROCHEMICAL CO
+  - uid: '42427'
+    type: a.k.a.
+    category: weak
+    last_name: BIPC
+address_list:
+  items:
+  - uid: '23965'
+    address1: North Kargar Street
+    city: Tehran
+    country: Iran
+  - uid: '23966'
+    city: Mahshahr, Bandar Imam
+    state_or_province: Khuzestan Province
+    country: Iran
+  - uid: '40692'
+    address1: Imam Khumaini Port
+    city: Mahshahr
+    state_or_province: Khuzestan
+    country: Iran
+  - uid: '40694'
+    address1: P.O. Box 314
+    country: Iran
+id_list:
+  items:
+  - uid: '17486'
+    id_type: National ID No.
+    id_number: '6301'
+    id_country: Iran
+  - uid: '119109'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: PERSIAN GULF PETROCHEMICAL INDUSTRY CO.)"

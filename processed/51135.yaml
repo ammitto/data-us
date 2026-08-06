@@ -1,0 +1,56 @@
+---
+uid: '51135'
+last_name: JOINT STOCK COMPANY SCIENTIFIC PRODUCTION ENTERPRISE PLANT ISKRA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80154'
+    type: a.k.a.
+    category: strong
+    last_name: AO NAUCHNO PROIZVODSTVENNOE PREDPRIYATIE ZAVOD ISKRA
+  - uid: '80155'
+    type: a.k.a.
+    category: strong
+    last_name: JSC RESEARCH AND PRODUCTION ENTERPRISE PLANT ISKRA
+  - uid: '80156'
+    type: a.k.a.
+    category: strong
+    last_name: NPP PLANT ISKRA
+  - uid: '80157'
+    type: a.k.a.
+    category: strong
+    last_name: AO NPP ZAVOD ISKRA
+  - uid: '80158'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO NAUCHNO PROIZVODSTVENNOE PREDPRIIATIE ZAVOD
+      ISKRA
+address_list:
+  items:
+  - uid: '77719'
+    address1: 75 Narimanov Avenue
+    city: Ulyanovsk
+    postal_code: '432030'
+    country: Russia
+id_list:
+  items:
+  - uid: '43268'
+    id_type: Tax ID No.
+    id_number: '7325081527'
+    id_country: Russia
+  - uid: '43269'
+    id_type: Registration Number
+    id_number: '1087325005756'
+    id_country: Russia
+  - uid: '180175'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '180176'
+    id_type: Organization Established Date
+    id_number: 26 Jun 2008
+  - uid: '180177'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

@@ -1,0 +1,34 @@
+---
+uid: '52137'
+last_name: GAZPROM NEFT KAZAKHSTAN LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+address_list:
+  items:
+  - uid: '79581'
+    address1: Prospekt Abaya 26 A, 2 Floor
+    city: Almaty
+    postal_code: '050013'
+    country: Kazakhstan
+  - uid: '79582'
+    address1: Furmanova 187B
+    city: Almaty
+    postal_code: '050000'
+    country: Kazakhstan
+id_list:
+  items:
+  - uid: '45034'
+    id_type: Business Registration Number
+    id_number: '070540009192'
+    id_country: Kazakhstan
+  - uid: '183045'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183404'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+remarks: "(Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM NEFT)"

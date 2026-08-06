@@ -1,0 +1,34 @@
+---
+uid: '48099'
+first_name: Igor Borisovich
+last_name: RAKITIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '72149'
+    country: Russia
+id_list:
+  items:
+  - uid: '38991'
+    id_type: Tax ID No.
+    id_number: '100602094834'
+    id_country: Russia
+  - uid: '176597'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '170029'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '70027'
+    date_of_birth: 05 Oct 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '70028'
+    place_of_birth: Uvarovo, Tambov Region, Russia
+    main_entry: 'true'

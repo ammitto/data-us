@@ -1,0 +1,51 @@
+---
+uid: '45709'
+last_name: ALBATROS OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70614'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU ALBATROS
+  - uid: '70615'
+    type: a.k.a.
+    category: strong
+    last_name: ALBATROS LLC
+address_list:
+  items:
+  - uid: '67961'
+    address1: str. 5/12 pom. 253, ul. Sh-2 Ter. Oez Alabuga
+    city: Yelabuga
+    state_or_province: Tatarstan
+    postal_code: '423601'
+    country: Russia
+  - uid: '67962'
+    city: Pushkino
+    country: Russia
+id_list:
+  items:
+  - uid: '35408'
+    id_type: Tax ID No.
+    id_number: '5038127220'
+    id_country: Russia
+  - uid: '35409'
+    id_type: Registration Number
+    id_number: '1175050004161'
+    id_country: Russia
+  - uid: '35410'
+    id_type: Registration Number
+    id_number: '15516028'
+    id_country: Russia
+  - uid: '169664'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '166283'
+    id_type: Organization Established Date
+    id_number: 27 Apr 2017
+  - uid: '166284'
+    id_type: 'Organization Type:'
+    id_number: Manufacture of air and spacecraft and related machinery

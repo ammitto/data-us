@@ -1,0 +1,55 @@
+---
+uid: '53824'
+first_name: Gayk
+last_name: ASATRYAN
+sdn_type: Individual
+program_list:
+  programs:
+  - DPRK3
+aka_list:
+  items:
+  - uid: '83874'
+    type: a.k.a.
+    category: strong
+    last_name: ASATRYAN
+    first_name: Gaik
+  - uid: '83875'
+    type: a.k.a.
+    category: strong
+    last_name: ASATRYAN
+    first_name: Gayk Vanushevich
+address_list:
+  items:
+  - uid: '82152'
+    country: Russia
+id_list:
+  items:
+  - uid: '47217'
+    id_type: Passport
+    id_number: '0519689094'
+    id_country: Russia
+    issue_date: 01 Jul 2019
+  - uid: '47218'
+    id_type: Tax ID No.
+    id_number: '250209385021'
+    id_country: Russia
+  - uid: '188862'
+    id_type: Gender
+    id_number: Male
+  - uid: '188864'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '188863'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+date_of_birth_list:
+  items:
+  - uid: '88861'
+    date_of_birth: 14 Jun 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '88860'
+    place_of_birth: Abovyan, Armenia
+    main_entry: 'true'

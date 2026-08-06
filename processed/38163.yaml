@@ -1,0 +1,37 @@
+---
+uid: '38163'
+last_name: JOINT STOCK COMPANY DESIGN CENTER SOYUZ
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59986'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO DIZAIN TSENTR SOYUZ
+address_list:
+  items:
+  - uid: '57180'
+    address1: K. 100, KOM. 205
+    city: Zelenograd
+    state_or_province: Moscow
+    postal_code: '124482'
+    country: Russia
+id_list:
+  items:
+  - uid: '27451'
+    id_type: Tax ID No.
+    id_number: '7735143270'
+    id_country: Russia
+  - uid: '27452'
+    id_type: Registration Number
+    id_number: '1157746403033'
+    id_country: Russia
+  - uid: '174643'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '153433'
+    id_type: Organization Established Date
+    id_number: 29 Apr 2015

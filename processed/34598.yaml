@@ -1,0 +1,52 @@
+---
+uid: '34598'
+first_name: Sergei Sergeevich
+last_name: IVANOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54173'
+    type: a.k.a.
+    category: strong
+    last_name: IVANOV JR.
+    first_name: Sergey
+  - uid: '54174'
+    type: a.k.a.
+    category: strong
+    last_name: IVANOV
+    first_name: Sergey Sergeevich
+address_list:
+  items:
+  - uid: '51812'
+    address1: 12 BLD 1 Rochdelskaya Street Apt 13
+    city: Moscow
+    postal_code: '123002'
+    country: Russia
+id_list:
+  items:
+  - uid: '24206'
+    id_type: Passport
+    id_number: '759511560'
+    id_country: Russia
+    issue_date: 29 Oct 2018
+    expiration_date: 29 Oct 2028
+  - uid: '175148'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '146017'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '46015'
+    date_of_birth: 23 Oct 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '46016'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'
+remarks: "(Linked To: IVANOV, Sergei Borisovich)"

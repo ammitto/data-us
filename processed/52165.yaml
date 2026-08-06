@@ -1,0 +1,41 @@
+---
+uid: '52165'
+first_name: Denis Olegovich
+last_name: DERYUSHKIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+address_list:
+  items:
+  - uid: '79618'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '45056'
+    id_type: Passport
+    id_number: '758516894'
+    id_country: Russia
+    expiration_date: 17 Jul 2028
+  - uid: '183068'
+    id_type: Gender
+    id_number: Male
+  - uid: '183067'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184551'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+date_of_birth_list:
+  items:
+  - uid: '83070'
+    date_of_birth: 20 Oct 1988
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '83071'
+    place_of_birth: Gorkiy, Russia
+    main_entry: 'true'

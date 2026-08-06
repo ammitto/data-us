@@ -1,0 +1,38 @@
+---
+uid: '47642'
+last_name: AKTSIONERNOE OBSHCHESTVO AKONIT URAL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73795'
+    type: a.k.a.
+    category: weak
+    last_name: AO AUR
+  - uid: '73796'
+    type: a.k.a.
+    category: strong
+    last_name: JSC AKONIT URAL
+address_list:
+  items:
+  - uid: '71194'
+    address1: Ter. Oez Alabuga, Ul. Sh-2 Str. 13A
+    address2: Kab. 213
+    city: Yelabuga
+    postal_code: '423601'
+    country: Russia
+id_list:
+  items:
+  - uid: '38229'
+    id_type: Registration Number
+    id_number: '1196658020470'
+    id_country: Russia
+  - uid: '38230'
+    id_type: Tax ID No.
+    id_number: '6685160839'
+    id_country: Russia
+  - uid: '169721'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

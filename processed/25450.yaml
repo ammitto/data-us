@@ -1,0 +1,43 @@
+---
+uid: '25450'
+last_name: KHAZAR SEA SHIPPING LINES
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '40034'
+    type: a.k.a.
+    category: strong
+    last_name: DARYA-YE KHAZAR SHIPPING LINES
+address_list:
+  items:
+  - uid: '38508'
+    address1: Shahid Mostafa Khomeini Street, Ghazian Street
+    address2: PO Box 43145/1711-324
+    city: Bandar Azali
+    postal_code: '4315671145'
+    country: Iran
+  - uid: '38509'
+    address1: Mostafa Khomeini St. Ghazian
+    address2: PO BOX 4315671145
+    city: Anzali Free Zone
+    country: Iran
+  - uid: '64364'
+    address1: 4/1 Savushkina Street
+    city: Astrakhan
+    postal_code: '414056'
+    country: Russia
+id_list:
+  items:
+  - uid: '129057'
+    id_type: Website
+    id_number: www.khazarshipping.ir
+  - uid: '129056'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '173944'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

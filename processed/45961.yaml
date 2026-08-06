@@ -1,0 +1,29 @@
+---
+uid: '45961'
+last_name: LIMITED LIABILITY COMPANY DORIS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '68409'
+    address1: 118 40 Years of Victory St.
+    address2: Office 43
+    city: Izhevsk
+    postal_code: '426058'
+    country: Russia
+id_list:
+  items:
+  - uid: '35743'
+    id_type: Registration Number
+    id_number: '1151841003401'
+    id_country: Russia
+  - uid: '35744'
+    id_type: Tax ID No.
+    id_number: '1841050040'
+    id_country: Russia
+  - uid: '174842'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: OSETROVA, Maria Aleksandrovna)"

@@ -1,0 +1,78 @@
+---
+uid: '18709'
+last_name: JOINT STOCK COMPANY SBERBANK LEASING
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13662
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '29288'
+    type: a.k.a.
+    category: strong
+    last_name: CJSC SBERBANK LEASING
+  - uid: '29289'
+    type: a.k.a.
+    category: strong
+    last_name: SBERBANK LEASING ZAO
+  - uid: '29290'
+    type: a.k.a.
+    category: strong
+    last_name: SBERBANK LIZING ZAKRYTOE AKTSIONERNOE OBSHCHESTVO
+  - uid: '29291'
+    type: a.k.a.
+    category: strong
+    last_name: SBERBANK LEASING JSC
+  - uid: '29292'
+    type: f.k.a.
+    category: strong
+    last_name: RUSSKO-GERMANSKAYA LIZINGOVAYA KOMPANIYA ZAO
+address_list:
+  items:
+  - uid: '28412'
+    address1: Novoivanovskoe workers settlement
+    city: Odintsovo
+    state_or_province: Moscow Region
+    postal_code: '143026'
+    country: Russia
+  - uid: '28413'
+    address1: 6 Vorobievskoe shosse
+    city: Moscow
+    postal_code: '119285'
+    country: Russia
+id_list:
+  items:
+  - uid: '10974'
+    id_type: Registration ID
+    id_number: '1027739000728'
+    id_country: Russia
+  - uid: '24678'
+    id_type: Tax ID No.
+    id_number: '7707009586'
+    id_country: Russia
+  - uid: '146731'
+    id_type: Executive Order 14024 Directive Information -
+    id_number: 'For more information on directives, please visit the following link:
+      https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives'
+  - uid: '146855'
+    id_type: 'Listing Date (EO 14024 Directive 2):'
+    id_number: 24 Feb 2022
+  - uid: '146856'
+    id_type: 'Effective Date (EO 14024 Directive 2):'
+    id_number: 26 Mar 2022
+  - uid: '151165'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '118149'
+    id_type: Website
+    id_number: www.sberleasing.ru
+  - uid: '173878'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '118418'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 1
+remarks: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)'

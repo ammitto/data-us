@@ -1,0 +1,40 @@
+---
+uid: '57614'
+first_name: Mohammadmahdi
+last_name: MALEKI
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+  - IRAN-CON-ARMS-EO
+aka_list:
+  items:
+  - uid: '89196'
+    type: a.k.a.
+    category: strong
+    last_name: MALEKI
+    first_name: Mohammad Mahdi
+address_list:
+  items:
+  - uid: '88355'
+    country: Belarus
+id_list:
+  items:
+  - uid: '52031'
+    id_type: Passport
+    id_number: I67689026
+    id_country: Iran
+    expiration_date: '09 Mar 2029'
+  - uid: '197965'
+    id_type: Gender
+    id_number: Male
+  - uid: '197978'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '97964'
+    date_of_birth: 26 Apr 1995
+    main_entry: 'true'
+remarks: "(Linked To: CENTER FOR INNOVATION AND TECHNOLOGY COOPERATION)"

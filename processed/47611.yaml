@@ -1,0 +1,38 @@
+---
+uid: '47611'
+last_name: LIMITED LIABILITY COMPANY GULFWIND
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73728'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY GALFVIND
+  - uid: '73729'
+    type: a.k.a.
+    category: strong
+    last_name: HALFWIND LIMITED LIABILITY COMPANY
+address_list:
+  items:
+  - uid: '71129'
+    address1: Per. Neishlotskii D. 23
+    address2: Lit. A, Pomeshch. 10N
+    city: Saint Petersburg
+    postal_code: '194044'
+    country: Russia
+id_list:
+  items:
+  - uid: '38174'
+    id_type: Registration Number
+    id_number: '1187847004531'
+    id_country: Russia
+  - uid: '38175'
+    id_type: Tax ID No.
+    id_number: '7804613602'
+    id_country: Russia
+  - uid: '169853'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

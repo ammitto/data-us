@@ -1,0 +1,30 @@
+---
+uid: '8117'
+first_name: Tomislav
+last_name: KOVAC
+sdn_type: Individual
+program_list:
+  programs:
+  - BALKANS
+aka_list:
+  items:
+  - uid: '6716'
+    type: a.k.a.
+    category: weak
+    last_name: TOMO
+id_list:
+  items:
+  - uid: '2219'
+    id_type: Passport
+    id_number: '412959171315'
+    id_country: Bosnia and Herzegovina
+date_of_birth_list:
+  items:
+  - uid: '2441'
+    date_of_birth: 04 Dec 1959
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '2442'
+    place_of_birth: Sarajevo, Bosnia-Herzegovina
+    main_entry: 'true'

@@ -1,0 +1,50 @@
+---
+uid: '13156'
+last_name: MINISTRY OF DEFENCE EXPORT CENTER
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+  - IRAN-CON-ARMS-EO
+aka_list:
+  items:
+  - uid: '14812'
+    type: a.k.a.
+    category: strong
+    last_name: MINISTRY OF DEFENSE LEGION EXPORT
+  - uid: '14813'
+    type: a.k.a.
+    category: weak
+    last_name: MODLEX
+  - uid: '89137'
+    type: a.k.a.
+    category: strong
+    last_name: MINISTRY OF DEFENSE LOGISTICS EXPORT
+  - uid: '89138'
+    type: a.k.a.
+    category: weak
+    last_name: MINDEX CENTER
+  - uid: '89139'
+    type: a.k.a.
+    category: weak
+    last_name: MINDEX
+address_list:
+  items:
+  - uid: '21026'
+    address1: PO Box 16315-189, Tehran, Iran
+    address2: located on the west side of Dabestan Street
+    address3: Abbas Abad District
+    city: Tehran
+    country: Iran
+  - uid: '21027'
+    address1: PO Box 19315-189
+    address2: Pasdaran Street
+    address3: South Noubonyand Square
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '114267'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

@@ -1,0 +1,55 @@
+---
+uid: '11962'
+first_name: Juan Gabriel
+last_name: MONTES SERMENO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '12662'
+    type: a.k.a.
+    category: strong
+    last_name: MONTES SERMENO
+    first_name: Gabriel
+  - uid: '12663'
+    type: a.k.a.
+    category: strong
+    last_name: MONTES
+    first_name: Juan Gabriel
+  - uid: '12664'
+    type: a.k.a.
+    category: strong
+    last_name: MONTES ZERMENO
+    first_name: Gabriel
+address_list:
+  items:
+  - uid: '18119'
+    address1: Calle Libertad No. 5
+    address2: Col. San Fernando
+    city: Matamoros
+    state_or_province: Tamaulipas
+    country: Mexico
+  - uid: '18120'
+    address1: Calle Libertad No. 84
+    address2: Col. San Fernando
+    city: Matamoros
+    state_or_province: Tamaulipas
+    country: Mexico
+id_list:
+  items:
+  - uid: '6306'
+    id_type: C.U.R.P.
+    id_number: MOSJ731027HTSNRN02
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '7468'
+    date_of_birth: 27 Oct 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '7469'
+    place_of_birth: Tamaulipas
+    main_entry: 'true'

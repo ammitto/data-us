@@ -1,0 +1,29 @@
+---
+uid: '50315'
+first_name: Yevgeniya Alekseyevna
+last_name: BELOUSOVA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '76243'
+    country: Russia
+id_list:
+  items:
+  - uid: '42029'
+    id_type: Tax ID No.
+    id_number: '772407827828'
+    id_country: Russia
+  - uid: '178259'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '178257'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '78256'
+    date_of_birth: 16 Aug 1993
+    main_entry: 'true'

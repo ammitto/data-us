@@ -1,0 +1,41 @@
+---
+uid: '33011'
+first_name: Washington
+last_name: ANTUNEZ MUSSO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '51910'
+    type: a.k.a.
+    category: weak
+    last_name: PAPO
+address_list:
+  items:
+  - uid: '49663'
+    country: Colombia
+id_list:
+  items:
+  - uid: '22696'
+    id_type: Cedula No.
+    id_number: '1015413405'
+    id_country: Colombia
+  - uid: '22697'
+    id_type: Passport
+    id_number: AU199512
+    id_country: Colombia
+  - uid: '142767'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '42765'
+    date_of_birth: 20 Aug 1987
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '42766'
+    place_of_birth: Salto, Uruguay
+    main_entry: 'true'

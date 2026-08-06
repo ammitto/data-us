@@ -1,0 +1,36 @@
+---
+uid: '37451'
+first_name: Andrei Valeryevich
+last_name: GASILOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '55995'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '26635'
+    id_type: Tax ID No.
+    id_number: '526310349913'
+    id_country: Russia
+  - uid: '152203'
+    id_type: Gender
+    id_number: Male
+  - uid: '173407'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '52202'
+    date_of_birth: 14 Jul 1982
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '52205'
+    place_of_birth: Gorky, Russia
+    main_entry: 'true'
+remarks: "(Linked To: JSC ARGUMENT)"

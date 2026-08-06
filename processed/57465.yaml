@@ -1,0 +1,43 @@
+---
+uid: '57465'
+first_name: Xinchun
+last_name: LI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13846
+address_list:
+  items:
+  - uid: '88087'
+    address1: 9 Donggang Rd, Building 9 Room 2302, Huangdao
+    city: Qingdao
+    state_or_province: Shandong
+    postal_code: '266520'
+    country: China
+id_list:
+  items:
+  - uid: '51815'
+    id_type: National ID No.
+    id_number: '370203196402020313'
+    id_country: China
+  - uid: '51816'
+    id_type: Passport
+    id_number: EB7969411
+    id_country: China
+  - uid: '197640'
+    id_type: 'Executive Order 13846 information:'
+    id_number: BLOCKING PROPERTY AND INTERESTS IN PROPERTY.  Sec. 5(a)(iv)
+  - uid: '197639'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '97637'
+    date_of_birth: 02 Feb 1964
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '97638'
+    place_of_birth: Qingdao, China
+    main_entry: 'true'
+remarks: "(Linked To: QINGDAO HAIYE OIL TERMINAL CO., LTD.)"

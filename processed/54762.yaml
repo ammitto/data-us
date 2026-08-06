@@ -1,0 +1,40 @@
+---
+uid: '54762'
+first_name: Chol Min
+last_name: MYONG
+sdn_type: Individual
+program_list:
+  programs:
+  - DPRK4
+address_list:
+  items:
+  - uid: '83672'
+    country: Korea, North
+id_list:
+  items:
+  - uid: '48539'
+    id_type: Passport
+    id_number: '745338501'
+    id_country: Korea, North
+    issue_date: 19 Sep 2015
+    expiration_date: 19 Sep 2020
+  - uid: '191661'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '191662'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '191204'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '91202'
+    date_of_birth: 25 Sep 1966
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '91203'
+    place_of_birth: Pyongyang, North Korea
+    main_entry: 'true'

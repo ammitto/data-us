@@ -1,0 +1,42 @@
+---
+uid: '17146'
+first_name: Felipe
+last_name: CABRERA SARABIA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '26299'
+    type: a.k.a.
+    category: strong
+    last_name: VELAZQUEZ MANJARREZ
+    first_name: Miguel
+  - uid: '26301'
+    type: a.k.a.
+    category: weak
+    last_name: EL INGENIERO
+  - uid: '26302'
+    type: a.k.a.
+    category: weak
+    last_name: EL SENOR DE LA SIERRA
+id_list:
+  items:
+  - uid: '9595'
+    id_type: C.U.R.P.
+    id_number: CASF710823HDGBRL06
+    id_country: Mexico
+  - uid: '116299'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '15924'
+    date_of_birth: 23 Aug 1971
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '15925'
+    place_of_birth: Santiago Papasquiaro, Durango, Mexico
+    main_entry: 'true'

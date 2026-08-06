@@ -1,0 +1,35 @@
+---
+uid: '41115'
+last_name: LIMITED LIABILITY COMPANY MALVIN SYSTEMS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '64125'
+    type: a.k.a.
+    category: weak
+    last_name: MALVINE SYSTEMS
+address_list:
+  items:
+  - uid: '61460'
+    address1: Michurinskiy avenue, house 27, floor 3
+    address2: Room 22, building 5
+    city: Moscow
+    postal_code: '119706'
+    country: Russia
+id_list:
+  items:
+  - uid: '30455'
+    id_type: Registration Number
+    id_number: '5067746886532'
+    id_country: Russia
+  - uid: '30456'
+    id_type: Tax ID No.
+    id_number: '7729557963'
+    id_country: Russia
+  - uid: '173645'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: LIMITED LIABILITY COMPANY CITADEL)"

@@ -1,0 +1,38 @@
+---
+uid: '41957'
+last_name: PETERSBURG INTELLIGENT TRANSPORT LOGISTICS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65188'
+    type: a.k.a.
+    category: strong
+    last_name: PIT LOGISTIKS
+  - uid: '65189'
+    type: a.k.a.
+    category: strong
+    last_name: PIT LOGISTICS
+address_list:
+  items:
+  - uid: '62568'
+    address1: Pr-kt Leninskii d. 153
+    address2: pomeshch. 233N office 718
+    city: Saint Petersburg
+    postal_code: '196247'
+    country: Russia
+id_list:
+  items:
+  - uid: '31318'
+    id_type: Registration Number
+    id_number: '1167847504219'
+    id_country: Russia
+  - uid: '31319'
+    id_type: Tax ID No.
+    id_number: '7810639510'
+    id_country: Russia
+  - uid: '173705'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

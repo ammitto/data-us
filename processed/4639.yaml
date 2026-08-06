@@ -1,0 +1,37 @@
+---
+uid: '4639'
+last_name: BANK KESHAVARZI IRAN
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '3557'
+    type: a.k.a.
+    category: strong
+    last_name: AGRICULTURAL BANK OF IRAN
+  - uid: '12144'
+    type: a.k.a.
+    category: strong
+    last_name: BANK KESHAVARZI
+address_list:
+  items:
+  - uid: '2905'
+    address1: PO Box 14155-6395, 129 Patrice Lumumba St, Jalal-al-Ahmad Expressway
+    city: Tehran
+    postal_code: '14454'
+    country: Iran
+id_list:
+  items:
+  - uid: '137345'
+    id_type: Website
+    id_number: www.agri-bank.com
+  - uid: '137346'
+    id_type: Website
+    id_number: www.bki.ir
+  - uid: '137292'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: all offices worldwide

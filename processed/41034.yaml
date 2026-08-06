@@ -1,0 +1,31 @@
+---
+uid: '41034'
+first_name: Vladimir Viktorovich
+last_name: SOLODOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '61307'
+    state_or_province: Kamchatka Territory
+    country: Russia
+id_list:
+  items:
+  - uid: '158826'
+    id_type: Gender
+    id_number: Male
+  - uid: '173567'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '58829'
+    date_of_birth: 26 Jul 1982
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '58828'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'

@@ -1,0 +1,41 @@
+---
+uid: '49443'
+first_name: Sergey Pavlovich
+last_name: YURASOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77118'
+    type: a.k.a.
+    category: strong
+    last_name: IURASOV
+    first_name: Sergei Pavlovich
+address_list:
+  items:
+  - uid: '74552'
+    country: Russia
+id_list:
+  items:
+  - uid: '40756'
+    id_type: Tax ID No.
+    id_number: '525616920000'
+    id_country: Russia
+  - uid: '172513'
+    id_type: Gender
+    id_number: Male
+  - uid: '172757'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '72511'
+    date_of_birth: 04 Jan 1964
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '72512'
+    place_of_birth: Dalniy (Kungur), Perm Region, Russia
+    main_entry: 'true'

@@ -1,0 +1,84 @@
+---
+uid: '10690'
+first_name: Zaki-ur-Rehman
+last_name: LAKHVI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '10720'
+    type: a.k.a.
+    category: strong
+    last_name: LAKVI
+    first_name: Zakir Rehman
+  - uid: '10721'
+    type: a.k.a.
+    category: strong
+    last_name: LAKVI
+    first_name: Zaki Ur-Rehman
+  - uid: '10722'
+    type: a.k.a.
+    category: strong
+    last_name: UR-REHMAN
+    first_name: Zaki
+  - uid: '10723'
+    type: a.k.a.
+    category: strong
+    last_name: REHMAN
+    first_name: Zakir
+  - uid: '10724'
+    type: a.k.a.
+    category: strong
+    last_name: ARSHAD
+    first_name: Abu Waheed Irshad Ahmad
+  - uid: '10727'
+    type: a.k.a.
+    category: weak
+    last_name: CHACHAJEE
+address_list:
+  items:
+  - uid: '15086'
+    address1: Barahkoh, P.O. DO
+    address2: Tehsil and District Islamabad
+    country: Pakistan
+  - uid: '15087'
+    address1: Chak No. 18/IL
+    address2: Rinala Khurd
+    address3: Tehsil Rinala Khurd, District Okara
+    country: Pakistan
+id_list:
+  items:
+  - uid: '5270'
+    id_type: National ID No.
+    id_number: 61101-9618232-1
+    id_country: Pakistan
+  - uid: '7594'
+    id_type: National ID No.
+    id_number: '33960047268'
+    id_country: Pakistan
+  - uid: '7595'
+    id_type: Passport
+    id_number: AC8342321
+    id_country: Pakistan
+    issue_date: 22 Aug 2007
+    expiration_date: 20 Aug 2012
+  - uid: '7596'
+    id_type: Passport
+    id_number: A4827048
+    id_country: Pakistan
+  - uid: '186346'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '6117'
+    date_of_birth: 30 Dec 1960
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '6118'
+    place_of_birth: Okara, Pakistan
+    main_entry: 'true'

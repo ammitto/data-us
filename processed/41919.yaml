@@ -1,0 +1,48 @@
+---
+uid: '41919'
+last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU KHOLDINGOVAYA KOMPANIYA YUESEM
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '65154'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY HOLDING COMPANY YUESEM
+  - uid: '65155'
+    type: a.k.a.
+    category: strong
+    last_name: OOO KHK YUESEM
+  - uid: '65156'
+    type: a.k.a.
+    category: strong
+    last_name: USM HOLDINGS LIMITED
+address_list:
+  items:
+  - uid: '62532'
+    address1: D. 28 Etazh 13 Kom. 21 Shosse Rublevskoe
+    city: Moscow
+    state_or_province: Russia
+    postal_code: '121609'
+    country: Russia
+id_list:
+  items:
+  - uid: '31301'
+    id_type: Registration Number
+    id_number: '1187746450231'
+    id_country: Russia
+  - uid: '31302'
+    id_type: Tax ID No.
+    id_number: '9731001285'
+    id_country: Russia
+  - uid: '173698'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184303'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+remarks: "(Linked To: USMANOV, Alisher Burhanovich)"

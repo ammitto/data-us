@@ -1,0 +1,41 @@
+---
+uid: '50273'
+first_name: Nikita Vladimirovich
+last_name: GUSEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '76137'
+    address1: 7 Sadovaya Street Apt 4
+    city: Sormovsky Proletary
+    postal_code: '606492'
+    country: Russia
+id_list:
+  items:
+  - uid: '41956'
+    id_type: Tax ID No.
+    id_number: '732102356583'
+    id_country: Russia
+  - uid: '41957'
+    id_type: National ID No.
+    id_number: '4511582626'
+    id_country: Russia
+  - uid: '177983'
+    id_type: Gender
+    id_number: Male
+  - uid: '177984'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '77980'
+    date_of_birth: 25 Feb 1992
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '77981'
+    place_of_birth: Kriushi, Russia
+    main_entry: 'true'

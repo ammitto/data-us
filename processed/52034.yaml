@@ -1,0 +1,24 @@
+---
+uid: '52034'
+last_name: OXIS
+sdn_type: Vessel
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - SDGT
+id_list:
+  items:
+  - uid: '44859'
+    id_type: Vessel Registration Identification
+    id_number: IMO 9224805
+  - uid: '44860'
+    id_type: MMSI
+    id_number: '613612000'
+  - uid: '182706'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184780'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: "(Linked To: UMBRA NAVI SHIPMANAGEMENT CORP; Linked To: MILETUS LINE LTD)"

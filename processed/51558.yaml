@@ -1,0 +1,39 @@
+---
+uid: '51558'
+last_name: LENINOGORSKREMSERVICE LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '80830'
+    type: a.k.a.
+    category: weak
+    last_name: LRS LLC
+address_list:
+  items:
+  - uid: '78569'
+    address1: Ul. Chaikovskogo D. 9A
+    address2: K. 9/1
+    city: Leninogorsk
+    postal_code: '423250'
+    country: Russia
+id_list:
+  items:
+  - uid: '43996'
+    id_type: Registration Number
+    id_number: '1071689002923'
+    id_country: Russia
+  - uid: '43997'
+    id_type: Tax ID No.
+    id_number: '1649015690'
+    id_country: Russia
+  - uid: '181238'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183402'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

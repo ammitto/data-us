@@ -1,0 +1,33 @@
+---
+uid: '25749'
+first_name: Erika
+last_name: GONZALEZ VALENCIA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '38973'
+    city: Guadalajara
+    state_or_province: Jalisco
+    country: Mexico
+id_list:
+  items:
+  - uid: '16654'
+    id_type: C.U.R.P.
+    id_number: GOVE740622MMNNLR00
+    id_country: Mexico
+  - uid: '129867'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '29866'
+    date_of_birth: 22 Jun 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '29868'
+    place_of_birth: Michoacan de Ocampo, Mexico
+    main_entry: 'true'

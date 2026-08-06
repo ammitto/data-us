@@ -1,0 +1,31 @@
+---
+uid: '43845'
+first_name: Ricardo
+last_name: PAEZ LOPEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '65291'
+    country: Mexico
+id_list:
+  items:
+  - uid: '33246'
+    id_type: C.U.R.P.
+    id_number: PALR921002HSLZPC09
+    id_country: Mexico
+  - uid: '163423'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '63421'
+    date_of_birth: 02 Oct 1992
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '63422'
+    place_of_birth: Sinaloa, Mexico
+    main_entry: 'true'

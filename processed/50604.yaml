@@ -1,0 +1,50 @@
+---
+uid: '50604'
+last_name: MRB BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK3
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79136'
+    type: a.k.a.
+    category: strong
+    last_name: INTERNATIONAL SETTLEMENT BANK LLC
+  - uid: '79137'
+    type: a.k.a.
+    category: strong
+    last_name: MEZHDUNARODNYI RASCHETNYI BANK
+address_list:
+  items:
+  - uid: '76727'
+    address1: Stalin Street 20
+    city: Tskhinvali
+    state_or_province: South Ossetia
+    country: Georgia
+id_list:
+  items:
+  - uid: '42455'
+    id_type: Registration Number
+    id_number: '1159800030409'
+    id_country: Russia
+  - uid: '178984'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '178935'
+    id_type: Organization Established Date
+    id_number: 15 May 2015
+  - uid: '178942'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '178934'
+    id_type: Website
+    id_number: https://mrb-bank.ru/
+  - uid: '178985'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '179189'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

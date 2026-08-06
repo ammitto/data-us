@@ -1,0 +1,46 @@
+---
+uid: '45397'
+first_name: Xuebi
+last_name: GAN
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '70254'
+    type: a.k.a.
+    category: weak
+    last_name: CHEN, Bella
+address_list:
+  items:
+  - uid: '67548'
+    address1: No. 21 Ganwang Village
+    address2: Dongshan Village, Jinkou Street
+    address3: Jiangxia District
+    city: Wuhan City
+    state_or_province: Hubei Province
+    country: China
+id_list:
+  items:
+  - uid: '35142'
+    id_type: Passport
+    id_number: C38528840
+    id_country: China
+  - uid: '35143'
+    id_type: National ID No.
+    id_number: '420115199211153621'
+    id_country: China
+  - uid: '165885'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '65882'
+    date_of_birth: 15 Nov 1992
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '65883'
+    place_of_birth: Hubei, China
+    main_entry: 'true'

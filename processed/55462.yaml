@@ -1,0 +1,42 @@
+---
+uid: '55462'
+first_name: Yunlu
+last_name: HU
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '86285'
+    type: a.k.a.
+    category: weak
+    last_name: HU, Hans
+address_list:
+  items:
+  - uid: '84795'
+    country: China
+id_list:
+  items:
+  - uid: '49471'
+    id_type: National ID No.
+    id_number: '420222199004010512'
+    id_country: China
+  - uid: '192918'
+    id_type: Gender
+    id_number: Male
+  - uid: '192926'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '92917'
+    date_of_birth: 01 Apr 1990
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '92920'
+    place_of_birth: Yangxin County, Huangshi, Hubei, China
+    main_entry: 'true'
+remarks: "(Linked To: ROCKET PCB SOLUTION LTD)"

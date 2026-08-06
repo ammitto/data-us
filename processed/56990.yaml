@@ -1,0 +1,65 @@
+---
+uid: '56990'
+first_name: Sergey Sergeyevich
+last_name: ZELENYUK
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER4
+  - PAIPA
+  - CAATSA - RUSSIA
+aka_list:
+  items:
+  - uid: '88291'
+    type: a.k.a.
+    category: strong
+    last_name: ZELENYUK
+    first_name: Sergei Sergeevich
+  - uid: '88292'
+    type: a.k.a.
+    category: strong
+    last_name: ZELENYUK
+    first_name: Sergey Sergeevich
+  - uid: '88293'
+    type: a.k.a.
+    category: weak
+    last_name: SRGSRGSRG111
+  - uid: '88294'
+    type: a.k.a.
+    category: weak
+    last_name: MORTENOIR
+address_list:
+  items:
+  - uid: '87206'
+    address1: Rimsky-Korsakov Prospect, Building 109-111, Litera/Block A, Apartment
+      20
+    city: Saint Petersburg
+    postal_code: '190068'
+    country: Russia
+id_list:
+  items:
+  - uid: '51155'
+    id_type: Tax ID No.
+    id_number: '780223642330'
+    id_country: Russia
+  - uid: '196271'
+    id_type: 'PAIPA Section 2 Information:'
+    id_number: BLOCKING OF PROPERTY (individual). Sec.2(b)(2)(a)- All property and
+      interests in property of this individual are blocked, and all transactions with
+      this individual are prohibited, except for the importation of goods.
+  - uid: '196254'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+  - uid: '196148'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '96146'
+    date_of_birth: 17 Mar 1994
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '96147'
+    place_of_birth: Saint Petersburg, Russia
+    main_entry: 'true'

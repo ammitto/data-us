@@ -1,0 +1,62 @@
+---
+uid: '40565'
+last_name: AKTSIONERNOYE OBSHCHESTVO DALNEVOSTOCHNYY TSENTR SUDOSTROYENIYA I SUDOREMONTA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63042'
+    type: a.k.a.
+    category: weak
+    last_name: AO DTSSS
+  - uid: '63045'
+    type: a.k.a.
+    category: weak
+    last_name: JSC DTSSS
+  - uid: '63046'
+    type: a.k.a.
+    category: strong
+    last_name: JSC FAR EASTERN SHIPBUILDING AND SHIP REPAIR CENTER
+  - uid: '63047'
+    type: a.k.a.
+    category: strong
+    last_name: OJSC FAR EASTERN SHIPBUILDING AND SHIP REPAIR CENTER
+  - uid: '63048'
+    type: a.k.a.
+    category: weak
+    last_name: FESRC
+  - uid: '63049'
+    type: a.k.a.
+    category: weak
+    last_name: JSC DCSS
+  - uid: '63050'
+    type: a.k.a.
+    category: weak
+    last_name: FESRC JSC
+address_list:
+  items:
+  - uid: '60424'
+    address1: 72 Svetlanskaya Ulitsa
+    city: Vladivostok
+    state_or_province: Primorsky Territory
+    postal_code: '690001'
+    country: Russia
+id_list:
+  items:
+  - uid: '29710'
+    id_type: Government Gazette Number
+    id_number: '80952329'
+    id_country: Russia
+  - uid: '29712'
+    id_type: Tax ID No.
+    id_number: '2536196045'
+    id_country: Russia
+  - uid: '29713'
+    id_type: Registration Number
+    id_number: '1072536016211'
+    id_country: Russia
+  - uid: '174114'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

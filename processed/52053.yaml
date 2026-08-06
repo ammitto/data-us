@@ -1,0 +1,38 @@
+---
+uid: '52053'
+last_name: ROCKSIDE ENTERPRISE
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+aka_list:
+  items:
+  - uid: '81508'
+    type: a.k.a.
+    category: strong
+    last_name: ROCKSIDE TRADING
+address_list:
+  items:
+  - uid: '79382'
+    address1: House No. 44/1
+    address2: Street No. 17
+    address3: Khayaban-E-Mujahid, Phase-5 DHA
+    city: Karachi
+    country: Pakistan
+  - uid: '79465'
+    address1: 10th Floor, Emerald Tower
+    address2: Main Clifton Road
+    city: Karachi
+    postal_code: '75600'
+    country: Pakistan
+  - uid: '79531'
+    address1: Street 17
+    city: Karachi
+    state_or_province: Sindh
+    country: Pakistan
+id_list:
+  items:
+  - uid: '44884'
+    id_type: Tax ID No.
+    id_number: '1295859'
+    id_country: Pakistan

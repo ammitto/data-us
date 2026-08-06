@@ -1,0 +1,47 @@
+---
+uid: '29544'
+first_name: Alireza
+last_name: AMIN
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13846
+id_list:
+  items:
+  - uid: '19729'
+    id_type: National ID No.
+    id_number: '6549531071'
+    id_country: Iran
+  - uid: '136411'
+    id_type: 'Executive Order 13846 information:'
+    id_number: FOREIGN EXCHANGE.  Sec. 5(a)(ii)
+  - uid: '136412'
+    id_type: 'Executive Order 13846 information:'
+    id_number: BANKING TRANSACTIONS.  Sec. 5(a)(iii)
+  - uid: '136413'
+    id_type: 'Executive Order 13846 information:'
+    id_number: BLOCKING PROPERTY AND INTERESTS IN PROPERTY.  Sec. 5(a)(iv)
+  - uid: '136414'
+    id_type: 'Executive Order 13846 information:'
+    id_number: IMPORT SANCTIONS.  Sec. 5(a)(vi)
+  - uid: '136577'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '136369'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '36366'
+    date_of_birth: '1965'
+    main_entry: 'true'
+  - uid: '36367'
+    date_of_birth: '1966'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '36370'
+    place_of_birth: Darab, Iran
+    main_entry: 'true'
+remarks: "(Linked To: ABADAN OIL REFINING COMPANY)"
+title: Managing Director

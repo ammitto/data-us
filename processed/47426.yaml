@@ -1,0 +1,37 @@
+---
+uid: '47426'
+last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU VALMA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73347'
+    type: a.k.a.
+    category: weak
+    last_name: OOO VALMA
+address_list:
+  items:
+  - uid: '71040'
+    address1: Ul. Dorozhnaya D. 39, Office 314
+    city: Naberezhnyye Chelny
+    state_or_province: Republic of Tatarstan
+    postal_code: '423800'
+    country: Russia
+id_list:
+  items:
+  - uid: '37840'
+    id_type: Registration Number
+    id_number: '1211600038396'
+    id_country: Russia
+  - uid: '37841'
+    id_type: Tax ID No.
+    id_number: '1650402421'
+    id_country: Russia
+  - uid: '169704'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '168933'
+    id_type: Organization Established Date
+    id_number: 24 May 2021

@@ -1,0 +1,52 @@
+---
+uid: '43817'
+first_name: Nawaf Ahmad Alwan
+last_name: AL-RASHIDI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '67831'
+    type: a.k.a.
+    category: strong
+    last_name: SADA
+    first_name: Qahtan Nawaf Ahmad Alwan
+  - uid: '67832'
+    type: a.k.a.
+    category: weak
+    last_name: ALWAN, Nawaf Ahmed
+  - uid: '67833'
+    type: a.k.a.
+    category: weak
+    last_name: Abu Faris
+address_list:
+  items:
+  - uid: '65247'
+    country: Syria
+  - uid: '65248'
+    country: Turkey
+  - uid: '65249'
+    city: Mosul
+    country: Iraq
+id_list:
+  items:
+  - uid: '163372'
+    id_type: Gender
+    id_number: Male
+  - uid: '163377'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '63375'
+    date_of_birth: '1984'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '63374'
+    place_of_birth: Mosul, Iraq
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC STATE OF IRAQ AND THE LEVANT)"

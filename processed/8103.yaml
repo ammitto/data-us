@@ -1,0 +1,47 @@
+---
+uid: '8103'
+first_name: Imed Ben Mekki Ben Al-Akhdar
+last_name: ZARKAOUI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '6705'
+    type: a.k.a.
+    category: weak
+    last_name: NADRA
+  - uid: '6706'
+    type: a.k.a.
+    category: weak
+    last_name: ZARGA
+address_list:
+  items:
+  - uid: '7240'
+    address1: Via Col. Aprosio 588
+    city: Vallecrosia
+    state_or_province: IM
+    country: Italy
+id_list:
+  items:
+  - uid: '4087'
+    id_type: Passport
+    id_number: M174950
+    issue_date: 27 Apr 1999
+    expiration_date: 26 Apr 2004
+  - uid: '185778'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '2419'
+    date_of_birth: 15 Jan 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '2420'
+    place_of_birth: Tunisi (Tunisia)
+    main_entry: 'true'
+remarks: arrested 30 Sep 2002

@@ -1,0 +1,30 @@
+---
+uid: '32671'
+last_name: POLICIA NACIONAL REVOLUCIONARIA
+sdn_type: Entity
+program_list:
+  programs:
+  - GLOMAG
+  - CUBA-EO14404
+aka_list:
+  items:
+  - uid: '89321'
+    type: a.k.a.
+    category: strong
+    last_name: NATIONAL REVOLUTIONARY POLICE
+address_list:
+  items:
+  - uid: '49323'
+    address1: Manzana que ocupan las calles Cuba, Tacon y Chacon
+    address2: La Habana Vieja
+    city: Havana
+    country: Cuba
+id_list:
+  items:
+  - uid: '198220'
+    id_type: Organization Established Date
+    id_number: 05 Jan 1959
+  - uid: '142423'
+    id_type: Target Type
+    id_number: Government Entity
+remarks: "(Linked To: MINISTRY OF INTERIOR OF CUBA)"

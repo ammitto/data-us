@@ -1,0 +1,38 @@
+---
+uid: '51993'
+last_name: JOINT STOCK COMPANY MINING AND COAL PREPARATION COMPLEX INAGLINSKIY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '81388'
+    type: a.k.a.
+    category: strong
+    last_name: GOK INAGLINSKIY
+  - uid: '81389'
+    type: a.k.a.
+    category: strong
+    last_name: INAGLINSKY MINE
+address_list:
+  items:
+  - uid: '79262'
+    address1: Building 1
+    address2: Ter. 1 Denisovskiy
+    city: Neryungrinsky District
+    postal_code: '678960'
+    country: Russia
+id_list:
+  items:
+  - uid: '44789'
+    id_type: Registration Number
+    id_number: '1047796706033'
+    id_country: Russia
+  - uid: '44790'
+    id_type: Tax ID No.
+    id_number: '7704531762'
+    id_country: Russia
+  - uid: '182645'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

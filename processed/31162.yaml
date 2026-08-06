@@ -1,0 +1,57 @@
+---
+uid: '31162'
+first_name: Ahmad Hassan Mohammed
+last_name: AL ASIRI
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '49008'
+    type: a.k.a.
+    category: strong
+    last_name: ASSERI
+    first_name: Ahmed Hassan M.
+  - uid: '49009'
+    type: a.k.a.
+    category: strong
+    last_name: AL-ASIRI
+    first_name: Ahmed
+  - uid: '49010'
+    type: a.k.a.
+    category: strong
+    last_name: AL-ASSIRI
+    first_name: Ahmed
+  - uid: '49011'
+    type: a.k.a.
+    category: strong
+    last_name: ASSIRI
+    first_name: Ahmed
+address_list:
+  items:
+  - uid: '47103'
+    address1: King Abdullah Rd.
+    address2: Ishbilyah
+    city: Riyadh
+    country: Saudi Arabia
+id_list:
+  items:
+  - uid: '21168'
+    id_type: Passport
+    id_number: D106103
+    id_country: Saudi Arabia
+    expiration_date: 05 Oct 2021
+  - uid: '139582'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '39579'
+    date_of_birth: 15 Oct 1966
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '39581'
+    place_of_birth: Tabok, Saudi Arabia
+    main_entry: 'true'

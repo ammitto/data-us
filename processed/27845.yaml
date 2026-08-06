@@ -1,0 +1,37 @@
+---
+uid: '27845'
+first_name: Hossein
+last_name: DEHGHAN
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13876
+aka_list:
+  items:
+  - uid: '43897'
+    type: a.k.a.
+    category: strong
+    last_name: DEHGHAN POUDEH
+    first_name: Hossein
+address_list:
+  items:
+  - uid: '42156'
+    country: Iran
+id_list:
+  items:
+  - uid: '133102'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '133075'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '33072'
+    date_of_birth: '1957'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '33073'
+    place_of_birth: Poudeh, Isfahan, Iran
+    main_entry: 'true'

@@ -1,0 +1,39 @@
+---
+uid: '10651'
+last_name: COMERCIAL JOANA, S.A. DE C.V.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '14958'
+    address1: General Eulogio Parra No. 1750-C, Col. El Retiro
+    city: Guadalajara
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '14959'
+    address1: General Eulogio Parra No. 61, Interior Z, Col. El Retiro
+    city: Guadalajara
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '14960'
+    address1: Parras No. 1750, Col. Educacion Alamos
+    city: Guadalajara
+    country: Mexico
+  - uid: '14961'
+    address1: Calle General Eulogio Parra Numero 61-Z, Col. El Retiro
+    city: Guadalajara
+    state_or_province: Jalisco
+    postal_code: '44280'
+    country: Mexico
+id_list:
+  items:
+  - uid: '5212'
+    id_type: R.F.C.
+    id_number: CJO010202HQH
+    id_country: Mexico
+  - uid: '5213'
+    id_type: R.F.C.
+    id_number: CJO010202HQ4
+    id_country: Mexico

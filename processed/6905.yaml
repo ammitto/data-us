@@ -1,0 +1,62 @@
+---
+uid: '6905'
+first_name: Zayn al-Abidin Muhammad
+last_name: HUSAYN
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '4784'
+    type: a.k.a.
+    category: strong
+    last_name: HUSAIN
+    first_name: Zain Al-Abidin Muhammad
+  - uid: '4785'
+    type: a.k.a.
+    category: weak
+    last_name: ABU ZUBAIDA
+  - uid: '10004'
+    type: a.k.a.
+    category: strong
+    last_name: HUSSEIN
+    first_name: Zayn al-Abidin Muhammad
+  - uid: '10005'
+    type: a.k.a.
+    category: strong
+    last_name: ABU ZUBEIDAH
+    first_name: Zeinulabideen Muhammed Husein
+  - uid: '52469'
+    type: a.k.a.
+    category: weak
+    last_name: ABU ZUBAYDAH
+address_list:
+  items:
+  - uid: '50102'
+    address1: Guantanamo Bay detention center
+    country: Cuba
+id_list:
+  items:
+  - uid: '4901'
+    id_type: Passport
+    id_number: '484824'
+    id_country: Egypt
+    issue_date: 18 Jan 1984
+  - uid: '143340'
+    id_type: Gender
+    id_number: Male
+  - uid: '185862'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '1211'
+    date_of_birth: 12 Mar 1971
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '1212'
+    place_of_birth: Riyadh, Saudi Arabia
+    main_entry: 'true'

@@ -1,0 +1,41 @@
+---
+uid: '35006'
+first_name: Bernard Patrick
+last_name: CLANCY
+sdn_type: Individual
+program_list:
+  programs:
+  - TCO
+address_list:
+  items:
+  - uid: '52550'
+    address1: 43 Senorio De Cortes
+    city: Estepona
+    country: Spain
+  - uid: '52551'
+    city: Dubai
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '24718'
+    id_type: Passport
+    id_number: PS0129975
+    id_country: Ireland
+  - uid: '24719'
+    id_type: Passport
+    id_number: PG7546744
+    id_country: Ireland
+  - uid: '146616'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '46615'
+    date_of_birth: 04 Sep 1977
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '50148'
+    place_of_birth: Ireland
+    main_entry: 'true'
+remarks: "(Linked To: KINAHAN ORGANIZED CRIME GROUP)"

@@ -1,0 +1,31 @@
+---
+uid: '42072'
+last_name: PATRIOT PRIVATE MILITARY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65408'
+    type: a.k.a.
+    category: weak
+    last_name: PATRIOT PMC
+address_list:
+  items:
+  - uid: '62807'
+    country: Russia
+id_list:
+  items:
+  - uid: '175389'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '160286'
+    id_type: Organization Established Date
+    id_number: '2018'
+  - uid: '160659'
+    id_type: 'Organization Type:'
+    id_number: Defense activities
+  - uid: '160660'
+    id_type: Target Type
+    id_number: Private Company

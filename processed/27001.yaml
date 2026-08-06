@@ -1,0 +1,44 @@
+---
+uid: '27001'
+first_name: Shadi Nain
+last_name: SAAB CERTAIN
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA-EO13850
+aka_list:
+  items:
+  - uid: '42859'
+    type: a.k.a.
+    category: strong
+    last_name: SAAB
+    first_name: Shadi Nain
+  - uid: '42860'
+    type: a.k.a.
+    category: strong
+    last_name: SAAB
+    first_name: Shadi
+id_list:
+  items:
+  - uid: '17689'
+    id_type: National ID No.
+    id_number: '1045738303'
+    id_country: Colombia
+  - uid: '17705'
+    id_type: Passport
+    id_number: PE097209
+    id_country: Colombia
+  - uid: '132024'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '31886'
+    date_of_birth: 25 Apr 1996
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '32023'
+    place_of_birth: Barranquilla, Colombia
+    main_entry: 'true'
+remarks: "(Linked To: SAAB MORAN, Alex Nain)"

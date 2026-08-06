@@ -1,0 +1,43 @@
+---
+uid: '47920'
+first_name: Vasili Vladislavovich
+last_name: NIKONOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '71751'
+    address1: Apt 28, Udaltsova Street 65
+    city: Moscow
+    postal_code: '119454'
+    country: Russia
+id_list:
+  items:
+  - uid: '38716'
+    id_type: Passport
+    id_number: '736511375'
+    id_country: Russia
+    issue_date: 14 Nov 2014
+    expiration_date: 14 Nov 2024
+  - uid: '38717'
+    id_type: Tax ID No.
+    id_number: '631807340404'
+    id_country: Russia
+  - uid: '169460'
+    id_type: Gender
+    id_number: Male
+  - uid: '176539'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '69457'
+    date_of_birth: 27 Apr 1972
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '69458'
+    place_of_birth: Samara, Russia
+    main_entry: 'true'

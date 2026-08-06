@@ -1,0 +1,32 @@
+---
+uid: '54564'
+first_name: Igor Anatolyevich
+last_name: KNYAZEV
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER4
+  - CAATSA - RUSSIA
+address_list:
+  items:
+  - uid: '83316'
+    city: St. Petersburg
+    country: Russia
+id_list:
+  items:
+  - uid: '48207'
+    id_type: Tax ID No.
+    id_number: '780532513677'
+    id_country: Russia
+  - uid: '190658'
+    id_type: Gender
+    id_number: Male
+  - uid: '190839'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+date_of_birth_list:
+  items:
+  - uid: '90657'
+    date_of_birth: 26 Jul 1986
+    main_entry: 'true'
+remarks: "(Linked To: AEZA GROUP LLC)"

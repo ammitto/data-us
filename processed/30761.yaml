@@ -1,0 +1,48 @@
+---
+uid: '30761'
+last_name: ZARAND IRANIAN STEEL COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13871
+aka_list:
+  items:
+  - uid: '48400'
+    type: a.k.a.
+    category: weak
+    last_name: ZISCO
+  - uid: '48401'
+    type: a.k.a.
+    category: strong
+    last_name: ZARAND IRANIAN STEEL CO
+address_list:
+  items:
+  - uid: '46538'
+    address1: No. 35, flats No. 3 and 4, 2nd Floor, Street No. 27
+    city: Tehran
+    state_or_province: West Kordestan
+    country: Iran
+  - uid: '46539'
+    address1: No. 113, Between Soleiman Khater & Sohrawardi Street, Motahari Avenue
+    city: Tehran
+    postal_code: '1576918911'
+    country: Iran
+  - uid: '46540'
+    address1: PO Box 1437747334
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '20841'
+    id_type: National ID No.
+    id_number: '333265'
+    id_country: Iran
+  - uid: '138735'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '138687'
+    id_type: Website
+    id_number: http://zisco.midhco.com/
+  - uid: '138736'
+    id_type: Organization Established Date
+    id_number: '2011'

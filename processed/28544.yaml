@@ -1,0 +1,50 @@
+---
+uid: '28544'
+first_name: Siamak
+last_name: RAHPEYK
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13876
+aka_list:
+  items:
+  - uid: '44871'
+    type: a.k.a.
+    category: strong
+    last_name: RAH-PEYK
+    first_name: Siyamak
+  - uid: '44872'
+    type: a.k.a.
+    category: strong
+    last_name: RAHPIEK
+    first_name: Siamak
+  - uid: '44930'
+    type: a.k.a.
+    category: strong
+    last_name: RAHPEYK
+    first_name: Siyamak
+address_list:
+  items:
+  - uid: '43160'
+    country: Iran
+id_list:
+  items:
+  - uid: '134298'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '134299'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '34294'
+    date_of_birth: '1963'
+    main_entry: 'true'
+  - uid: '34295'
+    date_of_birth: '1964'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '34296'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'

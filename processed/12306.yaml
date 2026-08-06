@@ -1,0 +1,49 @@
+---
+uid: '12306'
+first_name: David
+last_name: GOMEZ ORTIZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '18964'
+    address1: c/o GESTORES DEL ECUADOR GESTORUM S.A.
+    city: Quito
+    country: Ecuador
+  - uid: '18965'
+    address1: Avenida de los Estudiantes No. 21-54
+    city: Pasto
+    state_or_province: Narino
+    country: Colombia
+  - uid: '18966'
+    address1: Calle 20 No. 21-54
+    city: Pasto
+    state_or_province: Narino
+    country: Colombia
+  - uid: '20475'
+    address1: c/o COMERCIALIZADORA EMPRESARIAL TEAM BUSINESS S.A.
+    city: Quito
+    state_or_province: Pichincha
+    country: Ecuador
+id_list:
+  items:
+  - uid: '6738'
+    id_type: Cedula No.
+    id_number: '98398142'
+    id_country: Colombia
+  - uid: '6739'
+    id_type: Cedula No.
+    id_number: 171984116-3
+    id_country: Ecuador
+date_of_birth_list:
+  items:
+  - uid: '8033'
+    date_of_birth: 14 Aug 1977
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '8034'
+    place_of_birth: Pasto, Narino, Colombia
+    main_entry: 'true'

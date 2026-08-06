@@ -1,0 +1,28 @@
+---
+uid: '47599'
+last_name: PRIMINER RUSSLAND
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '71104'
+    address1: Pl. Privokzalnaya D. 1A
+    address2: Kabinet 90, Rabochee Mesto 5
+    city: Odintsovo
+    postal_code: '143007'
+    country: Russia
+id_list:
+  items:
+  - uid: '38151'
+    id_type: Registration Number
+    id_number: '1213600009600'
+    id_country: Russia
+  - uid: '38152'
+    id_type: Tax ID No.
+    id_number: '3663154931'
+    id_country: Russia
+  - uid: '169727'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

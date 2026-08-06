@@ -1,0 +1,32 @@
+---
+uid: '57079'
+first_name: Santiago Hernan
+last_name: BERMUDEZ TAPIA
+sdn_type: Individual
+program_list:
+  programs:
+  - NICARAGUA
+address_list:
+  items:
+  - uid: '87366'
+    city: Managua
+    country: Nicaragua
+id_list:
+  items:
+  - uid: '51293'
+    id_type: National ID No.
+    id_number: 0011703700021R
+    id_country: Nicaragua
+  - uid: '196581'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '96579'
+    date_of_birth: 17 Mar 1970
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '96580'
+    place_of_birth: Managua, Nicaragua
+    main_entry: 'true'

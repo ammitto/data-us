@@ -1,0 +1,39 @@
+---
+uid: '51666'
+last_name: JOINT STOCK COMMERCIAL BANK NATIONAL RESERVE BANK JOINT STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '78731'
+    address1: 60 Letiya Oktyabrya Blvd., 10A
+    city: Moscow
+    postal_code: '117292'
+    country: Russia
+id_list:
+  items:
+  - uid: '44188'
+    id_type: Legal Entity Number
+    id_number: 253400HTRLA4RF06MG88
+  - uid: '44189'
+    id_type: Registration Number
+    id_number: '1027700458224'
+    id_country: Russia
+  - uid: '44190'
+    id_type: Tax ID No.
+    id_number: '7703211482'
+    id_country: Russia
+  - uid: '181621'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '181624'
+    id_type: SWIFT/BIC
+    id_number: NARNRUMM
+  - uid: '181623'
+    id_type: Website
+    id_number: www.nrb.ru
+  - uid: '181622'
+    id_type: Target Type
+    id_number: Financial Institution

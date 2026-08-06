@@ -1,0 +1,59 @@
+---
+uid: '33291'
+first_name: Hasib Muhammad
+last_name: HADWAN
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '52333'
+    type: a.k.a.
+    category: weak
+    last_name: ZAYN, Hajj
+  - uid: '52334'
+    type: a.k.a.
+    category: weak
+    last_name: ZEIN, Hajj
+  - uid: '52335'
+    type: a.k.a.
+    category: strong
+    last_name: HADWAN
+    first_name: Hasib
+  - uid: '52369'
+    type: a.k.a.
+    category: weak
+    last_name: ZAYN, Hajj Mustafa
+address_list:
+  items:
+  - uid: '50042'
+    country: Lebanon
+id_list:
+  items:
+  - uid: '22973'
+    id_type: National ID No.
+    id_number: '2288073'
+    id_country: Lebanon
+  - uid: '187377'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '143274'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
+      Sanctions Regulations
+  - uid: '143222'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '43223'
+    date_of_birth: '1959'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '43224'
+    place_of_birth: Hazin, Lebanon
+    main_entry: 'true'
+remarks: "(Linked To: HIZBALLAH)"

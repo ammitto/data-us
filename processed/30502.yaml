@@ -1,0 +1,46 @@
+---
+uid: '30502'
+last_name: CEIEC
+sdn_type: Entity
+program_list:
+  programs:
+  - VENEZUELA
+aka_list:
+  items:
+  - uid: '47908'
+    type: a.k.a.
+    category: strong
+    last_name: CHINA NATIONAL ELECTRONICS IMPORT AND EXPORT CORPORATION
+  - uid: '47909'
+    type: a.k.a.
+    category: strong
+    last_name: CHINA NATIONAL ELECTRONIC IMPORT-EXPORT COMPANY
+address_list:
+  items:
+  - uid: '46123'
+    address1: Block A 6-23F
+    address2: No. 17 Fuxing Road
+    address3: Haidian District
+    city: Beijing
+    postal_code: '100036'
+    country: China
+  - uid: '46124'
+    address1: Calle Orinoco
+    address2: Torre Nordic, Piso 6
+    address3: Las Mercedes
+    city: Caracas
+    postal_code: '1060'
+    country: Venezuela
+id_list:
+  items:
+  - uid: '20627'
+    id_type: Registration Number
+    id_number: '16382287'
+    id_country: China
+  - uid: '20628'
+    id_type: Unified Social Credit Code (USCC)
+    id_number: 9111000010000106X1
+    id_country: China
+  - uid: '138119'
+    id_type: Website
+    id_number: https://www.ceiec.com

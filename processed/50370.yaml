@@ -1,0 +1,30 @@
+---
+uid: '50370'
+last_name: LIMITED LIABILITY COMPANY ASR
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '76353'
+    address1: 29, ul. Zagorodnaya
+    city: Berezniki
+    postal_code: '618421'
+    country: Russia
+id_list:
+  items:
+  - uid: '42116'
+    id_type: Registration Number
+    id_number: '1055904535191'
+    id_country: Russia
+  - uid: '42121'
+    id_type: Tax ID No.
+    id_number: '5911045608'
+    id_country: Russia
+  - uid: '178341'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '178534'
+    id_type: Organization Established Date
+    id_number: 05 Aug 2005

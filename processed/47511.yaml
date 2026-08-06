@@ -1,0 +1,38 @@
+---
+uid: '47511'
+last_name: FIDESYS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73538'
+    type: a.k.a.
+    category: strong
+    last_name: FIDESIS LLC
+  - uid: '73539'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY FIDESIS
+address_list:
+  items:
+  - uid: '70922'
+    address1: Ul. Leninskie Gory D. 1 Str. 77 Nauchnyi Park Mgu Im M V Lomonosova
+      Office 402
+    city: Moscow
+    postal_code: '119234'
+    country: Russia
+id_list:
+  items:
+  - uid: '37991'
+    id_type: Registration Number
+    id_number: '1107746291443'
+    id_country: Russia
+  - uid: '37992'
+    id_type: Tax ID No.
+    id_number: '7725692471'
+    id_country: Russia
+  - uid: '169871'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

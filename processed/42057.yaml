@@ -1,0 +1,78 @@
+---
+uid: '42057'
+first_name: Christodoulos Georgiou
+last_name: VASSILIADES
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65368'
+    type: a.k.a.
+    category: strong
+    last_name: VASSILIADES
+    first_name: Christodoulos G.
+  - uid: '65369'
+    type: a.k.a.
+    category: strong
+    last_name: VASILIADIS
+    first_name: Christodoulos G.
+  - uid: '65372'
+    type: a.k.a.
+    category: strong
+    last_name: VASILEIADIS
+    first_name: Hristodoylos G.
+address_list:
+  items:
+  - uid: '62766'
+    address1: 10 Doiranis Engomi
+    city: Nicosia
+    country: Cyprus
+  - uid: '62767'
+    address1: 20 Vassilissis Freiderikis El Greco House, 1st Floor, Apt. 104
+    city: Nicosia
+    country: Cyprus
+  - uid: '62768'
+    address1: 35 Grosvenor Street, 1st Floor Offices
+    city: London
+    postal_code: W1K 4QX
+    country: United Kingdom
+id_list:
+  items:
+  - uid: '31498'
+    id_type: National ID No.
+    id_number: '00529498S'
+    id_country: Cyprus
+  - uid: '31499'
+    id_type: National ID No.
+    id_number: '529498'
+    id_country: Cyprus
+  - uid: '31500'
+    id_type: National ID No.
+    id_number: '150000890001'
+    id_country: United Kingdom
+  - uid: '31501'
+    id_type: Passport
+    id_number: K00162155
+    id_country: Cyprus
+  - uid: '31502'
+    id_type: Passport
+    id_number: K00463863
+    id_country: Cyprus
+  - uid: '175377'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '160271'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '60269'
+    date_of_birth: 31 Mar 1957
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '60270'
+    place_of_birth: Limassol, Cyprus
+    main_entry: 'true'

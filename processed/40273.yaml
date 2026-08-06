@@ -1,0 +1,35 @@
+---
+uid: '40273'
+first_name: Vladimir Vladimirovich
+last_name: VLADIMIROV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '60040'
+    city: Stavropol
+    country: Russia
+id_list:
+  items:
+  - uid: '29460'
+    id_type: Tax ID No.
+    id_number: '860802075924'
+    id_country: Russia
+  - uid: '157350'
+    id_type: Gender
+    id_number: Male
+  - uid: '174074'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '57348'
+    date_of_birth: 14 Oct 1975
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '57349'
+    place_of_birth: Georgievsk, Stavropol, Russia
+    main_entry: 'true'

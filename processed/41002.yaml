@@ -1,0 +1,39 @@
+---
+uid: '41002'
+last_name: JOINT STOCK COMPANY VOTKINSKIY ZAVOD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63887'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY VOTKINSKIY PLANT
+  - uid: '63888'
+    type: a.k.a.
+    category: strong
+    last_name: VOTKINSKI ZAVOD AO
+address_list:
+  items:
+  - uid: '61242'
+    address1: Kirova St.
+    address2: Building 2
+    city: Votkinsk
+    state_or_province: Udmurt Republic
+    postal_code: '427430'
+    country: Russia
+id_list:
+  items:
+  - uid: '30332'
+    id_type: Registration Number
+    id_number: '1101828001000'
+    id_country: Russia
+  - uid: '30333'
+    id_type: Tax ID No.
+    id_number: '1828020110'
+    id_country: Russia
+  - uid: '175351'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

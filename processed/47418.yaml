@@ -1,0 +1,46 @@
+---
+uid: '47418'
+last_name: JOINT STOCK COMPANY COMMERCIAL BANK MODULBANK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73330'
+    type: a.k.a.
+    category: strong
+    last_name: REGIONAL CREDIT
+  - uid: '73331'
+    type: a.k.a.
+    category: strong
+    last_name: REGIONALNY KREDIT
+address_list:
+  items:
+  - uid: '70712'
+    address1: Pl. Oktyabrskaya, 1
+    city: Kostroma
+    postal_code: '156005'
+    country: Russia
+id_list:
+  items:
+  - uid: '37825'
+    id_type: Tax ID No.
+    id_number: '2204000595'
+    id_country: Russia
+  - uid: '37826'
+    id_type: Registration Number
+    id_number: '1022200525841'
+    id_country: Russia
+  - uid: '168926'
+    id_type: SWIFT/BIC
+    id_number: MODBRU22
+  - uid: '168927'
+    id_type: Website
+    id_number: modulbank.ru
+  - uid: '168928'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '176393'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

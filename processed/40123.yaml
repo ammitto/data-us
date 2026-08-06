@@ -1,0 +1,38 @@
+---
+uid: '40123'
+first_name: Konstantin Sergeevich
+last_name: MAZUREVSKII
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '62335'
+    type: a.k.a.
+    category: strong
+    last_name: MAZUREVSKY
+    first_name: Konstantin
+address_list:
+  items:
+  - uid: '59737'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '174802'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '156913'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '56911'
+    date_of_birth: 27 Apr 1981
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '56912'
+    place_of_birth: Rassukha, Unechsky district, Bryansk region, Russia
+    main_entry: 'true'

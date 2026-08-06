@@ -1,0 +1,47 @@
+---
+uid: '50173'
+first_name: Taranjeet
+last_name: KAMBO
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78563'
+    type: a.k.a.
+    category: strong
+    last_name: KAMBO
+    first_name: Tarandzhit Singkh
+address_list:
+  items:
+  - uid: '76173'
+    address1: Zanevsky Prospect
+    address2: House 63
+    city: Saint Petersburg
+    postal_code: '195213'
+    country: Russia
+id_list:
+  items:
+  - uid: '41987'
+    id_type: Passport
+    id_number: '750028082'
+    id_country: Russia
+    expiration_date: 24 May 2024
+  - uid: '178492'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '178123'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '78126'
+    date_of_birth: 29 Mar 1976
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '78125'
+    place_of_birth: India
+    main_entry: 'true'
+remarks: "(Linked To: OOO SOFT PLYUS)"

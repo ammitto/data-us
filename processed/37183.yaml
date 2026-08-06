@@ -1,0 +1,39 @@
+---
+uid: '37183'
+first_name: Rudi
+last_name: HERYADI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '55619'
+    city: Bogor
+    state_or_province: West Java
+    country: Indonesia
+id_list:
+  items:
+  - uid: '26483'
+    id_type: Passport
+    id_number: B 2315612
+    id_country: Indonesia
+    issue_date: 15 Nov 2015
+  - uid: '151681'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '151674'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '51672'
+    date_of_birth: 21 Sep 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '51673'
+    place_of_birth: Cirebon, West Java, Indonesia
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC STATE OF IRAQ AND THE LEVANT)"

@@ -1,0 +1,38 @@
+---
+uid: '44098'
+first_name: Sergey Borisovich
+last_name: KOROLEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '68233'
+    type: a.k.a.
+    category: strong
+    last_name: KOROLYOV
+    first_name: Sergei Borisovich
+address_list:
+  items:
+  - uid: '65632'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '163674'
+    id_type: Gender
+    id_number: Male
+  - uid: '175770'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '63672'
+    date_of_birth: 25 Jul 1962
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '63673'
+    place_of_birth: Bishkek, Kyrgyzstan
+    main_entry: 'true'

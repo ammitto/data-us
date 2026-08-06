@@ -1,0 +1,38 @@
+---
+uid: '45084'
+last_name: JSC ENERGIES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69866'
+    type: f.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO TEKNIP ENERDZHIS RUS
+  - uid: '69868'
+    type: f.k.a.
+    category: strong
+    last_name: TEKNIP RUS AO
+address_list:
+  items:
+  - uid: '67160'
+    address1: d. 266 str. 1 pom. 8.1-N.152
+    address2: 8 etazh, prospekt Ligovski
+    city: St. Petersburg
+    postal_code: '196006'
+    country: Russia
+id_list:
+  items:
+  - uid: '34827'
+    id_type: Registration Number
+    id_number: '1027810258882'
+    id_country: Russia
+  - uid: '34828'
+    id_type: Tax ID No.
+    id_number: '7810913731'
+    id_country: Russia
+  - uid: '175942'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

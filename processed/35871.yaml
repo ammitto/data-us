@@ -1,0 +1,45 @@
+---
+uid: '35871'
+last_name: AKTSIONERNOE OBSHCHESTVO SARATOVSKI RADIOPRIBORNYI ZAVOD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56362'
+    type: a.k.a.
+    category: weak
+    last_name: AO SRZ
+  - uid: '56363'
+    type: a.k.a.
+    category: weak
+    last_name: SRZ PAO
+  - uid: '56364'
+    type: a.k.a.
+    category: strong
+    last_name: JSC SARATOVSKI RADIOPRIBORNYI ZAVOD
+address_list:
+  items:
+  - uid: '53933'
+    address1: PR-KT 50 Let Oktyabrya D. 108
+    city: Saratov
+    postal_code: '410040'
+    country: Russia
+id_list:
+  items:
+  - uid: '25197'
+    id_type: Registration Number
+    id_number: '1096453002690'
+    id_country: Russia
+  - uid: '25198'
+    id_type: Tax ID No.
+    id_number: '6453104288'
+    id_country: Russia
+  - uid: '149064'
+    id_type: Organization Established Date
+    id_number: '1970'
+  - uid: '173266'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: JOINT STOCK COMPANY CONCERN GRANIT-ELECTRON)"

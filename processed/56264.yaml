@@ -1,0 +1,41 @@
+---
+uid: '56264'
+first_name: Luftar
+last_name: HYSA
+sdn_type: Individual
+program_list:
+  programs:
+  - TCO
+address_list:
+  items:
+  - uid: '86173'
+    city: Montreal
+    state_or_province: Quebec
+    country: Canada
+  - uid: '86262'
+    country: Mexico
+id_list:
+  items:
+  - uid: '50337'
+    id_type: Passport
+    id_number: BC5833174
+    id_country: Albania
+    expiration_date: 22 Jul 2020
+  - uid: '50338'
+    id_type: C.U.R.P.
+    id_number: HAXL670301HNEYXF01
+    id_country: Mexico
+  - uid: '194445'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '94442'
+    date_of_birth: 01 Mar 1967
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '94443'
+    place_of_birth: Elbasan, Albania
+    main_entry: 'true'
+remarks: "(Linked To: HYSA ORGANIZED CRIME GROUP)"

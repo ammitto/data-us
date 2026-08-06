@@ -1,0 +1,34 @@
+---
+uid: '26424'
+first_name: Jose Miguel
+last_name: DOMINGUEZ RAMIREZ
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+aka_list:
+  items:
+  - uid: '41673'
+    type: a.k.a.
+    category: strong
+    last_name: DOMINGUEZ
+    first_name: Miguel
+address_list:
+  items:
+  - uid: '40075'
+    city: Caracas
+    country: Venezuela
+id_list:
+  items:
+  - uid: '17075'
+    id_type: Cedula No.
+    id_number: '14444352'
+    id_country: Venezuela
+  - uid: '130888'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '30887'
+    date_of_birth: 17 Oct 1979
+    main_entry: 'true'

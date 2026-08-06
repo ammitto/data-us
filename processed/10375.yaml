@@ -1,0 +1,47 @@
+---
+uid: '10375'
+first_name: Ahmad Muhammad Yunis
+last_name: AL-AHMAD
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAQ2
+aka_list:
+  items:
+  - uid: '10117'
+    type: a.k.a.
+    category: strong
+    last_name: AL-BADANI
+    first_name: Ahmad Muhammad Mahmud 'Abdallah
+  - uid: '10118'
+    type: a.k.a.
+    category: strong
+    last_name: AL-BARRANI
+    first_name: Ahmad Muhammad Al-Abdullah
+address_list:
+  items:
+  - uid: '14168'
+    address1: Al-Mazzah Al-Jabal District
+    address2: 6 Subdistrict, 3 area
+    address3: Al-Iskan complex, 40/2, Fifth Floor
+    city: Damascus
+    country: Syria
+id_list:
+  items:
+  - uid: '4984'
+    id_type: Passport
+    id_number: H0347417
+    id_country: Iraq
+    issue_date: 20 Feb 2003
+    expiration_date: 19 Feb 2011
+date_of_birth_list:
+  items:
+  - uid: '5549'
+    date_of_birth: 19 Sep 1978
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '5551'
+    place_of_birth: Al-Anbar, Iraq
+    main_entry: 'true'
+remarks: 'passport place of issue: Al-Anbar, Iraq'

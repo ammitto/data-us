@@ -1,0 +1,44 @@
+---
+uid: '22411'
+first_name: Petr Grigorievich
+last_name: JAROSH
+sdn_type: Individual
+program_list:
+  programs:
+  - UKRAINE-EO13660
+aka_list:
+  items:
+  - uid: '35314'
+    type: a.k.a.
+    category: strong
+    last_name: YAROSH
+    first_name: Pyotr
+  - uid: '35315'
+    type: a.k.a.
+    category: strong
+    last_name: YAROSH
+    first_name: Petro
+address_list:
+  items:
+  - uid: '34128'
+    state_or_province: Crimea
+    country: Ukraine
+id_list:
+  items:
+  - uid: '123871'
+    id_type: Gender
+    id_number: Male
+  - uid: '143838'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+date_of_birth_list:
+  items:
+  - uid: '23869'
+    date_of_birth: 30 Jan 1971
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '23870'
+    place_of_birth: Skvortsovo village, Simferopol region, Crimea, Ukraine
+    main_entry: 'true'

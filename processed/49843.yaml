@@ -1,0 +1,45 @@
+---
+uid: '49843'
+last_name: ASCENT GENERAL INSURANCE COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '77799'
+    type: a.k.a.
+    category: weak
+    last_name: AGI
+address_list:
+  items:
+  - uid: '75348'
+    address1: AGI, Independence Ave
+    address2: P1520
+    city: Victoria
+    state_or_province: Mahe
+    country: Seychelles
+  - uid: '75349'
+    address1: 23/180 Sailord Paknam
+    state_or_province: Samut Prakan
+    postal_code: '10270'
+    country: Thailand
+  - uid: '75350'
+    address1: Level 40
+    address2: Sintex Tower Three
+    address3: 8 Twmasek Boulevard
+    postal_code: '038988'
+    country: Singapore
+id_list:
+  items:
+  - uid: '177416'
+    id_type: Website
+    id_number: ascentgeneralinsurance.com
+  - uid: '177415'
+    id_type: 'Organization Type:'
+    id_number: Financial and Insurance Activities
+  - uid: '177276'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: "(Linked To: AL-JAMAL, Sa'id Ahmad Muhammad)"

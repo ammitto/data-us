@@ -1,0 +1,34 @@
+---
+uid: '46826'
+first_name: Boris Olegovich
+last_name: BERNIKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '69793'
+    country: Russia
+id_list:
+  items:
+  - uid: '36912'
+    id_type: Passport
+    id_number: '750722630'
+    id_country: Russia
+  - uid: '176322'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '167659'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '67658'
+    date_of_birth: 11 Mar 1988
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '67657'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'

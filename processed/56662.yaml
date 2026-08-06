@@ -1,0 +1,31 @@
+---
+uid: '56662'
+first_name: Roberto
+last_name: CARRETERO NAPOLITANO
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA-EO13850
+address_list:
+  items:
+  - uid: '86692'
+    country: Panama
+id_list:
+  items:
+  - uid: '50767'
+    id_type: Cedula No.
+    id_number: '3701218'
+    id_country: Panama
+  - uid: '195299'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '95297'
+    date_of_birth: 20 Aug 1976
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '95298'
+    place_of_birth: Colon, Panama
+    main_entry: 'true'

@@ -1,0 +1,42 @@
+---
+uid: '28284'
+last_name: ESFAHAN STEEL COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13871
+aka_list:
+  items:
+  - uid: '44533'
+    type: a.k.a.
+    category: weak
+    last_name: ECSO
+address_list:
+  items:
+  - uid: '42775'
+    address1: End of Zob Ahan Highway- Esfahan Steel Company
+    postal_code: '8593111111'
+    country: Iran
+  - uid: '42776'
+    address1: Townhid building, end of Zob Ahan Highway No. 178
+    address2: Saadi Boulevard, The Steel Highway
+    city: Esfahan
+    postal_code: 81756-14461
+    country: Iran
+  - uid: '42777'
+    address1: PO Box 81756-14461
+    address2: No. 178 Saadi Boulevard
+    city: Esfahan
+    country: Iran
+id_list:
+  items:
+  - uid: '18734'
+    id_type: Registration Number
+    id_number: '25230'
+    id_country: Iran
+  - uid: '133749'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '133726'
+    id_type: Website
+    id_number: http://www.esfahansteel.ir

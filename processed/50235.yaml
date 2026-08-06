@@ -1,0 +1,39 @@
+---
+uid: '50235'
+first_name: Aliaksandr Mikalayevich
+last_name: LESCHANKA
+sdn_type: Individual
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '78403'
+    type: a.k.a.
+    category: strong
+    last_name: LESHCHENKO
+    first_name: Aleksandr Nikolaevich
+address_list:
+  items:
+  - uid: '76201'
+    country: Belarus
+id_list:
+  items:
+  - uid: '41877'
+    id_type: National ID No.
+    id_number: 3101165A043PB4
+    id_country: Belarus
+  - uid: '177874'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '77873'
+    date_of_birth: 10 Nov 1965
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '77875'
+    place_of_birth: Minsk, Belarus
+    main_entry: 'true'
+remarks: "(Linked To: LIMITED LIABILITY COMPANY TOCHNAYA MEKHANIKA)"

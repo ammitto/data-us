@@ -1,0 +1,38 @@
+---
+uid: '15098'
+last_name: ADVANCED INFORMATION AND COMMUNICATION TECHNOLOGY CENTER
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+aka_list:
+  items:
+  - uid: '22114'
+    type: a.k.a.
+    category: strong
+    last_name: AICTC
+  - uid: '87705'
+    type: a.k.a.
+    category: strong
+    last_name: ADVANCED INFORMATION AND COMMUNICATION TECHNOLOGY RESEARCH INSTITUTE
+  - uid: '87706'
+    type: a.k.a.
+    category: weak
+    last_name: AICT
+address_list:
+  items:
+  - uid: '22437'
+    address1: No. 5, Golestan Alley
+    address2: Shahid Ghasemi St.
+    address3: Sharif University of Technology
+    state_or_province: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '111423'
+    id_type: Website
+    id_number: www.aictc.ir
+  - uid: '114290'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

@@ -1,0 +1,31 @@
+---
+uid: '13428'
+first_name: Jose Gerardo
+last_name: IBARRA FAVILA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '21502'
+    address1: Calle Lago de La Doga  5312
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+id_list:
+  items:
+  - uid: '7942'
+    id_type: R.F.C.
+    id_number: IAFG610309
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '9490'
+    date_of_birth: '09 Mar 1961'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '9491'
+    place_of_birth: Durango, Mexico
+    main_entry: 'true'

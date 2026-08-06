@@ -1,0 +1,39 @@
+---
+uid: '50125'
+last_name: AO EVRAZ MARKET
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78156'
+    type: f.k.a.
+    category: strong
+    last_name: EVRAZ METALL INPROM OAO
+address_list:
+  items:
+  - uid: '75841'
+    address1: 9, ul. Khimicheskaya
+    city: Taganrog
+    state_or_province: Rostov region
+    postal_code: '347913'
+    country: Russia
+  - uid: '75842'
+    address1: Ul. Belovezhskaya D. 4, Korp. V
+    city: Moscow
+    postal_code: '121353'
+    country: Russia
+id_list:
+  items:
+  - uid: '41712'
+    id_type: Registration Number
+    id_number: '1026102571505'
+    id_country: Russia
+  - uid: '41713'
+    id_type: Tax ID No.
+    id_number: '6154062128'
+    id_country: Russia
+  - uid: '178059'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

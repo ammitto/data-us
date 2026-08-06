@@ -1,0 +1,50 @@
+---
+uid: '36380'
+first_name: Dmitriy Olegovich
+last_name: LEVIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '57279'
+    type: a.k.a.
+    category: strong
+    last_name: LEVIN
+    first_name: Dmitry Olegovich
+  - uid: '57280'
+    type: a.k.a.
+    category: strong
+    last_name: LEVIN
+    first_name: Dmitrii Olegovich
+address_list:
+  items:
+  - uid: '54632'
+    address1: Apt. 5, H.3-14, Glazovsky Pereulok
+    city: Moscow
+    postal_code: '119002'
+    country: Russia
+id_list:
+  items:
+  - uid: '25783'
+    id_type: Passport
+    id_number: '530294714'
+    id_country: Russia
+  - uid: '174176'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '149977'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '49979'
+    date_of_birth: 27 Aug 1965
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '49980'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'
+remarks: "(Linked To: PUBLIC JOINT STOCK COMPANY BANK FINANCIAL CORPORATION OTKRITIE)"

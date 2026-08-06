@@ -1,0 +1,43 @@
+---
+uid: '32025'
+last_name: EUROSADRUZHIE OOD
+sdn_type: Entity
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '50224'
+    type: a.k.a.
+    category: weak
+    last_name: EUROCOMPANY LTD.
+  - uid: '50225'
+    type: a.k.a.
+    category: strong
+    last_name: EUROSADRUZHIE LTD.
+  - uid: '50226'
+    type: a.k.a.
+    category: strong
+    last_name: EUROSUDRUZHIE LTD.
+  - uid: '50227'
+    type: a.k.a.
+    category: strong
+    last_name: EVROSADRUZHIE OOD
+address_list:
+  items:
+  - uid: '48192'
+    address1: 43 Moskovska Str.
+    city: Sofia
+    state_or_province: Stolichna
+    postal_code: '1000'
+    country: Bulgaria
+id_list:
+  items:
+  - uid: '21809'
+    id_type: V.A.T. Number
+    id_number: BG 130855554
+    id_country: Bulgaria
+  - uid: '140984'
+    id_type: Organization Established Date
+    id_number: '2002'
+remarks: "(Linked To: VABO SYSTEMS EOOD)"

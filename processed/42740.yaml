@@ -1,0 +1,27 @@
+---
+uid: '42740'
+last_name: SCHLOSS HOLDING OU
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '63768'
+    address1: Tekhnika Tn 33-9
+    city: Tallinn
+    postal_code: '10613'
+    country: Estonia
+id_list:
+  items:
+  - uid: '32306'
+    id_type: Tax ID No.
+    id_number: '14783081'
+    id_country: Estonia
+  - uid: '175464'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '161550'
+    id_type: Organization Established Date
+    id_number: 15 Aug 2019
+remarks: "(Linked To: SCHMUCKI, Anselm Oskar)"

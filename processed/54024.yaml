@@ -1,0 +1,31 @@
+---
+uid: '54024'
+first_name: Mohammad
+last_name: ASGARI
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+address_list:
+  items:
+  - uid: '82431'
+    country: Iran
+id_list:
+  items:
+  - uid: '47461'
+    id_type: National ID No.
+    id_number: '1289040249'
+    id_country: Iran
+  - uid: '189258'
+    id_type: Gender
+    id_number: Male
+  - uid: '189259'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '89256'
+    date_of_birth: 03 Jul 1979
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS)"

@@ -1,0 +1,34 @@
+---
+uid: '12112'
+first_name: Hossein
+last_name: MUSAVI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+  - IRGC
+  - IFSR
+id_list:
+  items:
+  - uid: '6523'
+    id_type: Passport
+    id_number: A0016662
+    id_country: Iran
+    issue_date: 29 Oct 2002
+  - uid: '114051'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '185978'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '7852'
+    date_of_birth: 23 Oct 1960
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '7850'
+    place_of_birth: Neishabour, Iran
+    main_entry: 'true'

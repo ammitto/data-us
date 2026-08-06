@@ -1,0 +1,40 @@
+---
+uid: '50736'
+last_name: ATHREE COMPANY LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79417'
+    type: a.k.a.
+    category: strong
+    last_name: ATHREE CO LTD
+  - uid: '79418'
+    type: a.k.a.
+    category: weak
+    last_name: OOO ATRI
+address_list:
+  items:
+  - uid: '76947'
+    address1: Ul. Zemledelcheskaya D. 5
+    city: Saint Petersburg
+    postal_code: '197343'
+    country: Russia
+id_list:
+  items:
+  - uid: '42606'
+    id_type: Registration Number
+    id_number: '1037835001082'
+    id_country: Russia
+  - uid: '42607'
+    id_type: Tax ID No.
+    id_number: '7816135608'
+    id_country: Russia
+  - uid: '179359'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '179358'
+    id_type: Organization Established Date
+    id_number: 24 Dec 1998

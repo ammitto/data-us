@@ -1,0 +1,36 @@
+---
+uid: '22952'
+first_name: Amin
+last_name: SHOKOHI
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+aka_list:
+  items:
+  - uid: '36068'
+    type: a.k.a.
+    category: weak
+    last_name: Pejvak
+id_list:
+  items:
+  - uid: '124493'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '24465'
+    date_of_birth: 11 Jul 1990
+    main_entry: 'true'
+  - uid: '24466'
+    date_of_birth: 11 Jul 1989
+    main_entry: 'false'
+  - uid: '24467'
+    date_of_birth: 05 Aug 1981
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '24464'
+    place_of_birth: Karaj, Iran
+    main_entry: 'true'
+remarks: "(Linked To: ITSEC TEAM)"

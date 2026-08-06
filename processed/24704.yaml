@@ -1,0 +1,40 @@
+---
+uid: '24704'
+first_name: Francisco
+last_name: DIAZ
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '38954'
+    type: a.k.a.
+    category: strong
+    last_name: DIAZ MADRIZ
+    first_name: Francisco Javier
+address_list:
+  items:
+  - uid: '37351'
+    address1: Residencial Lomas del Valle
+    address2: Casa U5
+    city: Managua
+    country: Nicaragua
+id_list:
+  items:
+  - uid: '15838'
+    id_type: National ID No.
+    id_number: '0810308610000L'
+  - uid: '127599'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '27596'
+    date_of_birth: 03 Aug 1961
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '27597'
+    place_of_birth: Chinandega, Nicaragua
+    main_entry: 'true'

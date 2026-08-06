@@ -1,0 +1,44 @@
+---
+uid: '41074'
+last_name: LLC TITAN-AVANGARD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '64052'
+    type: a.k.a.
+    category: weak
+    last_name: ADDITIVE SOLUTIONS
+  - uid: '64053'
+    type: a.k.a.
+    category: weak
+    last_name: ADDSOL
+address_list:
+  items:
+  - uid: '61389'
+    address1: Kotlyakovskaya Street, Building 3
+    address2: Structure 1, Floor 1
+    city: Moscow
+    state_or_province: Moscow Region
+    postal_code: '115201'
+    country: Russia
+  - uid: '61390'
+    address1: 2nd Kotlyakovsky Lane, 18
+    city: Moscow
+    postal_code: '115201'
+    country: Russia
+id_list:
+  items:
+  - uid: '30407'
+    id_type: Registration Number
+    id_number: '1176658015412'
+    id_country: Russia
+  - uid: '30408'
+    id_type: Tax ID No.
+    id_number: '6685127341'
+    id_country: Russia
+  - uid: '173605'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

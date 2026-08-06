@@ -1,0 +1,29 @@
+---
+uid: '49453'
+first_name: Boris Nikolaevich
+last_name: VARSHAVSKIY
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '74575'
+    country: Russia
+id_list:
+  items:
+  - uid: '40774'
+    id_type: Tax ID No.
+    id_number: '420534788198'
+    id_country: Russia
+  - uid: '172526'
+    id_type: Gender
+    id_number: Male
+  - uid: '172755'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '72525'
+    date_of_birth: 21 Dec 1978
+    main_entry: 'true'

@@ -1,0 +1,35 @@
+---
+uid: '30888'
+first_name: Anton Oleksandrovych
+last_name: SIMONENKO
+sdn_type: Individual
+program_list:
+  programs:
+  - ELECTION-EO13848
+address_list:
+  items:
+  - uid: '46721'
+    address1: Mishugi 2 App 361
+    city: Kiev
+    postal_code: '02140'
+    country: Ukraine
+id_list:
+  items:
+  - uid: '20971'
+    id_type: Passport
+    id_number: FE229065
+    id_country: Ukraine
+  - uid: '138944'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '38943'
+    date_of_birth: '08 Jan 1987'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '38942'
+    place_of_birth: Russia
+    main_entry: 'true'
+remarks: "(Linked To: DERKACH, Andrii Leonidovych)"

@@ -1,0 +1,58 @@
+---
+uid: '38977'
+last_name: I JET GLOBAL DMCC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '60828'
+    type: a.k.a.
+    category: weak
+    last_name: IJET
+  - uid: '61886'
+    type: a.k.a.
+    category: strong
+    last_name: TRADE MED MIDDLE EAST
+  - uid: '61887'
+    type: a.k.a.
+    category: strong
+    last_name: TRADE MID MIDDLE EAST
+address_list:
+  items:
+  - uid: '58067'
+    address1: 'Unit No: 3504, 1 Lake Plaza'
+    address2: 'Plot No: JLT-PH2-T2A'
+    address3: Jumeirah Lakes Towers
+    city: Dubai
+    country: United Arab Emirates
+  - uid: '58068'
+    address1: Plaza del Olivar, 1 4
+    city: Palma de Mallorca
+    state_or_province: Baleares
+    postal_code: H24 07002
+    country: Spain
+  - uid: '58069'
+    address1: 116/8, St. George's Road
+    city: St. Julians
+    postal_code: STJ3203
+    country: Malta
+  - uid: '59184'
+    city: Damascus
+    country: Syria
+id_list:
+  items:
+  - uid: '28197'
+    id_type: Registration Number
+    id_number: DMCC19501
+    id_country: United Arab Emirates
+  - uid: '174724'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '154670'
+    id_type: Organization Established Date
+    id_number: 13 Oct 2014
+  - uid: '154669'
+    id_type: 'Organization Type:'
+    id_number: Service activities incidental to air transportation

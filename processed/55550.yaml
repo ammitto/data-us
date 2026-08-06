@@ -1,0 +1,41 @@
+---
+uid: '55550'
+last_name: PERFECT DAY CO SA
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '86406'
+    type: a.k.a.
+    category: strong
+    last_name: PERFECT DAY CO
+  - uid: '86407'
+    type: a.k.a.
+    category: strong
+    last_name: PERFECTDAY SOCIEDAD ANONIMA
+  - uid: '86408'
+    type: a.k.a.
+    category: weak
+    last_name: EPV INTERNATIONAL
+address_list:
+  items:
+  - uid: '84931'
+    address1: Bolivia Ave., 2239/301
+    city: Montevideo
+    country: Uruguay
+id_list:
+  items:
+  - uid: '49538'
+    id_type: Tax ID No.
+    id_number: '217537690015'
+    id_country: Uruguay
+  - uid: '193049'
+    id_type: Organization Established Date
+    id_number: 25 Nov 2014
+  - uid: '193055'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: PASARGAD HELICOPTER COMPANY)"

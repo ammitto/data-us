@@ -1,0 +1,44 @@
+---
+uid: '40237'
+last_name: JOINT STOCK COMPANY RESEARCH AND PRODUCTION CONCERN BARL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '62571'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO NAUCHNO-PROIZVODSTVENNY KONTSERN BARL
+  - uid: '62572'
+    type: a.k.a.
+    category: strong
+    last_name: AO NPK BARL
+address_list:
+  items:
+  - uid: '59966'
+    address1: Murmanskii PR D 14
+    city: Moscow
+    postal_code: '129075'
+    country: Russia
+id_list:
+  items:
+  - uid: '29419'
+    id_type: Registration Number
+    id_number: '1047796519220'
+    id_country: Russia
+  - uid: '29420'
+    id_type: Tax ID No.
+    id_number: '7717513841'
+    id_country: Russia
+  - uid: '29421'
+    id_type: Government Gazette Number
+    id_number: '74062057'
+    id_country: Russia
+  - uid: '174040'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '157189'
+    id_type: Organization Established Date
+    id_number: 16 Jul 2004

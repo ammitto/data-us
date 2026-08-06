@@ -1,0 +1,32 @@
+---
+uid: '32080'
+last_name: REAL ESTATES INT LTD EOOD
+sdn_type: Entity
+program_list:
+  programs:
+  - GLOMAG
+address_list:
+  items:
+  - uid: '48307'
+    address1: 119 Ul. Ekzarh Yosif Str.
+    address2: R-N Oborishte Distr.
+    city: Sofia
+    postal_code: '1527'
+    country: Bulgaria
+  - uid: '48308'
+    address1: 79, Ralevitsa Str.
+    address2: Vitosha Distr.
+    city: Sofia
+    state_or_province: Stolichna
+    postal_code: '1618'
+    country: Bulgaria
+id_list:
+  items:
+  - uid: '21860'
+    id_type: V.A.T. Number
+    id_number: BG 204930572
+    id_country: Bulgaria
+  - uid: '140942'
+    id_type: Organization Established Date
+    id_number: '2018'
+remarks: "(Linked To: INTRUST PLC EAD)"

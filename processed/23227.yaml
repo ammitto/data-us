@@ -1,0 +1,31 @@
+---
+uid: '23227'
+first_name: Keping
+last_name: ZHANG
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '35144'
+    city: Dezhou
+    state_or_province: Shandong
+    country: China
+id_list:
+  items:
+  - uid: '14682'
+    id_type: Citizen's Card Number
+    id_number: '372426195510220331'
+    id_country: China
+  - uid: '14683'
+    id_type: Chinese Commercial Code
+    id_number: 1728 0344 1627
+  - uid: '124924'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '24925'
+    date_of_birth: 22 Oct 1955
+    main_entry: 'true'

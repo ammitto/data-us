@@ -1,0 +1,43 @@
+---
+uid: '50217'
+first_name: Dmitriy Mikhailovich
+last_name: ZAMULEVICH
+sdn_type: Individual
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '78357'
+    type: a.k.a.
+    category: strong
+    last_name: ZAMULEVICH
+    first_name: Dzmitry Mihaylavych
+address_list:
+  items:
+  - uid: '76018'
+    country: Belarus
+id_list:
+  items:
+  - uid: '41854'
+    id_type: Passport
+    id_number: BM2229283
+    id_country: Belarus
+    expiration_date: 31 Jul 2024
+  - uid: '41855'
+    id_type: National ID No.
+    id_number: 3070574E057PB8
+    id_country: Belarus
+  - uid: '177833'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '77835'
+    date_of_birth: 07 May 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '78187'
+    place_of_birth: Belarus
+    main_entry: 'true'

@@ -1,0 +1,48 @@
+---
+uid: '32797'
+first_name: Abdikadir Mohamed
+last_name: ABDIKADIR
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '51613'
+    type: a.k.a.
+    category: strong
+    last_name: ABDUKADIR
+    first_name: Abdukadir Mohamed
+  - uid: '51614'
+    type: a.k.a.
+    category: strong
+    last_name: ABDULKADIR
+    first_name: Abdulkadir Mohamed
+  - uid: '51615'
+    type: a.k.a.
+    category: weak
+    last_name: IKRIMA
+address_list:
+  items:
+  - uid: '49415'
+    country: Somalia
+id_list:
+  items:
+  - uid: '187341'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '142519'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '42520'
+    date_of_birth: '1985'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '42521'
+    place_of_birth: Somalia
+    main_entry: 'true'
+remarks: "(Linked To: AL-SHABAAB)"

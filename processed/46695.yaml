@@ -1,0 +1,35 @@
+---
+uid: '46695'
+last_name: LIMITED LIABILITY COMPANY PRIUS ELECTRONICS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '72086'
+    type: a.k.a.
+    category: strong
+    last_name: PRIUS ELEKTRONICS
+address_list:
+  items:
+  - uid: '69549'
+    address1: Ul. Bolshaya Akademicheskaya D. 44
+    address2: K. 2, Floor Pomeshch. Kom. 9
+    address3: XIV, 6, 6A
+    city: Moscow
+    postal_code: '127434'
+    country: Russia
+id_list:
+  items:
+  - uid: '36734'
+    id_type: Registration Number
+    id_number: '1217700042230'
+    id_country: Russia
+  - uid: '36735'
+    id_type: Tax ID No.
+    id_number: '7743353866'
+    id_country: Russia
+  - uid: '175080'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

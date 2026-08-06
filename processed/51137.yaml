@@ -1,0 +1,34 @@
+---
+uid: '51137'
+first_name: Andrey Mikhaylovich
+last_name: BULYGA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '77723'
+    country: Russia
+id_list:
+  items:
+  - uid: '43273'
+    id_type: Tax ID No.
+    id_number: '272099571004'
+    id_country: Russia
+  - uid: '180188'
+    id_type: Gender
+    id_number: Male
+  - uid: '180189'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '80183'
+    date_of_birth: 13 Oct 1968
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '80185'
+    place_of_birth: Saryozek, Kerbulaksky district, Zhetysu region, Kazakhstan
+    main_entry: 'true'

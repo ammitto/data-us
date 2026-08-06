@@ -1,0 +1,49 @@
+---
+uid: '39663'
+first_name: Mohamed
+last_name: EL ZEIN
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '61798'
+    type: a.k.a.
+    category: strong
+    last_name: AL-ZAYN
+    first_name: Muhammad
+  - uid: '61799'
+    type: a.k.a.
+    category: strong
+    last_name: AL-ZAYN
+    first_name: Muhammad 'Ali
+address_list:
+  items:
+  - uid: '59060'
+    city: Beirut
+    country: Lebanon
+  - uid: '59062'
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '28800'
+    id_type: Passport
+    id_number: '3090014'
+    id_country: Lebanon
+    expiration_date: '09 Mar 2020'
+  - uid: '156220'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '155975'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '55974'
+    date_of_birth: 17 Feb 1987
+    main_entry: 'true'
+remarks: "(Linked To: HIZBALLAH; Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS (IRGC)-QODS
+  FORCE)"

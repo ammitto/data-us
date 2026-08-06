@@ -1,0 +1,48 @@
+---
+uid: '11934'
+first_name: Jose Ramon
+last_name: DAVILA LOPEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '12688'
+    type: a.k.a.
+    category: strong
+    last_name: TORRES HERNANDEZ
+    first_name: Antonio
+  - uid: '12689'
+    type: a.k.a.
+    category: strong
+    last_name: RUBIO CONDE
+    first_name: David
+address_list:
+  items:
+  - uid: '18162'
+    country: Mexico
+  - uid: '18163'
+    address1: Calle 22
+    city: Valle Hermoso
+    state_or_province: Tamaulipas
+    country: Mexico
+id_list:
+  items:
+  - uid: '20651'
+    id_type: C.U.R.P.
+    id_number: DALR780831HBCVPM06
+    id_country: Mexico
+  - uid: '138263'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '7591'
+    date_of_birth: 31 Aug 1978
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '7593'
+    place_of_birth: Tijuana, Baja California, Mexico
+    main_entry: 'true'

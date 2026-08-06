@@ -1,0 +1,38 @@
+---
+uid: '40758'
+last_name: SIMORGH PETROCHEMICAL COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13846
+aka_list:
+  items:
+  - uid: '63370'
+    type: a.k.a.
+    category: strong
+    last_name: MAHSHAHR SIMORGH PETROCHEMICAL COMPANY
+address_list:
+  items:
+  - uid: '60737'
+    address1: Lower Level 1, No. 21, 23 Shahid Ahmad Nasifi Street, Sa'adat Abad Street,
+      Neighborhood Dariya
+    city: Tehran
+    state_or_province: Tehran Province
+    country: Iran
+id_list:
+  items:
+  - uid: '29925'
+    id_type: National ID No.
+    id_number: '10320204241'
+    id_country: Iran
+  - uid: '29926'
+    id_type: Business Registration Number
+    id_number: '369795'
+    id_country: Iran
+  - uid: '158237'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '158238'
+    id_type: Organization Established Date
+    id_number: 14 Mar 2010
+remarks: "(Linked To: AMIR KABIR PETROCHEMICAL COMPANY)"

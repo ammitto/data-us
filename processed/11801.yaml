@@ -1,0 +1,57 @@
+---
+uid: '11801'
+first_name: Servando
+last_name: GOMEZ MARTINEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '12589'
+    type: a.k.a.
+    category: weak
+    last_name: LA TUTA
+  - uid: '12590'
+    type: a.k.a.
+    category: weak
+    last_name: EL PROFE
+  - uid: '12591'
+    type: a.k.a.
+    category: weak
+    last_name: EL PROFESOR
+address_list:
+  items:
+  - uid: '17863'
+    address1: 236 Ave. Lazaro Cardenas
+    address2: Centro
+    postal_code: '60920'
+    country: Mexico
+  - uid: '17864'
+    address1: 25 Calle Libertad
+    address2: Vigencia
+    country: Mexico
+id_list:
+  items:
+  - uid: '6178'
+    id_type: C.U.R.P.
+    id_number: GOMS660206HMNMRR08
+    id_country: Mexico
+  - uid: '6179'
+    id_type: R.F.C.
+    id_number: GOMS660206NS4
+    id_country: Mexico
+  - uid: '6180'
+    id_type: R.F.C.
+    id_number: GOMS790516
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '7322'
+    date_of_birth: 06 Feb 1966
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '7323'
+    place_of_birth: Arteaga, Michoacan, Mexico
+    main_entry: 'true'

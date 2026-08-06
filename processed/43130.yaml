@@ -1,0 +1,41 @@
+---
+uid: '43130'
+last_name: NEW ARCTIC SHIPPING LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '66862'
+    type: f.k.a.
+    category: strong
+    last_name: MEDVEZHYA GORA OOO
+address_list:
+  items:
+  - uid: '64365'
+    address1: d. 3A str. 4 etazh 1 pom. 7, ul. 1-Ya Frunzenskaya
+    city: Moscow
+    postal_code: '119146'
+    country: Russia
+id_list:
+  items:
+  - uid: '32735'
+    id_type: Registration Number
+    id_number: '1197746527714'
+    id_country: Russia
+  - uid: '32736'
+    id_type: Tax ID No.
+    id_number: '7704471009'
+    id_country: Russia
+  - uid: '32737'
+    id_type: Government Gazette Number
+    id_number: '41291624'
+    id_country: Russia
+  - uid: '175551'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '162112'
+    id_type: Organization Established Date
+    id_number: 26 Aug 2019
+remarks: "(Linked To: AKVAMARIN LIMITED LIABILITY COMPANY)"

@@ -1,0 +1,56 @@
+---
+uid: '30414'
+last_name: BEH TAM RAVANKAR
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13876
+aka_list:
+  items:
+  - uid: '47799'
+    type: a.k.a.
+    category: strong
+    last_name: BEH TAM RAVANKAR COMPANY
+  - uid: '47800'
+    type: a.k.a.
+    category: strong
+    last_name: BEH TAM COMPANY
+  - uid: '47801'
+    type: a.k.a.
+    category: strong
+    last_name: SHERKATE BEH TAAM
+  - uid: '47802'
+    type: a.k.a.
+    category: weak
+    last_name: BEH TAM
+address_list:
+  items:
+  - uid: '46008'
+    address1: Kian Tower, No. 2551 Vali-e-Asr Avenue
+    city: Tehran
+    postal_code: '1968643111'
+    country: Iran
+  - uid: '46009'
+    address1: 9th Floor, Kian Tower, No. 1387, Naseri Alley, Zafar Dastgerdi Street,
+      District 3
+    city: Tehran
+    postal_code: '1968643111'
+    country: Iran
+  - uid: '46010'
+    address1: Hamid Alley, South Bahar Avenue, After Somayeh Street
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '20566'
+    id_type: National ID No.
+    id_number: '10102308704'
+    id_country: Iran
+  - uid: '20567'
+    id_type: Registration Number
+    id_number: '188852'
+    id_country: Iran
+  - uid: '138060'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: BEHRAN OIL CO.)"

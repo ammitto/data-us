@@ -1,0 +1,33 @@
+---
+uid: '46272'
+last_name: AO ELEKTROISTOCHNIK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '68883'
+    address1: Ul. Rabochaya D. 205
+    city: Saratov
+    postal_code: '410071'
+    country: Russia
+  - uid: '68884'
+    address1: Ul. Monastyrka D. 17A
+    address2: Pomeshch. 42, 42/1
+    city: Nizhniy Novgorod
+    postal_code: '603016'
+    country: Russia
+id_list:
+  items:
+  - uid: '36122'
+    id_type: Registration Number
+    id_number: '1116455001629'
+    id_country: Russia
+  - uid: '36123'
+    id_type: Tax ID No.
+    id_number: '6455053279'
+    id_country: Russia
+  - uid: '174939'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

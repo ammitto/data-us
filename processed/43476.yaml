@@ -1,0 +1,45 @@
+---
+uid: '43476'
+first_name: Nestor Isidro
+last_name: PEREZ SALAS
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '67407'
+    type: a.k.a.
+    category: weak
+    last_name: Nini
+  - uid: '67492'
+    type: a.k.a.
+    category: weak
+    last_name: Chicken Little
+  - uid: '67493'
+    type: a.k.a.
+    category: weak
+    last_name: GARCIA, Nestor Isidro
+address_list:
+  items:
+  - uid: '64864'
+    country: Mexico
+id_list:
+  items:
+  - uid: '33056'
+    id_type: C.U.R.P.
+    id_number: PESN920309HBCRLS03
+    id_country: Mexico
+  - uid: '162928'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '62927'
+    date_of_birth: '09 Mar 1992'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '62929'
+    place_of_birth: Baja California, Mexico
+    main_entry: 'true'

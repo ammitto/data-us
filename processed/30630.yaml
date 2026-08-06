@@ -1,0 +1,29 @@
+---
+uid: '30630'
+last_name: FINANCIERA CIMEX S.A
+sdn_type: Entity
+program_list:
+  programs:
+  - CUBA
+aka_list:
+  items:
+  - uid: '48176'
+    type: a.k.a.
+    category: strong
+    last_name: FINCIMEX
+address_list:
+  items:
+  - uid: '46342'
+    address1: Calle 8
+    address2: Entre 3ra Y 5ta Ave
+    address3: 319 Playa
+    city: Havana
+    country: Cuba
+  - uid: '46464'
+    country: Panama
+id_list:
+  items:
+  - uid: '20733'
+    id_type: 'RUC #'
+    id_number: 12555-91-124494
+    id_country: Panama

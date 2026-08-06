@@ -1,0 +1,51 @@
+---
+uid: '41000'
+first_name: Natalya Leonidovna
+last_name: DESYATOVA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63879'
+    type: a.k.a.
+    category: strong
+    last_name: LYUTOVA
+    first_name: Nataliya Leonidivna
+  - uid: '63880'
+    type: a.k.a.
+    category: strong
+    last_name: LYUTOVA
+    first_name: Nataliya Leonidovna
+  - uid: '63881'
+    type: a.k.a.
+    category: strong
+    last_name: DESIATOVA
+    first_name: Natalia
+address_list:
+  items:
+  - uid: '61237'
+    address1: 122 Ilyushi Kulika St.
+    address2: Apartment 89
+    city: Kherson
+    state_or_province: Kherson region
+    postal_code: '73009'
+    country: Ukraine
+id_list:
+  items:
+  - uid: '30330'
+    id_type: Tax ID No.
+    id_number: '2429802748'
+    id_country: Ukraine
+  - uid: '158733'
+    id_type: Gender
+    id_number: Female
+  - uid: '175349'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '58732'
+    date_of_birth: 11 Jul 1966
+    main_entry: 'true'

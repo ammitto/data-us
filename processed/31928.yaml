@@ -1,0 +1,52 @@
+---
+uid: '31928'
+last_name: LIMITED LIABILITY COMPANY MORTRANSSERVICE
+sdn_type: Entity
+program_list:
+  programs:
+  - PEESA-EO14039
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '50027'
+    type: a.k.a.
+    category: strong
+    last_name: MORTRANSSERVIS OOO
+  - uid: '81754'
+    type: a.k.a.
+    category: strong
+    last_name: LLC MORTRANSERVIS
+  - uid: '81756'
+    type: a.k.a.
+    category: strong
+    last_name: MORTRANSSERVICE LLC MOSCOW
+address_list:
+  items:
+  - uid: '48024'
+    address1: ul Viktora Gyugo
+    address2: Building 1, 3rd Floor
+    address3: Room 15, Office 302, 303
+    city: Kaliningrad
+    postal_code: '129110'
+    country: Russia
+  - uid: '79708'
+    address1: zd. 1 pom. 16, KAB. 403 (4 ET.), ul. V. Gyugo
+    city: Kaliningrad
+    postal_code: '236006'
+    country: Russia
+id_list:
+  items:
+  - uid: '21729'
+    id_type: Business Registration Number
+    id_number: '5147746277036'
+    id_country: Russia
+  - uid: '21730'
+    id_type: Tax ID No.
+    id_number: '7707847556'
+    id_country: Russia
+  - uid: '21754'
+    id_type: Identification Number
+    id_number: IMO 5933437
+  - uid: '183222'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

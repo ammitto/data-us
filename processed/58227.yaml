@@ -1,0 +1,28 @@
+---
+uid: '58227'
+last_name: LILY
+sdn_type: Vessel
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '90080'
+    type: a.k.a.
+    category: weak
+    last_name: DANYA
+id_list:
+  items:
+  - uid: '52870'
+    id_type: Vessel Registration Identification
+    id_number: IMO 9294331
+  - uid: '52871'
+    id_type: MMSI
+    id_number: '353502000'
+  - uid: '199901'
+    id_type: Vessel Year of Build
+    id_number: '2005'
+  - uid: '199952'
+    id_type: Former Vessel Flag
+    id_number: Panama
+remarks: "(Linked To: CONFIDENT APEX LIMITED)"

@@ -1,0 +1,31 @@
+---
+uid: '52474'
+first_name: Ramon Celestino
+last_name: VELASQUEZ ARAGUAYAN
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+address_list:
+  items:
+  - uid: '80132'
+    country: Venezuela
+id_list:
+  items:
+  - uid: '45446'
+    id_type: Cedula No.
+    id_number: V-11448109
+    id_country: Venezuela
+  - uid: '184081'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '84079'
+    date_of_birth: 31 Aug 1971
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '84080'
+    place_of_birth: Guanaguana, Venezuela
+    main_entry: 'true'

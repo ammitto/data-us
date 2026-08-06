@@ -1,0 +1,47 @@
+---
+uid: '51945'
+first_name: Sergei Aleksandrovich
+last_name: OBOZOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '81300'
+    type: a.k.a.
+    category: strong
+    last_name: OBOZOV
+    first_name: Sergey Alexandrovich
+address_list:
+  items:
+  - uid: '79170'
+    address1: Bakhrushina Str., 13-15
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '44717'
+    id_type: Tax ID No.
+    id_number: '526300588623'
+    id_country: Russia
+  - uid: '44990'
+    id_type: National ID No.
+    id_number: '2205724787'
+    id_country: Russia
+  - uid: '182523'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '182526'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '82524'
+    date_of_birth: 18 Sep 1960
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '82525'
+    place_of_birth: Pavlovo, Nizhny Novgorod Region, Russia
+    main_entry: 'true'

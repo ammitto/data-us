@@ -1,0 +1,33 @@
+---
+uid: '26181'
+first_name: Victor Francisco
+last_name: BELTRAN GARCIA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '39689'
+    city: Guadalajara
+    state_or_province: Jalisco
+    country: Mexico
+id_list:
+  items:
+  - uid: '16872'
+    id_type: C.U.R.P.
+    id_number: BEGV720507HJCLRC02
+    id_country: Mexico
+  - uid: '130600'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '30598'
+    date_of_birth: 07 May 1972
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '30599'
+    place_of_birth: Jalisco, Mexico
+    main_entry: 'true'

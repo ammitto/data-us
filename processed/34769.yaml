@@ -1,0 +1,54 @@
+---
+uid: '34769'
+last_name: MINSK WHEEL TRACTOR PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - BELARUS-EO14038
+  - NPWMD
+aka_list:
+  items:
+  - uid: '54550'
+    type: a.k.a.
+    category: weak
+    last_name: OJSC MZKT
+  - uid: '54551'
+    type: a.k.a.
+    category: strong
+    last_name: MINSK WHEEL TRACTOR PLANT OPEN JOINT STOCK COMPANY
+  - uid: '54552'
+    type: a.k.a.
+    category: strong
+    last_name: MINSK WHEELED TRACTOR PLANT
+  - uid: '54553'
+    type: a.k.a.
+    category: strong
+    last_name: MINSK WHEEL TRACTOR PLANT JSC
+  - uid: '54554'
+    type: a.k.a.
+    category: strong
+    last_name: OTKRYTOE AKTSIONERNOE OBSHCHESTVO MINSKII ZAVOD KOLESNYKH TYAGACHEI
+  - uid: '54555'
+    type: a.k.a.
+    category: weak
+    last_name: OJSC MWPT
+  - uid: '54556'
+    type: a.k.a.
+    category: weak
+    last_name: VOLAT
+address_list:
+  items:
+  - uid: '52115'
+    address1: Partizanski Ave 150
+    city: Minsk
+    postal_code: '220021'
+    country: Belarus
+id_list:
+  items:
+  - uid: '24455'
+    id_type: Registration Number
+    id_number: '100534485'
+    id_country: Belarus
+  - uid: '146223'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

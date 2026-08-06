@@ -1,0 +1,44 @@
+---
+uid: '56825'
+first_name: Jose Luis
+last_name: GUTIERREZ OCHOA
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+aka_list:
+  items:
+  - uid: '88059'
+    type: a.k.a.
+    category: weak
+    last_name: Tolin
+address_list:
+  items:
+  - uid: '86992'
+    state_or_province: Jalisco
+    country: Mexico
+id_list:
+  items:
+  - uid: '50932'
+    id_type: C.U.R.P.
+    id_number: GUOL871229HMNTCS09
+    id_country: Mexico
+  - uid: '195760'
+    id_type: Gender
+    id_number: Male
+  - uid: '196230'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '95758'
+    date_of_birth: 29 Dec 1987
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '95761'
+    place_of_birth: Michoacan de Ocampo, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: CARTEL DE JALISCO NUEVA GENERACION)"

@@ -1,0 +1,34 @@
+---
+uid: '34196'
+first_name: Ramon Humberto
+last_name: CALDERON VINDELL
+sdn_type: Individual
+program_list:
+  programs:
+  - NICARAGUA
+address_list:
+  items:
+  - uid: '51284'
+    address1: Kilometro Doce y Medio
+    address2: Carretera Sur
+    city: Managua
+    country: Nicaragua
+id_list:
+  items:
+  - uid: '23856'
+    id_type: National ID No.
+    id_number: 1641710590000J
+    id_country: Nicaragua
+  - uid: '145447'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '45448'
+    date_of_birth: 17 Oct 1959
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '45450'
+    place_of_birth: San Juan de Limay, Esteli, Nicaragua
+    main_entry: 'true'

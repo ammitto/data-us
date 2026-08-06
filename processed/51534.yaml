@@ -1,0 +1,24 @@
+---
+uid: '51534'
+last_name: KOLA
+sdn_type: Vessel
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+id_list:
+  items:
+  - uid: '43948'
+    id_type: Vessel Registration Identification
+    id_number: IMO 9217979
+  - uid: '43949'
+    id_type: MMSI
+    id_number: '273414140'
+  - uid: '181192'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183486'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+remarks: "(Linked To: LK VOLGA LIMITED LIABILITY COMPANY)"

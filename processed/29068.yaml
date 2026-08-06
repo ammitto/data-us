@@ -1,0 +1,55 @@
+---
+uid: '29068'
+first_name: Asma
+last_name: AL-ASSAD
+sdn_type: Individual
+program_list:
+  programs:
+  - PAARSSR-EO13894
+aka_list:
+  items:
+  - uid: '45702'
+    type: a.k.a.
+    category: strong
+    last_name: AKHRAS
+    first_name: Asma
+  - uid: '45704'
+    type: a.k.a.
+    category: strong
+    last_name: AL-AKHRAS
+    first_name: Asma
+  - uid: '48350'
+    type: a.k.a.
+    category: strong
+    last_name: AKHRAS
+    first_name: Emma
+  - uid: '48351'
+    type: a.k.a.
+    category: strong
+    last_name: AL-ASSAD
+    first_name: Asmaa
+  - uid: '48352'
+    type: a.k.a.
+    category: strong
+    last_name: FAWAZ AL-AKHRAS
+    first_name: Asma
+address_list:
+  items:
+  - uid: '43938'
+    city: Damascus
+    country: Syria
+id_list:
+  items:
+  - uid: '135682'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '35679'
+    date_of_birth: 11 Aug 1975
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '35680'
+    place_of_birth: Acton, United Kingdom
+    main_entry: 'true'

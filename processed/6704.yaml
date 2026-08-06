@@ -1,0 +1,49 @@
+---
+uid: '6704'
+first_name: Luis Ignacio
+last_name: AMEZCUA CONTRERAS
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '4404'
+    type: a.k.a.
+    category: weak
+    last_name: LOPEZ, Luis
+  - uid: '4405'
+    type: a.k.a.
+    category: weak
+    last_name: LOZANO, Eduardo
+  - uid: '4406'
+    type: a.k.a.
+    category: weak
+    last_name: OCHOA, Salvador
+  - uid: '4407'
+    type: a.k.a.
+    category: weak
+    last_name: RODRIGUEZ LOPEZ, Sergio
+address_list:
+  items:
+  - uid: '89055'
+    country: Mexico
+id_list:
+  items:
+  - uid: '52547'
+    id_type: C.U.R.P.
+    id_number: AECL640222HJCMNS09
+    id_country: Mexico
+  - uid: '199159'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '1146'
+    date_of_birth: 22 Feb 1964
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '1147'
+    place_of_birth: Jalisco, Mexico
+    main_entry: 'true'

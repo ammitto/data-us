@@ -1,0 +1,41 @@
+---
+uid: '44094'
+last_name: LIMITED LIABILITY COMPANY PROIZVOSTVENNAYA KOMMERCHESKAYA FIRMA GAZNEFTEMASH
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '68226'
+    type: a.k.a.
+    category: strong
+    last_name: PKF GAZNEFTEMASH
+  - uid: '68227'
+    type: a.k.a.
+    category: strong
+    last_name: GAZNEFTEMASH LLC
+address_list:
+  items:
+  - uid: '65624'
+    address1: Km Kievskoe Shosse 22-1
+    address2: Domovladenie 4, Str. 5
+    city: Moscow
+    postal_code: '108811'
+    country: Russia
+id_list:
+  items:
+  - uid: '33507'
+    id_type: Registration Number
+    id_number: '1087746698137'
+    id_country: Russia
+  - uid: '33508'
+    id_type: Tax ID No.
+    id_number: '7727653358'
+    id_country: Russia
+  - uid: '175767'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '163666'
+    id_type: Organization Established Date
+    id_number: 02 Jun 2008

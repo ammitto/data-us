@@ -1,0 +1,48 @@
+---
+uid: '58142'
+first_name: Behrouz
+last_name: NAMAZI
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+aka_list:
+  items:
+  - uid: '89898'
+    type: a.k.a.
+    category: strong
+    last_name: NAMAZI
+    first_name: Behruz
+address_list:
+  items:
+  - uid: '89290'
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '52712'
+    id_type: National ID No.
+    id_number: '0083311688'
+    id_country: Iran
+  - uid: '52713'
+    id_type: Passport
+    id_number: T72756886
+    id_country: Iran
+  - uid: '199644'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '199591'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '99593'
+    date_of_birth: 22 Jul 1987
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '99592'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS)"

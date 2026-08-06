@@ -1,0 +1,31 @@
+---
+uid: '43776'
+first_name: Samuel
+last_name: LEON ALVARADO
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '65204'
+    country: Mexico
+id_list:
+  items:
+  - uid: '33216'
+    id_type: C.U.R.P.
+    id_number: LEAS880702HSLNLM08
+    id_country: Mexico
+  - uid: '163349'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '63347'
+    date_of_birth: 02 Jul 1988
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '63348'
+    place_of_birth: Sinaloa, Mexico
+    main_entry: 'true'

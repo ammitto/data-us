@@ -1,0 +1,42 @@
+---
+uid: '29883'
+first_name: Ahmad Asghari
+last_name: SHIVA'I
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+aka_list:
+  items:
+  - uid: '46852'
+    type: a.k.a.
+    category: strong
+    last_name: SHIVAEI
+    first_name: Ahmed Asghari
+address_list:
+  items:
+  - uid: '45054'
+    country: Iran
+id_list:
+  items:
+  - uid: '19997'
+    id_type: National ID No.
+    id_number: '55690718'
+    id_country: Iran
+  - uid: '137118'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '137080'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '37078'
+    date_of_birth: 03 Mar 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '37079'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'

@@ -1,0 +1,32 @@
+---
+uid: '35078'
+last_name: OOO SERTAL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '52675'
+    address1: Ul. Yablachkova D. 21 Korpus 3, Et 3 Pom VIII Kom 1I
+    city: Moscow
+    postal_code: '127322'
+    country: Russia
+  - uid: '52676'
+    address1: P.O. Box 708
+    city: Moscow
+    postal_code: '119330'
+    country: Russia
+id_list:
+  items:
+  - uid: '24852'
+    id_type: Tax ID No.
+    id_number: '9715216050'
+    id_country: Russia
+  - uid: '24853'
+    id_type: Registration Number
+    id_number: '1157746840569'
+    id_country: Russia
+  - uid: '175264'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

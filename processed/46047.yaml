@@ -1,0 +1,29 @@
+---
+uid: '46047'
+last_name: LIMITED LIABILITY COMPANY PROSPEKT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '68600'
+    address1: 42 Leytenanta Yanalova Street
+    address2: Letter B, Floor 5, Suite 502/2
+    city: Kaliningrad
+    state_or_province: Kaliningrad Region
+    country: Russia
+id_list:
+  items:
+  - uid: '35906'
+    id_type: Tax ID No.
+    id_number: '3906386743'
+    id_country: Russia
+  - uid: '35907'
+    id_type: Registration Number
+    id_number: '1193926017185'
+    id_country: Russia
+  - uid: '174920'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: LIMITED LIABILITY COMPANY POZITIVINFO)"

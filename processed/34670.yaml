@@ -1,0 +1,45 @@
+---
+uid: '34670'
+last_name: KHOLTSVUD OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54299'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU KHOLTSVUD
+  - uid: '54300'
+    type: a.k.a.
+    category: strong
+    last_name: KHOLTSVUD LLC
+  - uid: '54301'
+    type: a.k.a.
+    category: strong
+    last_name: HOLZVUD
+address_list:
+  items:
+  - uid: '51900'
+    address1: Ul. Smirnovskaya D. 10, Str. 8, Kabinet 8
+    city: Moscow
+    postal_code: '109052'
+    country: Russia
+id_list:
+  items:
+  - uid: '24281'
+    id_type: Registration ID
+    id_number: '5147746070368'
+    id_country: Russia
+  - uid: '24283'
+    id_type: Tax ID No.
+    id_number: '7722854607'
+    id_country: Russia
+  - uid: '146054'
+    id_type: Organization Established Date
+    id_number: '08 Sep 2014'
+  - uid: '175166'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: PROMSVYAZBANK PUBLIC JOINT STOCK COMPANY)"

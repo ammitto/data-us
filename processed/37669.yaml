@@ -1,0 +1,42 @@
+---
+uid: '37669'
+last_name: JOINT STOCK COMPANY OBNINSK RESEARCH AND PRODUCTION ENTERPRISE TECHNOLOGIYA
+  NAMED AFTER A. G. ROMASHIN
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59020'
+    type: a.k.a.
+    category: strong
+    last_name: JSC ORPE TECHNOLOGIYA NAMED AFTER A. G. ROMASHIN
+  - uid: '59021'
+    type: a.k.a.
+    category: strong
+    last_name: JSC OBNINSKOYE NPP TEKHNOLOGIYA IM. A.G.ROMASHINA
+address_list:
+  items:
+  - uid: '56333'
+    address1: 15 Kievskoye Shosse
+    city: Obninsk
+    state_or_province: Kaluga Region
+    postal_code: '249031'
+    country: Russia
+id_list:
+  items:
+  - uid: '26895'
+    id_type: Tax ID No.
+    id_number: '4025431260'
+    id_country: Russia
+  - uid: '26896'
+    id_type: Registration Number
+    id_number: '1114025006160'
+    id_country: Russia
+  - uid: '173448'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '152608'
+    id_type: Organization Established Date
+    id_number: 14 Dec 2011

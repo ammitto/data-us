@@ -1,0 +1,45 @@
+---
+uid: '38818'
+first_name: Oleksandr Fedorovych
+last_name: SAULENKO
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '60653'
+    type: a.k.a.
+    category: strong
+    last_name: SAULENKO
+    first_name: Alexander Fedorovich
+address_list:
+  items:
+  - uid: '57908'
+    address1: 8 Pushkin St., Novopetrovka Village
+    city: Berydansk
+    state_or_province: Zaporozhye Region
+    postal_code: '71100'
+    country: Ukraine
+id_list:
+  items:
+  - uid: '28098'
+    id_type: Tax ID No.
+    id_number: '2277417617'
+    id_country: Ukraine
+  - uid: '154437'
+    id_type: Gender
+    id_number: Male
+  - uid: '174716'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '54434'
+    date_of_birth: '09 May 1962'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '54435'
+    place_of_birth: Novopetrovka Village, Berdyansk, Zaporozhye, Ukraine
+    main_entry: 'true'

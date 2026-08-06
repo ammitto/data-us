@@ -1,0 +1,46 @@
+---
+uid: '45028'
+last_name: LIMITED LIABILITY COMPANY INFORION
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69747'
+    type: a.k.a.
+    category: strong
+    last_name: INFORION OOO
+  - uid: '69753'
+    type: a.k.a.
+    category: strong
+    last_name: LLC INFORION
+address_list:
+  items:
+  - uid: '67054'
+    address1: Ul. Bolshaya Semenovskaya d. 45
+    city: Moscow
+    postal_code: '107023'
+    country: Russia
+id_list:
+  items:
+  - uid: '34730'
+    id_type: Tax ID No.
+    id_number: '7715592358'
+    id_country: Russia
+  - uid: '34733'
+    id_type: Registration Number
+    id_number: '1067746288323'
+    id_country: Russia
+  - uid: '175906'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '165368'
+    id_type: Website
+    id_number: inforion.ru
+  - uid: '165365'
+    id_type: Organization Established Date
+    id_number: 17 Feb 2006
+  - uid: '165366'
+    id_type: 'Organization Type:'
+    id_number: Other information technology and computer service activities

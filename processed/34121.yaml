@@ -1,0 +1,33 @@
+---
+uid: '34121'
+first_name: Celina
+last_name: DELGADO CASTELLON
+sdn_type: Individual
+program_list:
+  programs:
+  - NICARAGUA
+address_list:
+  items:
+  - uid: '51158'
+    address1: Residencial Mira Bosques Casa C15
+    city: Managua
+    country: Nicaragua
+id_list:
+  items:
+  - uid: '23757'
+    id_type: National ID No.
+    id_number: 1610805760006T
+    id_country: Nicaragua
+  - uid: '145265'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '45269'
+    date_of_birth: '08 May 1976'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '45273'
+    place_of_birth: Esteli, Nicaragua
+    main_entry: 'true'

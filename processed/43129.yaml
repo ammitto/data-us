@@ -1,0 +1,41 @@
+---
+uid: '43129'
+last_name: LIMITED LIABILITY COMPANY SMT-ILOGIC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '66864'
+    type: a.k.a.
+    category: strong
+    last_name: SMT AILOGIK OOO
+address_list:
+  items:
+  - uid: '64362'
+    address1: Ulitsa Mineralnaya, Dom 13, Litera A, Pomeshtenie 15N
+    city: Saint Petersburg
+    postal_code: '195197'
+    country: Russia
+  - uid: '64363'
+    address1: 17 Nepokorennyh Avenue, Building 4, Letter V, Room 5N
+    city: Saint Petersburg
+    postal_code: '195220'
+    country: Russia
+id_list:
+  items:
+  - uid: '32738'
+    id_type: Registration Number
+    id_number: '1157847407156'
+    id_country: Russia
+  - uid: '32739'
+    id_type: Tax ID No.
+    id_number: '7804552300'
+    id_country: Russia
+  - uid: '162113'
+    id_type: Organization Established Date
+    id_number: 27 Nov 2015
+  - uid: '175550'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

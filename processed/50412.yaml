@@ -1,0 +1,33 @@
+---
+uid: '50412'
+last_name: LIMITED LIABILITY COMPANY MENSOR GRUPP
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78801'
+    type: a.k.a.
+    category: weak
+    last_name: MENSOR GROUP
+address_list:
+  items:
+  - uid: '76434'
+    address1: d. ZD. 88 etazh / kom. 5/N507, ul. Sotsialisticheskaya
+    city: Rostov-on-Don
+    postal_code: '344002'
+    country: Russia
+id_list:
+  items:
+  - uid: '42198'
+    id_type: Tax ID No.
+    id_number: '7721296082'
+    id_country: Russia
+  - uid: '42199'
+    id_type: Registration Number
+    id_number: '1157746334305'
+    id_country: Russia
+  - uid: '178389'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

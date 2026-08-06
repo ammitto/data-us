@@ -1,0 +1,39 @@
+---
+uid: '42877'
+last_name: LIMITED LIABILITY COMPANY BUSINESSPROMESTATE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '66442'
+    type: a.k.a.
+    category: strong
+    last_name: BIZNESPROMESTEIT
+address_list:
+  items:
+  - uid: '63971'
+    address1: ul. Moldavskaya d. 5
+    address2: str. 2
+    city: Moscow
+    postal_code: '121467'
+    country: Russia
+id_list:
+  items:
+  - uid: '32452'
+    id_type: Registration Number
+    id_number: '5147746189069'
+    id_country: Russia
+  - uid: '32453'
+    id_type: Tax ID No.
+    id_number: '7731481060'
+    id_country: Russia
+  - uid: '161712'
+    id_type: Organization Established Date
+    id_number: 23 Apr 2013
+  - uid: '175492'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: GARSHIN, Vadim Veniaminovich; Linked To: RAZORENOV, Aleksandr
+  Gennadievich)"

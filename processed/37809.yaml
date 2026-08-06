@@ -1,0 +1,42 @@
+---
+uid: '37809'
+last_name: NATIONAL PAYMENT CARD SYSTEM JOINT STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '59389'
+    type: a.k.a.
+    category: strong
+    last_name: NSPK JSC
+  - uid: '59391'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO NATSIONALNAYA SISTEMA PLATEZHNYKH KART
+address_list:
+  items:
+  - uid: '56616'
+    address1: ul. Bolshaya Tatarskaya D. 11
+    city: Moscow
+    postal_code: '115184'
+    country: Russia
+id_list:
+  items:
+  - uid: '27117'
+    id_type: Registration Number
+    id_number: '1147746831352'
+    id_country: Russia
+  - uid: '27118'
+    id_type: Tax ID No.
+    id_number: '7706812159'
+    id_country: Russia
+  - uid: '173532'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184109'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

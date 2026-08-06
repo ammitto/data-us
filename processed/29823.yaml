@@ -1,0 +1,35 @@
+---
+uid: '29823'
+first_name: Mohammad Ali
+last_name: MIRZAEI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+address_list:
+  items:
+  - uid: '44975'
+    country: Iran
+id_list:
+  items:
+  - uid: '19942'
+    id_type: Passport
+    id_number: I42045850
+    id_country: Iran
+  - uid: '137043'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '136837'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '36835'
+    date_of_birth: 18 Jul 1995
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '36836'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: IRANIAN MINISTRY OF INTELLIGENCE AND SECURITY)"

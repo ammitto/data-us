@@ -1,0 +1,56 @@
+---
+uid: '44758'
+last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU KOMMERCHESKI BANK SINKO BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69211'
+    type: a.k.a.
+    category: strong
+    last_name: COMMERCIAL BANK SINKO BANK
+  - uid: '69212'
+    type: a.k.a.
+    category: strong
+    last_name: SINKO BANK LTD
+address_list:
+  items:
+  - uid: '66628'
+    address1: D. 11, Str. 1, Per. Posledni
+    city: Moscow
+    postal_code: '107045'
+    country: Russia
+id_list:
+  items:
+  - uid: '34298'
+    id_type: Legal Entity Number
+    id_number: 2534001TS0M7VRJK2567
+  - uid: '34299'
+    id_type: Identification Number
+    id_number: FNLZ43.99999.SL.643
+    id_country: Russia
+  - uid: '34300'
+    id_type: Tax ID No.
+    id_number: '7703004072'
+    id_country: Russia
+  - uid: '34301'
+    id_type: Registration Number
+    id_number: '1027739563610'
+    id_country: Russia
+  - uid: '173794'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '164937'
+    id_type: SWIFT/BIC
+    id_number: SNKBRUMM
+  - uid: '164938'
+    id_type: Website
+    id_number: www.sinko-bank.ru
+  - uid: '164940'
+    id_type: Organization Established Date
+    id_number: 18 Nov 2002
+  - uid: '164939'
+    id_type: Target Type
+    id_number: Financial Institution

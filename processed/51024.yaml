@@ -1,0 +1,31 @@
+---
+uid: '51024'
+first_name: Luis Gerardo
+last_name: REYES RIVERO
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+address_list:
+  items:
+  - uid: '77516'
+    country: Venezuela
+id_list:
+  items:
+  - uid: '43742'
+    id_type: Cedula No.
+    id_number: V11879256
+    id_country: Venezuela
+  - uid: '179912'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '79911'
+    date_of_birth: 16 Feb 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '80401'
+    place_of_birth: Venezuela
+    main_entry: 'true'

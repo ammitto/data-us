@@ -1,0 +1,47 @@
+---
+uid: '25617'
+first_name: Morteza Ahmadali
+last_name: BEHZAD
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '40242'
+    type: a.k.a.
+    category: strong
+    last_name: BEHZADI
+    first_name: Morteza
+  - uid: '40244'
+    type: a.k.a.
+    category: strong
+    last_name: BEHZAD
+    first_name: Morteza
+id_list:
+  items:
+  - uid: '16561'
+    id_type: National ID No.
+    id_number: '4432151609'
+    id_country: Iran
+  - uid: '129536'
+    id_type: Gender
+    id_number: Male
+  - uid: '129540'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '29532'
+    date_of_birth: '1959'
+    main_entry: 'true'
+  - uid: '29533'
+    date_of_birth: '1960'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '29534'
+    place_of_birth: Yazd, Iran
+    main_entry: 'true'
+remarks: "(Linked To: PISHRO SYSTEMS RESEARCH COMPANY)"

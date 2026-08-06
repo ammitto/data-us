@@ -1,0 +1,48 @@
+---
+uid: '16173'
+first_name: Santos Isidro
+last_name: RIVERA MARADIAGA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '24309'
+    type: a.k.a.
+    category: weak
+    last_name: CACHIROS
+  - uid: '24357'
+    type: a.k.a.
+    category: strong
+    last_name: RIVERA MARADIAGA
+    first_name: Isidro
+address_list:
+  items:
+  - uid: '24316'
+    address1: Barrio Municipal
+    address2: Colonia El Country
+    address3: Bloque 1, Casa N-6
+    city: San Pedro Sula
+    state_or_province: Cortes
+    country: Honduras
+  - uid: '24337'
+    city: San Manuel
+    state_or_province: Cortes
+    country: Honduras
+id_list:
+  items:
+  - uid: '8782'
+    id_type: Numero de Identidad
+    id_number: '0209-1985-02347'
+    id_country: Honduras
+date_of_birth_list:
+  items:
+  - uid: '14481'
+    date_of_birth: 05 Jun 1985
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '14482'
+    place_of_birth: Tocoa, Colon, Honduras
+    main_entry: 'true'

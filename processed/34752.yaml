@@ -1,0 +1,47 @@
+---
+uid: '34752'
+last_name: BELARUSSIAN BANK OF DEVELOPMENT AND RECONSTRUCTION BELINVESTBANK JOINT
+  STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '54514'
+    type: a.k.a.
+    category: strong
+    last_name: BELINVESTBANK
+  - uid: '54516'
+    type: a.k.a.
+    category: strong
+    last_name: BELINVESTBANK JSC
+  - uid: '54517'
+    type: a.k.a.
+    category: strong
+    last_name: BELARUSSIAN BANK OF DEVELOPMENT AND RECONSTRUCTION JOINT STOCK COMPANY
+address_list:
+  items:
+  - uid: '52081'
+    address1: 29 Masherova Av.
+    city: Minsk
+    postal_code: '220002'
+    country: Belarus
+id_list:
+  items:
+  - uid: '24429'
+    id_type: Registration Number
+    id_number: '807000028'
+    id_country: Belarus
+  - uid: '146210'
+    id_type: SWIFT/BIC
+    id_number: BLBBBY2X
+  - uid: '146211'
+    id_type: Website
+    id_number: www.belinvestbank.by
+  - uid: '146212'
+    id_type: Organization Established Date
+    id_number: '09 Jan 2001'
+  - uid: '146207'
+    id_type: Target Type
+    id_number: Financial Institution

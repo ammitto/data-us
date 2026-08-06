@@ -1,0 +1,39 @@
+---
+uid: '56542'
+first_name: Monica
+last_name: MUNOZ UCROS
+sdn_type: Individual
+program_list:
+  programs:
+  - SUDAN-EO14098
+address_list:
+  items:
+  - uid: '86532'
+    address1: Calle 77 9 76 APT 302
+    city: Bogota
+    country: Colombia
+id_list:
+  items:
+  - uid: '50574'
+    id_type: Cedula No.
+    id_number: '52413003'
+    id_country: Colombia
+  - uid: '50575'
+    id_type: Passport
+    id_number: AX032470
+    id_country: Colombia
+    expiration_date: 11 Mar 2031
+  - uid: '194969'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '94966'
+    date_of_birth: 14 Jun 1976
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '94967'
+    place_of_birth: Bogota, Colombia
+    main_entry: 'true'
+remarks: "(Linked To: MAINE GLOBAL CORP S.A.S.)"

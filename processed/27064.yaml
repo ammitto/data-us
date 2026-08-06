@@ -1,0 +1,37 @@
+---
+uid: '27064'
+first_name: Youmin
+last_name: LI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13846
+address_list:
+  items:
+  - uid: '41118'
+    country: China
+id_list:
+  items:
+  - uid: '17681'
+    id_type: Passport
+    id_number: G48428458
+    id_country: China
+    issue_date: 14 Feb 2011
+    expiration_date: 13 Feb 2021
+  - uid: '17682'
+    id_type: National ID No.
+    id_number: '120103197307196727'
+    id_country: China
+  - uid: '132006'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '32007'
+    date_of_birth: 19 Jul 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '32008'
+    place_of_birth: Jilin, China
+    main_entry: 'true'

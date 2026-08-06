@@ -1,0 +1,57 @@
+---
+uid: '39336'
+first_name: David Elias
+last_name: CAMPBELL LICONA
+sdn_type: Individual
+program_list:
+  programs:
+  - TCO
+aka_list:
+  items:
+  - uid: '61387'
+    type: a.k.a.
+    category: weak
+    last_name: CAMPBELL, David
+  - uid: '61390'
+    type: a.k.a.
+    category: strong
+    last_name: PEREZ PAZ
+    first_name: Jorge Eduardo
+  - uid: '61391'
+    type: a.k.a.
+    category: weak
+    last_name: VIEJO DAN
+  - uid: '61392'
+    type: a.k.a.
+    category: weak
+    last_name: DON DAVID
+address_list:
+  items:
+  - uid: '58606'
+    country: Nicaragua
+id_list:
+  items:
+  - uid: '28518'
+    id_type: Numero de Identidad
+    id_number: 0501-1967-02094
+    id_country: Honduras
+  - uid: '155207'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '55210'
+    date_of_birth: 20 Oct 1967
+    main_entry: 'false'
+  - uid: '55765'
+    date_of_birth: 02 Jan 1964
+    main_entry: 'false'
+  - uid: '55766'
+    date_of_birth: 18 Mar 1967
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '55209'
+    place_of_birth: San Pedro Sula, Honduras
+    main_entry: 'true'
+remarks: "(Linked To: MS-13)"

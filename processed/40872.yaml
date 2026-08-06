@@ -1,0 +1,48 @@
+---
+uid: '40872'
+last_name: MTSENSKPROKAT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63608'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU MTSENSKPROKAT
+  - uid: '63609'
+    type: a.k.a.
+    category: strong
+    last_name: MTSENSKPROKAT OOO
+  - uid: '63610'
+    type: a.k.a.
+    category: strong
+    last_name: MZENSKPROKAT
+address_list:
+  items:
+  - uid: '60944'
+    address1: Ul. Avtomagistral Zd. 1A/2, Kom. 301
+    city: Mtsensk
+    postal_code: '303032'
+    country: Russia
+id_list:
+  items:
+  - uid: '30128'
+    id_type: Registration Number
+    id_number: '1185749002119'
+    id_country: Russia
+  - uid: '30129'
+    id_type: Tax ID No.
+    id_number: '5703008027'
+    id_country: Russia
+  - uid: '30130'
+    id_type: Government Gazette Number
+    id_number: '28256296'
+    id_country: Russia
+  - uid: '175303'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '158400'
+    id_type: Organization Established Date
+    id_number: 12 Apr 2018

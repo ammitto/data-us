@@ -1,0 +1,38 @@
+---
+uid: '47408'
+last_name: BOLDREX
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73313'
+    type: a.k.a.
+    category: strong
+    last_name: BOLDREKS
+address_list:
+  items:
+  - uid: '70690'
+    address1: Ul. Baranova D. 33B, Pomeshch. 1
+    city: Izhevsk
+    postal_code: '426006'
+    country: Russia
+  - uid: '70691'
+    address1: Office 21, Litera B, 5 Oblastnaya Str.
+    city: Izhevsk
+    postal_code: '426028'
+    country: Russia
+id_list:
+  items:
+  - uid: '37804'
+    id_type: Registration Number
+    id_number: '1031801650748'
+    id_country: Russia
+  - uid: '37805'
+    id_type: Tax ID No.
+    id_number: '1832011983'
+    id_country: Russia
+  - uid: '169771'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

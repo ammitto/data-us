@@ -1,0 +1,33 @@
+---
+uid: '43111'
+last_name: FEDERAL STATE UNITARY ENTERPRISE ATOMFLOT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '66808'
+    type: a.k.a.
+    category: strong
+    last_name: FSUE ATOMFLOT
+address_list:
+  items:
+  - uid: '64323'
+    address1: 1 Ter. Murmansk-17
+    city: Murmansk
+    postal_code: '183038'
+    country: Russia
+id_list:
+  items:
+  - uid: '32693'
+    id_type: Tax ID No.
+    id_number: '5192110268'
+    id_country: Russia
+  - uid: '32694'
+    id_type: Registration Number
+    id_number: '1025100864117'
+    id_country: Russia
+  - uid: '175533'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

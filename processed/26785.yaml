@@ -1,0 +1,49 @@
+---
+uid: '26785'
+last_name: LOS POCHOS DRUG TRAFFICKING ORGANIZATION
+sdn_type: Entity
+program_list:
+  programs:
+  - SDNTK
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '43631'
+    type: a.k.a.
+    category: weak
+    last_name: LOS POCHOS DTO
+  - uid: '74605'
+    type: a.k.a.
+    category: weak
+    last_name: MORALES CIFUENTES DRUG TRAFFICKING  ORGANIZATION
+  - uid: '74606'
+    type: a.k.a.
+    category: weak
+    last_name: MORALES CIFUENTES DTO
+  - uid: '74607'
+    type: a.k.a.
+    category: weak
+    last_name: SUNIGA RODRIGUEZ DRUG TRAFFICKING ORGANIZATION
+address_list:
+  items:
+  - uid: '40596'
+    city: Ayutla
+    state_or_province: San Marcos
+    country: Guatemala
+  - uid: '72030'
+    city: Tecun Uman
+    country: Guatemala
+  - uid: '72031'
+    city: Guatemala City
+    country: Guatemala
+  - uid: '72032'
+    city: Tapachula
+    country: Mexico
+  - uid: '72033'
+    city: Mexico City
+    country: Mexico
+id_list:
+  items:
+  - uid: '170108'
+    id_type: Target Type
+    id_number: Criminal Organization

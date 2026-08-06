@@ -1,0 +1,33 @@
+---
+uid: '48090'
+first_name: Mayra Gisel
+last_name: GONZALEZ CORDERO
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '72124'
+    city: San Luis Rio Colorado
+    state_or_province: Sonora
+    country: Mexico
+id_list:
+  items:
+  - uid: '38982'
+    id_type: C.U.R.P.
+    id_number: GOCM850925MBCNRY07
+    id_country: Mexico
+  - uid: '170010'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '70007'
+    date_of_birth: 25 Sep 1985
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '70008'
+    place_of_birth: Baja California, Mexico
+    main_entry: 'true'

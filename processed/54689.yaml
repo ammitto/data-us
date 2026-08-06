@@ -1,0 +1,38 @@
+---
+uid: '54689'
+first_name: Edwin Danney
+last_name: LOPEZ VEGA
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '85105'
+    type: a.k.a.
+    category: weak
+    last_name: Pecho de Rata
+address_list:
+  items:
+  - uid: '83529'
+    city: Limon
+    country: Costa Rica
+id_list:
+  items:
+  - uid: '48394'
+    id_type: Cedula No.
+    id_number: '701210791'
+    id_country: Costa Rica
+  - uid: '190951'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '90948'
+    date_of_birth: 02 Jan 1977
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '90949'
+    place_of_birth: Centro Central, Limon, Costa Rica
+    main_entry: 'true'

@@ -1,0 +1,40 @@
+---
+uid: '43232'
+first_name: Kseniya Vladimirovna
+last_name: MISHONOVA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '66997'
+    type: a.k.a.
+    category: strong
+    last_name: MISHONOVA
+    first_name: Ksenia Vladimirovna
+address_list:
+  items:
+  - uid: '64500'
+    address1: 1 Stroiteley Blvd
+    city: Krasnogorsk
+    state_or_province: Moscow Region
+    postal_code: '143407'
+    country: Russia
+id_list:
+  items:
+  - uid: '32780'
+    id_type: Tax ID No.
+    id_number: '504210986101'
+    id_country: Russia
+  - uid: '162368'
+    id_type: Gender
+    id_number: Female
+  - uid: '175648'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '62367'
+    date_of_birth: 14 Dec 1972
+    main_entry: 'true'

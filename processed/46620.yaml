@@ -1,0 +1,41 @@
+---
+uid: '46620'
+last_name: MYTISHCHI INSTRUMENT ENGINEERING PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '71950'
+    type: a.k.a.
+    category: strong
+    last_name: MYTISHCHINSKII PRIBOROSTROITELNYI ZAVOD
+  - uid: '71951'
+    type: a.k.a.
+    category: weak
+    last_name: MIEP LLC
+  - uid: '71952'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY MYTISHINSKY INSTRUMENT MAKING PLANT
+address_list:
+  items:
+  - uid: '69392'
+    address1: 1-I Silikatnyi Per D.12
+    city: Mytishchi
+    postal_code: '141004'
+    country: Russia
+id_list:
+  items:
+  - uid: '36595'
+    id_type: Registration Number
+    id_number: '1175029001641'
+    id_country: Russia
+  - uid: '36596'
+    id_type: Tax ID No.
+    id_number: '5029217125'
+    id_country: Russia
+  - uid: '175020'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,53 @@
+---
+uid: '49678'
+first_name: Ramin
+last_name: JALALIAN
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - SDGT
+aka_list:
+  items:
+  - uid: '77436'
+    type: a.k.a.
+    category: strong
+    last_name: JALALAYAN
+    first_name: Ramin
+  - uid: '77437'
+    type: a.k.a.
+    category: strong
+    last_name: JLALIYAN
+    first_name: Ramin
+address_list:
+  items:
+  - uid: '74983'
+    city: Tehran
+    country: Iran
+  - uid: '74985'
+    city: Dubai
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '41085'
+    id_type: National ID No.
+    id_number: '0079844758'
+    id_country: Iran
+  - uid: '173004'
+    id_type: Gender
+    id_number: Male
+  - uid: '173007'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '73003'
+    date_of_birth: '09 Jun 1985'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '73006'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: MINISTRY OF DEFENSE AND ARMED FORCES LOGISTICS)"

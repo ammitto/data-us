@@ -1,0 +1,40 @@
+---
+uid: '26847'
+last_name: RAHAVARAN FONOON PETROCHEMICAL COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+aka_list:
+  items:
+  - uid: '42415'
+    type: a.k.a.
+    category: weak
+    last_name: RFPC
+address_list:
+  items:
+  - uid: '40749'
+    address1: Site 3, Economic Special Zone, Bandar-e Emam Khomeyni
+    city: Bandar Mahshar
+    state_or_province: Khuzestan Province
+    postal_code: '6356178755'
+    country: Iran
+  - uid: '40750'
+    address1: Floor 7, Bldg No. 46, First of Karim Khan Zand St., & Tir Square
+    city: Tehran
+    country: Iran
+  - uid: '40751'
+    address1: Petrochemical Complex, Pars Special Economic Zone
+    city: Assaluye
+    state_or_province: Bushehr Province
+    country: Iran
+id_list:
+  items:
+  - uid: '131629'
+    id_type: Website
+    id_number: www.rfpc.ir
+  - uid: '131628'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: PERSIAN GULF PETROCHEMICAL INDUSTRY CO.)"

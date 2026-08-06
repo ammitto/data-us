@@ -1,0 +1,41 @@
+---
+uid: '34995'
+last_name: BUSINESS-FINANCE LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '55011'
+    type: a.k.a.
+    category: weak
+    last_name: BUSINESS-FINANCE LLC
+  - uid: '55012'
+    type: a.k.a.
+    category: weak
+    last_name: BUSINESS-FINANCE
+address_list:
+  items:
+  - uid: '52514'
+    address1: Ul. Myansnitskaya D. 35
+    city: Moscow
+    postal_code: '101000'
+    country: Russia
+id_list:
+  items:
+  - uid: '24667'
+    id_type: Registration Number
+    id_number: '1057749598169'
+    id_country: Russia
+  - uid: '24668'
+    id_type: Tax ID No.
+    id_number: '7707572492'
+    id_country: Russia
+  - uid: '146672'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '175222'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)"

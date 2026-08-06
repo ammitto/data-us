@@ -1,0 +1,43 @@
+---
+uid: '41072'
+first_name: Aleksandr Mikhaylovich
+last_name: OSIPOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '64049'
+    type: a.k.a.
+    category: strong
+    last_name: OSIPOV
+    first_name: Alexander Mikhaylovich
+  - uid: '64050'
+    type: a.k.a.
+    category: strong
+    last_name: OSIPOV
+    first_name: Aleksander Mikhailovich
+address_list:
+  items:
+  - uid: '61386'
+    state_or_province: Zabaykalye Region
+    country: Russia
+id_list:
+  items:
+  - uid: '158979'
+    id_type: Gender
+    id_number: Male
+  - uid: '173603'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '58977'
+    date_of_birth: 28 Sep 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '58978'
+    place_of_birth: Rostov-on-Don, Rostov Region, Russia
+    main_entry: 'true'

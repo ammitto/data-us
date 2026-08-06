@@ -1,0 +1,40 @@
+---
+uid: '42078'
+last_name: METALLOINVEST TRADING AG
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65430'
+    type: a.k.a.
+    category: weak
+    last_name: MIT AG
+address_list:
+  items:
+  - uid: '62828'
+    address1: Alte Steinhauserstrasse 19 Cham
+    city: Zug
+    postal_code: '6330'
+    country: Switzerland
+id_list:
+  items:
+  - uid: '31540'
+    id_type: Registration Number
+    id_number: CH-17030324476
+    id_country: Switzerland
+  - uid: '31541'
+    id_type: Identification Number
+    id_number: CHE-114.426.044
+    id_country: Switzerland
+  - uid: '175394'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '160330'
+    id_type: 'Organization Type:'
+    id_number: Wholesale of metals and metal ores
+  - uid: '160329'
+    id_type: Organization Established Date
+    id_number: 18 Jul 2008
+remarks: "(Linked To: HOLDINGOVAYA KOMPANIYA METALLOINVEST AO)"

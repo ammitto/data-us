@@ -1,0 +1,50 @@
+---
+uid: '41024'
+last_name: FEDERAL STATE UNITARY ENTERPRISE DUKHOV AUTOMATICS RESEARCH INSTITUTE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '63950'
+    type: a.k.a.
+    category: weak
+    last_name: VNIIA
+  - uid: '63951'
+    type: a.k.a.
+    category: strong
+    last_name: ALL-RUSSIA RESEARCH INSTITUTE OF AUTOMATICS
+  - uid: '63953'
+    type: a.k.a.
+    category: strong
+    last_name: FEDERAL STATE UNITARY ENTERPRISE ALL-RUSSIAN AUTOMATICS RESEARCH INSTITUTE
+      NAMED AFTER N.L. DUKHOV
+address_list:
+  items:
+  - uid: '61288'
+    address1: 22 Sushchevskaya st.
+    city: Moscow
+    postal_code: '127055'
+    country: Russia
+id_list:
+  items:
+  - uid: '30358'
+    id_type: Tax ID No.
+    id_number: '7707074137'
+    id_country: Russia
+  - uid: '30359'
+    id_type: Registration Number
+    id_number: '1027739646164'
+    id_country: Russia
+  - uid: '173557'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184429'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '158795'
+    id_type: Organization Established Date
+    id_number: 15 Apr 1994

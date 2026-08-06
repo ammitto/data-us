@@ -1,0 +1,29 @@
+---
+uid: '50524'
+last_name: ZARA SHIPHOLDING CO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '76597'
+    address1: Office 121/C, NBC Complex, Plot 43, Sector 11
+    address2: CBD Belapur
+    city: Mumbai
+    country: India
+  - uid: '76598'
+    city: Dubai
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '42341'
+    id_type: Identification Number
+    id_number: IMO 6485466
+  - uid: '178610'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '178613'
+    id_type: 'Organization Type:'
+    id_number: Sea and coastal freight water transport
+remarks: "(Linked To: LIMITED LIABILITY COMPANY ARCTIC LNG 2)"

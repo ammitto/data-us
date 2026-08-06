@@ -1,0 +1,37 @@
+---
+uid: '50265'
+last_name: JOINT STOCK COMPANY ELECTRONIC COMPANY ELKUS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78503'
+    type: a.k.a.
+    category: strong
+    last_name: ELCUS JSC
+  - uid: '78504'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO ELEKTRONNAIA KOMPANIIA ELKUS
+address_list:
+  items:
+  - uid: '76119'
+    address1: 10 Blagodatnaya ul., str. 1, Office 424
+    city: St. Petersburg
+    postal_code: '196128'
+    country: Russia
+id_list:
+  items:
+  - uid: '41943'
+    id_type: Registration Number
+    id_number: '1027804181965'
+    id_country: Russia
+  - uid: '41944'
+    id_type: Tax ID No.
+    id_number: '7806002060'
+    id_country: Russia
+  - uid: '177954'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

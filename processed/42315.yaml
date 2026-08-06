@@ -1,0 +1,51 @@
+---
+uid: '42315'
+last_name: RED SEA TRANSIT & TRANSPORT SERVICE
+sdn_type: Entity
+program_list:
+  programs:
+  - SOMALIA
+aka_list:
+  items:
+  - uid: '65709'
+    type: a.k.a.
+    category: strong
+    last_name: RED SEA TRANSIT AND TRANSPORT
+  - uid: '65710'
+    type: a.k.a.
+    category: strong
+    last_name: RED SEA MARITIMES SURVEYORS SARL
+  - uid: '65711'
+    type: a.k.a.
+    category: strong
+    last_name: RED SEA SURVEYOR MARITIME
+  - uid: '65712'
+    type: a.k.a.
+    category: strong
+    last_name: RED SEA SHIPPING AGENCY
+  - uid: '67349'
+    type: a.k.a.
+    category: strong
+    last_name: RED SEA TRANSIT AND TRANSPORT SERVICE
+address_list:
+  items:
+  - uid: '63119'
+    address1: Rue de Paris 10
+    city: Djibouti
+    country: Djibouti
+id_list:
+  items:
+  - uid: '31810'
+    id_type: Registration Number
+    id_number: 10586/B/SARL
+    id_country: Djibouti
+  - uid: '160648'
+    id_type: Organization Established Date
+    id_number: 01 Jan 2009
+  - uid: '160649'
+    id_type: 'Organization Type:'
+    id_number: Other reservation service and related activities
+  - uid: '160650'
+    id_type: Website
+    id_number: www.redsurveyor.site
+remarks: "(Linked To: MUSSE, Bashir Khalif)"

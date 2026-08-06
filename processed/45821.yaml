@@ -1,0 +1,46 @@
+---
+uid: '45821'
+first_name: Andrei Anatolyevich
+last_name: SUVOROV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70865'
+    type: a.k.a.
+    category: strong
+    last_name: SUVOROV
+    first_name: Andrey
+address_list:
+  items:
+  - uid: '68238'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '35573'
+    id_type: Tax ID No.
+    id_number: '502402592883'
+    id_country: Russia
+  - uid: '35619'
+    id_type: Passport
+    id_number: '727372914'
+    id_country: Russia
+  - uid: '166502'
+    id_type: Gender
+    id_number: Male
+  - uid: '170582'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '66500'
+    date_of_birth: 12 Oct 1967
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '66501'
+    place_of_birth: Togliatti, Russia
+    main_entry: 'true'

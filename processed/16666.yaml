@@ -1,0 +1,67 @@
+---
+uid: '16666'
+first_name: Gennady Nikolayevich
+last_name: TIMCHENKO
+sdn_type: Individual
+program_list:
+  programs:
+  - UKRAINE-EO13661
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '25296'
+    type: a.k.a.
+    category: strong
+    last_name: TIMTCHENKO
+    first_name: Guennadi
+  - uid: '56591'
+    type: a.k.a.
+    category: strong
+    last_name: TIMCHENKO
+    first_name: Gennadiy Nikolayevich
+  - uid: '56592'
+    type: a.k.a.
+    category: strong
+    last_name: TIMCHENKO
+    first_name: Gennadiy Nikolaevich
+address_list:
+  items:
+  - uid: '25200'
+    address1: 10 Rampe de Cologny
+    city: Geneva
+    postal_code: '1223'
+    country: Switzerland
+  - uid: '53998'
+    address1: Shvedskiy tup. 3, 26
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '25331'
+    id_type: Tax ID No.
+    id_number: '781012626436'
+    id_country: Russia
+  - uid: '173829'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '149231'
+    id_type: Gender
+    id_number: Male
+  - uid: '151183'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+date_of_birth_list:
+  items:
+  - uid: '15163'
+    date_of_birth: '09 Nov 1952'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '15165'
+    place_of_birth: Leninakan, Armenia
+    main_entry: 'true'
+  - uid: '15166'
+    place_of_birth: Gyumri, Armenia
+    main_entry: 'false'
+remarks: "(Linked To: OOO VOLGA GROUP)"

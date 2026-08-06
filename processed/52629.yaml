@@ -1,0 +1,33 @@
+---
+uid: '52629'
+last_name: LIMITED LIABILITY COMPANY NAUCHNO PROIZVODSTVENNOE PREDPRIYATIE TECHNOPROEKT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '82433'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY NPP TEKNOPROEKT
+address_list:
+  items:
+  - uid: '80409'
+    address1: d. 75, prospekt Pobedy
+    city: Penza
+    postal_code: '440060'
+    country: Russia
+id_list:
+  items:
+  - uid: '45700'
+    id_type: Registration Number
+    id_number: '1025801209334'
+    id_country: Russia
+  - uid: '45701'
+    id_type: Tax ID No.
+    id_number: '5835034400'
+    id_country: Russia
+  - uid: '184409'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

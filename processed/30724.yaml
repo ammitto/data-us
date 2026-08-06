@@ -1,0 +1,37 @@
+---
+uid: '30724'
+last_name: 33RD SCIENTIFIC RESEARCH AND TESTING INSTITUTE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - NPWMD
+aka_list:
+  items:
+  - uid: '48324'
+    type: a.k.a.
+    category: weak
+    last_name: 33RD TSNIII
+  - uid: '51884'
+    type: a.k.a.
+    category: strong
+    last_name: FEDERAL STATE BUDGETARY ESTABLISHMENT 33 CENTRAL SCIENTIFIC RESEARCH
+      TEST INSTITUTE OF THE MINISTRY OF DEFENSE OF THE RUSSIAN FEDERATION
+address_list:
+  items:
+  - uid: '46470'
+    address1: 1 Ulitsa Krasnoznamennaya
+    city: Volsk-18/Shikhany
+    state_or_province: Saratov Oblast
+    country: Russia
+  - uid: '49622'
+    address1: Krasnoznamennaya Street 1
+    city: Volsk-18
+    state_or_province: Saratov
+    postal_code: '412918'
+    country: Russia
+id_list:
+  items:
+  - uid: '173948'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

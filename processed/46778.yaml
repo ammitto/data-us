@@ -1,0 +1,37 @@
+---
+uid: '46778'
+last_name: LIMITED LIABILITY COMPANY RADIOCOMP
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '72237'
+    type: a.k.a.
+    category: strong
+    last_name: LLC RADIOKOMP
+  - uid: '72239'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHESTVO S OGRANICHENNOJ OTVETSTVENNOSTYU RADIOKOMP
+address_list:
+  items:
+  - uid: '69706'
+    address1: Ul Aviamotornaya d. 8A
+    city: Moscow
+    postal_code: '111024'
+    country: Russia
+id_list:
+  items:
+  - uid: '36849'
+    id_type: Tax ID No.
+    id_number: '7722251800'
+    id_country: Russia
+  - uid: '36850'
+    id_type: Registration Number
+    id_number: '1027739746616'
+    id_country: Russia
+  - uid: '176298'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,36 @@
+---
+uid: '54260'
+first_name: Mitra
+last_name: ZARRINGHALAM
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '82901'
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '47822'
+    id_type: National ID No.
+    id_number: '4579857593'
+    id_country: Iran
+  - uid: '190032'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '190012'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '90009'
+    date_of_birth: 11 Aug 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '90010'
+    place_of_birth: Damghan, Iran
+    main_entry: 'true'
+remarks: "(Linked To: ZARRIN TEHRAN INVESTMENT COMPANY)"

@@ -1,0 +1,45 @@
+---
+uid: '23123'
+first_name: Jesus
+last_name: GONZALEZ PENUELAS
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+aka_list:
+  items:
+  - uid: '41249'
+    type: a.k.a.
+    category: weak
+    last_name: EL CHUY GONZALEZ
+address_list:
+  items:
+  - uid: '39642'
+    state_or_province: Sinaloa
+    country: Mexico
+id_list:
+  items:
+  - uid: '14555'
+    id_type: C.U.R.P.
+    id_number: GOPJ691110HSLNXS09
+    id_country: Mexico
+  - uid: '198258'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '124732'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '24731'
+    date_of_birth: 10 Nov 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '24733'
+    place_of_birth: Sinaloa, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: SINALOA CARTEL)"

@@ -1,0 +1,63 @@
+---
+uid: '46230'
+first_name: Haroun Mansour Yaqoub Nasser
+last_name: AL-DIN
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '71381'
+    type: a.k.a.
+    category: strong
+    last_name: NASIR-AL-DIN
+    first_name: Harun Mansur Ya'qub
+  - uid: '71382'
+    type: a.k.a.
+    category: strong
+    last_name: ALDIN
+    first_name: Haroun Nasser
+  - uid: '71384'
+    type: a.k.a.
+    category: strong
+    last_name: NASR-AL-DIN
+    first_name: Harun
+  - uid: '71386'
+    type: a.k.a.
+    category: strong
+    last_name: KAYA
+    first_name: Serkan
+address_list:
+  items:
+  - uid: '68814'
+    city: Istanbul
+    country: Turkey
+id_list:
+  items:
+  - uid: '36076'
+    id_type: National ID No.
+    id_number: '904273463'
+    id_country: Palestinian
+  - uid: '36077'
+    id_type: National ID No.
+    id_number: '12216148308'
+    id_country: Turkey
+  - uid: '166943'
+    id_type: Gender
+    id_number: Male
+  - uid: '166937'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '66938'
+    date_of_birth: 05 Jun 1970
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '66939'
+    place_of_birth: Hebron, West Bank
+    main_entry: 'true'
+remarks: "(Linked To: HAMAS)"

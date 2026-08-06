@@ -1,0 +1,45 @@
+---
+uid: '54187'
+first_name: Al Len
+last_name: CHEN
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER4
+aka_list:
+  items:
+  - uid: '84383'
+    type: a.k.a.
+    category: strong
+    last_name: CHEN
+    first_name: Fuzhou
+address_list:
+  items:
+  - uid: '82727'
+    address1: 116, 87P, Roang Chakr, Phnom Penh Thmei, Sen Sok
+    city: Phnom Penh
+    country: Cambodia
+id_list:
+  items:
+  - uid: '47693'
+    id_type: Passport
+    id_number: N01374164
+    id_country: Cambodia
+    expiration_date: 04 Sep 2028
+  - uid: '49366'
+    id_type: Passport
+    id_number: E70026220
+    id_country: China
+  - uid: '189816'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '89814'
+    date_of_birth: 30 Oct 1978
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '89815'
+    place_of_birth: Fujian Province, China
+    main_entry: 'true'

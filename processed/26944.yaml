@@ -1,0 +1,41 @@
+---
+uid: '26944'
+first_name: Su Il
+last_name: KIM
+sdn_type: Individual
+program_list:
+  programs:
+  - DPRK2
+address_list:
+  items:
+  - uid: '40948'
+    city: Ho Chi Minh City
+    country: Vietnam
+id_list:
+  items:
+  - uid: '17594'
+    id_type: Passport
+    id_number: '108220348'
+    id_country: Korea, North
+    expiration_date: 18 May 2023
+  - uid: '17595'
+    id_type: Passport
+    id_number: '745220480'
+    id_country: Korea, North
+    expiration_date: 02 Jun 2020
+  - uid: '135261'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '131799'
+    id_type: Gender
+    id_number: Male
+  - uid: '131800'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+date_of_birth_list:
+  items:
+  - uid: '31798'
+    date_of_birth: 04 Mar 1985
+    main_entry: 'true'
+title: Munitions Industry Department Representative in Vietnam

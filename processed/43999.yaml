@@ -1,0 +1,38 @@
+---
+uid: '43999'
+last_name: TECHNOLOGIES SYSTEMS AND COMPLEXES LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '68031'
+    type: a.k.a.
+    category: strong
+    last_name: OOO TEKHNOLOGII SISTEMY I KOMPLEKSY
+  - uid: '68032'
+    type: a.k.a.
+    category: weak
+    last_name: TSC LTD
+address_list:
+  items:
+  - uid: '65491'
+    address1: Per. Perevedenovskii d. 21
+    address2: str. 13, floor 1, pomeshch. 10
+    city: Moscow
+    postal_code: '105082'
+    country: Russia
+id_list:
+  items:
+  - uid: '33382'
+    id_type: Registration Number
+    id_number: '1117746474010'
+    id_country: Russia
+  - uid: '33383'
+    id_type: Tax ID No.
+    id_number: '7701922888'
+    id_country: Russia
+  - uid: '175734'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

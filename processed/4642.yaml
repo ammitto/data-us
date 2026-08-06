@@ -1,0 +1,49 @@
+---
+uid: '4642'
+last_name: BANK SADERAT PLC
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN
+  - SDGT
+  - IFSR
+aka_list:
+  items:
+  - uid: '12047'
+    type: f.k.a.
+    category: strong
+    last_name: IRAN OVERSEAS INVESTMENT BANK PLC
+  - uid: '12048'
+    type: f.k.a.
+    category: strong
+    last_name: IRAN OVERSEAS INVESTMENT CORPORATION LIMITED
+  - uid: '12049'
+    type: f.k.a.
+    category: strong
+    last_name: IRAN OVERSEAS INVESTMENT BANK LIMITED
+address_list:
+  items:
+  - uid: '16813'
+    address1: 5 Lothbury
+    city: London
+    postal_code: EC2R 7HD
+    country: United Kingdom
+  - uid: '16814'
+    address1: PO Box 15175/584, 6th Floor, Sadaf Bldg, 1137 Vali Asr Ave
+    city: Tehran
+    postal_code: 15119-43885
+    country: Iran
+id_list:
+  items:
+  - uid: '5838'
+    id_type: UK Company Number
+    id_number: '01126618'
+    id_country: United Kingdom
+  - uid: '114266'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '185826'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: all offices worldwide

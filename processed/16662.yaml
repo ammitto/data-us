@@ -1,0 +1,48 @@
+---
+uid: '16662'
+first_name: Leonid Eduardovich
+last_name: SLUTSKY
+sdn_type: Individual
+program_list:
+  programs:
+  - UKRAINE-EO13661
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '25287'
+    type: a.k.a.
+    category: strong
+    last_name: SLUTSKI
+    first_name: Leonid Eduardovich
+  - uid: '25288'
+    type: a.k.a.
+    category: strong
+    last_name: SLUTSKIY
+    first_name: Leonid Eduardovich
+address_list:
+  items:
+  - uid: '56610'
+    country: Russia
+id_list:
+  items:
+  - uid: '152828'
+    id_type: Gender
+    id_number: Male
+  - uid: '173827'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '143570'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+date_of_birth_list:
+  items:
+  - uid: '15150'
+    date_of_birth: 04 Jan 1968
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '52826'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'
+title: Member of the State Duma of the Federal Assembly of the Russian Federation

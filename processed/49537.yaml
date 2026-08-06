@@ -1,0 +1,38 @@
+---
+uid: '49537'
+last_name: BULUTLAR GEMI TERSANECILIK SANAYI TICARET LIMITED SIRKETI
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77348'
+    type: a.k.a.
+    category: strong
+    last_name: BULUT SHIPYARD
+  - uid: '77349'
+    type: a.k.a.
+    category: strong
+    last_name: KARADENIZ GEMI INSA SANAYI VE TICARET ANONIM SIRKETI
+address_list:
+  items:
+  - uid: '74767'
+    address1: 'Ic Kapi No: 101 Balkan Sk. No: 5/1'
+    address2: Cevizdere Mah. Unye
+    city: Ordu
+    country: Turkey
+id_list:
+  items:
+  - uid: '40899'
+    id_type: Tax ID No.
+    id_number: '1901402835'
+    id_country: Turkey
+  - uid: '40900'
+    id_type: Registration Number
+    id_number: '5937'
+    id_country: Turkey
+  - uid: '172775'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: MG-FLOT LIMITED LIABILITY COMPANY)"

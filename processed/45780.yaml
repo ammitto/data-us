@@ -1,0 +1,39 @@
+---
+uid: '45780'
+last_name: LIMITED LIABILITY COMPANY CLEAN GASES PLUS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70736'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY CHISTIE GAZY PLYUS
+  - uid: '70737'
+    type: a.k.a.
+    category: weak
+    last_name: CHISTYE GAZY PLYUS
+address_list:
+  items:
+  - uid: '68119'
+    address1: Ul. Tvardovskogo D. 3
+    address2: Str. 2
+    address3: Office 1
+    city: Novosibirsk
+    postal_code: '630068'
+    country: Russia
+id_list:
+  items:
+  - uid: '35530'
+    id_type: Tax ID No.
+    id_number: '5409002937'
+    id_country: Russia
+  - uid: '35531'
+    id_type: Registration Number
+    id_number: '1165476068504'
+    id_country: Russia
+  - uid: '176052'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

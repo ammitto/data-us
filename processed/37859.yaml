@@ -1,0 +1,53 @@
+---
+uid: '37859'
+first_name: Evgeniya Nikolaevna
+last_name: VASILEVA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59497'
+    type: a.k.a.
+    category: strong
+    last_name: VASLEVA
+    first_name: Evgeniia Nikolayevna
+address_list:
+  items:
+  - uid: '56736'
+    address1: 6 Molochnyy Lane Apt. 4
+    city: Moscow
+    postal_code: '119034'
+    country: Russia
+id_list:
+  items:
+  - uid: '27158'
+    id_type: Tax ID No.
+    id_number: '781423329246'
+    id_country: Russia
+  - uid: '27159'
+    id_type: National ID No.
+    id_number: '4003281235'
+    id_country: Russia
+  - uid: '27160'
+    id_type: Passport
+    id_number: '759330304'
+    id_country: Russia
+  - uid: '174606'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '153037'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '53035'
+    date_of_birth: 20 Feb 1979
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '53038'
+    place_of_birth: St. Petersburg, Russia
+    main_entry: 'true'
+remarks: "(Linked To: SERDYUKOV, Anatoly Eduardovich)"

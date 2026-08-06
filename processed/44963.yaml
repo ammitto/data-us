@@ -1,0 +1,54 @@
+---
+uid: '44963'
+last_name: JOINT STOCK COMPANY GAZSTROYPROM
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '69565'
+    type: a.k.a.
+    category: strong
+    last_name: GAZSTROIPROM AO
+  - uid: '69566'
+    type: a.k.a.
+    category: strong
+    last_name: AO GAZSTROYPROM
+  - uid: '69567'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO GAZSTROIPROM
+address_list:
+  items:
+  - uid: '66902'
+    address1: Ul. Tashkentskaya D. 3
+    address2: Korpus 3 Lit. B
+    city: Saint Petersburg
+    postal_code: '196084'
+    country: Russia
+id_list:
+  items:
+  - uid: '34583'
+    id_type: Registration Number
+    id_number: '1187847178705'
+    id_country: Russia
+  - uid: '34584'
+    id_type: Tax ID No.
+    id_number: '7842155505'
+    id_country: Russia
+  - uid: '34585'
+    id_type: Government Gazette Number
+    id_number: '29749701'
+    id_country: Russia
+  - uid: '165292'
+    id_type: Organization Established Date
+    id_number: 21 Jun 2018
+  - uid: '175847'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184372'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

@@ -1,0 +1,47 @@
+---
+uid: '38278'
+first_name: Amina Suleymanovna
+last_name: KERIMOVA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '60038'
+    type: a.k.a.
+    category: strong
+    last_name: KERIMOVA
+    first_name: Aminat Suleymanovna
+address_list:
+  items:
+  - uid: '57296'
+    address1: Apt. 270, Build. 31, Pyatnitskoe Shosse
+    city: Moscow
+    postal_code: '123430'
+    country: Russia
+id_list:
+  items:
+  - uid: '27549'
+    id_type: Passport
+    id_number: '724263564'
+    id_country: Russia
+    issue_date: 26 Apr 2013
+    expiration_date: 26 Apr 2023
+  - uid: '153554'
+    id_type: Gender
+    id_number: Female
+  - uid: '174666'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '53552'
+    date_of_birth: 26 Sep 2003
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '53553'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'
+remarks: "(Linked To: KERIMOV, Suleiman Abusaidovich)"

@@ -1,0 +1,60 @@
+---
+uid: '21164'
+first_name: Kirill Mikhailovich
+last_name: KOVALCHUK
+sdn_type: Individual
+program_list:
+  programs:
+  - UKRAINE-EO13661
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56232'
+    type: a.k.a.
+    category: strong
+    last_name: KOVALCHUK
+    first_name: Kyrylo Mykhaylovych
+  - uid: '56233'
+    type: a.k.a.
+    category: strong
+    last_name: KOVALCHUK
+    first_name: Kyrylo Mykhailovych
+address_list:
+  items:
+  - uid: '32250'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '25109'
+    id_type: Tax ID No.
+    id_number: '773600308808'
+    id_country: Russia
+  - uid: '25110'
+    id_type: Passport
+    id_number: '643267034'
+    id_country: Russia
+  - uid: '122015'
+    id_type: Gender
+    id_number: Male
+  - uid: '173922'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '151175'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+date_of_birth_list:
+  items:
+  - uid: '22014'
+    date_of_birth: 22 Dec 1968
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '48893'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'
+  - uid: '48894'
+    place_of_birth: St. Petersburg, Russia
+    main_entry: 'false'
+remarks: "(Linked To: AO ABR MANAGEMENT)"

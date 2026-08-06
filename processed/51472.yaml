@@ -1,0 +1,41 @@
+---
+uid: '51472'
+last_name: JOINT STOCK COMPANY REGISTRY SOCIETY STATUS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80720'
+    type: a.k.a.
+    category: strong
+    last_name: AO STATUS
+address_list:
+  items:
+  - uid: '78431'
+    address1: Ul. Novorogozhskaya D. 32, Str. 1
+    city: Moscow
+    postal_code: '109544'
+    country: Russia
+  - uid: '78432'
+    address1: Ul. Novokhokhlovskaya D. 23, Str. 1, Pomeshch. 1
+    city: Moscow
+    postal_code: '109052'
+    country: Russia
+id_list:
+  items:
+  - uid: '43837'
+    id_type: Registration Number
+    id_number: '1027700003924'
+    id_country: Russia
+  - uid: '43838'
+    id_type: Tax ID No.
+    id_number: '7707179242'
+    id_country: Russia
+  - uid: '181012'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '182824'
+    id_type: Target Type
+    id_number: Financial Institution

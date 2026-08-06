@@ -1,0 +1,49 @@
+---
+uid: '50280'
+last_name: ATRAN LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78540'
+    type: a.k.a.
+    category: strong
+    last_name: OOO ATRAN
+  - uid: '78541'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTIU ATRAN
+  - uid: '78542'
+    type: a.k.a.
+    category: strong
+    last_name: ATRAN CARGO AIRLINES
+address_list:
+  items:
+  - uid: '76155'
+    address1: D 28, Lit. B, Str. 3 Mezhdunarodnoe Sh.
+    city: Moscow
+    postal_code: '141411'
+    country: Russia
+  - uid: '76156'
+    address1: A/P Sheremetyevo-1 Postbox 10
+    city: Khimki
+    postal_code: '141426'
+    country: Russia
+id_list:
+  items:
+  - uid: '41971'
+    id_type: Registration Number
+    id_number: '1065009017897'
+    id_country: Russia
+  - uid: '41972'
+    id_type: Tax ID No.
+    id_number: '5009053648'
+    id_country: Russia
+  - uid: '177995'
+    id_type: 'Organization Type:'
+    id_number: Freight air transport
+  - uid: '178012'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

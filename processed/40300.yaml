@@ -1,0 +1,40 @@
+---
+uid: '40300'
+first_name: Hossein
+last_name: MAROUFI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+  - IRGC
+aka_list:
+  items:
+  - uid: '62677'
+    type: a.k.a.
+    category: strong
+    last_name: MAROOFI
+    first_name: Hossein
+address_list:
+  items:
+  - uid: '60074'
+    country: Iran
+id_list:
+  items:
+  - uid: '157400'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '157403'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '57404'
+    date_of_birth: 1965 to 1966
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '57401'
+    place_of_birth: Shahr-e Babak, Kerman province, Iran
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS)"
+title: Deputy Coordinator of the Basij

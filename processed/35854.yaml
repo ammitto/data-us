@@ -1,0 +1,49 @@
+---
+uid: '35854'
+last_name: JOINT STOCK COMPANY KRONSHTADT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56305'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO KRONSHTADT
+  - uid: '56306'
+    type: a.k.a.
+    category: strong
+    last_name: AO KRONSHTADT
+address_list:
+  items:
+  - uid: '53790'
+    address1: Descartes Business Center
+    address2: Building 9, No. 18
+    address3: Andropova Prospekt
+    city: Moscow
+    postal_code: '1115432'
+    country: Russia
+  - uid: '53791'
+    address1: Building 4, No. 54
+    address2: Maliy Prospekt
+    address3: Vasilevskiy Island
+    city: St. Petersburg
+    postal_code: '199178'
+    country: Russia
+id_list:
+  items:
+  - uid: '25162'
+    id_type: Registration Number
+    id_number: '1027809176141'
+    id_country: Russia
+  - uid: '25163'
+    id_type: Tax ID No.
+    id_number: '7808035536'
+    id_country: Russia
+  - uid: '173249'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '149047'
+    id_type: Organization Established Date
+    id_number: '1990'

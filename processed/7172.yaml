@@ -1,0 +1,51 @@
+---
+uid: '7172'
+first_name: Gilberto
+last_name: MIJARES TRANCOSO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '5364'
+    address1: Calle Luis Echeverria 6329-B, Infonavit Presidentes
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '5365'
+    address1: P.O. Box 43440
+    city: San Ysidro
+    state_or_province: CA
+    postal_code: '92173'
+    country: United States
+  - uid: '5366'
+    address1: c/o Distribuidora Imperial De Baja California, S.A. de C.V.
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '5367'
+    address1: c/o ADP, S.C.
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+id_list:
+  items:
+  - uid: '1545'
+    id_type: Passport
+    id_number: ASDI1418
+    id_country: Mexico
+  - uid: '1546'
+    id_type: Driver's License No.
+    id_number: '210082884'
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '1338'
+    date_of_birth: 04 Feb 1951
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '1339'
+    place_of_birth: Vicente Guerrero, Durango
+    main_entry: 'true'

@@ -1,0 +1,39 @@
+---
+uid: '50970'
+last_name: GEMINI MARINE LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+  - IFSR
+aka_list:
+  items:
+  - uid: '79862'
+    type: a.k.a.
+    category: strong
+    last_name: GEMINI MARINE LTD-MAI
+address_list:
+  items:
+  - uid: '77441'
+    address1: Trust Company Complex, Ajeltake Road
+    city: Majuro
+    state_or_province: Ajeltake Island
+    postal_code: '96960'
+    country: Marshall Islands
+id_list:
+  items:
+  - uid: '42996'
+    id_type: Identification Number
+    id_number: IMO 6482373
+  - uid: '42997'
+    id_type: Registration Number
+    id_number: '124153'
+    id_country: Marshall Islands
+  - uid: '179847'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '179842'
+    id_type: Organization Established Date
+    id_number: 06 Feb 2024
+remarks: "(Linked To: SEPEHR ENERGY JAHAN NAMA PARS COMPANY)"

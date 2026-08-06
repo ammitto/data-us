@@ -1,0 +1,40 @@
+---
+uid: '51943'
+first_name: Yuri Vladimirovich
+last_name: YAKOVLEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '81296'
+    type: a.k.a.
+    category: strong
+    last_name: YAKOVLEV
+    first_name: Yuriy Vladimirovich
+address_list:
+  items:
+  - uid: '79166'
+    address1: Leninskiy Prospekt, d. 70, apt. 570
+    city: Moscow
+    postal_code: '119261'
+    country: Russia
+id_list:
+  items:
+  - uid: '182514'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '182518'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '82515'
+    date_of_birth: 29 Apr 1952
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '82516'
+    place_of_birth: Belozersky, Vologda Region, Russia
+    main_entry: 'true'

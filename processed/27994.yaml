@@ -1,0 +1,39 @@
+---
+uid: '27994'
+first_name: Hussein Falah
+last_name: AL-LAMI
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '44351'
+    type: a.k.a.
+    category: strong
+    last_name: AL-LAMI
+    first_name: Abu Zainab
+  - uid: '44352'
+    type: a.k.a.
+    category: strong
+    last_name: AZIZ
+    first_name: Hussein Faleh
+address_list:
+  items:
+  - uid: '42576'
+    country: Iraq
+id_list:
+  items:
+  - uid: '133471'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '33477'
+    date_of_birth: 20 Jun 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '33478'
+    place_of_birth: Baghdad, Iraq
+    main_entry: 'true'

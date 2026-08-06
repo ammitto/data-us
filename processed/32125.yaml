@@ -1,0 +1,32 @@
+---
+uid: '32125'
+last_name: LOTTERY BG OOD
+sdn_type: Entity
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '50477'
+    type: a.k.a.
+    category: strong
+    last_name: LOTTERY BG LTD.
+address_list:
+  items:
+  - uid: '48416'
+    address1: 43 Moskovska Str.
+    address2: Oborishte Distr.
+    city: Sofia
+    state_or_province: Stolichna
+    postal_code: '1000'
+    country: Bulgaria
+id_list:
+  items:
+  - uid: '21917'
+    id_type: Government Gazette Number
+    id_number: '203018962'
+    id_country: Bulgaria
+  - uid: '141151'
+    id_type: Organization Established Date
+    id_number: '2014'
+remarks: "(Linked To: VABO 2012 EOOD)"

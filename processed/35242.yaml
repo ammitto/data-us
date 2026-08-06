@@ -1,0 +1,37 @@
+---
+uid: '35242'
+first_name: Igor Anatolyevich
+last_name: KOMAROV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '55442'
+    type: a.k.a.
+    category: strong
+    last_name: KOMAROV
+    first_name: Igor Anatolievich
+address_list:
+  items:
+  - uid: '52959'
+    country: Russia
+id_list:
+  items:
+  - uid: '147391'
+    id_type: Gender
+    id_number: Male
+  - uid: '176692'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '47388'
+    date_of_birth: 25 May 1964
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '47389'
+    place_of_birth: Engels, Saratov Region, Russia
+    main_entry: 'true'

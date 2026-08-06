@@ -1,0 +1,45 @@
+---
+uid: '51683'
+last_name: WAYBANK JSC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80982'
+    type: a.k.a.
+    category: strong
+    last_name: CB RENTA BANK JSC
+address_list:
+  items:
+  - uid: '78762'
+    address1: Pyatnitskaya street, 57, b.1.
+    city: Moscow
+    postal_code: '115184'
+    country: Russia
+id_list:
+  items:
+  - uid: '44213'
+    id_type: Legal Entity Number
+    id_number: 253400MZGXN18GHCN57
+  - uid: '44229'
+    id_type: Registration Number
+    id_number: '1027744003231'
+    id_country: Russia
+  - uid: '44235'
+    id_type: Tax ID No.
+    id_number: '7744003007'
+    id_country: Russia
+  - uid: '181677'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '181675'
+    id_type: SWIFT/BIC
+    id_number: WJCMRUMM
+  - uid: '181678'
+    id_type: Website
+    id_number: waybank.ru
+  - uid: '181676'
+    id_type: Target Type
+    id_number: Financial Institution

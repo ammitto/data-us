@@ -1,0 +1,43 @@
+---
+uid: '45255'
+last_name: JOINT STOCK COMPANY ALL-RUSSIAN SCIENTIFIC RESEARCH DESIGN AND TECHNOLOGICAL
+  INSTITUTE OF RELAY ENGINEERING WITH EXPERIMENTAL PRODUCTION
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70047'
+    type: a.k.a.
+    category: weak
+    last_name: JSC VNIIR
+  - uid: '70048'
+    type: f.k.a.
+    category: weak
+    last_name: OAO VNIIIR
+address_list:
+  items:
+  - uid: '67344'
+    address1: Prospekt I.Ya.Yakovleva d. 4
+    city: Cheboksary
+    postal_code: '428024'
+    country: Russia
+id_list:
+  items:
+  - uid: '35112'
+    id_type: Registration Number
+    id_number: '1022101131580'
+    id_country: Russia
+  - uid: '35113'
+    id_type: Tax ID No.
+    id_number: '2128001516'
+    id_country: Russia
+  - uid: '35114'
+    id_type: Government Gazette Number
+    id_number: '00216823'
+    id_country: Russia
+  - uid: '175963'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: ASSET ELECTRO LLC)"

@@ -1,0 +1,38 @@
+---
+uid: '32368'
+first_name: Ohn Mar
+last_name: MYINT
+sdn_type: Individual
+program_list:
+  programs:
+  - BURMA-EO14014
+aka_list:
+  items:
+  - uid: '50840'
+    type: a.k.a.
+    category: strong
+    last_name: MYINT
+    first_name: Daw Ohn Mar
+  - uid: '50841'
+    type: a.k.a.
+    category: strong
+    last_name: MYINT
+    first_name: Daw Ohnmar
+address_list:
+  items:
+  - uid: '48771'
+    country: Burma
+id_list:
+  items:
+  - uid: '22182'
+    id_type: National ID No.
+    id_number: 10THAHTANAN013008
+    id_country: Burma
+  - uid: '141891'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '41890'
+    date_of_birth: 19 Nov 1967
+    main_entry: 'true'

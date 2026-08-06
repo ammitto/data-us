@@ -1,0 +1,54 @@
+---
+uid: '11391'
+first_name: Stanislas
+last_name: NZEYIMANA
+sdn_type: Individual
+program_list:
+  programs:
+  - DRCONGO
+aka_list:
+  items:
+  - uid: '12022'
+    type: a.k.a.
+    category: strong
+    last_name: BIGARUKA IZABAYO
+    first_name: Deogratias
+  - uid: '12023'
+    type: a.k.a.
+    category: weak
+    last_name: BIGARURA
+  - uid: '12024'
+    type: a.k.a.
+    category: weak
+    last_name: BIGARUKA
+  - uid: '12025'
+    type: a.k.a.
+    category: strong
+    last_name: IZABAYO DEO
+address_list:
+  items:
+  - uid: '16808'
+    address1: Kalonge
+    address2: Masisi
+    state_or_province: North Kivu
+    country: Congo, Democratic Republic of the
+  - uid: '16809'
+    city: Kibua
+    country: Congo, Democratic Republic of the
+date_of_birth_list:
+  items:
+  - uid: '6808'
+    date_of_birth: 01 Jan 1966
+    main_entry: 'true'
+  - uid: '6809'
+    date_of_birth: 28 Aug 1966
+    main_entry: 'false'
+  - uid: '6810'
+    date_of_birth: '1967'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '6811'
+    place_of_birth: Mugusa (Butare), Rwanda
+    main_entry: 'true'
+title: Brig. General; Deputy Overall Commander FOCA

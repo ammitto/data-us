@@ -1,0 +1,29 @@
+---
+uid: '52135'
+last_name: GAZPROM NEFT INTERNATIONAL SA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+address_list:
+  items:
+  - uid: '79577'
+    address1: Rue Matthias Hardt 8-10
+    city: Luxembourg
+    postal_code: '1717'
+    country: Luxembourg
+id_list:
+  items:
+  - uid: '45031'
+    id_type: Business Registration Number
+    id_number: B 154.621
+    id_country: Luxembourg
+  - uid: '183043'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183419'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+remarks: "(Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM NEFT)"

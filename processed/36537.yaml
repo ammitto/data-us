@@ -1,0 +1,41 @@
+---
+uid: '36537'
+last_name: OOO AQUA SOLID
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '57627'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHSCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU AQUA SOLID
+  - uid: '57628'
+    type: a.k.a.
+    category: weak
+    last_name: AKVA SOLID
+address_list:
+  items:
+  - uid: '54983'
+    address1: d. 12 str. 1 pom. IV, kom. 9, ul. Rochdelskaya
+    city: Moscow
+    postal_code: '123022'
+    country: Russia
+id_list:
+  items:
+  - uid: '26056'
+    id_type: Tax ID No.
+    id_number: '7703789367'
+    id_country: Russia
+  - uid: '26057'
+    id_type: Registration Number
+    id_number: '1137746403563'
+    id_country: Russia
+  - uid: '174245'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '150367'
+    id_type: Organization Established Date
+    id_number: 07 May 2013
+remarks: "(Linked To: CHAYKA, Igor Yuryevich)"

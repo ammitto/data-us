@@ -1,0 +1,42 @@
+---
+uid: '45911'
+first_name: Aegli
+last_name: TAMANI-PHELLA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70938'
+    type: a.k.a.
+    category: strong
+    last_name: TAMANI
+    first_name: Aegli
+address_list:
+  items:
+  - uid: '68673'
+    country: Cyprus
+id_list:
+  items:
+  - uid: '35658'
+    id_type: National ID No.
+    id_number: '788990'
+    id_country: Cyprus
+  - uid: '166578'
+    id_type: Gender
+    id_number: Female
+  - uid: '176992'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '66577'
+    date_of_birth: 21 Jun 1978
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '66576'
+    place_of_birth: Limassol, Cyprus
+    main_entry: 'true'
+remarks: "(Linked To: SOLINVEST LTD)"

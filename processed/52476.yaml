@@ -1,0 +1,37 @@
+---
+uid: '52476'
+first_name: Danny Ramon
+last_name: FERRER SANDREA
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+aka_list:
+  items:
+  - uid: '82204'
+    type: a.k.a.
+    category: strong
+    last_name: SANDREA FERRER
+    first_name: Danny Ramon
+address_list:
+  items:
+  - uid: '80137'
+    country: Venezuela
+id_list:
+  items:
+  - uid: '45449'
+    id_type: Cedula No.
+    id_number: V-10509178
+  - uid: '184093'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '84091'
+    date_of_birth: 23 Sep 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '84092'
+    place_of_birth: Caracas, Venezuela
+    main_entry: 'true'

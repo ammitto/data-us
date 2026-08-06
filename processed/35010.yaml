@@ -1,0 +1,42 @@
+---
+uid: '35010'
+first_name: John Francis
+last_name: MORRISSEY
+sdn_type: Individual
+program_list:
+  programs:
+  - TCO
+aka_list:
+  items:
+  - uid: '55078'
+    type: a.k.a.
+    category: weak
+    last_name: MORRISSEY, Johnny
+address_list:
+  items:
+  - uid: '52559'
+    address1: Dinamarca 46 B
+    city: Malaga
+    country: Spain
+  - uid: '52560'
+    city: Marbella
+    country: Spain
+id_list:
+  items:
+  - uid: '24724'
+    id_type: Passport
+    id_number: W089513
+    id_country: Ireland
+  - uid: '24725'
+    id_type: Passport
+    id_number: PU8060632
+    id_country: Ireland
+  - uid: '146620'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '46618'
+    date_of_birth: 20 Dec 1959
+    main_entry: 'true'
+remarks: "(Linked To: KINAHAN ORGANIZED CRIME GROUP)"

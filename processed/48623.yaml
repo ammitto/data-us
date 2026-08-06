@@ -1,0 +1,34 @@
+---
+uid: '48623'
+last_name: COMPLIGA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75612'
+    type: a.k.a.
+    category: strong
+    last_name: KOMPLIGA
+address_list:
+  items:
+  - uid: '73010'
+    address1: Per. Spasskii D. 14/35, Lit. A, Pom. 71N
+    address2: Office 405
+    city: Saint Petersburg
+    postal_code: '190031'
+    country: Russia
+id_list:
+  items:
+  - uid: '39589'
+    id_type: Registration Number
+    id_number: '1187847376441'
+    id_country: Russia
+  - uid: '39590'
+    id_type: Tax ID No.
+    id_number: '7838083791'
+    id_country: Russia
+  - uid: '171252'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

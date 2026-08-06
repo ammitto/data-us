@@ -1,0 +1,52 @@
+---
+uid: '39139'
+last_name: JOINT STOCK COMPANY ROSSIYSKIYE KOSMICHESKIYE SISTEMY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '61014'
+    type: a.k.a.
+    category: strong
+    last_name: RUSSIAN SPACE SYSTEMS JSC
+  - uid: '61018'
+    type: a.k.a.
+    category: weak
+    last_name: RSS
+  - uid: '61019'
+    type: a.k.a.
+    category: weak
+    last_name: RKS
+  - uid: '61020'
+    type: a.k.a.
+    category: strong
+    last_name: ROSSIYSKIYE KOSMICHESKIYE SISTEMY
+address_list:
+  items:
+  - uid: '58273'
+    address1: 53, Aviamotornaya Str.
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '28342'
+    id_type: Tax ID No.
+    id_number: '7722698789'
+    id_country: Russia
+  - uid: '28343'
+    id_type: Registration Number
+    id_number: '1097746649681'
+    id_country: Russia
+  - uid: '174727'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184460'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '154894'
+    id_type: Organization Established Date
+    id_number: 23 Oct 2009

@@ -1,0 +1,52 @@
+---
+uid: '44621'
+first_name: Mohammad Hussein
+last_name: AL-JASIM
+sdn_type: Individual
+program_list:
+  programs:
+  - PAARSSR-EO13894
+aka_list:
+  items:
+  - uid: '68964'
+    type: a.k.a.
+    category: weak
+    last_name: AMSHA, Abu
+  - uid: '68965'
+    type: a.k.a.
+    category: weak
+    last_name: AL-JASIM, Muhammad Husayn
+  - uid: '68966'
+    type: a.k.a.
+    category: weak
+    last_name: AL-JASSIM BIN HUSSEIN, Muhammad
+  - uid: '68967'
+    type: a.k.a.
+    category: weak
+    last_name: ALJASEM, Mohamed
+address_list:
+  items:
+  - uid: '66414'
+    country: Syria
+id_list:
+  items:
+  - uid: '164709'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '64702'
+    date_of_birth: '1985'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '64703'
+    place_of_birth: Al-Jawsa Village, Al-Suqaylabiyah District, Hama Governorate,
+      Syria
+    main_entry: 'true'
+  - uid: '64707'
+    place_of_birth: al-Ghousa, Hama Governorate, Syria
+    main_entry: 'false'
+  - uid: '64708'
+    place_of_birth: Jossa, Hayalin District, Hama Governate, Syria
+    main_entry: 'false'

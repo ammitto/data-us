@@ -1,0 +1,30 @@
+---
+uid: '12476'
+last_name: PARS OIL AND GAS COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN
+aka_list:
+  items:
+  - uid: '13374'
+    type: a.k.a.
+    category: strong
+    last_name: POGC
+address_list:
+  items:
+  - uid: '19473'
+    address1: No. 133, Side of Parvin Etesami Alley
+    address2: opposite Sazman Ab - Dr. Fatemi Avenue
+    city: Tehran
+    country: Iran
+  - uid: '19474'
+    address1: No. 1 Parvin Etesami Street
+    address2: Fatemi Avenue
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '118998'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

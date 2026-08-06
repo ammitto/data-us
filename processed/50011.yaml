@@ -1,0 +1,34 @@
+---
+uid: '50011'
+last_name: LIMITED LIABILITY COMPANY ALFA INSTRUMENTS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '75668'
+    address1: Ul Lineinaya D.28
+    address2: Office 515
+    city: Novosibirsk,
+    postal_code: '630049'
+    country: Russia
+id_list:
+  items:
+  - uid: '41561'
+    id_type: Tax ID No.
+    id_number: '5402565306'
+    id_country: Russia
+  - uid: '41562'
+    id_type: Registration Number
+    id_number: '1135476111870'
+    id_country: Russia
+  - uid: '177491'
+    id_type: Organization Established Date
+    id_number: 10 Jul 2013
+  - uid: '177490'
+    id_type: Website
+    id_number: alfa-instr.ru
+  - uid: '177522'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

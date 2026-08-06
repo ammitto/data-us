@@ -1,0 +1,37 @@
+---
+uid: '51960'
+first_name: Vyacheslav Vladimirovich
+last_name: RUKSHA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '79528'
+    address1: Mozhayskoe Shosse, d. 36, apt. 17
+    city: Moscow
+    postal_code: '121354'
+    country: Russia
+id_list:
+  items:
+  - uid: '44729'
+    id_type: Tax ID No.
+    id_number: '781417685630'
+    id_country: Russia
+  - uid: '182590'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '182594'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '82591'
+    date_of_birth: 17 Feb 1954
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '82592'
+    place_of_birth: Grodno, Belarus
+    main_entry: 'true'

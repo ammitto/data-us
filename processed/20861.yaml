@@ -1,0 +1,28 @@
+---
+uid: '20861'
+last_name: N200VR
+sdn_type: Aircraft
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '32787'
+    address1: 80 SW 8th Street
+    address2: Suite 2000
+    city: Miami
+    state_or_province: FL
+    postal_code: '33130'
+    country: United States
+id_list:
+  items:
+  - uid: '121747'
+    id_type: Aircraft Model
+    id_number: Gulfstream 200
+  - uid: '122532'
+    id_type: Aircraft Manufacturer's Serial Number (MSN)
+    id_number: '133'
+  - uid: '122531'
+    id_type: Aircraft Tail Number
+    id_number: N200VR
+remarks: "(Linked To: 200G PSA HOLDINGS LLC)"

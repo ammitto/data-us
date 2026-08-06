@@ -1,0 +1,39 @@
+---
+uid: '42897'
+first_name: Zeming
+last_name: LI
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+address_list:
+  items:
+  - uid: '64007'
+    state_or_province: Zhejiang
+    country: China
+id_list:
+  items:
+  - uid: '32478'
+    id_type: Passport
+    id_number: EE2360309
+    id_country: China
+    issue_date: 24 Aug 2018
+    expiration_date: 23 Aug 2028
+  - uid: '161754'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '161753'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '61750'
+    date_of_birth: 22 May 1985
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '61751'
+    place_of_birth: Zhejiang, China
+    main_entry: 'true'
+remarks: "(Linked To: ZHEJIANG QINGJI IND. CO., LTD)"

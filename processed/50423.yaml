@@ -1,0 +1,37 @@
+---
+uid: '50423'
+last_name: JOINT STOCK COMPANY NAUCHNO ISSLEDOVATELSKII INSTITUT STALI
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78821'
+    type: a.k.a.
+    category: strong
+    last_name: JSC RESEARCH INSTITUTE OF STEEL
+  - uid: '78822'
+    type: a.k.a.
+    category: weak
+    last_name: AO NII STALI
+address_list:
+  items:
+  - uid: '76460'
+    address1: d. 81A ul. Dubninskaya
+    city: Moscow
+    postal_code: '127411'
+    country: Russia
+id_list:
+  items:
+  - uid: '42215'
+    id_type: Tax ID No.
+    id_number: '7713070243'
+    id_country: Russia
+  - uid: '42216'
+    id_type: Registration Number
+    id_number: '1027739081556'
+    id_country: Russia
+  - uid: '178406'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,56 @@
+---
+uid: '35337'
+last_name: IZHEVSK UNMANNED SYSTEMS RESEARCH AND PRODUCTION ASSOCIATED LIMITED LIABILITY
+  COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '55631'
+    type: a.k.a.
+    category: strong
+    last_name: OOO NAUCHNO-PROIZVODSTVENNOYE OBYEDINENIYE IZHEVSKIYE BESPILOTNYE SISTEMY
+  - uid: '55633'
+    type: a.k.a.
+    category: weak
+    last_name: NPO IZHBS
+  - uid: '55634'
+    type: a.k.a.
+    category: weak
+    last_name: OOO NPO IZHBS
+  - uid: '55635'
+    type: a.k.a.
+    category: strong
+    last_name: LLC RESEARCH AND PRODUCTION ASSOCIATION IZHBS
+  - uid: '55640'
+    type: f.k.a.
+    category: strong
+    last_name: IZHMASH-UNMANNED SYSTEMS COMPANY
+address_list:
+  items:
+  - uid: '53145'
+    address1: Ordzhonikidze St., 2
+    city: Izhevsk
+    state_or_province: Udmurtia
+    postal_code: '426063'
+    country: Russia
+id_list:
+  items:
+  - uid: '25051'
+    id_type: Tax ID No.
+    id_number: '1831117433'
+    id_country: Russia
+  - uid: '176727'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '147616'
+    id_type: Target Type
+    id_number: Private Company
+  - uid: '147615'
+    id_type: Website
+    id_number: www.izh-bs.ru
+  - uid: '147617'
+    id_type: Organization Established Date
+    id_number: 25 Oct 2006

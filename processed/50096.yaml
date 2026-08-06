@@ -1,0 +1,42 @@
+---
+uid: '50096'
+last_name: TRANSMARINE NAVIGATION M SDN. BHD.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '75782'
+    address1: No. 43A, Jalan Gaya 27, Taman Gaya, Ulu Tiram
+    city: Johor Bahru
+    state_or_province: Johor
+    postal_code: '81800'
+    country: Malaysia
+  - uid: '75783'
+    address1: Wisma B, Unit 2.10, 2nd Floor, Pelabuhan, Tanjung Pelepas Geland Patah
+    city: Johor Bahru
+    state_or_province: Johor
+    postal_code: '81560'
+    country: Malaysia
+id_list:
+  items:
+  - uid: '41665'
+    id_type: Trade License No.
+    id_number: 960156-A
+    id_country: Malaysia
+  - uid: '41666'
+    id_type: Trade License No.
+    id_number: '201101032021'
+    id_country: Malaysia
+  - uid: '177593'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '177594'
+    id_type: Organization Established Date
+    id_number: 14 Sep 2011
+  - uid: '177595'
+    id_type: Website
+    id_number: mytransmarine.com
+remarks: "(Linked To: AL-JAMAL, Sa'id Ahmad Muhammad)"

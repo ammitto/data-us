@@ -1,0 +1,33 @@
+---
+uid: '50996'
+last_name: NEW TECHNOLOGIES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79904'
+    type: a.k.a.
+    category: strong
+    last_name: NOVYE TEKHNOLOGII
+address_list:
+  items:
+  - uid: '77501'
+    address1: ul. Admiralteiskaya, d. 3, floor 2, pomeshch. 1013
+    city: Kazan
+    postal_code: '420030'
+    country: Russia
+id_list:
+  items:
+  - uid: '43043'
+    id_type: Registration Number
+    id_number: '1131690023178'
+    id_country: Russia
+  - uid: '43044'
+    id_type: Tax ID No.
+    id_number: '1656069657'
+    id_country: Russia
+  - uid: '179889'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

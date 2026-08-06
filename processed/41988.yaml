@@ -1,0 +1,38 @@
+---
+uid: '41988'
+last_name: LIMITED LIABILITY COMPANY SPETSVOLTAZH
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65255'
+    type: a.k.a.
+    category: strong
+    last_name: OOO SPETSVOLTAZH
+  - uid: '65256'
+    type: a.k.a.
+    category: strong
+    last_name: SPECVOLT
+address_list:
+  items:
+  - uid: '62635'
+    address1: ul. Kantemirovskaya d. 12
+    address2: 'lit. A, pomeshch. # 19-N office 18'
+    city: Saint Petersburg
+    postal_code: '194100'
+    country: Russia
+id_list:
+  items:
+  - uid: '31380'
+    id_type: Registration Number
+    id_number: '1177847317306'
+    id_country: Russia
+  - uid: '31381'
+    id_type: Tax ID No.
+    id_number: '7802634149'
+    id_country: Russia
+  - uid: '173726'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

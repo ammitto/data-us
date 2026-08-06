@@ -1,0 +1,42 @@
+---
+uid: '56904'
+first_name: Eskandar
+last_name: MOMENI KALAGARI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+aka_list:
+  items:
+  - uid: '88188'
+    type: a.k.a.
+    category: strong
+    last_name: MOMENI
+    first_name: Eskandar
+address_list:
+  items:
+  - uid: '87132'
+    country: Iran
+id_list:
+  items:
+  - uid: '51044'
+    id_type: Passport
+    id_number: D10016001
+    id_country: Iran
+    expiration_date: 27 Nov 2029
+  - uid: '195996'
+    id_type: Gender
+    id_number: Male
+  - uid: '195997'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '95935'
+    date_of_birth: 15 Jan 1963
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '95920'
+    place_of_birth: Qaem Shahr, Mazandaran, Iran
+    main_entry: 'true'

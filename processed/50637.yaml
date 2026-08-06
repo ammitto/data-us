@@ -1,0 +1,38 @@
+---
+uid: '50637'
+first_name: Jose Emilson
+last_name: CORDOBA QUINTO
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '79248'
+    type: a.k.a.
+    category: weak
+    last_name: Negro Perea
+address_list:
+  items:
+  - uid: '76784'
+    country: Colombia
+id_list:
+  items:
+  - uid: '42497'
+    id_type: Cedula No.
+    id_number: '11710361'
+    id_country: Colombia
+  - uid: '179064'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '79061'
+    date_of_birth: 31 Aug 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '79062'
+    place_of_birth: Istmina, Choco, Colombia
+    main_entry: 'true'
+remarks: "(Linked To: CLAN DEL GOLFO)"

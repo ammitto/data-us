@@ -1,0 +1,56 @@
+---
+uid: '42719'
+last_name: VYGON CONSULTING
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '66235'
+    type: a.k.a.
+    category: strong
+    last_name: VYGON KONSALTING OOO
+  - uid: '66236'
+    type: a.k.a.
+    category: strong
+    last_name: LLC VYGON CONSULTING
+  - uid: '66237'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU VYGON KONSALTING
+  - uid: '66238'
+    type: f.k.a.
+    category: strong
+    last_name: ENERGETICHESKI TSENTR OOO
+address_list:
+  items:
+  - uid: '63711'
+    address1: d. 12 pod/et/pom 3/16/1609
+    address2: Naberezhnaya Krasnopresnenskaya
+    city: Moscow
+    postal_code: '123610'
+    country: Russia
+id_list:
+  items:
+  - uid: '32277'
+    id_type: Residency Number
+    id_number: '1137746787705'
+    id_country: Russia
+  - uid: '32278'
+    id_type: Government Gazette Number
+    id_number: '18141830'
+    id_country: Russia
+  - uid: '32279'
+    id_type: Tax ID No.
+    id_number: '7717761234'
+    id_country: Russia
+  - uid: '175450'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '161527'
+    id_type: Organization Established Date
+    id_number: 02 Sep 2013
+  - uid: '161531'
+    id_type: 'Organization Type:'
+    id_number: Management consultancy activities

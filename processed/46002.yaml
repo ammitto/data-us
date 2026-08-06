@@ -1,0 +1,49 @@
+---
+uid: '46002'
+first_name: Alexey Alexeyevich
+last_name: NOVIKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '71086'
+    type: a.k.a.
+    category: strong
+    last_name: NOVIKOV
+    first_name: Aleksei Alekseevich
+address_list:
+  items:
+  - uid: '68514'
+    address1: 18 Rublevskoye Shosse 1-221
+    city: Moscow
+    postal_code: '121615'
+    country: Russia
+id_list:
+  items:
+  - uid: '35836'
+    id_type: Tax ID No.
+    id_number: '773118473723'
+    id_country: Russia
+  - uid: '35838'
+    id_type: Passport
+    id_number: FMS 77777
+    id_country: Russia
+    expiration_date: 19 Aug 2023
+  - uid: '174876'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '166664'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '66665'
+    date_of_birth: 14 Dec 1972
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '66671'
+    place_of_birth: Gorkiy, Russia
+    main_entry: 'true'

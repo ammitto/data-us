@@ -1,0 +1,47 @@
+---
+uid: '46625'
+first_name: Johnson
+last_name: ANDRE
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '71963'
+    type: a.k.a.
+    category: weak
+    last_name: IZO
+  - uid: '71964'
+    type: a.k.a.
+    category: weak
+    last_name: IZO VILAJ DE DYE
+  - uid: '71965'
+    type: a.k.a.
+    category: weak
+    last_name: IZO 5 SECONDS
+  - uid: '72371'
+    type: a.k.a.
+    category: weak
+    last_name: IZO 5 SEGONN
+address_list:
+  items:
+  - uid: '69913'
+    address1: Village de Dieu, Martissant
+    city: Port-au-Prince
+    country: Haiti
+id_list:
+  items:
+  - uid: '167487'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '67486'
+    date_of_birth: '1997'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '67858'
+    place_of_birth: Haiti
+    main_entry: 'true'

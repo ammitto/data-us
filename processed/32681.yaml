@@ -1,0 +1,34 @@
+---
+uid: '32681'
+last_name: LIMITED LIABILITY COMPANY NEW OIL COMPANY EAST
+sdn_type: Entity
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '51296'
+    type: a.k.a.
+    category: strong
+    last_name: LLC NNK EAST
+address_list:
+  items:
+  - uid: '49201'
+    address1: ul. Poltavskaya, dom 8A, pomeshchenie 12
+    city: Smolensk
+    state_or_province: Smolensk Oblast
+    postal_code: '214025'
+    country: Russia
+id_list:
+  items:
+  - uid: '22438'
+    id_type: Registration Number
+    id_number: '1206700019041'
+    id_country: Russia
+  - uid: '22439'
+    id_type: Tax ID No.
+    id_number: '6732204331'
+    id_country: Russia
+  - uid: '142300'
+    id_type: Organization Established Date
+    id_number: 27 Nov 2020

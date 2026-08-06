@@ -1,0 +1,45 @@
+---
+uid: '8207'
+first_name: Fethi Ben Assen Ben Salem
+last_name: HADDAD
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '7514'
+    address1: Via Fulvio Testi, 184, Cinisello Balsamo
+    city: Milan
+    country: Italy
+  - uid: '7515'
+    address1: Via Porte Giove, 1, Mortara
+    city: Pavia
+    country: Italy
+id_list:
+  items:
+  - uid: '3343'
+    id_type: Italian Fiscal Code
+    id_number: HDDFTH63H28Z352V
+  - uid: '4088'
+    id_type: Passport
+    id_number: L 183017
+    issue_date: 14 Feb 1996
+    expiration_date: 13 Feb 2001
+  - uid: '185794'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '2587'
+    date_of_birth: 28 Mar 1963
+    main_entry: 'true'
+  - uid: '2589'
+    date_of_birth: 28 Jun 1963
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '2588'
+    place_of_birth: Tataouene, Tunisia
+    main_entry: 'true'

@@ -1,0 +1,58 @@
+---
+uid: '48184'
+first_name: Mustafa
+last_name: AYASH
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '74828'
+    type: a.k.a.
+    category: strong
+    last_name: AYASH
+    first_name: Mostafa Moin Mahmoud
+  - uid: '74833'
+    type: a.k.a.
+    category: strong
+    last_name: AYYASH
+    first_name: Mustafa
+address_list:
+  items:
+  - uid: '72239'
+    address1: Wienerstrasse 20
+    city: Linz
+    postal_code: '4020'
+    country: Austria
+id_list:
+  items:
+  - uid: '39042'
+    id_type: Passport
+    id_number: K1332951
+    id_country: Austria
+    issue_date: 17 Dec 2018
+    expiration_date: 16 Dec 2023
+  - uid: '39043'
+    id_type: National ID No.
+    id_number: '160715450005'
+    id_country: Austria
+    issue_date: 04 Dec 2018
+  - uid: '170519'
+    id_type: Gender
+    id_number: Male
+  - uid: '170600'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '70194'
+    date_of_birth: 18 Sep 1992
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '70515'
+    place_of_birth: Gaza Strip
+    main_entry: 'true'
+remarks: "(Linked To: GAZA NOW)"

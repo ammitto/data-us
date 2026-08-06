@@ -1,0 +1,39 @@
+---
+uid: '45919'
+last_name: MOSCOW STATE TECHNICAL UNIVERSITY NAMED AFTER NE BAUMAN
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70952'
+    type: a.k.a.
+    category: strong
+    last_name: FEDERAL STATE BUDGETARY EDUCATIONAL INSTITUTION OF HIGHER EDUCATION
+      MOSCOW STATE TECHNICAL UNIVERSITY NAMED AFTER NE BAUMAN NATIONAL RESEARCH UNIVERSITY
+  - uid: '70953'
+    type: a.k.a.
+    category: strong
+    last_name: BAUMAN MOSCOW STATE TECHNICAL UNIVERSITY
+address_list:
+  items:
+  - uid: '68334'
+    address1: d. 5 str. 1
+    address2: ul. 2-Ya Baumanskaya
+    city: Moscow
+    postal_code: '105005'
+    country: Russia
+id_list:
+  items:
+  - uid: '35668'
+    id_type: Registration Number
+    id_number: '1027739051779'
+    id_country: Russia
+  - uid: '35669'
+    id_type: Tax ID No.
+    id_number: '7701002520'
+    id_country: Russia
+  - uid: '176093'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

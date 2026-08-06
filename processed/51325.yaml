@@ -1,0 +1,41 @@
+---
+uid: '51325'
+first_name: Sergei Petrovich
+last_name: USHKO
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80470'
+    type: a.k.a.
+    category: strong
+    last_name: USHKO
+    first_name: Sergey
+address_list:
+  items:
+  - uid: '78141'
+    country: Russia
+id_list:
+  items:
+  - uid: '43584'
+    id_type: Passport
+    id_number: '757089471'
+    id_country: Russia
+  - uid: '180615'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '180619'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '80616'
+    date_of_birth: 07 Sep 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '80617'
+    place_of_birth: Minsk, Belarus
+    main_entry: 'true'

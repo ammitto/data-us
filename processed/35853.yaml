@@ -1,0 +1,32 @@
+---
+uid: '35853'
+first_name: Boris Viktorovich
+last_name: OBNOSOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '53788'
+    state_or_province: Moskovskaya Oblast
+    country: Russia
+id_list:
+  items:
+  - uid: '149045'
+    id_type: Gender
+    id_number: Male
+  - uid: '173248'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '49043'
+    date_of_birth: 26 Jan 1953
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '49044'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'
+remarks: "(Linked To: TACTICAL MISSILES CORPORATION JSC)"

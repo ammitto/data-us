@@ -1,0 +1,34 @@
+---
+uid: '35919'
+last_name: TIPOGRAFIYA IRKUT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56494'
+    type: a.k.a.
+    category: strong
+    last_name: TIPOGRAFIYA IRKUT OOO
+address_list:
+  items:
+  - uid: '53910'
+    address1: ul Novatorov d 3
+    city: Irkutsk
+    postal_code: '664020'
+    country: Russia
+id_list:
+  items:
+  - uid: '25282'
+    id_type: Tax ID No.
+    id_number: '3810035293'
+    id_country: Russia
+  - uid: '25283'
+    id_type: Registration Number
+    id_number: '1043801429099'
+    id_country: Russia
+  - uid: '173304'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: PUBLIC JOINT STOCK COMPANY YAKOVLEV)"

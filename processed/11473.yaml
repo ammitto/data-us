@@ -1,0 +1,37 @@
+---
+uid: '11473'
+first_name: Jorge Alberto
+last_name: HERNANDEZ MEJIA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNT
+address_list:
+  items:
+  - uid: '17062'
+    address1: c/o ASES DE COMPETENCIA Y CIA. S.A.
+    city: Medellin
+    country: Colombia
+  - uid: '17063'
+    address1: c/o FRANZUL S.A.
+    city: Medellin
+    country: Colombia
+  - uid: '17064'
+    address1: c/o HIERROS DE JERUSALEM S.A.
+    city: Medellin
+    country: Colombia
+  - uid: '17065'
+    address1: c/o TAXI AEREO ANTIOQUENO S.A.
+    city: Medellin
+    country: Colombia
+id_list:
+  items:
+  - uid: '5867'
+    id_type: Cedula No.
+    id_number: '71530775'
+    id_country: Colombia
+date_of_birth_list:
+  items:
+  - uid: '6878'
+    date_of_birth: 15 Jun 1962
+    main_entry: 'true'

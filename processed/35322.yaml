@@ -1,0 +1,46 @@
+---
+uid: '35322'
+first_name: Evgeny Igorevich
+last_name: SHUVALOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '55590'
+    type: a.k.a.
+    category: strong
+    last_name: SHUVALOV
+    first_name: Evgeni Igorevich
+address_list:
+  items:
+  - uid: '53110'
+    country: Russia
+id_list:
+  items:
+  - uid: '25030'
+    id_type: Tax ID No.
+    id_number: '773612603893'
+    id_country: Russia
+  - uid: '25031'
+    id_type: Passport
+    id_number: '750758221'
+    id_country: Russia
+  - uid: '176713'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '147603'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '47601'
+    date_of_birth: 06 May 1993
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '47602'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'
+remarks: "(Linked To: SHUVALOV, Igor Ivanovich)"

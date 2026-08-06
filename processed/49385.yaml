@@ -1,0 +1,71 @@
+---
+uid: '49385'
+last_name: PUBLIC JOINT STOCK COMPANY SCIENTIFIC PRODUCTION ASSOCIATION STRELA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77015'
+    type: a.k.a.
+    category: weak
+    last_name: NPO STRELA
+  - uid: '77016'
+    type: a.k.a.
+    category: strong
+    last_name: PAO NAUCHNO PROIZVODSTVENNOE OBEDINENIE STRELA
+  - uid: '77017'
+    type: a.k.a.
+    category: weak
+    last_name: PAO NPO STRELA
+  - uid: '77018'
+    type: a.k.a.
+    category: strong
+    last_name: PJSC RESEARCH AND PRODUCTION ASSOCIATION STRELA
+  - uid: '77019'
+    type: a.k.a.
+    category: strong
+    last_name: PJSC SPA STRELA
+  - uid: '77020'
+    type: a.k.a.
+    category: weak
+    last_name: SPA STRELA
+  - uid: '77021'
+    type: a.k.a.
+    category: strong
+    last_name: PUBLICHNOE AKTSIONERNOE OBSHCHESTVO NAUCHNO PROIZVODSTVENNOE OBEDINENIE
+      STRELA
+address_list:
+  items:
+  - uid: '74435'
+    address1: 6 Maxim Gorky Street
+    city: Tula
+    postal_code: '300002'
+    country: Russia
+  - uid: '74436'
+    address1: 2 Arsenalnaya Street
+    city: Tula
+    postal_code: '300002'
+    country: Russia
+  - uid: '74437'
+    address1: 6 M. Gorkogo ul.
+    city: Tula
+    postal_code: '300002'
+    country: Russia
+id_list:
+  items:
+  - uid: '40653'
+    id_type: Registration Number
+    id_number: '1027100517256'
+    id_country: Russia
+  - uid: '40654'
+    id_type: Tax ID No.
+    id_number: '7103028233'
+    id_country: Russia
+  - uid: '172464'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '172465'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

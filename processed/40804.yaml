@@ -1,0 +1,41 @@
+---
+uid: '40804'
+last_name: OOO ZENIT LEASING
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63473'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY ZENIT LIZING
+address_list:
+  items:
+  - uid: '60828'
+    address1: Ul. Odesskaya D. 2
+    address2: Floor 13, Pom. II
+    city: Moscow
+    postal_code: '117638'
+    country: Russia
+id_list:
+  items:
+  - uid: '30004'
+    id_type: Registration Number
+    id_number: '1187746462826'
+    id_country: Russia
+  - uid: '30005'
+    id_type: Tax ID No.
+    id_number: '7702431360'
+    id_country: Russia
+  - uid: '158327'
+    id_type: Organization Established Date
+    id_number: 07 May 2018
+  - uid: '158328'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '174147'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: BANK ZENIT PUBLIC JOINT STOCK COMPANY)"

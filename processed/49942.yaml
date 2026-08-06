@@ -1,0 +1,34 @@
+---
+uid: '49942'
+last_name: LIMITED LIABILITY COMPANY DRONOPORT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77824'
+    type: a.k.a.
+    category: strong
+    last_name: HIVE AUTONOMOUS DRONE SOLUTIONS
+address_list:
+  items:
+  - uid: '75522'
+    address1: Ul. Rabochaya
+    address2: D. 93, Str. 2
+    city: Moscow
+    postal_code: '109544'
+    country: Russia
+id_list:
+  items:
+  - uid: '41458'
+    id_type: Registration Number
+    id_number: '1207700279808'
+    id_country: Russia
+  - uid: '41459'
+    id_type: Tax ID No.
+    id_number: '7734436065'
+    id_country: Russia
+  - uid: '178038'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

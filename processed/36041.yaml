@@ -1,0 +1,49 @@
+---
+uid: '36041'
+last_name: PUBLIC JOINT STOCK COMPANY VYBORG SHIPYARD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56748'
+    type: a.k.a.
+    category: strong
+    last_name: VYBORG SHIPYARD PJSC
+  - uid: '56751'
+    type: a.k.a.
+    category: strong
+    last_name: PUBLIC JOINT-STOCK COMPANY VYBORGSKY SHIPBUILDING PLANT
+  - uid: '56753'
+    type: a.k.a.
+    category: strong
+    last_name: PJSC VYBORGSKY SUDOSTROITELNY FACTORY
+  - uid: '56754'
+    type: a.k.a.
+    category: strong
+    last_name: PUBLICHNOE AKTSIONERNOE OBSCHESTVO VYBORGSKIY SUDOSTROITELNYI ZAVOD
+address_list:
+  items:
+  - uid: '54168'
+    address1: 2b Primorskoye Highway
+    city: Vyborg, Vyborgsky District
+    state_or_province: Leningrad Region
+    postal_code: '188800'
+    country: Russia
+id_list:
+  items:
+  - uid: '25431'
+    id_type: Tax ID No.
+    id_number: '4704012874'
+    id_country: Russia
+  - uid: '149394'
+    id_type: Organization Established Date
+    id_number: 23 Jul 1997
+  - uid: '173337'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '149391'
+    id_type: Website
+    id_number: www.vyborgshipyard.ru
+remarks: "(Linked To: JOINT STOCK COMPANY UNITED SHIPBUILDING CORPORATION)"

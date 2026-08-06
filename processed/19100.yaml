@@ -1,0 +1,54 @@
+---
+uid: '19100'
+last_name: LORD'S RESISTANCE ARMY
+sdn_type: Entity
+program_list:
+  programs:
+  - CAR
+aka_list:
+  items:
+  - uid: '30121'
+    type: a.k.a.
+    category: weak
+    last_name: LRA
+  - uid: '30122'
+    type: a.k.a.
+    category: strong
+    last_name: LORD'S RESISTANCE MOVEMENT
+  - uid: '30123'
+    type: a.k.a.
+    category: strong
+    last_name: LORD'S RESISTANCE MOVEMENT/ARMY
+  - uid: '30124'
+    type: a.k.a.
+    category: weak
+    last_name: LRM
+  - uid: '30125'
+    type: a.k.a.
+    category: weak
+    last_name: LRM/A
+address_list:
+  items:
+  - uid: '29057'
+    state_or_province: Vakaga
+    country: Central African Republic
+  - uid: '29058'
+    state_or_province: Haute-Kotto
+    country: Central African Republic
+  - uid: '29059'
+    state_or_province: Basse-Kotto
+    country: Central African Republic
+  - uid: '29060'
+    state_or_province: Haut-Mbomou
+    country: Central African Republic
+  - uid: '29061'
+    state_or_province: Mbomou
+    country: Central African Republic
+  - uid: '29063'
+    state_or_province: Haut-Uolo
+    country: Congo, Democratic Republic of the
+  - uid: '29064'
+    state_or_province: Bas-Uolo
+    country: Congo, Democratic Republic of the
+  - uid: '29529'
+    country: 'Region: Kafia Kingi'

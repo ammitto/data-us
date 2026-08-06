@@ -1,0 +1,38 @@
+---
+uid: '42876'
+last_name: GEFESD LTD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '66440'
+    type: a.k.a.
+    category: strong
+    last_name: PO GEFESD
+address_list:
+  items:
+  - uid: '63969'
+    address1: ul. Sovetskaya d. 15
+    city: Lyulikh
+    postal_code: '601362'
+    country: Russia
+id_list:
+  items:
+  - uid: '32450'
+    id_type: Registration Number
+    id_number: '1103337000524'
+    id_country: Russia
+  - uid: '32451'
+    id_type: Tax ID No.
+    id_number: '3324123093'
+    id_country: Russia
+  - uid: '175491'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '161711'
+    id_type: Organization Established Date
+    id_number: '09 Nov 2010'
+remarks: "(Linked To: GARSHIN, Vadim Veniaminovich; Linked To: RAZORENOV, Aleksandr
+  Gennadievich)"

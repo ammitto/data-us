@@ -1,0 +1,44 @@
+---
+uid: '43016'
+first_name: Andrew
+last_name: NYAMVUMBA
+sdn_type: Individual
+program_list:
+  programs:
+  - DRCONGO
+aka_list:
+  items:
+  - uid: '69017'
+    type: a.k.a.
+    category: strong
+    last_name: NYAMVUMBA
+    first_name: Andre
+address_list:
+  items:
+  - uid: '64144'
+    address1: Kibagabaga Plot 9917
+    address3: Nyarutarama
+    city: Kigali
+    country: Rwanda
+id_list:
+  items:
+  - uid: '32596'
+    id_type: Passport
+    id_number: RW01472
+    id_country: Rwanda
+  - uid: '161889'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '61887'
+    date_of_birth: 01 Jan 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '61891'
+    place_of_birth: Kigali, Rwanda
+    main_entry: 'true'
+  - uid: '61892'
+    place_of_birth: Kampala, Uganda
+    main_entry: 'false'

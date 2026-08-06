@@ -1,0 +1,44 @@
+---
+uid: '52649'
+last_name: MINING AND CHEMICAL COMPLEX FEDERAL STATE UNITARY ENTERPRISE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '82491'
+    type: a.k.a.
+    category: weak
+    last_name: MCC FSUE
+  - uid: '82493'
+    type: a.k.a.
+    category: strong
+    last_name: FEDERAL STATE UNITARY ENTERPRISE MINING AND CHEMICAL COMBINE
+  - uid: '82495'
+    type: a.k.a.
+    category: weak
+    last_name: GKHK
+address_list:
+  items:
+  - uid: '80456'
+    address1: 53 zd., ul. Lenina
+    city: Zheleznogorsk
+    postal_code: '662970'
+    country: Russia
+id_list:
+  items:
+  - uid: '45754'
+    id_type: Registration Number
+    id_number: '1022401404871'
+    id_country: Russia
+  - uid: '45755'
+    id_type: Tax ID No.
+    id_number: '2452000401'
+    id_country: Russia
+  - uid: '184456'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184457'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

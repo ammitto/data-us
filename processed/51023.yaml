@@ -1,0 +1,30 @@
+---
+uid: '51023'
+first_name: Andres Paul
+last_name: BAUMGARTNER
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '77514'
+    country: Switzerland
+id_list:
+  items:
+  - uid: '179906'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '179907'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '79908'
+    date_of_birth: 02 Jan 1961
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '79909'
+    place_of_birth: Zurich, Switzerland
+    main_entry: 'true'

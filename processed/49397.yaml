@@ -1,0 +1,34 @@
+---
+uid: '49397'
+last_name: LIMITED LIABILITY COMPANY INDUSTRIAL PARK STANKOMASH
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77050'
+    type: a.k.a.
+    category: strong
+    last_name: STANKOMASH LLC
+address_list:
+  items:
+  - uid: '74462'
+    address1: Ulitsa Eniseiskaya
+    address2: Dom 8
+    city: Chelyabinsk
+    postal_code: '454010'
+    country: Russia
+id_list:
+  items:
+  - uid: '40675'
+    id_type: Registration Number
+    id_number: '1157449000488'
+    id_country: Russia
+  - uid: '40676'
+    id_type: Tax ID No.
+    id_number: '7449059203'
+    id_country: Russia
+  - uid: '172472'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

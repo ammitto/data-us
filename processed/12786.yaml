@@ -1,0 +1,77 @@
+---
+uid: '12786'
+first_name: Alfredo
+last_name: VASQUEZ HERNANDEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '13953'
+    type: a.k.a.
+    category: strong
+    last_name: VAZQUEZ HERNANDEZ
+    first_name: Alfredo
+  - uid: '13954'
+    type: a.k.a.
+    category: strong
+    last_name: VASQUES HERNANDEZ
+    first_name: Alfredo
+  - uid: '13955'
+    type: a.k.a.
+    category: weak
+    last_name: ALFREDO COMPADRE
+  - uid: '13956'
+    type: a.k.a.
+    category: strong
+    last_name: BAZAN OROZCO
+    first_name: Alberto
+  - uid: '13957'
+    type: a.k.a.
+    category: weak
+    last_name: DON ALFREDO
+address_list:
+  items:
+  - uid: '20165'
+    address1: 'Manuel Clouthier #486'
+    address2: Colonia Prados Vallarta
+    city: Guadalajara
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '20166'
+    address1: 'Plaza Del Sol Local #28'
+    address2: Zona R
+    city: Guadalajara
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '20167'
+    address1: Paseo Del Heliotropo 3426
+    address2: Monraz
+    city: Guadalajara
+    state_or_province: Jalisco
+    country: Mexico
+id_list:
+  items:
+  - uid: '7206'
+    id_type: C.U.R.P.
+    id_number: VAHA550809HJCZRL02
+    id_country: Mexico
+  - uid: '7207'
+    id_type: Passport
+    id_number: '02140193905'
+    id_country: Mexico
+  - uid: '7208'
+    id_type: Passport
+    id_number: '97140107075'
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '8514'
+    date_of_birth: '09 Aug 1955'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '8515'
+    place_of_birth: Jalisco, Mexico
+    main_entry: 'true'

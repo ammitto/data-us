@@ -1,0 +1,50 @@
+---
+uid: '39586'
+first_name: Martinus Pterus Henrikus
+last_name: DE KONING
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '61663'
+    type: a.k.a.
+    category: weak
+    last_name: DE KONING, Mph
+  - uid: '62027'
+    type: a.k.a.
+    category: strong
+    last_name: DE KONING
+    first_name: Martinus Pterus Henri
+  - uid: '62028'
+    type: a.k.a.
+    category: weak
+    last_name: DE KONING, Martijns
+address_list:
+  items:
+  - uid: '59344'
+    city: Boxtel
+    country: Netherlands
+id_list:
+  items:
+  - uid: '29017'
+    id_type: Passport
+    id_number: NNJ8FR670
+    id_country: Netherlands
+  - uid: '156447'
+    id_type: Gender
+    id_number: Male
+  - uid: '156448'
+    id_type: Email Address
+    id_number: mdk1987@hotmail.nl
+date_of_birth_list:
+  items:
+  - uid: '56445'
+    date_of_birth: 07 Jan 1987
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '56446'
+    place_of_birth: Netherlands
+    main_entry: 'true'

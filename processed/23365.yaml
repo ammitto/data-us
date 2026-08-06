@@ -1,0 +1,42 @@
+---
+uid: '23365'
+first_name: Miguel Jose
+last_name: LEONE MARTINEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '36839'
+    type: a.k.a.
+    category: strong
+    last_name: LEONE
+    first_name: Miguel
+address_list:
+  items:
+  - uid: '35355'
+    address1: Severo Diaz 38
+    address2: Col. Ladron de Guevara
+    city: Guadalajara
+    state_or_province: Jalisco
+    postal_code: '44600'
+    country: Mexico
+id_list:
+  items:
+  - uid: '14859'
+    id_type: Passport
+    id_number: YA1867648
+    id_country: Italy
+  - uid: '125142'
+    id_type: Gender
+    id_number: Male
+  - uid: '125141'
+    id_type: Website
+    id_number: www.miguelleone.com
+date_of_birth_list:
+  items:
+  - uid: '25138'
+    date_of_birth: 16 May 1980
+    main_entry: 'true'
+remarks: "(Linked To: LOS CUINIS)"

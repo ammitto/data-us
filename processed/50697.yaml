@@ -1,0 +1,32 @@
+---
+uid: '50697'
+first_name: Javad
+last_name: GHAFFARHADDADI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+  - IRGC
+address_list:
+  items:
+  - uid: '76868'
+    country: Iran
+id_list:
+  items:
+  - uid: '42546'
+    id_type: Passport
+    id_number: F57122360
+    id_country: Iran
+    expiration_date: 15 Jun 2027
+  - uid: '179285'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '179253'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '79252'
+    date_of_birth: 23 Sep 1964
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS)"

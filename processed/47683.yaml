@@ -1,0 +1,52 @@
+---
+uid: '47683'
+last_name: PUBLICHNOE AKTSIONERNOE OBSHCHESTVO MECHEL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '73903'
+    type: a.k.a.
+    category: strong
+    last_name: MECHEL OAO
+  - uid: '73905'
+    type: a.k.a.
+    category: strong
+    last_name: MECHEL PJSC
+  - uid: '73906'
+    type: a.k.a.
+    category: strong
+    last_name: MECHEL STEEL GROUP OAO
+address_list:
+  items:
+  - uid: '71279'
+    address1: 1, Krasnoarmeyskaya Street
+    city: Moscow
+    postal_code: '125167'
+    country: Russia
+id_list:
+  items:
+  - uid: '38302'
+    id_type: Registration Number
+    id_number: '1037703012896'
+    id_country: Russia
+  - uid: '38303'
+    id_type: Tax ID No.
+    id_number: '7703370008'
+    id_country: Russia
+  - uid: '38304'
+    id_type: Legal Entity Number
+    id_number: 253400C9GSPBSKERRP65
+  - uid: '169793'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184415'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '169155'
+    id_type: Organization Established Date
+    id_number: 19 Mar 2003

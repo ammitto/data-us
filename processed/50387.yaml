@@ -1,0 +1,33 @@
+---
+uid: '50387'
+last_name: LIMITED LIABILITY COMPANY TRADE INDUSTRIAL COMPLEX RZM
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78759'
+    type: a.k.a.
+    category: strong
+    last_name: TPK RZM LLC
+address_list:
+  items:
+  - uid: '76389'
+    address1: Tseh 3, Dom 6, Shosse Kudrinskoe
+    city: Pushkino
+    postal_code: '141201'
+    country: Russia
+id_list:
+  items:
+  - uid: '42153'
+    id_type: Tax ID No.
+    id_number: '5038106044'
+    id_country: Russia
+  - uid: '42154'
+    id_type: Registration Number
+    id_number: '1145038003142'
+    id_country: Russia
+  - uid: '178360'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

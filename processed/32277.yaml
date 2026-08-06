@@ -1,0 +1,40 @@
+---
+uid: '32277'
+first_name: Ivan Stanislavavich
+last_name: TSERTSEL
+sdn_type: Individual
+program_list:
+  programs:
+  - BELARUS
+aka_list:
+  items:
+  - uid: '50700'
+    type: a.k.a.
+    category: strong
+    last_name: TERTEL
+    first_name: Ivan Stanislavovich
+  - uid: '50701'
+    type: a.k.a.
+    category: strong
+    last_name: TERTEL
+    first_name: Ivan Stanislavavich
+address_list:
+  items:
+  - uid: '48631'
+    city: Minsk
+    country: Belarus
+id_list:
+  items:
+  - uid: '141713'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '41712'
+    date_of_birth: '08 Sep 1966'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '41711'
+    place_of_birth: Privalka, Grodno Oblast, Belarus
+    main_entry: 'true'

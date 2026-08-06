@@ -1,0 +1,32 @@
+---
+uid: '29903'
+last_name: VAKILABAD PRISON
+sdn_type: Entity
+program_list:
+  programs:
+  - CAATSA - IRAN
+aka_list:
+  items:
+  - uid: '46902'
+    type: a.k.a.
+    category: strong
+    last_name: VAKIL ABAD PRISON
+  - uid: '46903'
+    type: a.k.a.
+    category: strong
+    last_name: MASHHAD PRISON
+  - uid: '46904'
+    type: a.k.a.
+    category: strong
+    last_name: MASHHAD CENTRAL PRISON
+address_list:
+  items:
+  - uid: '45100'
+    city: Mashhad City
+    state_or_province: Mashhad Province
+    country: Iran
+id_list:
+  items:
+  - uid: '137142'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

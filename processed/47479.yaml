@@ -1,0 +1,38 @@
+---
+uid: '47479'
+last_name: LIMITED LIABILITY COMPANY MOSCOW ARMS COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73467'
+    type: a.k.a.
+    category: strong
+    last_name: MOSKOVSKAYA ORUZHEINAYA KOMPANIYA
+  - uid: '73468'
+    type: a.k.a.
+    category: weak
+    last_name: BESPOKE GUN
+address_list:
+  items:
+  - uid: '70852'
+    address1: Ul. Novoslobodskaya Vld. 1
+    address2: Stroenie 1
+    city: Mytishchi
+    postal_code: '141009'
+    country: Russia
+id_list:
+  items:
+  - uid: '37928'
+    id_type: Registration Number
+    id_number: '1145012005335'
+    id_country: Russia
+  - uid: '37929'
+    id_type: Tax ID No.
+    id_number: '5012086643'
+    id_country: Russia
+  - uid: '169662'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

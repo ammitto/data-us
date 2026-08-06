@@ -1,0 +1,41 @@
+---
+uid: '10588'
+first_name: Sherbaz
+last_name: KHAN
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '14722'
+    address1: c/o SHAHBAZ KHAN GENERAL TRADING LLC
+    city: Dubai
+    country: United Arab Emirates
+  - uid: '14723'
+    address1: c/o SHER MATCH INDUSTRIES (PVT.) LIMITED
+    city: Peshawar
+    country: Pakistan
+  - uid: '14724'
+    city: Peshawar
+    country: Pakistan
+  - uid: '14725'
+    address1: P.O. Box 33651
+    city: Dubai
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '5143'
+    id_type: Passport
+    id_number: '137987'
+    id_country: Pakistan
+date_of_birth_list:
+  items:
+  - uid: '5933'
+    date_of_birth: 03 Apr 1979
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '5934'
+    place_of_birth: Khyber Agency, Pakistan
+    main_entry: 'true'

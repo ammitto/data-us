@@ -1,0 +1,38 @@
+---
+uid: '21332'
+last_name: SPECIAL TECHNOLOGY CENTER
+sdn_type: Entity
+program_list:
+  programs:
+  - CYBER2
+aka_list:
+  items:
+  - uid: '33831'
+    type: a.k.a.
+    category: strong
+    last_name: STC, LTD
+address_list:
+  items:
+  - uid: '32422'
+    address1: Gzhatskaya 21 k2
+    city: St. Petersburg
+    country: Russia
+  - uid: '32423'
+    address1: 21-2 Gzhatskaya Street
+    city: St. Petersburg
+    country: Russia
+id_list:
+  items:
+  - uid: '13363'
+    id_type: Tax ID No.
+    id_number: '7802170553'
+    id_country: Russia
+  - uid: '154623'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+  - uid: '122162'
+    id_type: Website
+    id_number: stc-spb.ru
+  - uid: '122163'
+    id_type: Email Address
+    id_number: stcspb1@mail.ru

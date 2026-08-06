@@ -1,0 +1,35 @@
+---
+uid: '57150'
+first_name: Ehsan Saidi
+last_name: NASAB
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '87526'
+    country: Iran
+id_list:
+  items:
+  - uid: '51382'
+    id_type: National ID No.
+    id_number: '1990560016'
+    id_country: Iran
+  - uid: '197507'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '196806'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '96805'
+    date_of_birth: 23 Sep 1994
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '96807'
+    place_of_birth: Dezful, Iran
+    main_entry: 'true'
+remarks: "(Linked To: KHAVAR TEJARAT ARKA KISH COMPANY)"

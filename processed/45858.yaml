@@ -1,0 +1,51 @@
+---
+uid: '45858'
+first_name: Anton Mikhaylovich
+last_name: IVANOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70852'
+    type: a.k.a.
+    category: strong
+    last_name: IVANOV
+    first_name: Anton Mihaylovich
+  - uid: '70853'
+    type: a.k.a.
+    category: strong
+    last_name: IVANOV
+    first_name: Anton
+address_list:
+  items:
+  - uid: '68230'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '35610'
+    id_type: National ID No.
+    id_number: '4510584386'
+    id_country: Russia
+  - uid: '35611'
+    id_type: Passport
+    id_number: '726716892'
+    id_country: Russia
+  - uid: '170578'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '166491'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '66488'
+    date_of_birth: 26 Jan 1990
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '66489'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'

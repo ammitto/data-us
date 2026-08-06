@@ -1,0 +1,81 @@
+---
+uid: '20520'
+last_name: AIR KORYO
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK3
+aka_list:
+  items:
+  - uid: '32441'
+    type: a.k.a.
+    category: strong
+    last_name: AIRKORYO
+address_list:
+  items:
+  - uid: '31132'
+    address1: Sunan District
+    city: Pyongyang
+    country: Korea, North
+  - uid: '31133'
+    address1: Swissotel
+    address2: Hongkong-Macau Center
+    address3: Dong Si Shi Tiao Li Jiao Qiao
+    city: Beijing
+    postal_code: '10027'
+    country: China
+  - uid: '31134'
+    address1: Chilbosan Hotel
+    address2: No 81, Shyiwei Road
+    address3: Heping District
+    city: Shenyang
+    country: China
+  - uid: '31136'
+    address1: Room 412, XinHui Bldg
+    address2: No 1197 Rd Husong
+    address3: District SongJiang
+    city: Shanghai
+    country: China
+  - uid: '31138'
+    address1: Soon Vijai Conominun, Room 208, Floor 2
+    address2: New Petchburi Road
+    address3: Khwaeng Bangkapi, Huai Khwang
+    city: Bangkok
+    postal_code: '10310'
+    country: Thailand
+  - uid: '31139'
+    address1: Airport
+    address2: 45, Portovaya Street
+    city: Artyom
+    state_or_province: Primorski Krai
+    postal_code: '692760'
+    country: Russia
+  - uid: '31140'
+    address1: Mosfilimovskaya 72
+    city: Moscow
+    postal_code: '101000'
+    country: Russia
+  - uid: '31141'
+    address1: Friedrichstr 106B
+    city: Berlin
+    postal_code: '10117'
+    country: Germany
+  - uid: '31142'
+    address1: 20-114, Level 20, Menara Safuan
+    address2: No.80, Jalan Ampang
+    city: Kuala Lumpur
+    postal_code: '50450'
+    country: Malaysia
+  - uid: '31143'
+    address1: Office 10, 2nd floor, Mghateer complex 31
+    address2: Block 40, Al Farwaniyah
+    country: Kuwait
+id_list:
+  items:
+  - uid: '127065'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '134822'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214

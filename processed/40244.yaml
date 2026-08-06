@@ -1,0 +1,47 @@
+---
+uid: '40244'
+first_name: Andrey Aleksandrovich
+last_name: TRAVNIKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '62588'
+    type: a.k.a.
+    category: strong
+    last_name: TRAVNIKOV
+    first_name: Andrei Alexandrovich
+  - uid: '62591'
+    type: a.k.a.
+    category: strong
+    last_name: TRAVNIKOV
+    first_name: Andrey Alexandrovich
+address_list:
+  items:
+  - uid: '59982'
+    city: Novosibirsk
+    country: Russia
+id_list:
+  items:
+  - uid: '29429'
+    id_type: Tax ID No.
+    id_number: '352803520184'
+    id_country: Russia
+  - uid: '174047'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '157220'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '57218'
+    date_of_birth: 01 Feb 1971
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '57219'
+    place_of_birth: Cherepovets, Vologda Region, Russia
+    main_entry: 'true'

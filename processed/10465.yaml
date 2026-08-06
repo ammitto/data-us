@@ -1,0 +1,74 @@
+---
+uid: '10465'
+last_name: ISLAMIC REVOLUTIONARY GUARD CORPS (IRGC)-QODS FORCE
+sdn_type: Entity
+program_list:
+  programs:
+  - IRGC
+  - SDGT
+  - IFSR
+  - IRAN-HR
+  - FTO
+  - ELECTION-EO13848
+aka_list:
+  items:
+  - uid: '10308'
+    type: a.k.a.
+    category: strong
+    last_name: PASDARAN-E ENGHELAB-E ISLAMI (PASDARAN)
+  - uid: '10309'
+    type: a.k.a.
+    category: strong
+    last_name: SEPAH-E QODS (JERUSALEM FORCE)
+  - uid: '42204'
+    type: a.k.a.
+    category: strong
+    last_name: IRGC-QF
+  - uid: '42205'
+    type: a.k.a.
+    category: strong
+    last_name: IRGC-QUDS FORCE
+  - uid: '42206'
+    type: a.k.a.
+    category: strong
+    last_name: ISLAMIC REVOLUTIONARY GUARD CORPS-QODS FORCE
+  - uid: '42207'
+    type: a.k.a.
+    category: strong
+    last_name: QODS FORCE
+  - uid: '42208'
+    type: a.k.a.
+    category: strong
+    last_name: QUDS FORCE
+  - uid: '42209'
+    type: a.k.a.
+    category: strong
+    last_name: JERUSALEM FORCE
+  - uid: '42210'
+    type: a.k.a.
+    category: strong
+    last_name: AL QODS
+  - uid: '42211'
+    type: a.k.a.
+    category: strong
+    last_name: SEPAH-E QODS
+  - uid: '42212'
+    type: a.k.a.
+    category: strong
+    last_name: QODS (JERUSALEM) FORCE OF THE IRGC
+address_list:
+  items:
+  - uid: '40533'
+    city: Tehran
+    country: Iran
+  - uid: '40534'
+    country: Syria
+id_list:
+  items:
+  - uid: '186323'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '113874'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

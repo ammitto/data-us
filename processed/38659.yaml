@@ -1,0 +1,35 @@
+---
+uid: '38659'
+first_name: Andrei Vladimirovich
+last_name: KHOKHLOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '57710'
+    country: Russia
+id_list:
+  items:
+  - uid: '28156'
+    id_type: Tax ID No.
+    id_number: '503117548207'
+    id_country: Russia
+  - uid: '174695'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '154170'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '54168'
+    date_of_birth: 02 Jun 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '54169'
+    place_of_birth: Murom, Russia
+    main_entry: 'true'
+remarks: "(Linked To: NOVASTREAM LIMITED; Linked To: RADIOAVTOMATIKA LLC)"

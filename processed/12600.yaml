@@ -1,0 +1,42 @@
+---
+uid: '12600'
+first_name: Bahram Ali
+last_name: SHAYESTEH
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '13557'
+    type: a.k.a.
+    category: strong
+    last_name: SHAYESTEH
+    first_name: Bahrami Ali
+  - uid: '13558'
+    type: a.k.a.
+    category: strong
+    last_name: JADALI
+    first_name: Bahrami Ali
+address_list:
+  items:
+  - uid: '19815'
+    address1: 80331 Muenchen
+    city: Bayern
+    country: Germany
+date_of_birth_list:
+  items:
+  - uid: '8361'
+    date_of_birth: 06 May 1963
+    main_entry: 'true'
+  - uid: '8362'
+    date_of_birth: 06 Aug 1963
+    main_entry: 'false'
+  - uid: '8363'
+    date_of_birth: 13 Jun 1958
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '8364'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'

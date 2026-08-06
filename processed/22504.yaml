@@ -1,0 +1,67 @@
+---
+uid: '22504'
+last_name: JOINT STOCK COMPANY BLACK SEA BANK OF DEVELOPMENT AND RECONSTRUCTION
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13685
+aka_list:
+  items:
+  - uid: '35460'
+    type: a.k.a.
+    category: strong
+    last_name: BANK CHBRR, AO
+  - uid: '35462'
+    type: a.k.a.
+    category: strong
+    last_name: JSC 'BLACK SEA BANK FOR DEVELOPMENT & RECONSTRUCTION'
+  - uid: '35463'
+    type: f.k.a.
+    category: strong
+    last_name: OPEN JOINT STOCK COMPANY BLACK SEA DEVELOPMENT AND RECONSTRUCTION BANK
+  - uid: '35464'
+    type: f.k.a.
+    category: strong
+    last_name: BANK CHBRR, PAO
+  - uid: '35465'
+    type: a.k.a.
+    category: strong
+    last_name: "'CHERNOMORSKI BANK RAZVITIYA I REKONSTRUKTSII, OTKRYTOE AKTSIONERNOE
+      OBSHCHESTVO'"
+  - uid: '35574'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO CHERNOMORSKI BANK RAZVITIYA I REKONSTRUKTSII
+address_list:
+  items:
+  - uid: '34034'
+    address1: 24 ul. Bolshevistskaya
+    city: Simferopol
+    state_or_province: Crimea
+    postal_code: '295001'
+    country: Ukraine
+id_list:
+  items:
+  - uid: '14200'
+    id_type: Registration ID
+    id_number: '1149102030186'
+    id_country: Russia
+  - uid: '14201'
+    id_type: Government Gazette Number
+    id_number: '00204814'
+    id_country: Russia
+  - uid: '14202'
+    id_type: Tax ID No.
+    id_number: '9102019769'
+    id_country: Russia
+  - uid: '14203'
+    id_type: License
+    id_number: '3527'
+    id_country: Russia
+  - uid: '144034'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '124015'
+    id_type: BIK (RU)
+    id_number: '043510101'

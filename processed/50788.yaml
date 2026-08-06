@@ -1,0 +1,37 @@
+---
+uid: '50788'
+last_name: LIMITED LIABILITY COMPANY NEBESNAYA MEKHANIKA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79533'
+    type: a.k.a.
+    category: strong
+    last_name: SKYMEC
+address_list:
+  items:
+  - uid: '77071'
+    address1: Ul. Profsoyuznaya, D. 84/32
+    address2: K. 1, Pomeshch 1/3
+    city: Moscow
+    postal_code: '117485'
+    country: Russia
+id_list:
+  items:
+  - uid: '42700'
+    id_type: Registration Number
+    id_number: '1147746964144'
+    id_country: Russia
+  - uid: '42701'
+    id_type: Tax ID No.
+    id_number: '7723918518'
+    id_country: Russia
+  - uid: '179433'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '179432'
+    id_type: Organization Established Date
+    id_number: 25 Aug 2014

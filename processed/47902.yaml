@@ -1,0 +1,46 @@
+---
+uid: '47902'
+last_name: FEDERAL STATE UNITARY ENTERPRISE ALEXANDROV RESEARCH INSTITUTE OF TECHNOLOGY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74317'
+    type: a.k.a.
+    category: strong
+    last_name: ALEKSANDROV SCIENTIFIC RESEARCH TECHNOLOGICAL INSTITUTE NITI
+  - uid: '74318'
+    type: a.k.a.
+    category: strong
+    last_name: FEDERALNOE GOSUDARSTVENNOE UNITARNOE PREDPRIIATIE NAUCHNO ISSLEDOVATELSKII
+      TEKHNOLOGICHESKII INSTITUT IMENI AP ALEKSANDROVA
+  - uid: '74319'
+    type: a.k.a.
+    category: strong
+    last_name: FGUP NITI IM AP ALEKSANDROVA
+address_list:
+  items:
+  - uid: '71719'
+    address1: Koporskoe Highway
+    address2: House 72
+    city: Sosnovy Bor
+    postal_code: '188540'
+    country: Russia
+id_list:
+  items:
+  - uid: '38686'
+    id_type: Tax ID No.
+    id_number: '4714000067'
+    id_country: Russia
+  - uid: '38687'
+    id_type: Registration Number
+    id_number: '1024701759565'
+    id_country: Russia
+  - uid: '176527'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '169441'
+    id_type: Organization Established Date
+    id_number: '1962'

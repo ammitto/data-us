@@ -1,0 +1,32 @@
+---
+uid: '52965'
+first_name: Karim Asad Ahmad
+last_name: KHAN
+sdn_type: Individual
+program_list:
+  programs:
+  - ICC-EO14203
+address_list:
+  items:
+  - uid: '80944'
+    city: The Hague
+    country: Netherlands
+id_list:
+  items:
+  - uid: '46104'
+    id_type: Passport
+    id_number: '518353876'
+    id_country: United Kingdom
+  - uid: '184983'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '84981'
+    date_of_birth: 30 Mar 1970
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '84982'
+    place_of_birth: Edinburgh, United Kingdom
+    main_entry: 'true'

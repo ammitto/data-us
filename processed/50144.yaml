@@ -1,0 +1,39 @@
+---
+uid: '50144'
+first_name: Malaquias
+last_name: GIL RODRIGUEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+aka_list:
+  items:
+  - uid: '78188'
+    type: a.k.a.
+    category: weak
+    last_name: RODRIGUEZ, Malaquias
+address_list:
+  items:
+  - uid: '75879'
+    city: Carache
+    state_or_province: Trujillo
+    country: Venezuela
+id_list:
+  items:
+  - uid: '41745'
+    id_type: Cedula No.
+    id_number: V5352190
+    id_country: Venezuela
+  - uid: '177696'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '77695'
+    date_of_birth: 27 Feb 1960
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '77698'
+    place_of_birth: Trujillo, Venezuela
+    main_entry: 'true'

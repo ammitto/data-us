@@ -1,0 +1,53 @@
+---
+uid: '40256'
+first_name: Volodymyr Mykhailovych
+last_name: BOBRYSHEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '62616'
+    type: a.k.a.
+    category: strong
+    last_name: BOBRYSHEV
+    first_name: Vladimir Mikhailovich
+  - uid: '62617'
+    type: a.k.a.
+    category: strong
+    last_name: BOBRYSHEV
+    first_name: Vladimir Mihajlovich
+address_list:
+  items:
+  - uid: '60004'
+    address1: 29 Illyushi Kulika St., Apt. 275
+    city: Kherson
+    state_or_province: Kherson region
+    country: Ukraine
+id_list:
+  items:
+  - uid: '29440'
+    id_type: Tax ID No.
+    id_number: '2412201890'
+    id_country: Ukraine
+  - uid: '29441'
+    id_type: Tax ID No.
+    id_number: '470310995344'
+    id_country: Russia
+  - uid: '157270'
+    id_type: Gender
+    id_number: Male
+  - uid: '174059'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '57268'
+    date_of_birth: 16 Jan 1966
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '57269'
+    place_of_birth: Petrovka Village, Krasnogvardeyskiy district, Crimea, Ukraine
+    main_entry: 'true'

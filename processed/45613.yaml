@@ -1,0 +1,50 @@
+---
+uid: '45613'
+last_name: SISTEMA PUBLIC JOINT STOCK FINANCIAL CORPORATION
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '70489'
+    type: a.k.a.
+    category: strong
+    last_name: PUBLICHNOE AKTSIONERNOE OBSCHESTVO AKTSIONERNAYA FINANSOVAYA SISTEMA
+address_list:
+  items:
+  - uid: '67799'
+    address1: 10, Leontievskiy Pereulok
+    city: Moscow
+    postal_code: '125009'
+    country: Russia
+  - uid: '67800'
+    address1: 13/1 Mokhovaya St
+    city: Moscow
+    postal_code: '125009'
+    country: Russia
+id_list:
+  items:
+  - uid: '35279'
+    id_type: Registration Number
+    id_number: '1027700003891'
+    id_country: Russia
+  - uid: '35280'
+    id_type: Tax ID No.
+    id_number: '7703104630'
+    id_country: Russia
+  - uid: '35281'
+    id_type: Legal Entity Number
+    id_number: 213800JSZ2UUK4QQK694
+  - uid: '35282'
+    id_type: Identification Number
+    id_number: V65SV5.99999.SL.643
+    id_country: Russia
+  - uid: '175985'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184304'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

@@ -1,0 +1,28 @@
+---
+uid: '28118'
+first_name: Sreten
+last_name: CVJETKOVIC
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+address_list:
+  items:
+  - uid: '42548'
+    country: Serbia
+id_list:
+  items:
+  - uid: '18582'
+    id_type: National ID No.
+    id_number: '006789921'
+    id_country: Serbia
+    expiration_date: 25 May 2025
+  - uid: '133451'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '33449'
+    date_of_birth: 15 Jan 1961
+    main_entry: 'true'
+remarks: "(Linked To: TESIC, Slobodan)"

@@ -1,0 +1,43 @@
+---
+uid: '17067'
+last_name: CHONGCHONGANG SHIPPING COMPANY LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK
+aka_list:
+  items:
+  - uid: '26218'
+    type: a.k.a.
+    category: strong
+    last_name: CHONGCHONGANG SHIPPING CO LTD
+  - uid: '26219'
+    type: a.k.a.
+    category: strong
+    last_name: CHONG CHON GANG SHIPPING CO. LTD
+address_list:
+  items:
+  - uid: '25930'
+    address1: 817, Haeun
+    address2: Donghung-dong
+    city: Central District
+    state_or_province: Pyongyang
+    country: Korea, North
+  - uid: '25931'
+    address1: 817, Haeun
+    address2: Tonghun-dong
+    city: Chung-gu
+    state_or_province: Pyongyang
+    country: Korea, North
+id_list:
+  items:
+  - uid: '9558'
+    id_type: Identification Number
+    id_number: IMO 5342883
+  - uid: '134973'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '127073'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210

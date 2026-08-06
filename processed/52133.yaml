@@ -1,0 +1,47 @@
+---
+uid: '52133'
+last_name: GAZPROMNEFT LUBRICANTS LTD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '81659'
+    type: a.k.a.
+    category: strong
+    last_name: GAZPROMNEFT SM LLC
+  - uid: '81660'
+    type: a.k.a.
+    category: strong
+    last_name: GAZPROMNEFT LUBRICANTS LLC
+address_list:
+  items:
+  - uid: '79569'
+    address1: Ul. Krzhizhanovskogo D. 14/3, Blok B
+    city: Moscow
+    postal_code: '117218'
+    country: Russia
+  - uid: '79570'
+    address1: Leningradsky Avenue 37A, Building 4, BC Arcus III
+    city: Moscow
+    postal_code: '125167'
+    country: Russia
+id_list:
+  items:
+  - uid: '45027'
+    id_type: Registration Number
+    id_number: '1077762940331'
+    id_country: Russia
+  - uid: '45028'
+    id_type: Tax ID No.
+    id_number: '7728640182'
+    id_country: Russia
+  - uid: '183039'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183424'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

@@ -1,0 +1,51 @@
+---
+uid: '48602'
+first_name: Dzmitry
+last_name: MIKHALTSOU
+sdn_type: Individual
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '75560'
+    type: a.k.a.
+    category: strong
+    last_name: MIKHALTSOV
+    first_name: Dmitry Viktorovich
+  - uid: '75561'
+    type: a.k.a.
+    category: strong
+    last_name: MIKHALTSOU
+    first_name: Dzmitry Viktaravich
+address_list:
+  items:
+  - uid: '72969'
+    address1: Ostroshitskaya Street 6, Apartment 104
+    city: Minsk
+    country: Belarus
+id_list:
+  items:
+  - uid: '39564'
+    id_type: National ID No.
+    id_number: 3271179H010PB4
+    id_country: Belarus
+  - uid: '39565'
+    id_type: Passport
+    id_number: MP3861223
+    id_country: Belarus
+  - uid: '170891'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '70890'
+    date_of_birth: 27 Nov 1979
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '70898'
+    place_of_birth: Tursk Village, Belarus
+    main_entry: 'true'
+remarks: "(Linked To: JSC MINSK MECHANICAL PLANT NAMED AFTER S.I. VAVILOV MANAGEMENT
+  COMPANY OF BELOMO HOLDING)"

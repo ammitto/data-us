@@ -1,0 +1,56 @@
+---
+uid: '19031'
+last_name: JOINT STOCK COMPANY GENBANK
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13685
+aka_list:
+  items:
+  - uid: '30015'
+    type: a.k.a.
+    category: strong
+    last_name: JSC GENBANK
+  - uid: '30016'
+    type: a.k.a.
+    category: strong
+    last_name: GENBANK, AO
+  - uid: '30017'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO GENBANK
+  - uid: '30018'
+    type: a.k.a.
+    category: strong
+    last_name: CLOSED JOINT STOCK COMPANY GENBANK
+address_list:
+  items:
+  - uid: '28954'
+    address1: Ozerkovskaya Naberezhnaya 12
+    city: Moscow
+    postal_code: '115184'
+    country: Russia
+  - uid: '28955'
+    address1: Ulitsa Sevastopolskaya 13
+    city: Simferopol
+    postal_code: '295011'
+    country: Ukraine
+id_list:
+  items:
+  - uid: '11515'
+    id_type: Registration ID
+    id_number: '1137711000074'
+    id_country: Russia
+  - uid: '143648'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '118804'
+    id_type: SWIFT/BIC
+    id_number: GEOORUMM
+  - uid: '118792'
+    id_type: Website
+    id_number: www.genbank.ru
+  - uid: '118791'
+    id_type: Email Address
+    id_number: info@genbank.ru

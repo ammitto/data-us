@@ -1,0 +1,62 @@
+---
+uid: '44336'
+last_name: JOINT STOCK COMPANY PETERSBURG SOCIAL COMMERCIAL BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '68566'
+    type: a.k.a.
+    category: strong
+    last_name: JSC BANK PSCB
+  - uid: '68567'
+    type: f.k.a.
+    category: strong
+    last_name: PETERSBURG SOCIAL COMMERCIAL BANK OPEN JOINT STOCK COMPANY
+address_list:
+  items:
+  - uid: '66004'
+    address1: Ul. Shpalernaya D. 42
+    city: Saint Petersburg
+    postal_code: '191123'
+    country: Russia
+  - uid: '66005'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '33796'
+    id_type: Tax ID No.
+    id_number: '7831000965'
+    id_country: Russia
+  - uid: '33797'
+    id_type: Registration Number
+    id_number: '1027800000227'
+    id_country: Russia
+  - uid: '33798'
+    id_type: Legal Entity Number
+    id_number: 25340080MLWXGXT26935
+  - uid: '33799'
+    id_type: Identification Number
+    id_number: 3QL4V4.99999.SL.643
+    id_country: Russia
+  - uid: '176972'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '164054'
+    id_type: Organization Established Date
+    id_number: 29 Oct 1993
+  - uid: '164055'
+    id_type: SWIFT/BIC
+    id_number: PSOCRU2P
+  - uid: '164056'
+    id_type: SWIFT/BIC
+    id_number: PSOCRUA1
+  - uid: '164058'
+    id_type: Website
+    id_number: http://www.pscb.ru
+  - uid: '164057'
+    id_type: Target Type
+    id_number: Financial Institution

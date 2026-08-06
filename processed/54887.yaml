@@ -1,0 +1,29 @@
+---
+uid: '54887'
+last_name: KYLO SHIPPING INC.
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '83861'
+    address1: Trust Company Complex
+    address2: Ajeltake Road
+    city: Ajeltake Island
+    state_or_province: Majuro
+    postal_code: '96960'
+    country: Marshall Islands
+id_list:
+  items:
+  - uid: '48694'
+    id_type: Identification Number
+    id_number: IMO 6502638
+  - uid: '48695'
+    id_type: Business Registration Number
+    id_number: '125864'
+    id_country: Marshall Islands
+  - uid: '191376'
+    id_type: Organization Established Date
+    id_number: 10 May 2024
+remarks: "(Linked To: SHAMKHANI, Mohammad Hossein)"

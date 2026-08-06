@@ -1,0 +1,28 @@
+---
+uid: '49257'
+last_name: OOO GAZPROMMASH
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '74180'
+    address1: ul. Moskovskaya
+    address2: d. 44
+    city: Saratov
+    postal_code: '410031'
+    country: Russia
+id_list:
+  items:
+  - uid: '40463'
+    id_type: Tax ID No.
+    id_number: '6450027395'
+    id_country: Russia
+  - uid: '40464'
+    id_type: Registration Number
+    id_number: '1026402197502'
+    id_country: Russia
+  - uid: '172240'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,48 @@
+---
+uid: '28445'
+first_name: Kassem Mohamad
+last_name: HIJAZI
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '44756'
+    type: a.k.a.
+    category: strong
+    last_name: HIJAZI
+    first_name: Kassem
+  - uid: '44757'
+    type: a.k.a.
+    category: strong
+    last_name: HIJAZI
+    first_name: Kassem Mohamed
+address_list:
+  items:
+  - uid: '49701'
+    city: Ciudad del Este
+    country: Paraguay
+id_list:
+  items:
+  - uid: '18816'
+    id_type: 'RUC #'
+    id_number: 3481074-9
+    id_country: Paraguay
+  - uid: '22733'
+    id_type: National ID No.
+    id_number: 4212398/SP
+    id_country: Brazil
+  - uid: '134166'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '42820'
+    date_of_birth: 15 Sep 1972
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '42821'
+    place_of_birth: Foz de Iguacu, Brazil
+    main_entry: 'true'

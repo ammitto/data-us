@@ -1,0 +1,49 @@
+---
+uid: '7006'
+first_name: Hassan Dahir
+last_name: AWEYS
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+  - SOMALIA
+aka_list:
+  items:
+  - uid: '4980'
+    type: a.k.a.
+    category: strong
+    last_name: ALI
+    first_name: Sheikh Hassan Dahir Aweys
+  - uid: '4981'
+    type: a.k.a.
+    category: strong
+    last_name: AWES
+    first_name: Shaykh Hassan Dahir
+  - uid: '89719'
+    type: a.k.a.
+    category: weak
+    last_name: AWES, Hassan Dahir
+  - uid: '89720'
+    type: a.k.a.
+    category: weak
+    last_name: UWAYS, Hassan Tahir
+address_list:
+  items:
+  - uid: '89053'
+    country: Somalia
+  - uid: '89054'
+    country: Eritrea
+id_list:
+  items:
+  - uid: '185896'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '199156'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '1306'
+    date_of_birth: '1935'
+    main_entry: 'true'

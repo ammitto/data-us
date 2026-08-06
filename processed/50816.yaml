@@ -1,0 +1,38 @@
+---
+uid: '50816'
+last_name: LIMITED LIABILITY COMPANY ENERGO ARSENAL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '77129'
+    address1: Ul. Mashinnaya D. 3 A, kv. 78
+    city: Yekaterinburg
+    postal_code: '620142'
+    country: Russia
+  - uid: '77131'
+    address1: 194 March 8th Street
+    city: Yekaterinburg
+    state_or_province: Sverdlovsk Region
+    postal_code: '620142'
+    country: Russia
+  - uid: '77505'
+    address1: Ul. Bisertskaya D. 34
+    city: Yekaterinburg
+    postal_code: '620024'
+    country: Russia
+id_list:
+  items:
+  - uid: '42759'
+    id_type: Registration Number
+    id_number: '1106674022729'
+    id_country: Russia
+  - uid: '42760'
+    id_type: Tax ID No.
+    id_number: '6674369395'
+    id_country: Russia
+  - uid: '179458'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

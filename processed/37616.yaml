@@ -1,0 +1,31 @@
+---
+uid: '37616'
+first_name: Javier
+last_name: GUERRERO COVARRUBIAS
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '56245'
+    country: Mexico
+id_list:
+  items:
+  - uid: '26817'
+    id_type: C.U.R.P.
+    id_number: GUCJ880214HMNRVV02
+    id_country: Mexico
+  - uid: '152514'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '52511'
+    date_of_birth: 14 Feb 1988
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '52512'
+    place_of_birth: Michoacan de Ocampo, Mexico
+    main_entry: 'true'

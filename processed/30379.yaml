@@ -1,0 +1,45 @@
+---
+uid: '30379'
+last_name: DAMAVAND MINING
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13876
+aka_list:
+  items:
+  - uid: '47658'
+    type: a.k.a.
+    category: strong
+    last_name: DAMAVAND MINING PUBLIC JOINT STOCK COMPANY
+  - uid: '47659'
+    type: a.k.a.
+    category: weak
+    last_name: DMC
+address_list:
+  items:
+  - uid: '45861'
+    address1: No 2 Dr Beheshti Avenue, Pakistan Street
+    city: Tehran
+    postal_code: '1531635511'
+    country: Iran
+  - uid: '45863'
+    address1: 1, 2nd Alley, Pakistan Street, Dr Beheshti Avenue
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '20491'
+    id_type: National ID No.
+    id_number: '10100924838'
+    id_country: Iran
+  - uid: '20494'
+    id_type: Registration Number
+    id_number: '47269'
+    id_country: Iran
+  - uid: '137986'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '137987'
+    id_type: Website
+    id_number: www.damavandmining.com
+remarks: "(Linked To: KAVEH PARS MINING INDUSTRIES DEVELOPMENT COMPANY)"

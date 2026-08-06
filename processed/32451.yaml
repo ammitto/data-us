@@ -1,0 +1,63 @@
+---
+uid: '32451'
+first_name: Aler Baldomero
+last_name: SAMAYOA RECINOS
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '50930'
+    type: a.k.a.
+    category: weak
+    last_name: EL CHICHARRA
+address_list:
+  items:
+  - uid: '48842'
+    address1: Aldea Cuatro Caminos
+    city: Santa Ana Huista
+    state_or_province: Huehuetenango
+    country: Guatemala
+  - uid: '49710'
+    address1: Aldea Yuxen
+    city: Santa Ana Huista
+    state_or_province: Huehuetenango
+    country: Guatemala
+id_list:
+  items:
+  - uid: '22233'
+    id_type: C.U.I.
+    id_number: '1892644891331'
+    id_country: Guatemala
+  - uid: '22234'
+    id_type: 'NIT #'
+    id_number: '5566568'
+    id_country: Guatemala
+  - uid: '22755'
+    id_type: Passport
+    id_number: '111331000031186'
+    id_country: Guatemala
+    issue_date: 12 Feb 2001
+    expiration_date: 03 Jul 2012
+  - uid: '22756'
+    id_type: Cedula No.
+    id_number: M-1300003118
+    id_country: Guatemala
+  - uid: '22757'
+    id_type: Driver's License No.
+    id_number: '30791794'
+    id_country: Guatemala
+  - uid: '141983'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '41980'
+    date_of_birth: 27 Feb 1967
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '41982'
+    place_of_birth: Santa Ana Huista, Huehuetenango, Guatemala
+    main_entry: 'true'

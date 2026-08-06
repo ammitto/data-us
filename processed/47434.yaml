@@ -1,0 +1,39 @@
+---
+uid: '47434'
+last_name: PROMETHEUS LIMITED TRADE DEVELOPMENT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73367'
+    type: a.k.a.
+    category: weak
+    last_name: PROMETHEUS LTD
+  - uid: '73368'
+    type: a.k.a.
+    category: strong
+    last_name: PROMETHEUS ENERGY
+address_list:
+  items:
+  - uid: '70748'
+    address1: Per. Baskov D. 36, Lit. A
+    address2: Pomeshch. 1N
+    address3: Office 2
+    city: Saint Petersburg
+    postal_code: '191014'
+    country: Russia
+id_list:
+  items:
+  - uid: '37859'
+    id_type: Registration Number
+    id_number: '1104223001057'
+    id_country: Russia
+  - uid: '37860'
+    id_type: Tax ID No.
+    id_number: '4223712739'
+    id_country: Russia
+  - uid: '169786'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

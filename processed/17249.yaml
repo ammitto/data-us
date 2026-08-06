@@ -1,0 +1,57 @@
+---
+uid: '17249'
+last_name: OAO 'DOLGOPRUDNY RESEARCH PRODUCTION ENTERPRISE'
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13661
+aka_list:
+  items:
+  - uid: '26543'
+    type: a.k.a.
+    category: strong
+    last_name: OTKRYTOE AKTSIONERNOE OBSHCHESTVO DOIGOPRUDNENSKOE NAUCHNO PROIZVODSTVENNOE
+      PREDPRIYATIE
+  - uid: '26544'
+    type: a.k.a.
+    category: strong
+    last_name: DOLGOPRUDNY RESEARCH PRODUCTION ENTERPRISE
+  - uid: '26545'
+    type: a.k.a.
+    category: strong
+    last_name: DOLGOPRUDNY
+  - uid: '26546'
+    type: a.k.a.
+    category: strong
+    last_name: DOLGOPRUDNENSKOYE NPP OAO
+address_list:
+  items:
+  - uid: '26284'
+    address1: 1 Pl. Sobina
+    city: Dolgoprudny
+    state_or_province: Moskovskaya obl.
+    postal_code: '141700'
+    country: Russia
+  - uid: '26285'
+    address1: Proshchad Sobina 1
+    city: Dolgoprudny
+    postal_code: '141700'
+    country: Russia
+id_list:
+  items:
+  - uid: '9665'
+    id_type: Government Gazette Number
+    id_number: '07504318'
+  - uid: '9666'
+    id_type: Tax ID No.
+    id_number: '5008000322'
+  - uid: '9667'
+    id_type: Registration ID
+    id_number: '1025001202544'
+  - uid: '143668'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '116113'
+    id_type: Email Address
+    id_number: dnpp@orc.ru

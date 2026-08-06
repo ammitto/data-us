@@ -1,0 +1,37 @@
+---
+uid: '55627'
+first_name: Bo
+last_name: LEI
+sdn_type: Individual
+program_list:
+  programs:
+  - TCO
+address_list:
+  items:
+  - uid: '85101'
+    city: Chongqing
+    country: China
+id_list:
+  items:
+  - uid: '50114'
+    id_type: National ID No.
+    id_number: '510214197708143017'
+    id_country: China
+  - uid: '50115'
+    id_type: Passport
+    id_number: G42787399
+    id_country: China
+  - uid: '193183'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '93179'
+    date_of_birth: 14 Aug 1977
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '93181'
+    place_of_birth: Chongqing, China
+    main_entry: 'true'
+remarks: "(Linked To: PRINCE GROUP TRANSNATIONAL CRIMINAL ORGANIZATION)"

@@ -1,0 +1,35 @@
+---
+uid: '22989'
+first_name: Min
+last_name: KANG
+sdn_type: Individual
+program_list:
+  programs:
+  - DPRK4
+address_list:
+  items:
+  - uid: '34683'
+    city: Beijing
+    country: China
+id_list:
+  items:
+  - uid: '14458'
+    id_type: Passport
+    id_number: '563132918'
+    expiration_date: 04 Feb 2018
+  - uid: '135266'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '127254'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '124517'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '24516'
+    date_of_birth: 07 May 1980
+    main_entry: 'true'
+title: Korea Daesong Bank representative

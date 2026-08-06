@@ -1,0 +1,63 @@
+---
+uid: '23634'
+first_name: Abdul Qadeer Basir
+last_name: ABDUL BASEER
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '37322'
+    type: a.k.a.
+    category: strong
+    last_name: QADIR
+    first_name: Abdul
+  - uid: '37323'
+    type: a.k.a.
+    category: strong
+    last_name: HAQQANI
+    first_name: Abdul Qadir
+  - uid: '37324'
+    type: a.k.a.
+    category: strong
+    last_name: BASIR
+    first_name: Abdul Qadir
+  - uid: '37325'
+    type: a.k.a.
+    category: strong
+    last_name: AHMAT
+    first_name: Abdul Qadir
+  - uid: '37326'
+    type: a.k.a.
+    category: weak
+    last_name: Nasibullah
+address_list:
+  items:
+  - uid: '35773'
+    city: Peshawar
+    country: Pakistan
+id_list:
+  items:
+  - uid: '15104'
+    id_type: Passport
+    id_number: D000974
+    id_country: Afghanistan
+  - uid: '125552'
+    id_type: Gender
+    id_number: Male
+  - uid: '187083'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '25553'
+    date_of_birth: '1964'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '25554'
+    place_of_birth: Nangarhar Province, Afghanistan
+    main_entry: 'true'
+remarks: "(Linked To: TALIBAN)"

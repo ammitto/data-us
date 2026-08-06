@@ -1,0 +1,33 @@
+---
+uid: '35765'
+last_name: HTOO GROUP OF COMPANIES
+sdn_type: Entity
+program_list:
+  programs:
+  - BURMA-EO14014
+aka_list:
+  items:
+  - uid: '56278'
+    type: a.k.a.
+    category: weak
+    last_name: HCG
+  - uid: '56279'
+    type: a.k.a.
+    category: strong
+    last_name: HTOO GROUP
+address_list:
+  items:
+  - uid: '53754'
+    address1: No. 5, Pyay Road
+    address3: Hlaing Township
+    city: Yangon
+    country: Burma
+id_list:
+  items:
+  - uid: '148910'
+    id_type: 'Organization Type:'
+    id_number: Activities of holding companies
+  - uid: '148970'
+    id_type: Target Type
+    id_number: Private Company
+remarks: "(Linked To: ZA, Tay)"

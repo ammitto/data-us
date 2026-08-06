@@ -1,0 +1,33 @@
+---
+uid: '38799'
+first_name: Mikhail Ilyich
+last_name: PAVLYUK
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '57891'
+    country: Armenia
+  - uid: '57892'
+    country: Russia
+id_list:
+  items:
+  - uid: '174713'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '154416'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '54414'
+    date_of_birth: 16 Nov 1966
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '54415'
+    place_of_birth: Ukraine
+    main_entry: 'true'
+remarks: "(Linked To: MILUR ELECTRONICS LLC)"

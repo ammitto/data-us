@@ -1,0 +1,60 @@
+---
+uid: '50112'
+last_name: TRV ENGINEERING JSC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78124'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSCHCHESTVO TRV INZHINIRING
+  - uid: '78125'
+    type: a.k.a.
+    category: strong
+    last_name: TRV INZHINIRING AO
+  - uid: '78126'
+    type: a.k.a.
+    category: strong
+    last_name: TD ZVEZDA-STRELA OOO
+  - uid: '78127'
+    type: a.k.a.
+    category: strong
+    last_name: ZVEZDA-STRELA TRADING HOUSE LLC
+  - uid: '78128'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY TOGOVIY DOM ZVEZDA-STRELA
+address_list:
+  items:
+  - uid: '75813'
+    address1: ul. Ordzhonikidze, D. 2A
+    city: Korolev
+    state_or_province: Moscow Oblast
+    postal_code: '141076'
+    country: Russia
+id_list:
+  items:
+  - uid: '41693'
+    id_type: Business Registration Number
+    id_number: '1205000099941'
+    id_country: Russia
+  - uid: '41694'
+    id_type: Tax ID No.
+    id_number: '5018205784'
+    id_country: Russia
+  - uid: '41695'
+    id_type: Government Gazette Number
+    id_number: '46252304'
+    id_country: Russia
+  - uid: '177647'
+    id_type: Organization Established Date
+    id_number: 25 Dec 2006
+  - uid: '178575'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '177648'
+    id_type: Website
+    id_number: www.trv-e.ru

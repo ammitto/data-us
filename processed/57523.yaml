@@ -1,0 +1,49 @@
+---
+uid: '57523'
+first_name: An
+last_name: DAI
+sdn_type: Individual
+program_list:
+  programs:
+  - TCO
+aka_list:
+  items:
+  - uid: '89173'
+    type: a.k.a.
+    category: strong
+    last_name: DAI
+    first_name: Dewen
+address_list:
+  items:
+  - uid: '88193'
+    country: Cambodia
+id_list:
+  items:
+  - uid: '52026'
+    id_type: Passport
+    id_number: N01099995
+    id_country: Cambodia
+    issue_date: 16 Jan 2018
+    expiration_date: 16 Jan 2028
+  - uid: '52027'
+    id_type: Passport
+    id_number: RV074602
+    id_country: Vanuatu
+  - uid: '52028'
+    id_type: Passport
+    id_number: K00423598
+    id_country: Cyprus
+  - uid: '197953'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '97954'
+    date_of_birth: 28 Oct 1984
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '97955'
+    place_of_birth: Hubei, China
+    main_entry: 'true'
+remarks: "(Linked To: PRINCE GROUP TRANSNATIONAL CRIMINAL ORGANIZATION)"

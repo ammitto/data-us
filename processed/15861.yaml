@@ -1,0 +1,41 @@
+---
+uid: '15861'
+first_name: Esperanza Maria
+last_name: GONZALEZ MUNIZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '23805'
+    address1: Miguel Hidalgo Norte, No. 212
+    address2: Zona Centro
+    city: Allende
+    state_or_province: Coahuila
+    country: Mexico
+  - uid: '23823'
+    address1: Cinco Manantiales
+    state_or_province: Coahuila
+    country: Mexico
+id_list:
+  items:
+  - uid: '8599'
+    id_type: R.F.C.
+    id_number: GOME700123SMA
+    id_country: Mexico
+  - uid: '8604'
+    id_type: C.U.R.P.
+    id_number: GOME700123MCLNXS05
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '13348'
+    date_of_birth: 23 Jan 1970
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '13362'
+    place_of_birth: Coahuila, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: COMPANIA GANADERA 5 MANANTIALES S. DE P.R. DE R.L.)"

@@ -1,0 +1,44 @@
+---
+uid: '10725'
+first_name: Rami
+last_name: MAKHLUF
+sdn_type: Individual
+program_list:
+  programs:
+  - PAARSSR-EO13894
+aka_list:
+  items:
+  - uid: '10756'
+    type: a.k.a.
+    category: strong
+    last_name: MAKHLOUF
+    first_name: Rami
+  - uid: '10757'
+    type: a.k.a.
+    category: strong
+    last_name: MAKHLOUF
+    first_name: Rami Bin Mohammed
+  - uid: '10758'
+    type: a.k.a.
+    category: strong
+    last_name: MAKHLOUF
+    first_name: Rami Mohammad
+id_list:
+  items:
+  - uid: '5297'
+    id_type: Passport
+    id_number: '98044'
+    id_country: Syria
+  - uid: '190628'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '6148'
+    date_of_birth: 10 Jul 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '6149'
+    place_of_birth: Syria
+    main_entry: 'true'

@@ -1,0 +1,35 @@
+---
+uid: '25060'
+first_name: Emraan
+last_name: ALI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '37943'
+    country: Syria
+id_list:
+  items:
+  - uid: '16150'
+    id_type: Passport
+    id_number: TB162181
+    id_country: Trinidad and Tobago
+  - uid: '16151'
+    id_type: National ID No.
+    id_number: '19670704052'
+    id_country: Trinidad and Tobago
+  - uid: '187227'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '128263'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '28262'
+    date_of_birth: 04 Jul 1967
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC STATE OF IRAQ AND THE LEVANT)"

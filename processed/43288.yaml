@@ -1,0 +1,43 @@
+---
+uid: '43288'
+first_name: Oleh Valeriovych
+last_name: MORHUN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '67125'
+    type: a.k.a.
+    category: strong
+    last_name: MORGUN
+    first_name: Oleg Valerevich
+  - uid: '67126'
+    type: a.k.a.
+    category: strong
+    last_name: MORGUN
+    first_name: Oleg Valerievich
+address_list:
+  items:
+  - uid: '64622'
+    city: Mariupol
+    state_or_province: Donetsk region
+    country: Ukraine
+id_list:
+  items:
+  - uid: '32869'
+    id_type: Tax ID No.
+    id_number: '2454919439'
+    id_country: Ukraine
+  - uid: '175701'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '162499'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '62498'
+    date_of_birth: 19 Mar 1967
+    main_entry: 'true'

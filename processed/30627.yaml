@@ -1,0 +1,49 @@
+---
+uid: '30627'
+last_name: CENTRAL ELECTION COMMISSION OF THE REPUBLIC OF BELARUS
+sdn_type: Entity
+program_list:
+  programs:
+  - BELARUS-EO14038
+  - BELARUS
+aka_list:
+  items:
+  - uid: '48168'
+    type: a.k.a.
+    category: strong
+    last_name: BELARUSIAN CENTRAL ELECTION COMMISSION
+  - uid: '48169'
+    type: a.k.a.
+    category: strong
+    last_name: CEC BELARUS
+  - uid: '48327'
+    type: f.k.a.
+    category: strong
+    last_name: TSENTRALNAYA KAMISIYA RESPUBLIKI BELARUS PA VYBARAKH I PRAVYADZENNI
+      RESPUBLIKANSKIKH REFERENDUMAU
+  - uid: '48328'
+    type: f.k.a.
+    category: strong
+    last_name: TSENTRALNAYA KOMISSIYA RESPUBLIKI BELARUS PO VYBORAM I PROVEDENIYU
+      RESPUBLIKANSKIKH REFERENDUMOV
+  - uid: '64504'
+    type: f.k.a.
+    category: strong
+    last_name: CENTRAL COMMISSION OF THE REPUBLIC OF BELARUS ON ELECTIONS AND HOLDING
+      REPUBLICAN REFERENDA
+  - uid: '64505'
+    type: a.k.a.
+    category: weak
+    last_name: TSVK
+address_list:
+  items:
+  - uid: '46335'
+    address1: 11 Sovetskaya St., House of Government
+    city: Minsk
+    postal_code: '220010'
+    country: Belarus
+id_list:
+  items:
+  - uid: '146984'
+    id_type: Target Type
+    id_number: Government Entity

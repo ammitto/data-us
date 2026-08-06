@@ -1,0 +1,34 @@
+---
+uid: '46518'
+last_name: JOINT STOCK COMPANY YAROSLAVL RADIOWORKS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '71882'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSCHESTVO YAROSLAVSKIY RADIOZAVOD
+address_list:
+  items:
+  - uid: '69309'
+    address1: '13'
+    address2: Margolin Street
+    city: Yaroslavl
+    postal_code: '150010'
+    country: Russia
+id_list:
+  items:
+  - uid: '36525'
+    id_type: Registration Number
+    id_number: '1027600980990'
+    id_country: Russia
+  - uid: '36526'
+    id_type: Tax ID No.
+    id_number: '7601000086'
+    id_country: Russia
+  - uid: '174982'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

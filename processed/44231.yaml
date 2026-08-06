@@ -1,0 +1,35 @@
+---
+uid: '44231'
+first_name: Leonid Vladimirovich
+last_name: GORNIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '66065'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '33660'
+    id_type: Tax ID No.
+    id_number: '540316302800'
+    id_country: Russia
+  - uid: '163847'
+    id_type: Gender
+    id_number: Male
+  - uid: '175806'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '63845'
+    date_of_birth: 30 Dec 1972
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '63846'
+    place_of_birth: Novosibirsk, Novosibirsk region, Russia
+    main_entry: 'true'

@@ -1,0 +1,39 @@
+---
+uid: '15040'
+last_name: APAMA
+sdn_type: Vessel
+program_list:
+  programs:
+  - IRAN
+aka_list:
+  items:
+  - uid: '23442'
+    type: f.k.a.
+    category: strong
+    last_name: ASTARA
+  - uid: '24764'
+    type: f.k.a.
+    category: strong
+    last_name: JUPITER
+  - uid: '40675'
+    type: f.k.a.
+    category: strong
+    last_name: ABELIA
+id_list:
+  items:
+  - uid: '8049'
+    id_type: Vessel Registration Identification
+    id_number: IMO 9187631
+  - uid: '8118'
+    id_type: MMSI
+    id_number: '256845000'
+  - uid: '112995'
+    id_type: Former Vessel Flag
+    id_number: Tuvalu
+  - uid: '112996'
+    id_type: Former Vessel Flag
+    id_number: Malta
+  - uid: '119228'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: NATIONAL IRANIAN TANKER COMPANY)"

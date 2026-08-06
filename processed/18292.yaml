@@ -1,0 +1,70 @@
+---
+uid: '18292'
+last_name: OJSC ACHINSK REFINERY
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13662
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '28303'
+    type: a.k.a.
+    category: strong
+    last_name: ACHINSK REFINERY
+  - uid: '28304'
+    type: a.k.a.
+    category: strong
+    last_name: OAO ACHINSK OIL REFINERY VNK
+  - uid: '83670'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY ACHINSK REFINERY OF EASTERN PETROLEUM COMPANY
+  - uid: '83671'
+    type: a.k.a.
+    category: strong
+    last_name: JSC ACHINSK OIL REFINERY VNK
+  - uid: '83672'
+    type: a.k.a.
+    category: weak
+    last_name: JSC ANPZ VNK
+  - uid: '83673'
+    type: a.k.a.
+    category: strong
+    last_name: ACHINSK OIL REFINERY OF THE EASTERN OIL COMPANY
+address_list:
+  items:
+  - uid: '27682'
+    address1: Achinsk Refinery industrial area
+    address2: Bolsheuluisky district
+    state_or_province: Krasnoyarsk territory
+    postal_code: '662110'
+    country: Russia
+id_list:
+  items:
+  - uid: '47001'
+    id_type: Registration Number
+    id_number: '1022401153532'
+    id_country: Russia
+  - uid: '47004'
+    id_type: Tax ID No.
+    id_number: '2443000518'
+    id_country: Russia
+  - uid: '143642'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '117550'
+    id_type: Email Address
+    id_number: sekr1@anpz.rosneft.ru
+  - uid: '188514'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '117590'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 2
+  - uid: '117650'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 4
+remarks: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: OPEN JOINT-STOCK COMPANY ROSNEFT OIL COMPANY)'

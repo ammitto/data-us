@@ -1,0 +1,35 @@
+---
+uid: '40766'
+first_name: Mario Esteban
+last_name: OGAZON SEDANO
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '60748'
+    address1: Villa Calomato 3595
+    address2: Fraccionamiento Colinas de la Rivera
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+id_list:
+  items:
+  - uid: '29935'
+    id_type: C.U.R.P.
+    id_number: OASM800714HSLGDR00
+    id_country: Mexico
+  - uid: '158252'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '58249'
+    date_of_birth: 14 Jul 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '58250'
+    place_of_birth: Sinaloa, Mexico
+    main_entry: 'true'

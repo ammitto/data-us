@@ -1,0 +1,45 @@
+---
+uid: '36099'
+last_name: JOINT STOCK COMPANY DESIGN OFFICE FOR SHIPBUILDING VYMPEL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56940'
+    type: a.k.a.
+    category: weak
+    last_name: DESIGN OFFICE VYMPEL
+  - uid: '56941'
+    type: a.k.a.
+    category: strong
+    last_name: OPEN JOINT-STOCK COMPANY DESIGN OFFICE FOR SHIPBUILDING VYMPEL
+  - uid: '56942'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY DESIGN BUREAU FOR SHIP DESIGN VIMPEL
+  - uid: '56951'
+    type: a.k.a.
+    category: strong
+    last_name: DESIGN OFFICE FOR SHIPBUILDING VYMPEL
+address_list:
+  items:
+  - uid: '54314'
+    address1: 6 Nartov Str., Bldg.6
+    city: Nizhny Novgorod
+    postal_code: '603104'
+    country: Russia
+id_list:
+  items:
+  - uid: '25520'
+    id_type: Tax ID No.
+    id_number: '5260001206'
+    id_country: Russia
+  - uid: '173977'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '149516'
+    id_type: Organization Established Date
+    id_number: 04 May 1993
+remarks: "(Linked To: JOINT STOCK COMPANY UNITED SHIPBUILDING CORPORATION)"

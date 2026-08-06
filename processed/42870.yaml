@@ -1,0 +1,43 @@
+---
+uid: '42870'
+last_name: OSTEC-ETC LTD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '66430'
+    type: a.k.a.
+    category: strong
+    last_name: OSTEK-ETK
+address_list:
+  items:
+  - uid: '63957'
+    address1: ul. Moldavskaya d. 5
+    address2: str. 2
+    city: Moscow
+    postal_code: '121467'
+    country: Russia
+  - uid: '63958'
+    address1: Nab. Luzhnetskaya d. 2/4
+    address2: str. 16, et/pom. 3/303
+    city: Moscow
+    postal_code: '119270'
+    country: Russia
+id_list:
+  items:
+  - uid: '32442'
+    id_type: Registration Number
+    id_number: '5147746189058'
+    id_country: Russia
+  - uid: '32443'
+    id_type: Tax ID No.
+    id_number: '7731481052'
+    id_country: Russia
+  - uid: '161703'
+    id_type: Organization Established Date
+    id_number: 23 Apr 2013
+  - uid: '175485'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

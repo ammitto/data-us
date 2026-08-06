@@ -1,0 +1,41 @@
+---
+uid: '35856'
+last_name: JOINT STOCK COMPANY 711 AIRCRAFT REPAIR PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56312'
+    type: a.k.a.
+    category: strong
+    last_name: JSC 711 AIRCRAFT REPAIR PLANT
+  - uid: '56313'
+    type: a.k.a.
+    category: weak
+    last_name: 711 ARZ AO
+address_list:
+  items:
+  - uid: '53795'
+    address1: Ul. Chkalova D.18
+    city: Borisoglebsk
+    postal_code: '397171'
+    country: Russia
+id_list:
+  items:
+  - uid: '25166'
+    id_type: Registration Number
+    id_number: '1063604012790'
+    id_country: Russia
+  - uid: '25167'
+    id_type: Tax ID No.
+    id_number: '3604016369'
+    id_country: Russia
+  - uid: '173251'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '149049'
+    id_type: Organization Established Date
+    id_number: 10 Jun 1923
+remarks: "(Linked To: TACTICAL MISSILES CORPORATION JSC)"

@@ -1,0 +1,28 @@
+---
+uid: '48639'
+last_name: ALGORITM TOCHNOSTI
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '73045'
+    address1: Ul. Mayakovskogo D. 6A
+    address2: Office 108, 109, 110
+    city: Elektrostal
+    postal_code: '144000'
+    country: Russia
+id_list:
+  items:
+  - uid: '39617'
+    id_type: Registration Number
+    id_number: '1145053002808'
+    id_country: Russia
+  - uid: '39618'
+    id_type: Tax ID No.
+    id_number: '5053037814'
+    id_country: Russia
+  - uid: '171655'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

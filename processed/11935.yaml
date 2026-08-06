@@ -1,0 +1,43 @@
+---
+uid: '11935'
+first_name: Lucio
+last_name: HERNANDEZ LECHUGA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '12685'
+    type: a.k.a.
+    category: strong
+    last_name: HERNANDEZ LECHUGA
+    first_name: Raul Lucio
+  - uid: '12686'
+    type: a.k.a.
+    category: strong
+    last_name: HERNANDEZ LECHUGA
+    first_name: Luciano
+address_list:
+  items:
+  - uid: '18160'
+    country: Mexico
+  - uid: '18161'
+    address1: Calle Astros 7
+    address2: Col. Praxedis Balboa
+    city: Matamoros
+    state_or_province: Tamaulipas
+    country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '7586'
+    date_of_birth: '08 Feb 1976'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '7587'
+    place_of_birth: Hidalgo, Mexico
+    main_entry: 'true'
+  - uid: '7588'
+    place_of_birth: Piedras Negras, Coahuila, Mexico
+    main_entry: 'false'

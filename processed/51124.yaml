@@ -1,0 +1,41 @@
+---
+uid: '51124'
+last_name: JOINT STOCK COMPANY RESEARCH CENTRE VITYAZ
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80106'
+    type: a.k.a.
+    category: strong
+    last_name: AO NTTS VITYAZ
+  - uid: '80107'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO NAUCHNO TEKHNICHESKII TSENTR VITIAZ
+address_list:
+  items:
+  - uid: '77696'
+    address1: B-R Shchorsa D. 8
+    address2: Korp. A
+    city: Bryansk
+    postal_code: '241022'
+    country: Russia
+id_list:
+  items:
+  - uid: '43248'
+    id_type: Registration Number
+    id_number: '1093254005503'
+    id_country: Russia
+  - uid: '43249'
+    id_type: Tax ID No.
+    id_number: '3233502337'
+    id_country: Russia
+  - uid: '180413'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '180157'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

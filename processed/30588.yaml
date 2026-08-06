@@ -1,0 +1,35 @@
+---
+uid: '30588'
+first_name: Marvin Ramiro
+last_name: AGUILAR GARCIA
+sdn_type: Individual
+program_list:
+  programs:
+  - NICARAGUA
+address_list:
+  items:
+  - uid: '46273'
+    address1: Altos de Motastepe Casa No 430
+    city: Managua
+    country: Nicaragua
+id_list:
+  items:
+  - uid: '20692'
+    id_type: Passport
+    id_number: A0008313
+    id_country: Nicaragua
+    issue_date: 03 Jun 2009
+    expiration_date: 02 Jun 2014
+  - uid: '138376'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '38374'
+    date_of_birth: 10 Jan 1957
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '38375'
+    place_of_birth: Chontales, Nicaragua
+    main_entry: 'true'

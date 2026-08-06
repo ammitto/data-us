@@ -1,0 +1,30 @@
+---
+uid: '35185'
+first_name: Dmitry
+last_name: BULGAKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '52847'
+    country: Russia
+id_list:
+  items:
+  - uid: '147229'
+    id_type: Gender
+    id_number: Male
+  - uid: '175286'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '47226'
+    date_of_birth: 20 Oct 1954
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '47227'
+    place_of_birth: Verkhneye Gurovo, Kursk Region, Russia
+    main_entry: 'true'

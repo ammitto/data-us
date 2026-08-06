@@ -1,0 +1,31 @@
+---
+uid: '34104'
+first_name: Hassan
+last_name: KARAMI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+address_list:
+  items:
+  - uid: '51121'
+    country: Iran
+id_list:
+  items:
+  - uid: '145190'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '145193'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '45195'
+    date_of_birth: '1960'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '45194'
+    place_of_birth: Urmia, Iran
+    main_entry: 'true'
+remarks: "(Linked To: SPECIAL UNITS OF IRAN'S LAW ENFORCEMENT FORCES)"

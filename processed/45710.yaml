@@ -1,0 +1,49 @@
+---
+uid: '45710'
+first_name: Timur Nailevich
+last_name: SHAGIVALEEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73055'
+    type: a.k.a.
+    category: strong
+    last_name: SHAGIVALEEV
+    first_name: Timur
+address_list:
+  items:
+  - uid: '67964'
+    state_or_province: Tatarstan
+    country: Russia
+id_list:
+  items:
+  - uid: '37581'
+    id_type: National ID No.
+    id_number: '9201745357'
+    id_country: Russia
+  - uid: '37582'
+    id_type: Passport
+    id_number: '753129173'
+    id_country: Russia
+    expiration_date: 29 Apr 2026
+  - uid: '176010'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '168632'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '68631'
+    date_of_birth: 28 Jan 1978
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '68634'
+    place_of_birth: Kazan, Russia
+    main_entry: 'true'
+remarks: "(Linked To: JOINT STOCK COMPANY SPECIAL ECONOMIC ZONE OF INDUSTRIAL PRODUCTION
+  ALABUGA)"

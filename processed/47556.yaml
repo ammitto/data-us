@@ -1,0 +1,43 @@
+---
+uid: '47556'
+last_name: SISTEMY AVTONOMNOI ENERGII
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73625'
+    type: a.k.a.
+    category: weak
+    last_name: SAE OOO
+  - uid: '73626'
+    type: a.k.a.
+    category: strong
+    last_name: AUTONOMOUS ENERGY SYSTEMS
+address_list:
+  items:
+  - uid: '71012'
+    address1: Dor. Torfyanaya D. 7, Lit. F
+    address2: Pomeshch. 17-N
+    address3: KAB. 13 (1120-1121)
+    city: Saint Petersburg
+    postal_code: '197374'
+    country: Russia
+  - uid: '71013'
+    address1: Poligrafmashevsky pr. 3A
+    city: Saint Petersburg
+    country: Russia
+id_list:
+  items:
+  - uid: '38076'
+    id_type: Registration Number
+    id_number: '1207800085701'
+    id_country: Russia
+  - uid: '38077'
+    id_type: Tax ID No.
+    id_number: '7813645488'
+    id_country: Russia
+  - uid: '169776'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

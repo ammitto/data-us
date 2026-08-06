@@ -1,0 +1,36 @@
+---
+uid: '45999'
+last_name: LIMITED LIABILITY COMPANY SCIENTIFIC AND TECHNICAL CENTER ORION
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '71072'
+    type: a.k.a.
+    category: strong
+    last_name: NTTS ORION OOO
+address_list:
+  items:
+  - uid: '68499'
+    address1: 7A Gostinichnaya St.
+    address2: Suite 1/1
+    address3: Room/Office 1/B-08
+    city: Moscow
+    postal_code: '127106'
+    country: Russia
+id_list:
+  items:
+  - uid: '35820'
+    id_type: Registration Number
+    id_number: '1177746509621'
+    id_country: Russia
+  - uid: '35822'
+    id_type: Tax ID No.
+    id_number: '9715302790'
+    id_country: Russia
+  - uid: '174873'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: OSETROVA, Maria Aleksandrovna)"

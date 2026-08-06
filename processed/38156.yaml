@@ -1,0 +1,45 @@
+---
+uid: '38156'
+last_name: JOINT STOCK COMPANY RESEARCH INSTITUTE OF ELECTRONIC AND MECHANICAL DEVICES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59867'
+    type: a.k.a.
+    category: strong
+    last_name: JSC NII ELEKTRONNO-MEKHANICHESKIKH PRIBOROV
+  - uid: '59868'
+    type: a.k.a.
+    category: strong
+    last_name: PENZA SCIENTIFIC RESEARCH INSTITUTE OF ELECTRO-MECHANICAL DEVICES
+  - uid: '59869'
+    type: a.k.a.
+    category: weak
+    last_name: JSC NIIEMP
+  - uid: '59870'
+    type: a.k.a.
+    category: weak
+    last_name: JSC SRIEMI
+address_list:
+  items:
+  - uid: '57164'
+    address1: 44, Karakozova Street
+    city: Penza
+    postal_code: '440600'
+    country: Russia
+id_list:
+  items:
+  - uid: '27436'
+    id_type: Tax ID No.
+    id_number: '5834054179'
+    id_country: Russia
+  - uid: '27437'
+    id_type: Registration Number
+    id_number: '1115834003185'
+    id_country: Russia
+  - uid: '174636'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

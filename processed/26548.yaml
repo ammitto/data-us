@@ -1,0 +1,31 @@
+---
+uid: '26548'
+first_name: Akbar
+last_name: MOTALLEBIZADEH
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+id_list:
+  items:
+  - uid: '17194'
+    id_type: Passport
+    id_number: R14123444
+  - uid: '131069'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '131072'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '31070'
+    date_of_birth: 23 Jul 1963
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '31071'
+    place_of_birth: Yazd, Iran
+    main_entry: 'true'
+remarks: "(Linked To: SHAHID KARIMI GROUP)"

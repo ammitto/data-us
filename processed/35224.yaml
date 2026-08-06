@@ -1,0 +1,30 @@
+---
+uid: '35224'
+first_name: Vladimir Vladimirovich
+last_name: YAKUSHEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '52920'
+    country: Russia
+id_list:
+  items:
+  - uid: '147322'
+    id_type: Gender
+    id_number: Male
+  - uid: '175296'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '47323'
+    date_of_birth: 14 Jun 1968
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '47324'
+    place_of_birth: Neftekamsk, Bashkortostan, Russia
+    main_entry: 'true'

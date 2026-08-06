@@ -1,0 +1,34 @@
+---
+uid: '51846'
+first_name: Vladimir Nikolaevich
+last_name: CHERNOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+address_list:
+  items:
+  - uid: '79012'
+    country: Russia
+id_list:
+  items:
+  - uid: '44547'
+    id_type: Tax ID No.
+    id_number: '720601297051'
+    id_country: Russia
+  - uid: '182212'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183447'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '182210'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '82209'
+    date_of_birth: '1970'
+    main_entry: 'true'

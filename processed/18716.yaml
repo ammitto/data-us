@@ -1,0 +1,53 @@
+---
+uid: '18716'
+last_name: SBERBANK EUROPE AG
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13662
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '28430'
+    address1: Schwarzenbergplatz 3
+    city: Vienna
+    postal_code: '1010'
+    country: Austria
+id_list:
+  items:
+  - uid: '10978'
+    id_type: Registration Number
+    id_number: FN 161285 i
+    id_country: Austria
+  - uid: '24696'
+    id_type: Tax ID No.
+    id_number: ATU55795009
+    id_country: Austria
+  - uid: '118155'
+    id_type: SWIFT/BIC
+    id_number: SABRATWW
+  - uid: '118156'
+    id_type: Website
+    id_number: www.sberbank.at
+  - uid: '151196'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '118409'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 1
+  - uid: '146747'
+    id_type: Executive Order 14024 Directive Information -
+    id_number: 'For more information on directives, please visit the following link:
+      https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives'
+  - uid: '146886'
+    id_type: 'Listing Date (EO 14024 Directive 2):'
+    id_number: 24 Feb 2022
+  - uid: '146888'
+    id_type: 'Effective Date (EO 14024 Directive 2):'
+    id_number: 26 Mar 2022
+  - uid: '176848'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)'

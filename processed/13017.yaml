@@ -1,0 +1,31 @@
+---
+uid: '13017'
+last_name: PROMOCIONES CITADEL, S.A. DE C.V.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '20729'
+    address1: Calzada del Fresnos 70-A
+    address2: Desp. 104
+    address3: Col. Granja
+    city: Zapopan
+    state_or_province: Jalisco
+    postal_code: '45010'
+    country: Mexico
+  - uid: '20730'
+    address1: Avenida Miguel Hidalgo Manzana 47
+    address2: Lote 11, Local - A
+    address3: Colonia Reg. 92
+    city: Benito Juarez
+    state_or_province: Quintana Roo
+    postal_code: '77516'
+    country: Mexico
+id_list:
+  items:
+  - uid: '7440'
+    id_type: R.F.C.
+    id_number: PCI071012KB2
+    id_country: Mexico

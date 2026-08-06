@@ -1,0 +1,47 @@
+---
+uid: '50278'
+last_name: LIMITED LIABILITY COMPANY VOLGA DNEPR MOSCOW
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78535'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTIU VOLGA DNEPR MOSKVA
+  - uid: '78537'
+    type: a.k.a.
+    category: strong
+    last_name: VOLGA DNEPR GROUP
+address_list:
+  items:
+  - uid: '76150'
+    address1: 28B Str. 3 Mezhdunarodnoe sh.
+    city: Moscow
+    postal_code: '141411'
+    country: Russia
+  - uid: '76151'
+    address1: D. 17, Korp 4 Krylatskaya Ul.
+    city: Moscow
+    postal_code: '121614'
+    country: Russia
+  - uid: '76153'
+    address1: 1010 Air China Building, 36 Xiaoyun road, Chaoyang district
+    city: Beijing
+    postal_code: '100027'
+    country: China
+id_list:
+  items:
+  - uid: '41967'
+    id_type: Registration Number
+    id_number: '1027700590521'
+    id_country: Russia
+  - uid: '41968'
+    id_type: Tax ID No.
+    id_number: '7704223366'
+    id_country: Russia
+  - uid: '178009'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,40 @@
+---
+uid: '39661'
+first_name: Zhiyong
+last_name: YAN
+sdn_type: Individual
+program_list:
+  programs:
+  - DPRK3
+address_list:
+  items:
+  - uid: '59053'
+    city: Beijing
+    country: China
+id_list:
+  items:
+  - uid: '28797'
+    id_type: National ID No.
+    id_number: '370827198002151333'
+    id_country: China
+  - uid: '155969'
+    id_type: Gender
+    id_number: Male
+  - uid: '155993'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '155994'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+date_of_birth_list:
+  items:
+  - uid: '55968'
+    date_of_birth: 15 Feb 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '56131'
+    place_of_birth: Shandong, China
+    main_entry: 'true'
+remarks: "(Linked To: AIR KORYO)"

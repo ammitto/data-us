@@ -1,0 +1,33 @@
+---
+uid: '46635'
+last_name: SIBELECTROPRIVOD LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '71975'
+    type: a.k.a.
+    category: strong
+    last_name: SIBELEKTROPRIVOD
+address_list:
+  items:
+  - uid: '69421'
+    address1: Ul. Petukhova D. 69
+    city: Novosibirsk
+    postal_code: '630088'
+    country: Russia
+id_list:
+  items:
+  - uid: '36618'
+    id_type: Registration Number
+    id_number: '1045400530922'
+    id_country: Russia
+  - uid: '36619'
+    id_type: Tax ID No.
+    id_number: '5401232181'
+    id_country: Russia
+  - uid: '175028'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

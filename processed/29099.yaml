@@ -1,0 +1,32 @@
+---
+uid: '29099'
+first_name: Ali
+last_name: DANAEI KENARSARI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN
+id_list:
+  items:
+  - uid: '19366'
+    id_type: Passport
+    id_number: K41818536
+    id_country: Iran
+    expiration_date: 10 Jul 2022
+  - uid: '135839'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '135799'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '35797'
+    date_of_birth: 19 May 1977
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '35798'
+    place_of_birth: Shemiran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC REPUBLIC OF IRAN SHIPPING LINES)"

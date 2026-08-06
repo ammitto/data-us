@@ -1,0 +1,39 @@
+---
+uid: '49419'
+last_name: LIMITED LIABILITY COMPANY BAZTUBE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77085'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU BAZTYUB
+address_list:
+  items:
+  - uid: '74504'
+    address1: 5B St. Sukhogryadskaya
+    city: Zhodino
+    postal_code: '222161'
+    country: Belarus
+  - uid: '74506'
+    address1: 2A Zelenoborskaya Ul.
+    city: Zhodzina
+    postal_code: '222161'
+    country: Belarus
+id_list:
+  items:
+  - uid: '40710'
+    id_type: Tax ID No.
+    id_number: '691738570'
+    id_country: Belarus
+  - uid: '40711'
+    id_type: Government Gazette Number
+    id_number: '504412066000'
+    id_country: Belarus
+  - uid: '172745'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: JOINT STOCK COMPANY 81 ARMORED FIGHTING VEHICLES REPAIR PLANT)"

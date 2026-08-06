@@ -1,0 +1,31 @@
+---
+uid: '56651'
+first_name: Erica Patricia
+last_name: MALPICA HURTADO
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA-EO13850
+address_list:
+  items:
+  - uid: '86675'
+    country: Venezuela
+id_list:
+  items:
+  - uid: '50747'
+    id_type: Cedula No.
+    id_number: '28331171'
+    id_country: Venezuela
+  - uid: '195265'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '95267'
+    date_of_birth: 14 Jun 2001
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '95268'
+    place_of_birth: Valencia, Venezuela
+    main_entry: 'true'

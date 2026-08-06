@@ -1,0 +1,50 @@
+---
+uid: '27332'
+last_name: ALUMIX
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '43343'
+    type: a.k.a.
+    category: strong
+    last_name: NATIONAL COMPANY FOR ALUMINUM EXTRUSION AND COLORING
+  - uid: '43344'
+    type: f.k.a.
+    category: strong
+    last_name: DOGMOCH
+  - uid: '43355'
+    type: a.k.a.
+    category: strong
+    last_name: DOMAL SAL
+  - uid: '43356'
+    type: a.k.a.
+    category: strong
+    last_name: NATIONAL ALUMINUM DRAWING AND DRAWING COMPANY SAL
+  - uid: '43357'
+    type: a.k.a.
+    category: weak
+    last_name: ALOMEX
+address_list:
+  items:
+  - uid: '41592'
+    address1: Calot Center
+    address2: Sami El Solh Street, Badaro
+    city: Beirut
+    country: Lebanon
+id_list:
+  items:
+  - uid: '17940'
+    id_type: Commercial Registry Number
+    id_number: '1010799'
+    id_country: Lebanon
+  - uid: '186970'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '134769'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: AL-BAZZAL, Muhammad Qasim)"

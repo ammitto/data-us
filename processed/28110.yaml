@@ -1,0 +1,45 @@
+---
+uid: '28110'
+last_name: GOMEI AIR SERVICES CO., LTD.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+  - IFSR
+address_list:
+  items:
+  - uid: '42529'
+    address1: 3/F, The Strand
+    address2: 49 Bonham Strand
+    city: Sheung Wan
+    country: Hong Kong
+  - uid: '42530'
+    address1: B-1,2, Tower1
+    address2: 120Liuhua Rd Dongfang Hotel
+    city: Guangzhou
+    country: China
+  - uid: '42531'
+    address1: Room 1403B, Pearl River Int'l Building
+    address2: 112 Yuehua Road
+    address3: YueXiu District
+    city: Guangzhou
+    country: China
+id_list:
+  items:
+  - uid: '133462'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '186993'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '133421'
+    id_type: Email Address
+    id_number: cargores@gomei.com.hk
+  - uid: '133422'
+    id_type: Email Address
+    id_number: cargores@gzgomei.cn
+  - uid: '133423'
+    id_type: Email Address
+    id_number: mahan-gz@m3eliteclub.com
+remarks: "(Linked To: MAHAN AIR)"

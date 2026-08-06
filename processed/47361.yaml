@@ -1,0 +1,38 @@
+---
+uid: '47361'
+last_name: OFITRADE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73218'
+    type: a.k.a.
+    category: strong
+    last_name: OFITREID
+  - uid: '73219'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY OFITREYD
+address_list:
+  items:
+  - uid: '70580'
+    address1: Ul. Sholokhova D. 7
+    address2: Kv. 145
+    city: Moscow
+    postal_code: '119634'
+    country: Russia
+id_list:
+  items:
+  - uid: '37695'
+    id_type: Registration Number
+    id_number: '1147746897396'
+    id_country: Russia
+  - uid: '37696'
+    id_type: Tax ID No.
+    id_number: '7729779003'
+    id_country: Russia
+  - uid: '169865'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

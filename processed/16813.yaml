@@ -1,0 +1,42 @@
+---
+uid: '16813'
+first_name: Alenka
+last_name: KARNER
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '25643'
+    type: a.k.a.
+    category: strong
+    last_name: HRIBAR
+    first_name: Alenka
+  - uid: '26243'
+    type: a.k.a.
+    category: strong
+    last_name: HRIBAK
+    first_name: Alenka
+address_list:
+  items:
+  - uid: '26928'
+    address1: IV-044 Rozna Dolina Cesta
+    city: Ljubljana
+    country: Slovenia
+id_list:
+  items:
+  - uid: '9328'
+    id_type: Registration ID
+    id_number: '0409978505053'
+    id_country: Slovenia
+date_of_birth_list:
+  items:
+  - uid: '15420'
+    date_of_birth: 04 Sep 1978
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '16871'
+    place_of_birth: Ljubljana, Slovenia
+    main_entry: 'true'

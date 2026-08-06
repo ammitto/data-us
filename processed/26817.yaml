@@ -1,0 +1,55 @@
+---
+uid: '26817'
+last_name: PERSIAN GULF PETROCHEMICAL INDUSTRY CO.
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+aka_list:
+  items:
+  - uid: '42336'
+    type: a.k.a.
+    category: strong
+    last_name: PERSIAN GULF PETROCHEMICAL INDUSTRIES
+  - uid: '42337'
+    type: a.k.a.
+    category: strong
+    last_name: PERSIAN GULF PETROCHEMICAL INDUSTRIES CO. PLC
+  - uid: '42338'
+    type: a.k.a.
+    category: strong
+    last_name: PERSIAN GULF PETROCHEMICAL INDUSTRY
+  - uid: '42339'
+    type: a.k.a.
+    category: strong
+    last_name: PERSIAN GULF PETROCHEMICAL INDUSTRY COMPANY
+  - uid: '42340'
+    type: a.k.a.
+    category: strong
+    last_name: PGPIC
+address_list:
+  items:
+  - uid: '40662'
+    address1: No. 38, Avenue Karim Khan Zand Blvd., Hafte Tir Square
+    city: Tehran
+    postal_code: '1584893313'
+    country: Iran
+  - uid: '40663'
+    address1: No. 38, Karim Khan Zand Street, Haft Tir Square
+    city: Tehran
+    postal_code: '1584851181'
+    country: Iran
+id_list:
+  items:
+  - uid: '17481'
+    id_type: Business Registration Number
+    id_number: '89243'
+    id_country: Iran
+  - uid: '131581'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '131578'
+    id_type: Website
+    id_number: www.pgpic.ir
+remarks: "(Linked To: KHATAM OL ANBIA GHARARGAH SAZANDEGI NOOH)"

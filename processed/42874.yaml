@@ -1,0 +1,47 @@
+---
+uid: '42874'
+first_name: Aleksandr Gennadievich
+last_name: RAZORENOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '66446'
+    type: a.k.a.
+    category: strong
+    last_name: RAZORENOV
+    first_name: Alexander Gennadiyevich
+address_list:
+  items:
+  - uid: '63983'
+    country: Russia
+id_list:
+  items:
+  - uid: '32456'
+    id_type: Passport
+    id_number: '736076110'
+    id_country: Russia
+    expiration_date: 16 Sep 2024
+  - uid: '32457'
+    id_type: Passport
+    id_number: '761699993'
+    id_country: Russia
+    expiration_date: 07 Oct 2029
+  - uid: '175489'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '161708'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '61728'
+    date_of_birth: 26 Dec 1950
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '61727'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'

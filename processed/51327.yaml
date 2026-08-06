@@ -1,0 +1,57 @@
+---
+uid: '51327'
+first_name: Mirghani Idris
+last_name: SULEIMAN
+sdn_type: Individual
+program_list:
+  programs:
+  - SUDAN-EO14098
+aka_list:
+  items:
+  - uid: '80473'
+    type: a.k.a.
+    category: strong
+    last_name: SULEIMAN
+    first_name: El Mirghani Idris
+  - uid: '80474'
+    type: a.k.a.
+    category: strong
+    last_name: IDRIS
+    first_name: Al-Mirghani
+  - uid: '80475'
+    type: a.k.a.
+    category: strong
+    last_name: SULEIMAN
+    first_name: Mirghani Idriss
+  - uid: '80476'
+    type: a.k.a.
+    category: strong
+    last_name: IDRIES
+    first_name: Margani Idries Suliman
+address_list:
+  items:
+  - uid: '78145'
+    address1: H 22 B 7, Northern Elsafia
+    city: Bahri
+    state_or_province: Khartoum
+    country: Sudan
+id_list:
+  items:
+  - uid: '43586'
+    id_type: Passport
+    id_number: B00018824
+    id_country: Sudan
+    expiration_date: '09 May 2023'
+  - uid: '180655'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '80652'
+    date_of_birth: 28 Dec 1959
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '80653'
+    place_of_birth: Bahri, Khartoum, Sudan
+    main_entry: 'true'

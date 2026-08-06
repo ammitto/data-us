@@ -1,0 +1,32 @@
+---
+uid: '44030'
+last_name: OSOO KARGOLAYN
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '68075'
+    type: a.k.a.
+    category: strong
+    last_name: CARGOLINE LLC
+address_list:
+  items:
+  - uid: '65532'
+    address1: Str. Shabdan Baatyra 27/1
+    city: Bishkek
+    postal_code: '720001'
+    country: Kyrgyzstan
+id_list:
+  items:
+  - uid: '33418'
+    id_type: Tax ID No.
+    id_number: '02503202210145'
+    id_country: Kyrgyzstan
+  - uid: '163621'
+    id_type: Organization Established Date
+    id_number: 25 Mar 2022
+  - uid: '175739'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,36 @@
+---
+uid: '50883'
+last_name: STOCK COMPANY MORION INC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79685'
+    type: a.k.a.
+    category: strong
+    last_name: AO MORION
+address_list:
+  items:
+  - uid: '77254'
+    address1: Pr. Kima D. 13A
+    city: Saint Petersburg
+    postal_code: '199155'
+    country: Russia
+id_list:
+  items:
+  - uid: '42855'
+    id_type: Registration Number
+    id_number: '1037800001304'
+    id_country: Russia
+  - uid: '42856'
+    id_type: Tax ID No.
+    id_number: '7801016421'
+    id_country: Russia
+  - uid: '179657'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '179658'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

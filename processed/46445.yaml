@@ -1,0 +1,42 @@
+---
+uid: '46445'
+last_name: NAUCHNO PROIZVODSTVENNOE PREDPRIYATIE ISTOCHNIK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '71668'
+    type: a.k.a.
+    category: strong
+    last_name: NPP ISTOCHNIK
+address_list:
+  items:
+  - uid: '69083'
+    address1: Proezd 3
+    address2: Rybatskii 3
+    address3: Liter V
+    city: Saint Petersburg
+    postal_code: '192177'
+    country: Russia
+  - uid: '69084'
+    address1: Ul. Kurchatova D. 9
+    address2: Str. 2
+    address3: Pomeshch. 245
+    city: Saint Petersburg
+    postal_code: '194223'
+    country: Russia
+id_list:
+  items:
+  - uid: '36330'
+    id_type: Registration Number
+    id_number: '5067847357914'
+    id_country: Russia
+  - uid: '36331'
+    id_type: Tax ID No.
+    id_number: '7811354388'
+    id_country: Russia
+  - uid: '174965'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

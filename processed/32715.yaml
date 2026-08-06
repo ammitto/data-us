@@ -1,0 +1,28 @@
+---
+uid: '32715'
+first_name: Oleg Stanislavovich
+last_name: SHANDAROVICH
+sdn_type: Individual
+program_list:
+  programs:
+  - BELARUS-EO14038
+address_list:
+  items:
+  - uid: '49403'
+    city: Minsk
+    country: Belarus
+id_list:
+  items:
+  - uid: '142364'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '42362'
+    date_of_birth: 25 May 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '42363'
+    place_of_birth: Mahilyow, Belarus
+    main_entry: 'true'

@@ -1,0 +1,41 @@
+---
+uid: '46784'
+first_name: Vasily Nikolaevich
+last_name: SHUPRANOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '72259'
+    type: a.k.a.
+    category: strong
+    last_name: SHUPRANOV
+    first_name: Vasilii Nikolaevich
+address_list:
+  items:
+  - uid: '69972'
+    country: Russia
+id_list:
+  items:
+  - uid: '36863'
+    id_type: Tax ID No.
+    id_number: '525608742548'
+    id_country: Russia
+  - uid: '176304'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '167569'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '67567'
+    date_of_birth: 30 Mar 1957
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '67568'
+    place_of_birth: Mezhenin village, Klimovichi district, Mogilev oblast, Belarus
+    main_entry: 'true'

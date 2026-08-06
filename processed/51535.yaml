@@ -1,0 +1,38 @@
+---
+uid: '51535'
+last_name: TNG GRUPP
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '80797'
+    type: a.k.a.
+    category: weak
+    last_name: TNG GROUP
+address_list:
+  items:
+  - uid: '78527'
+    address1: Ul. Klimenta Voroshilova D. 21
+    city: Bugulma
+    postal_code: '423231'
+    country: Russia
+id_list:
+  items:
+  - uid: '43952'
+    id_type: Registration Number
+    id_number: '1051608047798'
+    id_country: Russia
+  - uid: '43953'
+    id_type: Tax ID No.
+    id_number: '1645019164'
+    id_country: Russia
+  - uid: '181191'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183485'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

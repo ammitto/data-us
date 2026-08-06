@@ -1,0 +1,45 @@
+---
+uid: '35898'
+last_name: TUPOLEV PUBLIC JOINT STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56456'
+    type: a.k.a.
+    category: strong
+    last_name: PUBLICHNOE AKTSIONERNOE OBSCHESTVO TUPOLEV
+  - uid: '56457'
+    type: a.k.a.
+    category: strong
+    last_name: TUPOLEV JSC
+  - uid: '56458'
+    type: a.k.a.
+    category: strong
+    last_name: TUPOLEV PAO
+  - uid: '56459'
+    type: f.k.a.
+    category: strong
+    last_name: OTKRYTOE AKTSIONERNOE OBSCHESTVO TUPOLEV
+address_list:
+  items:
+  - uid: '53880'
+    address1: 17, Naberezhnaya Akademika Tupoleva
+    city: Moscow
+    postal_code: '105005'
+    country: Russia
+id_list:
+  items:
+  - uid: '25251'
+    id_type: Registration Number
+    id_number: '1027739263056'
+    id_country: Russia
+  - uid: '25252'
+    id_type: Tax ID No.
+    id_number: '7705313252'
+    id_country: Russia
+  - uid: '173293'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

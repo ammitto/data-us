@@ -1,0 +1,36 @@
+---
+uid: '36330'
+last_name: KONTUR OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '54552'
+    address1: ul. Novoselov d. 25/2
+    address2: floor 2, komnata 26
+    address3: d. Alfimovo
+    city: Stupino
+    postal_code: '142860'
+    country: Russia
+id_list:
+  items:
+  - uid: '25724'
+    id_type: Registration Number
+    id_number: '1145043002345'
+    id_country: Russia
+  - uid: '25725'
+    id_type: Tax ID No.
+    id_number: '5077029058'
+    id_country: Russia
+  - uid: '150197'
+    id_type: 'Organization Type:'
+    id_number: Real estate activities on a fee or contract basis
+  - uid: '149907'
+    id_type: Organization Established Date
+    id_number: 14 May 2014
+  - uid: '174002'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: IMPERIYA 19-31 OOO)"

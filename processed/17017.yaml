@@ -1,0 +1,82 @@
+---
+uid: '17017'
+last_name: BM BANK JSC
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13662
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '26099'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMMERCIAL BANK - BANK OF MOSCOW OPEN JOINT STOCK COMPANY
+  - uid: '26100'
+    type: f.k.a.
+    category: strong
+    last_name: AKTSIONERNY KOMMERCHESKI BANK BANK MOSKVY OTKRYTOE AKTSIONERNOE OBSCHCHESTVO
+  - uid: '59455'
+    type: f.k.a.
+    category: strong
+    last_name: BANK MOSKVY PAO
+  - uid: '59456'
+    type: f.k.a.
+    category: strong
+    last_name: BANK OF MOSCOW
+  - uid: '59457'
+    type: a.k.a.
+    category: strong
+    last_name: BM BANK PUBLIC JOINT STOCK COMPANY
+  - uid: '59458'
+    type: a.k.a.
+    category: strong
+    last_name: PAO BM BANK
+  - uid: '59459'
+    type: a.k.a.
+    category: strong
+    last_name: BM BANK AO
+address_list:
+  items:
+  - uid: '25810'
+    address1: 8/15 Korp. 3 ul. Rozhdestvenka
+    city: Moscow
+    postal_code: '107996'
+    country: Russia
+  - uid: '25811'
+    address1: Bld 3 8/15
+    address2: Rozhdestvenka St.
+    city: Moscow
+    postal_code: '107996'
+    country: Russia
+id_list:
+  items:
+  - uid: '9498'
+    id_type: Registration ID
+    id_number: '1027700159497'
+    id_country: Russia
+  - uid: '9499'
+    id_type: Government Gazette Number
+    id_number: '29292940'
+    id_country: Russia
+  - uid: '173856'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '143508'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '115752'
+    id_type: SWIFT/BIC
+    id_number: MOSWRUMM
+  - uid: '152962'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '115819'
+    id_type: BIK (RU)
+    id_number: '044525219'
+  - uid: '116145'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 1
+remarks: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)'

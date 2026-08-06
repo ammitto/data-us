@@ -1,0 +1,49 @@
+---
+uid: '42729'
+last_name: KONEISTO INTERNATIONAL OY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '66231'
+    type: a.k.a.
+    category: strong
+    last_name: KONEISTO CONSULTING
+  - uid: '66232'
+    type: a.k.a.
+    category: strong
+    last_name: KONEISTO TECHNOLOGY
+address_list:
+  items:
+  - uid: '63739'
+    address1: Hirsalantie 11
+    city: Jorvas
+    postal_code: '02420'
+    country: Finland
+  - uid: '63740'
+    address1: Salmitie 3
+    city: Masala
+    postal_code: '02430'
+    country: Finland
+id_list:
+  items:
+  - uid: '32283'
+    id_type: V.A.T. Number
+    id_number: FI09221256
+    id_country: Finland
+  - uid: '32284'
+    id_type: Identification Number
+    id_number: '0922125-6'
+    id_country: Finland
+  - uid: '32285'
+    id_type: Registration Number
+    id_number: '554.917'
+    id_country: Finland
+  - uid: '161528'
+    id_type: Organization Established Date
+    id_number: 27 Jan 1993
+  - uid: '176957'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

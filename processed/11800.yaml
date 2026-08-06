@@ -1,0 +1,57 @@
+---
+uid: '11800'
+first_name: Dionicio
+last_name: LOYA PLANCARTE
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '12587'
+    type: a.k.a.
+    category: strong
+    last_name: LOYA PLANCARTE
+    first_name: Dionisio
+  - uid: '12588'
+    type: a.k.a.
+    category: weak
+    last_name: EL TIO
+address_list:
+  items:
+  - uid: '17859'
+    address1: Calle Sin Nombre 100
+    address2: Cenobio Moreno
+    city: Apatzingan
+    state_or_province: Michoacan
+    postal_code: '60710'
+    country: Mexico
+  - uid: '17860'
+    address1: Joan Sebastian Bach 87
+    address2: 2-B
+    address3: Col Bosque de la Loma
+    city: Morelia
+    state_or_province: Michoacan
+    country: Mexico
+  - uid: '17861'
+    address1: La Calle Prolongacion Finlandia
+    address2: Fracc Arboledas
+    city: Morelia
+    state_or_province: Michoacan
+    country: Mexico
+id_list:
+  items:
+  - uid: '6177'
+    id_type: R.F.C.
+    id_number: LOPD5510214S1
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '7320'
+    date_of_birth: 21 Oct 1955
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '7321'
+    place_of_birth: Michoacan, Mexico
+    main_entry: 'true'

@@ -1,0 +1,60 @@
+---
+uid: '46431'
+last_name: JOINT STOCK COMPANY IZHEVSK ELECTROMECHANICAL PLANT KUPOL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '71639'
+    type: a.k.a.
+    category: strong
+    last_name: JSC IEMZ KUPOL
+  - uid: '71640'
+    type: a.k.a.
+    category: strong
+    last_name: AO IEMZ KUPOL
+  - uid: '71642'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO IZHEVSKI ELEKTROMEKHANICHESKI ZAVOD KUPOL
+address_list:
+  items:
+  - uid: '69057'
+    address1: ul. Pesochnaya 3
+    city: Izhevsk
+    state_or_province: Udmurtia Republic
+    postal_code: '426033'
+    country: Russia
+id_list:
+  items:
+  - uid: '36301'
+    id_type: Tax ID No.
+    id_number: '1831083343'
+    id_country: Russia
+  - uid: '36302'
+    id_type: Business Registration Number
+    id_number: '1021801143374'
+    id_country: Russia
+  - uid: '36305'
+    id_type: Government Gazette Number
+    id_number: '07502963'
+    id_country: Russia
+  - uid: '174952'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184322'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '167213'
+    id_type: Website
+    id_number: www.kupol.ru
+  - uid: '167211'
+    id_type: Organization Established Date
+    id_number: 23 Apr 2002
+  - uid: '167212'
+    id_type: Organization Established Date
+    id_number: '1957'

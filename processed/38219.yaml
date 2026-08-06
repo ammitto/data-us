@@ -1,0 +1,58 @@
+---
+uid: '38219'
+last_name: CHLODWIG ENTERPRISES AG
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59972'
+    type: a.k.a.
+    category: strong
+    last_name: CHLODWIG ENTERPRISES SA
+  - uid: '59973'
+    type: a.k.a.
+    category: strong
+    last_name: CHLODWIG ENTERPRISES LTD
+  - uid: '59974'
+    type: a.k.a.
+    category: strong
+    last_name: CHLODWIG ENTERPRISES LIMITED
+  - uid: '61990'
+    type: a.k.a.
+    category: strong
+    last_name: CHLODWIG ENTERPRISES MKOOO
+address_list:
+  items:
+  - uid: '57251'
+    address1: Dammstrasse 19
+    city: Zug
+    postal_code: '6300'
+    country: Switzerland
+  - uid: '57252'
+    address1: Floor Office 1 G 25
+    address2: B-R Solnechny, 25
+    city: Kaliningrad
+    postal_code: '236006'
+    country: Russia
+id_list:
+  items:
+  - uid: '27499'
+    id_type: Registration Number
+    id_number: CH-170.3.046.014-2
+    id_country: Switzerland
+  - uid: '27500'
+    id_type: Tax ID No.
+    id_number: '277019596'
+    id_country: Switzerland
+  - uid: '27597'
+    id_type: Legal Entity Number
+    id_number: 213800HY3Z8VE6A5MX68
+  - uid: '174657'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '153476'
+    id_type: Organization Established Date
+    id_number: 02 Jul 2021
+remarks: "(Linked To: GURYEV, Andrey Grigoryevich)"

@@ -1,0 +1,33 @@
+---
+uid: '47964'
+last_name: LIMITED LIABILITY COMPANY SEPTEMBER
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74425'
+    type: a.k.a.
+    category: strong
+    last_name: SENTYABR OOO
+address_list:
+  items:
+  - uid: '71844'
+    address1: 46 Kolyvanova Street
+    city: Ozersk
+    postal_code: '456784'
+    country: Russia
+id_list:
+  items:
+  - uid: '38795'
+    id_type: Tax ID No.
+    id_number: '7422041110'
+    id_country: Russia
+  - uid: '38796'
+    id_type: Registration Number
+    id_number: '1077422003339'
+    id_country: Russia
+  - uid: '169612'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

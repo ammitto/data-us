@@ -1,0 +1,38 @@
+---
+uid: '11626'
+last_name: PETROCHEMICAL COMMERCIAL COMPANY (U.K.) LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN
+aka_list:
+  items:
+  - uid: '12344'
+    type: a.k.a.
+    category: strong
+    last_name: PCC (UK)
+  - uid: '12345'
+    type: a.k.a.
+    category: strong
+    last_name: PCC UK
+  - uid: '12346'
+    type: a.k.a.
+    category: strong
+    last_name: PCC UK LTD
+address_list:
+  items:
+  - uid: '17457'
+    address1: 4 Victoria Street
+    city: London
+    postal_code: SW1H 0NE
+    country: United Kingdom
+id_list:
+  items:
+  - uid: '5999'
+    id_type: UK Company Number
+    id_number: '02647333'
+    id_country: United Kingdom
+  - uid: '119001'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: all offices worldwide

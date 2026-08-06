@@ -1,0 +1,38 @@
+---
+uid: '44721'
+last_name: SILKWAY LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69138'
+    type: a.k.a.
+    category: strong
+    last_name: SILKWAY LLC
+  - uid: '69139'
+    type: a.k.a.
+    category: strong
+    last_name: OOO SILKVEY
+address_list:
+  items:
+  - uid: '66554'
+    address1: Pr-d Olminskogo D. 3A
+    address2: Str. 3, Floor 2, Pom. II, Kom 13
+    city: Moscow
+    postal_code: '129085'
+    country: Russia
+id_list:
+  items:
+  - uid: '34241'
+    id_type: Registration Number
+    id_number: '1197746757559'
+    id_country: Russia
+  - uid: '34242'
+    id_type: Tax ID No.
+    id_number: '9717089129'
+    id_country: Russia
+  - uid: '173792'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

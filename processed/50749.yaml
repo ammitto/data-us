@@ -1,0 +1,40 @@
+---
+uid: '50749'
+last_name: JOINT STOCK COMPANY BERG AB
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79851'
+    type: a.k.a.
+    category: strong
+    last_name: AO BERG AB
+address_list:
+  items:
+  - uid: '76975'
+    address1: Ul. Rechnikov D. 7
+    address2: Str. 14
+    city: Moscow
+    postal_code: '115407'
+    country: Russia
+  - uid: '76976'
+    address1: Ul. Sadovniki D. 2
+    address2: Floor/Pomeshch 12/1
+    city: Moscow
+    postal_code: '115487'
+    country: Russia
+id_list:
+  items:
+  - uid: '42630'
+    id_type: Registration Number
+    id_number: '1037725041683'
+    id_country: Russia
+  - uid: '42631'
+    id_type: Tax ID No.
+    id_number: '7725237190'
+    id_country: Russia
+  - uid: '179376'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

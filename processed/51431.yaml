@@ -1,0 +1,36 @@
+---
+uid: '51431'
+last_name: LIMITED LIABILITY COMPANY DEPOSITARY AND CORPORATE TECHNOLOGIES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80647'
+    type: a.k.a.
+    category: weak
+    last_name: DCT LTD
+address_list:
+  items:
+  - uid: '78339'
+    address1: Ul. Stromynka D. 4, Korp. 1
+    city: Moscow
+    postal_code: '107014'
+    country: Russia
+id_list:
+  items:
+  - uid: '43753'
+    id_type: Registration Number
+    id_number: '1057746181272'
+    id_country: Russia
+  - uid: '43754'
+    id_type: Tax ID No.
+    id_number: '7729520219'
+    id_country: Russia
+  - uid: '182810'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '180945'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

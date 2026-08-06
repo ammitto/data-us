@@ -1,0 +1,48 @@
+---
+uid: '44489'
+first_name: Hussain
+last_name: SHAMIL
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '68773'
+    type: a.k.a.
+    category: strong
+    last_name: SHAAMIL
+    first_name: Hussain
+address_list:
+  items:
+  - uid: '66253'
+    city: Male
+    country: Maldives
+id_list:
+  items:
+  - uid: '34003'
+    id_type: National ID No.
+    id_number: A096689
+    id_country: Maldives
+  - uid: '34004'
+    id_type: Passport
+    id_number: E0491049
+    id_country: Maldives
+  - uid: '164415'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '164414'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '64412'
+    date_of_birth: 11 May 1984
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '64413'
+    place_of_birth: Guraidhoo, Kaafu Atoll, Maldives
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC STATE OF IRAQ AND THE LEVANT)"

@@ -1,0 +1,42 @@
+---
+uid: '34753'
+last_name: MOBILNYE PLATEZHI LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54515'
+    type: a.k.a.
+    category: strong
+    last_name: MOBILNYE PLATEZHI LLC
+  - uid: '54854'
+    type: a.k.a.
+    category: strong
+    last_name: MOBILNYE PLATEZHI
+address_list:
+  items:
+  - uid: '52082'
+    address1: Pr-Kt Kutuzovskii D. 41
+    address2: Pom.169, Et.1, Komn.5, Office 4
+    city: Moscow
+    postal_code: '121170'
+    country: Russia
+id_list:
+  items:
+  - uid: '24425'
+    id_type: Tax ID No.
+    id_number: '7730648774'
+    id_country: Russia
+  - uid: '24426'
+    id_type: Registration Number
+    id_number: '1117746605811'
+    id_country: Russia
+  - uid: '175198'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '146208'
+    id_type: Website
+    id_number: round.ru
+remarks: "(Linked To: SOVCOMBANK OPEN JOINT STOCK COMPANY)"

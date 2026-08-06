@@ -1,0 +1,47 @@
+---
+uid: '24316'
+first_name: Andrey Igorevich
+last_name: AKIMOV
+sdn_type: Individual
+program_list:
+  programs:
+  - UKRAINE-EO13661
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '58287'
+    type: a.k.a.
+    category: strong
+    last_name: AKIMOV
+    first_name: Andrei Igorevich
+address_list:
+  items:
+  - uid: '36748'
+    country: Russia
+id_list:
+  items:
+  - uid: '26456'
+    id_type: Tax ID No.
+    id_number: '772140862280'
+    id_country: Russia
+  - uid: '126495'
+    id_type: Gender
+    id_number: Male
+  - uid: '173940'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '143983'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+date_of_birth_list:
+  items:
+  - uid: '26493'
+    date_of_birth: 22 Sep 1953
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '26494'
+    place_of_birth: Leningrad, Russia
+    main_entry: 'true'
+title: Chairman of the Management Board of Gazprombank

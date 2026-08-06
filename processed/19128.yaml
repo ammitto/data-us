@@ -1,0 +1,58 @@
+---
+uid: '19128'
+first_name: Eugene Barret
+last_name: NGAIKOSSET
+sdn_type: Individual
+program_list:
+  programs:
+  - CAR
+aka_list:
+  items:
+  - uid: '30165'
+    type: a.k.a.
+    category: strong
+    last_name: NGAIKOISSET
+    first_name: Eugene
+  - uid: '30166'
+    type: a.k.a.
+    category: strong
+    last_name: NGAIKOUESSET
+    first_name: Eugene
+  - uid: '30167'
+    type: a.k.a.
+    category: strong
+    last_name: NGAKOSSET
+    first_name: Eugene
+  - uid: '30168'
+    type: a.k.a.
+    category: strong
+    last_name: NGAIKOSSE
+    first_name: Eugene Barret
+  - uid: '30169'
+    type: a.k.a.
+    category: weak
+    last_name: The Butcher of Paoua
+address_list:
+  items:
+  - uid: '29110'
+    city: Bangui
+    country: Central African Republic
+id_list:
+  items:
+  - uid: '11414'
+    id_type: Identification Number
+    id_number: 911-10-77
+    id_country: Central African Republic
+date_of_birth_list:
+  items:
+  - uid: '18729'
+    date_of_birth: '08 Oct 1967'
+    main_entry: 'true'
+  - uid: '18730'
+    date_of_birth: 10 Aug 1967
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '18731'
+    place_of_birth: Bossangoa, Central African Republic
+    main_entry: 'true'

@@ -1,0 +1,32 @@
+---
+uid: '10983'
+first_name: Juan Luis
+last_name: GUZMAN ENRIQUEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '16002'
+    country: Mexico
+id_list:
+  items:
+  - uid: '5500'
+    id_type: R.F.C.
+    id_number: GUEJ500624
+    id_country: Mexico
+  - uid: '5501'
+    id_type: C.U.R.P.
+    id_number: GUEJ500624HDFZNN06
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '6468'
+    date_of_birth: 24 Jun 1950
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '6469'
+    place_of_birth: La Huacana, Michoacan De Ocampo, Mexico
+    main_entry: 'true'

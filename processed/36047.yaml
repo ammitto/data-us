@@ -1,0 +1,53 @@
+---
+uid: '36047'
+last_name: LIMITED LIABILITY COMPANY KASPIYSKAYA ENERGIYA ADMINISTRATION OFFICE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56774'
+    type: a.k.a.
+    category: strong
+    last_name: CASPIAN ENERGY MANAGEMENT LIMITED LIABILITY COMPANY
+  - uid: '56776'
+    type: a.k.a.
+    category: strong
+    last_name: CNRG MANAGEMENT
+  - uid: '56778'
+    type: f.k.a.
+    category: strong
+    last_name: CRN GROUP
+  - uid: '56779'
+    type: f.k.a.
+    category: strong
+    last_name: CNRG PROJECTS
+  - uid: '56781'
+    type: a.k.a.
+    category: weak
+    last_name: CNRG
+  - uid: '56782'
+    type: a.k.a.
+    category: strong
+    last_name: CASPIAN ENERGY PROJECTS LIMITED LIABILITY COMPANY
+address_list:
+  items:
+  - uid: '54179'
+    address1: 60, Admiral Nakhimov St.
+    city: Astrakhan
+    postal_code: '414018'
+    country: Russia
+id_list:
+  items:
+  - uid: '25433'
+    id_type: Tax ID No.
+    id_number: '3017065795'
+    id_country: Russia
+  - uid: '173342'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '149409'
+    id_type: Organization Established Date
+    id_number: 15 Feb 2011
+remarks: "(Linked To: JOINT STOCK COMPANY UNITED SHIPBUILDING CORPORATION)"

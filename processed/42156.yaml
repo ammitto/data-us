@@ -1,0 +1,32 @@
+---
+uid: '42156'
+last_name: OSKOL ELECTROMETALLURGICAL PLANT AO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '62924'
+    address1: Prospekt Alekseya Ugarova, 218, Zdanie 2
+    city: Stary Oskol
+    state_or_province: Belgorod Oblast
+    postal_code: '309515'
+    country: Russia
+id_list:
+  items:
+  - uid: '31616'
+    id_type: Registration ID
+    id_number: '1023102358620'
+    id_country: Russia
+  - uid: '31617'
+    id_type: Tax ID No.
+    id_number: '3128005752'
+    id_country: Russia
+  - uid: '175410'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '160387'
+    id_type: Organization Established Date
+    id_number: 29 Apr 1993
+remarks: "(Linked To: HOLDINGOVAYA KOMPANIYA METALLOINVEST AO)"

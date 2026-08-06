@@ -1,0 +1,55 @@
+---
+uid: '49130'
+first_name: Alexey
+last_name: CHICHENEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76541'
+    type: a.k.a.
+    category: strong
+    last_name: CHICHENEUVE
+    first_name: Alexey
+  - uid: '76542'
+    type: a.k.a.
+    category: strong
+    last_name: CHICHENEUVE
+    first_name: Alex
+address_list:
+  items:
+  - uid: '73902'
+    address1: Flat B 7/F Conduit Tower, 20 Conduit Road, Hong Kong
+    city: Hong Kong
+    country: China
+id_list:
+  items:
+  - uid: '40208'
+    id_type: Passport
+    id_number: '515524700'
+    id_country: Russia
+    issue_date: 13 Sep 2012
+    expiration_date: 13 Sep 2017
+  - uid: '40308'
+    id_type: Identification Number
+    id_number: R8293987
+    id_country: Hong Kong
+  - uid: '172023'
+    id_type: Gender
+    id_number: Male
+  - uid: '172694'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '72024'
+    date_of_birth: 01 Jul 1966
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '72025'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'
+remarks: "(Linked To: SUPERCHIP LIMITED)"

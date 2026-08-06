@@ -1,0 +1,39 @@
+---
+uid: '51541'
+last_name: LIMITED LIABILITY COMPANY RN SERVICE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '80807'
+    type: a.k.a.
+    category: weak
+    last_name: RN SERVICE
+address_list:
+  items:
+  - uid: '78540'
+    address1: Malyi Kaluzhskii Per D. 15
+    address2: Str. 3
+    city: Moscow
+    postal_code: '119071'
+    country: Russia
+id_list:
+  items:
+  - uid: '43964'
+    id_type: Registration Number
+    id_number: '5077746876257'
+    id_country: Russia
+  - uid: '43965'
+    id_type: Tax ID No.
+    id_number: '7706660065'
+    id_country: Russia
+  - uid: '181200'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183494'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

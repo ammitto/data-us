@@ -1,0 +1,53 @@
+---
+uid: '20441'
+first_name: Hussam
+last_name: JAMOUS
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '32304'
+    type: a.k.a.
+    category: strong
+    last_name: DA JAMOUS
+    first_name: Hussam
+  - uid: '32351'
+    type: a.k.a.
+    category: strong
+    last_name: KHATTAB
+    first_name: Omar
+  - uid: '32436'
+    type: a.k.a.
+    category: strong
+    last_name: AL-JAMUS
+    first_name: Umar
+address_list:
+  items:
+  - uid: '30952'
+    city: Antakya
+    state_or_province: Hatay
+    country: Turkey
+id_list:
+  items:
+  - uid: '12650'
+    id_type: Passport
+    id_number: N006951090
+    id_country: Syria
+  - uid: '12651'
+    id_type: National ID No.
+    id_number: 00413L0105232
+  - uid: '186558'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '21006'
+    date_of_birth: '08 Jan 1983'
+    main_entry: 'true'
+  - uid: '21007'
+    date_of_birth: 01 Aug 1983
+    main_entry: 'false'
+remarks: "(Linked To: ISLAMIC STATE OF IRAQ AND THE LEVANT)"

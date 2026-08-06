@@ -1,0 +1,30 @@
+---
+uid: '40917'
+first_name: Sergei Valentinovich
+last_name: PETROV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '61048'
+    country: Russia
+id_list:
+  items:
+  - uid: '158513'
+    id_type: Gender
+    id_number: Male
+  - uid: '175314'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '58562'
+    date_of_birth: 26 Apr 1961
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '58563'
+    place_of_birth: Russia
+    main_entry: 'true'

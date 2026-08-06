@@ -1,0 +1,64 @@
+---
+uid: '27153'
+first_name: Mohamed Ben Ahmed
+last_name: MAHRI
+sdn_type: Individual
+program_list:
+  programs:
+  - MALI-EO13882
+aka_list:
+  items:
+  - uid: '42967'
+    type: a.k.a.
+    category: strong
+    last_name: DAYA
+    first_name: Mohamed Ould Mahri Ahmed
+  - uid: '42968'
+    type: a.k.a.
+    category: strong
+    last_name: DEYA
+    first_name: Mohamed Ould Ahmed
+  - uid: '42969'
+    type: a.k.a.
+    category: weak
+    last_name: Mohammed Rougi
+  - uid: '42970'
+    type: a.k.a.
+    category: weak
+    last_name: Mohamed Rougie
+  - uid: '42971'
+    type: a.k.a.
+    category: weak
+    last_name: Mohamed Rouji
+  - uid: '42972'
+    type: a.k.a.
+    category: weak
+    last_name: Mohamed Rouggy
+address_list:
+  items:
+  - uid: '41225'
+    city: Bamako
+    country: Mali
+id_list:
+  items:
+  - uid: '17764'
+    id_type: Passport
+    id_number: AA00272627
+    id_country: Mali
+  - uid: '17765'
+    id_type: Passport
+    id_number: AA0263957
+    id_country: Mali
+  - uid: '132146'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '32143'
+    date_of_birth: '1979'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '32144'
+    place_of_birth: Tabankort, Mali
+    main_entry: 'true'

@@ -1,0 +1,59 @@
+---
+uid: '38052'
+first_name: Murat Magomedovich
+last_name: ALIEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '57283'
+    address1: Haldenstrasse, Bld 20, Apt. 1.2
+    city: Luzern
+    postal_code: '6006'
+    country: Switzerland
+  - uid: '57284'
+    address1: Bolshoy Afanasyevskiy Lane, Apt. 41
+    city: Moscow
+    postal_code: '119019'
+    country: Russia
+  - uid: '57290'
+    address1: Gesegnetmattstrasse 16/18
+    city: Luzern
+    postal_code: '6006'
+    country: Switzerland
+id_list:
+  items:
+  - uid: '27536'
+    id_type: Passport
+    id_number: '753717301'
+    id_country: Russia
+    issue_date: 15 Sep 2016
+    expiration_date: 15 Sep 2026
+  - uid: '27537'
+    id_type: Passport
+    id_number: '753606344'
+    id_country: Russia
+    issue_date: 19 Aug 2016
+    expiration_date: 19 Aug 2026
+  - uid: '27538'
+    id_type: National ID No.
+    id_number: '8300091117'
+    id_country: Russia
+  - uid: '176883'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '153527'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '53528'
+    date_of_birth: 24 May 1979
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '53529'
+    place_of_birth: Nalchik, Russia
+    main_entry: 'true'

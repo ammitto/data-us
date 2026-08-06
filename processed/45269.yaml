@@ -1,0 +1,39 @@
+---
+uid: '45269'
+first_name: Jobanis de Jesus
+last_name: AVILA VILLADIEGO
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '70055'
+    type: a.k.a.
+    category: weak
+    last_name: CHIQUITO MALO
+address_list:
+  items:
+  - uid: '67351'
+    city: Turbo
+    state_or_province: Antioquia
+    country: Colombia
+id_list:
+  items:
+  - uid: '34995'
+    id_type: Cedula No.
+    id_number: '71987498'
+    id_country: Colombia
+  - uid: '165674'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '65671'
+    date_of_birth: 10 Apr 1977
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '65672'
+    place_of_birth: San Pedro de Uraba, Antioquia, Colombia
+    main_entry: 'true'

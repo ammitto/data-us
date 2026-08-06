@@ -1,0 +1,37 @@
+---
+uid: '36083'
+last_name: CONCEPTO SCREEN SAL OFF-SHORE
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '56912'
+    type: a.k.a.
+    category: strong
+    last_name: CONCEPTOSCREEN
+address_list:
+  items:
+  - uid: '54282'
+    address1: Mirna Chalouhi Commercial Center, Boulevard Sin El-Fil
+    city: Beirut
+    country: Lebanon
+id_list:
+  items:
+  - uid: '25492'
+    id_type: License
+    id_number: '1802294'
+    id_country: Lebanon
+  - uid: '149493'
+    id_type: Organization Established Date
+    id_number: 10 Jan 2008
+  - uid: '149496'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
+      Sanctions Regulations
+  - uid: '149851'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: "(Linked To: HIZBALLAH)"

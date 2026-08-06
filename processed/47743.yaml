@@ -1,0 +1,37 @@
+---
+uid: '47743'
+last_name: AKTSIONERNOE OBSHCHESTVO KONSALT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74028'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY PMC WAGNER CENTER
+  - uid: '74029'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO CHVK VAGNER TSENTR
+address_list:
+  items:
+  - uid: '71397'
+    address1: 15 Zolnaya St, Building 1, Room. 1-N, Ch. P. 194, Office 206
+    city: St. Petersburg
+    postal_code: '193318'
+    country: Russia
+id_list:
+  items:
+  - uid: '38394'
+    id_type: Tax ID No.
+    id_number: '7811783517'
+    id_country: Russia
+  - uid: '38395'
+    id_type: Registration Number
+    id_number: '1227800167242'
+    id_country: Russia
+  - uid: '169638'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

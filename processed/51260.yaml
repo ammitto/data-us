@@ -1,0 +1,31 @@
+---
+uid: '51260'
+first_name: Jose Alfredo
+last_name: RIVERA BASTARDO
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+address_list:
+  items:
+  - uid: '77997'
+    country: Venezuela
+id_list:
+  items:
+  - uid: '43465'
+    id_type: Cedula No.
+    id_number: V11025190
+    id_country: Venezuela
+  - uid: '180403'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '80402'
+    date_of_birth: 16 Feb 1970
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '80405'
+    place_of_birth: Caracas, Venezuela
+    main_entry: 'true'

@@ -1,0 +1,40 @@
+---
+uid: '27197'
+last_name: RA-02791
+sdn_type: Aircraft
+program_list:
+  programs:
+  - CYBER2
+  - ELECTION-EO13848
+  - UKRAINE-EO13661
+aka_list:
+  items:
+  - uid: '43241'
+    type: f.k.a.
+    category: strong
+    last_name: M-VITO
+id_list:
+  items:
+  - uid: '17902'
+    id_type: Aircraft Serial Identification
+    id_number: '258512'
+  - uid: '132354'
+    id_type: Nationality of Registration
+    id_number: Russia
+  - uid: '144071'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '132348'
+    id_type: Aircraft Manufacture Date
+    id_number: 01 Dec 2000
+  - uid: '132349'
+    id_type: Aircraft Mode S Transponder Code
+    id_number: 140AE7
+  - uid: '132350'
+    id_type: Aircraft Model
+    id_number: Hawker 800XP
+  - uid: '132351'
+    id_type: Aircraft Operator
+    id_number: Beratex Group Limited
+remarks: "(Linked To: BERATEX GROUP LIMITED)"

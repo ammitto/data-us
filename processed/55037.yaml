@@ -1,0 +1,43 @@
+---
+uid: '55037'
+last_name: COCO BEACH BAR, S. DE R.L. DE C.V.
+sdn_type: Entity
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+aka_list:
+  items:
+  - uid: '85677'
+    type: a.k.a.
+    category: weak
+    last_name: COCO BEACH CLUB
+address_list:
+  items:
+  - uid: '84147'
+    address1: Av. Rosarito 499
+    address2: Zona Centro
+    city: Playas de Rosarito
+    state_or_province: Baja California
+    postal_code: '22710'
+    country: Mexico
+id_list:
+  items:
+  - uid: '48955'
+    id_type: Folio Mercantil No.
+    id_number: N-2016010376
+    id_country: Mexico
+  - uid: '192696'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '191800'
+    id_type: Organization Established Date
+    id_number: 13 Jul 2016
+  - uid: '191801'
+    id_type: 'Organization Type:'
+    id_number: Restaurants and mobile food service activities
+  - uid: '193020'
+    id_type: Website
+    id_number: http://www.cocobeachrosarito.com/
+remarks: "(Linked To: GONZALEZ LOMELI, Jesus)"

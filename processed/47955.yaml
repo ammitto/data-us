@@ -1,0 +1,29 @@
+---
+uid: '47955'
+last_name: LIMITED LIABILITY COMPANY SHUSHARY AVTO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '71825'
+    address1: 115 Sofiyskaya Street
+    address2: Building A
+    address3: Suite 601.224
+    city: Saint Petersburg
+    postal_code: '196624'
+    country: Russia
+id_list:
+  items:
+  - uid: '38776'
+    id_type: Tax ID No.
+    id_number: '7743405994'
+    id_country: Russia
+  - uid: '38777'
+    id_type: Registration Number
+    id_number: '1237700021855'
+    id_country: Russia
+  - uid: '176560'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

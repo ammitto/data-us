@@ -1,0 +1,37 @@
+---
+uid: '8105'
+first_name: Safet
+last_name: DURGUTI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '6714'
+    type: a.k.a.
+    category: weak
+    last_name: ABU-SUMAYA
+id_list:
+  items:
+  - uid: '2216'
+    id_type: Passport
+    id_number: '1144602'
+    id_country: Bosnia and Herzegovina
+  - uid: '3326'
+    id_type: Bosnian Personal ID No.
+    id_number: '1005967953038'
+  - uid: '185780'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '2425'
+    date_of_birth: 10 May 1967
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '2426'
+    place_of_birth: Orahovac, Kosovo
+    main_entry: 'true'

@@ -1,0 +1,35 @@
+---
+uid: '40661'
+first_name: Alina Olegovna
+last_name: NAZAROVA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '60576'
+    country: Russia
+id_list:
+  items:
+  - uid: '29819'
+    id_type: Passport
+    id_number: '721434425'
+    id_country: Russia
+    expiration_date: 05 Oct 2022
+  - uid: '157988'
+    id_type: Gender
+    id_number: Female
+  - uid: '174131'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '57987'
+    date_of_birth: 12 Jul 1984
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '57986'
+    place_of_birth: Ukraine
+    main_entry: 'true'

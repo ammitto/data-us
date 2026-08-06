@@ -1,0 +1,46 @@
+---
+uid: '25098'
+first_name: Jose Omar
+last_name: PAREDES
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+address_list:
+  items:
+  - uid: '38018'
+    state_or_province: Miranda
+    country: Venezuela
+id_list:
+  items:
+  - uid: '16181'
+    id_type: Pilot License Number
+    id_number: '2326384'
+  - uid: '16182'
+    id_type: Passport
+    id_number: D0503056
+    id_country: Venezuela
+    expiration_date: 17 Oct 2011
+  - uid: '16183'
+    id_type: Passport
+    id_number: '038031243'
+    id_country: Venezuela
+    expiration_date: 16 Sep 2015
+  - uid: '16184'
+    id_type: Passport
+    id_number: '113210615'
+    id_country: Venezuela
+    expiration_date: 01 Feb 2020
+  - uid: '16185'
+    id_type: Cedula No.
+    id_number: '3476436'
+    id_country: Venezuela
+  - uid: '128344'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '28343'
+    date_of_birth: 22 Feb 1950
+    main_entry: 'true'
+remarks: "(Linked To: AVERUCA, C.A.)"

@@ -1,0 +1,74 @@
+---
+uid: '25000'
+last_name: SIA FALCON INTERNATIONAL GROUP
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK
+aka_list:
+  items:
+  - uid: '39444'
+    type: a.k.a.
+    category: strong
+    last_name: SABIEDRIBA AR IEROBEZOTU ATBILDIBU 'FALON INTERNATIONAL'
+  - uid: '39445'
+    type: a.k.a.
+    category: strong
+    last_name: FALCON INTERNATIONAL SIA
+  - uid: '39446'
+    type: a.k.a.
+    category: strong
+    last_name: SIA FALCON INTERNATIONAL TARIM VE HAYVANCILIK LIMITED SIKRETI
+  - uid: '39447'
+    type: f.k.a.
+    category: strong
+    last_name: ATACAR OTOMOTIV DIS TICARET VE SAVUNMA SANAYI LIMITED SIRKETI
+  - uid: '39448'
+    type: f.k.a.
+    category: strong
+    last_name: MURAT INSAAT DIS TICARET VE SAVUNMA SANAYI LIMITED SIRKETI
+address_list:
+  items:
+  - uid: '37841'
+    address1: 'Fulya Mah. Buyukdere Cad. Akabe Ticaret Merkezi 78-80A Kat: 1 D: 1
+      Mecidiyekoy'
+    address2: Sisli
+    city: Istanbul
+    country: Turkey
+  - uid: '37842'
+    address1: Akabe Is Hani
+    address2: 78-80 A/1
+    address3: Fulya Mahallesi Buyukdere Caddesi Sisli
+    city: Istanbul
+    country: Turkey
+  - uid: '37843'
+    address1: Varpas Baldones pagasts Baldones novads
+    postal_code: LV 2125
+    country: Latvia
+  - uid: '37844'
+    city: Istanbul
+    country: Turkey
+  - uid: '37845'
+    city: Riga
+    country: Latvia
+id_list:
+  items:
+  - uid: '16086'
+    id_type: Tax ID No.
+    id_number: '6240194059'
+    id_country: Turkey
+  - uid: '16087'
+    id_type: Registration Number
+    id_number: '464933'
+    id_country: Turkey
+  - uid: '16088'
+    id_type: Registration Number
+    id_number: '45403041088'
+    id_country: Latvia
+  - uid: '135299'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '128490'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210

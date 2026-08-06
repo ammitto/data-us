@@ -1,0 +1,34 @@
+---
+uid: '29670'
+first_name: Paul Herbert
+last_name: OQUIST KELLEY
+sdn_type: Individual
+program_list:
+  programs:
+  - NICARAGUA
+address_list:
+  items:
+  - uid: '44718'
+    city: Managua
+    country: Nicaragua
+id_list:
+  items:
+  - uid: '19792'
+    id_type: Passport
+    id_number: A00001478
+    id_country: Nicaragua
+    issue_date: 27 Jul 2018
+    expiration_date: 27 Jul 2028
+  - uid: '136540'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '36539'
+    date_of_birth: 19 Oct 1943
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '36542'
+    place_of_birth: Oak Park, Illinois, United States
+    main_entry: 'true'

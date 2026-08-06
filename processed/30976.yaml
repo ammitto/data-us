@@ -1,0 +1,32 @@
+---
+uid: '30976'
+last_name: MINISTRY OF INTERIOR OF CUBA
+sdn_type: Entity
+program_list:
+  programs:
+  - GLOMAG
+  - CUBA-EO14404
+aka_list:
+  items:
+  - uid: '48767'
+    type: a.k.a.
+    category: strong
+    last_name: MINISTERIO DEL INTERIOR
+  - uid: '48768'
+    type: a.k.a.
+    category: weak
+    last_name: MININT
+address_list:
+  items:
+  - uid: '46868'
+    address1: Aranguren and Carlos Manuel de Cespedes
+    city: Havana
+    country: Cuba
+id_list:
+  items:
+  - uid: '139195'
+    id_type: Organization Established Date
+    id_number: Jun 1961
+  - uid: '198219'
+    id_type: Target Type
+    id_number: Government Entity

@@ -1,0 +1,37 @@
+---
+uid: '34505'
+last_name: OOO RGS HOLDING
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54053'
+    type: a.k.a.
+    category: strong
+    last_name: RGS KHOLDING
+address_list:
+  items:
+  - uid: '51704'
+    address1: ul. Kievskaya, d. 7, et/kom 2A/2
+    city: Moscow
+    postal_code: '121059'
+    country: Russia
+id_list:
+  items:
+  - uid: '24132'
+    id_type: Registration Number
+    id_number: '1137746769610'
+    id_country: Russia
+  - uid: '24133'
+    id_type: Tax ID No.
+    id_number: '7730691642'
+    id_country: Russia
+  - uid: '145898'
+    id_type: Organization Established Date
+    id_number: 26 Aug 2013
+  - uid: '175132'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: PUBLIC JOINT STOCK COMPANY BANK FINANCIAL CORPORATION OTKRITIE)"

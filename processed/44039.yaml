@@ -1,0 +1,58 @@
+---
+uid: '44039'
+last_name: JOINT STOCK COMPANY RESEARCH AND PRODUCTION CORPORATION PRECISION SYSTEMS
+  AND INSTRUMENTS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '68108'
+    type: a.k.a.
+    category: strong
+    last_name: JSC RESEARCH AND PRODUCTION CORPORATION PRECISION SYSTEMS AND INSTRUMENTS
+  - uid: '68109'
+    type: a.k.a.
+    category: strong
+    last_name: SCIENTIFIC AND INDUSTRIAL CORPORATION PRECISION INSTRUMENT SYSTEMS
+  - uid: '68110'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO NAUCHNO PROIZVODSTVENNAYA KORPORATSIYA SISTEMY
+      PRETSIZIONNOGO PRIBOROSTROENIYA
+  - uid: '68111'
+    type: a.k.a.
+    category: weak
+    last_name: AO NPK SPP
+  - uid: '68112'
+    type: a.k.a.
+    category: weak
+    last_name: JSC RPC PSI
+address_list:
+  items:
+  - uid: '65552'
+    address1: ul. Aviamotornaya D. 53
+    city: Moscow
+    postal_code: '111024'
+    country: Russia
+id_list:
+  items:
+  - uid: '33437'
+    id_type: Registration Number
+    id_number: '1097746629639'
+    id_country: Russia
+  - uid: '33438'
+    id_type: Tax ID No.
+    id_number: '7722698108'
+    id_country: Russia
+  - uid: '33439'
+    id_type: Government Gazette Number
+    id_number: '07559035'
+    id_country: Russia
+  - uid: '175747'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '163626'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

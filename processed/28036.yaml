@@ -1,0 +1,36 @@
+---
+uid: '28036'
+first_name: Kun
+last_name: KIM
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+address_list:
+  items:
+  - uid: '42597'
+    country: Cambodia
+id_list:
+  items:
+  - uid: '18615'
+    id_type: Passport
+    id_number: N0000259216
+    id_country: Cambodia
+    expiration_date: 10 Jun 2025
+  - uid: '18616'
+    id_type: Passport
+    id_number: D0002907
+    id_country: Cambodia
+  - uid: '133381'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '33379'
+    date_of_birth: 01 Jan 1954
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '33380'
+    place_of_birth: Chan Toung Village, Sralap Commune, Tbaung Khmum District, Cambodia
+    main_entry: 'true'

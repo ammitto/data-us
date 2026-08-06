@@ -1,0 +1,49 @@
+---
+uid: '37505'
+last_name: NORD GOLD PLC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '58766'
+    type: a.k.a.
+    category: strong
+    last_name: NORDGOLD
+  - uid: '58767'
+    type: f.k.a.
+    category: strong
+    last_name: NORD GOLD UK SOCIETAS
+  - uid: '58768'
+    type: f.k.a.
+    category: strong
+    last_name: NORD GOLD SE
+address_list:
+  items:
+  - uid: '56109'
+    address1: 27 Dover Street
+    address2: Mayfair
+    city: London
+    postal_code: W1S 4LZ
+    country: United Kingdom
+  - uid: '56251'
+    country: Russia
+  - uid: '56252'
+    country: Burkina Faso
+  - uid: '56253'
+    country: Guinea
+id_list:
+  items:
+  - uid: '26707'
+    id_type: Company Number
+    id_number: '13287342'
+    id_country: United Kingdom
+  - uid: '173422'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '152547'
+    id_type: Organization Established Date
+    id_number: 24 Jun 2016
+remarks: "(Linked To: MORDASHOV, Alexey Aleksandrovich; Linked To: MORDASHOVA, Marina
+  Aleksandrovna)"

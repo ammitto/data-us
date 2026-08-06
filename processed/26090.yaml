@@ -1,0 +1,43 @@
+---
+uid: '26090'
+first_name: Mustafa Mohammed M.
+last_name: ALMADANI
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '41063'
+    type: a.k.a.
+    category: strong
+    last_name: AL-MADANI
+    first_name: Mustafa
+id_list:
+  items:
+  - uid: '16775'
+    id_type: Passport
+    id_number: P797794
+    id_country: Saudi Arabia
+    issue_date: 16 Mar 2015
+    expiration_date: 20 Jan 2020
+  - uid: '16776'
+    id_type: National ID No.
+    id_number: '1011123229'
+    id_country: Saudi Arabia
+  - uid: '130387'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '30383'
+    date_of_birth: '08 Dec 1961'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '30384'
+    place_of_birth: Riyadh, Saudi Arabia
+    main_entry: 'true'
+  - uid: '30385'
+    place_of_birth: Makkah, Saudi Arabia
+    main_entry: 'false'

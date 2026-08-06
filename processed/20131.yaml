@@ -1,0 +1,45 @@
+---
+uid: '20131'
+first_name: Maria Teresa
+last_name: QUINTANA NAVARRO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '30488'
+    address1: C. Jose Vasconcelos 556
+    address2: Col. Colinas De La Normal
+    city: Guadalajara
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '30489'
+    address1: Efrain Gonzalez Luna 2481
+    city: Guadalajara
+    state_or_province: Jalisco
+    postal_code: '44140'
+    country: Mexico
+  - uid: '30807'
+    address1: Efrain Gonzalez Luna 302
+    city: Guadalajara
+    state_or_province: Jalisco
+    postal_code: CP 44200
+    country: Mexico
+id_list:
+  items:
+  - uid: '12414'
+    id_type: C.U.R.P.
+    id_number: QUNT710305MJCNVR02
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '20610'
+    date_of_birth: 05 Mar 1971
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '20611'
+    place_of_birth: Guadalajara, Jalisco, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: CARTEL DE JALISCO NUEVA GENERACION; Linked To: LOS CUINIS)"

@@ -1,0 +1,35 @@
+---
+uid: '13011'
+last_name: DISTRIBUIDORA MEDICA HOSPITALARIA, S.A. DE C.V.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '20712'
+    address1: Colima No. 323 Int. 9
+    address2: Col. Roma Norte
+    address3: Cuauhtemoc
+    city: Mexico City
+    state_or_province: Distrito Federal
+    postal_code: '06700'
+    country: Mexico
+  - uid: '20713'
+    address1: Tenozique Manzana 189 Lote 28
+    address2: Col. Pedregal de San Nicolas 1a
+    address3: Tlalpan
+    city: Mexico City
+    state_or_province: Distrito Federal
+    postal_code: '14100'
+    country: Mexico
+id_list:
+  items:
+  - uid: '7429'
+    id_type: R.F.C.
+    id_number: DMH930419ETA
+    id_country: Mexico
+  - uid: '7430'
+    id_type: Folio Mercantil No.
+    id_number: '175066'
+    id_country: Mexico

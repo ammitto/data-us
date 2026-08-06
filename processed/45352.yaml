@@ -1,0 +1,33 @@
+---
+uid: '45352'
+last_name: VNIIR PROMELEKTRO LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '67462'
+    address1: Prospekt I.Ya.Yakovleva d. 4
+    city: Cheboksary
+    postal_code: '428024'
+    country: Russia
+id_list:
+  items:
+  - uid: '35066'
+    id_type: Registration Number
+    id_number: '1062128152965'
+    id_country: Russia
+  - uid: '35067'
+    id_type: Tax ID No.
+    id_number: '2128707397'
+    id_country: Russia
+  - uid: '35068'
+    id_type: Government Gazette Number
+    id_number: '94070202'
+    id_country: Russia
+  - uid: '175967'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: JOINT STOCK COMPANY ALL-RUSSIAN SCIENTIFIC RESEARCH DESIGN AND
+  TECHNOLOGICAL INSTITUTE OF RELAY ENGINEERING WITH EXPERIMENTAL PRODUCTION)"

@@ -1,0 +1,45 @@
+---
+uid: '35895'
+last_name: JOINT STOCK COMPANY RESEARCH AND DESIGN INSTITUTE SEA THERMAL ENGINEERING
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56446'
+    type: a.k.a.
+    category: strong
+    last_name: AO NII MORTEPLOTEKHNIKI
+  - uid: '56447'
+    type: a.k.a.
+    category: strong
+    last_name: JSC RESEARCH & DESIGN INSTITUTE MORTEPLOTEKHNIKA
+  - uid: '56448'
+    type: a.k.a.
+    category: strong
+    last_name: JSC RESEARCH AND DESIGN INSTITUTE MORTEPLOTEKHNIKA
+address_list:
+  items:
+  - uid: '53874'
+    address1: Ul. Chernikova, D. 44
+    city: Lomonosov
+    postal_code: '189510'
+    country: Russia
+id_list:
+  items:
+  - uid: '25245'
+    id_type: Registration Number
+    id_number: '1047401500046'
+    id_country: Russia
+  - uid: '25246'
+    id_type: Tax ID No.
+    id_number: '7819308094'
+    id_country: Russia
+  - uid: '149088'
+    id_type: Organization Established Date
+    id_number: 15 Dec 1991
+  - uid: '173290'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: JOINT STOCK COMPANY CONCERN SEA UNDERWATER WEAPON GIDROPRIBOR)"

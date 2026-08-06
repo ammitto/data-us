@@ -1,0 +1,28 @@
+---
+uid: '31512'
+first_name: Aung
+last_name: SOE
+sdn_type: Individual
+program_list:
+  programs:
+  - BURMA-EO14014
+address_list:
+  items:
+  - uid: '47543'
+    city: Naypyitaw
+    country: Burma
+id_list:
+  items:
+  - uid: '140020'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '40036'
+    date_of_birth: 03 Dec 1963
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '40037'
+    place_of_birth: Pa Thein Town, Burma
+    main_entry: 'true'

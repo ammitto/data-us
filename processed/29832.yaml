@@ -1,0 +1,35 @@
+---
+uid: '29832'
+first_name: Amirhossein
+last_name: AZADKHANI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+address_list:
+  items:
+  - uid: '44982'
+    country: Iran
+id_list:
+  items:
+  - uid: '19946'
+    id_type: Passport
+    id_number: Y33935483
+    id_country: Iran
+  - uid: '136971'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '136864'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '36863'
+    date_of_birth: 23 Jan 1996
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '36862'
+    place_of_birth: Shemiran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: IRANIAN MINISTRY OF INTELLIGENCE AND SECURITY)"

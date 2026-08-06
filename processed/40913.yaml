@@ -1,0 +1,37 @@
+---
+uid: '40913'
+last_name: LIMITED LIABILITY COMPANY PROMTEKHEKSPERT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63727'
+    type: a.k.a.
+    category: weak
+    last_name: PTE OOO
+address_list:
+  items:
+  - uid: '61040'
+    address1: ul. Novgorodskaya d. 1
+    address2: floor 2 pom. A 212
+    city: Moscow
+    postal_code: '127576'
+    country: Russia
+id_list:
+  items:
+  - uid: '30196'
+    id_type: Tax ID No.
+    id_number: '7743515789'
+    id_country: Russia
+  - uid: '30197'
+    id_type: Registration Number
+    id_number: '1037789060165'
+    id_country: Russia
+  - uid: '175310'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '158508'
+    id_type: Organization Established Date
+    id_number: 17 Dec 2003

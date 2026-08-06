@@ -1,0 +1,34 @@
+---
+uid: '56851'
+last_name: WANSA GAS SHIPPING CO.
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '87028'
+    address1: Trust Company Complex
+    address2: Ajeltake Road
+    city: Majuro
+    state_or_province: Ajeltake Island
+    postal_code: '96960'
+    country: Marshall Islands
+  - uid: '87029'
+    address1: Office 2505
+    address2: Silver Tower
+    address3: Business Bay
+    city: Dubai
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '50977'
+    id_type: Identification Number
+    id_number: IMO 0191721
+  - uid: '50978'
+    id_type: Registration Number
+    id_number: '130159'
+    id_country: Marshall Islands
+  - uid: '195807'
+    id_type: Organization Established Date
+    id_number: 17 Feb 2025

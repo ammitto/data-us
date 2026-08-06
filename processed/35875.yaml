@@ -1,0 +1,41 @@
+---
+uid: '35875'
+last_name: JOINT STOCK COMPANY 810 AIRCRAFT REPAIR PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56375'
+    type: a.k.a.
+    category: weak
+    last_name: AO 810 ARZ
+  - uid: '56376'
+    type: a.k.a.
+    category: weak
+    last_name: 810 AIRCRAFT REPAIR PLANT
+address_list:
+  items:
+  - uid: '53831'
+    address1: Ul. Vertoletnaya D.1
+    city: Chita
+    postal_code: '672045'
+    country: Russia
+id_list:
+  items:
+  - uid: '25203'
+    id_type: Registration Number
+    id_number: '1077536006118'
+    id_country: Russia
+  - uid: '25205'
+    id_type: Tax ID No.
+    id_number: '7536080716'
+    id_country: Russia
+  - uid: '149067'
+    id_type: Organization Established Date
+    id_number: 10 Aug 1995
+  - uid: '173270'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: VERTOLETY ROSSII AO)"

@@ -1,0 +1,59 @@
+---
+uid: '25684'
+last_name: EUROPAISCH-IRANISCHE HANDELSBANK AG
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - IRAN
+  - NPWMD
+aka_list:
+  items:
+  - uid: '40409'
+    type: a.k.a.
+    category: strong
+    last_name: EUROPAISCH-IRANISCHE HANDELSBANK AKTIENGESELLSCHAFT
+  - uid: '40410'
+    type: a.k.a.
+    category: strong
+    last_name: EUROPAEISCH-IRANISCHE HANDELSBANK AKTIENGESELLSCHAFT
+address_list:
+  items:
+  - uid: '38877'
+    address1: Depenau 2
+    city: Hamburg
+    postal_code: '20095'
+    country: Germany
+  - uid: '38878'
+    address1: Postfach 101304
+    city: Hamburg
+    postal_code: '20008'
+    country: Germany
+  - uid: '38879'
+    address1: PO Box 97415-1836, Sanaee Avenue
+    city: Kish
+    country: Iran
+  - uid: '38880'
+    address1: 28 Tandis St, Nelson Mandela Blvd. (Ex North Africa Blvd.)
+    city: Tehran
+    postal_code: 19156-33383
+    country: Iran
+id_list:
+  items:
+  - uid: '16589'
+    id_type: Registration Number
+    id_number: HRB 14604
+    id_country: Germany
+  - uid: '129666'
+    id_type: SWIFT/BIC
+    id_number: EIHBDEHH
+  - uid: '129667'
+    id_type: SWIFT/BIC
+    id_number: EIHBIRTH
+  - uid: '129665'
+    id_type: Website
+    id_number: www.eihbank.de
+  - uid: '129664'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: 'All Offices Worldwide; (Linked To: BANK OF INDUSTRY AND MINE)'

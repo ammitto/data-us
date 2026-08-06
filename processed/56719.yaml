@@ -1,0 +1,37 @@
+---
+uid: '56719'
+first_name: Alexander Yurovich
+last_name: PSHENICHNYY
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '86869'
+    country: Russia
+id_list:
+  items:
+  - uid: '50832'
+    id_type: Passport
+    id_number: '763380800'
+    id_country: Russia
+    expiration_date: 05 Sep 2030
+  - uid: '195483'
+    id_type: Gender
+    id_number: Male
+  - uid: '195493'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '95482'
+    date_of_birth: 11 Sep 1982
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '95587'
+    place_of_birth: USSR
+    main_entry: 'true'
+remarks: "(Linked To: ANSARALLAH)"

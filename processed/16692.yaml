@@ -1,0 +1,43 @@
+---
+uid: '16692'
+first_name: Igor Ivanovich
+last_name: SECHIN
+sdn_type: Individual
+program_list:
+  programs:
+  - UKRAINE-EO13661
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54894'
+    type: a.k.a.
+    category: strong
+    last_name: SECHIN
+    first_name: Igor
+address_list:
+  items:
+  - uid: '52456'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '146516'
+    id_type: Gender
+    id_number: Male
+  - uid: '151195'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '173839'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '15214'
+    date_of_birth: 07 Sep 1960
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '15215'
+    place_of_birth: St. Petersburg, Russia
+    main_entry: 'true'

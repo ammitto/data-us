@@ -1,0 +1,43 @@
+---
+uid: '11954'
+first_name: Carlos
+last_name: VERA CALVA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '18131'
+    address1: Calle E. Zapata No. 2
+    address2: Col. Plan de Ayala
+    city: Tihuatlan
+    state_or_province: Veracruz
+    country: Mexico
+id_list:
+  items:
+  - uid: '6320'
+    id_type: R.F.C.
+    id_number: VECC700710
+    id_country: Mexico
+  - uid: '6321'
+    id_type: Cartilla de Servicio Militar Nacional
+    id_number: B0759939
+    id_country: Mexico
+  - uid: '6322'
+    id_type: C.U.R.P.
+    id_number: VECC700710HVZRLR13
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '7501'
+    date_of_birth: 10 Jul 1970
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '7502'
+    place_of_birth: Poza Rica de Hidalgo, Veracruz
+    main_entry: 'true'
+  - uid: '7503'
+    place_of_birth: Tuxpam, Veracruz
+    main_entry: 'false'

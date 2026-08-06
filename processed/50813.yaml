@@ -1,0 +1,27 @@
+---
+uid: '50813'
+last_name: LLC ARSENAL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '77124'
+    address1: Ul. Bashilovskaya Zd. 18, str. 69
+    city: Krasnoyarsk
+    postal_code: '660111'
+    country: Russia
+id_list:
+  items:
+  - uid: '42753'
+    id_type: Registration Number
+    id_number: '1142468044179'
+    id_country: Russia
+  - uid: '42754'
+    id_type: Tax ID No.
+    id_number: '2465316804'
+    id_country: Russia
+  - uid: '179456'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

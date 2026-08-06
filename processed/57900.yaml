@@ -1,0 +1,29 @@
+---
+uid: '57900'
+first_name: Manuel
+last_name: ANIDO CUESTA
+sdn_type: Individual
+program_list:
+  programs:
+  - CUBA-EO14404
+address_list:
+  items:
+  - uid: '88827'
+    city: Madrid
+    country: Spain
+id_list:
+  items:
+  - uid: '198649'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '98650'
+    date_of_birth: 03 Nov 1994
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '98652'
+    place_of_birth: Holguin, Cuba
+    main_entry: 'true'
+remarks: "(Linked To: CUESTA PERAZA, Lis)"

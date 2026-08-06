@@ -1,0 +1,42 @@
+---
+uid: '49181'
+last_name: REGIONAL CENTER FOR LASER TECHNOLOGIES CJSC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76654'
+    type: a.k.a.
+    category: strong
+    last_name: ZAKRYTOE AKTSIONERNOE OBSHCHESTVO REGIONALNYI TSENTR LAZERNYKH TEKHNOLOGII
+  - uid: '76655'
+    type: a.k.a.
+    category: strong
+    last_name: ZAO RTSLT
+address_list:
+  items:
+  - uid: '74024'
+    address1: Ul. Frontovykh Brigad D. 18, 2-aya Prokhodnaya
+    city: Yekaterinburg
+    postal_code: '620017'
+    country: Russia
+  - uid: '74025'
+    address1: Ul. Lunacharskogo Soor. 31
+    city: Yekaterinburg
+    postal_code: '620133'
+    country: Russia
+id_list:
+  items:
+  - uid: '40309'
+    id_type: Registration Number
+    id_number: '1026602958250'
+    id_country: Russia
+  - uid: '40310'
+    id_type: Tax ID No.
+    id_number: '6659042028'
+    id_country: Russia
+  - uid: '172130'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

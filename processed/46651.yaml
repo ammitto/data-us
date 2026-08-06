@@ -1,0 +1,45 @@
+---
+uid: '46651'
+last_name: JOINT STOCK COMPANY AEROSPACE SYSTEMS DESIGN BUREAU
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '72001'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY DESIGN BUREAU AEROSPACE SYSTEMS
+  - uid: '72002'
+    type: a.k.a.
+    category: strong
+    last_name: JSC EXPERIMENTAL DESIGN BUREAU AEROSPACE SYSTEMS
+  - uid: '72003'
+    type: a.k.a.
+    category: strong
+    last_name: JSC EDB AEROSPACE SYSTEMS
+  - uid: '72004'
+    type: a.k.a.
+    category: strong
+    last_name: AO OKB AEROKOSMICHESKIE SISTEMY
+address_list:
+  items:
+  - uid: '69458'
+    address1: Ul. Programmistov D. 4
+    city: Dubna
+    postal_code: '141983'
+    country: Russia
+id_list:
+  items:
+  - uid: '36651'
+    id_type: Registration Number
+    id_number: '1105010002240'
+    id_country: Russia
+  - uid: '36652'
+    id_type: Tax ID No.
+    id_number: '5010041950'
+    id_country: Russia
+  - uid: '175040'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

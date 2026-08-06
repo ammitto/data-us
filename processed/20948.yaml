@@ -1,0 +1,32 @@
+---
+uid: '20948'
+first_name: Muhammad Nafi
+last_name: BILAL
+sdn_type: Individual
+program_list:
+  programs:
+  - PAARSSR-EO13894
+aka_list:
+  items:
+  - uid: '33130'
+    type: a.k.a.
+    category: strong
+    last_name: BILAL
+    first_name: Muhammad
+address_list:
+  items:
+  - uid: '32489'
+    country: Syria
+id_list:
+  items:
+  - uid: '122220'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '21629'
+    date_of_birth: 25 May 1971
+    main_entry: 'true'
+  - uid: '21630'
+    date_of_birth: '1971'
+    main_entry: 'false'

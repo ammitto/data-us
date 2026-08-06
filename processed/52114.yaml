@@ -1,0 +1,40 @@
+---
+uid: '52114'
+first_name: Yong Bok
+last_name: KIM
+sdn_type: Individual
+program_list:
+  programs:
+  - DPRK2
+aka_list:
+  items:
+  - uid: '81609'
+    type: a.k.a.
+    category: weak
+    last_name: KIM, Yongbok
+address_list:
+  items:
+  - uid: '79520'
+    country: Korea, North
+id_list:
+  items:
+  - uid: '45260'
+    id_type: Passport
+    id_number: '654420047'
+    id_country: Korea, North
+  - uid: '182984'
+    id_type: Gender
+    id_number: Male
+  - uid: '182987'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '182986'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+date_of_birth_list:
+  items:
+  - uid: '82983'
+    date_of_birth: 27 Jul 1957
+    main_entry: 'true'
+title: Deputy Chief of the Korean People's Army General Staff

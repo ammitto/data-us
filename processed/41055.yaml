@@ -1,0 +1,35 @@
+---
+uid: '41055'
+first_name: Anna Borisovna
+last_name: SUROVIKINA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '61350'
+    country: Russia
+id_list:
+  items:
+  - uid: '30385'
+    id_type: Tax ID No.
+    id_number: '667403289248'
+    id_country: Russia
+  - uid: '173588'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '158917'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '58915'
+    date_of_birth: 04 Jul 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '58916'
+    place_of_birth: Alma-Ata, Kazakhstan
+    main_entry: 'true'
+remarks: "(Linked To: JOINT STOCK COMPANY ARGUS HOLDING)"

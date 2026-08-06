@@ -1,0 +1,47 @@
+---
+uid: '8102'
+first_name: Mourad
+last_name: TRABELSI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '6042'
+    type: a.k.a.
+    category: strong
+    last_name: ABOU DJARRAH
+  - uid: '8901'
+    type: a.k.a.
+    category: strong
+    last_name: AL-TRABELSI
+    first_name: Mourad Ben Ali Ben Al-Basheer
+address_list:
+  items:
+  - uid: '7239'
+    address1: Via Geromini 15
+    city: Cremona
+    country: Italy
+id_list:
+  items:
+  - uid: '4094'
+    id_type: Passport
+    id_number: G 827238
+    issue_date: 01 Jun 1996
+    expiration_date: 31 May 2001
+  - uid: '185777'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '2416'
+    date_of_birth: 20 May 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '2417'
+    place_of_birth: Menzel Temime, Tunisia
+    main_entry: 'true'
+remarks: arrested 1 Apr 2003

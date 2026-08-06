@@ -1,0 +1,37 @@
+---
+uid: '48161'
+first_name: Asher Walter
+last_name: TAPFUMANEYI
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+address_list:
+  items:
+  - uid: '72222'
+    address1: 568 Eagles Place
+    city: Harare
+    country: Zimbabwe
+id_list:
+  items:
+  - uid: '39032'
+    id_type: National ID No.
+    id_number: 63453849Z80
+    id_country: Zimbabwe
+  - uid: '39033'
+    id_type: Passport
+    id_number: AD007230
+    id_country: Zimbabwe
+  - uid: '170149'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '70147'
+    date_of_birth: 19 Nov 1959
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '70148'
+    place_of_birth: Wedza, Zimbabwe
+    main_entry: 'true'

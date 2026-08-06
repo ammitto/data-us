@@ -1,0 +1,39 @@
+---
+uid: '47696'
+last_name: VAIBOS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73925'
+    type: a.k.a.
+    category: weak
+    last_name: VYBOS
+  - uid: '74766'
+    type: a.k.a.
+    category: weak
+    last_name: VAYBOS
+address_list:
+  items:
+  - uid: '71306'
+    address1: Ul. Programmistov D. 4
+    address2: Str. 3
+    address3: Office 115
+    city: Dubna
+    postal_code: '141983'
+    country: Russia
+id_list:
+  items:
+  - uid: '38328'
+    id_type: Registration Number
+    id_number: '1155017000456'
+    id_country: Russia
+  - uid: '38329'
+    id_type: Tax ID No.
+    id_number: '5017105360'
+    id_country: Russia
+  - uid: '169738'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

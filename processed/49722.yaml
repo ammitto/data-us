@@ -1,0 +1,40 @@
+---
+uid: '49722'
+first_name: Ronaldo Galindo
+last_name: LOPEZ ESCOBAR
+sdn_type: Individual
+program_list:
+  programs:
+  - TCO
+aka_list:
+  items:
+  - uid: '77515'
+    type: a.k.a.
+    category: weak
+    last_name: Tio Roni
+address_list:
+  items:
+  - uid: '75109'
+    address1: San Francisco Nueva Reforma
+    city: Malacatan
+    country: Guatemala
+id_list:
+  items:
+  - uid: '41187'
+    id_type: Passport
+    id_number: '000510054'
+    id_country: Guatemala
+  - uid: '173127'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '73126'
+    date_of_birth: 14 Sep 1977
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '73128'
+    place_of_birth: Guatemala
+    main_entry: 'true'
+remarks: "(Linked To: LOPEZ HUMAN SMUGGLING ORGANIZATION)"

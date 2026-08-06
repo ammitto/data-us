@@ -1,0 +1,32 @@
+---
+uid: '18953'
+last_name: HAEJIN SHIP MANAGEMENT COMPANY LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK
+address_list:
+  items:
+  - uid: '28832'
+    address1: Tonghung-dong, Chung-guyok
+    city: Pyongyang
+    country: Korea, North
+  - uid: '28833'
+    address1: Tonghung-dong, Central District
+    city: Pyongyang
+    country: Korea, North
+id_list:
+  items:
+  - uid: '11281'
+    id_type: Identification Number
+    id_number: IMO 5814866
+  - uid: '118511'
+    id_type: Email Address
+    id_number: haejinsm@silibank.net.kp
+  - uid: '134936'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '127111'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210

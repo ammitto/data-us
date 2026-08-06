@@ -1,0 +1,33 @@
+---
+uid: '57889'
+last_name: CCU COMMERCIAL BANK PLC.
+sdn_type: Entity
+program_list:
+  programs:
+  - TCO
+address_list:
+  items:
+  - uid: '88807'
+    address1: No.15, Preah Monivong Blvd, Phum 5, Sangkat Boeng Trabaek, Phnom Penh
+    city: Phnom Penh
+    country: Cambodia
+id_list:
+  items:
+  - uid: '52404'
+    id_type: Registration Number
+    id_number: '00056269'
+    id_country: Cambodia
+  - uid: '52405'
+    id_type: Tax ID No.
+    id_number: L001-902100065
+    id_country: Cambodia
+  - uid: '198607'
+    id_type: Organization Established Date
+    id_number: 24 Dec 2020
+  - uid: '198886'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '198608'
+    id_type: SWIFT/BIC
+    id_number: CLMCKHPPXXX
+remarks: "(Linked To: CHEN, Bo)"

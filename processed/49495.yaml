@@ -1,0 +1,48 @@
+---
+uid: '49495'
+first_name: Inna VOLODYMYRIVNA
+last_name: SHVENK
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77209'
+    type: a.k.a.
+    category: strong
+    last_name: SHVENK
+    first_name: Inna Vladimirovna
+address_list:
+  items:
+  - uid: '74673'
+    address1: Apt 43, 3 Parkovaya Street
+    city: Alchevsk
+    state_or_province: Luhansk
+    country: Ukraine
+id_list:
+  items:
+  - uid: '40841'
+    id_type: Tax ID No.
+    id_number: '3353506561'
+    id_country: Ukraine
+  - uid: '40842'
+    id_type: Tax ID No.
+    id_number: '345918209016'
+    id_country: Russia
+  - uid: '172579'
+    id_type: Gender
+    id_number: Female
+  - uid: '172742'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '72577'
+    date_of_birth: 25 Oct 1991
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '72578'
+    place_of_birth: Alchevsk, Ukraine
+    main_entry: 'true'

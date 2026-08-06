@@ -1,0 +1,50 @@
+---
+uid: '26844'
+last_name: PERSIAN GULF PETROCHEMICAL INDUSTRY COMMERCIAL CO.
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+aka_list:
+  items:
+  - uid: '42406'
+    type: a.k.a.
+    category: strong
+    last_name: PERSIAN GULF PETROCHEMICAL INDUSTRIES COMMERCIAL COMPANY
+  - uid: '42407'
+    type: a.k.a.
+    category: strong
+    last_name: PERSIAN GULF PETROCHEMICAL INDUSTRY-COMMERCIAL COMPANY
+  - uid: '42408'
+    type: a.k.a.
+    category: strong
+    last_name: PERSIAN GULF PETROCHEMICAL INDUSTRY COMMERCIAL
+  - uid: '42409'
+    type: a.k.a.
+    category: strong
+    last_name: PGPICC
+address_list:
+  items:
+  - uid: '40742'
+    address1: No. 38, Karimkhan Zand Boulevard, Haft Tir Square
+    city: Tehran
+    postal_code: '158489331'
+    country: Iran
+  - uid: '40743'
+    address1: P.O. Box 1584851181
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '17493'
+    id_type: Registration Number
+    id_number: '476760'
+    id_country: Iran
+  - uid: '131623'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '131624'
+    id_type: Website
+    id_number: www.pgpicc.com
+remarks: "(Linked To: PERSIAN GULF PETROCHEMICAL INDUSTRY CO.)"

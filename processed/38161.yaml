@@ -1,0 +1,41 @@
+---
+uid: '38161'
+last_name: JSC SVETLANA POLUPROVODNIKI
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59879'
+    type: a.k.a.
+    category: strong
+    last_name: SVETLANA SEMICONDUCTORS STOCK COMPANY
+  - uid: '59881'
+    type: a.k.a.
+    category: strong
+    last_name: ZAO SVETLANA POLUPROVODNIKI
+  - uid: '59882'
+    type: a.k.a.
+    category: strong
+    last_name: SVETLANA POLUPROVODNIKI PAO
+address_list:
+  items:
+  - uid: '57174'
+    address1: 27, Engels Prospect
+    city: Saint Petersburg
+    postal_code: '194156'
+    country: Russia
+id_list:
+  items:
+  - uid: '27443'
+    id_type: Tax ID No.
+    id_number: '7802002037'
+    id_country: Russia
+  - uid: '27444'
+    id_type: Registration Number
+    id_number: '1027801534485'
+    id_country: Russia
+  - uid: '174641'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

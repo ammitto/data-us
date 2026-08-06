@@ -1,0 +1,33 @@
+---
+uid: '44139'
+last_name: LIMITED LIABILITY COMPANY IRBIS SKY TECH
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '68270'
+    type: a.k.a.
+    category: weak
+    last_name: OOO IST
+address_list:
+  items:
+  - uid: '65670'
+    address1: 2 Shukinskaya St., Ground Floor, Rooms 32 & 33
+    city: Moscow
+    postal_code: '123182'
+    country: Russia
+id_list:
+  items:
+  - uid: '33538'
+    id_type: Registration Number
+    id_number: '1117746657280'
+    id_country: Russia
+  - uid: '33539'
+    id_type: Tax ID No.
+    id_number: '7722754271'
+    id_country: Russia
+  - uid: '175772'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,38 @@
+---
+uid: '57504'
+first_name: Masoud Mohammad
+last_name: REZAEI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '88153'
+    country: Iran
+id_list:
+  items:
+  - uid: '51875'
+    id_type: National ID No.
+    id_number: '0071219757'
+    id_country: Iran
+  - uid: '51876'
+    id_type: Passport
+    id_number: R55528582
+    id_country: Iran
+  - uid: '197698'
+    id_type: Gender
+    id_number: Male
+  - uid: '197764'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '97699'
+    date_of_birth: 21 Sep 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '97700'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'

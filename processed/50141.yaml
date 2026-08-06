@@ -1,0 +1,52 @@
+---
+uid: '50141'
+last_name: JOINT STOCK COMPANY KT - UNMANNED SYSTEMS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78194'
+    type: a.k.a.
+    category: strong
+    last_name: AO KT-UNMANNED SYSTEMS
+  - uid: '78195'
+    type: a.k.a.
+    category: weak
+    last_name: AO KT-BS
+  - uid: '78196'
+    type: a.k.a.
+    category: weak
+    last_name: AO KRONSHTADT-UNMANNED SYSTEMS
+  - uid: '78197'
+    type: a.k.a.
+    category: weak
+    last_name: KT - UNMANNED SYSTEMS
+  - uid: '78198'
+    type: a.k.a.
+    category: weak
+    last_name: AO KT - BESPILOTNYE SISTEMY
+address_list:
+  items:
+  - uid: '75887'
+    address1: PR-KT Malyi V.O. D.54, K.5 Lit. P
+    city: Saint Petersburg
+    postal_code: '199178'
+    country: Russia
+id_list:
+  items:
+  - uid: '41748'
+    id_type: Tax ID No.
+    id_number: '7801572080'
+    id_country: Russia
+  - uid: '41749'
+    id_type: Registration Number
+    id_number: '1127847213361'
+    id_country: Russia
+  - uid: '177708'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '177707'
+    id_type: Organization Established Date
+    id_number: 12 Apr 2012

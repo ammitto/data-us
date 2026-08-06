@@ -1,0 +1,38 @@
+---
+uid: '20565'
+first_name: Xiaohong
+last_name: MA
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+address_list:
+  items:
+  - uid: '31180'
+    country: China
+id_list:
+  items:
+  - uid: '12707'
+    id_type: National Foreign ID Number
+    id_number: '210603197112150023'
+    id_country: China
+  - uid: '12842'
+    id_type: Passport
+    id_number: G31122619
+    id_country: China
+    issue_date: 02 Sep 2008
+    expiration_date: 01 Sep 2018
+  - uid: '134889'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '127615'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+date_of_birth_list:
+  items:
+  - uid: '21150'
+    date_of_birth: 15 Dec 1971
+    main_entry: 'true'
+remarks: "(Linked To: DANDONG HONGXIANG INDUSTRIAL DEVELOPMENT CO LTD)"
+title: Director of Dandong Hongxiang Industrial Development Co Ltd

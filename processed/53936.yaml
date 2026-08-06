@@ -1,0 +1,42 @@
+---
+uid: '53936'
+last_name: ATBIN ISTA TECHNICAL AND ENGINEERING COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '84005'
+    type: a.k.a.
+    category: strong
+    last_name: ATBIN ISTA TECHNICAL COMPANY
+  - uid: '84006'
+    type: a.k.a.
+    category: weak
+    last_name: AIT
+address_list:
+  items:
+  - uid: '82313'
+    address1: Ground Floor, Lot 0, 1 Talash Street, Main Street
+    address2: Eyvanki District, Garmsar County
+    state_or_province: Semnan Province
+    country: Iran
+id_list:
+  items:
+  - uid: '47375'
+    id_type: National ID No.
+    id_number: '10860022615'
+    id_country: Iran
+  - uid: '47376'
+    id_type: Registration Number
+    id_number: '1673'
+    id_country: Iran
+  - uid: '189075'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '189076'
+    id_type: Organization Established Date
+    id_number: 25 Aug 2007
+remarks: "(Linked To: IRAN CENTRIFUGE TECHNOLOGY COMPANY)"

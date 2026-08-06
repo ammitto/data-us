@@ -1,0 +1,44 @@
+---
+uid: '24245'
+first_name: Muhammad Harris
+last_name: DAR
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '38281'
+    type: a.k.a.
+    category: strong
+    last_name: HARIS
+    first_name: Muhammad
+address_list:
+  items:
+  - uid: '36633'
+    city: Faisalabad
+    country: Pakistan
+id_list:
+  items:
+  - uid: '15475'
+    id_type: Identification Number
+    id_number: '3310030015409'
+    id_country: Pakistan
+  - uid: '126397'
+    id_type: Gender
+    id_number: Male
+  - uid: '187121'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '26399'
+    date_of_birth: 16 Jan 1986
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '26400'
+    place_of_birth: Faisalabad, Pakistan
+    main_entry: 'true'
+remarks: "(Linked To: LASHKAR E-TAYYIBA)"

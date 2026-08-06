@@ -1,0 +1,49 @@
+---
+uid: '15416'
+first_name: Hafiz Khalid
+last_name: WALID
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '22712'
+    type: a.k.a.
+    category: strong
+    last_name: WALEED
+    first_name: Khalid
+  - uid: '22713'
+    type: a.k.a.
+    category: strong
+    last_name: NAIK
+    first_name: Khalid
+id_list:
+  items:
+  - uid: '8267'
+    id_type: National ID No.
+    id_number: '3410104067339'
+    id_country: Pakistan
+  - uid: '8268'
+    id_type: Passport
+    id_number: AA9967331
+    id_country: Pakistan
+    issue_date: 03 Jun 2006
+    expiration_date: 02 Jun 2011
+  - uid: '186114'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '12239'
+    date_of_birth: 25 Oct 1974
+    main_entry: 'true'
+  - uid: '12240'
+    date_of_birth: '1971'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '12241'
+    place_of_birth: Lahore, Pakistan
+    main_entry: 'true'

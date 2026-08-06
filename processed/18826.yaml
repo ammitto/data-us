@@ -1,0 +1,36 @@
+---
+uid: '18826'
+last_name: STEP LATINAMEDICA S.A. DE C.V.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '28649'
+    address1: Av. Americas 1501
+    address2: Piso 20 Punto Sao Paulo
+    address3: Col. Providencia
+    city: Guadalajara
+    state_or_province: Jalisco
+    postal_code: C.P. 44630
+    country: Mexico
+  - uid: '28650'
+    address1: Jose Maria Coss 1522-B
+    address2: Col. Miraflores
+    city: Guadalajara
+    state_or_province: Jalisco
+    postal_code: C.P. 44260
+    country: Mexico
+id_list:
+  items:
+  - uid: '11134'
+    id_type: R.F.C.
+    id_number: SLA 111221 6P7
+    id_country: Mexico
+  - uid: '118349'
+    id_type: Website
+    id_number: http://www.steplatinamedica.com
+  - uid: '118350'
+    id_type: Website
+    id_number: http://steplamed.com

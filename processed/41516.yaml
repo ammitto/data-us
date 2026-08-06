@@ -1,0 +1,38 @@
+---
+uid: '41516'
+last_name: GRUPPA RODINA OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '64621'
+    type: a.k.a.
+    category: strong
+    last_name: RODINA GROUP
+address_list:
+  items:
+  - uid: '61994'
+    address1: ul. Dmitrovka M. d. 18A
+    address2: str. 3, et 3 pom. X office 3
+    city: Moscow
+    postal_code: '127006'
+    country: Russia
+id_list:
+  items:
+  - uid: '30864'
+    id_type: Registration Number
+    id_number: '1207700022364'
+    id_country: Russia
+  - uid: '30865'
+    id_type: Tax ID No.
+    id_number: '7707437415'
+    id_country: Russia
+  - uid: '173689'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '159639'
+    id_type: Organization Established Date
+    id_number: 24 Jan 2020
+remarks: "(Linked To: VINER, Natan Adadievich)"

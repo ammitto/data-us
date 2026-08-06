@@ -1,0 +1,42 @@
+---
+uid: '26061'
+last_name: AL-MUJAHIDIN BRIGADES
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '41019'
+    type: a.k.a.
+    category: strong
+    last_name: KHATIB AI-MUJAHIDIN
+  - uid: '41020'
+    type: a.k.a.
+    category: strong
+    last_name: HOLY WARRIORS BATTALION
+  - uid: '41021'
+    type: a.k.a.
+    category: strong
+    last_name: AL MUJAHIDEEN BRIGADES
+  - uid: '41022'
+    type: a.k.a.
+    category: strong
+    last_name: ANSAR AL-MUJAHIDIN MOVEMENT
+address_list:
+  items:
+  - uid: '39463'
+    state_or_province: West Bank
+    country: Palestinian
+  - uid: '39464'
+    state_or_province: Gaza Strip
+    country: Palestinian
+  - uid: '39465'
+    city: Cairo
+    country: Egypt
+id_list:
+  items:
+  - uid: '186840'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886

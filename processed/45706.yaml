@@ -1,0 +1,38 @@
+---
+uid: '45706'
+last_name: ENGINEERING CENTER OF INNOVATIVE TECHNOLOGIES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70604'
+    type: a.k.a.
+    category: weak
+    last_name: ECITECH
+  - uid: '70605'
+    type: a.k.a.
+    category: strong
+    last_name: TSENTR INNOVATSIONNYKH TEKHNOLOGII I INZHINIRINGA
+address_list:
+  items:
+  - uid: '67954'
+    address1: 2 Zavodskoy proezd
+    address2: office 632
+    city: Fryazino
+    postal_code: '141190'
+    country: Russia
+id_list:
+  items:
+  - uid: '35401'
+    id_type: Registration Number
+    id_number: '1165050054949'
+    id_country: Russia
+  - uid: '35402'
+    id_type: Tax ID No.
+    id_number: '5050127869'
+    id_country: Russia
+  - uid: '176008'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

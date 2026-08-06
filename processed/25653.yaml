@@ -1,0 +1,37 @@
+---
+uid: '25653'
+last_name: MESBAH ENERGY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '40320'
+    type: a.k.a.
+    category: strong
+    last_name: MESBAH ENERGY
+  - uid: '46170'
+    type: a.k.a.
+    category: strong
+    last_name: MESBAH ENERGY CO.
+address_list:
+  items:
+  - uid: '38807'
+    address1: Science & Technology Park, Shahid Ghoddousi Blvd.
+    city: Arak
+    country: Iran
+  - uid: '38809'
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '129591'
+    id_type: Website
+    id_number: www.isotope.ir
+  - uid: '129593'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: ATOMIC ENERGY ORGANIZATION OF IRAN)"

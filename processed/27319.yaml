@@ -1,0 +1,47 @@
+---
+uid: '27319'
+first_name: Baha' Abu
+last_name: AL-'ATA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '43292'
+    type: a.k.a.
+    category: strong
+    last_name: AL-ATA
+    first_name: Baha'a Abu
+  - uid: '43293'
+    type: a.k.a.
+    category: weak
+    last_name: ABU-SALIM
+  - uid: '43329'
+    type: a.k.a.
+    category: strong
+    last_name: AL-'ATA
+    first_name: Baha' Salim Hasan Abu
+address_list:
+  items:
+  - uid: '41620'
+    city: Gaza
+    country: Palestinian
+id_list:
+  items:
+  - uid: '17919'
+    id_type: Passport
+    id_number: '1806377'
+    id_country: Palestinian
+  - uid: '186961'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '132423'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '32421'
+    date_of_birth: 25 Nov 1977
+    main_entry: 'true'

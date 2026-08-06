@@ -1,0 +1,39 @@
+---
+uid: '57842'
+first_name: Boyu
+last_name: LIU
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+address_list:
+  items:
+  - uid: '88713'
+    address1: Nanshan District
+    city: Shenzhen
+    state_or_province: Guangdong
+    country: China
+id_list:
+  items:
+  - uid: '52335'
+    id_type: National ID No.
+    id_number: '220104197705284431'
+    id_country: China
+  - uid: '198484'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '198488'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '98486'
+    date_of_birth: 28 May 1977
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '98487'
+    place_of_birth: Changchun, Jilin, China
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS)"

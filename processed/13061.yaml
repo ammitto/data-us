@@ -1,0 +1,63 @@
+---
+uid: '13061'
+first_name: Cerkez
+last_name: AKBULUT
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '14560'
+    type: a.k.a.
+    category: strong
+    last_name: MURAT
+    first_name: Cernit
+  - uid: '14561'
+    type: a.k.a.
+    category: strong
+    last_name: MURAT
+    first_name: Altig
+id_list:
+  items:
+  - uid: '7505'
+    id_type: Refugee ID Card
+    id_number: A88000043
+    id_country: Moldova
+    issue_date: 16 Dec 2005
+  - uid: '7506'
+    id_type: Stateless Person ID Card
+    id_number: CC00200261
+    id_country: Moldova
+    issue_date: '09 Sep 2000'
+  - uid: '7507'
+    id_type: Passport
+    id_number: TR-J 565114
+    id_country: Turkey
+    issue_date: 10 Sep 1997
+  - uid: '7508'
+    id_type: Driver's License No.
+    id_number: '04900377'
+    id_country: Moldova
+    issue_date: 02 Jul 2004
+  - uid: '7509'
+    id_type: Stateless Person Passport
+    id_number: C000375
+    id_country: Moldova
+    issue_date: '09 Sep 2000'
+date_of_birth_list:
+  items:
+  - uid: '8869'
+    date_of_birth: 18 Nov 1965
+    main_entry: 'true'
+  - uid: '8870'
+    date_of_birth: 31 Oct 1971
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '8871'
+    place_of_birth: Bingol, Turkey
+    main_entry: 'true'
+  - uid: '8873'
+    place_of_birth: Deric, Turkey
+    main_entry: 'false'

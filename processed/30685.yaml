@@ -1,0 +1,41 @@
+---
+uid: '30685'
+first_name: Faruk
+last_name: YIGIT
+sdn_type: Individual
+program_list:
+  programs:
+  - CAATSA - RUSSIA
+id_list:
+  items:
+  - uid: '20790'
+    id_type: Passport
+    id_number: S00499470
+    id_country: Turkey
+    expiration_date: 15 Sep 2016
+  - uid: '138546'
+    id_type: 'CAATSA Section 235 Information:'
+    id_number: SANCTIONS ON PRINCIPAL EXECUTIVE OFFICERS. Sec 235(a)(12)
+  - uid: '138547'
+    id_type: 'CAATSA Section 235 Information:'
+    id_number: BLOCKING PROPERTY AND INTERESTS IN PROPERTY. Sec 235(a)(9)
+  - uid: '138548'
+    id_type: 'CAATSA Section 235 Information:'
+    id_number: FOREIGN EXCHANGE. Sec 235(a)(7)
+  - uid: '138549'
+    id_type: 'CAATSA Section 235 Information:'
+    id_number: BANKING TRANSACTIONS. Sec 235(a)(8)
+  - uid: '138550'
+    id_type: 'CAATSA Section 235 Information:'
+    id_number: EXCLUSION OF CORPORATE OFFICERS. Sec 235(a)(11)
+date_of_birth_list:
+  items:
+  - uid: '38561'
+    date_of_birth: 13 Mar 1962
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '38562'
+    place_of_birth: Turkey
+    main_entry: 'true'
+remarks: "(Linked To: PRESIDENCY OF DEFENSE INDUSTRIES)"

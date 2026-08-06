@@ -1,0 +1,41 @@
+---
+uid: '27326'
+last_name: ASTRONAUTICS RESEARCH INSTITUTE
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '43307'
+    type: a.k.a.
+    category: strong
+    last_name: ASTRONAUTICS SYSTEMS RESEARCH CENTER
+  - uid: '43308'
+    type: a.k.a.
+    category: strong
+    last_name: AEROSPACE RESEARCH INSTITUTE
+address_list:
+  items:
+  - uid: '41567'
+    address1: P.O. Box 15875-3885
+    city: Tehran
+    country: Iran
+  - uid: '41568'
+    address1: 15th St, Mahestan St, Iran Zamin St, Shahrak Ghods
+    city: Tehran
+    postal_code: '1465774111'
+    country: Iran
+  - uid: '41569'
+    address1: Aerospace Rd, Mahestan Rd, Iran Zamin Rd, PO Box 14665-834
+    city: Tehran
+    country: Iran
+  - uid: '41570'
+    address1: Shahrak-e-Ghods, Zamin St, Mahestan St, 15 Metri St
+    country: Iran
+id_list:
+  items:
+  - uid: '132430'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

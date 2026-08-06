@@ -1,0 +1,64 @@
+---
+uid: '38316'
+last_name: FEDERAL STATE INSTITUTION OF HIGHER VOCATIONAL EDUCATION MOSCOW INSTITUTE
+  OF PHYSICS AND TECHNOLOGY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '60087'
+    type: a.k.a.
+    category: weak
+    last_name: MIPT
+  - uid: '60088'
+    type: a.k.a.
+    category: weak
+    last_name: MFTI
+  - uid: '60089'
+    type: a.k.a.
+    category: strong
+    last_name: MOSKOVSKIY FIZIKO TEKHNICHESKIY INSTITUT
+address_list:
+  items:
+  - uid: '57344'
+    address1: 9 Institutskiy Per.
+    city: Dolgoprudny
+    state_or_province: Moscow Region
+    postal_code: '141701'
+    country: Russia
+  - uid: '57345'
+    address1: 1 A Kerchenskaya St.
+    city: Moscow
+    postal_code: '117303'
+    country: Russia
+  - uid: '57346'
+    address1: Ulitsa Gagarina 16
+    city: Zhukovsky
+    state_or_province: Moscow Region
+    postal_code: '140180'
+    country: Russia
+  - uid: '57347'
+    address1: Klimentovsky Pereulok 1 Stroyeniye 1
+    city: Moscow
+    postal_code: '115184'
+    country: Russia
+id_list:
+  items:
+  - uid: '27599'
+    id_type: Tax ID No.
+    id_number: '5008006211'
+    id_country: Russia
+  - uid: '27600'
+    id_type: Registration Number
+    id_number: '1027739386135'
+    id_country: Russia
+  - uid: '174673'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184454'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

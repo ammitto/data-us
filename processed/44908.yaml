@@ -1,0 +1,44 @@
+---
+uid: '44908'
+first_name: Vadym Firdavysovych
+last_name: VALIAKHMETOV
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+aka_list:
+  items:
+  - uid: '69445'
+    type: a.k.a.
+    category: weak
+    last_name: MENTOS
+  - uid: '69446'
+    type: a.k.a.
+    category: weak
+    last_name: WELDON
+  - uid: '69447'
+    type: a.k.a.
+    category: weak
+    last_name: VASM
+  - uid: '69448'
+    type: a.k.a.
+    category: strong
+    last_name: VALIAKHMETOV
+    first_name: Vadim
+address_list:
+  items:
+  - uid: '66827'
+    country: Russia
+id_list:
+  items:
+  - uid: '165183'
+    id_type: Gender
+    id_number: Male
+  - uid: '165282'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+date_of_birth_list:
+  items:
+  - uid: '65182'
+    date_of_birth: 07 May 1981
+    main_entry: 'true'

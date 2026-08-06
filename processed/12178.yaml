@@ -1,0 +1,57 @@
+---
+uid: '12178'
+first_name: Jaime Andres
+last_name: GONZALEZ MEDINA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '13128'
+    type: a.k.a.
+    category: strong
+    last_name: MARTINEZ ALVAREZ
+    first_name: Carlos
+address_list:
+  items:
+  - uid: '18625'
+    address1: c/o GRUPO CRISTAL CORONA S.A. DE C.V.
+    city: Mexico City
+    state_or_province: Distrito Federal
+    country: Mexico
+  - uid: '18626'
+    address1: c/o COMERCIALIZADORA GONRA
+    city: Cali
+    country: Colombia
+  - uid: '18627'
+    address1: Avenida Lomas Anahuac No. 133
+    address2: Edificio A., Depto. 602
+    address3: Colonia Lomas Anahuac
+    city: Delegacion Huixquilucan
+    state_or_province: Mexico
+    country: Mexico
+id_list:
+  items:
+  - uid: '6591'
+    id_type: Cedula No.
+    id_number: '94428531'
+    id_country: Colombia
+  - uid: '6592'
+    id_type: Passport
+    id_number: '94428531'
+    id_country: Colombia
+  - uid: '6593'
+    id_type: C.U.R.P.
+    id_number: GOMJ750427HNENDM06
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '7916'
+    date_of_birth: 27 Apr 1975
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '7917'
+    place_of_birth: Cali, Valle del Cauca, Colombia
+    main_entry: 'true'

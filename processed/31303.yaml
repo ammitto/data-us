@@ -1,0 +1,39 @@
+---
+uid: '31303'
+first_name: Kirill Konstantinovich
+last_name: SHCHERBAKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+  - ELECTION-EO13848
+  - UKRAINE-EO13661
+address_list:
+  items:
+  - uid: '47384'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '21336'
+    id_type: Tax ID No.
+    id_number: '774302261730'
+    id_country: Russia
+  - uid: '144090'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '139826'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '39825'
+    date_of_birth: 18 May 1968
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '39998'
+    place_of_birth: Russia
+    main_entry: 'true'
+remarks: "(Linked To: OOO YUNIDZHET)"

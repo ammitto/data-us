@@ -1,0 +1,49 @@
+---
+uid: '11222'
+first_name: Hsein Tai
+last_name: TSAI
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+aka_list:
+  items:
+  - uid: '11633'
+    type: a.k.a.
+    category: strong
+    last_name: TSAI
+    first_name: ALEX H.T.
+address_list:
+  items:
+  - uid: '16368'
+    address1: C/O TRANS MERITS CO. LTD
+    city: Taipei
+    country: Taiwan
+  - uid: '16369'
+    address1: C/O GLOBAL INTERFACE COMPANY INC.
+    city: Taipei
+    country: Taiwan
+id_list:
+  items:
+  - uid: '5689'
+    id_type: Passport
+    id_number: '131134049'
+    id_country: Taiwan
+  - uid: '127685'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '134913'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+date_of_birth_list:
+  items:
+  - uid: '6566'
+    date_of_birth: '08 Aug 1945'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '6567'
+    place_of_birth: Tainan, Taiwan
+    main_entry: 'true'
+title: General Manager - GLOBAL INTERFACE COMPANY INC.

@@ -1,0 +1,43 @@
+---
+uid: '54789'
+first_name: Mohamed Rafeek
+last_name: HABIBULLAH HABIBULLAH
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '85281'
+    type: a.k.a.
+    category: strong
+    last_name: HABIBULLAH
+    first_name: Mohamed Rafeek
+address_list:
+  items:
+  - uid: '84113'
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '48929'
+    id_type: Identification Number
+    id_number: 784-1973-5037419-1
+    id_country: United Arab Emirates
+    issue_date: 16 Jan 2024
+    expiration_date: 15 Jan 2026
+  - uid: '48930'
+    id_type: Residency Number
+    id_number: '134297754'
+    id_country: United Arab Emirates
+  - uid: '48931'
+    id_type: Passport
+    id_number: Y9R071494
+    id_country: India
+  - uid: '191475'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '91752'
+    date_of_birth: 20 Feb 1973
+    main_entry: 'true'

@@ -1,0 +1,50 @@
+---
+uid: '50663'
+first_name: Sergey Sergeevich
+last_name: IVANOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79265'
+    type: a.k.a.
+    category: strong
+    last_name: OMELNITSKII
+    first_name: Sergey Sergeevich
+  - uid: '79266'
+    type: a.k.a.
+    category: weak
+    last_name: Taleon
+  - uid: '79267'
+    type: a.k.a.
+    category: weak
+    last_name: UAPS
+address_list:
+  items:
+  - uid: '76816'
+    city: St. Petersburg
+    country: Russia
+id_list:
+  items:
+  - uid: '42519'
+    id_type: Passport
+    id_number: '4015431802'
+    id_country: Russia
+  - uid: '179171'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '179295'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '79104'
+    date_of_birth: 02 Jun 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '79105'
+    place_of_birth: Russia
+    main_entry: 'true'

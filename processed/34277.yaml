@@ -1,0 +1,46 @@
+---
+uid: '34277'
+first_name: Mohamed Sherif Mohamed Mohamed
+last_name: AWADD
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '53731'
+    type: a.k.a.
+    category: strong
+    last_name: AWAAD
+    first_name: Muhammad Sharif Muhammad Muhammad
+  - uid: '53734'
+    type: a.k.a.
+    category: strong
+    last_name: AWAAD
+    first_name: Mohamedsherif Mohamed Mohamed
+address_list:
+  items:
+  - uid: '51406'
+    country: Brazil
+id_list:
+  items:
+  - uid: '23938'
+    id_type: Tax ID No.
+    id_number: 713.286.841-13
+    id_country: Brazil
+  - uid: '23939'
+    id_type: Passport
+    id_number: A17058452
+    id_country: Egypt
+  - uid: '145614'
+    id_type: Gender
+    id_number: Male
+  - uid: '187393'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '45611'
+    date_of_birth: '08 Jul 1973'
+    main_entry: 'true'

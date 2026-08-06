@@ -1,0 +1,44 @@
+---
+uid: '20561'
+first_name: Hasan
+last_name: JAMAL-AL-DIN
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '32479'
+    type: a.k.a.
+    category: strong
+    last_name: JAMALEDDINE
+    first_name: Hassan
+id_list:
+  items:
+  - uid: '12702'
+    id_type: Passport
+    id_number: RL2589786
+    id_country: Lebanon
+    expiration_date: 11 Feb 2019
+  - uid: '186561'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '121145'
+    id_type: Gender
+    id_number: Male
+  - uid: '121506'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
+      Sanctions Regulations
+date_of_birth_list:
+  items:
+  - uid: '21142'
+    date_of_birth: 11 May 1983
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '21141'
+    place_of_birth: Burj al-Burajne, Lebanon
+    main_entry: 'true'
+remarks: "(Linked To: HIZBALLAH; Linked To: TABAJA, Adham Husayn)"

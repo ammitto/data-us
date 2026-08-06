@@ -1,0 +1,28 @@
+---
+uid: '54322'
+last_name: V-SHIPPING PTE LTD
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+address_list:
+  items:
+  - uid: '82967'
+    address1: 'Paya Lehar Square, 60 Paya Lehar Road #11-53'
+    city: Singapore
+    postal_code: '409051'
+    country: Singapore
+id_list:
+  items:
+  - uid: '47900'
+    id_type: Tax ID No.
+    id_number: 201736800W
+    id_country: Singapore
+  - uid: '190107'
+    id_type: Organization Established Date
+    id_number: 22 Dec 2017
+  - uid: '190106'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: RAYAN ROSHD AFZAR COMPANY)"

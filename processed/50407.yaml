@@ -1,0 +1,38 @@
+---
+uid: '50407'
+last_name: LIMITED LIABILITY COMPANY TECHSTROYKOMPLEKS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78791'
+    type: a.k.a.
+    category: strong
+    last_name: TEKHSTROIKOMPLEKS
+  - uid: '78792'
+    type: a.k.a.
+    category: weak
+    last_name: LLC TSK
+address_list:
+  items:
+  - uid: '76423'
+    address1: Floor Tsokolnyi, D. 2, Proezd Akademicheskii
+    city: Dudareva
+    postal_code: '625063'
+    country: Russia
+id_list:
+  items:
+  - uid: '42187'
+    id_type: Registration Number
+    id_number: '1187232011504'
+    id_country: Russia
+  - uid: '42188'
+    id_type: Tax ID No.
+    id_number: '7203449108'
+    id_country: Russia
+  - uid: '178379'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: LIMITED LIABILITY COMPANY MEZHREGIONSTROY)"

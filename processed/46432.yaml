@@ -1,0 +1,34 @@
+---
+uid: '46432'
+last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU GAS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '71643'
+    type: a.k.a.
+    category: weak
+    last_name: OOO GAS
+address_list:
+  items:
+  - uid: '69056'
+    address1: PR-KT Novocherkasskii D.37
+    address2: Korp.1
+    city: Saint Petersburg
+    postal_code: '195112'
+    country: Russia
+id_list:
+  items:
+  - uid: '36297'
+    id_type: Registration Number
+    id_number: '1027804186673'
+    id_country: Russia
+  - uid: '36298'
+    id_type: Tax ID No.
+    id_number: '7806049300'
+    id_country: Russia
+  - uid: '174953'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,33 @@
+---
+uid: '44976'
+last_name: LLC CHELYABINSK TRACTOR PLANT URALTRAK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69617'
+    type: a.k.a.
+    category: strong
+    last_name: CHTZ URALTRAK
+address_list:
+  items:
+  - uid: '66932'
+    address1: 3 Lenin Ave, office 1
+    city: Chelyabinsk
+    postal_code: '454007'
+    country: Russia
+id_list:
+  items:
+  - uid: '34614'
+    id_type: Tax ID No.
+    id_number: '7452027843'
+    id_country: Russia
+  - uid: '34615'
+    id_type: Registration Number
+    id_number: '1027403766830'
+    id_country: Russia
+  - uid: '175860'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

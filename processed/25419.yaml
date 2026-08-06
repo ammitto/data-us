@@ -1,0 +1,100 @@
+---
+uid: '25419'
+last_name: MB BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - SDGT
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '39965'
+    type: a.k.a.
+    category: strong
+    last_name: BANK MELLI IRAN ZAO
+  - uid: '39966'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY MIR BUSINESS BANK
+  - uid: '39967'
+    type: a.k.a.
+    category: strong
+    last_name: JSC MB BANK
+  - uid: '39968'
+    type: a.k.a.
+    category: strong
+    last_name: MB BANK, AO
+  - uid: '39969'
+    type: a.k.a.
+    category: strong
+    last_name: MIR BUSINESS BANK
+  - uid: '39970'
+    type: a.k.a.
+    category: strong
+    last_name: MIR BIZNES BANK
+  - uid: '39971'
+    type: a.k.a.
+    category: strong
+    last_name: MIR BIZNES BANK, AO
+  - uid: '39972'
+    type: a.k.a.
+    category: strong
+    last_name: MIR BUSINESS BANK ZAO
+address_list:
+  items:
+  - uid: '38431'
+    address1: 9/1 ul Mashkova
+    city: Moscow
+    postal_code: '105062'
+    country: Russia
+  - uid: '39589'
+    country: Russia
+  - uid: '39590'
+    address1: 9/1 Mashkova St.
+    city: Moscow
+    postal_code: '105062'
+    country: Russia
+  - uid: '39593'
+    address1: 6a Lenin Square Bld. A
+    city: Astrakhan
+    postal_code: '414000'
+    country: Russia
+  - uid: '78894'
+    address1: Prechistenka Street, 36, Building 1
+    city: Moscow
+    postal_code: '119034'
+    country: Russia
+id_list:
+  items:
+  - uid: '44395'
+    id_type: Legal Entity Number
+    id_number: 253400XSDD336BT6BJ60
+  - uid: '44396'
+    id_type: Registration Number
+    id_number: '1027739669726'
+    id_country: Russia
+  - uid: '44397'
+    id_type: Tax ID No.
+    id_number: '7744002363'
+    id_country: Russia
+  - uid: '128998'
+    id_type: SWIFT/BIC
+    id_number: MRBBRUMM
+  - uid: '128997'
+    id_type: Website
+    id_number: www.mbbru.com
+  - uid: '128996'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '181976'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '181974'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '186795'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: "(Linked To: BANK MELLI IRAN; Linked To: GLOBAL VISION GROUP)"

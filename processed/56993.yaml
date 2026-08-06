@@ -1,0 +1,48 @@
+---
+uid: '56993'
+first_name: Marina Evgenyevna
+last_name: VASANOVICH
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER4
+  - CAATSA - RUSSIA
+aka_list:
+  items:
+  - uid: '88302'
+    type: a.k.a.
+    category: strong
+    last_name: VASANOVICH
+    first_name: Marina Yevgenyevna
+address_list:
+  items:
+  - uid: '87212'
+    country: Russia
+id_list:
+  items:
+  - uid: '51213'
+    id_type: Passport
+    id_number: '761424486'
+    id_country: Russia
+    expiration_date: 23 Aug 2029
+  - uid: '51214'
+    id_type: National ID No.
+    id_number: 40 23 685988
+    id_country: Russia
+  - uid: '196155'
+    id_type: Gender
+    id_number: Female
+  - uid: '196255'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+date_of_birth_list:
+  items:
+  - uid: '96154'
+    date_of_birth: 21 Nov 2003
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '96287'
+    place_of_birth: Novocherkassk, Rostovskaya Oblast, Russia
+    main_entry: 'true'
+remarks: "(Linked To: ZELENYUK, Sergey Sergeyevich)"

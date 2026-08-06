@@ -1,0 +1,70 @@
+---
+uid: '20720'
+first_name: Muhammad Ghaleb
+last_name: HAMDAR
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '32738'
+    type: a.k.a.
+    category: strong
+    last_name: HAMDAR
+    first_name: Mohammed Galeb
+  - uid: '32739'
+    type: a.k.a.
+    category: strong
+    last_name: HAMDAR
+    first_name: Mouhamad Ghaleb
+  - uid: '32740'
+    type: a.k.a.
+    category: strong
+    last_name: HAMDAR
+    first_name: Muamad Ghaleb
+  - uid: '32741'
+    type: a.k.a.
+    category: strong
+    last_name: AMADAR
+    first_name: Mohammed
+  - uid: '32742'
+    type: a.k.a.
+    category: strong
+    last_name: AMADAR
+    first_name: Muamad
+id_list:
+  items:
+  - uid: '12847'
+    id_type: Passport
+    id_number: E0063360
+    id_country: Sierra Leone
+  - uid: '12848'
+    id_type: Passport
+    id_number: RL-1108616
+    id_country: Lebanon
+  - uid: '121503'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
+      Sanctions Regulations
+  - uid: '186565'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '121344'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '21341'
+    date_of_birth: 01 Aug 1986
+    main_entry: 'true'
+  - uid: '21342'
+    date_of_birth: 01 Jan 1986
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '21343'
+    place_of_birth: Lebanon
+    main_entry: 'true'
+remarks: "(Linked To: HIZBALLAH)"

@@ -1,0 +1,36 @@
+---
+uid: '57157'
+first_name: Amir
+last_name: HOSSEINI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '87541'
+    state_or_province: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '51392'
+    id_type: National ID No.
+    id_number: '0049772619'
+    id_country: Iran
+  - uid: '196828'
+    id_type: Gender
+    id_number: Male
+  - uid: '197490'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '96826'
+    date_of_birth: 10 Jul 1963
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '96827'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: RAHBAR TEJARI SETAREH TABAN KISH COMPANY)"

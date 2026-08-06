@@ -1,0 +1,37 @@
+---
+uid: '48653'
+last_name: IVK JOINT STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75668'
+    type: a.k.a.
+    category: strong
+    last_name: IVK JSC
+  - uid: '75669'
+    type: a.k.a.
+    category: strong
+    last_name: AO IVK
+address_list:
+  items:
+  - uid: '73072'
+    address1: Ul. Butyrskaya D. 75
+    city: Moscow
+    postal_code: '127015'
+    country: Russia
+id_list:
+  items:
+  - uid: '39642'
+    id_type: Registration Number
+    id_number: '1027700115453'
+    id_country: Russia
+  - uid: '39643'
+    id_type: Tax ID No.
+    id_number: '7702157005'
+    id_country: Russia
+  - uid: '171319'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

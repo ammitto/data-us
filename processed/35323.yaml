@@ -1,0 +1,41 @@
+---
+uid: '35323'
+first_name: Maria Igorevna
+last_name: SHUVALOVA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '55593'
+    type: a.k.a.
+    category: strong
+    last_name: SHUVALOVA
+    first_name: Marija Igorevna
+address_list:
+  items:
+  - uid: '53113'
+    country: Russia
+id_list:
+  items:
+  - uid: '25032'
+    id_type: Tax ID No.
+    id_number: '773612613436'
+    id_country: Russia
+  - uid: '25033'
+    id_type: Passport
+    id_number: '514735868'
+    id_country: Russia
+  - uid: '176714'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '147606'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '47605'
+    date_of_birth: 04 Aug 1998
+    main_entry: 'true'
+remarks: "(Linked To: SHUVALOV, Igor Ivanovich)"

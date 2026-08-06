@@ -1,0 +1,43 @@
+---
+uid: '45353'
+last_name: ABS ELECTROTEKHNIKA LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70144'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY ABS ELECTROTECHNICS
+  - uid: '70145'
+    type: f.k.a.
+    category: strong
+    last_name: VOLZHSKI ELEKTROSHCHIT LLC
+address_list:
+  items:
+  - uid: '67464'
+    address1: Prospekt I.Ya.Yakovleva d. 1
+    city: Cheboksary
+    postal_code: '428020'
+    country: Russia
+id_list:
+  items:
+  - uid: '35070'
+    id_type: Registration Number
+    id_number: '1032127016107'
+    id_country: Russia
+  - uid: '35072'
+    id_type: Tax ID No.
+    id_number: '2127328438'
+    id_country: Russia
+  - uid: '35075'
+    id_type: Government Gazette Number
+    id_number: '71015494'
+    id_country: Russia
+  - uid: '175968'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: JOINT STOCK COMPANY ALL-RUSSIAN SCIENTIFIC RESEARCH DESIGN AND
+  TECHNOLOGICAL INSTITUTE OF RELAY ENGINEERING WITH EXPERIMENTAL PRODUCTION)"

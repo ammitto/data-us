@@ -1,0 +1,41 @@
+---
+uid: '35891'
+last_name: JOINT STOCK COMPANY NATIONAL HELICOPTER CENTER MIL AND KAMOV
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56432'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY NATIONAL HELICOPTER CENTER MIL & KAMOV
+  - uid: '56433'
+    type: f.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY MIL MOSCOW HELICOPTER PLANT
+address_list:
+  items:
+  - uid: '53865'
+    address1: 1, Bolshaya Pionerskaya
+    city: Moscow
+    postal_code: '115054'
+    country: Russia
+id_list:
+  items:
+  - uid: '25237'
+    id_type: Registration Number
+    id_number: '1027739032969'
+    id_country: Russia
+  - uid: '25238'
+    id_type: Tax ID No.
+    id_number: '7718016666'
+    id_country: Russia
+  - uid: '149084'
+    id_type: Organization Established Date
+    id_number: '1947'
+  - uid: '173286'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: VERTOLETY ROSSII AO)"

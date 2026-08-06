@@ -1,0 +1,33 @@
+---
+uid: '49279'
+last_name: LIMITED LIABILITY COMPANY PRIME RADAR TECHNOLOGY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76852'
+    type: a.k.a.
+    category: weak
+    last_name: LLC PRT
+address_list:
+  items:
+  - uid: '74230'
+    address1: PR-D 2-I Zapadnyi D. 1, Str. 1
+    city: Zelenograd
+    postal_code: '124460'
+    country: Russia
+id_list:
+  items:
+  - uid: '40497'
+    id_type: Registration Number
+    id_number: '1247700269013'
+    id_country: Russia
+  - uid: '40498'
+    id_type: Tax ID No.
+    id_number: '7735207283'
+    id_country: Russia
+  - uid: '172284'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

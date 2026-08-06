@@ -1,0 +1,36 @@
+---
+uid: '47722'
+first_name: Aleksandr Viacheslavovich
+last_name: SYCHUGOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73981'
+    type: a.k.a.
+    category: strong
+    last_name: SYCHUGOV
+    first_name: Aleksandr Vyacheslavovich
+address_list:
+  items:
+  - uid: '71360'
+    country: Russia
+id_list:
+  items:
+  - uid: '38369'
+    id_type: Tax ID No.
+    id_number: '330501738533'
+    id_country: Russia
+  - uid: '169222'
+    id_type: Gender
+    id_number: Male
+  - uid: '169648'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '69221'
+    date_of_birth: 29 Sep 1962
+    main_entry: 'true'

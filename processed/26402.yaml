@@ -1,0 +1,53 @@
+---
+uid: '26402'
+first_name: Sergio David
+last_name: FERRARI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '41714'
+    type: a.k.a.
+    category: weak
+    last_name: Yagy
+address_list:
+  items:
+  - uid: '40137'
+    address1: Chivilcoy 3157 Piso 2 Depto D
+    city: Buenos Aires
+    postal_code: '1417'
+    country: Argentina
+  - uid: '40138'
+    city: Buenos Aires
+    country: Argentina
+id_list:
+  items:
+  - uid: '17133'
+    id_type: Passport
+    id_number: AAA760416
+    id_country: Argentina
+  - uid: '17134'
+    id_type: D.N.I.
+    id_number: '20010866'
+    id_country: Argentina
+  - uid: '17135'
+    id_type: C.U.I.T.
+    id_number: '20200108664'
+    id_country: Argentina
+  - uid: '130974'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '30972'
+    date_of_birth: 10 Feb 1968
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '30973'
+    place_of_birth: Buenos Aires, Argentina
+    main_entry: 'true'
+remarks: "(Linked To: SMILE TECHNOLOGIES S.A.; Linked To: SMILE PROPERTY & TRAVEL
+  LTD; Linked To: SMILEWALLET S.A.S.; Linked To: SMILE TECHNOLOGIES CANADA LTD)"

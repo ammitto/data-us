@@ -1,0 +1,50 @@
+---
+uid: '37845'
+first_name: Tatiana Borisovna
+last_name: KIRYANOVA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59472'
+    type: f.k.a.
+    category: strong
+    last_name: GORLACH
+    first_name: Tatyana Borisovna
+  - uid: '59473'
+    type: f.k.a.
+    category: strong
+    last_name: EGEREVA
+    first_name: Tatyana Borisovna
+address_list:
+  items:
+  - uid: '56707'
+    address1: Str. Profsoyuznaya 136-1-200
+    city: Moscow
+    postal_code: '117321'
+    country: Russia
+id_list:
+  items:
+  - uid: '27142'
+    id_type: Passport
+    id_number: '714842540'
+    id_country: Russia
+  - uid: '174593'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '152989'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '52985'
+    date_of_birth: 20 Apr 1966
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '52988'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'
+remarks: "(Linked To: KIRYANOV, Victor Nikolayevich)"

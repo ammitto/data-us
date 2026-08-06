@@ -1,0 +1,56 @@
+---
+uid: '33985'
+first_name: Euclides
+last_name: ESPANA CAICEDO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '53280'
+    type: a.k.a.
+    category: strong
+    last_name: HENAO MUNOZ
+    first_name: Jhon Fredey
+  - uid: '53281'
+    type: a.k.a.
+    category: weak
+    last_name: JHONIER
+  - uid: '53282'
+    type: a.k.a.
+    category: weak
+    last_name: JONIER
+  - uid: '53283'
+    type: a.k.a.
+    category: weak
+    last_name: JONNIER
+address_list:
+  items:
+  - uid: '50943'
+    state_or_province: Cauca Department
+    country: Colombia
+id_list:
+  items:
+  - uid: '23645'
+    id_type: Cedula No.
+    id_number: '17674103'
+    id_country: Colombia
+  - uid: '188788'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '145046'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '45047'
+    date_of_birth: 29 Dec 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '45048'
+    place_of_birth: Albania, Caqueta Department, Colombia
+    main_entry: 'true'
+remarks: "(Linked To: REVOLUTIONARY ARMED FORCES OF COLOMBIA - PEOPLE'S ARMY)"

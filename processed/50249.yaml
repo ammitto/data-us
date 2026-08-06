@@ -1,0 +1,36 @@
+---
+uid: '50249'
+last_name: FEDERALNOE KAZENNOE PREDPRIIATIE AVANGARD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78458'
+    type: a.k.a.
+    category: strong
+    last_name: FKP AVANGARD
+address_list:
+  items:
+  - uid: '76082'
+    address1: Ul. Olega Koshevogo D.2
+    city: Sterlitamak
+    postal_code: '453102'
+    country: Russia
+id_list:
+  items:
+  - uid: '41915'
+    id_type: Registration Number
+    id_number: '1020202089115'
+    id_country: Russia
+  - uid: '41916'
+    id_type: Tax ID No.
+    id_number: '0268005588'
+    id_country: Russia
+  - uid: '177911'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
+  - uid: '178007'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

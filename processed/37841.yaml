@@ -1,0 +1,44 @@
+---
+uid: '37841'
+first_name: Victor Nikolayevich
+last_name: KIRYANOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59465'
+    type: a.k.a.
+    category: strong
+    last_name: KIRYANOV
+    first_name: Viktor Nikolaevich
+address_list:
+  items:
+  - uid: '56699'
+    address1: Palme Ulofa 7-24
+    city: Moscow
+    postal_code: '119049'
+    country: Russia
+id_list:
+  items:
+  - uid: '27138'
+    id_type: Passport
+    id_number: '120011801'
+    id_country: Russia
+  - uid: '152968'
+    id_type: Gender
+    id_number: Male
+  - uid: '174589'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '52967'
+    date_of_birth: 29 Dec 1952
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '52969'
+    place_of_birth: Tikhvin, Leningrad Oblast, Russia
+    main_entry: 'true'

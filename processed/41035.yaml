@@ -1,0 +1,26 @@
+---
+uid: '41035'
+last_name: SPARTA BATTALION
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63977'
+    type: a.k.a.
+    category: weak
+    last_name: DPR SPARTA
+address_list:
+  items:
+  - uid: '61314'
+    state_or_province: Donetsk Region
+    country: Ukraine
+id_list:
+  items:
+  - uid: '173568'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '158830'
+    id_type: Organization Established Date
+    id_number: '2014'

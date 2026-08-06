@@ -1,0 +1,42 @@
+---
+uid: '37769'
+last_name: LIMITED LIABILITY COMPANY PFMK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '56516'
+    address1: d. 1, ul. Kooperativnaya
+    address2: Zelenodolsk
+    city: Zelenodolski Raion
+    state_or_province: Tatarstan Resp.
+    postal_code: '422541'
+    country: Russia
+  - uid: '56517'
+    address1: Ul. Privokzalnaya D. 5
+    city: Zelenodolsk
+    postal_code: '422546'
+    country: Russia
+id_list:
+  items:
+  - uid: '27029'
+    id_type: Tax ID No.
+    id_number: '1648023497'
+    id_country: Russia
+  - uid: '27030'
+    id_type: Registration Number
+    id_number: '1081673000650'
+    id_country: Russia
+  - uid: '27031'
+    id_type: Government Gazette Number
+    id_number: '83465274'
+    id_country: Russia
+  - uid: '152751'
+    id_type: Organization Established Date
+    id_number: 26 Feb 2008
+  - uid: '173501'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: KOGOGIN, Sergei Anatolyevich)"

@@ -1,0 +1,67 @@
+---
+uid: '26194'
+first_name: Victor Alekseyevich
+last_name: BOYARKIN
+sdn_type: Individual
+program_list:
+  programs:
+  - UKRAINE-EO13661
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '41308'
+    type: a.k.a.
+    category: strong
+    last_name: BOYARKIN
+    first_name: Viktor
+  - uid: '41309'
+    type: a.k.a.
+    category: strong
+    last_name: BOYARKIN
+    first_name: Victor
+  - uid: '41310'
+    type: a.k.a.
+    category: strong
+    last_name: BOYARKIN
+    first_name: Victor Alekseevich
+  - uid: '41311'
+    type: a.k.a.
+    category: strong
+    last_name: BOYARKIN
+    first_name: V.A.
+address_list:
+  items:
+  - uid: '39722'
+    address1: "#189, 20, BLD1, Generala Beloborodova"
+    city: Moscow
+    state_or_province: Federal District
+    postal_code: '125222'
+    country: Russia
+id_list:
+  items:
+  - uid: '16874'
+    id_type: Passport
+    id_number: '200042334'
+    id_country: Russia
+  - uid: '16875'
+    id_type: Passport
+    id_number: '642348547'
+    id_country: Russia
+  - uid: '143988'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '130640'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '30641'
+    date_of_birth: 12 Oct 1958
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '30643'
+    place_of_birth: Meschovsk, Russia
+    main_entry: 'true'
+remarks: "(Linked To: DERIPASKA, Oleg Vladimirovich)"

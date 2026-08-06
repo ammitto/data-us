@@ -1,0 +1,35 @@
+---
+uid: '46788'
+first_name: Ruslan Aleksandrovich
+last_name: PERETYATKO
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+address_list:
+  items:
+  - uid: '69726'
+    city: Syktyvkar
+    state_or_province: Komi Republic
+    country: Russia
+id_list:
+  items:
+  - uid: '36869'
+    id_type: Passport
+    id_number: '8705080546'
+    id_country: Russia
+  - uid: '36870'
+    id_type: Tax ID No.
+    id_number: '111601632100'
+    id_country: Russia
+  - uid: '167833'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+  - uid: '167577'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '67575'
+    date_of_birth: 03 Aug 1985
+    main_entry: 'true'

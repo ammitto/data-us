@@ -1,0 +1,35 @@
+---
+uid: '40838'
+first_name: Mary Cruz
+last_name: RODRIGUEZ AGUIRRE
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '60892'
+    address1: Calle Paseo de los Artistas 1196
+    address2: Colonia Colinas de la Normal
+    city: Guadalajara
+    state_or_province: Jalisco
+    country: Mexico
+id_list:
+  items:
+  - uid: '30064'
+    id_type: C.U.R.P.
+    id_number: ROAM740503MVZDGR00
+    id_country: Mexico
+  - uid: '158377'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '58374'
+    date_of_birth: 03 May 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '58375'
+    place_of_birth: Veracruz, Mexico
+    main_entry: 'true'

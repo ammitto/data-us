@@ -1,0 +1,46 @@
+---
+uid: '50889'
+last_name: JSC MODELING AND DIGITAL DOUBLES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79702'
+    type: a.k.a.
+    category: strong
+    last_name: SIMULATION & DIGITAL TWIN
+  - uid: '79703'
+    type: a.k.a.
+    category: strong
+    last_name: SIMULATION AND DIGITAL TWIN
+  - uid: '79704'
+    type: a.k.a.
+    category: strong
+    last_name: JSC MTSD
+address_list:
+  items:
+  - uid: '77268'
+    address1: Ul. Suzdalskaya D.46, Office 203
+    city: Moscow
+    postal_code: '111672'
+    country: Russia
+  - uid: '77269'
+    address1: Ul. Viktorenko D. 5, Str. 1, Floor 11, Pomeshch. 11.01
+    city: Moscow
+    postal_code: '125167'
+    country: Russia
+id_list:
+  items:
+  - uid: '42867'
+    id_type: Registration Number
+    id_number: '1097746511334'
+    id_country: Russia
+  - uid: '42868'
+    id_type: Tax ID No.
+    id_number: '7720666171'
+    id_country: Russia
+  - uid: '179667'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

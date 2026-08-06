@@ -1,0 +1,65 @@
+---
+uid: '30822'
+last_name: KVT-RUS
+sdn_type: Entity
+program_list:
+  programs:
+  - CAATSA - RUSSIA
+  - PEESA-EO14039
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '48448'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY KVT-RUS
+  - uid: '48449'
+    type: a.k.a.
+    category: strong
+    last_name: KVT-RUS, OOO
+  - uid: '48450'
+    type: a.k.a.
+    category: strong
+    last_name: KBT-RUS
+  - uid: '48987'
+    type: a.k.a.
+    category: strong
+    last_name: KVT-RUS LLC
+address_list:
+  items:
+  - uid: '46603'
+    address1: 6,2 Pudovkina St.
+    city: Moscow
+    postal_code: '119285'
+    country: Russia
+id_list:
+  items:
+  - uid: '20867'
+    id_type: Business Registration Number
+    id_number: '1117746121899'
+    id_country: Russia
+  - uid: '20868'
+    id_type: Tax ID No.
+    id_number: '7729675572'
+    id_country: Russia
+  - uid: '45107'
+    id_type: Identification Number
+    id_number: IMO 6202271
+  - uid: '183133'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '139197'
+    id_type: 'CAATSA Section 235 Information:'
+    id_number: EXPORT SANCTIONS Sec. 235(a)(2)
+  - uid: '139198'
+    id_type: 'CAATSA Section 235 Information:'
+    id_number: FOREIGN EXCHANGE. Sec 235(a)(7)
+  - uid: '139199'
+    id_type: 'CAATSA Section 235 Information:'
+    id_number: BANKING TRANSACTIONS. Sec 235(a)(8)
+  - uid: '139200'
+    id_type: 'CAATSA Section 235 Information:'
+    id_number: BLOCKING PROPERTY AND INTERESTS IN PROPERTY. Sec 235(a)(9)
+  - uid: '139201'
+    id_type: 'CAATSA Section 235 Information:'
+    id_number: BAN ON INVESTMENT IN EQUITY OR DEBT OF SANCTIONED PERSON. Sec 235(a)(10)

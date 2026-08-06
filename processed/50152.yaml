@@ -1,0 +1,43 @@
+---
+uid: '50152'
+first_name: Hossein
+last_name: POURFARZANEH
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78208'
+    type: a.k.a.
+    category: strong
+    last_name: PURFARZANEH
+    first_name: Hossein
+  - uid: '78209'
+    type: a.k.a.
+    category: strong
+    last_name: POUR FARZANEH
+    first_name: Hossein
+address_list:
+  items:
+  - uid: '75898'
+    country: Iran
+id_list:
+  items:
+  - uid: '41760'
+    id_type: Passport
+    id_number: M33177864
+    id_country: Iran
+    expiration_date: '09 Feb 2020'
+  - uid: '179074'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '177719'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '77718'
+    date_of_birth: 12 Feb 1973
+    main_entry: 'true'
+remarks: "(Linked To: FARZANEGAN PROPULSION SYSTEMS DESIGN BUREAU)"

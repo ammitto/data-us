@@ -1,0 +1,31 @@
+---
+uid: '51272'
+first_name: America Valentina
+last_name: PEREZ DAVILA
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+address_list:
+  items:
+  - uid: '78132'
+    country: Venezuela
+id_list:
+  items:
+  - uid: '43576'
+    id_type: Cedula No.
+    id_number: V20901866
+    id_country: Venezuela
+  - uid: '180939'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '80926'
+    date_of_birth: 27 Nov 1993
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '80928'
+    place_of_birth: Venezuela
+    main_entry: 'true'

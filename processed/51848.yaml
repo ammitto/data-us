@@ -1,0 +1,38 @@
+---
+uid: '51848'
+last_name: AKTSIONERNOE OBSHCHESTVO TSENTR EKSPLUATATSIONNYKH USLUG
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '81182'
+    type: a.k.a.
+    category: weak
+    last_name: OPERATIONAL SERVICES CENTRE
+address_list:
+  items:
+  - uid: '79020'
+    address1: Bulv Chistoprudnyi D 12, Korp 2
+    city: Moscow
+    postal_code: '101000'
+    country: Russia
+id_list:
+  items:
+  - uid: '44555'
+    id_type: Registration Number
+    id_number: '1217700541850'
+    id_country: Russia
+  - uid: '44556'
+    id_type: Tax ID No.
+    id_number: '9722010773'
+    id_country: Russia
+  - uid: '182224'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183242'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

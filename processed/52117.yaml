@@ -1,0 +1,46 @@
+---
+uid: '52117'
+first_name: Jong Chon
+last_name: PAK
+sdn_type: Individual
+program_list:
+  programs:
+  - DPRK2
+aka_list:
+  items:
+  - uid: '81619'
+    type: a.k.a.
+    category: strong
+    last_name: PAK
+    first_name: Jeong Cheon
+  - uid: '81620'
+    type: a.k.a.
+    category: strong
+    last_name: PARK
+    first_name: Chong Chon
+  - uid: '81621'
+    type: a.k.a.
+    category: strong
+    last_name: PARK
+    first_name: Jeong Cheon
+address_list:
+  items:
+  - uid: '79532'
+    country: Korea, North
+id_list:
+  items:
+  - uid: '183005'
+    id_type: Gender
+    id_number: Male
+  - uid: '183710'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '183709'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+date_of_birth_list:
+  items:
+  - uid: '83003'
+    date_of_birth: 18 Sep 1954
+    main_entry: 'true'

@@ -1,0 +1,38 @@
+---
+uid: '48542'
+last_name: LIMITED LIABILITY COMPANY CONFERUM
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75443'
+    type: a.k.a.
+    category: strong
+    last_name: KONFERUM
+address_list:
+  items:
+  - uid: '72867'
+    address1: Ul. Betonnaya D. 13A, Pomeshch. I/Floor 2
+    city: Staraya Kupavna
+    postal_code: '142450'
+    country: Russia
+  - uid: '72868'
+    address1: Shchelkovskoe shosse, 54B, Balashikha
+    city: Moscow
+    postal_code: '143900'
+    country: Russia
+id_list:
+  items:
+  - uid: '39488'
+    id_type: Registration Number
+    id_number: '1105001002370'
+    id_country: Russia
+  - uid: '39489'
+    id_type: Tax ID No.
+    id_number: '5001077887'
+    id_country: Russia
+  - uid: '171209'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

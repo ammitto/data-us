@@ -1,0 +1,46 @@
+---
+uid: '51870'
+first_name: Yusuf Vagitovich
+last_name: ALEKPEROV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '81212'
+    type: a.k.a.
+    category: strong
+    last_name: ALEKPEROV
+    first_name: Iussuf
+address_list:
+  items:
+  - uid: '79407'
+    country: Russia
+id_list:
+  items:
+  - uid: '44580'
+    id_type: Tax ID No.
+    id_number: '770300105897'
+    id_country: Russia
+  - uid: '182281'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183441'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '182286'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '82283'
+    date_of_birth: 20 Jun 1990
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '82285'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'

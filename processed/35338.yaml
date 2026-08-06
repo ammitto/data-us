@@ -1,0 +1,72 @@
+---
+uid: '35338'
+last_name: ODK-SATURN PUBLIC JOINT-STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '55636'
+    type: a.k.a.
+    category: strong
+    last_name: UEC-SATURN
+  - uid: '55683'
+    type: a.k.a.
+    category: strong
+    last_name: PJSC UEC-SATURN
+  - uid: '55684'
+    type: a.k.a.
+    category: strong
+    last_name: ODK-SATURN PAO
+  - uid: '71235'
+    type: a.k.a.
+    category: weak
+    last_name: SATURN NGO
+  - uid: '71236'
+    type: a.k.a.
+    category: strong
+    last_name: NPO SATURN JSC
+address_list:
+  items:
+  - uid: '53161'
+    address1: 163 Lenin Ave.
+    city: Rybinsk
+    state_or_province: Yaroslavl Region
+    postal_code: '152903'
+    country: Russia
+  - uid: '53162'
+    address1: 13 Kasatkin St.
+    city: Moscow
+    postal_code: '129301'
+    country: Russia
+  - uid: '53163'
+    address1: 4 A Novoroshchinskaya St.
+    city: St. Petersburg
+    postal_code: '196084'
+    country: Russia
+  - uid: '53165'
+    address1: 140 Kuybyshev St., 3rd Floor
+    city: Perm
+    country: Russia
+  - uid: '53167'
+    address1: 3 Okruzhnaya Doroga St.
+    city: Omsk
+    postal_code: '644076'
+    country: Russia
+id_list:
+  items:
+  - uid: '25061'
+    id_type: Tax ID No.
+    id_number: '7610052644'
+    id_country: Russia
+  - uid: '35995'
+    id_type: Registration Number
+    id_number: '1027601106169'
+    id_country: Russia
+  - uid: '147631'
+    id_type: Website
+    id_number: www.uec-saturn.ru
+  - uid: '176728'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

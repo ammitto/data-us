@@ -1,0 +1,41 @@
+---
+uid: '33351'
+first_name: Reinaldo Gregorio Lenin
+last_name: CERNA JUAREZ
+sdn_type: Individual
+program_list:
+  programs:
+  - NICARAGUA
+aka_list:
+  items:
+  - uid: '52463'
+    type: a.k.a.
+    category: strong
+    last_name: CERNA JUAREZ
+    first_name: Lenin
+address_list:
+  items:
+  - uid: '58874'
+    country: Nicaragua
+id_list:
+  items:
+  - uid: '23036'
+    id_type: Passport
+    id_number: A005297
+    id_country: Nicaragua
+  - uid: '143314'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '43315'
+    date_of_birth: 29 Sep 1947
+    main_entry: 'true'
+  - uid: '43394'
+    date_of_birth: 29 Sep 1946
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '55643'
+    place_of_birth: Nicaragua
+    main_entry: 'true'

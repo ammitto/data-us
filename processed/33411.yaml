@@ -1,0 +1,56 @@
+---
+uid: '33411'
+last_name: AGAT ELECTROMECHANICAL PLANT OJSC
+sdn_type: Entity
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '52577'
+    type: a.k.a.
+    category: strong
+    last_name: AGAT-ELEKTROMEKHANICHESKI ZAVOD, OAO
+  - uid: '52578'
+    type: a.k.a.
+    category: strong
+    last_name: AGAT - ELECTROMECHANICAL PLANT JSC
+  - uid: '52579'
+    type: a.k.a.
+    category: strong
+    last_name: AGAT-ELECTROMECHANICAL PLANT
+  - uid: '52580'
+    type: a.k.a.
+    category: strong
+    last_name: JSC AGAT - ELECTROMECHANICAL PLANT
+address_list:
+  items:
+  - uid: '50184'
+    address1: '117'
+    address2: bld. 3
+    address3: Nezavisimosti Ave.
+    city: Minsk
+    postal_code: '220114'
+    country: Belarus
+  - uid: '50185'
+    address1: Nezavisimosti ave. 115
+    city: Minsk
+    postal_code: '220114'
+    country: Belarus
+  - uid: '50186'
+    address1: 6 Volgogradskaya St.
+    city: Minsk
+    postal_code: '220012'
+    country: Belarus
+id_list:
+  items:
+  - uid: '23075'
+    id_type: Registration Number
+    id_number: '100093400'
+    id_country: Belarus
+  - uid: '144161'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
+  - uid: '144162'
+    id_type: Organization Established Date
+    id_number: 23 Feb 1993

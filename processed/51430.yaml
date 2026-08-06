@@ -1,0 +1,36 @@
+---
+uid: '51430'
+last_name: SPETSIALIZIROVANNYI DEPOZITARII DEPO PLAZA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80645'
+    type: a.k.a.
+    category: strong
+    last_name: SD DEPO PLAZA
+address_list:
+  items:
+  - uid: '78337'
+    address1: Ul. 2-YA Magistralnaya D. 8A, Str. 1, Kabinet 4, Tekhnicheskii Floor
+    city: Moscow
+    postal_code: '123290'
+    country: Russia
+id_list:
+  items:
+  - uid: '43751'
+    id_type: Registration Number
+    id_number: '1057748104996'
+    id_country: Russia
+  - uid: '43752'
+    id_type: Tax ID No.
+    id_number: '7731530091'
+    id_country: Russia
+  - uid: '180944'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '182814'
+    id_type: Target Type
+    id_number: Financial Institution

@@ -1,0 +1,35 @@
+---
+uid: '45052'
+first_name: Payam
+last_name: TIRANDAZ
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+address_list:
+  items:
+  - uid: '67095'
+    country: Iran
+id_list:
+  items:
+  - uid: '34765'
+    id_type: National ID No.
+    id_number: '3255338395'
+    id_country: Iran
+  - uid: '165514'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '165408'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '65406'
+    date_of_birth: Mar 1980 to Mar 1981
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '65407'
+    place_of_birth: Kermanshah, Iran
+    main_entry: 'true'
+remarks: "(Linked To: FARS NEWS AGENCY)"

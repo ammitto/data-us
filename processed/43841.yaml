@@ -1,0 +1,35 @@
+---
+uid: '43841'
+first_name: Eliseo
+last_name: DE LEON BECERRA
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '65283'
+    address1: Calle 16 de Septiembre 109, Int. 5
+    address2: San Jeronimo Chicahualco
+    city: Metepec
+    state_or_province: Estado de Mexico
+    country: Mexico
+id_list:
+  items:
+  - uid: '33241'
+    id_type: C.U.R.P.
+    id_number: LEBE891104HMCNCL02
+    id_country: Mexico
+  - uid: '163410'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '63408'
+    date_of_birth: 04 Nov 1989
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '63409'
+    place_of_birth: Toluca, Mexico
+    main_entry: 'true'

@@ -1,0 +1,31 @@
+---
+uid: '51411'
+first_name: Camilo Esteban
+last_name: BETANCOURT ROSERO
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '78298'
+    country: Colombia
+id_list:
+  items:
+  - uid: '43733'
+    id_type: Cedula No.
+    id_number: '1126864728'
+    id_country: Colombia
+  - uid: '180894'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '80896'
+    date_of_birth: 28 Nov 1990
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '80897'
+    place_of_birth: Tumaco, Colombia
+    main_entry: 'true'

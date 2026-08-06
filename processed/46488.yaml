@@ -1,0 +1,37 @@
+---
+uid: '46488'
+first_name: Juan Pablo
+last_name: BASTIDAS ERENAS
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '71760'
+    type: a.k.a.
+    category: weak
+    last_name: PAYO
+address_list:
+  items:
+  - uid: '69160'
+    country: Mexico
+id_list:
+  items:
+  - uid: '36416'
+    id_type: C.U.R.P.
+    id_number: BAEJ800311HSLSRN16
+    id_country: Mexico
+  - uid: '167331'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '67328'
+    date_of_birth: 11 Mar 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '67329'
+    place_of_birth: Sinaloa, Mexico
+    main_entry: 'true'

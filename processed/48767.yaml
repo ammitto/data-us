@@ -1,0 +1,52 @@
+---
+uid: '48767'
+first_name: Andrei Viktorovich
+last_name: GAVRYUCHENKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75912'
+    type: a.k.a.
+    category: strong
+    last_name: GAVRYUCHENKOV
+    first_name: Andrey Viktorovich
+  - uid: '75913'
+    type: a.k.a.
+    category: strong
+    last_name: GAVRJUCHENKOV
+    first_name: Andrej Viktorovich
+address_list:
+  items:
+  - uid: '73320'
+    country: Russia
+id_list:
+  items:
+  - uid: '39818'
+    id_type: National ID No.
+    id_number: '46357814'
+    id_country: Russia
+  - uid: '39819'
+    id_type: Tax ID No.
+    id_number: '500111196730'
+    id_country: Russia
+  - uid: '171400'
+    id_type: Gender
+    id_number: Male
+  - uid: '171707'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '71396'
+    date_of_birth: 23 Oct 1960
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '71397'
+    place_of_birth: Tulun, Russia
+    main_entry: 'true'
+remarks: "(Linked To: AKTSIONERNOE OBSHCHESTVO RAU FARM)"

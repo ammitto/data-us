@@ -1,0 +1,41 @@
+---
+uid: '43104'
+last_name: FORT KONSALTING LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '66790'
+    type: a.k.a.
+    category: strong
+    last_name: FORT CONSULTING OOO
+address_list:
+  items:
+  - uid: '64308'
+    address1: d. 47A etazh / pom. 2/1, ul. Chernyshevskogo
+    city: Almetevsk
+    postal_code: '423465'
+    country: Russia
+id_list:
+  items:
+  - uid: '32679'
+    id_type: Registration Number
+    id_number: '1031616038387'
+    id_country: Russia
+  - uid: '32680'
+    id_type: Tax ID No.
+    id_number: '1650104263'
+    id_country: Russia
+  - uid: '32681'
+    id_type: Government Gazette Number
+    id_number: '14893929'
+    id_country: Russia
+  - uid: '175526'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '162084'
+    id_type: Organization Established Date
+    id_number: '2003'
+remarks: "(Linked To: TAGRAS BIZNESSERVIS LIMITED LIABILITY COMPANY)"

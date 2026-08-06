@@ -1,0 +1,39 @@
+---
+uid: '40328'
+last_name: P.P. SHIRSHOV INSTITUTE OF OCEANOLOGY OF THE RUSSIAN ACADEMY OF SCIENCES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '62721'
+    type: a.k.a.
+    category: weak
+    last_name: IO RAS
+  - uid: '62722'
+    type: a.k.a.
+    category: strong
+    last_name: FEDERALNOYE GOSUDARSTVENNOYE BYUDZHETNOYE UCHREZHDENIYE NAUKI INSTITUT
+      OKEANOLOGII IM. P.P. SHIRSHOVA ROSSIYSKOY AKADEMII NAUK
+address_list:
+  items:
+  - uid: '60111'
+    address1: 36 Nakhimovsky Avenue
+    city: Moscow
+    postal_code: '117997'
+    country: Russia
+id_list:
+  items:
+  - uid: '29515'
+    id_type: Tax ID No.
+    id_number: '7727083115'
+    id_country: Russia
+  - uid: '29516'
+    id_type: Registration Number
+    id_number: '1037739013388'
+    id_country: Russia
+    issue_date: '1946'
+  - uid: '174087'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

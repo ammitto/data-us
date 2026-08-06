@@ -1,0 +1,45 @@
+---
+uid: '49316'
+last_name: AKTSIONERNOE OBSHCHESTVO KONTSERN RADIOSTROENIYA VEGA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76919'
+    type: a.k.a.
+    category: strong
+    last_name: RADIO ENGINEERING CORPORATION VEGA
+  - uid: '76920'
+    type: a.k.a.
+    category: strong
+    last_name: KONTSERN VEGA AO
+address_list:
+  items:
+  - uid: '74307'
+    address1: Prospekt Kutuzovski 34
+    city: Moscow
+    postal_code: '121170'
+    country: Russia
+  - uid: '74308'
+    address1: Ul. Akademika Pavlova, 14A
+    city: St. Petersburg
+    postal_code: '197376'
+    country: Russia
+id_list:
+  items:
+  - uid: '40563'
+    id_type: Registration Number
+    id_number: '1037730020844'
+    id_country: Russia
+  - uid: '40564'
+    id_type: Tax ID No.
+    id_number: '7730170167'
+    id_country: Russia
+  - uid: '172342'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '172343'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

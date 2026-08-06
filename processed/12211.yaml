@@ -1,0 +1,52 @@
+---
+uid: '12211'
+first_name: Yong Chol
+last_name: KIM
+sdn_type: Individual
+program_list:
+  programs:
+  - DPRK
+aka_list:
+  items:
+  - uid: '13150'
+    type: a.k.a.
+    category: strong
+    last_name: KIM
+    first_name: Yong-Chol
+  - uid: '13151'
+    type: a.k.a.
+    category: strong
+    last_name: KIM
+    first_name: Young-Chol
+  - uid: '13152'
+    type: a.k.a.
+    category: strong
+    last_name: KIM
+    first_name: Young-Cheol
+  - uid: '13153'
+    type: a.k.a.
+    category: strong
+    last_name: KIM
+    first_name: Young-Chul
+id_list:
+  items:
+  - uid: '134866'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '127068'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+date_of_birth_list:
+  items:
+  - uid: '7967'
+    date_of_birth: circa 1947
+    main_entry: 'true'
+  - uid: '7968'
+    date_of_birth: circa 1946
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '7966'
+    place_of_birth: Pyongan-Pukto, North Korea
+    main_entry: 'false'

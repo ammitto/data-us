@@ -1,0 +1,32 @@
+---
+uid: '40561'
+last_name: LIMITED LIABILITY COMPANY CHARTER GREEN LIGHT MOSCOW
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63038'
+    type: a.k.a.
+    category: strong
+    last_name: LLC CHGLM
+address_list:
+  items:
+  - uid: '60415'
+    address1: Nauchny Proezd, 19 Business Center 9 Acrov
+    city: Moscow
+    postal_code: '117246'
+    country: Russia
+id_list:
+  items:
+  - uid: '29708'
+    id_type: Tax ID No.
+    id_number: '7701088013'
+    id_country: Russia
+  - uid: '174112'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '157828'
+    id_type: Organization Established Date
+    id_number: '2015'

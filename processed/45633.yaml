@@ -1,0 +1,34 @@
+---
+uid: '45633'
+last_name: LLC NIZHNEKAMSK MECHANICAL PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70522'
+    type: a.k.a.
+    category: weak
+    last_name: NMZ
+address_list:
+  items:
+  - uid: '67841'
+    address1: Ter. Promzona ZD. 32
+    address2: Office 1
+    city: Nizhnekamsk
+    postal_code: '423570'
+    country: Russia
+id_list:
+  items:
+  - uid: '35330'
+    id_type: Registration Number
+    id_number: '1221600057150'
+    id_country: Russia
+  - uid: '35331'
+    id_type: Tax ID No.
+    id_number: '1651091698'
+    id_country: Russia
+  - uid: '175996'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

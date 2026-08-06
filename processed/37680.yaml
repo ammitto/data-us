@@ -1,0 +1,44 @@
+---
+uid: '37680'
+first_name: Teddy Zina
+last_name: RAHME
+sdn_type: Individual
+program_list:
+  programs:
+  - LEBANON
+aka_list:
+  items:
+  - uid: '59050'
+    type: a.k.a.
+    category: strong
+    last_name: ZINA
+    first_name: Teddy Samir
+  - uid: '60411'
+    type: a.k.a.
+    category: strong
+    last_name: RAHMEH
+    first_name: Teddy Samir Zina
+address_list:
+  items:
+  - uid: '57824'
+    country: Lebanon
+id_list:
+  items:
+  - uid: '26910'
+    id_type: Passport
+    id_number: LR0016427
+    id_country: Lebanon
+    expiration_date: '08 Aug 2021'
+  - uid: '152631'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '52634'
+    date_of_birth: 10 Dec 1963
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '52635'
+    place_of_birth: Bsharri, Lebanon
+    main_entry: 'true'

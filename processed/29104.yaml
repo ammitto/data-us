@@ -1,0 +1,27 @@
+---
+uid: '29104'
+first_name: Reza
+last_name: VAZIRI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN
+id_list:
+  items:
+  - uid: '19369'
+    id_type: Passport
+    id_number: T45534988
+    id_country: Iran
+    expiration_date: '08 May 2023'
+  - uid: '135841'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '135813'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '35812'
+    date_of_birth: 05 Mar 1967
+    main_entry: 'true'
+remarks: "(Linked To: NATIONAL IRANIAN TANKER COMPANY)"

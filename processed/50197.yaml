@@ -1,0 +1,43 @@
+---
+uid: '50197'
+first_name: Vladimir Vladimirovich
+last_name: CHUDAKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '78318'
+    type: a.k.a.
+    category: strong
+    last_name: CHUDAKOU
+    first_name: Uladzimiravich Uladzimir
+address_list:
+  items:
+  - uid: '75998'
+    country: Belarus
+id_list:
+  items:
+  - uid: '41833'
+    id_type: National ID No.
+    id_number: 3150770A025PB8
+    id_country: Belarus
+  - uid: '41834'
+    id_type: Passport
+    id_number: MP3192003
+    id_country: Belarus
+    expiration_date: 10 Aug 2026
+  - uid: '177811'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '77812'
+    date_of_birth: 15 Jul 1970
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '78191'
+    place_of_birth: Belarus
+    main_entry: 'true'

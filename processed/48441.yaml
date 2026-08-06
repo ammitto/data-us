@@ -1,0 +1,38 @@
+---
+uid: '48441'
+last_name: COMPLEX UNMANNED SOLUTIONS CENTER LTD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75298'
+    type: a.k.a.
+    category: weak
+    last_name: USC LTD
+address_list:
+  items:
+  - uid: '72681'
+    address1: Spasateley St., 7
+    city: Zhukovsky
+    postal_code: '140184'
+    country: Russia
+  - uid: '72682'
+    address1: Ul. Luch, D. 24/1a, floor 2, Pomeshch. 112
+    city: Zhukovsky
+    postal_code: '140184'
+    country: Russia
+id_list:
+  items:
+  - uid: '39340'
+    id_type: Registration Number
+    id_number: '1225000003458'
+    id_country: Russia
+  - uid: '39341'
+    id_type: Tax ID No.
+    id_number: '5040176793'
+    id_country: Russia
+  - uid: '171275'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

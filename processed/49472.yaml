@@ -1,0 +1,40 @@
+---
+uid: '49472'
+last_name: LIMITED LIABILITY COMPANY BANKOVSKIE INNOVATSIONNYE SISTEMY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77172'
+    type: a.k.a.
+    category: weak
+    last_name: LLC BIS
+  - uid: '77173'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY BANK INNOVATION SYSTEMS
+address_list:
+  items:
+  - uid: '74614'
+    address1: Ul. Belinskogo 163V
+    city: Ekaterinburg
+    postal_code: '620089'
+    country: Russia
+id_list:
+  items:
+  - uid: '40807'
+    id_type: Registration Number
+    id_number: '1051622162932'
+    id_country: Russia
+  - uid: '40808'
+    id_type: Tax ID No.
+    id_number: '1655102291'
+    id_country: Russia
+  - uid: '172558'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '172557'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

@@ -1,0 +1,36 @@
+---
+uid: '48160'
+first_name: Auxillia
+last_name: MNANGAGWA
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+address_list:
+  items:
+  - uid: '72218'
+    country: Zimbabwe
+id_list:
+  items:
+  - uid: '39028'
+    id_type: National ID No.
+    id_number: 63545988X15
+    id_country: Zimbabwe
+  - uid: '39029'
+    id_type: Passport
+    id_number: ED000003
+    id_country: Zimbabwe
+    expiration_date: 27 Feb 2032
+  - uid: '170136'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '70133'
+    date_of_birth: 21 Mar 1963
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '70134'
+    place_of_birth: Mazowe, Zimbabwe
+    main_entry: 'true'

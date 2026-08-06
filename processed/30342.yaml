@@ -1,0 +1,42 @@
+---
+uid: '30342'
+first_name: Harry Varney Gboto-Nambi
+last_name: SHERMAN
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+address_list:
+  items:
+  - uid: '45795'
+    address1: 17th Street and Chessman Avenue
+    address2: Sinkor
+    address3: P.O. Box 10-3218,10
+    city: Monrovia
+    country: Liberia
+  - uid: '46333'
+    address1: 11803 Backus Drive
+    city: Bowie
+    state_or_province: MD
+    postal_code: 20720-4464
+    country: United States
+id_list:
+  items:
+  - uid: '20650'
+    id_type: Passport
+    id_number: PP0099877
+    id_country: Liberia
+    expiration_date: 28 May 2025
+  - uid: '137897'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '37895'
+    date_of_birth: 16 Feb 1953
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '37896'
+    place_of_birth: Robertsport, Grand Cape Mount County, Liberia
+    main_entry: 'true'

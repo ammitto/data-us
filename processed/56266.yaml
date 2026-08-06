@@ -1,0 +1,48 @@
+---
+uid: '56266'
+first_name: Richard Jose
+last_name: ESPINAL QUINTERO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+  - TCO
+aka_list:
+  items:
+  - uid: '87394'
+    type: a.k.a.
+    category: weak
+    last_name: El Coty
+  - uid: '87572'
+    type: a.k.a.
+    category: strong
+    last_name: ESPINEL QUINTERO
+    first_name: Richard Jose
+address_list:
+  items:
+  - uid: '86224'
+    country: Venezuela
+id_list:
+  items:
+  - uid: '50507'
+    id_type: Cedula No.
+    id_number: '24419648'
+    id_country: Venezuela
+  - uid: '194893'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '194728'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '94726'
+    date_of_birth: 19 Apr 1996
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '94857'
+    place_of_birth: Venezuela
+    main_entry: 'true'
+remarks: "(Linked To: TREN DE ARAGUA)"

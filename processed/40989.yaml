@@ -1,0 +1,51 @@
+---
+uid: '40989'
+last_name: MEHR PETROCHEMICAL COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13846
+aka_list:
+  items:
+  - uid: '63861'
+    type: a.k.a.
+    category: strong
+    last_name: MEHR PETROCHEMICAL COMPLEX
+address_list:
+  items:
+  - uid: '61212'
+    address1: Fifth Street, Block 22
+    city: Tehran
+    country: Iran
+  - uid: '61214'
+    address1: 2nd Petrochemical Phase, PSEEZ
+    city: Assalouyeh
+    state_or_province: Boushehr Province
+    country: Iran
+  - uid: '61215'
+    address1: Khaled Eslamboli Street, Alley 5, P. 22
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '30317'
+    id_type: Registration Number
+    id_number: '248119'
+    id_country: Iran
+  - uid: '30318'
+    id_type: National ID No.
+    id_number: '10102887184'
+    id_country: Iran
+  - uid: '158684'
+    id_type: Organization Established Date
+    id_number: 13 Jun 2005
+  - uid: '158690'
+    id_type: Website
+    id_number: www.mehrpc.com
+  - uid: '159147'
+    id_type: 'Organization Type:'
+    id_number: Manufacture of refined petroleum products
+  - uid: '158683'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: PERSIAN GULF PETROCHEMICAL INDUSTRY COMMERCIAL CO.)"

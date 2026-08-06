@@ -1,0 +1,45 @@
+---
+uid: '7251'
+first_name: Adel
+last_name: BEN SOLTANE
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '8856'
+    type: a.k.a.
+    category: strong
+    last_name: BEN SOLTANE
+    first_name: Adel Ben Al-Azhar Ben Youssef
+address_list:
+  items:
+  - uid: '5509'
+    address1: Via Latisana n. 6
+    city: Milan
+    country: Italy
+id_list:
+  items:
+  - uid: '3319'
+    id_type: Italian Fiscal Code
+    id_number: BNSDLA70L14Z352B
+  - uid: '4061'
+    id_type: Passport
+    id_number: M408665
+    issue_date: 04 Oct 2000
+    expiration_date: 03 Oct 2005
+  - uid: '185667'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '1442'
+    date_of_birth: 14 Jul 1970
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '1443'
+    place_of_birth: Tunis, Tunisia
+    main_entry: 'true'

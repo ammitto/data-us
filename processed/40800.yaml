@@ -1,0 +1,45 @@
+---
+uid: '40800'
+first_name: Vladislav Ivanov
+last_name: GORANOV
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '63462'
+    type: a.k.a.
+    category: strong
+    last_name: GORANOV
+    first_name: Vladislav
+  - uid: '63464'
+    type: a.k.a.
+    category: strong
+    last_name: GORANOV
+    first_name: Vladimir
+address_list:
+  items:
+  - uid: '60822'
+    address1: II Krasna Polyana R.D., NO 226, Apt. 78
+    city: Sofia
+    country: Bulgaria
+id_list:
+  items:
+  - uid: '29997'
+    id_type: National ID No.
+    id_number: '7704304020'
+    id_country: Bulgaria
+  - uid: '158318'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '58317'
+    date_of_birth: 30 Apr 1977
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '58320'
+    place_of_birth: Pleven, Bulgaria
+    main_entry: 'true'

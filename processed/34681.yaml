@@ -1,0 +1,62 @@
+---
+uid: '34681'
+last_name: JOINT STOCK COMPANY INVESTTRADEBANK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54347'
+    type: a.k.a.
+    category: strong
+    last_name: INVESTTRADEBANK JSC
+  - uid: '54348'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMMERCIAL BANK INVESTMENT TRADE BANK
+  - uid: '54349'
+    type: f.k.a.
+    category: strong
+    last_name: PUBLIC JOINT STOCK COMPANY INVESTTRADEBANK
+  - uid: '54350'
+    type: f.k.a.
+    category: strong
+    last_name: PJSC INVESTTRADEBANK
+  - uid: '54351'
+    type: f.k.a.
+    category: strong
+    last_name: OJSC INVESTTRADEBANK
+address_list:
+  items:
+  - uid: '51937'
+    address1: 45 Dubininskaya Str
+    city: Moscow
+    postal_code: '115054'
+    country: Russia
+id_list:
+  items:
+  - uid: '24316'
+    id_type: Registration Number
+    id_number: '1027739543182'
+    id_country: Russia
+  - uid: '24317'
+    id_type: Tax ID No.
+    id_number: '7717002773'
+    id_country: Russia
+  - uid: '175176'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '146074'
+    id_type: Organization Established Date
+    id_number: '1994'
+  - uid: '146073'
+    id_type: SWIFT/BIC
+    id_number: JSCVRUM2
+  - uid: '146070'
+    id_type: Website
+    id_number: itb.ru
+  - uid: '146075'
+    id_type: Target Type
+    id_number: Financial Institution
+remarks: "(Linked To: PUBLIC JOINT STOCK COMPANY TRANSKAPITALBANK)"

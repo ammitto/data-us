@@ -1,0 +1,41 @@
+---
+uid: '11236'
+first_name: Javier
+last_name: PULIDO VALDIVIA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '11664'
+    type: a.k.a.
+    category: strong
+    last_name: PULIDO VALDIVIA
+    first_name: Francisco
+address_list:
+  items:
+  - uid: '16420'
+    address1: c/o LABORATORIOS WILLMAR, S.A. DE C.V.
+    city: Guadalajara
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '16421'
+    country: Mexico
+  - uid: '16422'
+    address1: 'Calle Fray Junipero Serra #1932'
+    address2: Colonia Jardines Alcalde
+    city: Guadalajara
+    state_or_province: Jalisco
+    country: Mexico
+id_list:
+  items:
+  - uid: '5706'
+    id_type: C.U.R.P.
+    id_number: PUVJ530114HJCLLV06
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '6587'
+    date_of_birth: 14 Jan 1953
+    main_entry: 'true'

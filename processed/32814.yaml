@@ -1,0 +1,45 @@
+---
+uid: '32814'
+first_name: Ivan Vladimirovich
+last_name: OSIPOV
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+  - MAGNIT
+aka_list:
+  items:
+  - uid: '51638'
+    type: a.k.a.
+    category: strong
+    last_name: OSIPOV
+    first_name: Ivan
+  - uid: '51639'
+    type: a.k.a.
+    category: strong
+    last_name: SPIRIDONOV
+    first_name: Ivan
+  - uid: '51640'
+    type: a.k.a.
+    category: strong
+    last_name: SPIRIDONOV
+    first_name: Ivan Vasilyevich
+address_list:
+  items:
+  - uid: '49438'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '142549'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '42547'
+    date_of_birth: 21 Aug 1976
+    main_entry: 'true'
+  - uid: '42548'
+    date_of_birth: 21 Aug 1975
+    main_entry: 'false'
+remarks: "(Linked To: FEDERAL SECURITY SERVICE)"

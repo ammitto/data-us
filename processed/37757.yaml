@@ -1,0 +1,54 @@
+---
+uid: '37757'
+last_name: LEASING COMPANY KAMAZ INCORPORATED
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59232'
+    type: a.k.a.
+    category: strong
+    last_name: LIZINGOVAYA KOMPANIYA KAMAZ PAO
+  - uid: '59233'
+    type: a.k.a.
+    category: strong
+    last_name: KAMAZ LEASING CO OAO
+  - uid: '59234'
+    type: a.k.a.
+    category: strong
+    last_name: KAMAZ LEASING COMPANY INC.
+address_list:
+  items:
+  - uid: '56486'
+    address1: PR-KT Avtozavodskii D. 2
+    city: Naberezhnyye Chelny
+    postal_code: '423827'
+    country: Russia
+  - uid: '56487'
+    address1: Prospect Avtozavodskii, 2
+    city: Naberezhnyye Chelny
+    state_or_province: Tatarstan
+    postal_code: '423827'
+    country: Russia
+id_list:
+  items:
+  - uid: '26999'
+    id_type: Registration Number
+    id_number: '1051614089944'
+    id_country: Russia
+  - uid: '27000'
+    id_type: Tax ID No.
+    id_number: '1650130591'
+    id_country: Russia
+  - uid: '27001'
+    id_type: Government Gazette Number
+    id_number: '78681685'
+    id_country: Russia
+  - uid: '152737'
+    id_type: Organization Established Date
+    id_number: 31 Aug 2005
+  - uid: '173490'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,31 @@
+---
+uid: '49351'
+first_name: Mu
+last_name: XIAOLU
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '74364'
+    city: Hong Kong
+    country: China
+id_list:
+  items:
+  - uid: '172401'
+    id_type: Gender
+    id_number: Female
+  - uid: '172730'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '72398'
+    date_of_birth: '08 Mar 1990'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '72399'
+    place_of_birth: Mianyang, China
+    main_entry: 'true'

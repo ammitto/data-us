@@ -1,0 +1,33 @@
+---
+uid: '23610'
+first_name: Emerio
+last_name: RINCON CASTILLO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '35722'
+    city: Simijaca
+    state_or_province: Cundinamarca
+    country: Colombia
+id_list:
+  items:
+  - uid: '15085'
+    id_type: Cedula No.
+    id_number: '4157489'
+    id_country: Colombia
+  - uid: '125514'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '25515'
+    date_of_birth: 04 Apr 1954
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '25516'
+    place_of_birth: Caldas, Boyaca, Colombia
+    main_entry: 'true'

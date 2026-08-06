@@ -1,0 +1,45 @@
+---
+uid: '9589'
+first_name: Rafik Mohamad
+last_name: YOUSEF
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '9038'
+    type: a.k.a.
+    category: strong
+    last_name: KAIRADIN
+    first_name: Raific Mohamad
+address_list:
+  items:
+  - uid: '12050'
+    address1: Kathe Dorsch Ring 21
+    city: Berlin
+    postal_code: '12353'
+    country: Germany
+  - uid: '12051'
+    address1: Mannheim Prison
+    country: Germany
+id_list:
+  items:
+  - uid: '4248'
+    id_type: Travel Document Number
+    id_number: A0092301
+    id_country: Germany
+  - uid: '186258'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '4621'
+    date_of_birth: 27 Aug 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '4623'
+    place_of_birth: Baghdad, Iraq
+    main_entry: 'true'

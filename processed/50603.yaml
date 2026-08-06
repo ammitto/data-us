@@ -1,0 +1,52 @@
+---
+uid: '50603'
+first_name: Dmitry Yuryevich
+last_name: NIKULIN
+sdn_type: Individual
+program_list:
+  programs:
+  - DPRK3
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '76724'
+    address1: ul. Palikha, d. 10, Str. 7
+    city: Moscow
+    postal_code: '127055'
+    country: Russia
+id_list:
+  items:
+  - uid: '42453'
+    id_type: Passport
+    id_number: '772043761'
+    id_country: Russia
+    expiration_date: 14 Dec 2033
+  - uid: '42454'
+    id_type: National ID No.
+    id_number: '4500136712'
+    id_country: Russia
+  - uid: '178994'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '178931'
+    id_type: Gender
+    id_number: Male
+  - uid: '178995'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '179187'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '78981'
+    date_of_birth: 20 Feb 1975
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '78933'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'
+remarks: "(Linked To: TSMRBANK, OOO)"
+title: Vice-President, TSMRBANK, OOO

@@ -1,0 +1,28 @@
+---
+uid: '15048'
+last_name: DOWNY
+sdn_type: Vessel
+program_list:
+  programs:
+  - IRAN
+aka_list:
+  items:
+  - uid: '40668'
+    type: f.k.a.
+    category: strong
+    last_name: DENA
+id_list:
+  items:
+  - uid: '8057'
+    id_type: Vessel Registration Identification
+    id_number: IMO 9218480
+  - uid: '8126'
+    id_type: MMSI
+    id_number: '256861000'
+  - uid: '113480'
+    id_type: Former Vessel Flag
+    id_number: Malta
+  - uid: '119316'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: NATIONAL IRANIAN TANKER COMPANY)"

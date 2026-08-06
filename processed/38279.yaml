@@ -1,0 +1,34 @@
+---
+uid: '38279'
+first_name: Gulnara Suleymanovna
+last_name: KERIMOVA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '57298'
+    address1: Apt. 270, Build. 31, Pyatnitskoe Shosse
+    city: Moscow
+    postal_code: '123430'
+    country: Russia
+id_list:
+  items:
+  - uid: '153559'
+    id_type: Gender
+    id_number: Female
+  - uid: '174667'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '53556'
+    date_of_birth: 29 Apr 1990
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '53557'
+    place_of_birth: Makhachkala, Russia
+    main_entry: 'true'
+remarks: "(Linked To: KERIMOV, Suleiman Abusaidovich)"

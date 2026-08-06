@@ -1,0 +1,47 @@
+---
+uid: '16169'
+first_name: Javier Eriberto
+last_name: RIVERA MARADIAGA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '24296'
+    type: a.k.a.
+    category: weak
+    last_name: EL CACHIRO
+  - uid: '24355'
+    type: a.k.a.
+    category: weak
+    last_name: RIVERA, Javier
+  - uid: '24356'
+    type: a.k.a.
+    category: weak
+    last_name: CACHIRO, Javier
+address_list:
+  items:
+  - uid: '24307'
+    address1: Barrio La Ceiba
+    address2: Calle Principal
+    address3: Casa 234
+    city: Tocoa
+    state_or_province: Colon
+    country: Honduras
+id_list:
+  items:
+  - uid: '8780'
+    id_type: Numero de Identidad
+    id_number: '0209-1972-00282'
+    id_country: Honduras
+date_of_birth_list:
+  items:
+  - uid: '14477'
+    date_of_birth: 20 Apr 1972
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '14478'
+    place_of_birth: Tocoa, Colon, Honduras
+    main_entry: 'true'

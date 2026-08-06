@@ -1,0 +1,46 @@
+---
+uid: '41004'
+last_name: CLOSED JOINT STOCK COMPANY SPECIAL CONSTRUCTION BUREAU
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63893'
+    type: a.k.a.
+    category: strong
+    last_name: SKB ZAO
+  - uid: '63894'
+    type: a.k.a.
+    category: strong
+    last_name: SKB AO
+  - uid: '63895'
+    type: a.k.a.
+    category: strong
+    last_name: SPETSIALNOE KONSTRUKTORSKOE BYURO ZAO
+address_list:
+  items:
+  - uid: '61246'
+    address1: 35 1905 Goda Street
+    address2: Building 2404, Office 318
+    city: Perm
+    state_or_province: Perm Territory
+    postal_code: '614014'
+    country: Russia
+id_list:
+  items:
+  - uid: '30336'
+    id_type: Tax ID No.
+    id_number: '5906034720'
+    id_country: Russia
+  - uid: '30337'
+    id_type: Registration Number
+    id_number: '1025901364026'
+    id_country: Russia
+  - uid: '175353'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '158738'
+    id_type: Organization Established Date
+    id_number: 21 Jun 1996

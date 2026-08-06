@@ -1,0 +1,42 @@
+---
+uid: '57090'
+last_name: BITPIN
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '88459'
+    type: a.k.a.
+    category: strong
+    last_name: SANA AYMAN MUBADALA
+address_list:
+  items:
+  - uid: '87413'
+    address1: Unit 2, Floor 1, Viana (Alizadeh) Trade Complex Building No. 42
+    address2: Shahid Fatehi Blvd., Sharghayegh Alley
+    address3: Anzali Free Zone
+    city: Bandar Anzali
+    state_or_province: Gilan
+    postal_code: '4333155170'
+    country: Iran
+id_list:
+  items:
+  - uid: '51318'
+    id_type: Company Number
+    id_number: '14009960142'
+    id_country: Iran
+  - uid: '196632'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '196628'
+    id_type: Organization Established Date
+    id_number: '2020'
+  - uid: '196640'
+    id_type: 'Organization Type:'
+    id_number: Financial and Insurance Activities
+  - uid: '196630'
+    id_type: Website
+    id_number: bitpin.ir

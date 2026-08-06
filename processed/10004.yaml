@@ -1,0 +1,34 @@
+---
+uid: '10004'
+last_name: GAVIOTAS LTDA.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDNT
+aka_list:
+  items:
+  - uid: '9669'
+    type: a.k.a.
+    category: strong
+    last_name: MOTEL CAMPO AMOR
+  - uid: '9670'
+    type: a.k.a.
+    category: strong
+    last_name: HOTEL SIN PECADOS
+  - uid: '9671'
+    type: a.k.a.
+    category: weak
+    last_name: HOTEL SIN PK2
+address_list:
+  items:
+  - uid: '13097'
+    address1: Calle 4A No. 21-34 Circunvalar
+    city: Cartago
+    state_or_province: Valle
+    country: Colombia
+id_list:
+  items:
+  - uid: '4538'
+    id_type: 'NIT #'
+    id_number: 800032092-7
+    id_country: Colombia

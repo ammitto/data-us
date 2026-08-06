@@ -1,0 +1,49 @@
+---
+uid: '38178'
+last_name: JOINT STOCK COMPANY VORONEZHSKY FACTORY POLUPROVODNIKOVYKH PRIBOROV-SBORKA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59916'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY VZPP-S
+  - uid: '59917'
+    type: a.k.a.
+    category: strong
+    last_name: VORONEZH SEMICONDUCTOR DEVICES FACTORY-ASSEMBLY
+  - uid: '59918'
+    type: a.k.a.
+    category: strong
+    last_name: JSC VORONEZH SEMICONDUCTOR DEVICES PLANT-ASSEMBLY
+  - uid: '59919'
+    type: a.k.a.
+    category: strong
+    last_name: VZPP-S AO
+address_list:
+  items:
+  - uid: '57209'
+    address1: 119A Leninsky Ave
+    city: Voronezh
+    state_or_province: Voronezh region
+    postal_code: '394033'
+    country: Russia
+id_list:
+  items:
+  - uid: '27480'
+    id_type: Tax ID No.
+    id_number: '3661033635'
+    id_country: Russia
+  - uid: '27481'
+    id_type: Registration Number
+    id_number: '1053600592330'
+    id_country: Russia
+  - uid: '153449'
+    id_type: Organization Established Date
+    id_number: 26 Dec 2005
+  - uid: '174650'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

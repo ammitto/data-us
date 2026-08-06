@@ -1,0 +1,34 @@
+---
+uid: '46525'
+last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU STIRER
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '71894'
+    type: a.k.a.
+    category: weak
+    last_name: STEERER
+address_list:
+  items:
+  - uid: '69320'
+    address1: Ul Samokatnaya D 4 A
+    address2: Str 5
+    city: Moscow
+    postal_code: '111033'
+    country: Russia
+id_list:
+  items:
+  - uid: '36542'
+    id_type: Registration Number
+    id_number: '1087746607772'
+    id_country: Russia
+  - uid: '36543'
+    id_type: Tax ID No.
+    id_number: '7722647713'
+    id_country: Russia
+  - uid: '174989'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

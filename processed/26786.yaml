@@ -1,0 +1,56 @@
+---
+uid: '26786'
+first_name: Wildin Tulio
+last_name: JUI ESCOBAR
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '40598'
+    address1: 6 Calle 5-181
+    city: Tecun Uman Zona 2, Ayutla
+    state_or_province: San Marcos
+    country: Guatemala
+  - uid: '40599'
+    address1: Kilometro 252 y medio
+    city: Tecun Uman
+    state_or_province: San Marcos
+    country: Guatemala
+id_list:
+  items:
+  - uid: '17437'
+    id_type: 'NIT #'
+    id_number: '7690495'
+    id_country: Guatemala
+  - uid: '17438'
+    id_type: Cedula No.
+    id_number: L-1220608
+    id_country: Guatemala
+  - uid: '17459'
+    id_type: C.U.I.
+    id_number: '2891761150920'
+    id_country: Guatemala
+  - uid: '18194'
+    id_type: Passport
+    id_number: '00020608K'
+    id_country: Guatemala
+  - uid: '18235'
+    id_type: Driver's License No.
+    id_number: 1112170002060K
+    id_country: Guatemala
+  - uid: '131532'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '31530'
+    date_of_birth: 03 Nov 1968
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '31531'
+    place_of_birth: Coatepeque, Quetzaltenango, Guatemala
+    main_entry: 'true'
+remarks: "(Linked To: MULTISERVICIOS Y FINCA EL ENCANTO)"

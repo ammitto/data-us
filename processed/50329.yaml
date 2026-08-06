@@ -1,0 +1,33 @@
+---
+uid: '50329'
+last_name: LIMITED LIABILITY COMPANY COMBIT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78654'
+    type: a.k.a.
+    category: strong
+    last_name: KOMBIT LLC
+address_list:
+  items:
+  - uid: '76271'
+    address1: Ofis 411, Litera A, D. 14A Promyshlennaya Ul.
+    city: Saint Petersburg
+    postal_code: '198099'
+    country: Russia
+id_list:
+  items:
+  - uid: '42049'
+    id_type: Registration Number
+    id_number: '1167847318374'
+    id_country: Russia
+  - uid: '42050'
+    id_type: Tax ID No.
+    id_number: '7805679772'
+    id_country: Russia
+  - uid: '178278'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

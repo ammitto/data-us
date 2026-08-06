@@ -1,0 +1,62 @@
+---
+uid: '9564'
+first_name: Ramon Alberto
+last_name: QUINTERO SANCLEMENTE
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNT
+aka_list:
+  items:
+  - uid: '12545'
+    type: a.k.a.
+    category: weak
+    last_name: LUCAS
+  - uid: '12546'
+    type: a.k.a.
+    category: weak
+    last_name: EL INGENIERO
+  - uid: '12547'
+    type: a.k.a.
+    category: weak
+    last_name: DON TOMAS
+address_list:
+  items:
+  - uid: '11950'
+    address1: Carrera 16 No. 3-15
+    city: Buga
+    state_or_province: Valle
+    country: Colombia
+  - uid: '11951'
+    address1: Calle 115 No. 9-50
+    city: Bogota
+    country: Colombia
+id_list:
+  items:
+  - uid: '4212'
+    id_type: Cedula No.
+    id_number: '14881147'
+    id_country: Colombia
+  - uid: '4213'
+    id_type: Passport
+    id_number: AE048871
+    id_country: Colombia
+date_of_birth_list:
+  items:
+  - uid: '4575'
+    date_of_birth: 30 Nov 1960
+    main_entry: 'true'
+  - uid: '7263'
+    date_of_birth: 28 Nov 1958
+    main_entry: 'false'
+  - uid: '7264'
+    date_of_birth: 30 Nov 1961
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '4576'
+    place_of_birth: Cali, Colombia
+    main_entry: 'true'
+  - uid: '4577'
+    place_of_birth: Buga, Valle, Colombia
+    main_entry: 'false'

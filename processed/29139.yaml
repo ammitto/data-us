@@ -1,0 +1,37 @@
+---
+uid: '29139'
+last_name: GLOBAL INDUSTRIAL AND ENGINEERING SUPPLY LTD.
+sdn_type: Entity
+program_list:
+  programs:
+  - IFCA
+aka_list:
+  items:
+  - uid: '45839'
+    type: a.k.a.
+    category: strong
+    last_name: GLOBAL INDUSTRIAL AND ENGINEERING SUPPLY LIMITED
+  - uid: '45840'
+    type: a.k.a.
+    category: weak
+    last_name: GIES GROUP
+address_list:
+  items:
+  - uid: '44102'
+    address1: Unit 04, Bright Way Tower, No. 33
+    address2: Mong Kok Road Kowloon
+    country: Hong Kong
+  - uid: '44103'
+    address1: 603-3-3, Miyun Road
+    address2: Nankai District
+    city: Tianjin
+    country: China
+  - uid: '44105'
+    address1: Unit 902, 9/F, Technology Park, 18 On Lai Street
+    address2: Shatin, N.T.
+    country: Hong Kong
+id_list:
+  items:
+  - uid: '135866'
+    id_type: Website
+    id_number: giesgroup.com

@@ -1,0 +1,37 @@
+---
+uid: '43338'
+last_name: 110TH RESEARCH CENTER
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK2
+aka_list:
+  items:
+  - uid: '67201'
+    type: a.k.a.
+    category: weak
+    last_name: LAB 110
+  - uid: '67202'
+    type: a.k.a.
+    category: weak
+    last_name: UNIT 110
+address_list:
+  items:
+  - uid: '64688'
+    city: Pyongyang
+    country: Korea, North
+  - uid: '64689'
+    city: Shenyang
+    country: China
+id_list:
+  items:
+  - uid: '162695'
+    id_type: Target Type
+    id_number: Government Entity
+  - uid: '162694'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '162693'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210

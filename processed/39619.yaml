@@ -1,0 +1,48 @@
+---
+uid: '39619'
+first_name: Seyed Mojtaba
+last_name: MOSTAFAVI
+sdn_type: Individual
+program_list:
+  programs:
+  - HRIT-IR
+aka_list:
+  items:
+  - uid: '61712'
+    type: a.k.a.
+    category: strong
+    last_name: MORTAZAVI
+    first_name: Mojtaba
+  - uid: '61713'
+    type: a.k.a.
+    category: strong
+    last_name: MOSTAF
+    first_name: Mojtaba
+address_list:
+  items:
+  - uid: '58990'
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '28756'
+    id_type: National ID No.
+    id_number: '0080467741'
+    id_country: Iran
+  - uid: '155882'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '155881'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '55878'
+    date_of_birth: 02 Apr 1987
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '55879'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: RAVIN ACADEMY)"

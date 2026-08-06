@@ -1,0 +1,36 @@
+---
+uid: '7819'
+first_name: Leonardo
+last_name: DIAS DE MENDONCA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '5615'
+    type: a.k.a.
+    category: strong
+    last_name: DIAS MENDONA
+    first_name: Leonardo
+  - uid: '5616'
+    type: a.k.a.
+    category: strong
+    last_name: DIAZ MENDONCA
+    first_name: Leonardo
+date_of_birth_list:
+  items:
+  - uid: '2015'
+    date_of_birth: 12 Jan 1963
+    main_entry: 'true'
+  - uid: '2017'
+    date_of_birth: 21 Nov 1963
+    main_entry: 'false'
+  - uid: '2018'
+    date_of_birth: 01 Dec 1963
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '2016'
+    place_of_birth: Brazil
+    main_entry: 'true'

@@ -1,0 +1,50 @@
+---
+uid: '58147'
+first_name: Ali
+last_name: RAKHBARMADANI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '89904'
+    type: a.k.a.
+    category: strong
+    last_name: RAHBARMADANI
+    first_name: Ali
+address_list:
+  items:
+  - uid: '89304'
+    city: Dubai
+    country: United Arab Emirates
+  - uid: '89305'
+    country: Russia
+id_list:
+  items:
+  - uid: '52721'
+    id_type: Passport
+    id_number: '516737186'
+    id_country: Russia
+  - uid: '52733'
+    id_type: Passport
+    id_number: B97499327
+    id_country: Iran
+    expiration_date: 29 Feb 2028
+  - uid: '199675'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '199604'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '99614'
+    date_of_birth: 28 Jan 1975
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '99618'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: SHAMKHANI, Mohammad Hossein)"

@@ -1,0 +1,37 @@
+---
+uid: '46500'
+first_name: Juvenal
+last_name: LEON RODRIGUEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '72413'
+    type: a.k.a.
+    category: weak
+    last_name: GALLO
+address_list:
+  items:
+  - uid: '69184'
+    country: Mexico
+id_list:
+  items:
+  - uid: '36428'
+    id_type: C.U.R.P.
+    id_number: LERJ760901HGTNDV06
+    id_country: Mexico
+  - uid: '167379'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '67376'
+    date_of_birth: 01 Sep 1976
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '67377'
+    place_of_birth: Guanajuato, Mexico
+    main_entry: 'true'

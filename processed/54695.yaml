@@ -1,0 +1,76 @@
+---
+uid: '54695'
+first_name: Juan Jose
+last_name: PONCE FELIX
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '85118'
+    type: a.k.a.
+    category: strong
+    last_name: SANCHEZ FELIX
+    first_name: Jesus Alexandro
+  - uid: '85119'
+    type: a.k.a.
+    category: strong
+    last_name: FELIX
+    first_name: Alejandro Fernandez
+  - uid: '85120'
+    type: a.k.a.
+    category: strong
+    last_name: SANCHEZ
+    first_name: Jesus Alejandro
+  - uid: '85121'
+    type: a.k.a.
+    category: strong
+    last_name: FELIX
+    first_name: Jesus Sanchez
+  - uid: '85122'
+    type: a.k.a.
+    category: weak
+    last_name: El Ruso
+  - uid: '85123'
+    type: a.k.a.
+    category: weak
+    last_name: El Russo
+  - uid: '85124'
+    type: a.k.a.
+    category: weak
+    last_name: Ginete
+address_list:
+  items:
+  - uid: '83544'
+    city: Mexicali
+    state_or_province: Baja California
+    country: Mexico
+id_list:
+  items:
+  - uid: '48403'
+    id_type: C.U.R.P.
+    id_number: POFJ820520HSRNLN04
+    id_country: Mexico
+  - uid: '190980'
+    id_type: Gender
+    id_number: Male
+  - uid: '190982'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '90977'
+    date_of_birth: 20 May 1982
+    main_entry: 'true'
+  - uid: '90978'
+    date_of_birth: 20 Jun 1982
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '90979'
+    place_of_birth: Sonora, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: SINALOA CARTEL)"

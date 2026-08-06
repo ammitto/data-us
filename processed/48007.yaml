@@ -1,0 +1,39 @@
+---
+uid: '48007'
+last_name: OJSC AGAT-CONTROL SYSTEM-MANAGING COMPANY OF GEOINFORMATION CONTROL SYSTEMS
+  HOLDING
+sdn_type: Entity
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '74508'
+    type: a.k.a.
+    category: strong
+    last_name: OTKRYTOYE AKTSIONERNOYE OBSHCHESTVO AGAT-SISTEMY UPRAVLENIYA- UPRAVLYAYUSHCHAYA
+      KOMPANIYA KHOLDINGA GEOINFORMATSIONNYYE SISTEMY UPRAVLENIYA
+  - uid: '74513'
+    type: a.k.a.
+    category: strong
+    last_name: ASU-UKKH-GISU OAO
+  - uid: '74515'
+    type: f.k.a.
+    category: strong
+    last_name: OJSC AGAT-CONTROL SYSTEMS
+address_list:
+  items:
+  - uid: '71953'
+    address1: 117 Nezavisimosti Ave.
+    city: Minsk
+    postal_code: '220114'
+    country: Belarus
+id_list:
+  items:
+  - uid: '38888'
+    id_type: Tax ID No.
+    id_number: '100230547'
+    id_country: Belarus
+  - uid: '170573'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

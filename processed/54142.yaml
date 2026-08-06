@@ -1,0 +1,33 @@
+---
+uid: '54142'
+last_name: SKADI LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '84308'
+    type: a.k.a.
+    category: strong
+    last_name: SKADI LTD
+address_list:
+  items:
+  - uid: '82632'
+    address1: Trust Company
+    city: Majuro
+    state_or_province: Ajeltake Island
+    postal_code: '96960'
+    country: Marshall Islands
+id_list:
+  items:
+  - uid: '47620'
+    id_type: Identification Number
+    id_number: IMO 6166193
+  - uid: '47621'
+    id_type: Company Number
+    id_number: '105113'
+    id_country: Marshall Islands
+  - uid: '189678'
+    id_type: Organization Established Date
+    id_number: 03 Jun 2020

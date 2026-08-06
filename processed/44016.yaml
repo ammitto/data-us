@@ -1,0 +1,37 @@
+---
+uid: '44016'
+first_name: Wenbo
+last_name: DONG
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+address_list:
+  items:
+  - uid: '65526'
+    country: China
+id_list:
+  items:
+  - uid: '33396'
+    id_type: Passport
+    id_number: E02849013
+    id_country: China
+    issue_date: 23 Aug 2012
+    expiration_date: 22 Aug 2022
+  - uid: '163576'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '163575'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '63572'
+    date_of_birth: 23 May 1992
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '63573'
+    place_of_birth: Guangxi, China
+    main_entry: 'true'
+remarks: "(Linked To: GUILIN ALPHA RUBBER & PLASTICS TECHNOLOGY CO., LTD)"

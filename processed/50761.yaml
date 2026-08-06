@@ -1,0 +1,33 @@
+---
+uid: '50761'
+last_name: AVTODOM LTD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79474'
+    type: a.k.a.
+    category: strong
+    last_name: OOO AVTODOM
+address_list:
+  items:
+  - uid: '77010'
+    address1: Moskovskoe Highway, 8
+    city: Ulyanovsk
+    postal_code: '432000'
+    country: Russia
+id_list:
+  items:
+  - uid: '42649'
+    id_type: Registration Number
+    id_number: '1117327001220'
+    id_country: Russia
+  - uid: '42650'
+    id_type: Tax ID No.
+    id_number: '7327058837'
+    id_country: Russia
+  - uid: '179390'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

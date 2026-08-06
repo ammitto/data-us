@@ -1,0 +1,36 @@
+---
+uid: '26546'
+first_name: Mohammad Reza
+last_name: MEHDIPUR
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+address_list:
+  items:
+  - uid: '82675'
+    country: Iran
+id_list:
+  items:
+  - uid: '17192'
+    id_type: National ID No.
+    id_number: '1249481643'
+    id_country: Iran
+  - uid: '131064'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '131067'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '31065'
+    date_of_birth: 06 Aug 1975
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '31066'
+    place_of_birth: Naein, Iran
+    main_entry: 'true'
+remarks: "(Linked To: SHAHID KARIMI GROUP)"

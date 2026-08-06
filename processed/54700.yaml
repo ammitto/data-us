@@ -1,0 +1,45 @@
+---
+uid: '54700'
+first_name: Alfonso
+last_name: FERNANDEZ MAGALLON
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+aka_list:
+  items:
+  - uid: '85136'
+    type: a.k.a.
+    category: weak
+    last_name: Poncho La Quiringua
+  - uid: '85137'
+    type: a.k.a.
+    category: weak
+    last_name: Poncho
+address_list:
+  items:
+  - uid: '83553'
+    city: Los Reyes
+    state_or_province: Michoacan
+    country: Mexico
+id_list:
+  items:
+  - uid: '191025'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '191014'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '91012'
+    date_of_birth: '09 Apr 1970'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '91013'
+    place_of_birth: Jalisco, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: CARTELES UNIDOS)"

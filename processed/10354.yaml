@@ -1,0 +1,52 @@
+---
+uid: '10354'
+first_name: Santos
+last_name: BUENO GARCIA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '14106'
+    address1: c/o NUEVA INDUSTRIA DE GANADEROS DE CULIACAN S.A. DE C.V.
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '14107'
+    address1: c/o ESTABLO PUERTO RICO S.A. DE C.V.
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '14108'
+    address1: Calle Granate 816
+    city: Culiacan
+    state_or_province: Sinaloa
+    postal_code: '80015'
+    country: Mexico
+  - uid: '14109'
+    address1: Calle Rio Fuerte 581
+    city: Culiacan
+    state_or_province: Sinaloa
+    postal_code: '80220'
+    country: Mexico
+id_list:
+  items:
+  - uid: '4965'
+    id_type: C.U.R.P.
+    id_number: BUGS640327MSLNRN01
+    id_country: Mexico
+  - uid: '4966'
+    id_type: Passport
+    id_number: '040035868'
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '5517'
+    date_of_birth: 27 Mar 1964
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '5518'
+    place_of_birth: Sinaloa, Mexico
+    main_entry: 'true'

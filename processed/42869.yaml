@@ -1,0 +1,37 @@
+---
+uid: '42869'
+last_name: OSTEC-ELECTRO LTD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '66428'
+    type: a.k.a.
+    category: strong
+    last_name: OSTEK-ELEKTRO
+address_list:
+  items:
+  - uid: '63955'
+    address1: ul. Moldavskaya d. 5
+    address2: str. 2
+    city: Moscow
+    postal_code: '121467'
+    country: Russia
+id_list:
+  items:
+  - uid: '32440'
+    id_type: Registration Number
+    id_number: '5147746324754'
+    id_country: Russia
+  - uid: '32441'
+    id_type: Tax ID No.
+    id_number: '7731483966'
+    id_country: Russia
+  - uid: '175484'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '161702'
+    id_type: Organization Established Date
+    id_number: 23 Apr 2013

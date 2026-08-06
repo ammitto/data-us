@@ -1,0 +1,44 @@
+---
+uid: '56824'
+first_name: Oscar Enrique
+last_name: JIMENEZ TAPIA
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+aka_list:
+  items:
+  - uid: '88057'
+    type: a.k.a.
+    category: weak
+    last_name: El Tagayas
+address_list:
+  items:
+  - uid: '86990'
+    state_or_province: Nayarit
+    country: Mexico
+id_list:
+  items:
+  - uid: '50931'
+    id_type: C.U.R.P.
+    id_number: JITO851213HJCMPS07
+    id_country: Mexico
+  - uid: '195756'
+    id_type: Gender
+    id_number: Male
+  - uid: '196231'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '95754'
+    date_of_birth: 13 Dec 1985
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '95757'
+    place_of_birth: Jalisco, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: CARTEL DE JALISCO NUEVA GENERACION)"

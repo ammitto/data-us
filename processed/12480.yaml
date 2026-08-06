@@ -1,0 +1,46 @@
+---
+uid: '12480'
+last_name: LINER TRANSPORT KISH
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+  - IFSR
+aka_list:
+  items:
+  - uid: '13387'
+    type: a.k.a.
+    category: weak
+    last_name: LTK
+address_list:
+  items:
+  - uid: '19480'
+    address1: 'Central Office: Office No. 141, Ground Floor'
+    address2: Kish City Services Building
+    city: Kish Island
+    country: Iran
+  - uid: '19481'
+    address1: 'Tehran Office: Add: No. 10, 3 Floor, Unit 6'
+    address2: Ebrahimi Junction 8th Bostan St.
+    city: Tehran
+    country: Iran
+  - uid: '19482'
+    address1: 'Tehran Terminal Office: No. 537, Polygam Street'
+    address2: Mahmoud Abad Road
+    address3: Khavar Shahr
+    city: Tehran
+    country: Iran
+  - uid: '19483'
+    address1: 'Bandar Abbas Office: No. 7, 1st Floor, Dehghan Building'
+    address2: Shohada (Yadbood) Square
+    city: Bandar Abbas
+    country: Iran
+id_list:
+  items:
+  - uid: '114189'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '186017'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886

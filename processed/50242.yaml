@@ -1,0 +1,37 @@
+---
+uid: '50242'
+last_name: MILITARY ENGINEERING CENTRE LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78437'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTIU VOENNO INZHENERNYI TSENTR
+  - uid: '78438'
+    type: a.k.a.
+    category: weak
+    last_name: OOO VITS
+address_list:
+  items:
+  - uid: '76068'
+    address1: 88 pr-kt Lenina
+    city: Nizhnii Novgorod
+    postal_code: '603004'
+    country: Russia
+id_list:
+  items:
+  - uid: '41904'
+    id_type: Registration Number
+    id_number: '1075256008618'
+    id_country: Russia
+  - uid: '41905'
+    id_type: Tax ID No.
+    id_number: '5256072148'
+    id_country: Russia
+  - uid: '178083'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

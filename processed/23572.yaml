@@ -1,0 +1,53 @@
+---
+uid: '23572'
+last_name: KIRISHIAVTOSERVIS OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13662
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '37173'
+    type: a.k.a.
+    category: strong
+    last_name: LLC KIRISHIAVTOSERVIS
+  - uid: '37174'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY KIRISHIAVTOSERVIS
+address_list:
+  items:
+  - uid: '35649'
+    address1: Lit A, 12 Smolenskaya Ulitsa
+    city: St. Petersburg
+    postal_code: '196084'
+    country: Russia
+id_list:
+  items:
+  - uid: '15044'
+    id_type: Registration ID
+    id_number: '1057807804064'
+    id_country: Russia
+  - uid: '15045'
+    id_type: Tax ID No.
+    id_number: '7840016802'
+    id_country: Russia
+  - uid: '125452'
+    id_type: Nationality of Registration
+    id_number: Russia
+  - uid: '143956'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '125451'
+    id_type: Website
+    id_number: www.kirishiavtoservis.ru
+  - uid: '125603'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 4
+  - uid: '183029'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: 'For more information, please reference the following link: http://www.treasury.gov/resource-center/sanctions/OFAC-Enforcement/Pages/OFAC-Recent-Actions.aspx;
+  (Linked To: SURGUTNEFTEGAS)'

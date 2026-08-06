@@ -1,0 +1,62 @@
+---
+uid: '40946'
+last_name: TAMYNA AG
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63786'
+    type: a.k.a.
+    category: strong
+    last_name: TAMYNA LTD
+  - uid: '63787'
+    type: a.k.a.
+    category: strong
+    last_name: TAMYNA SA
+  - uid: '63788'
+    type: f.k.a.
+    category: weak
+    last_name: INTERNATIONAL MARITIME CORPORATION
+  - uid: '63789'
+    type: f.k.a.
+    category: weak
+    last_name: IMSC GMBH
+  - uid: '63790'
+    type: f.k.a.
+    category: weak
+    last_name: IMSC AG
+address_list:
+  items:
+  - uid: '61116'
+    address1: Baarerstrasse 55
+    city: Zug
+    postal_code: '6302'
+    country: Switzerland
+  - uid: '61117'
+    address1: 11 Bahnhofstrasse
+    city: Schlieren
+    state_or_province: Zurich
+    postal_code: '8952'
+    country: Switzerland
+id_list:
+  items:
+  - uid: '30245'
+    id_type: Registration Number
+    id_number: CH-170-4.010.398-7
+    id_country: Switzerland
+  - uid: '30246'
+    id_type: Company Number
+    id_number: CH-316.162.555
+    id_country: Switzerland
+  - uid: '175326'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '158596'
+    id_type: Organization Established Date
+    id_number: 06 Apr 2011
+  - uid: '158597'
+    id_type: Organization Established Date
+    id_number: 04 Apr 2012
+remarks: "(Linked To: MORETTI, Walter)"

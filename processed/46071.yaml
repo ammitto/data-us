@@ -1,0 +1,35 @@
+---
+uid: '46071'
+last_name: OPEN JOINT STOCK COMPANY AMKODOR MANAGEMENT HOLDING COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '71177'
+    type: a.k.a.
+    category: strong
+    last_name: AMKODOR OAO
+  - uid: '71355'
+    type: a.k.a.
+    category: strong
+    last_name: OTKRYTOE AKTSIONERNOE OBSHCHESTVO AMKODOR UPRAVLYAYUSHCHAYA KOMPANIYA
+      KHOLDINGA
+address_list:
+  items:
+  - uid: '68793'
+    address1: D. 8, kom. 201, Nezhiloe pomeshchenie, ul. P. Brovki
+    city: Minsk
+    postal_code: '220013'
+    country: Belarus
+id_list:
+  items:
+  - uid: '36064'
+    id_type: Tax ID No.
+    id_number: '100135676'
+    id_country: Belarus
+  - uid: '36065'
+    id_type: Government Gazette Number
+    id_number: '05762507'
+    id_country: Belarus

@@ -1,0 +1,125 @@
+---
+uid: '13005'
+first_name: Hassein Eduardo
+last_name: FIGUEROA GOMEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '14495'
+    type: a.k.a.
+    category: strong
+    last_name: FERNANDEZ GOMEZ
+    first_name: Ernesto
+  - uid: '14497'
+    type: a.k.a.
+    category: strong
+    last_name: FIGUERO GOMEZ
+    first_name: Hassein Eduardo
+address_list:
+  items:
+  - uid: '20681'
+    address1: Las Cortes 2935
+    address2: Barajas Villasenor
+    city: Guadalajara
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '20682'
+    address1: Tlajomulco de Zuniga
+    address2: Paseo de los Bosquez 115
+    city: El Palomar
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '20683'
+    address1: Benito Juarez
+    address2: Valentin Gomez Farias 120A
+    city: Puerto Vallarta
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '20684'
+    address1: Puerta de Hierro 5594
+    address2: Colonia Puerta de Hierro
+    city: Zapopan
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '20685'
+    address1: Donato Guerra 227
+    address2: Colonia Centro
+    city: Guadalajara
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '20686'
+    address1: San Aristeo 2323
+    address2: Colonia Popular
+    city: Guadalajara
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '20687'
+    address1: Acueducto 2200
+    address2: Casa 2
+    city: Zapopan
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '20688'
+    address1: Avenida Pinos 330-2
+    city: Zapopan
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '20689'
+    address1: Marina Heights Tower Penthouse 4902
+    city: Dubai Marina
+    state_or_province: Dubai
+    country: United Arab Emirates
+  - uid: '20690'
+    address1: c/o DESARROLLOS INMOBILIARIOS CITADEL, S.A. DE C.V.
+  - uid: '20691'
+    address1: c/o DESARROLLOS TURISTICOS FORTIA, S.A. DE C.V.
+  - uid: '20692'
+    address1: c/o SCUADRA FORTIA, S.A. DE C.V.
+  - uid: '20693'
+    address1: c/o UNION ABARROTERO DE JALISCO S.C. DE R.L. DE C.V.
+  - uid: '20694'
+    address1: c/o EL PALOMAR CAR WASH, S.A. DE C.V.
+  - uid: '20695'
+    address1: c/o FORTIA BAJA SUR, S.A. DE C.V.
+  - uid: '20696'
+    address1: c/o GEOFARMA S.A. DE C.V.
+  - uid: '20697'
+    address1: c/o GRUPO COMERCIAL SAN BLAS, S.A. DE C.V.
+  - uid: '20698'
+    address1: c/o GRUPO F Y F MEDICAL INTERNACIONAL DE EQUIPOS
+  - uid: '20699'
+    address1: c/o PROMOCIONES CITADEL, S.A. DE C.V.
+  - uid: '20700'
+    address1: c/o PUNTO FARMACEUTICO S.A. DE C.V.
+  - uid: '20701'
+    address1: c/o DESARROLLO ARQUITECTONICO FORTIA, S.A. DE C.V.
+id_list:
+  items:
+  - uid: '7418'
+    id_type: Passport
+    id_number: '01140311083'
+    id_country: Mexico
+  - uid: '7419'
+    id_type: Passport
+    id_number: '6140103492'
+    id_country: Mexico
+  - uid: '7420'
+    id_type: Passport
+    id_number: '96340014324'
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '8795'
+    date_of_birth: '09 May 1973'
+    main_entry: 'true'
+  - uid: '8796'
+    date_of_birth: 10 May 1973
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '8794'
+    place_of_birth: Guadalajara, Jalisco, Mexico
+    main_entry: 'true'

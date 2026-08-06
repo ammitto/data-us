@@ -1,0 +1,41 @@
+---
+uid: '50295'
+first_name: Vladislav Vladimirovich
+last_name: BELOBROV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78585'
+    type: a.k.a.
+    category: strong
+    last_name: BIELOBROV
+    first_name: Vladyslav Volodymyrovych
+address_list:
+  items:
+  - uid: '76193'
+    country: Russia
+id_list:
+  items:
+  - uid: '42000'
+    id_type: Tax ID No.
+    id_number: '740503063001'
+    id_country: Russia
+  - uid: '178158'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '178157'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '78154'
+    date_of_birth: 16 Jun 1978
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '78155'
+    place_of_birth: New Uzen, Mangyshlak region, Kazakhstan
+    main_entry: 'true'

@@ -1,0 +1,33 @@
+---
+uid: '49217'
+last_name: JOINT STOCK COMPANY FACTORY CRIZO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76735'
+    type: a.k.a.
+    category: strong
+    last_name: AO ZAVOD KRIZO
+address_list:
+  items:
+  - uid: '74101'
+    address1: Ul. Zheleznodorozhnaya D. 43
+    city: Gatchina
+    postal_code: '188304'
+    country: Russia
+id_list:
+  items:
+  - uid: '40383'
+    id_type: Registration Number
+    id_number: '1024701241322'
+    id_country: Russia
+  - uid: '40384'
+    id_type: Tax ID No.
+    id_number: '4705006552'
+    id_country: Russia
+  - uid: '172183'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

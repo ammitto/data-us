@@ -1,0 +1,47 @@
+---
+uid: '54155'
+first_name: Jinhua
+last_name: QIN
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+aka_list:
+  items:
+  - uid: '84330'
+    type: a.k.a.
+    category: weak
+    last_name: QIN, Edward
+address_list:
+  items:
+  - uid: '82656'
+    city: Shanghai
+    country: China
+id_list:
+  items:
+  - uid: '47643'
+    id_type: National ID No.
+    id_number: '420529198111162112'
+    id_country: China
+  - uid: '47644'
+    id_type: Passport
+    id_number: EJ6282156
+    id_country: China
+  - uid: '189808'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '189724'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '89722'
+    date_of_birth: 16 Nov 1981
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '89725'
+    place_of_birth: Wufeng, China
+    main_entry: 'true'
+remarks: "(Linked To: SHANGHAI TANCHAIN NEW MATERIAL TECHNOLOGY CO LTD)"

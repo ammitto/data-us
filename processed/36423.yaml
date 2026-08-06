@@ -1,0 +1,38 @@
+---
+uid: '36423'
+last_name: LIMITED LIABILITY COMPANY DIGITAL TECHNOLOGIES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '57386'
+    type: a.k.a.
+    category: weak
+    last_name: DIGITAL TECHNOLOGIES LLC
+  - uid: '57387'
+    type: a.k.a.
+    category: strong
+    last_name: TSIFROVYE TEKHNOLOGII
+address_list:
+  items:
+  - uid: '54721'
+    address1: 19 Vavilova Street
+    city: Moscow
+    postal_code: '117312'
+    country: Russia
+id_list:
+  items:
+  - uid: '25824'
+    id_type: Registration Number
+    id_number: '1157746819966'
+    id_country: Russia
+  - uid: '25825'
+    id_type: Tax ID No.
+    id_number: '7736252313'
+    id_country: Russia
+  - uid: '174204'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)"

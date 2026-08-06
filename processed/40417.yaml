@@ -1,0 +1,36 @@
+---
+uid: '40417'
+first_name: Reza
+last_name: KHAKI
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+address_list:
+  items:
+  - uid: '60226'
+    country: Iran
+id_list:
+  items:
+  - uid: '29580'
+    id_type: Passport
+    id_number: M38549339
+    id_country: Iran
+    expiration_date: 05 Nov 2021
+  - uid: '29581'
+    id_type: National ID No.
+    id_number: '1199127795'
+    id_country: Iran
+  - uid: '157574'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '157576'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '57573'
+    date_of_birth: 01 Aug 1970
+    main_entry: 'true'
+remarks: "(Linked To: QODS AVIATION INDUSTRIES)"

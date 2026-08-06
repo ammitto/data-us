@@ -1,0 +1,41 @@
+---
+uid: '34109'
+first_name: Bayardo de Jesus
+last_name: PULIDO ORTIZ
+sdn_type: Individual
+program_list:
+  programs:
+  - NICARAGUA
+address_list:
+  items:
+  - uid: '51131'
+    address1: Residencial Altos de Motastepe
+    address2: Casa 746
+    city: Ciudad Sandino
+    state_or_province: Managua
+    country: Nicaragua
+id_list:
+  items:
+  - uid: '23741'
+    id_type: Diplomatic Passport
+    id_number: E0022392
+    id_country: Nicaragua
+    issue_date: 12 Apr 2012
+    expiration_date: 12 Apr 2022
+  - uid: '23742'
+    id_type: National ID No.
+    id_number: '001291060007C'
+    id_country: Nicaragua
+  - uid: '145232'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '45233'
+    date_of_birth: 29 Oct 1960
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '45235'
+    place_of_birth: Masaya, Nicaragua
+    main_entry: 'true'

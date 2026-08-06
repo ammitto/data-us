@@ -1,0 +1,49 @@
+---
+uid: '7832'
+first_name: Moussa Ben Amor Ben Ali
+last_name: ESSAADI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '6650'
+    type: a.k.a.
+    category: weak
+    last_name: DAH DAH
+  - uid: '6651'
+    type: a.k.a.
+    category: weak
+    last_name: ABDELRAHMMAN
+  - uid: '6652'
+    type: a.k.a.
+    category: weak
+    last_name: BECHIR
+address_list:
+  items:
+  - uid: '6744'
+    address1: Via Milano n.108
+    city: Brescia
+    country: Italy
+id_list:
+  items:
+  - uid: '4075'
+    id_type: Passport
+    id_number: L335915
+    issue_date: '08 Nov 1996'
+    expiration_date: 07 Nov 2001
+  - uid: '185722'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '2041'
+    date_of_birth: 04 Dec 1964
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '2042'
+    place_of_birth: Tabarka, Tunisia
+    main_entry: 'true'

@@ -1,0 +1,65 @@
+---
+uid: '26671'
+first_name: Denis Igorevich
+last_name: GUSEV
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+aka_list:
+  items:
+  - uid: '42088'
+    type: a.k.a.
+    category: strong
+    last_name: POMOJAC
+    first_name: Marin
+  - uid: '42089'
+    type: a.k.a.
+    category: strong
+    last_name: GOTMAN
+    first_name: David
+address_list:
+  items:
+  - uid: '42092'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '17303'
+    id_type: Passport
+    id_number: '717386212'
+    id_country: Russia
+  - uid: '17304'
+    id_type: Passport
+    id_number: A1167292
+    id_country: Moldova
+  - uid: '17305'
+    id_type: Passport
+    id_number: '1213007'
+    id_country: Israel
+  - uid: '154565'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+  - uid: '131312'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '31314'
+    date_of_birth: '08 Jul 1977'
+    main_entry: 'false'
+  - uid: '31316'
+    date_of_birth: 07 Oct 1987
+    main_entry: 'false'
+  - uid: '31353'
+    date_of_birth: 10 Jun 1986
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '31313'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'
+  - uid: '31315'
+    place_of_birth: Ceadir-Lunga, Moldova
+    main_entry: 'false'
+remarks: "(Linked To: EVIL CORP)"

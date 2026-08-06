@@ -1,0 +1,56 @@
+---
+uid: '40193'
+last_name: COMMAND OF THE MILITARY TRANSPORT AVIATION
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - IRAN-CON-ARMS-EO
+aka_list:
+  items:
+  - uid: '62446'
+    type: a.k.a.
+    category: weak
+    last_name: VTA COMMAND
+  - uid: '62447'
+    type: a.k.a.
+    category: weak
+    last_name: MILITARY TRANSPORT AVIATION
+  - uid: '62448'
+    type: a.k.a.
+    category: weak
+    last_name: VTA
+  - uid: '70525'
+    type: a.k.a.
+    category: strong
+    last_name: FEDERALNOE KAZENNOE UCHREZHDENIE VOISKOVAIA CHAST 25969
+  - uid: '70526'
+    type: a.k.a.
+    category: strong
+    last_name: FEDERAL STATE INSTITUTION MILITARY UNIT 25969
+address_list:
+  items:
+  - uid: '59859'
+    address1: ul. Matrosskaia Tishina, 10
+    city: Moscow
+    postal_code: '107014'
+    country: Russia
+id_list:
+  items:
+  - uid: '35334'
+    id_type: Tax ID No.
+    id_number: '7718786880'
+    id_country: Russia
+  - uid: '35335'
+    id_type: Registration Number
+    id_number: '1097746767821'
+    id_country: Russia
+  - uid: '157085'
+    id_type: Target Type
+    id_number: Government Entity
+  - uid: '157084'
+    id_type: Organization Established Date
+    id_number: 01 Jun 1931
+  - uid: '174025'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

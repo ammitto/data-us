@@ -1,0 +1,44 @@
+---
+uid: '40142'
+first_name: Oscar Rolando
+last_name: CASTRO
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '62366'
+    type: a.k.a.
+    category: strong
+    last_name: CASTRO
+    first_name: Ronaldo
+address_list:
+  items:
+  - uid: '59779'
+    country: El Salvador
+id_list:
+  items:
+  - uid: '29278'
+    id_type: National ID No.
+    id_number: '007591947'
+    id_country: El Salvador
+  - uid: '29279'
+    id_type: Passport
+    id_number: DA000293
+    id_country: El Salvador
+    expiration_date: 10 Jun 2024
+  - uid: '157004'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '56999'
+    date_of_birth: 22 Apr 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '57001'
+    place_of_birth: Santa Elena, El Salvador
+    main_entry: 'true'
+title: Salvadoran Minister of Labor

@@ -1,0 +1,45 @@
+---
+uid: '40260'
+first_name: Aleksandr Aleksandrovich
+last_name: AVDEYEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '62626'
+    type: a.k.a.
+    category: strong
+    last_name: AVDEEV
+    first_name: Alexander Aleksandrovich
+address_list:
+  items:
+  - uid: '60011'
+    state_or_province: Vladimir Region
+    country: Russia
+id_list:
+  items:
+  - uid: '29445'
+    id_type: Tax ID No.
+    id_number: '402802522687'
+    id_country: Russia
+  - uid: '174062'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '157286'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '57282'
+    date_of_birth: 12 Aug 1975
+    main_entry: 'true'
+  - uid: '57284'
+    date_of_birth: '08 Dec 1975'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '57285'
+    place_of_birth: Kaluga, Kaluga region, Russia
+    main_entry: 'true'

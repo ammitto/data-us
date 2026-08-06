@@ -1,0 +1,45 @@
+---
+uid: '43071'
+last_name: KAZAN SYNTHETIC RUBBER PLANT JSC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '66693'
+    type: a.k.a.
+    category: weak
+    last_name: JSC KZSK
+  - uid: '66694'
+    type: a.k.a.
+    category: strong
+    last_name: OTKRITOE AKTCIONERNOE OBSHESTVO KAZANSKIJ ZAVOD SINTETICHESKOGO KAUCHUKA
+  - uid: '66695'
+    type: a.k.a.
+    category: weak
+    last_name: OAO KZSK
+address_list:
+  items:
+  - uid: '64219'
+    address1: 1 Lebedeva Str.
+    city: Kazan
+    state_or_province: Republic of Tatarstan
+    postal_code: '420054'
+    country: Russia
+id_list:
+  items:
+  - uid: '32645'
+    id_type: Tax ID No.
+    id_number: '1659032038'
+    id_country: Russia
+  - uid: '32646'
+    id_type: Registration Number
+    id_number: '1021603463485'
+    id_country: Russia
+  - uid: '161984'
+    id_type: Organization Established Date
+    id_number: 17 Jun 2002
+  - uid: '175509'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

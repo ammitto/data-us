@@ -1,0 +1,34 @@
+---
+uid: '7252'
+first_name: Nabil Ben Mohamed Ben Ali
+last_name: BEN ATTIA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '12960'
+    city: Tunis
+    country: Tunisia
+id_list:
+  items:
+  - uid: '4062'
+    id_type: Passport
+    id_number: L289032
+    issue_date: 22 Aug 2001
+    expiration_date: 21 Aug 2006
+  - uid: '185668'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '1444'
+    date_of_birth: 11 May 1966
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '1445'
+    place_of_birth: Tunis, Tunisia
+    main_entry: 'true'

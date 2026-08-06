@@ -1,0 +1,71 @@
+---
+uid: '10627'
+first_name: Claudia
+last_name: AGUIRRE SANCHEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '14833'
+    address1: Calle Gladiolas No. 28, Fraccionamiento Del Prado
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '14834'
+    address1: Calle Garita de Otay No. 1408, Colonia Mesa de Otay
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '14835'
+    address1: Priv del Cesar No. 7013, Fracc. Racial Agua Caliente
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '14836'
+    address1: c/o MULTISERVICIOS AGSA, S.A. DE C.V.
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '14837'
+    address1: c/o MEXGLOBO, S.A. DE C.V.
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '14838'
+    address1: c/o COCINA DE TIJUANA, S. DE R.L. DE C.V.
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '14839'
+    address1: c/o HACIENDA CIEN ANOS DE TIJUANA, S. DE R.L. DE C.V.
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '15010'
+    address1: Cll Gladiolas 11449, Lomas de Agua Caliente c de Las Torres c de S Fco
+    city: Tijuana
+    state_or_province: Baja California
+    postal_code: '22024'
+    country: Mexico
+id_list:
+  items:
+  - uid: '5175'
+    id_type: Electoral Registry No.
+    id_number: AGSNCL69010402M000
+    id_country: Mexico
+  - uid: '5176'
+    id_type: Cedula No.
+    id_number: '1993358'
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '6004'
+    date_of_birth: 04 Jan 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '6005'
+    place_of_birth: Tijuana, Baja California, Mexico
+    main_entry: 'true'

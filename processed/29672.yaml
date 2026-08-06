@@ -1,0 +1,34 @@
+---
+uid: '29672'
+first_name: Ana Julia
+last_name: GUIDO DE ROMERO
+sdn_type: Individual
+program_list:
+  programs:
+  - NICARAGUA
+address_list:
+  items:
+  - uid: '44721'
+    city: Iglesia
+    country: Nicaragua
+id_list:
+  items:
+  - uid: '19793'
+    id_type: Passport
+    id_number: A00000211
+    id_country: Nicaragua
+    issue_date: 14 Aug 2012
+    expiration_date: 14 Aug 2022
+  - uid: '136544'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '36543'
+    date_of_birth: 16 Feb 1959
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '36546'
+    place_of_birth: Matagalpa, Nicaragua
+    main_entry: 'true'

@@ -1,0 +1,38 @@
+---
+uid: '36941'
+first_name: Dmitrii Vladimirovich
+last_name: ZAUERS
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '58060'
+    type: a.k.a.
+    category: strong
+    last_name: ZAUERS
+    first_name: Dmitri Vladimirovich
+  - uid: '58061'
+    type: a.k.a.
+    category: strong
+    last_name: ZAUERS
+    first_name: Dmitry Vladimirovich
+address_list:
+  items:
+  - uid: '55321'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '151069'
+    id_type: Gender
+    id_number: Male
+  - uid: '174410'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '51067'
+    date_of_birth: '1979'
+    main_entry: 'true'

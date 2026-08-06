@@ -1,0 +1,43 @@
+---
+uid: '26523'
+last_name: MINERVEN
+sdn_type: Entity
+program_list:
+  programs:
+  - VENEZUELA-EO13850
+aka_list:
+  items:
+  - uid: '41858'
+    type: a.k.a.
+    category: strong
+    last_name: COMPANIA GENERAL DE MINERIA DE VENEZUELA
+  - uid: '41859'
+    type: a.k.a.
+    category: strong
+    last_name: CVG COMPANIA GENERAL DE MINERIA DE VENEZUELA CA
+  - uid: '41860'
+    type: a.k.a.
+    category: strong
+    last_name: CORPORACION VENEZOLANA DE GUAYANA MINERVEN C.A.
+  - uid: '41861'
+    type: a.k.a.
+    category: strong
+    last_name: CVG MINERVEN
+address_list:
+  items:
+  - uid: '40209'
+    address1: Via principal Carapal
+    city: El Callao
+    state_or_province: Bolivar
+    country: Venezuela
+  - uid: '40210'
+    address1: Zona Industrial Caratal
+    city: El Callao
+    state_or_province: Bolivar
+    country: Venezuela
+id_list:
+  items:
+  - uid: '17174'
+    id_type: National ID No.
+    id_number: J006985970
+    id_country: Venezuela

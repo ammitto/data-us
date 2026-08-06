@@ -1,0 +1,55 @@
+---
+uid: '24682'
+first_name: Hing Bun
+last_name: HIENG
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '38913'
+    type: a.k.a.
+    category: strong
+    last_name: BUNHEUNG
+    first_name: Hing
+  - uid: '38914'
+    type: a.k.a.
+    category: strong
+    last_name: BUNHEANG
+    first_name: Hing
+  - uid: '38915'
+    type: a.k.a.
+    category: strong
+    last_name: HEANG
+    first_name: Hing Bun
+  - uid: '38916'
+    type: a.k.a.
+    category: strong
+    last_name: HEANG
+    first_name: Him Bun
+address_list:
+  items:
+  - uid: '37313'
+    city: Takhmao
+    country: Cambodia
+  - uid: '37314'
+    address1: '22'
+    address2: St. 118
+    city: Phnom Penh
+    country: Cambodia
+id_list:
+  items:
+  - uid: '127558'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '27556'
+    date_of_birth: 01 Jan 1957
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '27557'
+    place_of_birth: Cambodia
+    main_entry: 'true'

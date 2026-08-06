@@ -1,0 +1,55 @@
+---
+uid: '39208'
+first_name: Mykyta Ivanovich
+last_name: SAMOILENKO
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '61173'
+    type: a.k.a.
+    category: strong
+    last_name: SAMOYLENKO
+    first_name: Nikita Ivanovich
+  - uid: '61174'
+    type: a.k.a.
+    category: strong
+    last_name: SAMOYLENKO
+    first_name: Mikita Ivanovich
+  - uid: '61175'
+    type: a.k.a.
+    category: strong
+    last_name: SAMOJLENKO
+    first_name: Nikita Ivanovich
+address_list:
+  items:
+  - uid: '58390'
+    address1: Gertsena Street 117
+    address2: Apt. 4
+    city: Berdyansk
+    state_or_province: Zaporizhzhia region
+    country: Ukraine
+id_list:
+  items:
+  - uid: '28446'
+    id_type: Tax ID No.
+    id_number: '3384311017'
+    id_country: Ukraine
+  - uid: '154990'
+    id_type: Gender
+    id_number: Male
+  - uid: '174765'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '54988'
+    date_of_birth: 28 Aug 1992
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '54989'
+    place_of_birth: Ukraine
+    main_entry: 'true'

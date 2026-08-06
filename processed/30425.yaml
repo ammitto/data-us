@@ -1,0 +1,50 @@
+---
+uid: '30425'
+first_name: Abdullahi Osman
+last_name: MOHAMED
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '47844'
+    type: a.k.a.
+    category: weak
+    last_name: ISMAIL, Engineer
+  - uid: '47845'
+    type: a.k.a.
+    category: weak
+    last_name: OSMAN, Abdullahi
+  - uid: '47846'
+    type: a.k.a.
+    category: weak
+    last_name: ADDE, Dhega
+address_list:
+  items:
+  - uid: '46050'
+    city: Baraawe
+    country: Somalia
+  - uid: '46051'
+    city: Jilib
+    state_or_province: Middle Juba Region
+    country: Somalia
+id_list:
+  items:
+  - uid: '138094'
+    id_type: Gender
+    id_number: Male
+  - uid: '187301'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '38085'
+    date_of_birth: '1984'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '38086'
+    place_of_birth: Mogadishu, Somalia
+    main_entry: 'true'

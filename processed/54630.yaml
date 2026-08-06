@@ -1,0 +1,45 @@
+---
+uid: '54630'
+last_name: A7 AGENT LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - CYBER4
+aka_list:
+  items:
+  - uid: '85019'
+    type: a.k.a.
+    category: weak
+    last_name: A7 AGENT LLC
+  - uid: '85020'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU A7 AGENT
+address_list:
+  items:
+  - uid: '83429'
+    address1: Ul. Lesnaya D. 9 Pomeshch. 2/10
+    city: Moscow
+    postal_code: '125196'
+    country: Russia
+id_list:
+  items:
+  - uid: '48317'
+    id_type: Registration Number
+    id_number: '1247700638570'
+    id_country: Russia
+  - uid: '48318'
+    id_type: Tax ID No.
+    id_number: '9710138144'
+    id_country: Russia
+  - uid: '190830'
+    id_type: Organization Established Date
+    id_number: 26 Sep 2024
+  - uid: '190831'
+    id_type: 'Organization Type:'
+    id_number: Other financial service activities, except insurance and pension funding
+      activities, n.e.c.
+  - uid: '192410'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+remarks: "(Linked To: A7 LIMITED LIABILITY COMPANY)"

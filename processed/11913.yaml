@@ -1,0 +1,58 @@
+---
+uid: '11913'
+last_name: ISLAMIC NATIONAL BANK OF GAZA
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '12655'
+    type: a.k.a.
+    category: strong
+    last_name: PALESTINE ISLAMIC NATIONAL BANK
+  - uid: '12656'
+    type: a.k.a.
+    category: weak
+    last_name: ISLAMIC NATIONAL BANK
+  - uid: '12657'
+    type: a.k.a.
+    category: weak
+    last_name: NATIONAL ISLAMIC BANK
+  - uid: '12658'
+    type: a.k.a.
+    category: strong
+    last_name: ISLAMIC NATIONAL BANK COMPANY
+  - uid: '12659'
+    type: a.k.a.
+    category: weak
+    last_name: NATIONAL AND ISLAMIC BANK
+address_list:
+  items:
+  - uid: '18098'
+    address1: Al-Rimal District
+    address2: Al Wandah Al Yarmuk Street junction
+    city: Gaza City
+    state_or_province: Gaza
+    country: Palestinian
+  - uid: '18099'
+    city: Khan Yunis
+    state_or_province: Gaza
+    country: Palestinian
+id_list:
+  items:
+  - uid: '6293'
+    id_type: Registration ID
+    id_number: '563201581'
+    id_country: Palestinian
+  - uid: '188687'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '110038'
+    id_type: Website
+    id_number: www.inb.ps
+  - uid: '110039'
+    id_type: Email Address
+    id_number: info@inb.ps
+remarks: 'Telephone: 97082881183; Fax: 97082881184'

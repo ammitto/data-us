@@ -1,0 +1,45 @@
+---
+uid: '25417'
+last_name: ARIAN BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - SDGT
+address_list:
+  items:
+  - uid: '38422'
+    address1: House 103, Shir Ali Khan Street, Charahi Torabaz Khan, District 10
+    city: Kabul
+    country: Afghanistan
+  - uid: '38423'
+    address1: Sherpoor, Hajj and religious affairs directorate Square, Etisalat Street
+    city: Kabul
+    country: Afghanistan
+  - uid: '38424'
+    address1: Opposite of Attorney General, Hanzala Mosque Road, Shahre now
+    city: Kabul
+    country: Afghanistan
+  - uid: '38425'
+    address1: PO Box 5810
+    country: Afghanistan
+  - uid: '38426'
+    address1: Ferdawsi Street (old telecommunication street), Between Alley 12 & 14
+    city: Herat
+    country: Afghanistan
+id_list:
+  items:
+  - uid: '128994'
+    id_type: SWIFT/BIC
+    id_number: AFABAFKA
+  - uid: '128993'
+    id_type: Website
+    id_number: www.arian-bank.com.af
+  - uid: '128992'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '186793'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: 'All Offices Worldwide; (Linked To: BANK MELLI IRAN)'

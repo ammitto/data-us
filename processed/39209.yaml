@@ -1,0 +1,49 @@
+---
+uid: '39209'
+first_name: Viktor Andriyovych
+last_name: EMELIANENKO
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '61178'
+    type: a.k.a.
+    category: strong
+    last_name: EMELYANENKO
+    first_name: Viktor Andreevich
+  - uid: '61179'
+    type: a.k.a.
+    category: strong
+    last_name: EMELIANENKO
+    first_name: Victor
+address_list:
+  items:
+  - uid: '58394'
+    address1: 19 Gogol Lane
+    city: Orekhovskiy District
+    state_or_province: Zaporizhzhia Region
+    country: Ukraine
+id_list:
+  items:
+  - uid: '28448'
+    id_type: Tax ID No.
+    id_number: '1964216354'
+    id_country: Ukraine
+  - uid: '154993'
+    id_type: Gender
+    id_number: Male
+  - uid: '174766'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '54991'
+    date_of_birth: 11 Oct 1953
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '54992'
+    place_of_birth: Egorovka Village, Orekhovskiy District, Zaporizhzhia Region, Ukraine
+    main_entry: 'true'

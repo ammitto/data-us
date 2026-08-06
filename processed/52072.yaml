@@ -1,0 +1,44 @@
+---
+uid: '52072'
+first_name: Nikita Vladimirovich
+last_name: KRASNOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '81544'
+    type: a.k.a.
+    category: weak
+    last_name: ACESCOM
+address_list:
+  items:
+  - uid: '79421'
+    address1: Berezovoy Roshchi Proezd, 10, AP. 144
+    city: Moscow
+    postal_code: '125252'
+    country: Russia
+id_list:
+  items:
+  - uid: '44912'
+    id_type: Passport
+    id_number: '710280633'
+    id_country: Russia
+    expiration_date: '09 Apr 2020'
+  - uid: '182884'
+    id_type: Gender
+    id_number: Male
+  - uid: '182888'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '82885'
+    date_of_birth: 13 Jan 1996
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '82886'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'

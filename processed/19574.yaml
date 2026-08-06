@@ -1,0 +1,26 @@
+---
+uid: '19574'
+last_name: HOERYONG SHIPPING CO LTD
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK3
+address_list:
+  items:
+  - uid: '29721'
+    address1: 108, Pongnam-dong
+    address2: Pyongchon-guyok
+    city: Pyongyang
+    country: Korea, North
+id_list:
+  items:
+  - uid: '11879'
+    id_type: Vessel Registration Identification
+    id_number: IMO 5817786
+  - uid: '135060'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '127130'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210

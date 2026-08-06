@@ -1,0 +1,38 @@
+---
+uid: '51125'
+last_name: JOINT STOCK COMPANY SPETSTECHNIKA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80109'
+    type: a.k.a.
+    category: strong
+    last_name: AO SPETSTEKHNIKA
+  - uid: '80110'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO SPETSTEKHNIKA
+address_list:
+  items:
+  - uid: '77698'
+    city: Ozernyi
+    country: Russia
+id_list:
+  items:
+  - uid: '43250'
+    id_type: Registration Number
+    id_number: '1096908000760'
+    id_country: Russia
+  - uid: '43251'
+    id_type: Tax ID No.
+    id_number: '6907010883'
+    id_country: Russia
+  - uid: '180158'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
+  - uid: '180414'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,41 @@
+---
+uid: '34114'
+last_name: MARUN PETROCHEMICAL COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13846
+aka_list:
+  items:
+  - uid: '53491'
+    type: a.k.a.
+    category: strong
+    last_name: MARUN PETROCHEMICAL
+  - uid: '53492'
+    type: a.k.a.
+    category: strong
+    last_name: MAROON PETROCHEMICAL COMPANY
+address_list:
+  items:
+  - uid: '51141'
+    address1: No 2, 17th Alley
+    address2: Hassan Seif Avenue, San'at Square
+    address3: Shahrake Gharb Ghods
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '23749'
+    id_type: National ID No.
+    id_number: '10860727671'
+    id_country: Iran
+  - uid: '145577'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '145251'
+    id_type: Website
+    id_number: https://www.mpc.ir
+  - uid: '152598'
+    id_type: Organization Established Date
+    id_number: '1999'
+remarks: "(Linked To: TRILIANCE PETROCHEMICAL CO. LTD.)"

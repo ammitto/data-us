@@ -1,0 +1,32 @@
+---
+uid: '57285'
+first_name: Anibal Vladimir
+last_name: MATUS BUITRAGO
+sdn_type: Individual
+program_list:
+  programs:
+  - NICARAGUA
+address_list:
+  items:
+  - uid: '87795'
+    city: Managua
+    country: Nicaragua
+id_list:
+  items:
+  - uid: '51576'
+    id_type: National ID No.
+    id_number: 001-250184-0016P
+    id_country: Nicaragua
+  - uid: '197150'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '97148'
+    date_of_birth: 25 Jan 1984
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '97149'
+    place_of_birth: Managua, Nicaragua
+    main_entry: 'true'

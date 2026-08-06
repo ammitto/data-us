@@ -1,0 +1,54 @@
+---
+uid: '41876'
+last_name: P.L. KAPITZA INSTITUTE FOR PHYSICAL PROBLEMS, RUSSIAN ACADEMY OF SCIENCES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '68201'
+    type: a.k.a.
+    category: strong
+    last_name: FEDERALNOE GOSUDARSTVENNOE BYUDZHETNOE UCHREZHDENIE NAUKI INSTITUT
+      FIZICHESKIKH PROBLEM IM. P.L. KAPITSY ROSSISKOI AKADEMII NAUK
+  - uid: '68202'
+    type: a.k.a.
+    category: weak
+    last_name: IFP RAN FGBU
+  - uid: '68203'
+    type: a.k.a.
+    category: weak
+    last_name: KIPP
+  - uid: '68204'
+    type: f.k.a.
+    category: strong
+    last_name: FEDERALNOE GOSUDARSTVENNOE BYUDZHETNOE UCHREZHDENIE NAUKI INSTITUT
+      FIZICHESKIKH PROBLEM IM. P.L. KAPITSY ROSSISKOI AKADEMII NAUK BU
+address_list:
+  items:
+  - uid: '65608'
+    address1: Kapitaza Institute, 2 ul. Kosygina
+    city: Moscow
+    postal_code: '119334'
+    country: Russia
+id_list:
+  items:
+  - uid: '33488'
+    id_type: Registration Number
+    id_number: '1037739409311'
+    id_country: Russia
+  - uid: '33489'
+    id_type: Government Gazette Number
+    id_number: '02699338'
+    id_country: Russia
+  - uid: '33490'
+    id_type: Tax ID No.
+    id_number: '7736039850'
+    id_country: Russia
+  - uid: '163659'
+    id_type: Organization Established Date
+    id_number: 31 Jan 1994
+  - uid: '173696'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

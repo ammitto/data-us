@@ -1,0 +1,43 @@
+---
+uid: '54668'
+first_name: Victor Andres
+last_name: FAVELA LOPEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+address_list:
+  items:
+  - uid: '83489'
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+id_list:
+  items:
+  - uid: '48356'
+    id_type: R.F.C.
+    id_number: FALV691128AM1
+    id_country: Mexico
+  - uid: '48357'
+    id_type: C.U.R.P.
+    id_number: FALV691128HSLVPC03
+    id_country: Mexico
+  - uid: '193926'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '190905'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '90902'
+    date_of_birth: 28 Nov 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '90903'
+    place_of_birth: Sinaloa, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: SINALOA CARTEL)"

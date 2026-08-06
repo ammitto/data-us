@@ -1,0 +1,28 @@
+---
+uid: '47689'
+last_name: TRUSTINFO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '71293'
+    address1: Sh. Varshavskoe D.125
+    address2: Str.16
+    city: Moscow
+    postal_code: '117587'
+    country: Russia
+id_list:
+  items:
+  - uid: '38316'
+    id_type: Registration Number
+    id_number: '1077764070625'
+    id_country: Russia
+  - uid: '38317'
+    id_type: Tax ID No.
+    id_number: '7726584574'
+    id_country: Russia
+  - uid: '169844'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

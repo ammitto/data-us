@@ -1,0 +1,49 @@
+---
+uid: '54628'
+last_name: A7 LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - CYBER4
+aka_list:
+  items:
+  - uid: '85012'
+    type: a.k.a.
+    category: weak
+    last_name: A7 LLC
+  - uid: '85013'
+    type: a.k.a.
+    category: weak
+    last_name: OOO A7
+  - uid: '85014'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU A7
+address_list:
+  items:
+  - uid: '83425'
+    address1: Ul. Lesnaya D. 9 Pomeshch. 2/10
+    city: Moscow
+    postal_code: '125196'
+    country: Russia
+id_list:
+  items:
+  - uid: '48313'
+    id_type: Registration Number
+    id_number: '1247700586891'
+    id_country: Russia
+  - uid: '48314'
+    id_type: Tax ID No.
+    id_number: '9710137165'
+    id_country: Russia
+  - uid: '190826'
+    id_type: Organization Established Date
+    id_number: 02 Sep 2024
+  - uid: '190827'
+    id_type: 'Organization Type:'
+    id_number: Other financial service activities, except insurance and pension funding
+      activities, n.e.c.
+  - uid: '192411'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+remarks: "(Linked To: GARANTEX EUROPE OU)"

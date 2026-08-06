@@ -1,0 +1,47 @@
+---
+uid: '44486'
+first_name: Mohamed Inthif
+last_name: RAUF
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '66244'
+    country: Maldives
+  - uid: '66245'
+    country: Sri Lanka
+id_list:
+  items:
+  - uid: '33991'
+    id_type: National ID No.
+    id_number: A336855
+    id_country: Maldives
+  - uid: '33992'
+    id_type: Passport
+    id_number: E0457534
+    id_country: Maldives
+    expiration_date: 21 Jul 2018
+  - uid: '33993'
+    id_type: Passport
+    id_number: LA16E9883
+    id_country: Maldives
+  - uid: '164378'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '164376'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '64374'
+    date_of_birth: '09 Sep 1988'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '64375'
+    place_of_birth: Male, Maldives
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC STATE OF IRAQ AND THE LEVANT)"

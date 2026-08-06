@@ -1,0 +1,47 @@
+---
+uid: '31124'
+first_name: Aleksei Yurievich
+last_name: KRIVORUCHKO
+sdn_type: Individual
+program_list:
+  programs:
+  - UKRAINE-EO13661
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '60338'
+    type: a.k.a.
+    category: strong
+    last_name: KRIVORUCHKO
+    first_name: Aleksey
+  - uid: '60339'
+    type: a.k.a.
+    category: strong
+    last_name: KRIVORUCHKO
+    first_name: Alexei
+address_list:
+  items:
+  - uid: '47008'
+    country: Russia
+id_list:
+  items:
+  - uid: '144083'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '173950'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '139514'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '39509'
+    date_of_birth: 17 Jul 1975
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '39510'
+    place_of_birth: Stavropol, Russia
+    main_entry: 'true'

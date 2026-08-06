@@ -1,0 +1,48 @@
+---
+uid: '37722'
+last_name: PUBLIC JOINT STOCK COMPANY VYMPEL INTERSTATE CORPORATION
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59157'
+    type: a.k.a.
+    category: weak
+    last_name: VIMPEL
+  - uid: '59158'
+    type: a.k.a.
+    category: strong
+    last_name: JSC MAC VYMPEL
+  - uid: '59159'
+    type: a.k.a.
+    category: strong
+    last_name: VYMPEL MAK PAO DEFENSE CORPORATION
+  - uid: '59161'
+    type: a.k.a.
+    category: strong
+    last_name: VYMPEL INTERSTATE COMMERCIAL CORPORATION
+address_list:
+  items:
+  - uid: '56417'
+    address1: 10, BLD. 1 Geroyev Panfilovtsev
+    city: Moscow
+    postal_code: '125480'
+    country: Russia
+id_list:
+  items:
+  - uid: '26965'
+    id_type: Tax ID No.
+    id_number: '7714041693'
+    id_country: Russia
+  - uid: '26966'
+    id_type: Registration Number
+    id_number: '1027700341855'
+    id_country: Russia
+  - uid: '173475'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '152671'
+    id_type: Organization Established Date
+    id_number: 29 Sep 1992

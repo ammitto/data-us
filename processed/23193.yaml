@@ -1,0 +1,37 @@
+---
+uid: '23193'
+first_name: Gordon
+last_name: DEBONO
+sdn_type: Individual
+program_list:
+  programs:
+  - LIBYA3
+address_list:
+  items:
+  - uid: '35071'
+    address1: 18, Drive 41, Tumas Galea Street Ta'Paris
+    city: Birkirkara
+    country: Malta
+id_list:
+  items:
+  - uid: '14625'
+    id_type: Passport
+    id_number: '354841'
+    id_country: Malta
+  - uid: '14628'
+    id_type: National ID No.
+    id_number: 234574M
+    id_country: Malta
+  - uid: '124855'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '25819'
+    date_of_birth: 07 May 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '24860'
+    place_of_birth: Malta
+    main_entry: 'true'

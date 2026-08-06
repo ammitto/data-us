@@ -1,0 +1,43 @@
+---
+uid: '42898'
+first_name: Weisheng
+last_name: SHEN
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+address_list:
+  items:
+  - uid: '64009'
+    state_or_province: Zhejiang
+    country: China
+id_list:
+  items:
+  - uid: '32479'
+    id_type: National ID No.
+    id_number: '330103195711011317'
+    id_country: China
+  - uid: '32480'
+    id_type: Passport
+    id_number: G23381737
+    id_country: China
+    issue_date: 13 Jun 2007
+    expiration_date: 12 Jun 2017
+  - uid: '161759'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '161758'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '61755'
+    date_of_birth: 01 Nov 1957
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '61756'
+    place_of_birth: Haimen, China
+    main_entry: 'true'
+remarks: "(Linked To: ZHEJIANG QINGJI IND. CO., LTD)"

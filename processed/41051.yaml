@@ -1,0 +1,31 @@
+---
+uid: '41051'
+first_name: Vladimir Vladimirovich
+last_name: MAZUR
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '61342'
+    state_or_province: Tomsk Region
+    country: Russia
+id_list:
+  items:
+  - uid: '158901'
+    id_type: Gender
+    id_number: Male
+  - uid: '173584'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '58899'
+    date_of_birth: 19 Jun 1966
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '58900'
+    place_of_birth: Krutolozhnoe, Tomsk Region, Russia
+    main_entry: 'true'

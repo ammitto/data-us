@@ -1,0 +1,35 @@
+---
+uid: '15004'
+first_name: Fausto Isidro
+last_name: MEZA ANGULO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+id_list:
+  items:
+  - uid: '4'
+    id_type: Passport
+    id_number: '040059510'
+    id_country: Mexico
+  - uid: '15679'
+    id_type: C.U.R.P.
+    id_number: MEAF640327HSLZNS05
+    id_country: Mexico
+  - uid: '15680'
+    id_type: R.F.C.
+    id_number: MEAF640327BC0
+    id_country: Mexico
+  - uid: '127058'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '12965'
+    date_of_birth: 27 Mar 1964
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '27057'
+    place_of_birth: Guasave, Sinaloa, Mexico
+    main_entry: 'true'

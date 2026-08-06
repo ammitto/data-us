@@ -1,0 +1,28 @@
+---
+uid: '47853'
+last_name: LIMITED LIABILITY COMPANY GEYSER GOLD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '71622'
+    address1: 40 Bolshoy Boulevard, Floor 5, Room 109
+    city: Moscow
+    postal_code: '121205'
+    country: Russia
+id_list:
+  items:
+  - uid: '38593'
+    id_type: Tax ID No.
+    id_number: '9731074646'
+    id_country: Russia
+  - uid: '38595'
+    id_type: Registration Number
+    id_number: '1217700033176'
+    id_country: Russia
+  - uid: '176492'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: LIMITED LIABILITY COMPANY HYPERSPACE)"

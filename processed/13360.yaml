@@ -1,0 +1,31 @@
+---
+uid: '13360'
+first_name: Carlos Jesus Ivan
+last_name: IBARRA CARDONA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '21339'
+    address1: Calle Lago La Doga 5312
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+id_list:
+  items:
+  - uid: '7875'
+    id_type: Passport
+    id_number: '970200221199'
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '9419'
+    date_of_birth: 02 Dec 1986
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '9420'
+    place_of_birth: Sonora, Mexico
+    main_entry: 'true'

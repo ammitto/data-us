@@ -1,0 +1,41 @@
+---
+uid: '38060'
+last_name: LIMITED LIABILITY COMPANY AVIAKOMPANIYA DALNEVOSTOCHNAYA KSM
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59783'
+    type: a.k.a.
+    category: strong
+    last_name: AVIAKOMPANIYA DALNEVOSTOCHNAYA KSM OOO
+address_list:
+  items:
+  - uid: '57080'
+    address1: ul. Pionerskaya d. 39
+    address2: pomeshch. 1001
+    city: Komsomolsk-on-Amur
+    postal_code: '681000'
+    country: Russia
+id_list:
+  items:
+  - uid: '27380'
+    id_type: Tax ID No.
+    id_number: '2703080980'
+    id_country: Russia
+  - uid: '27381'
+    id_type: Registration Number
+    id_number: '1142703004014'
+    id_country: Russia
+  - uid: '153365'
+    id_type: Organization Established Date
+    id_number: '08 Oct 2014'
+  - uid: '153366'
+    id_type: 'Organization Type:'
+    id_number: Freight air transport
+  - uid: '176891'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: ALIEV, Murat Magomedovich)"

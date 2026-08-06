@@ -1,0 +1,40 @@
+---
+uid: '33616'
+first_name: Jose Adrian
+last_name: CHAVARRIA MONTENEGRO
+sdn_type: Individual
+program_list:
+  programs:
+  - NICARAGUA
+address_list:
+  items:
+  - uid: '50393'
+    address1: Residencial Monte Cielo
+    address2: 'Casa #C 152'
+    city: Managua
+    country: Nicaragua
+id_list:
+  items:
+  - uid: '23236'
+    id_type: Diplomatic Passport
+    id_number: A00001069
+    id_country: Nicaragua
+    issue_date: 06 Aug 2015
+    expiration_date: 06 Aug 2025
+  - uid: '23237'
+    id_type: National ID No.
+    id_number: 2410809550003W
+    id_country: Nicaragua
+  - uid: '144421'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '44420'
+    date_of_birth: '08 Sep 1955'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '44419'
+    place_of_birth: Jinotega, Nicaragua
+    main_entry: 'true'

@@ -1,0 +1,56 @@
+---
+uid: '49828'
+first_name: Alexandre
+last_name: ORLOFF
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77681'
+    type: a.k.a.
+    category: weak
+    last_name: XIAO MA, Alexandre
+address_list:
+  items:
+  - uid: '75314'
+    address1: Ch. du Nant-de-Creve-Couer 16
+    city: Versoix
+    postal_code: '1290'
+    country: Switzerland
+  - uid: '75315'
+    country: United Arab Emirates
+  - uid: '75316'
+    address1: 71-75 Shelton Street
+    address2: Covent Garden
+    city: London
+    postal_code: WC2H 9JQ
+    country: United Kingdom
+id_list:
+  items:
+  - uid: '41727'
+    id_type: Passport
+    id_number: X3571033
+    id_country: Switzerland
+    expiration_date: 17 Jul 2023
+  - uid: '41728'
+    id_type: Passport
+    id_number: '531180646'
+    id_country: Russia
+  - uid: '177236'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '177676'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '77674'
+    date_of_birth: 30 Jul 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '77675'
+    place_of_birth: Lausanne, Switzerland
+    main_entry: 'true'

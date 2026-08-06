@@ -1,0 +1,46 @@
+---
+uid: '46818'
+first_name: Mohamed Atta Emoula
+last_name: ABBAS
+sdn_type: Individual
+program_list:
+  programs:
+  - SUDAN-EO14098
+aka_list:
+  items:
+  - uid: '72315'
+    type: a.k.a.
+    category: strong
+    last_name: "'ABBAS"
+    first_name: Muhammad 'Ata-al-Mawla
+  - uid: '72316'
+    type: a.k.a.
+    category: strong
+    last_name: AL-MAWLA
+    first_name: Mohamed Attta
+address_list:
+  items:
+  - uid: '69774'
+    address1: Kafouri 9
+    city: Khartoum
+    country: Sudan
+id_list:
+  items:
+  - uid: '36905'
+    id_type: Passport
+    id_number: D025725
+    id_country: Sudan
+    expiration_date: 19 Mar 2023
+  - uid: '167643'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '67642'
+    date_of_birth: 27 Apr 1957
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '67645'
+    place_of_birth: Khartoum, Sudan
+    main_entry: 'true'

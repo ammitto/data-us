@@ -1,0 +1,32 @@
+---
+uid: '43064'
+first_name: Maxamed
+last_name: CALI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '64206'
+    city: Wayanta
+    state_or_province: Lower Juba
+    country: Somalia
+id_list:
+  items:
+  - uid: '161964'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '161962'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '61960'
+    date_of_birth: '1983'
+    main_entry: 'true'
+  - uid: '61961'
+    date_of_birth: '1984'
+    main_entry: 'false'
+remarks: "(Linked To: AL-SHABAAB)"

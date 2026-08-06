@@ -1,0 +1,33 @@
+---
+uid: '49791'
+last_name: LIMITED LIABILITY COMPANY MICROPRIBOR
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77693'
+    type: a.k.a.
+    category: weak
+    last_name: MICPB
+address_list:
+  items:
+  - uid: '75238'
+    address1: ul. Karla Marksa, d. 244, office 62
+    city: Izhevsk
+    postal_code: '426008'
+    country: Russia
+id_list:
+  items:
+  - uid: '41262'
+    id_type: Registration Number
+    id_number: '1221800006581'
+    id_country: Russia
+  - uid: '41263'
+    id_type: Tax ID No.
+    id_number: '1831205707'
+    id_country: Russia
+  - uid: '177146'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

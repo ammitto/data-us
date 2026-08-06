@@ -1,0 +1,46 @@
+---
+uid: '34536'
+last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU VTB FOREKS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54087'
+    type: a.k.a.
+    category: strong
+    last_name: VTB FOREKS
+  - uid: '54088'
+    type: a.k.a.
+    category: strong
+    last_name: VTB FOREKS OOO
+address_list:
+  items:
+  - uid: '51764'
+    address1: Nab. Presnenskaya D. 10
+    address2: Blok S
+    address3: Floor 16
+    city: Moscow
+    postal_code: '123112'
+    country: Russia
+id_list:
+  items:
+  - uid: '24176'
+    id_type: Registration Number
+    id_number: '1167746257755'
+    id_country: Russia
+  - uid: '24177'
+    id_type: Tax ID No.
+    id_number: '9701034653'
+    id_country: Russia
+  - uid: '175139'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '145967'
+    id_type: Organization Established Date
+    id_number: 15 Mar 2016
+  - uid: '146700'
+    id_type: Target Type
+    id_number: Financial Institution
+remarks: "(Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)"

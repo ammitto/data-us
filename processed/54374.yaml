@@ -1,0 +1,49 @@
+---
+uid: '54374'
+first_name: Victor Manuel
+last_name: BARRAZA PABLOS
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+aka_list:
+  items:
+  - uid: '84653'
+    type: a.k.a.
+    category: weak
+    last_name: El 40
+address_list:
+  items:
+  - uid: '83031'
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+id_list:
+  items:
+  - uid: '47986'
+    id_type: C.U.R.P.
+    id_number: BAPV900717HSLRBC05
+    id_country: Mexico
+  - uid: '47987'
+    id_type: Passport
+    id_number: G37777562
+    id_country: Mexico
+  - uid: '190199'
+    id_type: Gender
+    id_number: Male
+  - uid: '190296'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '90196'
+    date_of_birth: 17 Jul 1990
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '90197'
+    place_of_birth: Culiacan, Sinaloa, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: SINALOA CARTEL)"

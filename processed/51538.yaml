@@ -1,0 +1,36 @@
+---
+uid: '51538'
+last_name: RN VANKOR
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+address_list:
+  items:
+  - uid: '78534'
+    address1: Ul. 78 Dobrovolcheskoi Brigady
+    address2: D.15
+    city: Krasnoyarsk
+    postal_code: '660077'
+    country: Russia
+id_list:
+  items:
+  - uid: '43958'
+    id_type: Registration Number
+    id_number: '1162468067541'
+    id_country: Russia
+  - uid: '43959'
+    id_type: Tax ID No.
+    id_number: '2465142996'
+    id_country: Russia
+  - uid: '181197'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
+  - uid: '181196'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183496'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

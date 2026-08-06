@@ -1,0 +1,37 @@
+---
+uid: '43376'
+first_name: Leobardo
+last_name: GARCIA CORRALES
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '67227'
+    type: a.k.a.
+    category: weak
+    last_name: Leo
+address_list:
+  items:
+  - uid: '64724'
+    country: Mexico
+id_list:
+  items:
+  - uid: '32956'
+    id_type: C.U.R.P.
+    id_number: GACL700310HSLRRB04
+    id_country: Mexico
+  - uid: '162730'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '62727'
+    date_of_birth: 10 Mar 1970
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '62728'
+    place_of_birth: Sinaloa, Mexico
+    main_entry: 'true'

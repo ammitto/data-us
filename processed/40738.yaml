@@ -1,0 +1,43 @@
+---
+uid: '40738'
+first_name: Abualfazl
+last_name: NAZERI
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+aka_list:
+  items:
+  - uid: '63330'
+    type: a.k.a.
+    category: strong
+    last_name: NAZARI
+    first_name: Abolfazl
+address_list:
+  items:
+  - uid: '60712'
+    country: Iran
+id_list:
+  items:
+  - uid: '29898'
+    id_type: National ID No.
+    id_number: '4910857826'
+    id_country: Iran
+  - uid: '158158'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '158159'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '58191'
+    date_of_birth: 14 Sep 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '58192'
+    place_of_birth: Shahryar, Iran
+    main_entry: 'true'
+remarks: "(Linked To: PARAVAR PARS COMPANY)"

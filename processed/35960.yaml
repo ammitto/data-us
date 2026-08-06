@@ -1,0 +1,48 @@
+---
+uid: '35960'
+first_name: Elena Petrovna
+last_name: TIMCHENKO
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56557'
+    type: a.k.a.
+    category: strong
+    last_name: TIMCHENKO
+    first_name: Yelena Petrovna
+  - uid: '56558'
+    type: a.k.a.
+    category: strong
+    last_name: TIMTCHENKO
+    first_name: Elena
+address_list:
+  items:
+  - uid: '53952'
+    country: Russia
+  - uid: '53954'
+    address1: 10 Rampe de Cologny
+    city: Geneva
+    postal_code: '1223'
+    country: Switzerland
+id_list:
+  items:
+  - uid: '149145'
+    id_type: Gender
+    id_number: Female
+  - uid: '173309'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '49146'
+    date_of_birth: 21 Dec 1955
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '49147'
+    place_of_birth: Russia
+    main_entry: 'true'
+remarks: "(Linked To: TIMCHENKO, Gennady Nikolayevich)"

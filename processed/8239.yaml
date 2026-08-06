@@ -1,0 +1,39 @@
+---
+uid: '8239'
+first_name: Norris
+last_name: NEMBHARD
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '6451'
+    type: a.k.a.
+    category: strong
+    last_name: NEMHARD
+    first_name: Norris
+  - uid: '6774'
+    type: a.k.a.
+    category: weak
+    last_name: DEDO
+  - uid: '6775'
+    type: a.k.a.
+    category: weak
+    last_name: DIDO
+date_of_birth_list:
+  items:
+  - uid: '2630'
+    date_of_birth: 05 Jan 1952
+    main_entry: 'true'
+  - uid: '2632'
+    date_of_birth: 05 Jan 1951
+    main_entry: 'false'
+  - uid: '2633'
+    date_of_birth: 12 May 1954
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '2631'
+    place_of_birth: Jamaica
+    main_entry: 'true'

@@ -1,0 +1,34 @@
+---
+uid: '57850'
+first_name: Ka On
+last_name: KONG
+sdn_type: Individual
+program_list:
+  programs:
+  - TCO
+address_list:
+  items:
+  - uid: '88729'
+    address1: Kowloon
+    city: Hong Kong
+    country: China
+id_list:
+  items:
+  - uid: '52346'
+    id_type: National ID No.
+    id_number: Z512299
+    id_country: Hong Kong
+  - uid: '198503'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '98504'
+    date_of_birth: 03 Jun 1983
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '98505'
+    place_of_birth: Hong Kong
+    main_entry: 'true'
+remarks: "(Linked To: HU, Xiaowei)"

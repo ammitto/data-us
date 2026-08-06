@@ -1,0 +1,43 @@
+---
+uid: '50218'
+first_name: Vladimir Mikhailovich
+last_name: ARKADIEV
+sdn_type: Individual
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '78359'
+    type: a.k.a.
+    category: strong
+    last_name: ARKADZYEU
+    first_name: Uladzimir Mihaylavych
+address_list:
+  items:
+  - uid: '76020'
+    country: Belarus
+id_list:
+  items:
+  - uid: '41856'
+    id_type: Passport
+    id_number: KH1935655
+    id_country: Russia
+    expiration_date: 16 Jan 2028
+  - uid: '41857'
+    id_type: National ID No.
+    id_number: 3230465K000PB5
+    id_country: Belarus
+  - uid: '177836'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '77837'
+    date_of_birth: 23 Apr 1965
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '78182'
+    place_of_birth: Russia
+    main_entry: 'true'

@@ -1,0 +1,40 @@
+---
+uid: '51478'
+last_name: AKTSIONERNOE OBSHCHESTVO INDEPENDENT SPECIALIZED DEPOSITORY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80732'
+    type: a.k.a.
+    category: strong
+    last_name: AO NSD
+  - uid: '80733'
+    type: a.k.a.
+    category: weak
+    last_name: JOINT STOCK COMPANY INVESTMENT COMPANY PEKO INVEST
+address_list:
+  items:
+  - uid: '78445'
+    address1: Ul. Kuznetskii Most D. 21/5, Office Et. 5 Pom. I Kom. 1-18
+    city: Moscow
+    postal_code: '107996'
+    country: Russia
+id_list:
+  items:
+  - uid: '43849'
+    id_type: Registration Number
+    id_number: '102773947019'
+    id_country: Russia
+  - uid: '43850'
+    id_type: Tax ID No.
+    id_number: '7715159793'
+    id_country: Russia
+  - uid: '181018'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '182817'
+    id_type: Target Type
+    id_number: Financial Institution

@@ -1,0 +1,119 @@
+---
+uid: '48849'
+last_name: FEDERAL STATE BUDGETARY INSTITUTION 48TH CENTRAL SCIENTIFIC AND RESEARCH
+  INSTITUTE OF THE MINISTRY OF DEFENSE OF THE RUSSIAN FEDERATION
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76066'
+    type: a.k.a.
+    category: strong
+    last_name: FEDERALNOE GOSUDARSTVENNOE BIUDZHETNOE UCHREZHDENIE 48 TSENTRALNYI
+      NAUCHNO ISSLEDOVATELSKII INSTITUT MINISTERSTVA OBORONY ROSSIISKOI FEDERATSII
+  - uid: '76067'
+    type: a.k.a.
+    category: strong
+    last_name: FGBU 48 TSNII MINOBORONY ROSSII
+  - uid: '76068'
+    type: a.k.a.
+    category: strong
+    last_name: 48 CENTRAL SCIENTIFIC RESEARCH INSTITUTE SERGIEV POSAD
+  - uid: '76069'
+    type: a.k.a.
+    category: strong
+    last_name: 48TH CENTRAL RESEARCH INSTITUTE, SERGIEV POSAD
+  - uid: '76070'
+    type: a.k.a.
+    category: strong
+    last_name: 48 TSNII SERGIEV POSAD
+  - uid: '76071'
+    type: a.k.a.
+    category: strong
+    last_name: ZARGORSK INSTITUTE
+  - uid: '76072'
+    type: a.k.a.
+    category: weak
+    last_name: SCIENTIFIC RESEARCH INSTITUTE OF MEDICINE
+  - uid: '76073'
+    type: a.k.a.
+    category: weak
+    last_name: THE VIROLOGY CENTER
+  - uid: '76074'
+    type: a.k.a.
+    category: strong
+    last_name: 48 CENTRAL SCIENTIFIC RESEARCH INSTITUTE KIROV
+  - uid: '76076'
+    type: a.k.a.
+    category: strong
+    last_name: 48TH TSNII KIROV
+  - uid: '76077'
+    type: a.k.a.
+    category: weak
+    last_name: SCIENTIFIC RESEARCH INSTITUTE OF MICROBIOLOGY
+  - uid: '76078'
+    type: a.k.a.
+    category: weak
+    last_name: SCIENTIFIC RESEARCH INSTITUTE OF EPIDEMIOLOGY AND HYGIENE
+  - uid: '76079'
+    type: a.k.a.
+    category: strong
+    last_name: 48 CENTRAL SCIENTIFIC RESEARCH INSTITUTE YEKATERINBURG
+  - uid: '76080'
+    type: a.k.a.
+    category: strong
+    last_name: 48TH TSNII YEKATERINBURG
+  - uid: '76081'
+    type: a.k.a.
+    category: weak
+    last_name: MILITARY TECHNICAL SCIENTIFIC RESEARCH INSTITUTE
+  - uid: '76082'
+    type: a.k.a.
+    category: strong
+    last_name: CENTER FOR MILITARY TECHNICAL PROBLEMS OF BIOLOGICAL DEFENSE
+address_list:
+  items:
+  - uid: '73457'
+    address1: Ul. Oktyabrskaya D. 11
+    city: Gorodok
+    postal_code: '141306'
+    country: Russia
+  - uid: '73458'
+    address1: 11 Ulitsa Oktyabrskaya
+    city: Sergiev Posad-6
+    state_or_province: Moscow Oblast
+    postal_code: '141306'
+    country: Russia
+  - uid: '73460'
+    address1: 119 Oktyabrsky Prospekt
+    city: Kirov
+    state_or_province: Kirov Oblast
+    postal_code: '610017'
+    country: Russia
+  - uid: '73461'
+    address1: 1 Ulitsa Zvezdnaya
+    city: Yekaterinburg
+    state_or_province: Sverdlovsk Oblast
+    postal_code: '620085'
+    country: Russia
+id_list:
+  items:
+  - uid: '39912'
+    id_type: Registration Number
+    id_number: '1136441000706'
+    id_country: Russia
+  - uid: '39913'
+    id_type: Tax ID No.
+    id_number: '5042129453'
+    id_country: Russia
+  - uid: '171532'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '171658'
+    id_type: Target Type
+    id_number: Government Entity
+  - uid: '171530'
+    id_type: Organization Established Date
+    id_number: 07 Apr 1928

@@ -1,0 +1,57 @@
+---
+uid: '30622'
+first_name: Ashraf
+last_name: AL-QIZANI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '48140'
+    type: a.k.a.
+    category: strong
+    last_name: AL-GIZANI
+    first_name: Ashraf
+  - uid: '48141'
+    type: a.k.a.
+    category: strong
+    last_name: AL-KAFI
+    first_name: Abu 'Ubaydah
+  - uid: '48142'
+    type: a.k.a.
+    category: strong
+    last_name: GUIZANI
+    first_name: Achref Ben Fethi Ben Mabrouk
+  - uid: '48144'
+    type: a.k.a.
+    category: strong
+    last_name: GUIZANI
+    first_name: Achraf Ben Fathi Ben Mabrouk
+address_list:
+  items:
+  - uid: '46323'
+    country: Tunisia
+id_list:
+  items:
+  - uid: '20725'
+    id_type: National ID No.
+    id_number: '13601334'
+    id_country: Tunisia
+  - uid: '187304'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '138441'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '38439'
+    date_of_birth: 05 Oct 1991
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '38440'
+    place_of_birth: El Gouazine, Dahmani, Governorate of Le Kef, Tunisia
+    main_entry: 'true'

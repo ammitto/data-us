@@ -1,0 +1,40 @@
+---
+uid: '43095'
+first_name: Sergey Yevgenyevich
+last_name: VELICHKO
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '64680'
+    country: Russia
+id_list:
+  items:
+  - uid: '32907'
+    id_type: Passport
+    id_number: '752332056'
+    id_country: Russia
+    issue_date: 24 Sep 2015
+    expiration_date: 24 Sep 2025
+  - uid: '32908'
+    id_type: National ID No.
+    id_number: '4502258245'
+    id_country: Russia
+  - uid: '162650'
+    id_type: Gender
+    id_number: Male
+  - uid: '175518'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '62647'
+    date_of_birth: 22 May 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '62649'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'

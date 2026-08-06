@@ -1,0 +1,51 @@
+---
+uid: '7326'
+first_name: Nabil Abdul Salam
+last_name: SAYADI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '5295'
+    type: a.k.a.
+    category: weak
+    last_name: ABOU ZEINAB
+address_list:
+  items:
+  - uid: '5765'
+    address1: 69 Rue des Bataves, 1040 Etterbeek
+    city: Brussels
+    country: Belgium
+  - uid: '5766'
+    address1: Vaatjesstraat, 29
+    city: Putte
+    postal_code: '2580'
+    country: Belgium
+id_list:
+  items:
+  - uid: '1655'
+    id_type: Passport
+    id_number: '1091875'
+  - uid: '3406'
+    id_type: National ID No.
+    id_number: 660000 73767
+    id_country: Belgium
+  - uid: '3407'
+    id_type: Public Security and Immigration No.
+    id_number: '98.805'
+  - uid: '185697'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '1516'
+    date_of_birth: 01 Jan 1966
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '1517'
+    place_of_birth: Tripoli, Lebanon
+    main_entry: 'true'

@@ -1,0 +1,38 @@
+---
+uid: '36410'
+last_name: JOINT STOCK COMPANY SBERBANK TECHNOLOGIES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '57349'
+    type: a.k.a.
+    category: strong
+    last_name: SBERTECH JSC
+  - uid: '57350'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY SBERBANK TECHNOLOGY
+address_list:
+  items:
+  - uid: '54695'
+    address1: 10 Novodanilovskaya Emb.
+    city: Moscow
+    postal_code: '117105'
+    country: Russia
+id_list:
+  items:
+  - uid: '25802'
+    id_type: Registration Number
+    id_number: '1117746533926'
+    id_country: Russia
+  - uid: '25803'
+    id_type: Tax ID No.
+    id_number: '7736632467'
+    id_country: Russia
+  - uid: '174196'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)"

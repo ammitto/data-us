@@ -1,0 +1,44 @@
+---
+uid: '45429'
+first_name: Jaber
+last_name: REIHANI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-CON-ARMS-EO
+aka_list:
+  items:
+  - uid: '70295'
+    type: a.k.a.
+    category: strong
+    last_name: REYHANI
+    first_name: Jaber
+address_list:
+  items:
+  - uid: '67592'
+    country: Iran
+  - uid: '67593'
+    country: Venezuela
+id_list:
+  items:
+  - uid: '35177'
+    id_type: National ID No.
+    id_number: '1652948600'
+    id_country: Iran
+  - uid: '166074'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '165977'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '65974'
+    date_of_birth: 28 Aug 1968
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '65975'
+    place_of_birth: Sarab, Iran
+    main_entry: 'true'
+remarks: "(Linked To: MINISTRY OF DEFENSE AND ARMED FORCES LOGISTICS)"

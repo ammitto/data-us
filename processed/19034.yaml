@@ -1,0 +1,53 @@
+---
+uid: '19034'
+last_name: JOINT STOCK COMPANY SEVASTOPOLSKY MORSKOY BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13685
+aka_list:
+  items:
+  - uid: '30030'
+    type: a.k.a.
+    category: strong
+    last_name: JSC SEVASTOPOLSKY MORSKOY BANK
+  - uid: '30031'
+    type: a.k.a.
+    category: strong
+    last_name: AO SEVASTOPOLSKIY MORSKOY BANK
+  - uid: '30032'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO SEVASTOPOLSKIY MORSKOY BANK
+address_list:
+  items:
+  - uid: '28965'
+    address1: 18a Brestska Street
+    city: Sevastopol
+    state_or_province: Crimea
+    postal_code: '99001'
+    country: Ukraine
+  - uid: '28966'
+    address1: 18/A Ulitsa Brestskaya
+    city: Sevastopol
+    state_or_province: Crimea
+    postal_code: '299001'
+    country: Ukraine
+id_list:
+  items:
+  - uid: '11517'
+    id_type: Registration ID
+    id_number: '1149204013397'
+  - uid: '118811'
+    id_type: SWIFT/BIC
+    id_number: MORKUAUK
+  - uid: '118795'
+    id_type: Website
+    id_number: www.morskoybank.com
+  - uid: '118793'
+    id_type: Email Address
+    id_number: root@morskoybank.com
+  - uid: '143651'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

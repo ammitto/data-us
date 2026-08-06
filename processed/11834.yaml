@@ -1,0 +1,73 @@
+---
+uid: '11834'
+first_name: Armando
+last_name: GUTIERREZ GARAVITO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '17945'
+    address1: c/o BLUE-STAR SECCION HOSTELERIA S.L.
+    city: Parla
+    state_or_province: Madrid
+    country: Spain
+  - uid: '17946'
+    address1: c/o EMPRESA DE EMPLEOS TEMPORALES LA UNICA LTDA.
+    city: Villavicencio
+    country: Colombia
+  - uid: '17947'
+    address1: c/o INVERSIONES GANADERAS Y PALMERAS S.A.
+    city: Bogota
+    country: Colombia
+  - uid: '17948'
+    address1: c/o INVERSIONES GANAGRO LTDA.
+    city: Villavicencio
+    country: Colombia
+  - uid: '17949'
+    address1: c/o INVERSIONES TALADRO LTDA.
+    city: Villavicencio
+    country: Colombia
+  - uid: '17950'
+    address1: Calle 8B No. 77-30
+    city: Bogota
+    country: Colombia
+  - uid: '17951'
+    address1: Calle 8B No. 78-30 Castilla Real
+    city: Bogota
+    country: Colombia
+  - uid: '17952'
+    address1: Calle 23F No. 73F-03
+    city: Bogota
+    country: Colombia
+  - uid: '17953'
+    address1: Calle Hacienda de Pavones
+    address2: No. 48
+    city: Madrid
+    country: Spain
+  - uid: '17954'
+    address1: Hacienda Oeste
+    city: Restrepo
+    state_or_province: Meta
+    country: Colombia
+id_list:
+  items:
+  - uid: '6233'
+    id_type: Cedula No.
+    id_number: '17410782'
+    id_country: Colombia
+  - uid: '6234'
+    id_type: N.I.E.
+    id_number: X-1552120-B
+    id_country: Spain
+date_of_birth_list:
+  items:
+  - uid: '7338'
+    date_of_birth: 02 Dec 1959
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '7339'
+    place_of_birth: Acacias, Meta, Colombia
+    main_entry: 'true'

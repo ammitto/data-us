@@ -1,0 +1,36 @@
+---
+uid: '56034'
+first_name: Muhammad Jamal Hassan
+last_name: AL-NAJJAR
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '85815'
+    country: Turkey
+id_list:
+  items:
+  - uid: '50199'
+    id_type: National ID No.
+    id_number: '801991969'
+    id_country: Palestinian
+  - uid: '50200'
+    id_type: Passport
+    id_number: '5799691'
+    id_country: Palestinian
+    expiration_date: '09 May 2028'
+  - uid: '194166'
+    id_type: Gender
+    id_number: Male
+  - uid: '194167'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '94164'
+    date_of_birth: 19 Jun 1988
+    main_entry: 'true'
+remarks: "(Linked To: HAMAS)"

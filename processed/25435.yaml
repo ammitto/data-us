@@ -1,0 +1,34 @@
+---
+uid: '25435'
+last_name: PERSIAN GULF SHIPPING LINES LTD
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN
+aka_list:
+  items:
+  - uid: '40004'
+    type: a.k.a.
+    category: strong
+    last_name: KHALIJ-E FARS (PERSIAN GULF) SHIPPING LINES
+  - uid: '40005'
+    type: a.k.a.
+    category: weak
+    last_name: PGSL
+address_list:
+  items:
+  - uid: '38479'
+    address1: Strovolos Center, Flat No. 204, Floor No. 2
+    address2: Strovolou 77
+    city: Nicosia
+    postal_code: '2018'
+    country: Cyprus
+id_list:
+  items:
+  - uid: '16471'
+    id_type: Trade License No.
+    id_number: C334268
+    id_country: Cyprus
+  - uid: '129035'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

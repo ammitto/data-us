@@ -1,0 +1,61 @@
+---
+uid: '35137'
+last_name: 0DAY TECHNOLOGIES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '55255'
+    type: a.k.a.
+    category: strong
+    last_name: LLC ZIROUDEY TEKHNOLODZHIS
+  - uid: '55256'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED 0DAY TECHNOLOGIES
+  - uid: '55257'
+    type: a.k.a.
+    category: weak
+    last_name: LTD 0DT
+address_list:
+  items:
+  - uid: '52768'
+    address1: UL. Profsoyuznaya D. 125
+    address2: Floor Tsokolnyi, Pomeshch. I. Kom. 14
+    city: Moscow
+    postal_code: '117647'
+    country: Russia
+  - uid: '60367'
+    address1: St. Vvedenskogo
+    address2: House 23A, Structure 3, etazh 4
+    address3: Room XIV, Room 62, Rm1b
+    city: Moscow
+    postal_code: '117342'
+    country: Russia
+id_list:
+  items:
+  - uid: '24886'
+    id_type: Tax ID No.
+    id_number: '7728795098'
+    id_country: Russia
+  - uid: '24887'
+    id_type: Registration ID
+    id_number: '5117746070558'
+    id_country: Russia
+  - uid: '147092'
+    id_type: Website
+    id_number: https://0day.llc/
+  - uid: '157732'
+    id_type: 'Organization Type:'
+    id_number: Other information technology and computer service activities
+  - uid: '157731'
+    id_type: Target Type
+    id_number: Private Company
+  - uid: '175273'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '147091'
+    id_type: Organization Established Date
+    id_number: 29 Dec 2001

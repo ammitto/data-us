@@ -1,0 +1,57 @@
+---
+uid: '53943'
+first_name: Cesar
+last_name: MORFIN MORFIN
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+aka_list:
+  items:
+  - uid: '84018'
+    type: a.k.a.
+    category: weak
+    last_name: PRIMITO
+  - uid: '84100'
+    type: a.k.a.
+    category: weak
+    last_name: PRIMO
+address_list:
+  items:
+  - uid: '82329'
+    state_or_province: Tamaulipas
+    country: Mexico
+  - uid: '82330'
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '82331'
+    state_or_province: Mexico City
+    country: Mexico
+  - uid: '82332'
+    state_or_province: Colima
+    country: Mexico
+id_list:
+  items:
+  - uid: '47390'
+    id_type: C.U.R.P.
+    id_number: MOMC871231HCMRRS00
+    id_country: Mexico
+  - uid: '189316'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '189105'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '89104'
+    date_of_birth: 31 Dec 1987
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '89106'
+    place_of_birth: Colima, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: CARTEL DE JALISCO NUEVA GENERACION)"

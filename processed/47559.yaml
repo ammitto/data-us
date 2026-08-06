@@ -1,0 +1,38 @@
+---
+uid: '47559'
+last_name: LIMITED LIABILITY COMPANY SPACE COMMUNICATIONS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73631'
+    type: a.k.a.
+    category: strong
+    last_name: OOO KOSKOM
+  - uid: '73785'
+    type: a.k.a.
+    category: weak
+    last_name: KOSMICHESKIE KOMMUNIKATSII
+address_list:
+  items:
+  - uid: '71019'
+    address1: ul. Aviamotornaya
+    address2: d. 53, k. 1, et. 6, kom. 91
+    city: Moscow
+    postal_code: '111024'
+    country: Russia
+id_list:
+  items:
+  - uid: '38080'
+    id_type: Tax ID No.
+    id_number: '7704313605'
+    id_country: Russia
+  - uid: '38081'
+    id_type: Registration Number
+    id_number: '1157746350046'
+    id_country: Russia
+  - uid: '169918'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

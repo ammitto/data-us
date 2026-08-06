@@ -1,0 +1,42 @@
+---
+uid: '36366'
+last_name: LIMITED LIABILITY COMPANY VLADEKS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '57251'
+    type: a.k.a.
+    category: strong
+    last_name: LLC VLADEKS
+  - uid: '57252'
+    type: a.k.a.
+    category: weak
+    last_name: VLADEX
+address_list:
+  items:
+  - uid: '54606'
+    address1: ul. Volkhovskaya, d. 29
+    address2: office 505
+    city: Vladivostok
+    postal_code: '690018'
+    country: Russia
+id_list:
+  items:
+  - uid: '25766'
+    id_type: Registration Number
+    id_number: '1182536008710'
+    id_country: Russia
+  - uid: '25767'
+    id_type: Tax ID No.
+    id_number: '2543123270'
+    id_country: Russia
+  - uid: '174010'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '149946'
+    id_type: Organization Established Date
+    id_number: 22 Mar 2018
+remarks: "(Linked To: MALOFEYEV, Kirill Konstantinovich)"

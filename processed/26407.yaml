@@ -1,0 +1,48 @@
+---
+uid: '26407'
+first_name: Conrado Adolfo
+last_name: FRENZEL
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '41715'
+    type: a.k.a.
+    category: weak
+    last_name: OTTO
+address_list:
+  items:
+  - uid: '40099'
+    city: Buenos Aires
+    country: Argentina
+id_list:
+  items:
+  - uid: '17094'
+    id_type: Passport
+    id_number: AAA435057
+    id_country: Argentina
+  - uid: '17095'
+    id_type: D.N.I.
+    id_number: '20608046'
+    id_country: Argentina
+  - uid: '17096'
+    id_type: C.U.I.T.
+    id_number: '23206080469'
+    id_country: Argentina
+  - uid: '130931'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '30928'
+    date_of_birth: 07 Nov 1968
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '30930'
+    place_of_birth: Buenos Aires, Argentina
+    main_entry: 'true'
+remarks: "(Linked To: HIGH NUTRITION SOCIEDAD DE RESPONSABILIDAD LIMITADA; Linked
+  To: B-WORK S.A.S.)"

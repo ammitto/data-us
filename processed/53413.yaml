@@ -1,0 +1,53 @@
+---
+uid: '53413'
+first_name: Vyacheslav Vladimirovich
+last_name: VIDANOV
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '83376'
+    type: a.k.a.
+    category: strong
+    last_name: VIDANOV
+    first_name: Viacheslav
+address_list:
+  items:
+  - uid: '81546'
+    address1: str. Kosmonavtov, d. 12/1, av. 34
+    city: Astrakhan
+    country: Russia
+id_list:
+  items:
+  - uid: '46612'
+    id_type: National ID No.
+    id_number: '1208209900'
+    id_country: Russia
+  - uid: '46613'
+    id_type: Passport
+    id_number: '751615121'
+    id_country: Russia
+  - uid: '46614'
+    id_type: Tax ID No.
+    id_number: '301711405290'
+    id_country: Russia
+  - uid: '187832'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '187831'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '87830'
+    date_of_birth: 29 Sep 1987
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '87833'
+    place_of_birth: Astrakhan, Russia
+    main_entry: 'true'
+remarks: "(Linked To: AL-JAMAL, Sa'id Ahmad Muhammad)"

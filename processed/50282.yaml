@@ -1,0 +1,40 @@
+---
+uid: '50282'
+last_name: AIRBRIDGECARGO AIRLINES LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78547'
+    type: a.k.a.
+    category: strong
+    last_name: AK EIRBRIDZHKARGO
+  - uid: '78548'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTIU AVIAKOMPANIIA EIRBRIDZHKARGO
+address_list:
+  items:
+  - uid: '76160'
+    address1: D. 28B, Str. 3 Mezhdunarodnoe Sh.
+    city: Moscow
+    postal_code: '141411'
+    country: Russia
+id_list:
+  items:
+  - uid: '41975'
+    id_type: Registration Number
+    id_number: '1057746295474'
+    id_country: Russia
+  - uid: '41976'
+    id_type: Tax ID No.
+    id_number: '7704548011'
+    id_country: Russia
+  - uid: '178029'
+    id_type: 'Organization Type:'
+    id_number: Freight air transport
+  - uid: '178031'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

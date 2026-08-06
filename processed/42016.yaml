@@ -1,0 +1,59 @@
+---
+uid: '42016'
+last_name: MIDAS RESSOURCES SARLU
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65309'
+    type: a.k.a.
+    category: strong
+    last_name: MIDAS RESSOURCES
+  - uid: '65310'
+    type: a.k.a.
+    category: strong
+    last_name: MIDAS RESSOURCES MINING COMPANY
+  - uid: '65313'
+    type: a.k.a.
+    category: strong
+    last_name: MIDAS RESSOURCES SURL
+  - uid: '65315'
+    type: a.k.a.
+    category: strong
+    last_name: MIDAS SURL
+  - uid: '65317'
+    type: a.k.a.
+    category: strong
+    last_name: MIDAS RESSOURCES LIMITED LIABILITY
+  - uid: '65318'
+    type: a.k.a.
+    category: weak
+    last_name: MIDAS RESOURCES
+address_list:
+  items:
+  - uid: '62708'
+    city: Bangui
+    country: Central African Republic
+  - uid: '62709'
+    city: Ndassima
+    country: Central African Republic
+id_list:
+  items:
+  - uid: '173745'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '160215'
+    id_type: 'Organization Type:'
+    id_number: Mining of other non-ferrous metal ores
+  - uid: '160214'
+    id_type: Target Type
+    id_number: Private Company
+  - uid: '160217'
+    id_type: Organization Established Date
+    id_number: 12 Nov 2019
+  - uid: '160213'
+    id_type: Website
+    id_number: www.midasrs.com
+remarks: "(Linked To: PRIGOZHIN, Yevgeniy Viktorovich)"

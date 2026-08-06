@@ -1,0 +1,33 @@
+---
+uid: '25681'
+last_name: FIRST EAST EXPORT BANK PLC
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - SDGT
+aka_list:
+  items:
+  - uid: '40395'
+    type: a.k.a.
+    category: strong
+    last_name: FEE BANK MALAYSIA
+address_list:
+  items:
+  - uid: '38855'
+    address1: Unit Level 10(B1), Main Office Tower, Financial Park, Jalan Merdeka
+    address2: 87000 Labuan F.T., Wilayah Persekutuan
+    country: Malaysia
+id_list:
+  items:
+  - uid: '129653'
+    id_type: SWIFT/BIC
+    id_number: FEEBMYKA
+  - uid: '129652'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '186832'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: 'All Offices Worldwide; (Linked To: BANK MELLAT)'

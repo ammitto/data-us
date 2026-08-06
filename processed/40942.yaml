@@ -1,0 +1,31 @@
+---
+uid: '40942'
+last_name: SWISSTEC 3D AKUS AG
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '61108'
+    address1: Ackerstrasse 45
+    city: Uster
+    postal_code: '8610'
+    country: Switzerland
+id_list:
+  items:
+  - uid: '30239'
+    id_type: Company Number
+    id_number: CH-197.109.049
+    id_country: Switzerland
+  - uid: '30240'
+    id_type: Registration Number
+    id_number: CH-020.3.044.174-6
+    id_country: Switzerland
+  - uid: '176923'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '158589'
+    id_type: Organization Established Date
+    id_number: 27 Jan 2017
+remarks: "(Linked To: MORETTI, Walter)"

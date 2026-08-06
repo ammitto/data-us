@@ -1,0 +1,51 @@
+---
+uid: '52892'
+last_name: CARTELES UNIDOS
+sdn_type: Entity
+program_list:
+  programs:
+  - FTO
+  - SDGT
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '82797'
+    type: a.k.a.
+    category: weak
+    last_name: UNITED CARTELS
+  - uid: '82798'
+    type: a.k.a.
+    category: strong
+    last_name: TEPALCATEPEC CARTEL
+  - uid: '82800'
+    type: a.k.a.
+    category: weak
+    last_name: THE GRANDFATHER CARTEL
+  - uid: '82802'
+    type: a.k.a.
+    category: weak
+    last_name: CARTEL DE LOS REYES
+  - uid: '85993'
+    type: a.k.a.
+    category: strong
+    last_name: CARTEL DE TEPALCATEPEC
+  - uid: '85994'
+    type: a.k.a.
+    category: weak
+    last_name: CARTEL DEL ABUELO
+address_list:
+  items:
+  - uid: '80848'
+    country: Mexico
+id_list:
+  items:
+  - uid: '185011'
+    id_type: 'Organization Type:'
+    id_number: Transnational Terrorist Group
+  - uid: '185010'
+    id_type: Target Type
+    id_number: Criminal Organization
+  - uid: '184868'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886

@@ -1,0 +1,52 @@
+---
+uid: '40252'
+first_name: Radiy Faritovich
+last_name: KHABIROV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '62604'
+    type: a.k.a.
+    category: strong
+    last_name: KHABIROV
+    first_name: Rady Faritovich
+  - uid: '62605'
+    type: a.k.a.
+    category: strong
+    last_name: KHABIROV
+    first_name: Radii Faritovich
+  - uid: '62606'
+    type: a.k.a.
+    category: strong
+    last_name: KHABIROV
+    first_name: Radyi Faritovich
+address_list:
+  items:
+  - uid: '59996'
+    state_or_province: Bashkortostan Republic
+    country: Russia
+id_list:
+  items:
+  - uid: '29436'
+    id_type: Tax ID No.
+    id_number: '027810331775'
+    id_country: Russia
+  - uid: '157253'
+    id_type: Gender
+    id_number: Male
+  - uid: '174055'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '57251'
+    date_of_birth: 20 Mar 1964
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '57252'
+    place_of_birth: Sayranovo, Bashkortostan Republic, Russia
+    main_entry: 'true'

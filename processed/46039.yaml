@@ -1,0 +1,35 @@
+---
+uid: '46039'
+last_name: LIMITED LIABILITY COMPANY YUP 2
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '71133'
+    type: a.k.a.
+    category: weak
+    last_name: OOO IUP 2
+address_list:
+  items:
+  - uid: '68583'
+    address1: d. 10 str. 12 etazh 4 Sluzhebn. kom. 14
+    address2: proezd 2-I Yuzhnoportovy
+    city: Moscow
+    postal_code: '115432'
+    country: Russia
+id_list:
+  items:
+  - uid: '35892'
+    id_type: Registration Number
+    id_number: '1207700303788'
+    id_country: Russia
+  - uid: '35893'
+    id_type: Tax ID No.
+    id_number: '9723103371'
+    id_country: Russia
+  - uid: '174912'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: LLC AEON HOLDING DEVELOPMENT)"

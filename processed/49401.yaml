@@ -1,0 +1,33 @@
+---
+uid: '49401'
+last_name: LIMITED LIABILITY COMPANY MODERN FORGING TECHNOLOGIES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77057'
+    type: a.k.a.
+    category: weak
+    last_name: OOO SKT
+address_list:
+  items:
+  - uid: '74471'
+    address1: ul. Eniseiskaya 8F
+    city: Chelyabinsk
+    postal_code: '454010'
+    country: Russia
+id_list:
+  items:
+  - uid: '40682'
+    id_type: Registration Number
+    id_number: '1197456017395'
+    id_country: Russia
+  - uid: '40683'
+    id_type: Tax ID No.
+    id_number: '7449138889'
+    id_country: Russia
+  - uid: '172473'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

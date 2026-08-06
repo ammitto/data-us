@@ -1,0 +1,52 @@
+---
+uid: '15241'
+first_name: Talal
+last_name: HAMIYAH
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '22797'
+    type: a.k.a.
+    category: strong
+    last_name: HAMIYAH
+    first_name: Talal Husni
+  - uid: '22798'
+    type: a.k.a.
+    category: strong
+    last_name: MEZERANI
+    first_name: Ismat
+id_list:
+  items:
+  - uid: '120139'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
+      Sanctions Regulations
+  - uid: '186109'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '12533'
+    date_of_birth: 27 Nov 1952
+    main_entry: 'true'
+  - uid: '12534'
+    date_of_birth: 18 Mar 1960
+    main_entry: 'false'
+  - uid: '12535'
+    date_of_birth: 05 Mar 1958
+    main_entry: 'false'
+  - uid: '12540'
+    date_of_birth: '08 Dec 1958'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '12536'
+    place_of_birth: Tarayya, Lebanon
+    main_entry: 'true'
+  - uid: '12537'
+    place_of_birth: Sojad, Lebanon
+    main_entry: 'false'

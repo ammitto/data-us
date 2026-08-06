@@ -1,0 +1,39 @@
+---
+uid: '50284'
+last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTIU NORGAU RUSSLAND
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78552'
+    type: a.k.a.
+    category: strong
+    last_name: OOO NORGAU RUSSLAND
+  - uid: '78553'
+    type: a.k.a.
+    category: strong
+    last_name: NORGAU RUSSLAND GMBH
+address_list:
+  items:
+  - uid: '76164'
+    address1: ul. Novatorov
+    address2: '1'
+    address3: et. /pomeshch. 2/LVI kom. 77
+    city: Moscow
+    postal_code: '119421'
+    country: Russia
+id_list:
+  items:
+  - uid: '41980'
+    id_type: Registration Number
+    id_number: '1037739226293'
+    id_country: Russia
+  - uid: '41981'
+    id_type: Tax ID No.
+    id_number: '7727159340'
+    id_country: Russia
+  - uid: '178072'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

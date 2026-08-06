@@ -1,0 +1,35 @@
+---
+uid: '49600'
+first_name: Denis Olegovich
+last_name: DEGTYARENKO
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+aka_list:
+  items:
+  - uid: '77351'
+    type: a.k.a.
+    category: weak
+    last_name: Dena
+address_list:
+  items:
+  - uid: '74884'
+    address1: 130 Lenina Avenue, Novy Gorod microdistrict
+    city: Orsk
+    state_or_province: Orenburg Region
+    country: Russia
+id_list:
+  items:
+  - uid: '41005'
+    id_type: Passport
+    id_number: '5309876581'
+    id_country: Russia
+  - uid: '172868'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '72875'
+    date_of_birth: '09 Oct 1989'
+    main_entry: 'true'

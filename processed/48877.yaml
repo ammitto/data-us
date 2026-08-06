@@ -1,0 +1,37 @@
+---
+uid: '48877'
+last_name: JOINT STOCK COMPANY MUROM SPECIAL DESIGN BUREAU
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76141'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO MUROMSKOE SPETSIALNOE KONSTRUKTORSKOE BYURO
+  - uid: '76142'
+    type: a.k.a.
+    category: weak
+    last_name: AO MUROMSKOE SKB
+address_list:
+  items:
+  - uid: '73517'
+    address1: 5 Karacharovskoe Highway
+    city: Murom
+    postal_code: '602251'
+    country: Russia
+id_list:
+  items:
+  - uid: '39950'
+    id_type: Registration Number
+    id_number: '1086623002190'
+    id_country: Russia
+  - uid: '39951'
+    id_type: Tax ID No.
+    id_number: '3307000983'
+    id_country: Russia
+  - uid: '171591'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

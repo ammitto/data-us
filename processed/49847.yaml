@@ -1,0 +1,40 @@
+---
+uid: '49847'
+first_name: Mohammad
+last_name: ABDOLLAHI
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '77712'
+    type: a.k.a.
+    category: strong
+    last_name: RICHTER
+    first_name: Aurik
+address_list:
+  items:
+  - uid: '75358'
+    city: Esfahan
+    country: Iran
+id_list:
+  items:
+  - uid: '177286'
+    id_type: Gender
+    id_number: Male
+  - uid: '177439'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '77283'
+    date_of_birth: 18 Sep 1992
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '77284'
+    place_of_birth: Esfahan, Iran
+    main_entry: 'true'
+remarks: "(Linked To: ELECTRO OPTIC SAIRAN INDUSTRIES CO.)"

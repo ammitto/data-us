@@ -1,0 +1,46 @@
+---
+uid: '34100'
+last_name: IRAN'S COUNTER-TERROR SPECIAL FORCES
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-HR
+aka_list:
+  items:
+  - uid: '53458'
+    type: a.k.a.
+    category: weak
+    last_name: PROVINCIAL SPECIAL FORCES
+  - uid: '53459'
+    type: a.k.a.
+    category: weak
+    last_name: NOPO
+  - uid: '53460'
+    type: a.k.a.
+    category: weak
+    last_name: SPECIAL COUNTER-TERRORISM FORCE
+  - uid: '53461'
+    type: a.k.a.
+    category: strong
+    last_name: SUPREME LEADER'S GUARDIAN SPECIAL FORCES
+  - uid: '53462'
+    type: a.k.a.
+    category: strong
+    last_name: NIROO-YE VIZHE PASDAR-E VELAYAT
+  - uid: '53463'
+    type: a.k.a.
+    category: strong
+    last_name: IRANIAN SPECIAL POLICE FORCES
+address_list:
+  items:
+  - uid: '51114'
+    country: Iran
+id_list:
+  items:
+  - uid: '145176'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '145408'
+    id_type: Target Type
+    id_number: Government Entity
+remarks: "(Linked To: SPECIAL UNITS OF IRAN'S LAW ENFORCEMENT FORCES)"

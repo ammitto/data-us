@@ -1,0 +1,38 @@
+---
+uid: '49999'
+last_name: OJSC VLADIMIR RADIO COMMUNICATIONS DESIGN BUREAU
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77935'
+    type: a.k.a.
+    category: weak
+    last_name: OAO VKBR
+  - uid: '77936'
+    type: a.k.a.
+    category: strong
+    last_name: OTKRYTOE AKTSIONERNOE OBSHCHESTVO VLADIMIRSKOE KONSTRUKTORSKOE BYURO
+      RADIOSVYAZI
+address_list:
+  items:
+  - uid: '75642'
+    address1: Ul. Baturina D. 28
+    city: Vladimir
+    postal_code: '600017'
+    country: Russia
+id_list:
+  items:
+  - uid: '41538'
+    id_type: Registration Number
+    id_number: '1023301456826'
+    id_country: Russia
+  - uid: '41539'
+    id_type: Tax ID No.
+    id_number: '3328412561'
+    id_country: Russia
+  - uid: '178168'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

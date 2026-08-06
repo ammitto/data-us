@@ -1,0 +1,38 @@
+---
+uid: '41098'
+last_name: JOINT STOCK COMPANY ENIKS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '64091'
+    type: a.k.a.
+    category: strong
+    last_name: ENIKS AO
+  - uid: '64182'
+    type: a.k.a.
+    category: strong
+    last_name: JSC ENIKS
+address_list:
+  items:
+  - uid: '61428'
+    address1: 120 Korolenko St.
+    city: Kazan
+    state_or_province: Tatarstan Republic
+    postal_code: '420094'
+    country: Russia
+id_list:
+  items:
+  - uid: '30439'
+    id_type: Business Registration Number
+    id_number: '1031632202227'
+    id_country: Russia
+  - uid: '30440'
+    id_type: Tax ID No.
+    id_number: '1661009974'
+    id_country: Russia
+  - uid: '173629'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

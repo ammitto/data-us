@@ -1,0 +1,30 @@
+---
+uid: '52173'
+first_name: Huaying
+last_name: LU
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+address_list:
+  items:
+  - uid: '79635'
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '45067'
+    id_type: Passport
+    id_number: EJ5513114
+    id_country: China
+  - uid: '183875'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '183095'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '83094'
+    date_of_birth: 01 Dec 1978
+    main_entry: 'true'
+remarks: "(Linked To: SIM, Hyon Sop)"

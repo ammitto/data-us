@@ -1,0 +1,38 @@
+---
+uid: '47622'
+last_name: SOVTEST ATE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73755'
+    type: a.k.a.
+    category: strong
+    last_name: SOVTEST ATE LTD
+address_list:
+  items:
+  - uid: '71152'
+    address1: Ul. Volodarskogo D. 49 A
+    city: Kursk
+    postal_code: '305000'
+    country: Russia
+  - uid: '71153'
+    address1: Ul. Karla Marksa Zd. 135/6
+    city: Kursk
+    postal_code: '305014'
+    country: Russia
+id_list:
+  items:
+  - uid: '38195'
+    id_type: Registration Number
+    id_number: '1024600955521'
+    id_country: Russia
+  - uid: '38196'
+    id_type: Tax ID No.
+    id_number: '4629047554'
+    id_country: Russia
+  - uid: '169897'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

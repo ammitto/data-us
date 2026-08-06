@@ -1,0 +1,44 @@
+---
+uid: '35838'
+last_name: ASIA GREEN DEVELOPMENT BANK LTD
+sdn_type: Entity
+program_list:
+  programs:
+  - BURMA-EO14014
+aka_list:
+  items:
+  - uid: '56281'
+    type: a.k.a.
+    category: strong
+    last_name: ASIA GREEN DEVELOPMENT BANK PUBLIC COMPANY LIMITED
+  - uid: '56282'
+    type: a.k.a.
+    category: strong
+    last_name: ASIA GREEN DEVELOPMENT BANK LIMITED
+  - uid: '56283'
+    type: a.k.a.
+    category: strong
+    last_name: AGD BANK
+address_list:
+  items:
+  - uid: '53756'
+    address1: No. 73/75, Sule Pagoda Road
+    address3: Pebadan Township
+    city: Yangon
+    country: Burma
+id_list:
+  items:
+  - uid: '25139'
+    id_type: National ID No.
+    id_number: '103903351'
+    id_country: Burma
+  - uid: '148971'
+    id_type: SWIFT/BIC
+    id_number: AGDBMMMY
+  - uid: '148972'
+    id_type: Website
+    id_number: http://www.agdbank.com
+  - uid: '148977'
+    id_type: 'Organization Type:'
+    id_number: Other financial service activities, except insurance and pension funding
+      activities, n.e.c.

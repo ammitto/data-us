@@ -1,0 +1,44 @@
+---
+uid: '49535'
+last_name: TAIBER OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77282'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU TAIBER
+address_list:
+  items:
+  - uid: '74763'
+    address1: ul. Bolshaya Tatarskaya 36
+    city: Moscow
+    state_or_province: Moscow
+    postal_code: '115184'
+    country: Russia
+id_list:
+  items:
+  - uid: '40895'
+    id_type: Tax ID No.
+    id_number: '9705016006'
+    id_country: Russia
+  - uid: '40896'
+    id_type: Government Gazette Number
+    id_number: '40625508'
+    id_country: Russia
+  - uid: '40897'
+    id_type: Business Registration Number
+    id_number: '1147748031705'
+    id_country: Russia
+  - uid: '172654'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '172650'
+    id_type: Website
+    id_number: www.tiber.su
+  - uid: '172649'
+    id_type: Organization Established Date
+    id_number: 12 Dec 2014

@@ -1,0 +1,43 @@
+---
+uid: '56683'
+first_name: Mostafa
+last_name: ROSTAMI SANI
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '87794'
+    type: a.k.a.
+    category: strong
+    last_name: ROSTAMI THANI
+    first_name: Mustafa
+address_list:
+  items:
+  - uid: '86733'
+    country: Iran
+id_list:
+  items:
+  - uid: '50787'
+    id_type: National ID No.
+    id_number: '0066637007'
+    id_country: Iran
+  - uid: '195356'
+    id_type: Gender
+    id_number: Male
+  - uid: '195358'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '95354'
+    date_of_birth: 27 Apr 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '95355'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: PARCHIN CHEMICAL INDUSTRIES)"

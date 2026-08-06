@@ -1,0 +1,45 @@
+---
+uid: '50546'
+first_name: Masoud
+last_name: JALILI
+sdn_type: Individual
+program_list:
+  programs:
+  - ELECTION-EO13848
+  - IFSR
+  - IRGC
+address_list:
+  items:
+  - uid: '76639'
+    address1: Number 3, Kagzar Alley, Shahid Hedayeti Avenue
+    address2: Shahid Soleimani Expressway
+    city: Tehran
+    postal_code: '1675646611'
+    country: Iran
+id_list:
+  items:
+  - uid: '42373'
+    id_type: National ID No.
+    id_number: '0079491391'
+    id_country: Iran
+  - uid: '42374'
+    id_type: Birth Certificate Number
+    id_number: '49332'
+    id_country: Iran
+  - uid: '178713'
+    id_type: Gender
+    id_number: Male
+  - uid: '179337'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '78710'
+    date_of_birth: '08 Dec 1987'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '78712'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS)"

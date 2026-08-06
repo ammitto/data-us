@@ -1,0 +1,36 @@
+---
+uid: '47428'
+last_name: LIMITED LIABILITY COMPANY AVANTAGE ENGINEERING
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73351'
+    type: a.k.a.
+    category: weak
+    last_name: AVANTAZH INZHINIRING OOO
+address_list:
+  items:
+  - uid: '70734'
+    address1: Pl. Malaya Sukharevskaya, D. 12
+    city: Moscow
+    postal_code: '127051'
+    country: Russia
+id_list:
+  items:
+  - uid: '37844'
+    id_type: Registration Number
+    id_number: '1092367003882'
+    id_country: Russia
+  - uid: '37845'
+    id_type: Tax ID No.
+    id_number: '2317054947'
+    id_country: Russia
+  - uid: '169702'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '168935'
+    id_type: Organization Established Date
+    id_number: 10 Nov 2009

@@ -1,0 +1,41 @@
+---
+uid: '47729'
+first_name: Nikolay Vladimirovich
+last_name: PORKHACHEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74003'
+    type: a.k.a.
+    category: strong
+    last_name: PORKHACHEV
+    first_name: Nikolai Vladimirovich
+address_list:
+  items:
+  - uid: '71373'
+    country: Russia
+id_list:
+  items:
+  - uid: '38382'
+    id_type: Tax ID No.
+    id_number: '770902376809'
+    id_country: Russia
+  - uid: '169231'
+    id_type: Gender
+    id_number: Male
+  - uid: '169642'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '69232'
+    date_of_birth: 27 Sep 1979
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '69233'
+    place_of_birth: Novovyatsk, Kirov region, Russia
+    main_entry: 'true'

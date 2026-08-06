@@ -1,0 +1,62 @@
+---
+uid: '44290'
+first_name: Petr Olegovich
+last_name: AVEN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '68503'
+    type: a.k.a.
+    category: strong
+    last_name: AVEN
+    first_name: Peter Olegovich
+  - uid: '68504'
+    type: a.k.a.
+    category: strong
+    last_name: AVEN
+    first_name: Pyotr
+  - uid: '68614'
+    type: a.k.a.
+    category: strong
+    last_name: AVENS
+    first_name: Pjotrs
+  - uid: '68950'
+    type: a.k.a.
+    category: strong
+    last_name: AVEN
+    first_name: Pjotr
+address_list:
+  items:
+  - uid: '65944'
+    city: Surrey
+    country: United Kingdom
+  - uid: '65945'
+    city: Moscow
+    country: Russia
+  - uid: '65946'
+    country: Latvia
+id_list:
+  items:
+  - uid: '33745'
+    id_type: Tax ID No.
+    id_number: '770400328495'
+    id_country: Russia
+  - uid: '173761'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '163988'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '63986'
+    date_of_birth: 16 Mar 1955
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '63987'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'

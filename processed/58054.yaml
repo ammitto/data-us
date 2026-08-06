@@ -1,0 +1,29 @@
+---
+uid: '58054'
+last_name: GRUPO EMPRESARIAL DE TRANSPORTE MARITIMO PORTUARIO
+sdn_type: Entity
+program_list:
+  programs:
+  - CUBA-EO14404
+aka_list:
+  items:
+  - uid: '89790'
+    type: a.k.a.
+    category: weak
+    last_name: GEMAR
+address_list:
+  items:
+  - uid: '89153'
+    city: Havana
+    country: Cuba
+id_list:
+  items:
+  - uid: '199343'
+    id_type: Organization Established Date
+    id_number: '2015'
+  - uid: '199434'
+    id_type: 'Organization Type:'
+    id_number: Activities of holding companies
+  - uid: '199435'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

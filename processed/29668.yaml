@@ -1,0 +1,43 @@
+---
+uid: '29668'
+first_name: Chaim Jose
+last_name: BUCARAN PARAGUAN
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+address_list:
+  items:
+  - uid: '44838'
+    address1: Calle Ayacucho Cruce con Calle Apure
+    address2: Casa Nro. 04
+    address3: Sector Pueblo Nuevo
+    city: Anaco
+    state_or_province: Anzoategui
+    postal_code: '6003'
+    country: Venezuela
+id_list:
+  items:
+  - uid: '19790'
+    id_type: Cedula No.
+    id_number: V-10998672
+    id_country: Venezuela
+  - uid: '19909'
+    id_type: Passport
+    id_number: '024751597'
+    id_country: Venezuela
+    issue_date: 03 Jul 2009
+    expiration_date: 02 Jul 2014
+  - uid: '136530'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '36531'
+    date_of_birth: 16 Aug 1972
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '36532'
+    place_of_birth: Anaco, Anzoategui, Venezuela
+    main_entry: 'true'

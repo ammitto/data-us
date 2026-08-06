@@ -1,0 +1,39 @@
+---
+uid: '47670'
+last_name: FINANSOVYE INFORMATSIONNYE SISTEMY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73868'
+    type: a.k.a.
+    category: weak
+    last_name: FINANCIAL INFORMATION SYSTEMS
+address_list:
+  items:
+  - uid: '71253'
+    address1: Ul. Dusi Kovalchuk D. 179/5
+    city: Novosibirsk
+    postal_code: '630049'
+    country: Russia
+  - uid: '71254'
+    address1: Ul. Musy Dzhalilya D. 3/1
+    address2: Of. 823
+    city: Novosibirsk
+    postal_code: '630055'
+    country: Russia
+id_list:
+  items:
+  - uid: '38279'
+    id_type: Registration Number
+    id_number: '1085445000046'
+    id_country: Russia
+  - uid: '38280'
+    id_type: Tax ID No.
+    id_number: '5445255281'
+    id_country: Russia
+  - uid: '169838'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

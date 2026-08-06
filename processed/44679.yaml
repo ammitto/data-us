@@ -1,0 +1,45 @@
+---
+uid: '44679'
+first_name: Zamid Alievich
+last_name: CHALAEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69056'
+    type: a.k.a.
+    category: strong
+    last_name: CHALAYEV
+    first_name: Zamid Alievich
+address_list:
+  items:
+  - uid: '66490'
+    address1: 8 T. Chalaeva St.
+    city: Sterch Kerch Locality
+    state_or_province: Nozhay Yurtovsky District, Chechnya
+    country: Russia
+  - uid: '66491'
+    address1: 49 Bisaeva St.
+    city: Gudermes
+    state_or_province: Chechnya
+    country: Russia
+id_list:
+  items:
+  - uid: '164808'
+    id_type: Gender
+    id_number: Male
+  - uid: '173780'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '64806'
+    date_of_birth: 19 Aug 1981
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '64807'
+    place_of_birth: Benoy Village, Nozhay Yurtovsky District, Chechnya, Russia
+    main_entry: 'true'

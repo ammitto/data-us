@@ -1,0 +1,50 @@
+---
+uid: '6714'
+first_name: Hsueh Kang
+last_name: WEI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '4437'
+    type: a.k.a.
+    category: strong
+    last_name: CHARNCHAI
+    first_name: Chiwinnitipanya
+  - uid: '4438'
+    type: a.k.a.
+    category: strong
+    last_name: CHIVINNITIPANYA
+    first_name: Prasit
+  - uid: '4444'
+    type: a.k.a.
+    category: strong
+    last_name: WEI
+    first_name: Xuekang
+address_list:
+  items:
+  - uid: '89065'
+    country: Burma
+id_list:
+  items:
+  - uid: '1472'
+    id_type: Passport
+    id_number: Q081061
+    id_country: Thailand
+  - uid: '3572'
+    id_type: Passport
+    id_number: E091929
+    id_country: Thailand
+  - uid: '199190'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '1170'
+    date_of_birth: 29 Jun 1952
+    main_entry: 'true'
+  - uid: '1171'
+    date_of_birth: 29 May 1952
+    main_entry: 'false'

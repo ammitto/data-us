@@ -1,0 +1,58 @@
+---
+uid: '11275'
+first_name: Kong
+last_name: PO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '11817'
+    type: a.k.a.
+    category: strong
+    last_name: PU
+    first_name: Chiang
+  - uid: '11818'
+    type: a.k.a.
+    category: weak
+    last_name: P'U LI
+address_list:
+  items:
+  - uid: '16543'
+    address1: c/o HONG PANG GEMS & JEWELLERY (HK) CO. LIMITED
+    city: Hong Kong
+    country: China
+  - uid: '16544'
+    address1: c/o TING SHING TAI JEWELLERY (HK)  CO. LIMITED
+    city: Hong Kong
+    country: China
+  - uid: '16545'
+    address1: c/o SHUEN WAI HOLDING LIMITED
+    city: Hong Kong
+    country: China
+  - uid: '16546'
+    address1: Flat B, 16/F, Dragon View
+    address2: No. 5 Dragon Terrace
+    city: Hong Kong
+    country: China
+  - uid: '16547'
+    address1: Flat 6, 2/F, Block 49
+    address2: Heng Fa Chuen, Chai Wan
+    city: Hong Kong
+    country: China
+id_list:
+  items:
+  - uid: '5749'
+    id_type: National ID No.
+    id_number: K357514(4)
+    id_country: Hong Kong
+  - uid: '5750'
+    id_type: Passport
+    id_number: H90011666
+    id_country: Hong Kong
+date_of_birth_list:
+  items:
+  - uid: '6644'
+    date_of_birth: 01 Sep 1944
+    main_entry: 'true'

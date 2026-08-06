@@ -1,0 +1,36 @@
+---
+uid: '51473'
+last_name: AKTSIONERNOE OBSHCHESTVO SURGUTINVESTNEFT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80722'
+    type: a.k.a.
+    category: strong
+    last_name: AO SURGUTINVESTNEFT
+address_list:
+  items:
+  - uid: '78434'
+    address1: Ul. Entuziastov 52, Korp. 1
+    city: Surgut
+    postal_code: '628400'
+    country: Russia
+id_list:
+  items:
+  - uid: '43839'
+    id_type: Registration Number
+    id_number: '1028600588246'
+    id_country: Russia
+  - uid: '43840'
+    id_type: Tax ID No.
+    id_number: '8602039063'
+    id_country: Russia
+  - uid: '182820'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '181013'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

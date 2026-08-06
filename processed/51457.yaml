@@ -1,0 +1,37 @@
+---
+uid: '51457'
+last_name: JOINT STOCK COMPANY RDC PARITET
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80696'
+    type: a.k.a.
+    category: strong
+    last_name: JSC RDC PARITET
+address_list:
+  items:
+  - uid: '78398'
+    address1: Per. 2-I Kozhevnicheskii D. 12, Str. 2, Floor 3
+    address2: Pomeshch. XVI, Komnata 4
+    city: Moscow
+    postal_code: '115114'
+    country: Russia
+id_list:
+  items:
+  - uid: '43804'
+    id_type: Registration Number
+    id_number: '1027700534806'
+    id_country: Russia
+  - uid: '43805'
+    id_type: Tax ID No.
+    id_number: '7723103642'
+    id_country: Russia
+  - uid: '182823'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '180985'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

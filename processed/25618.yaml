@@ -1,0 +1,39 @@
+---
+uid: '25618'
+last_name: POST BANK OF IRAN
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - IRAN
+  - NPWMD
+aka_list:
+  items:
+  - uid: '40243'
+    type: a.k.a.
+    category: strong
+    last_name: POSTBANK
+address_list:
+  items:
+  - uid: '38737'
+    address1: 237 Motahari Avenue
+    city: Tehran
+    postal_code: '1587618118'
+    country: Iran
+  - uid: '38738'
+    address1: Kouh-e Nour Street, Shahid Motahari Avenue
+    city: Tehran
+    postal_code: '1587618111'
+    country: Iran
+id_list:
+  items:
+  - uid: '129530'
+    id_type: SWIFT/BIC
+    id_number: PBIRIRTH
+  - uid: '129531'
+    id_type: Website
+    id_number: www.postbank.ir
+  - uid: '129529'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: 'All Offices Worldwide; (Linked To: BANK SEPAH)'

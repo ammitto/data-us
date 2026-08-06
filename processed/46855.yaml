@@ -1,0 +1,40 @@
+---
+uid: '46855'
+first_name: Michel
+last_name: RUKUNDA
+sdn_type: Individual
+program_list:
+  programs:
+  - DRCONGO
+aka_list:
+  items:
+  - uid: '72388'
+    type: a.k.a.
+    category: weak
+    last_name: Makanika
+address_list:
+  items:
+  - uid: '69826'
+    address1: Hauts Plateaux
+    state_or_province: South Kivu
+    country: Congo, Democratic Republic of the
+id_list:
+  items:
+  - uid: '36950'
+    id_type: Military Registration Number
+    id_number: '174935527545'
+    id_country: Congo, Democratic Republic of the
+  - uid: '167730'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '67728'
+    date_of_birth: 12 Sep 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '67729'
+    place_of_birth: Minembwe, Fizi Territory, South Kivu, Congo, Democratic Republic
+      of the
+    main_entry: 'true'

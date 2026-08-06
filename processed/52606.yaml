@@ -1,0 +1,45 @@
+---
+uid: '52606'
+last_name: JOINT STOCK COMPANY RESEARCH INSTITUTE OF PHYSICAL MEASUREMENTS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '82358'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO NAUCHNO ISSLEDOVATELSKII INSTITUT FIZICHESKIKH
+      IZMERENII
+  - uid: '82359'
+    type: a.k.a.
+    category: weak
+    last_name: AO NIIFI
+  - uid: '82360'
+    type: a.k.a.
+    category: weak
+    last_name: SCIENTIFIC RESEARCH INSTITUTE OF PHYSICAL INSTRUMENTS
+address_list:
+  items:
+  - uid: '80361'
+    address1: Str. 8/10, Ul. Volodarskogo
+    city: Penza
+    postal_code: '440026'
+    country: Russia
+id_list:
+  items:
+  - uid: '45656'
+    id_type: Registration Number
+    id_number: '1095836001304'
+    id_country: Russia
+  - uid: '45657'
+    id_type: Tax ID No.
+    id_number: '5836636246'
+    id_country: Russia
+  - uid: '184362'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
+  - uid: '184361'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

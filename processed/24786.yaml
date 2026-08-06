@@ -1,0 +1,73 @@
+---
+uid: '24786'
+first_name: Qassim Abdullah Ali
+last_name: AHMED
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '39183'
+    type: a.k.a.
+    category: strong
+    last_name: AL-MUAMEN
+    first_name: Qassim
+  - uid: '39184'
+    type: a.k.a.
+    category: strong
+    last_name: AL MUAMEN
+    first_name: Qassim
+  - uid: '39185'
+    type: a.k.a.
+    category: strong
+    last_name: ABDULLAH ALI
+    first_name: Qassim
+  - uid: '39186'
+    type: a.k.a.
+    category: strong
+    last_name: ABDULLAH
+    first_name: Qassim
+address_list:
+  items:
+  - uid: '37533'
+    country: Iran
+id_list:
+  items:
+  - uid: '39066'
+    id_type: Passport
+    id_number: '1948673'
+    id_country: Bahrain
+    issue_date: 18 Oct 2010
+    expiration_date: 18 Oct 2020
+  - uid: '39067'
+    id_type: National ID No.
+    id_number: '890906491'
+    id_country: Bahrain
+  - uid: '170256'
+    id_type: Gender
+    id_number: Male
+  - uid: '170266'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '27872'
+    date_of_birth: '1989'
+    main_entry: 'true'
+  - uid: '27873'
+    date_of_birth: '1988'
+    main_entry: 'false'
+  - uid: '27874'
+    date_of_birth: '1990'
+    main_entry: 'false'
+  - uid: '70254'
+    date_of_birth: '08 Sep 1989'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '70255'
+    place_of_birth: Sitrah, Bahrain
+    main_entry: 'true'
+remarks: "(Linked To: AL-ASHTAR BRIGADES)"

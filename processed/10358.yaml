@@ -1,0 +1,89 @@
+---
+uid: '10358'
+first_name: Midiam Patricia
+last_name: ZAMBADA NIEBLA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '10086'
+    type: a.k.a.
+    category: strong
+    last_name: ZAMBADA NIEBLA
+    first_name: Midian Patricia
+  - uid: '10087'
+    type: a.k.a.
+    category: strong
+    last_name: ZAMBADA NIEBLA
+    first_name: Miriam
+  - uid: '10088'
+    type: a.k.a.
+    category: strong
+    last_name: LOPEZ LANDEY
+    first_name: Midian Patricia
+address_list:
+  items:
+  - uid: '14088'
+    address1: c/o NUEVA INDUSTRIA DE GANADEROS DE CULIACAN S.A. DE C.V.
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '14089'
+    address1: c/o JAMARO CONSTRUCTORES S.A. DE C.V.
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '14090'
+    address1: c/o ESTABLO PUERTO RICO S.A. DE C.V.
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '14091'
+    address1: 'Calle Gabino Vazquez # 1206'
+    address2: Colonia Los Pinos
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '14092'
+    address1: 'Calle Ciudad de Hermosillo # 1168'
+    address2: Fraccionamiento Las Quintas
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '14093'
+    address1: Calle Lago Cuitzeo 1394
+    address2: Colonia Las Quintas
+    city: Culiacan
+    state_or_province: Sinaloa
+    postal_code: '80060'
+    country: Mexico
+id_list:
+  items:
+  - uid: '4953'
+    id_type: C.U.R.P.
+    id_number: ZANM710304MSLMBD14
+    id_country: Mexico
+  - uid: '4954'
+    id_type: C.U.R.P.
+    id_number: ZANM710304MSLMBDO6
+    id_country: Mexico
+  - uid: '4955'
+    id_type: R.F.C.
+    id_number: ZANM-710304-RN2
+    id_country: Mexico
+  - uid: '4956'
+    id_type: Passport
+    id_number: '97040022206'
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '5500'
+    date_of_birth: 04 Mar 1971
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '5501'
+    place_of_birth: Culiacan, Sinaloa, Mexico
+    main_entry: 'true'

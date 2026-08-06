@@ -1,0 +1,29 @@
+---
+uid: '51355'
+last_name: EUNOMIA LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '80625'
+    type: a.k.a.
+    category: strong
+    last_name: EUNOMIA LTD
+address_list:
+  items:
+  - uid: '78199'
+    country: Cayman Islands
+  - uid: '78200'
+    address1: 88, Lane 318, Minmin Lu, Pudong Qu
+    city: Shanghai
+    country: China
+id_list:
+  items:
+  - uid: '43642'
+    id_type: Identification Number
+    id_number: IMO 6205948
+  - uid: '180909'
+    id_type: Organization Established Date
+    id_number: '2022'

@@ -1,0 +1,43 @@
+---
+uid: '50500'
+first_name: Flavio
+last_name: GRAZIOTTIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '76566'
+    address1: Via Villaggio Brugherio 9
+    city: Brugherio
+    postal_code: '20861'
+    country: Italy
+id_list:
+  items:
+  - uid: '42300'
+    id_type: Passport
+    id_number: YA6213608
+    id_country: Italy
+    expiration_date: 19 Mar 2024
+  - uid: '42301'
+    id_type: Tax ID No.
+    id_number: GRZFLV43E13B639Y
+    id_country: Italy
+  - uid: '178552'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '178555'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '78553'
+    date_of_birth: 13 May 1943
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '78554'
+    place_of_birth: Cantu, Italy
+    main_entry: 'true'
+remarks: "(Linked To: IDRONAUT S.R.L.)"

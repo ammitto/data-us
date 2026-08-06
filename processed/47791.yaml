@@ -1,0 +1,34 @@
+---
+uid: '47791'
+last_name: JOINT STOCK COMPANY PROIZVODSTVENNOE OBEDINENIE FORT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74129'
+    type: a.k.a.
+    category: weak
+    last_name: JSC PO FORT
+address_list:
+  items:
+  - uid: '71501'
+    address1: d. 3 litera E pom. 46N
+    address2: proezd 3 I Rybatski
+    city: St. Petersburg
+    postal_code: '192177'
+    country: Russia
+id_list:
+  items:
+  - uid: '38480'
+    id_type: Registration Number
+    id_number: '1177847371085'
+    id_country: Russia
+  - uid: '38483'
+    id_type: Tax ID No.
+    id_number: '7811671725'
+    id_country: Russia
+  - uid: '169691'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,69 @@
+---
+uid: '55526'
+last_name: PASARGAD HELICOPTER COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+aka_list:
+  items:
+  - uid: '86386'
+    type: a.k.a.
+    category: strong
+    last_name: PASARGAD PARVAZ KISH CO
+  - uid: '86387'
+    type: a.k.a.
+    category: strong
+    last_name: PASARGAD PARVAZE KISH
+  - uid: '86388'
+    type: a.k.a.
+    category: strong
+    last_name: PASARGAD CO
+  - uid: '86389'
+    type: a.k.a.
+    category: weak
+    last_name: PHC
+address_list:
+  items:
+  - uid: '84901'
+    address1: 2nd and 3rd Floor, No. 10, Banisi St.
+    address2: Between Mirdamad Blvd. and Zafar Ave., Nelson Mandela Blvd.
+    city: Tehran
+    postal_code: '7941963355'
+    country: Iran
+  - uid: '84902'
+    address1: Pasargad Helicopter Hanger, Airside Area
+    address2: Kish International Airport
+    city: Kish Island
+    postal_code: '1968874511'
+    country: Iran
+  - uid: '84903'
+    address1: Unit 17, 4th Floor
+    address2: Mona Tower
+    city: Kish Island
+    country: Iran
+  - uid: '84904'
+    address1: Ground Floor, Kish International Exhibition Building
+    address2: No. 0, Imam Khomeini Square
+    address3: Airport Boulevard, Kish Airport
+    city: Bandar Lengeh
+    state_or_province: Hormozgan
+    country: Iran
+id_list:
+  items:
+  - uid: '49520'
+    id_type: National ID No.
+    id_number: '14006750018'
+    id_country: Iran
+  - uid: '49521'
+    id_type: Registration Number
+    id_number: '13360'
+    id_country: Iran
+  - uid: '193023'
+    id_type: Organization Established Date
+    id_number: 06 May 2017
+  - uid: '193022'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: IRAN HELICOPTER SUPPORT AND RENEWAL COMPANY)"

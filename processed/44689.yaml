@@ -1,0 +1,31 @@
+---
+uid: '44689'
+first_name: Vladimir Dmitrievich
+last_name: NECHAEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '66511'
+    city: Sevastopol
+    country: Ukraine
+id_list:
+  items:
+  - uid: '164843'
+    id_type: Gender
+    id_number: Male
+  - uid: '173790'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '64842'
+    date_of_birth: 20 Dec 1972
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '64845'
+    place_of_birth: Sudzha, Kursk Region, Russia
+    main_entry: 'true'

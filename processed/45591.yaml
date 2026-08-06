@@ -1,0 +1,40 @@
+---
+uid: '45591'
+last_name: IRS LASER TECHNOLOGY LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70459'
+    type: a.k.a.
+    category: strong
+    last_name: IRS LAZER TEKHNOLODZHI
+  - uid: '70460'
+    type: a.k.a.
+    category: weak
+    last_name: IRS LASER TECH
+address_list:
+  items:
+  - uid: '67775'
+    address1: Ul. Komsomolskaya D. 19
+    city: Berezovskiy
+    postal_code: '623704'
+    country: Russia
+id_list:
+  items:
+  - uid: '35259'
+    id_type: Registration Number
+    id_number: '1176658062129'
+    id_country: Russia
+  - uid: '35260'
+    id_type: Tax ID No.
+    id_number: '6678083936'
+    id_country: Russia
+  - uid: '176977'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '166134'
+    id_type: Organization Established Date
+    id_number: 22 Jun 2017

@@ -1,0 +1,37 @@
+---
+uid: '51226'
+last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU RTK TECHNOLOGIES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80309'
+    type: a.k.a.
+    category: strong
+    last_name: RTK TEKHNOLOGII OOO
+  - uid: '80491'
+    type: a.k.a.
+    category: weak
+    last_name: LIMITED LIABILITY COMPANY RTK TECHNOLOGIES
+address_list:
+  items:
+  - uid: '77923'
+    address1: d. 26 str. 10 pom. 1/3, shosse Varshavskoe
+    city: Moscow
+    postal_code: '117105'
+    country: Russia
+id_list:
+  items:
+  - uid: '43412'
+    id_type: Registration Number
+    id_number: '1137746125131'
+    id_country: Russia
+  - uid: '43413'
+    id_type: Tax ID No.
+    id_number: '7727798515'
+    id_country: Russia
+  - uid: '180352'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

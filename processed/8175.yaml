@@ -1,0 +1,41 @@
+---
+uid: '8175'
+first_name: Shaykh Abd-al-Majid
+last_name: AL-ZINDANI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '6296'
+    type: a.k.a.
+    category: strong
+    last_name: AL-ZINDANI
+    first_name: Abdelmajid
+  - uid: '6297'
+    type: a.k.a.
+    category: strong
+    last_name: AL-ZINDANI
+    first_name: Shaykh 'Abd Al-Majid
+id_list:
+  items:
+  - uid: '2274'
+    id_type: Passport
+    id_number: A005487
+    id_country: Yemen
+    issue_date: 13 Aug 1995
+  - uid: '185788'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '2528'
+    date_of_birth: circa 1950
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '2526'
+    place_of_birth: Yemen
+    main_entry: 'true'

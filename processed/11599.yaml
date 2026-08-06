@@ -1,0 +1,55 @@
+---
+uid: '11599'
+last_name: KOREA TANGUN TRADING CORPORATION
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+  - DPRK2
+aka_list:
+  items:
+  - uid: '27228'
+    type: a.k.a.
+    category: strong
+    last_name: RYUNGSENG TRADING CORPORATION
+  - uid: '27229'
+    type: a.k.a.
+    category: strong
+    last_name: RYUNG SENG TRADING CORPORATION
+  - uid: '27230'
+    type: a.k.a.
+    category: strong
+    last_name: RYUNGSONG TRADING CORPORATION
+  - uid: '35183'
+    type: a.k.a.
+    category: strong
+    last_name: KOREA KURYONGGANG TRADING CORPORATION
+  - uid: '89716'
+    type: a.k.a.
+    category: strong
+    last_name: SECOND ACADEMY OF NATURAL SCIENCES FOREIGN AFFAIRS BUREAU
+  - uid: '89717'
+    type: a.k.a.
+    category: strong
+    last_name: KOREA KUWOLSAN TRADING CORPORATION
+  - uid: '89718'
+    type: a.k.a.
+    category: strong
+    last_name: KOREA RYENHAP 2 TRADING CORPORATION
+address_list:
+  items:
+  - uid: '17397'
+    city: Pyongyang
+    country: Korea, North
+id_list:
+  items:
+  - uid: '127714'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '135045'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '199142'
+    id_type: Target Type
+    id_number: Government Entity

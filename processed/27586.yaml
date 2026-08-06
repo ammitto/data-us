@@ -1,0 +1,43 @@
+---
+uid: '27586'
+first_name: Rajesh
+last_name: GUPTA
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '43578'
+    type: a.k.a.
+    category: strong
+    last_name: GUPTA
+    first_name: Rajesh Kumar
+  - uid: '43579'
+    type: a.k.a.
+    category: weak
+    last_name: GUPTA, Tony
+address_list:
+  items:
+  - uid: '41859'
+    state_or_province: Dubai
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '18181'
+    id_type: National ID No.
+    id_number: '7208056345087'
+    id_country: South Africa
+  - uid: '132759'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '32758'
+    date_of_birth: 05 Aug 1972
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '32760'
+    place_of_birth: Saharanpur, India
+    main_entry: 'true'

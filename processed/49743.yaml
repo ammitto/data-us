@@ -1,0 +1,38 @@
+---
+uid: '49743'
+first_name: Anhui
+last_name: SHI
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+address_list:
+  items:
+  - uid: '75123'
+    country: China
+id_list:
+  items:
+  - uid: '41206'
+    id_type: National ID No.
+    id_number: '310104196206112835'
+  - uid: '177350'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '177036'
+    id_type: Gender
+    id_number: Male
+  - uid: '177351'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+date_of_birth_list:
+  items:
+  - uid: '77035'
+    date_of_birth: 11 Jun 1962
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '77037'
+    place_of_birth: Xuhui District, Shanghai
+    main_entry: 'true'
+remarks: "(Linked To: SHI, Qianpei)"

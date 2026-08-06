@@ -1,0 +1,71 @@
+---
+uid: '18315'
+last_name: STATE ENTERPRISE YALTA SEA TRADING PORT
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13685
+aka_list:
+  items:
+  - uid: '28354'
+    type: a.k.a.
+    category: strong
+    last_name: YALTA SEA PORT
+  - uid: '28355'
+    type: a.k.a.
+    category: strong
+    last_name: YALTA MERCHANT SEA PORT
+  - uid: '28356'
+    type: a.k.a.
+    category: strong
+    last_name: PORT OF YALTA
+  - uid: '28357'
+    type: a.k.a.
+    category: strong
+    last_name: YALTA COMMERCIAL SEAPORT
+  - uid: '28358'
+    type: a.k.a.
+    category: strong
+    last_name: SEAPORT OF YALTA
+address_list:
+  items:
+  - uid: '27730'
+    address1: Roosevelt Street 3
+    city: Yalta
+    state_or_province: Crimea
+    postal_code: '98600'
+    country: Ukraine
+  - uid: '27731'
+    address1: 5, Roosevelt Str.
+    city: Yalta
+    state_or_province: Crimea
+    postal_code: '98600'
+    country: Ukraine
+  - uid: '27732'
+    address1: 5 Roosevelt Street
+    city: Yalta
+    state_or_province: Crimea
+    postal_code: '98600'
+    country: Ukraine
+id_list:
+  items:
+  - uid: '10580'
+    id_type: Registration ID
+    id_number: '01125591'
+    id_country: Ukraine
+  - uid: '117612'
+    id_type: Website
+    id_number: yaltaport.com.ua
+  - uid: '117609'
+    id_type: Email Address
+    id_number: yasko@ukrpost.ua
+  - uid: '117610'
+    id_type: Email Address
+    id_number: yasco@mail.ylt.crimea.com
+  - uid: '117614'
+    id_type: UN/LOCODE
+    id_number: UA YAL
+  - uid: '143765'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

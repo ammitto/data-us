@@ -1,0 +1,43 @@
+---
+uid: '45058'
+first_name: Andrei Removich
+last_name: BOKAREV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69824'
+    type: a.k.a.
+    category: strong
+    last_name: BOKAREV
+    first_name: Andrey Removich
+address_list:
+  items:
+  - uid: '67109'
+    country: Russia
+id_list:
+  items:
+  - uid: '34775'
+    id_type: Tax ID No.
+    id_number: '1781321677'
+    id_country: Russia
+  - uid: '165422'
+    id_type: Gender
+    id_number: Male
+  - uid: '175930'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '65421'
+    date_of_birth: 23 Oct 1966
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '65423'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'
+remarks: "(Linked To: RUSSIAN ASSOCIATION OF EMPLOYERS THE RUSSIAN UNION OF INDUSTRIALISTS
+  AND ENTREPRENEURS)"

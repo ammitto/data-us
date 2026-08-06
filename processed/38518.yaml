@@ -1,0 +1,40 @@
+---
+uid: '38518'
+first_name: Nathaniel
+last_name: MCGILL
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '60294'
+    type: a.k.a.
+    category: strong
+    last_name: MCGILL
+    first_name: Nathaniel F.
+address_list:
+  items:
+  - uid: '57548'
+    city: Paynesville
+    country: Liberia
+id_list:
+  items:
+  - uid: '27819'
+    id_type: Passport
+    id_number: DP0002800
+    id_country: Liberia
+    expiration_date: 19 Apr 2023
+  - uid: '153937'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '53935'
+    date_of_birth: 01 Jan 1971
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '53936'
+    place_of_birth: Belle Yella, Liberia
+    main_entry: 'true'

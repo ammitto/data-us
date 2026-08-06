@@ -1,0 +1,31 @@
+---
+uid: '18155'
+last_name: MSN 383
+sdn_type: Aircraft
+program_list:
+  programs:
+  - IFSR
+  - SDGT
+  - NPWMD
+id_list:
+  items:
+  - uid: '117350'
+    id_type: Aircraft Manufacture Date
+    id_number: '2002'
+  - uid: '117352'
+    id_type: Aircraft Model
+    id_number: Airbus A340-642
+  - uid: '117370'
+    id_type: Previous Aircraft Tail Number
+    id_number: YI-NAA
+  - uid: '117351'
+    id_type: Aircraft Manufacturer's Serial Number (MSN)
+    id_number: '383'
+  - uid: '117362'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '186449'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: "(Linked To: MAHAN AIR)"

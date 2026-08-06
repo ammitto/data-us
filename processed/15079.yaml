@@ -1,0 +1,42 @@
+---
+uid: '15079'
+last_name: SALINA
+sdn_type: Vessel
+program_list:
+  programs:
+  - IRAN
+aka_list:
+  items:
+  - uid: '23475'
+    type: f.k.a.
+    category: strong
+    last_name: SARV
+  - uid: '24772'
+    type: f.k.a.
+    category: strong
+    last_name: BLACKSTONE
+  - uid: '40650'
+    type: f.k.a.
+    category: strong
+    last_name: SPLENDOUR
+id_list:
+  items:
+  - uid: '8088'
+    id_type: Vessel Registration Identification
+    id_number: IMO 9357377
+  - uid: '8151'
+    id_type: MMSI
+    id_number: '249257000'
+  - uid: '113012'
+    id_type: Former Vessel Flag
+    id_number: Malta
+  - uid: '113013'
+    id_type: Former Vessel Flag
+    id_number: Tuvalu
+  - uid: '114788'
+    id_type: Former Vessel Flag
+    id_number: Seychelles
+  - uid: '119282'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: NATIONAL IRANIAN TANKER COMPANY)"

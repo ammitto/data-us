@@ -1,0 +1,42 @@
+---
+uid: '56364'
+first_name: Daniela Alejandra
+last_name: ACUNA MACIAS
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '86280'
+    city: Jesus del Monte
+    state_or_province: Mexico
+    country: Mexico
+id_list:
+  items:
+  - uid: '50405'
+    id_type: Tarjeta de Identidad
+    id_number: '1193598517'
+    id_country: Colombia
+  - uid: '50406'
+    id_type: Passport
+    id_number: AU672689
+    id_country: Colombia
+  - uid: '50407'
+    id_type: Passport
+    id_number: AW849837
+    id_country: Colombia
+  - uid: '194590'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '94591'
+    date_of_birth: 07 Mar 2002
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '94810'
+    place_of_birth: Barranquilla, Colombia
+    main_entry: 'true'
+remarks: "(Linked To: WEDDING, Ryan James)"

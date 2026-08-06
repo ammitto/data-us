@@ -1,0 +1,41 @@
+---
+uid: '35884'
+last_name: JOINT STOCK COMPANY SALUTE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56407'
+    type: a.k.a.
+    category: strong
+    last_name: SALYUT AO
+  - uid: '56408'
+    type: a.k.a.
+    category: strong
+    last_name: SALYUT JSC
+address_list:
+  items:
+  - uid: '53850'
+    address1: Sh. Moskovskoe P. Mekhzavod D. 20
+    city: Samara
+    postal_code: '443028'
+    country: Russia
+id_list:
+  items:
+  - uid: '25223'
+    id_type: Tax ID No.
+    id_number: '6313034986'
+    id_country: Russia
+  - uid: '25224'
+    id_type: Registration Number
+    id_number: '1026300840983'
+    id_country: Russia
+  - uid: '173279'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '149077'
+    id_type: Organization Established Date
+    id_number: 25 Dec 1941
+remarks: "(Linked To: TACTICAL MISSILES CORPORATION JSC)"

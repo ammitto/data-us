@@ -1,0 +1,51 @@
+---
+uid: '56756'
+first_name: Mehdi
+last_name: RASHNO
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '87959'
+    type: a.k.a.
+    category: strong
+    last_name: RASHNU
+    first_name: Mehdi
+  - uid: '87960'
+    type: a.k.a.
+    category: strong
+    last_name: RASHNO
+    first_name: Mahdi
+address_list:
+  items:
+  - uid: '86898'
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '50880'
+    id_type: National ID No.
+    id_number: '4132286126'
+    id_country: Iran
+  - uid: '50881'
+    id_type: Passport
+    id_number: E56456884
+    id_country: Iran
+  - uid: '195705'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '195623'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '95622'
+    date_of_birth: 19 May 1982
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '95625'
+    place_of_birth: Borujerd, Iran
+    main_entry: 'true'

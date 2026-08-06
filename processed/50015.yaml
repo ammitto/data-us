@@ -1,0 +1,34 @@
+---
+uid: '50015'
+last_name: LIMITED LIABILITY COMPANY NPK TESART
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '75678'
+    address1: UL Tsiolkovskogo D. 19
+    address2: Kabinet 318
+    city: Tomsk
+    postal_code: '634015'
+    country: Russia
+id_list:
+  items:
+  - uid: '41569'
+    id_type: Tax ID No.
+    id_number: '7017376646'
+    id_country: Russia
+  - uid: '41570'
+    id_type: Registration Number
+    id_number: '1157017008170'
+    id_country: Russia
+  - uid: '177499'
+    id_type: Organization Established Date
+    id_number: 07 May 2015
+  - uid: '177498'
+    id_type: Website
+    id_number: tesart.ru
+  - uid: '177524'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,72 @@
+---
+uid: '22508'
+last_name: VVB, PAO
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13685
+aka_list:
+  items:
+  - uid: '35479'
+    type: a.k.a.
+    category: strong
+    last_name: PUBLIC JOINT-STOCK COMPANY BANK VVB
+  - uid: '35480'
+    type: a.k.a.
+    category: strong
+    last_name: PUBLICHNOYE JOINT-STOCK COMPANY BANK VVB
+  - uid: '35482'
+    type: a.k.a.
+    category: strong
+    last_name: PJSC BANK VVB
+  - uid: '35483'
+    type: f.k.a.
+    category: strong
+    last_name: COMMERCIAL JOINT-STOCK INCORPORATION BANK YAROSLAVICH
+  - uid: '35484'
+    type: f.k.a.
+    category: strong
+    last_name: KOMMERCHESKI BANK YAROSLAVICH, PAO
+  - uid: '35575'
+    type: a.k.a.
+    category: strong
+    last_name: PUBLICHNOE AKTSIONERNOE OBSHCHESTVO BANK VVB
+address_list:
+  items:
+  - uid: '34052'
+    address1: 3A ul., 4-ya Bastionnaya
+    city: Sevastopol
+    state_or_province: Crimea
+    postal_code: '299011'
+    country: Ukraine
+  - uid: '34053'
+    address1: Voronina, 10
+    city: Sevastopol
+    state_or_province: Crimea
+    postal_code: '299011'
+    country: Ukraine
+  - uid: '34054'
+    address1: 39A Ul. Suvorova
+    city: Sevastopol
+    state_or_province: Crimea
+    country: Ukraine
+  - uid: '34055'
+    address1: 5 Per. Pionerskiy
+    city: Simferopol
+    state_or_province: Crimea
+    country: Ukraine
+id_list:
+  items:
+  - uid: '124019'
+    id_type: BIK (RU)
+    id_number: '046711106'
+  - uid: '124020'
+    id_type: BIK (RU)
+    id_number: '043510133'
+  - uid: '144038'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '123949'
+    id_type: SWIFT/BIC
+    id_number: YARORU21

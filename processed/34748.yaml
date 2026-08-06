@@ -1,0 +1,42 @@
+---
+uid: '34748'
+last_name: SEPTEM CAPITAL LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54499'
+    type: a.k.a.
+    category: strong
+    last_name: SEPTEM CAPITAL LLC
+  - uid: '54849'
+    type: a.k.a.
+    category: strong
+    last_name: INVESTITSIONNAYA KOMPANIYA SEPTEM
+address_list:
+  items:
+  - uid: '52071'
+    address1: Ul. Odesskaya D. 2
+    address2: Pom. 6
+    city: Moscow
+    postal_code: '117638'
+    country: Russia
+id_list:
+  items:
+  - uid: '24416'
+    id_type: Tax ID No.
+    id_number: '7703809863'
+    id_country: Russia
+  - uid: '24417'
+    id_type: Registration Number
+    id_number: '1147746436749'
+    id_country: Russia
+  - uid: '146181'
+    id_type: Website
+    id_number: septemcapital.ru
+  - uid: '175196'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: SOVCOMBANK OPEN JOINT STOCK COMPANY)"

@@ -1,0 +1,35 @@
+---
+uid: '31776'
+first_name: Thein
+last_name: SOE
+sdn_type: Individual
+program_list:
+  programs:
+  - BURMA-EO14014
+aka_list:
+  items:
+  - uid: '50089'
+    type: a.k.a.
+    category: strong
+    last_name: SOE
+    first_name: U Thein
+address_list:
+  items:
+  - uid: '47833'
+    country: Burma
+id_list:
+  items:
+  - uid: '140342'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '40340'
+    date_of_birth: 23 Jan 1952
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '40341'
+    place_of_birth: Kani, Burma
+    main_entry: 'true'
+title: Union Election Commission Chairman

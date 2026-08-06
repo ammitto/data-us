@@ -1,0 +1,44 @@
+---
+uid: '35355'
+last_name: JOINT STOCK COMPANY SALAVAT CHEMICAL PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '55731'
+    type: a.k.a.
+    category: weak
+    last_name: JSC SKHZ
+  - uid: '55732'
+    type: a.k.a.
+    category: weak
+    last_name: AO CX3
+  - uid: '55733'
+    type: a.k.a.
+    category: strong
+    last_name: SALAVAT CHEMICAL PLANT
+address_list:
+  items:
+  - uid: '53183'
+    address1: 30 Mologvardeytsev Street
+    city: Salavat
+    state_or_province: Republic of Bashkortostan
+    postal_code: '453256'
+    country: Russia
+id_list:
+  items:
+  - uid: '25067'
+    id_type: Tax ID No.
+    id_number: '266036534'
+    id_country: Russia
+  - uid: '147638'
+    id_type: Website
+    id_number: www.salavathz.ru
+  - uid: '176744'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '147639'
+    id_type: Organization Established Date
+    id_number: 01 Nov 2012

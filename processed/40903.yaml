@@ -1,0 +1,49 @@
+---
+uid: '40903'
+last_name: JOINT STOCK COMPANY COMMERCIAL BANK LANTA BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63672'
+    type: f.k.a.
+    category: strong
+    last_name: CLOSED JOINT STOCK COMPANY COMMERCIAL BANK LANTA BANK
+address_list:
+  items:
+  - uid: '61020'
+    address1: 9 Novokuznetskaya Street
+    address2: building 2
+    city: Moscow
+    postal_code: '115184'
+    country: Russia
+id_list:
+  items:
+  - uid: '30174'
+    id_type: Registration Number
+    id_number: '1037739042912'
+    id_country: Russia
+  - uid: '30175'
+    id_type: Tax ID No.
+    id_number: '7705260427'
+    id_country: Russia
+  - uid: '30176'
+    id_type: Legal Entity Number
+    id_number: 2534001F52UDT7V2KR58
+  - uid: '158457'
+    id_type: Organization Established Date
+    id_number: 24 Jun 1992
+  - uid: '158458'
+    id_type: SWIFT/BIC
+    id_number: COLKRUMM
+  - uid: '158460'
+    id_type: Website
+    id_number: http://www.lanta.ru
+  - uid: '158459'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '175306'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

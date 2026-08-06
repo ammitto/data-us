@@ -1,0 +1,43 @@
+---
+uid: '40585'
+last_name: OBSHCHESTVO S ORGANICHENNOY OTVETSTVENNOSTYU DALNEVOSTOCHNYY PROEKTNYY
+  INSTITUT VOSTOKPROEKTVERF
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63088'
+    type: a.k.a.
+    category: strong
+    last_name: FAR EAST INSTITUTE VOSTOKPROECTVERF LIMITED LIABILITY CORPORATION
+  - uid: '63089'
+    type: a.k.a.
+    category: strong
+    last_name: FDI VOSTOKPROEKTVERF
+address_list:
+  items:
+  - uid: '60460'
+    address1: 72 Ulitsa Svetlanskaya
+    city: Vladivostok
+    postal_code: '690091'
+    country: Russia
+id_list:
+  items:
+  - uid: '29735'
+    id_type: Tax ID No.
+    id_number: '2536207610'
+    id_country: Russia
+  - uid: '29736'
+    id_type: Registration Number
+    id_number: '1082536011250'
+    id_country: Russia
+  - uid: '157863'
+    id_type: Organization Established Date
+    id_number: 19 Aug 2008
+  - uid: '174128'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: AKTSIONERNOYE OBSHCHESTVO DALNEVOSTOCHNYY TSENTR SUDOSTROYENIYA
+  I SUDOREMONTA)"

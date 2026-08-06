@@ -1,0 +1,44 @@
+---
+uid: '34738'
+last_name: AKTSIONERNOE OBSHCHESTVO FINTENDER
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54474'
+    type: a.k.a.
+    category: strong
+    last_name: FINTENDER JSC
+  - uid: '54843'
+    type: a.k.a.
+    category: strong
+    last_name: AO FINTENDER
+  - uid: '54844'
+    type: a.k.a.
+    category: strong
+    last_name: FINTENDER JOINT STOCK COMPANY
+address_list:
+  items:
+  - uid: '52048'
+    address1: Pr-Kt Tekstilshchikov D. 46
+    address2: Pomeshch. 1
+    address3: Kom.56
+    city: Kostroma
+    postal_code: '156000'
+    country: Russia
+id_list:
+  items:
+  - uid: '24401'
+    id_type: Tax ID No.
+    id_number: '7743113487'
+    id_country: Russia
+  - uid: '24402'
+    id_type: Registration Number
+    id_number: '1157746705930'
+    id_country: Russia
+  - uid: '175190'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: SOVCOMBANK OPEN JOINT STOCK COMPANY)"

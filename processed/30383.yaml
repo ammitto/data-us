@@ -1,0 +1,55 @@
+---
+uid: '30383'
+last_name: BEHRAN OIL CO.
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13876
+aka_list:
+  items:
+  - uid: '47780'
+    type: a.k.a.
+    category: strong
+    last_name: BEHRAN OIL
+  - uid: '47781'
+    type: a.k.a.
+    category: strong
+    last_name: BEHRAN OIL PUBLIC JOINT STOCK COMPANY
+address_list:
+  items:
+  - uid: '45990'
+    address1: No 2, Sharifi Alley, Dastgerdi St
+    address2: Shariati Ave
+    city: Tehran
+    country: Iran
+  - uid: '45998'
+    address1: PO Box 15876
+    city: Tehran
+    country: Iran
+  - uid: '46003'
+    address1: End of rey's Tasisa-e-nafti boulevard
+    address2: kheir Abad intersection
+    address3: Qom old road shahid rajaei expressway
+    city: Tehran
+    country: Iran
+  - uid: '46005'
+    address1: Behran Oil Co, Sa'adi St
+    city: Basre
+    country: Iraq
+id_list:
+  items:
+  - uid: '20564'
+    id_type: National ID No.
+    id_number: '10100434484'
+    id_country: Iran
+  - uid: '20565'
+    id_type: Registration Number
+    id_number: '10844'
+    id_country: Iran
+  - uid: '138058'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '138059'
+    id_type: Website
+    id_number: www.behranoil.co
+remarks: "(Linked To: ISLAMIC REVOLUTION MOSTAZAFAN FOUNDATION)"

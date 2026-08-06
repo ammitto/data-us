@@ -1,0 +1,67 @@
+---
+uid: '35998'
+last_name: P.B. SADR CO.
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '56633'
+    type: a.k.a.
+    category: strong
+    last_name: PARS BANAYE SADR CONSTRUCTION COMPANY
+  - uid: '56634'
+    type: a.k.a.
+    category: strong
+    last_name: PB SADR CONSTRUCTION COMPANY
+  - uid: '56635'
+    type: a.k.a.
+    category: weak
+    last_name: PARS BANA SADR
+  - uid: '56636'
+    type: a.k.a.
+    category: weak
+    last_name: PBS CONSTRUCTION COMPANY
+  - uid: '56637'
+    type: a.k.a.
+    category: strong
+    last_name: PARS BANAYE SADR INDUSTRIES COMPANY
+  - uid: '56638'
+    type: a.k.a.
+    category: strong
+    last_name: SHERKATE SANATI OMRANI PARS BANAYE SADR
+  - uid: '56639'
+    type: a.k.a.
+    category: strong
+    last_name: PARS BANAYE SADR INDUSTRIAL CONSTRUCTION COMPANY PJS
+  - uid: '56640'
+    type: a.k.a.
+    category: weak
+    last_name: PBS CONSTRUCTION CO
+address_list:
+  items:
+  - uid: '54046'
+    address1: No. 13, 1st Koohestan Ave.
+    address2: Pasdaran Street
+    city: Tehran
+    country: Iran
+  - uid: '54047'
+    address1: No. 17 Koohestan 1
+    address2: Pasdaran Street
+    city: Tehran
+    postal_code: '1958833951'
+    country: Iran
+id_list:
+  items:
+  - uid: '149289'
+    id_type: Organization Established Date
+    id_number: '2003'
+  - uid: '149341'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '149288'
+    id_type: Website
+    id_number: www.pars-bana.com
+remarks: "(Linked To: PARCHIN CHEMICAL INDUSTRIES)"

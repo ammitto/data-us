@@ -1,0 +1,34 @@
+---
+uid: '49939'
+last_name: KRIBRUM JSC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77817'
+    type: a.k.a.
+    category: strong
+    last_name: AO KRIBRUM
+address_list:
+  items:
+  - uid: '75515'
+    address1: Ul. Vereiskaya
+    address2: D. 29, Str. 134, Pom. 2N/7
+    city: Moscow
+    postal_code: '121357'
+    country: Russia
+id_list:
+  items:
+  - uid: '41452'
+    id_type: Registration Number
+    id_number: '1107746952433'
+    id_country: Russia
+  - uid: '41453'
+    id_type: Tax ID No.
+    id_number: '7731661104'
+    id_country: Russia
+  - uid: '178036'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

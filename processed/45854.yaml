@@ -1,0 +1,51 @@
+---
+uid: '45854'
+first_name: Marina Mikhaylovna
+last_name: ALESKEEVA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70843'
+    type: a.k.a.
+    category: strong
+    last_name: ALEKSEYEVA
+    first_name: Marina Mikhaylovna
+  - uid: '70844'
+    type: a.k.a.
+    category: strong
+    last_name: ALEKSEEVA
+    first_name: Marina
+address_list:
+  items:
+  - uid: '68222'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '35602'
+    id_type: National ID No.
+    id_number: '4004291086'
+    id_country: Russia
+  - uid: '35603'
+    id_type: Passport
+    id_number: '726049373'
+    id_country: Russia
+  - uid: '170477'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '166483'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '66480'
+    date_of_birth: 15 Jun 1978
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '66481'
+    place_of_birth: St. Petersburg, Russia
+    main_entry: 'true'

@@ -1,0 +1,31 @@
+---
+uid: '58144'
+first_name: Vadim Anatolyevich
+last_name: DRUZHBIN
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+address_list:
+  items:
+  - uid: '89294'
+    country: Russia
+id_list:
+  items:
+  - uid: '52747'
+    id_type: Tax ID No.
+    id_number: '781699698096'
+    id_country: Russia
+  - uid: '199640'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '199639'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '99599'
+    date_of_birth: 10 May 1987
+    main_entry: 'true'
+remarks: "(Linked To: AVRATEK OOO)"

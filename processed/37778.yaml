@@ -1,0 +1,37 @@
+---
+uid: '37778'
+last_name: JOINT STOCK COMPANY CENTRAL RESEARCH INSTITUTE CYCLONE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59300'
+    type: a.k.a.
+    category: strong
+    last_name: AO TSNII TSIKLON
+address_list:
+  items:
+  - uid: '56539'
+    address1: Sh. Shchelkovskoe D. 77
+    city: Moscow
+    postal_code: '107497'
+    country: Russia
+id_list:
+  items:
+  - uid: '27052'
+    id_type: Registration Number
+    id_number: '1027700223352'
+    id_country: Russia
+  - uid: '27053'
+    id_type: Tax ID No.
+    id_number: '7718159209'
+    id_country: Russia
+  - uid: '173510'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '152765'
+    id_type: Organization Established Date
+    id_number: 25 Nov 1991
+remarks: "(Linked To: OPEN JOINT STOCK COMPANY RUSSIAN ELECTRONICS)"

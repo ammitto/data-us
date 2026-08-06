@@ -1,0 +1,36 @@
+---
+uid: '24319'
+first_name: Vladimir Alexandrovich
+last_name: KOLOKOLTSEV
+sdn_type: Individual
+program_list:
+  programs:
+  - UKRAINE-EO13661
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '36720'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '126501'
+    id_type: Gender
+    id_number: Male
+  - uid: '151174'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '173941'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '26499'
+    date_of_birth: 11 May 1961
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '26500'
+    place_of_birth: Nizhny Lomov, Penza Region, Russia
+    main_entry: 'true'

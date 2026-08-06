@@ -1,0 +1,44 @@
+---
+uid: '16810'
+last_name: INVESTCAPITALBANK
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13661
+aka_list:
+  items:
+  - uid: '25635'
+    type: a.k.a.
+    category: strong
+    last_name: OPEN JOINT STOCK COMPANY INVESTCAPITALBANK
+  - uid: '25636'
+    type: a.k.a.
+    category: strong
+    last_name: OJSC INVESTCAPITALBANK
+  - uid: '25637'
+    type: a.k.a.
+    category: strong
+    last_name: INVESTKAPITALBANK
+address_list:
+  items:
+  - uid: '25442'
+    address1: 100/1, Dostoevskogo Street
+    city: Ufa
+    state_or_province: Bashkortostan Republic
+    postal_code: '450077'
+    country: Russia
+id_list:
+  items:
+  - uid: '9338'
+    id_type: License
+    id_number: '2377'
+  - uid: '115415'
+    id_type: SWIFT/BIC
+    id_number: INAKRU41
+  - uid: '115416'
+    id_type: Website
+    id_number: http://www.investcapitalbank.ru
+  - uid: '143512'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

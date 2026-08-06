@@ -1,0 +1,35 @@
+---
+uid: '19599'
+first_name: Abdul
+last_name: SABOOR
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '30799'
+    type: a.k.a.
+    category: weak
+    last_name: Engineer Saboor
+  - uid: '30800'
+    type: a.k.a.
+    category: strong
+    last_name: NASRATYAR
+    first_name: Abdul Saboor
+id_list:
+  items:
+  - uid: '186522'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '19846'
+    date_of_birth: '1986'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '19847'
+    place_of_birth: Afghanistan
+    main_entry: 'true'

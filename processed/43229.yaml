@@ -1,0 +1,43 @@
+---
+uid: '43229'
+first_name: Rinat Nailyevich
+last_name: SADYKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '66990'
+    type: a.k.a.
+    category: strong
+    last_name: SADYKOV
+    first_name: Rinat Nailevich
+address_list:
+  items:
+  - uid: '64493'
+    city: Kazan
+    state_or_province: Republic of Tatarstan
+    country: Russia
+id_list:
+  items:
+  - uid: '32778'
+    id_type: Tax ID No.
+    id_number: '165506326744'
+    id_country: Russia
+  - uid: '175647'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '162355'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '62356'
+    date_of_birth: 18 Mar 1986
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '62357'
+    place_of_birth: Kazan, Republic of Tatarstan, Russia
+    main_entry: 'true'

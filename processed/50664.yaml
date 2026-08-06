@@ -1,0 +1,60 @@
+---
+uid: '50664'
+first_name: Mahmud
+last_name: BAGHLANI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+  - IRGC
+aka_list:
+  items:
+  - uid: '79269'
+    type: a.k.a.
+    category: strong
+    last_name: BAGHLANI
+    first_name: Mahmood
+  - uid: '79270'
+    type: a.k.a.
+    category: strong
+    last_name: BAGHLANI
+    first_name: Mahmoud
+address_list:
+  items:
+  - uid: '76818'
+    country: Iran
+id_list:
+  items:
+  - uid: '42520'
+    id_type: Birth Certificate Number
+    id_number: '114'
+    id_country: Iran
+  - uid: '42521'
+    id_type: National ID No.
+    id_number: '1756178471'
+    id_country: Iran
+  - uid: '42522'
+    id_type: Passport
+    id_number: G10528653
+    id_country: Iran
+    expiration_date: 10 Jun 2028
+  - uid: '42523'
+    id_type: Passport
+    id_number: K56200674
+    id_country: Iran
+    expiration_date: '09 Mar 2027'
+  - uid: '179109'
+    id_type: Gender
+    id_number: Male
+  - uid: '179289'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '79107'
+    date_of_birth: 20 Feb 1979
+    main_entry: 'true'
+  - uid: '79108'
+    date_of_birth: 20 Mar 1978
+    main_entry: 'false'
+remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS)"

@@ -1,0 +1,28 @@
+---
+uid: '34180'
+first_name: Marko
+last_name: ROSIC
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+address_list:
+  items:
+  - uid: '51263'
+    country: Kosovo
+id_list:
+  items:
+  - uid: '145398'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '45427'
+    date_of_birth: 28 Jun 1993
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '45428'
+    place_of_birth: Mitrovica, Kosovo
+    main_entry: 'true'
+remarks: "(Linked To: VESELINOVIC, Zvonko)"

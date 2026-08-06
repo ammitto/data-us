@@ -1,0 +1,41 @@
+---
+uid: '37577'
+first_name: Ruy
+last_name: DELGADO LOPEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - NICARAGUA
+address_list:
+  items:
+  - uid: '56205'
+    address1: Carretera Masaya, Km 6.5
+    address2: Plaza 800 Mts Sur Lomas Santo Domingo
+    address3: 'Casa #6'
+    city: Managua
+    country: Nicaragua
+id_list:
+  items:
+  - uid: '26796'
+    id_type: National ID No.
+    id_number: '0013006490003J'
+    id_country: Nicaragua
+  - uid: '26797'
+    id_type: Passport
+    id_number: C01850896
+    id_country: Nicaragua
+    issue_date: 11 May 2015
+    expiration_date: 11 May 2025
+  - uid: '152489'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '52487'
+    date_of_birth: 30 Jun 1949
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '52488'
+    place_of_birth: Managua, Nicaragua
+    main_entry: 'true'

@@ -1,0 +1,55 @@
+---
+uid: '37759'
+last_name: PUBLIC JOINT STOCK COMPANY TUTAEV MOTOR PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59241'
+    type: a.k.a.
+    category: strong
+    last_name: PUBLICHNOE AKTSIONERNOE OBSHCHESTVO TUTAEVSKI MOTORNY ZAVOD
+  - uid: '59242'
+    type: a.k.a.
+    category: weak
+    last_name: TMZ PAO
+  - uid: '59243'
+    type: a.k.a.
+    category: strong
+    last_name: TUTAEVSKI MOTORNY ZAVOD OTKRYTOE AKTSIONERNOE OBSHCHESTVO
+address_list:
+  items:
+  - uid: '56492'
+    address1: 1, Builders Street
+    city: Tutayev
+    postal_code: 152 300
+    country: Russia
+  - uid: '56493'
+    address1: d. 1, ul. Stroitelei Tutaev
+    city: Tutaevski Raion
+    state_or_province: Yaroslavskaya Obl.
+    postal_code: '152303'
+    country: Russia
+id_list:
+  items:
+  - uid: '27005'
+    id_type: Registration Number
+    id_number: '1027601272082'
+    id_country: Russia
+  - uid: '27006'
+    id_type: Tax ID No.
+    id_number: '7611000399'
+    id_country: Russia
+  - uid: '27007'
+    id_type: Government Gazette Number
+    id_number: '00233218'
+    id_country: Russia
+  - uid: '152739'
+    id_type: Organization Established Date
+    id_number: 04 Nov 2002
+  - uid: '173492'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: KAMAZ PUBLICLY TRADED COMPANY)"

@@ -1,0 +1,35 @@
+---
+uid: '45963'
+last_name: LIMITED LIABILITY COMPANY NEW MEDIA HOLDING
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '71019'
+    type: a.k.a.
+    category: strong
+    last_name: OOO NOVYI MEDIA KHOLDING
+address_list:
+  items:
+  - uid: '68416'
+    address1: 4 ul. Olkhovskaia
+    address2: korp. 2, et. 4, pom. 464/15
+    city: Moscow
+    postal_code: '105066'
+    country: Russia
+id_list:
+  items:
+  - uid: '35748'
+    id_type: Tax ID No.
+    id_number: '9701000319'
+    id_country: Russia
+  - uid: '35750'
+    id_type: Registration Number
+    id_number: '1157746629963'
+    id_country: Russia
+  - uid: '174843'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: LIMITED LIABILITY COMPANY KISMET CAPITAL GROUP)"

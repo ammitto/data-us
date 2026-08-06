@@ -1,0 +1,38 @@
+---
+uid: '22250'
+first_name: Carmen Auxiliadora
+last_name: ZULETA DE MERCHAN
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+address_list:
+  items:
+  - uid: '33707'
+    city: Sucre
+    state_or_province: Miranda
+    country: Venezuela
+id_list:
+  items:
+  - uid: '13985'
+    id_type: Cedula No.
+    id_number: '3507807'
+    id_country: Venezuela
+  - uid: '13986'
+    id_type: Passport
+    id_number: '045729072'
+    id_country: Venezuela
+  - uid: '123614'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '23615'
+    date_of_birth: 13 Dec 1947
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '23616'
+    place_of_birth: Zulia, Venezuela
+    main_entry: 'true'
+title: Magistrate of the Constitutional Chamber of Venezuela's Supreme Court of Justice

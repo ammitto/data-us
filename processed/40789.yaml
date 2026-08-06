@@ -1,0 +1,63 @@
+---
+uid: '40789'
+first_name: Aleksandr Yevgenyevich
+last_name: UDODOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63437'
+    type: a.k.a.
+    category: strong
+    last_name: UDODOV
+    first_name: Aleksandr Evgenevich
+  - uid: '63439'
+    type: a.k.a.
+    category: strong
+    last_name: UDODOV
+    first_name: Alexander
+address_list:
+  items:
+  - uid: '60833'
+    address1: 108 6 Zaporozhskaya Street
+    city: Moscow
+    postal_code: '121596'
+    country: Russia
+id_list:
+  items:
+  - uid: '29982'
+    id_type: Tax ID No.
+    id_number: '771804785139'
+    id_country: Russia
+  - uid: '30010'
+    id_type: Passport
+    id_number: '753657458'
+    id_country: Russia
+  - uid: '30011'
+    id_type: Passport
+    id_number: '752981959'
+    id_country: Russia
+    issue_date: 29 Mar 2016
+    expiration_date: 29 Mar 2026
+  - uid: '30012'
+    id_type: National ID No.
+    id_number: '4514642127'
+    id_country: Russia
+  - uid: '174142'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '158293'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '58291'
+    date_of_birth: 10 Jun 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '58292'
+    place_of_birth: Kizilyurt, Republic of Dagestan, Russia
+    main_entry: 'true'

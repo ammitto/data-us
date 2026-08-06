@@ -1,0 +1,58 @@
+---
+uid: '10468'
+first_name: Francisco Javier
+last_name: ZULUAGA LINDO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNT
+aka_list:
+  items:
+  - uid: '10322'
+    type: a.k.a.
+    category: strong
+    last_name: GALINDO
+    first_name: Gabriel
+  - uid: '10323'
+    type: a.k.a.
+    category: weak
+    last_name: GORDO LINDO
+address_list:
+  items:
+  - uid: '14387'
+    address1: c/o SOCIEDAD SUPERDEPORTES LTDA.
+    city: Bogota
+    country: Colombia
+  - uid: '14388'
+    address1: Calle 9 No. 28-50
+    address2: Piso 3
+    city: Cali
+    country: Colombia
+  - uid: '14389'
+    address1: Calle 10 No. 46-45
+    city: Cali
+    country: Colombia
+id_list:
+  items:
+  - uid: '5071'
+    id_type: Cedula No.
+    id_number: '16774828'
+    id_country: Colombia
+  - uid: '5072'
+    id_type: Passport
+    id_number: AF869394
+    id_country: Colombia
+  - uid: '5073'
+    id_type: Passport
+    id_number: AE047754
+    id_country: Colombia
+date_of_birth_list:
+  items:
+  - uid: '5708'
+    date_of_birth: 15 Jan 1970
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '5709'
+    place_of_birth: Cali, Colombia
+    main_entry: 'true'

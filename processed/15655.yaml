@@ -1,0 +1,42 @@
+---
+uid: '15655'
+first_name: Ismael
+last_name: LOPEZ GUERRERO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '23323'
+    type: a.k.a.
+    category: strong
+    last_name: GODINA GUERRERO
+    first_name: Gilberto
+address_list:
+  items:
+  - uid: '23378'
+    city: Nuevo Laredo
+    state_or_province: Tamaulipas
+    country: Mexico
+id_list:
+  items:
+  - uid: '8412'
+    id_type: C.U.R.P.
+    id_number: LOGI780601HTSPRS05
+    id_country: Mexico
+  - uid: '8413'
+    id_type: Passport
+    id_number: A085434793
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '12932'
+    date_of_birth: 01 Jun 1978
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '12933'
+    place_of_birth: Nuevo Laredo, Tamaulipas, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: CARTEL DEL NORESTE)"

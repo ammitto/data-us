@@ -1,0 +1,50 @@
+---
+uid: '36029'
+last_name: JSC 33 SHIPYARD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56710'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT-STOCK COMPANY 33 SRZ
+  - uid: '56711'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT-STOCK COMPANY 33 DOCKYARD
+  - uid: '56712'
+    type: a.k.a.
+    category: strong
+    last_name: JSC 33 SUDOREMONTNY FACTORY
+  - uid: '56713'
+    type: a.k.a.
+    category: strong
+    last_name: JSC 33 SUDOREMONTNY ZAVOD
+  - uid: '56714'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO 33 SUDOREMONTNYI ZAVOD
+address_list:
+  items:
+  - uid: '54139'
+    address1: Russkay Embankment, 2
+    city: Baltiysk
+    state_or_province: Kaliningrad Region
+    postal_code: '238520'
+    country: Russia
+id_list:
+  items:
+  - uid: '25421'
+    id_type: Tax ID No.
+    id_number: '3901500276'
+    id_country: Russia
+  - uid: '173329'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '149367'
+    id_type: Organization Established Date
+    id_number: 18 Nov 2008
+remarks: "(Linked To: JOINT STOCK COMPANY UNITED SHIPBUILDING CORPORATION)"

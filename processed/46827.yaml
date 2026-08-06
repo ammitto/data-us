@@ -1,0 +1,49 @@
+---
+uid: '46827'
+first_name: Syed
+last_name: ASADULLAH
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '72339'
+    type: a.k.a.
+    category: strong
+    last_name: ABDULLAH
+    first_name: Sayed
+address_list:
+  items:
+  - uid: '69795'
+    city: Islamabad
+    country: Pakistan
+id_list:
+  items:
+  - uid: '36913'
+    id_type: Identification Number
+    id_number: '6110164716723'
+    id_country: Pakistan
+  - uid: '36988'
+    id_type: Passport
+    id_number: AD1876722
+    id_country: Pakistan
+    issue_date: 12 Aug 2010
+    expiration_date: 11 Aug 2015
+  - uid: '167662'
+    id_type: Gender
+    id_number: Male
+  - uid: '176323'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '67660'
+    date_of_birth: 04 Jan 1964
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '67661'
+    place_of_birth: Karachi, Pakistan
+    main_entry: 'true'
+remarks: "(Linked To: HU, Xiaoxun)"

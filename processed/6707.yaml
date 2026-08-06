@@ -1,0 +1,38 @@
+---
+uid: '6707'
+first_name: Rafael
+last_name: CARO QUINTERO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '4415'
+    type: a.k.a.
+    category: strong
+    last_name: CARO QUINTERO
+    first_name: Raphael
+address_list:
+  items:
+  - uid: '89059'
+    country: Mexico
+id_list:
+  items:
+  - uid: '52551'
+    id_type: C.U.R.P.
+    id_number: CAQR521024HSLRNF06
+    id_country: Mexico
+  - uid: '199171'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '1152'
+    date_of_birth: 24 Oct 1952
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '1153'
+    place_of_birth: Sinaloa, Mexico
+    main_entry: 'true'

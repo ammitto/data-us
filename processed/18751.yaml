@@ -1,0 +1,70 @@
+---
+uid: '18751'
+last_name: LIMITED LIABILITY COMPANY SBERBANK INSURANCE BROKER
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13662
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '29464'
+    type: a.k.a.
+    category: strong
+    last_name: LLC INSURANCE BROKER OF SBERBANK
+  - uid: '29465'
+    type: a.k.a.
+    category: strong
+    last_name: SBERBANK INSURANCE BROKER LLC
+  - uid: '29466'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU STRAKHOVOI BROKER SBERBANKA
+  - uid: '29467'
+    type: a.k.a.
+    category: strong
+    last_name: OOO STRAKHOVOI BROKER SBERBANKA
+address_list:
+  items:
+  - uid: '28508'
+    address1: 42 Bolshaya Yakimanka St., b. 1-2, office 206
+    city: Moscow
+    postal_code: '119049'
+    country: Russia
+  - uid: '52541'
+    address1: 1 Vasilisy Kozhinoy Street, building 1, floor 11, room 30
+    city: Moscow
+    postal_code: '121096'
+    country: Russia
+id_list:
+  items:
+  - uid: '11002'
+    id_type: Registration ID
+    id_number: '1147746683468'
+    id_country: Russia
+  - uid: '24707'
+    id_type: Tax ID No.
+    id_number: '7706810730'
+    id_country: Russia
+  - uid: '151184'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '173903'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '146735'
+    id_type: Executive Order 14024 Directive Information -
+    id_number: 'For more information on directives, please visit the following link:
+      https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives'
+  - uid: '146867'
+    id_type: 'Listing Date (EO 14024 Directive 2):'
+    id_number: 24 Feb 2022
+  - uid: '146868'
+    id_type: 'Effective Date (EO 14024 Directive 2):'
+    id_number: 26 Mar 2022
+  - uid: '118427'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 1
+remarks: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)'

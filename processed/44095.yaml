@@ -1,0 +1,37 @@
+---
+uid: '44095'
+last_name: LIMITED LIABILITY COMPANY OKTANTA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '68229'
+    type: a.k.a.
+    category: strong
+    last_name: OKTANTA NDT
+address_list:
+  items:
+  - uid: '65626'
+    address1: Ul. Mayakovskogo D. 22
+    address2: Kv. 34
+    city: Saint Petersburg
+    postal_code: '191014'
+    country: Russia
+id_list:
+  items:
+  - uid: '33509'
+    id_type: Registration Number
+    id_number: '1107847143557'
+    id_country: Russia
+  - uid: '33510'
+    id_type: Tax ID No.
+    id_number: '7841425639'
+    id_country: Russia
+  - uid: '163667'
+    id_type: Organization Established Date
+    id_number: 05 May 2010
+  - uid: '176968'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

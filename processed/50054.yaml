@@ -1,0 +1,41 @@
+---
+uid: '50054'
+last_name: AKTSIONERNOE OBSHCHESTVO EVRAZ NIZHNETAGILSKI METALLURGICHESKI KOMBINAT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78033'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY EVRAZ NIZHNY TAGIL METALLURGICAL PLANT
+  - uid: '78034'
+    type: a.k.a.
+    category: weak
+    last_name: EVRAZ NTMK AO
+address_list:
+  items:
+  - uid: '75735'
+    address1: d.1, ul. Metallurgov
+    city: Nizhni Tagil
+    state_or_province: Sverdlovsk region
+    postal_code: '622025'
+    country: Russia
+id_list:
+  items:
+  - uid: '41617'
+    id_type: Registration Number
+    id_number: '1026601367539'
+    id_country: Russia
+  - uid: '41618'
+    id_type: Tax ID No.
+    id_number: '6623000680'
+    id_country: Russia
+  - uid: '178578'
+    id_type: Organization Established Date
+    id_number: 31 Dec 1992
+  - uid: '178043'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

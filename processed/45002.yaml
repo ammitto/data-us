@@ -1,0 +1,57 @@
+---
+uid: '45002'
+first_name: Abdolreza
+last_name: ABEDZADEH
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+  - IFSR
+aka_list:
+  items:
+  - uid: '69677'
+    type: a.k.a.
+    category: strong
+    last_name: ABED
+    first_name: Abdul Reza
+  - uid: '69678'
+    type: a.k.a.
+    category: strong
+    last_name: ABED
+    first_name: Abdolreza
+address_list:
+  items:
+  - uid: '66990'
+    country: Iran
+id_list:
+  items:
+  - uid: '34667'
+    id_type: National ID No.
+    id_number: '1756451699'
+    id_country: Iran
+  - uid: '34694'
+    id_type: Passport
+    id_number: T47386686
+    id_country: Iran
+    expiration_date: 15 Dec 2023
+  - uid: '165512'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '165334'
+    id_type: Gender
+    id_number: Male
+  - uid: '165525'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '65343'
+    date_of_birth: 31 Oct 1962
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '65332'
+    place_of_birth: Ahwaz, Khuzestan, Iran
+    main_entry: 'true'
+remarks: "(Linked To: KHATAM OL ANBIA GHARARGAH SAZANDEGI NOOH)"

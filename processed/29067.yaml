@@ -1,0 +1,55 @@
+---
+uid: '29067'
+first_name: Ahmad Sabir Mohammed
+last_name: HAMSHO
+sdn_type: Individual
+program_list:
+  programs:
+  - PAARSSR-EO13894
+aka_list:
+  items:
+  - uid: '45694'
+    type: a.k.a.
+    category: strong
+    last_name: HAMCHO
+    first_name: Ahmad Saber Mohamad
+  - uid: '45695'
+    type: a.k.a.
+    category: strong
+    last_name: HAMCHO
+    first_name: Ahmad Saber
+  - uid: '45697'
+    type: a.k.a.
+    category: strong
+    last_name: HAMSHOU
+    first_name: Ahmed Saber Mohammed
+address_list:
+  items:
+  - uid: '43928'
+    city: Damascus
+    country: Syria
+  - uid: '43929'
+    city: Dubai
+    country: United Arab Emirates
+  - uid: '43930'
+    city: London
+    country: United Kingdom
+id_list:
+  items:
+  - uid: '19331'
+    id_type: Passport
+    id_number: N005364444
+    id_country: Syria
+  - uid: '135672'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '35674'
+    date_of_birth: 25 Nov 1992
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '35673'
+    place_of_birth: Damascus, Syria
+    main_entry: 'true'

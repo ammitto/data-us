@@ -1,0 +1,48 @@
+---
+uid: '13091'
+first_name: Aleksey Alekseyevich
+last_name: ZAYTSEV
+sdn_type: Individual
+program_list:
+  programs:
+  - TCO
+aka_list:
+  items:
+  - uid: '14645'
+    type: a.k.a.
+    category: strong
+    last_name: ZAITSEV
+    first_name: Alexei
+  - uid: '14646'
+    type: a.k.a.
+    category: strong
+    last_name: ZAYTSEV
+    first_name: Alexey
+id_list:
+  items:
+  - uid: '7577'
+    id_type: National ID No.
+    id_number: '74914883'
+    id_country: United Arab Emirates
+  - uid: '7578'
+    id_type: Passport
+    id_number: 63-4604880
+    id_country: Russia
+  - uid: '7579'
+    id_type: Passport
+    id_number: '4103417473'
+    id_country: Russia
+  - uid: '7580'
+    id_type: Passport
+    id_number: H2029462
+    id_country: Ghana
+date_of_birth_list:
+  items:
+  - uid: '8934'
+    date_of_birth: 07 Sep 1965
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '8935'
+    place_of_birth: Leningrad, Russia
+    main_entry: 'true'

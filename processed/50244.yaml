@@ -1,0 +1,44 @@
+---
+uid: '50244'
+last_name: JOINT STOCK COMPANY 41 CENTRAL PLANT OF THE RAILWAY TECHNOLOGY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78442'
+    type: a.k.a.
+    category: strong
+    last_name: AO 41 TSENTRALNYI ZAVOD
+  - uid: '78443'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO 41 TSENTRALNYI ZAVOD ZHELEZNODOROZHNOI TEKHNIKI
+  - uid: '78444'
+    type: a.k.a.
+    category: strong
+    last_name: 41ST CENTRAL RAILWAY EQUIPMENT PLANT
+address_list:
+  items:
+  - uid: '76072'
+    address1: Proezd Proektiruemyi 4296, Vladenie 3
+    city: Lyubertsy
+    postal_code: '140008'
+    country: Russia
+id_list:
+  items:
+  - uid: '41907'
+    id_type: Registration Number
+    id_number: '1095027006722'
+    id_country: Russia
+  - uid: '41908'
+    id_type: Tax ID No.
+    id_number: '5027150193'
+    id_country: Russia
+  - uid: '178088'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '177900'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

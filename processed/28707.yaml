@@ -1,0 +1,37 @@
+---
+uid: '28707'
+first_name: Jose Jorge
+last_name: MOJICA MEJIA
+sdn_type: Individual
+program_list:
+  programs:
+  - NICARAGUA
+address_list:
+  items:
+  - uid: '43418'
+    address1: Carretera Sur. Kilometro 7.5
+    address2: Colonia Frawley
+    address3: Frente a Gasolinera Uno
+    city: Managua
+    country: Nicaragua
+id_list:
+  items:
+  - uid: '19066'
+    id_type: Passport
+    id_number: C02366793
+    id_country: Nicaragua
+    issue_date: 14 Jun 2018
+    expiration_date: 14 Jun 2028
+  - uid: '134624'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '34623'
+    date_of_birth: 10 Oct 1966
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '34626'
+    place_of_birth: Managua, Nicaragua
+    main_entry: 'true'

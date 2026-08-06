@@ -1,0 +1,42 @@
+---
+uid: '36051'
+first_name: Aleksey Lvovich
+last_name: RAKHMANOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56794'
+    type: a.k.a.
+    category: weak
+    last_name: RAKHMANOV, Alexei L
+  - uid: '56795'
+    type: a.k.a.
+    category: strong
+    last_name: RAKHMANOV
+    first_name: Aleksei Lvovich
+address_list:
+  items:
+  - uid: '54193'
+    country: Russia
+id_list:
+  items:
+  - uid: '173345'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '149421'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '49418'
+    date_of_birth: 18 Jul 1964
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '49419'
+    place_of_birth: Nizhniy Novgorod, Russia
+    main_entry: 'true'
+remarks: "(Linked To: JOINT STOCK COMPANY UNITED SHIPBUILDING CORPORATION)"

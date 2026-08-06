@@ -1,0 +1,43 @@
+---
+uid: '29041'
+first_name: Ricardo Jose
+last_name: MORON HERNANDEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+address_list:
+  items:
+  - uid: '43858'
+    address1: Solosnicka 308/8
+    address2: Karlova Ves
+    city: Bratislava
+    postal_code: 841 04
+    country: Slovakia
+  - uid: '43859'
+    address1: San Felipe de La Castellana Street
+    city: Caracas
+    country: Venezuela
+id_list:
+  items:
+  - uid: '19313'
+    id_type: Identification Number
+    id_number: Z14040390
+    id_country: Venezuela
+  - uid: '19314'
+    id_type: Cedula No.
+    id_number: V-15809729
+    id_country: Venezuela
+  - uid: '135630'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '35631'
+    date_of_birth: 19 Dec 1982
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '35632'
+    place_of_birth: Venezuela
+    main_entry: 'true'

@@ -1,0 +1,37 @@
+---
+uid: '37776'
+last_name: JOINT STOCK COMPANY TRADING HOUSE ROSEL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59295'
+    type: a.k.a.
+    category: weak
+    last_name: AO TD ROSEL
+address_list:
+  items:
+  - uid: '56535'
+    address1: Ul. Kosmonavta Volkova D. 12
+    city: Moscow
+    postal_code: '127299'
+    country: Russia
+id_list:
+  items:
+  - uid: '27047'
+    id_type: Registration Number
+    id_number: '1057748776733'
+    id_country: Russia
+  - uid: '27048'
+    id_type: Tax ID No.
+    id_number: '7718564221'
+    id_country: Russia
+  - uid: '173508'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '152763'
+    id_type: Organization Established Date
+    id_number: 26 Oct 2005
+remarks: "(Linked To: OPEN JOINT STOCK COMPANY RUSSIAN ELECTRONICS)"

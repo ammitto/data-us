@@ -1,0 +1,77 @@
+---
+uid: '31731'
+first_name: Yauhen Andreevich
+last_name: SHAPETSKA
+sdn_type: Individual
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '50081'
+    type: a.k.a.
+    category: strong
+    last_name: SHAPETKO
+    first_name: Evgeny
+  - uid: '50082'
+    type: a.k.a.
+    category: strong
+    last_name: SHAPETKO
+    first_name: Yevgeny
+  - uid: '50609'
+    type: a.k.a.
+    category: strong
+    last_name: SHAPETKO
+    first_name: Yevgeniy Andreevich
+  - uid: '51192'
+    type: a.k.a.
+    category: strong
+    last_name: SHAPETKO
+    first_name: Evgeniy Andreevich
+  - uid: '51194'
+    type: a.k.a.
+    category: strong
+    last_name: SHAPETSKA
+    first_name: Yauheni Andrejevich
+  - uid: '51196'
+    type: a.k.a.
+    category: strong
+    last_name: SJAPETSKA
+    first_name: Jauhen Andrejevitj
+  - uid: '51197'
+    type: a.k.a.
+    category: strong
+    last_name: SJAPETKO
+    first_name: Jevgenij Andrejevitj
+address_list:
+  items:
+  - uid: '48058'
+    address1: Polevaya, 6-58
+    city: Minsk
+    country: Belarus
+id_list:
+  items:
+  - uid: '21749'
+    id_type: Tax ID No.
+    id_number: AC1400707
+    id_country: Belarus
+  - uid: '22073'
+    id_type: National ID No.
+    id_number: 3300389A054PB9
+    id_country: Belarus
+  - uid: '140607'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '40609'
+    date_of_birth: 30 Mar 1989
+    main_entry: 'true'
+  - uid: '42244'
+    date_of_birth: 30 Mar 1988
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '42442'
+    place_of_birth: Minsk, Belarus
+    main_entry: 'true'

@@ -1,0 +1,61 @@
+---
+uid: '9598'
+first_name: Tahir
+last_name: NASUF
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '9078'
+    type: a.k.a.
+    category: strong
+    last_name: NASUF
+    first_name: Tahir Mustafa
+  - uid: '9079'
+    type: a.k.a.
+    category: strong
+    last_name: NASOOF
+    first_name: Tahar
+  - uid: '9080'
+    type: a.k.a.
+    category: strong
+    last_name: NASUF
+    first_name: Taher
+  - uid: '9081'
+    type: a.k.a.
+    category: weak
+    last_name: AL-QA'QA
+  - uid: '9082'
+    type: a.k.a.
+    category: weak
+    last_name: ABU SALIMA EL LIBI
+  - uid: '9083'
+    type: a.k.a.
+    category: weak
+    last_name: ABU RIDA
+address_list:
+  items:
+  - uid: '12073'
+    city: Manchester
+    country: United Kingdom
+id_list:
+  items:
+  - uid: '186264'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '4653'
+    date_of_birth: 04 Nov 1961
+    main_entry: 'true'
+  - uid: '4654'
+    date_of_birth: 11 Apr 1961
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '4655'
+    place_of_birth: Tripoli, Libya
+    main_entry: 'true'

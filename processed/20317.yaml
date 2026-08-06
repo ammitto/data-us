@@ -1,0 +1,48 @@
+---
+uid: '20317'
+last_name: GPB INTERNATIONAL SA
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13662
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '79155'
+    address1: 15, Rue Bender
+    city: Luxembourg
+    postal_code: '1229'
+    country: Luxembourg
+id_list:
+  items:
+  - uid: '12580'
+    id_type: Registration ID
+    id_number: B178974
+    id_country: Luxembourg
+  - uid: '44708'
+    id_type: Legal Entity Number
+    id_number: 529900VVDOKMRRAHZ894
+  - uid: '182502'
+    id_type: SWIFT/BIC
+    id_number: GAZPLULL
+  - uid: '120807'
+    id_type: Website
+    id_number: www.gazprombank.lu
+  - uid: '182503'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '182504'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
+  - uid: '182501'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '120856'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 1
+  - uid: '143893'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+remarks: 'For more information on directives, please visit the following link: https://ofac.treasury.gov/sanctions-programs-and-country-information/ukraine-russia-related-sanctions#directives;
+  (Linked To: GAZPROMBANK JOINT STOCK COMPANY)'

@@ -1,0 +1,30 @@
+---
+uid: '57385'
+first_name: Mohammad
+last_name: VAHIDI
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+address_list:
+  items:
+  - uid: '87936'
+    city: Dubai
+    country: United Arab Emirates
+  - uid: '87937'
+    country: Iran
+id_list:
+  items:
+  - uid: '197370'
+    id_type: Gender
+    id_number: Male
+  - uid: '197425'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '97369'
+    date_of_birth: 15 Oct 2001
+    main_entry: 'true'
+remarks: "(Linked To: JANGHORBANI, Hamid Reza)"

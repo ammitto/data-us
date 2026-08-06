@@ -1,0 +1,43 @@
+---
+uid: '45035'
+last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU INVESTITSIONNAYA KOMPANIYA
+  A1
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69749'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY INVESTMENT COMPANY A1
+  - uid: '69750'
+    type: a.k.a.
+    category: strong
+    last_name: INVESTITSIONNAYA KOMPANIYA A1 OOO
+address_list:
+  items:
+  - uid: '67052'
+    address1: d. 12 str. 1 ofis 415
+    address2: ul. 3-Ya Magistralnaya
+    city: Moscow
+    state_or_province: Moscow
+    postal_code: '123007'
+    country: Russia
+id_list:
+  items:
+  - uid: '34725'
+    id_type: Registration Number
+    id_number: '1047796703074'
+    id_country: Russia
+  - uid: '34726'
+    id_type: Tax ID No.
+    id_number: '7709567988'
+    id_country: Russia
+  - uid: '175911'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '165363'
+    id_type: Organization Established Date
+    id_number: 22 Sep 2004

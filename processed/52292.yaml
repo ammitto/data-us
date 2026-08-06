@@ -1,0 +1,34 @@
+---
+uid: '52292'
+first_name: Yon Hui
+last_name: KIM
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+address_list:
+  items:
+  - uid: '79873'
+    city: Shenyang
+    country: China
+id_list:
+  items:
+  - uid: '45250'
+    id_type: Passport
+    id_number: '836238034'
+    id_country: Korea, North
+  - uid: '183669'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '183668'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '183666'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '83665'
+    date_of_birth: 01 Dec 1979
+    main_entry: 'true'

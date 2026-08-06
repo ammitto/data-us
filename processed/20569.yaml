@@ -1,0 +1,40 @@
+---
+uid: '20569'
+last_name: KORYO CREDIT DEVELOPMENT BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK3
+aka_list:
+  items:
+  - uid: '32490'
+    type: a.k.a.
+    category: strong
+    last_name: KORYO GLOBAL TRUST BANK
+  - uid: '32491'
+    type: a.k.a.
+    category: strong
+    last_name: KORYO GLOBAL CREDIT BANK
+  - uid: '34491'
+    type: a.k.a.
+    category: strong
+    last_name: DAESONG CREDIT DEVELOPMENT BANK
+address_list:
+  items:
+  - uid: '31188'
+    address1: Yanggakdo International Hotel, RYUS
+    city: Pyongyang
+    country: Korea, North
+id_list:
+  items:
+  - uid: '121156'
+    id_type: SWIFT/BIC
+    id_number: KGCBKPPY
+  - uid: '127195'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '134893'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+remarks: all offices worldwide

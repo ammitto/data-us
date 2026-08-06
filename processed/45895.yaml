@@ -1,0 +1,46 @@
+---
+uid: '45895'
+last_name: COMMERCIAL BANK ABSOLUT BANK PAO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '68282'
+    address1: Tsvetnoy Boulevard, 18
+    city: Moscow
+    postal_code: '127051'
+    country: Russia
+id_list:
+  items:
+  - uid: '35638'
+    id_type: Registration Number
+    id_number: '1027700024560'
+    id_country: Russia
+  - uid: '35639'
+    id_type: Tax ID No.
+    id_number: '7736046991'
+    id_country: Russia
+  - uid: '35640'
+    id_type: Legal Entity Number
+    id_number: 253400YGMAHH3EQH3G74
+  - uid: '35641'
+    id_type: Identification Number
+    id_number: PDR8ZD.00000.LE.643
+    id_country: Russia
+  - uid: '176081'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '166543'
+    id_type: SWIFT/BIC
+    id_number: ABSLRUMM
+  - uid: '166544'
+    id_type: Website
+    id_number: www.absolutbank.ru
+  - uid: '166545'
+    id_type: Website
+    id_number: www.absolutbank.com
+  - uid: '166542'
+    id_type: Target Type
+    id_number: Financial Institution

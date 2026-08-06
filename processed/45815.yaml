@@ -1,0 +1,50 @@
+---
+uid: '45815'
+first_name: Andrei Gennadyevich
+last_name: TIKHONOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70791'
+    type: a.k.a.
+    category: strong
+    last_name: TIKHONOV
+    first_name: Andrey
+address_list:
+  items:
+  - uid: '68210'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '35571'
+    id_type: Tax ID No.
+    id_number: '774334095919'
+    id_country: Russia
+  - uid: '35595'
+    id_type: National ID No.
+    id_number: '4511483349'
+    id_country: Russia
+  - uid: '35596'
+    id_type: Passport
+    id_number: '530193947'
+    id_country: Russia
+  - uid: '166471'
+    id_type: Gender
+    id_number: Male
+  - uid: '170580'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '66472'
+    date_of_birth: '09 Nov 1966'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '66473'
+    place_of_birth: Tver, Russia
+    main_entry: 'true'

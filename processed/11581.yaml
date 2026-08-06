@@ -1,0 +1,42 @@
+---
+uid: '11581'
+last_name: KOREA KWANGSON BANKING CORP
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+aka_list:
+  items:
+  - uid: '12247'
+    type: a.k.a.
+    category: strong
+    last_name: KKBC
+  - uid: '79186'
+    type: a.k.a.
+    category: weak
+    last_name: BTSB
+  - uid: '79187'
+    type: a.k.a.
+    category: strong
+    last_name: BORDER TRADE SETTLEMENT BANK
+  - uid: '79188'
+    type: a.k.a.
+    category: strong
+    last_name: DPRK BORDER TRADE SETTLEMENT BANK
+address_list:
+  items:
+  - uid: '17356'
+    address1: Jungson-dong
+    address2: Sungri Street
+    address3: Central District
+    city: Pyongyang
+    country: Korea, North
+id_list:
+  items:
+  - uid: '127643'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '134860'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214

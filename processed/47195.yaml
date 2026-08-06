@@ -1,0 +1,43 @@
+---
+uid: '47195'
+first_name: Alberto
+last_name: PIMENTEL MATA
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '72930'
+    type: a.k.a.
+    category: strong
+    last_name: PIMENTEL
+    first_name: Alberto
+address_list:
+  items:
+  - uid: '70283'
+    country: Guatemala
+id_list:
+  items:
+  - uid: '37407'
+    id_type: National ID No.
+    id_number: '2386707240101'
+    id_country: Guatemala
+  - uid: '37408'
+    id_type: Passport
+    id_number: '238670724'
+    id_country: Guatemala
+    expiration_date: 14 Jan 2024
+  - uid: '168501'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '68500'
+    date_of_birth: 26 Oct 1981
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '68503'
+    place_of_birth: San Jose, Costa Rica
+    main_entry: 'true'

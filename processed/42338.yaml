@@ -1,0 +1,50 @@
+---
+uid: '42338'
+last_name: MSD CAPITAL PTY LTD
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '65761'
+    type: f.k.a.
+    category: strong
+    last_name: MATAROMAX PTY LTD
+address_list:
+  items:
+  - uid: '63186'
+    address1: F4E3 The Paragon II
+    address2: 1 Krammer Road
+    city: Johannesburg
+    state_or_province: Gauteng
+    postal_code: '2007'
+    country: South Africa
+  - uid: '63187'
+    address1: P.O. Box 35465
+    city: Johannesburg
+    state_or_province: Gauteng
+    postal_code: '0102'
+    country: South Africa
+id_list:
+  items:
+  - uid: '31845'
+    id_type: Commercial Registry Number
+    id_number: 2018/607460/07
+    id_country: South Africa
+  - uid: '31846'
+    id_type: Tax ID No.
+    id_number: '9407308197'
+    id_country: South Africa
+  - uid: '31847'
+    id_type: V.A.T. Number
+    id_number: '4490288372'
+    id_country: South Africa
+  - uid: '160698'
+    id_type: Organization Established Date
+    id_number: 23 Nov 2018
+  - uid: '160792'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: "(Linked To: MURAD, Bassem)"

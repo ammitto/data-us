@@ -1,0 +1,40 @@
+---
+uid: '52262'
+last_name: DEPARTMENT 53 OF THE MINISTRY OF THE PEOPLE'S ARMED FORCES
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK2
+aka_list:
+  items:
+  - uid: '81850'
+    type: a.k.a.
+    category: weak
+    last_name: DEPARTMENT 53
+  - uid: '81882'
+    type: a.k.a.
+    category: weak
+    last_name: BUREAU 53
+  - uid: '81884'
+    type: a.k.a.
+    category: strong
+    last_name: KOREA PONGNAESAN TRADING CORPORATION
+address_list:
+  items:
+  - uid: '79823'
+    city: Pyongyang
+    country: Korea, North
+  - uid: '79824'
+    country: Russia
+id_list:
+  items:
+  - uid: '183623'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '183622'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '183852'
+    id_type: Target Type
+    id_number: Government Entity

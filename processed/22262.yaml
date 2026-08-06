@@ -1,0 +1,41 @@
+---
+uid: '22262'
+first_name: Muhammad
+last_name: ABBAS
+sdn_type: Individual
+program_list:
+  programs:
+  - PAARSSR-EO13894
+aka_list:
+  items:
+  - uid: '35063'
+    type: a.k.a.
+    category: strong
+    last_name: ABBAS
+    first_name: Mohammad Hassan
+  - uid: '35064'
+    type: a.k.a.
+    category: strong
+    last_name: ABBAS
+    first_name: Mohammad Hasan
+address_list:
+  items:
+  - uid: '33731'
+    city: Damascus
+    country: Syria
+id_list:
+  items:
+  - uid: '123641'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '23639'
+    date_of_birth: 01 Sep 1964
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '23640'
+    place_of_birth: Al Ladhiqiyah, Syria
+    main_entry: 'true'
+remarks: "(Linked To: MAKHLUF, Rami)"

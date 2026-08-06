@@ -1,0 +1,38 @@
+---
+uid: '50896'
+last_name: JOINT STOCK COMPANY SCIENCE AND PRODUCTION ENTERPRISE AIR AND MARINE ELECTRONICS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79723'
+    type: a.k.a.
+    category: weak
+    last_name: NPP AME
+  - uid: '79724'
+    type: a.k.a.
+    category: strong
+    last_name: JSC SPE AME
+address_list:
+  items:
+  - uid: '77284'
+    address1: d. 29 litera O pom. 7-N ofis 70
+    address2: ul. Marshala Govorova
+    city: Saint Petersburg
+    postal_code: '198095'
+    country: Russia
+id_list:
+  items:
+  - uid: '42881'
+    id_type: Registration Number
+    id_number: '1037841007896'
+    id_country: Russia
+  - uid: '42882'
+    id_type: Tax ID No.
+    id_number: '7819029855'
+    id_country: Russia
+  - uid: '179678'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

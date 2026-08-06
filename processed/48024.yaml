@@ -1,0 +1,33 @@
+---
+uid: '48024'
+last_name: LIMITED LIABILITY COMPANY ATM GRUPP
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74536'
+    type: a.k.a.
+    category: weak
+    last_name: ATM GROUP
+address_list:
+  items:
+  - uid: '71979'
+    address1: ofis 306 vladenie 5A str. 1, shosse Volkovskoe
+    city: Mytishchi
+    postal_code: '141006'
+    country: Russia
+id_list:
+  items:
+  - uid: '38904'
+    id_type: Registration Number
+    id_number: '1085029001309'
+    id_country: Russia
+  - uid: '38906'
+    id_type: Tax ID No.
+    id_number: '5029111665'
+    id_country: Russia
+  - uid: '169669'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,34 @@
+---
+uid: '51982'
+last_name: LIMITED LIABILITY COMPANY TECHNICAL SERVICE CENTER
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '81370'
+    type: a.k.a.
+    category: weak
+    last_name: LLC TSTS
+address_list:
+  items:
+  - uid: '79241'
+    address1: 1 per. Transportny
+    city: Dobryanka
+    postal_code: '618703'
+    country: Russia
+id_list:
+  items:
+  - uid: '44769'
+    id_type: Registration Number
+    id_number: '1025901794203'
+    id_country: Russia
+  - uid: '45312'
+    id_type: Tax ID No.
+    id_number: '5941003330'
+    id_country: Russia
+  - uid: '182632'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: LIMITED LIABILITY COMPANY NEFTSERVICEHOLDING)"

@@ -1,0 +1,49 @@
+---
+uid: '32751'
+first_name: Artsiom Igaravich
+last_name: SIKORSKI
+sdn_type: Individual
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '51530'
+    type: a.k.a.
+    category: strong
+    last_name: SIKORSKIY
+    first_name: Artem Igorevich
+  - uid: '51531'
+    type: a.k.a.
+    category: strong
+    last_name: SIKORSKY
+    first_name: Artem
+  - uid: '51532'
+    type: a.k.a.
+    category: strong
+    last_name: SIKORSKY
+    first_name: Artyom
+address_list:
+  items:
+  - uid: '49342'
+    city: Minsk
+    country: Belarus
+id_list:
+  items:
+  - uid: '22533'
+    id_type: Passport
+    id_number: MP3785448
+    id_country: Belarus
+  - uid: '142463'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '42460'
+    date_of_birth: '1983'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '42461'
+    place_of_birth: Soligorsk, Minsk Oblast, Belarus
+    main_entry: 'true'

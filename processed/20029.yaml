@@ -1,0 +1,67 @@
+---
+uid: '20029'
+last_name: PJSC MOSTOTREST
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13685
+aka_list:
+  items:
+  - uid: '31627'
+    type: a.k.a.
+    category: strong
+    last_name: MOSTOTREST
+  - uid: '31628'
+    type: a.k.a.
+    category: strong
+    last_name: OPEN JOINT STOCK COMPANY 'MOSTOTREST'
+  - uid: '31629'
+    type: a.k.a.
+    category: strong
+    last_name: MOSTOTREST, PAO
+  - uid: '31630'
+    type: a.k.a.
+    category: strong
+    last_name: PUBLIC JOINT STOCK COMPANY MOSTOTREST
+address_list:
+  items:
+  - uid: '30335'
+    address1: 6 Barklaya str., bld. 5
+    city: Moscow
+    postal_code: '121087'
+    country: Russia
+  - uid: '30336'
+    address1: d. 6 str. 5, ul. Barklaya
+    city: Moscow
+    postal_code: '121087'
+    country: Russia
+id_list:
+  items:
+  - uid: '12334'
+    id_type: Registration ID
+    id_number: '1027739167246'
+    id_country: Russia
+  - uid: '12335'
+    id_type: Government Gazette Number
+    id_number: '01386148'
+    id_country: Russia
+  - uid: '12336'
+    id_type: Tax ID No.
+    id_number: '7701045732'
+    id_country: Russia
+  - uid: '12584'
+    id_type: Identification Number
+    id_number: 'ISIN: RU0009177331'
+  - uid: '120899'
+    id_type: MICEX Code
+    id_number: MSTT
+  - uid: '143937'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '120509'
+    id_type: Website
+    id_number: www.mostro.ru
+  - uid: '120507'
+    id_type: Email Address
+    id_number: pressa@mostro.ru

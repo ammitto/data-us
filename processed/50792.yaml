@@ -1,0 +1,37 @@
+---
+uid: '50792'
+last_name: AREA JOINT STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79541'
+    type: a.k.a.
+    category: strong
+    last_name: AO PLOSHCHAD
+address_list:
+  items:
+  - uid: '77078'
+    address1: Ul. Chahginskaya, D. 4
+    address2: Str. 13, Pomeshch 9/3
+    city: Moscow
+    postal_code: '109380'
+    country: Russia
+id_list:
+  items:
+  - uid: '42708'
+    id_type: Registration Number
+    id_number: '1237700463032'
+    id_country: Russia
+  - uid: '42709'
+    id_type: Tax ID No.
+    id_number: '9723203841'
+    id_country: Russia
+  - uid: '179441'
+    id_type: Organization Established Date
+    id_number: 10 Jul 2023
+  - uid: '179442'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

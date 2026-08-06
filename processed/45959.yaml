@@ -1,0 +1,29 @@
+---
+uid: '45959'
+last_name: LIMITED LIABILITY COMPANY RTK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '68405'
+    address1: 1 Visokovoltniy Drive
+    address2: Building 49, Floor 2, Room 1, Office 28
+    city: Moscow
+    postal_code: '127566'
+    country: Russia
+id_list:
+  items:
+  - uid: '35738'
+    id_type: Tax ID No.
+    id_number: '9715415169'
+    id_country: Russia
+  - uid: '35740'
+    id_type: Registration Number
+    id_number: '1227700125510'
+    id_country: Russia
+  - uid: '174840'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: ZAKHAROV, Nikita Aleksandrovich)"

@@ -1,0 +1,39 @@
+---
+uid: '27242'
+first_name: Luis Alberto
+last_name: SAAB MORAN
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA-EO13850
+address_list:
+  items:
+  - uid: '41421'
+    country: Colombia
+  - uid: '41452'
+    city: Rome
+    country: Italy
+id_list:
+  items:
+  - uid: '17852'
+    id_type: Cedula No.
+    id_number: '72224947'
+    id_country: Colombia
+  - uid: '17874'
+    id_type: Passport
+    id_number: YA6688232
+    id_country: Italy
+    expiration_date: 20 Oct 2024
+  - uid: '132299'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '32251'
+    date_of_birth: 20 Dec 1976
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '32476'
+    place_of_birth: Barranquilla, Colombia
+    main_entry: 'true'

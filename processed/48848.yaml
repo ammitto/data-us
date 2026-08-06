@@ -1,0 +1,54 @@
+---
+uid: '48848'
+last_name: RADIOLOGICAL CHEMICAL AND BIOLOGICAL DEFENSE TROOPS OF THE MINISTRY OF
+  DEFENSE OF THE RUSSIAN FEDERATION
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76059'
+    type: a.k.a.
+    category: strong
+    last_name: VOISKOVAYA CHAST 52688
+  - uid: '76060'
+    type: a.k.a.
+    category: strong
+    last_name: MILITARY UNIT NUMBER 52688
+  - uid: '76061'
+    type: a.k.a.
+    category: strong
+    last_name: RADIATION CHEMICAL AND BIOLOGICAL DEFENSE TROOPS
+  - uid: '76062'
+    type: a.k.a.
+    category: strong
+    last_name: RCB DEFENSE TROOPS
+  - uid: '76063'
+    type: a.k.a.
+    category: weak
+    last_name: RKHBZ
+  - uid: '76064'
+    type: a.k.a.
+    category: weak
+    last_name: RCHBD
+address_list:
+  items:
+  - uid: '73455'
+    address1: Corpus 2, Building 22, Frunze Embankment
+    city: Moscow
+    postal_code: '119160'
+    country: Russia
+id_list:
+  items:
+  - uid: '39910'
+    id_type: Registration Number
+    id_number: '1037739635890'
+    id_country: Russia
+  - uid: '39911'
+    id_type: Tax ID No.
+    id_number: '7704195013'
+    id_country: Russia
+  - uid: '171529'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

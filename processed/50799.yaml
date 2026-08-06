@@ -1,0 +1,28 @@
+---
+uid: '50799'
+last_name: LIMITED LIABILITY COMPANY MAPPER
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '77096'
+    address1: Pr-kt Volgogradskii D. 42
+    address2: Korp. 5
+    city: Moscow
+    postal_code: '109316'
+    country: Russia
+id_list:
+  items:
+  - uid: '42725'
+    id_type: Registration Number
+    id_number: '1127746548126'
+    id_country: Russia
+  - uid: '42726'
+    id_type: Tax ID No.
+    id_number: '7743859476'
+    id_country: Russia
+  - uid: '180631'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

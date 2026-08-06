@@ -1,0 +1,38 @@
+---
+uid: '24646'
+last_name: KVANT SCIENTIFIC RESEARCH INSTITUTE
+sdn_type: Entity
+program_list:
+  programs:
+  - CAATSA - RUSSIA
+  - CYBER2
+aka_list:
+  items:
+  - uid: '38840'
+    type: a.k.a.
+    category: strong
+    last_name: NAUCHNO-ISSLEDOVATELSKIY INSTITUT KVANT
+  - uid: '38842'
+    type: a.k.a.
+    category: strong
+    last_name: NII KVANT
+  - uid: '38843'
+    type: a.k.a.
+    category: strong
+    last_name: RUSSIAN FEDERAL STATE UNITARY ENTERPRISE SCIENTIFIC RESEARCH INSTITUTE
+      KVANT
+address_list:
+  items:
+  - uid: '37232'
+    address1: Khovrino District
+    city: Moscow
+    country: Russia
+  - uid: '37233'
+    city: St. Petersburg
+    country: Russia
+id_list:
+  items:
+  - uid: '153838'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+remarks: "(Linked To: FEDERAL SECURITY SERVICE)"

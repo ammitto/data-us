@@ -1,0 +1,59 @@
+---
+uid: '54131'
+first_name: Jihad
+last_name: ALAMI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '84292'
+    type: a.k.a.
+    category: strong
+    last_name: ALLAMI
+    first_name: Jihad Husayn
+address_list:
+  items:
+  - uid: '82609'
+    address1: Deir Qanoun en Nahr
+    city: Tyre
+    state_or_province: Al-Janoub
+    country: Lebanon
+  - uid: '82610'
+    address1: Hay El Kfaat B
+    city: El Hdeth
+    state_or_province: Baabda
+    country: Lebanon
+id_list:
+  items:
+  - uid: '47603'
+    id_type: National ID No.
+    id_number: '000022918996'
+    id_country: Lebanon
+  - uid: '47604'
+    id_type: Identification Number
+    id_number: '636974'
+    id_country: Lebanon
+  - uid: '189761'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
+      Sanctions Regulations
+  - uid: '189659'
+    id_type: Gender
+    id_number: Male
+  - uid: '189660'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '89653'
+    date_of_birth: 03 Jun 1968
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '89654'
+    place_of_birth: Lebanon
+    main_entry: 'true'
+remarks: "(Linked To: HIZBALLAH)"

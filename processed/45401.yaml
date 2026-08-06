@@ -1,0 +1,39 @@
+---
+uid: '45401'
+first_name: Changgen
+last_name: DU
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '67562'
+    address1: No. 141 Niujiazhai Village
+    address2: Fengjiazhai Township
+    city: Xingtai City
+    state_or_province: Guangzong County, Hebei Province
+    country: China
+id_list:
+  items:
+  - uid: '35152'
+    id_type: Passport
+    id_number: CC7375752
+    id_country: China
+  - uid: '35153'
+    id_type: National ID No.
+    id_number: 13053119930301025X
+    id_country: China
+  - uid: '165909'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '65906'
+    date_of_birth: 01 Mar 1993
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '65907'
+    place_of_birth: Hebei Province, China
+    main_entry: 'true'

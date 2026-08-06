@@ -1,0 +1,31 @@
+---
+uid: '11357'
+first_name: Abdul Qadeer
+last_name: KHAN
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+aka_list:
+  items:
+  - uid: '11957'
+    type: a.k.a.
+    category: strong
+    last_name: ZAMAN
+    first_name: Hayder
+id_list:
+  items:
+  - uid: '5780'
+    id_type: Passport
+    id_number: D000428
+    id_country: Pakistan
+date_of_birth_list:
+  items:
+  - uid: '6729'
+    date_of_birth: 27 Apr 1936
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '6730'
+    place_of_birth: Bhopal, India
+    main_entry: 'true'

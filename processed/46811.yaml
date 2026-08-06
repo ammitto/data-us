@@ -1,0 +1,43 @@
+---
+uid: '46811'
+first_name: Sergey
+last_name: SKVORTSOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '72300'
+    type: a.k.a.
+    category: strong
+    last_name: SKVORTSOV
+    first_name: Sergei Nikolaevich
+address_list:
+  items:
+  - uid: '69758'
+    city: Nacka
+    country: Sweden
+id_list:
+  items:
+  - uid: '36899'
+    id_type: Passport
+    id_number: '85338519'
+    id_country: Sweden
+    expiration_date: 30 Oct 2017
+  - uid: '167622'
+    id_type: Gender
+    id_number: Male
+  - uid: '176313'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '67650'
+    date_of_birth: 28 Jul 1963
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '67617'
+    place_of_birth: Perm, Russia
+    main_entry: 'true'

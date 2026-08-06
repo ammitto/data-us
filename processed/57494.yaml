@@ -1,0 +1,51 @@
+---
+uid: '57494'
+first_name: Hossein Mohammad
+last_name: REZAEI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '89000'
+    type: a.k.a.
+    category: strong
+    last_name: MOHAMMADREZAEI
+    first_name: Hossein
+address_list:
+  items:
+  - uid: '88137'
+    country: United Arab Emirates
+  - uid: '88138'
+    country: Iran
+id_list:
+  items:
+  - uid: '51854'
+    id_type: National ID No.
+    id_number: '0079865135'
+    id_country: Iran
+  - uid: '51855'
+    id_type: Identification Number
+    id_number: '784198507597577'
+    id_country: United Arab Emirates
+  - uid: '51856'
+    id_type: Passport
+    id_number: RA021882
+    id_country: Dominica
+  - uid: '197695'
+    id_type: Gender
+    id_number: Male
+  - uid: '197763'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '97693'
+    date_of_birth: 17 Sep 1985
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '97694'
+    place_of_birth: Iran
+    main_entry: 'true'

@@ -1,0 +1,47 @@
+---
+uid: '56268'
+first_name: Cheison Royer
+last_name: GUERRERO PALMA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+  - TCO
+aka_list:
+  items:
+  - uid: '87395'
+    type: a.k.a.
+    category: weak
+    last_name: Mexicali
+  - uid: '87573'
+    type: a.k.a.
+    category: weak
+    last_name: Arabe Negro
+address_list:
+  items:
+  - uid: '86389'
+    country: Chile
+id_list:
+  items:
+  - uid: '50506'
+    id_type: Cedula No.
+    id_number: '17984659'
+    id_country: Venezuela
+  - uid: '194894'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '194736'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '94505'
+    date_of_birth: 16 Feb 1985
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '94859'
+    place_of_birth: Maracay, Aragua, Venezuela
+    main_entry: 'true'
+remarks: "(Linked To: TREN DE ARAGUA)"

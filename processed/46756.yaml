@@ -1,0 +1,46 @@
+---
+uid: '46756'
+first_name: Igor Yurievich
+last_name: AFANASIEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '72192'
+    type: a.k.a.
+    category: strong
+    last_name: AFANASYEV
+    first_name: Igor Yurievich
+  - uid: '72193'
+    type: a.k.a.
+    category: strong
+    last_name: AFANASEV
+    first_name: Igor Iurevich
+address_list:
+  items:
+  - uid: '69677'
+    country: Russia
+id_list:
+  items:
+  - uid: '36832'
+    id_type: Tax ID No.
+    id_number: '772375218154'
+    id_country: Russia
+  - uid: '176287'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '167542'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '67538'
+    date_of_birth: 07 Sep 1968
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '67540'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'

@@ -1,0 +1,42 @@
+---
+uid: '41058'
+last_name: LIMITED LIABILITY COMPANY RUDNIY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '64017'
+    type: a.k.a.
+    category: strong
+    last_name: OOO RUDNIY
+  - uid: '64018'
+    type: a.k.a.
+    category: weak
+    last_name: RUDNY LLC
+address_list:
+  items:
+  - uid: '61356'
+    address1: Narodnoy Voli St., Building 24, Office 5
+    city: Ekaterinburg
+    state_or_province: Sverdlovsk Region
+    postal_code: '620063'
+    country: Russia
+id_list:
+  items:
+  - uid: '30390'
+    id_type: Registration Number
+    id_number: '1196658038774'
+    id_country: Russia
+  - uid: '30391'
+    id_type: Tax ID No.
+    id_number: '6671096252'
+    id_country: Russia
+  - uid: '173591'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '158922'
+    id_type: Organization Established Date
+    id_number: 30 May 2019
+remarks: "(Linked To: SUROVIKINA, Anna Borisovna)"

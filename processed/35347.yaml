@@ -1,0 +1,41 @@
+---
+uid: '35347'
+last_name: AVIASTAR-SP AIRCRAFT MANUFACTURING ENTERPRISE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '55676'
+    type: a.k.a.
+    category: strong
+    last_name: AVIASTAR-SP
+  - uid: '55677'
+    type: a.k.a.
+    category: strong
+    last_name: JSC AVIASTAR-SP
+  - uid: '55679'
+    type: a.k.a.
+    category: strong
+    last_name: AO AVIASTAR-SP
+  - uid: '55680'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY AVIASTAR-SP
+address_list:
+  items:
+  - uid: '53160'
+    address1: Antonova Avenue 1
+    city: Ulyanovsk
+    postal_code: '432072'
+    country: Russia
+id_list:
+  items:
+  - uid: '25058'
+    id_type: Tax ID No.
+    id_number: '7328032711'
+    id_country: Russia
+  - uid: '176736'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

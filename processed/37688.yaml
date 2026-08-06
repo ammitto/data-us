@@ -1,0 +1,41 @@
+---
+uid: '37688'
+last_name: KIZLYAR ELECTROMECHANICAL PLANT JSC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59074'
+    type: a.k.a.
+    category: strong
+    last_name: CONCERN KEMZ OJSC
+  - uid: '59075'
+    type: a.k.a.
+    category: strong
+    last_name: OJSC KONTSERN KIZLYARSKY ELEKTROMEKHANICHESKY FACTORY
+  - uid: '59076'
+    type: a.k.a.
+    category: strong
+    last_name: KIZLYAR ELECTRO-MECHANICAL PLANT
+address_list:
+  items:
+  - uid: '56371'
+    address1: Kutuzov st. 1
+    city: Kizlyar
+    state_or_province: Dagestan Rep.
+    country: Russia
+id_list:
+  items:
+  - uid: '26924'
+    id_type: Tax ID No.
+    id_number: '547003781'
+    id_country: Russia
+  - uid: '26925'
+    id_type: Registration Number
+    id_number: '1020502308507'
+    id_country: Russia
+  - uid: '173461'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,38 @@
+---
+uid: '13150'
+first_name: Ovidio
+last_name: LIMON SANCHEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '21015'
+    address1: 'Calle Plan de Iguala #2951'
+    address2: Colonia Emiliano Zapata
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+id_list:
+  items:
+  - uid: '7642'
+    id_type: C.U.R.P.
+    id_number: LISO680724HSLMNV03
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '9025'
+    date_of_birth: 24 Jul 1968
+    main_entry: 'true'
+  - uid: '9026'
+    date_of_birth: 24 Jun 1968
+    main_entry: 'false'
+  - uid: '9027'
+    date_of_birth: 16 Oct 1962
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '9028'
+    place_of_birth: Badiraguato, Sinaloa, Mexico
+    main_entry: 'true'

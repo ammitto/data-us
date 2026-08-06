@@ -1,0 +1,58 @@
+---
+uid: '11803'
+first_name: Jose Arnoldo
+last_name: RUEDA MEDINA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '12594'
+    type: a.k.a.
+    category: weak
+    last_name: LA MINSA
+  - uid: '12595'
+    type: a.k.a.
+    category: strong
+    last_name: LOPEZ HUERTA
+    first_name: Arnoldo
+  - uid: '12596'
+    type: a.k.a.
+    category: strong
+    last_name: LOPEZ RUEDA
+    first_name: Jose Arnoldo
+  - uid: '12597'
+    type: a.k.a.
+    category: weak
+    last_name: MODELO
+  - uid: '12598'
+    type: a.k.a.
+    category: weak
+    last_name: FLACO
+  - uid: '12599'
+    type: a.k.a.
+    category: weak
+    last_name: EL FLACO
+id_list:
+  items:
+  - uid: '6182'
+    id_type: C.U.R.P.
+    id_number: RUMA691215HMNDDR08
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '7327'
+    date_of_birth: 15 Dec 1969
+    main_entry: 'true'
+  - uid: '7328'
+    date_of_birth: 27 Dec 1969
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '7329'
+    place_of_birth: Michoacan, Mexico
+    main_entry: 'true'
+  - uid: '7330'
+    place_of_birth: Paracuaro, Mexico
+    main_entry: 'false'

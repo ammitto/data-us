@@ -1,0 +1,52 @@
+---
+uid: '57969'
+first_name: Mukhtar Adamu
+last_name: MUHAMMAD
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '89660'
+    type: a.k.a.
+    category: strong
+    last_name: ADAMU
+    first_name: Mukhtar
+  - uid: '89661'
+    type: a.k.a.
+    category: strong
+    last_name: MUKHTAR
+    first_name: Muhammad
+address_list:
+  items:
+  - uid: '88958'
+    address1: No. 45, Abimbola Street, off Capital Road, by Morcas Agege
+    state_or_province: Lagos State
+    country: Nigeria
+id_list:
+  items:
+  - uid: '52489'
+    id_type: Passport
+    id_number: A11904741
+    id_country: Nigeria
+  - uid: '52490'
+    id_type: Passport
+    id_number: A07422697
+    id_country: Nigeria
+  - uid: '198834'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '198827'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '98824'
+    date_of_birth: 02 Aug 1990
+    main_entry: 'true'
+  - uid: '98826'
+    date_of_birth: 03 Aug 1990
+    main_entry: 'false'
+remarks: "(Linked To: ISIS-WEST AFRICA)"

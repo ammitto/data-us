@@ -1,0 +1,42 @@
+---
+uid: '55463'
+first_name: Guojian
+last_name: LEI
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '86287'
+    type: a.k.a.
+    category: weak
+    last_name: LEI, Jack
+address_list:
+  items:
+  - uid: '84797'
+    country: China
+id_list:
+  items:
+  - uid: '49472'
+    id_type: National ID No.
+    id_number: '362330198305216238'
+    id_country: China
+  - uid: '192927'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '192922'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '92921'
+    date_of_birth: 21 May 1983
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '92923'
+    place_of_birth: Boyang County, Jiangxi, China
+    main_entry: 'true'
+remarks: "(Linked To: RAYMING TECHNOLOGY)"

@@ -1,0 +1,38 @@
+---
+uid: '49221'
+last_name: AKTSIONERNOE OBSHCHESTVO MOVEN NN
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76743'
+    type: a.k.a.
+    category: strong
+    last_name: AO MOVEN NN
+address_list:
+  items:
+  - uid: '74110'
+    address1: Zarevskaya Obyezdnaya Doroga 40
+    city: Dzerzhinsk
+    postal_code: '606000'
+    country: Russia
+  - uid: '74111'
+    address1: Ul. Svobody D. 15
+    city: Nizhniy Novgorod
+    postal_code: '603003'
+    country: Russia
+id_list:
+  items:
+  - uid: '40392'
+    id_type: Registration Number
+    id_number: '1115262002503'
+    id_country: Russia
+  - uid: '40393'
+    id_type: Tax ID No.
+    id_number: '5262261827'
+    id_country: Russia
+  - uid: '172192'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,56 @@
+---
+uid: '37920'
+first_name: Morteza
+last_name: RAJABIESLAMI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13846
+aka_list:
+  items:
+  - uid: '59594'
+    type: a.k.a.
+    category: strong
+    last_name: AL-ZAHIR
+    first_name: Rajabi Ali
+  - uid: '59595'
+    type: a.k.a.
+    category: strong
+    last_name: RAJABI
+    first_name: Morteza
+  - uid: '59596'
+    type: a.k.a.
+    category: strong
+    last_name: ESLAMI
+    first_name: Mortaza Rajabi
+address_list:
+  items:
+  - uid: '56872'
+    address1: "#2007, 20th Floor, Grand Hyatt Residence"
+    address2: Qudmetha St.
+    city: Dubai
+    postal_code: '7167'
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '27242'
+    id_type: Personal ID Card
+    id_number: '166730510001'
+    id_country: United Kingdom
+  - uid: '153180'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '153178'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '53175'
+    date_of_birth: 05 Jul 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '53176'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: NAFTIRAN INTERTRADE CO. LIMITED)"

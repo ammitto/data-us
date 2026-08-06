@@ -1,0 +1,44 @@
+---
+uid: '43223'
+last_name: LIMITED LIABILITY COMPANY VOSKHOD MANAGEMENT COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '66976'
+    type: a.k.a.
+    category: weak
+    last_name: VMC LLC
+address_list:
+  items:
+  - uid: '64484'
+    address1: 17 Okeanskiy Avenue, Office T9
+    city: Vladivostok
+    state_or_province: Primorskiy Krai
+    postal_code: '690091'
+    country: Russia
+  - uid: '64485'
+    address1: 3 Dolgoprudnenskoye Highway, Complex XI
+    address2: Floor 4, Room 32
+    address3: Northern Municipal District
+    city: Moscow
+    postal_code: '127495'
+    country: Russia
+id_list:
+  items:
+  - uid: '32772'
+    id_type: Tax ID No.
+    id_number: '9715408154'
+    id_country: Russia
+  - uid: '32773'
+    id_type: Registration Number
+    id_number: '1217700508563'
+    id_country: Russia
+  - uid: '175643'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '162344'
+    id_type: Organization Established Date
+    id_number: 21 Oct 2021

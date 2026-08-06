@@ -1,0 +1,39 @@
+---
+uid: '34765'
+last_name: USM LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54542'
+    type: a.k.a.
+    category: weak
+    last_name: USM LLC
+  - uid: '54830'
+    type: a.k.a.
+    category: strong
+    last_name: YUESEM
+address_list:
+  items:
+  - uid: '52107'
+    address1: Pr-Kt Tekstilshchikov D. 46
+    address2: Pom.1, Kom.56
+    city: Kostroma
+    postal_code: '156000'
+    country: Russia
+id_list:
+  items:
+  - uid: '24447'
+    id_type: Tax ID No.
+    id_number: '7725327133'
+    id_country: Russia
+  - uid: '24448'
+    id_type: Registration Number
+    id_number: '1167746761302'
+    id_country: Russia
+  - uid: '175208'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: SOVCOMBANK OPEN JOINT STOCK COMPANY)"

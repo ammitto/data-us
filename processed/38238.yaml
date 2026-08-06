@@ -1,0 +1,41 @@
+---
+uid: '38238'
+first_name: Andrey Igorevich
+last_name: MELNICHENKO
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '60010'
+    type: a.k.a.
+    category: strong
+    last_name: MELNICHENKO
+    first_name: Andrei Igorevich
+address_list:
+  items:
+  - uid: '57267'
+    country: Russia
+id_list:
+  items:
+  - uid: '27518'
+    id_type: Tax ID No.
+    id_number: '773600437377'
+    id_country: Russia
+  - uid: '153496'
+    id_type: Gender
+    id_number: Male
+  - uid: '176893'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '53494'
+    date_of_birth: '08 Mar 1972'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '53495'
+    place_of_birth: Gomel, Belarus
+    main_entry: 'true'

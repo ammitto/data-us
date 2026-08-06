@@ -1,0 +1,52 @@
+---
+uid: '44902'
+first_name: Maksim
+last_name: GALOCHKIN
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+aka_list:
+  items:
+  - uid: '69459'
+    type: a.k.a.
+    category: weak
+    last_name: BENTLEY
+  - uid: '69460'
+    type: a.k.a.
+    category: weak
+    last_name: CRYPT
+  - uid: '69461'
+    type: a.k.a.
+    category: weak
+    last_name: VOLHVB
+address_list:
+  items:
+  - uid: '66815'
+    city: Abakan
+    country: Russia
+id_list:
+  items:
+  - uid: '165162'
+    id_type: Gender
+    id_number: Male
+  - uid: '165274'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+  - uid: '165157'
+    id_type: Email Address
+    id_number: volhvb@mail.ru
+  - uid: '165158'
+    id_type: Email Address
+    id_number: volhvb@live.ru
+  - uid: '165159'
+    id_type: Email Address
+    id_number: volhvb@yandex.ru
+  - uid: '165160'
+    id_type: Email Address
+    id_number: volhvb@gmail.com
+date_of_birth_list:
+  items:
+  - uid: '65161'
+    date_of_birth: 19 May 1982
+    main_entry: 'true'

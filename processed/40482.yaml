@@ -1,0 +1,31 @@
+---
+uid: '40482'
+first_name: Hla
+last_name: SWE
+sdn_type: Individual
+program_list:
+  programs:
+  - BURMA-EO14014
+address_list:
+  items:
+  - uid: '60568'
+    country: Burma
+id_list:
+  items:
+  - uid: '29816'
+    id_type: National ID No.
+    id_number: 8/GaGaNa N 085996
+    id_country: Burma
+  - uid: '157972'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '57969'
+    date_of_birth: 28 Sep 1960
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '57970'
+    place_of_birth: Chauk, Magway, Burma
+    main_entry: 'true'

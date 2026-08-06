@@ -1,0 +1,79 @@
+---
+uid: '17145'
+last_name: SURGUTNEFTEGAS
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13662
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '26292'
+    type: a.k.a.
+    category: strong
+    last_name: OPEN JOINT STOCK COMPANY SURGUTNEFTEGAS
+  - uid: '26293'
+    type: a.k.a.
+    category: strong
+    last_name: SURGUTNEFTEGAZ OAO
+  - uid: '26295'
+    type: a.k.a.
+    category: strong
+    last_name: OTKRYTOE AKTSIONERNOE OBSHCHESTVO SURGUTNEFTEGAZ
+  - uid: '26296'
+    type: a.k.a.
+    category: strong
+    last_name: SURGUTNEFTEGAS PJSC
+  - uid: '26297'
+    type: a.k.a.
+    category: strong
+    last_name: PAO SURGUTNEFTEGAS
+  - uid: '81897'
+    type: a.k.a.
+    category: strong
+    last_name: SURGUTNEFTEGAS PUBLIC JOINT STOCK COMPANY
+  - uid: '82052'
+    type: a.k.a.
+    category: strong
+    last_name: PUBLICHNOE AKTSIONERNOE OBSCHESTVO SURGUTNEFTEGAS
+address_list:
+  items:
+  - uid: '26046'
+    address1: ul. Grigoriya Kukuyevitskogo, 1
+    address2: bld. 1
+    address3: Khanty-Mansiysky Autonomous Okrug - Yugra
+    city: the city of Surgut
+    state_or_province: Tyumenskaya Oblast
+    postal_code: '628415'
+    country: Russia
+  - uid: '26048'
+    address1: korp. 1 1 Grigoriya Kukuevitskogo ul.
+    city: Surgut
+    state_or_province: Tyumenskaya oblast
+    postal_code: '628404'
+    country: Russia
+  - uid: '26049'
+    address1: Street Kukuevitskogo 1
+    city: Surgut
+    state_or_province: Tyumen Region
+    postal_code: '628415'
+    country: Russia
+id_list:
+  items:
+  - uid: '183028'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '116154'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 4
+  - uid: '115923'
+    id_type: Website
+    id_number: www.surgutneftegas.ru
+  - uid: '115922'
+    id_type: Email Address
+    id_number: secretary@surgutneftegas.ru
+  - uid: '143638'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+remarks: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.'

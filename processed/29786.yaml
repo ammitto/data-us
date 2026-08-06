@@ -1,0 +1,42 @@
+---
+uid: '29786'
+last_name: ATLANTIC SHIP MANAGEMENT COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+  - IFSR
+aka_list:
+  items:
+  - uid: '46783'
+    type: a.k.a.
+    category: strong
+    last_name: ATLANTIC SHIP MANAGEMENT LLC
+address_list:
+  items:
+  - uid: '44834'
+    address1: Office Number 3803, Churchill Tower, 38 Floor
+    address2: Business Bay
+    address3: Bur Dubai, Burj Khalifa
+    city: Dubai
+    country: United Arab Emirates
+  - uid: '44993'
+    address1: P.O. Box 128650, No 1902
+    address2: Churchill Tower
+    address3: Business Bay
+    city: Dubai
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '19964'
+    id_type: Registration Number
+    id_number: '663558'
+    id_country: United Arab Emirates
+  - uid: '137392'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '187072'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: "(Linked To: NATIONAL IRANIAN TANKER COMPANY)"

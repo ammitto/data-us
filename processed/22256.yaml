@@ -1,0 +1,34 @@
+---
+uid: '22256'
+first_name: Calixto Antonio
+last_name: ORTEGA RIOS
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+address_list:
+  items:
+  - uid: '33720'
+    city: Maracaibo
+    state_or_province: Zulia
+    country: Venezuela
+id_list:
+  items:
+  - uid: '13991'
+    id_type: Cedula No.
+    id_number: '3264031'
+    id_country: Venezuela
+  - uid: '123628'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '23630'
+    date_of_birth: 12 Oct 1950
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '23631'
+    place_of_birth: San Rafael del Mojan, Zulia, Venezuela
+    main_entry: 'true'
+title: Magistrate of the Constitutional Chamber of Venezuela's Supreme Court of Justice

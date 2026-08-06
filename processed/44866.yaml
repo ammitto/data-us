@@ -1,0 +1,61 @@
+---
+uid: '44866'
+last_name: JOINT STOCK COMMERCIAL BANK AK BARS PUBLIC JOINT STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '69392'
+    type: a.k.a.
+    category: strong
+    last_name: AK BARS BANK
+  - uid: '69393'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNY KOMMERCHESKI BANK AK BARS PAO
+address_list:
+  items:
+  - uid: '66762'
+    address1: D. 1, ul. Dekabristov
+    city: Kazan
+    postal_code: '420066'
+    country: Russia
+id_list:
+  items:
+  - uid: '34463'
+    id_type: Registration Number
+    id_number: '1021600000124'
+    id_country: Russia
+  - uid: '34464'
+    id_type: Tax ID No.
+    id_number: '1653001805'
+    id_country: Russia
+  - uid: '34465'
+    id_type: Legal Entity Number
+    id_number: 253400XEMNQ5WBPN5635
+  - uid: '34466'
+    id_type: Identification Number
+    id_number: ZDFUFB.00000.LE.643
+    id_country: Russia
+  - uid: '165119'
+    id_type: Organization Established Date
+    id_number: 26 Jul 2002
+  - uid: '165470'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '175824'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184269'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '165120'
+    id_type: SWIFT/BIC
+    id_number: ARRSRU2K
+  - uid: '165121'
+    id_type: Website
+    id_number: www.akbars.ru

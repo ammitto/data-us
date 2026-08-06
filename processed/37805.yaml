@@ -1,0 +1,41 @@
+---
+uid: '37805'
+last_name: AO NPP TSIKLON TEST
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59371'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY RESEARCH AND PRODUCTION ENTERPRISE CIKLON TEST
+  - uid: '59372'
+    type: a.k.a.
+    category: strong
+    last_name: NPP CYCLONE TEST
+address_list:
+  items:
+  - uid: '56602'
+    address1: Proezd Zavodskoi D. 4
+    city: Fryazino
+    postal_code: '141190'
+    country: Russia
+id_list:
+  items:
+  - uid: '27112'
+    id_type: Registration Number
+    id_number: '1115050007676'
+    id_country: Russia
+  - uid: '27113'
+    id_type: Tax ID No.
+    id_number: '5052022886'
+    id_country: Russia
+  - uid: '173530'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '152814'
+    id_type: Organization Established Date
+    id_number: 19 Dec 1991
+remarks: "(Linked To: OPEN JOINT STOCK COMPANY RUSSIAN ELECTRONICS)"

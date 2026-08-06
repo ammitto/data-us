@@ -1,0 +1,86 @@
+---
+uid: '19428'
+first_name: Ali Khatib Haji
+last_name: HASSAN
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '30525'
+    type: a.k.a.
+    category: strong
+    last_name: HAJI
+    first_name: Ali Khatib
+  - uid: '30526'
+    type: a.k.a.
+    category: strong
+    last_name: HAJI
+    first_name: Ali Khatibu
+  - uid: '30527'
+    type: a.k.a.
+    category: strong
+    last_name: ALEX
+    first_name: Maiko Joseph
+  - uid: '30528'
+    type: a.k.a.
+    category: strong
+    last_name: SHAKUR
+    first_name: Abdallah
+  - uid: '30529'
+    type: a.k.a.
+    category: weak
+    last_name: SHKUBA
+  - uid: '30530'
+    type: a.k.a.
+    category: weak
+    last_name: SHIKUBA
+id_list:
+  items:
+  - uid: '11714'
+    id_type: Passport
+    id_number: AB269600
+    id_country: Tanzania
+  - uid: '11715'
+    id_type: Passport
+    id_number: AB360821
+    id_country: Tanzania
+  - uid: '11716'
+    id_type: Passport
+    id_number: AB564505
+    id_country: Tanzania
+  - uid: '11717'
+    id_type: Passport
+    id_number: A0389018
+    id_country: Tanzania
+  - uid: '11718'
+    id_type: Passport
+    id_number: AB179561
+    id_country: Tanzania
+  - uid: '11720'
+    id_type: Passport
+    id_number: A0010167
+    id_country: Tanzania
+  - uid: '119614'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '19609'
+    date_of_birth: 05 Jun 1970
+    main_entry: 'true'
+  - uid: '19611'
+    date_of_birth: 01 Jan 1963
+    main_entry: 'false'
+  - uid: '19612'
+    date_of_birth: '08 Jun 1970'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '19610'
+    place_of_birth: Zanzibar, Tanzania
+    main_entry: 'true'
+  - uid: '19613'
+    place_of_birth: Dar es Salaam, Tanzania
+    main_entry: 'false'

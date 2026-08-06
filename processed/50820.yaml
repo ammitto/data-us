@@ -1,0 +1,32 @@
+---
+uid: '50820'
+last_name: LIMITED LIABILITY COMPANY TM TECH
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '77138'
+    address1: Ul. Bolshaya Pochtovaya D. 26 V
+    address2: Str. 1, Kom. 403
+    city: Moscow
+    postal_code: '105082'
+    country: Russia
+  - uid: '77139'
+    address1: Moskovskoe sh., 20
+    city: Ryazan
+    country: Russia
+id_list:
+  items:
+  - uid: '42764'
+    id_type: Registration Number
+    id_number: '5147746464234'
+    id_country: Russia
+  - uid: '42765'
+    id_type: Tax ID No.
+    id_number: '7719898900'
+    id_country: Russia
+  - uid: '180647'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,38 @@
+---
+uid: '46040'
+last_name: LIMITED LIABILITY COMPANY ROSKAPSTROY CLEAN WATER
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '71135'
+    type: a.k.a.
+    category: strong
+    last_name: RKS CLEAR VODY LLC
+  - uid: '71136'
+    type: a.k.a.
+    category: strong
+    last_name: LLC RKS CHV
+address_list:
+  items:
+  - uid: '68585'
+    address1: 2 Turgenevskaya Square, Office 2P
+    city: Moscow
+    postal_code: '101000'
+    country: Russia
+id_list:
+  items:
+  - uid: '35894'
+    id_type: Registration Number
+    id_number: '1227700271700'
+    id_country: Russia
+  - uid: '35895'
+    id_type: Tax ID No.
+    id_number: '7713489203'
+    id_country: Russia
+  - uid: '174913'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: FEDERAL AUTONOMOUS INSTITUTION ROSKAPSTROY)"

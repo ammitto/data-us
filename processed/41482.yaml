@@ -1,0 +1,65 @@
+---
+uid: '41482'
+first_name: Amanallah
+last_name: PAIDAR
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '64559'
+    type: a.k.a.
+    category: strong
+    last_name: PAYDAR
+    first_name: Aman Ilah
+  - uid: '64560'
+    type: a.k.a.
+    category: strong
+    last_name: PAYDAR
+    first_name: Amanollah
+  - uid: '64561'
+    type: a.k.a.
+    category: strong
+    last_name: AMANOLLAH
+    first_name: Paydar Mohammad
+  - uid: '64630'
+    type: a.k.a.
+    category: weak
+    last_name: AMIRI, Ahmad
+  - uid: '64631'
+    type: a.k.a.
+    category: weak
+    last_name: MURAT, Rajib
+  - uid: '64632'
+    type: a.k.a.
+    category: weak
+    last_name: AZARIAN, Amin
+address_list:
+  items:
+  - uid: '61917'
+    country: Iran
+id_list:
+  items:
+  - uid: '30823'
+    id_type: National ID No.
+    id_number: '2690705257'
+    id_country: Iran
+  - uid: '159573'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '159572'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '59569'
+    date_of_birth: '08 Nov 1958'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '59570'
+    place_of_birth: Rudsar, Iran
+    main_entry: 'true'
+remarks: "(Linked To: DEFENSE TECHNOLOGY AND SCIENCE RESEARCH CENTER)"

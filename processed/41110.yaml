@@ -1,0 +1,42 @@
+---
+uid: '41110'
+first_name: Aleksandr Leonidovich
+last_name: BURKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '64110'
+    type: a.k.a.
+    category: strong
+    last_name: BURKOV
+    first_name: Oleksandr Leonidovych
+address_list:
+  items:
+  - uid: '61450'
+    state_or_province: Omsk Region
+    country: Russia
+id_list:
+  items:
+  - uid: '30447'
+    id_type: Tax ID No.
+    id_number: '667206777013'
+    id_country: Russia
+  - uid: '173640'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '159082'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '59080'
+    date_of_birth: 23 Apr 1967
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '59081'
+    place_of_birth: Kushva, Sverdlovsk Region, Russia
+    main_entry: 'true'

@@ -1,0 +1,41 @@
+---
+uid: '36636'
+last_name: OOO KHARTIYA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '57707'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU KHARTIYA
+address_list:
+  items:
+  - uid: '55024'
+    address1: Proezd Novoladykinskii D. 8B
+    city: Moscow
+    postal_code: '127106'
+    country: Russia
+id_list:
+  items:
+  - uid: '26118'
+    id_type: Tax ID No.
+    id_number: '7703770101'
+    id_country: Russia
+  - uid: '26119'
+    id_type: Registration Number
+    id_number: '1127746462250'
+    id_country: Russia
+  - uid: '26120'
+    id_type: Government Gazette Number
+    id_number: '09873971'
+    id_country: Russia
+  - uid: '150428'
+    id_type: Organization Established Date
+    id_number: 13 Jun 2012
+  - uid: '174250'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: OOO EKOGRUPP)"

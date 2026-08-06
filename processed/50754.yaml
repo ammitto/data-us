@@ -1,0 +1,34 @@
+---
+uid: '50754'
+last_name: OOO KRASMK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '76990'
+    address1: Ul. Molokova D. 1
+    address2: Korp. 1
+    city: Krasnoyarsk
+    postal_code: '660077'
+    country: Russia
+  - uid: '76991'
+    address1: Ul. Vesny D. 32
+    address2: Pomeshch 126
+    city: Krasnoyarsk
+    postal_code: '660077'
+    country: Russia
+id_list:
+  items:
+  - uid: '42639'
+    id_type: Registration Number
+    id_number: '1102468007487'
+    id_country: Russia
+  - uid: '42640'
+    id_type: Tax ID No.
+    id_number: '2461208999'
+    id_country: Russia
+  - uid: '179382'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

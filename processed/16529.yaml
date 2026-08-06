@@ -1,0 +1,30 @@
+---
+uid: '16529'
+first_name: Ali
+last_name: CANKO
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+id_list:
+  items:
+  - uid: '9123'
+    id_type: Passport
+    id_number: U 04765836
+    id_country: Turkey
+  - uid: '9124'
+    id_type: Personal ID Card
+    id_number: '58786069032'
+  - uid: '9125'
+    id_type: Personal ID Card
+    id_number: AK 8136255
+    id_country: Italy
+  - uid: '115030'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '14988'
+    date_of_birth: 01 Jan 1960
+    main_entry: 'true'

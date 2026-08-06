@@ -1,0 +1,67 @@
+---
+uid: '41917'
+last_name: INTERNATIONAL INVESTMENT BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '65148'
+    type: a.k.a.
+    category: weak
+    last_name: IIB
+  - uid: '65149'
+    type: a.k.a.
+    category: strong
+    last_name: MEZHDUNARODNY INVESTITSIONNY BANK
+address_list:
+  items:
+  - uid: '62526'
+    address1: Vaci ut, 188
+    city: Budapest
+    postal_code: H-1138
+    country: Hungary
+  - uid: '62527'
+    address1: Fo utca 1
+    city: Budapest
+    postal_code: H-1011
+    country: Hungary
+  - uid: '62528'
+    address1: 7 Mashi Poryvaevoy Street
+    city: Moscow
+    postal_code: '107078'
+    country: Russia
+id_list:
+  items:
+  - uid: '31296'
+    id_type: Tax ID No.
+    id_number: 30479900-1-51
+    id_country: Hungary
+  - uid: '31297'
+    id_type: Tax ID No.
+    id_number: '9909152110'
+    id_country: Russia
+  - uid: '31298'
+    id_type: Legal Entity Number
+    id_number: 2534000PHLD27VN98Y03
+  - uid: '176945'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184127'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '160155'
+    id_type: SWIFT/BIC
+    id_number: IIBMHU22
+  - uid: '160154'
+    id_type: Website
+    id_number: www.iib.int
+  - uid: '160157'
+    id_type: Organization Established Date
+    id_number: 10 Jul 1970
+  - uid: '160156'
+    id_type: Target Type
+    id_number: Financial Institution

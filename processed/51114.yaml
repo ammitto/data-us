@@ -1,0 +1,42 @@
+---
+uid: '51114'
+last_name: JOINT STOCK COMPANY 18TH NAVY SPECIAL DESIGN AND ENGINEERING OFFICE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80075'
+    type: a.k.a.
+    category: strong
+    last_name: AO 18 SKTB VMF
+  - uid: '80076'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO 18 SPETSIALIZIROVANNOE KONSTRUKTORSKO TEKHNOLOGICHESKOE
+      BIURO VOENNO MORSKOGO FLOTA
+address_list:
+  items:
+  - uid: '77674'
+    address1: Liniiya 11-Ya V.O.
+    address2: D. 8
+    city: Saint Petersburg
+    postal_code: '199034'
+    country: Russia
+id_list:
+  items:
+  - uid: '43228'
+    id_type: Registration Number
+    id_number: '1097847180650'
+    id_country: Russia
+  - uid: '43229'
+    id_type: Tax ID No.
+    id_number: '7801497725'
+    id_country: Russia
+  - uid: '180135'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
+  - uid: '180136'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

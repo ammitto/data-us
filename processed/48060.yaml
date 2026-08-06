@@ -1,0 +1,49 @@
+---
+uid: '48060'
+first_name: Tal Jonathan
+last_name: DILIAN
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+aka_list:
+  items:
+  - uid: '74624'
+    type: a.k.a.
+    category: strong
+    last_name: MENASHE
+    first_name: Tal Yonatan
+address_list:
+  items:
+  - uid: '72055'
+    address1: 11B Route Des Arcys
+    city: Champery
+    postal_code: '1874'
+    country: Switzerland
+id_list:
+  items:
+  - uid: '38946'
+    id_type: National ID No.
+    id_number: '57053795'
+    id_country: Israel
+  - uid: '38947'
+    id_type: National ID No.
+    id_number: '057053795'
+    id_country: Israel
+  - uid: '38948'
+    id_type: Passport
+    id_number: '22540627'
+    id_country: Israel
+  - uid: '169589'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '70124'
+    date_of_birth: 21 Aug 1961
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '69588'
+    place_of_birth: Israel
+    main_entry: 'true'

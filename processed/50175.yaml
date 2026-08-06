@@ -1,0 +1,44 @@
+---
+uid: '50175'
+first_name: Dmitriy
+last_name: CHASTUHIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78562'
+    type: a.k.a.
+    category: strong
+    last_name: CHASTUKHIN
+    first_name: Dmitrii Vladimirovich
+address_list:
+  items:
+  - uid: '76172'
+    city: Saint Petersburg
+    country: Russia
+id_list:
+  items:
+  - uid: '41986'
+    id_type: Passport
+    id_number: '651218162'
+    id_country: Russia
+    expiration_date: 14 Oct 2019
+  - uid: '178121'
+    id_type: Gender
+    id_number: Male
+  - uid: '178485'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '78119'
+    date_of_birth: 20 Jul 1987
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '78120'
+    place_of_birth: Cherepovets, Russia
+    main_entry: 'true'
+remarks: "(Linked To: OOO SOFT PLYUS)"

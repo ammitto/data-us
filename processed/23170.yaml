@@ -1,0 +1,44 @@
+---
+uid: '23170'
+first_name: Sidong
+last_name: SUN
+sdn_type: Individual
+program_list:
+  programs:
+  - DPRK4
+address_list:
+  items:
+  - uid: '35005'
+    state_or_province: Liaoning
+    country: China
+id_list:
+  items:
+  - uid: '14608'
+    id_type: National ID No.
+    id_number: '210623197605112215'
+  - uid: '14609'
+    id_type: Passport
+    id_number: G55296890
+    id_country: China
+    issue_date: 15 Sep 2011
+    expiration_date: 14 Sep 2021
+  - uid: '127314'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '135215'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '124822'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '24820'
+    date_of_birth: 11 May 1976
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '24821'
+    place_of_birth: Dandong, China
+    main_entry: 'true'

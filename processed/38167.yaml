@@ -1,0 +1,38 @@
+---
+uid: '38167'
+last_name: OJSC SCIENTIFIC RESEARCH INSTITUTE OF PRECISION MECHANICAL ENGINEERING
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59896'
+    type: a.k.a.
+    category: strong
+    last_name: SCIENTIFIC AND RESEARCH INSTITUTE OF PRECISION ENGINEERING
+  - uid: '59897'
+    type: a.k.a.
+    category: weak
+    last_name: NIITM
+  - uid: '59898'
+    type: a.k.a.
+    category: strong
+    last_name: RESEARCH INSTITUTE OF PRECISION MACHINE MANUFACTURING
+address_list:
+  items:
+  - uid: '57185'
+    address1: 10 Panfilovsky avenue
+    city: Zelenograd
+    state_or_province: Moscow
+    postal_code: '124460'
+    country: Russia
+id_list:
+  items:
+  - uid: '27454'
+    id_type: Tax ID No.
+    id_number: '7735043966'
+    id_country: Russia
+  - uid: '174647'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

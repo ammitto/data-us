@@ -1,0 +1,39 @@
+---
+uid: '49273'
+last_name: LIMITED LIABILITY COMPANY GEOSCAN
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76838'
+    type: a.k.a.
+    category: strong
+    last_name: GEOSCAN LTD
+address_list:
+  items:
+  - uid: '74218'
+    address1: ul. Shatelena 26 A
+    city: Saint Petersburg
+    postal_code: '194021'
+    country: Russia
+  - uid: '74222'
+    address1: Politekhnicheskaya street, building 22, complex L
+    address2: room 1-N, room 12
+    city: St. Petersburg
+    postal_code: '194021'
+    country: Russia
+id_list:
+  items:
+  - uid: '40489'
+    id_type: Registration Number
+    id_number: '1077847632818'
+    id_country: Russia
+  - uid: '40490'
+    id_type: Tax ID No.
+    id_number: '7801450808'
+    id_country: Russia
+  - uid: '172281'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

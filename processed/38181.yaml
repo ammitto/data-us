@@ -1,0 +1,49 @@
+---
+uid: '38181'
+last_name: FEDERAL STATE INSTITUTION FEDERAL SCIENTIFIC CENTER SCIENTIFIC RESEARCH
+  INSTITUTE FOR SYSTEM ANALYSIS OF THE RUSSIAN ACADEMY OF SCIENCES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59928'
+    type: a.k.a.
+    category: strong
+    last_name: FSI FSC SRISA RAS
+  - uid: '59929'
+    type: a.k.a.
+    category: strong
+    last_name: SCIENTIFIC RESEARCH INSTITUTE OF SYSTEM ANALYSIS, RUSSIAN ACADEMIC
+      OF SCIENCES
+  - uid: '59930'
+    type: a.k.a.
+    category: strong
+    last_name: FGU FNTS NIISI RAN
+  - uid: '59931'
+    type: a.k.a.
+    category: strong
+    last_name: FEDERALNOE GOSUDARSTVENNOE UCHREZHDENIE FEDERALNYY NAUCHNYY TSENTR
+      NAUCHNO-ISSLEDOVATELSKIY INSTITUT SISTEMNYKH ISSLEDOVANIY ROSSIYSKOY AKADEMII
+      NAUK
+address_list:
+  items:
+  - uid: '57215'
+    address1: Nakhimovsky Prospect, 36, Building 1
+    city: Moscow
+    postal_code: '117218'
+    country: Russia
+id_list:
+  items:
+  - uid: '27486'
+    id_type: Tax ID No.
+    id_number: '7727086772'
+    id_country: Russia
+  - uid: '27487'
+    id_type: Registration Number
+    id_number: '1027700384909'
+    id_country: Russia
+  - uid: '174652'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

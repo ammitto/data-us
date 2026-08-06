@@ -1,0 +1,58 @@
+---
+uid: '42728'
+last_name: BELMAGISTRALAVTOTRANS SPEDITIONS GMBH
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '66229'
+    type: f.k.a.
+    category: strong
+    last_name: BMA SPEDITION GMBH
+address_list:
+  items:
+  - uid: '63732'
+    address1: Justus-von-Liebig-Str. 21
+    city: Alzey
+    postal_code: '55232'
+    country: Germany
+  - uid: '63733'
+    address1: Am Fuchsbau 1
+    city: Bad Saarow
+    postal_code: '15526'
+    country: Germany
+  - uid: '63734'
+    city: Siedlce
+    country: Poland
+  - uid: '63735'
+    city: Smolensk
+    country: Russia
+  - uid: '63736'
+    city: Pavlodar
+    country: Kazakhstan
+  - uid: '63737'
+    city: Minsk
+    country: Belarus
+id_list:
+  items:
+  - uid: '32280'
+    id_type: Tax ID No.
+    id_number: '08/666/09768'
+    id_country: Germany
+  - uid: '32281'
+    id_type: Registration Number
+    id_number: HRB 32490 (Mainz)
+    id_country: Germany
+  - uid: '32282'
+    id_type: V.A.T. Number
+    id_number: DE171692719
+    id_country: Germany
+  - uid: '175459'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '161526'
+    id_type: Organization Established Date
+    id_number: 20 Jan 1995
+remarks: "(Linked To: KOSTIOUK, Evgueni)"

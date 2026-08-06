@@ -1,0 +1,46 @@
+---
+uid: '11466'
+first_name: Natalia Andrea
+last_name: VASQUEZ VALENCIA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNT
+address_list:
+  items:
+  - uid: '17095'
+    address1: c/o AGROGANADERA LOS SANTOS S.A.
+    city: Medellin
+    country: Colombia
+  - uid: '17096'
+    address1: c/o ASES DE COMPETENCIA Y CIA. S.A.
+    city: Medellin
+    country: Colombia
+  - uid: '17097'
+    address1: c/o FRANZUL S.A.
+    city: Medellin
+    country: Colombia
+  - uid: '17098'
+    address1: c/o HIERROS DE JERUSALEM S.A.
+    city: Medellin
+    country: Colombia
+  - uid: '17099'
+    address1: c/o TAXI AEREO ANTIOQUENO S.A.
+    city: Medellin
+    country: Colombia
+id_list:
+  items:
+  - uid: '5878'
+    id_type: Cedula No.
+    id_number: '43587931'
+    id_country: Colombia
+date_of_birth_list:
+  items:
+  - uid: '6888'
+    date_of_birth: 01 Oct 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '6889'
+    place_of_birth: Medellin, Colombia
+    main_entry: 'true'

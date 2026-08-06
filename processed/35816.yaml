@@ -1,0 +1,40 @@
+---
+uid: '35816'
+last_name: 66TH LIGHT INFANTRY DIVISION
+sdn_type: Entity
+program_list:
+  programs:
+  - BURMA-EO14014
+aka_list:
+  items:
+  - uid: '56270'
+    type: a.k.a.
+    category: strong
+    last_name: LIGHT INFANTRY DIVISION 66
+  - uid: '56271'
+    type: a.k.a.
+    category: weak
+    last_name: "#66 DIVISION"
+  - uid: '56272'
+    type: a.k.a.
+    category: weak
+    last_name: 66 LID
+  - uid: '56273'
+    type: a.k.a.
+    category: weak
+    last_name: DIV. 66
+  - uid: '56274'
+    type: a.k.a.
+    category: weak
+    last_name: LID 66
+address_list:
+  items:
+  - uid: '53747'
+    city: Pyay Township
+    state_or_province: Bago Region
+    country: Burma
+id_list:
+  items:
+  - uid: '149117'
+    id_type: Target Type
+    id_number: Government Entity

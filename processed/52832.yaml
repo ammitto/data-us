@@ -1,0 +1,70 @@
+---
+uid: '52832'
+first_name: Alexander Igorevich
+last_name: MISHIN
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER3
+aka_list:
+  items:
+  - uid: '82781'
+    type: a.k.a.
+    category: strong
+    last_name: MISHIN
+    first_name: Aleksandr Igorvich
+  - uid: '82782'
+    type: a.k.a.
+    category: weak
+    last_name: PIPPIN, James
+  - uid: '82783'
+    type: a.k.a.
+    category: weak
+    last_name: KLICHKO, Ivan P
+  - uid: '82784'
+    type: a.k.a.
+    category: weak
+    last_name: TRIPLEX560
+  - uid: '82819'
+    type: a.k.a.
+    category: weak
+    last_name: ALEX560560
+  - uid: '82820'
+    type: a.k.a.
+    category: weak
+    last_name: JAMES1789
+  - uid: '82821'
+    type: a.k.a.
+    category: weak
+    last_name: SASHA-BRN
+address_list:
+  items:
+  - uid: '80790'
+    address1: Ul. Yubileynaya, D. 32
+    city: Barnaul
+    state_or_province: Altai Krai
+    country: Russia
+id_list:
+  items:
+  - uid: '45999'
+    id_type: Passport
+    id_number: '5904776'
+    id_country: Russia
+    expiration_date: 05 Sep 2027
+  - uid: '184801'
+    id_type: Gender
+    id_number: Male
+  - uid: '184901'
+    id_type: Digital Currency Address - XBT
+    id_number: 3FfRvC3kSo2SxiQe5e7SSuNdegwgq8iusL
+date_of_birth_list:
+  items:
+  - uid: '84803'
+    date_of_birth: 18 Mar 1994
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '84804'
+    place_of_birth: Altai Krai, Russia
+    main_entry: 'true'
+remarks: "(Linked To: ZSERVERS)"

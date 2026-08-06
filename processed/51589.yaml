@@ -1,0 +1,27 @@
+---
+uid: '51589'
+last_name: TRIUMPH
+sdn_type: Vessel
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+id_list:
+  items:
+  - uid: '44054'
+    id_type: Vessel Registration Identification
+    id_number: IMO 9344033
+  - uid: '44056'
+    id_type: MMSI
+    id_number: '314943000'
+  - uid: '181348'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183568'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '181345'
+    id_type: Vessel Year of Build
+    id_number: '2007'
+remarks: "(Linked To: JOINT STOCK COMPANY SOVCOMFLOT)"

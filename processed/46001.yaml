@@ -1,0 +1,51 @@
+---
+uid: '46001'
+first_name: Maria Aleksandrovna
+last_name: OSETROVA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '71079'
+    type: f.k.a.
+    category: strong
+    last_name: ZAKHAROVA
+    first_name: Maria Aleksandrovna
+  - uid: '71080'
+    type: a.k.a.
+    category: strong
+    last_name: OSETROVA
+    first_name: Mariya Aleksandrovna
+address_list:
+  items:
+  - uid: '68505'
+    address1: 272 Pushkinskaya St.
+    address2: Apt. 41
+    city: Izhevsk
+    postal_code: '426008'
+    country: Russia
+id_list:
+  items:
+  - uid: '35827'
+    id_type: Tax ID No.
+    id_number: '183116181362'
+    id_country: Russia
+  - uid: '174875'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '166654'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '66651'
+    date_of_birth: 07 Jan 1988
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '66652'
+    place_of_birth: Russia
+    main_entry: 'true'
+remarks: "(Linked To: ZAKHAROV, Aleksandr Vyacheslavovich)"

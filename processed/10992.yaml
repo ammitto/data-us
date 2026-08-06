@@ -1,0 +1,68 @@
+---
+uid: '10992'
+first_name: Ana Cristina
+last_name: ARCE BORBOA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '15955'
+    address1: c/o COPA DE PLATA S.A. DE C.V.
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '15956'
+    address1: c/o MINERA LA CASTELLANA Y ANEXAS S.A. DE C.V.
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '15957'
+    address1: c/o MINERA RIO PRESIDIO S.A. DE C.V.
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '15958'
+    address1: c/o COMPANIA MINERA DEL RIO CIANURY S.A. DE C.V.
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '15959'
+    address1: Calle Artesanos No. 255, Colonia Burocrata
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '15960'
+    address1: Prof. Raul Franco Barreda 97
+    address2: Fracc. Arboles
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+id_list:
+  items:
+  - uid: '5481'
+    id_type: R.F.C.
+    id_number: AEBA610522
+    id_country: Mexico
+  - uid: '5482'
+    id_type: C.U.R.P.
+    id_number: AEBA610522MSLRRN00
+    id_country: Mexico
+  - uid: '5483'
+    id_type: C.U.R.P.
+    id_number: AEBA610522MSLRRN18
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '6432'
+    date_of_birth: 22 May 1961
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '6433'
+    place_of_birth: Navolato, Sinaloa, Mexico
+    main_entry: 'true'
+  - uid: '6434'
+    place_of_birth: Culiacan, Sinaloa, Mexico
+    main_entry: 'false'

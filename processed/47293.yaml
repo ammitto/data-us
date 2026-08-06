@@ -1,0 +1,46 @@
+---
+uid: '47293'
+last_name: LIMITED LIABILITY COMPANY DRAKE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73065'
+    type: a.k.a.
+    category: weak
+    last_name: LLC DRAKE
+  - uid: '73066'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY DREYK
+address_list:
+  items:
+  - uid: '70465'
+    address1: ul. Sh-2 (OEZ Alabuga Ter.), Str. 5/12
+    address2: Pomeshch. 126
+    city: Yelabuga
+    state_or_province: Republic of Tatarstan
+    postal_code: '423601'
+    country: Russia
+id_list:
+  items:
+  - uid: '37591'
+    id_type: Tax ID No.
+    id_number: '1646047020'
+    id_country: Russia
+  - uid: '37592'
+    id_type: Government Gazette Number
+    id_number: '39455544'
+    id_country: Russia
+  - uid: '37593'
+    id_type: Registration Number
+    id_number: '1191690040519'
+    id_country: Russia
+  - uid: '168650'
+    id_type: Organization Established Date
+    id_number: '08 May 2019'
+  - uid: '176384'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

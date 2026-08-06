@@ -1,0 +1,34 @@
+---
+uid: '37022'
+last_name: BELINVESTSTROI OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '55416'
+    address1: B-R Svyato-Troitskii D. 38
+    address2: Office 8
+    city: Belgorod
+    postal_code: '308009'
+    country: Russia
+id_list:
+  items:
+  - uid: '26308'
+    id_type: Registration Number
+    id_number: '1083123003842'
+    id_country: Russia
+  - uid: '26309'
+    id_type: Tax ID No.
+    id_number: '9715263396'
+  - uid: '151274'
+    id_type: Organization Established Date
+    id_number: 06 Mar 2008
+  - uid: '174435'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '151408'
+    id_type: 'Organization Type:'
+    id_number: Construction of buildings
+remarks: "(Linked To: JOINT STOCK COMPANY MOSCOW INDUSTRIAL BANK)"

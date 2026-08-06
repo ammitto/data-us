@@ -1,0 +1,47 @@
+---
+uid: '40927'
+first_name: Sharda
+last_name: SUBRAMANIAM
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '61075'
+    address1: C 5C/22-B
+    address2: Janakpuri
+    city: Delhi
+    postal_code: '110058'
+    country: India
+  - uid: '61076'
+    address1: D-248, PH1
+    address2: Sushant Lok
+    city: Gurgaon
+    postal_code: '122001'
+    country: India
+id_list:
+  items:
+  - uid: '30822'
+    id_type: Passport
+    id_number: Z3012452
+    id_country: India
+    issue_date: 19 Dec 2014
+    expiration_date: 18 Dec 2024
+  - uid: '159564'
+    id_type: Gender
+    id_number: Female
+  - uid: '175317'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '59565'
+    date_of_birth: 23 May 1966
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '59566'
+    place_of_birth: New Delhi, India
+    main_entry: 'true'
+remarks: "(Linked To: MORETTI, Walter)"

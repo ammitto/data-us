@@ -1,0 +1,55 @@
+---
+uid: '39598'
+first_name: Sara Lvovna
+last_name: SHOR
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '61682'
+    type: a.k.a.
+    category: strong
+    last_name: MANAKHIMOVA
+    first_name: Sara Lvovna
+  - uid: '61683'
+    type: a.k.a.
+    category: weak
+    last_name: ZHASMIN
+  - uid: '61685'
+    type: a.k.a.
+    category: strong
+    last_name: SHORE
+    first_name: Jasmine
+address_list:
+  items:
+  - uid: '58967'
+    country: Russia
+id_list:
+  items:
+  - uid: '28745'
+    id_type: National ID No.
+    id_number: '4611519895'
+    id_country: Russia
+  - uid: '28746'
+    id_type: Passport
+    id_number: '752329813'
+    id_country: Russia
+  - uid: '174789'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '155844'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '55841'
+    date_of_birth: 12 Oct 1977
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '55842'
+    place_of_birth: Russia
+    main_entry: 'true'
+remarks: "(Linked To: SHOR, Ilan Mironovich)"

@@ -1,0 +1,40 @@
+---
+uid: '32339'
+first_name: Wafiq
+last_name: NASSER
+sdn_type: Individual
+program_list:
+  programs:
+  - PAARSSR-EO13894
+aka_list:
+  items:
+  - uid: '50778'
+    type: a.k.a.
+    category: strong
+    last_name: NASER
+    first_name: Wafiq
+  - uid: '50779'
+    type: a.k.a.
+    category: strong
+    last_name: NASSEER
+    first_name: Wafiq
+address_list:
+  items:
+  - uid: '48702'
+    city: Aleppo
+    country: Syria
+id_list:
+  items:
+  - uid: '141818'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '41817'
+    date_of_birth: 10 Jul 1964
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '41820'
+    place_of_birth: Jableh, Syria
+    main_entry: 'true'

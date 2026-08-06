@@ -1,0 +1,60 @@
+---
+uid: '48063'
+last_name: SMART DEPOT
+sdn_type: Entity
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '74632'
+    type: a.k.a.
+    category: weak
+    last_name: SMART DEPOT MAZATLAN
+  - uid: '74633'
+    type: a.k.a.
+    category: weak
+    last_name: SMART DEPOT PUERTO CANCUN
+  - uid: '74634'
+    type: a.k.a.
+    category: weak
+    last_name: SMARTDEPOT
+  - uid: '74635'
+    type: a.k.a.
+    category: weak
+    last_name: SMARTDEPOTMX
+  - uid: '74636'
+    type: a.k.a.
+    category: weak
+    last_name: SMART DEPOTMX TU CELLULAR AL INSTANTE
+address_list:
+  items:
+  - uid: '72065'
+    address1: Boulevard Sinaloa 1061
+    address2: Las Quintas
+    city: Culiacan
+    state_or_province: Sinaloa
+    postal_code: '80020'
+    country: Mexico
+  - uid: '72066'
+    address1: Avenida Reforma S/N
+    address2: Gran Plaza Mazatlan, Local I29
+    address3: Alameda
+    city: Mazatlan
+    state_or_province: Sinaloa
+    postal_code: '82123'
+    country: Mexico
+  - uid: '72068'
+    address1: Boulevard Kukulcan KM 1.5, Local B32
+    address2: Puerto Juarez
+    address3: Marina Puerto
+    city: Cancun
+    state_or_province: Quintana Roo
+    postal_code: '77500'
+    country: Mexico
+id_list:
+  items:
+  - uid: '169927'
+    id_type: 'Organization Type:'
+    id_number: Retail sale of information and communications equipment in specialized
+      stores

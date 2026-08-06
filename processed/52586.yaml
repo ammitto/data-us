@@ -1,0 +1,33 @@
+---
+uid: '52586'
+last_name: NYCITY SHIPMANAGEMENT CO LTD
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '80322'
+    address1: Room 502, 1, Yangkou Lu, Shinan Qu
+    city: Qingdao
+    state_or_province: Shandong
+    country: China
+  - uid: '80667'
+    address1: Trust Company Complex
+    address2: Ajeltake Road
+    city: Majuro
+    state_or_province: Ajeltake Island
+    postal_code: '96960'
+    country: Marshall Islands
+id_list:
+  items:
+  - uid: '45623'
+    id_type: Identification Number
+    id_number: IMO 6422945
+  - uid: '45930'
+    id_type: Registration Number
+    id_number: '120346'
+    id_country: Marshall Islands
+  - uid: '184294'
+    id_type: Organization Established Date
+    id_number: '2023'

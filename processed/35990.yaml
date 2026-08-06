@@ -1,0 +1,36 @@
+---
+uid: '35990'
+first_name: Mikhail
+last_name: ISKRITSKY
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+aka_list:
+  items:
+  - uid: '63277'
+    type: a.k.a.
+    category: weak
+    last_name: Tropa
+  - uid: '63278'
+    type: a.k.a.
+    category: weak
+    last_name: Mty
+address_list:
+  items:
+  - uid: '54021'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '158080'
+    id_type: Email Address
+    id_number: wet-dhg@rambler.ru
+  - uid: '149270'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '49269'
+    date_of_birth: 05 Nov 1981
+    main_entry: 'true'

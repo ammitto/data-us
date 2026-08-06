@@ -1,0 +1,31 @@
+---
+uid: '50597'
+first_name: Ebrahim
+last_name: BAHRAMI
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+address_list:
+  items:
+  - uid: '76713'
+    country: Iran
+id_list:
+  items:
+  - uid: '42439'
+    id_type: National ID No.
+    id_number: '0320106799'
+    id_country: Iran
+  - uid: '178894'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '178893'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '78892'
+    date_of_birth: 04 Feb 1973
+    main_entry: 'true'
+remarks: "(Linked To: SHAHID KHARRAZI INDUSTRIES)"

@@ -1,0 +1,50 @@
+---
+uid: '11546'
+first_name: Chekri Mahmoud
+last_name: HARB
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNT
+aka_list:
+  items:
+  - uid: '12215'
+    type: a.k.a.
+    category: weak
+    last_name: SHEKRY HARB
+address_list:
+  items:
+  - uid: '17258'
+    address1: c/o VARIEDADES HARB SPORT
+    city: Medellin
+    country: Colombia
+  - uid: '17259'
+    address1: c/o COMERCIAL JINAN S.A.
+    city: Guatemala
+    country: Guatemala
+  - uid: '17260'
+    address1: c/o ALMACEN FUTURO NO. 1
+    city: Medellin
+    country: Colombia
+  - uid: '17261'
+    address1: Carerra 50 A
+    address2: No 76-s-169
+    address3: Torre 3, Apto. 319
+    city: Medellin
+    country: Colombia
+id_list:
+  items:
+  - uid: '5943'
+    id_type: Cedula No.
+    id_number: '256820'
+    id_country: Colombia
+date_of_birth_list:
+  items:
+  - uid: '7021'
+    date_of_birth: 25 Aug 1961
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '7022'
+    place_of_birth: Lebanon
+    main_entry: 'true'

@@ -1,0 +1,43 @@
+---
+uid: '24317'
+first_name: Vladimir Leonidovich
+last_name: BOGDANOV
+sdn_type: Individual
+program_list:
+  programs:
+  - UKRAINE-EO13662
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '36716'
+    country: Russia
+id_list:
+  items:
+  - uid: '44904'
+    id_type: Tax ID No.
+    id_number: '860205272069'
+    id_country: Russia
+  - uid: '144013'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '126504'
+    id_type: Gender
+    id_number: Male
+  - uid: '182859'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183461'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+date_of_birth_list:
+  items:
+  - uid: '26502'
+    date_of_birth: 28 May 1951
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '26503'
+    place_of_birth: Suyerka, Uporovsky District, Tyumen Region, Russian Federation
+    main_entry: 'true'

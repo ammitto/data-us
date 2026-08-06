@@ -1,0 +1,39 @@
+---
+uid: '51637'
+last_name: SERPENS LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+address_list:
+  items:
+  - uid: '78680'
+    address1: Unit 13, 12/F, One Vista Supreme, Tien Mun
+    city: Hong Kong
+    country: China
+  - uid: '78681'
+    address1: Flat B, 6th Floor, Block 30, City One Shatin 2, Hang Shing Street, Sha
+      Tin, New Territories
+    city: Hong Kong
+    country: China
+id_list:
+  items:
+  - uid: '44143'
+    id_type: Business Registration Number
+    id_number: '74185404'
+    id_country: Hong Kong
+  - uid: '44144'
+    id_type: Identification Number
+    id_number: IMO 6341477
+  - uid: '44197'
+    id_type: Company Number
+    id_number: '3166784'
+    id_country: Hong Kong
+  - uid: '181500'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183351'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

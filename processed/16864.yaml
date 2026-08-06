@@ -1,0 +1,56 @@
+---
+uid: '16864'
+last_name: KONSTRUKTORSKOE BYURO PRIBOROSTROENIYA OTKRYTOE AKTSIONERNOE OBSHCHESTVO
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13661
+aka_list:
+  items:
+  - uid: '25746'
+    type: a.k.a.
+    category: strong
+    last_name: INSTRUMENT DESIGN BUREAU
+  - uid: '25747'
+    type: a.k.a.
+    category: weak
+    last_name: KBP OAO
+  - uid: '25748'
+    type: a.k.a.
+    category: strong
+    last_name: KBP INSTRUMENT DESIGN BUREAU
+  - uid: '25749'
+    type: a.k.a.
+    category: strong
+    last_name: JSC KBP INSTRUMENT DESIGN BUREAU
+  - uid: '25908'
+    type: a.k.a.
+    category: strong
+    last_name: KBP INSTRUMENT DESIGN BUREAU JOINT STOCK COMPANY
+address_list:
+  items:
+  - uid: '25537'
+    address1: 59 Shcheglovskaya Zaseka ul.
+    city: Tula
+    postal_code: '300001'
+    country: Russia
+id_list:
+  items:
+  - uid: '9365'
+    id_type: Registration ID
+    id_number: '1117154036911'
+    id_country: Russia
+  - uid: '9366'
+    id_type: Government Gazette Number
+    id_number: '07515747'
+    id_country: Russia
+  - uid: '143461'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '115818'
+    id_type: Website
+    id_number: www.kbptula.ru
+  - uid: '115817'
+    id_type: Email Address
+    id_number: kbkedr@tula.net

@@ -1,0 +1,57 @@
+---
+uid: '31922'
+first_name: Matthias
+last_name: WARNIG
+sdn_type: Individual
+program_list:
+  programs:
+  - PEESA-EO14039
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '50007'
+    type: a.k.a.
+    category: strong
+    last_name: WARNIG
+    first_name: Matthias Arthur
+  - uid: '50011'
+    type: a.k.a.
+    category: strong
+    last_name: WARNIG
+    first_name: Matthias Artur
+address_list:
+  items:
+  - uid: '48012'
+    city: Zug
+    country: Switzerland
+  - uid: '48013'
+    city: Moscow
+    country: Russia
+  - uid: '48014'
+    city: Saint Petersburg
+    country: Russia
+  - uid: '48015'
+    city: Leipzig
+    country: Germany
+id_list:
+  items:
+  - uid: '45077'
+    id_type: Tax ID No.
+    id_number: '772588840306'
+    id_country: Russia
+  - uid: '140525'
+    id_type: Gender
+    id_number: Male
+  - uid: '183106'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '40523'
+    date_of_birth: 26 Jul 1955
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '40524'
+    place_of_birth: Altdobern, Brandenburg, Germany
+    main_entry: 'true'

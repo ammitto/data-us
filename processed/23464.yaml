@@ -1,0 +1,37 @@
+---
+uid: '23464'
+last_name: IRAN AIRCRAFT INDUSTRIES
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '36957'
+    type: a.k.a.
+    category: weak
+    last_name: SAHA
+  - uid: '36958'
+    type: a.k.a.
+    category: weak
+    last_name: IACI
+  - uid: '37014'
+    type: a.k.a.
+    category: strong
+    last_name: IRAN AIRCRAFT INDUSTRIES CO.
+address_list:
+  items:
+  - uid: '35471'
+    address1: Km 3 Karaj Special Road, Ekbatan City
+    address2: Azadi Square
+    city: Tehran
+    country: Iran
+  - uid: '35503'
+    address1: PO Box 14155-1449
+    country: Iran
+id_list:
+  items:
+  - uid: '125272'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

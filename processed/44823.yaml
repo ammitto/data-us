@@ -1,0 +1,34 @@
+---
+uid: '44823'
+last_name: OOO BITTERIYA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '66696'
+    address1: Proezd Ogorodnyi D. 20
+    address2: Str. 4, Office 415
+    city: Moscow
+    postal_code: '127322'
+    country: Russia
+  - uid: '66697'
+    address1: Ul. Dobrolyubova D. 3
+    address2: Str. 1, Pomeshch. III, Kom. 1
+    city: Moscow
+    postal_code: '127254'
+    country: Russia
+id_list:
+  items:
+  - uid: '34403'
+    id_type: Registration Number
+    id_number: '1177746290611'
+    id_country: Russia
+  - uid: '34404'
+    id_type: Tax ID No.
+    id_number: '9715297229'
+    id_country: Russia
+  - uid: '173800'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,33 @@
+---
+uid: '50397'
+last_name: LIMITED LIABILITY COMPANY ITECO KRAN
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78774'
+    type: a.k.a.
+    category: strong
+    last_name: ITEKO KRAN
+address_list:
+  items:
+  - uid: '76403'
+    address1: 94, Kievskoe Highway
+    city: Obninsk
+    postal_code: '249035'
+    country: Russia
+id_list:
+  items:
+  - uid: '42169'
+    id_type: Tax ID No.
+    id_number: '4025438097'
+    id_country: Russia
+  - uid: '42170'
+    id_type: Registration Number
+    id_number: '1134025006521'
+    id_country: Russia
+  - uid: '178370'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

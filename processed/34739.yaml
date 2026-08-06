@@ -1,0 +1,42 @@
+---
+uid: '34739'
+last_name: BANK NATIONAL FACTORING COMPANY JOINT STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54476'
+    type: a.k.a.
+    category: strong
+    last_name: BANK NATIONAL FACTORING COMPANY JSC
+  - uid: '54845'
+    type: a.k.a.
+    category: strong
+    last_name: BANK NFC JOINT STOCK COMPANY
+  - uid: '54846'
+    type: a.k.a.
+    category: weak
+    last_name: BANK NFC JSC
+address_list:
+  items:
+  - uid: '52052'
+    address1: 14 Ul Kozhevnicheskaya
+    city: Moscow
+    postal_code: '115114'
+    country: Russia
+id_list:
+  items:
+  - uid: '24403'
+    id_type: Tax ID No.
+    id_number: '7722159794'
+    id_country: Russia
+  - uid: '24404'
+    id_type: Registration Number
+    id_number: '1027700385954'
+    id_country: Russia
+  - uid: '175191'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: SOVCOMBANK OPEN JOINT STOCK COMPANY)"

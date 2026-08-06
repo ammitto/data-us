@@ -1,0 +1,56 @@
+---
+uid: '33575'
+last_name: KIMIA PART SIVAN COMPANY LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+  - IFSR
+aka_list:
+  items:
+  - uid: '52796'
+    type: a.k.a.
+    category: strong
+    last_name: KIMIA PART SIVAN
+  - uid: '52797'
+    type: a.k.a.
+    category: weak
+    last_name: KIPAS
+  - uid: '52798'
+    type: a.k.a.
+    category: weak
+    last_name: KIMIYA PARS SEBON
+  - uid: '52799'
+    type: a.k.a.
+    category: weak
+    last_name: KIMIA PARTS SIBON
+address_list:
+  items:
+  - uid: '50368'
+    address1: 1st Street, 6th Side Street, No. 81
+    address2: Jey Industrial Park
+    state_or_province: Isfahan
+    postal_code: '8376100000'
+    country: Iran
+id_list:
+  items:
+  - uid: '23215'
+    id_type: National ID No.
+    id_number: '10320661315'
+    id_country: Iran
+  - uid: '23216'
+    id_type: Registration Number
+    id_number: '47779'
+    id_country: Iran
+  - uid: '23217'
+    id_type: Registration Number
+    id_number: '414950'
+    id_country: Iran
+  - uid: '144375'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '187382'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS (IRGC)-QODS FORCE)"

@@ -1,0 +1,50 @@
+---
+uid: '34796'
+first_name: Herman Oskarovich
+last_name: GREF
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54668'
+    type: a.k.a.
+    category: strong
+    last_name: GREF
+    first_name: German Oskarovich
+  - uid: '54669'
+    type: a.k.a.
+    category: strong
+    last_name: GRAF
+    first_name: Herman
+address_list:
+  items:
+  - uid: '52183'
+    country: Russia
+id_list:
+  items:
+  - uid: '24496'
+    id_type: Passport
+    id_number: '760508990'
+    id_country: Russia
+  - uid: '24497'
+    id_type: National ID No.
+    id_number: '4509555545'
+    id_country: Russia
+  - uid: '146267'
+    id_type: Gender
+    id_number: Male
+  - uid: '175212'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '46268'
+    date_of_birth: '08 Feb 1964'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '46270'
+    place_of_birth: Panfilovo, Kazakhstan
+    main_entry: 'true'

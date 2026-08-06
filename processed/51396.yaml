@@ -1,0 +1,38 @@
+---
+uid: '51396'
+first_name: Francisco Javier
+last_name: SIERRA ANGULO
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '80589'
+    type: a.k.a.
+    category: weak
+    last_name: El Borrado
+address_list:
+  items:
+  - uid: '78266'
+    country: Mexico
+id_list:
+  items:
+  - uid: '43705'
+    id_type: C.U.R.P.
+    id_number: SIAF881224HTSRNR05
+    id_country: Mexico
+  - uid: '180849'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '80847'
+    date_of_birth: 24 Dec 1988
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '80848'
+    place_of_birth: Tamaulipas, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: GULF CARTEL)"

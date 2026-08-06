@@ -1,0 +1,52 @@
+---
+uid: '45992'
+first_name: Svetlana Nikolaevna
+last_name: ZAKHAROVA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '71062'
+    type: a.k.a.
+    category: strong
+    last_name: MOSKVINA NIKOLAYEVNA
+    first_name: Svetlana
+address_list:
+  items:
+  - uid: '68484'
+    address1: 272-41 Pushkinskaya
+    city: Izhevsk
+    postal_code: '426008'
+    country: Russia
+  - uid: '68485'
+    address1: Flat 612
+    address2: Romney House
+    address3: 47 Marsham Street
+    city: London
+    postal_code: SW1P 3DS
+    country: United Kingdom
+id_list:
+  items:
+  - uid: '35806'
+    id_type: Tax ID No.
+    id_number: '183111242572'
+    id_country: Russia
+  - uid: '174867'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '166629'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '66627'
+    date_of_birth: 18 Mar 1964
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '66628'
+    place_of_birth: Izhevsk, Russia
+    main_entry: 'true'
+remarks: "(Linked To: ZAKHAROV, Aleksandr Vyacheslavovich)"

@@ -1,0 +1,43 @@
+---
+uid: '52136'
+last_name: OSOO GAZPROM NEFT AZIYA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '81667'
+    type: a.k.a.
+    category: strong
+    last_name: GAZPROM NEFT AZIA LLC
+  - uid: '81668'
+    type: a.k.a.
+    category: strong
+    last_name: GAZPROM NEFT ASIA LLC
+address_list:
+  items:
+  - uid: '79579'
+    address1: 8 Microdistrict 28 A Oktyabrskiy
+    city: Bishkek
+    postal_code: '720001'
+    country: Kyrgyzstan
+id_list:
+  items:
+  - uid: '45032'
+    id_type: Business Registration Number
+    id_number: '24176198'
+    id_country: Kyrgyzstan
+  - uid: '45033'
+    id_type: Tax ID No.
+    id_number: '02106200610072'
+    id_country: Russia
+  - uid: '183044'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183436'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+remarks: "(Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM NEFT)"

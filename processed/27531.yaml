@@ -1,0 +1,43 @@
+---
+uid: '27531'
+last_name: ALWAYS SMOOTH LTD
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK4
+aka_list:
+  items:
+  - uid: '44457'
+    type: a.k.a.
+    category: strong
+    last_name: ALWAYS SMOOTH LIMITED
+address_list:
+  items:
+  - uid: '42718'
+    city: London
+    country: United Kingdom
+  - uid: '42719'
+    address1: c/o Weihai Huijiang Trade Limited
+    address2: Room 602, 28 Crown Garden District, Weihai Economic and Technological
+      Development Zone
+    address3: Poyuzhen, Huancui Qu
+    city: Weihai
+    state_or_province: Shandong
+    postal_code: '264200'
+    country: China
+id_list:
+  items:
+  - uid: '18702'
+    id_type: Company Number
+    id_number: '11032231'
+    id_country: United Kingdom
+  - uid: '18705'
+    id_type: Identification Number
+    id_number: IMO 6013334
+  - uid: '138500'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '134273'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210

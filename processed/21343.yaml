@@ -1,0 +1,50 @@
+---
+uid: '21343'
+last_name: MAIN INTELLIGENCE DIRECTORATE
+sdn_type: Entity
+program_list:
+  programs:
+  - CYBER2
+  - CAATSA - RUSSIA
+  - NPWMD
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '33852'
+    type: a.k.a.
+    category: strong
+    last_name: GLAVNOE RAZVEDYVATEL'NOE UPRAVLENIE
+  - uid: '33853'
+    type: a.k.a.
+    category: strong
+    last_name: GRU
+  - uid: '33854'
+    type: a.k.a.
+    category: strong
+    last_name: MAIN INTELLIGENCE DEPARTMENT
+  - uid: '37912'
+    type: a.k.a.
+    category: strong
+    last_name: MAIN DIRECTORATE OF THE GENERAL STAFF
+address_list:
+  items:
+  - uid: '32448'
+    address1: Khoroshevskoye Shosse 76, Khodinka
+    city: Moscow
+    country: Russia
+  - uid: '32449'
+    address1: Ministry of Defence of the Russian Federation, Frunzenskaya nab., 22/2
+    city: Moscow
+    postal_code: '119160'
+    country: Russia
+id_list:
+  items:
+  - uid: '153843'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+  - uid: '173926'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '155017'
+    id_type: Target Type
+    id_number: Government Entity

@@ -1,0 +1,38 @@
+---
+uid: '33952'
+first_name: Benazir
+last_name: AHMED
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+address_list:
+  items:
+  - uid: '51323'
+    country: Bangladesh
+id_list:
+  items:
+  - uid: '23607'
+    id_type: Passport
+    id_number: B00002095
+    id_country: Bangladesh
+    issue_date: 04 Mar 2020
+    expiration_date: 03 Mar 2030
+  - uid: '23608'
+    id_type: National ID No.
+    id_number: '5051953882'
+    id_country: Bangladesh
+  - uid: '144963'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '44960'
+    date_of_birth: 01 Oct 1963
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '44961'
+    place_of_birth: Gopalganj, Bangladesh
+    main_entry: 'true'
+remarks: "(Linked To: RAPID ACTION BATTALION)"

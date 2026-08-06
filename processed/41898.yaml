@@ -1,0 +1,31 @@
+---
+uid: '41898'
+first_name: Raymundo
+last_name: PEREZ URIBE
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '62509'
+    country: Mexico
+id_list:
+  items:
+  - uid: '31279'
+    id_type: C.U.R.P.
+    id_number: PEUR510210HDFRRY09
+    id_country: Mexico
+  - uid: '160135'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '60132'
+    date_of_birth: 10 Feb 1951
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '60133'
+    place_of_birth: Mexico City, Mexico
+    main_entry: 'true'

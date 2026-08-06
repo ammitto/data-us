@@ -1,0 +1,27 @@
+---
+uid: '54277'
+last_name: THEMIS LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '82916'
+    address1: Trust Company Complex, Ajeltake Road
+    city: Majuro
+    state_or_province: Ajeltake Island
+    postal_code: '96960'
+    country: Marshall Islands
+id_list:
+  items:
+  - uid: '47850'
+    id_type: Identification Number
+    id_number: IMO 6163123
+  - uid: '47870'
+    id_type: Company Number
+    id_number: '104990'
+    id_country: Marshall Islands
+  - uid: '190067'
+    id_type: Organization Established Date
+    id_number: 21 May 2020

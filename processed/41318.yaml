@@ -1,0 +1,60 @@
+---
+uid: '41318'
+last_name: OPEN JOINT STOCK COMPANY MINSK AUTOMOBILE PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '64393'
+    type: a.k.a.
+    category: strong
+    last_name: OJSC MINSK AUTOMOBILE PLANT
+  - uid: '64506'
+    type: a.k.a.
+    category: strong
+    last_name: OAO MINSKI AVTOMOBILNYI ZAVOD
+  - uid: '64507'
+    type: a.k.a.
+    category: strong
+    last_name: AAT MINSKI AUTAMABILNY ZAVOD
+  - uid: '64508'
+    type: a.k.a.
+    category: strong
+    last_name: OTKRYTOE AKTSIONERNOE OBSHCHESTVO MINSKII AVTOMOBILNYI ZAVOD - UPRAVLYAYUSHCHAYA
+      KOMPANIYA KHOLDINGA BELAVTOMAZ
+  - uid: '64509'
+    type: a.k.a.
+    category: strong
+    last_name: OPEN JOINT STOCK COMPANY MINSK AUTOMOBILE PLANT - MANAGEMENT COMPANY
+      OF HOLDING BELAVTOMAZ
+  - uid: '64510'
+    type: a.k.a.
+    category: strong
+    last_name: ADKRYTAYE AKTSYYANERNAYE TAVARYSTVA MINSKI AUTAMABILLNY ZAVOD - KIRUYUCHAYA
+      KAMPANIYA KHOLDYNGU BELAUTAMAZ
+  - uid: '64511'
+    type: a.k.a.
+    category: weak
+    last_name: OJSC MAZ
+address_list:
+  items:
+  - uid: '61870'
+    address1: Ul. Sotsialisticheskaya 2
+    city: Minsk
+    postal_code: '220021'
+    country: Belarus
+id_list:
+  items:
+  - uid: '30801'
+    id_type: Tax ID No.
+    id_number: '100320487'
+    id_country: Belarus
+  - uid: '30802'
+    id_type: Government Gazette Number
+    id_number: '05808729'
+    id_country: Belarus
+  - uid: '159540'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

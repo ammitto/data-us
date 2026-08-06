@@ -1,0 +1,46 @@
+---
+uid: '29889'
+first_name: Nadezhda Leonidovna
+last_name: KUCHUMOVA
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+aka_list:
+  items:
+  - uid: '46870'
+    type: a.k.a.
+    category: strong
+    last_name: KUCHUMOVA
+    first_name: Nadia
+address_list:
+  items:
+  - uid: '45068'
+    city: St. Petersburg
+    country: Russia
+id_list:
+  items:
+  - uid: '20007'
+    id_type: Passport
+    id_number: '753982883'
+    id_country: Russia
+  - uid: '20008'
+    id_type: National ID No.
+    id_number: '4003756042'
+  - uid: '137103'
+    id_type: Gender
+    id_number: Female
+  - uid: '154578'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+date_of_birth_list:
+  items:
+  - uid: '37101'
+    date_of_birth: 28 Nov 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '37102'
+    place_of_birth: St. Petersburg, Russia
+    main_entry: 'true'
+remarks: "(Linked To: NPP PT OKEANOS, AO)"

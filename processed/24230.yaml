@@ -1,0 +1,52 @@
+---
+uid: '24230'
+last_name: GAZ GROUP
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13661
+  - UKRAINE-EO13662
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69406'
+    type: a.k.a.
+    category: strong
+    last_name: GAZ JSC
+  - uid: '69407'
+    type: a.k.a.
+    category: strong
+    last_name: GAZ PAO
+address_list:
+  items:
+  - uid: '36617'
+    address1: 88 Lenin Avenue
+    state_or_province: Nizhny Novgorod
+    postal_code: '603950'
+    country: Russia
+  - uid: '36618'
+    address1: 15/1 Rochdelskaya Str.
+    city: Moscow
+    postal_code: '123022'
+    country: Russia
+id_list:
+  items:
+  - uid: '34482'
+    id_type: Registration Number
+    id_number: '1025202265571'
+    id_country: Russia
+  - uid: '34483'
+    id_type: Tax ID No.
+    id_number: '5200000046'
+    id_country: Russia
+  - uid: '144109'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '165131'
+    id_type: Organization Established Date
+    id_number: '1929'
+  - uid: '176851'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: DERIPASKA, Oleg Vladimirovich; Linked To: RUSSIAN MACHINES)"

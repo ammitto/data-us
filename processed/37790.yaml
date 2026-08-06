@@ -1,0 +1,40 @@
+---
+uid: '37790'
+last_name: RT-CAPITAL LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59334'
+    type: a.k.a.
+    category: strong
+    last_name: RT-CAPITAL LLC
+address_list:
+  items:
+  - uid: '56563'
+    address1: Berezhkovskaya Nab D. 38 G
+    city: Moscow
+    postal_code: '121059'
+    country: Russia
+id_list:
+  items:
+  - uid: '27078'
+    id_type: Registration Number
+    id_number: '1107746989954'
+    id_country: Russia
+  - uid: '27079'
+    id_type: Tax ID No.
+    id_number: '7704770859'
+    id_country: Russia
+  - uid: '173518'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '152795'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
+  - uid: '152794'
+    id_type: Organization Established Date
+    id_number: 03 Dec 2010
+remarks: "(Linked To: STATE CORPORATION ROSTEC)"

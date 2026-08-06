@@ -1,0 +1,40 @@
+---
+uid: '50404'
+first_name: Aleksandr Sergeyevich
+last_name: ERSHOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78787'
+    type: a.k.a.
+    category: strong
+    last_name: ERSHOV
+    first_name: Aleksandr Sergeevich
+address_list:
+  items:
+  - uid: '76425'
+    country: Russia
+id_list:
+  items:
+  - uid: '42190'
+    id_type: Tax ID No.
+    id_number: '502603087834'
+    id_country: Russia
+  - uid: '42191'
+    id_type: Passport
+    id_number: '4606973575'
+    id_country: Russia
+  - uid: '178384'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '178382'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '78380'
+    date_of_birth: 28 Sep 1985
+    main_entry: 'true'

@@ -1,0 +1,31 @@
+---
+uid: '51261'
+first_name: Ruben
+last_name: SANTIAGO SERVIGNA
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+address_list:
+  items:
+  - uid: '78314'
+    country: Venezuela
+id_list:
+  items:
+  - uid: '43737'
+    id_type: Cedula No.
+    id_number: V12221568
+    id_country: Venezuela
+  - uid: '180920'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '80919'
+    date_of_birth: 23 Dec 1972
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '80940'
+    place_of_birth: Venezuela
+    main_entry: 'true'

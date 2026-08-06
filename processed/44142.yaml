@@ -1,0 +1,34 @@
+---
+uid: '44142'
+first_name: Pavel Alekseevich
+last_name: MARINYCHEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '65676'
+    country: Russia
+id_list:
+  items:
+  - uid: '33544'
+    id_type: Tax ID No.
+    id_number: '143515801397'
+    id_country: Russia
+  - uid: '175775'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '163717'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '63716'
+    date_of_birth: 25 Oct 1978
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '63719'
+    place_of_birth: Yakutsk, Republic of Sakha (Yakutia), Russia
+    main_entry: 'true'

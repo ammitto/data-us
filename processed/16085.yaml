@@ -1,0 +1,43 @@
+---
+uid: '16085'
+last_name: DAEDONG CREDIT BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+aka_list:
+  items:
+  - uid: '24160'
+    type: a.k.a.
+    category: weak
+    last_name: DCB
+  - uid: '24161'
+    type: a.k.a.
+    category: strong
+    last_name: DAE-DONG CREDIT BANK
+  - uid: '24162'
+    type: a.k.a.
+    category: strong
+    last_name: TAEDONG CREDIT BANK
+address_list:
+  items:
+  - uid: '24174'
+    address1: Suite 401, Potonggang Hotel, Ansan-Dong, Pyongchon District
+    city: Pyongyang
+    country: Korea, North
+  - uid: '24175'
+    address1: Ansan-dong, Botongang Hotel, Pongchon
+    city: Pyongyang
+    country: Korea, North
+id_list:
+  items:
+  - uid: '114372'
+    id_type: SWIFT/BIC
+    id_number: DCBKKPPY
+  - uid: '127943'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '135411'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214

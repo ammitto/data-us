@@ -1,0 +1,73 @@
+---
+uid: '19689'
+first_name: Naveed
+last_name: QAMAR
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '31039'
+    type: a.k.a.
+    category: strong
+    last_name: QAMAR
+    first_name: Naved
+  - uid: '31040'
+    type: a.k.a.
+    category: strong
+    last_name: QAMAR
+    first_name: Navid
+  - uid: '31041'
+    type: a.k.a.
+    category: strong
+    last_name: KHAN
+    first_name: Naveed Qamar
+  - uid: '31042'
+    type: a.k.a.
+    category: strong
+    last_name: QAMAR
+    first_name: Nuwayd
+address_list:
+  items:
+  - uid: '29903'
+    address1: 'Flat #R9, Nauman Grand Sati'
+    address2: Gulistan Johar, Block 17
+    address3: Karachi Sharqi
+    city: Karachi Province
+    state_or_province: Sindh
+    country: Pakistan
+id_list:
+  items:
+  - uid: '12079'
+    id_type: National ID No.
+    id_number: '4220149109527'
+    id_country: Pakistan
+  - uid: '12081'
+    id_type: National ID No.
+    id_number: '35171469484'
+    id_country: Pakistan
+  - uid: '12082'
+    id_type: Passport
+    id_number: ZG4109521
+    id_country: Pakistan
+    issue_date: 07 Jun 2008
+    expiration_date: 06 Jun 2013
+  - uid: '186529'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '20061'
+    date_of_birth: 27 Oct 1971
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '20062'
+    place_of_birth: Bahawalnagar, Pakistan
+    main_entry: 'true'
+  - uid: '20063'
+    place_of_birth: Lahore, Punjab Province, Pakistan
+    main_entry: 'false'
+remarks: "(Linked To: LASHKAR E-TAYYIBA)"

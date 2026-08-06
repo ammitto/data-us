@@ -1,0 +1,36 @@
+---
+uid: '51456'
+last_name: AKTSIONERNOE OBSHCHESTVO PROFESSIONALNYI REGISTRATSIONNYI TSENTR
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80694'
+    type: a.k.a.
+    category: strong
+    last_name: AO PRTS
+address_list:
+  items:
+  - uid: '78396'
+    address1: Balaklavskii Pr. D. 28, Str. V
+    city: Moscow
+    postal_code: '117452'
+    country: Russia
+id_list:
+  items:
+  - uid: '43801'
+    id_type: Registration Number
+    id_number: '1023802254574'
+    id_country: Russia
+  - uid: '43803'
+    id_type: Tax ID No.
+    id_number: '3821010220'
+    id_country: Russia
+  - uid: '180983'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '182818'
+    id_type: Target Type
+    id_number: Financial Institution

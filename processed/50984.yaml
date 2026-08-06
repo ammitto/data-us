@@ -1,0 +1,33 @@
+---
+uid: '50984'
+last_name: GIT SISTEMS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79886'
+    type: a.k.a.
+    category: strong
+    last_name: KARNEEV SYSTEMS
+address_list:
+  items:
+  - uid: '77477'
+    address1: sh. Entuziastov d. 56, str. 32, of. 429
+    city: Moscow
+    postal_code: '111123'
+    country: Russia
+id_list:
+  items:
+  - uid: '43019'
+    id_type: Registration Number
+    id_number: '1187746462419'
+    id_country: Russia
+  - uid: '43020'
+    id_type: Tax ID No.
+    id_number: '7719478367'
+    id_country: Russia
+  - uid: '179877'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

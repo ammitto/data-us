@@ -1,0 +1,36 @@
+---
+uid: '44974'
+first_name: Pavel Pavlovich
+last_name: SHEVELIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '66927'
+    address1: Nikolay Sokolov Street, Building 40, Apartment 57
+    city: St. Petersburg
+    country: Russia
+id_list:
+  items:
+  - uid: '34611'
+    id_type: Passport
+    id_number: '8617230995'
+    id_country: Russia
+  - uid: '175858'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '165309'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '65312'
+    date_of_birth: 10 Oct 1989
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '65311'
+    place_of_birth: Petrozavodsk, Russia
+    main_entry: 'true'

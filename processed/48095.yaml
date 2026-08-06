@@ -1,0 +1,37 @@
+---
+uid: '48095'
+last_name: TOTAL LOOK
+sdn_type: Entity
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '74711'
+    type: a.k.a.
+    category: weak
+    last_name: OUTLET_TLOOK
+  - uid: '74889'
+    type: f.k.a.
+    category: weak
+    last_name: TOTAL_LOOKCLN
+  - uid: '77494'
+    type: a.k.a.
+    category: weak
+    last_name: OUTLETTLOOK
+address_list:
+  items:
+  - uid: '72138'
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+id_list:
+  items:
+  - uid: '170054'
+    id_type: 'Organization Type:'
+    id_number: Retail sale of clothing, footwear and leather articles in specialized
+      stores
+  - uid: '170019'
+    id_type: Website
+    id_number: www.totallook.mx
+remarks: "(Linked To: ROBLEDO ARREDONDO, Adilene Mayre)"

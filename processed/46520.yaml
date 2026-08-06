@@ -1,0 +1,33 @@
+---
+uid: '46520'
+last_name: JOINT STOCK COMPANY RIF
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '71887'
+    type: a.k.a.
+    category: weak
+    last_name: AKTSIONERNOE OBSHCHESTVO RIF
+address_list:
+  items:
+  - uid: '69312'
+    address1: Ul. 13 Ya Liniya D.93
+    city: Rostov Na Donu
+    postal_code: '344019'
+    country: Russia
+id_list:
+  items:
+  - uid: '36530'
+    id_type: Registration Number
+    id_number: '1026104149829'
+    id_country: Russia
+  - uid: '36531'
+    id_type: Tax ID No.
+    id_number: '6167003345'
+    id_country: Russia
+  - uid: '174984'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

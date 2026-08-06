@@ -1,0 +1,49 @@
+---
+uid: '37664'
+last_name: KRYLOV STATE SCIENTIFIC CENTER FEDERAL STATE UNITARY ENTERPRISE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59001'
+    type: a.k.a.
+    category: strong
+    last_name: FEDERAL STATE UNITARY ENTERPRISE KRYLOVSKY STATE RESEARCH CENTER
+  - uid: '59002'
+    type: a.k.a.
+    category: strong
+    last_name: KRYLOV STATE CENTER
+  - uid: '59003'
+    type: a.k.a.
+    category: strong
+    last_name: KRYLOV STATE RESEARCH CENTER
+address_list:
+  items:
+  - uid: '56321'
+    address1: 44, Moskovskoe shosse
+    city: St. Petersburg
+    postal_code: '196158'
+    country: Russia
+  - uid: '56322'
+    address1: Slavyanskaya pl., d. 2/5/4, str. 3
+    city: Moscow
+    postal_code: '109240'
+    country: Russia
+id_list:
+  items:
+  - uid: '26886'
+    id_type: Registration Number
+    id_number: '1027804905303'
+    id_country: Russia
+  - uid: '26887'
+    id_type: Tax ID No.
+    id_number: '7810213747'
+    id_country: Russia
+  - uid: '173443'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '152604'
+    id_type: Organization Established Date
+    id_number: 06 Sep 2001

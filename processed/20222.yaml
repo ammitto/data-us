@@ -1,0 +1,46 @@
+---
+uid: '20222'
+first_name: Salah
+last_name: HABIB
+sdn_type: Individual
+program_list:
+  programs:
+  - PAARSSR-EO13894
+aka_list:
+  items:
+  - uid: '31878'
+    type: a.k.a.
+    category: strong
+    last_name: HABIB
+    first_name: Salih
+  - uid: '31879'
+    type: a.k.a.
+    category: strong
+    last_name: HABIB
+    first_name: Saleh
+address_list:
+  items:
+  - uid: '30552'
+    address1: Villa 43A, al Syniar Street, Jumeirah 3, P.O. Box 127074
+    city: Dubai
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '12482'
+    id_type: Passport
+    id_number: 13AF69606
+    id_country: France
+    expiration_date: 06 Feb 2023
+  - uid: '190763'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '20699'
+    date_of_birth: 05 Jul 1962
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '20700'
+    place_of_birth: Ain el-Karm, Syria
+    main_entry: 'true'

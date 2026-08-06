@@ -1,0 +1,35 @@
+---
+uid: '54180'
+first_name: Aimin
+last_name: XU
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER4
+address_list:
+  items:
+  - uid: '82713'
+    address1: 122, Phum 9, Mittakpheap, Prampi Makara
+    city: Phnom Penh
+    postal_code: '12252'
+    country: Cambodia
+id_list:
+  items:
+  - uid: '47697'
+    id_type: Passport
+    id_number: N00226666
+    id_country: Cambodia
+    expiration_date: 10 Jun 2025
+  - uid: '189800'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '89799'
+    date_of_birth: 11 Mar 1962
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '89802'
+    place_of_birth: Guangzhou, China
+    main_entry: 'true'

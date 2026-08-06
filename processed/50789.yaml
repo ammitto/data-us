@@ -1,0 +1,41 @@
+---
+uid: '50789'
+last_name: LIMITED LIABILITY COMPANY RUSSKAYA LABORATORIYA VOZDUSHNOGO TRANSPORTA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79535'
+    type: a.k.a.
+    category: strong
+    last_name: RUSSIAN AIR TRANSPORT LABORATORY LLC
+  - uid: '79536'
+    type: a.k.a.
+    category: weak
+    last_name: RLVT
+address_list:
+  items:
+  - uid: '77073'
+    address1: Ul. Ryazanskaya, D. 3D
+    address2: Office 3
+    city: Tula
+    postal_code: '300026'
+    country: Russia
+id_list:
+  items:
+  - uid: '42702'
+    id_type: Registration Number
+    id_number: '1227100012369'
+    id_country: Russia
+  - uid: '42703'
+    id_type: Tax ID No.
+    id_number: '7100027464'
+    id_country: Russia
+  - uid: '179435'
+    id_type: Organization Established Date
+    id_number: 28 Sep 2022
+  - uid: '179436'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

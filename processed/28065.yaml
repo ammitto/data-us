@@ -1,0 +1,28 @@
+---
+uid: '28065'
+first_name: Aivars
+last_name: LEMBERGS
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+address_list:
+  items:
+  - uid: '42477'
+    city: Ventspils
+    country: Latvia
+id_list:
+  items:
+  - uid: '133391'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '33389'
+    date_of_birth: 26 Sep 1953
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '33425'
+    place_of_birth: Jekabpils, Latvia
+    main_entry: 'true'

@@ -1,0 +1,33 @@
+---
+uid: '48552'
+last_name: LLC INNO BETON 21
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '72893'
+    address1: Sh. Volokolamskoe ZD. 119, Pomeshch. 24
+    city: Rumyantsevo
+    postal_code: '143560'
+    country: Russia
+  - uid: '72894'
+    address1: 26 km Novorizhskoe shosse
+    address2: Business Center Riga Land, Building 6
+    city: Krasnogorsk
+    postal_code: '143421'
+    country: Russia
+id_list:
+  items:
+  - uid: '39506'
+    id_type: Registration Number
+    id_number: '1205000104297'
+    id_country: Russia
+  - uid: '39507'
+    id_type: Tax ID No.
+    id_number: '5017124589'
+    id_country: Russia
+  - uid: '171214'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

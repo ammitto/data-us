@@ -1,0 +1,42 @@
+---
+uid: '45056'
+first_name: Iskandar Kakhramonovich
+last_name: MAKHMUDOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69819'
+    type: a.k.a.
+    category: strong
+    last_name: MAKHMUDOV
+    first_name: Iskander
+address_list:
+  items:
+  - uid: '67104'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '34773'
+    id_type: Tax ID No.
+    id_number: '2000907709'
+    id_country: Russia
+  - uid: '175928'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '165415'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '65414'
+    date_of_birth: 05 Dec 1963
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '65416'
+    place_of_birth: Bukhara, Uzbekistan
+    main_entry: 'true'

@@ -1,0 +1,42 @@
+---
+uid: '51142'
+first_name: Anna Evgenyevna
+last_name: TSIVILEVA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80175'
+    type: a.k.a.
+    category: strong
+    last_name: PUTINA
+    first_name: Anna Evgenyevna
+  - uid: '80176'
+    type: a.k.a.
+    category: strong
+    last_name: LOGINOVA
+    first_name: Anna Evgenyevna
+id_list:
+  items:
+  - uid: '43281'
+    id_type: Tax ID No.
+    id_number: '771921270207'
+    id_country: Russia
+  - uid: '180203'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '180202'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '80206'
+    date_of_birth: '09 May 1972'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '80205'
+    place_of_birth: Ivanovo, Russia
+    main_entry: 'true'

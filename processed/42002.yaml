@@ -1,0 +1,39 @@
+---
+uid: '42002'
+last_name: SIBELKOM-LOGISTIK OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65283'
+    type: a.k.a.
+    category: weak
+    last_name: FT-LOGISTIC
+address_list:
+  items:
+  - uid: '62677'
+    address1: d. 58 ofis 607, ul. Dostoevskogo
+    city: Novosibirsk
+    postal_code: '630005'
+    country: Russia
+  - uid: '62678'
+    address1: ul. Mendeleeva d. 5
+    address2: kvartira 30
+    city: Novosibirsk
+    postal_code: '630110'
+    country: Russia
+id_list:
+  items:
+  - uid: '31408'
+    id_type: Registration Number
+    id_number: '1125476094567'
+    id_country: Russia
+  - uid: '31409'
+    id_type: Tax ID No.
+    id_number: '5404462899'
+    id_country: Russia
+  - uid: '173736'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

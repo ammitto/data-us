@@ -1,0 +1,45 @@
+---
+uid: '51825'
+last_name: JOINT STOCK COMPANY NS BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '81150'
+    type: a.k.a.
+    category: strong
+    last_name: NS BANK
+address_list:
+  items:
+  - uid: '78979'
+    address1: Dobrovolcheskaya 20 - 2
+    city: Moscow
+    state_or_province: '109004'
+    country: Russia
+id_list:
+  items:
+  - uid: '44502'
+    id_type: Legal Entity Number
+    id_number: 253400R2XBUSENB00758
+  - uid: '44504'
+    id_type: Registration Number
+    id_number: '1027739198200'
+    id_country: Russia
+  - uid: '44507'
+    id_type: Tax ID No.
+    id_number: '7744001024'
+    id_country: Russia
+  - uid: '182149'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '182146'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '182143'
+    id_type: SWIFT/BIC
+    id_number: INUORUMM
+  - uid: '182144'
+    id_type: Website
+    id_number: www.nsbank.ru

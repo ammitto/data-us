@@ -1,0 +1,46 @@
+---
+uid: '34677'
+last_name: SERGIEVO-POSAD LEND OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54337'
+    type: a.k.a.
+    category: strong
+    last_name: SERGIEVO-POSAD LEND LLC
+  - uid: '54338'
+    type: a.k.a.
+    category: strong
+    last_name: SERGIEVO-POSAD LEND
+  - uid: '54339'
+    type: a.k.a.
+    category: strong
+    last_name: SERGIEVO-POSAD LAND
+address_list:
+  items:
+  - uid: '51925'
+    address1: Ul. Tsentralnaya D. 36
+    city: Shemetovo
+    state_or_province: Sergiev Posad
+    postal_code: '141335'
+    country: Russia
+id_list:
+  items:
+  - uid: '24301'
+    id_type: Registration Number
+    id_number: '115042002371'
+    id_country: Russia
+  - uid: '24302'
+    id_type: Tax ID No.
+    id_number: '5042118606'
+    id_country: Russia
+  - uid: '175172'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '146061'
+    id_type: Organization Established Date
+    id_number: 19 Apr 2011
+remarks: "(Linked To: PROMSVYAZBANK PUBLIC JOINT STOCK COMPANY)"

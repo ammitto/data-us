@@ -1,0 +1,38 @@
+---
+uid: '18222'
+last_name: CAR CARE CENTER
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '28132'
+    type: a.k.a.
+    category: strong
+    last_name: CAR CARE CENTER CCC
+  - uid: '28133'
+    type: a.k.a.
+    category: strong
+    last_name: CAR CARE CENTER COMPANY
+  - uid: '28134'
+    type: a.k.a.
+    category: weak
+    last_name: CCC COMPANY
+address_list:
+  items:
+  - uid: '27543'
+    address1: Hadeth Kafaat, Hadi Nasrallah Highway
+    city: Baabda
+    country: Lebanon
+id_list:
+  items:
+  - uid: '186457'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '120234'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
+      Sanctions Regulations
+remarks: "(Linked To: HIZBALLAH)"

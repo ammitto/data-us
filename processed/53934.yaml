@@ -1,0 +1,38 @@
+---
+uid: '53934'
+last_name: PARS REACTORS CONSTRUCTION AND DEVELOPMENT COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '84000'
+    type: a.k.a.
+    category: weak
+    last_name: SATRA PARS COMPANY
+address_list:
+  items:
+  - uid: '82308'
+    address1: No. 221, Shams Building 7, Mollah Sadra Street, Vanak Square
+    city: Tehran
+    postal_code: '1993634316'
+    country: Iran
+id_list:
+  items:
+  - uid: '47373'
+    id_type: National ID No.
+    id_number: '10103582395'
+    id_country: Iran
+  - uid: '47380'
+    id_type: Registration Number
+    id_number: '321054'
+    id_country: Iran
+  - uid: '189072'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '189073'
+    id_type: Organization Established Date
+    id_number: 17 Mar 2008
+remarks: "(Linked To: ATOMIC ENERGY ORGANIZATION OF IRAN)"

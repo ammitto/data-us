@@ -1,0 +1,37 @@
+---
+uid: '58069'
+first_name: Angel Gabriel
+last_name: LOPEZ LARIOS
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+address_list:
+  items:
+  - uid: '89178'
+    country: Mexico
+id_list:
+  items:
+  - uid: '52613'
+    id_type: C.U.R.P.
+    id_number: LOLA921101HNTPRN09
+    id_country: Mexico
+  - uid: '199395'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '199392'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '99391'
+    date_of_birth: 01 Nov 1992
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '99394'
+    place_of_birth: Nayarit, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: CARTEL DE JALISCO NUEVA GENERACION)"

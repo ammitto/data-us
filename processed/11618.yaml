@@ -1,0 +1,51 @@
+---
+uid: '11618'
+last_name: NATIONAL PETROCHEMICAL COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN
+  - IFSR
+  - SDGT
+aka_list:
+  items:
+  - uid: '12327'
+    type: a.k.a.
+    category: weak
+    last_name: NPC
+  - uid: '47179'
+    type: a.k.a.
+    category: weak
+    last_name: NIPC
+  - uid: '47180'
+    type: a.k.a.
+    category: strong
+    last_name: THE NATIONAL PETROCHEMICAL COMPANY
+address_list:
+  items:
+  - uid: '17429'
+    address1: No. 104, North Sheikh Bahaei Blvd., Molla Sadra Ave.
+    city: Tehran
+    country: Iran
+  - uid: '45446'
+    address1: No 144, North Sheikh Bahayi Avenue, Mulla Sadra Street, Vanak Square
+    city: Tehran
+    country: Iran
+  - uid: '45447'
+    address1: P.O. Box 19395-6896
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '20211'
+    id_type: National ID No.
+    id_number: '9614'
+    id_country: Iran
+  - uid: '118993'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '185950'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: 'all offices worldwide; (Linked To: MINISTRY OF PETROLEUM)'

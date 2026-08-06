@@ -1,0 +1,35 @@
+---
+uid: '41657'
+first_name: Pedro
+last_name: RIVAS SANCHEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '62189'
+    address1: Calle Isla Antigua 3017
+    address2: Colonia Jardines De La Cruz
+    city: Guadalajara
+    state_or_province: Jalisco
+    country: Mexico
+id_list:
+  items:
+  - uid: '31062'
+    id_type: C.U.R.P.
+    id_number: RISP880308HJCVND03
+    id_country: Mexico
+  - uid: '159817'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '59815'
+    date_of_birth: '08 Mar 1988'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '59816'
+    place_of_birth: Jalisco, Mexico
+    main_entry: 'true'

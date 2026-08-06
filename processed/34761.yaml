@@ -1,0 +1,38 @@
+---
+uid: '34761'
+last_name: SOVKOM FAKTORING
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54532'
+    type: a.k.a.
+    category: strong
+    last_name: SOVCOM FACTORING
+address_list:
+  items:
+  - uid: '52098'
+    address1: Ul. Vavilova D. 24
+    address2: Et/Pom/Kom 6/XIX/13
+    city: Moscow
+    postal_code: '119334'
+    country: Russia
+id_list:
+  items:
+  - uid: '24438'
+    id_type: Tax ID No.
+    id_number: '7736654990'
+    id_country: Russia
+  - uid: '24439'
+    id_type: Registration Number
+    id_number: '1137746071077'
+    id_country: Russia
+  - uid: '175204'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '146216'
+    id_type: Website
+    id_number: roseurofactoring.ru
+remarks: "(Linked To: SOVCOMBANK OPEN JOINT STOCK COMPANY)"

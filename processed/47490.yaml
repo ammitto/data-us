@@ -1,0 +1,35 @@
+---
+uid: '47490'
+last_name: LIMITED LIABILITY COMPANY FORT DIALOG
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73491'
+    type: a.k.a.
+    category: weak
+    last_name: FORT DIALOGUE
+address_list:
+  items:
+  - uid: '70876'
+    address1: Ul. Pushkina D. 33
+    address2: Korpus 2
+    address3: Office 209
+    city: Ufa
+    postal_code: '450093'
+    country: Russia
+id_list:
+  items:
+  - uid: '37946'
+    id_type: Registration Number
+    id_number: '1160280122573'
+    id_country: Russia
+  - uid: '37947'
+    id_type: Tax ID No.
+    id_number: '0275908848'
+    id_country: Russia
+  - uid: '169895'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

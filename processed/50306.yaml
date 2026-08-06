@@ -1,0 +1,30 @@
+---
+uid: '50306'
+last_name: LIMITED LIABILITY COMPANY YATEK LOGISTIKA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '76224'
+    address1: Ofis 107 d. 76
+    address2: Ul. Petra Alekseeva
+    city: Yakutsk
+    postal_code: '677015'
+    country: Russia
+id_list:
+  items:
+  - uid: '42012'
+    id_type: Registration Number
+    id_number: '1171447014067'
+    id_country: Russia
+  - uid: '42013'
+    id_type: Tax ID No.
+    id_number: '1435325920'
+    id_country: Russia
+  - uid: '178245'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: PUBLIC JOINT STOCK COMPANY YAKUTSKAYA TOPLIVNO ENERGETICHESKAYA
+  KOMPANIYA)"

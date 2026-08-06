@@ -1,0 +1,31 @@
+---
+uid: '49470'
+last_name: JOINT STOCK COMPANY GOZNAK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '74610'
+    address1: D. 3 Litera G
+    address2: Ter. Petropavlovskaya Krepost
+    city: Saint Petersburg
+    postal_code: '197046'
+    country: Russia
+id_list:
+  items:
+  - uid: '40804'
+    id_type: Registration Number
+    id_number: '1167847225281'
+    id_country: Russia
+  - uid: '40805'
+    id_type: Tax ID No.
+    id_number: '7813252159'
+    id_country: Russia
+  - uid: '172554'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '172555'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

@@ -1,0 +1,35 @@
+---
+uid: '45864'
+first_name: Denis Vladimirovich
+last_name: ZENKIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '68241'
+    city: Kaliningrad
+    country: Russia
+id_list:
+  items:
+  - uid: '35621'
+    id_type: Passport
+    id_number: '530425561'
+    id_country: Russia
+  - uid: '170583'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '166511'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '66508'
+    date_of_birth: 02 Sep 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '66509'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'

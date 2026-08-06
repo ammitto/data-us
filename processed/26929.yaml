@@ -1,0 +1,43 @@
+---
+uid: '26929'
+last_name: JUI PANG SHIPPING CO LTD
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK4
+address_list:
+  items:
+  - uid: '40903'
+    address1: 5th Floor, 551, Jiuru 1st Road, Sanmin District
+    city: Kaohsiung City
+    postal_code: '80764'
+    country: Taiwan
+  - uid: '40905'
+    address1: 5F-2 No 551 Jiouru 1st Road, Sanmin District
+    city: Kaohsiung
+    country: Taiwan
+  - uid: '40907'
+    address1: 4FL No. 198 Wencheng 2nd Road, Chengde Village, North District
+    city: Tainan
+    country: Taiwan
+  - uid: '40909'
+    address1: 193 San Kuan Rd
+    city: Tainan City
+    postal_code: '70247'
+    country: Taiwan
+id_list:
+  items:
+  - uid: '17559'
+    id_type: Business Number
+    id_number: '16111431'
+    id_country: Taiwan
+  - uid: '17574'
+    id_type: Company Number
+    id_number: IMO 1865817
+  - uid: '131772'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '135153'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214

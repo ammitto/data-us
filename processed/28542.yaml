@@ -1,0 +1,36 @@
+---
+uid: '28542'
+first_name: Mohammad
+last_name: YAZDI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13876
+address_list:
+  items:
+  - uid: '43156'
+    country: Iran
+id_list:
+  items:
+  - uid: '134287'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '134286'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '34281'
+    date_of_birth: 02 Jul 1931
+    main_entry: 'true'
+  - uid: '34282'
+    date_of_birth: '1931'
+    main_entry: 'false'
+  - uid: '34283'
+    date_of_birth: '1932'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '34284'
+    place_of_birth: Isfahan, Iran
+    main_entry: 'true'

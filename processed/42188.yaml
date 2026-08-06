@@ -1,0 +1,49 @@
+---
+uid: '42188'
+first_name: Grigoriy Igorevich
+last_name: GRIGORIEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65566'
+    type: a.k.a.
+    category: strong
+    last_name: GRIGOREV
+    first_name: Girgorij Igorevich
+address_list:
+  items:
+  - uid: '62971'
+    address1: Urovskaya, Building 95, Flat 7
+    city: Moscow
+    postal_code: '125466'
+    country: Russia
+id_list:
+  items:
+  - uid: '31652'
+    id_type: Passport
+    id_number: '721493424'
+    id_country: Russia
+  - uid: '31660'
+    id_type: Tax ID No.
+    id_number: '501702148902'
+    id_country: Russia
+  - uid: '175421'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '160470'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '60468'
+    date_of_birth: 19 Jun 1977
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '60469'
+    place_of_birth: Istra, Russia
+    main_entry: 'true'
+remarks: "(Linked To: LIMITED LIABILITY COMPANY NOVELCO)"

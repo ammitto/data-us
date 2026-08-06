@@ -1,0 +1,42 @@
+---
+uid: '50732'
+last_name: AUTONOMOUS NON PROFIT ORGANIZATION INSTITUTE FOR TESTING AND CERTIFICATION
+  OF ARMAMENT AND MILITARY MATERIEL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79405'
+    type: a.k.a.
+    category: strong
+    last_name: INIS VVT
+address_list:
+  items:
+  - uid: '76938'
+    address1: PR-D Entuziatsov, D. 11
+    city: Moscow
+    postal_code: '111024'
+    country: Russia
+  - uid: '76939'
+    address1: Ul. Elektrodnaya, D. 10
+    city: Moscow
+    postal_code: '111524'
+    country: Russia
+id_list:
+  items:
+  - uid: '42598'
+    id_type: Registration Number
+    id_number: '1037739355488'
+    id_country: Russia
+  - uid: '42599'
+    id_type: Tax ID No.
+    id_number: '7705285301'
+    id_country: Russia
+  - uid: '179351'
+    id_type: Organization Established Date
+    id_number: 21 Jun 1999
+  - uid: '179352'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

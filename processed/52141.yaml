@@ -1,0 +1,39 @@
+---
+uid: '52141'
+last_name: NIS AD NOVI SAD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '81677'
+    type: a.k.a.
+    category: strong
+    last_name: NAFTNA INDUSTRIJA SRBIJE AD NOVI SAD
+address_list:
+  items:
+  - uid: '79590'
+    address1: 12 Narodnog Fronta
+    city: Novi Sad
+    postal_code: '21000'
+    country: Serbia
+id_list:
+  items:
+  - uid: '45040'
+    id_type: Business Registration Number
+    id_number: '20084693'
+    id_country: Serbia
+  - uid: '45041'
+    id_type: Tax ID No.
+    id_number: '104052135'
+    id_country: Serbia
+  - uid: '183049'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183434'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+remarks: "(Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM NEFT)"

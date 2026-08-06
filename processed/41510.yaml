@@ -1,0 +1,35 @@
+---
+uid: '41510'
+first_name: Federico
+last_name: HERNANDEZ SANCHEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - TCO
+address_list:
+  items:
+  - uid: '61984'
+    address1: Av. Yugoslavia No. 130 Colonia Palmares de Orizaba
+    city: Mexicali
+    state_or_province: Baja California
+    country: Mexico
+id_list:
+  items:
+  - uid: '30855'
+    id_type: C.U.R.P.
+    id_number: HESF800420HGTRND02
+    id_country: Mexico
+  - uid: '159632'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '59631'
+    date_of_birth: 20 Apr 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '59634'
+    place_of_birth: Guanajuato, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: HERNANDEZ SALAS TRANSNATIONAL CRIMINAL ORGANIZATION)"

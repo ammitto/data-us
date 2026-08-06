@@ -1,0 +1,65 @@
+---
+uid: '7513'
+first_name: Emmerson Dambudzo
+last_name: MNANGAGWA
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '74779'
+    type: a.k.a.
+    category: weak
+    last_name: CROCODILE
+  - uid: '74810'
+    type: a.k.a.
+    category: strong
+    last_name: MNANGAGWA
+    first_name: Emmerson
+address_list:
+  items:
+  - uid: '72200'
+    address1: Munhumutapa Building
+    address2: Corner of Second and Samora Machel Avenue
+    city: Harare
+    country: Zimbabwe
+  - uid: '72223'
+    address1: 1 Chancellor Avenue
+    city: Harare
+    country: Zimbabwe
+id_list:
+  items:
+  - uid: '39026'
+    id_type: National ID No.
+    id_number: 63450183P67
+    id_country: Zimbabwe
+  - uid: '39027'
+    id_type: Passport
+    id_number: AD005831
+    id_country: Zimbabwe
+    issue_date: 11 Jan 2018
+    expiration_date: 10 Jan 2028
+  - uid: '39036'
+    id_type: Passport
+    id_number: AD006846
+    id_country: Zimbabwe
+    issue_date: 04 Feb 2020
+    expiration_date: 03 Feb 2025
+  - uid: '170123'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '70150'
+    date_of_birth: 15 Sep 1942
+    main_entry: 'false'
+  - uid: '1633'
+    date_of_birth: 15 Sep 1946
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '70121'
+    place_of_birth: Zvishavane, Zimbabwe
+    main_entry: 'true'
+title: President of Zimbabwe

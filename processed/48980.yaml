@@ -1,0 +1,30 @@
+---
+uid: '48980'
+first_name: Dmitrii Aleksandrovich
+last_name: BELOGLAZOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '73663'
+    country: Russia
+id_list:
+  items:
+  - uid: '171760'
+    id_type: Gender
+    id_number: Male
+  - uid: '176676'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '71762'
+    date_of_birth: 18 Feb 1968
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '71759'
+    place_of_birth: Russia
+    main_entry: 'true'

@@ -1,0 +1,38 @@
+---
+uid: '56372'
+first_name: Cristian
+last_name: DIANA
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '86296'
+    city: Pordenone
+    country: Italy
+id_list:
+  items:
+  - uid: '50414'
+    id_type: Passport
+    id_number: YB8215970
+    id_country: Italy
+  - uid: '50867'
+    id_type: Tax ID No.
+    id_number: DNICST71S24G888J
+    id_country: Italy
+  - uid: '194607'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '94605'
+    date_of_birth: 24 Nov 1971
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '94606'
+    place_of_birth: Pordenone, Italy
+    main_entry: 'true'
+remarks: "(Linked To: STILE ITALIANO S.R.L.; Linked To: WINDROSE TACTICAL SOLUTIONS
+  S.R.L.S.)"

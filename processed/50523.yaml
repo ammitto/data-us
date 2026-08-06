@@ -1,0 +1,48 @@
+---
+uid: '50523'
+last_name: ALPHA GAS
+sdn_type: Vessel
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '78986'
+    type: a.k.a.
+    category: strong
+    last_name: YOOSHI DOODA
+  - uid: '78988'
+    type: a.k.a.
+    category: strong
+    last_name: CAPTOON 2
+  - uid: '78989'
+    type: a.k.a.
+    category: strong
+    last_name: GITTA GAS
+  - uid: '78990'
+    type: a.k.a.
+    category: strong
+    last_name: JUNO GAS
+id_list:
+  items:
+  - uid: '42342'
+    id_type: MMSI
+    id_number: '677067100'
+  - uid: '42344'
+    id_type: Vessel Registration Identification
+    id_number: IMO 8817693
+  - uid: '178619'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
+      Sanctions Regulations
+  - uid: '179195'
+    id_type: Other Vessel Flag
+    id_number: Panama
+  - uid: '179196'
+    id_type: Other Vessel Flag
+    id_number: Isle of Man
+  - uid: '179135'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: "(Linked To: HIZBALLAH)"

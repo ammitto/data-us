@@ -1,0 +1,44 @@
+---
+uid: '33286'
+first_name: Cebrail
+last_name: GUZEL
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '52316'
+    type: a.k.a.
+    category: strong
+    last_name: GUZEL
+    first_name: Jebrail
+address_list:
+  items:
+  - uid: '49975'
+    city: Istanbul
+    country: Turkey
+id_list:
+  items:
+  - uid: '22955'
+    id_type: Identification Number
+    id_number: '17011251840'
+    id_country: Turkey
+  - uid: '143211'
+    id_type: Gender
+    id_number: Male
+  - uid: '187374'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '43209'
+    date_of_birth: 10 Jul 1993
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '43210'
+    place_of_birth: Gerger, Adiyaman, Turkey
+    main_entry: 'true'
+remarks: "(Linked To: AL QA'IDA)"

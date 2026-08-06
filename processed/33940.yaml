@@ -1,0 +1,40 @@
+---
+uid: '33940'
+last_name: GENI SARL
+sdn_type: Entity
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '53178'
+    type: a.k.a.
+    category: weak
+    last_name: GENI
+  - uid: '53179'
+    type: a.k.a.
+    category: strong
+    last_name: GENI S.A.
+  - uid: '53180'
+    type: a.k.a.
+    category: strong
+    last_name: GENI GROUP
+address_list:
+  items:
+  - uid: '50848'
+    address1: Rua Marechal Bros Tito No 13
+    address2: Ingombotas Predio Do Kinaxixi
+    city: Luanda
+    country: Angola
+  - uid: '50849'
+    city: Cabinda
+    country: Angola
+id_list:
+  items:
+  - uid: '144932'
+    id_type: Organization Established Date
+    id_number: 01 Jan 1996
+  - uid: '145470'
+    id_type: 'Organization Type:'
+    id_number: Wholesale of other household goods
+remarks: "(Linked To: FRAGOSO DO NASCIMENTO, Leopoldino)"

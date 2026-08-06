@@ -1,0 +1,37 @@
+---
+uid: '50145'
+first_name: Juan Carlos
+last_name: HIDALGO PANDARES
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+aka_list:
+  items:
+  - uid: '78191'
+    type: a.k.a.
+    category: weak
+    last_name: PANDARES, Juan Carlos
+address_list:
+  items:
+  - uid: '75881'
+    country: Venezuela
+id_list:
+  items:
+  - uid: '41746'
+    id_type: Cedula No.
+    id_number: V7220202
+    id_country: Venezuela
+  - uid: '177700'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '77699'
+    date_of_birth: 20 Oct 1961
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '77702'
+    place_of_birth: Maracay, Aragua, Venezuela
+    main_entry: 'true'

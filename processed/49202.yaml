@@ -1,0 +1,33 @@
+---
+uid: '49202'
+last_name: LIMITED LIABILITY COMPANY SCIENTIFIC PRODUCTION COMPANY ADVENT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76705'
+    type: a.k.a.
+    category: weak
+    last_name: NPP ADVENT
+address_list:
+  items:
+  - uid: '74067'
+    address1: Nab. Obvodnogo Kanala D. 227, Korpus 1
+    city: Saint Petersburg
+    postal_code: '190020'
+    country: Russia
+id_list:
+  items:
+  - uid: '40355'
+    id_type: Registration Number
+    id_number: '1069847569714'
+    id_country: Russia
+  - uid: '40356'
+    id_type: Tax ID No.
+    id_number: '7839348320'
+    id_country: Russia
+  - uid: '172161'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

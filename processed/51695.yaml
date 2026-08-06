@@ -1,0 +1,39 @@
+---
+uid: '51695'
+last_name: BRATSKY NARODNY BANK JSC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '78780'
+    address1: ul. Komsomolskaya 43
+    city: Bratsk
+    postal_code: '665717'
+    country: Russia
+id_list:
+  items:
+  - uid: '44238'
+    id_type: Global Intermediary Identification Number
+    id_number: 6FCAP1.99999.SL.643
+  - uid: '44239'
+    id_type: Registration Number
+    id_number: '1023800000069'
+    id_country: Russia
+  - uid: '44240'
+    id_type: Tax ID No.
+    id_number: '3803202031'
+    id_country: Russia
+  - uid: '181718'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '181719'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '181721'
+    id_type: SWIFT/BIC
+    id_number: BRATRU6B
+  - uid: '181720'
+    id_type: Website
+    id_number: www.ankb.ru

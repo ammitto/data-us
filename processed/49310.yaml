@@ -1,0 +1,33 @@
+---
+uid: '49310'
+last_name: JOINT STOCK COMPANY INSTITUTE FOR NETWORKING TECHNOLOGY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76907'
+    type: a.k.a.
+    category: weak
+    last_name: JSC INT
+address_list:
+  items:
+  - uid: '74296'
+    address1: Liniya 17-YA V.O D. 54, Korp. 1, Lit. V
+    city: Saint Petersburg
+    postal_code: '199048'
+    country: Russia
+id_list:
+  items:
+  - uid: '40552'
+    id_type: Registration Number
+    id_number: '1027809192333'
+    id_country: Russia
+  - uid: '40553'
+    id_type: Tax ID No.
+    id_number: '7825347630'
+    id_country: Russia
+  - uid: '172329'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

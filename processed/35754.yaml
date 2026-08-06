@@ -1,0 +1,56 @@
+---
+uid: '35754'
+last_name: ZEEL - M CO., LTD.
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK2
+aka_list:
+  items:
+  - uid: '56159'
+    type: a.k.a.
+    category: weak
+    last_name: ZIL - M
+  - uid: '56166'
+    type: a.k.a.
+    category: strong
+    last_name: ZIL-M LLC
+  - uid: '56167'
+    type: a.k.a.
+    category: weak
+    last_name: ZEELM
+address_list:
+  items:
+  - uid: '53621'
+    address1: Ul. Russkaya D. 19, V
+    city: Vladivostok
+    postal_code: '690039'
+    country: Russia
+id_list:
+  items:
+  - uid: '25078'
+    id_type: Tax ID No.
+    id_number: '2539039058'
+    id_country: Russia
+  - uid: '25079'
+    id_type: Registration Number
+    id_number: '1022502123995'
+    id_country: Russia
+  - uid: '25080'
+    id_type: Government Gazette Number
+    id_number: '49852298'
+    id_country: Russia
+  - uid: '148800'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '148778'
+    id_type: Organization Established Date
+    id_number: '08 Dec 1998'
+  - uid: '148827'
+    id_type: 'Organization Type:'
+    id_number: Sale of motor vehicles
+  - uid: '148799'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+remarks: "(Linked To: CHASOVNIKOV, Aleksandr Aleksandrovich)"

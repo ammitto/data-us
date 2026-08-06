@@ -1,0 +1,36 @@
+---
+uid: '47379'
+last_name: JOINT STOCK COMMERCIAL BANK CHELINDBANK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '70629'
+    address1: 80, Karla Marksa Ul
+    city: Chelyabinsk
+    postal_code: '454091'
+    country: Russia
+id_list:
+  items:
+  - uid: '37749'
+    id_type: Registration Number
+    id_number: '1027400000110'
+    id_country: Russia
+  - uid: '37750'
+    id_type: Tax ID No.
+    id_number: '7453002182'
+    id_country: Russia
+  - uid: '176391'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '168889'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '168887'
+    id_type: SWIFT/BIC
+    id_number: CHLBRU4C
+  - uid: '168888'
+    id_type: Website
+    id_number: www.chelindbank.ru

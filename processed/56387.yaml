@@ -1,0 +1,52 @@
+---
+uid: '56387'
+first_name: Muhammad Danial
+last_name: BIN FADZLON
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13846
+aka_list:
+  items:
+  - uid: '87465'
+    type: a.k.a.
+    category: strong
+    last_name: DANIAL
+    first_name: Muhammad
+address_list:
+  items:
+  - uid: '86330'
+    address1: 422 Tampines Street 41
+    address2: "#04-146 Sun Plaza Gardens"
+    city: Singapore
+    postal_code: '520422'
+    country: Singapore
+  - uid: '86333'
+    address1: No. 10, Jalan Hang Tuah 2/3
+    address2: East Ledang
+    city: Iskandar Puteri
+    state_or_province: Johor
+    postal_code: '79250'
+    country: Malaysia
+id_list:
+  items:
+  - uid: '50435'
+    id_type: Passport
+    id_number: K1668916N
+    id_country: Singapore
+  - uid: '194790'
+    id_type: 'Executive Order 13846 information:'
+    id_number: BLOCKING PROPERTY AND INTERESTS IN PROPERTY.  Sec. 5(a)(iv)
+  - uid: '194651'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '94648'
+    date_of_birth: 16 Dec 1984
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '94649'
+    place_of_birth: Singapore
+    main_entry: 'true'

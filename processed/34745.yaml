@@ -1,0 +1,43 @@
+---
+uid: '34745'
+last_name: GMCS MANAGEMENT LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54492'
+    type: a.k.a.
+    category: strong
+    last_name: GMCS MANAGEMENT LLC
+  - uid: '54847'
+    type: a.k.a.
+    category: strong
+    last_name: GMCS MANAGEMENT LIMITED
+  - uid: '54848'
+    type: a.k.a.
+    category: strong
+    last_name: GMCS MANAGEMENT LTD
+address_list:
+  items:
+  - uid: '52066'
+    address1: Ul. Pokryshkina D. 7
+    address2: Floor 1 Kom 4
+    city: Moscow
+    postal_code: '119602'
+    country: Russia
+id_list:
+  items:
+  - uid: '24413'
+    id_type: Tax ID No.
+    id_number: '7715712231'
+    id_country: Russia
+  - uid: '24414'
+    id_type: Registration Number
+    id_number: '1087746971135'
+    id_country: Russia
+  - uid: '175195'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: SOVCOMBANK OPEN JOINT STOCK COMPANY)"

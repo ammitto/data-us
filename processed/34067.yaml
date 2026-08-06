@@ -1,0 +1,39 @@
+---
+uid: '34067'
+first_name: Leopoldino
+last_name: FRAGOSO DO NASCIMENTO
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '53566'
+    type: a.k.a.
+    category: weak
+    last_name: DINO
+address_list:
+  items:
+  - uid: '51203'
+    city: Luanda
+    country: Angola
+id_list:
+  items:
+  - uid: '23816'
+    id_type: Passport
+    id_number: N1999980
+    id_country: Angola
+    expiration_date: '08 Apr 2036'
+  - uid: '145348'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '45111'
+    date_of_birth: 05 Jun 1963
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '45350'
+    place_of_birth: Luanda, Angola
+    main_entry: 'true'

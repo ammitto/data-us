@@ -1,0 +1,52 @@
+---
+uid: '34377'
+first_name: Yuriy Alekseyevich
+last_name: SOLOVIEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '53831'
+    type: a.k.a.
+    category: strong
+    last_name: SOLOVIEV
+    first_name: Yuri Alekseievich
+  - uid: '53832'
+    type: a.k.a.
+    category: strong
+    last_name: SOLOVIEV
+    first_name: Yuri
+  - uid: '53833'
+    type: a.k.a.
+    category: strong
+    last_name: SOLOVYOV
+    first_name: Yury
+  - uid: '53834'
+    type: a.k.a.
+    category: strong
+    last_name: SOLOVYEV
+    first_name: Yury
+address_list:
+  items:
+  - uid: '51506'
+    country: Russia
+id_list:
+  items:
+  - uid: '145652'
+    id_type: Gender
+    id_number: Male
+  - uid: '175117'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '45651'
+    date_of_birth: 13 Apr 1970
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '45653'
+    place_of_birth: Ulanbataar, Mongolia
+    main_entry: 'true'

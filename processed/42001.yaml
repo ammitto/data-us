@@ -1,0 +1,34 @@
+---
+uid: '42001'
+last_name: LLC TELLUR ELEKTRONIKS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65281'
+    type: a.k.a.
+    category: strong
+    last_name: TELLUR ELECTRONICS
+address_list:
+  items:
+  - uid: '62675'
+    address1: ul. Butlerova d. 17
+    address2: floor/komn 4/49
+    city: Moscow
+    postal_code: '117342'
+    country: Russia
+id_list:
+  items:
+  - uid: '31406'
+    id_type: Registration Number
+    id_number: '1167746991312'
+    id_country: Russia
+  - uid: '31407'
+    id_type: Tax ID No.
+    id_number: '7720355306'
+    id_country: Russia
+  - uid: '173735'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

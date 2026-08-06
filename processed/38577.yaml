@@ -1,0 +1,36 @@
+---
+uid: '38577'
+first_name: Roman Viktorovich
+last_name: ZOLOTOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '57606'
+    city: Rechnoye
+    country: Russia
+id_list:
+  items:
+  - uid: '27856'
+    id_type: Tax ID No.
+    id_number: '773129701393'
+    id_country: Russia
+  - uid: '174677'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '154035'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '54032'
+    date_of_birth: 03 Mar 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '54033'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'
+remarks: "(Linked To: ZOLOTOV, Viktor Vasiliyevich)"

@@ -1,0 +1,41 @@
+---
+uid: '50549'
+first_name: Giovanni
+last_name: CASTANEDA MEZA
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '79643'
+    type: a.k.a.
+    category: weak
+    last_name: BONQUES BROTHERS
+  - uid: '79648'
+    type: a.k.a.
+    category: weak
+    last_name: BONQUES, Vanni
+address_list:
+  items:
+  - uid: '76647'
+    country: Mexico
+id_list:
+  items:
+  - uid: '42377'
+    id_type: C.U.R.P.
+    id_number: CAMG870808HNTSZV07
+    id_country: Mexico
+  - uid: '178723'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '78722'
+    date_of_birth: '08 Aug 1987'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '78724'
+    place_of_birth: Nayarit, Mexico
+    main_entry: 'true'

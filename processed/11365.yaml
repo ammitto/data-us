@@ -1,0 +1,24 @@
+---
+uid: '11365'
+first_name: Daniel
+last_name: GEIGES
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+id_list:
+  items:
+  - uid: '5789'
+    id_type: Passport
+    id_number: '8071366'
+    id_country: Switzerland
+date_of_birth_list:
+  items:
+  - uid: '6751'
+    date_of_birth: 25 Jan 1938
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '6752'
+    place_of_birth: Lachen, Switzerland
+    main_entry: 'true'

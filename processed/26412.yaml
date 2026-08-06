@@ -1,0 +1,46 @@
+---
+uid: '26412'
+first_name: Santiago
+last_name: VIDEMATO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '41979'
+    type: a.k.a.
+    category: weak
+    last_name: JAMES DUGGAN
+  - uid: '41980'
+    type: a.k.a.
+    category: weak
+    last_name: RAMONA IBARRA
+address_list:
+  items:
+  - uid: '40134'
+    city: Buenos Aires
+    country: Argentina
+id_list:
+  items:
+  - uid: '17127'
+    id_type: Passport
+    id_number: AAA920679
+    id_country: Argentina
+  - uid: '17128'
+    id_type: D.N.I.
+    id_number: '30555776'
+    id_country: Argentina
+  - uid: '130962'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '30960'
+    date_of_birth: 04 Oct 1983
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '30961'
+    place_of_birth: Buenos Aires, Argentina
+    main_entry: 'true'

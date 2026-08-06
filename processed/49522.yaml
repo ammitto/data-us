@@ -1,0 +1,39 @@
+---
+uid: '49522'
+last_name: MAX JET SERVICE LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77260'
+    type: a.k.a.
+    category: strong
+    last_name: MAX JET SERVICE SRL
+address_list:
+  items:
+  - uid: '74732'
+    address1: 148A Mihalcea-Hincu street
+    city: Hincesti city
+    postal_code: MD-3401
+    country: Moldova
+  - uid: '74733'
+    address1: '8200 NW 27th Street, Suite #101'
+    city: Miami
+    state_or_province: FL
+    postal_code: '33122'
+    country: United States
+  - uid: '74735'
+    address1: 26 Maroastraat, 1060 LG
+    city: Amsterdam
+    country: Netherlands
+id_list:
+  items:
+  - uid: '40880'
+    id_type: Tax ID No.
+    id_number: '1010605003286'
+    id_country: Moldova
+  - uid: '172623'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

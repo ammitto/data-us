@@ -1,0 +1,33 @@
+---
+uid: '45820'
+first_name: Maung Maung
+last_name: AYE
+sdn_type: Individual
+program_list:
+  programs:
+  - BURMA-EO14014
+aka_list:
+  items:
+  - uid: '70798'
+    type: a.k.a.
+    category: weak
+    last_name: AYE, Mg Mg
+address_list:
+  items:
+  - uid: '68171'
+    country: Burma
+id_list:
+  items:
+  - uid: '166433'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '66432'
+    date_of_birth: '1962'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '66434'
+    place_of_birth: Burma
+    main_entry: 'true'

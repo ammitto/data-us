@@ -1,0 +1,57 @@
+---
+uid: '22506'
+last_name: JOINT-STOCK COMPANY COMMERCIAL BANK NORTH CREDIT
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13685
+aka_list:
+  items:
+  - uid: '35472'
+    type: a.k.a.
+    category: strong
+    last_name: JSC CB NORTH CREDIT
+  - uid: '35473'
+    type: a.k.a.
+    category: strong
+    last_name: NORTH CREDIT BANK
+address_list:
+  items:
+  - uid: '34043'
+    address1: Building 27, Herzen Street
+    city: Vologda
+    state_or_province: Vologda Oblast
+    postal_code: '160000'
+    country: Russia
+  - uid: '34044'
+    address1: Building 29a, Zhelyabova Street
+    city: Simferopol
+    state_or_province: Crimea
+    postal_code: '295011'
+    country: Ukraine
+  - uid: '34045'
+    address1: ul. Gertsena 27
+    city: Vologda
+    state_or_province: Vologodskaya Oblast
+    postal_code: '160000'
+    country: Russia
+id_list:
+  items:
+  - uid: '14207'
+    id_type: Registration ID
+    id_number: '1022900001772'
+    id_country: Russia
+  - uid: '14208'
+    id_type: Tax ID No.
+    id_number: '2901009852'
+    id_country: Russia
+  - uid: '123947'
+    id_type: SWIFT/BIC
+    id_number: NOCRRU21
+  - uid: '124017'
+    id_type: BIK (RU)
+    id_number: '041909769'
+  - uid: '144036'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

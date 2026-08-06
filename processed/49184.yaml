@@ -1,0 +1,33 @@
+---
+uid: '49184'
+last_name: JOINT STOCK COMPANY SOEDINITEL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76661'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO SOEDINITEL
+address_list:
+  items:
+  - uid: '74030'
+    address1: Sh. Turgoyakskoe D. 11/5
+    city: Miass
+    postal_code: '456313'
+    country: Russia
+id_list:
+  items:
+  - uid: '40313'
+    id_type: Registration Number
+    id_number: '1027400875149'
+    id_country: Russia
+  - uid: '40314'
+    id_type: Tax ID No.
+    id_number: '7415015198'
+    id_country: Russia
+  - uid: '172132'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

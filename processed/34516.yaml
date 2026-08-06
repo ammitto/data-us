@@ -1,0 +1,55 @@
+---
+uid: '34516'
+last_name: PUBLIC JOINT STOCK COMPANY URAL BANK FOR RECONSTRUCTION AND DEVELOPMENT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54067'
+    type: a.k.a.
+    category: strong
+    last_name: PJSC KB UBRIR
+  - uid: '54068'
+    type: a.k.a.
+    category: strong
+    last_name: UBRIR PAO
+  - uid: '54069'
+    type: a.k.a.
+    category: strong
+    last_name: URAL BANK FOR RECONSTRUCTION AND DEVELOPMENT
+  - uid: '54070'
+    type: a.k.a.
+    category: strong
+    last_name: PJSC UBRD
+address_list:
+  items:
+  - uid: '51744'
+    address1: d. 67, ul. Sakko i Vantsetti
+    city: Yekaterinburg
+    state_or_province: Sverdlovsk Oblast
+    postal_code: '620014'
+    country: Russia
+id_list:
+  items:
+  - uid: '24156'
+    id_type: Tax ID No.
+    id_number: '6608008004'
+    id_country: Russia
+  - uid: '24157'
+    id_type: Registration Number
+    id_number: '1026600000350'
+    id_country: Russia
+  - uid: '175137'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '145949'
+    id_type: SWIFT/BIC
+    id_number: UBRDRU4E
+  - uid: '145948'
+    id_type: Website
+    id_number: www.ubrr.ru
+  - uid: '145947'
+    id_type: Organization Established Date
+    id_number: 01 Sep 1990 to 30 Sep 1990

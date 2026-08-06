@@ -1,0 +1,31 @@
+---
+uid: '35272'
+first_name: Raul
+last_name: RIVAS CHAIRES
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '53017'
+    country: Mexico
+id_list:
+  items:
+  - uid: '24977'
+    id_type: C.U.R.P.
+    id_number: RICR701208HSRVHL06
+    id_country: Mexico
+  - uid: '147456'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '47454'
+    date_of_birth: '08 Dec 1970'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '47455'
+    place_of_birth: Sonora, Mexico
+    main_entry: 'true'

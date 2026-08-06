@@ -1,0 +1,63 @@
+---
+uid: '18345'
+last_name: SENAT SHIPPING LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK
+aka_list:
+  items:
+  - uid: '28443'
+    type: a.k.a.
+    category: strong
+    last_name: SENAT SHIPPING AND TRADING PRIVATE LIMITED
+  - uid: '28444'
+    type: a.k.a.
+    category: strong
+    last_name: SENAT SHIPPING & TRADING PTE LTD
+  - uid: '28445'
+    type: a.k.a.
+    category: strong
+    last_name: SENAT SHIPPING AND TRADING LTD
+  - uid: '28446'
+    type: a.k.a.
+    category: strong
+    last_name: SENAT SHIPPING AGENCY LTD
+address_list:
+  items:
+  - uid: '27799'
+    address1: 36-02 A
+    address2: Suntec Tower, 9
+    address3: Temasek Boulevard
+    city: Singapore
+    postal_code: '038989'
+    country: Singapore
+  - uid: '27800'
+    address1: 9 Temasek Boulevard
+    address2: 36-02A
+    city: Singapore
+    postal_code: '038989'
+    country: Singapore
+  - uid: '27801'
+    state_or_province: Panama City
+    country: Panama
+  - uid: '27803'
+    address1: PO Box 957
+    address2: Offshore Incorporations Centre Road Town
+    address3: Tortola
+    country: Virgin Islands, British
+id_list:
+  items:
+  - uid: '10622'
+    id_type: Identification Number
+    id_number: IMO 5179245
+  - uid: '10623'
+    id_type: Identification Number
+    id_number: IMO 5405737
+  - uid: '127105'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '135294'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214

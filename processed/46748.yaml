@@ -1,0 +1,42 @@
+---
+uid: '46748'
+first_name: Andrey Petrovich
+last_name: KAZAZAEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '72181'
+    type: a.k.a.
+    category: strong
+    last_name: KAZAZAEV
+    first_name: Andrei Petrovich
+address_list:
+  items:
+  - uid: '69660'
+    country: Russia
+id_list:
+  items:
+  - uid: '36815'
+    id_type: Tax ID No.
+    id_number: '330515309950'
+    id_country: Russia
+  - uid: '176279'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '167536'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '67534'
+    date_of_birth: 19 Nov 1964
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '67535'
+    place_of_birth: Uglich, Russia
+    main_entry: 'true'
+remarks: "(Linked To: OPEN JOINT STOCK COMPANY VA DEGTYAREV PLANT)"

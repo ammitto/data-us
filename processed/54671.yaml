@@ -1,0 +1,41 @@
+---
+uid: '54671'
+first_name: Jairo
+last_name: VERDUGO ARAUJO
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+address_list:
+  items:
+  - uid: '83495'
+    country: Mexico
+id_list:
+  items:
+  - uid: '48363'
+    id_type: R.F.C.
+    id_number: VEAJ740902DD5
+    id_country: Mexico
+  - uid: '48364'
+    id_type: C.U.R.P.
+    id_number: VEAJ740902HSLRRR03
+    id_country: Mexico
+  - uid: '193934'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '190917'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '90914'
+    date_of_birth: 02 Sep 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '90915'
+    place_of_birth: Sinaloa, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: SUMILAB, S.A. DE C.V.)"

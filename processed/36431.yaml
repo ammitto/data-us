@@ -1,0 +1,73 @@
+---
+uid: '36431'
+last_name: PUBLIC JOINT STOCK COMPANY UNITED AIRCRAFT CORPORATION
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '57417'
+    type: a.k.a.
+    category: strong
+    last_name: UNITED AIRCRAFT CORPORATION
+  - uid: '57418'
+    type: a.k.a.
+    category: strong
+    last_name: PJSC UAC
+  - uid: '57419'
+    type: a.k.a.
+    category: strong
+    last_name: PUBLICHNOE AKTSIONERNOE OBSCHESTVO OBEDINENNAYA AVIASTROITELNAYA KORPORATSIYA
+  - uid: '57420'
+    type: f.k.a.
+    category: strong
+    last_name: OJSC UAC
+  - uid: '57421'
+    type: f.k.a.
+    category: strong
+    last_name: OTKRYTOE AKTSIONERNOE OBSCHESTVO OBEDINENNAYA AVIASTROITELNAYA KORPORATSIYA
+  - uid: '59453'
+    type: a.k.a.
+    category: strong
+    last_name: SUKHOI
+  - uid: '59454'
+    type: a.k.a.
+    category: strong
+    last_name: MIG
+address_list:
+  items:
+  - uid: '54741'
+    address1: ul. Bolshaya Pioneerskaya, d. 1
+    city: Moscow
+    postal_code: '115054'
+    country: Russia
+  - uid: '54742'
+    address1: Str.1, 22, Ulanskyi Pereulok
+    city: Moscow
+    postal_code: '101000'
+    country: Russia
+id_list:
+  items:
+  - uid: '25841'
+    id_type: Registration Number
+    id_number: '1067759884598'
+    id_country: Russia
+  - uid: '25843'
+    id_type: Tax ID No.
+    id_number: '7708619320'
+    id_country: Russia
+  - uid: '174211'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184308'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '150135'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
+  - uid: '150115'
+    id_type: Organization Established Date
+    id_number: '2006'

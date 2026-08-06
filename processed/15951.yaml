@@ -1,0 +1,37 @@
+---
+uid: '15951'
+last_name: BU ALI SINA PETROCHEMICAL COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN
+  - NPWMD
+  - IFSR
+aka_list:
+  items:
+  - uid: '23994'
+    type: a.k.a.
+    category: strong
+    last_name: BUALI SINA PETROCHEMICAL COMPANY
+  - uid: '42363'
+    type: a.k.a.
+    category: strong
+    last_name: BOU ALI SINA PETROCHEMICAL COMPANY
+address_list:
+  items:
+  - uid: '23968'
+    address1: No. 17, 1st Floor, Daman Afshar St.
+    address2: Vanak Sq.
+    address3: Vali-e-Asr Ave
+    city: Tehran
+    postal_code: '19697'
+    country: Iran
+  - uid: '23969'
+    address1: Petrochemical Special Economic Zone (PETZONE)
+    country: Iran
+id_list:
+  items:
+  - uid: '119054'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: PERSIAN GULF PETROCHEMICAL INDUSTRY CO.)"

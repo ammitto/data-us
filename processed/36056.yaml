@@ -1,0 +1,47 @@
+---
+uid: '36056'
+last_name: JOINT STOCK COMPANY PRODUCTION ASSOCIATION NORTHERN MACHINE-BUILDING ENTERPRISE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56817'
+    type: a.k.a.
+    category: strong
+    last_name: PRODUCTION ASSOCIATION SEVMASH
+  - uid: '56820'
+    type: a.k.a.
+    category: strong
+    last_name: JSC PRODUCTION OBYEDINENIYE SEVERNOYE MASHINOSTROITELNOYE
+  - uid: '56829'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT-STOCK COMPANY PRODUCTION ASSOCIATION SEVERNOYE MACHINE-BUILDING
+      ENTERPRISE
+  - uid: '56830'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY PO SEVMASH
+address_list:
+  items:
+  - uid: '54215'
+    address1: 58 Arkhangelskoye Highway
+    city: Severodvinsk
+    state_or_province: Arkhangelsk Region
+    postal_code: '164500'
+    country: Russia
+id_list:
+  items:
+  - uid: '25443'
+    id_type: Tax ID No.
+    id_number: '2902059091'
+    id_country: Russia
+  - uid: '173350'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '149438'
+    id_type: Organization Established Date
+    id_number: 01 Jun 2008
+remarks: "(Linked To: JOINT STOCK COMPANY UNITED SHIPBUILDING CORPORATION)"

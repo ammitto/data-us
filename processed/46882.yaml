@@ -1,0 +1,82 @@
+---
+uid: '46882'
+first_name: Damion Patrick John
+last_name: RYAN
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+aka_list:
+  items:
+  - uid: '72458'
+    type: a.k.a.
+    category: weak
+    last_name: RYAN, John
+  - uid: '72459'
+    type: a.k.a.
+    category: weak
+    last_name: JOHN, Damion
+  - uid: '72460'
+    type: a.k.a.
+    category: weak
+    last_name: PATRICK, Damion
+  - uid: '72461'
+    type: a.k.a.
+    category: weak
+    last_name: HENRY, John
+  - uid: '72462'
+    type: a.k.a.
+    category: weak
+    last_name: JOHN, Damien
+  - uid: '72463'
+    type: a.k.a.
+    category: strong
+    last_name: JOHN
+    first_name: Damion Patrick
+  - uid: '72464'
+    type: a.k.a.
+    category: weak
+    last_name: RYAN, Damien
+  - uid: '72465'
+    type: a.k.a.
+    category: strong
+    last_name: RYAN
+    first_name: Damion Patrick
+address_list:
+  items:
+  - uid: '69894'
+    state_or_province: British Columbia
+    country: Canada
+id_list:
+  items:
+  - uid: '36983'
+    id_type: Passport
+    id_number: WQ097521
+    id_country: Canada
+  - uid: '36984'
+    id_type: Passport
+    id_number: HK184430
+    id_country: Canada
+    expiration_date: 15 Sep 2026
+  - uid: '36985'
+    id_type: Passport
+    id_number: AK406531
+    id_country: Canada
+    expiration_date: 11 Jan 2029
+  - uid: '167821'
+    id_type: Gender
+    id_number: Male
+  - uid: '167937'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '67818'
+    date_of_birth: 14 Oct 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '67819'
+    place_of_birth: Canada
+    main_entry: 'true'
+remarks: "(Linked To: ASAN, Nihat Abdul Kadir)"

@@ -1,0 +1,47 @@
+---
+uid: '40243'
+first_name: Maxim Yuryevich
+last_name: VOROBYEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '62585'
+    type: a.k.a.
+    category: strong
+    last_name: VOROBYOV
+    first_name: Maksim Yurievich
+  - uid: '62586'
+    type: a.k.a.
+    category: strong
+    last_name: VOROBEV
+    first_name: Maksim Yurevich
+address_list:
+  items:
+  - uid: '59978'
+    country: Russia
+id_list:
+  items:
+  - uid: '29426'
+    id_type: Tax ID No.
+    id_number: '773608240710'
+    id_country: Russia
+  - uid: '174046'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '157213'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '57214'
+    date_of_birth: '09 Aug 1976'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '57215'
+    place_of_birth: Krasnoyarsk, Russia
+    main_entry: 'true'
+remarks: "(Linked To: VOROBYOV, Yury Leonidovich)"

@@ -1,0 +1,38 @@
+---
+uid: '8203'
+first_name: Yacine
+last_name: DI ANNABA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '7506'
+    address1: Rue Mohamed Khemisti, 6
+    city: Annaba
+    country: Algeria
+  - uid: '7507'
+    address1: Via Genova, 121
+    city: Naples
+    country: Italy
+  - uid: '7508'
+    address1: Vicolo Duchessa, 16
+    city: Naples
+    country: Italy
+id_list:
+  items:
+  - uid: '185791'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '2578'
+    date_of_birth: 02 Dec 1967
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '2579'
+    place_of_birth: Annaba, Algeria
+    main_entry: 'true'

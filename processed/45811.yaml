@@ -1,0 +1,55 @@
+---
+uid: '45811'
+last_name: JOINT STOCK COMPANY POST BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '70785'
+    type: a.k.a.
+    category: strong
+    last_name: POST BANK JSC
+  - uid: '70786'
+    type: a.k.a.
+    category: strong
+    last_name: POCHTA BANK
+address_list:
+  items:
+  - uid: '68156'
+    address1: Preobrazhenskaya ploshchad, 8
+    city: Moscow
+    postal_code: '107061'
+    country: Russia
+id_list:
+  items:
+  - uid: '35567'
+    id_type: Registration Number
+    id_number: '1023200000010'
+    id_country: Russia
+  - uid: '35568'
+    id_type: Tax ID No.
+    id_number: '3232005484'
+    id_country: Russia
+  - uid: '35569'
+    id_type: Legal Entity Number
+    id_number: 2534001VHLQ1L34HNW95
+  - uid: '35570'
+    id_type: Identification Number
+    id_number: DN2Q9U.99999.SL.643
+    id_country: Russia
+  - uid: '166764'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '176065'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184261'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '166414'
+    id_type: SWIFT/BIC
+    id_number: POSBRUMM

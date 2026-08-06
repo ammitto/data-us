@@ -1,0 +1,43 @@
+---
+uid: '58095'
+last_name: SEPEHR NOOR MOBIN COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '89836'
+    type: a.k.a.
+    category: strong
+    last_name: SEPEHR NOOR MOBIN SHIPPING CO
+address_list:
+  items:
+  - uid: '89203'
+    address1: Unit 3, Level 2, Mellat Tower, Ansari Street, Vali-e Asr Avenue
+    city: Tehran
+    postal_code: '1967713374'
+    country: Iran
+  - uid: '89204'
+    address1: Unit 201, 2nd Floor, No. 42, Enghelab Street, 12th Farvardin Street,
+      corner of Nowruz Alley
+    city: Tehran
+    postal_code: '1314694161'
+    country: Iran
+id_list:
+  items:
+  - uid: '52631'
+    id_type: National ID No.
+    id_number: '14005480093'
+    id_country: Iran
+  - uid: '52632'
+    id_type: Registration Number
+    id_number: '484305'
+    id_country: Iran
+  - uid: '52633'
+    id_type: Identification Number
+    id_number: IMO 5920175
+  - uid: '199456'
+    id_type: Organization Established Date
+    id_number: 20 Dec 2015
+remarks: "(Linked To: SHAMKHANI, Mohammad Hossein)"

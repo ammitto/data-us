@@ -1,0 +1,42 @@
+---
+uid: '55442'
+first_name: Chol Ung
+last_name: NAM
+sdn_type: Individual
+program_list:
+  programs:
+  - DPRK
+aka_list:
+  items:
+  - uid: '86252'
+    type: a.k.a.
+    category: weak
+    last_name: NAM, Cho Hung
+address_list:
+  items:
+  - uid: '84752'
+    city: Dalian
+    country: China
+id_list:
+  items:
+  - uid: '49446'
+    id_type: Passport
+    id_number: '108320231'
+    id_country: Korea, North
+    expiration_date: Aug 2023
+  - uid: '192869'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '192870'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '192868'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '92867'
+    date_of_birth: 23 Feb 1969
+    main_entry: 'true'
+remarks: "(Linked To: RECONNAISSANCE GENERAL BUREAU)"

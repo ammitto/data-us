@@ -1,0 +1,45 @@
+---
+uid: '57367'
+first_name: Jose Oscar
+last_name: GARCIA BATTE
+sdn_type: Individual
+program_list:
+  programs:
+  - SUDAN-EO14098
+address_list:
+  items:
+  - uid: '87919'
+    address1: Calle 64, No. 7-62, Apt 403
+    city: Bogota
+    country: Colombia
+  - uid: '87920'
+    address1: Al Fattan Marine Tower
+    address2: Apt 3105
+    address3: Jumeriah Beach Residence
+    city: Dubai
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '51675'
+    id_type: Cedula No.
+    id_number: '5934638'
+    id_country: Colombia
+  - uid: '51676'
+    id_type: Passport
+    id_number: PE144026
+    id_country: Colombia
+    expiration_date: 29 Aug 2027
+  - uid: '197480'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '97349'
+    date_of_birth: 25 Feb 1963
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '97350'
+    place_of_birth: Icononzo, Tolima, Colombia
+    main_entry: 'true'
+remarks: "(Linked To: INTERNATIONAL SERVICES AGENCY S.A.S.)"

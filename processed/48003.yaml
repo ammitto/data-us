@@ -1,0 +1,34 @@
+---
+uid: '48003'
+last_name: LIMITED LIABILITY COMPANY AMS TEKHNIKA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74491'
+    type: a.k.a.
+    category: strong
+    last_name: AMS TEHNIKA LLC
+address_list:
+  items:
+  - uid: '71932'
+    address1: d. 9 str. 25 etazh 2 pom. II
+    address2: Komn. 44, ul. Godovikova
+    city: Moscow
+    postal_code: '129085'
+    country: Russia
+id_list:
+  items:
+  - uid: '38865'
+    id_type: Registration Number
+    id_number: '1227700325270'
+    id_country: Russia
+  - uid: '38866'
+    id_type: Tax ID No.
+    id_number: '9717115403'
+    id_country: Russia
+  - uid: '169674'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

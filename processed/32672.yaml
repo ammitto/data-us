@@ -1,0 +1,41 @@
+---
+uid: '32672'
+first_name: Oscar Alejandro
+last_name: CALLEJAS VALCARCE
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+  - CUBA-EO14404
+address_list:
+  items:
+  - uid: '49324'
+    address1: 'Goycuria #119'
+    address2: 10 Octubre
+    city: Havana
+    country: Cuba
+id_list:
+  items:
+  - uid: '22517'
+    id_type: National ID No.
+    id_number: '57091910348'
+    id_country: Cuba
+  - uid: '22518'
+    id_type: Passport
+    id_number: A006951
+    id_country: Cuba
+    expiration_date: 18 Jul 2027
+  - uid: '142417'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '42418'
+    date_of_birth: 19 Sep 1957
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '42420'
+    place_of_birth: Havana, Cuba
+    main_entry: 'true'
+remarks: "(Linked To: POLICIA NACIONAL REVOLUCIONARIA)"

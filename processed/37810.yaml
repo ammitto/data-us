@@ -1,0 +1,25 @@
+---
+uid: '37810'
+last_name: THE FEDERATION COUNCIL OF THE FEDERAL ASSEMBLY OF THE RUSSIAN FEDERATION
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '56619'
+    address1: 26 Bolshaya Dmitrovka Street
+    city: Moscow
+    postal_code: '103426'
+    country: Russia
+id_list:
+  items:
+  - uid: '173533'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '152853'
+    id_type: Target Type
+    id_number: Government Entity
+  - uid: '152849'
+    id_type: Website
+    id_number: council.gov.ru

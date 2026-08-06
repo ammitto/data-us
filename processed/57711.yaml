@@ -1,0 +1,37 @@
+---
+uid: '57711'
+first_name: Mohammed
+last_name: KHATIB
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '88491'
+    country: Belgium
+id_list:
+  items:
+  - uid: '52176'
+    id_type: Passport
+    id_number: TA017352
+    id_country: Belgium
+    expiration_date: 18 Jan 2019
+  - uid: '198161'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '198160'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '98158'
+    date_of_birth: 13 Apr 1990
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '98159'
+    place_of_birth: Lebanon
+    main_entry: 'true'
+remarks: "(Linked To: SAMIDOUN PALESTINIAN PRISONER SOLIDARITY NETWORK)"

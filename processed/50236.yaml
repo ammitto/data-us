@@ -1,0 +1,46 @@
+---
+uid: '50236'
+first_name: Dmitry Olegovich
+last_name: ISHCHENKO
+sdn_type: Individual
+program_list:
+  programs:
+  - BELARUS-EO14038
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78415'
+    type: a.k.a.
+    category: strong
+    last_name: ISHCHENKO
+    first_name: Dima
+address_list:
+  items:
+  - uid: '76056'
+    country: Belarus
+id_list:
+  items:
+  - uid: '41892'
+    id_type: Passport
+    id_number: '550098738'
+    id_country: Russia
+  - uid: '41893'
+    id_type: National ID No.
+    id_number: R0100000607471
+    id_country: Belarus
+  - uid: '178209'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '177889'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '77890'
+    date_of_birth: 24 Jan 1983
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '78176'
+    place_of_birth: Russia
+    main_entry: 'true'

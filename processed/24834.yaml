@@ -1,0 +1,35 @@
+---
+uid: '24834'
+first_name: Anton Aleksandrovich
+last_name: NAGIBIN
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+address_list:
+  items:
+  - uid: '37583'
+    country: Russia
+id_list:
+  items:
+  - uid: '15918'
+    id_type: Passport
+    id_number: '712413714'
+    id_country: Russia
+  - uid: '154585'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+  - uid: '127935'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '27933'
+    date_of_birth: 20 May 1985
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '27934'
+    place_of_birth: Leningrad, Russia
+    main_entry: 'true'
+remarks: "(Linked To: DIVETECHNOSERVICES)"

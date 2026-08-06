@@ -1,0 +1,42 @@
+---
+uid: '50765'
+last_name: VYATKA MACHINE TOOL PLANT LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79483'
+    type: a.k.a.
+    category: strong
+    last_name: OOO VYATSKII STANKOSTROITELNYI ZAVOD
+  - uid: '79484'
+    type: a.k.a.
+    category: weak
+    last_name: OOO VSZ
+  - uid: '79485'
+    type: a.k.a.
+    category: strong
+    last_name: VSP KIROV
+address_list:
+  items:
+  - uid: '77018'
+    address1: Ul. Tekhnicheskaya D. 22
+    address2: Office 3
+    city: Kirov
+    postal_code: '610014'
+    country: Russia
+id_list:
+  items:
+  - uid: '42655'
+    id_type: Registration Number
+    id_number: '1164350074900'
+    id_country: Russia
+  - uid: '42656'
+    id_type: Tax ID No.
+    id_number: '4345454570'
+    id_country: Russia
+  - uid: '179393'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

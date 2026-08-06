@@ -1,0 +1,86 @@
+---
+uid: '12176'
+first_name: Diana Lorena
+last_name: TORO DIAZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '18632'
+    address1: c/o GRUPO CRISTAL CORONA S.A. DE C.V.
+    city: Mexico City
+    state_or_province: Distrito Federal
+    country: Mexico
+  - uid: '18633'
+    address1: Calle Horacio No. 1325
+    address2: Colonia Polanco
+    city: Mexico City
+    state_or_province: Distrito Federal
+    country: Mexico
+  - uid: '18634'
+    address1: Calle la Martina No. 501
+    address2: Colonia Polanco
+    address3: Delegacion Miguel Hidalgo
+    city: Mexico City
+    state_or_province: Distrito Federal
+    country: Mexico
+  - uid: '18635'
+    address1: Avenida Hacienda de Las Palmas No. 23-2 Norte
+    address2: Hacienda de Las Palmas Huixquilucan
+    city: Huixquilucan de Degollado
+    state_or_province: Mexico
+    country: Mexico
+  - uid: '18636'
+    address1: Rio Amazones No. 89-1
+    address3: Cuauhtemoc
+    city: Mexico City
+    state_or_province: Distrito Federal
+    country: Mexico
+  - uid: '18637'
+    address1: Calle Rio Rhin No. 64
+    address2: Colonia Juarez
+    address3: Delegacion Cuauhtemoc
+    city: Mexico City
+    state_or_province: Distrito Federal
+    country: Mexico
+  - uid: '18638'
+    address1: Calle Diaz Ordaz No. 86
+    address2: Colonia Acapatzingo
+    city: Municipio de Cuernavaca
+    state_or_province: Morelos
+    country: Mexico
+  - uid: '18639'
+    address1: Privada Ruiz Cortines No. 6
+    city: Municipio de Atizapan de Zaragoza
+    state_or_province: Mexico
+    country: Mexico
+id_list:
+  items:
+  - uid: '6596'
+    id_type: Cedula No.
+    id_number: '38560572'
+    id_country: Colombia
+  - uid: '6597'
+    id_type: Passport
+    id_number: '38560572'
+    id_country: Colombia
+  - uid: '6598'
+    id_type: C.U.R.P.
+    id_number: TODD820327MNERZN04
+    id_country: Mexico
+  - uid: '6599'
+    id_type: R.F.C.
+    id_number: TODD-820327
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '7925'
+    date_of_birth: 27 Mar 1982
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '7926'
+    place_of_birth: Cali, Valle del Cauca
+    main_entry: 'true'

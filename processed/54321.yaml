@@ -1,0 +1,44 @@
+---
+uid: '54321'
+last_name: ATHENA SHIPPING CO LTD
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '84593'
+    type: a.k.a.
+    category: strong
+    last_name: ATHENA SHIPPING COMPANY LIMITED
+  - uid: '84594'
+    type: a.k.a.
+    category: strong
+    last_name: ATHENA SHIPPING CO LIMITED
+address_list:
+  items:
+  - uid: '82965'
+    address1: Unit 1208, Building B 1, Wanda Plaza
+    address2: 8, Aojiang Lu
+    address3: Taijiang Qu
+    city: Fuzhou
+    state_or_province: Fujian
+    postal_code: '350009'
+    country: China
+id_list:
+  items:
+  - uid: '47898'
+    id_type: Business Registration Number
+    id_number: '75933747'
+    id_country: Hong Kong
+  - uid: '47899'
+    id_type: Identification Number
+    id_number: IMO 6465772
+  - uid: '190104'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '190105'
+    id_type: Organization Established Date
+    id_number: 21 Nov 2023
+remarks: "(Linked To: RAYAN ROSHD AFZAR COMPANY)"

@@ -1,0 +1,37 @@
+---
+uid: '52548'
+last_name: PUBLIC JOINT STOCK COMPANY KAMENSK URALSKIY METALLURGICHESKIY ZAVOD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '82238'
+    type: a.k.a.
+    category: strong
+    last_name: KAMENSK URALSKY METALLURGICAL WORKS JOINT STOCK COMPANY
+  - uid: '82239'
+    type: a.k.a.
+    category: weak
+    last_name: PJSC KUMZ
+address_list:
+  items:
+  - uid: '80247'
+    address1: ul. Zavodskaya 5
+    city: Kamensk-Uralski
+    postal_code: '623405'
+    country: Russia
+id_list:
+  items:
+  - uid: '45552'
+    id_type: Registration Number
+    id_number: '1026600930707'
+    id_country: Russia
+  - uid: '45553'
+    id_type: Tax ID No.
+    id_number: '6665002150'
+    id_country: Russia
+  - uid: '184223'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

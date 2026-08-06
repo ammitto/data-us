@@ -1,0 +1,33 @@
+---
+uid: '49201'
+last_name: JSC RESURS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76703'
+    type: a.k.a.
+    category: strong
+    last_name: AO RESURS
+address_list:
+  items:
+  - uid: '74065'
+    address1: PR-D Zavodskoi D. 4
+    city: Bogoroditsk
+    postal_code: '301830'
+    country: Russia
+id_list:
+  items:
+  - uid: '40353'
+    id_type: Registration Number
+    id_number: '1027102670760'
+    id_country: Russia
+  - uid: '40354'
+    id_type: Tax ID No.
+    id_number: '7112000210'
+    id_country: Russia
+  - uid: '172160'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

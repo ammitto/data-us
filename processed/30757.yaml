@@ -1,0 +1,48 @@
+---
+uid: '30757'
+last_name: ESFARAYEN INDUSTRIAL COMPLEX
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13871
+aka_list:
+  items:
+  - uid: '48389'
+    type: a.k.a.
+    category: weak
+    last_name: EICO
+address_list:
+  items:
+  - uid: '46523'
+    address1: No. 7 Alvand Alley Street, Ghaem Magham Farahani Avenue
+    city: Tehran
+    postal_code: '1589673711'
+    country: Iran
+  - uid: '46524'
+    address1: Number 20, Alvand St., Ghaem Magham-e-Farahani Ave
+    city: Tehran
+    country: Iran
+  - uid: '46525'
+    address1: 12th km of Bojnurd-Esfarayen Road
+    state_or_province: North Khorasan
+    country: Iran
+  - uid: '46526'
+    address1: PO Box 15745-513
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '20837'
+    id_type: National ID No.
+    id_number: '89046'
+    id_country: Iran
+    issue_date: '1990'
+  - uid: '138683'
+    id_type: Website
+    id_number: www.esfst.com
+  - uid: '138721'
+    id_type: Organization Established Date
+    id_number: '1990'
+  - uid: '138720'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

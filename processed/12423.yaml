@@ -1,0 +1,29 @@
+---
+uid: '12423'
+first_name: Danit Dario
+last_name: DORIA CASTILLO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '19326'
+    address1: c/o INVERSIONES MINERAS H.D. EMPRESA UNIPERSONAL
+    city: Caucasia
+    state_or_province: Antioquia
+    country: Colombia
+id_list:
+  items:
+  - uid: '6889'
+    id_type: Cedula No.
+    id_number: '8048598'
+    id_country: Colombia
+date_of_birth_list:
+  items:
+  - uid: '8122'
+    date_of_birth: 12 Jan 1971
+    main_entry: 'true'
+  - uid: '8123'
+    date_of_birth: 01 Dec 1971
+    main_entry: 'false'

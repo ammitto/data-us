@@ -1,0 +1,54 @@
+---
+uid: '37779'
+last_name: JOINT STOCK COMPANY SCIENTIFIC PRODUCTION ENTERPRISE KONTAKT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59302'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO NAUCHNO-PROIZVODSTVENNOE PREDPRIYATIE KONTAKT
+  - uid: '59304'
+    type: a.k.a.
+    category: strong
+    last_name: JSC SPE KONTAKT
+  - uid: '59305'
+    type: a.k.a.
+    category: strong
+    last_name: AO NPP KONTAKT
+  - uid: '59306'
+    type: a.k.a.
+    category: weak
+    last_name: NPP CONTACT
+address_list:
+  items:
+  - uid: '56541'
+    address1: 1, Ul. Spitsyna
+    city: Saratov
+    state_or_province: Saratovskaya Oblast
+    postal_code: '410086'
+    country: Russia
+id_list:
+  items:
+  - uid: '27054'
+    id_type: Registration Number
+    id_number: '1086453000567'
+    id_country: Russia
+  - uid: '27055'
+    id_type: Tax ID No.
+    id_number: '6453097665'
+    id_country: Russia
+  - uid: '27056'
+    id_type: Government Gazette Number
+    id_number: '07619636'
+    id_country: Russia
+  - uid: '152766'
+    id_type: Organization Established Date
+    id_number: 11 Dec 1991
+  - uid: '173511'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: OPEN JOINT STOCK COMPANY RUSSIAN ELECTRONICS)"

@@ -1,0 +1,39 @@
+---
+uid: '52282'
+last_name: KOREA OSONG SHIPPING CORPORATION
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK3
+aka_list:
+  items:
+  - uid: '81888'
+    type: a.k.a.
+    category: strong
+    last_name: OSONG SHIPPING CORPORATION
+  - uid: '81889'
+    type: a.k.a.
+    category: strong
+    last_name: OSONG SHIPPING COMPANY
+address_list:
+  items:
+  - uid: '79853'
+    address1: Kansong-dong, Pyongchon-guyok
+    city: Pyongyang
+    country: Korea, North
+id_list:
+  items:
+  - uid: '45234'
+    id_type: Company Number
+    id_number: '5619960'
+    id_country: Korea, North
+  - uid: '183630'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '183626'
+    id_type: Organization Established Date
+    id_number: '2006'
+  - uid: '183631'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214

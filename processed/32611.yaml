@@ -1,0 +1,37 @@
+---
+uid: '32611'
+first_name: Darya
+last_name: SHMANAI
+sdn_type: Individual
+program_list:
+  programs:
+  - BELARUS-EO14038
+address_list:
+  items:
+  - uid: '49082'
+    city: Moscow
+    country: Russia
+  - uid: '49083'
+    address1: Ostroshitskaya, 8-35
+    city: Minsk
+    postal_code: '220129'
+    country: Belarus
+id_list:
+  items:
+  - uid: '22373'
+    id_type: National ID No.
+    id_number: 4020593A018PB8
+    id_country: Belarus
+  - uid: '142222'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '42220'
+    date_of_birth: 02 May 1993
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '42221'
+    place_of_birth: Minsk, Belarus
+    main_entry: 'true'

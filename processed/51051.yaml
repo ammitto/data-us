@@ -1,0 +1,28 @@
+---
+uid: '51051'
+last_name: RITA SHIPPING INC
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13846
+address_list:
+  items:
+  - uid: '77562'
+    address1: Trust Company Complex, Ajeltake Road
+    city: Majuro
+    state_or_province: Ajeltake
+    postal_code: '96960'
+    country: Marshall Islands
+id_list:
+  items:
+  - uid: '43109'
+    id_type: Identification Number
+    id_number: IMO 6394782
+  - uid: '43110'
+    id_type: Registration Number
+    id_number: '118772'
+    id_country: Marshall Islands
+  - uid: '179982'
+    id_type: Organization Established Date
+    id_number: 06 Mar 2023
+remarks: "(Linked To: NATIONAL IRANIAN OIL COMPANY)"

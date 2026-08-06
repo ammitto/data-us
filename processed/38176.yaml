@@ -1,0 +1,50 @@
+---
+uid: '38176'
+last_name: AKTSIONERNOE OBSHCHESTVO GRUPPA KREMNII EL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '59907'
+    type: a.k.a.
+    category: strong
+    last_name: CJSC KREMNY AL GROUP
+  - uid: '59908'
+    type: a.k.a.
+    category: strong
+    last_name: AO GRUPPA KREMNY EL
+  - uid: '59909'
+    type: a.k.a.
+    category: strong
+    last_name: JSC GRUPPA KREMNY EL
+  - uid: '59910'
+    type: a.k.a.
+    category: strong
+    last_name: KREMNY GROUP
+address_list:
+  items:
+  - uid: '57204'
+    address1: Krasnoarmeyskaya 103
+    city: Bryansk
+    postal_code: '241037'
+    country: Russia
+id_list:
+  items:
+  - uid: '27476'
+    id_type: Tax ID No.
+    id_number: '3234043140'
+    id_country: Russia
+  - uid: '27477'
+    id_type: Registration Number
+    id_number: '1023202741781'
+    id_country: Russia
+  - uid: '174648'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184540'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

@@ -1,0 +1,35 @@
+---
+uid: '41083'
+last_name: STATE UNITARY ENTERPRISE STATE GRAIN OPERATOR
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '61407'
+    address1: 4 Victory Square
+    city: Melitopol
+    postal_code: '72300'
+    country: Ukraine
+  - uid: '61408'
+    address1: 51 Getmana Sahaidachnovo St.
+    city: Melitopol
+    postal_code: '72312'
+    country: Ukraine
+id_list:
+  items:
+  - uid: '30420'
+    id_type: Business Registration Number
+    id_number: '4022000124'
+    id_country: Russia
+  - uid: '30421'
+    id_type: Tax ID No.
+    id_number: '9001011019'
+    id_country: Russia
+  - uid: '173614'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '159007'
+    id_type: Organization Established Date
+    id_number: '09 Jun 2022'

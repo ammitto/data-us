@@ -1,0 +1,43 @@
+---
+uid: '40864'
+last_name: ZAVOD ULGERODNYKH I KOMPOZITSIONNYKH MATERIALOV
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63578'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU ZAVOD UGLERODNYKH I KOMPOZITSIONNYKH
+      MATERIALOV
+  - uid: '63579'
+    type: a.k.a.
+    category: strong
+    last_name: ZUKM OOO
+address_list:
+  items:
+  - uid: '60923'
+    address1: Territoriya Chelyabinskogo Elektrodnogo Zavoda
+    city: Chelyabinsk
+    postal_code: '454038'
+    country: Russia
+id_list:
+  items:
+  - uid: '30104'
+    id_type: Registration Number
+    id_number: '1067450027248'
+    id_country: Russia
+  - uid: '30105'
+    id_type: Tax ID No.
+    id_number: '7450045935'
+    id_country: Russia
+  - uid: '30106'
+    id_type: Government Gazette Number
+    id_number: '94812603'
+    id_country: Russia
+  - uid: '174168'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: UMATEX JOINT-STOCK COMPANY)"

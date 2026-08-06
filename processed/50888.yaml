@@ -1,0 +1,32 @@
+---
+uid: '50888'
+last_name: LIMITED LIABILITY COMPANY EMT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '77265'
+    address1: Pr-kt Leningradskii D. 80, Korp. G, Of. 801
+    city: Moscow
+    postal_code: '125190'
+    country: Russia
+  - uid: '77266'
+    address1: Pr-d Staropetrovskii D. 7A, Str. 6, Office 710
+    city: Moscow
+    postal_code: '125130'
+    country: Russia
+id_list:
+  items:
+  - uid: '42865'
+    id_type: Registration Number
+    id_number: '1047796965754'
+    id_country: Russia
+  - uid: '42866'
+    id_type: Tax ID No.
+    id_number: '7714582188'
+    id_country: Russia
+  - uid: '179666'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

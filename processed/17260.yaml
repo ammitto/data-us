@@ -1,0 +1,55 @@
+---
+uid: '17260'
+last_name: STATE CORPORATION ROSTEC
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13662
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59376'
+    type: a.k.a.
+    category: strong
+    last_name: STATE CORPORATION FOR THE PROMOTION OF THE DEVELOPMENT, MANUFACTURE,
+      AND EXPORT OF HIGH TECH PRODUCTS ROSTEC
+address_list:
+  items:
+  - uid: '26319'
+    address1: 24 Usacheva Str.
+    city: Moscow
+    postal_code: '119048'
+    country: Russia
+  - uid: '26320'
+    address1: 21 Gogolevsky Blvd.
+    city: Moscow
+    postal_code: '119991'
+    country: Russia
+id_list:
+  items:
+  - uid: '9699'
+    id_type: Registration ID
+    id_number: '1077799030847'
+    id_country: Russia
+  - uid: '9700'
+    id_type: Tax ID No.
+    id_number: '7704274402'
+    id_country: Russia
+  - uid: '9701'
+    id_type: Government Gazette Number
+    id_number: '94137372'
+    id_country: Russia
+  - uid: '173863'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '116150'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 3
+  - uid: '143716'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '152816'
+    id_type: Organization Established Date
+    id_number: 03 Dec 2007
+remarks: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.'

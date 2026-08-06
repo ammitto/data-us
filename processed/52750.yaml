@@ -1,0 +1,51 @@
+---
+uid: '52750'
+last_name: YEMEN KUWAIT BANK FOR TRADE AND INVESTMENT Y.S.C
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '82697'
+    type: a.k.a.
+    category: strong
+    last_name: YEMEN KUWAIT BANK FOR TRADE AND INVESTMENT
+address_list:
+  items:
+  - uid: '80645'
+    address1: YKB Building, Al Zubairi St
+    city: Sana'a
+    country: Yemen
+  - uid: '80646'
+    city: Aden
+    country: Yemen
+  - uid: '80647'
+    city: Taiz
+    country: Yemen
+  - uid: '80648'
+    city: Hodeida
+    country: Yemen
+  - uid: '80649'
+    city: Al Mukalla
+    country: Yemen
+id_list:
+  items:
+  - uid: '45910'
+    id_type: Registration Number
+    id_number: 342/21
+    id_country: Yemen
+  - uid: '184733'
+    id_type: Organization Established Date
+    id_number: 01 Jan 1977
+  - uid: '184732'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '184678'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '184679'
+    id_type: SWIFT/BIC
+    id_number: YKBAYESA
+remarks: "(Linked To: ANSARALLAH)"

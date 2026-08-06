@@ -1,0 +1,47 @@
+---
+uid: '48085'
+first_name: Jesus Norberto
+last_name: LARRANAGA HERRERA
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '74687'
+    type: a.k.a.
+    category: weak
+    last_name: El 30
+  - uid: '74688'
+    type: a.k.a.
+    category: weak
+    last_name: Treinta
+  - uid: '74689'
+    type: a.k.a.
+    category: weak
+    last_name: Chuy
+address_list:
+  items:
+  - uid: '72112'
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+id_list:
+  items:
+  - uid: '38975'
+    id_type: C.U.R.P.
+    id_number: LAHJ930414HSLRRS06
+    id_country: Mexico
+  - uid: '169991'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '69988'
+    date_of_birth: 14 Apr 1993
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '69989'
+    place_of_birth: Sinaloa, Mexico
+    main_entry: 'true'

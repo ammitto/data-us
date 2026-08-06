@@ -1,0 +1,49 @@
+---
+uid: '45620'
+last_name: ZAKRYTOE AKTSIONERNOE OBSHCHESTVO MAGNITOGORSKII ZAVOD PROKATNYKH VALKOV
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70500'
+    type: a.k.a.
+    category: weak
+    last_name: ZAO MZPV
+  - uid: '70501'
+    type: a.k.a.
+    category: strong
+    last_name: CJSC MAGNITOGORSK MILL ROLLS PLANT
+  - uid: '70502'
+    type: a.k.a.
+    category: weak
+    last_name: CJSC MMRP
+address_list:
+  items:
+  - uid: '67816'
+    address1: Ul. Kirova D. 93
+    address2: Pom. 8
+    city: Magnitogorsk
+    postal_code: '455002'
+    country: Russia
+  - uid: '67817'
+    address1: Ul. Kirova D. 93
+    address2: ZD. Administrativno Bytovoe Tsekh Izlozhnits
+    address3: Pom. 8
+    city: Magnitogorsk
+    postal_code: '455000'
+    country: Russia
+id_list:
+  items:
+  - uid: '35296'
+    id_type: Registration Number
+    id_number: '1047420504493'
+    id_country: Russia
+  - uid: '35297'
+    id_type: Tax ID No.
+    id_number: '7445024175'
+    id_country: Russia
+  - uid: '175989'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

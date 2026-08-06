@@ -1,0 +1,42 @@
+---
+uid: '15415'
+first_name: Ahmed
+last_name: YAQUB
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '22709'
+    type: a.k.a.
+    category: strong
+    last_name: YAKOOB
+    first_name: Mohammad
+  - uid: '22710'
+    type: a.k.a.
+    category: strong
+    last_name: GHANI
+    first_name: Hamad
+id_list:
+  items:
+  - uid: '186113'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '12235'
+    date_of_birth: '1966'
+    main_entry: 'true'
+  - uid: '12236'
+    date_of_birth: '1967'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '12237'
+    place_of_birth: Faisalabad, Pakistan
+    main_entry: 'true'
+  - uid: '12238'
+    place_of_birth: Jeda Walah, Punjab Province, Pakistan
+    main_entry: 'false'

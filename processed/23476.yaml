@@ -1,0 +1,69 @@
+---
+uid: '23476'
+last_name: DANDONG JINXIANG TRADE CO., LTD.
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK4
+aka_list:
+  items:
+  - uid: '37004'
+    type: a.k.a.
+    category: strong
+    last_name: DANDONG METAL COMPANY
+  - uid: '37005'
+    type: a.k.a.
+    category: strong
+    last_name: JINXIANG TRADING COMPANY
+  - uid: '37006'
+    type: a.k.a.
+    category: strong
+    last_name: CHINA DANDONG KUMSANG TRADE COMPANY, LIMITED
+address_list:
+  items:
+  - uid: '35494'
+    address1: Room 303, Unit 2, Building Number 3
+    address2: Number 99 Binjiang Lu (Road)
+    address3: Zhenxing District
+    city: Dandong
+    country: China
+  - uid: '35495'
+    address1: Room 303-01, Number 99-3
+    address2: Binjiang Zhong Lu (Road)
+    city: Dandong
+    country: China
+  - uid: '35496'
+    address1: Number 5, Tenth Street
+    address2: Zhenxing District
+    city: Dandong
+    state_or_province: Liaoning
+    country: China
+  - uid: '35497'
+    address1: 245-11
+    address2: Number 1 Wanlian Road
+    address3: Shenhe District
+    city: Shenyang
+    country: China
+  - uid: '35498'
+    address1: Room 1101, No B
+    address2: Jiadi Building, Business and Tourist
+    country: China
+  - uid: '35689'
+    address1: Room 303, Unit 2, 3 Haolou, Building 99 Binjiang Middle Rd.
+    address2: Zhenxing
+    city: Dandong
+    state_or_province: Liaoning
+    postal_code: '118000'
+    country: China
+id_list:
+  items:
+  - uid: '135141'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '125298'
+    id_type: Nationality of Registration
+    id_number: China
+  - uid: '127332'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210

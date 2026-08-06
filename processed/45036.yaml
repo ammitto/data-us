@@ -1,0 +1,37 @@
+---
+uid: '45036'
+last_name: LIMITED LIABILITY COMPANY SKAY17
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '85720'
+    type: a.k.a.
+    category: strong
+    last_name: OOO SKAI17
+  - uid: '85721'
+    type: a.k.a.
+    category: weak
+    last_name: SKY17
+address_list:
+  items:
+  - uid: '67062'
+    address1: d. 19 k. 4 kv. 368, ul. Eletskaya
+    city: Moscow
+    postal_code: '115583'
+    country: Russia
+id_list:
+  items:
+  - uid: '34764'
+    id_type: Tax ID No.
+    id_number: '9729098657'
+    id_country: Russia
+  - uid: '34772'
+    id_type: Registration Number
+    id_number: '1177746619137'
+    id_country: Russia
+  - uid: '175912'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

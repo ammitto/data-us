@@ -1,0 +1,56 @@
+---
+uid: '25149'
+first_name: Roberto
+last_name: SANDOVAL CASTANEDA
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+address_list:
+  items:
+  - uid: '38083'
+    address1: 'Mateo del Regil # 31'
+    address2: Fracc. IMSS
+    city: Tepic
+    state_or_province: Nayarit
+    postal_code: '63186'
+    country: Mexico
+  - uid: '38095'
+    address1: 'Av. Prisciliano Sanchez Sur # 384-A'
+    address2: Col. San Antonio
+    city: Tepic
+    state_or_province: Nayarit
+    postal_code: '63159'
+    country: Mexico
+  - uid: '38195'
+    address1: Calle Canaan Numero 5
+    address2: Colonia Hermosa Provincia
+    city: Tepic
+    state_or_province: Nayarit
+    country: Mexico
+  - uid: '39493'
+    address1: 'Oro # 87'
+    address2: Col. Valle de Matatipac
+    city: Tepic
+    state_or_province: Nayarit
+    postal_code: '63195'
+    country: Mexico
+id_list:
+  items:
+  - uid: '16236'
+    id_type: C.U.R.P.
+    id_number: SACR691115HNTNSB06
+    id_country: Mexico
+  - uid: '128399'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '28398'
+    date_of_birth: 15 Nov 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '28400'
+    place_of_birth: Nayarit, Mexico
+    main_entry: 'true'

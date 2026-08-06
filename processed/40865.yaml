@@ -1,0 +1,45 @@
+---
+uid: '40865'
+last_name: ARGON OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63581'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU ARGON
+  - uid: '63582'
+    type: a.k.a.
+    category: weak
+    last_name: ARGON
+address_list:
+  items:
+  - uid: '60925'
+    address1: Ul. Saratovskoe Shosse D. 2
+    city: Balakovo
+    postal_code: '413841'
+    country: Russia
+id_list:
+  items:
+  - uid: '30107'
+    id_type: Registration Number
+    id_number: '1056405421192'
+    id_country: Russia
+  - uid: '30108'
+    id_type: Tax ID No.
+    id_number: '6454074501'
+    id_country: Russia
+  - uid: '30109'
+    id_type: Government Gazette Number
+    id_number: '75969440'
+    id_country: Russia
+  - uid: '174169'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '158396'
+    id_type: Organization Established Date
+    id_number: '09 Jun 2005'
+remarks: "(Linked To: UMATEX JOINT-STOCK COMPANY)"

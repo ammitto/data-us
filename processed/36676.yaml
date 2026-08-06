@@ -1,0 +1,40 @@
+---
+uid: '36676'
+last_name: OOO KOMPANIYA ZOLOTOI VEK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '57747'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTENNOSTYU KOMPANIYA ZOLOTOI VEK
+address_list:
+  items:
+  - uid: '55064'
+    address1: d. 15 str. 4 etazh 2 ofis 205, ul. Antonova-Ovseenko
+    city: Moscow
+    postal_code: '123317'
+    country: Russia
+id_list:
+  items:
+  - uid: '26156'
+    id_type: Tax ID No.
+    id_number: '7704606859'
+    id_country: Russia
+  - uid: '26157'
+    id_type: Registration Number
+    id_number: '1067746801605'
+    id_country: Russia
+  - uid: '26158'
+    id_type: Government Gazette Number
+    id_number: '96463331'
+    id_country: Russia
+  - uid: '174256'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '150468'
+    id_type: Organization Established Date
+    id_number: 11 Jul 2006

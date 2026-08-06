@@ -1,0 +1,51 @@
+---
+uid: '50827'
+last_name: YAZD INTERNATIONAL AIRWAYS COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+  - IFSR
+aka_list:
+  items:
+  - uid: '79599'
+    type: a.k.a.
+    category: strong
+    last_name: YAZD AIRWAYS
+address_list:
+  items:
+  - uid: '77154'
+    address1: Floor 5, Ario Building, No 85, Nafisi Blvd, Ekbatana Town
+    city: Tehran
+    state_or_province: Tehran
+    postal_code: '1393864541'
+    country: Iran
+  - uid: '77155'
+    address1: Floor 1, No 3, Rahavi Alley, Tehran Blvd
+    state_or_province: Yazd
+    postal_code: '8918646875'
+    country: Iran
+id_list:
+  items:
+  - uid: '42779'
+    id_type: National ID No.
+    id_number: '14011124350'
+    id_country: Iran
+  - uid: '50497'
+    id_type: Registration Number
+    id_number: '21844'
+    id_country: Iran
+  - uid: '194624'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '194805'
+    id_type: Website
+    id_number: https://yazdairways.com
+  - uid: '179470'
+    id_type: Organization Established Date
+    id_number: 10 May 2022
+  - uid: '179469'
+    id_type: Registration Country
+    id_number: Iran
+remarks: "(Linked To: MAHAN AIR)"

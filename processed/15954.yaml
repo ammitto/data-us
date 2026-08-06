@@ -1,0 +1,49 @@
+---
+uid: '15954'
+last_name: PARS PETROCHEMICAL COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+  - IRAN
+aka_list:
+  items:
+  - uid: '42395'
+    type: a.k.a.
+    category: weak
+    last_name: P.P.C.
+  - uid: '42396'
+    type: a.k.a.
+    category: strong
+    last_name: ASALOUYEH PETROCHEMICAL COMPANY
+  - uid: '42397'
+    type: a.k.a.
+    category: strong
+    last_name: PARS PETROCHEMICAL CO.
+address_list:
+  items:
+  - uid: '23976'
+    address1: Pars Special Economic Energy Zone
+    address2: PO Box 163-75391
+    city: Assaluyeh
+    state_or_province: Bushehr
+    country: Iran
+  - uid: '40732'
+    address1: P.O. Box 163-75391
+    postal_code: 11370-75118
+    country: Iran
+  - uid: '40765'
+    address1: Pars Economic Special Zone
+    city: Asalouyeh
+    state_or_province: Bushehr
+    country: Iran
+id_list:
+  items:
+  - uid: '131614'
+    id_type: Website
+    id_number: www.parspc.net
+  - uid: '119056'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: PERSIAN GULF PETROCHEMICAL INDUSTRY CO.)"

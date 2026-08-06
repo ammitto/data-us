@@ -1,0 +1,82 @@
+---
+uid: '10618'
+first_name: Lizbeth
+last_name: MEZA CAZARES
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '10589'
+    type: a.k.a.
+    category: strong
+    last_name: MEZA GASTELLUM
+    first_name: Lizbeth
+  - uid: '10590'
+    type: a.k.a.
+    category: strong
+    last_name: MEZA CAZAREZ
+    first_name: Lizbeth
+address_list:
+  items:
+  - uid: '14787'
+    address1: Avenida Rodolfo Robles 153 Sur, Colonia Jorge Almada
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '14788'
+    address1: Calle G. Robles No. 153, Colonia Almada Sur
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '14789'
+    address1: Avenida Rodolfo G. Robles No. 153 Sur, Colonia Almada
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '14790'
+    address1: No. 154 Avenida Teofilo Noris, Colonia Almada
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '14791'
+    address1: Calle Juan de Dios Batiz No. 139
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '14792'
+    address1: c/o SISTEMA DE RADIO DE SINALOA, S.A. DE C.V.
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '14793'
+    address1: c/o CONSORCIO INMOBILIARIO DEL VALLE DE CULIACAN, S.A. DE C.V.
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '15008'
+    address1: Cll Villa Santander 2834, Villas del Rio Culiacan Villas del Rio Villa
+      Vizcaya, Culiacan Rosales
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+id_list:
+  items:
+  - uid: '5156'
+    id_type: R.F.C.
+    id_number: MECL810115
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '5966'
+    date_of_birth: 05 Jan 1981
+    main_entry: 'true'
+  - uid: '5967'
+    date_of_birth: 15 Jan 1981
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '5968'
+    place_of_birth: Culiacan, Sinaloa, Mexico
+    main_entry: 'true'

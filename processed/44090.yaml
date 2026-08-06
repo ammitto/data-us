@@ -1,0 +1,53 @@
+---
+uid: '44090'
+last_name: JOINT STOCK COMPANY GAZPROM AVTOMATIZATSIYA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '68216'
+    type: a.k.a.
+    category: strong
+    last_name: PUBLICHNOE AKTSIONERNOE OBSCHESTVO GAZPROM AVTOMATIZATSIYA
+  - uid: '68217'
+    type: a.k.a.
+    category: strong
+    last_name: GAZAVTOMATIKA
+  - uid: '68218'
+    type: a.k.a.
+    category: strong
+    last_name: OTKRYTOE AKTSIONERNOE OBSCHESTVO GAZPROM AVTOMATIZATSIYA
+address_list:
+  items:
+  - uid: '65615'
+    address1: 25, Savvinskaya Naberezhnaya
+    city: Moscow
+    postal_code: '119435'
+    country: Russia
+  - uid: '65616'
+    address1: d. 3 pom. VI kom. 21, ul. Kirpichnye Vyemki Moscow
+    city: Moscow
+    postal_code: '117405'
+    country: Russia
+id_list:
+  items:
+  - uid: '33497'
+    id_type: Registration Number
+    id_number: '1027700055360'
+    id_country: Russia
+  - uid: '33498'
+    id_type: Tax ID No.
+    id_number: '7704028125'
+    id_country: Russia
+  - uid: '33499'
+    id_type: Government Gazette Number
+    id_number: '00159093'
+    id_country: Russia
+  - uid: '175763'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '163662'
+    id_type: Organization Established Date
+    id_number: 05 Aug 1993

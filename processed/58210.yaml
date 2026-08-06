@@ -1,0 +1,39 @@
+---
+uid: '58210'
+last_name: COMERCIALIZADORA DE SERVICIOS MEDICOS CUBANOS SA
+sdn_type: Entity
+program_list:
+  programs:
+  - CUBA-EO14404
+aka_list:
+  items:
+  - uid: '90023'
+    type: a.k.a.
+    category: weak
+    last_name: CSMC
+  - uid: '90024'
+    type: a.k.a.
+    category: weak
+    last_name: SERVICIOS MEDICOS CUBANOS
+  - uid: '90025'
+    type: a.k.a.
+    category: weak
+    last_name: SMC
+  - uid: '90026'
+    type: a.k.a.
+    category: weak
+    last_name: CUBAN MEDICAL SERVICES MARKETING COMPANY
+address_list:
+  items:
+  - uid: '89427'
+    city: Havana
+    country: Cuba
+id_list:
+  items:
+  - uid: '52834'
+    id_type: Tax ID No.
+    id_number: '3000186940'
+    id_country: Cuba
+  - uid: '199838'
+    id_type: Organization Established Date
+    id_number: 11 Oct 2011

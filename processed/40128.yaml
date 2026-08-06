@@ -1,0 +1,31 @@
+---
+uid: '40128'
+first_name: Boris Safarovich
+last_name: EBZEEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '59747'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '174807'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '156933'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '56931'
+    date_of_birth: 25 Feb 1950
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '56932'
+    place_of_birth: Jangi-Jer, Kyrgyzstan
+    main_entry: 'true'

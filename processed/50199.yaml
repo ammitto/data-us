@@ -1,0 +1,45 @@
+---
+uid: '50199'
+first_name: Vladislav Nikolaevich
+last_name: PAVLENKO
+sdn_type: Individual
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '78324'
+    type: a.k.a.
+    category: strong
+    last_name: PAULENKA
+    first_name: Uladzislau Mikalaevych
+address_list:
+  items:
+  - uid: '76002'
+    address1: 66L, Apt. 31, Pravdy St.
+    city: Vitebsk
+    country: Belarus
+id_list:
+  items:
+  - uid: '41836'
+    id_type: Passport
+    id_number: BM2519180
+    id_country: Belarus
+    expiration_date: 30 Mar 2028
+  - uid: '41837'
+    id_type: National ID No.
+    id_number: 3110493H047PB9
+    id_country: Belarus
+  - uid: '177813'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '77814'
+    date_of_birth: 11 Apr 1993
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '78188'
+    place_of_birth: Belarus
+    main_entry: 'true'

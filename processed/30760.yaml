@@ -1,0 +1,43 @@
+---
+uid: '30760'
+last_name: SIRJAN IRANIAN STEEL
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13871
+aka_list:
+  items:
+  - uid: '48396'
+    type: a.k.a.
+    category: strong
+    last_name: SIRJAN IRANIAN STEEL CO
+  - uid: '48398'
+    type: a.k.a.
+    category: weak
+    last_name: SISCO
+address_list:
+  items:
+  - uid: '46535'
+    address1: No 39, Sepehr St., Farahzadi Blvd., Shahrak-e-Gharb
+    city: Tehran
+    country: Iran
+  - uid: '46536'
+    address1: Bucharest Avenue, Ninth Street
+    city: Tehran
+    postal_code: '1513733518'
+    country: Iran
+id_list:
+  items:
+  - uid: '20840'
+    id_type: National ID No.
+    id_number: '362111'
+    id_country: Iran
+  - uid: '138686'
+    id_type: Website
+    id_number: www.sisco.midhco.com
+  - uid: '138732'
+    id_type: Organization Established Date
+    id_number: 07 Nov 2009
+  - uid: '138731'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

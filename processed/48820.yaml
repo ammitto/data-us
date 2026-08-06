@@ -1,0 +1,29 @@
+---
+uid: '48820'
+last_name: LLC MASHIMPORT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '73393'
+    address1: Ul. Bolshaia Semenovskaia
+    address2: 40 Str. 13
+    address3: Et. 4 pomeshch. 403
+    city: Moscow
+    postal_code: '107023'
+    country: Russia
+id_list:
+  items:
+  - uid: '39871'
+    id_type: Tax ID No.
+    id_number: '7719717008'
+    id_country: Russia
+  - uid: '39872'
+    id_type: Registration Number
+    id_number: '1097746058552'
+    id_country: Russia
+  - uid: '171479'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

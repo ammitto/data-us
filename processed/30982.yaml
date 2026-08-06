@@ -1,0 +1,36 @@
+---
+uid: '30982'
+first_name: Efrain
+last_name: MENDIVIL FIGUEROA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '46878'
+    state_or_province: Sinaloa
+    country: Mexico
+id_list:
+  items:
+  - uid: '21038'
+    id_type: C.U.R.P.
+    id_number: MEFE800201HSLNGF04
+    id_country: Mexico
+  - uid: '21147'
+    id_type: R.F.C.
+    id_number: MEFE800201L2A
+    id_country: Mexico
+  - uid: '139203'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '39202'
+    date_of_birth: 01 Feb 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '39205'
+    place_of_birth: Guasave, Sinaloa, Mexico
+    main_entry: 'true'

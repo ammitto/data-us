@@ -1,0 +1,43 @@
+---
+uid: '49293'
+last_name: SPECIAL DESIGN BUREAU OF ELECTRIC INSTRUMENT ENGINEERING LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76878'
+    type: a.k.a.
+    category: strong
+    last_name: SKB ELEKTROTEKHNICHESKOGO PRIBOROSTROENIYA
+  - uid: '76879'
+    type: a.k.a.
+    category: weak
+    last_name: SKB EP
+address_list:
+  items:
+  - uid: '74262'
+    address1: Ul Kokkolevkaya D. 1 Lit. A Pom. 42-N
+    city: Shushary
+    postal_code: '196140'
+    country: Russia
+  - uid: '74263'
+    address1: Ter. Pulkovskoe, Ul. Kokkolevskaya D. 1, Str. 1
+    address2: Pomeshch. 42-N
+    city: Shushary
+    postal_code: '196605'
+    country: Russia
+id_list:
+  items:
+  - uid: '40524'
+    id_type: Registration Number
+    id_number: '1033801751092'
+    id_country: Russia
+  - uid: '40525'
+    id_type: Tax ID No.
+    id_number: '3812045829'
+    id_country: Russia
+  - uid: '172311'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

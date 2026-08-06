@@ -1,0 +1,38 @@
+---
+uid: '36497'
+first_name: Sergei Pavlovich
+last_name: ROLDUGIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '57548'
+    type: a.k.a.
+    category: strong
+    last_name: ROLDUGIN
+    first_name: Sergey
+address_list:
+  items:
+  - uid: '54885'
+    city: Saint Petersburg
+    country: Russia
+id_list:
+  items:
+  - uid: '150269'
+    id_type: Gender
+    id_number: Male
+  - uid: '174238'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '50267'
+    date_of_birth: 28 Sep 1951
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '50268'
+    place_of_birth: Sakhalin Oblast, Russia
+    main_entry: 'true'

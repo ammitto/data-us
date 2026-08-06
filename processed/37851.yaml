@@ -1,0 +1,37 @@
+---
+uid: '37851'
+first_name: Elena Oduliovna
+last_name: SIERRA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '56720'
+    address1: 9 Universitetsky Pr 9 AP 357
+    city: Moscow
+    postal_code: '117295'
+    country: Russia
+id_list:
+  items:
+  - uid: '27149'
+    id_type: Passport
+    id_number: '511758917'
+    id_country: Russia
+  - uid: '174599'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '153004'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '53003'
+    date_of_birth: 26 Dec 1960
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '53006'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'

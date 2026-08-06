@@ -1,0 +1,51 @@
+---
+uid: '37506'
+first_name: Sergey Nikolaevich
+last_name: GORKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '58770'
+    type: a.k.a.
+    category: strong
+    last_name: GORKOV
+    first_name: Sergei Nikolayevich
+  - uid: '58771'
+    type: a.k.a.
+    category: strong
+    last_name: GORKOV
+    first_name: Sergey Nikolayevich
+  - uid: '58772'
+    type: a.k.a.
+    category: strong
+    last_name: GORKOV
+    first_name: Sergei Nikolaevich
+address_list:
+  items:
+  - uid: '56111'
+    country: Russia
+id_list:
+  items:
+  - uid: '26708'
+    id_type: Tax ID No.
+    id_number: '772900658791'
+    id_country: Russia
+  - uid: '173423'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '152380'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '52378'
+    date_of_birth: 01 Dec 1968
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '52379'
+    place_of_birth: Gay, Orenburg Region, Russia
+    main_entry: 'true'

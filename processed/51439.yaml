@@ -1,0 +1,36 @@
+---
+uid: '51439'
+last_name: KORPORATIVNAYA REGISTRATORSKAYA KOMPANIYA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80663'
+    type: a.k.a.
+    category: weak
+    last_name: KRK
+address_list:
+  items:
+  - uid: '78357'
+    address1: Ul. Vasilisy Kozhinoi D. 1, Et/Pom/Kom 4/I/75
+    city: Moscow
+    postal_code: '121096'
+    country: Russia
+id_list:
+  items:
+  - uid: '43769'
+    id_type: Registration Number
+    id_number: '1197746576125'
+    id_country: Russia
+  - uid: '43770'
+    id_type: Tax ID No.
+    id_number: '7730253529'
+    id_country: Russia
+  - uid: '182809'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '180953'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

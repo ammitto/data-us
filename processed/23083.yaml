@@ -1,0 +1,38 @@
+---
+uid: '23083'
+last_name: EXTERNAL CONSTRUCTION BUREAU
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK3
+aka_list:
+  items:
+  - uid: '36332'
+    type: a.k.a.
+    category: strong
+    last_name: EXTERNAL CONSTRUCTION GENERAL COMPANY
+  - uid: '36353'
+    type: a.k.a.
+    category: strong
+    last_name: EXTERNAL CONSTRUCTION GUIDANCE BUREAU
+address_list:
+  items:
+  - uid: '34848'
+    country: Korea, North
+  - uid: '34849'
+    country: Kuwait
+  - uid: '34850'
+    country: Qatar
+  - uid: '34851'
+    country: United Arab Emirates
+  - uid: '34852'
+    country: Oman
+id_list:
+  items:
+  - uid: '127283'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '135164'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214

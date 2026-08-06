@@ -1,0 +1,34 @@
+---
+uid: '47966'
+last_name: LIMITED LIABILITY COMPANY OKTYABR
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74428'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY OCTOBER
+address_list:
+  items:
+  - uid: '71848'
+    address1: 9 Luchistaya Street
+    city: Odintsovo
+    postal_code: '143085'
+    country: Russia
+id_list:
+  items:
+  - uid: '38798'
+    id_type: Tax ID No.
+    id_number: '5032308975'
+    id_country: Russia
+  - uid: '38799'
+    id_type: Registration Number
+    id_number: '1195081044454'
+    id_country: Russia
+  - uid: '176564'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: KOMAROV, Andrey Ilyich)"

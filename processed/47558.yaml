@@ -1,0 +1,38 @@
+---
+uid: '47558'
+last_name: KELDYSH INSTITUTE OF APPLIED MATHEMATICS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73629'
+    type: a.k.a.
+    category: weak
+    last_name: KIAM
+  - uid: '73784'
+    type: a.k.a.
+    category: strong
+    last_name: KELDYSH INSTITUTE OF APPLIED MATHEMATICS OF THE RUSSIAN ACADEMY OF
+      SCIENCES
+address_list:
+  items:
+  - uid: '71017'
+    address1: pl. Miusskaya, d. 4
+    city: Moscow
+    postal_code: '125047'
+    country: Russia
+id_list:
+  items:
+  - uid: '38078'
+    id_type: Tax ID No.
+    id_number: '7710063939'
+    id_country: Russia
+  - uid: '38079'
+    id_type: Registration Number
+    id_number: '1037739115787'
+    id_country: Russia
+  - uid: '169919'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

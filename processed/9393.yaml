@@ -1,0 +1,36 @@
+---
+uid: '9393'
+first_name: Abigail
+last_name: TAPIA ORTEGA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '8848'
+    type: a.k.a.
+    category: strong
+    last_name: TAPIA ORTEGA DE ARRIOLA
+    first_name: Abigail
+address_list:
+  items:
+  - uid: '11676'
+    address1: c/o GASOLINERAS SAN FERNANDO S.A. DE C.V.
+    city: Saucillo
+    country: Mexico
+  - uid: '11677'
+    address1: Avenida Novena No. 47
+    city: Saucillo
+    state_or_province: Chihuahua
+    country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '4368'
+    date_of_birth: 23 Sep 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '4369'
+    place_of_birth: Mexico City, Mexico
+    main_entry: 'true'

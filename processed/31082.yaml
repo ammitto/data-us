@@ -1,0 +1,53 @@
+---
+uid: '31082'
+first_name: Juan Manuel
+last_name: ABOUZAID EL BAYEH
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '48868'
+    type: a.k.a.
+    category: weak
+    last_name: El Arabe
+  - uid: '48869'
+    type: a.k.a.
+    category: weak
+    last_name: El Escorpion
+  - uid: '48870'
+    type: a.k.a.
+    category: weak
+    last_name: El Hermano
+  - uid: '48871'
+    type: a.k.a.
+    category: weak
+    last_name: Nene
+address_list:
+  items:
+  - uid: '46943'
+    country: Mexico
+id_list:
+  items:
+  - uid: '21087'
+    id_type: C.U.R.P.
+    id_number: AOBJ721024HJCBYN07
+    id_country: Mexico
+  - uid: '21088'
+    id_type: R.F.C.
+    id_number: AOEJ721024NM2
+    id_country: Mexico
+  - uid: '139349'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '39346'
+    date_of_birth: 24 Oct 1972
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '39347'
+    place_of_birth: Guadalajara, Jalisco, Mexico
+    main_entry: 'true'

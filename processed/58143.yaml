@@ -1,0 +1,35 @@
+---
+uid: '58143'
+first_name: Mariya Vladimirovna
+last_name: SELINA
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+address_list:
+  items:
+  - uid: '89292'
+    country: Russia
+id_list:
+  items:
+  - uid: '52714'
+    id_type: Tax ID No.
+    id_number: '711706408303'
+    id_country: Russia
+  - uid: '52715'
+    id_type: Passport
+    id_number: '766355168'
+    id_country: Russia
+  - uid: '199596'
+    id_type: Gender
+    id_number: Female
+  - uid: '199647'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '99597'
+    date_of_birth: 17 Feb 1985
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS)"

@@ -1,0 +1,48 @@
+---
+uid: '37665'
+last_name: FEDERAL SERVICE FOR MILITARY-TECHNICAL COOPERATION
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '59005'
+    type: a.k.a.
+    category: weak
+    last_name: FSVTS
+  - uid: '59006'
+    type: a.k.a.
+    category: weak
+    last_name: FSMTC
+address_list:
+  items:
+  - uid: '56324'
+    address1: Ovchinnikovskaya Nab., 18/1
+    city: Moscow
+    postal_code: '115035'
+    country: Russia
+id_list:
+  items:
+  - uid: '26888'
+    id_type: Tax ID No.
+    id_number: '7705513237'
+    id_country: Russia
+  - uid: '26889'
+    id_type: Registration Number
+    id_number: '1047705052427'
+    id_country: Russia
+  - uid: '152605'
+    id_type: Organization Established Date
+    id_number: 23 Aug 2004
+  - uid: '173444'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '153087'
+    id_type: Target Type
+    id_number: Government Entity
+  - uid: '184430'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

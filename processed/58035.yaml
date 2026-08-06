@@ -1,0 +1,37 @@
+---
+uid: '58035'
+first_name: Jose
+last_name: MORA LEON
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+address_list:
+  items:
+  - uid: '89115'
+    country: Mexico
+id_list:
+  items:
+  - uid: '52588'
+    id_type: C.U.R.P.
+    id_number: MOLJ780203HMNRNS00
+    id_country: Mexico
+  - uid: '199298'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '199295'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '99294'
+    date_of_birth: 03 Feb 1978
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '99297'
+    place_of_birth: Michoacan, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: CARTEL DE JALISCO NUEVA GENERACION)"

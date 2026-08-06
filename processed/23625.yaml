@@ -1,0 +1,59 @@
+---
+uid: '23625'
+first_name: Faqir
+last_name: MUHAMMAD
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '37262'
+    type: a.k.a.
+    category: strong
+    last_name: MUHAMMAD
+    first_name: Faqeer
+  - uid: '37263'
+    type: a.k.a.
+    category: strong
+    last_name: MOHAMMAD
+    first_name: Faqir
+  - uid: '37264'
+    type: a.k.a.
+    category: strong
+    last_name: ZEYAR
+    first_name: Faqir Mohammad
+address_list:
+  items:
+  - uid: '35757'
+    city: Bannu
+    country: Pakistan
+  - uid: '35758'
+    city: Lahore
+    country: Pakistan
+id_list:
+  items:
+  - uid: '125542'
+    id_type: Gender
+    id_number: Male
+  - uid: '186674'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '25526'
+    date_of_birth: '1968'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '25527'
+    place_of_birth: North Waziristan Agency, Pakistan
+    main_entry: 'true'
+  - uid: '25528'
+    place_of_birth: Federally Administered Tribal Areas, Pakistan
+    main_entry: 'false'
+  - uid: '25529'
+    place_of_birth: Khowst Province, Afghanistan
+    main_entry: 'false'
+remarks: "(Linked To: HAQQANI NETWORK)"

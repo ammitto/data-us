@@ -1,0 +1,38 @@
+---
+uid: '31933'
+first_name: Hein
+last_name: HTET
+sdn_type: Individual
+program_list:
+  programs:
+  - BURMA-EO14014
+aka_list:
+  items:
+  - uid: '50039'
+    type: a.k.a.
+    category: strong
+    last_name: HTET
+    first_name: U Hein
+  - uid: '50040'
+    type: a.k.a.
+    category: strong
+    last_name: HTET
+    first_name: Ivan
+address_list:
+  items:
+  - uid: '48034'
+    country: Burma
+id_list:
+  items:
+  - uid: '21739'
+    id_type: National ID No.
+    id_number: 12DAGANAN029901
+    id_country: Burma
+  - uid: '140565'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '40562'
+    date_of_birth: 06 Nov 1987
+    main_entry: 'true'

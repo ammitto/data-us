@@ -1,0 +1,38 @@
+---
+uid: '49176'
+last_name: LIMITED LIABILITY COMPANY VOLGOGRAD SHIP ENGINEERING PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76641'
+    type: a.k.a.
+    category: weak
+    last_name: VZSM
+  - uid: '76642'
+    type: a.k.a.
+    category: strong
+    last_name: VOLGOGRADSKII ZAVOD SUDOVOGO MASHINOSTROENIYA
+address_list:
+  items:
+  - uid: '74012'
+    address1: Ul. Im. Arsenyeva D.2
+    address2: Kabinet 17
+    city: Volgograd
+    postal_code: '400112'
+    country: Russia
+id_list:
+  items:
+  - uid: '40298'
+    id_type: Registration Number
+    id_number: '1193443012553'
+    id_country: Russia
+  - uid: '40299'
+    id_type: Tax ID No.
+    id_number: '3461065380'
+    id_country: Russia
+  - uid: '172121'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

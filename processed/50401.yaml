@@ -1,0 +1,30 @@
+---
+uid: '50401'
+last_name: CLOSED JOINT STOCK COMPANY SMM
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '76412'
+    address1: 1/64, Pereulok Grivtsova
+    city: Saint Petersburg
+    postal_code: '190000'
+    country: Russia
+id_list:
+  items:
+  - uid: '42177'
+    id_type: Registration Number
+    id_number: '1027810299505'
+    id_country: Russia
+  - uid: '42178'
+    id_type: Tax ID No.
+    id_number: '7826136294'
+    id_country: Russia
+  - uid: '178373'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '178533'
+    id_type: Organization Established Date
+    id_number: 03 Jun 2002

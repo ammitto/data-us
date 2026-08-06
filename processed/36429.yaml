@@ -1,0 +1,34 @@
+---
+uid: '36429'
+last_name: JOINT STOCK COMPANY UNITED CREDIT BUREAU
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '57405'
+    type: a.k.a.
+    category: weak
+    last_name: UCB JSC
+address_list:
+  items:
+  - uid: '54734'
+    address1: 9 B. Tatarskaya Street, floor 4, office 51
+    city: Moscow
+    postal_code: '115184'
+    country: Russia
+id_list:
+  items:
+  - uid: '25835'
+    id_type: Registration Number
+    id_number: '1047796788819'
+    id_country: Russia
+  - uid: '25836'
+    id_type: Tax ID No.
+    id_number: '7710561081'
+    id_country: Russia
+  - uid: '174210'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)"

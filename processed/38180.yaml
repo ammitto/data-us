@@ -1,0 +1,45 @@
+---
+uid: '38180'
+last_name: OPEN JOINT STOCK COMPANY SCIENTIFIC AND PRODUCTION ENTERPRISE PULSAR
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59923'
+    type: a.k.a.
+    category: strong
+    last_name: JSC NPP PULSAR
+  - uid: '59924'
+    type: a.k.a.
+    category: strong
+    last_name: JSC SPC PULSAR
+  - uid: '59925'
+    type: a.k.a.
+    category: strong
+    last_name: SPE PULSAR
+  - uid: '59926'
+    type: a.k.a.
+    category: strong
+    last_name: ENTERPRISE SPE PULSAR JSC
+address_list:
+  items:
+  - uid: '57213'
+    address1: Pass. Okruzhnoy, House 27
+    city: Moscow
+    postal_code: '105187'
+    country: Russia
+id_list:
+  items:
+  - uid: '27482'
+    id_type: Tax ID No.
+    id_number: '7719846490'
+    id_country: Russia
+  - uid: '27483'
+    id_type: Registration Number
+    id_number: '1137746472599'
+    id_country: Russia
+  - uid: '174651'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

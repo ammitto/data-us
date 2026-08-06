@@ -1,0 +1,28 @@
+---
+uid: '47843'
+last_name: LIMITED LIABILITY COMPANY PIK KORPORATSIYA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '71601'
+    address1: 19 Barrikadnaya Street, Building 1
+    city: Moscow
+    postal_code: '123242'
+    country: Russia
+id_list:
+  items:
+  - uid: '38568'
+    id_type: Tax ID No.
+    id_number: '7703255661'
+    id_country: Russia
+  - uid: '38569'
+    id_type: Registration Number
+    id_number: '1027739093843'
+    id_country: Russia
+  - uid: '176487'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: PUBLIC JOINT STOCK COMPANY PIK SPECIALIZED HOMEBUILDER)"

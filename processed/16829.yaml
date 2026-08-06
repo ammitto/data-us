@@ -1,0 +1,63 @@
+---
+uid: '16829'
+last_name: SMP BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13661
+aka_list:
+  items:
+  - uid: '25692'
+    type: a.k.a.
+    category: strong
+    last_name: SMP BANK OPEN JOINT STOCK COMPANY
+  - uid: '25693'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOYE OBSHCHESTVO BANK SEVERNY MORSKOY PUT
+  - uid: '55521'
+    type: a.k.a.
+    category: strong
+    last_name: AO SMP BANK
+  - uid: '55723'
+    type: a.k.a.
+    category: strong
+    last_name: SMP BANK, AO
+address_list:
+  items:
+  - uid: '25479'
+    address1: d. 71 k. 11, ul. Sadovnicheskaya Street
+    city: Moscow
+    postal_code: '115035'
+    country: Russia
+id_list:
+  items:
+  - uid: '25006'
+    id_type: Government Gazette Number
+    id_number: '56657657'
+    id_country: Russia
+  - uid: '25007'
+    id_type: Tax ID No.
+    id_number: '7750005482'
+    id_country: Russia
+  - uid: '25008'
+    id_type: Registration Number
+    id_number: '1097711000078'
+    id_country: Russia
+  - uid: '115452'
+    id_type: SWIFT/BIC
+    id_number: SMBKRUMM
+  - uid: '115453'
+    id_type: Website
+    id_number: www.smpbank.ru
+  - uid: '151189'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '147543'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '173846'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,41 @@
+---
+uid: '44019'
+first_name: Chunpeng
+last_name: SU
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+address_list:
+  items:
+  - uid: '66892'
+    country: China
+id_list:
+  items:
+  - uid: '33402'
+    id_type: Passport
+    id_number: G57293067
+    id_country: China
+    issue_date: 21 Dec 2011
+    expiration_date: 20 Dec 2021
+  - uid: '33403'
+    id_type: National ID No.
+    id_number: '370602198012102115'
+    id_country: China
+  - uid: '163588'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '163587'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '63584'
+    date_of_birth: 10 Dec 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '63585'
+    place_of_birth: Tai'an, China
+    main_entry: 'true'
+remarks: "(Linked To: SHENZHEN JIASIBO TECHNOLOGY CO., LTD.)"

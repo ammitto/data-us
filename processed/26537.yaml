@@ -1,0 +1,40 @@
+---
+uid: '26537'
+first_name: Reza Sakan
+last_name: DASTGIRI
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - SDGT
+address_list:
+  items:
+  - uid: '83169'
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '17188'
+    id_type: National ID No.
+    id_number: '2830283775'
+    id_country: Iran
+  - uid: '186870'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '190415'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '90357'
+    date_of_birth: '08 Aug 1978'
+    main_entry: 'true'
+  - uid: '90413'
+    date_of_birth: 23 Aug 1978
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '31048'
+    place_of_birth: Maku, Iran
+    main_entry: 'true'
+remarks: "(Linked To: ANSAR EXCHANGE; Linked To: BANK MELLI IRAN)"

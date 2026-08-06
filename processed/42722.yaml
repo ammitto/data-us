@@ -1,0 +1,43 @@
+---
+uid: '42722'
+last_name: STATE BUDGETARY EDUCATIONAL INSTITUTION OF HIGHER EDUCATION ALMETYEVSK
+  STATE OIL INSTITUTE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '66215'
+    type: a.k.a.
+    category: strong
+    last_name: ALMETYEVSK STATE OIL INSTITUTE
+  - uid: '66216'
+    type: a.k.a.
+    category: weak
+    last_name: GBOU VO AGNI
+address_list:
+  items:
+  - uid: '63719'
+    address1: ul. Lenina, d. 2
+    city: Almetyevsk
+    state_or_province: Republic of Tatarstan
+    postal_code: '423450'
+    country: Russia
+id_list:
+  items:
+  - uid: '32264'
+    id_type: Tax ID No.
+    id_number: '1644005183'
+    id_country: Russia
+  - uid: '32265'
+    id_type: Registration Number
+    id_number: '1021601629642'
+    id_country: Russia
+  - uid: '32266'
+    id_type: Government Gazette Number
+    id_number: '33861852'
+    id_country: Russia
+  - uid: '175453'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

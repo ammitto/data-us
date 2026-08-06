@@ -1,0 +1,69 @@
+---
+uid: '15953'
+last_name: NOURI PETROCHEMICAL COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+  - IRAN
+aka_list:
+  items:
+  - uid: '23892'
+    type: a.k.a.
+    category: strong
+    last_name: BORZUYEH PETROCHEMICAL COMPANY
+  - uid: '23893'
+    type: a.k.a.
+    category: strong
+    last_name: NOURI PETROCHEMICAL COMPLEX
+  - uid: '42385'
+    type: f.k.a.
+    category: strong
+    last_name: BORZOUYEH PETROCHEMICAL COMPANY
+  - uid: '42386'
+    type: a.k.a.
+    category: strong
+    last_name: NOURI PETROCHEMICAL CO
+  - uid: '42387'
+    type: a.k.a.
+    category: strong
+    last_name: NOURI PETROCHEMICAL
+  - uid: '42388'
+    type: a.k.a.
+    category: strong
+    last_name: NOURI PETROCHEMICAL COMPANY (LLP)
+address_list:
+  items:
+  - uid: '23974'
+    address1: Pars Special Economic Energy Zone
+    city: Assaluyeh Port
+    state_or_province: Bushehr
+    country: Iran
+  - uid: '40721'
+    address1: Nouri (Borzouyeh) Petrochemical Company, Pars Special Economy Zone
+    city: Assalouyeh
+    state_or_province: Bushehr
+    country: Iran
+  - uid: '40724'
+    address1: P.O.Box 75391-115
+    state_or_province: Bushehr
+    country: Iran
+  - uid: '40764'
+    address1: Pars Special Economy Energy Zone, Assalouyeh Port in the North Side
+      of Persian Gulf
+    state_or_province: Bushehr
+    country: Iran
+id_list:
+  items:
+  - uid: '17490'
+    id_type: National ID No.
+    id_number: '941'
+    id_country: Iran
+  - uid: '131612'
+    id_type: Website
+    id_number: www.bpciran.com
+  - uid: '119055'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: PERSIAN GULF PETROCHEMICAL INDUSTRY CO.)"

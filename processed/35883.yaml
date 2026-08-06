@@ -1,0 +1,41 @@
+---
+uid: '35883'
+last_name: JSC RAWENSTVO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56404'
+    type: a.k.a.
+    category: strong
+    last_name: AO RAVENSTVO
+  - uid: '56405'
+    type: a.k.a.
+    category: strong
+    last_name: SC RAWENSTVO
+address_list:
+  items:
+  - uid: '53848'
+    address1: Ul. Promyshlennaya D. 19
+    city: Saint Petersburg
+    postal_code: '198099'
+    country: Russia
+id_list:
+  items:
+  - uid: '25221'
+    id_type: Registration Number
+    id_number: '1069847101169'
+    id_country: Russia
+  - uid: '25222'
+    id_type: Tax ID No.
+    id_number: '7805395957'
+    id_country: Russia
+  - uid: '149076'
+    id_type: Organization Established Date
+    id_number: 24 Mar 1988
+  - uid: '173278'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: JOINT STOCK COMPANY CONCERN GRANIT-ELECTRON)"

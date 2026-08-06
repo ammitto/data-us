@@ -1,0 +1,37 @@
+---
+uid: '47712'
+last_name: VOSTOCHNAYA STEVEDORING COMPANY LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73956'
+    type: a.k.a.
+    category: weak
+    last_name: VSC
+  - uid: '73957'
+    type: a.k.a.
+    category: weak
+    last_name: OOO VSK
+address_list:
+  items:
+  - uid: '71340'
+    address1: 14a, ul. Vnutriportovaya. Vrangel-1
+    city: Nakhodka
+    postal_code: '692941'
+    country: Russia
+id_list:
+  items:
+  - uid: '38353'
+    id_type: Registration Number
+    id_number: '1042501609039'
+    id_country: Russia
+  - uid: '38354'
+    id_type: Tax ID No.
+    id_number: '2508064833'
+    id_country: Russia
+  - uid: '176422'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

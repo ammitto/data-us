@@ -1,0 +1,32 @@
+---
+uid: '50669'
+first_name: Edward Miguel
+last_name: BRICENO CISNEROS
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+address_list:
+  items:
+  - uid: '76826'
+    city: Caracas
+    country: Venezuela
+id_list:
+  items:
+  - uid: '42528'
+    id_type: Cedula No.
+    id_number: '17514632'
+    id_country: Venezuela
+  - uid: '179120'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '79116'
+    date_of_birth: 11 Mar 1986
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '79117'
+    place_of_birth: Caracas, Venezuela
+    main_entry: 'true'

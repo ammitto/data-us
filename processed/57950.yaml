@@ -1,0 +1,40 @@
+---
+uid: '57950'
+first_name: Amir Navai
+last_name: LAVASANI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '88918'
+    country: Iran
+id_list:
+  items:
+  - uid: '52466'
+    id_type: National ID No.
+    id_number: '0054082951'
+    id_country: Iran
+  - uid: '52504'
+    id_type: Passport
+    id_number: K54424834
+    id_country: Iran
+    expiration_date: 06 Sep 2026
+  - uid: '198910'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '198871'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '98872'
+    date_of_birth: 06 Sep 1970
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '98874'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: LAVASANI AND PARTNERS GENERAL PARTNERSHIP COMPANY)"

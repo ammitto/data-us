@@ -1,0 +1,36 @@
+---
+uid: '52058'
+first_name: Elena
+last_name: FEDKINA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '79393'
+    city: Shanghai
+    country: China
+id_list:
+  items:
+  - uid: '44892'
+    id_type: Passport
+    id_number: '761827549'
+    id_country: Russia
+    expiration_date: 28 Oct 2029
+  - uid: '182781'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '182782'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '82784'
+    date_of_birth: 31 May 1993
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '82785'
+    place_of_birth: Lipetsk, Russia
+    main_entry: 'true'

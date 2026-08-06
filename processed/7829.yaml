@@ -1,0 +1,46 @@
+---
+uid: '7829'
+first_name: Chiheb Ben Mohamed
+last_name: AYARI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '6640'
+    type: a.k.a.
+    category: weak
+    last_name: HICHEM ABU HCHEM
+  - uid: '8862'
+    type: a.k.a.
+    category: strong
+    last_name: AL-AYARI
+    first_name: Chiheb Ben Mohamed Ben Mokhtar
+address_list:
+  items:
+  - uid: '6741'
+    address1: Via di Saliceto n.51/9
+    city: Bologna
+    country: Italy
+id_list:
+  items:
+  - uid: '4073'
+    id_type: Passport
+    id_number: L246084
+    issue_date: 10 Jun 1996
+    expiration_date: '09 Jun 2001'
+  - uid: '185719'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '2034'
+    date_of_birth: 19 Dec 1965
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '2035'
+    place_of_birth: Tunis, Tunisia
+    main_entry: 'true'

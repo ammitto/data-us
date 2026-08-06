@@ -1,0 +1,55 @@
+---
+uid: '36409'
+last_name: SOVREMENNYE TEKHNOLOGII LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '57346'
+    type: a.k.a.
+    category: strong
+    last_name: SOVREMENNYE TEKHNOLOGII LLC
+  - uid: '57347'
+    type: a.k.a.
+    category: strong
+    last_name: SOVREMENNYE TEKHNOLOGII
+  - uid: '90071'
+    type: a.k.a.
+    category: weak
+    last_name: MODERN TECHNOLOGIES LIMITED LIABILITY COMPANY
+  - uid: '90072'
+    type: a.k.a.
+    category: weak
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU SOVREMENNYE TEKHNOLOGII
+address_list:
+  items:
+  - uid: '54693'
+    address1: 12a Vtoroy Yuzhnoportovy Drive, b. 1/6
+    city: Moscow
+    postal_code: '115432'
+    country: Russia
+id_list:
+  items:
+  - uid: '25800'
+    id_type: Registration Number
+    id_number: '1037708040468'
+    id_country: Russia
+  - uid: '25801'
+    id_type: Tax ID No.
+    id_number: '7708229993'
+    id_country: Russia
+  - uid: '199898'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '174195'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '199897'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 1
+remarks: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)'

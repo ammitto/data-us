@@ -1,0 +1,49 @@
+---
+uid: '27192'
+last_name: TRUST LIFE INSURANCE COMPANY S.A.L.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '43055'
+    type: a.k.a.
+    category: strong
+    last_name: TRUST LIFE INSURANCE CO SAL
+  - uid: '43056'
+    type: a.k.a.
+    category: strong
+    last_name: TRUST LIFE
+address_list:
+  items:
+  - uid: '41330'
+    address1: JTB Tower
+    address2: Tahweeta High Way, Elias Hraoui Avenue
+    city: Beirut
+    country: Lebanon
+  - uid: '41331'
+    address1: Jamal Trust Bank Building
+    city: Beirut
+    country: Lebanon
+  - uid: '41332'
+    city: Beirut
+    country: Lebanon
+id_list:
+  items:
+  - uid: '23076'
+    id_type: Registration Number
+    id_number: '77138'
+    id_country: Lebanon
+  - uid: '132268'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
+      Sanctions Regulations
+  - uid: '186926'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '144167'
+    id_type: Organization Established Date
+    id_number: 16 Aug 2001
+remarks: "(Linked To: JAMMAL TRUST BANK S.A.L.)"

@@ -1,0 +1,39 @@
+---
+uid: '51809'
+last_name: CORPORATE FINANCE BANK LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '78954'
+    address1: 2/10, Build., St. Krasnaya Presnya, 24
+    city: Moscow
+    postal_code: '123376'
+    country: Russia
+id_list:
+  items:
+  - uid: '44470'
+    id_type: Legal Entity Number
+    id_number: 2534003AVNMLD4D2KU43
+  - uid: '44471'
+    id_type: Registration Number
+    id_number: '1027739542050'
+    id_country: Russia
+  - uid: '44472'
+    id_type: Tax ID No.
+    id_number: '7704111969'
+    id_country: Russia
+  - uid: '182099'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '182097'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '182094'
+    id_type: SWIFT/BIC
+    id_number: FABARUMM
+  - uid: '182092'
+    id_type: Website
+    id_number: www.cfb.ru

@@ -1,0 +1,45 @@
+---
+uid: '15860'
+first_name: Gerardo
+last_name: FERNANDEZ DE LUNA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '23803'
+    address1: Calle Zaragoza No. 105
+    address2: Centro
+    city: Morelos
+    state_or_province: Coahuila
+    country: Mexico
+  - uid: '23809'
+    city: Allende
+    state_or_province: Coahuila
+    country: Mexico
+  - uid: '23810'
+    city: Morelos
+    state_or_province: Coahuila
+    country: Mexico
+id_list:
+  items:
+  - uid: '8597'
+    id_type: C.U.R.P.
+    id_number: FELG570718HCLRNR04
+    id_country: Mexico
+  - uid: '8598'
+    id_type: R.F.C.
+    id_number: FELG570718192
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '13347'
+    date_of_birth: 18 Jul 1957
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '13346'
+    place_of_birth: Coahuila, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: COMPANIA GANADERA 5 MANANTIALES S. DE P.R. DE R.L.)"

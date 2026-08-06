@@ -1,0 +1,37 @@
+---
+uid: '50840'
+last_name: STAR OCEAN SHIPMANAGE LTD
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '77185'
+    address1: Room 1706A, 17th Floor, Building A, World Trade Tower 6
+    address2: Xianggang Zhonglu, Shinan Qu
+    city: Qingdao
+    state_or_province: Shandong
+    country: China
+  - uid: '77186'
+    address1: Trust Company Complex, Ajeltake Road
+    city: Majuro
+    state_or_province: Ajeltake Island
+    country: Marshall Islands
+id_list:
+  items:
+  - uid: '42796'
+    id_type: Identification Number
+    id_number: IMO 6272611
+  - uid: '42798'
+    id_type: Registration Number
+    id_number: '111373'
+    id_country: Marshall Islands
+  - uid: '179514'
+    id_type: Organization Established Date
+    id_number: 20 Oct 2021
+  - uid: '179512'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS)"

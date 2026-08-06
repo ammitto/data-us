@@ -1,0 +1,50 @@
+---
+uid: '50642'
+first_name: Dzhamaldin Emirmagomedovich
+last_name: PASHAEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79255'
+    type: a.k.a.
+    category: strong
+    last_name: PASHAEV
+    first_name: Jamaldin
+address_list:
+  items:
+  - uid: '76793'
+    country: Russia
+id_list:
+  items:
+  - uid: '42513'
+    id_type: Passport
+    id_number: '75310706'
+    id_country: Russia
+    expiration_date: 19 Aug 2026
+  - uid: '42514'
+    id_type: Tax ID No.
+    id_number: '050401178868'
+    id_country: Russia
+  - uid: '42515'
+    id_type: National ID No.
+    id_number: '8210968204'
+    id_country: Russia
+  - uid: '179086'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '179085'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '79082'
+    date_of_birth: 10 Mar 1966
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '79083'
+    place_of_birth: S. Akhty, Russia
+    main_entry: 'true'

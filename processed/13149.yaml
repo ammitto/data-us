@@ -1,0 +1,42 @@
+---
+uid: '13149'
+first_name: Ovidio
+last_name: GUZMAN LOPEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '45328'
+    type: a.k.a.
+    category: weak
+    last_name: El Raton
+  - uid: '45331'
+    type: a.k.a.
+    category: weak
+    last_name: Raton Nuevo
+address_list:
+  items:
+  - uid: '21014'
+    country: Mexico
+id_list:
+  items:
+  - uid: '7641'
+    id_type: C.U.R.P.
+    id_number: GULO900329HSLZPV09
+    id_country: Mexico
+  - uid: '134803'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '9021'
+    date_of_birth: 29 Mar 1990
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '9024'
+    place_of_birth: Culiacan, Sinaloa, Mexico
+    main_entry: 'true'

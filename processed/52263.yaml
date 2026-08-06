@@ -1,0 +1,36 @@
+---
+uid: '52263'
+first_name: Tianfeng
+last_name: GUAN
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+address_list:
+  items:
+  - uid: '79828'
+    address1: Chengdu City High-Tech Zone, Tianfu Avenue North Section, Annex 18,
+      Number 5
+    city: Chengdu
+    state_or_province: Sichuan
+    country: China
+id_list:
+  items:
+  - uid: '45218'
+    id_type: National ID No.
+    id_number: '441702199401071411'
+    id_country: China
+  - uid: '183235'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '83234'
+    date_of_birth: 07 Jan 1994
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '83621'
+    place_of_birth: Jiangcheng District, Yangjiang Municipality, Guangdong Province,
+      China
+    main_entry: 'true'

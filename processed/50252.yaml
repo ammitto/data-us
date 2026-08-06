@@ -1,0 +1,44 @@
+---
+uid: '50252'
+first_name: Elena Vladimirovna
+last_name: TITOVA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78466'
+    type: a.k.a.
+    category: strong
+    last_name: TSITOVA
+    first_name: Alena Uladzimirauna
+address_list:
+  items:
+  - uid: '76087'
+    address1: Apt 62 St. Bogatyreva 131
+    city: Rogachev City
+    state_or_province: Gomel Region
+    country: Belarus
+id_list:
+  items:
+  - uid: '41921'
+    id_type: National ID No.
+    id_number: 4101176M005PB3
+    id_country: Belarus
+  - uid: '177917'
+    id_type: Gender
+    id_number: Female
+  - uid: '178013'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '77914'
+    date_of_birth: 10 Nov 1976
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '77915'
+    place_of_birth: Village Lubonichi, Kirovsky, Mogilev Region, Belarus
+    main_entry: 'true'

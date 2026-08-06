@@ -1,0 +1,52 @@
+---
+uid: '23650'
+first_name: Abbas
+last_name: EBERAHIM
+sdn_type: Individual
+program_list:
+  programs:
+  - TCO
+aka_list:
+  items:
+  - uid: '37363'
+    type: a.k.a.
+    category: weak
+    last_name: BASU
+address_list:
+  items:
+  - uid: '35807'
+    address1: 43 Walana Cres
+    city: Kooringal
+    state_or_province: NSW
+    postal_code: '2650'
+    country: Australia
+  - uid: '35808'
+    address1: Golden Triangle Special Economic Zone
+    state_or_province: Bokeo
+    country: Laos
+  - uid: '35809'
+    address1: 292 Moo 1 Wiang
+    address2: Chiang Saen District
+    city: Chiang Rai
+    postal_code: '57150'
+    country: Thailand
+id_list:
+  items:
+  - uid: '15123'
+    id_type: Passport
+    id_number: N2315963
+    id_country: Australia
+  - uid: '125619'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '25616'
+    date_of_birth: 11 Sep 1949
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '25617'
+    place_of_birth: Malaysia
+    main_entry: 'true'
+remarks: "(Linked To: ZHAO WEI TCO)"

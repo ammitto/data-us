@@ -1,0 +1,28 @@
+---
+uid: '35845'
+last_name: STATE DUMA OF THE FEDERAL ASSEMBLY OF THE RUSSIAN FEDERATION
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '54011'
+    address1: Okhotny Ryad, 1
+    city: Moscow
+    postal_code: '103265'
+    country: Russia
+id_list:
+  items:
+  - uid: '149254'
+    id_type: Website
+    id_number: http://www.duma.gov.ru/
+  - uid: '173245'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '149256'
+    id_type: 'Organization Type:'
+    id_number: General public administration activities
+  - uid: '149255'
+    id_type: Target Type
+    id_number: Government Entity

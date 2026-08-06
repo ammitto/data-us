@@ -1,0 +1,35 @@
+---
+uid: '50376'
+first_name: Grigoriy Aleksandrovich
+last_name: GUROV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '76365'
+    country: Russia
+id_list:
+  items:
+  - uid: '42134'
+    id_type: Tax ID No.
+    id_number: '263515975663'
+    id_country: Russia
+  - uid: '178354'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '178348'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '78344'
+    date_of_birth: 31 Oct 1985
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '78347'
+    place_of_birth: Stavropol, Russia
+    main_entry: 'true'
+remarks: "(Linked To: ALL RUSSIAN PUBLIC STATE MOVEMENT OF CHILDREN AND YOUTH)"

@@ -1,0 +1,38 @@
+---
+uid: '48841'
+last_name: JOINT STOCK COMPANY IPN STANKOSTROENIE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76037'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO IPN STANKOSTROENIE
+  - uid: '76038'
+    type: a.k.a.
+    category: strong
+    last_name: AO IPN STANKOSTROENIE
+address_list:
+  items:
+  - uid: '73439'
+    address1: Ul. 3-ya yamskogo polya D. 2
+    address2: K. 26
+    city: Moscow
+    postal_code: '125124'
+    country: Russia
+id_list:
+  items:
+  - uid: '39898'
+    id_type: Tax ID No.
+    id_number: '7457008611'
+    id_country: Russia
+  - uid: '39899'
+    id_type: Registration Number
+    id_number: '1177456104638'
+    id_country: Russia
+  - uid: '176646'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

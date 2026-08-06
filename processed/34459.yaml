@@ -1,0 +1,42 @@
+---
+uid: '34459'
+first_name: Vladimir Leonidovich
+last_name: SIVKOVICH
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '53950'
+    type: a.k.a.
+    category: strong
+    last_name: SIVKOVYCH
+    first_name: Volodymyr
+address_list:
+  items:
+  - uid: '51623'
+    country: Ukraine
+id_list:
+  items:
+  - uid: '24081'
+    id_type: Passport
+    id_number: DP002778
+    id_country: Ukraine
+  - uid: '175121'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '145807'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '45773'
+    date_of_birth: 17 Sep 1960
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '45774'
+    place_of_birth: Ostraya Mogila Village, Stravishchesnkiy Rayon, Kiyevskaya Oblast,
+      Ukraine
+    main_entry: 'true'

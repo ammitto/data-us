@@ -1,0 +1,40 @@
+---
+uid: '43134'
+last_name: LIMITED LIABILITY COMPANY DEVICE CONSULTING
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '66870'
+    type: a.k.a.
+    category: strong
+    last_name: DEVAIS KONSALTING OOO
+  - uid: '66871'
+    type: a.k.a.
+    category: strong
+    last_name: DEVICE CONSULTING CO. LTD.
+address_list:
+  items:
+  - uid: '64373'
+    address1: 6A Aerodromnaya St., Office 45
+    city: Saint Petersburg
+    postal_code: '197348'
+    country: Russia
+id_list:
+  items:
+  - uid: '32743'
+    id_type: Registration Number
+    id_number: '1027807571550'
+    id_country: Russia
+  - uid: '32744'
+    id_type: Tax ID No.
+    id_number: '7814128203'
+    id_country: Russia
+  - uid: '175555'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '162127'
+    id_type: Organization Established Date
+    id_number: 30 Oct 2002

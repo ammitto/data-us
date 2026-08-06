@@ -1,0 +1,42 @@
+---
+uid: '21096'
+last_name: GRUPO GASOLINERO COJIM, S.A. DE C.V.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '33475'
+    type: a.k.a.
+    category: strong
+    last_name: GRUPO COJIM, S.A. DE C.V.
+address_list:
+  items:
+  - uid: '32094'
+    city: Guadalajara
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '32095'
+    address1: KM 39 700 Carretera Jalostotitlan
+    address2: San Julian
+    city: San Miguel El Alto
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '32096'
+    address1: Carretera Jalostotitlan San Julian KM 39.70
+    city: San Miguel El Alto
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '32097'
+    address1: KM 1.5 Carretera San Julian a San Miguel El Alto
+    city: San Julian
+    state_or_province: Jalisco
+    postal_code: '47140'
+    country: Mexico
+id_list:
+  items:
+  - uid: '13210'
+    id_type: Folio Mercantil No.
+    id_number: 79563 (Jalisco)
+    id_country: Mexico

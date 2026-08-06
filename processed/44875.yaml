@@ -1,0 +1,41 @@
+---
+uid: '44875'
+last_name: JOINT STOCK COMPANY SPECIAL ECONOMIC ZONE TECHNOPOLIS MOSCOW
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69409'
+    type: a.k.a.
+    category: strong
+    last_name: JSC SEZ TECHNOPOLIS MOSCOW
+  - uid: '69410'
+    type: f.k.a.
+    category: strong
+    last_name: SEZ ZELENOGRAD
+  - uid: '69411'
+    type: f.k.a.
+    category: strong
+    last_name: TVZ ZELENOGRAD
+address_list:
+  items:
+  - uid: '66780'
+    address1: Per. Pechatnikov D. 12
+    city: Moscow
+    postal_code: '107045'
+    country: Russia
+id_list:
+  items:
+  - uid: '34484'
+    id_type: Registration Number
+    id_number: '1157746364060'
+    id_country: Russia
+  - uid: '34485'
+    id_type: Tax ID No.
+    id_number: '7735143008'
+    id_country: Russia
+  - uid: '175831'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

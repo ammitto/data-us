@@ -1,0 +1,35 @@
+---
+uid: '49262'
+last_name: LIMITED LIABILITY COMPANY MILITARY TRANSPORTATION
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76813'
+    type: a.k.a.
+    category: strong
+    last_name: VOENNYYE PEREVOZKI OOO
+address_list:
+  items:
+  - uid: '74194'
+    address1: Per. Malyi Sukharevskii D. 9
+    address2: Str. 1
+    address3: Pomeshch. 11/1/2 RM9
+    city: Moscow
+    postal_code: '127051'
+    country: Russia
+id_list:
+  items:
+  - uid: '40469'
+    id_type: Registration Number
+    id_number: '5137746100729'
+    id_country: Russia
+  - uid: '40470'
+    id_type: Tax ID No.
+    id_number: '7702826697'
+    id_country: Russia
+  - uid: '172249'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

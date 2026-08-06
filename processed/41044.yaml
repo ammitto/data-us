@@ -1,0 +1,42 @@
+---
+uid: '41044'
+first_name: Mikhail Vladimirovich
+last_name: DEGTYAREV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63993'
+    type: a.k.a.
+    category: strong
+    last_name: DEGTYARYOV
+    first_name: Mikhail Vladimirovich
+address_list:
+  items:
+  - uid: '61328'
+    state_or_province: Khabarovsk Region
+    country: Russia
+  - uid: '61329'
+    city: Sevastopol
+    state_or_province: Crimea
+    country: Ukraine
+id_list:
+  items:
+  - uid: '158872'
+    id_type: Gender
+    id_number: Male
+  - uid: '173577'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '58871'
+    date_of_birth: 10 Jul 1981
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '58870'
+    place_of_birth: Samara, Samara Region, Russia
+    main_entry: 'true'

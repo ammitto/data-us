@@ -1,0 +1,37 @@
+---
+uid: '35843'
+first_name: Ibrahim Ali
+last_name: ALHASSAN
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '53768'
+    state_or_province: Abu Dhabi
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '25161'
+    id_type: Passport
+    id_number: A04687854
+    id_country: Nigeria
+  - uid: '149001'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '148990'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '48989'
+    date_of_birth: 31 Jan 1981
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '48994'
+    place_of_birth: Nigeria
+    main_entry: 'true'
+remarks: "(Linked To: BOKO HARAM)"

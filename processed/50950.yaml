@@ -1,0 +1,35 @@
+---
+uid: '50950'
+first_name: Ahmet Furgan
+last_name: ALBAYRAK
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '77399'
+    country: Turkey
+id_list:
+  items:
+  - uid: '42961'
+    id_type: National ID No.
+    id_number: '19906311370'
+    id_country: Turkey
+  - uid: '180634'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '179772'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '79773'
+    date_of_birth: 29 Apr 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '79774'
+    place_of_birth: Amasya, Turkey
+    main_entry: 'true'
+remarks: "(Linked To: SANLITUN YATIRIM DIS TICARET LIMITED SIRKETI)"

@@ -1,0 +1,31 @@
+---
+uid: '11948'
+first_name: Luis
+last_name: REYES ENRIQUEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '18137'
+    country: Mexico
+id_list:
+  items:
+  - uid: '6339'
+    id_type: C.U.R.P.
+    id_number: REEL730621HVZYNS07
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '7525'
+    date_of_birth: 21 Jun 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '7526'
+    place_of_birth: Veracruz
+    main_entry: 'true'
+  - uid: '7527'
+    place_of_birth: Molango de Escamilla, Hidalgo
+    main_entry: 'false'

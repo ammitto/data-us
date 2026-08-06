@@ -1,0 +1,41 @@
+---
+uid: '19136'
+first_name: Ruben
+last_name: LAREDO DONJUAN
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '29202'
+    address1: Sn Francisco 471
+    address2: Santa Ana Zicatecoyan
+    city: Tlatlaya
+    state_or_province: Estado de Mexico
+    postal_code: C.P. 51571
+    country: Mexico
+id_list:
+  items:
+  - uid: '11423'
+    id_type: C.U.R.P.
+    id_number: LADR740902HGRRNB14
+    id_country: Mexico
+  - uid: '11424'
+    id_type: R.F.C.
+    id_number: LADR7409021W3
+    id_country: Mexico
+  - uid: '118754'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '18751'
+    date_of_birth: 02 Sep 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '18752'
+    place_of_birth: General Heliodoro Castillo, Guerrero, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: LAREDO DRUG TRAFFICKING ORGANIZATION)"

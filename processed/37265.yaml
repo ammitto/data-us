@@ -1,0 +1,41 @@
+---
+uid: '37265'
+first_name: Alvaro
+last_name: RAMOS ACOSTA
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '58404'
+    type: a.k.a.
+    category: weak
+    last_name: Alvaro Arroz Ramos
+address_list:
+  items:
+  - uid: '55722'
+    address1: Calle Privada Homero Numero 3
+    address2: Fraccionamiento El Greco
+    city: Nogales
+    state_or_province: Sonora
+    country: Mexico
+id_list:
+  items:
+  - uid: '26552'
+    id_type: C.U.R.P.
+    id_number: RAAA760331HSRMCL00
+    id_country: Mexico
+  - uid: '151772'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '51769'
+    date_of_birth: 31 Mar 1976
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '51770'
+    place_of_birth: Sonora, Mexico
+    main_entry: 'true'

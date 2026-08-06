@@ -1,0 +1,65 @@
+---
+uid: '26398'
+first_name: Corneille Yobeluo
+last_name: NANGAA
+sdn_type: Individual
+program_list:
+  programs:
+  - DRCONGO
+aka_list:
+  items:
+  - uid: '41613'
+    type: a.k.a.
+    category: strong
+    last_name: YOBELUO
+    first_name: Corneille Nangaa
+address_list:
+  items:
+  - uid: '40020'
+    address1: Boulevard Biangala
+    address2: No. 36 Q
+    address3: Salongo Sud C, Lemba
+    city: Kinshasa
+    country: Congo, Democratic Republic of the
+  - uid: '75177'
+    state_or_province: North Kivu
+    country: Congo, Democratic Republic of the
+  - uid: '75178'
+    country: Uganda
+  - uid: '75179'
+    address1: 34 Tshatshi Avenue
+    address2: Gombe
+    city: Kinshasa
+    country: Congo, Democratic Republic of the
+id_list:
+  items:
+  - uid: '41218'
+    id_type: Passport
+    id_number: OP1097934
+    id_country: Congo, Democratic Republic of the
+    expiration_date: 24 Jun 2027
+  - uid: '41224'
+    id_type: Passport
+    id_number: DP0000149
+    id_country: Congo, Democratic Republic of the
+    issue_date: 12 Jan 2016
+    expiration_date: 11 Jan 2021
+  - uid: '41225'
+    id_type: Passport
+    id_number: DP0003850
+    id_country: Congo, Democratic Republic of the
+    issue_date: 20 Nov 2017
+    expiration_date: 19 Nov 2022
+  - uid: '130830'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '30828'
+    date_of_birth: '09 Jul 1970'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '30829'
+    place_of_birth: Bagboya, Haut-Uele, Congo, Democratic Republic of the
+    main_entry: 'true'

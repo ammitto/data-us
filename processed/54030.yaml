@@ -1,0 +1,49 @@
+---
+uid: '54030'
+first_name: Forough
+last_name: MODARRES FATHI
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '84135'
+    type: a.k.a.
+    category: strong
+    last_name: MODARES FATHI
+    first_name: Forough
+  - uid: '84136'
+    type: a.k.a.
+    category: strong
+    last_name: MODARRES FATHI
+    first_name: Forugh
+address_list:
+  items:
+  - uid: '82446'
+    city: Isfahan
+    country: Iran
+id_list:
+  items:
+  - uid: '47469'
+    id_type: Passport
+    id_number: I62009245
+    id_country: Iran
+    expiration_date: 29 Feb 2028
+  - uid: '47470'
+    id_type: National ID No.
+    id_number: '1286411351'
+    id_country: Iran
+  - uid: '189288'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '189287'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '89285'
+    date_of_birth: 29 Aug 1950
+    main_entry: 'true'
+remarks: "(Linked To: SAMAN TEJARAT BARMAN TRADING COMPANY)"

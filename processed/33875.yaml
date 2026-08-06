@@ -1,0 +1,47 @@
+---
+uid: '33875'
+first_name: Sinisa
+last_name: NEDELJKOVIC
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '53595'
+    type: a.k.a.
+    category: weak
+    last_name: NEDELJKOVIC, Sinis
+  - uid: '53596'
+    type: a.k.a.
+    category: weak
+    last_name: METAL, Senisa
+  - uid: '53597'
+    type: a.k.a.
+    category: weak
+    last_name: NEDELJKOVIC, Sinisa Stevan
+address_list:
+  items:
+  - uid: '51243'
+    address1: Kral Petar Street
+    city: Zvecan
+    country: Kosovo
+id_list:
+  items:
+  - uid: '23843'
+    id_type: Identification Number
+    id_number: '1501722452'
+  - uid: '145367'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '44878'
+    date_of_birth: 26 Mar 1970
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '45403'
+    place_of_birth: Zvecan, Kosovo
+    main_entry: 'true'
+remarks: "(Linked To: VESELINOVIC, Zvonko)"

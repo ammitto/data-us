@@ -1,0 +1,40 @@
+---
+uid: '48847'
+last_name: LIMITED LIABILITY COMPANY PROFFLAB
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76055'
+    type: a.k.a.
+    category: strong
+    last_name: PROFFLAB LIMITED LIABILITY COMPANY
+  - uid: '76056'
+    type: a.k.a.
+    category: strong
+    last_name: LLC PROFFLAB
+  - uid: '76057'
+    type: a.k.a.
+    category: strong
+    last_name: OSOO PROFFLAB
+address_list:
+  items:
+  - uid: '73453'
+    address1: 2, 179 Toktogula
+    city: Bishkek
+    country: Kyrgyzstan
+id_list:
+  items:
+  - uid: '39908'
+    id_type: Tax ID No.
+    id_number: '01703202210047'
+    id_country: Kyrgyzstan
+  - uid: '39909'
+    id_type: Registration Number
+    id_number: 204218-3300-OOO
+    id_country: Kyrgyzstan
+  - uid: '171528'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

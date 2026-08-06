@@ -1,0 +1,41 @@
+---
+uid: '47929'
+last_name: JSC POLAR MARINE GEOSURVEY EXPEDITION
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74359'
+    type: a.k.a.
+    category: strong
+    last_name: AKTCIONERNOE OBSHESTVO POLYARNAYA MORSKAYA GEOLOGORAZVEDOCHNAYA EKSPEDITCIYA
+  - uid: '74360'
+    type: a.k.a.
+    category: weak
+    last_name: PMGE AO
+  - uid: '74361'
+    type: a.k.a.
+    category: weak
+    last_name: PMGRE AO
+address_list:
+  items:
+  - uid: '71766'
+    address1: d.24 litera A, ul. Pobedy
+    city: Saint Petersburg
+    postal_code: '198412'
+    country: Russia
+id_list:
+  items:
+  - uid: '38725'
+    id_type: Registration Number
+    id_number: '1177847002354'
+    id_country: Russia
+  - uid: '38726'
+    id_type: Tax ID No.
+    id_number: '7810639976'
+    id_country: Russia
+  - uid: '176545'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

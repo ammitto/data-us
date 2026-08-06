@@ -1,0 +1,71 @@
+---
+uid: '10044'
+first_name: Sobhi Mahmoud
+last_name: FAYAD
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '9764'
+    type: a.k.a.
+    category: strong
+    last_name: FAYADH
+    first_name: Sobhi Mahmoud
+  - uid: '9765'
+    type: a.k.a.
+    category: strong
+    last_name: FAYYAD
+    first_name: Subhi Mahmud
+  - uid: '9766'
+    type: a.k.a.
+    category: strong
+    last_name: FAYAD
+    first_name: Soubi Mamout
+address_list:
+  items:
+  - uid: '13248'
+    address1: 315, Piso 3, Galeria Page
+    city: Ciudad del Este
+    country: Paraguay
+id_list:
+  items:
+  - uid: '4633'
+    id_type: Passport
+    id_number: '1035562'
+    id_country: Paraguay
+  - uid: '4634'
+    id_type: Passport
+    id_number: '220705'
+    id_country: Paraguay
+  - uid: '4635'
+    id_type: Passport
+    id_number: '189103'
+    id_country: Paraguay
+  - uid: '4636'
+    id_type: Passport
+    id_number: '142517'
+    id_country: Paraguay
+  - uid: '4637'
+    id_type: Passport
+    id_number: '002301585'
+    id_country: Paraguay
+  - uid: '120172'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
+      Sanctions Regulations
+  - uid: '186291'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '5170'
+    date_of_birth: 20 Aug 1965
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '5171'
+    place_of_birth: Al-Taybe, Lebanon
+    main_entry: 'true'

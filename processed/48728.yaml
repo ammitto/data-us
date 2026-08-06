@@ -1,0 +1,54 @@
+---
+uid: '48728'
+last_name: AKTSIONERNOE OBSHCHESTVO RAU FARM
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - NPWMD
+aka_list:
+  items:
+  - uid: '75843'
+    type: a.k.a.
+    category: strong
+    last_name: AO RAU FARM
+  - uid: '75844'
+    type: a.k.a.
+    category: strong
+    last_name: JSC RAW FARM
+  - uid: '75845'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY RAU PHARM
+address_list:
+  items:
+  - uid: '73233'
+    address1: ul. Mnevniki, D. 3, K. 1
+    address2: ET/KOM 1/12
+    city: Moscow
+    postal_code: '123308'
+    country: Russia
+id_list:
+  items:
+  - uid: '39750'
+    id_type: Business Registration Number
+    id_number: '1027739119650'
+    id_country: Russia
+  - uid: '39751'
+    id_type: Tax ID No.
+    id_number: '7701220889'
+    id_country: Iran
+  - uid: '39752'
+    id_type: Government Gazette Number
+    id_number: '51115868'
+    id_country: Iran
+  - uid: '171176'
+    id_type: Organization Established Date
+    id_number: 05 Oct 1999
+  - uid: '171177'
+    id_type: Organization Established Date
+    id_number: 27 Aug 2002
+  - uid: '171705'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: 27TH SCIENTIFIC CENTER)"

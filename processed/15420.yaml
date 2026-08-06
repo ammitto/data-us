@@ -1,0 +1,54 @@
+---
+uid: '15420'
+first_name: Talha
+last_name: SAEED
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '22724'
+    type: a.k.a.
+    category: strong
+    last_name: SAEED
+    first_name: Hafiz Talha
+  - uid: '22725'
+    type: a.k.a.
+    category: strong
+    last_name: SAEED
+    first_name: Mohammad Talha
+  - uid: '22726'
+    type: a.k.a.
+    category: strong
+    last_name: SAEED
+    first_name: Tahil
+address_list:
+  items:
+  - uid: '22979'
+    address1: 116-E Block
+    address2: Johar Town
+    city: Lahore
+    country: Pakistan
+id_list:
+  items:
+  - uid: '8274'
+    id_type: Passport
+    id_number: BM5971331
+    id_country: Pakistan
+    issue_date: 24 Mar 2007
+    expiration_date: 22 Mar 2012
+  - uid: '186118'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '12250'
+    date_of_birth: 25 Oct 1975
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '12251'
+    place_of_birth: Sarghoda, Punjab Province, Pakistan
+    main_entry: 'true'

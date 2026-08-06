@@ -1,0 +1,45 @@
+---
+uid: '42999'
+first_name: Anton Yuryevich
+last_name: LESTAFYE
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '66591'
+    type: a.k.a.
+    category: strong
+    last_name: LESTAFIER
+    first_name: Anton
+  - uid: '66592'
+    type: a.k.a.
+    category: strong
+    last_name: KUZMIN
+    first_name: Anton Yuryevich
+address_list:
+  items:
+  - uid: '64131'
+    country: Russia
+id_list:
+  items:
+  - uid: '32581'
+    id_type: Tax ID No.
+    id_number: '503611829859'
+    id_country: Russia
+  - uid: '32582'
+    id_type: Passport
+    id_number: '763579648'
+    id_country: Russia
+  - uid: '175500'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '161873'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '61875'
+    date_of_birth: '08 Mar 1983'
+    main_entry: 'true'

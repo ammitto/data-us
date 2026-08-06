@@ -1,0 +1,27 @@
+---
+uid: '47410'
+last_name: GREMLOS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '70695'
+    address1: Elektrozavodskaya 7
+    city: Vladimir
+    postal_code: '600007'
+    country: Russia
+id_list:
+  items:
+  - uid: '37808'
+    id_type: Registration Number
+    id_number: '1033302001732'
+    id_country: Russia
+  - uid: '37809'
+    id_type: Tax ID No.
+    id_number: '3302018810'
+    id_country: Russia
+  - uid: '169769'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

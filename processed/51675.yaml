@@ -1,0 +1,47 @@
+---
+uid: '51675'
+first_name: Artem Aleksandrovich
+last_name: VERHOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '80971'
+    type: a.k.a.
+    category: strong
+    last_name: VERKHOV
+    first_name: Artyom
+  - uid: '80972'
+    type: a.k.a.
+    category: strong
+    last_name: VERKHOV
+    first_name: Artem
+address_list:
+  items:
+  - uid: '78750'
+    country: Russia
+id_list:
+  items:
+  - uid: '181682'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183476'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '181659'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '81655'
+    date_of_birth: 03 Aug 1986
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '81657'
+    place_of_birth: Zhezkazgan, Kazakhstan
+    main_entry: 'true'

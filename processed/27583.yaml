@@ -1,0 +1,40 @@
+---
+uid: '27583'
+first_name: Ahmed
+last_name: AG ALBACHAR
+sdn_type: Individual
+program_list:
+  programs:
+  - MALI-EO13882
+aka_list:
+  items:
+  - uid: '43572'
+    type: a.k.a.
+    category: strong
+    last_name: AG ALBACHAR
+    first_name: Intahmadou
+address_list:
+  items:
+  - uid: '41853'
+    address1: Quartier Aliou
+    city: Kidal
+    country: Mali
+id_list:
+  items:
+  - uid: '18174'
+    id_type: National ID No.
+    id_number: 1 63 08 4 01 001 005E
+    id_country: Mali
+  - uid: '132746'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '32748'
+    date_of_birth: 31 Dec 1963
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '32749'
+    place_of_birth: Tin-Essako, Kidal region, Mali
+    main_entry: 'true'

@@ -1,0 +1,35 @@
+---
+uid: '15058'
+last_name: HILDA I
+sdn_type: Vessel
+program_list:
+  programs:
+  - IRAN
+aka_list:
+  items:
+  - uid: '22167'
+    type: f.k.a.
+    category: strong
+    last_name: HOMA
+  - uid: '40660'
+    type: f.k.a.
+    category: strong
+    last_name: COURAGE
+id_list:
+  items:
+  - uid: '8067'
+    id_type: Vessel Registration Identification
+    id_number: IMO 9357389
+  - uid: '8136'
+    id_type: MMSI
+    id_number: '677049600'
+  - uid: '111503'
+    id_type: Former Vessel Flag
+    id_number: Cyprus
+  - uid: '113034'
+    id_type: Former Vessel Flag
+    id_number: Tanzania
+  - uid: '119284'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: NATIONAL IRANIAN TANKER COMPANY)"

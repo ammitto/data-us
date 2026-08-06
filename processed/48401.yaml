@@ -1,0 +1,39 @@
+---
+uid: '48401'
+last_name: IBS SOFT LTD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75231'
+    type: a.k.a.
+    category: strong
+    last_name: OOO IBS SOFT
+address_list:
+  items:
+  - uid: '72606'
+    address1: ul. Skladochnaya d. 3, str. 1
+    address2: Moscow
+    postal_code: '127434'
+    country: Russia
+  - uid: '72607'
+    address1: sh. Dmitrovskoe
+    address2: d. 9B, et. 5, pom. XIII, kom. 14
+    city: Moscow
+    postal_code: '127434'
+    country: Russia
+id_list:
+  items:
+  - uid: '39266'
+    id_type: Registration Number
+    id_number: '1117746016013'
+    id_country: Russia
+  - uid: '39267'
+    id_type: Tax ID No.
+    id_number: '7713721689'
+    id_country: Russia
+  - uid: '171223'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

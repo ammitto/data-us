@@ -1,0 +1,49 @@
+---
+uid: '37084'
+last_name: VYMPEL-ASSISTANCE LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - CYBER2
+aka_list:
+  items:
+  - uid: '76315'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU VYMPEL-SODEISTVIE
+  - uid: '76316'
+    type: a.k.a.
+    category: strong
+    last_name: VYMPEL-SODEISTVIE
+  - uid: '76317'
+    type: f.k.a.
+    category: strong
+    last_name: OOO VYMPEL-DETEKTIV
+address_list:
+  items:
+  - uid: '55499'
+    address1: Ul. Bobruiskaya, d.1
+    city: Moscow
+    postal_code: '121351'
+    country: Russia
+  - uid: '73674'
+    address1: Per. Afanasevski B., d. 5/12, str. 7
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '26386'
+    id_type: Tax ID No.
+    id_number: '7731582597'
+    id_country: Russia
+  - uid: '26387'
+    id_type: Registration Number
+    id_number: '1077764001424'
+    id_country: Russia
+  - uid: '171767'
+    id_type: Organization Established Date
+    id_number: 18 Dec 2007
+  - uid: '179038'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

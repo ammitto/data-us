@@ -1,0 +1,40 @@
+---
+uid: '39202'
+first_name: Andriy Yuriovych
+last_name: TROFIMOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '61163'
+    type: a.k.a.
+    category: strong
+    last_name: TROFIMOV
+    first_name: Andrei Yurievich
+address_list:
+  items:
+  - uid: '58380'
+    address1: 86 Kyivskya St.
+    address2: Apt. 53
+    city: Simferopol
+    state_or_province: Crimea
+    country: Ukraine
+id_list:
+  items:
+  - uid: '28441'
+    id_type: Tax ID No.
+    id_number: '2652410875'
+    id_country: Ukraine
+  - uid: '154973'
+    id_type: Gender
+    id_number: Male
+  - uid: '174760'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '54971'
+    date_of_birth: 14 Aug 1972
+    main_entry: 'true'

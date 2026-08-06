@@ -1,0 +1,41 @@
+---
+uid: '45619'
+last_name: LIMITED LIABILITY COMPANY TEK KOM MANUFACTURING
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70498'
+    type: a.k.a.
+    category: strong
+    last_name: TEK KOM MANUFACTURING LLC
+address_list:
+  items:
+  - uid: '67813'
+    address1: Nab. Presnenskaya D. 10
+    address2: BTS Bashnya Na Naberezhnoi
+    address3: Blok S, 52 Floor
+    city: Moscow
+    postal_code: '123317'
+    country: Russia
+  - uid: '67814'
+    address1: Str. 1V
+    address2: Pom.2.11
+    city: Promzona Borovlevo 2
+    postal_code: '179540'
+    country: Russia
+id_list:
+  items:
+  - uid: '35294'
+    id_type: Registration Number
+    id_number: '1187746275870'
+    id_country: Russia
+  - uid: '35295'
+    id_type: Tax ID No.
+    id_number: '7703444041'
+    id_country: Russia
+  - uid: '175988'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

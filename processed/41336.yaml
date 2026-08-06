@@ -1,0 +1,68 @@
+---
+uid: '41336'
+first_name: Mikhail Pavlovich
+last_name: MATVEEV
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+aka_list:
+  items:
+  - uid: '64394'
+    type: a.k.a.
+    category: strong
+    last_name: MATVEEV
+    first_name: Mihail Pavlovich
+  - uid: '64395'
+    type: a.k.a.
+    category: strong
+    last_name: MATVEYEV
+    first_name: Mikhail P
+  - uid: '64396'
+    type: a.k.a.
+    category: weak
+    last_name: MATYEEV, Mikhail
+  - uid: '64397'
+    type: a.k.a.
+    category: weak
+    last_name: MATVEYEV, Mikhail Mix
+  - uid: '64398'
+    type: a.k.a.
+    category: weak
+    last_name: M1X
+  - uid: '64399'
+    type: a.k.a.
+    category: weak
+    last_name: WAZAWAKA
+  - uid: '64400'
+    type: a.k.a.
+    category: weak
+    last_name: UHODIRANSOMWAR
+  - uid: '64401'
+    type: a.k.a.
+    category: weak
+    last_name: BORISELCIN
+address_list:
+  items:
+  - uid: '62043'
+    address1: 8 Serzhana Koloskova Street
+    address2: Apartment 6
+    city: Kaliningrad
+    country: Russia
+id_list:
+  items:
+  - uid: '30916'
+    id_type: Passport
+    id_number: '733584513'
+    id_country: Russia
+  - uid: '159667'
+    id_type: Gender
+    id_number: Male
+  - uid: '161907'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+date_of_birth_list:
+  items:
+  - uid: '59431'
+    date_of_birth: 17 Aug 1992
+    main_entry: 'true'

@@ -1,0 +1,33 @@
+---
+uid: '47500'
+last_name: LIMITED LIABILITY COMPANY PUMPING COMPANY KRON
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73507'
+    type: a.k.a.
+    category: strong
+    last_name: NASOSNAYA KOMPANIYA KRON
+address_list:
+  items:
+  - uid: '70898'
+    address1: Ul. Mosina D. 6, OF. 101
+    city: Tula
+    postal_code: '300041'
+    country: Russia
+id_list:
+  items:
+  - uid: '37966'
+    id_type: Registration Number
+    id_number: '1037100122894'
+    id_country: Russia
+  - uid: '37967'
+    id_type: Tax ID No.
+    id_number: '7103031370'
+    id_country: Russia
+  - uid: '169742'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

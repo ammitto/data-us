@@ -1,0 +1,71 @@
+---
+uid: '13107'
+first_name: Esmail
+last_name: GHANI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+  - IFSR
+  - IRGC
+aka_list:
+  items:
+  - uid: '14735'
+    type: a.k.a.
+    category: strong
+    last_name: NEZHAD
+    first_name: Ismail Akbar
+  - uid: '14736'
+    type: a.k.a.
+    category: strong
+    last_name: AKBARNEJAD
+    first_name: Esmaeil Ghaani
+  - uid: '14737'
+    type: a.k.a.
+    category: strong
+    last_name: QANI
+    first_name: Esmail
+  - uid: '14738'
+    type: a.k.a.
+    category: strong
+    last_name: GHA'ANI
+    first_name: Esma'il
+  - uid: '14739'
+    type: a.k.a.
+    category: strong
+    last_name: GHAANI
+    first_name: Esmail
+  - uid: '14740'
+    type: a.k.a.
+    category: strong
+    last_name: QA'ANI
+    first_name: Esma'il
+id_list:
+  items:
+  - uid: '7625'
+    id_type: Passport
+    id_number: D9003033
+    id_country: Iran
+  - uid: '7626'
+    id_type: Passport
+    id_number: D9008347
+    id_country: Iran
+    issue_date: 18 Jul 2010
+    expiration_date: 18 Jul 2015
+  - uid: '186082'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '114213'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '8990'
+    date_of_birth: '08 Aug 1957'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '8991'
+    place_of_birth: Mashhad, Iran
+    main_entry: 'true'

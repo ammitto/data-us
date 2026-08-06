@@ -1,0 +1,58 @@
+---
+uid: '23555'
+first_name: Valeri Vyacheslavovich
+last_name: ABRAMOV
+sdn_type: Individual
+program_list:
+  programs:
+  - UKRAINE-EO13685
+aka_list:
+  items:
+  - uid: '37118'
+    type: a.k.a.
+    category: strong
+    last_name: ABRAMOV
+    first_name: Valerii Vyacheslavovich
+address_list:
+  items:
+  - uid: '35611'
+    city: St. Petersburg
+    country: Russia
+  - uid: '35612'
+    address1: 133, ul. Chernyshevskogo
+    city: Vologda
+    state_or_province: Vologodskaya Obl
+    postal_code: '160019'
+    country: Russia
+  - uid: '35613'
+    address1: 122 Grazhdanskiy Prospect
+    address2: Suite 5
+    address3: Liter A
+    city: St. Petersburg
+    postal_code: '195267'
+    country: Russia
+id_list:
+  items:
+  - uid: '15020'
+    id_type: Tax ID No.
+    id_number: '780201346432'
+    id_country: Russia
+  - uid: '125417'
+    id_type: Gender
+    id_number: Male
+  - uid: '143971'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+date_of_birth_list:
+  items:
+  - uid: '25415'
+    date_of_birth: 06 Jan 1963
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '25416'
+    place_of_birth: Tula, Russia
+    main_entry: 'true'
+remarks: "(Linked To: VAD, AO)"
+title: General Director

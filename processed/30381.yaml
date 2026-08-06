@@ -1,0 +1,50 @@
+---
+uid: '30381'
+last_name: SINA PORT AND MARINE SERVICES DEVELOPMENT COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13876
+aka_list:
+  items:
+  - uid: '47668'
+    type: a.k.a.
+    category: strong
+    last_name: SINA PORT AND MARINE COMPANY
+  - uid: '47669'
+    type: a.k.a.
+    category: strong
+    last_name: SINA PORT AND MARITIME COMPANY
+  - uid: '47670'
+    type: a.k.a.
+    category: weak
+    last_name: SPMCO
+  - uid: '47671'
+    type: a.k.a.
+    category: weak
+    last_name: SPM CO.
+address_list:
+  items:
+  - uid: '45872'
+    address1: No. 18, 13th Alley, Gandhi Street, District 6
+    city: Tehran
+    state_or_province: Tehran
+    postal_code: '1517753513'
+    country: Iran
+id_list:
+  items:
+  - uid: '20501'
+    id_type: Registration Number
+    id_number: '69425'
+    id_country: Iran
+  - uid: '20502'
+    id_type: National ID No.
+    id_number: '10101143640'
+    id_country: Iran
+  - uid: '137992'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '137994'
+    id_type: Website
+    id_number: http://www.spmco.co/
+remarks: "(Linked To: ISLAMIC REVOLUTION MOSTAZAFAN FOUNDATION)"

@@ -1,0 +1,45 @@
+---
+uid: '33770'
+first_name: Zhenyu
+last_name: LI
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '52981'
+    type: a.k.a.
+    category: strong
+    last_name: ZHENYU
+    first_name: Li
+address_list:
+  items:
+  - uid: '50593'
+    city: Dalian
+    country: China
+id_list:
+  items:
+  - uid: '23413'
+    id_type: National ID No.
+    id_number: '210211196506075832'
+    id_country: China
+  - uid: '23414'
+    id_type: Passport
+    id_number: E63646378
+    id_country: China
+    issue_date: 27 Nov 2015
+    expiration_date: 26 Nov 2025
+  - uid: '144617'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '44616'
+    date_of_birth: 07 Jun 1965
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '44618'
+    place_of_birth: Dandong, China
+    main_entry: 'true'

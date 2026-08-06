@@ -1,0 +1,30 @@
+---
+uid: '8153'
+first_name: Ivan Roberto
+last_name: DUQUE GAVIRIA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '6730'
+    type: a.k.a.
+    category: weak
+    last_name: ERNESTO BAEZ
+id_list:
+  items:
+  - uid: '2245'
+    id_type: Cedula No.
+    id_number: '10241940'
+    id_country: Colombia
+date_of_birth_list:
+  items:
+  - uid: '2487'
+    date_of_birth: '09 May 1955'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '2488'
+    place_of_birth: Aguadas, Caldas, Colombia
+    main_entry: 'true'

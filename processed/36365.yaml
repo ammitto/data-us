@@ -1,0 +1,38 @@
+---
+uid: '36365'
+last_name: LIMITED LIABILITY COMPANY VLADEKS KHOLDING
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '57249'
+    type: a.k.a.
+    category: strong
+    last_name: LLC VLADEKS KHOLDING
+address_list:
+  items:
+  - uid: '54604'
+    address1: ul. Arbat, d. 6/2
+    address2: e 4, pom. I, k 1, of 48
+    city: Moscow
+    postal_code: '119019'
+    country: Russia
+id_list:
+  items:
+  - uid: '25764'
+    id_type: Tax ID No.
+    id_number: '7704457928'
+    id_country: Russia
+  - uid: '25765'
+    id_type: Registration Number
+    id_number: '1187746643370'
+    id_country: Russia
+  - uid: '149945'
+    id_type: Organization Established Date
+    id_number: 06 Jul 2018
+  - uid: '174009'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: MALOFEYEV, Kirill Konstantinovich)"

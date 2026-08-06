@@ -1,0 +1,49 @@
+---
+uid: '50283'
+first_name: Nikolai Alekseevich
+last_name: KOROBKO
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78550'
+    type: a.k.a.
+    category: strong
+    last_name: KOROBKO
+    first_name: Mykola Oleksiiovych
+address_list:
+  items:
+  - uid: '76162'
+    country: Russia
+id_list:
+  items:
+  - uid: '41977'
+    id_type: Tax ID No.
+    id_number: '732800060667'
+    id_country: Russia
+  - uid: '41978'
+    id_type: Passport
+    id_number: '7301193828'
+    id_country: Russia
+  - uid: '41979'
+    id_type: Passport
+    id_number: '0710012691'
+    id_country: Russia
+  - uid: '178041'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '178050'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '78044'
+    date_of_birth: 14 Jan 1950
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '78046'
+    place_of_birth: Solenoye, Kalmykia, Russia
+    main_entry: 'true'

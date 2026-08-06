@@ -1,0 +1,45 @@
+---
+uid: '9391'
+first_name: Yolanda Esthela
+last_name: SOTO GIL
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '11638'
+    address1: Padre Mayorga No. 106
+    address2: Fraccionamiento Las Californias
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '11639'
+    address1: c/o DISTRIBUIDORA IMPERIAL DE BAJA CALIFORNIA, S.A. DE C.V.
+    address2: Av. Rio Nazas 1202
+    address3: Col. Revolucion
+    city: Tijuana
+    state_or_province: Baja California
+    postal_code: CP 22400
+    country: Mexico
+  - uid: '11640'
+    address1: c/o FORPRES, S.C.
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+id_list:
+  items:
+  - uid: '4038'
+    id_type: C.U.R.P.
+    id_number: SOGY500805MBCTLL15
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '4341'
+    date_of_birth: 05 Aug 1950
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '4342'
+    place_of_birth: Tijuana, Baja California, Mexico
+    main_entry: 'true'

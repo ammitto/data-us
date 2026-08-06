@@ -1,0 +1,43 @@
+---
+uid: '16178'
+last_name: GANADEROS AGRICULTORES DEL NORTE, S. DE R.L. DE C.V.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '24322'
+    type: a.k.a.
+    category: weak
+    last_name: GAN
+address_list:
+  items:
+  - uid: '24342'
+    address1: Bo Las Flores
+    address2: Frente al Salon Latino
+    address3: No. 15
+    city: Tocoa
+    state_or_province: Colon
+    country: Honduras
+  - uid: '24343'
+    address1: 6 St 11 Ave
+    address2: Morazan Boulevard
+    city: San Pedro Sula
+    state_or_province: Cortes
+    country: Honduras
+  - uid: '24353'
+    city: Montanuela, Choloma
+    state_or_province: Cortes
+    country: Honduras
+  - uid: '24503'
+    address1: 6 Calle, El Barrio Morazan
+    city: San Pedro Sula
+    state_or_province: Cortes
+    country: Honduras
+id_list:
+  items:
+  - uid: '8798'
+    id_type: RTN
+    id_number: '05019005483678'
+    id_country: Honduras

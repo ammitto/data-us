@@ -1,0 +1,38 @@
+---
+uid: '44229'
+first_name: Vasiliy Sergeevich
+last_name: OSMAKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '68404'
+    type: a.k.a.
+    category: strong
+    last_name: OSMAKOV
+    first_name: Vasily Sergeyevich
+address_list:
+  items:
+  - uid: '65829'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '175804'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '163840'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '63839'
+    date_of_birth: '08 Jun 1983'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '64149'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'

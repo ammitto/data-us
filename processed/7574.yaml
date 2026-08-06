@@ -1,0 +1,46 @@
+---
+uid: '7574'
+first_name: Joaquin Mario
+last_name: VALENCIA TRUJILLO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNT
+address_list:
+  items:
+  - uid: '6352'
+    address1: Carrera 122 No. 20-02
+    city: Cali
+    country: Colombia
+  - uid: '6509'
+    address1: Avenida 7 Norte No. 23N-81
+    city: Cali
+    country: Colombia
+id_list:
+  items:
+  - uid: '1892'
+    id_type: Cedula No.
+    id_number: '16626888'
+    id_country: Colombia
+  - uid: '1893'
+    id_type: Passport
+    id_number: '16626888'
+    id_country: Colombia
+  - uid: '1894'
+    id_type: Passport
+    id_number: AC030971
+    id_country: Colombia
+  - uid: '1895'
+    id_type: Driver's License No.
+    id_number: '76001000150900'
+    id_country: Colombia
+date_of_birth_list:
+  items:
+  - uid: '1681'
+    date_of_birth: 21 Aug 1957
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '1682'
+    place_of_birth: Cali, Valle, Colombia
+    main_entry: 'true'

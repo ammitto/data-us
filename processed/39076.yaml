@@ -1,0 +1,65 @@
+---
+uid: '39076'
+first_name: Qasem
+last_name: REZAEI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+aka_list:
+  items:
+  - uid: '60947'
+    type: a.k.a.
+    category: strong
+    last_name: REZAI
+    first_name: Qasem
+  - uid: '60948'
+    type: a.k.a.
+    category: strong
+    last_name: REZAEI
+    first_name: Ghasem
+  - uid: '60949'
+    type: a.k.a.
+    category: strong
+    last_name: REZAEI
+    first_name: Qassem
+  - uid: '60950'
+    type: a.k.a.
+    category: strong
+    last_name: REZAYEE
+    first_name: Qassem
+  - uid: '60951'
+    type: a.k.a.
+    category: strong
+    last_name: REZAYI REZA
+    first_name: Ghasem
+address_list:
+  items:
+  - uid: '58204'
+    country: Iran
+id_list:
+  items:
+  - uid: '28276'
+    id_type: Passport
+    id_number: D10005996
+    id_country: Iran
+  - uid: '28277'
+    id_type: National ID No.
+    id_number: '4410232436'
+    id_country: Iran
+  - uid: '154848'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '154827'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '54828'
+    date_of_birth: 27 Sep 1961
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '54830'
+    place_of_birth: Abhar City, Zanjan Province, Iran
+    main_entry: 'true'

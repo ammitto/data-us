@@ -1,0 +1,40 @@
+---
+uid: '35785'
+first_name: Kira Valentinovna
+last_name: KOVALCHUK
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '53682'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '25106'
+    id_type: Tax ID No.
+    id_number: '770305521971'
+    id_country: Russia
+  - uid: '25107'
+    id_type: Passport
+    id_number: '643267033'
+    id_country: Russia
+  - uid: '148881'
+    id_type: Gender
+    id_number: Female
+  - uid: '173240'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '48882'
+    date_of_birth: 18 May 1971
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '48883'
+    place_of_birth: Russia
+    main_entry: 'true'
+remarks: "(Linked To: KOVALCHUK, Kirill Mikhailovich)"

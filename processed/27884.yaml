@@ -1,0 +1,33 @@
+---
+uid: '27884'
+last_name: OPTIMA FREIGHT OY
+sdn_type: Entity
+program_list:
+  programs:
+  - CYBER2
+address_list:
+  items:
+  - uid: '45069'
+    address1: Manttaalitie 5
+    city: Vantaa
+    state_or_province: Uusimaa
+    postal_code: '01530'
+    country: Finland
+  - uid: '45071'
+    address1: Manttaalitie 5-7
+    city: Vantaa
+    postal_code: '01530'
+    country: Finland
+id_list:
+  items:
+  - uid: '20009'
+    id_type: Registration Number
+    id_number: '23923991'
+    id_country: Finland
+  - uid: '154588'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+  - uid: '137104'
+    id_type: Website
+    id_number: www.optimafreight.fi
+remarks: "(Linked To: DIVETECHNOSERVICES)"

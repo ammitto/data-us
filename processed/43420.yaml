@@ -1,0 +1,47 @@
+---
+uid: '43420'
+last_name: AL-ADHAM EXCHANGE COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - PAARSSR-EO13894
+aka_list:
+  items:
+  - uid: '67342'
+    type: a.k.a.
+    category: strong
+    last_name: AL-ADHAM FOREIGN EXCHANGE
+address_list:
+  items:
+  - uid: '64797'
+    address1: May 29th Street
+    address2: Saroujah
+    city: Damascus
+    country: Syria
+  - uid: '64798'
+    address1: Hisham Al-Atassi Street
+    address2: Al-Salam Building
+    address3: Ground Floor
+    city: Homs
+    country: Syria
+  - uid: '64799'
+    address1: Al-Assi Square
+    address2: Al-Quwwatli Street
+    city: Hama
+    country: Syria
+  - uid: '64800'
+    address1: Al-Quds Street
+    city: Tartous
+    country: Syria
+id_list:
+  items:
+  - uid: '33019'
+    id_type: Commercial Registry Number
+    id_number: '15691'
+    id_country: Syria
+  - uid: '162839'
+    id_type: Website
+    id_number: https://aladham-exchange.com.sy
+  - uid: '162840'
+    id_type: Organization Established Date
+    id_number: 16 Feb 2009

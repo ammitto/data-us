@@ -1,0 +1,47 @@
+---
+uid: '34596'
+first_name: Vladimir Sergeevich
+last_name: KIRIYENKO
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54168'
+    type: a.k.a.
+    category: strong
+    last_name: KIRIYENKO
+    first_name: Vladimir
+address_list:
+  items:
+  - uid: '51809'
+    address1: Nesivizhsky Pereulok 12 Bld 1 Flat 16
+    city: Moscow
+    postal_code: '119021'
+    country: Russia
+id_list:
+  items:
+  - uid: '24205'
+    id_type: Passport
+    id_number: '731167796'
+    id_country: Russia
+    issue_date: 06 Sep 2013
+    expiration_date: 17 Feb 2022
+  - uid: '146013'
+    id_type: Gender
+    id_number: Male
+  - uid: '175146'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '46011'
+    date_of_birth: 27 May 1983
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '46012'
+    place_of_birth: Nizhny Novgorod, Russia
+    main_entry: 'true'
+remarks: "(Linked To: KIRIYENKO, Sergei Vladilenovich)"

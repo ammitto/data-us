@@ -1,0 +1,39 @@
+---
+uid: '47560'
+last_name: AO KB NAVIS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73633'
+    type: a.k.a.
+    category: weak
+    last_name: NAVIS INC.
+address_list:
+  items:
+  - uid: '71021'
+    address1: ul. Kulneva
+    address2: d. 3, str. 1, pom/kom III/5,6
+    city: Moscow
+    postal_code: '121170'
+    country: Russia
+  - uid: '71022'
+    address1: sh. Dmitrovskoe, d. 157, k. 5
+    city: Moscow
+    postal_code: '127411'
+    country: Russia
+id_list:
+  items:
+  - uid: '38082'
+    id_type: Tax ID No.
+    id_number: '7725075060'
+    id_country: Russia
+  - uid: '38083'
+    id_type: Registration Number
+    id_number: '1027700456024'
+    id_country: Russia
+  - uid: '169784'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

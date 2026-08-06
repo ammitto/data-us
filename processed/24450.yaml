@@ -1,0 +1,33 @@
+---
+uid: '24450'
+last_name: PRIMORYE MARITIME LOGISTICS CO LTD
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK4
+aka_list:
+  items:
+  - uid: '38565'
+    type: a.k.a.
+    category: weak
+    last_name: PML CO LTD
+address_list:
+  items:
+  - uid: '36939'
+    address1: 01 ul Tigorovaya 20A
+    city: Vladivostok
+    state_or_province: Primorskiy kray
+    postal_code: '690091'
+    country: Russia
+id_list:
+  items:
+  - uid: '15735'
+    id_type: Company Number
+    id_number: IMO 5993381
+  - uid: '135253'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '127965'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210

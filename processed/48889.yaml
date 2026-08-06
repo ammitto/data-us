@@ -1,0 +1,34 @@
+---
+uid: '48889'
+last_name: LIMITED LIABILITY COMPANY SEVEROMUYSKIY TONNEL 2
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76166'
+    type: a.k.a.
+    category: weak
+    last_name: LLC SMT 2
+address_list:
+  items:
+  - uid: '73539'
+    address1: ul. Lenina 6A Pgt.
+    city: Severomuisk
+    postal_code: '671564'
+    country: Russia
+id_list:
+  items:
+  - uid: '39970'
+    id_type: Registration Number
+    id_number: '1190327005615'
+    id_country: Russia
+  - uid: '39971'
+    id_type: Tax ID No.
+    id_number: '0326567740'
+    id_country: Russia
+  - uid: '176662'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: JOINT STOCK COMPANY RAZREZ KOLYVANSKIY)"

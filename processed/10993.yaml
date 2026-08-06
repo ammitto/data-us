@@ -1,0 +1,40 @@
+---
+uid: '10993'
+first_name: Pablo Antonio
+last_name: FITCH PARENTE
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '15953'
+    address1: c/o COMPANIA MINERA DEL RIO CIANURY S.A. DE C.V.
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '15954'
+    address1: Boulevard Francisco I. Madero Numero 145 al Oriente, Colonia Centro
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+id_list:
+  items:
+  - uid: '5479'
+    id_type: R.F.C.
+    id_number: FIPP660324
+    id_country: Mexico
+  - uid: '5480'
+    id_type: C.U.R.P.
+    id_number: FIPP660324HSLTRB07
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '6428'
+    date_of_birth: 24 Mar 1966
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '6429'
+    place_of_birth: Mazatlan, Sinaloa, Mexico
+    main_entry: 'true'

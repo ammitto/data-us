@@ -1,0 +1,37 @@
+---
+uid: '50169'
+last_name: KIBER SERVIS, OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78253'
+    type: a.k.a.
+    category: strong
+    last_name: KIBER SERVICE
+address_list:
+  items:
+  - uid: '75935'
+    address1: Ul. Bolshaya Dekabrskaya D. 13
+    address2: Pomeshch, I Kom 5b
+    city: Moscow
+    postal_code: '123022'
+    country: Russia
+id_list:
+  items:
+  - uid: '41790'
+    id_type: Business Registration Number
+    id_number: '1187746748507'
+    id_country: Russia
+  - uid: '41791'
+    id_type: Tax ID No.
+    id_number: '7725496205'
+    id_country: Russia
+  - uid: '178493'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '177771'
+    id_type: Organization Established Date
+    id_number: 14 Aug 2018

@@ -1,0 +1,37 @@
+---
+uid: '52258'
+last_name: JOINT STOCK COMPANY BERDSK ELECTROMECHANICAL PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '81838'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY BEMZ
+  - uid: '81839'
+    type: a.k.a.
+    category: strong
+    last_name: BERDSKII ELECTROMEHANICHESKII ZAVOD AO
+address_list:
+  items:
+  - uid: '79812'
+    address1: Building 7, 7 Zelenaya Roshta Ulitsa
+    city: Berdsk
+    postal_code: '633009'
+    country: Russia
+id_list:
+  items:
+  - uid: '45211'
+    id_type: Registration Number
+    id_number: '1025404721583'
+    id_country: Russia
+  - uid: '45212'
+    id_type: Tax ID No.
+    id_number: '5445007458'
+    id_country: Russia
+  - uid: '183201'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

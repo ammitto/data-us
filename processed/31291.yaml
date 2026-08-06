@@ -1,0 +1,41 @@
+---
+uid: '31291'
+first_name: Konstantin Viktorovich
+last_name: KILIMNIK
+sdn_type: Individual
+program_list:
+  programs:
+  - ELECTION-EO13848
+  - UKRAINE-EO13660
+address_list:
+  items:
+  - uid: '47263'
+    city: Moscow
+    country: Russia
+  - uid: '47508'
+    city: Kyiv
+    country: Ukraine
+id_list:
+  items:
+  - uid: '21233'
+    id_type: Passport
+    id_number: '752512703'
+    id_country: Russia
+  - uid: '144137'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '139720'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '39982'
+    date_of_birth: 27 Apr 1970
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '39724'
+    place_of_birth: Kyiv, Ukraine
+    main_entry: 'true'
+remarks: "(Linked To: YANUKOVYCH, Viktor Fedorovych)"

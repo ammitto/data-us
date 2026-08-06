@@ -1,0 +1,45 @@
+---
+uid: '34767'
+last_name: PUBLIC JOINT STOCK COMPANY KB VOSTOCHNY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54546'
+    type: a.k.a.
+    category: strong
+    last_name: VOSTOCHNY COMMERCIAL BANK PJSC
+  - uid: '54860'
+    type: a.k.a.
+    category: strong
+    last_name: PJSC KB VOSTOCHNY
+address_list:
+  items:
+  - uid: '52111'
+    address1: Blagoveshchensk
+    address2: St. Innokentiy Lane 1
+    city: Amur
+    postal_code: '675004'
+    country: Russia
+id_list:
+  items:
+  - uid: '24451'
+    id_type: Tax ID No.
+    id_number: '2801015394'
+    id_country: Russia
+  - uid: '24452'
+    id_type: Registration Number
+    id_number: '1022800000112'
+    id_country: Russia
+  - uid: '146221'
+    id_type: SWIFT/BIC
+    id_number: DALVRU8X
+  - uid: '146220'
+    id_type: Website
+    id_number: vostobank.ru
+  - uid: '175210'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: SOVCOMBANK OPEN JOINT STOCK COMPANY)"

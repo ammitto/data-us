@@ -1,0 +1,75 @@
+---
+uid: '22507'
+last_name: IS BANK, AO
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13685
+aka_list:
+  items:
+  - uid: '35475'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT-STOCK COMPANY COMMERCIAL BANK 'INDUSTRIAL SAVINGS BANK'
+  - uid: '35476'
+    type: a.k.a.
+    category: strong
+    last_name: JSC CB 'IS BANK'
+  - uid: '35477'
+    type: f.k.a.
+    category: strong
+    last_name: CLOSED JOINT STOCK COMPANY COMMERCIAL BANK 'INDUSTRIAL SAVINGS BANK'
+  - uid: '35572'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO KOMMERCHESKI BANK INDUSTRIALNY SBEREGATELNY
+      BANK
+address_list:
+  items:
+  - uid: '34047'
+    address1: Eldoradovsky per 7
+    city: Moscow
+    postal_code: '125167'
+    country: Russia
+  - uid: '34048'
+    address1: 29/UL, prospect Kirova
+    city: Simferopol
+    state_or_province: Crimea
+    postal_code: '295011'
+    country: Ukraine
+  - uid: '34049'
+    address1: Building 160, Office 104, Kievskaya Street
+    city: Simferopol
+    state_or_province: Crimea
+    postal_code: '295493'
+    country: Ukraine
+  - uid: '34050'
+    address1: Building 25, Lenin Street
+    city: Kerch
+    state_or_province: Crimea
+    postal_code: '298300'
+    country: Ukraine
+id_list:
+  items:
+  - uid: '14209'
+    id_type: Registration ID
+    id_number: '1027739339715'
+    id_country: Russia
+  - uid: '14210'
+    id_type: Government Gazette Number
+    id_number: '40199908'
+    id_country: Russia
+  - uid: '14211'
+    id_type: Tax ID No.
+    id_number: '7744001673'
+    id_country: Russia
+  - uid: '144037'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '123948'
+    id_type: SWIFT/BIC
+    id_number: RISBRUMM
+  - uid: '124018'
+    id_type: BIK (RU)
+    id_number: '044525349'

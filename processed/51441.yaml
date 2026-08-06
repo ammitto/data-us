@@ -1,0 +1,30 @@
+---
+uid: '51441'
+last_name: MOSKOVSKII FONDOVYI TSENTR
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '78362'
+    address1: Per Orlikov D. 5, Str. 3
+    city: Moscow
+    postal_code: '107078'
+    country: Russia
+id_list:
+  items:
+  - uid: '43773'
+    id_type: Registration Number
+    id_number: '5147746153847'
+    id_country: Russia
+  - uid: '43774'
+    id_type: Tax ID No.
+    id_number: '7708822233'
+    id_country: Russia
+  - uid: '182811'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '180955'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

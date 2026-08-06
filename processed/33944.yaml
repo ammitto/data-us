@@ -1,0 +1,40 @@
+---
+uid: '33944'
+first_name: Maulawi
+last_name: RAJAB
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '53188'
+    type: a.k.a.
+    category: strong
+    last_name: SALAHUDIN
+    first_name: Maulawi Rajab
+address_list:
+  items:
+  - uid: '50858'
+    city: Paghman District
+    state_or_province: Kabul Province
+    country: Afghanistan
+id_list:
+  items:
+  - uid: '144943'
+    id_type: Gender
+    id_number: Male
+  - uid: '187386'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '44944'
+    date_of_birth: '1976'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '44945'
+    place_of_birth: Afghanistan
+    main_entry: 'true'

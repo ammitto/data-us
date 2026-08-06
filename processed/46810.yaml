@@ -1,0 +1,48 @@
+---
+uid: '46810'
+last_name: EUROPEAN TECHNICAL TRADING
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '72296'
+    type: a.k.a.
+    category: weak
+    last_name: ETT
+  - uid: '72297'
+    type: a.k.a.
+    category: strong
+    last_name: EUROPEAN TT DISTRIBUTION
+  - uid: '72298'
+    type: a.k.a.
+    category: strong
+    last_name: ETT DISTRIBUTION BV
+address_list:
+  items:
+  - uid: '69754'
+    address1: '24'
+    address2: Booiebos
+    city: Gent
+    postal_code: '9031'
+    country: Belgium
+  - uid: '69755'
+    address1: '1'
+    address2: Ijsbeerlaan
+    state_or_province: Nevele
+    postal_code: '9850'
+    country: Belgium
+id_list:
+  items:
+  - uid: '36898'
+    id_type: Enterprise Number
+    id_number: 0677.702.574
+    id_country: Belgium
+  - uid: '177013'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '167616'
+    id_type: Target Type
+    id_number: Private Company
+remarks: "(Linked To: DE GEETERE, Hans)"

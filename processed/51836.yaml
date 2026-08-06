@@ -1,0 +1,50 @@
+---
+uid: '51836'
+last_name: PUBLIC JOINT STOCK COMPANY FINSTAR BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '81165'
+    type: a.k.a.
+    category: strong
+    last_name: PJSC BANK SIAB
+  - uid: '81166'
+    type: a.k.a.
+    category: strong
+    last_name: PUBLIC JOINT STOCK COMPANY SAINT PETERSBURG INDUSTRIAL JOINT STOCK
+      BANK
+address_list:
+  items:
+  - uid: '78996'
+    address1: Ul Chernigovskaya, pom., 8a, 1N
+    city: St. Petersburg
+    postal_code: '196084'
+    country: Russia
+id_list:
+  items:
+  - uid: '44525'
+    id_type: Legal Entity Number
+    id_number: 253400WE18BBLQFEX189
+  - uid: '44526'
+    id_type: Registration Number
+    id_number: '1022400003944'
+    id_country: Russia
+  - uid: '44528'
+    id_type: Tax ID No.
+    id_number: '2465037737'
+    id_country: Russia
+  - uid: '182180'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '182178'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '182176'
+    id_type: SWIFT/BIC
+    id_number: SAOARU2P
+  - uid: '182177'
+    id_type: Website
+    id_number: www.siab.ru

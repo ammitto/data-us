@@ -1,0 +1,37 @@
+---
+uid: '22663'
+first_name: Onofre Junior
+last_name: AGUINO ARBOLEDA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '35732'
+    type: a.k.a.
+    category: weak
+    last_name: DIOS Y CIEGO
+address_list:
+  items:
+  - uid: '34288'
+    country: Colombia
+id_list:
+  items:
+  - uid: '14295'
+    id_type: Cedula No.
+    id_number: '1087132209'
+    id_country: Colombia
+  - uid: '124111'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '24112'
+    date_of_birth: 16 Sep 1989
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '24113'
+    place_of_birth: Tumaco, Narino, Colombia
+    main_entry: 'true'

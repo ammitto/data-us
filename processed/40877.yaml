@@ -1,0 +1,61 @@
+---
+uid: '40877'
+last_name: JOINT STOCK COMMERCIAL BANK PRIMORYE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '63628'
+    type: a.k.a.
+    category: strong
+    last_name: PJSCB PRIMORYE
+  - uid: '63629'
+    type: a.k.a.
+    category: strong
+    last_name: AKB PRIMORYE PAO
+  - uid: '63630'
+    type: f.k.a.
+    category: strong
+    last_name: JSCB PRIMORYE BANK
+address_list:
+  items:
+  - uid: '60965'
+    address1: UL. Svetlanskaya D. 47
+    city: Vladivostok
+    postal_code: '690990'
+    country: Russia
+id_list:
+  items:
+  - uid: '30136'
+    id_type: Registration Number
+    id_number: '1022500000566'
+    id_country: Russia
+  - uid: '30137'
+    id_type: Tax ID No.
+    id_number: '2536020789'
+    id_country: Russia
+  - uid: '30138'
+    id_type: Legal Entity Number
+    id_number: 25340019U0SFT4YC9G79
+  - uid: '158410'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '158408'
+    id_type: Organization Established Date
+    id_number: 27 Jul 1994
+  - uid: '176920'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184274'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '158407'
+    id_type: SWIFT/BIC
+    id_number: UNEPRU8V
+  - uid: '158409'
+    id_type: Website
+    id_number: https://www.primbank.ru/

@@ -1,0 +1,46 @@
+---
+uid: '47799'
+last_name: PUBLIC JOINT STOCK COMPANY PIPE METALLURGICAL COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '74146'
+    type: a.k.a.
+    category: strong
+    last_name: PUBLIC JOINT STOCK COMPANY TRUBNAYA METALLURGICHESKAYA KOMPANIYA
+  - uid: '74147'
+    type: a.k.a.
+    category: weak
+    last_name: PJSC TMK
+  - uid: '74149'
+    type: a.k.a.
+    category: weak
+    last_name: PAO TMK
+address_list:
+  items:
+  - uid: '71516'
+    address1: 40 Pokrovka Street, Building 2A
+    city: Moscow
+    postal_code: '101000'
+    country: Russia
+id_list:
+  items:
+  - uid: '38491'
+    id_type: Registration Number
+    id_number: '1027739217758'
+    id_country: Russia
+  - uid: '38492'
+    id_type: Tax ID No.
+    id_number: '7710373095'
+    id_country: Russia
+  - uid: '176457'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184407'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

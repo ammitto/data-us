@@ -1,0 +1,41 @@
+---
+uid: '40136'
+first_name: Karim
+last_name: KEITA
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+address_list:
+  items:
+  - uid: '59766'
+    country: Cote d Ivoire
+  - uid: '59767'
+    address1: Sebenicoro
+    city: Bamako
+    country: Mali
+id_list:
+  items:
+  - uid: '29265'
+    id_type: National ID No.
+    id_number: 179FR920098004 D
+    id_country: Mali
+  - uid: '29266'
+    id_type: Passport
+    id_number: DA0002236
+    id_country: Mali
+    issue_date: 20 Dec 2018
+    expiration_date: 19 Dec 2023
+  - uid: '156981'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '56979'
+    date_of_birth: 31 Aug 1979
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '56980'
+    place_of_birth: Paris, France
+    main_entry: 'true'

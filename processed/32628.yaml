@@ -1,0 +1,27 @@
+---
+uid: '32628'
+first_name: Alvaro
+last_name: LOPEZ MIERA
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+address_list:
+  items:
+  - uid: '49117'
+    country: Cuba
+id_list:
+  items:
+  - uid: '142243'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '42241'
+    date_of_birth: 26 Dec 1943
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '42282'
+    place_of_birth: Havana, Cuba
+    main_entry: 'true'

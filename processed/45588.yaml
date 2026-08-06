@@ -1,0 +1,33 @@
+---
+uid: '45588'
+last_name: PLANAR RESEARCH AND PRODUCTION HOLDINGS FOR PRECISION ENGINEERING
+sdn_type: Entity
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '71717'
+    type: a.k.a.
+    category: strong
+    last_name: PLANAR JOINT STOCK COMPANY
+  - uid: '71718'
+    type: a.k.a.
+    category: strong
+    last_name: PLANAR JSC KBTEM
+address_list:
+  items:
+  - uid: '69122'
+    address1: 2 Partizanskii Ave, 2-31 Bldg
+    city: Minsk
+    postal_code: '220033'
+    country: Belarus
+id_list:
+  items:
+  - uid: '36377'
+    id_type: Tax ID No.
+    id_number: '100104937'
+    id_country: Belarus
+  - uid: '167275'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

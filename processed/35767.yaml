@@ -1,0 +1,62 @@
+---
+uid: '35767'
+first_name: Nikolay
+last_name: PESKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56188'
+    type: a.k.a.
+    category: strong
+    last_name: CHOLES
+    first_name: Nikolai
+  - uid: '56189'
+    type: a.k.a.
+    category: strong
+    last_name: CHOULZ
+    first_name: Nikolay Dmitrievich
+  - uid: '56190'
+    type: a.k.a.
+    category: strong
+    last_name: CHOULZ
+    first_name: Nikolay Dmitriyevich
+address_list:
+  items:
+  - uid: '53650'
+    address1: B. Dorogomilovskaia
+    address2: 7 81
+    city: Moscow
+    postal_code: '127473'
+    country: Russia
+id_list:
+  items:
+  - uid: '25087'
+    id_type: Passport
+    id_number: '721123760'
+    id_country: Russia
+    issue_date: 12 Sep 2012
+    expiration_date: 12 Sep 2022
+  - uid: '25088'
+    id_type: National ID No.
+    id_number: '4516913332'
+    id_country: Russia
+  - uid: '148837'
+    id_type: Gender
+    id_number: Male
+  - uid: '173233'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '48834'
+    date_of_birth: 03 Feb 1990
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '48835'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'
+remarks: "(Linked To: PESKOV, Dmitriy Sergeevich)"

@@ -1,0 +1,40 @@
+---
+uid: '11008'
+last_name: GRUPO INDUSTRIAL GAXIOLA HERMANOS S.A. DE C.V.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '11412'
+    type: f.k.a.
+    category: strong
+    last_name: MADYVA
+  - uid: '11413'
+    type: a.k.a.
+    category: strong
+    last_name: GRUPO INDUSTRIAL GAXIOLA
+address_list:
+  items:
+  - uid: '15902'
+    address1: Calle del Oro, Esq. Vinedo, Colonia Parque Industrial
+    city: Hermosillo
+    state_or_province: Sonora
+    postal_code: '83299'
+    country: Mexico
+  - uid: '15903'
+    address1: Luis Encinas y Alberto Truqui
+    city: Hermosillo
+    state_or_province: Sonora
+    country: Mexico
+  - uid: '15904'
+    city: Guadalajara
+    state_or_province: Jalisco
+    country: Mexico
+id_list:
+  items:
+  - uid: '5461'
+    id_type: R.F.C.
+    id_number: GIG910522BR8
+    id_country: Mexico

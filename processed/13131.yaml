@@ -1,0 +1,41 @@
+---
+uid: '13131'
+last_name: EGHTESAD NOVIN BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '14777'
+    type: a.k.a.
+    category: strong
+    last_name: BANK-E EGHTESAD NOVIN
+  - uid: '14778'
+    type: a.k.a.
+    category: strong
+    last_name: EN BANK PJSC
+  - uid: '47103'
+    type: a.k.a.
+    category: strong
+    last_name: BANK EGHTESAD NOVIN
+address_list:
+  items:
+  - uid: '20992'
+    address1: Vali Asr Street
+    address2: Above Vanak Circle, across Niayesh
+    address3: Esfandiari Blvd., No. 24
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '111708'
+    id_type: SWIFT/BIC
+    id_number: BEGNIRTH
+  - uid: '137335'
+    id_type: Website
+    id_number: www.enbank.ir
+  - uid: '137296'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

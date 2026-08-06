@@ -1,0 +1,32 @@
+---
+uid: '55477'
+last_name: UNIQUE STATION TRADING
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - SDGT
+address_list:
+  items:
+  - uid: '84825'
+    address1: Deira Oud Al Muteena 3
+    city: Dubai
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '49489'
+    id_type: Economic Register Number (CBLS)
+    id_number: '11427320'
+    id_country: United Arab Emirates
+  - uid: '49490'
+    id_type: Registration Number
+    id_number: '858775'
+    id_country: United Arab Emirates
+  - uid: '193079'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '192947'
+    id_type: Organization Established Date
+    id_number: 16 Oct 2019
+remarks: "(Linked To: ALPA TRADING - FZCO)"

@@ -1,0 +1,40 @@
+---
+uid: '51794'
+last_name: JOINT STOCK COMPANY BANK FINSERVICE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '78931'
+    address1: 2nd Floor, Office 1 Room No. 1, 23A, Tarasa Sherchenko Quay
+    city: Moscow
+    postal_code: '121151'
+    country: Russia
+id_list:
+  items:
+  - uid: '44439'
+    id_type: Legal Entity Number
+    id_number: 253400BT1SKX0A889G06
+    id_country: Russia
+  - uid: '44441'
+    id_type: Registration Number
+    id_number: '1087711000013'
+    id_country: Russia
+  - uid: '44443'
+    id_type: Tax ID No.
+    id_number: '7750004270'
+    id_country: Russia
+  - uid: '182046'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '182044'
+    id_type: SWIFT/BIC
+    id_number: KOMXRUMM
+  - uid: '182043'
+    id_type: Website
+    id_number: www.finsb.ru
+  - uid: '182045'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

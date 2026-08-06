@@ -1,0 +1,28 @@
+---
+uid: '52203'
+last_name: LIMITED LIABILITY COMPANY INTERSERVIS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '79702'
+    address1: Suite 1/6, Building 2, 11 1-Iy Volkonskiy Lane
+    city: Moscow
+    postal_code: '127473'
+    country: Russia
+id_list:
+  items:
+  - uid: '45118'
+    id_type: Registration Number
+    id_number: '1117746254647'
+    id_country: Russia
+  - uid: '45119'
+    id_type: Tax ID No.
+    id_number: '7720714114'
+    id_country: Russia
+  - uid: '183138'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: KOZLOV, Aleksandr Sergeyevich)"

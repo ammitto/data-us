@@ -1,0 +1,88 @@
+---
+uid: '18320'
+last_name: STATE ENTERPRISE EVPATORIA SEA COMMERCIAL PORT
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13685
+aka_list:
+  items:
+  - uid: '28368'
+    type: a.k.a.
+    category: strong
+    last_name: YEVPATORIA COMMERCIAL SEAPORT
+  - uid: '28369'
+    type: a.k.a.
+    category: strong
+    last_name: YEVPATORIYA COMMERCIAL SEA PORT
+  - uid: '28370'
+    type: a.k.a.
+    category: strong
+    last_name: YEVPATORIYA SEA PORT
+  - uid: '28371'
+    type: a.k.a.
+    category: strong
+    last_name: YEVPATORIA SEA PORT
+  - uid: '28372'
+    type: a.k.a.
+    category: strong
+    last_name: YEVPATORIA MERCHANT SEA PORT
+  - uid: '28373'
+    type: a.k.a.
+    category: strong
+    last_name: PORT OF YEVPATORIA
+  - uid: '28374'
+    type: a.k.a.
+    category: strong
+    last_name: PORT OF EVPATORIA
+  - uid: '28375'
+    type: a.k.a.
+    category: strong
+    last_name: SEAPORT OF YEVPATORIYA
+address_list:
+  items:
+  - uid: '27742'
+    address1: Mariners Square 1
+    city: Evpatoria
+    state_or_province: Crimea
+    postal_code: '97416'
+    country: Ukraine
+  - uid: '27743'
+    address1: 1, Moryakov Sq
+    city: Yevpatoriya
+    state_or_province: Crimea
+    postal_code: '97408'
+    country: Ukraine
+  - uid: '27744'
+    address1: 1 Moryakov Sq.
+    city: Yevpatoria
+    state_or_province: Crimea
+    postal_code: '97416'
+    country: Ukraine
+  - uid: '27824'
+    country: Ukraine
+  - uid: '27825'
+    address1: 1 Moryakov Sq
+    city: Yevpatoriya
+    state_or_province: Crimea
+    postal_code: '97416'
+    country: Ukraine
+id_list:
+  items:
+  - uid: '10583'
+    id_type: Registration ID
+    id_number: '01125583'
+    id_country: Ukraine
+  - uid: '117618'
+    id_type: UN/LOCODE
+    id_number: UA ZKA
+  - uid: '143503'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '117616'
+    id_type: Email Address
+    id_number: lada1@seavenue.net
+  - uid: '117617'
+    id_type: Email Address
+    id_number: zamves@emtp.com.ua

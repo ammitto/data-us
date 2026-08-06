@@ -1,0 +1,33 @@
+---
+uid: '50416'
+last_name: LIMITED LIABILITY COMPANY REMSTAL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78807'
+    type: a.k.a.
+    category: strong
+    last_name: LLC REMSTAL
+address_list:
+  items:
+  - uid: '76443'
+    address1: ofis 105, d. 3, prospekt Mira
+    city: Sovetskaya Gavan
+    postal_code: '682800'
+    country: Russia
+id_list:
+  items:
+  - uid: '42205'
+    id_type: Tax ID No.
+    id_number: '2709017223'
+    id_country: Russia
+  - uid: '42206'
+    id_type: Registration Number
+    id_number: '1202700008917'
+    id_country: Russia
+  - uid: '178398'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,54 @@
+---
+uid: '12785'
+first_name: Mayra
+last_name: GALAVIZ MARTIN
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '13958'
+    type: a.k.a.
+    category: weak
+    last_name: NAIDA
+address_list:
+  items:
+  - uid: '20168'
+    address1: 'Manuel Clouthier #486'
+    address2: Colonia Prados Vallarta
+    city: Guadalajara
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '20169'
+    address1: 'Plaza Del Sol Local #28'
+    address2: Zona R
+    city: Guadalajara
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '20170'
+    address1: Paseo Del Heliotropo 3426
+    address2: Monraz
+    city: Guadalajara
+    state_or_province: Jalisco
+    country: Mexico
+id_list:
+  items:
+  - uid: '7209'
+    id_type: C.U.R.P.
+    id_number: GAMM730119MJCLRY08
+    id_country: Mexico
+  - uid: '7210'
+    id_type: Passport
+    id_number: '06140255887'
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '8518'
+    date_of_birth: 19 Jan 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '8519'
+    place_of_birth: Jalisco, Mexico
+    main_entry: 'true'

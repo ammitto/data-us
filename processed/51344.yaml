@@ -1,0 +1,57 @@
+---
+uid: '51344'
+last_name: JSC TRANSPORT FREIGHT AGENCY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80511'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO UPRAVLENIE TRANSPORTNYKH PEREVOZOK
+  - uid: '80512'
+    type: a.k.a.
+    category: weak
+    last_name: UTP AO
+address_list:
+  items:
+  - uid: '78180'
+    address1: Sh. Kashirskoe
+    address2: D. 44
+    address3: K. 2
+    city: Moscow
+    postal_code: '115409'
+    country: Russia
+  - uid: '78181'
+    address1: Shosse Nizhnerostinskoye 28
+    city: Murmansk
+    postal_code: '183040'
+    country: Russia
+id_list:
+  items:
+  - uid: '43618'
+    id_type: Registration Number
+    id_number: '1027700371742'
+    id_country: Russia
+  - uid: '43619'
+    id_type: Tax ID No.
+    id_number: '7723134190'
+    id_country: Russia
+  - uid: '43620'
+    id_type: Government Gazette Number
+    id_number: '47260547'
+    id_country: Russia
+  - uid: '43621'
+    id_type: Identification Number
+    id_number: IMO 5917661
+  - uid: '180734'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '180732'
+    id_type: Organization Established Date
+    id_number: 24 Jul 1997
+  - uid: '180733'
+    id_type: Organization Established Date
+    id_number: 29 Oct 2002

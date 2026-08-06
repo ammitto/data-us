@@ -1,0 +1,33 @@
+---
+uid: '57733'
+last_name: DIRECTORATE OF INTELLIGENCE OF CUBA
+sdn_type: Entity
+program_list:
+  programs:
+  - CUBA-EO14404
+aka_list:
+  items:
+  - uid: '89334'
+    type: a.k.a.
+    category: strong
+    last_name: DIRECCION GENERAL DE INTELIGENCIA
+  - uid: '89335'
+    type: a.k.a.
+    category: weak
+    last_name: G2
+  - uid: '89336'
+    type: a.k.a.
+    category: weak
+    last_name: DGI
+address_list:
+  items:
+  - uid: '88538'
+    country: Cuba
+id_list:
+  items:
+  - uid: '198256'
+    id_type: Organization Established Date
+    id_number: 06 Jun 1961
+  - uid: '198257'
+    id_type: Target Type
+    id_number: Government Entity

@@ -1,0 +1,35 @@
+---
+uid: '44561'
+first_name: Bernard
+last_name: BYAMUNGU
+sdn_type: Individual
+program_list:
+  programs:
+  - DRCONGO
+aka_list:
+  items:
+  - uid: '69043'
+    type: a.k.a.
+    category: strong
+    last_name: MHESHE
+    first_name: Bernard Byamungu
+address_list:
+  items:
+  - uid: '66512'
+    country: Congo, Democratic Republic of the
+id_list:
+  items:
+  - uid: '164738'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '64737'
+    date_of_birth: 10 Oct 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '64739'
+    place_of_birth: Ziralo, Democratic Republic of the Congo
+    main_entry: 'true'
+remarks: "(Linked To: M23)"

@@ -1,0 +1,52 @@
+---
+uid: '55282'
+first_name: Salih
+last_name: DUBAYSH
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '86040'
+    type: a.k.a.
+    category: strong
+    last_name: DABIESH JA'AML
+    first_name: Saleh Muhammaed Hussein
+  - uid: '86041'
+    type: a.k.a.
+    category: weak
+    last_name: MUHAMMAD, Abu
+address_list:
+  items:
+  - uid: '84540'
+    address1: Al-Sab'een
+    address2: Haddah
+    city: Sana'a
+    country: Yemen
+  - uid: '84541'
+    address1: Al-'Uqab Al-Saffari
+    address2: Sana'a-Sa'dah Road
+    city: Sahar
+    state_or_province: Sa'dah
+    country: Yemen
+id_list:
+  items:
+  - uid: '192526'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '192536'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '92527'
+    date_of_birth: 01 Jan 1984
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '92540'
+    place_of_birth: Al-Safra' District, Sa'dah Governorate, Yemen
+    main_entry: 'true'
+remarks: "(Linked To: ANSARALLAH)"

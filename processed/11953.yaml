@@ -1,0 +1,41 @@
+---
+uid: '11953'
+first_name: Gustavo
+last_name: GONZALEZ CASTRO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '18132'
+    address1: Calle Avalo No. 28
+    address2: Colonia Las Lomas
+    city: Tuxpan
+    state_or_province: Veracruz
+    postal_code: C.P. 92800
+    country: Mexico
+id_list:
+  items:
+  - uid: '6323'
+    id_type: C.U.R.P.
+    id_number: GOCG730701HVZNSS08
+    id_country: Mexico
+  - uid: '6324'
+    id_type: R.F.C.
+    id_number: GOCG730701
+    id_country: Mexico
+  - uid: '6325'
+    id_type: Cartilla de Servicio Militar Nacional
+    id_number: B8765616
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '7506'
+    date_of_birth: 01 Jul 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '7507'
+    place_of_birth: Tuxpam, Veracruz
+    main_entry: 'true'

@@ -1,0 +1,48 @@
+---
+uid: '54500'
+first_name: Nasr Hussein
+last_name: AL-HAMMADI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '84807'
+    type: a.k.a.
+    category: strong
+    last_name: ALHAMMADI
+    first_name: Nasr Hussein Shamsan
+address_list:
+  items:
+  - uid: '83247'
+    city: Yiwu
+    country: China
+  - uid: '83248'
+    city: Sana'a
+    country: Yemen
+id_list:
+  items:
+  - uid: '48122'
+    id_type: Passport
+    id_number: '06115272'
+    id_country: Yemen
+    expiration_date: 29 May 2022
+  - uid: '48123'
+    id_type: Passport
+    id_number: '13956720'
+    id_country: Yemen
+    expiration_date: 20 May 2030
+  - uid: '192766'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '190493'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '90492'
+    date_of_birth: 02 Jan 1997
+    main_entry: 'true'
+remarks: "(Linked To: ANSARALLAH)"

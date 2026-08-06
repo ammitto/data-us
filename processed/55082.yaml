@@ -1,0 +1,40 @@
+---
+uid: '55082'
+first_name: Waleed Khaled Hameed
+last_name: AL-SAMARRA'I
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '85735'
+    type: a.k.a.
+    category: strong
+    last_name: HAMEED
+    first_name: Waleed Khaled Hameed
+address_list:
+  items:
+  - uid: '84212'
+    city: Dubai
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '49026'
+    id_type: Passport
+    id_number: RE0049517
+    id_country: Saint Kitts and Nevis
+    expiration_date: 12 May 2026
+  - uid: '192106'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '92109'
+    date_of_birth: 13 Apr 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '92110'
+    place_of_birth: Baghdad, Iraq
+    main_entry: 'true'

@@ -1,0 +1,40 @@
+---
+uid: '47437'
+last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU KOMPANIYA INTERVESP
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73373'
+    type: a.k.a.
+    category: strong
+    last_name: KOMPANIYA INTERVESP OOO
+address_list:
+  items:
+  - uid: '70752'
+    address1: d. 6B pom. 605, ul. Artyukhinoi
+    city: Moscow
+    postal_code: '109390'
+    country: Russia
+id_list:
+  items:
+  - uid: '37864'
+    id_type: Registration Number
+    id_number: '5177746268530'
+    id_country: Russia
+  - uid: '37865'
+    id_type: Government Gazette Number
+    id_number: '20366523'
+    id_country: Russia
+  - uid: '37866'
+    id_type: Tax ID No.
+    id_number: '9723038796'
+    id_country: Russia
+  - uid: '169790'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '168940'
+    id_type: Organization Established Date
+    id_number: 29 Nov 2017

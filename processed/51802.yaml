@@ -1,0 +1,32 @@
+---
+uid: '51802'
+last_name: SURREY QUAYS COMPANY  LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+address_list:
+  items:
+  - uid: '78943'
+    address1: Trust Company Complex
+    address2: Ajeltake Road
+    city: Majuro
+    state_or_province: Ajeltake Island
+    postal_code: MH96960
+    country: Marshall Islands
+id_list:
+  items:
+  - uid: '44456'
+    id_type: Identification Number
+    id_number: IMO 6398167
+  - uid: '182072'
+    id_type: Organization Established Date
+    id_number: '2023'
+  - uid: '182073'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183281'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

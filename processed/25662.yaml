@@ -1,0 +1,49 @@
+---
+uid: '25662'
+last_name: NUCLEAR SCIENCE AND TECHNOLOGY RESEARCH INSTITUTE
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '40350'
+    type: a.k.a.
+    category: strong
+    last_name: NUCLEAR SCIENCES AND TECHNOLOGIES RESEARCH INSTITUTE
+  - uid: '40768'
+    type: a.k.a.
+    category: weak
+    last_name: NSTRI
+  - uid: '46166'
+    type: a.k.a.
+    category: strong
+    last_name: RESEARCH INSTITUTE OF NUCLEAR SCIENCE AND TECHNOLOGY
+  - uid: '46167'
+    type: a.k.a.
+    category: strong
+    last_name: NUCLEAR SCIENCE AND TECHNOLOGY RESEARCH CENTER
+address_list:
+  items:
+  - uid: '38827'
+    address1: North Kargar Street
+    city: Tehran
+    country: Iran
+  - uid: '44436'
+    address1: North Kargar Ave.
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '136203'
+    id_type: Website
+    id_number: https://nstri.aeoi.org.ir/
+  - uid: '136204'
+    id_type: Website
+    id_number: https://nstri.ir/
+  - uid: '129607'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: ATOMIC ENERGY ORGANIZATION OF IRAN)"

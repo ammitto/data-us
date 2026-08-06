@@ -1,0 +1,46 @@
+---
+uid: '16725'
+first_name: Abdoulaye
+last_name: MISKINE
+sdn_type: Individual
+program_list:
+  programs:
+  - CAR
+aka_list:
+  items:
+  - uid: '25459'
+    type: a.k.a.
+    category: strong
+    last_name: KOUMTAMADJI
+    first_name: Martin Nadingar
+  - uid: '25460'
+    type: a.k.a.
+    category: strong
+    last_name: NKOUMTAMADJI
+    first_name: Martin
+  - uid: '27015'
+    type: a.k.a.
+    category: strong
+    last_name: KOUMTA MADJI
+    first_name: Martin
+address_list:
+  items:
+  - uid: '26661'
+    country: Congo, Republic of the
+date_of_birth_list:
+  items:
+  - uid: '15295'
+    date_of_birth: 05 Oct 1965
+    main_entry: 'true'
+  - uid: '15296'
+    date_of_birth: 03 Mar 1965
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '15297'
+    place_of_birth: Kobo, Central African Republic
+    main_entry: 'true'
+  - uid: '15298'
+    place_of_birth: Ndinaba, Chad
+    main_entry: 'false'
+title: General

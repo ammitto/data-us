@@ -1,0 +1,41 @@
+---
+uid: '52828'
+first_name: Shuai
+last_name: ZHOU
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER3
+address_list:
+  items:
+  - uid: '80780'
+    address1: Room 301, No. 62, Lane 287, Gulong Road
+    address2: Minhang District
+    city: Shanghai
+    postal_code: '201102'
+    country: China
+id_list:
+  items:
+  - uid: '45989'
+    id_type: National ID No.
+    id_number: '320981197907090475'
+    id_country: China
+  - uid: '45990'
+    id_type: Passport
+    id_number: E82979246
+    id_country: China
+    expiration_date: 17 Jul 2026
+  - uid: '184787'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '84785'
+    date_of_birth: '09 Jul 1979'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '84786'
+    place_of_birth: Dongtai, China
+    main_entry: 'true'
+remarks: "(Linked To: SHANGHAI HEIYING INFORMATION TECHNOLOGY COMPANY, LIMITED)"

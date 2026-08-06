@@ -1,0 +1,36 @@
+---
+uid: '21027'
+first_name: Saul
+last_name: FLORES TINAJERO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '31905'
+    country: Mexico
+id_list:
+  items:
+  - uid: '13084'
+    id_type: C.U.R.P.
+    id_number: FOTS750823HJCLNL01
+    id_country: Mexico
+  - uid: '13085'
+    id_type: R.F.C.
+    id_number: FOTS7508237W0
+    id_country: Mexico
+  - uid: '121808'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '21805'
+    date_of_birth: 23 Aug 1975
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '21806'
+    place_of_birth: Guadalajara, Jalisco, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: FLORES DRUG TRAFFICKING ORGANIZATION)"

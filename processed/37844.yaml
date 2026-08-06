@@ -1,0 +1,45 @@
+---
+uid: '37844'
+first_name: Tatiana Vladimirovna
+last_name: ARTYAKOVA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '59470'
+    type: f.k.a.
+    category: strong
+    last_name: KUREPINA
+    first_name: Tatyana Vladimirovna
+address_list:
+  items:
+  - uid: '56705'
+    address1: A 148 3 Chobotovskaya Street
+    city: Moscow
+    postal_code: '119634'
+    country: Russia
+id_list:
+  items:
+  - uid: '27141'
+    id_type: Passport
+    id_number: '512034624'
+    id_country: Russia
+  - uid: '152981'
+    id_type: Gender
+    id_number: Female
+  - uid: '174592'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '52979'
+    date_of_birth: 23 Dec 1960
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '52982'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'
+remarks: "(Linked To: ARTYAKOV, Vladimir Vladimirovich)"

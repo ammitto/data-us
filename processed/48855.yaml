@@ -1,0 +1,36 @@
+---
+uid: '48855'
+first_name: Sergey Viktorovich
+last_name: PITIKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76092'
+    type: a.k.a.
+    category: strong
+    last_name: PITIKOV
+    first_name: Sergei Viktorovich
+address_list:
+  items:
+  - uid: '73472'
+    country: Russia
+id_list:
+  items:
+  - uid: '39920'
+    id_type: Tax ID No.
+    id_number: '502208215010'
+    id_country: Russia
+  - uid: '171545'
+    id_type: Gender
+    id_number: Male
+  - uid: '171548'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '71543'
+    date_of_birth: 23 Feb 1963
+    main_entry: 'true'

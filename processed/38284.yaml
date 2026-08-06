@@ -1,0 +1,52 @@
+---
+uid: '38284'
+first_name: Kostyantyn Volodymyrovych
+last_name: IVASHCHENKO
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '60049'
+    type: a.k.a.
+    category: strong
+    last_name: IVASHHENKO
+    first_name: Konstantin Vladimirovich
+  - uid: '60050'
+    type: a.k.a.
+    category: strong
+    last_name: IVASCHENKO
+    first_name: Konstantin Volodimirovich
+  - uid: '60051'
+    type: a.k.a.
+    category: strong
+    last_name: IVASHCHENKO
+    first_name: Konstantin
+address_list:
+  items:
+  - uid: '57308'
+    city: Mariupol
+    country: Ukraine
+id_list:
+  items:
+  - uid: '27559'
+    id_type: Tax ID No.
+    id_number: '2328614173'
+    id_country: Ukraine
+  - uid: '174672'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '153574'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '53572'
+    date_of_birth: 03 Oct 1963
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '53573'
+    place_of_birth: Mariupol, Ukraine
+    main_entry: 'true'

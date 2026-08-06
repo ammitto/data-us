@@ -1,0 +1,33 @@
+---
+uid: '25654'
+last_name: TAMAS COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN
+aka_list:
+  items:
+  - uid: '40322'
+    type: a.k.a.
+    category: weak
+    last_name: TAMAS
+  - uid: '40323'
+    type: a.k.a.
+    category: strong
+    last_name: RAW MATERIALS AND NUCLEAR FUEL PRODUCTION COMPANY
+  - uid: '40324'
+    type: a.k.a.
+    category: strong
+    last_name: NUCLEAR FUEL AND RAW MATERIALS PRODUCTION COMPANY
+address_list:
+  items:
+  - uid: '38811'
+    address1: Shahid Chamran Building, North Kargar Street
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '129594'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: ATOMIC ENERGY ORGANIZATION OF IRAN)"

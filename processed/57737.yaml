@@ -1,0 +1,56 @@
+---
+uid: '57737'
+first_name: Samir 'Adnan
+last_name: HAMADI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '89359'
+    type: a.k.a.
+    category: strong
+    last_name: HAMADI
+    first_name: Samer
+address_list:
+  items:
+  - uid: '88547'
+    city: Mount Lebanon
+    country: Lebanon
+id_list:
+  items:
+  - uid: '52211'
+    id_type: Passport
+    id_number: LR0499320
+    id_country: Lebanon
+    expiration_date: 29 Jul 2022
+  - uid: '52212'
+    id_type: Birth Certificate Number
+    id_number: '533'
+    id_country: Lebanon
+  - uid: '52213'
+    id_type: Identification Number
+    id_number: '4267356'
+    id_country: Lebanon
+  - uid: '198316'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '198289'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '98286'
+    date_of_birth: 17 Feb 1982
+    main_entry: 'true'
+  - uid: '98287'
+    date_of_birth: 03 Mar 1982
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '98288'
+    place_of_birth: Bourj El Brajne, Lebanon
+    main_entry: 'true'
+remarks: "(Linked To: HIZBALLAH)"

@@ -1,0 +1,47 @@
+---
+uid: '15090'
+last_name: SINOPA
+sdn_type: Vessel
+program_list:
+  programs:
+  - IRAN
+  - SDGT
+aka_list:
+  items:
+  - uid: '22181'
+    type: f.k.a.
+    category: strong
+    last_name: SUSANGIRD
+  - uid: '24776'
+    type: f.k.a.
+    category: strong
+    last_name: DAISY
+  - uid: '40640'
+    type: f.k.a.
+    category: strong
+    last_name: SUPERIOR
+id_list:
+  items:
+  - uid: '8099'
+    id_type: Vessel Registration Identification
+    id_number: IMO 9172038
+  - uid: '8158'
+    id_type: MMSI
+    id_number: '677048400'
+  - uid: '186106'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '111581'
+    id_type: Former Vessel Flag
+    id_number: Malta
+  - uid: '113023'
+    id_type: Former Vessel Flag
+    id_number: Tanzania
+  - uid: '132473'
+    id_type: Former Vessel Flag
+    id_number: Panama
+  - uid: '119252'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: NATIONAL IRANIAN TANKER COMPANY; Linked To: HOKOUL SAL OFFSHORE)"

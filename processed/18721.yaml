@@ -1,0 +1,56 @@
+---
+uid: '18721'
+last_name: VTB BANK BELARUS CLOSED JOINT STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13662
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '29334'
+    type: a.k.a.
+    category: strong
+    last_name: VTB BANK BELARUS
+  - uid: '29335'
+    type: a.k.a.
+    category: strong
+    last_name: CJSC VTB BANK BELARUS
+  - uid: '29336'
+    type: f.k.a.
+    category: strong
+    last_name: CJSC SLAVNEFTEBANK
+  - uid: '54976'
+    type: a.k.a.
+    category: strong
+    last_name: VTB BANK BELARUS CJSC
+address_list:
+  items:
+  - uid: '28444'
+    address1: 14, Moskovskaya Street
+    city: Minsk
+    postal_code: '220007'
+    country: Belarus
+id_list:
+  items:
+  - uid: '151149'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '118216'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 1
+  - uid: '118825'
+    id_type: SWIFT/BIC
+    id_number: SLANBY22
+  - uid: '118161'
+    id_type: Website
+    id_number: www.vtb-bank.by
+  - uid: '173882'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '146663'
+    id_type: Target Type
+    id_number: Financial Institution
+remarks: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)'

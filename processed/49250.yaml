@@ -1,0 +1,33 @@
+---
+uid: '49250'
+last_name: LIFORS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76782'
+    type: a.k.a.
+    category: strong
+    last_name: LI-FORCE
+address_list:
+  items:
+  - uid: '74166'
+    address1: ul. Vavilova D. 10A
+    city: Tomsk
+    postal_code: '634055'
+    country: Russia
+id_list:
+  items:
+  - uid: '40449'
+    id_type: Registration Number
+    id_number: '1177031086649'
+    id_country: Russia
+  - uid: '40450'
+    id_type: Tax ID No.
+    id_number: '7017434753'
+    id_country: Russia
+  - uid: '172233'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

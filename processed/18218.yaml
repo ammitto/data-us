@@ -1,0 +1,61 @@
+---
+uid: '18218'
+first_name: Adham Husayn
+last_name: TABAJA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '28118'
+    type: a.k.a.
+    category: strong
+    last_name: TABAJA
+    first_name: Adham Hussein
+  - uid: '28119'
+    type: a.k.a.
+    category: strong
+    last_name: TABAJAH
+    first_name: Adham
+id_list:
+  items:
+  - uid: '10512'
+    id_type: Passport
+    id_number: RL1294089
+    id_country: Lebanon
+  - uid: '10513'
+    id_type: Identification Number
+    id_number: '00986426'
+    id_country: Iraq
+  - uid: '120181'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
+      Sanctions Regulations
+  - uid: '117424'
+    id_type: Gender
+    id_number: Male
+  - uid: '186453'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '17418'
+    date_of_birth: 24 Oct 1967
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '17420'
+    place_of_birth: Kfartebnit 50, Lebanon
+    main_entry: 'true'
+  - uid: '17421'
+    place_of_birth: Kfar Tibnit, Lebanon
+    main_entry: 'false'
+  - uid: '17422'
+    place_of_birth: Ghobeiry, Lebanon
+    main_entry: 'false'
+  - uid: '17423'
+    place_of_birth: Al Ghubayrah, Lebanon
+    main_entry: 'false'
+remarks: "(Linked To: HIZBALLAH)"

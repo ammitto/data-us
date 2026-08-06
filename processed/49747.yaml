@@ -1,0 +1,42 @@
+---
+uid: '49747'
+first_name: Gerardo
+last_name: RIVERA IBARRA
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '77556'
+    type: a.k.a.
+    category: weak
+    last_name: Compadre
+  - uid: '77557'
+    type: a.k.a.
+    category: weak
+    last_name: El Guerito
+address_list:
+  items:
+  - uid: '75131'
+    country: Mexico
+id_list:
+  items:
+  - uid: '41209'
+    id_type: C.U.R.P.
+    id_number: RIIG691129HJCVBR16
+    id_country: Mexico
+  - uid: '177048'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '77049'
+    date_of_birth: 29 Nov 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '77051'
+    place_of_birth: Jalisco, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: CARTEL DE JALISCO NUEVA GENERACION)"

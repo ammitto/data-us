@@ -1,0 +1,41 @@
+---
+uid: '751'
+last_name: EMPRESA CUBANA DE PESCADOS Y MARISCOS
+sdn_type: Entity
+program_list:
+  programs:
+  - CUBA
+aka_list:
+  items:
+  - uid: '599'
+    type: a.k.a.
+    category: weak
+    last_name: CARIBEX
+  - uid: '600'
+    type: a.k.a.
+    category: strong
+    last_name: CARIBBEAN EXPORT ENTERPRISE
+address_list:
+  items:
+  - uid: '454'
+    city: Paris
+    country: France
+  - uid: '455'
+    city: Milan
+    country: Italy
+  - uid: '456'
+    city: Moscow
+    country: Russia
+  - uid: '457'
+    city: Madrid
+    country: Spain
+  - uid: '458'
+    city: Cologne
+    country: Germany
+  - uid: '459'
+    address1: Downsview
+    city: Ontario
+    country: Canada
+  - uid: '460'
+    city: Tokyo
+    country: Japan

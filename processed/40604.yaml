@@ -1,0 +1,43 @@
+---
+uid: '40604'
+first_name: Aliasghar
+last_name: NOROUZI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+  - IRGC
+aka_list:
+  items:
+  - uid: '63125'
+    type: a.k.a.
+    category: strong
+    last_name: NOROWZI
+    first_name: Ali Asghar
+address_list:
+  items:
+  - uid: '60500'
+    country: Iran
+id_list:
+  items:
+  - uid: '29766'
+    id_type: National ID No.
+    id_number: '4591967573'
+    id_country: Iran
+  - uid: '29772'
+    id_type: Passport
+    id_number: Y53914915
+    id_country: Iran
+    expiration_date: 11 May 2026
+  - uid: '157898'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '157923'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '57899'
+    date_of_birth: 11 Nov 1962
+    main_entry: 'true'
+remarks: "(Linked To: BONYAD TAAVON SEPAH)"

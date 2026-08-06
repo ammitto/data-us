@@ -1,0 +1,33 @@
+---
+uid: '47767'
+last_name: JOINT STOCK COMPANY SEVERSKIY PIPE PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74093'
+    type: a.k.a.
+    category: weak
+    last_name: JSC STZ
+address_list:
+  items:
+  - uid: '71452'
+    address1: 7 Vershinina Street
+    city: Polevskoy
+    postal_code: '623388'
+    country: Russia
+id_list:
+  items:
+  - uid: '38438'
+    id_type: Registration Number
+    id_number: '1026601606118'
+    id_country: Russia
+  - uid: '38440'
+    id_type: Tax ID No.
+    id_number: '6626002291'
+    id_country: Russia
+  - uid: '176435'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

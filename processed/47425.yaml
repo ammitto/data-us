@@ -1,0 +1,51 @@
+---
+uid: '47425'
+last_name: AVANGARD JOINT STOCK BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73345'
+    type: a.k.a.
+    category: strong
+    last_name: AVANGARD BANK
+address_list:
+  items:
+  - uid: '70727'
+    address1: St. Bolshaya Yakimanka 1
+    city: Moscow
+    postal_code: '119180'
+    country: Russia
+  - uid: '70728'
+    address1: Sadovnicheskaya Street 12
+    address2: Bld. 1
+    city: Moscow
+    postal_code: '115035'
+    country: Russia
+id_list:
+  items:
+  - uid: '37837'
+    id_type: Registration Number
+    id_number: '1027700367507'
+    id_country: Russia
+  - uid: '37838'
+    id_type: Tax ID No.
+    id_number: '7702021163'
+    id_country: Russia
+  - uid: '37839'
+    id_type: Legal Entity Number
+    id_number: 253400K1TTC1FABJCE13
+  - uid: '176394'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '168932'
+    id_type: SWIFT/BIC
+    id_number: AVJSRUMM
+  - uid: '168930'
+    id_type: Website
+    id_number: www.avangard.ru
+  - uid: '168931'
+    id_type: Target Type
+    id_number: Financial Institution

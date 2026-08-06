@@ -1,0 +1,36 @@
+---
+uid: '10609'
+first_name: Naser
+last_name: MALEKI
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+aka_list:
+  items:
+  - uid: '10520'
+    type: a.k.a.
+    category: strong
+    last_name: MALEKI
+    first_name: Nasser
+address_list:
+  items:
+  - uid: '14735'
+    address1: c/o SHIG
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '5145'
+    id_type: Passport
+    id_number: A0003039
+    id_country: Iran
+  - uid: '113716'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '5939'
+    date_of_birth: circa 1960
+    main_entry: 'true'

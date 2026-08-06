@@ -1,0 +1,32 @@
+---
+uid: '32081'
+last_name: INT INVEST EOOD
+sdn_type: Entity
+program_list:
+  programs:
+  - GLOMAG
+address_list:
+  items:
+  - uid: '48310'
+    address1: 119 Ekzarh Yosif Str.
+    address2: Oborishte Distr.
+    city: Sofia
+    postal_code: '1527'
+    country: Bulgaria
+  - uid: '48311'
+    address1: 79, Ralevitsa Str.
+    address2: Vitosha Distr.
+    city: Sofia
+    state_or_province: Stolichna
+    postal_code: '1618'
+    country: Bulgaria
+id_list:
+  items:
+  - uid: '21861'
+    id_type: V.A.T. Number
+    id_number: BG 205535941
+    id_country: Bulgaria
+  - uid: '140943'
+    id_type: Organization Established Date
+    id_number: '2019'
+remarks: "(Linked To: INTRUST PLC EAD)"

@@ -1,0 +1,29 @@
+---
+uid: '41117'
+last_name: LIMITED LIABILITY COMPANY TEKHARGOS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '61464'
+    address1: Lower Krasnoselskaya street, house 35, floor 9
+    address2: Unit 1, room 17, building 64
+    city: Moscow
+    postal_code: '105066'
+    country: Russia
+id_list:
+  items:
+  - uid: '30459'
+    id_type: Registration Number
+    id_number: '1177746436560'
+    id_country: Russia
+  - uid: '30460'
+    id_type: Tax ID No.
+    id_number: '7716856518'
+    id_country: Russia
+  - uid: '173647'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: LIMITED LIABILITY COMPANY CITADEL)"

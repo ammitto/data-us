@@ -1,0 +1,44 @@
+---
+uid: '50675'
+first_name: Saeed
+last_name: BEHESHTI RAD
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+  - IRGC
+aka_list:
+  items:
+  - uid: '79285'
+    type: a.k.a.
+    category: strong
+    last_name: BEHESHTIRAD
+    first_name: Saeed
+  - uid: '79322'
+    type: a.k.a.
+    category: strong
+    last_name: BEHESHTIRAD
+    first_name: Sa'id
+id_list:
+  items:
+  - uid: '42534'
+    id_type: National ID No.
+    id_number: '3251912062'
+    id_country: Iran
+  - uid: '179294'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '179129'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '79237'
+    date_of_birth: 23 Sep 1977
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '79238'
+    place_of_birth: Kermanshah, Iran
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS)"

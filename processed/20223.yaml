@@ -1,0 +1,39 @@
+---
+uid: '20223'
+last_name: T-RUBBER CO., LTD
+sdn_type: Entity
+program_list:
+  programs:
+  - PAARSSR-EO13894
+aka_list:
+  items:
+  - uid: '31881'
+    type: a.k.a.
+    category: strong
+    last_name: T-RUBBER LTD
+  - uid: '31882'
+    type: a.k.a.
+    category: weak
+    last_name: T-RUBBER
+  - uid: '31883'
+    type: a.k.a.
+    category: strong
+    last_name: T-RUBBER COMPANY
+address_list:
+  items:
+  - uid: '30555'
+    address1: Rubber Industrial Zone, Shaling Town, Yuhong District
+    city: Shenyang
+    postal_code: '110144'
+    country: China
+  - uid: '30556'
+    address1: No. 5-1, Shenxi Sandong Road, Economic Technology Development Area
+    city: Shenyang
+    state_or_province: Liaoning
+    postal_code: '110002'
+    country: China
+id_list:
+  items:
+  - uid: '120704'
+    id_type: Website
+    id_number: http://www.t-rubber.com/

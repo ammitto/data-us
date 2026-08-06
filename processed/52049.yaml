@@ -1,0 +1,47 @@
+---
+uid: '52049'
+last_name: NATIONAL DEVELOPMENT COMPLEX
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+aka_list:
+  items:
+  - uid: '81496'
+    type: a.k.a.
+    category: weak
+    last_name: NDC
+  - uid: '81497'
+    type: a.k.a.
+    category: strong
+    last_name: NATIONAL DEVELOPMENT CENTRE
+  - uid: '81498'
+    type: a.k.a.
+    category: strong
+    last_name: NATIONAL DEFENSE COMPLEX
+address_list:
+  items:
+  - uid: '79367'
+    address1: Plot No. 94
+    address2: NESCOM Complex (NDC)
+    address3: H-11/4
+    city: Islamabad
+    state_or_province: Islamabad Urban
+    country: Pakistan
+  - uid: '79368'
+    city: Fateh Jang
+    state_or_province: Punjab, Rawalpindi
+    country: Pakistan
+  - uid: '79371'
+    address1: P.O Box 2216
+    city: Islamabad
+    country: Pakistan
+id_list:
+  items:
+  - uid: '44881'
+    id_type: Tax ID No.
+    id_number: '9010629'
+    id_country: Pakistan
+  - uid: '182744'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

@@ -1,0 +1,36 @@
+---
+uid: '55402'
+first_name: Zhaolan
+last_name: SUN
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+address_list:
+  items:
+  - uid: '84692'
+    country: China
+id_list:
+  items:
+  - uid: '49386'
+    id_type: National ID No.
+    id_number: '370724194903211927'
+    id_country: China
+  - uid: '192772'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '192770'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '92768'
+    date_of_birth: 21 Mar 1949
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '92773'
+    place_of_birth: Linqu County, Weifang City, Shandong, China
+    main_entry: 'true'
+remarks: "(Linked To: WESTCOM TECHNOLOGY CO LIMITED)"

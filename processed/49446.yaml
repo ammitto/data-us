@@ -1,0 +1,44 @@
+---
+uid: '49446'
+last_name: POLY TECHNOLOGIES INCORPORATED
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77127'
+    type: a.k.a.
+    category: strong
+    last_name: POLY TECHNOLOGIES INC
+  - uid: '77128'
+    type: a.k.a.
+    category: weak
+    last_name: PTI
+address_list:
+  items:
+  - uid: '74562'
+    address1: 27 F, New Poly Building, No. 1, Chaoyangmen North Street, Dongcheng
+      District
+    city: Beijing
+    postal_code: '100010'
+    country: China
+id_list:
+  items:
+  - uid: '40765'
+    id_type: Unified Social Credit Code (USCC)
+    id_number: 91110000100001529B
+    id_country: China
+  - uid: '40766'
+    id_type: Registration Number
+    id_number: '100000000001523'
+    id_country: China
+  - uid: '172750'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '172516'
+    id_type: Organization Established Date
+    id_number: 28 Dec 1983
+  - uid: '172517'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

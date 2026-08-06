@@ -1,0 +1,31 @@
+---
+uid: '37501'
+first_name: Nikita Alekseyevich
+last_name: MORDASHOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '56097'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '26699'
+    id_type: Tax ID No.
+    id_number: '352807644913'
+    id_country: Russia
+  - uid: '152369'
+    id_type: Gender
+    id_number: Male
+  - uid: '173418'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '52368'
+    date_of_birth: 16 Dec 2000
+    main_entry: 'true'
+remarks: "(Linked To: MORDASHOV, Alexey Aleksandrovich)"

@@ -1,0 +1,43 @@
+---
+uid: '43380'
+first_name: Sergey Gennadevich
+last_name: MALYSHEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '67236'
+    type: a.k.a.
+    category: strong
+    last_name: MALYSHEV
+    first_name: Sergey Gennadyevich
+  - uid: '67237'
+    type: a.k.a.
+    category: strong
+    last_name: MALYSHEV
+    first_name: Sergei Gennadevich
+address_list:
+  items:
+  - uid: '64731'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '175714'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '162746'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '62744'
+    date_of_birth: 11 Jun 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '62745'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'

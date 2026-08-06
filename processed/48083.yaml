@@ -1,0 +1,47 @@
+---
+uid: '48083'
+first_name: Victor
+last_name: LIZARRAGA MARTINEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '74682'
+    type: a.k.a.
+    category: weak
+    last_name: El 20
+  - uid: '74683'
+    type: a.k.a.
+    category: weak
+    last_name: El Veinte
+address_list:
+  items:
+  - uid: '72108'
+    city: Tacuichamona, Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '72293'
+    city: Pueblos Unidos, Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+id_list:
+  items:
+  - uid: '38973'
+    id_type: C.U.R.P.
+    id_number: LIMV720323HSLZRC07
+    id_country: Mexico
+  - uid: '169986'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '69983'
+    date_of_birth: 23 Mar 1972
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '69984'
+    place_of_birth: Sinaloa, Mexico
+    main_entry: 'true'

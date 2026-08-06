@@ -1,0 +1,45 @@
+---
+uid: '22323'
+last_name: KOREA COMPUTER CENTER
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK3
+aka_list:
+  items:
+  - uid: '35132'
+    type: a.k.a.
+    category: strong
+    last_name: KOREA COMPUTER COMPANY
+  - uid: '35133'
+    type: a.k.a.
+    category: strong
+    last_name: CHOSON COMPUTER CENTER
+  - uid: '35134'
+    type: a.k.a.
+    category: strong
+    last_name: CHUNG SUN COMPUTER CENTER
+address_list:
+  items:
+  - uid: '33789'
+    city: Pyongyang
+    country: Korea, North
+  - uid: '33790'
+    country: Germany
+  - uid: '33791'
+    country: China
+  - uid: '33792'
+    country: Syria
+  - uid: '33793'
+    country: India
+  - uid: '33794'
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '127228'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '135041'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214

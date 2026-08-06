@@ -1,0 +1,29 @@
+---
+uid: '24034'
+first_name: Roozbeh
+last_name: SABAHI
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+id_list:
+  items:
+  - uid: '126177'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '126139'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '26135'
+    date_of_birth: '08 Mar 1994'
+    main_entry: 'true'
+  - uid: '26136'
+    date_of_birth: '09 Mar 1994'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '26137'
+    place_of_birth: Iran
+    main_entry: 'true'

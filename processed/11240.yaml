@@ -1,0 +1,77 @@
+---
+uid: '11240'
+first_name: Jose Gerardo
+last_name: ALVAREZ VAZQUEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '11649'
+    type: a.k.a.
+    category: strong
+    last_name: ZALDIVAR VEGA
+    first_name: Javier
+  - uid: '11650'
+    type: a.k.a.
+    category: strong
+    last_name: SANCHEZ SALAMANCA
+    first_name: Salvador
+  - uid: '11651'
+    type: a.k.a.
+    category: strong
+    last_name: ALVAREZ VASQUEZ
+    first_name: Jose Gerardo
+  - uid: '11652'
+    type: a.k.a.
+    category: strong
+    last_name: ALVAREZ ALVAREZ
+    first_name: Gerardo
+  - uid: '11653'
+    type: a.k.a.
+    category: strong
+    last_name: ALVAREZ VASQUEZ
+    first_name: Joel
+  - uid: '11654'
+    type: a.k.a.
+    category: strong
+    last_name: ALVAREZ VELASQUEZ
+    first_name: Jose Gerardo
+  - uid: '11655'
+    type: a.k.a.
+    category: weak
+    last_name: EL INDIO
+  - uid: '11656'
+    type: a.k.a.
+    category: weak
+    last_name: EL GERA
+address_list:
+  items:
+  - uid: '16409'
+    address1: c/o AMERICAN TUNE UP, S.A. DE C.V.
+    city: Guadalajara
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '16410'
+    address1: 'Avenida Gonzalez Gallo #2537'
+    address2: Sector Reforma
+    city: Guadalajara
+    state_or_province: Jalisco
+    country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '6570'
+    date_of_birth: 03 Nov 1963
+    main_entry: 'true'
+  - uid: '6571'
+    date_of_birth: 24 Sep 1965
+    main_entry: 'false'
+  - uid: '6572'
+    date_of_birth: 10 May 1966
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '6573'
+    place_of_birth: Las Avilas, Guerrero, Mexico
+    main_entry: 'true'

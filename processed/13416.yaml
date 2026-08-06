@@ -1,0 +1,52 @@
+---
+uid: '13416'
+first_name: Abbas Loutfe
+last_name: FAWAZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '22913'
+    type: a.k.a.
+    category: strong
+    last_name: FOUAZ
+    first_name: Abbas
+  - uid: '23333'
+    type: a.k.a.
+    category: strong
+    last_name: FAWWAZ
+    first_name: "'Abbas Abu-Ahmad"
+address_list:
+  items:
+  - uid: '23136'
+    city: Dakar
+    country: Senegal
+id_list:
+  items:
+  - uid: '8317'
+    id_type: Personal ID Card
+    id_number: '096574S'
+    id_country: Senegal
+  - uid: '120136'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
+      Sanctions Regulations
+  - uid: '186093'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '12628'
+    date_of_birth: 07 Aug 1978
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '12629'
+    place_of_birth: Jwaya, Lebanon
+    main_entry: 'true'
+  - uid: '12630'
+    place_of_birth: Dakar, Senegal
+    main_entry: 'false'

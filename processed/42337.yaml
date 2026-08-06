@@ -1,0 +1,41 @@
+---
+uid: '42337'
+last_name: MURAD EN SONS DIAMONDS
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '65759'
+    type: a.k.a.
+    category: weak
+    last_name: M.S.D.
+address_list:
+  items:
+  - uid: '63184'
+    address1: 30 Hoveniersstraat
+    city: Antwerp
+    postal_code: '2018'
+    country: Belgium
+id_list:
+  items:
+  - uid: '31843'
+    id_type: Registration Number
+    id_number: 1759006-72
+    id_country: Belgium
+  - uid: '31844'
+    id_type: Tax ID No.
+    id_number: '0461522238'
+    id_country: Belgium
+  - uid: '160697'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '161107'
+    id_type: 'Organization Type:'
+    id_number: Wholesale of jewelry, watches, precious stones, and precious metals
+  - uid: '160696'
+    id_type: Organization Established Date
+    id_number: 18 Sep 1997
+remarks: "(Linked To: MURAD, Bassem)"

@@ -1,0 +1,27 @@
+---
+uid: '13060'
+first_name: Zeyneddin
+last_name: GELERI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '20832'
+    address1: c/o GELERI IMPORT EXPORT S.R.L.
+  - uid: '20833'
+    address1: c/o MEGA GROUP S.R.L.
+date_of_birth_list:
+  items:
+  - uid: '8864'
+    date_of_birth: 13 Oct 1973
+    main_entry: 'true'
+  - uid: '8865'
+    date_of_birth: 13 Oct 1977
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '8866'
+    place_of_birth: Mardin, Turkey
+    main_entry: 'true'

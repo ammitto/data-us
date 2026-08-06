@@ -1,0 +1,40 @@
+---
+uid: '41095'
+last_name: PUBLIC JOINT STOCK COMPANY ZAVOD TULA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '64081'
+    type: a.k.a.
+    category: strong
+    last_name: ZAVOD TULA PAO
+  - uid: '64082'
+    type: a.k.a.
+    category: strong
+    last_name: PJSC ZAVOD TULA
+address_list:
+  items:
+  - uid: '61422'
+    address1: 28 F. Smirnov Street
+    city: Tula, Tula Region
+    postal_code: '300041'
+    country: Russia
+id_list:
+  items:
+  - uid: '30433'
+    id_type: Tax ID No.
+    id_number: '7104002862'
+    id_country: Russia
+  - uid: '30434'
+    id_type: Registration Number
+    id_number: '1027100592210'
+    id_country: Russia
+  - uid: '173626'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '159032'
+    id_type: Organization Established Date
+    id_number: 12 Jan 1993

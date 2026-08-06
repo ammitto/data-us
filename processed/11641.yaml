@@ -1,0 +1,58 @@
+---
+uid: '11641'
+last_name: PETROIRAN DEVELOPMENT COMPANY (PEDCO) LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN
+aka_list:
+  items:
+  - uid: '12356'
+    type: a.k.a.
+    category: weak
+    last_name: PEDCO
+  - uid: '12357'
+    type: a.k.a.
+    category: strong
+    last_name: PETRO IRAN DEVELOPMENT COMPANY
+address_list:
+  items:
+  - uid: '17500'
+    address1: 41, 1st Floor, International House
+    address2: The Parade
+    city: St. Helier
+    postal_code: JE2 3QQ
+    country: Jersey
+  - uid: '17501'
+    address1: National Iranian Oil Company - PEDCO, P.O. Box 2965, Al Bathaa Tower,
+      9th Floor, Apt. 905, Al Buhaira Corniche
+    city: Sharjah
+    country: United Arab Emirates
+  - uid: '17502'
+    address1: P.O. Box 15875-6731
+    city: Tehran
+    country: Iran
+  - uid: '17503'
+    address1: No. 22, 7th Lane, Khalid Eslamboli Street, Shahid Beheshti Avenue
+    city: Tehran
+    country: Iran
+  - uid: '17504'
+    address1: No. 102, Next to Shahid Amir Soheil Tabrizian Alley, Shahid Dastgerdi
+      (Ex Zafar) Street, Shariati Street
+    city: Tehran
+    postal_code: 19199/45111
+    country: Iran
+  - uid: '17505'
+    address1: Kish Harbour, Bazargan Ferdos Warehouses
+    city: Kish Island
+    country: Iran
+id_list:
+  items:
+  - uid: '6010'
+    id_type: Registration ID
+    id_number: '67493'
+    id_country: Jersey
+  - uid: '119016'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: all offices worldwide

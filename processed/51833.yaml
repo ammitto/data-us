@@ -1,0 +1,45 @@
+---
+uid: '51833'
+last_name: JOINT STOCK COMPANY SEVERGAZBANK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '81161'
+    type: a.k.a.
+    category: strong
+    last_name: AO BANK SGB
+address_list:
+  items:
+  - uid: '78991'
+    address1: 3, Blagoveschenskaya Ul.
+    city: Vologda
+    postal_code: '160001'
+    country: Russia
+id_list:
+  items:
+  - uid: '44519'
+    id_type: Legal Entity Number
+    id_number: 2534005FGCP61AM3L807
+  - uid: '44520'
+    id_type: Registration Number
+    id_number: '1023500000160'
+    id_country: Russia
+  - uid: '44521'
+    id_type: Tax ID No.
+    id_number: '3525023780'
+    id_country: Russia
+  - uid: '182171'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '182172'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '182170'
+    id_type: SWIFT/BIC
+    id_number: SGAZRU22
+  - uid: '182168'
+    id_type: Website
+    id_number: www.severgazbank.ru

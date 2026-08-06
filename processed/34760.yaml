@@ -1,0 +1,29 @@
+---
+uid: '34760'
+last_name: SOVCOMBANK TECHNOLOGIES LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '52096'
+    address1: Ul. Vokzalnaya D. 3b
+    address2: Pomeshch. 49, Kom. 307
+    city: Odintsovo
+    postal_code: '143007'
+    country: Russia
+id_list:
+  items:
+  - uid: '24436'
+    id_type: Tax ID No.
+    id_number: '4400001172'
+    id_country: Russia
+  - uid: '24437'
+    id_type: Registration Number
+    id_number: '1214400000760'
+    id_country: Russia
+  - uid: '175203'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: SOVCOMBANK OPEN JOINT STOCK COMPANY)"

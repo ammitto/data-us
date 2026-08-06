@@ -1,0 +1,51 @@
+---
+uid: '36003'
+first_name: Mohammad Ali
+last_name: HOSSEINI
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '56649'
+    type: a.k.a.
+    category: strong
+    last_name: HOSEINI
+    first_name: Mohammad Ali
+  - uid: '56650'
+    type: a.k.a.
+    category: weak
+    last_name: HOSEINI, Mohammadali
+  - uid: '56651'
+    type: a.k.a.
+    category: weak
+    last_name: HOSSENI, M. Ali
+address_list:
+  items:
+  - uid: '54064'
+    country: Iran
+id_list:
+  items:
+  - uid: '25338'
+    id_type: Passport
+    id_number: U41608657
+    id_country: Iran
+  - uid: '25339'
+    id_type: National ID No.
+    id_number: '0579705900'
+    id_country: Iran
+  - uid: '149342'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '149298'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '49297'
+    date_of_birth: 16 Sep 1969
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS RESEARCH AND SELF-SUFFICIENCY
+  JEHAD ORGANIZATION; Linked To: PARCHIN CHEMICAL INDUSTRIES)"

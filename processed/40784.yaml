@@ -1,0 +1,70 @@
+---
+uid: '40784'
+first_name: Aleksei Dmitrievich
+last_name: GNEDOVSKII
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63427'
+    type: a.k.a.
+    category: strong
+    last_name: GNEDOVSKIY
+    first_name: Alexey
+  - uid: '63428'
+    type: a.k.a.
+    category: strong
+    last_name: GNEDOVSKI
+    first_name: Aleksei Dmitrievich
+address_list:
+  items:
+  - uid: '60786'
+    address1: 32 Olimpiyskiy Prospekt
+    address2: Apt 10
+    city: Moscow
+    postal_code: '129272'
+    country: Russia
+id_list:
+  items:
+  - uid: '29971'
+    id_type: Tax ID No.
+    id_number: '770200079259'
+    id_country: Russia
+  - uid: '29972'
+    id_type: National ID No.
+    id_number: '1295013'
+    id_country: Cyprus
+  - uid: '30015'
+    id_type: Passport
+    id_number: K00221183
+    id_country: Cyprus
+    issue_date: 07 May 2015
+    expiration_date: 07 May 2025
+  - uid: '30016'
+    id_type: Passport
+    id_number: '721036977'
+    id_country: Russia
+    expiration_date: 06 Sep 2022
+  - uid: '30017'
+    id_type: Passport
+    id_number: '722881075'
+    id_country: Russia
+    expiration_date: 06 Sep 2022
+  - uid: '174140'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '158283'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '58281'
+    date_of_birth: 31 Dec 1964
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '58339'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'

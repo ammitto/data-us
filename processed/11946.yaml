@@ -1,0 +1,40 @@
+---
+uid: '11946'
+first_name: Ruben Alejandro
+last_name: VALENZUELA ZUNIGA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '18139'
+    address1: Privada Garcia Conde No. 107, Int. 06
+    address2: Col. San Felipe
+    city: Chihuahua
+    state_or_province: Chihuaha
+    country: Mexico
+id_list:
+  items:
+  - uid: '6343'
+    id_type: Electoral Registry No.
+    id_number: VLZGRB72121605H300
+    id_country: Mexico
+  - uid: '6344'
+    id_type: Cartilla de Servicio Militar Nacional
+    id_number: B-8193135
+    id_country: Mexico
+  - uid: '6345'
+    id_type: R.F.C.
+    id_number: VAZR721216
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '7534'
+    date_of_birth: 16 Dec 1972
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '7535'
+    place_of_birth: Torreon, Coahuila
+    main_entry: 'true'

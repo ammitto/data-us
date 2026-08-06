@@ -1,0 +1,31 @@
+---
+uid: '23520'
+last_name: KOREA MARINE & INDUSTRIAL TRDG
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK4
+aka_list:
+  items:
+  - uid: '37211'
+    type: a.k.a.
+    category: strong
+    last_name: KOREA MARINE AND INDUSTRIAL TRDG
+address_list:
+  items:
+  - uid: '35565'
+    address1: Changgyong 2-dong, Sosong-guyok
+    city: Pyongyang
+    country: Korea, North
+id_list:
+  items:
+  - uid: '15058'
+    id_type: Company Number
+    id_number: IMO 5928635
+  - uid: '135117'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '127354'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210

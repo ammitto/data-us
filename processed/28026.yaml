@@ -1,0 +1,57 @@
+---
+uid: '28026'
+first_name: Muhammed
+last_name: LUMISA
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '44162'
+    type: a.k.a.
+    category: strong
+    last_name: LUMISA
+    first_name: Muhamad
+  - uid: '44163'
+    type: a.k.a.
+    category: weak
+    last_name: LUMINSA
+  - uid: '44165'
+    type: a.k.a.
+    category: weak
+    last_name: LUMWISA
+  - uid: '44166'
+    type: a.k.a.
+    category: weak
+    last_name: KATO, L.
+  - uid: '44167'
+    type: a.k.a.
+    category: weak
+    last_name: Mukade
+  - uid: '44168'
+    type: a.k.a.
+    category: weak
+    last_name: Mukake
+address_list:
+  items:
+  - uid: '42398'
+    country: Congo, Democratic Republic of the
+id_list:
+  items:
+  - uid: '133354'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '33357'
+    date_of_birth: '1959'
+    main_entry: 'true'
+  - uid: '33358'
+    date_of_birth: 1959 to 1965
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '33355'
+    place_of_birth: Kampala District, Central Region, Uganda
+    main_entry: 'true'

@@ -1,0 +1,33 @@
+---
+uid: '45739'
+last_name: ZAVOD KOMPLEKSNYE DOROZHNYE MASHINY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70665'
+    type: a.k.a.
+    category: strong
+    last_name: OOO ZAVOD KDM
+address_list:
+  items:
+  - uid: '68035'
+    address1: Ul. Udarnikov D.1
+    city: Smolensk
+    postal_code: '214012'
+    country: Russia
+id_list:
+  items:
+  - uid: '35460'
+    id_type: Registration Number
+    id_number: '1046758319090'
+    id_country: Russia
+  - uid: '35461'
+    id_type: Tax ID No.
+    id_number: '6730053398'
+    id_country: Russia
+  - uid: '176982'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

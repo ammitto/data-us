@@ -1,0 +1,53 @@
+---
+uid: '33674'
+first_name: Xinrong
+last_name: ZHUO
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '52879'
+    type: a.k.a.
+    category: strong
+    last_name: XINRONG
+    first_name: Zhuo
+  - uid: '52880'
+    type: a.k.a.
+    category: strong
+    last_name: ZHUO
+    first_name: Longxiong
+address_list:
+  items:
+  - uid: '50488'
+    country: China
+  - uid: '50489'
+    address1: Flat B, 27th Floor, Ko On Mansion, Taikoo Shing
+    city: Hong Kong
+    country: China
+id_list:
+  items:
+  - uid: '23316'
+    id_type: National ID No.
+    id_number: R4016407
+    id_country: Hong Kong
+  - uid: '23317'
+    id_type: Passport
+    id_number: D00579743
+    id_country: Hong Kong
+    issue_date: 28 Apr 2018
+    expiration_date: 28 Apr 2025
+  - uid: '144530'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '44527'
+    date_of_birth: 10 Nov 1964
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '44528'
+    place_of_birth: Fuzhou, China
+    main_entry: 'true'

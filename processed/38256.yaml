@@ -1,0 +1,50 @@
+---
+uid: '38256'
+first_name: Nariman Gadzhievich
+last_name: GADZHIEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '60027'
+    type: a.k.a.
+    category: strong
+    last_name: GADZHIYEV
+    first_name: Nariman Gadzhiyevich
+address_list:
+  items:
+  - uid: '57288'
+    address1: Tannegg 1
+    city: St. Niklausen
+    postal_code: '6005'
+    country: Switzerland
+  - uid: '57289'
+    city: Dubai
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '27542'
+    id_type: Passport
+    id_number: RE0032776
+    id_country: Saint Kitts and Nevis
+    issue_date: 19 Feb 2015
+    expiration_date: 18 Feb 2025
+  - uid: '153533'
+    id_type: Gender
+    id_number: Male
+  - uid: '174663'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '53531'
+    date_of_birth: 31 May 1976
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '53532'
+    place_of_birth: Derbent, Russia
+    main_entry: 'true'
+remarks: "(Linked To: KERIMOV, Suleiman Abusaidovich)"

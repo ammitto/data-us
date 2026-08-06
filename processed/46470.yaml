@@ -1,0 +1,62 @@
+---
+uid: '46470'
+last_name: PUBLICHNOE AKTSIONERNOE OBSCHESTVO CITY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '71705'
+    type: a.k.a.
+    category: weak
+    last_name: CITY PUBLIC JOINT STOCK COMPANY
+  - uid: '71706'
+    type: a.k.a.
+    category: strong
+    last_name: PUBLICHNOE AKTSIONERNOE OBSCHESTVO SITI
+  - uid: '71707'
+    type: a.k.a.
+    category: weak
+    last_name: SITI PAO
+  - uid: '71708'
+    type: f.k.a.
+    category: strong
+    last_name: OTKRYTOE AKTSIONERNOE OBSCHESTVO CITY
+  - uid: '71710'
+    type: a.k.a.
+    category: weak
+    last_name: MANAGEMENT COMPANY MOSCOW CITY
+address_list:
+  items:
+  - uid: '69116'
+    address1: 9 Nab Frunzenskaya
+    city: Moscow
+    postal_code: '119146'
+    country: Russia
+  - uid: '69117'
+    address1: d. 6 str. 2 etazh 2 Pomesch.I kom. 33, 34
+    address2: Naberezhnaya Presnenskaya
+    city: Moscow
+    postal_code: '123112'
+    country: Russia
+id_list:
+  items:
+  - uid: '36356'
+    id_type: Registration Number
+    id_number: '1027700068440'
+    id_country: Russia
+  - uid: '36357'
+    id_type: Government Gazette Number
+    id_number: '17434671'
+    id_country: Russia
+  - uid: '36358'
+    id_type: Tax ID No.
+    id_number: '7704026946'
+    id_country: Russia
+  - uid: '174968'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '167265'
+    id_type: Organization Established Date
+    id_number: 22 May 1992

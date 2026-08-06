@@ -1,0 +1,42 @@
+---
+uid: '45054'
+last_name: TRANSMASHHOLDING JSC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '69814'
+    type: a.k.a.
+    category: strong
+    last_name: AO TRANSMASHHOLDING
+  - uid: '69815'
+    type: a.k.a.
+    category: weak
+    last_name: TMH
+address_list:
+  items:
+  - uid: '67101'
+    address1: ul. Efremova D. 10
+    city: Moscow
+    postal_code: '119048'
+    country: Russia
+id_list:
+  items:
+  - uid: '34768'
+    id_type: Tax ID No.
+    id_number: '7723199790'
+    id_country: Russia
+  - uid: '34769'
+    id_type: Registration Number
+    id_number: '1027739893246'
+    id_country: Russia
+  - uid: '175926'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184549'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

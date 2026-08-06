@@ -1,0 +1,48 @@
+---
+uid: '29785'
+first_name: Masoud
+last_name: KARBASIAN
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+  - IFSR
+aka_list:
+  items:
+  - uid: '46777'
+    type: a.k.a.
+    category: strong
+    last_name: KARBASIAN
+    first_name: Mas'ud
+id_list:
+  items:
+  - uid: '19960'
+    id_type: National ID No.
+    id_number: '1286504104'
+    id_country: Iran
+  - uid: '19961'
+    id_type: Passport
+    id_number: D10002096
+    id_country: Iran
+    expiration_date: 26 Aug 2022
+  - uid: '187071'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '137394'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '136735'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '36911'
+    date_of_birth: 14 Jun 1956
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '36733'
+    place_of_birth: Isfahan, Iran
+    main_entry: 'true'
+remarks: "(Linked To: NATIONAL IRANIAN OIL COMPANY)"

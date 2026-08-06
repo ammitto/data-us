@@ -1,0 +1,35 @@
+---
+uid: '46699'
+first_name: Zarakh Binsionovich
+last_name: ILIEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '69560'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '36745'
+    id_type: Tax ID No.
+    id_number: '500102003928'
+    id_country: Russia
+  - uid: '175084'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '167507'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '67505'
+    date_of_birth: '08 Sep 1966'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '67506'
+    place_of_birth: Krasnaya Sloboda, Azerbaijan
+    main_entry: 'true'

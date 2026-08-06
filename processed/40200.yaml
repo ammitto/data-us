@@ -1,0 +1,48 @@
+---
+uid: '40200'
+last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU VTB SYRYEVYE TOVARY KHOLDING
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '62485'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S ORGANICHENNOI OTVETSTVENNOSTYU VTB SYREVYE TOVARY KHOLDING
+  - uid: '62486'
+    type: a.k.a.
+    category: strong
+    last_name: VTB SYRYEVYE TOVARY KHOLDING
+  - uid: '62489'
+    type: a.k.a.
+    category: strong
+    last_name: VTB SYREVYE TOVARY KHOLDING OOO
+address_list:
+  items:
+  - uid: '59878'
+    address1: Nab. Presnenskaya D. 12, Floor 31 Mesto 31.147
+    city: Moscow
+    postal_code: '123112'
+    country: Russia
+id_list:
+  items:
+  - uid: '29373'
+    id_type: Registration Number
+    id_number: '1167746344248'
+    id_country: Russia
+  - uid: '29374'
+    id_type: Tax ID No.
+    id_number: '7703408597'
+    id_country: Russia
+  - uid: '157105'
+    id_type: Organization Established Date
+    id_number: 30 Mar 2016
+  - uid: '174030'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '157106'
+    id_type: 'Organization Type:'
+    id_number: Non-specialized wholesale trade
+remarks: "(Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)"

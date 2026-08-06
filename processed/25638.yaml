@@ -1,0 +1,32 @@
+---
+uid: '25638'
+last_name: RADIATION APPLICATIONS DEVELOPMENT COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN
+aka_list:
+  items:
+  - uid: '40268'
+    type: a.k.a.
+    category: strong
+    last_name: RADIATION APPLICATIONS DEVELOPMENT HOLDING COMPANY
+  - uid: '40269'
+    type: a.k.a.
+    category: weak
+    last_name: RADIATION APPLICATIONS
+  - uid: '40755'
+    type: a.k.a.
+    category: weak
+    last_name: RAD
+address_list:
+  items:
+  - uid: '38778'
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '129571'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: ATOMIC ENERGY ORGANIZATION OF IRAN)"

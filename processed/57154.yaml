@@ -1,0 +1,40 @@
+---
+uid: '57154'
+first_name: Abdolazim
+last_name: GHANBARIAN
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '87534'
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '51387'
+    id_type: National ID No.
+    id_number: '2371885916'
+    id_country: Iran
+  - uid: '51388'
+    id_type: Passport
+    id_number: F62564214
+    id_country: Iran
+  - uid: '196819'
+    id_type: Gender
+    id_number: Male
+  - uid: '197503'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '96817'
+    date_of_birth: 23 Jul 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '96818'
+    place_of_birth: Kazerun, Iran
+    main_entry: 'true'
+remarks: "(Linked To: NAGHSH SIMORGH SAHAND LLC)"

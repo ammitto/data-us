@@ -1,0 +1,44 @@
+---
+uid: '48313'
+last_name: LIMITED LIABILITY COMPANY STG LOGISTIC
+sdn_type: Entity
+program_list:
+  programs:
+  - PAARSSR-EO13894
+aka_list:
+  items:
+  - uid: '75054'
+    type: a.k.a.
+    category: strong
+    last_name: OOO STG LOGISTIK
+  - uid: '75055'
+    type: a.k.a.
+    category: strong
+    last_name: STG STROYTRANSGAZ LOGISTIC
+  - uid: '75056'
+    type: a.k.a.
+    category: weak
+    last_name: STG LOGISTIC
+address_list:
+  items:
+  - uid: '72451'
+    address1: 12 Universitetsky Ave
+    city: Moscow
+    postal_code: '119330'
+    country: Russia
+  - uid: '72452'
+    city: Damascus
+    country: Syria
+id_list:
+  items:
+  - uid: '39157'
+    id_type: Registration Number
+    id_number: '1095027004236'
+    id_country: Russia
+  - uid: '39158'
+    id_type: Tax ID No.
+    id_number: '5027148148'
+    id_country: Russia
+  - uid: '170495'
+    id_type: Organization Established Date
+    id_number: 04 Sep 2009

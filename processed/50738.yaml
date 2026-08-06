@@ -1,0 +1,37 @@
+---
+uid: '50738'
+last_name: JOINT STOCK COMPANY INTELLECT MASHINE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79421'
+    type: a.k.a.
+    category: weak
+    last_name: JSC IM
+address_list:
+  items:
+  - uid: '76951'
+    address1: PR-KT Lakhtinskii, D. 85
+    address2: 'K. 2, Lit. A, Floor 3, Office 10, PO PIB, Pomeshch #205-206, #209-210'
+    city: Saint Petersburg
+    postal_code: '197229'
+    country: Russia
+id_list:
+  items:
+  - uid: '42610'
+    id_type: Registration Number
+    id_number: '1227800047496'
+    id_country: Russia
+  - uid: '42611'
+    id_type: Tax ID No.
+    id_number: '7801711200'
+    id_country: Russia
+  - uid: '179363'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '179362'
+    id_type: Organization Established Date
+    id_number: 15 Apr 2022

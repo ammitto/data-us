@@ -1,0 +1,35 @@
+---
+uid: '33175'
+first_name: Ihar Mikalaevich
+last_name: PECHAN
+sdn_type: Individual
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '52185'
+    type: a.k.a.
+    category: strong
+    last_name: PECHEN
+    first_name: Igor Nikolaevich
+address_list:
+  items:
+  - uid: '49851'
+    city: Minsk
+    country: Belarus
+id_list:
+  items:
+  - uid: '143030'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '43029'
+    date_of_birth: 01 May 1965
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '43031'
+    place_of_birth: Smolensk, Russia
+    main_entry: 'true'

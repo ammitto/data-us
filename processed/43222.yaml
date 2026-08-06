@@ -1,0 +1,36 @@
+---
+uid: '43222'
+first_name: Leyla Rinatovna
+last_name: FAZLEEVA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '64478'
+    city: Kazan
+    state_or_province: Republic of Tatarstan
+    country: Russia
+id_list:
+  items:
+  - uid: '32768'
+    id_type: Tax ID No.
+    id_number: '165907960059'
+    id_country: Russia
+  - uid: '162335'
+    id_type: Gender
+    id_number: Female
+  - uid: '175642'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '62333'
+    date_of_birth: 29 May 1975
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '62334'
+    place_of_birth: Kant, Chuy Region, Kyrgyzstan
+    main_entry: 'true'

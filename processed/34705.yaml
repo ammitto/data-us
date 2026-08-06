@@ -1,0 +1,33 @@
+---
+uid: '34705'
+last_name: AMSTERDAM TRADE BANK NV
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '51996'
+    address1: Strawinskylaan 1939
+    city: Amsterdam
+    postal_code: 1077 XX
+    country: Netherlands
+id_list:
+  items:
+  - uid: '24365'
+    id_type: Registration Number
+    id_number: '33260432'
+    id_country: Netherlands
+  - uid: '146116'
+    id_type: Organization Established Date
+    id_number: '1994'
+  - uid: '146117'
+    id_type: SWIFT/BIC
+    id_number: ATBANL2A
+  - uid: '146115'
+    id_type: Website
+    id_number: www.amsterdamtradebank.com
+  - uid: '175187'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: JOINT STOCK COMPANY ALFA-BANK)"

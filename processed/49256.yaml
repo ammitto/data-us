@@ -1,0 +1,28 @@
+---
+uid: '49256'
+last_name: ROTOR
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '74178'
+    address1: ul. Mikova d. 53
+    address2: kv. 2
+    city: Krasnoturinsk
+    postal_code: '624440'
+    country: Russia
+id_list:
+  items:
+  - uid: '40461'
+    id_type: Registration Number
+    id_number: '1196658016741'
+    id_country: Russia
+  - uid: '40462'
+    id_type: Tax ID No.
+    id_number: '6617027638'
+    id_country: Russia
+  - uid: '172238'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

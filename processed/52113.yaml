@@ -1,0 +1,34 @@
+---
+uid: '52113'
+first_name: Song Jin
+last_name: IM
+sdn_type: Individual
+program_list:
+  programs:
+  - DPRK4
+address_list:
+  items:
+  - uid: '79518'
+    country: Korea, North
+id_list:
+  items:
+  - uid: '182980'
+    id_type: Gender
+    id_number: Male
+  - uid: '182981'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '182982'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+date_of_birth_list:
+  items:
+  - uid: '82977'
+    date_of_birth: 13 Jul 1977
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '82978'
+    place_of_birth: Moranbong District, Pyongyang, North Korea
+    main_entry: 'true'

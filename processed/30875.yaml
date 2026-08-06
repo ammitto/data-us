@@ -1,0 +1,65 @@
+---
+uid: '30875'
+first_name: Andrii
+last_name: TELIZHENKO
+sdn_type: Individual
+program_list:
+  programs:
+  - ELECTION-EO13848
+aka_list:
+  items:
+  - uid: '48527'
+    type: a.k.a.
+    category: strong
+    last_name: TELIZHENKO
+    first_name: Andriy
+  - uid: '48529'
+    type: a.k.a.
+    category: strong
+    last_name: TELIZHENKO
+    first_name: Andrii Grygorovych
+address_list:
+  items:
+  - uid: '46694'
+    address1: 7 Koshytsa Street
+    address2: Apartment 136
+    city: Kiev
+    postal_code: '02068'
+    country: Ukraine
+  - uid: '46695'
+    address1: Stepana Rudanskogo 3A
+    address2: Apartment 170
+    city: Kiev
+    postal_code: '04112'
+    country: Ukraine
+id_list:
+  items:
+  - uid: '20943'
+    id_type: Passport
+    id_number: DU000524
+    id_country: Ukraine
+    issue_date: 10 Nov 2015
+    expiration_date: 10 Nov 2020
+  - uid: '20944'
+    id_type: Passport
+    id_number: ES505702
+    id_country: Ukraine
+    issue_date: 13 Nov 2014
+    expiration_date: 13 Nov 2024
+  - uid: '20945'
+    id_type: National ID No.
+    id_number: '3311706819'
+    id_country: Ukraine
+  - uid: '138878'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '38877'
+    date_of_birth: 02 Sep 1990
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '38875'
+    place_of_birth: Kyiv, Ukraine
+    main_entry: 'true'

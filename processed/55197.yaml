@@ -1,0 +1,46 @@
+---
+uid: '55197'
+first_name: Jong Son
+last_name: HO
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER4
+  - DPRK4
+aka_list:
+  items:
+  - uid: '85923'
+    type: a.k.a.
+    category: strong
+    last_name: HO'
+    first_name: Cho'ng So'n
+address_list:
+  items:
+  - uid: '84424'
+    country: Korea, North
+id_list:
+  items:
+  - uid: '49196'
+    id_type: Passport
+    id_number: '754120050'
+    id_country: Korea, North
+  - uid: '194256'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '194257'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '192379'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '92377'
+    date_of_birth: 21 Nov 1964
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '92378'
+    place_of_birth: Japan
+    main_entry: 'true'

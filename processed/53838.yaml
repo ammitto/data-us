@@ -1,0 +1,28 @@
+---
+uid: '53838'
+first_name: Saw Chit
+last_name: CHIT
+sdn_type: Individual
+program_list:
+  programs:
+  - BURMA-EO14014
+  - TCO
+address_list:
+  items:
+  - uid: '82185'
+    state_or_province: Karen State
+    country: Burma
+id_list:
+  items:
+  - uid: '47246'
+    id_type: National ID No.
+    id_number: 3BaahnaN323010
+    id_country: Burma
+  - uid: '188911'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '88910'
+    date_of_birth: 17 Nov 1996
+    main_entry: 'true'

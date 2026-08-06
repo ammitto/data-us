@@ -1,0 +1,46 @@
+---
+uid: '31793'
+first_name: Than
+last_name: NYEIN
+sdn_type: Individual
+program_list:
+  programs:
+  - BURMA-EO14014
+aka_list:
+  items:
+  - uid: '50009'
+    type: a.k.a.
+    category: strong
+    last_name: NYEIN
+    first_name: U Than
+address_list:
+  items:
+  - uid: '48007'
+    address1: No 67, Yin Mar Myaing St, Su Paung, Thuwunna, Theingangyun Tsp
+    city: Rangoon
+    country: Burma
+id_list:
+  items:
+  - uid: '21717'
+    id_type: Passport
+    id_number: MA370433
+    id_country: Burma
+    issue_date: '08 Nov 2013'
+    expiration_date: 07 Nov 2018
+  - uid: '21718'
+    id_type: National ID No.
+    id_number: 12YAKANAN007001
+    id_country: Burma
+  - uid: '140518'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '40514'
+    date_of_birth: 29 Feb 1952
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '40516'
+    place_of_birth: Kawkareik, Burma
+    main_entry: 'true'

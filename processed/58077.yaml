@@ -1,0 +1,36 @@
+---
+uid: '58077'
+first_name: Yevgeniy Vladimirovich
+last_name: SILAYEV
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER4
+aka_list:
+  items:
+  - uid: '89818'
+    type: a.k.a.
+    category: strong
+    last_name: SILAYEU
+    first_name: Yauheni
+address_list:
+  items:
+  - uid: '89194'
+    address1: Pestraa iela 8-7
+    city: Grodno
+    country: Belarus
+id_list:
+  items:
+  - uid: '52621'
+    id_type: Passport
+    id_number: KH3188588
+    id_country: Belarus
+    expiration_date: 04 May 2033
+  - uid: '199429'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '99425'
+    date_of_birth: '09 Nov 2000'
+    main_entry: 'true'

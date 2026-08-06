@@ -1,0 +1,58 @@
+---
+uid: '51959'
+first_name: Ilya Vasilyevich
+last_name: REBROV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '81328'
+    type: a.k.a.
+    category: strong
+    last_name: REBROV
+    first_name: Ilia
+  - uid: '81854'
+    type: a.k.a.
+    category: strong
+    last_name: REBROV
+    first_name: Ilya Vasilevich
+address_list:
+  items:
+  - uid: '79526'
+    address1: Yamskaya Sloboda street, 67
+    city: Kashira
+    postal_code: '142900'
+    country: Russia
+  - uid: '79527'
+    address1: Litovskiy Boulevard, 1, 545
+    city: Moscow
+    postal_code: '117593'
+    country: Russia
+id_list:
+  items:
+  - uid: '44728'
+    id_type: Tax ID No.
+    id_number: '782572715948'
+    id_country: Russia
+  - uid: '44993'
+    id_type: National ID No.
+    id_number: '4004344577'
+    id_country: Russia
+  - uid: '182585'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '182589'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '82586'
+    date_of_birth: 10 Oct 1976
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '82587'
+    place_of_birth: Saint Petersburg, Russia
+    main_entry: 'true'

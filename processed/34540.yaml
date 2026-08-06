@@ -1,0 +1,47 @@
+---
+uid: '34540'
+last_name: WEST SIBERIAN COMMERCIAL BANK PUBLIC JOINT STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54098'
+    type: a.k.a.
+    category: strong
+    last_name: ZAPSIBCOMBANK
+  - uid: '54099'
+    type: a.k.a.
+    category: strong
+    last_name: WEST SIBERIAN COMMERCIAL BANK
+  - uid: '55122'
+    type: a.k.a.
+    category: strong
+    last_name: WEST SIBERIAN COMMERCIAL BANK PJSC
+address_list:
+  items:
+  - uid: '51773'
+    address1: 1, 8 March Street
+    city: Tyumen
+    state_or_province: Tyumenskaya Oblast
+    postal_code: '625000'
+    country: Russia
+id_list:
+  items:
+  - uid: '145974'
+    id_type: BIK (RU)
+    id_number: '047102613'
+  - uid: '146697'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '145975'
+    id_type: Website
+    id_number: http://www.zapsibkombank.ru
+  - uid: '145976'
+    id_type: Website
+    id_number: http://www.wscb.ru
+  - uid: '175141'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)"

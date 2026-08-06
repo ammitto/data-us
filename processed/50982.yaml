@@ -1,0 +1,41 @@
+---
+uid: '50982'
+last_name: ARMALIT JOINT STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79881'
+    type: a.k.a.
+    category: strong
+    last_name: ARMALIT 1 INC
+  - uid: '79882'
+    type: a.k.a.
+    category: weak
+    last_name: AO ARMALIT
+  - uid: '79883'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO MASHINOSTROITELNY ZAVOD ARMALIT
+address_list:
+  items:
+  - uid: '77473'
+    address1: ul. Trefoleva d. 2
+    city: Saint Petersburg
+    postal_code: '198097'
+    country: Russia
+id_list:
+  items:
+  - uid: '43015'
+    id_type: Registration Number
+    id_number: '1027802712530'
+    id_country: Russia
+  - uid: '43016'
+    id_type: Tax ID No.
+    id_number: '7805148130'
+    id_country: Russia
+  - uid: '179875'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

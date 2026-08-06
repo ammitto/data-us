@@ -1,0 +1,42 @@
+---
+uid: '51949'
+first_name: Oleg Vasilyevich
+last_name: KRYUKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '79178'
+    address1: Yubileynaya street, 3A, 61
+    city: Elektrostal
+    state_or_province: Moscow Oblast
+    postal_code: '144009'
+    country: Russia
+id_list:
+  items:
+  - uid: '44986'
+    id_type: Tax ID No.
+    id_number: '505304982249'
+    id_country: Russia
+  - uid: '44987'
+    id_type: National ID No.
+    id_number: '4605438291'
+    id_country: Russia
+  - uid: '182544'
+    id_type: Gender
+    id_number: Male
+  - uid: '182999'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '82541'
+    date_of_birth: 18 Mar 1954
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '82542'
+    place_of_birth: Kireevsk, Tula Region, Russia
+    main_entry: 'true'

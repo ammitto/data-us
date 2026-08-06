@@ -1,0 +1,48 @@
+---
+uid: '40782'
+last_name: VELES MANAGEMENT LTD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63421'
+    type: a.k.a.
+    category: strong
+    last_name: UK VELES MANAGEMENT
+  - uid: '63422'
+    type: a.k.a.
+    category: strong
+    last_name: UK VELES MENEDZHMENT OOO
+address_list:
+  items:
+  - uid: '60782'
+    address1: Nab. Krasnopresnenskaya d. 12
+    address2: pod. 7, et. 14
+    city: Moscow
+    postal_code: '123610'
+    country: Russia
+id_list:
+  items:
+  - uid: '29965'
+    id_type: Registration Number
+    id_number: '1047796515470'
+    id_country: Russia
+  - uid: '29966'
+    id_type: Tax ID No.
+    id_number: '7703523568'
+    id_country: Russia
+  - uid: '29967'
+    id_type: Identification Number
+    id_number: 961WVX.99999.SL.643
+    id_country: Russia
+  - uid: '29968'
+    id_type: Legal Entity Number
+    id_number: 253400JX3PEQDBPL8052
+  - uid: '174138'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '158279'
+    id_type: Organization Established Date
+    id_number: 16 Jul 2004

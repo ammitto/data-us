@@ -1,0 +1,32 @@
+---
+uid: '32032'
+last_name: NATIONAL LOTTERY AD
+sdn_type: Entity
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '50242'
+    type: a.k.a.
+    category: strong
+    last_name: NATIONAL LOTTARY
+address_list:
+  items:
+  - uid: '48207'
+    address1: 43 Moskovska Str.
+    address2: Oborishte Distr.
+    city: Sofia
+    state_or_province: Stolichna
+    postal_code: '1000'
+    country: Bulgaria
+id_list:
+  items:
+  - uid: '21816'
+    id_type: V.A.T. Number
+    id_number: BG 204061981
+    id_country: Bulgaria
+  - uid: '141025'
+    id_type: Organization Established Date
+    id_number: '2013'
+remarks: "(Linked To: NOVE DEVELOPMENT EOOD)"

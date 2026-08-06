@@ -1,0 +1,46 @@
+---
+uid: '52655'
+last_name: FEDERAL STATE UNITARY ENTERPRISE ZAPORIZHZHYA NUCLEAR POWER PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '82522'
+    type: a.k.a.
+    category: strong
+    last_name: ZAPOROZHYE NPP FEDERAL STATE UNITARY ENTERPRISE
+  - uid: '82523'
+    type: a.k.a.
+    category: weak
+    last_name: ZNPP FSUE
+  - uid: '82524'
+    type: a.k.a.
+    category: strong
+    last_name: FSUE ZAPOROZHSKAYA NPP
+address_list:
+  items:
+  - uid: '80474'
+    address1: Ul. promyshlennaya d. 133
+    city: Enerhodar
+    country: Ukraine
+id_list:
+  items:
+  - uid: '45768'
+    id_type: Tax ID No.
+    id_number: '7743394421'
+    id_country: Russia
+  - uid: '45770'
+    id_type: Registration Number
+    id_number: '1227700644270'
+    id_country: Russia
+  - uid: '184466'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184468'
+    id_type: Organization Established Date
+    id_number: 07 Oct 2022
+  - uid: '184467'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

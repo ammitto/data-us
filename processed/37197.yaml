@@ -1,0 +1,41 @@
+---
+uid: '37197'
+last_name: JOINT STOCK COMPANY CHANNEL ONE RUSSIA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '58331'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY CHANNEL ONE
+  - uid: '58332'
+    type: a.k.a.
+    category: strong
+    last_name: JSC CHANNEL ONE
+  - uid: '58333'
+    type: a.k.a.
+    category: strong
+    last_name: AO PERVYI KANAL
+address_list:
+  items:
+  - uid: '55646'
+    address1: Akademika Koroleva D.12
+    city: Moscow
+    postal_code: '127427'
+    country: Russia
+id_list:
+  items:
+  - uid: '26496'
+    id_type: Registration Number
+    id_number: '1027700222330'
+    id_country: Russia
+  - uid: '26497'
+    id_type: Tax ID No.
+    id_number: '7717039300'
+    id_country: Russia
+  - uid: '174521'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

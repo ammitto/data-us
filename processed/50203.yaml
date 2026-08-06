@@ -1,0 +1,43 @@
+---
+uid: '50203'
+first_name: Oleg Vladimirovich
+last_name: PETROV
+sdn_type: Individual
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '78334'
+    type: a.k.a.
+    category: strong
+    last_name: PIATROU
+    first_name: Aleh Uladzimiravych
+address_list:
+  items:
+  - uid: '76011'
+    country: Belarus
+id_list:
+  items:
+  - uid: '41842'
+    id_type: National ID No.
+    id_number: 3260362B000VF1
+    id_country: Belarus
+  - uid: '41843'
+    id_type: Passport
+    id_number: OI0110473
+    id_country: Russia
+    expiration_date: 19 Sep 2022
+  - uid: '177821'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '77822'
+    date_of_birth: 26 Mar 1962
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '78186'
+    place_of_birth: Russia
+    main_entry: 'true'

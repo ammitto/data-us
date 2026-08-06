@@ -1,0 +1,32 @@
+---
+uid: '18091'
+last_name: PLAZA LOS TULES
+sdn_type: Entity
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '35819'
+    type: a.k.a.
+    category: strong
+    last_name: PLAZA VIRREYES
+address_list:
+  items:
+  - uid: '27426'
+    address1: 'Av. Naciones Unidas # 6875'
+    address2: Fracc. Vista del Tule
+    city: Zapopan
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '27428'
+    address1: 'Av. Naciones Unidas # 6895'
+    address2: Fracc. Vista del Tule
+    city: Zapopan
+    state_or_province: Jalisco
+    country: Mexico
+id_list:
+  items:
+  - uid: '124192'
+    id_type: Website
+    id_number: www.plazavirreyes.com

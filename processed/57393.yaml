@@ -1,0 +1,38 @@
+---
+uid: '57393'
+last_name: SAMAN AIR SERVICES COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+  - IFSR
+aka_list:
+  items:
+  - uid: '88872'
+    type: a.k.a.
+    category: strong
+    last_name: SAMAN AIR SERVICES PRIVATE JOINT STOCK COMPANY
+address_list:
+  items:
+  - uid: '87954'
+    address1: Terminal 4, Mehrabad International Airport
+    state_or_province: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '51708'
+    id_type: National ID No.
+    id_number: '10102855345'
+    id_country: Iran
+  - uid: '51709'
+    id_type: Registration Number
+    id_number: '244870'
+    id_country: Iran
+  - uid: '197433'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '197391'
+    id_type: Organization Established Date
+    id_number: 01 Apr 2005
+remarks: "(Linked To: SEPEHR KAVEH KISH INTERNATIONAL TRADING COMPANY)"

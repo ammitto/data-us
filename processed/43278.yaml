@@ -1,0 +1,36 @@
+---
+uid: '43278'
+last_name: LIMITED LIABILITY COMPANY SSK PORT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '67103'
+    type: a.k.a.
+    category: strong
+    last_name: OOO SSK PORT
+address_list:
+  items:
+  - uid: '64601'
+    address1: 23A Admiral Fadeyev St., Office 17
+    city: Sevastopol
+    postal_code: '299057'
+    country: Ukraine
+id_list:
+  items:
+  - uid: '32853'
+    id_type: Registration Number
+    id_number: '1179204006640'
+    id_country: Russia
+  - uid: '32854'
+    id_type: Tax ID No.
+    id_number: '9201521828'
+    id_country: Russia
+  - uid: '162479'
+    id_type: Organization Established Date
+    id_number: 27 Jul 2017
+  - uid: '175691'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

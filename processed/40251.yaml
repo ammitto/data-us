@@ -1,0 +1,38 @@
+---
+uid: '40251'
+first_name: Viktor Petrovich
+last_name: TOMENKO
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '59994'
+    state_or_province: Altai territory
+    country: Russia
+id_list:
+  items:
+  - uid: '29435'
+    id_type: Tax ID No.
+    id_number: '245707144705'
+    id_country: Russia
+  - uid: '174054'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '157248'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '57245'
+    date_of_birth: 12 May 1971
+    main_entry: 'true'
+  - uid: '57246'
+    date_of_birth: 12 May 1972
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '57247'
+    place_of_birth: Norilsk, Krasnoyarsk region, Russia
+    main_entry: 'true'

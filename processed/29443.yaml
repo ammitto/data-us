@@ -1,0 +1,34 @@
+---
+uid: '29443'
+last_name: ELEMENTO LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - VENEZUELA-EO13850
+address_list:
+  items:
+  - uid: '44508'
+    address1: 35 Strait Street
+    city: Valletta
+    postal_code: VLT 1434
+    country: Malta
+  - uid: '46782'
+    address1: 85 St. John Street
+    city: Valletta
+    postal_code: MT-VLT1165
+    country: Malta
+  - uid: '46783'
+    country: Norway
+id_list:
+  items:
+  - uid: '19633'
+    id_type: Company Number
+    id_number: C 72520
+    id_country: Malta
+  - uid: '21007'
+    id_type: Company Number
+    id_number: '920167667'
+    id_country: Norway
+  - uid: '136278'
+    id_type: Website
+    id_number: www.elemento.com.mt

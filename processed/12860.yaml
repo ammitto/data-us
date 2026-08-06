@@ -1,0 +1,43 @@
+---
+uid: '12860'
+last_name: NAFTAN OAO
+sdn_type: Entity
+program_list:
+  programs:
+  - BELARUS
+aka_list:
+  items:
+  - uid: '14153'
+    type: a.k.a.
+    category: strong
+    last_name: NAFTAN OJSC
+  - uid: '14154'
+    type: a.k.a.
+    category: strong
+    last_name: NAFTAN
+  - uid: '14155'
+    type: f.k.a.
+    category: strong
+    last_name: NAFTAN PROIZVODSTVENNOYE OBYEDINENYE
+  - uid: '14156'
+    type: f.k.a.
+    category: strong
+    last_name: NAFTAN PRODUCTION ASSOCIATION
+address_list:
+  items:
+  - uid: '20356'
+    address1: Industrial Area
+    address2: Novopolotsk-1
+    address3: '211440'
+    state_or_province: Vitebsk Region
+    country: Belarus
+  - uid: '20357'
+    address1: '21140'
+    city: Novopolotsk
+    state_or_province: Vitebsk region
+    country: Belarus
+  - uid: '20358'
+    address1: '211440'
+    city: Novopolotsk
+    state_or_province: Vitebskaya Oblast
+    country: Belarus

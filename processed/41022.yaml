@@ -1,0 +1,34 @@
+---
+uid: '41022'
+first_name: Valeriy Nikolayevich
+last_name: FALKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '61287'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '30360'
+    id_type: Tax ID No.
+    id_number: '721801437195'
+  - uid: '158797'
+    id_type: Gender
+    id_number: Male
+  - uid: '173555'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '58794'
+    date_of_birth: 18 Oct 1978
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '58796'
+    place_of_birth: Tyumen, Tyumen Region, Russia
+    main_entry: 'true'

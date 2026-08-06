@@ -1,0 +1,55 @@
+---
+uid: '21284'
+first_name: Shahid
+last_name: MAHMOOD
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '33739'
+    type: a.k.a.
+    category: strong
+    last_name: MEHMOUD
+    first_name: Shahid
+  - uid: '33740'
+    type: a.k.a.
+    category: strong
+    last_name: REHMATULLAH
+    first_name: Shahid Mahmood
+  - uid: '33741'
+    type: a.k.a.
+    category: strong
+    last_name: MEHMOOD
+    first_name: Shaheed
+  - uid: '33742'
+    type: a.k.a.
+    category: strong
+    last_name: AHMED
+    first_name: Shahid Mehmood Manzoor
+address_list:
+  items:
+  - uid: '32370'
+    city: Karachi
+    country: Pakistan
+id_list:
+  items:
+  - uid: '186591'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '122115'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '22118'
+    date_of_birth: 10 Apr 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '22116'
+    place_of_birth: Pakistan
+    main_entry: 'true'
+remarks: "(Linked To: LASHKAR E-TAYYIBA)"

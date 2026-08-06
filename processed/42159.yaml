@@ -1,0 +1,66 @@
+---
+uid: '42159'
+first_name: Hind Nazem
+last_name: AHMAD
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '65532'
+    type: a.k.a.
+    category: strong
+    last_name: AHMED
+    first_name: Hind Nazem
+  - uid: '65533'
+    type: a.k.a.
+    category: strong
+    last_name: AHMAD
+    first_name: Dida
+  - uid: '65534'
+    type: a.k.a.
+    category: strong
+    last_name: AHMAD
+    first_name: Hind
+address_list:
+  items:
+  - uid: '63223'
+    address1: 92 Boulevard Flandrin
+    city: Paris
+    country: France
+  - uid: '63224'
+    address1: Residence Camelia
+    city: Cocody Danga
+    state_or_province: Nord Abidjan
+    country: Cote d Ivoire
+id_list:
+  items:
+  - uid: '31625'
+    id_type: Passport
+    id_number: EP784076
+    id_country: Belgium
+    expiration_date: 03 May 2025
+  - uid: '31626'
+    id_type: Passport
+    id_number: EI463437
+    id_country: Belgium
+    expiration_date: 22 Mar 2016
+  - uid: '160397'
+    id_type: Gender
+    id_number: Female
+  - uid: '160429'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '60395'
+    date_of_birth: 04 Nov 1992
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '60396'
+    place_of_birth: Antwerp, Belgium
+    main_entry: 'true'
+remarks: "(Linked To: AHMAD, Nazem Said)"

@@ -1,0 +1,47 @@
+---
+uid: '34024'
+first_name: Hezheng
+last_name: LU
+sdn_type: Individual
+program_list:
+  programs:
+  - DPRK3
+address_list:
+  items:
+  - uid: '50999'
+    address1: Room 810, No. 760
+    address2: Qinzhou Road
+    address3: Xuhui District
+    city: Shanghai
+    country: China
+  - uid: '51000'
+    city: Guangzhou
+    state_or_province: Guangdong
+    country: China
+id_list:
+  items:
+  - uid: '23686'
+    id_type: National ID No.
+    id_number: 31010619740406283X
+    id_country: China
+  - uid: '145200'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '145201'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '145093'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '45092'
+    date_of_birth: 06 Apr 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '45095'
+    place_of_birth: Shanghai, China
+    main_entry: 'true'
+remarks: "(Linked To: SEK STUDIO)"

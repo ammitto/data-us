@@ -1,0 +1,42 @@
+---
+uid: '42335'
+last_name: HELICS GEMB
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '65755'
+    type: a.k.a.
+    category: strong
+    last_name: HELICS GEMB BVBA
+address_list:
+  items:
+  - uid: '63181'
+    address1: Hoveniersstraat 30
+    address2: B. 199
+    city: Antwerpen
+    postal_code: '2018'
+    country: Belgium
+id_list:
+  items:
+  - uid: '31841'
+    id_type: Registration Number
+    id_number: '0845843067'
+    id_country: Belgium
+  - uid: '31842'
+    id_type: Registration Number
+    id_number: 1003665-78
+    id_country: Belgium
+  - uid: '160693'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '160692'
+    id_type: Organization Established Date
+    id_number: 07 May 2012
+  - uid: '161029'
+    id_type: 'Organization Type:'
+    id_number: Chemicals and allied products wholesale
+remarks: "(Linked To: AMANA DIAM DMCC)"

@@ -1,0 +1,39 @@
+---
+uid: '37263'
+first_name: Oscar Enrique
+last_name: MORENO OROZCO
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '58400'
+    type: a.k.a.
+    category: weak
+    last_name: Senry
+address_list:
+  items:
+  - uid: '55718'
+    city: Nogales
+    state_or_province: Sonora
+    country: Mexico
+id_list:
+  items:
+  - uid: '26550'
+    id_type: C.U.R.P.
+    id_number: MOOO840923HSRRRS08
+    id_country: Mexico
+  - uid: '151764'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '51761'
+    date_of_birth: 23 Sep 1984
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '51762'
+    place_of_birth: Sonora, Mexico
+    main_entry: 'true'

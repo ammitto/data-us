@@ -1,0 +1,32 @@
+---
+uid: '53945'
+first_name: Alvaro Noe
+last_name: MORFIN MORFIN
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '82336'
+    state_or_province: Tamaulipas
+    country: Mexico
+id_list:
+  items:
+  - uid: '47392'
+    id_type: C.U.R.P.
+    id_number: MOMA781220HJCRRL05
+    id_country: Mexico
+  - uid: '189113'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '89112'
+    date_of_birth: 20 Dec 1978
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '89114'
+    place_of_birth: Jalisco, Mexico
+    main_entry: 'true'

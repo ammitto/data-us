@@ -1,0 +1,39 @@
+---
+uid: '37519'
+last_name: RAMENSKOYE DESIGN COMPANY JOINT STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '58799'
+    type: a.k.a.
+    category: strong
+    last_name: JSC RAMENSKOYE PRIBOROSTROITELNOYE KONSTRUKTORSKOYE BYURO
+  - uid: '58800'
+    type: a.k.a.
+    category: weak
+    last_name: JSC RDC
+address_list:
+  items:
+  - uid: '56132'
+    address1: Gurieva St.
+    address2: '2'
+    city: Ramenskoye
+    state_or_province: Moscow Region
+    postal_code: '140103'
+    country: Russia
+id_list:
+  items:
+  - uid: '26722'
+    id_type: Tax ID No.
+    id_number: '5040007594'
+    id_country: Russia
+  - uid: '26723'
+    id_type: Registration Number
+    id_number: '1025005118830'
+    id_country: Russia
+  - uid: '173427'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

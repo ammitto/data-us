@@ -1,0 +1,52 @@
+---
+uid: '9394'
+first_name: Beatriz Raquel
+last_name: LOPEZ POBLANO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '8846'
+    type: a.k.a.
+    category: strong
+    last_name: LOPEZ POBLANO DE ARRIOLA
+    first_name: Beatriz Raquel
+  - uid: '8847'
+    type: a.k.a.
+    category: strong
+    last_name: LOPEZ PORTILLO
+    first_name: Beatriz Raquel
+address_list:
+  items:
+  - uid: '11672'
+    address1: c/o CHIHUAHUA FOODS S.A. DE C.V.
+    city: Cuauhtemoc
+    country: Mexico
+  - uid: '11673'
+    address1: c/o INDIO VITORIO S. DE P.R. DE R.L. DE C.V.
+    city: Saucillo
+    country: Mexico
+  - uid: '11674'
+    address1: c/o INMOBILIARIA EL PRESON S.A. DE C.V.
+    city: Chihuahua
+    country: Mexico
+  - uid: '11675'
+    address1: Calle Sierra San Diego No. 2502
+    city: Chihuahua
+    state_or_province: Chihuahua
+    country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '4363'
+    date_of_birth: 11 Apr 1968
+    main_entry: 'true'
+  - uid: '4364'
+    date_of_birth: 11 Apr 1971
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '4365'
+    place_of_birth: Delicias, Chihuahua, Mexico
+    main_entry: 'true'

@@ -1,0 +1,31 @@
+---
+uid: '24828'
+first_name: Yasuo
+last_name: TAKAGI
+sdn_type: Individual
+program_list:
+  programs:
+  - TCO
+address_list:
+  items:
+  - uid: '37569'
+    address1: 1-20-7 Yagusu
+    city: Yaizu-shi
+    state_or_province: Shizuoka-ken
+    country: Japan
+  - uid: '37570'
+    address1: 138-9 Ibara-cho Shimizu-ku
+    city: Shizuoka-shi
+    postal_code: 424-0114
+    country: Japan
+id_list:
+  items:
+  - uid: '127918'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '27917'
+    date_of_birth: 30 Jan 1948
+    main_entry: 'true'
+remarks: "(Linked To: YAMAGUCHI-GUMI)"

@@ -1,0 +1,39 @@
+---
+uid: '49278'
+last_name: LIMITED LIABILITY COMPANY KINGISEPSKY MACHINE BUILDING PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76849'
+    type: a.k.a.
+    category: strong
+    last_name: KINGISEPP MACHINE BUILDING PLANT LLC
+  - uid: '76850'
+    type: a.k.a.
+    category: strong
+    last_name: KMZ CO LTD
+address_list:
+  items:
+  - uid: '74231'
+    address1: Prkt Slavy D. 52
+    address2: Kor/Lit. 1/A
+    address3: Pom. 51N
+    city: Saint Petersburg
+    postal_code: '192241'
+    country: Russia
+id_list:
+  items:
+  - uid: '40499'
+    id_type: Registration Number
+    id_number: '1137847194187'
+    id_country: Russia
+  - uid: '40500'
+    id_type: Tax ID No.
+    id_number: '7816562511'
+    id_country: Russia
+  - uid: '172285'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

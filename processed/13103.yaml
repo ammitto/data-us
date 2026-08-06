@@ -1,0 +1,51 @@
+---
+uid: '13103'
+first_name: Chhota
+last_name: SHAKEEL
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '14713'
+    type: a.k.a.
+    category: strong
+    last_name: SHAKEEL
+    first_name: Chota
+  - uid: '14714'
+    type: a.k.a.
+    category: strong
+    last_name: SHAKIL
+    first_name: Chhota
+  - uid: '14715'
+    type: a.k.a.
+    category: strong
+    last_name: MOHIDDIN
+    first_name: Shaikh Shakil Babu
+  - uid: '14716'
+    type: a.k.a.
+    category: strong
+    last_name: AHMED
+    first_name: Sheikh Shakeel
+address_list:
+  items:
+  - uid: '20935'
+    address1: R. No. 11
+    address2: 1st Floor Ruksans Manzil
+    address3: 78 Temkar Street, Nagpada
+    city: Mumbai
+    country: India
+date_of_birth_list:
+  items:
+  - uid: '8979'
+    date_of_birth: 31 Dec 1955
+    main_entry: 'true'
+  - uid: '8980'
+    date_of_birth: '1960'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '8981'
+    place_of_birth: Mumbai (Bombay), India
+    main_entry: 'true'

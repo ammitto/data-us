@@ -1,0 +1,44 @@
+---
+uid: '35840'
+first_name: Salihu Yusuf
+last_name: ADAMU
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '56291'
+    type: a.k.a.
+    category: strong
+    last_name: ADAMU
+    first_name: Salih Yusuf
+address_list:
+  items:
+  - uid: '53764'
+    state_or_province: Abu Dhabi
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '25156'
+    id_type: Passport
+    id_number: A07038778
+    id_country: Nigeria
+  - uid: '148998'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '148995'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '48980'
+    date_of_birth: 23 Aug 1990
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '48996'
+    place_of_birth: Nigeria
+    main_entry: 'true'
+remarks: "(Linked To: BOKO HARAM)"

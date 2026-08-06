@@ -1,0 +1,59 @@
+---
+uid: '54699'
+first_name: Luis Enrique
+last_name: BARRAGAN CHAVEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+aka_list:
+  items:
+  - uid: '85130'
+    type: a.k.a.
+    category: weak
+    last_name: El R5
+  - uid: '85131'
+    type: a.k.a.
+    category: weak
+    last_name: Wicho de Los Reyes
+  - uid: '85132'
+    type: a.k.a.
+    category: weak
+    last_name: Wicho
+  - uid: '85133'
+    type: a.k.a.
+    category: weak
+    last_name: Guicho
+  - uid: '85134'
+    type: a.k.a.
+    category: weak
+    last_name: Guicho de Los Reyes
+address_list:
+  items:
+  - uid: '83551'
+    country: Mexico
+id_list:
+  items:
+  - uid: '48405'
+    id_type: C.U.R.P.
+    id_number: BACL861110HJCRHS06
+    id_country: Mexico
+  - uid: '191007'
+    id_type: Gender
+    id_number: Male
+  - uid: '191020'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '91005'
+    date_of_birth: 10 Nov 1986
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '91006'
+    place_of_birth: Jalisco, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: CARTELES UNIDOS)"

@@ -1,0 +1,32 @@
+---
+uid: '56862'
+first_name: Stanislas
+last_name: GASHUGI
+sdn_type: Individual
+program_list:
+  programs:
+  - DRCONGO
+address_list:
+  items:
+  - uid: '87043'
+    city: Kigali
+    country: Rwanda
+id_list:
+  items:
+  - uid: '50998'
+    id_type: National ID No.
+    id_number: '1197380088990106'
+    id_country: Rwanda
+  - uid: '195844'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '95842'
+    date_of_birth: 03 Mar 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '95843'
+    place_of_birth: Burundi
+    main_entry: 'true'

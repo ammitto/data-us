@@ -1,0 +1,43 @@
+---
+uid: '22183'
+first_name: Maikel Jose
+last_name: MORENO PEREZ
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+address_list:
+  items:
+  - uid: '33693'
+    city: Caracas
+    state_or_province: Capital District
+    country: Venezuela
+id_list:
+  items:
+  - uid: '13976'
+    id_type: Cedula No.
+    id_number: '6652632'
+    id_country: Venezuela
+  - uid: '13977'
+    id_type: Passport
+    id_number: '104063109'
+    id_country: Venezuela
+  - uid: '13978'
+    id_type: Passport
+    id_number: '040471125'
+    id_country: Venezuela
+  - uid: '123598'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '23601'
+    date_of_birth: 31 Dec 1965
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '23599'
+    place_of_birth: Tigre, Anzoategui, Venezuela
+    main_entry: 'true'
+title: President of Venezuela's Supreme Court of Justice; President of the Criminal
+  Appellate Chamber of Venezuela's Supreme Court of Justice

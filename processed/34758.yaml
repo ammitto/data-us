@@ -1,0 +1,40 @@
+---
+uid: '34758'
+last_name: LIMITED LIABILITY COMPANY BELINVEST-ENGINEERING
+sdn_type: Entity
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '54534'
+    type: a.k.a.
+    category: strong
+    last_name: LLC BELINVEST-ENGINEERING
+  - uid: '54535'
+    type: a.k.a.
+    category: strong
+    last_name: BELINVEST-ENGINEERING
+  - uid: '54536'
+    type: a.k.a.
+    category: strong
+    last_name: BELINVEST-INZHINIRING OOO
+address_list:
+  items:
+  - uid: '52101'
+    address1: 2 Melnikaite Str.
+    address2: office 10
+    city: Minsk
+    postal_code: '220004'
+    country: Belarus
+id_list:
+  items:
+  - uid: '24442'
+    id_type: Registration Number
+    id_number: '191450284'
+    id_country: Belarus
+  - uid: '146217'
+    id_type: Organization Established Date
+    id_number: 01 Jun 2011
+remarks: "(Linked To: BELARUSSIAN BANK OF DEVELOPMENT AND RECONSTRUCTION BELINVESTBANK
+  JOINT STOCK COMPANY)"

@@ -1,0 +1,32 @@
+---
+uid: '28917'
+first_name: Julio Cesar
+last_name: AVILES CASTILLO
+sdn_type: Individual
+program_list:
+  programs:
+  - NICARAGUA
+address_list:
+  items:
+  - uid: '43692'
+    city: Managua
+    country: Nicaragua
+id_list:
+  items:
+  - uid: '19235'
+    id_type: Passport
+    id_number: A00000371
+    id_country: Nicaragua
+  - uid: '135432'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '35430'
+    date_of_birth: 11 Aug 1956
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '35431'
+    place_of_birth: Nicaragua
+    main_entry: 'true'

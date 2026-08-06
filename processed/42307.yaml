@@ -1,0 +1,42 @@
+---
+uid: '42307'
+first_name: Rim
+last_name: NASSER
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '63403'
+    country: Lebanon
+id_list:
+  items:
+  - uid: '31794'
+    id_type: Passport
+    id_number: RL3544453
+    id_country: Lebanon
+    expiration_date: 12 Jan 2021
+  - uid: '31798'
+    id_type: Passport
+    id_number: '4066019'
+    id_country: Lebanon
+    expiration_date: '08 Oct 2025'
+  - uid: '160634'
+    id_type: Gender
+    id_number: Female
+  - uid: '160635'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '60632'
+    date_of_birth: 23 Sep 1989
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '60633'
+    place_of_birth: Beirut, Lebanon
+    main_entry: 'true'
+remarks: "(Linked To: AHMAD, Firas Nazem)"

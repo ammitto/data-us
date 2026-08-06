@@ -1,0 +1,34 @@
+---
+uid: '12550'
+last_name: MACPAR MAKINA SAN VE TIC A.S.
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+aka_list:
+  items:
+  - uid: '13458'
+    type: a.k.a.
+    category: strong
+    last_name: MACPAR MAKINA
+  - uid: '13459'
+    type: a.k.a.
+    category: weak
+    last_name: MAKPA
+address_list:
+  items:
+  - uid: '19675'
+    address1: 'Sehidler Caddesi No: 79/2 Tuzla'
+    city: Istanbul
+    postal_code: '34940'
+    country: Turkey
+id_list:
+  items:
+  - uid: '7042'
+    id_type: Istanbul Chamber of Comm. No.
+    id_number: '537070'
+    id_country: Turkey
+  - uid: '114127'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

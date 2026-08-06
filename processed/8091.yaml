@@ -1,0 +1,45 @@
+---
+uid: '8091'
+first_name: Hamadi Ben Abdul Aziz Ben Ali
+last_name: BOUYAHIA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '6033'
+    type: a.k.a.
+    category: strong
+    last_name: GAMEL MOHAMED
+address_list:
+  items:
+  - uid: '7228'
+    address1: Corso XXII Marzo 39
+    city: Milan
+    country: Italy
+id_list:
+  items:
+  - uid: '4082'
+    id_type: Passport
+    id_number: L723315
+    issue_date: 05 May 1998
+    expiration_date: 04 May 2003
+  - uid: '185767'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '2383'
+    date_of_birth: 22 May 1966
+    main_entry: 'true'
+  - uid: '4424'
+    date_of_birth: 29 May 1966
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '2384'
+    place_of_birth: Tunisia
+    main_entry: 'true'
+remarks: arrested 30 Sep 2002

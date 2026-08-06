@@ -1,0 +1,50 @@
+---
+uid: '45650'
+first_name: Joseph Mantiel
+last_name: WAJANG
+sdn_type: Individual
+program_list:
+  programs:
+  - SOUTH SUDAN
+aka_list:
+  items:
+  - uid: '70530'
+    type: a.k.a.
+    category: strong
+    last_name: WEJJANG
+    first_name: Joseph Monytuil
+  - uid: '71891'
+    type: a.k.a.
+    category: weak
+    last_name: WEJANG, Joseph Manytuil
+  - uid: '72485'
+    type: a.k.a.
+    category: strong
+    last_name: WEJANG
+    first_name: Nguen Monytuil
+address_list:
+  items:
+  - uid: '67853'
+    city: Bentiu
+    state_or_province: Unity
+    country: Sudan
+id_list:
+  items:
+  - uid: '35337'
+    id_type: Passport
+    id_number: '1561'
+    id_country: Sudan
+    expiration_date: 15 May 2006
+  - uid: '166182'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '66178'
+    date_of_birth: '1962'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '66179'
+    place_of_birth: Sudan
+    main_entry: 'true'

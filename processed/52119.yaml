@@ -1,0 +1,53 @@
+---
+uid: '52119'
+last_name: VOSTOK TRADING LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK4
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '81624'
+    type: a.k.a.
+    category: strong
+    last_name: VOSTOK TRADING LLC
+  - uid: '81625'
+    type: a.k.a.
+    category: strong
+    last_name: LLC VOSTOK TRADING
+  - uid: '81912'
+    type: a.k.a.
+    category: weak
+    last_name: EAST TRADING
+address_list:
+  items:
+  - uid: '79535'
+    address1: Kv. 10, 54 Volodarskogo Ulitsa
+    city: Ussuriysk
+    state_or_province: Primorsky Krai
+    postal_code: '692519'
+    country: Russia
+id_list:
+  items:
+  - uid: '44998'
+    id_type: Registration Number
+    id_number: '1152511001785'
+    id_country: Russia
+  - uid: '44999'
+    id_type: Tax ID No.
+    id_number: '2511092929'
+    id_country: Russia
+  - uid: '183009'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '183010'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183011'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '183008'
+    id_type: Organization Established Date
+    id_number: 30 Apr 2015

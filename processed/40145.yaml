@@ -1,0 +1,49 @@
+---
+uid: '40145'
+first_name: Allan Estuardo
+last_name: RODRIGUEZ REYES
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '62370'
+    type: a.k.a.
+    category: strong
+    last_name: RODRIGUEZ
+    first_name: Alan
+  - uid: '62371'
+    type: a.k.a.
+    category: strong
+    last_name: RODRIGUEZ
+    first_name: Allan
+address_list:
+  items:
+  - uid: '59784'
+    city: San Lucas
+    country: Guatemala
+id_list:
+  items:
+  - uid: '29284'
+    id_type: National ID No.
+    id_number: '2754422680101'
+    id_country: Guatemala
+  - uid: '29285'
+    id_type: Passport
+    id_number: F5573390
+    id_country: Guatemala
+    expiration_date: 31 Aug 2021
+  - uid: '157010'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '57009'
+    date_of_birth: 19 Oct 1981
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '57012'
+    place_of_birth: Guatemala
+    main_entry: 'true'

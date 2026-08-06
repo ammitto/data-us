@@ -1,0 +1,67 @@
+---
+uid: '21030'
+first_name: Victor Manuel
+last_name: CARRANZA ZEPEDA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '31912'
+    address1: Av. Rio Nilo 69
+    address2: Col. Camichines
+    city: Tonala
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '31913'
+    address1: Calle Franz Schubert 5373
+    address2: Fracc. La Estancia
+    city: Zapopan
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '31914'
+    address1: Calle Lazaro Cardenas 3050-A
+    address2: Fracc. Residencial Loma Bonita
+    city: Guadalajara
+    state_or_province: Jalisco
+    postal_code: '44570'
+    country: Mexico
+  - uid: '31915'
+    address1: Av. Lazaro Cardenas 3050
+    address2: Col. El Retiro
+    city: Guadalajara
+    state_or_province: Jalisco
+    postal_code: '44280'
+    country: Mexico
+  - uid: '31916'
+    address1: Cholula 2514
+    address2: Col. Hidalgo
+    city: Ciudad Juarez
+    state_or_province: Chihuahua
+    postal_code: '32300'
+    country: Mexico
+id_list:
+  items:
+  - uid: '13093'
+    id_type: C.U.R.P.
+    id_number: CAZV780315HBCRPC03
+    id_country: Mexico
+  - uid: '13094'
+    id_type: R.F.C.
+    id_number: CAZV7803151P4
+    id_country: Mexico
+  - uid: '121820'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '21817'
+    date_of_birth: 15 Mar 1978
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '21818'
+    place_of_birth: Tijuana, Baja California, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: FLORES DRUG TRAFFICKING ORGANIZATION)"

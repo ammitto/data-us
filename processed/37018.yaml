@@ -1,0 +1,44 @@
+---
+uid: '37018'
+last_name: AGROPROMYSHLENNY KOMPLEKS VORONEZHSKI OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '58130'
+    type: a.k.a.
+    category: strong
+    last_name: VORONEZHSKI OOO
+  - uid: '58131'
+    type: a.k.a.
+    category: strong
+    last_name: APK VORONEZHSKII
+address_list:
+  items:
+  - uid: '55408'
+    address1: Ul Molodezhnaya D.1A
+    city: Kuzminskoye
+    postal_code: '601769'
+    country: Russia
+id_list:
+  items:
+  - uid: '26300'
+    id_type: Registration Number
+    id_number: '1053300906900'
+    id_country: Russia
+  - uid: '26301'
+    id_type: Tax ID No.
+    id_number: '3306009951'
+    id_country: Russia
+  - uid: '174431'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '151270'
+    id_type: Organization Established Date
+    id_number: 04 Jul 1994
+  - uid: '151400'
+    id_type: 'Organization Type:'
+    id_number: Mixed farming
+remarks: "(Linked To: JOINT STOCK COMPANY MOSCOW INDUSTRIAL BANK)"

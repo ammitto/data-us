@@ -1,0 +1,33 @@
+---
+uid: '56710'
+last_name: ALBARRAQ SHIPPING CO
+sdn_type: Entity
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '86791'
+    address1: Trust Company Complex
+    address2: Ajeltake Road
+    city: Majuro
+    state_or_province: Ajeltake Island
+    postal_code: '96960'
+    country: Marshall Islands
+id_list:
+  items:
+  - uid: '50818'
+    id_type: Business Registration Number
+    id_number: '131338'
+    id_country: Marshall Islands
+  - uid: '50819'
+    id_type: Identification Number
+    id_number: IMO 0237669
+  - uid: '195452'
+    id_type: Organization Established Date
+    id_number: 23 Apr 2025
+  - uid: '195486'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: "(Linked To: ANSARALLAH)"

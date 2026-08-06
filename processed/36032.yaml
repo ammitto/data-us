@@ -1,0 +1,37 @@
+---
+uid: '36032'
+last_name: JOINT STOCK COMPANY ADMIRALTY SHIPYARDS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56719'
+    type: a.k.a.
+    category: strong
+    last_name: JSC ADMIRALTY SHIPYARDS
+  - uid: '56721'
+    type: a.k.a.
+    category: strong
+    last_name: JSC ADMIRALTEYSKIYE VERFI
+address_list:
+  items:
+  - uid: '54152'
+    address1: Fontanka Emb., 203
+    city: St. Petersburg
+    postal_code: '190121'
+    country: Russia
+id_list:
+  items:
+  - uid: '25428'
+    id_type: Tax ID No.
+    id_number: '7839395419'
+    id_country: Russia
+  - uid: '149380'
+    id_type: Organization Established Date
+    id_number: 20 Nov 2008
+  - uid: '173330'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: JOINT STOCK COMPANY UNITED SHIPBUILDING CORPORATION)"

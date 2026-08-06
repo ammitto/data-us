@@ -1,0 +1,33 @@
+---
+uid: '50992'
+last_name: SPETS PROZHEKT GRUPP
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79899'
+    type: a.k.a.
+    category: weak
+    last_name: APIT
+address_list:
+  items:
+  - uid: '77493'
+    address1: ul. Leninskaya Sloboda, d. 9 pomeshch. 1/1
+    city: Moscow
+    postal_code: '115280'
+    country: Russia
+id_list:
+  items:
+  - uid: '43035'
+    id_type: Registration Number
+    id_number: '1173328011890'
+    id_country: Russia
+  - uid: '43036'
+    id_type: Tax ID No.
+    id_number: '3305797523'
+    id_country: Russia
+  - uid: '179885'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

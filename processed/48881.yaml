@@ -1,0 +1,43 @@
+---
+uid: '48881'
+last_name: JOINT STOCK COMPANY URAL DESIGN BUREAU OF TRANSPORT ENGINEERING
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76148'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY THE URAL DESIGN OFFICE OF TRANSPORT MECHANICAL
+      ENGINEERING
+  - uid: '76150'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO URALSKOE KONSTRUKTORSKOE BIURO TRANSPORTNOGO
+      MASHINOSTROENIIA
+  - uid: '76153'
+    type: a.k.a.
+    category: weak
+    last_name: AO UKBTM
+address_list:
+  items:
+  - uid: '73524'
+    address1: Vostochynye shosse 38
+    city: Nizhny Tagil
+    postal_code: '622007'
+    country: Russia
+id_list:
+  items:
+  - uid: '39957'
+    id_type: Tax ID No.
+    id_number: '6623049453'
+    id_country: Russia
+  - uid: '39958'
+    id_type: Registration Number
+    id_number: '1086623004380'
+    id_country: Russia
+  - uid: '171598'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

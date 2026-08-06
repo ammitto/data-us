@@ -1,0 +1,58 @@
+---
+uid: '47524'
+last_name: BANK ROSTFINANCE
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73567'
+    type: a.k.a.
+    category: strong
+    last_name: KAVKAZSKY KOMSELKHOZBANK
+  - uid: '73568'
+    type: a.k.a.
+    category: strong
+    last_name: OOO CB ROSTFINANS
+  - uid: '73569'
+    type: a.k.a.
+    category: strong
+    last_name: ROSTFINANS
+  - uid: '73570'
+    type: a.k.a.
+    category: strong
+    last_name: LLC COMMERCIAL BANK ROSTFINANCE
+address_list:
+  items:
+  - uid: '70949'
+    address1: St 1st Mayskaya
+    address2: 13a/11a
+    city: Rostov-on-Don
+    postal_code: '344037'
+    country: Russia
+id_list:
+  items:
+  - uid: '38017'
+    id_type: Legal Entity Number
+    id_number: 253400LTWKWWN6SQCF62
+  - uid: '38018'
+    id_type: Tax ID No.
+    id_number: '2332006024'
+    id_country: Russia
+  - uid: '38019'
+    id_type: Registration Number
+    id_number: '1022300003021'
+    id_country: Russia
+  - uid: '176404'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '169049'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '169050'
+    id_type: SWIFT/BIC
+    id_number: ROSFRU2A
+  - uid: '169048'
+    id_type: Website
+    id_number: www.rostfinance.ru

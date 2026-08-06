@@ -1,0 +1,44 @@
+---
+uid: '39216'
+first_name: Aung Moe
+last_name: MYINT
+sdn_type: Individual
+program_list:
+  programs:
+  - BURMA-EO14014
+aka_list:
+  items:
+  - uid: '61268'
+    type: a.k.a.
+    category: strong
+    last_name: MYINT
+    first_name: Aung
+  - uid: '61270'
+    type: a.k.a.
+    category: strong
+    last_name: MYINT
+    first_name: Aung Mo
+address_list:
+  items:
+  - uid: '58619'
+    address1: Waizayandar Road, No.15, Ngwe Kyar Yan Quarter
+    city: South Okkalapa Township
+    state_or_province: Yangon Region
+    country: Burma
+id_list:
+  items:
+  - uid: '28457'
+    id_type: Registration Number
+    id_number: 12/YAKANA(N)006981
+    id_country: Burma
+  - uid: '155048'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '55047'
+    date_of_birth: '09 Jun 1971'
+    main_entry: 'true'
+  - uid: '55221'
+    date_of_birth: 28 Sep 1969
+    main_entry: 'false'

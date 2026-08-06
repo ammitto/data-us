@@ -1,0 +1,43 @@
+---
+uid: '16812'
+last_name: JSB SOBINBANK
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13661
+aka_list:
+  items:
+  - uid: '25641'
+    type: a.k.a.
+    category: strong
+    last_name: SOBINBANK
+address_list:
+  items:
+  - uid: '25445'
+    address1: 15 Korp. 56 D. 4 Etazh ul. Rochdelskaya
+    city: Moscow
+    postal_code: '123022'
+    country: Russia
+  - uid: '25446'
+    address1: 15/56 Rochdelskaya Street
+    city: Moscow
+    postal_code: '123022'
+    country: Russia
+id_list:
+  items:
+  - uid: '9325'
+    id_type: Registration ID
+    id_number: '1027739051009'
+  - uid: '9326'
+    id_type: Government Gazette Number
+    id_number: '09610355'
+  - uid: '115419'
+    id_type: SWIFT/BIC
+    id_number: SBBARUMM
+  - uid: '115418'
+    id_type: Website
+    id_number: http://www.sobinbank.ru
+  - uid: '143575'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

@@ -1,0 +1,29 @@
+---
+uid: '6831'
+first_name: Jorge Alirio
+last_name: DUQUE BOTERO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNT
+address_list:
+  items:
+  - uid: '4849'
+    address1: Calle 5 No. 5A-49
+    city: Buenaventura
+    country: Colombia
+id_list:
+  items:
+  - uid: '1510'
+    id_type: Cedula No.
+    id_number: '6160843'
+    id_country: Colombia
+  - uid: '199132'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '3787'
+    date_of_birth: 04 Jun 1949
+    main_entry: 'true'
+remarks: "(Linked To: PATINO FOMEQUE, Victor Julio)"

@@ -1,0 +1,52 @@
+---
+uid: '40181'
+last_name: JSC AVIACON ZITOTRANS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '62411'
+    type: a.k.a.
+    category: strong
+    last_name: OAO AVIAKOMPANIYA AVIAKON TSITOTRANS
+  - uid: '62412'
+    type: a.k.a.
+    category: strong
+    last_name: AIR COMPANY AVIACON ZITOTRANS
+  - uid: '62413'
+    type: a.k.a.
+    category: strong
+    last_name: AVIACON AIR CARGO
+  - uid: '62414'
+    type: a.k.a.
+    category: strong
+    last_name: AO AK AVIAKON TSITOTRANS
+address_list:
+  items:
+  - uid: '59835'
+    address1: Ul. Belinskogo D. 56
+    address2: Pom. 605
+    city: Yekaterinburg
+    postal_code: '620026'
+    country: Russia
+id_list:
+  items:
+  - uid: '29325'
+    id_type: Registration Number
+    id_number: '1026602311240'
+    id_country: Russia
+  - uid: '29326'
+    id_type: Tax ID No.
+    id_number: '6658039390'
+    id_country: Russia
+  - uid: '157045'
+    id_type: Organization Established Date
+    id_number: 02 Jun 1995
+  - uid: '157046'
+    id_type: 'Organization Type:'
+    id_number: Freight air transport
+  - uid: '174013'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

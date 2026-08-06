@@ -1,0 +1,41 @@
+---
+uid: '45399'
+first_name: Xueqin
+last_name: SONG
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '70258'
+    type: a.k.a.
+    category: weak
+    last_name: SONG, Shelly
+address_list:
+  items:
+  - uid: '67553'
+    address1: No. 35 Group 6, Fengling Village
+    address2: Yuekou Township
+    city: Tianmen City
+    state_or_province: Hubei Province
+    country: China
+id_list:
+  items:
+  - uid: '35144'
+    id_type: National ID No.
+    id_number: '429006199011245448'
+    id_country: China
+  - uid: '165895'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '65891'
+    date_of_birth: 24 Nov 1990
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '65892'
+    place_of_birth: Hubei, China
+    main_entry: 'true'

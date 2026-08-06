@@ -1,0 +1,58 @@
+---
+uid: '41511'
+first_name: Natan Adadievich
+last_name: VINER
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '64613'
+    type: a.k.a.
+    category: strong
+    last_name: VINER
+    first_name: Anton Adadyevich
+  - uid: '64614'
+    type: a.k.a.
+    category: strong
+    last_name: VINER
+    first_name: Natan Adadievic
+  - uid: '64615'
+    type: a.k.a.
+    category: strong
+    last_name: VINER
+    first_name: Nathan Anton
+address_list:
+  items:
+  - uid: '61982'
+    country: Russia
+  - uid: '61983'
+    address1: Kapu iela
+    city: Jurmala
+    country: Latvia
+id_list:
+  items:
+  - uid: '30854'
+    id_type: Tax ID No.
+    id_number: '772986203232'
+    id_country: Russia
+  - uid: '173684'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '159628'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '59625'
+    date_of_birth: Oct 1971
+    main_entry: 'true'
+  - uid: '59626'
+    date_of_birth: '1973'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '59627'
+    place_of_birth: Tashkent, Uzbekistan
+    main_entry: 'true'

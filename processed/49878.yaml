@@ -1,0 +1,44 @@
+---
+uid: '49878'
+last_name: INZHINIRING GRUPP OOO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77737'
+    type: a.k.a.
+    category: strong
+    last_name: OOO IZOVAK ENGINEERING
+  - uid: '77738'
+    type: a.k.a.
+    category: weak
+    last_name: LLC ENGINEERING GROUP
+address_list:
+  items:
+  - uid: '75400'
+    address1: Ul. Lva Tolstogo D. 5, Str. 2, Floor 4, Pomeshch./Kom. 2/24 (V 416)
+    city: Moscow
+    postal_code: '119021'
+    country: Russia
+id_list:
+  items:
+  - uid: '41359'
+    id_type: Tax ID No.
+    id_number: '7708387990'
+    id_country: Russia
+  - uid: '41360'
+    id_type: Registration Number
+    id_number: '1207700340759'
+    id_country: Russia
+  - uid: '41361'
+    id_type: Government Gazette Number
+    id_number: '45582270'
+    id_country: Russia
+  - uid: '177358'
+    id_type: Organization Established Date
+    id_number: 16 Sep 2020
+  - uid: '178715'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

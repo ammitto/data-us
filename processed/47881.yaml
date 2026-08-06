@@ -1,0 +1,41 @@
+---
+uid: '47881'
+first_name: Sergey Eduardovich
+last_name: GORDEEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74286'
+    type: a.k.a.
+    category: strong
+    last_name: GORDEYEV
+    first_name: Sergey Eduardovich
+address_list:
+  items:
+  - uid: '71680'
+    country: Russia
+id_list:
+  items:
+  - uid: '38647'
+    id_type: Tax ID No.
+    id_number: '773600375716'
+    id_country: Russia
+  - uid: '169421'
+    id_type: Gender
+    id_number: Male
+  - uid: '176510'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '69424'
+    date_of_birth: 22 Nov 1972
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '69422'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'

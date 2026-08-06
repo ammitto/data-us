@@ -1,0 +1,54 @@
+---
+uid: '17674'
+first_name: Ruben
+last_name: OSEGUERA CERVANTES
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+aka_list:
+  items:
+  - uid: '27321'
+    type: a.k.a.
+    category: strong
+    last_name: OSEGUERA CERVANTES
+    first_name: Nemesio
+  - uid: '27322'
+    type: a.k.a.
+    category: weak
+    last_name: El Mencho
+  - uid: '84734'
+    type: a.k.a.
+    category: weak
+    last_name: El Senor de los Gallos
+address_list:
+  items:
+  - uid: '43560'
+    state_or_province: Jalisco
+    country: Mexico
+id_list:
+  items:
+  - uid: '48069'
+    id_type: C.U.R.P.
+    id_number: OECR660717HMNSRB00
+    id_country: Mexico
+  - uid: '134802'
+    id_type: Gender
+    id_number: Male
+  - uid: '190342'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '16821'
+    date_of_birth: 17 Jul 1966
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '16823'
+    place_of_birth: Michoacan de Ocampo, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: CARTEL DE JALISCO NUEVA GENERACION)"

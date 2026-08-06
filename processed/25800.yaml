@@ -1,0 +1,36 @@
+---
+uid: '25800'
+last_name: ESAIL SHIPPING LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN
+  - NPWMD
+  - IFSR
+aka_list:
+  items:
+  - uid: '40609'
+    type: a.k.a.
+    category: strong
+    last_name: E-SAIL SHIPPING COMPANY LTD
+  - uid: '40610'
+    type: f.k.a.
+    category: strong
+    last_name: SANTEX LINES
+address_list:
+  items:
+  - uid: '39042'
+    address1: Building  1088, Suite 1501
+    address2: Pudong South Road (Shanghai Zhong Rong Plaza)
+    city: Shanghai
+    postal_code: '200122'
+    country: China
+id_list:
+  items:
+  - uid: '16681'
+    id_type: Trade License No.
+    id_number: '1429927'
+    id_country: Hong Kong
+  - uid: '129974'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

@@ -1,0 +1,38 @@
+---
+uid: '48508'
+last_name: LIMITED LIABILITY COMPANY HOTU TENT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '75387'
+    type: a.k.a.
+    category: strong
+    last_name: KHOTU TENT
+address_list:
+  items:
+  - uid: '72789'
+    address1: Truda St., 1
+    city: Yakutsk
+    postal_code: '677000'
+    country: Russia
+  - uid: '72791'
+    address1: Ul. Kirova D. 31/1, Kv. 92
+    city: Yakutsk
+    postal_code: '677027'
+    country: Russia
+id_list:
+  items:
+  - uid: '39427'
+    id_type: Registration Number
+    id_number: '1191447014714'
+    id_country: Russia
+  - uid: '39428'
+    id_type: Tax ID No.
+    id_number: '1435347144'
+    id_country: Russia
+  - uid: '171237'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,51 @@
+---
+uid: '44544'
+last_name: LIMITED LIABILITY COMPANY VERUS
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK
+aka_list:
+  items:
+  - uid: '68847'
+    type: a.k.a.
+    category: weak
+    last_name: LLC VERUS
+  - uid: '68880'
+    type: a.k.a.
+    category: strong
+    last_name: VERUS CONSULTING GROUP
+address_list:
+  items:
+  - uid: '66347'
+    address1: Per. Balakirevskii D. 23, Floor 3, Pomeshch. 309 Komnata 1, Office 45
+    city: Moscow
+    postal_code: '105082'
+    country: Russia
+  - uid: '66356'
+    address1: Office 45, Room 1, Facility 309, Floor 3, Building 23, Balakirevskiy
+      Lane, Basmanny Municipal District Federal Intracity Territory
+    city: Moscow
+    postal_code: '105082'
+    country: Russia
+id_list:
+  items:
+  - uid: '34062'
+    id_type: Registration Number
+    id_number: '1217700053493'
+    id_country: Russia
+  - uid: '34063'
+    id_type: Tax ID No.
+    id_number: '9701170663'
+    id_country: Russia
+  - uid: '164538'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '164569'
+    id_type: Organization Established Date
+    id_number: 10 Feb 2021
+  - uid: '164537'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+remarks: "(Linked To: MKRTYCHEV, Ashot)"

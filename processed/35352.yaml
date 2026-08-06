@@ -1,0 +1,31 @@
+---
+uid: '35352'
+last_name: IRKUTSK AVIATION PLANT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '55711'
+    type: a.k.a.
+    category: strong
+    last_name: IRKUT AIRCRAFT FACTORY
+address_list:
+  items:
+  - uid: '53174'
+    address1: 3, Novatorov St.
+    city: Irkutsk
+    postal_code: '664020'
+    country: Russia
+id_list:
+  items:
+  - uid: '176741'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '147635'
+    id_type: Organization Established Date
+    id_number: '1934'
+  - uid: '147636'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

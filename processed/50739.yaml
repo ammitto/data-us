@@ -1,0 +1,37 @@
+---
+uid: '50739'
+last_name: OOO NAUCHNO PROIZVODSTVENNOE OBYEDINENIE TSVBP
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79423'
+    type: a.k.a.
+    category: strong
+    last_name: NPO TSVBP
+address_list:
+  items:
+  - uid: '76953'
+    address1: Pl. Kudrinskaya D. 1
+    address2: Pomeshch 5A
+    city: Moscow
+    postal_code: '123242'
+    country: Russia
+id_list:
+  items:
+  - uid: '42612'
+    id_type: Registration Number
+    id_number: '1237700707991'
+    id_country: Russia
+  - uid: '42613'
+    id_type: Tax ID No.
+    id_number: '9703158566'
+    id_country: Russia
+  - uid: '179364'
+    id_type: Organization Established Date
+    id_number: 19 Oct 2023
+  - uid: '179365'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

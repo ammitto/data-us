@@ -1,0 +1,41 @@
+---
+uid: '37261'
+first_name: Sergio Isaias
+last_name: HERNANDEZ MAZON
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '58396'
+    type: a.k.a.
+    category: weak
+    last_name: Chavelo
+address_list:
+  items:
+  - uid: '55714'
+    address1: Calle Estribo 3
+    address2: Colonia El Rodeo
+    city: Nogales
+    state_or_province: Sonora
+    country: Mexico
+id_list:
+  items:
+  - uid: '26547'
+    id_type: C.U.R.P.
+    id_number: HEMS800823HSRRZR07
+    id_country: Mexico
+  - uid: '151756'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '51753'
+    date_of_birth: 23 Aug 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '51754'
+    place_of_birth: Sonora, Mexico
+    main_entry: 'true'

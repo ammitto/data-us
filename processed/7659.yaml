@@ -1,0 +1,35 @@
+---
+uid: '7659'
+first_name: Milovan
+last_name: BJELICA
+sdn_type: Individual
+program_list:
+  programs:
+  - BALKANS
+aka_list:
+  items:
+  - uid: '12253'
+    type: a.k.a.
+    category: weak
+    last_name: CICKO
+address_list:
+  items:
+  - uid: '6544'
+    address1: Starine Novaka Street BB, Sokolac
+    city: Republika Srpska
+    country: Bosnia and Herzegovina
+id_list:
+  items:
+  - uid: '1990'
+    id_type: National ID No.
+    id_number: '1910958130007'
+date_of_birth_list:
+  items:
+  - uid: '1743'
+    date_of_birth: 19 Oct 1958
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '1744'
+    place_of_birth: Rogatica, Bosnia-Herzegovina
+    main_entry: 'true'

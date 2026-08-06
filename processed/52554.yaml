@@ -1,0 +1,33 @@
+---
+uid: '52554'
+last_name: LIMITED LIABILITY COMPANY KERAMAKS METALLURGICHESKIYE MATERIALY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '82248'
+    type: a.k.a.
+    category: weak
+    last_name: OOO KMM
+address_list:
+  items:
+  - uid: '80258'
+    address1: Room 11, Suite 1, 21 Mashinostroiteley Street
+    city: Chelyabinsk
+    country: Russia
+id_list:
+  items:
+  - uid: '45564'
+    id_type: Registration Number
+    id_number: '1237400021286'
+    id_country: Russia
+  - uid: '45565'
+    id_type: Tax ID No.
+    id_number: '7449150131'
+    id_country: Russia
+  - uid: '184229'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: JOINT STOCK COMPANY KERAMAX)"

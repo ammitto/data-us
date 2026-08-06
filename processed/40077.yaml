@@ -1,0 +1,57 @@
+---
+uid: '40077'
+first_name: Atif Yahya
+last_name: GHOURI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '62292'
+    type: a.k.a.
+    category: strong
+    last_name: GHAURI
+    first_name: Yahya Shoaib
+  - uid: '62293'
+    type: a.k.a.
+    category: weak
+    last_name: GHAURI, Atif
+  - uid: '62294'
+    type: a.k.a.
+    category: weak
+    last_name: Qari Atif
+  - uid: '62295'
+    type: a.k.a.
+    category: weak
+    last_name: Qari Ibrahim
+address_list:
+  items:
+  - uid: '59686'
+    country: Afghanistan
+id_list:
+  items:
+  - uid: '156868'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '156855'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '56851'
+    date_of_birth: '1982'
+    main_entry: 'true'
+  - uid: '56852'
+    date_of_birth: '1981'
+    main_entry: 'false'
+  - uid: '56853'
+    date_of_birth: '1983'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '56854'
+    place_of_birth: Pakistan
+    main_entry: 'true'
+remarks: "(Linked To: AL-QA'IDA IN THE INDIAN SUBCONTINENT)"

@@ -1,0 +1,38 @@
+---
+uid: '43539'
+first_name: Yury Yuryevich
+last_name: MAKOLOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '64952'
+    address1: Beringa
+    city: St. Petersburg
+    state_or_province: St. Petersburg
+    postal_code: '199406'
+    country: Russia
+id_list:
+  items:
+  - uid: '33118'
+    id_type: Passport
+    id_number: '711393126'
+    id_country: Russia
+  - uid: '175716'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '163019'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '63016'
+    date_of_birth: 27 Mar 1995
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '63017'
+    place_of_birth: Togliatti, Russia
+    main_entry: 'true'

@@ -1,0 +1,33 @@
+---
+uid: '46130'
+first_name: Song Sun
+last_name: IM
+sdn_type: Individual
+program_list:
+  programs:
+  - DPRK4
+address_list:
+  items:
+  - uid: '68705'
+    country: Korea, North
+id_list:
+  items:
+  - uid: '36016'
+    id_type: Passport
+    id_number: '745335827'
+    id_country: Korea, North
+  - uid: '166800'
+    id_type: Gender
+    id_number: Male
+  - uid: '166803'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '166804'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+date_of_birth_list:
+  items:
+  - uid: '66799'
+    date_of_birth: 02 Sep 1965
+    main_entry: 'true'

@@ -1,0 +1,32 @@
+---
+uid: '10581'
+first_name: Bahmanyar Morteza
+last_name: BAHMANYAR
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+id_list:
+  items:
+  - uid: '5118'
+    id_type: Passport
+    id_number: I0005159
+    id_country: Iran
+  - uid: '5119'
+    id_type: Passport
+    id_number: '10005159'
+    id_country: Iran
+  - uid: '114298'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '5899'
+    date_of_birth: 31 Dec 1952
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '5900'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'

@@ -1,0 +1,33 @@
+---
+uid: '50862'
+last_name: INTRACORP COMPANY LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80043'
+    type: a.k.a.
+    category: strong
+    last_name: INTRACORP LTD
+address_list:
+  items:
+  - uid: '77639'
+    address1: P23 Tower, 11 Floor, 11/2 Soi Sukhumvit 23
+    address2: Khlong Toei Nuea, Watthana
+    city: Bangkok
+    postal_code: '10110'
+    country: Thailand
+id_list:
+  items:
+  - uid: '43190'
+    id_type: Registration Number
+    id_number: '0105561091211'
+    id_country: Thailand
+  - uid: '180091'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '180092'
+    id_type: Organization Established Date
+    id_number: '2018'

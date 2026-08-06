@@ -1,0 +1,47 @@
+---
+uid: '42320'
+last_name: ARTTRONIX INTERNATIONAL HK LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+aka_list:
+  items:
+  - uid: '65725'
+    type: a.k.a.
+    category: strong
+    last_name: ADERAL INDUSTRIAL HK LTD.
+address_list:
+  items:
+  - uid: '63133'
+    address1: 15/B 15/F Cheuk Nang Plaza, 250 Hennessy Road
+    city: Hong Kong
+    country: China
+  - uid: '63146'
+    address1: 610 Nathan Road, Rooms 1318-20, 13/F, Hollywood Plaza
+    address2: Mong Kok
+    city: Hong Kong
+    country: China
+  - uid: '63150'
+    address1: Rm3A25, Bldg A Zhihui Innovation CTR Huashenghui 2nd Qianjin Rd Baoan
+      Dist
+    city: Shenzhen
+    state_or_province: Guangdong
+    country: China
+id_list:
+  items:
+  - uid: '31826'
+    id_type: Company Number
+    id_number: '1823593'
+    id_country: Hong Kong
+  - uid: '160926'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '160937'
+    id_type: Organization Established Date
+    id_number: '09 Nov 2012'
+  - uid: '160670'
+    id_type: Website
+    id_number: www.arttronix.com
+remarks: "(Linked To: PARDAZAN SYSTEM NAMAD ARMAN)"

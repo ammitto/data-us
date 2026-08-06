@@ -1,0 +1,36 @@
+---
+uid: '25663'
+last_name: AGRICULTURAL, MEDICAL, AND INDUSTRIAL RESEARCH CENTER
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN
+aka_list:
+  items:
+  - uid: '40353'
+    type: f.k.a.
+    category: strong
+    last_name: NUCLEAR RESEARCH CENTER FOR AGRICULTURE AND MEDICINE
+  - uid: '40354'
+    type: a.k.a.
+    category: strong
+    last_name: KARAJ NUCLEAR RESEARCH CENTER FOR AGRICULTURE AND MEDICINE
+  - uid: '40765'
+    type: a.k.a.
+    category: weak
+    last_name: AMIRC
+  - uid: '40766'
+    type: f.k.a.
+    category: weak
+    last_name: NRCAM
+address_list:
+  items:
+  - uid: '38830'
+    city: Karaj
+    country: Iran
+id_list:
+  items:
+  - uid: '129608'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: NUCLEAR SCIENCE AND TECHNOLOGY RESEARCH INSTITUTE)"

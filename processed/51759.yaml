@@ -1,0 +1,29 @@
+---
+uid: '51759'
+last_name: CRIUS LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+address_list:
+  items:
+  - uid: '78876'
+    address1: Block 3, Un Shing House Phase 3, Un Chau Street, Kowloon
+    city: Hong Kong
+    country: China
+id_list:
+  items:
+  - uid: '44366'
+    id_type: Identification Number
+    id_number: IMO 6355621
+  - uid: '181932'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183446'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '182856'
+    id_type: Organization Established Date
+    id_number: '2022'

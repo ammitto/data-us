@@ -1,0 +1,46 @@
+---
+uid: '22343'
+first_name: Jose Luis
+last_name: RUELAS AVILA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '33808'
+    address1: C 14 S/N
+    address2: Loc Genaro Estrada
+    city: Sinaloa
+    state_or_province: Sinaloa
+    postal_code: '81960'
+    country: Mexico
+id_list:
+  items:
+  - uid: '14055'
+    id_type: C.U.R.P.
+    id_number: RUAL810311HSLLVS02
+    id_country: Mexico
+  - uid: '14056'
+    id_type: R.F.C.
+    id_number: RUAL810311933
+    id_country: Mexico
+  - uid: '14057'
+    id_type: I.F.E.
+    id_number: RLAVLS81031125H800
+    id_country: Mexico
+  - uid: '123754'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '23752'
+    date_of_birth: 11 Mar 1981
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '23751'
+    place_of_birth: Sinaloa, Sinaloa, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: RUELAS TORRES DRUG TRAFFICKING ORGANIZATION; Linked To: ALONDRA
+  PRODUCE, S.P.R. DE R.I.)"

@@ -1,0 +1,35 @@
+---
+uid: '7295'
+last_name: VISCAYA LTDA.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDNT
+aka_list:
+  items:
+  - uid: '5261'
+    type: a.k.a.
+    category: strong
+    last_name: VIZCAYA LTDA.
+address_list:
+  items:
+  - uid: '5612'
+    address1: Carrera 3 No. 11-99
+    city: Cartago
+    state_or_province: Valle
+    country: Colombia
+  - uid: '5613'
+    address1: Carrera 4 No. 12-20 of. 206
+    city: Cartago
+    state_or_province: Valle
+    country: Colombia
+  - uid: '5614'
+    address1: Km 7 Via Cartago-Obando, Hacienda El Vergel
+    city: Cartago
+    country: Colombia
+id_list:
+  items:
+  - uid: '1602'
+    id_type: 'NIT #'
+    id_number: 800054357-8
+    id_country: Colombia

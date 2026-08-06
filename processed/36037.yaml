@@ -1,0 +1,39 @@
+---
+uid: '36037'
+last_name: BALTIC SHIPYARD JSC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56735'
+    type: a.k.a.
+    category: strong
+    last_name: BALTIC PLANT
+  - uid: '56736'
+    type: a.k.a.
+    category: strong
+    last_name: JSC BALTIC PLANT
+  - uid: '57358'
+    type: a.k.a.
+    category: strong
+    last_name: BALTIC SHIPYARD
+address_list:
+  items:
+  - uid: '54158'
+    address1: St. Oblique Line
+    address2: House 16
+    city: St. Petersburg
+    postal_code: '199106'
+    country: Russia
+id_list:
+  items:
+  - uid: '25810'
+    id_type: Tax ID No.
+    id_number: '7801560631'
+    id_country: Russia
+  - uid: '173333'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: JOINT STOCK COMPANY UNITED SHIPBUILDING CORPORATION)"

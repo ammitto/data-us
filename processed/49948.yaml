@@ -1,0 +1,47 @@
+---
+uid: '49948'
+last_name: NAUCHNO PROIZVODSTVENNOE PREDPRIYATIE TOMILINSKII ELEKTRONNYI ZAVOD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77843'
+    type: a.k.a.
+    category: strong
+    last_name: NPP TEZ
+  - uid: '77847'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY SCIENTIFIC PRODUCTION CORPORATION TOMILINSKY
+      ELECTRONICS FACTORY
+  - uid: '77849'
+    type: a.k.a.
+    category: strong
+    last_name: LLC NPP TEZ
+  - uid: '77850'
+    type: a.k.a.
+    category: strong
+    last_name: TOMILINSKY ELECTRONICS FACTORY
+address_list:
+  items:
+  - uid: '75534'
+    address1: Ul. Garshina
+    address2: D. 11
+    city: Tomolino
+    postal_code: '140070'
+    country: Russia
+id_list:
+  items:
+  - uid: '41470'
+    id_type: Registration Number
+    id_number: '1035005022326'
+    id_country: Russia
+  - uid: '41471'
+    id_type: Tax ID No.
+    id_number: '5027095560'
+    id_country: Russia
+  - uid: '178054'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

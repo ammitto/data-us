@@ -1,0 +1,41 @@
+---
+uid: '46776'
+last_name: JOINT STOCK COMPANY OPTRON STAVROPOL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '72232'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSCHESTVO OPTRON STAVROPOL
+  - uid: '72233'
+    type: a.k.a.
+    category: strong
+    last_name: OPTRON STAVROPOL CORP
+  - uid: '72234'
+    type: a.k.a.
+    category: strong
+    last_name: GAZTRON CORP
+address_list:
+  items:
+  - uid: '69703'
+    address1: 431 Lenina Str.
+    city: Stavropol
+    postal_code: '355000'
+    country: Russia
+id_list:
+  items:
+  - uid: '36847'
+    id_type: Tax ID No.
+    id_number: '2635078677'
+    id_country: Russia
+  - uid: '36848'
+    id_type: Registration Number
+    id_number: '1052600264254'
+    id_country: Russia
+  - uid: '176296'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

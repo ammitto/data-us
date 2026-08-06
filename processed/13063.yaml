@@ -1,0 +1,39 @@
+---
+uid: '13063'
+first_name: Omer
+last_name: GELERI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '20836'
+    city: Prundeni
+    state_or_province: Valcea
+    country: Romania
+  - uid: '20837'
+    address1: c/o MEGA GROUP S.R.L.
+  - uid: '20838'
+    address1: c/o GELRO IMPEX S.R.L.
+id_list:
+  items:
+  - uid: '7510'
+    id_type: CNP (Personal Numerical Code)
+    id_number: '7460301380011'
+    id_country: Romania
+  - uid: '7511'
+    id_type: Romanian Permanent Resident
+    id_number: CAN 0125477
+    id_country: Romania
+    issue_date: 13 Jul 2007
+date_of_birth_list:
+  items:
+  - uid: '8877'
+    date_of_birth: 01 Mar 1946
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '8878'
+    place_of_birth: Mardin, Turkey
+    main_entry: 'true'

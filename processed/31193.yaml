@@ -1,0 +1,51 @@
+---
+uid: '31193'
+first_name: Muhammad Abd Al-Karim
+last_name: AL-GHAMARI
+sdn_type: Individual
+program_list:
+  programs:
+  - YEMEN
+aka_list:
+  items:
+  - uid: '49064'
+    type: a.k.a.
+    category: strong
+    last_name: AL-GHAMARI
+    first_name: Muhammad 'Abd-al-Karim Ahmad Husayn
+  - uid: '49066'
+    type: a.k.a.
+    category: weak
+    last_name: Sayyid Hashim
+  - uid: '50126'
+    type: a.k.a.
+    category: strong
+    last_name: GHOMMARI
+    first_name: Muhammad
+  - uid: '50127'
+    type: a.k.a.
+    category: strong
+    last_name: AL-GHOMMARI
+    first_name: Muhammad
+address_list:
+  items:
+  - uid: '47146'
+    country: Yemen
+id_list:
+  items:
+  - uid: '139625'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '39626'
+    date_of_birth: '1979'
+    main_entry: 'true'
+  - uid: '39660'
+    date_of_birth: '1984'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '39627'
+    place_of_birth: Izla Dhaen, Wahha District, Hajjar Governorate, Yemen
+    main_entry: 'true'

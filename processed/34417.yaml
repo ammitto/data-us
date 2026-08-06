@@ -1,0 +1,83 @@
+---
+uid: '34417'
+first_name: Alexander
+last_name: ZHUCHKOVSKY
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '53868'
+    type: a.k.a.
+    category: strong
+    last_name: ZHUCHKOVSKIY
+    first_name: Alexander Grigorevich
+  - uid: '53870'
+    type: a.k.a.
+    category: strong
+    last_name: ZHUCHKOVSKIY
+    first_name: Aleksander
+  - uid: '53871'
+    type: a.k.a.
+    category: strong
+    last_name: ZHUCHKOVSKIY
+    first_name: Alexandr
+  - uid: '53872'
+    type: a.k.a.
+    category: strong
+    last_name: ZHUCHKOVSKY
+    first_name: Alexandr
+address_list:
+  items:
+  - uid: '51547'
+    address1: Voronezhskaya Dom 62 10
+    city: Saint Petersburg
+    postal_code: '190000'
+    country: Russia
+  - uid: '51548'
+    address1: Ul Voronezhskaya D 62 KV 10
+    city: Saint Petersburg
+    postal_code: '658000'
+    country: Russia
+  - uid: '51549'
+    address1: Profinterna 12 3
+    city: Rostov Na Donu
+    postal_code: '344000'
+    country: Russia
+id_list:
+  items:
+  - uid: '24018'
+    id_type: Passport
+    id_number: '4014075407'
+    id_country: Russia
+  - uid: '24019'
+    id_type: Passport
+    id_number: '4009930376'
+    id_country: Russia
+  - uid: '24056'
+    id_type: Tax ID No.
+    id_number: '781697836992'
+    id_country: Russia
+  - uid: '24057'
+    id_type: Government Gazette Number
+    id_number: '2187800076825'
+    id_country: Russia
+  - uid: '145694'
+    id_type: Gender
+    id_number: Male
+  - uid: '152734'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '45688'
+    date_of_birth: '09 Sep 1986'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '52732'
+    place_of_birth: Russia
+    main_entry: 'true'
+remarks: "(Linked To: RUSSIAN IMPERIAL MOVEMENT)"

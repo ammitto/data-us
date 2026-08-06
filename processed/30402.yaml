@@ -1,0 +1,45 @@
+---
+uid: '30402'
+last_name: PAYANDAN COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13876
+aka_list:
+  items:
+  - uid: '47752'
+    type: a.k.a.
+    category: strong
+    last_name: PAYANDAN
+  - uid: '47753'
+    type: a.k.a.
+    category: strong
+    last_name: PAYANDAN CO.
+address_list:
+  items:
+  - uid: '45952'
+    address1: "#2, North Bakeri Highway, West Hakim Highway"
+    city: Tehran
+    state_or_province: Tehran
+    country: Iran
+  - uid: '45953'
+    address1: West Hakim Expressway - Bakeri St. -  No. 2
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '20539'
+    id_type: Registration Number
+    id_number: '20990'
+    id_country: Iran
+  - uid: '20541'
+    id_type: National ID No.
+    id_number: '10100665370'
+    id_country: Iran
+  - uid: '138033'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '138034'
+    id_type: Website
+    id_number: www.payandan.com
+remarks: "(Linked To: ISLAMIC REVOLUTION MOSTAZAFAN FOUNDATION)"

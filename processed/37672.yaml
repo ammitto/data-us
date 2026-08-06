@@ -1,0 +1,30 @@
+---
+uid: '37672'
+first_name: Oleg Anatolyevich
+last_name: KRINITSYN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '56339'
+    country: Russia
+id_list:
+  items:
+  - uid: '26901'
+    id_type: Tax ID No.
+    id_number: '342304942480'
+    id_country: Russia
+  - uid: '173451'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '152611'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '52613'
+    date_of_birth: 12 May 1971
+    main_entry: 'true'
+remarks: "(Linked To: LIMITED LIABILITY COMPANY RSB-GROUP)"

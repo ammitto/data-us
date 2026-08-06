@@ -1,0 +1,41 @@
+---
+uid: '48860'
+last_name: RUSSIAN ALL TERRAIN VEHICLES PLASTUN COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76103'
+    type: a.k.a.
+    category: strong
+    last_name: RUSSKIE MASHINY PLASTUN
+  - uid: '76104'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTIU RUSSKIE VEZDEKHODY PLASTUN
+address_list:
+  items:
+  - uid: '73481'
+    address1: 21 Litera A, Leitenanta Shmidta Nab., Pomeshch. 4-N
+    city: Saint Petersburg
+    postal_code: '199034'
+    country: Russia
+  - uid: '73482'
+    address1: 9 Khilokskaia
+    city: Novosibirsk
+    country: Russia
+id_list:
+  items:
+  - uid: '39924'
+    id_type: Registration Number
+    id_number: '1217800042283'
+    id_country: Russia
+  - uid: '39925'
+    id_type: Tax ID No.
+    id_number: '7801696576'
+    id_country: Russia
+  - uid: '171559'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

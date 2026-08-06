@@ -1,0 +1,28 @@
+---
+uid: '49407'
+last_name: JOINT STOCK COMPANY KONAR
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '74480'
+    address1: Ulitsa Eniseiskaya
+    address2: Dom 8
+    city: Chelyabinsk
+    postal_code: '454010'
+    country: Russia
+id_list:
+  items:
+  - uid: '40689'
+    id_type: Tax ID No.
+    id_number: '7451064592'
+    id_country: Russia
+  - uid: '40690'
+    id_type: Registration Number
+    id_number: '1027403773484'
+    id_country: Russia
+  - uid: '172482'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,46 @@
+---
+uid: '40582'
+last_name: AKTSIONERNOYE OBSHCHESTVO 179 SUDOREMONTNYY ZAVOD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63080'
+    type: a.k.a.
+    category: weak
+    last_name: 179 SRZ AO
+  - uid: '63081'
+    type: a.k.a.
+    category: strong
+    last_name: 179TH SHIP REPAIR YARD JSC
+  - uid: '63082'
+    type: a.k.a.
+    category: strong
+    last_name: 179TH SHIP REPAIR PLANT JOINT STOCK COMPANY
+address_list:
+  items:
+  - uid: '60455'
+    address1: 1 Ulitsa Portovaya
+    city: Khabarovsk
+    postal_code: '680018'
+    country: Russia
+id_list:
+  items:
+  - uid: '29731'
+    id_type: Tax ID No.
+    id_number: '2725078713'
+    id_country: Russia
+  - uid: '29732'
+    id_type: Registration Number
+    id_number: '1082722011680'
+    id_country: Russia
+  - uid: '157861'
+    id_type: Organization Established Date
+    id_number: 27 Oct 2008
+  - uid: '174126'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: AKTSIONERNOYE OBSHCHESTVO DALNEVOSTOCHNYY TSENTR SUDOSTROYENIYA
+  I SUDOREMONTA)"

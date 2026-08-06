@@ -1,0 +1,38 @@
+---
+uid: '49399'
+last_name: UNITARY PRIVATE SCIENCE PRODUCTION ENTERPRISE TEHNOLIT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77053'
+    type: a.k.a.
+    category: weak
+    last_name: TECHNOLYTE
+  - uid: '77054'
+    type: a.k.a.
+    category: strong
+    last_name: UNITARNOE CHASTNOE NAUCHNO PROIZVODSTVENNOE PREDPRIYATIE TEKHNOLIT
+address_list:
+  items:
+  - uid: '74464'
+    address1: 18 Alexey Pysin Street
+    city: Mogilev
+    postal_code: '212026'
+    country: Belarus
+id_list:
+  items:
+  - uid: '40679'
+    id_type: Registration Number
+    id_number: '700001147'
+    id_country: Belarus
+  - uid: '40681'
+    id_type: Government Gazette Number
+    id_number: '28307680'
+    id_country: Belarus
+  - uid: '172756'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: JOINT STOCK COMPANY 81 ARMORED FIGHTING VEHICLES REPAIR PLANT)"

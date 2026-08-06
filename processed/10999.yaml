@@ -1,0 +1,36 @@
+---
+uid: '10999'
+last_name: DISTRIBUIDORA DE HERMOSILLO GAXIOLA HERMANOS S.A. DE C.V.
+sdn_type: Entity
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '11417'
+    type: a.k.a.
+    category: strong
+    last_name: MADYVA
+address_list:
+  items:
+  - uid: '15920'
+    address1: Fco. Eusebio Kino 177-7, Col. 5 de Mayo
+    city: Hermosillo
+    state_or_province: Sonora
+    postal_code: '83010'
+    country: Mexico
+  - uid: '15921'
+    address1: Blvd. Luis Encinas 581, Esquina Alberto Truqui, Colonia Pimentel
+    city: Hermosillo
+    state_or_province: Sonora
+    country: Mexico
+  - uid: '15922'
+    city: Guadalajara
+    state_or_province: Jalisco
+    country: Mexico
+id_list:
+  items:
+  - uid: '5470'
+    id_type: R.F.C.
+    id_number: DHG900717NV3
+    id_country: Mexico

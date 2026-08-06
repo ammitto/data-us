@@ -1,0 +1,48 @@
+---
+uid: '30291'
+first_name: Chin-Hua
+last_name: HUANG
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '47494'
+    type: a.k.a.
+    category: strong
+    last_name: HUANG
+    first_name: Jinee
+address_list:
+  items:
+  - uid: '45826'
+    country: Taiwan
+id_list:
+  items:
+  - uid: '20400'
+    id_type: Identification Number
+    id_number: H222234242
+    id_country: Taiwan
+  - uid: '20401'
+    id_type: Passport
+    id_number: '302114600'
+    id_country: Taiwan
+    expiration_date: 07 Oct 2020
+  - uid: '137814'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '137818'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '37815'
+    date_of_birth: '08 Apr 1978'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '37817'
+    place_of_birth: Taiwan
+    main_entry: 'true'
+remarks: "(Linked To: DES INTERNATIONAL CO., LTD.)"

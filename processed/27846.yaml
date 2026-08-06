@@ -1,0 +1,33 @@
+---
+uid: '27846'
+first_name: Vahid
+last_name: HAGHANIAN
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13876
+address_list:
+  items:
+  - uid: '42158'
+    country: Iran
+id_list:
+  items:
+  - uid: '133103'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '133079'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '33076'
+    date_of_birth: '1961'
+    main_entry: 'true'
+  - uid: '33132'
+    date_of_birth: '1962'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '33077'
+    place_of_birth: Iran
+    main_entry: 'true'

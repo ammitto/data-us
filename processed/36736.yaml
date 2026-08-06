@@ -1,0 +1,44 @@
+---
+uid: '36736'
+last_name: SC SOUTH LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '57807'
+    type: a.k.a.
+    category: strong
+    last_name: SC-YUG
+  - uid: '57808'
+    type: a.k.a.
+    category: weak
+    last_name: SK-YUG
+  - uid: '57809'
+    type: a.k.a.
+    category: strong
+    last_name: SHIPPING COMPANY SOUTH
+address_list:
+  items:
+  - uid: '55124'
+    address1: ul. Lenina, d. 6B
+    city: Novorossiysk
+    state_or_province: Krasnodarskiy kray
+    postal_code: '353960'
+    country: Russia
+id_list:
+  items:
+  - uid: '26197'
+    id_type: Identification Number
+    id_number: IMO 5937219
+  - uid: '26198'
+    id_type: Tax ID No.
+    id_number: '9705070317'
+    id_country: Russia
+  - uid: '174260'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '150530'
+    id_type: Organization Established Date
+    id_number: 30 Jun 2016

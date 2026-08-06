@@ -1,0 +1,52 @@
+---
+uid: '22683'
+first_name: Baoxia
+last_name: LIU
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+aka_list:
+  items:
+  - uid: '35752'
+    type: a.k.a.
+    category: weak
+    last_name: LAU, Emily
+  - uid: '35753'
+    type: a.k.a.
+    category: weak
+    last_name: LIU, Emily
+address_list:
+  items:
+  - uid: '34308'
+    city: Beijing
+    country: China
+id_list:
+  items:
+  - uid: '14315'
+    id_type: Passport
+    id_number: G28882492
+    id_country: China
+    expiration_date: 04 May 2018
+  - uid: '35325'
+    id_type: National ID No.
+    id_number: '370724198109101905'
+    id_country: China
+  - uid: '124135'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '124134'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '24131'
+    date_of_birth: 10 Sep 1981
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '24132'
+    place_of_birth: Shandong, China
+    main_entry: 'true'
+remarks: "(Linked To: SHIRAZ ELECTRONICS INDUSTRIES)"

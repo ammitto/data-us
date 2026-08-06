@@ -1,0 +1,47 @@
+---
+uid: '34539'
+last_name: JOINT STOCK COMPANY SAROVBUSINESSBANK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54095'
+    type: f.k.a.
+    category: strong
+    last_name: JOINT STOCK COMMERCIAL BANK SAROVBUSINESSBANK
+  - uid: '54096'
+    type: f.k.a.
+    category: strong
+    last_name: PUBLIC JOINT STOCK COMPANY SAROVBUSINESSBANK
+  - uid: '55123'
+    type: a.k.a.
+    category: strong
+    last_name: JSC SAROVBUSINESSBANK
+address_list:
+  items:
+  - uid: '51771'
+    address1: ul Silkina 13
+    city: Sarov
+    state_or_province: Nizhegorodskaya Oblast
+    postal_code: '607189'
+    country: Russia
+id_list:
+  items:
+  - uid: '145972'
+    id_type: SWIFT/BIC
+    id_number: SARORU2S
+  - uid: '145973'
+    id_type: Website
+    id_number: http://www.sbbank.ru
+  - uid: '175140'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '146698'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '146789'
+    id_type: BIK (RU)
+    id_number: '042202718'
+remarks: "(Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)"

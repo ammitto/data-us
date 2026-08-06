@@ -1,0 +1,29 @@
+---
+uid: '10034'
+first_name: Douglas
+last_name: MPANO
+sdn_type: Individual
+program_list:
+  programs:
+  - DRCONGO
+aka_list:
+  items:
+  - uid: '9744'
+    type: a.k.a.
+    category: strong
+    last_name: MPAMO
+    first_name: Douglas Iruta
+date_of_birth_list:
+  items:
+  - uid: '5148'
+    date_of_birth: 28 Dec 1965
+    main_entry: 'true'
+  - uid: '5158'
+    date_of_birth: 29 Dec 1965
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '5149'
+    place_of_birth: Goma, Democratic Republic of the Congo
+    main_entry: 'true'
+title: Manager, Great Lakes Business Company and Compagnie Aerienne des Grands Lacs

@@ -1,0 +1,36 @@
+---
+uid: '29896'
+first_name: Mohammad
+last_name: GHOLAMI
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+address_list:
+  items:
+  - uid: '45092'
+    country: Iran
+id_list:
+  items:
+  - uid: '20021'
+    id_type: National ID No.
+    id_number: '5249398618'
+    id_country: Iran
+  - uid: '137130'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '137132'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '37131'
+    date_of_birth: 26 Dec 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '37133'
+    place_of_birth: Bojnord, Iran
+    main_entry: 'true'
+remarks: "(Linked To: SHAHID HEMMAT INDUSTRIAL GROUP)"

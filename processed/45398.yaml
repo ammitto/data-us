@@ -1,0 +1,52 @@
+---
+uid: '45398'
+first_name: Savo
+last_name: CVIJETINOVIC
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70257'
+    type: a.k.a.
+    category: weak
+    last_name: TIGAR
+  - uid: '70259'
+    type: a.k.a.
+    category: weak
+    last_name: TIGER
+address_list:
+  items:
+  - uid: '67552'
+    city: Bijeljina
+    country: Bosnia and Herzegovina
+id_list:
+  items:
+  - uid: '35145'
+    id_type: National ID No.
+    id_number: 87120231E
+    id_country: Bosnia and Herzegovina
+    expiration_date: 15 May 2028
+  - uid: '35146'
+    id_type: Passport
+    id_number: B0252296
+    id_country: Bosnia and Herzegovina
+    expiration_date: '08 May 2025'
+  - uid: '165890'
+    id_type: Gender
+    id_number: Male
+  - uid: '175974'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '65889'
+    date_of_birth: 27 Dec 1959
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '65886'
+    place_of_birth: Lopare, Bosnia and Herzegovina
+    main_entry: 'true'
+remarks: "(Linked To: INZINJERING-BN BIJELJINA D.O.O.)"

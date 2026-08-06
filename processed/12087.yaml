@@ -1,0 +1,49 @@
+---
+uid: '12087'
+first_name: Carlos Manuel
+last_name: RAMIREZ DUQUE
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNT
+address_list:
+  items:
+  - uid: '18452'
+    address1: c/o AGROESPINAL S.A.
+    city: Medellin
+    country: Colombia
+  - uid: '18453'
+    address1: c/o AGROGANADERA LOS SANTOS S.A.
+    city: Medellin
+    country: Colombia
+  - uid: '18454'
+    address1: c/o ASES DE COMPETENCIA Y CIA. S.A.
+    city: Medellin
+    country: Colombia
+  - uid: '18455'
+    address1: c/o GRUPO FALCON S.A.
+    city: Medellin
+    country: Colombia
+  - uid: '18456'
+    address1: c/o HIERROS DE JERUSALEM S.A.
+    city: Medellin
+    country: Colombia
+  - uid: '18457'
+    address1: c/o TAXI AEREO ANTIOQUENO S.A.
+    city: Medellin
+    country: Colombia
+  - uid: '18458'
+    address1: Calle 50 No. 65-42 Of. 205
+    city: Medellin
+    country: Colombia
+id_list:
+  items:
+  - uid: '6522'
+    id_type: Cedula No.
+    id_number: '8281944'
+    id_country: Colombia
+date_of_birth_list:
+  items:
+  - uid: '7842'
+    date_of_birth: 14 Dec 1947
+    main_entry: 'true'

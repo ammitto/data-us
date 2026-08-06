@@ -1,0 +1,37 @@
+---
+uid: '18319'
+last_name: STATE SHIPPING COMPANY KERCH SEA FERRY
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13685
+aka_list:
+  items:
+  - uid: '28366'
+    type: a.k.a.
+    category: strong
+    last_name: STATE FERRY ENTERPRISE KERCH FERRY
+address_list:
+  items:
+  - uid: '27739'
+    address1: Tselimbernaya Street 16
+    city: Kerch
+    state_or_province: Crimea
+    postal_code: '98307'
+    country: Ukraine
+  - uid: '27740'
+    address1: 16 Tselibernaya Street
+    city: Kerch
+    state_or_province: Crimea
+    postal_code: '98307'
+    country: Ukraine
+id_list:
+  items:
+  - uid: '10582'
+    id_type: Registration ID
+    id_number: '14333981'
+    id_country: Ukraine
+  - uid: '143536'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

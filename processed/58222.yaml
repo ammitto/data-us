@@ -1,0 +1,49 @@
+---
+uid: '58222'
+last_name: SHANGHAI WINGS INTERNATIONAL LOGISTICS CO
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - SDGT
+aka_list:
+  items:
+  - uid: '90044'
+    type: a.k.a.
+    category: strong
+    last_name: SHANGHAI WINGS INTERNATIONAL FREIGHT CO LTD
+  - uid: '90045'
+    type: a.k.a.
+    category: strong
+    last_name: SHANGHAI YISHANG INTERNATIONAL FREIGHT CO LTD
+address_list:
+  items:
+  - uid: '89448'
+    city: Shenzhen
+    state_or_province: Guangdong
+    country: China
+  - uid: '89449'
+    address1: Room 172, Building A, No. 888, Huanhu West, 2nd Road
+    address2: Lingang New Area
+    address3: Pilot Free Trade Zone
+    city: Shanghai
+    postal_code: '200120'
+    country: China
+id_list:
+  items:
+  - uid: '52855'
+    id_type: Unified Social Credit Code (USCC)
+    id_number: 91310000MA1H3GWY6C
+    id_country: China
+  - uid: '52856'
+    id_type: Trade License No.
+    id_number: '310142000159721'
+    id_country: China
+  - uid: '199870'
+    id_type: Organization Established Date
+    id_number: 15 Jan 2021
+  - uid: '199881'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: "(Linked To: MAHAN AIR)"

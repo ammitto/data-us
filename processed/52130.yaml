@@ -1,0 +1,48 @@
+---
+uid: '52130'
+last_name: GAZPROMNEFT AERO JOINT STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '81653'
+    type: a.k.a.
+    category: strong
+    last_name: GAZPROMNEFT AERO AO
+address_list:
+  items:
+  - uid: '79563'
+    address1: Zoologicheskii Per Dom 2-4, Lit. B
+    city: Saint Petersburg
+    postal_code: '197198'
+    country: Russia
+  - uid: '79564'
+    address1: Ul. Krzhizhanovskogo D. 14, Korp. 3
+    city: Saint Petersburg
+    postal_code: '197198'
+    country: Russia
+  - uid: '79565'
+    address1: Ul. Chapaev 15, Lit. A
+    city: Saint Petersburg
+    postal_code: '197101'
+    country: Russia
+id_list:
+  items:
+  - uid: '45023'
+    id_type: Registration Number
+    id_number: '1027700232614'
+    id_country: Russia
+  - uid: '45024'
+    id_type: Tax ID No.
+    id_number: '7714117720'
+    id_country: Russia
+  - uid: '183033'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183410'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

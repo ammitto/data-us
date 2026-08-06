@@ -1,0 +1,32 @@
+---
+uid: '50596'
+first_name: Ruhollah
+last_name: KATEBI
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+address_list:
+  items:
+  - uid: '76711'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '42438'
+    id_type: National ID No.
+    id_number: '4609412802'
+    id_country: Iran
+  - uid: '178889'
+    id_type: Gender
+    id_number: Male
+  - uid: '178890'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '78888'
+    date_of_birth: 11 Sep 1978
+    main_entry: 'true'
+remarks: "(Linked To: MINISTRY OF DEFENSE AND ARMED FORCES LOGISTICS)"

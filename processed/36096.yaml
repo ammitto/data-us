@@ -1,0 +1,41 @@
+---
+uid: '36096'
+last_name: JOINT STOCK COMPANY SHIPBUILDING PLANT LOTOS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56928'
+    type: a.k.a.
+    category: weak
+    last_name: SHIPYARD LOTOS
+  - uid: '56929'
+    type: a.k.a.
+    category: strong
+    last_name: JSC SUDOSTROITELNY FACTORY LOTOS
+  - uid: '56948'
+    type: a.k.a.
+    category: strong
+    last_name: SHIPBUILDING PLANT LOTOS
+address_list:
+  items:
+  - uid: '54306'
+    address1: Narimanov, Beregovayas T., 3
+    state_or_province: Astrakhan Oblast
+    postal_code: '416111'
+    country: Russia
+id_list:
+  items:
+  - uid: '25517'
+    id_type: Tax ID No.
+    id_number: '3008003802'
+    id_country: Russia
+  - uid: '149510'
+    id_type: Organization Established Date
+    id_number: 07 Jul 1997
+  - uid: '173974'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: JOINT STOCK COMPANY UNITED SHIPBUILDING CORPORATION)"

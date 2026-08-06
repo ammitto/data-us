@@ -1,0 +1,32 @@
+---
+uid: '31122'
+first_name: Andrei Veniaminovich
+last_name: YARIN
+sdn_type: Individual
+program_list:
+  programs:
+  - UKRAINE-EO13661
+address_list:
+  items:
+  - uid: '47003'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '139502'
+    id_type: Gender
+    id_number: Male
+  - uid: '144081'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+date_of_birth_list:
+  items:
+  - uid: '39500'
+    date_of_birth: 13 Feb 1970
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '39499'
+    place_of_birth: Nizhny Tagil, Russia
+    main_entry: 'true'

@@ -1,0 +1,34 @@
+---
+uid: '42073'
+first_name: Marat Shakirzyanovich
+last_name: KHUSNULLIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '62809'
+    country: Russia
+id_list:
+  items:
+  - uid: '31519'
+    id_type: Tax ID No.
+    id_number: '165500496700'
+    id_country: Russia
+  - uid: '160289'
+    id_type: Gender
+    id_number: Male
+  - uid: '175390'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '60287'
+    date_of_birth: '09 Aug 1966'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '60288'
+    place_of_birth: Kazan, Tatarstan, Russia
+    main_entry: 'true'

@@ -1,0 +1,58 @@
+---
+uid: '35333'
+last_name: JOINT STOCK COMPANY FEDERAL SCIENTIFIC AND PRODUCTION CENTER TITAN BARRIKADY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '55607'
+    type: a.k.a.
+    category: strong
+    last_name: FEDERAL RESEARCH AND PRODUCTION CENTER TITAN BARRIKADY JSC
+  - uid: '55609'
+    type: a.k.a.
+    category: strong
+    last_name: TITAN DESIGN BUREAU
+  - uid: '55613'
+    type: a.k.a.
+    category: strong
+    last_name: JSC FNPTS TITAN-BARRIKADY
+  - uid: '55615'
+    type: a.k.a.
+    category: strong
+    last_name: TITAN-BARRIKADY FNPTS AO
+  - uid: '55617'
+    type: a.k.a.
+    category: strong
+    last_name: TITAN-BARRIKADY ENTERPRISE
+  - uid: '55618'
+    type: a.k.a.
+    category: strong
+    last_name: TITAN-BARRIKADY FNPTS AO FEDERAL RESEARCH AND PRODUCTION CENTER STOCK
+      COMPANY
+  - uid: '55619'
+    type: a.k.a.
+    category: strong
+    last_name: TITAN-BARRIKADY FEDERAL RESEARCH AND DEVELOPMENT CENTRE
+  - uid: '55620'
+    type: a.k.a.
+    category: weak
+    last_name: TITAN-BARRIKADY
+address_list:
+  items:
+  - uid: '53139'
+    address1: Prospekt Imeni V.I. Lenina B/N
+    city: Volgograd
+    postal_code: '400071'
+    country: Russia
+id_list:
+  items:
+  - uid: '25049'
+    id_type: Tax ID No.
+    id_number: '3442110950'
+    id_country: Russia
+  - uid: '176724'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

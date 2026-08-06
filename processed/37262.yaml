@@ -1,0 +1,35 @@
+---
+uid: '37262'
+first_name: Cristian Julian
+last_name: MENESES OSPINA
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '55716'
+    country: Mexico
+id_list:
+  items:
+  - uid: '26548'
+    id_type: Cedula No.
+    id_number: '14137405'
+    id_country: Colombia
+  - uid: '26549'
+    id_type: C.U.R.P.
+    id_number: MEOC831231HNENSR06
+    id_country: Mexico
+  - uid: '151760'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '51757'
+    date_of_birth: 31 Dec 1983
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '51758'
+    place_of_birth: Ibague, Colombia
+    main_entry: 'true'

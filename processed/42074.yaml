@@ -1,0 +1,42 @@
+---
+uid: '42074'
+first_name: Evgeny Markovich
+last_name: PAKERMANOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65411'
+    type: a.k.a.
+    category: strong
+    last_name: PAKERMANOV
+    first_name: Evgeni Markovich
+address_list:
+  items:
+  - uid: '62811'
+    country: Russia
+id_list:
+  items:
+  - uid: '31558'
+    id_type: Tax ID No.
+    id_number: '666301000031'
+    id_country: Russia
+  - uid: '175391'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '160293'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '60290'
+    date_of_birth: 16 Jul 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '60291'
+    place_of_birth: Yekaterinburg, Russia
+    main_entry: 'true'
+remarks: "(Linked To: RUSATOM OVERSEAS JOINT STOCK COMPANY)"

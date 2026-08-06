@@ -1,0 +1,31 @@
+---
+uid: '25066'
+last_name: PARSIAN BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - SDGT
+  - IRAN
+address_list:
+  items:
+  - uid: '37976'
+    address1: No. 4, Zarafshan Street, Shahid Farahzadi Boulevard, Sharak Ghods
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '187232'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '128280'
+    id_type: SWIFT/BIC
+    id_number: BKPAIRTH
+  - uid: '128279'
+    id_type: Website
+    id_number: www.parsian-bank.com
+  - uid: '128278'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: 'All Branches Worldwide; (Linked To: ANDISHEH MEHVARAN INVESTMENT COMPANY)'

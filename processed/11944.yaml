@@ -1,0 +1,37 @@
+---
+uid: '11944'
+first_name: Fernando
+last_name: LOPEZ TREJO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '18141'
+    address1: Calle Abasolo No. 15
+    address2: Colonia Miguel Aleman
+    city: Comitan
+    state_or_province: Chiapas
+    postal_code: C.P. 3000
+    country: Mexico
+id_list:
+  items:
+  - uid: '6347'
+    id_type: Cartilla de Servicio Militar Nacional
+    id_number: B7439509
+    id_country: Mexico
+  - uid: '6348'
+    id_type: C.U.R.P.
+    id_number: LOTF710412HTSPRR03
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '7541'
+    date_of_birth: 11 Apr 1971
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '7542'
+    place_of_birth: Tamaulipas
+    main_entry: 'true'

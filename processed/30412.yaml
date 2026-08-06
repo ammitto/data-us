@@ -1,0 +1,40 @@
+---
+uid: '30412'
+last_name: DAY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13876
+aka_list:
+  items:
+  - uid: '47792'
+    type: a.k.a.
+    category: strong
+    last_name: DEY COMPANY
+  - uid: '47793'
+    type: a.k.a.
+    category: strong
+    last_name: SHERKAT-E DEY
+address_list:
+  items:
+  - uid: '46000'
+    address1: No 18, Fakhr Razi Street, Enghelab Street
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '20560'
+    id_type: Registration Number
+    id_number: '93'
+    id_country: Iran
+  - uid: '20561'
+    id_type: National ID No.
+    id_number: '10861092038'
+    id_country: Iran
+  - uid: '138055'
+    id_type: Website
+    id_number: http://day-cc.com
+  - uid: '138054'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: ISLAMIC REVOLUTION MOSTAZAFAN FOUNDATION)"

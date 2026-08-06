@@ -1,0 +1,92 @@
+---
+uid: '18750'
+last_name: INSURANCE COMPANY SBERBANK INSURANCE LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13662
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '29458'
+    type: a.k.a.
+    category: strong
+    last_name: LLC INSURANCE COMPANY SBERBANK INSURANCE
+  - uid: '29459'
+    type: a.k.a.
+    category: strong
+    last_name: SBERBANK STRAHOVANIE OOO SK
+  - uid: '29460'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU STRAKHOVAYA KOMPANIYA
+      SBERBANK STRAKHOVANIE
+  - uid: '29461'
+    type: a.k.a.
+    category: strong
+    last_name: SK SBERBANK STRAHOVANIE LLC
+  - uid: '29462'
+    type: f.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU STRAKHOVAYA KOMPANIYA
+      SBERBANK OBSHCHEE STRAKHOVANIE
+  - uid: '55056'
+    type: a.k.a.
+    category: strong
+    last_name: SBERBANK INSURANCE IC LLC
+  - uid: '55057'
+    type: a.k.a.
+    category: strong
+    last_name: STRAKHOVAYA KOMPANIYA SBERBANK STRAKHOVANIE
+  - uid: '55058'
+    type: a.k.a.
+    category: strong
+    last_name: SBERBANK INSURANCE COMPANY LTD
+address_list:
+  items:
+  - uid: '28505'
+    address1: 42 Bolshaya Yakimanka St., b. 1-2, office 209
+    city: Moscow
+    postal_code: '119049'
+    country: Russia
+  - uid: '28506'
+    address1: 7 ul. Pavlovskaya
+    city: Moscow
+    country: Russia
+  - uid: '52543'
+    address1: 3 Poklonnaya Street, building 1, floor 1, office 3
+    city: Moscow
+    postal_code: '121170'
+    country: Russia
+id_list:
+  items:
+  - uid: '11001'
+    id_type: Registration ID
+    id_number: '1147746683479'
+    id_country: Russia
+  - uid: '24710'
+    id_type: Tax ID No.
+    id_number: '7706810747'
+    id_country: Russia
+  - uid: '146707'
+    id_type: Executive Order 14024 Directive Information -
+    id_number: 'For more information on directives, please visit the following link:
+      https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives'
+  - uid: '146839'
+    id_type: 'Listing Date (EO 14024 Directive 2):'
+    id_number: 24 Feb 2022
+  - uid: '146840'
+    id_type: 'Effective Date (EO 14024 Directive 2):'
+    id_number: 26 Mar 2022
+  - uid: '173902'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '118422'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 1
+  - uid: '151154'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+remarks: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)'

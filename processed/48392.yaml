@@ -1,0 +1,37 @@
+---
+uid: '48392'
+first_name: Euclides
+last_name: CAMACHO GOICOCHEA
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '75223'
+    type: a.k.a.
+    category: weak
+    last_name: Quilles
+address_list:
+  items:
+  - uid: '72584'
+    country: Mexico
+id_list:
+  items:
+  - uid: '39253'
+    id_type: C.U.R.P.
+    id_number: CAGE720808HGRMCC04
+    id_country: Mexico
+  - uid: '170654'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '70652'
+    date_of_birth: '08 Aug 1972'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '70653'
+    place_of_birth: Guerrero, Mexico
+    main_entry: 'true'

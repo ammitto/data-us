@@ -1,0 +1,66 @@
+---
+uid: '35997'
+last_name: JOINT STOCK COMPANY ILYUSHIN FINANCE COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56629'
+    type: a.k.a.
+    category: weak
+    last_name: JSC IFC
+  - uid: '56630'
+    type: a.k.a.
+    category: weak
+    last_name: AO IFK
+  - uid: '56631'
+    type: a.k.a.
+    category: weak
+    last_name: IFC LEASING
+  - uid: '57413'
+    type: a.k.a.
+    category: strong
+    last_name: JSC ILYUSHIN FINANCE COMPANY
+  - uid: '57414'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO ILYUSHIN FINANS KO
+  - uid: '57415'
+    type: a.k.a.
+    category: strong
+    last_name: OJSC ILYUSHIN FINANCE
+address_list:
+  items:
+  - uid: '54737'
+    address1: Pr-kt Michurinskii, Olimpiiskaya Derevnya D. 1, Korp. 1, et. 4
+    city: Moscow
+    postal_code: '119602'
+    country: Russia
+  - uid: '54739'
+    address1: Pr-kt Leninskii d. 43A, office 502
+    city: Voronezh
+    postal_code: '394004'
+    country: Russia
+  - uid: '54740'
+    address1: 1st km of Rublevo-Uspenskoe Shosse, Building 6, Odintsovo
+    city: Moscow
+    postal_code: '143030'
+    country: Russia
+id_list:
+  items:
+  - uid: '25842'
+    id_type: Tax ID No.
+    id_number: '3663029916'
+    id_country: Russia
+  - uid: '25844'
+    id_type: Registration Number
+    id_number: '1033600042332'
+    id_country: Russia
+  - uid: '173324'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '150116'
+    id_type: Organization Established Date
+    id_number: 10 Mar 1999

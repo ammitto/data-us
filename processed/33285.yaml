@@ -1,0 +1,37 @@
+---
+uid: '33285'
+first_name: Soner
+last_name: GURLEYEN
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '49973'
+    city: Istanbul
+    country: Turkey
+id_list:
+  items:
+  - uid: '22954'
+    id_type: Identification Number
+    id_number: '20768654918'
+    id_country: Turkey
+  - uid: '143207'
+    id_type: Gender
+    id_number: Male
+  - uid: '187373'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '43205'
+    date_of_birth: 06 Jun 1988
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '43206'
+    place_of_birth: Gaziosmanpasha, Turkey
+    main_entry: 'true'
+remarks: "(Linked To: AL QA'IDA)"

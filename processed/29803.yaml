@@ -1,0 +1,35 @@
+---
+uid: '29803'
+first_name: Mohammad Hassan
+last_name: MEHRI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+address_list:
+  items:
+  - uid: '44974'
+    country: Iran
+id_list:
+  items:
+  - uid: '19928'
+    id_type: Passport
+    id_number: F24371256
+    id_country: Iran
+  - uid: '137040'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '136777'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '36775'
+    date_of_birth: 04 Jul 1964
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '36776'
+    place_of_birth: Ahar, Iran
+    main_entry: 'true'
+remarks: "(Linked To: IRANIAN MINISTRY OF INTELLIGENCE AND SECURITY)"

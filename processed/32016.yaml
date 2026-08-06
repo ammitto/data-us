@@ -1,0 +1,32 @@
+---
+uid: '32016'
+last_name: EUROBET OOD
+sdn_type: Entity
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '50203'
+    type: a.k.a.
+    category: strong
+    last_name: EUROBET LTD.
+address_list:
+  items:
+  - uid: '48173'
+    address1: 48 Sitnyakovo blvd.
+    address2: Poduyane Distr., fl. 4
+    city: Sofia
+    state_or_province: Stolichna
+    postal_code: '1505'
+    country: Bulgaria
+id_list:
+  items:
+  - uid: '21800'
+    id_type: V.A.T. Number
+    id_number: BG 121179290
+    id_country: Bulgaria
+  - uid: '140948'
+    id_type: Organization Established Date
+    id_number: '1996'
+remarks: "(Linked To: EUROBET PARTNERS OOD)"

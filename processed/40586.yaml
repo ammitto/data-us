@@ -1,0 +1,46 @@
+---
+uid: '40586'
+last_name: AKTSIONERNOYE OBSHCHESTVO VLADIVOSTOKSKOYE PREDPRIYATIE ELEKTRORADIOAVTIMATIKA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63091'
+    type: a.k.a.
+    category: weak
+    last_name: ERA AO
+  - uid: '63092'
+    type: a.k.a.
+    category: strong
+    last_name: ELEKTRORADIOAVTOMATIKA VLADIVOSTOK ENTERPRISE JOINT STOCK COMPANY
+  - uid: '63093'
+    type: a.k.a.
+    category: strong
+    last_name: VLADIVOSTOK ELECTRICAL COMPANY ERA JSC
+address_list:
+  items:
+  - uid: '60462'
+    address1: 1 Ulitsa Pionerskaya
+    city: Vladivostok
+    postal_code: '690001'
+    country: Russia
+id_list:
+  items:
+  - uid: '29737'
+    id_type: Tax ID No.
+    id_number: '2504000733'
+    id_country: Russia
+  - uid: '29738'
+    id_type: Registration Number
+    id_number: '1022501275455'
+    id_country: Russia
+  - uid: '174129'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '157864'
+    id_type: Organization Established Date
+    id_number: 11 Jul 2000
+remarks: "(Linked To: AKTSIONERNOYE OBSHCHESTVO DALNEVOSTOCHNYY TSENTR SUDOSTROYENIYA
+  I SUDOREMONTA)"

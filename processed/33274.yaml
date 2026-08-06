@@ -1,0 +1,52 @@
+---
+uid: '33274'
+first_name: Jing
+last_name: SONG
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '52294'
+    type: a.k.a.
+    category: strong
+    last_name: SONG
+    first_name: Crystal
+address_list:
+  items:
+  - uid: '49953'
+    city: Guangzhou City
+    state_or_province: Guangdong Province
+    country: China
+id_list:
+  items:
+  - uid: '22939'
+    id_type: Passport
+    id_number: E24963042
+    id_country: China
+  - uid: '22940'
+    id_type: National ID No.
+    id_number: '231004196908031226'
+    id_country: China
+  - uid: '187363'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '143187'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '143186'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '43183'
+    date_of_birth: 03 Aug 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '43184'
+    place_of_birth: Mudanjiang, China
+    main_entry: 'true'
+remarks: "(Linked To: HASHEMI, Seyed Morteza Minaye)"

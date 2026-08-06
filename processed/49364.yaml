@@ -1,0 +1,36 @@
+---
+uid: '49364'
+last_name: BASSIRE GROUP DOO BEOGRAD
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '74393'
+    address1: Vlajkoviceva 12/3
+    city: Belgrade
+    postal_code: '11000'
+    country: Serbia
+  - uid: '74394'
+    address1: Gospodar-Jevremova 9
+    city: Belgrade
+    postal_code: '11000'
+    country: Serbia
+id_list:
+  items:
+  - uid: '40618'
+    id_type: Registration Number
+    id_number: '21884910'
+    id_country: Serbia
+  - uid: '40619'
+    id_type: Tax ID No.
+    id_number: '113536030'
+    id_country: Serbia
+  - uid: '172687'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '172431'
+    id_type: Organization Established Date
+    id_number: 21 Feb 2023
+remarks: "(Linked To: LEVIN, Nikolai Aleksandrovich)"

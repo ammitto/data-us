@@ -1,0 +1,54 @@
+---
+uid: '42939'
+first_name: Zunyi
+last_name: WEI
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '66511'
+    type: a.k.a.
+    category: strong
+    last_name: WEI
+    first_name: Zun Yi
+  - uid: '66512'
+    type: a.k.a.
+    category: weak
+    last_name: WEI, David
+address_list:
+  items:
+  - uid: '64050'
+    city: Beijing
+    country: China
+id_list:
+  items:
+  - uid: '32520'
+    id_type: Passport
+    id_number: EE1650028
+    id_country: China
+    issue_date: 28 Aug 2018
+    expiration_date: 27 Aug 2028
+  - uid: '32521'
+    id_type: National ID No.
+    id_number: '370922197512201811'
+    id_country: China
+  - uid: '161795'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '161794'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '61791'
+    date_of_birth: 20 Dec 1975
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '61792'
+    place_of_birth: Shandong, China
+    main_entry: 'true'
+remarks: "(Linked To: HONG KONG KE.DO INTERNATIONAL TRADE CO., LIMITED)"

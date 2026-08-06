@@ -1,0 +1,43 @@
+---
+uid: '54698'
+first_name: Juan Jose
+last_name: FARIAS ALVAREZ
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+aka_list:
+  items:
+  - uid: '85128'
+    type: a.k.a.
+    category: weak
+    last_name: El Abuelo
+address_list:
+  items:
+  - uid: '83549'
+    country: Mexico
+id_list:
+  items:
+  - uid: '48404'
+    id_type: C.U.R.P.
+    id_number: FAAJ700810HMNRLN16
+    id_country: Mexico
+  - uid: '191022'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '191003'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '91001'
+    date_of_birth: 10 Aug 1970
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '91002'
+    place_of_birth: Tepalcatepec, Michoacan, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: CARTELES UNIDOS)"

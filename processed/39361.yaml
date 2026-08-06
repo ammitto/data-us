@@ -1,0 +1,47 @@
+---
+uid: '39361'
+first_name: Andrey Removich
+last_name: BELOUSOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '61418'
+    type: a.k.a.
+    category: strong
+    last_name: BELOUSOV
+    first_name: Andrei Removich
+  - uid: '61419'
+    type: a.k.a.
+    category: strong
+    last_name: BIELOUSOV
+    first_name: Andriy Removych
+  - uid: '61420'
+    type: a.k.a.
+    category: strong
+    last_name: BYELOUSOV
+    first_name: Andrii Removych
+address_list:
+  items:
+  - uid: '58631'
+    country: Russia
+id_list:
+  items:
+  - uid: '174777'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '155237'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '55235'
+    date_of_birth: 17 Mar 1959
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '55236'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'

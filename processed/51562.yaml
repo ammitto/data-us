@@ -1,0 +1,37 @@
+---
+uid: '51562'
+last_name: TSS LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+address_list:
+  items:
+  - uid: '78577'
+    address1: Ul. Viktorenko D. 5
+    address2: Str. 1
+    address3: BTS Victory Plaza
+    city: Moscow
+    postal_code: '125167'
+    country: Russia
+id_list:
+  items:
+  - uid: '44004'
+    id_type: Registration Number
+    id_number: '1137746409327'
+    id_country: Russia
+  - uid: '44005'
+    id_type: Tax ID No.
+    id_number: '7714905368'
+    id_country: Russia
+  - uid: '182854'
+    id_type: Organization Established Date
+    id_number: '08 May 2013'
+  - uid: '181243'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183503'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

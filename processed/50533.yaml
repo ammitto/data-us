@@ -1,0 +1,36 @@
+---
+uid: '50533'
+first_name: Domingo Antonio
+last_name: HERNANDEZ LAREZ
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA
+address_list:
+  items:
+  - uid: '76610'
+    state_or_province: Capital District
+    country: Venezuela
+id_list:
+  items:
+  - uid: '42352'
+    id_type: Passport
+    id_number: B0700456
+    id_country: Venezuela
+  - uid: '42353'
+    id_type: Cedula No.
+    id_number: '6133376'
+    id_country: Venezuela
+  - uid: '178645'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '78646'
+    date_of_birth: '09 Mar 1965'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '78648'
+    place_of_birth: Venezuela
+    main_entry: 'true'

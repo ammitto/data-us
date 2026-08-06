@@ -1,0 +1,50 @@
+---
+uid: '10994'
+first_name: Jose Elmer
+last_name: FITCH PARENTE
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '15949'
+    address1: c/o COMPANIA MINERA DEL RIO CIANURY S.A. DE C.V.
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '15950'
+    address1: c/o MINERA RIO PRESIDIO S.A. DE C.V.
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '15951'
+    address1: c/o MINERA LA CASTELLANA Y ANEXAS S.A. DE C.V.
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+  - uid: '15952'
+    address1: Francisco I. Madero Numero 145 al Oriente, Colonia Centro
+    city: Culiacan
+    state_or_province: Sinaloa
+    country: Mexico
+id_list:
+  items:
+  - uid: '5477'
+    id_type: R.F.C.
+    id_number: FIPJ650127
+    id_country: Mexico
+  - uid: '5478'
+    id_type: C.U.R.P.
+    id_number: FIPE650127HSLTRL05
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '6424'
+    date_of_birth: 27 Jan 1965
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '6425'
+    place_of_birth: Mazatlan, Sinaloa, Mexico
+    main_entry: 'true'

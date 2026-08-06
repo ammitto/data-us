@@ -1,0 +1,56 @@
+---
+uid: '47669'
+first_name: Ibrahim
+last_name: AL-NASHIRI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '73855'
+    type: a.k.a.
+    category: strong
+    last_name: AL-NASHIRI
+    first_name: Ibrahim Muhammad
+  - uid: '73856'
+    type: a.k.a.
+    category: strong
+    last_name: AL-NASHIRI
+    first_name: Ibrahim Muhammad Lutf
+  - uid: '73857'
+    type: a.k.a.
+    category: weak
+    last_name: WALTER, Muhammad
+  - uid: '73858'
+    type: a.k.a.
+    category: weak
+    last_name: ABU HAYDAR
+address_list:
+  items:
+  - uid: '71248'
+    country: Yemen
+  - uid: '71249'
+    country: China
+id_list:
+  items:
+  - uid: '38275'
+    id_type: Passport
+    id_number: '07761836'
+    id_country: Yemen
+  - uid: '38277'
+    id_type: National ID No.
+    id_number: '115330051'
+    id_country: Yemen
+  - uid: '169132'
+    id_type: Gender
+    id_number: Male
+  - uid: '169131'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '69137'
+    date_of_birth: '1977'
+    main_entry: 'true'

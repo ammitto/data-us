@@ -1,0 +1,54 @@
+---
+uid: '31144'
+first_name: Francisco Javier
+last_name: GUDINO HARO
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+  - SDNTK
+aka_list:
+  items:
+  - uid: '48979'
+    type: a.k.a.
+    category: weak
+    last_name: La Gallina
+  - uid: '85532'
+    type: a.k.a.
+    category: weak
+    last_name: El Plumas
+address_list:
+  items:
+  - uid: '47082'
+    city: Puerto Vallarta
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '47083'
+    city: Guadalajara
+    state_or_province: Jalisco
+    country: Mexico
+id_list:
+  items:
+  - uid: '21136'
+    id_type: C.U.R.P.
+    id_number: GUHF880229HJCDRR07
+    id_country: Mexico
+  - uid: '191725'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '139567'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '39564'
+    date_of_birth: 29 Feb 1988
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '39566'
+    place_of_birth: Guadalajara, Jalisco, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: CARTEL DE JALISCO NUEVA GENERACION)"

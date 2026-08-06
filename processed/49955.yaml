@@ -1,0 +1,34 @@
+---
+uid: '49955'
+last_name: JOINT STOCK COMPANY AEROCON
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77869'
+    type: a.k.a.
+    category: strong
+    last_name: AO AEROKON
+address_list:
+  items:
+  - uid: '75556'
+    address1: Ul. Zhukovskogo
+    address2: D. 1
+    city: Zhukovskiy
+    postal_code: '140180'
+    country: Russia
+id_list:
+  items:
+  - uid: '41484'
+    id_type: Registration Number
+    id_number: '1025001627749'
+    id_country: Russia
+  - uid: '41485'
+    id_type: Tax ID No.
+    id_number: '5013026848'
+    id_country: Russia
+  - uid: '177997'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

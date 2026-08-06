@@ -1,0 +1,37 @@
+---
+uid: '35870'
+last_name: JOINT STOCK COMPANY MACHINE BUILDING DESIGN BUREAU
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56358'
+    type: a.k.a.
+    category: weak
+    last_name: AO KBM
+address_list:
+  items:
+  - uid: '53821'
+    address1: Ul. Sosinskaya D. 43
+    city: Moscow
+    postal_code: '109316'
+    country: Russia
+id_list:
+  items:
+  - uid: '25192'
+    id_type: Registration Number
+    id_number: '1057709110436'
+    id_country: Russia
+  - uid: '25194'
+    id_type: Tax ID No.
+    id_number: '7722307636'
+    id_country: Russia
+  - uid: '173265'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '149062'
+    id_type: Organization Established Date
+    id_number: 06 Jan 1993
+remarks: "(Linked To: TACTICAL MISSILES CORPORATION JSC)"

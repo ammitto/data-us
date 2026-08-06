@@ -1,0 +1,53 @@
+---
+uid: '34991'
+first_name: Natalya Valeryevna
+last_name: BURLINOVA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56995'
+    type: a.k.a.
+    category: strong
+    last_name: BURLINOVA
+    first_name: Natalia Valeryevna
+address_list:
+  items:
+  - uid: '54350'
+    address1: Evseeva 21a
+    city: Ramenskoye
+    state_or_province: Moscow Region
+    postal_code: '140100'
+    country: Russia
+id_list:
+  items:
+  - uid: '25543'
+    id_type: Tax ID No.
+    id_number: '504011885451'
+    id_country: Russia
+  - uid: '25544'
+    id_type: Passport
+    id_number: '653978234'
+    id_country: Russia
+  - uid: '25618'
+    id_type: Passport
+    id_number: '605896418'
+    id_country: Russia
+  - uid: '149598'
+    id_type: Gender
+    id_number: Female
+  - uid: '175221'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '49596'
+    date_of_birth: 22 Jul 1983
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '49597'
+    place_of_birth: Ramenskoye, Russia
+    main_entry: 'true'

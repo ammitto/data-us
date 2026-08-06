@@ -1,0 +1,46 @@
+---
+uid: '10622'
+first_name: Hector Manuel
+last_name: BELTRAN SANCHEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '14808'
+    address1: Paseo Estrella Del Mar No. 1210, Playas de Tijuana
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '14809'
+    address1: c/o OPERADORA INTEGRAL DE COMERCIO, S.A. DE C.V.
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '14810'
+    address1: c/o TECNOLOGIA DIGITAL Y SERVICIOS, S.A. DE C.V.
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+  - uid: '15028'
+    address1: Manuel M. Flores 20 Montebello
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+id_list:
+  items:
+  - uid: '5165'
+    id_type: R.F.C.
+    id_number: BESH520302AS4
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '5984'
+    date_of_birth: 02 Mar 1952
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '5985'
+    place_of_birth: Culiacan, Sinaloa, Mexico
+    main_entry: 'true'

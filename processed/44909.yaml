@@ -1,0 +1,37 @@
+---
+uid: '44909'
+first_name: Artem
+last_name: KUROV
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+aka_list:
+  items:
+  - uid: '69450'
+    type: a.k.a.
+    category: weak
+    last_name: NANED
+address_list:
+  items:
+  - uid: '66829'
+    city: Kaluga
+    state_or_province: Obninsk
+    country: Russia
+id_list:
+  items:
+  - uid: '34499'
+    id_type: Passport
+    id_number: '2912565616'
+    id_country: Russia
+  - uid: '165276'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+  - uid: '165187'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '65186'
+    date_of_birth: 30 Mar 1993
+    main_entry: 'true'

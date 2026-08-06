@@ -1,0 +1,47 @@
+---
+uid: '21749'
+first_name: Jang Su
+last_name: HAN
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+aka_list:
+  items:
+  - uid: '34523'
+    type: a.k.a.
+    category: strong
+    last_name: HAN
+    first_name: Chang-su
+address_list:
+  items:
+  - uid: '33140'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '13800'
+    id_type: Passport
+    id_number: '745420176'
+    expiration_date: 19 Oct 2020
+  - uid: '122806'
+    id_type: Gender
+    id_number: Male
+  - uid: '135070'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '127700'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+date_of_birth_list:
+  items:
+  - uid: '22805'
+    date_of_birth: '08 Nov 1969'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '22808'
+    place_of_birth: Pyongyang
+    main_entry: 'true'
+title: Foreign Trade Bank chief representative

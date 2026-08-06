@@ -1,0 +1,34 @@
+---
+uid: '44987'
+last_name: LIMITED LIABILITY COMPANY RCC TRADING
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69646'
+    type: f.k.a.
+    category: strong
+    last_name: LLC RCC HOLDING COMPANY
+address_list:
+  items:
+  - uid: '66955'
+    address1: 57 Gorkogo Street
+    city: Ekaterinburg
+    state_or_province: Sverdlovsk Region
+    postal_code: '620075'
+    country: Russia
+id_list:
+  items:
+  - uid: '34640'
+    id_type: Registration Number
+    id_number: '1226600015135'
+    id_country: Russia
+  - uid: '34641'
+    id_type: Tax ID No.
+    id_number: '6671210688'
+    id_country: Russia
+  - uid: '175870'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

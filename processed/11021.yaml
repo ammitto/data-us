@@ -1,0 +1,50 @@
+---
+uid: '11021'
+first_name: Ahmad Hassan Kaka
+last_name: AL-UBAYDI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAQ3
+aka_list:
+  items:
+  - uid: '11433'
+    type: a.k.a.
+    category: strong
+    last_name: AL NOBANI
+    first_name: Ali
+  - uid: '11434'
+    type: a.k.a.
+    category: strong
+    last_name: HAZIM KAKA
+  - uid: '11589'
+    type: a.k.a.
+    category: strong
+    last_name: AL-OBEIDI
+    first_name: Ahmed Hassan Kaka
+address_list:
+  items:
+  - uid: '16045'
+    address1: Al Humayra Village
+    address2: Taza sub district
+    country: Iraq
+  - uid: '16046'
+    address1: Kurdi Al Nasir village
+    country: Iraq
+id_list:
+  items:
+  - uid: '5522'
+    id_type: Passport
+    id_number: F032516
+    id_country: Iraq
+    issue_date: 04 May 1976
+date_of_birth_list:
+  items:
+  - uid: '6506'
+    date_of_birth: '1949'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '6505'
+    place_of_birth: Baghdad, Iraq
+    main_entry: 'true'

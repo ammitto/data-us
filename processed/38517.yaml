@@ -1,0 +1,59 @@
+---
+uid: '38517'
+first_name: Sayma Syrenius
+last_name: CEPHUS
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '60289'
+    type: a.k.a.
+    category: strong
+    last_name: CEPHUS
+    first_name: Syrenius
+  - uid: '60290'
+    type: a.k.a.
+    category: strong
+    last_name: CEPHUS
+    first_name: Syrennius
+  - uid: '60291'
+    type: a.k.a.
+    category: strong
+    last_name: CEPHAS
+    first_name: Syrenius
+  - uid: '60292'
+    type: a.k.a.
+    category: strong
+    last_name: CEPHUS
+    first_name: Cyrenius
+address_list:
+  items:
+  - uid: '57546'
+    country: Liberia
+id_list:
+  items:
+  - uid: '27817'
+    id_type: Passport
+    id_number: PP0010178
+    id_country: Liberia
+    expiration_date: 31 Oct 2022
+  - uid: '27818'
+    id_type: Passport
+    id_number: AP0003208
+    id_country: Liberia
+    expiration_date: 21 Oct 2023
+  - uid: '153933'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '53931'
+    date_of_birth: 21 Sep 1965
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '53932'
+    place_of_birth: Saykleken, Liberia
+    main_entry: 'true'

@@ -1,0 +1,46 @@
+---
+uid: '44200'
+last_name: OPEN JOINT STOCK COMPANY RUSSIAN INSTITUTE OF RADIONAVIGATION AND TIME
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '68352'
+    type: a.k.a.
+    category: weak
+    last_name: JSC RIRT
+address_list:
+  items:
+  - uid: '65771'
+    address1: Pl. Rastrelli D. 2
+    city: Saint Petersburg
+    postal_code: '191124'
+    country: Russia
+  - uid: '65773'
+    address1: Pr-kt Obukhovskoi Oborony D. 120, Lit. ets
+    city: Saint Petersburg
+    postal_code: '192012'
+    country: Russia
+  - uid: '65774'
+    address1: 19 Staraya Basmannaya str., building 12
+    city: Moscow
+    postal_code: '105066'
+    country: Russia
+id_list:
+  items:
+  - uid: '33620'
+    id_type: Registration Number
+    id_number: '1037843100052'
+    id_country: Russia
+  - uid: '33621'
+    id_type: Tax ID No.
+    id_number: '7825507108'
+    id_country: Russia
+  - uid: '175789'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '163794'
+    id_type: Organization Established Date
+    id_number: 07 Sep 1956

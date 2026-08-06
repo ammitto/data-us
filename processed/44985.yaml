@@ -1,0 +1,28 @@
+---
+uid: '44985'
+last_name: LIMITED LIABILITY COMPANY PROMBIZNES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '66952'
+    address1: str. 100 blok B etazh 2, pom. 10
+    city: Odintsovo
+    postal_code: '143084'
+    country: Russia
+id_list:
+  items:
+  - uid: '34638'
+    id_type: Registration Number
+    id_number: '1155032006832'
+    id_country: Russia
+  - uid: '34639'
+    id_type: Tax ID No.
+    id_number: '5032208184'
+    id_country: Russia
+  - uid: '175868'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: UNITED ARCTIC COMPANY LLC)"

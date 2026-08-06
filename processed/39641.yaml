@@ -1,0 +1,60 @@
+---
+uid: '39641'
+first_name: Isse Mohamoud
+last_name: YUSUF
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '61747'
+    type: a.k.a.
+    category: weak
+    last_name: YULLUX
+  - uid: '61748'
+    type: a.k.a.
+    category: strong
+    last_name: YUSUF
+    first_name: Isse Mohamed
+  - uid: '61749'
+    type: a.k.a.
+    category: weak
+    last_name: YULUX, Isse
+  - uid: '61750'
+    type: a.k.a.
+    category: weak
+    last_name: YULUH, Issa
+  - uid: '61751'
+    type: a.k.a.
+    category: weak
+    last_name: YULUH, Isse
+address_list:
+  items:
+  - uid: '59013'
+    city: Timirshe
+    state_or_province: Bari, Puntland
+    country: Somalia
+  - uid: '59014'
+    city: Qandala
+    country: Somalia
+id_list:
+  items:
+  - uid: '155907'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '155905'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '55904'
+    date_of_birth: '1966'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '55908'
+    place_of_birth: Timirshe, Bari, Puntland, Somalia
+    main_entry: 'true'
+remarks: "(Linked To: ISIS-SOMALIA)"

@@ -1,0 +1,29 @@
+---
+uid: '50807'
+last_name: LIMITED LIABILITY COMPANY MELYTEC TESTING
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '77112'
+    address1: Ul. Obrucheva D. 34/63
+    address2: Str. 2, Pomeshch. I
+    address3: Kom. 2,2A
+    city: Moscow
+    postal_code: '117342'
+    country: Russia
+id_list:
+  items:
+  - uid: '42741'
+    id_type: Registration Number
+    id_number: '1217700369303'
+    id_country: Russia
+  - uid: '42742'
+    id_type: Tax ID No.
+    id_number: '9728043214'
+    id_country: Russia
+  - uid: '180637'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

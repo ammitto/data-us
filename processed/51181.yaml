@@ -1,0 +1,27 @@
+---
+uid: '51181'
+last_name: LIMITED LIABILITY COMPANY EVROSEL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '77809'
+    address1: ul. Zavodskaya d. 3
+    city: Zhukovski
+    postal_code: '140184'
+    country: Russia
+id_list:
+  items:
+  - uid: '43331'
+    id_type: Tax ID No.
+    id_number: '7701898723'
+    id_country: Russia
+  - uid: '43335'
+    id_type: Registration Number
+    id_number: '1107746981187'
+    id_country: Russia
+  - uid: '180265'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

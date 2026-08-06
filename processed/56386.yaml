@@ -1,0 +1,37 @@
+---
+uid: '56386'
+first_name: Hamidreza
+last_name: HEIDARI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+  - IFSR
+address_list:
+  items:
+  - uid: '86328'
+    country: Iran
+id_list:
+  items:
+  - uid: '50434'
+    id_type: National ID No.
+    id_number: '1230008675'
+    id_country: Iran
+  - uid: '194645'
+    id_type: Gender
+    id_number: Male
+  - uid: '194647'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '94643'
+    date_of_birth: 31 Jan 1990
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '94644'
+    place_of_birth: Natanz, Iran
+    main_entry: 'true'
+remarks: "(Linked To: SEPEHR ENERGY JAHAN NAMA PARS COMPANY)"

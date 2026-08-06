@@ -1,0 +1,48 @@
+---
+uid: '41187'
+first_name: Tun Min
+last_name: LATT
+sdn_type: Individual
+program_list:
+  programs:
+  - BURMA-EO14014
+address_list:
+  items:
+  - uid: '62063'
+    address1: 201, Tetkatho Yeikmon Condo-C
+    address2: New University Avenue
+    city: Bahan Township
+    state_or_province: Yangon
+    postal_code: '11201'
+    country: Burma
+  - uid: '62106'
+    address1: 45 Zayathukha Road
+    city: 54-Thuwunna Thingangyun Township
+    state_or_province: Yangon
+    postal_code: '11072'
+    country: Burma
+id_list:
+  items:
+  - uid: '30936'
+    id_type: National ID No.
+    id_number: 12/DAGANAN004114
+    id_country: Burma
+  - uid: '30978'
+    id_type: Passport
+    id_number: ME444441
+    id_country: Burma
+    issue_date: 13 Sep 2019
+    expiration_date: 12 Sep 2024
+  - uid: '159674'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '59673'
+    date_of_birth: 06 Feb 1969
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '59712'
+    place_of_birth: Yangon, Burma
+    main_entry: 'true'

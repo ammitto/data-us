@@ -1,0 +1,40 @@
+---
+uid: '56305'
+last_name: ZAGROS SHIMI FARS MANUFACTURING INDUSTRIES COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '87340'
+    type: a.k.a.
+    category: strong
+    last_name: SANAYE TOLIDIE ZAGROS SHIMI FARS
+address_list:
+  items:
+  - uid: '86163'
+    address1: Plot 10, Block B5
+    address2: Phase 1
+    city: Shiraz
+    state_or_province: Fars
+    postal_code: '7158184199'
+    country: Iran
+id_list:
+  items:
+  - uid: '50332'
+    id_type: National ID No.
+    id_number: '10530232958'
+    id_country: Iran
+  - uid: '50333'
+    id_type: Registration Number
+    id_number: '10863'
+    id_country: Iran
+  - uid: '194435'
+    id_type: Organization Established Date
+    id_number: 02 May 2001
+  - uid: '194434'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: QAYUMI, Vahid)"

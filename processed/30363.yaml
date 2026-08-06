@@ -1,0 +1,45 @@
+---
+uid: '30363'
+last_name: IRAN ELECTRONIC DEVELOPMENT COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13876
+aka_list:
+  items:
+  - uid: '47589'
+    type: a.k.a.
+    category: weak
+    last_name: IEDC
+  - uid: '47592'
+    type: a.k.a.
+    category: strong
+    last_name: IRAN ELECTRONIC DEVELOPMENT
+  - uid: '47594'
+    type: a.k.a.
+    category: strong
+    last_name: IRAN ELECTRONIC DEVELOPMENT CO.
+address_list:
+  items:
+  - uid: '45829'
+    address1: Africa Street, Lower Than Haqqani Crossroad Kaman Alley, Way of Shahid
+      Haghani, Kuchma Avenue
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '20468'
+    id_type: Registration Number
+    id_number: '174201'
+    id_country: Iran
+  - uid: '20469'
+    id_type: National ID No.
+    id_number: '10102166006'
+    id_country: Iran
+  - uid: '137939'
+    id_type: Website
+    id_number: http://www.iedc.ir
+  - uid: '137948'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: ISLAMIC REVOLUTION MOSTAZAFAN FOUNDATION)"

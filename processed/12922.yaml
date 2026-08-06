@@ -1,0 +1,90 @@
+---
+uid: '12922'
+first_name: Abdur
+last_name: REHMAN
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '14362'
+    type: a.k.a.
+    category: strong
+    last_name: REHMAN
+    first_name: Abdul
+  - uid: '14363'
+    type: a.k.a.
+    category: strong
+    last_name: UR-REHMAN
+    first_name: Abd
+  - uid: '14364'
+    type: a.k.a.
+    category: strong
+    last_name: RAHMAN
+    first_name: Abdur
+  - uid: '14365'
+    type: a.k.a.
+    category: strong
+    last_name: SINDHI
+    first_name: Abdul Rehman
+  - uid: '14366'
+    type: a.k.a.
+    category: strong
+    last_name: AL-SINDHI
+    first_name: Abdul Rehman
+  - uid: '14367'
+    type: a.k.a.
+    category: strong
+    last_name: AL-SINDHI
+    first_name: Abdur Rahman
+  - uid: '14369'
+    type: a.k.a.
+    category: strong
+    last_name: SINDI
+    first_name: Abdur Rehman
+  - uid: '14370'
+    type: a.k.a.
+    category: strong
+    last_name: SINDHI
+    first_name: Abdurahman
+  - uid: '14372'
+    type: a.k.a.
+    category: weak
+    last_name: ABDULLAH SINDHI
+  - uid: '14374'
+    type: a.k.a.
+    category: strong
+    last_name: YAMIN
+    first_name: Abdur Rehman Muhammad
+address_list:
+  items:
+  - uid: '20495'
+    city: Karachi
+    country: Pakistan
+id_list:
+  items:
+  - uid: '7325'
+    id_type: National ID No.
+    id_number: 44103-5251752-5
+    id_country: Pakistan
+  - uid: '7326'
+    id_type: Passport
+    id_number: CV9157521
+    id_country: Pakistan
+    issue_date: '08 Sep 2008'
+    expiration_date: 07 Sep 2013
+  - uid: '186057'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '8711'
+    date_of_birth: 03 Oct 1965
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '8712'
+    place_of_birth: Mirpur Khas, Pakistan
+    main_entry: 'true'

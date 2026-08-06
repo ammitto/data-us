@@ -1,0 +1,41 @@
+---
+uid: '34507'
+last_name: OOO OTKRITIE ASSET MANAGEMENT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54058'
+    type: a.k.a.
+    category: strong
+    last_name: OTKRITIE ASSET MANAGEMENT LTD
+  - uid: '54059'
+    type: a.k.a.
+    category: strong
+    last_name: UK OTKRYTIE
+address_list:
+  items:
+  - uid: '51708'
+    address1: Ul. Kozhevnicheskaya, d. 14, str. 5
+    city: Moscow
+    postal_code: '115114'
+    country: Russia
+id_list:
+  items:
+  - uid: '24136'
+    id_type: Registration Number
+    id_number: '1027739072613'
+    id_country: Russia
+  - uid: '24137'
+    id_type: Tax ID No.
+    id_number: '7705394773'
+    id_country: Russia
+  - uid: '145900'
+    id_type: Organization Established Date
+    id_number: '08 Dec 2000'
+  - uid: '175134'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: PUBLIC JOINT STOCK COMPANY BANK FINANCIAL CORPORATION OTKRITIE)"

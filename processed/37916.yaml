@@ -1,0 +1,44 @@
+---
+uid: '37916'
+last_name: JAM PETROCHEMICAL COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13846
+aka_list:
+  items:
+  - uid: '59605'
+    type: a.k.a.
+    category: strong
+    last_name: JAM PETROCHEMICAL COMPLEX
+address_list:
+  items:
+  - uid: '56879'
+    address1: Pars Special Economic Energy Zone
+    address2: Jam Petrochemical Co,
+    city: Assaluyeh
+    state_or_province: Boushehr Province
+    postal_code: 75118-11368
+    country: Iran
+  - uid: '56881'
+    address1: No. 27 Nezami St., Tavanir Ave
+    city: Tehran
+    postal_code: '1434853114'
+    country: Iran
+id_list:
+  items:
+  - uid: '27276'
+    id_type: National ID No.
+    id_number: '10100777300'
+    id_country: Iran
+  - uid: '27277'
+    id_type: Registration Number
+    id_number: '32285'
+    id_country: Iran
+  - uid: '153207'
+    id_type: Website
+    id_number: https://www.jpcomplex.ir
+  - uid: '153182'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: "(Linked To: IRAN PETROCHEMICAL COMMERCIAL COMPANY)"

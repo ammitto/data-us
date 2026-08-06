@@ -1,0 +1,46 @@
+---
+uid: '31302'
+first_name: Mariya Evgenevna
+last_name: ZUEVA
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+  - ELECTION-EO13848
+  - UKRAINE-EO13661
+aka_list:
+  items:
+  - uid: '49290'
+    type: a.k.a.
+    category: strong
+    last_name: ZUEVA
+    first_name: Mariia Yevgenyevna
+address_list:
+  items:
+  - uid: '47383'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '21335'
+    id_type: Tax ID No.
+    id_number: '331403452400'
+    id_country: Russia
+  - uid: '139824'
+    id_type: Gender
+    id_number: Female
+  - uid: '144089'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+date_of_birth_list:
+  items:
+  - uid: '39823'
+    date_of_birth: 28 May 1983
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '39996'
+    place_of_birth: Russia
+    main_entry: 'true'
+remarks: "(Linked To: OOO YUNIDZHET)"

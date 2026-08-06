@@ -1,0 +1,32 @@
+---
+uid: '27002'
+first_name: Isham Ali
+last_name: SAAB CERTAIN
+sdn_type: Individual
+program_list:
+  programs:
+  - VENEZUELA-EO13850
+id_list:
+  items:
+  - uid: '17690'
+    id_type: National ID No.
+    id_number: '99041408126'
+    id_country: Colombia
+  - uid: '17706'
+    id_type: Passport
+    id_number: AS005095
+    id_country: Colombia
+  - uid: '132027'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '31887'
+    date_of_birth: 14 Apr 1999
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '32026'
+    place_of_birth: Barranquilla, Colombia
+    main_entry: 'true'
+remarks: "(Linked To: SAAB MORAN, Alex Nain)"

@@ -1,0 +1,41 @@
+---
+uid: '50122'
+last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU SHAKHTA ALARDINSKAYA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '78143'
+    type: a.k.a.
+    category: strong
+    last_name: OOO ALARDINSKAYA MINE
+  - uid: '78144'
+    type: a.k.a.
+    category: strong
+    last_name: SHAKHTA ALARDINSKAYA OOO
+  - uid: '78145'
+    type: a.k.a.
+    category: strong
+    last_name: OOO SHAKHTA ALARDINSKAIA
+address_list:
+  items:
+  - uid: '75834'
+    address1: Ul. Ugolnaya D. 56
+    city: Kaltan
+    postal_code: '652831'
+    country: Russia
+id_list:
+  items:
+  - uid: '41706'
+    id_type: Tax ID No.
+    id_number: '4222013689'
+    id_country: Russia
+  - uid: '41707'
+    id_type: Registration Number
+    id_number: '1114222001200'
+    id_country: Russia
+  - uid: '178071'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,49 @@
+---
+uid: '38239'
+first_name: Alexander Anatolevich
+last_name: PONOMARENKO
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '60012'
+    type: a.k.a.
+    category: strong
+    last_name: PONOMARENKO
+    first_name: Aleksandr Anatolevich
+  - uid: '60013'
+    type: a.k.a.
+    category: strong
+    last_name: PONOMARENKO
+    first_name: Alexander Anatolyevich
+address_list:
+  items:
+  - uid: '57270'
+    address1: 19 A 20 Malaya Bronnaya Street
+    city: Moscow
+    postal_code: '123104'
+    country: Russia
+id_list:
+  items:
+  - uid: '27519'
+    id_type: Tax ID No.
+    id_number: '770304224623'
+    id_country: Russia
+  - uid: '153499'
+    id_type: Gender
+    id_number: Male
+  - uid: '174661'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '53498'
+    date_of_birth: 27 Oct 1964
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '53502'
+    place_of_birth: Belogorsk, Ukraine
+    main_entry: 'true'

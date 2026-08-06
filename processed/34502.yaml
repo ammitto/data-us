@@ -1,0 +1,42 @@
+---
+uid: '34502'
+last_name: OOO TAMOZHENNAYA KARTA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54046'
+    type: a.k.a.
+    category: strong
+    last_name: TAMOZHENNAYA KARTA
+address_list:
+  items:
+  - uid: '51696'
+    address1: proezd Berezovoi Roshchi, dom 12
+    city: Moscow
+    postal_code: '125252'
+    country: Russia
+  - uid: '51697'
+    address1: Per. Plotnikov, d. 19/38, str. 2
+    city: Moscow
+    postal_code: '119002'
+    country: Russia
+id_list:
+  items:
+  - uid: '24124'
+    id_type: Registration Number
+    id_number: '1027739703672'
+    id_country: Russia
+  - uid: '24125'
+    id_type: Tax ID No.
+    id_number: '710357343'
+    id_country: Russia
+  - uid: '145894'
+    id_type: Organization Established Date
+    id_number: 16 Jun 2000
+  - uid: '175129'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: PUBLIC JOINT STOCK COMPANY BANK FINANCIAL CORPORATION OTKRITIE)"

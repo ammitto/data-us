@@ -1,0 +1,40 @@
+---
+uid: '45250'
+first_name: Nenad
+last_name: POPOVIC
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '67334'
+    country: Serbia
+id_list:
+  items:
+  - uid: '34978'
+    id_type: Tax ID No.
+    id_number: '773389222811'
+    id_country: Russia
+  - uid: '34979'
+    id_type: Passport
+    id_number: '050010216'
+    id_country: Serbia
+    issue_date: 20 Mar 2020
+    expiration_date: 20 Mar 2025
+  - uid: '175958'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '165660'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '65658'
+    date_of_birth: 30 Sep 1966
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '65659'
+    place_of_birth: Tuzla, Bosnia and Herzegovina
+    main_entry: 'true'

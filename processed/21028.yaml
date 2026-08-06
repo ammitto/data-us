@@ -1,0 +1,56 @@
+---
+uid: '21028'
+first_name: Felipe
+last_name: FLORES GOMEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '31907'
+    address1: Mariano Abasolo 87
+    address2: Autlan de Navarro Centro
+    city: Autlan de Navarro
+    state_or_province: Jalisco
+    postal_code: '48900'
+    country: Mexico
+  - uid: '31908'
+    address1: Av. Fray Junipero Serra 843
+    address2: Col. Alcalde Barranquitas
+    city: Guadalajara
+    state_or_province: Jalisco
+    postal_code: '44270'
+    country: Mexico
+  - uid: '33629'
+    address1: Paulino Navarro 42
+    address2: Col. Centro
+    city: Casimiro Castillo
+    state_or_province: Jalisco
+    postal_code: '48930'
+    country: Mexico
+id_list:
+  items:
+  - uid: '13086'
+    id_type: C.U.R.P.
+    id_number: FOGF530920HJCLML09
+    id_country: Mexico
+  - uid: '13087'
+    id_type: R.F.C.
+    id_number: FOGF530920KX7
+    id_country: Mexico
+  - uid: '121812'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '21809'
+    date_of_birth: 20 Sep 1953
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '21810'
+    place_of_birth: Villa Purificacion, Jalisco, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: FLORES DRUG TRAFFICKING ORGANIZATION; Linked To: BOUNGALOWS
+  VILLA AZUL, S.A. DE C.V.; Linked To: CLUB DEPORTIVO MORUMBI, ASOCIACION CIVIL)"

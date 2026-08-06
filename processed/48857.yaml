@@ -1,0 +1,41 @@
+---
+uid: '48857'
+first_name: Valery Mikhailovich
+last_name: KASHIN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76094'
+    type: a.k.a.
+    category: strong
+    last_name: KASHIN
+    first_name: Valerii Mikhailovich
+address_list:
+  items:
+  - uid: '73474'
+    country: Russia
+id_list:
+  items:
+  - uid: '39921'
+    id_type: Tax ID No.
+    id_number: '502207611476'
+    id_country: Russia
+  - uid: '171552'
+    id_type: Gender
+    id_number: Male
+  - uid: '171553'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '71549'
+    date_of_birth: 14 Sep 1947
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '71550'
+    place_of_birth: Chernivtsi, Ukraine
+    main_entry: 'true'

@@ -1,0 +1,34 @@
+---
+uid: '34123'
+first_name: Nahima Janett
+last_name: DIAZ FLORES
+sdn_type: Individual
+program_list:
+  programs:
+  - NICARAGUA
+address_list:
+  items:
+  - uid: '51160'
+    address1: Residencial Lomas del Valle
+    address2: Casa No. U-5
+    city: Managua
+    country: Nicaragua
+id_list:
+  items:
+  - uid: '23760'
+    id_type: National ID No.
+    id_number: '0012806890047K'
+    id_country: Nicaragua
+  - uid: '145276'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '45277'
+    date_of_birth: 28 Jun 1989
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '45279'
+    place_of_birth: Managua, Nicaragua
+    main_entry: 'true'

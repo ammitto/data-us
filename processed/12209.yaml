@@ -1,0 +1,60 @@
+---
+uid: '12209'
+last_name: OFFICE 39
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK
+aka_list:
+  items:
+  - uid: '13141'
+    type: a.k.a.
+    category: strong
+    last_name: 'OFFICE #39'
+  - uid: '13142'
+    type: a.k.a.
+    category: strong
+    last_name: OFFICE NO. 39
+  - uid: '13143'
+    type: a.k.a.
+    category: strong
+    last_name: BUREAU 39
+  - uid: '13144'
+    type: a.k.a.
+    category: strong
+    last_name: CENTRAL COMMITTEE BUREAU 39
+  - uid: '13145'
+    type: a.k.a.
+    category: weak
+    last_name: THIRD FLOOR
+  - uid: '13146'
+    type: a.k.a.
+    category: strong
+    last_name: DIVISION 39
+address_list:
+  items:
+  - uid: '18683'
+    address1: Second KWP Government Building (Korean - Ch'o'ngsa)
+    address2: Chungso'ng, Urban Town (Korean - Dong)
+    address3: Chung Ward
+    city: Pyongyang
+    country: Korea, North
+  - uid: '18684'
+    address1: Chung-Guyok (Central District)
+    address2: Sosong Street
+    address3: Kyongrim-Dong
+    city: Pyongyang
+    country: Korea, North
+  - uid: '18692'
+    address1: Changgwang Street
+    city: Pyongyang
+    country: Korea, North
+id_list:
+  items:
+  - uid: '134864'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '127066'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210

@@ -1,0 +1,36 @@
+---
+uid: '28525'
+first_name: Juan Antonio
+last_name: VALLE VALLE
+sdn_type: Individual
+program_list:
+  programs:
+  - NICARAGUA
+  - NICARAGUA-NHRAA
+address_list:
+  items:
+  - uid: '43117'
+    address1: Villa Progreso 1 Arr
+    city: Managua
+    country: Nicaragua
+id_list:
+  items:
+  - uid: '18896'
+    id_type: Passport
+    id_number: D113169
+    id_country: Nicaragua
+    issue_date: 05 Jan 2005
+    expiration_date: 04 Jul 2007
+  - uid: '134241'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '34239'
+    date_of_birth: 04 May 1962
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '34240'
+    place_of_birth: Matagalpa, Nicaragua
+    main_entry: 'true'

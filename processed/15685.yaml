@@ -1,0 +1,39 @@
+---
+uid: '15685'
+first_name: Juan Carlos
+last_name: DURAN NUNEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '23434'
+    address1: 'Calle Johanes Brahams #355, Interior 10'
+    address2: Fraccionamiento La Estancia
+    city: Zapopan
+    state_or_province: Jalisco
+    country: Mexico
+id_list:
+  items:
+  - uid: '8429'
+    id_type: R.F.C.
+    id_number: DUNJ670629IL4
+    id_country: Mexico
+  - uid: '8435'
+    id_type: C.U.R.P.
+    id_number: DUNJ670629HJCRXN08
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '12960'
+    date_of_birth: 29 Jun 1967
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '12961'
+    place_of_birth: Guadalajara, Jalisco
+    main_entry: 'true'
+remarks: "(Linked To: GRUPO COMERCIAL ROOL, S.A. DE C.V.; Linked To: RANCHO EL NUEVO
+  PACHON, S. DE R.L. DE C.V.; Linked To: ASESORIA Y SERVICIOS ADMINISTRATIVOS, TECNICOS
+  Y OPERATIVOS DUREL, S.A. DE C.V.)"

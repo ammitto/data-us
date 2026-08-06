@@ -1,0 +1,45 @@
+---
+uid: '51656'
+last_name: RUSSIAN UNIVERSAL BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '80946'
+    type: a.k.a.
+    category: strong
+    last_name: RUSUNIVERSALBANK
+address_list:
+  items:
+  - uid: '78714'
+    address1: M. Kazannyj Per., 14, Str. 1
+    city: Moscow
+    postal_code: '105064'
+    country: Russia
+id_list:
+  items:
+  - uid: '44167'
+    id_type: Legal Entity Number
+    id_number: 253400YYHA5GJQB46R62
+  - uid: '44168'
+    id_type: Registration Number
+    id_number: '1027739671288'
+    id_country: Russia
+  - uid: '44169'
+    id_type: Tax ID No.
+    id_number: '7718120593'
+    id_country: Russia
+  - uid: '181579'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '181578'
+    id_type: SWIFT/BIC
+    id_number: RUNIRUMM
+  - uid: '181581'
+    id_type: Website
+    id_number: www.rubank.ru
+  - uid: '181580'
+    id_type: Target Type
+    id_number: Financial Institution

@@ -1,0 +1,46 @@
+---
+uid: '52592'
+first_name: Irina Nikolaevna
+last_name: MELNIK
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '82318'
+    type: a.k.a.
+    category: strong
+    last_name: MELNIK
+    first_name: Irina Nikolayevna
+address_list:
+  items:
+  - uid: '80330'
+    address1: Svetlanovsky Pr 103, Apt. 100
+    city: Saint Petersburg
+    country: Russia
+  - uid: '80567'
+    address1: Koroleva Avenue, D 47, Apt. 224
+    city: Saint Petersburg
+    country: Russia
+id_list:
+  items:
+  - uid: '45632'
+    id_type: Tax ID No.
+    id_number: '780608351700'
+    id_country: Russia
+  - uid: '45846'
+    id_type: National ID No.
+    id_number: '4015282771'
+    id_country: Russia
+  - uid: '184336'
+    id_type: Gender
+    id_number: Female
+  - uid: '184334'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '84556'
+    date_of_birth: 30 Jul 1970
+    main_entry: 'true'

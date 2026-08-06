@@ -1,0 +1,59 @@
+---
+uid: '38317'
+last_name: MMK METALURJI SANAYI TICARET VE LIMAN ISLETMECILIGI ANONIM SIRKETI
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '60093'
+    type: a.k.a.
+    category: strong
+    last_name: MMK METALURJI PORT
+  - uid: '60095'
+    type: a.k.a.
+    category: weak
+    last_name: MMK TURKEY
+address_list:
+  items:
+  - uid: '57351'
+    address1: 'Alparslan Turkes Bulvari, No: 342-91, Ozerli Mahallesi'
+    city: Dortyol
+    postal_code: '31600'
+    country: Turkey
+  - uid: '57352'
+    city: Kocaeli
+    state_or_province: Dilovasi
+    country: Turkey
+  - uid: '57353'
+    city: Istanbul
+    country: Turkey
+id_list:
+  items:
+  - uid: '27606'
+    id_type: Registration Number
+    id_number: '4292'
+    id_country: Turkey
+  - uid: '27607'
+    id_type: Tax ID No.
+    id_number: '0950055541'
+    id_country: Turkey
+  - uid: '27608'
+    id_type: Legal Entity Number
+    id_number: 789000EY8H7UFLRVA902
+    id_country: Turkey
+  - uid: '174674'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '153629'
+    id_type: Website
+    id_number: https://mmkturkey.com.tr/
+  - uid: '153614'
+    id_type: Organization Established Date
+    id_number: 12 Mar 1998
+  - uid: '153615'
+    id_type: Organization Established Date
+    id_number: '2010'
+remarks: "(Linked To: PUBLICHNOE AKTSIONERNOE OBSCHESTVO MAGNITOGORSKIY METALLURGICHESKIY
+  KOMBINAT)"

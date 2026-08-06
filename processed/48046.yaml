@@ -1,0 +1,37 @@
+---
+uid: '48046'
+first_name: Heber
+last_name: NIETO FIERRO
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '74580'
+    type: a.k.a.
+    category: weak
+    last_name: EVER NIETO
+address_list:
+  items:
+  - uid: '72014'
+    country: Mexico
+id_list:
+  items:
+  - uid: '38929'
+    id_type: C.U.R.P.
+    id_number: NIFH750928HCHTRB04
+    id_country: Mexico
+  - uid: '169526'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '69524'
+    date_of_birth: 28 Sep 1975
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '69527'
+    place_of_birth: Chihuahua, Mexico
+    main_entry: 'true'

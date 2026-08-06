@@ -1,0 +1,44 @@
+---
+uid: '50231'
+first_name: Aleksey Nikolaevich
+last_name: YAVORSKI
+sdn_type: Individual
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '78396'
+    type: a.k.a.
+    category: strong
+    last_name: YAVORSKI
+    first_name: Aliaksei Mikalaevich
+address_list:
+  items:
+  - uid: '76199'
+    country: Belarus
+id_list:
+  items:
+  - uid: '41871'
+    id_type: National ID No.
+    id_number: 3270281A003PB6
+    id_country: Belarus
+  - uid: '41872'
+    id_type: Passport
+    id_number: MP2683544
+    id_country: Belarus
+    expiration_date: 18 Sep 2029
+  - uid: '177860'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '77857'
+    date_of_birth: 27 Feb 1981
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '77859'
+    place_of_birth: Crimea, Ukraine
+    main_entry: 'true'
+remarks: "(Linked To: LLC ALYURTEKH)"

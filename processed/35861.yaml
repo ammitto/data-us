@@ -1,0 +1,45 @@
+---
+uid: '35861'
+last_name: JOINT STOCK COMPANY HELICOPTER SERVICE COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56327'
+    type: a.k.a.
+    category: weak
+    last_name: HELICOPTER SERVICE COMPANY
+  - uid: '56328'
+    type: a.k.a.
+    category: weak
+    last_name: AO VSK
+  - uid: '56329'
+    type: a.k.a.
+    category: weak
+    last_name: VSK PAO
+address_list:
+  items:
+  - uid: '53804'
+    address1: Ul. Bolshaya Pionerskaya D. 1
+    city: Moscow
+    postal_code: '115054'
+    country: Russia
+id_list:
+  items:
+  - uid: '25175'
+    id_type: Tax ID No.
+    id_number: '7704252960'
+    id_country: Russia
+  - uid: '25176'
+    id_type: Registration Number
+    id_number: '1037704005041'
+    id_country: Russia
+  - uid: '149053'
+    id_type: Organization Established Date
+    id_number: 17 Feb 2003
+  - uid: '173256'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: VERTOLETY ROSSII AO)"

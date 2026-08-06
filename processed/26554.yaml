@@ -1,0 +1,38 @@
+---
+uid: '26554'
+first_name: Laureano Facundo
+last_name: ORTEGA MURILLO
+sdn_type: Individual
+program_list:
+  programs:
+  - NICARAGUA
+aka_list:
+  items:
+  - uid: '41920'
+    type: a.k.a.
+    category: strong
+    last_name: ORTEGA
+    first_name: Laureano
+id_list:
+  items:
+  - uid: '17344'
+    id_type: National ID No.
+    id_number: '0012011820046M'
+  - uid: '17345'
+    id_type: Passport
+    id_number: A00000684
+    id_country: Nicaragua
+    expiration_date: 26 Sep 2023
+  - uid: '131370'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '31368'
+    date_of_birth: 20 Nov 1982
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '31372'
+    place_of_birth: Managua, Nicaragua
+    main_entry: 'true'

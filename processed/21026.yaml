@@ -1,0 +1,45 @@
+---
+uid: '21026'
+first_name: Moises
+last_name: FLORES ESPARZA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '31903'
+    address1: C Playa Santiago 6041, Dep. 3
+    address2: Rdcial Moctezuma PTE
+    city: Zapopan
+    state_or_province: Jalisco
+    postal_code: '45050'
+    country: Mexico
+id_list:
+  items:
+  - uid: '13081'
+    id_type: C.U.R.P.
+    id_number: FOEM771214HNTLSS07
+    id_country: Mexico
+  - uid: '13082'
+    id_type: R.F.C.
+    id_number: FOEM7712145E7
+    id_country: Mexico
+  - uid: '13083'
+    id_type: Credencial electoral
+    id_number: FLESMS77121418H100
+    id_country: Mexico
+  - uid: '121804'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '21801'
+    date_of_birth: 14 Dec 1977
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '21802'
+    place_of_birth: Tepic, Nayarit, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: FLORES DRUG TRAFFICKING ORGANIZATION)"

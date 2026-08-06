@@ -1,0 +1,38 @@
+---
+uid: '52439'
+first_name: Heladio
+last_name: CISNEROS FLORES
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '82130'
+    type: a.k.a.
+    category: weak
+    last_name: La Sirena
+address_list:
+  items:
+  - uid: '80101'
+    country: Mexico
+id_list:
+  items:
+  - uid: '45428'
+    id_type: C.U.R.P.
+    id_number: CIFH860221HMNSLL02
+    id_country: Mexico
+  - uid: '184058'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '84055'
+    date_of_birth: 21 Feb 1986
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '84056'
+    place_of_birth: Michoacan, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: LOS VIAGRAS)"

@@ -1,0 +1,28 @@
+---
+uid: '50897'
+last_name: OOO FABRIKON
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '77286'
+    address1: domovladenie 6 str. 1 kom. 95, km. 22-1
+    address2: Kievskoe Sh.
+    city: Moscow
+    postal_code: '108811'
+    country: Russia
+id_list:
+  items:
+  - uid: '42883'
+    id_type: Registration Number
+    id_number: '1187746685048'
+    id_country: Russia
+  - uid: '42884'
+    id_type: Tax ID No.
+    id_number: '7751146052'
+    id_country: Russia
+  - uid: '179679'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

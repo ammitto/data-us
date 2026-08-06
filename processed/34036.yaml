@@ -1,0 +1,43 @@
+---
+uid: '34036'
+last_name: RUSSIAN DIRECT INVESTMENT FUND
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '55466'
+    type: a.k.a.
+    category: weak
+    last_name: RDIF
+address_list:
+  items:
+  - uid: '52984'
+    address1: Presnenskaya nab., D. 8, Structure 1, MFK Capital City, South Tower,
+      7, 8th Floor
+    city: Moscow
+    postal_code: '123112'
+    country: Russia
+id_list:
+  items:
+  - uid: '145260'
+    id_type: Organization Established Date
+    id_number: 01 Jun 2011
+  - uid: '147409'
+    id_type: Website
+    id_number: www.rdif.ru
+  - uid: '147410'
+    id_type: Website
+    id_number: www.investinrussia.com
+  - uid: '175112'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184256'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '147408'
+    id_type: Target Type
+    id_number: Government Entity

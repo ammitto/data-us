@@ -1,0 +1,24 @@
+---
+uid: '51502'
+last_name: SANAR 8
+sdn_type: Vessel
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+id_list:
+  items:
+  - uid: '43898'
+    id_type: Vessel Registration Identification
+    id_number: IMO 9212008
+  - uid: '43899'
+    id_type: MMSI
+    id_number: '273619700'
+  - uid: '181114'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183603'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+remarks: "(Linked To: SUNOR ILLC)"

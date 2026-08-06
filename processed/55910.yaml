@@ -1,0 +1,44 @@
+---
+uid: '55910'
+last_name: HARESH PETROCHEM PRIVATE LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13846
+address_list:
+  items:
+  - uid: '85582'
+    address1: B 3701, 37th Floor, Plot No 46, Kohinoor Square, N C Kelkar Marg, Opp.
+      Shivsena Bhavan, Dadar, Shivaji Park
+    city: Mumbai
+    state_or_province: Maharashtra
+    postal_code: '400028'
+    country: India
+  - uid: '85583'
+    address1: 510 Acme Plaza, Andheri
+    city: Mumbai
+    state_or_province: Maharashtra
+    postal_code: '400059'
+    country: India
+  - uid: '85621'
+    address1: 405 Acme Plaza
+    address2: Andheri
+    city: Mumbai
+    state_or_province: Maharashtra
+    postal_code: '400059'
+    country: India
+id_list:
+  items:
+  - uid: '50060'
+    id_type: C.I.N.
+    id_number: U24100MH2004PTC145264
+    id_country: India
+  - uid: '50061'
+    id_type: Legal Entity Number
+    id_number: 335800637C8Q95WWO552
+  - uid: '193981'
+    id_type: 'Executive Order 13846 information:'
+    id_number: BLOCKING PROPERTY AND INTERESTS IN PROPERTY.  Sec. 5(a)(iv)
+  - uid: '193893'
+    id_type: Organization Established Date
+    id_number: 23 Mar 2004

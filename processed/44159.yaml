@@ -1,0 +1,42 @@
+---
+uid: '44159'
+last_name: NAUCHNO ISSLEDOVATELSKII I PROEKTNYI INSTITUT PO PERERABOTKE GAZA AO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '68303'
+    type: a.k.a.
+    category: strong
+    last_name: NIPI GAZPERERABOTKA AO
+  - uid: '68304'
+    type: a.k.a.
+    category: strong
+    last_name: NIPIGAZ AO
+  - uid: '68305'
+    type: a.k.a.
+    category: strong
+    last_name: NIPIGAS JSC
+address_list:
+  items:
+  - uid: '65714'
+    address1: 65 Profsoyuznaya Street
+    address2: Bld. 1
+    city: Moscow
+    postal_code: '117342'
+    country: Russia
+id_list:
+  items:
+  - uid: '33572'
+    id_type: Registration Number
+    id_number: '1022301597394'
+    id_country: Russia
+  - uid: '33573'
+    id_type: Tax ID No.
+    id_number: '2310004087'
+    id_country: Russia
+  - uid: '175784'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

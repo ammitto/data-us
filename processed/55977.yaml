@@ -1,0 +1,40 @@
+---
+uid: '55977'
+first_name: Thet
+last_name: LI
+sdn_type: Individual
+program_list:
+  programs:
+  - TCO
+aka_list:
+  items:
+  - uid: '86948'
+    type: a.k.a.
+    category: strong
+    last_name: LI
+    first_name: Tian
+address_list:
+  items:
+  - uid: '85722'
+    city: London
+    country: United Kingdom
+id_list:
+  items:
+  - uid: '50138'
+    id_type: Passport
+    id_number: RV091789
+    id_country: Vanuatu
+  - uid: '194070'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '94071'
+    date_of_birth: 06 Jul 1987
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '94072'
+    place_of_birth: Beijing, China
+    main_entry: 'true'
+remarks: "(Linked To: PRINCE GROUP TRANSNATIONAL CRIMINAL ORGANIZATION)"

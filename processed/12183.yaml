@@ -1,0 +1,49 @@
+---
+uid: '12183'
+first_name: Ricardo
+last_name: GARCIA SANCHEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '18612'
+    address1: c/o MANTENIMIENTO, AERONAUTICA, TRANSPORTE, Y SERVICIOS AEREOS S.A.
+      DE C.V.
+    city: Toluca
+    state_or_province: Mexico
+    country: Mexico
+  - uid: '18613'
+    city: Huixquilucan
+    state_or_province: Mexico
+    country: Mexico
+  - uid: '18614'
+    city: El Oro
+    state_or_province: Mexico
+    country: Mexico
+  - uid: '18615'
+    address1: Carranza 14
+    city: Toluca
+    state_or_province: Mexico
+    country: Mexico
+id_list:
+  items:
+  - uid: '6579'
+    id_type: C.U.R.P.
+    id_number: GASR741005HDFRNC06
+    id_country: Mexico
+  - uid: '6580'
+    id_type: Passport
+    id_number: '99370022520'
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '7896'
+    date_of_birth: 05 Oct 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '7897'
+    place_of_birth: Mexico City, Distrito Federal, Mexico
+    main_entry: 'true'

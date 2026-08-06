@@ -1,0 +1,34 @@
+---
+uid: '42004'
+last_name: TARGET ELECTRONICS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '65287'
+    type: a.k.a.
+    category: strong
+    last_name: TARGET ELEKTRONIKS
+address_list:
+  items:
+  - uid: '62682'
+    address1: Proezd Kolomenskii d. 14
+    address2: floor 5, kom. 5
+    city: Moscow
+    postal_code: '115446'
+    country: Russia
+id_list:
+  items:
+  - uid: '31412'
+    id_type: Registration Number
+    id_number: '1217700243364'
+    id_country: Russia
+  - uid: '31413'
+    id_type: Tax ID No.
+    id_number: '7714472298'
+    id_country: Russia
+  - uid: '173738'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

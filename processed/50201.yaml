@@ -1,0 +1,45 @@
+---
+uid: '50201'
+last_name: RUZEKSPEDITSIYA LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - BELARUS-EO14038
+aka_list:
+  items:
+  - uid: '78328'
+    type: a.k.a.
+    category: strong
+    last_name: RUZSPEDITION LLC
+  - uid: '78329'
+    type: a.k.a.
+    category: strong
+    last_name: RUDENSKI UDOBRENCHESKI ZAVOD OOO
+  - uid: '78330'
+    type: a.k.a.
+    category: strong
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU RUZEKSPEDITSIYA
+address_list:
+  items:
+  - uid: '76006'
+    address1: 1K, pom. 36, ul. Zavodskaya
+    city: Bolbasovo
+    postal_code: '211004'
+    country: Belarus
+  - uid: '76007'
+    address1: 40 Nemiga St., p. 304
+    city: Minsk
+    postal_code: '220004'
+    country: Belarus
+id_list:
+  items:
+  - uid: '41839'
+    id_type: Tax ID No.
+    id_number: '690664113'
+    id_country: Belarus
+  - uid: '177816'
+    id_type: Organization Established Date
+    id_number: 31 May 2016
+  - uid: '178181'
+    id_type: 'Organization Type:'
+    id_number: Transportation and storage

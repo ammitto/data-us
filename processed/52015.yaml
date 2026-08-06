@@ -1,0 +1,38 @@
+---
+uid: '52015'
+last_name: LIMITED LIABILITY COMPANY MORSKOI PORT SUKHODOL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '81427'
+    type: a.k.a.
+    category: strong
+    last_name: LLC SUKHODOL SEAPORT
+address_list:
+  items:
+  - uid: '79308'
+    address1: 56 Leninskaya St.
+    city: Romanovka
+    postal_code: '692821'
+    country: Russia
+  - uid: '79310'
+    address1: 24 Okeansky Avenue
+    city: Vladivostok
+    postal_code: '690091'
+    country: Russia
+id_list:
+  items:
+  - uid: '44825'
+    id_type: Registration Number
+    id_number: '1122503001136'
+    id_country: Russia
+  - uid: '44826'
+    id_type: Tax ID No.
+    id_number: '2503030460'
+    id_country: Russia
+  - uid: '182673'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,43 @@
+---
+uid: '38417'
+first_name: Aliakbar
+last_name: RASHIDI-BARJINI
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER2
+  - IFSR
+  - IRGC
+aka_list:
+  items:
+  - uid: '60169'
+    type: a.k.a.
+    category: strong
+    last_name: RASHIDI
+    first_name: Ali Akbar
+address_list:
+  items:
+  - uid: '57446'
+    country: Iran
+id_list:
+  items:
+  - uid: '27718'
+    id_type: National ID No.
+    id_number: '4480034870'
+    id_country: Iran
+  - uid: '154392'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '153717'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '53715'
+    date_of_birth: 30 Apr 1991
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '53718'
+    place_of_birth: Meybod, Yazd Province, Iran
+    main_entry: 'true'

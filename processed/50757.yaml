@@ -1,0 +1,40 @@
+---
+uid: '50757'
+last_name: OBORON HOLDING LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '79467'
+    type: a.k.a.
+    category: strong
+    last_name: OOO OBORON KHOLDING
+address_list:
+  items:
+  - uid: '77000'
+    address1: Vld. 85, Str. 1
+    address2: Pom. 8
+    city: Lykovo
+    postal_code: '108817'
+    country: Russia
+  - uid: '77002'
+    address1: Ul. Bakuninskaya, 69
+    address2: Str. 1
+    city: Moscow
+    postal_code: '105082'
+    country: Russia
+id_list:
+  items:
+  - uid: '42643'
+    id_type: Registration Number
+    id_number: '1157746688879'
+    id_country: Russia
+  - uid: '42644'
+    id_type: Tax ID No.
+    id_number: '9701002563'
+    id_country: Russia
+  - uid: '179384'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

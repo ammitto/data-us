@@ -1,0 +1,46 @@
+---
+uid: '40143'
+first_name: Jorge Estuardo
+last_name: VARGAS MORALES
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '62365'
+    type: a.k.a.
+    category: strong
+    last_name: VARGAS
+    first_name: Jorge
+address_list:
+  items:
+  - uid: '59780'
+    address1: Kilometro 19.5 Carretera A Fraijanes, Lote 69A
+    city: Guatemala City
+    country: Guatemala
+id_list:
+  items:
+  - uid: '29280'
+    id_type: National ID No.
+    id_number: '2232730900101'
+    id_country: Guatemala
+  - uid: '29281'
+    id_type: Passport
+    id_number: '223273090'
+    id_country: Guatemala
+    expiration_date: 24 Oct 2022
+  - uid: '157002'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '56997'
+    date_of_birth: 22 Aug 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '57000'
+    place_of_birth: Guatemala
+    main_entry: 'true'
+title: Guatemalan Congressman

@@ -1,0 +1,48 @@
+---
+uid: '49002'
+first_name: Osman Mohamed Hamid
+last_name: MOHAMED
+sdn_type: Individual
+program_list:
+  programs:
+  - SUDAN-EO14098
+aka_list:
+  items:
+  - uid: '76371'
+    type: a.k.a.
+    category: strong
+    last_name: HAMID
+    first_name: Osman Mohamed
+  - uid: '76372'
+    type: a.k.a.
+    category: strong
+    last_name: MOHAMED
+    first_name: Osman Mohamed Hamed
+address_list:
+  items:
+  - uid: '73754'
+    country: Sudan
+id_list:
+  items:
+  - uid: '40065'
+    id_type: National ID No.
+    id_number: '11540384888'
+    id_country: Sudan
+  - uid: '40066'
+    id_type: Passport
+    id_number: P05557591
+    id_country: Sudan
+    expiration_date: 03 Mar 2024
+  - uid: '171803'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '71800'
+    date_of_birth: 01 Jan 1966
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '71801'
+    place_of_birth: Kadiqali, Sudan
+    main_entry: 'true'

@@ -1,0 +1,52 @@
+---
+uid: '30290'
+first_name: Mohammad
+last_name: BANIHASHEMI
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '47492'
+    type: a.k.a.
+    category: strong
+    last_name: BANIHASHEMI CHAHAROM
+    first_name: Seyed Mohammad
+address_list:
+  items:
+  - uid: '45729'
+    address1: No 3, Mehr Alley, Kamran Alley, Bastan Alley, Firuzbakhsh Ave
+    address2: Aghdasieh
+    city: Tehran
+    postal_code: '1957759678'
+    country: Iran
+id_list:
+  items:
+  - uid: '20398'
+    id_type: National ID No.
+    id_number: '0940486229'
+    id_country: Iran
+  - uid: '20399'
+    id_type: Passport
+    id_number: B32563329
+    id_country: Iran
+    expiration_date: 17 Dec 2019
+  - uid: '137813'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '137811'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '37809'
+    date_of_birth: 26 Mar 1959
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '37810'
+    place_of_birth: Mashhad, Iran
+    main_entry: 'true'
+remarks: "(Linked To: DES INTERNATIONAL CO., LTD.)"

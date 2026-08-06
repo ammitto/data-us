@@ -1,0 +1,42 @@
+---
+uid: '44295'
+first_name: Alexey Viktorovich
+last_name: KUZMICHEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '68510'
+    type: a.k.a.
+    category: strong
+    last_name: KUZMICHYOV
+    first_name: Aleksey Viktorovich
+  - uid: '68511'
+    type: a.k.a.
+    category: strong
+    last_name: KUZMICHEV
+    first_name: Alexei
+address_list:
+  items:
+  - uid: '65957'
+    country: France
+id_list:
+  items:
+  - uid: '173766'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '164010'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '64008'
+    date_of_birth: 15 Oct 1962
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '64009'
+    place_of_birth: Kirov, Russia
+    main_entry: 'true'

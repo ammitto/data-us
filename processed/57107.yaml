@@ -1,0 +1,52 @@
+---
+uid: '57107'
+first_name: Armando de Jesus
+last_name: OJEDA AVILES
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+address_list:
+  items:
+  - uid: '87447'
+    country: Mexico
+id_list:
+  items:
+  - uid: '51333'
+    id_type: C.U.R.P.
+    id_number: OEAA850501HSLJVR09
+    id_country: Mexico
+  - uid: '196697'
+    id_type: Gender
+    id_number: Male
+  - uid: '196699'
+    id_type: Digital Currency Address - ETH
+    id_number: '0x038989cbb1710c72b9920dc4fa529158f463e72c'
+  - uid: '196700'
+    id_type: Digital Currency Address - ETH
+    id_number: '0x14779CEC0B117d5194c750C55Ea1f42086631964'
+  - uid: '196702'
+    id_type: Digital Currency Address - ETH
+    id_number: '0x32dA24Ca413F3E7B53145D4737e172C3bdF81e3e'
+  - uid: '196709'
+    id_type: Digital Currency Address - ETH
+    id_number: '0xf2235d55b2950a0b1317469d72d07ae65b2e27cb'
+  - uid: '197385'
+    id_type: Digital Currency Address - ETH
+    id_number: '0x4F428c11Dc82388fa5136D636e613ad923Eb700B'
+  - uid: '196698'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '96694'
+    date_of_birth: 01 May 1985
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '96695'
+    place_of_birth: Sinaloa, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: SINALOA CARTEL)"

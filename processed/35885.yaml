@@ -1,0 +1,45 @@
+---
+uid: '35885'
+last_name: JOINT STOCK COMPANY RYAZANSKOE KONSTRUKTORSKOE BJURO GLOBUS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56410'
+    type: a.k.a.
+    category: strong
+    last_name: RKB GLOBUS PAO
+  - uid: '56411'
+    type: a.k.a.
+    category: strong
+    last_name: GLOBUS RYAZAN DESIGN BUREAU JSC
+  - uid: '56412'
+    type: a.k.a.
+    category: strong
+    last_name: AO RKB GLOBUS
+address_list:
+  items:
+  - uid: '53852'
+    address1: Ul. Vysokovoltnaya D. 6
+    city: Ryazan
+    postal_code: '390013'
+    country: Russia
+id_list:
+  items:
+  - uid: '25225'
+    id_type: Tax ID No.
+    id_number: '6229060995'
+    id_country: Russia
+  - uid: '25226'
+    id_type: Registration Number
+    id_number: '1086229000560'
+    id_country: Russia
+  - uid: '149078'
+    id_type: Organization Established Date
+    id_number: 01 Oct 1955
+  - uid: '173280'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: TACTICAL MISSILES CORPORATION JSC)"

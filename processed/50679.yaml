@@ -1,0 +1,36 @@
+---
+uid: '50679'
+first_name: Konstantine
+last_name: MORGOSHIA
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+address_list:
+  items:
+  - uid: '76879'
+    address1: 2 Build, Apt 14
+    address2: 2nd Plateau Nutsubidze
+    city: Tbilisi
+    country: Georgia
+id_list:
+  items:
+  - uid: '42556'
+    id_type: Passport
+    id_number: 15BB67342
+    id_country: Georgia
+    issue_date: 02 Nov 2016
+    expiration_date: 02 Nov 2026
+  - uid: '179149'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '79270'
+    date_of_birth: 28 May 1982
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '79271'
+    place_of_birth: Tbilisi, Georgia
+    main_entry: 'true'

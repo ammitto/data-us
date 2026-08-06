@@ -1,0 +1,32 @@
+---
+uid: '33614'
+first_name: Francisco Ramon
+last_name: VALENZUELA BLANDON
+sdn_type: Individual
+program_list:
+  programs:
+  - NICARAGUA
+address_list:
+  items:
+  - uid: '50793'
+    city: Esteli
+    country: Nicaragua
+id_list:
+  items:
+  - uid: '23235'
+    id_type: National ID No.
+    id_number: 1611212630005S
+    id_country: Nicaragua
+  - uid: '144414'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '44415'
+    date_of_birth: 12 Dec 1963
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '44416'
+    place_of_birth: Esteli, Nicaragua
+    main_entry: 'true'

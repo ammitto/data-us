@@ -1,0 +1,39 @@
+---
+uid: '32075'
+last_name: INTTRAFIK EOOD
+sdn_type: Entity
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '50344'
+    type: a.k.a.
+    category: strong
+    last_name: INTTRAFFIC EOOD
+address_list:
+  items:
+  - uid: '48300'
+    address1: 119 Ekzarh Yosif Str.
+    address2: Oborishte Distr.
+    city: Sofia
+    postal_code: '1527'
+    country: Bulgaria
+  - uid: '48302'
+    address1: 102, Balgaria blvd.
+    address2: Vitosha Distr.
+    address3: Apt. 59
+    city: Sofia
+    state_or_province: Stolichna
+    postal_code: '1618'
+    country: Bulgaria
+id_list:
+  items:
+  - uid: '21857'
+    id_type: V.A.T. Number
+    id_number: BG 205244843
+    id_country: Bulgaria
+  - uid: '140934'
+    id_type: Organization Established Date
+    id_number: '2018'
+remarks: "(Linked To: INTRUST PLC EAD)"

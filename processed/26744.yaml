@@ -1,0 +1,42 @@
+---
+uid: '26744'
+last_name: LIMITED LIABILITY COMPANY NON-BANK CREDIT ORGANIZATION RUSSIAN FINANCIAL
+  SOCIETY
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+aka_list:
+  items:
+  - uid: '42256'
+    type: a.k.a.
+    category: strong
+    last_name: LLC NCO RUSSIAN FINANCIAL SOCIETY
+address_list:
+  items:
+  - uid: '40559'
+    address1: house 9/26, building 1, Shchipok street
+    city: Moscow
+    postal_code: '115054'
+    country: Russia
+id_list:
+  items:
+  - uid: '17376'
+    id_type: Tax ID No.
+    id_number: '7744002860'
+    id_country: Russia
+  - uid: '17377'
+    id_type: Tax ID No.
+    id_number: '770501001'
+    id_country: Russia
+  - uid: '17378'
+    id_type: Registration Number
+    id_number: '1027744004903'
+    id_country: Russia
+  - uid: '135242'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '131475'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210

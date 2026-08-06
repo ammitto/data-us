@@ -1,0 +1,39 @@
+---
+uid: '47420'
+last_name: DATANA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '70716'
+    address1: Ul. Polkovaya D. 3
+    city: Moscow
+    postal_code: '127018'
+    country: Russia
+  - uid: '70718'
+    address1: Bldg. 1
+    address2: Murmansky Proezd 14
+    city: Moscow
+    postal_code: '129075'
+    country: Russia
+id_list:
+  items:
+  - uid: '37827'
+    id_type: Tax ID No.
+    id_number: '9717079152'
+    id_country: Russia
+  - uid: '37828'
+    id_type: Registration Number
+    id_number: '1197746204677'
+    id_country: Russia
+  - uid: '169880'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '170070'
+    id_type: 'Organization Type:'
+    id_number: Other information technology and computer service activities
+  - uid: '170104'
+    id_type: Website
+    id_number: datana.ru

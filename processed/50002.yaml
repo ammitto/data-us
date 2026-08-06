@@ -1,0 +1,41 @@
+---
+uid: '50002'
+last_name: JOINT STOCK COMPANY RESEARCH AND PRODUCTION CENTER NII MICRODEVICES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '77941'
+    type: a.k.a.
+    category: strong
+    last_name: AO NPTS NIIMP
+  - uid: '77942'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO NAUCHNO PROIZVODSTVENNYI TSENTR NII MIKROPRIBOROV
+  - uid: '77943'
+    type: a.k.a.
+    category: strong
+    last_name: JSC NPTS NIIMP
+address_list:
+  items:
+  - uid: '75648'
+    address1: PR-KT Georgievskii D. 5, Str. 1, Kom. 63
+    city: Zelenograd
+    postal_code: '124498'
+    country: Russia
+id_list:
+  items:
+  - uid: '41543'
+    id_type: Registration Number
+    id_number: '1037735024161'
+    id_country: Russia
+  - uid: '41544'
+    id_type: Tax ID No.
+    id_number: '7735126901'
+    id_country: Russia
+  - uid: '178165'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

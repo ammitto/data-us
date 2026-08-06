@@ -1,0 +1,52 @@
+---
+uid: '11943'
+first_name: Eleazar
+last_name: MEDINA ROJAS
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '12680'
+    type: a.k.a.
+    category: strong
+    last_name: MEDINA RIOJAS
+    first_name: Eleazar
+  - uid: '12681'
+    type: a.k.a.
+    category: strong
+    last_name: GONZALEZ MARTINEZ
+    first_name: Erick
+address_list:
+  items:
+  - uid: '18142'
+    address1: Cuauhtemoc 805
+    city: Nuevo Laredo
+    state_or_province: Tamaulipas
+    country: Mexico
+  - uid: '18143'
+    address1: Diaz Miron 604
+    address2: Colonia Victoria
+    city: Nuevo Laredo
+    state_or_province: Tamaulipas
+    country: Mexico
+id_list:
+  items:
+  - uid: '6349'
+    id_type: C.U.R.P.
+    id_number: MERE720128HTSDJL07
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '7545'
+    date_of_birth: 28 Jan 1972
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '7546'
+    place_of_birth: Nuevo Laredo, Tamaulipas
+    main_entry: 'true'
+  - uid: '7547'
+    place_of_birth: Monterrey, Nuevo Leon
+    main_entry: 'false'

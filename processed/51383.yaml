@@ -1,0 +1,29 @@
+---
+uid: '51383'
+last_name: SHANGHAI LEGENDARY SHIP MANAGEMENT COMPANY LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '80614'
+    type: a.k.a.
+    category: strong
+    last_name: SHANGHAI LEGENDARY SHIP MGMT
+address_list:
+  items:
+  - uid: '78243'
+    address1: 575, Changjiang Lu, Xigang Qu
+    city: Dalian
+    state_or_province: Liaoning
+    postal_code: '116014'
+    country: China
+id_list:
+  items:
+  - uid: '43686'
+    id_type: Identification Number
+    id_number: IMO 6113237
+  - uid: '180895'
+    id_type: Organization Established Date
+    id_number: '2019'

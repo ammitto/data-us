@@ -1,0 +1,43 @@
+---
+uid: '44688'
+first_name: Vladimir Vladislavovich
+last_name: KOVALENKO
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '66509'
+    address1: 19A Khrustaleva St., Office 32
+    city: Sevastopol
+    state_or_province: Crimea Autonomous Region
+    country: Ukraine
+id_list:
+  items:
+  - uid: '34206'
+    id_type: Tax ID No.
+    id_number: '231523814307'
+    id_country: Russia
+  - uid: '34207'
+    id_type: Tax ID No.
+    id_number: '2268026995'
+    id_country: Ukraine
+  - uid: '173789'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '164840'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '64838'
+    date_of_birth: 04 Feb 1962
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '64839'
+    place_of_birth: Luhansk, Ukraine
+    main_entry: 'true'
+remarks: "(Linked To: ALL RUSSIAN CHILDREN AND YOUTH MILITARY PATRIOTIC PUBLIC MOVEMENT
+  YOUTH ARMY)"

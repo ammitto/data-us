@@ -1,0 +1,35 @@
+---
+uid: '41018'
+first_name: Anton Olegovich
+last_name: KOTYAKOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '61274'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '30353'
+    id_type: Tax ID No.
+    id_number: '631903462483'
+    id_country: Russia
+  - uid: '173551'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '158781'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '58770'
+    date_of_birth: 15 Aug 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '58773'
+    place_of_birth: Samara, Samara Region, Russia
+    main_entry: 'true'

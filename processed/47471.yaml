@@ -1,0 +1,44 @@
+---
+uid: '47471'
+last_name: BATTERY SERVICE LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73449'
+    type: a.k.a.
+    category: strong
+    last_name: BETTERI SERVIS
+  - uid: '73450'
+    type: a.k.a.
+    category: weak
+    last_name: BS OOO
+address_list:
+  items:
+  - uid: '70832'
+    address1: Pr-Kt Leningradskii D. 80/39
+    city: Moscow
+    postal_code: '125190'
+    country: Russia
+  - uid: '70833'
+    address1: UL. Flotskaya D. 7
+    address2: Floor 3
+    address3: Pom.11
+    city: Moscow
+    postal_code: '125581'
+    country: Russia
+id_list:
+  items:
+  - uid: '37949'
+    id_type: Registration Number
+    id_number: '1097746161810'
+    id_country: Russia
+  - uid: '37950'
+    id_type: Tax ID No.
+    id_number: '7743738295'
+    id_country: Russia
+  - uid: '169777'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

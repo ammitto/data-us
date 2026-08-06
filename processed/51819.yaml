@@ -1,0 +1,39 @@
+---
+uid: '51819'
+last_name: JOINT STOCK INVESTMENT COMMERCIAL BANK ENISEISK UNITED BANK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '78970'
+    address1: Pom. 25-26-27, 62 Karla Marksa Ul.
+    city: Krasnoyarsk
+    postal_code: '660049'
+    country: Russia
+id_list:
+  items:
+  - uid: '44492'
+    id_type: Legal Entity Number
+    id_number: 253400QH144H9FB5UK28
+  - uid: '44494'
+    id_type: Registration Number
+    id_number: '1022400000160'
+    id_country: Russia
+  - uid: '44496'
+    id_type: Tax ID No.
+    id_number: '2447002227'
+    id_country: Russia
+  - uid: '182134'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '182132'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '182129'
+    id_type: SWIFT/BIC
+    id_number: EUJKRU55
+  - uid: '182130'
+    id_type: Website
+    id_number: www.united.ru

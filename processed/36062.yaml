@@ -1,0 +1,54 @@
+---
+uid: '36062'
+last_name: JOINT STOCK COMPANY BALTIC SHIPBUILDING PLANT YANTAR
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '56845'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT-STOCK COMPANY YANTAR SHIPYARD
+  - uid: '56846'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT-STOCK COMPANY PSZ YANTAR
+  - uid: '56847'
+    type: a.k.a.
+    category: strong
+    last_name: YANTAR SHIPYARD
+  - uid: '56848'
+    type: a.k.a.
+    category: strong
+    last_name: JSC SHIPYARD YANTAR
+  - uid: '56849'
+    type: a.k.a.
+    category: strong
+    last_name: JSC PRIBALTIYSKY SUDOSTROITELNY FACTORY YANTAR
+  - uid: '56850'
+    type: a.k.a.
+    category: strong
+    last_name: JSC PRIBALTIYSKY SUDOSTROITELNY ZAVOD YANTAR
+address_list:
+  items:
+  - uid: '54224'
+    address1: 1 Guskov Square
+    city: Kaliningrad
+    state_or_province: Kaliningrad Region
+    postal_code: '236005'
+    country: Russia
+id_list:
+  items:
+  - uid: '25445'
+    id_type: Tax ID No.
+    id_number: '3900000111'
+    id_country: Russia
+  - uid: '173969'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '149449'
+    id_type: Organization Established Date
+    id_number: 07 Sep 1993
+remarks: "(Linked To: JOINT STOCK COMPANY UNITED SHIPBUILDING CORPORATION)"

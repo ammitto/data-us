@@ -1,0 +1,38 @@
+---
+uid: '49402'
+first_name: Sandeep Singh
+last_name: CHOUDHARY
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - SDGT
+address_list:
+  items:
+  - uid: '74476'
+    country: India
+id_list:
+  items:
+  - uid: '40691'
+    id_type: Passport
+    id_number: P3727741
+    id_country: India
+    expiration_date: 23 Oct 2026
+  - uid: '172481'
+    id_type: Gender
+    id_number: Male
+  - uid: '187264'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '72477'
+    date_of_birth: 10 Feb 1981
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '72478'
+    place_of_birth: Dhanbad, Jharkhand, India
+    main_entry: 'true'
+remarks: "(Linked To: SEPEHR ENERGY JAHAN NAMA PARS COMPANY)"

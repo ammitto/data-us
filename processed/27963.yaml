@@ -1,0 +1,39 @@
+---
+uid: '27963'
+first_name: Ismail
+last_name: BAYALTUN
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '59926'
+    address1: Atlikonak Koyu Koyichi Shanliurfa
+    city: Merkez
+    state_or_province: Shanliurfa
+    country: Turkey
+id_list:
+  items:
+  - uid: '25876'
+    id_type: Identification Number
+    id_number: '43951946270'
+    id_country: Turkey
+  - uid: '133261'
+    id_type: Gender
+    id_number: Male
+  - uid: '186975'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '33260'
+    date_of_birth: 21 Nov 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '50152'
+    place_of_birth: Akcakale, Turkey
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC STATE OF IRAQ AND THE LEVANT)"

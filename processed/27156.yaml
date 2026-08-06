@@ -1,0 +1,46 @@
+---
+uid: '27156'
+first_name: Houka Houka
+last_name: AG ALHOUSSEINI
+sdn_type: Individual
+program_list:
+  programs:
+  - MALI-EO13882
+aka_list:
+  items:
+  - uid: '42981'
+    type: a.k.a.
+    category: strong
+    last_name: IBN ALHOUSSEYNI
+    first_name: Mohamed
+  - uid: '42982'
+    type: a.k.a.
+    category: strong
+    last_name: IBN AL-HUSAYN
+    first_name: Muhammad
+address_list:
+  items:
+  - uid: '41231'
+    city: Zouera
+    country: Mali
+id_list:
+  items:
+  - uid: '132158'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '32154'
+    date_of_birth: '1962'
+    main_entry: 'true'
+  - uid: '32505'
+    date_of_birth: '1963'
+    main_entry: 'false'
+  - uid: '32506'
+    date_of_birth: '1964'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '32155'
+    place_of_birth: Ariaw, Tombouctou region, Mali
+    main_entry: 'true'

@@ -1,0 +1,34 @@
+---
+uid: '48122'
+first_name: Igor Veniaminovich
+last_name: KAIGORODOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '72175'
+    city: Izhevsk
+    country: Russia
+id_list:
+  items:
+  - uid: '39009'
+    id_type: Tax ID No.
+    id_number: '183475635611'
+    id_country: Russia
+  - uid: '39010'
+    id_type: Russian State Individual Business Registration Number Pattern (OGRNIP)
+    id_number: '315183100004295'
+    id_country: Russia
+  - uid: '176606'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '170081'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '70080'
+    date_of_birth: 29 Nov 1974
+    main_entry: 'true'

@@ -1,0 +1,50 @@
+---
+uid: '21567'
+first_name: Yahya
+last_name: AL-HAJJ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+  - IFSR
+  - IRGC
+aka_list:
+  items:
+  - uid: '34220'
+    type: a.k.a.
+    category: strong
+    last_name: AL-HAJ
+    first_name: Yahya
+  - uid: '34221'
+    type: a.k.a.
+    category: strong
+    last_name: AL-HAJ
+    first_name: Yehia Issa Mohamad
+id_list:
+  items:
+  - uid: '13502'
+    id_type: Passport
+    id_number: RL 2544590
+    id_country: Lebanon
+    issue_date: 07 Jun 2013
+    expiration_date: 07 Jun 2018
+  - uid: '122476'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '122452'
+    id_type: Gender
+    id_number: Male
+  - uid: '186613'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '22450'
+    date_of_birth: 23 May 1959
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '22451'
+    place_of_birth: Aramta, Lebanon
+    main_entry: 'true'

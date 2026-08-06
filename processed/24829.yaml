@@ -1,0 +1,31 @@
+---
+uid: '24829'
+first_name: Katsuaki
+last_name: MITSUYASU
+sdn_type: Individual
+program_list:
+  programs:
+  - TCO
+address_list:
+  items:
+  - uid: '37572'
+    address1: 3-6-26 Shinohara Nakamachi, Nada-ku
+    city: Kobe
+    state_or_province: Hyogo
+    country: Japan
+  - uid: '37575'
+    address1: 5-22-36 Hakataekiminami Hakata-ku
+    city: Fukuoka-shi
+    postal_code: 812-0016
+    country: Japan
+id_list:
+  items:
+  - uid: '127920'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '27919'
+    date_of_birth: 29 Nov 1959
+    main_entry: 'true'
+remarks: "(Linked To: YAMAGUCHI-GUMI)"

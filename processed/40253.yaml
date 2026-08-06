@@ -1,0 +1,47 @@
+---
+uid: '40253'
+first_name: Vladimir Viktorovich
+last_name: UYBA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '62608'
+    type: a.k.a.
+    category: strong
+    last_name: UIBA
+    first_name: Valentin Viktorovich
+  - uid: '62609'
+    type: a.k.a.
+    category: strong
+    last_name: UYBA
+    first_name: Valentin Viktorovich
+address_list:
+  items:
+  - uid: '59998'
+    state_or_province: Komi Republic
+    country: Russia
+id_list:
+  items:
+  - uid: '29437'
+    id_type: Tax ID No.
+    id_number: '772858584889'
+    id_country: Russia
+  - uid: '157258'
+    id_type: Gender
+    id_number: Male
+  - uid: '174056'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '57256'
+    date_of_birth: 04 Oct 1958
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '57257'
+    place_of_birth: Omsk, Omsk Region, Russia
+    main_entry: 'true'

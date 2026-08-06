@@ -1,0 +1,32 @@
+---
+uid: '35020'
+last_name: LLC TORGOVY KVARTAL-NOVOSIBIRSK
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '52583'
+    address1: Ul. Frunze d. 238
+    city: Novosibirsk
+    postal_code: '630112'
+    country: Russia
+id_list:
+  items:
+  - uid: '24745'
+    id_type: Registration Number
+    id_number: '1025401906639'
+    id_country: Russia
+  - uid: '24746'
+    id_type: Tax ID No.
+    id_number: '5405230467'
+    id_country: Russia
+  - uid: '146639'
+    id_type: Website
+    id_number: www.sibmoll.ru
+  - uid: '175237'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: STATE CORPORATION BANK FOR DEVELOPMENT AND FOREIGN ECONOMIC
+  AFFAIRS VNESHECONOMBANK)"

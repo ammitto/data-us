@@ -1,0 +1,45 @@
+---
+uid: '50670'
+first_name: Hamid
+last_name: KHORRAMDEL
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+  - IRGC
+aka_list:
+  items:
+  - uid: '79324'
+    type: a.k.a.
+    category: strong
+    last_name: KHORRAM DEL
+    first_name: Hamid
+address_list:
+  items:
+  - uid: '76864'
+    address1: Bagh Zahra Mehrgan 9 P 211
+    city: Bushehr
+    country: Iran
+id_list:
+  items:
+  - uid: '42530'
+    id_type: National ID No.
+    id_number: '3500565093'
+    id_country: Iran
+  - uid: '179291'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '179126'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '79241'
+    date_of_birth: 15 Jul 1973
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '79242'
+    place_of_birth: Bushehr, Iran
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS)"

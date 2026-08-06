@@ -1,0 +1,49 @@
+---
+uid: '51749'
+last_name: JOINT STOCK COMMERCIAL BANK SLAVIA JOINT STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '81064'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMMERCIAL BANK SLAVIYA CLOSED JOINT STOCK COMPANY
+  - uid: '81065'
+    type: a.k.a.
+    category: strong
+    last_name: JSCB SLAVIA
+address_list:
+  items:
+  - uid: '78860'
+    address1: ul. Kedrova 5A
+    city: Moscow
+    postal_code: '117292'
+    country: Russia
+id_list:
+  items:
+  - uid: '44351'
+    id_type: Legal Entity Number
+    id_number: 2534004K7RR0YWR1QL22
+  - uid: '44353'
+    id_type: Registration Number
+    id_number: '1027739228758'
+    id_country: Russia
+  - uid: '44355'
+    id_type: Tax ID No.
+    id_number: '7726000596'
+    id_country: Russia
+  - uid: '181905'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '181903'
+    id_type: SWIFT/BIC
+    id_number: SJSMRUMM
+  - uid: '181901'
+    id_type: Website
+    id_number: www.slaviabank.ru
+  - uid: '181902'
+    id_type: Target Type
+    id_number: Financial Institution

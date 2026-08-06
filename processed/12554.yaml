@@ -1,0 +1,43 @@
+---
+uid: '12554'
+last_name: MACHINE PARDAZAN CO.
+sdn_type: Entity
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+aka_list:
+  items:
+  - uid: '13468'
+    type: a.k.a.
+    category: strong
+    last_name: MACHINE PARDAZAN LTD.
+  - uid: '13469'
+    type: a.k.a.
+    category: strong
+    last_name: MACHINE PARDAZAN CO. LTD.
+address_list:
+  items:
+  - uid: '19688'
+    address1: Number 39
+    address2: Alvand St.
+    address3: 1st Floor, Argentine Square
+    city: Tehran
+    country: Iran
+  - uid: '19689'
+    address1: Km 12 Karadj Special Rd.
+    address2: North Chitgar
+    address3: Rajaii Ave., Number 1
+    city: Tehran
+    country: Iran
+  - uid: '19690'
+    address1: No. 7, Daftari Ave.
+    address2: Zafar St.
+    address3: Shariati St.
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '114317'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

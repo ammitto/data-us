@@ -1,0 +1,52 @@
+---
+uid: '42478'
+first_name: Omar
+last_name: ALSHEAK
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '65951'
+    type: a.k.a.
+    category: strong
+    last_name: AL-SHEIKH
+    first_name: Jihad Issa
+  - uid: '65952'
+    type: a.k.a.
+    category: weak
+    last_name: ZAKOUR, Abu Ahmed
+  - uid: '65953'
+    type: a.k.a.
+    category: weak
+    last_name: ZAKKUR, Abu-Ahmad
+address_list:
+  items:
+  - uid: '63347'
+    state_or_province: Kilis Province
+    country: Turkey
+id_list:
+  items:
+  - uid: '32038'
+    id_type: Passport
+    id_number: '011965412'
+    id_country: Syria
+  - uid: '160956'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '160955'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '60952'
+    date_of_birth: 05 Jan 1979
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '60953'
+    place_of_birth: Aleppo, Syria
+    main_entry: 'true'
+remarks: "(Linked To: AL-NUSRAH FRONT)"

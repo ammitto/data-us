@@ -1,0 +1,32 @@
+---
+uid: '29900'
+last_name: ADEL ABAD PRISON
+sdn_type: Entity
+program_list:
+  programs:
+  - CAATSA - IRAN
+aka_list:
+  items:
+  - uid: '46892'
+    type: a.k.a.
+    category: strong
+    last_name: ADELABAD PRISON
+  - uid: '46893'
+    type: a.k.a.
+    category: strong
+    last_name: SHIRAZ CENTRAL PRISON
+  - uid: '46894'
+    type: a.k.a.
+    category: weak
+    last_name: PROSPEROUS PLACE OF JUSTICE
+address_list:
+  items:
+  - uid: '45094'
+    city: Shiraz
+    state_or_province: Fars Province
+    country: Iran
+id_list:
+  items:
+  - uid: '137140'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

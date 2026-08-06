@@ -1,0 +1,41 @@
+---
+uid: '41697'
+first_name: Khalid
+last_name: QADDOUR
+sdn_type: Individual
+program_list:
+  programs:
+  - PAARSSR-EO13894
+aka_list:
+  items:
+  - uid: '64906'
+    type: a.k.a.
+    category: strong
+    last_name: QADDOUR
+    first_name: Khaled Nasser
+address_list:
+  items:
+  - uid: '62303'
+    city: Yaafour
+    state_or_province: Damascus
+    country: Syria
+id_list:
+  items:
+  - uid: '31096'
+    id_type: National ID No.
+    id_number: '01020097227'
+    id_country: Syria
+  - uid: '159870'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '59867'
+    date_of_birth: 23 Apr 1970
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '59868'
+    place_of_birth: Damascus, Syria
+    main_entry: 'true'
+remarks: "(Linked To: AL-ASSAD, Maher)"

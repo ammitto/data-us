@@ -1,0 +1,41 @@
+---
+uid: '52596'
+last_name: JOINT STOCK COMPANY RT LOGISTICS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '82326'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO RT LOGISTIKA
+address_list:
+  items:
+  - uid: '80339'
+    address1: 4 str. 1, pl Andronevskaia
+    city: Moscow
+    postal_code: '105120'
+    country: Russia
+  - uid: '80340'
+    address1: Nab. sofiiskaya d. 22, str. 1
+    city: Moscow
+    postal_code: '119072'
+    country: Russia
+id_list:
+  items:
+  - uid: '45642'
+    id_type: Registration Number
+    id_number: '1097746111528'
+    id_country: Russia
+  - uid: '45643'
+    id_type: Tax ID No.
+    id_number: '7708697381'
+    id_country: Russia
+  - uid: '184350'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
+  - uid: '184351'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

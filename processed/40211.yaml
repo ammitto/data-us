@@ -1,0 +1,49 @@
+---
+uid: '40211'
+last_name: VB-SERVICE COMPANY LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '62511'
+    type: a.k.a.
+    category: strong
+    last_name: VB-SERVICE LTD
+address_list:
+  items:
+  - uid: '59904'
+    address1: d. 12 kom. A8, naberezhnaya Presnenskaya
+    city: Moscow
+    postal_code: '123112'
+    country: Russia
+  - uid: '59906'
+    address1: Ul. Marksistskaya D. 5, Kor. 1
+    city: Moscow
+    postal_code: '109147'
+    country: Russia
+id_list:
+  items:
+  - uid: '29387'
+    id_type: Registration Number
+    id_number: '1027739150900'
+    id_country: Russia
+  - uid: '29388'
+    id_type: Government Gazette Number
+    id_number: '18700821'
+    id_country: Russia
+  - uid: '29389'
+    id_type: Tax ID No.
+    id_number: '7709266211'
+    id_country: Russia
+  - uid: '157118'
+    id_type: Organization Established Date
+    id_number: 26 Nov 1998
+  - uid: '174034'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '157119'
+    id_type: 'Organization Type:'
+    id_number: Real estate activities on a fee or contract basis
+remarks: "(Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)"

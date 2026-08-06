@@ -1,0 +1,61 @@
+---
+uid: '23229'
+first_name: Yuri Viktorovich
+last_name: PICHUGIN
+sdn_type: Individual
+program_list:
+  programs:
+  - TCO
+aka_list:
+  items:
+  - uid: '36575'
+    type: a.k.a.
+    category: strong
+    last_name: PICHUGIN
+    first_name: Yuriy
+  - uid: '36576'
+    type: a.k.a.
+    category: strong
+    last_name: PICHUGIN
+    first_name: Yury
+  - uid: '36577'
+    type: a.k.a.
+    category: weak
+    last_name: VLADIMIR BILIY
+  - uid: '36578'
+    type: a.k.a.
+    category: weak
+    last_name: VOLODYMYR BILYY
+  - uid: '36579'
+    type: a.k.a.
+    category: weak
+    last_name: PICHUGA
+address_list:
+  items:
+  - uid: '35149'
+    address1: 2/1 Geroyev Panfilovtsev Street
+    city: Moscow
+    country: Russia
+  - uid: '35150'
+    address1: Barviha Hills
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '14685'
+    id_type: Passport
+    id_number: '618684'
+  - uid: '125110'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '24928'
+    date_of_birth: 18 Oct 1965
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '24929'
+    place_of_birth: Azanka, Tavdinsky District, Sverdlovsk Oblast, Russia
+    main_entry: 'true'
+remarks: "(Linked To: THIEVES-IN-LAW)"

@@ -1,0 +1,64 @@
+---
+uid: '7313'
+first_name: Eugenio
+last_name: MONTOYA SANCHEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNT
+aka_list:
+  items:
+  - uid: '5263'
+    type: a.k.a.
+    category: strong
+    last_name: CARVAJAL TAFURT
+    first_name: Hector Fabio
+address_list:
+  items:
+  - uid: '5699'
+    address1: Diagonal 27 No. 27-104
+    city: Cali
+    country: Colombia
+  - uid: '5700'
+    address1: Calle 7 No. 45-25
+    city: Cali
+    country: Colombia
+  - uid: '5701'
+    address1: c/o LADRILLERA LA CANDELARIA LTDA.
+    city: Cali
+    country: Colombia
+id_list:
+  items:
+  - uid: '1640'
+    id_type: Cedula No.
+    id_number: '94307307'
+    id_country: Colombia
+  - uid: '1641'
+    id_type: Cedula No.
+    id_number: '16836750'
+    id_country: Colombia
+  - uid: '1642'
+    id_type: Passport
+    id_number: AC814028
+    id_country: Colombia
+  - uid: '1643'
+    id_type: Passport
+    id_number: '94307307'
+    id_country: Colombia
+  - uid: '3566'
+    id_type: Passport
+    id_number: '16836750'
+    id_country: Colombia
+date_of_birth_list:
+  items:
+  - uid: '1501'
+    date_of_birth: 17 Apr 1970
+    main_entry: 'true'
+  - uid: '1503'
+    date_of_birth: 15 Apr 1972
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '1502'
+    place_of_birth: Trujillo, Valle, Colombia
+    main_entry: 'true'

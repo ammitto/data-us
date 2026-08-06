@@ -1,0 +1,37 @@
+---
+uid: '47548'
+last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU SISTEMY PRAKTICHESKOI BEZOPASNOSTI
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73610'
+    type: a.k.a.
+    category: strong
+    last_name: SPB OOO
+  - uid: '73611'
+    type: a.k.a.
+    category: weak
+    last_name: COMPANY PRACTICAL SECURITY SYSTEMS
+address_list:
+  items:
+  - uid: '70995'
+    address1: Ul. Politekhnicheskaya D. 22, Lit. A, Pomeshch 1-N/298
+    city: Saint Petersburg
+    postal_code: '194021'
+    country: Russia
+id_list:
+  items:
+  - uid: '38061'
+    id_type: Registration Number
+    id_number: '1147847303867'
+    id_country: Russia
+  - uid: '38062'
+    id_type: Tax ID No.
+    id_number: '7802869750'
+    id_country: Russia
+  - uid: '169850'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

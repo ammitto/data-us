@@ -1,0 +1,49 @@
+---
+uid: '27865'
+first_name: Amadou
+last_name: KOUFFA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+  - HOSTAGES-EO14078
+aka_list:
+  items:
+  - uid: '43941'
+    type: a.k.a.
+    category: strong
+    last_name: KOUFFA
+    first_name: Hamadou
+  - uid: '43942'
+    type: a.k.a.
+    category: strong
+    last_name: KOUFFA
+    first_name: Hamadoun
+  - uid: '43943'
+    type: a.k.a.
+    category: weak
+    last_name: BARRY, Amadou
+address_list:
+  items:
+  - uid: '42232'
+    country: Mali
+id_list:
+  items:
+  - uid: '133166'
+    id_type: Gender
+    id_number: Male
+  - uid: '171161'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '33205'
+    date_of_birth: '1958'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '33141'
+    place_of_birth: Mali
+    main_entry: 'true'
+remarks: "(Linked To: JAMA'AT NUSRAT AL-ISLAM WAL-MUSLIMIN)"

@@ -1,0 +1,48 @@
+---
+uid: '23307'
+first_name: Gulnara
+last_name: KARIMOVA
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+aka_list:
+  items:
+  - uid: '36741'
+    type: a.k.a.
+    category: weak
+    last_name: Googoosha
+  - uid: '36836'
+    type: a.k.a.
+    category: strong
+    last_name: KARIMOVA
+    first_name: Goulnara
+  - uid: '36837'
+    type: a.k.a.
+    category: strong
+    last_name: KARIMOVA
+    first_name: Goulnora Islamovna
+address_list:
+  items:
+  - uid: '35279'
+    city: Tashkent
+    country: Uzbekistan
+id_list:
+  items:
+  - uid: '14781'
+    id_type: Passport
+    id_number: DA0006735
+    id_country: Uzbekistan
+  - uid: '125016'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '25012'
+    date_of_birth: '08 Jul 1972'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '25013'
+    place_of_birth: Fergana, Uzbekistan
+    main_entry: 'true'

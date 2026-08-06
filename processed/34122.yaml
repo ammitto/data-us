@@ -1,0 +1,46 @@
+---
+uid: '34122'
+first_name: Jingfeng
+last_name: GAO
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13846
+aka_list:
+  items:
+  - uid: '53509'
+    type: a.k.a.
+    category: strong
+    last_name: GAO
+    first_name: Jeff
+address_list:
+  items:
+  - uid: '51157'
+    address1: Rm. 1803B, Golden Tower B, No. 1518
+    address2: Minsheng Road
+    address3: Pudong District
+    city: Shanghai
+    country: China
+id_list:
+  items:
+  - uid: '23758'
+    id_type: National ID No.
+    id_number: '370305197507050714'
+    id_country: China
+  - uid: '152580'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '145268'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '45264'
+    date_of_birth: 05 Jul 1975
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '45266'
+    place_of_birth: Shandong, China
+    main_entry: 'true'
+remarks: "(Linked To: TRILIANCE PETROCHEMICAL CO. LTD.)"

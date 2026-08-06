@@ -1,0 +1,42 @@
+---
+uid: '51546'
+last_name: AKTSIONERNOE OBSHCHESTVO GAZPROM SHELFPROEKT
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '80815'
+    type: a.k.a.
+    category: strong
+    last_name: JSC GAZPROM SHELFPROJECT
+address_list:
+  items:
+  - uid: '78552'
+    address1: Pr-Kt Leninskii D. 15A
+    address2: Floor 9
+    city: Moscow
+    postal_code: '119071'
+    country: Russia
+id_list:
+  items:
+  - uid: '43974'
+    id_type: Registration Number
+    id_number: '1197746185691'
+    id_country: Russia
+  - uid: '43975'
+    id_type: Tax ID No.
+    id_number: '7730250045'
+    id_country: Russia
+  - uid: '181205'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183308'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '181206'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

@@ -1,0 +1,42 @@
+---
+uid: '44851'
+last_name: OOO SOLAR SEKYURITI
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69357'
+    type: a.k.a.
+    category: weak
+    last_name: RT SOLAR
+  - uid: '69358'
+    type: a.k.a.
+    category: strong
+    last_name: ROSTELEKOM SOLAR
+address_list:
+  items:
+  - uid: '66735'
+    address1: Ul. Vyatskaya, 35/4 Bts Vyatka
+    city: Moscow
+    postal_code: '127015'
+    country: Russia
+  - uid: '66736'
+    address1: Per. Nikitskiy, 7c1
+    city: Moscow
+    postal_code: '125009'
+    country: Russia
+id_list:
+  items:
+  - uid: '34439'
+    id_type: Registration Number
+    id_number: '1157746204230'
+    id_country: Russia
+  - uid: '34440'
+    id_type: Tax ID No.
+    id_number: '7718099790'
+    id_country: Russia
+  - uid: '173812'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,29 @@
+---
+uid: '48516'
+last_name: MMP IRBIS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '72809'
+    address1: Ul. Zolotorozhskii Val D. 11
+    address2: Str. 26, Floor 3
+    address3: Pom. B14/1
+    city: Moscow
+    postal_code: '111033'
+    country: Russia
+id_list:
+  items:
+  - uid: '39443'
+    id_type: Registration Number
+    id_number: '1187746990474'
+    id_country: Russia
+  - uid: '39444'
+    id_type: Tax ID No.
+    id_number: '7722469891'
+    id_country: Russia
+  - uid: '171342'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,38 @@
+---
+uid: '32431'
+first_name: Stephen
+last_name: MUTAMBA
+sdn_type: Individual
+program_list:
+  programs:
+  - GLOMAG
+address_list:
+  items:
+  - uid: '48823'
+    address1: 192 Baines Ave.
+    city: Harare
+    state_or_province: Harare
+    country: Zimbabwe
+id_list:
+  items:
+  - uid: '22213'
+    id_type: National ID No.
+    id_number: 58004069A83
+    id_country: Zimbabwe
+  - uid: '22214'
+    id_type: Passport
+    id_number: FN460001
+    id_country: Zimbabwe
+  - uid: '141964'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '41963'
+    date_of_birth: 23 Oct 1961
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '41965'
+    place_of_birth: Harare, Zimbabwe
+    main_entry: 'true'

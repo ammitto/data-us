@@ -1,0 +1,28 @@
+---
+uid: '50626'
+last_name: GOTIK SHIPPING CO
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '76763'
+    address1: B Type C Wing 101 Malhar.
+    address2: Sankul Chs Agra Road KalyKalyan D.c.
+    address3: Thane
+    city: Kalyan
+    state_or_province: Maharashtra
+    postal_code: '421301'
+    country: India
+  - uid: '76764'
+    country: Liberia
+id_list:
+  items:
+  - uid: '42478'
+    id_type: Identification Number
+    id_number: IMO 6505487
+  - uid: '179016'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: LIMITED LIABILITY COMPANY ARCTIC LNG 2)"

@@ -1,0 +1,38 @@
+---
+uid: '57460'
+last_name: JOMADI LOGISTICS AND CARGO, S.A. DE C.V.
+sdn_type: Entity
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+aka_list:
+  items:
+  - uid: '88956'
+    type: a.k.a.
+    category: strong
+    last_name: JOMADI LOGISTICS & CARGO, SOCIEDAD ANONIMA DE CAPITAL VARIABLE
+  - uid: '89707'
+    type: a.k.a.
+    category: strong
+    last_name: JOMADI LOGISTICS & CARGO, S.A. DE C.V.
+address_list:
+  items:
+  - uid: '88077'
+    city: Metepec
+    state_or_province: Mexico
+    country: Mexico
+id_list:
+  items:
+  - uid: '51810'
+    id_type: Folio Mercantil No.
+    id_number: '46570'
+    id_country: Mexico
+  - uid: '197613'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '197612'
+    id_type: Organization Established Date
+    id_number: 03 May 2012
+remarks: "(Linked To: CARTEL DE JALISCO NUEVA GENERACION)"

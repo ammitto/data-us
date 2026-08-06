@@ -1,0 +1,29 @@
+---
+uid: '52540'
+first_name: Klim Andreyevich
+last_name: KOMAROV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '80229'
+    country: Russia
+id_list:
+  items:
+  - uid: '45534'
+    id_type: Tax ID No.
+    id_number: '773602526671'
+    id_country: Russia
+  - uid: '184208'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184203'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '84202'
+    date_of_birth: 21 Jun 1996
+    main_entry: 'true'

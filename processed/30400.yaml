@@ -1,0 +1,51 @@
+---
+uid: '30400'
+last_name: SINA RAIL PARS COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13876
+aka_list:
+  items:
+  - uid: '47740'
+    type: a.k.a.
+    category: strong
+    last_name: SINA RAIL PARS CO
+  - uid: '47741'
+    type: a.k.a.
+    category: strong
+    last_name: SINA RAIL PARS
+  - uid: '47744'
+    type: a.k.a.
+    category: strong
+    last_name: PARS RAIL SINA TRANSPORTATION COMPANY
+address_list:
+  items:
+  - uid: '45946'
+    address1: No. 20, Thirteen Street, Ahmad Ghasir St., Argentina Square, District
+      6
+    city: Tehran
+    state_or_province: Tehran
+    country: Iran
+  - uid: '45947'
+    address1: No. 440, 4 Floor, Sina Building, Southeast Corner of Ferdows Blvd, Shahid
+      Sattari North Highway
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '20535'
+    id_type: Registration Number
+    id_number: '108278'
+    id_country: Iran
+  - uid: '20536'
+    id_type: National ID No.
+    id_number: '10101521358'
+    id_country: Iran
+  - uid: '138030'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '138029'
+    id_type: Website
+    id_number: http://srpt.ir/
+remarks: "(Linked To: ISLAMIC REVOLUTION MOSTAZAFAN FOUNDATION)"

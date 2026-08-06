@@ -1,0 +1,42 @@
+---
+uid: '55603'
+first_name: Ali
+last_name: KALVAND
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+address_list:
+  items:
+  - uid: '85054'
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '49609'
+    id_type: Passport
+    id_number: G10535869
+    id_country: Iran
+    expiration_date: 14 Jul 2029
+  - uid: '49610'
+    id_type: Passport
+    id_number: N57400649
+    id_country: Iran
+    expiration_date: 02 Jul 2027
+  - uid: '193706'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '193134'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '93131'
+    date_of_birth: 24 Feb 1981
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '93132'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'

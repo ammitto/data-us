@@ -1,0 +1,38 @@
+---
+uid: '57195'
+first_name: An
+last_name: KOK
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER4
+address_list:
+  items:
+  - uid: '87623'
+    address1: 19 Group 62 Street 217, Veal Vong Quarter, Makara District
+    city: Phnom Penh
+    country: Cambodia
+id_list:
+  items:
+  - uid: '51447'
+    id_type: Passport
+    id_number: N00307450
+    id_country: Cambodia
+    expiration_date: 15 Sep 2025
+  - uid: '51448'
+    id_type: National ID No.
+    id_number: '010283555'
+    id_country: Cambodia
+  - uid: '196930'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '96929'
+    date_of_birth: 07 Jul 1954
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '96932'
+    place_of_birth: Koh Kong, Cambodia
+    main_entry: 'true'

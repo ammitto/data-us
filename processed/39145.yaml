@@ -1,0 +1,42 @@
+---
+uid: '39145'
+last_name: FEDERAL STATE FINANCED INSTITUTION OF SCIENCE HIGHER EDUCATION INSTITUTION
+  SPECTROSCOPY OF THE RUSSIAN FEDERATION ACADEMY OF SCIENCES
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '61037'
+    type: a.k.a.
+    category: weak
+    last_name: ISAN
+  - uid: '61206'
+    type: a.k.a.
+    category: strong
+    last_name: INSTITUTE OF SPECTROSCOPY OF THE RUSSIAN ACADEMY OF SCIENCES
+address_list:
+  items:
+  - uid: '58283'
+    address1: Fizicheskaya Str., 5
+    city: Troitsk
+    state_or_province: Moscow
+    postal_code: '108840'
+    country: Russia
+id_list:
+  items:
+  - uid: '28352'
+    id_type: Tax ID No.
+    id_number: '5046005427'
+    id_country: Russia
+  - uid: '28353'
+    id_type: Registration Number
+    id_number: '1035009350100'
+    id_country: Russia
+  - uid: '174733'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '154899'
+    id_type: Organization Established Date
+    id_number: 07 Jul 1992

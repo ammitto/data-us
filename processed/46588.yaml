@@ -1,0 +1,34 @@
+---
+uid: '46588'
+last_name: THAMESTONE SA
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '69350'
+    address1: Rue Du Marche 28
+    city: Geneva
+    postal_code: '1204'
+    country: Switzerland
+id_list:
+  items:
+  - uid: '36564'
+    id_type: Registration Number
+    id_number: CH-660.3.487.014-6
+    id_country: Switzerland
+  - uid: '36565'
+    id_type: Company Number
+    id_number: CHE-299.161.819
+    id_country: Switzerland
+  - uid: '36566'
+    id_type: Tax ID No.
+    id_number: '299161819'
+    id_country: Switzerland
+  - uid: '175007'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '167452'
+    id_type: Organization Established Date
+    id_number: 22 Dec 2014

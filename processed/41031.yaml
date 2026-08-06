@@ -1,0 +1,48 @@
+---
+uid: '41031'
+first_name: Artem Vladimirovich
+last_name: ZHOGA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '63968'
+    type: a.k.a.
+    category: strong
+    last_name: ZHOGA
+    first_name: Artem Volodymyrovich
+  - uid: '63969'
+    type: a.k.a.
+    category: strong
+    last_name: ZHOGA
+    first_name: Artyom
+address_list:
+  items:
+  - uid: '61301'
+    address1: 101 40-letiya Oktyabrya St.
+    city: Slovyansk
+    country: Ukraine
+  - uid: '61302'
+    address1: 8 Biryuzova St., Apartment 23
+    city: Donetsk
+    state_or_province: Donetsk Region
+    country: Ukraine
+id_list:
+  items:
+  - uid: '30367'
+    id_type: Tax ID No.
+    id_number: '2741113672'
+    id_country: Ukraine
+  - uid: '173564'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '158818'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '58816'
+    date_of_birth: 18 Jan 1975
+    main_entry: 'true'

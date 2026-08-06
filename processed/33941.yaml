@@ -1,0 +1,41 @@
+---
+uid: '33941'
+first_name: Sanaullah
+last_name: GHAFARI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '53182'
+    type: a.k.a.
+    category: strong
+    last_name: AL-MUHAJIR
+    first_name: Shahab
+address_list:
+  items:
+  - uid: '50852'
+    country: Afghanistan
+id_list:
+  items:
+  - uid: '23595'
+    id_type: Passport
+    id_number: O1503093
+  - uid: '187384'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '144933'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '44934'
+    date_of_birth: 28 Oct 1994
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '44935'
+    place_of_birth: Afghanistan
+    main_entry: 'true'

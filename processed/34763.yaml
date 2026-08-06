@@ -1,0 +1,39 @@
+---
+uid: '34763'
+last_name: SOVCOMCARD LIMITED LIABILITY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '54538'
+    type: a.k.a.
+    category: strong
+    last_name: SOVCOMCARD LLC
+  - uid: '54857'
+    type: a.k.a.
+    category: strong
+    last_name: SOVKOMKARD
+address_list:
+  items:
+  - uid: '52103'
+    address1: Pr-Kt Tekstilshchikov D. 46
+    address2: Pomeshch. 1, Kom.56
+    city: Kostroma
+    postal_code: '156000'
+    country: Russia
+id_list:
+  items:
+  - uid: '24443'
+    id_type: Tax ID No.
+    id_number: '9717049581'
+    id_country: Russia
+  - uid: '24444'
+    id_type: Registration Number
+    id_number: '5167746420265'
+    id_country: Russia
+  - uid: '175206'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: SOVCOMBANK OPEN JOINT STOCK COMPANY)"

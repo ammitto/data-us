@@ -1,0 +1,37 @@
+---
+uid: '57874'
+first_name: Lichun
+last_name: XU
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+address_list:
+  items:
+  - uid: '88781'
+    city: Beijing
+    country: China
+id_list:
+  items:
+  - uid: '52379'
+    id_type: National ID No.
+    id_number: '421182198309304519'
+    id_country: China
+  - uid: '198568'
+    id_type: Gender
+    id_number: Male
+  - uid: '198574'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '98566'
+    date_of_birth: 30 Sep 1983
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '98570'
+    place_of_birth: Huanggang, Hubei, China
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS)"

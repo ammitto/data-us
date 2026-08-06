@@ -1,0 +1,32 @@
+---
+uid: '46587'
+last_name: ELFOR TL
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '69347'
+    address1: Ul. Sushchevskii Val D.9, Str.1
+    city: Moscow
+    postal_code: '127018'
+    country: Russia
+  - uid: '69348'
+    address1: Ul. Yasenevaya D. 5, K. 2
+    city: Sosenki
+    postal_code: '108814'
+    country: Russia
+id_list:
+  items:
+  - uid: '36562'
+    id_type: Registration Number
+    id_number: '1027700337686'
+    id_country: Russia
+  - uid: '36563'
+    id_type: Tax ID No.
+    id_number: '7703291469'
+    id_country: Russia
+  - uid: '175006'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,40 @@
+---
+uid: '57925'
+first_name: Alok
+last_name: CHOUDHARI
+sdn_type: Individual
+program_list:
+  programs:
+  - SUDAN-EO14098
+address_list:
+  items:
+  - uid: '88881'
+    city: Raipur
+    state_or_province: Chhattisgarh
+    country: India
+id_list:
+  items:
+  - uid: '52443'
+    id_type: Passport
+    id_number: R6656526
+    id_country: India
+    expiration_date: 26 Dec 2027
+  - uid: '52444'
+    id_type: Passport
+    id_number: Z7551463
+    id_country: India
+    expiration_date: 22 Feb 2034
+  - uid: '198716'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '98715'
+    date_of_birth: 15 Sep 1970
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '98717'
+    place_of_birth: Raipur, Chhattisgarh, India
+    main_entry: 'true'
+remarks: "(Linked To: SBL ENERGY LIMITED)"

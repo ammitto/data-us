@@ -1,0 +1,38 @@
+---
+uid: '57108'
+first_name: Nelson Francisco
+last_name: SOBALVARRO
+sdn_type: Individual
+program_list:
+  programs:
+  - NICARAGUA
+address_list:
+  items:
+  - uid: '87449'
+    city: Managua
+    country: Nicaragua
+id_list:
+  items:
+  - uid: '51334'
+    id_type: National ID No.
+    id_number: 2412211760007F
+    id_country: Nicaragua
+  - uid: '51335'
+    id_type: Passport
+    id_number: C03238305
+    id_country: Nicaragua
+    issue_date: 19 Jan 2023
+    expiration_date: 19 Jan 2033
+  - uid: '196705'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '96703'
+    date_of_birth: 22 Nov 1976
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '96772'
+    place_of_birth: Jinotega, Nicaragua
+    main_entry: 'true'

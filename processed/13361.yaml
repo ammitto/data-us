@@ -1,0 +1,31 @@
+---
+uid: '13361'
+first_name: Pedro
+last_name: CARDONA MARTINEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+address_list:
+  items:
+  - uid: '21340'
+    address1: Calle Lago La Doga 5301
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+id_list:
+  items:
+  - uid: '7876'
+    id_type: Passport
+    id_number: '100024252'
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '9421'
+    date_of_birth: 30 Jun 1963
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '9422'
+    place_of_birth: Coahuila, Mexico
+    main_entry: 'true'

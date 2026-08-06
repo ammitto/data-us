@@ -1,0 +1,55 @@
+---
+uid: '50858'
+first_name: Jose Adrian
+last_name: CASTILLO LOPEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '79655'
+    type: a.k.a.
+    category: strong
+    last_name: MEDINA PEREZ
+    first_name: Juan Manual
+  - uid: '79656'
+    type: a.k.a.
+    category: strong
+    last_name: SALAZAR SALDIVAR
+    first_name: Adrian
+  - uid: '79657'
+    type: a.k.a.
+    category: weak
+    last_name: FRIAS, Adrian
+  - uid: '79658'
+    type: a.k.a.
+    category: weak
+    last_name: GONZALES, Adrian
+  - uid: '79659'
+    type: a.k.a.
+    category: weak
+    last_name: CHEO
+address_list:
+  items:
+  - uid: '77214'
+    country: Mexico
+id_list:
+  items:
+  - uid: '42828'
+    id_type: C.U.R.P.
+    id_number: CALA751221HNTSPD07
+    id_country: Mexico
+  - uid: '179579'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '79576'
+    date_of_birth: 21 Dec 1975
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '79577'
+    place_of_birth: Nayarit, Mexico
+    main_entry: 'true'

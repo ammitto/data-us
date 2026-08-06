@@ -1,0 +1,30 @@
+---
+uid: '50316'
+last_name: LIMITED LIABILITY COMPANY MAIGEOPROM
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '76247'
+    address1: D. 76
+    address2: Ul. Petra Alekseeva
+    city: Yakutsk
+    postal_code: '677015'
+    country: Russia
+id_list:
+  items:
+  - uid: '42032'
+    id_type: Registration Number
+    id_number: '1231400004648'
+    id_country: Russia
+  - uid: '42033'
+    id_type: Tax ID No.
+    id_number: '1400021670'
+    id_country: Russia
+  - uid: '178261'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: PUBLIC JOINT STOCK COMPANY YAKUTSKAYA TOPLIVNO ENERGETICHESKAYA
+  KOMPANIYA)"

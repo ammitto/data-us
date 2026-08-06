@@ -1,0 +1,34 @@
+---
+uid: '45920'
+last_name: LIMITED LIABILITY COMPANY SPUTNIK ELECTRONICS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70951'
+    type: a.k.a.
+    category: weak
+    last_name: LLC SPEL
+address_list:
+  items:
+  - uid: '68327'
+    address1: 12 Gavanskaya St.
+    address2: Building 2B, Room 1-N, Office 1
+    city: St. Petersburg
+    postal_code: '199106'
+    country: Russia
+id_list:
+  items:
+  - uid: '35670'
+    id_type: Registration Number
+    id_number: '1147847296960'
+    id_country: Russia
+  - uid: '35671'
+    id_type: Tax ID No.
+    id_number: '7801636859'
+    id_country: Russia
+  - uid: '176094'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

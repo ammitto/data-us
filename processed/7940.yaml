@@ -1,0 +1,43 @@
+---
+uid: '7940'
+first_name: Mohamed
+last_name: ABU DHESS
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '5894'
+    type: a.k.a.
+    category: strong
+    last_name: HASSAN
+    first_name: Yaser
+  - uid: '6684'
+    type: a.k.a.
+    category: weak
+    last_name: ABU ALI
+address_list:
+  items:
+  - uid: '9345'
+    address1: Holdenweg 76
+    city: Essen
+    postal_code: '45143'
+    country: Germany
+id_list:
+  items:
+  - uid: '185756'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '2306'
+    date_of_birth: 01 Feb 1966
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '2307'
+    place_of_birth: Hashmija, Iraq
+    main_entry: 'true'
+remarks: nationality possibly Palestinian;arrested 23 Apr 2002

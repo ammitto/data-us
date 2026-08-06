@@ -1,0 +1,58 @@
+---
+uid: '12486'
+first_name: Daniel
+last_name: RODRIGUEZ OLIVERA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '13403'
+    type: a.k.a.
+    category: strong
+    last_name: RODRIGUEZ MORFIN
+    first_name: Daniel
+address_list:
+  items:
+  - uid: '19520'
+    address1: Vereda del Canario 1
+    city: Guadalajara
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '19521'
+    address1: Sendero Las Acacias 92
+    city: Guadalajara
+    state_or_province: Jalisco
+    country: Mexico
+  - uid: '19522'
+    address1: Puerto de Hierro
+    city: Zapopan
+    state_or_province: Jalisco
+    country: Mexico
+id_list:
+  items:
+  - uid: '6946'
+    id_type: C.U.R.P.
+    id_number: ROOD740214HJCDLN09
+    id_country: Mexico
+  - uid: '6947'
+    id_type: Passport
+    id_number: '140044764'
+    id_country: Mexico
+date_of_birth_list:
+  items:
+  - uid: '8182'
+    date_of_birth: 14 Feb 1974
+    main_entry: 'true'
+  - uid: '8183'
+    date_of_birth: '1973'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '8184'
+    place_of_birth: Jalisco, Mexico
+    main_entry: 'true'
+  - uid: '8185'
+    place_of_birth: Tecalitlan, Jalisco, Mexico
+    main_entry: 'false'

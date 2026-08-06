@@ -1,0 +1,53 @@
+---
+uid: '44258'
+last_name: JOINT STOCK COMPANY SCIENCE RESEARCH INSTITUTE FOR PRECISE INSTRUMENTS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '68451'
+    type: a.k.a.
+    category: strong
+    last_name: AKTSIONERNOE OBSHCHESTVO NAUCHNO ISSLEDOVATELSKI INSTITUT TOCHNYKH
+      PRIBOROV
+  - uid: '68452'
+    type: a.k.a.
+    category: weak
+    last_name: AO NII TP
+  - uid: '68453'
+    type: a.k.a.
+    category: strong
+    last_name: JOINT STOCK COMPANY RESEARCH INSTITUTE OF PRECISION INSTRUMENTS
+  - uid: '68454'
+    type: a.k.a.
+    category: weak
+    last_name: JSC RIPI
+address_list:
+  items:
+  - uid: '65884'
+    address1: ul. Dekabristov, Vl 51
+    city: Moscow
+    postal_code: '127490'
+    country: Russia
+id_list:
+  items:
+  - uid: '33684'
+    id_type: Registration Number
+    id_number: '1097746735481'
+    id_country: Russia
+  - uid: '33685'
+    id_type: Tax ID No.
+    id_number: '7715784155'
+    id_country: Russia
+  - uid: '33686'
+    id_type: Government Gazette Number
+    id_number: '11482462'
+    id_country: Russia
+  - uid: '175815'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '163916'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

@@ -1,0 +1,39 @@
+---
+uid: '34085'
+first_name: Masoud
+last_name: SAFDARI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+  - IRGC
+aka_list:
+  items:
+  - uid: '53427'
+    type: a.k.a.
+    category: strong
+    last_name: SAFDARI
+    first_name: Massoud
+  - uid: '53428'
+    type: a.k.a.
+    category: weak
+    last_name: Sattar
+address_list:
+  items:
+  - uid: '51100'
+    address1: Shahrak Shahid Mahallati District
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '145150'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '145145'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '45146'
+    date_of_birth: '1983'
+    main_entry: 'true'

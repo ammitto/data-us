@@ -1,0 +1,47 @@
+---
+uid: '51865'
+first_name: Vadim Nikolaevich
+last_name: VOROBYEV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '81204'
+    type: a.k.a.
+    category: strong
+    last_name: VOROBEV
+    first_name: Vadim Nikolaevich
+  - uid: '81205'
+    type: a.k.a.
+    category: strong
+    last_name: VOROBYOV
+    first_name: Vadim Nikolaevich
+address_list:
+  items:
+  - uid: '79408'
+    country: Russia
+id_list:
+  items:
+  - uid: '182264'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '183458'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '182269'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '82265'
+    date_of_birth: 16 Apr 1961
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '82267'
+    place_of_birth: Pavlovo, Russia
+    main_entry: 'true'

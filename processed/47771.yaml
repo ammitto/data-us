@@ -1,0 +1,30 @@
+---
+uid: '47771'
+last_name: LIMITED LIABILITY COMPANY RIMERA SERVIS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '71464'
+    address1: 40 Bolshoy Boulevard
+    address2: Floor 5
+    address3: Room 37
+    city: Moscow
+    postal_code: '121205'
+    country: Russia
+id_list:
+  items:
+  - uid: '38449'
+    id_type: Tax ID No.
+    id_number: '7705907626'
+    id_country: Russia
+  - uid: '38451'
+    id_type: Registration Number
+    id_number: '1107746018060'
+    id_country: Russia
+  - uid: '176438'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: JOINT STOCK COMPANY RIMERA)"

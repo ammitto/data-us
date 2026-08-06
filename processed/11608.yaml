@@ -1,0 +1,38 @@
+---
+uid: '11608'
+last_name: ASCOTEC HOLDING GMBH
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN
+aka_list:
+  items:
+  - uid: '12317'
+    type: a.k.a.
+    category: strong
+    last_name: ASCOTEC GMBH
+  - uid: '12318'
+    type: f.k.a.
+    category: strong
+    last_name: AHWAZ STEEL COMMERCIAL & TECHNICAL SERVICE GMBH  ASCOTEC
+  - uid: '13070'
+    type: f.k.a.
+    category: strong
+    last_name: AHWAZ STEEL COMMERCIAL AND TECHNICAL SERVICE GMBH ASCOTEC
+address_list:
+  items:
+  - uid: '17409'
+    address1: Tersteegen Strasse 10
+    city: Dusseldorf
+    postal_code: '40474'
+    country: Germany
+id_list:
+  items:
+  - uid: '5986'
+    id_type: Registration ID
+    id_number: HRB 26136
+    id_country: Germany
+  - uid: '118985'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+remarks: all offices worldwide

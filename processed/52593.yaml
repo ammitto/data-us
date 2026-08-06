@@ -1,0 +1,45 @@
+---
+uid: '52593'
+last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTIU ROKEM SERVIS
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '82320'
+    type: a.k.a.
+    category: strong
+    last_name: ROCHEM SERVICE GMBH
+  - uid: '82321'
+    type: a.k.a.
+    category: strong
+    last_name: ROKEM SERVICE
+address_list:
+  items:
+  - uid: '80332'
+    address1: Ul. Shpalernaya D.32, Kv. 21
+    city: Saint Petersburg
+    postal_code: '191123'
+    country: Russia
+  - uid: '80333'
+    address1: 66, Sofiyskaya St.
+    city: Saint Petersburg
+    postal_code: '192289'
+    country: Russia
+id_list:
+  items:
+  - uid: '45633'
+    id_type: Registration Number
+    id_number: '1037843010831'
+    id_country: Russia
+  - uid: '45634'
+    id_type: Tax ID No.
+    id_number: '7825696462'
+    id_country: Russia
+  - uid: '184337'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184338'
+    id_type: Organization Established Date
+    id_number: 05 Aug 1998

@@ -1,0 +1,36 @@
+---
+uid: '21729'
+first_name: Sami Bashur
+last_name: BOURAS
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '34463'
+    type: a.k.a.
+    category: weak
+    last_name: Wakrici
+  - uid: '34464'
+    type: a.k.a.
+    category: weak
+    last_name: Khadim
+id_list:
+  items:
+  - uid: '13780'
+    id_type: Passport
+    id_number: M323879
+    id_country: Tunisia
+  - uid: '122775'
+    id_type: Gender
+    id_number: Male
+  - uid: '186620'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '22750'
+    date_of_birth: 1974 to 1976
+    main_entry: 'true'

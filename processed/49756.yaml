@@ -1,0 +1,51 @@
+---
+uid: '49756'
+last_name: TREN DE ARAGUA
+sdn_type: Entity
+program_list:
+  programs:
+  - TCO
+  - SDGT
+  - FTO
+aka_list:
+  items:
+  - uid: '77568'
+    type: a.k.a.
+    category: weak
+    last_name: ARAGUA TRAIN
+  - uid: '82923'
+    type: a.k.a.
+    category: strong
+    last_name: EL TREN DE ARAGUA
+address_list:
+  items:
+  - uid: '75147'
+    country: Venezuela
+  - uid: '75148'
+    country: Colombia
+  - uid: '75149'
+    country: Chile
+  - uid: '75150'
+    country: Peru
+  - uid: '75151'
+    country: Ecuador
+  - uid: '75152'
+    country: Brazil
+  - uid: '75153'
+    country: Bolivia
+  - uid: '75154'
+    country: Panama
+  - uid: '75155'
+    country: United States
+id_list:
+  items:
+  - uid: '184737'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '185006'
+    id_type: 'Organization Type:'
+    id_number: Transnational Terrorist Group
+  - uid: '177061'
+    id_type: Target Type
+    id_number: Criminal Organization

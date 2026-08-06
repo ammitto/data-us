@@ -1,0 +1,35 @@
+---
+uid: '44779'
+first_name: Ahmad
+last_name: NADERIAN
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+address_list:
+  items:
+  - uid: '67163'
+    country: Iran
+id_list:
+  items:
+  - uid: '34338'
+    id_type: National ID No.
+    id_number: '5339852334'
+    id_country: Iran
+  - uid: '165487'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '164989'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '64986'
+    date_of_birth: 21 Jul 1967
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '64987'
+    place_of_birth: Zabol, Sistan and Baluchistan Province, Iran
+    main_entry: 'true'
+remarks: "(Linked To: LAW ENFORCEMENT FORCES OF THE ISLAMIC REPUBLIC OF IRAN)"

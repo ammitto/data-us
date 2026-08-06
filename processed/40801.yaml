@@ -1,0 +1,65 @@
+---
+uid: '40801'
+last_name: BANK ZENIT PUBLIC JOINT STOCK COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '63465'
+    type: a.k.a.
+    category: strong
+    last_name: PJSC BANK ZENIT
+  - uid: '63466'
+    type: a.k.a.
+    category: strong
+    last_name: BANK ZENIT PAO
+  - uid: '63467'
+    type: f.k.a.
+    category: strong
+    last_name: BANK ZENIT OAO
+  - uid: '63468'
+    type: f.k.a.
+    category: strong
+    last_name: OJSC BANK ZENIT
+address_list:
+  items:
+  - uid: '60823'
+    address1: Ul. Odesskaya D. 2
+    city: Moscow
+    postal_code: '117638'
+    country: Russia
+id_list:
+  items:
+  - uid: '29999'
+    id_type: Registration Number
+    id_number: '1927739056927'
+    id_country: Russia
+  - uid: '30000'
+    id_type: Tax ID No.
+    id_number: '7729405872'
+    id_country: Russia
+  - uid: '30001'
+    id_type: Legal Entity Number
+    id_number: 253400NT4MB307747N58
+  - uid: '158321'
+    id_type: Organization Established Date
+    id_number: 01 Jan 1995
+  - uid: '158323'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '174145'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184268'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '158322'
+    id_type: SWIFT/BIC
+    id_number: ZENIRUMM
+  - uid: '158324'
+    id_type: Website
+    id_number: www.zenit.ru

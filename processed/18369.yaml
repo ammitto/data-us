@@ -1,0 +1,41 @@
+---
+uid: '18369'
+last_name: LAS FLORES CABANAS
+sdn_type: Entity
+program_list:
+  programs:
+  - SDNTK
+aka_list:
+  items:
+  - uid: '28499'
+    type: a.k.a.
+    category: strong
+    last_name: CABANAS LAS FLORES
+  - uid: '35691'
+    type: n.k.a.
+    category: strong
+    last_name: CABANAS LA LOMA
+  - uid: '44572'
+    type: n.k.a.
+    category: strong
+    last_name: CABANAS LA LOMA EN RENTA
+  - uid: '44573'
+    type: n.k.a.
+    category: strong
+    last_name: CABANAS LA LOMA TAPALPA
+address_list:
+  items:
+  - uid: '27868'
+    address1: Km 5.4 Carretera Tapalpa - San Gabriel
+    city: Tapalpa
+    state_or_province: Jalisco
+    postal_code: '49340'
+    country: Mexico
+id_list:
+  items:
+  - uid: '117698'
+    id_type: Website
+    id_number: www.cabanaslasflores.com
+  - uid: '133746'
+    id_type: Website
+    id_number: www.cabanaslalomatapalpa.com

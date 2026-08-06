@@ -1,0 +1,50 @@
+---
+uid: '10007'
+first_name: Najmuddin Faraj
+last_name: AHMAD
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '9690'
+    type: a.k.a.
+    category: strong
+    last_name: KREKAR
+    first_name: Mullah
+  - uid: '9691'
+    type: a.k.a.
+    category: strong
+    last_name: FARRAJ
+    first_name: Fateh Najm Eddine
+  - uid: '9692'
+    type: a.k.a.
+    category: strong
+    last_name: NAJMUDDIN
+    first_name: Faraj Ahmad
+address_list:
+  items:
+  - uid: '13161'
+    address1: Heimdalsgate 36-V
+    city: '0578 Oslo'
+    country: Norway
+id_list:
+  items:
+  - uid: '186285'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '5098'
+    date_of_birth: 07 Jul 1956
+    main_entry: 'true'
+  - uid: '5099'
+    date_of_birth: 17 Jun 1963
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '5100'
+    place_of_birth: Olaqloo Sharbajer Village, al-Sulaymaniyah Governorate, Iraq
+    main_entry: 'true'

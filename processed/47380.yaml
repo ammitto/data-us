@@ -1,0 +1,47 @@
+---
+uid: '47380'
+last_name: JOINT STOCK COMPANY JOINT STOCK COMMERCIAL BANK INTERNATIONAL FINANCIAL
+  CLUB
+sdn_type: Entity
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '73255'
+    type: a.k.a.
+    category: strong
+    last_name: MFK BANK
+  - uid: '73256'
+    type: a.k.a.
+    category: weak
+    last_name: IFC BANK
+address_list:
+  items:
+  - uid: '70632'
+    address1: Presnenskaya Embankment, 10
+    city: Moscow
+    postal_code: '123112'
+    country: Russia
+id_list:
+  items:
+  - uid: '37753'
+    id_type: Tax ID No.
+    id_number: '7744000038'
+    id_country: Russia
+  - uid: '37824'
+    id_type: Registration Number
+    id_number: '1027700056977'
+    id_country: Russia
+  - uid: '168890'
+    id_type: SWIFT/BIC
+    id_number: ICFIRUMM
+  - uid: '168891'
+    id_type: Website
+    id_number: www.mfk-bank.ru
+  - uid: '176392'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '168892'
+    id_type: Target Type
+    id_number: Financial Institution

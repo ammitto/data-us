@@ -1,0 +1,43 @@
+---
+uid: '44926'
+last_name: TASNIM NEWS AGENCY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-HR
+  - IRGC
+  - IFSR
+aka_list:
+  items:
+  - uid: '69510'
+    type: a.k.a.
+    category: strong
+    last_name: TASNIM CULTURAL INSTITUTION ORGANIZATION
+  - uid: '69511'
+    type: a.k.a.
+    category: strong
+    last_name: ATI SAZAN FARHANG TASNIM INSTITUTE
+address_list:
+  items:
+  - uid: '66859'
+    address1: South Side First Floor, 2 Plaque 12 Pourfallah Street-Shahid Doctor
+      Hassan Azdi St
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '34521'
+    id_type: Business Registration Number
+    id_number: '29478'
+    id_country: Iran
+  - uid: '34522'
+    id_type: National ID No.
+    id_number: '10320794964'
+    id_country: Iran
+  - uid: '165498'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '165223'
+    id_type: Website
+    id_number: www.tasnimnews.com
+remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS)"

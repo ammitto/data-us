@@ -1,0 +1,35 @@
+---
+uid: '41026'
+first_name: Nikolay Grigorevich
+last_name: SHULGINOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+address_list:
+  items:
+  - uid: '61292'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '30362'
+    id_type: Tax ID No.
+    id_number: '263204964309'
+    id_country: Russia
+  - uid: '173559'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '158802'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '58800'
+    date_of_birth: 18 May 1951
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '58801'
+    place_of_birth: Sablinskoe, Stavropol Region, Russia
+    main_entry: 'true'

@@ -1,0 +1,49 @@
+---
+uid: '44678'
+first_name: Olena Oleksandrivna
+last_name: SHAPUROVA
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '69051'
+    type: a.k.a.
+    category: strong
+    last_name: SHAPUROVA
+    first_name: Elena Aleksandrovna
+  - uid: '69052'
+    type: a.k.a.
+    category: strong
+    last_name: SHAPUROVA
+    first_name: Alyona Aleksandrovna
+address_list:
+  items:
+  - uid: '66488'
+    address1: 31 50 Years of Victory Avenue, Apartment 29
+    city: Melitopol
+    state_or_province: Zaporizhzhia region
+    country: Ukraine
+id_list:
+  items:
+  - uid: '34198'
+    id_type: Tax ID No.
+    id_number: '2807902401'
+    id_country: Ukraine
+  - uid: '164803'
+    id_type: Gender
+    id_number: Female
+  - uid: '173779'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '64804'
+    date_of_birth: 16 Nov 1976
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '64805'
+    place_of_birth: Melitopol, Zaporizhzhia region, Ukraine
+    main_entry: 'true'

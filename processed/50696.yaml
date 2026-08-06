@@ -1,0 +1,32 @@
+---
+uid: '50696'
+first_name: Hamid
+last_name: ZAREIKAJOSANGI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+  - IRGC
+address_list:
+  items:
+  - uid: '76866'
+    country: Iran
+id_list:
+  items:
+  - uid: '42545'
+    id_type: Passport
+    id_number: E54687879
+    id_country: Iran
+    expiration_date: 28 Sep 2026
+  - uid: '179250'
+    id_type: Gender
+    id_number: Male
+  - uid: '179286'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '79249'
+    date_of_birth: 20 May 1987
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS (IRGC)-QODS FORCE)"

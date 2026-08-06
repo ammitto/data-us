@@ -1,0 +1,47 @@
+---
+uid: '52713'
+first_name: Andrei Valeryevich
+last_name: PRIKHODKO
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662
+aka_list:
+  items:
+  - uid: '82638'
+    type: a.k.a.
+    category: strong
+    last_name: PRIKHODKO
+    first_name: Andrey Valeryevich
+address_list:
+  items:
+  - uid: '80571'
+    city: Moscow
+    country: Russia
+id_list:
+  items:
+  - uid: '45852'
+    id_type: National ID No.
+    id_number: '772335626982'
+    id_country: Russia
+  - uid: '184561'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '184562'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '184563'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '84565'
+    date_of_birth: 26 Aug 1977
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '84566'
+    place_of_birth: Moscow, Russia
+    main_entry: 'true'

@@ -1,0 +1,44 @@
+---
+uid: '48952'
+first_name: Ting
+last_name: CHEN
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '76281'
+    type: a.k.a.
+    category: weak
+    last_name: TING, Chen
+  - uid: '77275'
+    type: a.k.a.
+    category: strong
+    last_name: CHEN
+    first_name: Sharry
+address_list:
+  items:
+  - uid: '73629'
+    city: Shenzhen
+    country: China
+  - uid: '73916'
+    city: Hong Kong
+    country: China
+id_list:
+  items:
+  - uid: '40893'
+    id_type: Passport
+    id_number: E16512030
+    id_country: China
+  - uid: '171702'
+    id_type: Gender
+    id_number: Female
+  - uid: '171703'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '72642'
+    date_of_birth: 14 Feb 1986
+    main_entry: 'true'

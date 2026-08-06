@@ -1,0 +1,39 @@
+---
+uid: '55063'
+last_name: KOREA SINJIN TRADING CORPORATION
+sdn_type: Entity
+program_list:
+  programs:
+  - DPRK2
+aka_list:
+  items:
+  - uid: '85723'
+    type: a.k.a.
+    category: strong
+    last_name: CHOSUN SINJIN TRADING COMPANY
+  - uid: '85724'
+    type: a.k.a.
+    category: strong
+    last_name: CHOSUN SINJIN TRADING CORPORATION
+  - uid: '85725'
+    type: a.k.a.
+    category: strong
+    last_name: SINJIN GENERAL TRADING CORPORATION
+address_list:
+  items:
+  - uid: '84195'
+    address1: Mangyeongdae District, Chilgol 1 dong
+    city: Pyongyang
+    country: Korea, North
+id_list:
+  items:
+  - uid: '192070'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '192069'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '192606'
+    id_type: 'Organization Type:'
+    id_number: Wholesale and retail trade

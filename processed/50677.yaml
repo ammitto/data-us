@@ -1,0 +1,30 @@
+---
+uid: '50677'
+last_name: EP-MMU
+sdn_type: Aircraft
+program_list:
+  programs:
+  - SDGT
+  - IFSR
+id_list:
+  items:
+  - uid: '179141'
+    id_type: Aircraft Manufacture Date
+    id_number: '2008'
+  - uid: '179147'
+    id_type: Aircraft Model
+    id_number: A340-600
+  - uid: '179148'
+    id_type: Aircraft Operator
+    id_number: MAHAN AIR
+  - uid: '179143'
+    id_type: Aircraft Manufacturer's Serial Number (MSN)
+    id_number: '933'
+  - uid: '194848'
+    id_type: Aircraft Tail Number
+    id_number: EP-MMU
+  - uid: '194849'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: "(Linked To: MAHAN AIR)"

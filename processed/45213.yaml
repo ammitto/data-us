@@ -1,0 +1,64 @@
+---
+uid: '45213'
+first_name: Ilya Andreevich
+last_name: GAMBASHIDZE
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '70004'
+    type: a.k.a.
+    category: strong
+    last_name: GAMBACHIDZE
+    first_name: Ilya Andreievitch
+address_list:
+  items:
+  - uid: '67299'
+    address1: 17, Bld 3, Kuusinena Str
+    address2: Apt 70
+    city: Moscow
+    postal_code: '125252'
+    country: Russia
+id_list:
+  items:
+  - uid: '34940'
+    id_type: Tax ID No.
+    id_number: '771401746465'
+    id_country: Russia
+  - uid: '34941'
+    id_type: Registration Number
+    id_number: '318774600703371'
+    id_country: Russia
+  - uid: '34942'
+    id_type: National ID No.
+    id_number: '4522912438'
+    id_country: Russia
+  - uid: '34943'
+    id_type: Passport
+    id_number: '756410352'
+    id_country: Russia
+  - uid: '165618'
+    id_type: Gender
+    id_number: Male
+  - uid: '170364'
+    id_type: Digital Currency Address - USDT
+    id_number: TEFph7dZoUN5233cGEzF6XFwRpjPF8fQDS
+  - uid: '170365'
+    id_type: Digital Currency Address - USDT
+    id_number: TMGLqRQ4twjW8wJhVH1mQR7nUThpGHUsN3
+  - uid: '175952'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+date_of_birth_list:
+  items:
+  - uid: '65615'
+    date_of_birth: 07 May 1977
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '65616'
+    place_of_birth: Kyiv, Ukraine
+    main_entry: 'true'
+remarks: "(Linked To: SOCIAL DESIGN AGENCY)"

@@ -1,0 +1,42 @@
+---
+uid: '29839'
+first_name: Hossein
+last_name: NAZARIKOLEHJOUB
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-HR
+aka_list:
+  items:
+  - uid: '46757'
+    type: a.k.a.
+    category: strong
+    last_name: NAZARI
+    first_name: Hossein
+address_list:
+  items:
+  - uid: '44970'
+    country: Iran
+id_list:
+  items:
+  - uid: '19951'
+    id_type: Passport
+    id_number: W48073580
+    id_country: Iran
+  - uid: '137054'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '136883'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '36885'
+    date_of_birth: 21 Mar 1990
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '36884'
+    place_of_birth: Aleshtar, Iran
+    main_entry: 'true'
+remarks: "(Linked To: IRANIAN MINISTRY OF INTELLIGENCE AND SECURITY)"

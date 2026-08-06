@@ -1,0 +1,61 @@
+---
+uid: '23577'
+last_name: JOINT STOCK COMPANY SURGUTNEFTEGASBANK
+sdn_type: Entity
+program_list:
+  programs:
+  - UKRAINE-EO13662
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '37183'
+    type: a.k.a.
+    category: strong
+    last_name: CLOSED JOINT STOCK COMPANY SURGUTNEFTEGASBANK
+  - uid: '37184'
+    type: a.k.a.
+    category: strong
+    last_name: ZAO SNGB
+  - uid: '37185'
+    type: a.k.a.
+    category: strong
+    last_name: JSC BANK SNGB
+  - uid: '82051'
+    type: a.k.a.
+    category: strong
+    last_name: SNGB AO
+address_list:
+  items:
+  - uid: '35658'
+    address1: 19 Kukuyevitskogo Street
+    city: Surgut
+    postal_code: '628400'
+    country: Russia
+id_list:
+  items:
+  - uid: '15047'
+    id_type: Registration ID
+    id_number: '1028600001792'
+    id_country: Russia
+  - uid: '15048'
+    id_type: Tax ID No.
+    id_number: '8602190258'
+    id_country: Russia
+  - uid: '125455'
+    id_type: Nationality of Registration
+    id_number: Russia
+  - uid: '144012'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '125604'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 4
+  - uid: '183024'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '125453'
+    id_type: Website
+    id_number: www.sngb.ru
+remarks: 'For more information, please reference the following link: http://www.treasury.gov/resource-center/sanctions/OFAC-Enforcement/Pages/OFAC-Recent-Actions.aspx;
+  (Linked To: SURGUTNEFTEGAS)'

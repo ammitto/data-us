@@ -1,0 +1,46 @@
+---
+uid: '47770'
+first_name: Anton Olegovich
+last_name: ELIZAREV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '74097'
+    type: a.k.a.
+    category: strong
+    last_name: YELIZAREV
+    first_name: Anton Olegovich
+  - uid: '74099'
+    type: a.k.a.
+    category: weak
+    last_name: Lotus
+address_list:
+  items:
+  - uid: '71460'
+    address1: 66 Novorossiysk, Apt 48
+    city: Novorossiysk
+    country: Russia
+id_list:
+  items:
+  - uid: '38445'
+    id_type: Passport
+    id_number: '6103869621'
+    id_country: Russia
+  - uid: '38447'
+    id_type: Tax ID No.
+    id_number: '23151072563'
+    id_country: Russia
+  - uid: '176437'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '169269'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '69264'
+    date_of_birth: 01 May 1981
+    main_entry: 'true'

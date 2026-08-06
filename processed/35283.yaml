@@ -1,0 +1,48 @@
+---
+uid: '35283'
+first_name: Alisher Burhanovich
+last_name: USMANOV
+sdn_type: Individual
+program_list:
+  programs:
+  - RUSSIA-EO14024
+aka_list:
+  items:
+  - uid: '55501'
+    type: a.k.a.
+    category: strong
+    last_name: USMONOV
+    first_name: Alisher
+  - uid: '55502'
+    type: a.k.a.
+    category: strong
+    last_name: USMANOV
+    first_name: Alisher Burkhanovich
+address_list:
+  items:
+  - uid: '53036'
+    country: Russia
+  - uid: '53037'
+    country: Monaco
+id_list:
+  items:
+  - uid: '24984'
+    id_type: Tax ID No.
+    id_number: '1601108019'
+    id_country: Russia
+  - uid: '176859'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '147486'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '47483'
+    date_of_birth: '09 Sep 1953'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '47484'
+    place_of_birth: Chust, Uzbekistan
+    main_entry: 'true'

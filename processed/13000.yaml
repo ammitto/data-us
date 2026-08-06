@@ -1,0 +1,37 @@
+---
+uid: '13000'
+first_name: Aus
+last_name: ASLAN
+sdn_type: Individual
+program_list:
+  programs:
+  - PAARSSR-EO13894
+aka_list:
+  items:
+  - uid: '85022'
+    type: a.k.a.
+    category: strong
+    last_name: ASLAN
+    first_name: Aous Ali
+address_list:
+  items:
+  - uid: '83431'
+    country: Syria
+id_list:
+  items:
+  - uid: '190847'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '8785'
+    date_of_birth: '1958'
+    main_entry: 'true'
+  - uid: '8786'
+    date_of_birth: '1960'
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '90846'
+    place_of_birth: Latakia, Syria
+    main_entry: 'true'
