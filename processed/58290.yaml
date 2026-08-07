@@ -1,0 +1,41 @@
+---
+uid: '58290'
+last_name: UNION DE INDUSTRIA MILITAR
+sdn_type: Entity
+program_list:
+  programs:
+  - CUBA-EO14404
+aka_list:
+  items:
+  - uid: '90182'
+    type: a.k.a.
+    category: strong
+    last_name: LA UNION DE INDUSTRIAS MILITARES
+  - uid: '90183'
+    type: a.k.a.
+    category: strong
+    last_name: MILITARY INDUSTRIES UNION
+  - uid: '90184'
+    type: a.k.a.
+    category: strong
+    last_name: UNION OF WAR INDUSTRY
+  - uid: '90185'
+    type: a.k.a.
+    category: weak
+    last_name: UIM
+address_list:
+  items:
+  - uid: '89582'
+    city: Havana
+    country: Cuba
+id_list:
+  items:
+  - uid: '200121'
+    id_type: Organization Established Date
+    id_number: '1988'
+  - uid: '200122'
+    id_type: 'Organization Type:'
+    id_number: Defense activities
+  - uid: '200123'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

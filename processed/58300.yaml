@@ -1,0 +1,27 @@
+---
+uid: '58300'
+first_name: Waldo
+last_name: PEREZ CORTES
+sdn_type: Individual
+program_list:
+  programs:
+  - CUBA-EO14404
+address_list:
+  items:
+  - uid: '89602'
+    city: Beijing
+    country: China
+id_list:
+  items:
+  - uid: '52972'
+    id_type: Passport
+    id_number: A014056
+    id_country: Cuba
+  - uid: '200155'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '100154'
+    date_of_birth: 13 Oct 1964
+    main_entry: 'true'

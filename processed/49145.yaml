@@ -23,10 +23,10 @@ address_list:
     country: Guyana
 id_list:
   items:
-  - uid: '172656'
-    id_type: 'Organization Type:'
-    id_number: Mining and Quarrying
   - uid: '172653'
     id_type: Organization Established Date
     id_number: 29 Sep 2009
+  - uid: '172656'
+    id_type: 'Organization Type:'
+    id_number: Mining and Quarrying
 remarks: "(Linked To: MOHAMED'S ENTERPRISE)"

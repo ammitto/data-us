@@ -54,9 +54,6 @@ id_list:
   - uid: '189215'
     id_type: Digital Currency Address - TRX
     id_number: TNmRfnSUXZoWWzxcDDbf95eGQYXt1mJDt8
-  - uid: '189214'
-    id_type: Digital Currency Address - ETH
-    id_number: '0xd5ED34b52AC4ab84d8FA8A231a3218bbF01Ed510'
   - uid: '189147'
     id_type: Website
     id_number: funnull.io
@@ -69,3 +66,6 @@ id_list:
   - uid: '189150'
     id_type: Website
     id_number: funnull.buzz
+  - uid: '189214'
+    id_type: Digital Currency Address - ETH
+    id_number: '0xd5ED34b52AC4ab84d8FA8A231a3218bbF01Ed510'

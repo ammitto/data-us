@@ -28,6 +28,9 @@ id_list:
     id_type: Tax ID No.
     id_number: '7831000940'
     id_country: Russia
+  - uid: '181571'
+    id_type: Target Type
+    id_number: Financial Institution
   - uid: '181575'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
@@ -37,6 +40,3 @@ id_list:
   - uid: '181569'
     id_type: Website
     id_number: www.exibank.ru
-  - uid: '181571'
-    id_type: Target Type
-    id_number: Financial Institution

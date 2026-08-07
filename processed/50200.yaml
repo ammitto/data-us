@@ -24,9 +24,9 @@ id_list:
     id_type: Tax ID No.
     id_number: '192003422'
     id_country: Belarus
-  - uid: '178180'
-    id_type: 'Organization Type:'
-    id_number: Transportation and storage
   - uid: '177815'
     id_type: Organization Established Date
     id_number: 15 Apr 2013
+  - uid: '178180'
+    id_type: 'Organization Type:'
+    id_number: Transportation and storage

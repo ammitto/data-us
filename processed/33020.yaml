@@ -6,6 +6,7 @@ sdn_type: Individual
 program_list:
   programs:
   - GLOMAG
+  - CUBA-EO14404
 address_list:
   items:
   - uid: '49685'
@@ -13,18 +14,21 @@ address_list:
     country: Cuba
 id_list:
   items:
+  - uid: '52969'
+    id_type: Passport
+    id_number: A008444
+    id_country: Cuba
+    expiration_date: 18 Jun 2027
   - uid: '142788'
     id_type: Gender
     id_number: Male
 date_of_birth_list:
   items:
   - uid: '42786'
-    date_of_birth: '1955'
+    date_of_birth: 05 Jun 1954
     main_entry: 'true'
 place_of_birth_list:
   items:
   - uid: '42787'
     place_of_birth: Baracoa, Cuba
     main_entry: 'true'
-title: Deputy Chief of the General Staff Revolutionary Armed Forces and Chief of the
-  Directorate of Operations of the FAR

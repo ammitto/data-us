@@ -35,10 +35,10 @@ address_list:
     country: Iran
 id_list:
   items:
-  - uid: '130046'
-    id_type: Website
-    id_number: http://nitcshipping.com
   - uid: '130045'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '130046'
+    id_type: Website
+    id_number: http://nitcshipping.com
 remarks: "(Linked To: NATIONAL IRANIAN TANKER COMPANY)"

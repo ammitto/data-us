@@ -38,6 +38,9 @@ id_list:
     id_type: Tax ID No.
     id_number: '5503067018'
     id_country: Russia
+  - uid: '181800'
+    id_type: Target Type
+    id_number: Financial Institution
   - uid: '181799'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
@@ -47,6 +50,3 @@ id_list:
   - uid: '181801'
     id_type: Website
     id_number: autofinancebank.ru
-  - uid: '181800'
-    id_type: Target Type
-    id_number: Financial Institution

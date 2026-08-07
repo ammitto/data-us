@@ -1,0 +1,43 @@
+---
+uid: '58293'
+first_name: Heriberto
+last_name: SANCHEZ ALLEYNE
+sdn_type: Individual
+program_list:
+  programs:
+  - CUBA-EO14404
+address_list:
+  items:
+  - uid: '89588'
+    city: Havana
+    country: Cuba
+id_list:
+  items:
+  - uid: '52966'
+    id_type: Passport
+    id_number: I103675
+    id_country: Cuba
+  - uid: '52967'
+    id_type: Passport
+    id_number: E452433
+    id_country: Cuba
+    issue_date: 24 Mar 2023
+    expiration_date: 24 Mar 2029
+  - uid: '52968'
+    id_type: National ID No.
+    id_number: '66082217669'
+    id_country: Cuba
+  - uid: '200133'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '100130'
+    date_of_birth: 22 Aug 1966
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '100131'
+    place_of_birth: Havana, Cuba
+    main_entry: 'true'
+remarks: "(Linked To: EMPRESA CUBANA IMPORTADA Y EXPORTADA DE PRODUCTOS TECNICOS)"

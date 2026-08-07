@@ -10,9 +10,6 @@ id_list:
   - uid: '51089'
     id_type: Vessel Registration Identification
     id_number: IMO 9221475
-  - uid: '196021'
-    id_type: Vessel Year of Build
-    id_number: '2000'
   - uid: '196050'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
@@ -21,4 +18,7 @@ id_list:
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
+  - uid: '196021'
+    id_type: Vessel Year of Build
+    id_number: '2000'
 remarks: "(Linked To: SEA SURF SHIPPING LIMITED)"

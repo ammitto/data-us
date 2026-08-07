@@ -1,0 +1,33 @@
+---
+uid: '58296'
+last_name: EMPRESA MILITAR INDUSTRIAL YURI GAGARIN
+sdn_type: Entity
+program_list:
+  programs:
+  - CUBA-EO14404
+aka_list:
+  items:
+  - uid: '90199'
+    type: a.k.a.
+    category: strong
+    last_name: YURI GAGARIN MILITARY INDUSTRIAL ENTERPRISE
+  - uid: '90200'
+    type: a.k.a.
+    category: strong
+    last_name: EMI YURI GAGARIN
+address_list:
+  items:
+  - uid: '89594'
+    city: Havana
+    country: Cuba
+id_list:
+  items:
+  - uid: '200139'
+    id_type: Organization Established Date
+    id_number: 10 May 1966
+  - uid: '200140'
+    id_type: 'Organization Type:'
+    id_number: Maintenance and repair of motor vehicles
+  - uid: '200141'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

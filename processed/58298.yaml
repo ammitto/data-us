@@ -1,0 +1,32 @@
+---
+uid: '58298'
+first_name: Oscar Enrique
+last_name: BIOSCA GALLEGO
+sdn_type: Individual
+program_list:
+  programs:
+  - CUBA-EO14404
+address_list:
+  items:
+  - uid: '89598'
+    country: Cuba
+id_list:
+  items:
+  - uid: '52971'
+    id_type: Passport
+    id_number: A011514
+    id_country: Cuba
+    expiration_date: 14 Sep 2029
+  - uid: '200146'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '100148'
+    date_of_birth: 01 Jul 1958
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '100147'
+    place_of_birth: Holguin, Cuba
+    main_entry: 'true'

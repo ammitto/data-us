@@ -44,12 +44,12 @@ id_list:
     id_type: Registration Number
     id_number: '1022300003021'
     id_country: Russia
-  - uid: '176404'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '169049'
     id_type: Target Type
     id_number: Financial Institution
+  - uid: '176404'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
   - uid: '169050'
     id_type: SWIFT/BIC
     id_number: ROSFRU2A

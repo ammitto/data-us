@@ -31,6 +31,9 @@ id_list:
     id_type: License
     id_number: '5020355'
     id_country: United Arab Emirates
+  - uid: '168568'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
   - uid: '187248'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
@@ -38,7 +41,4 @@ id_list:
   - uid: '168569'
     id_type: Organization Established Date
     id_number: 25 Nov 2018
-  - uid: '168568'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
 remarks: "(Linked To: MINISTRY OF DEFENSE AND ARMED FORCES LOGISTICS)"

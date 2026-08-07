@@ -34,12 +34,12 @@ id_list:
     id_number: U12429867
     id_country: Turkey
     expiration_date: 18 Mar 2021
-  - uid: '167979'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '167812'
     id_type: Gender
     id_number: Male
+  - uid: '167979'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '67810'

@@ -20,13 +20,13 @@ address_list:
     country: Venezuela
 id_list:
   items:
+  - uid: '190944'
+    id_type: Gender
+    id_number: Male
   - uid: '190964'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
-  - uid: '190944'
-    id_type: Gender
-    id_number: Male
 date_of_birth_list:
   items:
   - uid: '90941'

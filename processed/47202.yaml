@@ -40,9 +40,6 @@ id_list:
     id_type: License
     id_number: '21821'
     id_country: Nicaragua
-  - uid: '170259'
-    id_type: Website
-    id_number: www.emsanic.com
   - uid: '170262'
     id_type: 'Organization Type:'
     id_number: Wholesale of jewelry, watches, precious stones, and precious metals
@@ -52,3 +49,6 @@ id_list:
   - uid: '170263'
     id_type: Organization Established Date
     id_number: 10 Oct 2019
+  - uid: '170259'
+    id_type: Website
+    id_number: www.emsanic.com

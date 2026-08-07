@@ -1,0 +1,27 @@
+---
+uid: '58297'
+first_name: Jose Antonio
+last_name: REMON RODRIGUEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - CUBA-EO14404
+address_list:
+  items:
+  - uid: '89596'
+    country: Cuba
+id_list:
+  items:
+  - uid: '52970'
+    id_type: Passport
+    id_number: A011900
+    id_country: Cuba
+    expiration_date: 04 Jan 2030
+  - uid: '200144'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '100143'
+    date_of_birth: 03 Oct 1960
+    main_entry: 'true'

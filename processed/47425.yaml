@@ -37,6 +37,9 @@ id_list:
   - uid: '37839'
     id_type: Legal Entity Number
     id_number: 253400K1TTC1FABJCE13
+  - uid: '168931'
+    id_type: Target Type
+    id_number: Financial Institution
   - uid: '176394'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
@@ -46,6 +49,3 @@ id_list:
   - uid: '168930'
     id_type: Website
     id_number: www.avangard.ru
-  - uid: '168931'
-    id_type: Target Type
-    id_number: Financial Institution

@@ -18,6 +18,9 @@ address_list:
     country: Cambodia
 id_list:
   items:
+  - uid: '179194'
+    id_type: Phone Number
+    id_number: 855 23 991 868
   - uid: '179100'
     id_type: Website
     id_number: www.phnompenhhotel.com
@@ -30,7 +33,4 @@ id_list:
   - uid: '179174'
     id_type: 'Organization Type:'
     id_number: Short term accommodation activities
-  - uid: '179194'
-    id_type: Phone Number
-    id_number: 855 23 991 868
 remarks: "(Linked To: LY, Yong Phat)"

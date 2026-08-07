@@ -19,6 +19,9 @@ id_list:
     id_type: Unified Social Credit Code (USCC)
     id_number: 91120113MA069YC78P
     id_country: China
+  - uid: '177338'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '177337'
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'
@@ -26,7 +29,4 @@ id_list:
   - uid: '177057'
     id_type: Organization Established Date
     id_number: 30 Jan 2018
-  - uid: '177338'
-    id_type: 'Secondary sanctions risk:'
-    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
 remarks: "(Linked To: HAN, Dejian)"

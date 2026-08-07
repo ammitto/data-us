@@ -20,16 +20,16 @@ address_list:
     country: Cambodia
 id_list:
   items:
-  - uid: '177706'
-    id_type: Phone Number
-    id_number: 855 66 678 716
-  - uid: '179097'
-    id_type: 'Organization Type:'
-    id_number: Short term accommodation activities
   - uid: '178919'
     id_type: Website
     id_number: www.gardencityhotel.com.kh
   - uid: '178920'
     id_type: Email Address
     id_number: info@gardencityhotel.com.kh
+  - uid: '177706'
+    id_type: Phone Number
+    id_number: 855 66 678 716
+  - uid: '179097'
+    id_type: 'Organization Type:'
+    id_number: Short term accommodation activities
 remarks: "(Linked To: LY, Yong Phat)"

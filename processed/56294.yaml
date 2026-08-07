@@ -25,12 +25,12 @@ id_list:
     id_number: R62734748
     id_country: Iran
     expiration_date: 23 Apr 2028
-  - uid: '194404'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '194405'
     id_type: Gender
     id_number: Male
+  - uid: '194404'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '94407'

@@ -42,12 +42,12 @@ id_list:
     id_type: Tax ID No.
     id_number: '600436180'
     id_country: Belarus
-  - uid: '178175'
-    id_type: 'Organization Type:'
-    id_number: Freight air transport
   - uid: '177844'
     id_type: Organization Established Date
     id_number: 23 Mar 1997
+  - uid: '178175'
+    id_type: 'Organization Type:'
+    id_number: Freight air transport
   - uid: '178212'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.

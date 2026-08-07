@@ -22,10 +22,10 @@ id_list:
     id_type: Tax ID No.
     id_number: EE101233187
     id_country: Estonia
-  - uid: '170069'
-    id_type: 'Organization Type:'
-    id_number: Transportation and storage
   - uid: '177018'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '170069'
+    id_type: 'Organization Type:'
+    id_number: Transportation and storage
 remarks: "(Linked To: LIMITED LIABILITY COMPANY PUMORI NORTHWEST)"

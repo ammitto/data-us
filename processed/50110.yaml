@@ -45,18 +45,18 @@ id_list:
     id_type: Tax ID No.
     id_number: '6234204579'
     id_country: Russia
-  - uid: '178574'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '177643'
     id_type: Organization Established Date
     id_number: 07 Jul 2023
+  - uid: '177646'
+    id_type: Website
+    id_number: vostok-kb.ru
   - uid: '177642'
     id_type: 'Organization Type:'
     id_number: Manufacture of air and spacecraft and related machinery
   - uid: '177641'
     id_type: Digital Currency Address - USDT
     id_number: TLM3zA3EWycoDX4ZX4gKze7sgfbdkntTum
-  - uid: '177646'
-    id_type: Website
-    id_number: vostok-kb.ru
+  - uid: '178574'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
