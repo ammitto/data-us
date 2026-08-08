@@ -25,12 +25,12 @@ id_list:
     id_type: National ID No.
     id_number: '14138863'
     id_country: Portugal
-  - uid: '193064'
-    id_type: Gender
-    id_number: Male
   - uid: '193065'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '193064'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '93061'

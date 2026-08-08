@@ -24,12 +24,12 @@ id_list:
     id_number: N57400649
     id_country: Iran
     expiration_date: 02 Jul 2027
-  - uid: '193134'
-    id_type: Gender
-    id_number: Male
   - uid: '193706'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '193134'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '93131'

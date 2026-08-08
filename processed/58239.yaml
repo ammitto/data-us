@@ -1,0 +1,42 @@
+---
+uid: '58239'
+last_name: ABAN TETHER EXCHANGE
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '90094'
+    type: a.k.a.
+    category: strong
+    last_name: ABANTETHER
+  - uid: '90095'
+    type: a.k.a.
+    category: strong
+    last_name: ABAN TABADEL ARSABARAN
+address_list:
+  items:
+  - uid: '89485'
+    address1: Ground Floor, No. 8, Gozar Merdad Alley, Qods Town (West)
+    city: Tehran
+    postal_code: '1465663166'
+    country: Iran
+id_list:
+  items:
+  - uid: '52883'
+    id_type: National ID No.
+    id_number: '14009392670'
+    id_country: Iran
+  - uid: '199930'
+    id_type: Organization Established Date
+    id_number: 26 Aug 2020
+  - uid: '199931'
+    id_type: 'Organization Type:'
+    id_number: Financial and Insurance Activities
+  - uid: '199932'
+    id_type: Website
+    id_number: abantether.com
+  - uid: '200114'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

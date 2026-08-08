@@ -1,0 +1,35 @@
+---
+uid: '58277'
+first_name: Amir
+last_name: HENDI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '89555'
+    country: Iran
+id_list:
+  items:
+  - uid: '52939'
+    id_type: National ID No.
+    id_number: '0074773585'
+    id_country: Iran
+  - uid: '200055'
+    id_type: Gender
+    id_number: Male
+  - uid: '200056'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '100052'
+    date_of_birth: 05 Nov 1982
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '100053'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: TITAN EXCHANGE)"

@@ -20,10 +20,10 @@ id_list:
   - uid: '42341'
     id_type: Identification Number
     id_number: IMO 6485466
-  - uid: '178613'
-    id_type: 'Organization Type:'
-    id_number: Sea and coastal freight water transport
   - uid: '178610'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '178613'
+    id_type: 'Organization Type:'
+    id_number: Sea and coastal freight water transport
 remarks: "(Linked To: LIMITED LIABILITY COMPANY ARCTIC LNG 2)"

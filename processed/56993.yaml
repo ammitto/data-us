@@ -29,12 +29,12 @@ id_list:
     id_type: National ID No.
     id_number: 40 23 685988
     id_country: Russia
-  - uid: '196255'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
   - uid: '196155'
     id_type: Gender
     id_number: Female
+  - uid: '196255'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
 date_of_birth_list:
   items:
   - uid: '96154'

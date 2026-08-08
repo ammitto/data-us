@@ -24,16 +24,16 @@ address_list:
     country: Uzbekistan
 id_list:
   items:
-  - uid: '196260'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
-  - uid: '196166'
-    id_type: Website
-    id_number: advance-sec.com
   - uid: '196164'
     id_type: Organization Established Date
     id_number: '2025'
   - uid: '196165'
     id_type: 'Organization Type:'
     id_number: Computer programming activities
+  - uid: '196260'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+  - uid: '196166'
+    id_type: Website
+    id_number: advance-sec.com
 remarks: "(Linked To: MAMASHOYEV, Azizjon Makhmudovich)"

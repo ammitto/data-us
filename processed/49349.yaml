@@ -26,9 +26,9 @@ id_list:
   - uid: '40598'
     id_type: Tax ID No.
     id_number: '6367080065'
-  - uid: '172415'
-    id_type: Target Type
-    id_number: State-Owned Enterprise
   - uid: '172414'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '172415'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

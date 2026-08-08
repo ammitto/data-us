@@ -22,6 +22,15 @@ id_list:
     id_type: Passport
     id_number: P250404QS
     id_country: Canada
+  - uid: '194570'
+    id_type: Digital Currency Address - TRX
+    id_number: TCu5onCzXuqxjvVzdB2tR4FLuF66d4yRqf
+  - uid: '194571'
+    id_type: Digital Currency Address - TRX
+    id_number: TBcLqqqyZjNj1ptuXFgj5H768NhNU5nDyn
+  - uid: '194579'
+    id_type: Digital Currency Address - SOL
+    id_number: 42RLPACwZPx3vYYmxSueqsogfynBDqXK298EDsNoyoHi
   - uid: '194565'
     id_type: Gender
     id_number: Male
@@ -40,15 +49,6 @@ id_list:
   - uid: '194576'
     id_type: Digital Currency Address - ETH
     id_number: '0xe1e4c5e5ed8f03ae61b581e2def126025f2b9401'
-  - uid: '194570'
-    id_type: Digital Currency Address - TRX
-    id_number: TCu5onCzXuqxjvVzdB2tR4FLuF66d4yRqf
-  - uid: '194571'
-    id_type: Digital Currency Address - TRX
-    id_number: TBcLqqqyZjNj1ptuXFgj5H768NhNU5nDyn
-  - uid: '194579'
-    id_type: Digital Currency Address - SOL
-    id_number: 42RLPACwZPx3vYYmxSueqsogfynBDqXK298EDsNoyoHi
   - uid: '194569'
     id_type: Phone Number
     id_number: '14163184394'

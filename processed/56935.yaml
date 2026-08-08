@@ -10,13 +10,13 @@ id_list:
   - uid: '51090'
     id_type: Vessel Registration Identification
     id_number: IMO 9450715
-  - uid: '196024'
-    id_type: Vessel Year of Build
-    id_number: '1999'
   - uid: '196025'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
+  - uid: '196024'
+    id_type: Vessel Year of Build
+    id_number: '1999'
   - uid: '196049'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial

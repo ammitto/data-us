@@ -20,13 +20,13 @@ id_list:
     id_type: Registration Number
     id_number: '202101041127'
     id_country: Malaysia
-  - uid: '168172'
-    id_type: Organization Established Date
-    id_number: '2021'
   - uid: '167976'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
   - uid: '167884'
     id_type: Website
     id_number: https://satech.com.my/
+  - uid: '168172'
+    id_type: Organization Established Date
+    id_number: '2021'
 remarks: "(Linked To: ARDAKANI, Hossein Hatefi)"

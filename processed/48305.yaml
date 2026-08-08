@@ -33,10 +33,10 @@ address_list:
     country: Greece
 id_list:
   items:
-  - uid: '170462'
-    id_type: Organization Established Date
-    id_number: '2022'
   - uid: '170529'
     id_type: 'Organization Type:'
     id_number: Travel agency activities
+  - uid: '170462'
+    id_type: Organization Established Date
+    id_number: '2022'
 remarks: "(Linked To: AL-DJ, Mahmoud Abdulilah)"

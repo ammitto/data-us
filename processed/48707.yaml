@@ -25,9 +25,9 @@ id_list:
     id_type: Tax ID No.
     id_number: '6481617870'
     id_country: Turkey
-  - uid: '171122'
-    id_type: Organization Established Date
-    id_number: 27 Jun 2022
   - uid: '176629'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '171122'
+    id_type: Organization Established Date
+    id_number: 27 Jun 2022

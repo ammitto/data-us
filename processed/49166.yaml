@@ -32,9 +32,9 @@ id_list:
   - uid: '40281'
     id_type: Legal Entity Number
     id_number: 2549003RJUBRHOOLBD62
-  - uid: '172106'
-    id_type: Organization Established Date
-    id_number: 15 Mar 2016
   - uid: '172729'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '172106'
+    id_type: Organization Established Date
+    id_number: 15 Mar 2016

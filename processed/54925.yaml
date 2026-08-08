@@ -23,13 +23,13 @@ id_list:
     id_type: C.U.R.P.
     id_number: LOAC810227HSLPRS03
     id_country: Mexico
-  - uid: '191512'
-    id_type: Gender
-    id_number: Male
   - uid: '193931'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
+  - uid: '191512'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '91509'

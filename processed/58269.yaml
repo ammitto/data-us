@@ -1,0 +1,42 @@
+---
+uid: '58269'
+first_name: Peivand
+last_name: MOHAMMAD
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '90138'
+    type: a.k.a.
+    category: strong
+    last_name: MOHAMMAD
+    first_name: Peyvand
+address_list:
+  items:
+  - uid: '89603'
+    country: Iran
+id_list:
+  items:
+  - uid: '52925'
+    id_type: National ID No.
+    id_number: '0013132229'
+    id_country: Iran
+  - uid: '200158'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '200156'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '100157'
+    date_of_birth: 21 Jan 1991
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '100037'
+    place_of_birth: Iran
+    main_entry: 'true'
+remarks: "(Linked To: FARAB SOROUSH AFAGH QESHM COMPANY)"

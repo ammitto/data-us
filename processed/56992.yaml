@@ -15,6 +15,9 @@ address_list:
     country: United Arab Emirates
 id_list:
   items:
+  - uid: '196256'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
   - uid: '196152'
     id_type: Organization Established Date
     id_number: 07 Dec 2024
@@ -48,7 +51,4 @@ id_list:
     id_number: BAN ON INVESTMENT IN EQUITY OR DEBT OF SANCTIONED PERSON. Sec.2(b)(1)(J)
       - Any United States person is prohibited from investing in or purchasing significant
       amounts of equity or debt instruments of this entity.
-  - uid: '196256'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
 remarks: "(Linked To: ZELENYUK, Sergey Sergeyevich)"

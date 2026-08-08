@@ -19,12 +19,12 @@ id_list:
     id_number: R57381834
     id_country: Iran
     expiration_date: 01 Jul 2027
-  - uid: '196007'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '195886'
     id_type: Gender
     id_number: Male
+  - uid: '196007'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '95885'

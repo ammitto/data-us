@@ -1,0 +1,42 @@
+---
+uid: '58267'
+first_name: Saeed
+last_name: GHASEMPOUR
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '90150'
+    type: a.k.a.
+    category: strong
+    last_name: GHASEMPUR
+    first_name: Sa'id
+address_list:
+  items:
+  - uid: '89536'
+    country: Iran
+id_list:
+  items:
+  - uid: '52922'
+    id_type: National ID No.
+    id_number: '2060455065'
+    id_country: Iran
+  - uid: '200034'
+    id_type: Gender
+    id_number: Male
+  - uid: '200062'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '100032'
+    date_of_birth: 10 Feb 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '100033'
+    place_of_birth: Babol, Iran
+    main_entry: 'true'
+remarks: "(Linked To: BANK-E SHAHR)"

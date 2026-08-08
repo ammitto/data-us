@@ -23,13 +23,13 @@ id_list:
     id_type: Tax ID No.
     id_number: '7715985119'
     id_country: Russia
-  - uid: '199563'
-    id_type: Organization Established Date
-    id_number: 06 Dec 2013
-  - uid: '199643'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '199564'
     id_type: Website
     id_number: https://avratek.com
+  - uid: '199643'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '199563'
+    id_type: Organization Established Date
+    id_number: 06 Dec 2013
 remarks: "(Linked To: NAMAZI, Behrouz)"
