@@ -29,13 +29,13 @@ id_list:
     id_type: Registration Number
     id_number: '1067746829292'
     id_country: Russia
-  - uid: '160336'
-    id_type: 'Organization Type:'
-    id_number: Real estate activities with own or leased property
-  - uid: '160335'
-    id_type: Organization Established Date
-    id_number: 19 Jul 2006
   - uid: '175397'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '160335'
+    id_type: Organization Established Date
+    id_number: 19 Jul 2006
+  - uid: '160336'
+    id_type: 'Organization Type:'
+    id_number: Real estate activities with own or leased property
 remarks: "(Linked To: USMANOV, Alisher Burhanovich)"

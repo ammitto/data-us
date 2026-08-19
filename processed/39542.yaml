@@ -40,11 +40,11 @@ id_list:
     id_type: Tax ID No.
     id_number: '9209696153'
     id_country: South Africa
-  - uid: '155762'
-    id_type: Organization Established Date
-    id_number: 10 Mar 2004
   - uid: '155763'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
+  - uid: '155762'
+    id_type: Organization Established Date
+    id_number: 10 Mar 2004
 remarks: "(Linked To: HOOMER, Farhad)"

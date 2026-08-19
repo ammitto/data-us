@@ -19,9 +19,9 @@ id_list:
     id_type: Registration Number
     id_number: '2676701'
     id_country: Hong Kong
-  - uid: '166293'
-    id_type: Target Type
-    id_number: Private Company
   - uid: '166289'
     id_type: Organization Established Date
     id_number: 06 Apr 2018
+  - uid: '166293'
+    id_type: Target Type
+    id_number: Private Company

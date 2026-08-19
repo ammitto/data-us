@@ -27,12 +27,12 @@ id_list:
     id_type: Government Gazette Number
     id_number: '70776937'
     id_country: Russia
-  - uid: '158518'
-    id_type: Target Type
-    id_number: Private Company
   - uid: '175308'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
   - uid: '158517'
     id_type: Organization Established Date
     id_number: 21 Nov 2003
+  - uid: '158518'
+    id_type: Target Type
+    id_number: Private Company

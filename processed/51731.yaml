@@ -28,15 +28,15 @@ id_list:
     id_type: Tax ID No.
     id_number: '6612010782'
     id_country: Russia
+  - uid: '181846'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
   - uid: '181848'
     id_type: SWIFT/BIC
     id_number: MTKCRUMM
   - uid: '181847'
     id_type: Website
     id_number: www.metcom.ru
-  - uid: '181846'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '181845'
     id_type: Target Type
     id_number: Financial Institution

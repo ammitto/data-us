@@ -20,15 +20,15 @@ id_list:
     id_type: National ID No.
     id_number: '130502197706161537'
     id_country: China
-  - uid: '165866'
-    id_type: Gender
-    id_number: Male
   - uid: '165867'
     id_type: Digital Currency Address - XBT
     id_number: 3NU9zkD8CCVGVmYnNNSN7PbU9sSFQBm5UV
   - uid: '165869'
     id_type: Digital Currency Address - ETH
     id_number: '0x961c5be54a2ffc17cf4cb021d863c42dacd47fc1'
+  - uid: '165866'
+    id_type: Gender
+    id_number: Male
   - uid: '165868'
     id_type: Digital Currency Address - TRX
     id_number: TRBACioxdrdsYEZHvJWiUDZcMdBPpEe5Ub

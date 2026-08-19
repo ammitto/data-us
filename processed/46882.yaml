@@ -63,12 +63,12 @@ id_list:
     id_number: AK406531
     id_country: Canada
     expiration_date: 11 Jan 2029
-  - uid: '167937'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '167821'
     id_type: Gender
     id_number: Male
+  - uid: '167937'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '67818'

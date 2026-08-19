@@ -24,9 +24,6 @@ id_list:
     id_type: Company Number
     id_number: 201815139D
     id_country: Singapore
-  - uid: '155264'
-    id_type: 'Secondary sanctions risk:'
-    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '155265'
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'
@@ -34,4 +31,7 @@ id_list:
   - uid: '155224'
     id_type: Organization Established Date
     id_number: 04 May 2018
+  - uid: '155264'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
 remarks: "(Linked To: KWEK, Kee Seng)"

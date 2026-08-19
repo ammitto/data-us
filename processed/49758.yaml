@@ -13,9 +13,9 @@ address_list:
     country: Congo, Democratic Republic of the
 id_list:
   items:
-  - uid: '177099'
-    id_type: Target Type
-    id_number: Armed Group
   - uid: '177071'
     id_type: Organization Established Date
     id_number: '2008'
+  - uid: '177099'
+    id_type: Target Type
+    id_number: Armed Group

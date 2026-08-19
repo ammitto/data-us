@@ -30,9 +30,9 @@ id_list:
     id_type: Tax ID No.
     id_number: '100377850'
     id_country: Belarus
-  - uid: '167297'
-    id_type: Organization Established Date
-    id_number: 21 Jun 1991
   - uid: '167295'
     id_type: Target Type
     id_number: State-Owned Enterprise
+  - uid: '167297'
+    id_type: Organization Established Date
+    id_number: 21 Jun 1991

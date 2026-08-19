@@ -20,9 +20,6 @@ address_list:
     country: Iraq
 id_list:
   items:
-  - uid: '168583'
-    id_type: 'Organization Type:'
-    id_number: Travel agency activities
   - uid: '168452'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
@@ -30,4 +27,7 @@ id_list:
   - uid: '168453'
     id_type: Organization Established Date
     id_number: '2014'
+  - uid: '168583'
+    id_type: 'Organization Type:'
+    id_number: Travel agency activities
 remarks: "(Linked To: AL-HAMIDAWI, Awqad Muhsin Faraj)"

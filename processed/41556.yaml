@@ -24,6 +24,9 @@ id_list:
   - uid: '160060'
     id_type: Organization Established Date
     id_number: 01 Mar 2018
+  - uid: '160307'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
   - uid: '160049'
     id_type: Website
     id_number: genesis.market
@@ -36,6 +39,3 @@ id_list:
   - uid: '160053'
     id_type: Website
     id_number: g3n3sis.pro
-  - uid: '160307'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201

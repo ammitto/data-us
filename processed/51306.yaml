@@ -27,13 +27,13 @@ id_list:
     id_type: National ID No.
     id_number: '2294701798'
     id_country: Iran
-  - uid: '180520'
-    id_type: Gender
-    id_number: Male
   - uid: '180517'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
+  - uid: '180520'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '80518'

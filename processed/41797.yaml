@@ -29,12 +29,12 @@ id_list:
     id_country: Uzbekistan
     issue_date: 01 Jun 2009
     expiration_date: 29 Jun 2029
-  - uid: '160011'
-    id_type: Gender
-    id_number: Female
   - uid: '176941'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '160011'
+    id_type: Gender
+    id_number: Female
 date_of_birth_list:
   items:
   - uid: '60012'

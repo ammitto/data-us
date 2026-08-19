@@ -32,9 +32,6 @@ id_list:
     id_type: Registration ID
     id_number: '8862'
     id_country: Iran
-  - uid: '154394'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '153607'
     id_type: Organization Established Date
     id_number: 30 Jun 2007
@@ -44,4 +41,7 @@ id_list:
   - uid: '153609'
     id_type: Target Type
     id_number: Private Company
+  - uid: '154394'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 remarks: "(Linked To: KHATIBI AGHADA, Ahmad)"

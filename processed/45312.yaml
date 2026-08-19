@@ -29,6 +29,12 @@ id_list:
   - uid: '165738'
     id_type: Gender
     id_number: Male
+  - uid: '165740'
+    id_type: Phone Number
+    id_number: '8613337963690'
+  - uid: '165741'
+    id_type: Phone Number
+    id_number: '8615189626230'
   - uid: '165739'
     id_type: Email Address
     id_number: 183322875@qq.com
@@ -41,12 +47,6 @@ id_list:
   - uid: '165745'
     id_type: Digital Currency Address - USDT
     id_number: TEAqwfMhXLaomXhZ8KeMhx3njGmQEDnsUR
-  - uid: '165740'
-    id_type: Phone Number
-    id_number: '8613337963690'
-  - uid: '165741'
-    id_type: Phone Number
-    id_number: '8615189626230'
 date_of_birth_list:
   items:
   - uid: '65735'

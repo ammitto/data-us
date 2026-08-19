@@ -38,12 +38,12 @@ id_list:
     id_type: Business Registration Number
     id_number: 201938747K
     id_country: Singapore
-  - uid: '158235'
-    id_type: Organization Established Date
-    id_number: 15 Nov 2019
   - uid: '158267'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '158235'
+    id_type: Organization Established Date
+    id_number: 15 Nov 2019
   - uid: '158236'
     id_type: Website
     id_number: https://unicious.com/

@@ -1,0 +1,32 @@
+---
+uid: '58411'
+first_name: Abdoulaye
+last_name: SEYE
+sdn_type: Individual
+program_list:
+  programs:
+  - ICC-EO14203
+address_list:
+  items:
+  - uid: '89821'
+    country: Netherlands
+id_list:
+  items:
+  - uid: '53145'
+    id_type: Passport
+    id_number: A04447087
+    id_country: Senegal
+    expiration_date: 23 Jul 2030
+  - uid: '200477'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '100474'
+    date_of_birth: '09 May 1967'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '100475'
+    place_of_birth: Dakar, Senegal
+    main_entry: 'true'
