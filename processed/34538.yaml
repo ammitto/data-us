@@ -30,12 +30,12 @@ id_list:
     id_type: Registration Number
     id_number: '0102100878'
     id_country: Vietnam
-  - uid: '146699'
-    id_type: Target Type
-    id_number: Financial Institution
   - uid: '177047'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '146699'
+    id_type: Target Type
+    id_number: Financial Institution
   - uid: '145970'
     id_type: SWIFT/BIC
     id_number: VRBAVNVX

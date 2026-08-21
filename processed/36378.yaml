@@ -11,10 +11,6 @@ id_list:
     id_type: Registration Number
     id_number: T7-OKY
     id_country: San Marino
-  - uid: '152318'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
-      589.209
   - uid: '149975'
     id_type: Aircraft Manufacture Date
     id_number: '2014'
@@ -24,4 +20,8 @@ id_list:
   - uid: '149974'
     id_type: Aircraft Manufacturer's Serial Number (MSN)
     id_number: '9576'
+  - uid: '152318'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
 remarks: "(Linked To: SRL SKYLINE AVIATION)"

@@ -53,21 +53,6 @@ id_list:
   - uid: '27541'
     id_type: Legal Entity Number
     id_number: HOXMZG026UQNRK6J0C60
-  - uid: '153541'
-    id_type: Equity Ticker
-    id_number: ROSB
-  - uid: '153540'
-    id_type: ISIN
-    id_number: RU000A0HHK26
-  - uid: '153539'
-    id_type: Target Type
-    id_number: Financial Institution
-  - uid: '153537'
-    id_type: SWIFT/BIC
-    id_number: RSBNRUMM
-  - uid: '153538'
-    id_type: Website
-    id_number: https://www.rosbank.ru/
   - uid: '174237'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
@@ -78,3 +63,18 @@ id_list:
   - uid: '153536'
     id_type: Organization Established Date
     id_number: 02 Mar 1993
+  - uid: '153537'
+    id_type: SWIFT/BIC
+    id_number: RSBNRUMM
+  - uid: '153538'
+    id_type: Website
+    id_number: https://www.rosbank.ru/
+  - uid: '153541'
+    id_type: Equity Ticker
+    id_number: ROSB
+  - uid: '153540'
+    id_type: ISIN
+    id_number: RU000A0HHK26
+  - uid: '153539'
+    id_type: Target Type
+    id_number: Financial Institution

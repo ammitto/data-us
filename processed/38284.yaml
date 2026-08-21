@@ -34,12 +34,12 @@ id_list:
     id_type: Tax ID No.
     id_number: '2328614173'
     id_country: Ukraine
-  - uid: '174672'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '153574'
     id_type: Gender
     id_number: Male
+  - uid: '174672'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 date_of_birth_list:
   items:
   - uid: '53572'

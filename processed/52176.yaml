@@ -28,9 +28,9 @@ id_list:
     id_type: Tax ID No.
     id_number: '7704440000'
     id_country: Russia
-  - uid: '183103'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '183614'
     id_type: 'Organization Type:'
     id_number: Computer programming activities
+  - uid: '183103'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

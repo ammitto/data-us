@@ -1,0 +1,35 @@
+---
+uid: '58265'
+first_name: Yunus Alper
+last_name: YILMAZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+  - IFSR
+address_list:
+  items:
+  - uid: '89531'
+    country: Turkey
+  - uid: '89532'
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '200110'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '200027'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '100024'
+    date_of_birth: '1982'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '100026'
+    place_of_birth: Mersin, Turkey
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS (IRGC)-QODS FORCE)"

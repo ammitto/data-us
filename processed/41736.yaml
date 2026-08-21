@@ -32,6 +32,9 @@ id_list:
     id_number: BD5609822
     id_country: Slovakia
     expiration_date: 19 May 2024
+  - uid: '159913'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '159914'
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'
@@ -39,9 +42,6 @@ id_list:
   - uid: '159908'
     id_type: Gender
     id_number: Male
-  - uid: '159913'
-    id_type: 'Secondary sanctions risk:'
-    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
 date_of_birth_list:
   items:
   - uid: '59907'

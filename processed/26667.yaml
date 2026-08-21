@@ -24,12 +24,12 @@ id_list:
     id_type: VisaNumberID
     id_number: '525867504'
     id_country: France
-  - uid: '131304'
-    id_type: Gender
-    id_number: Male
   - uid: '154608'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+  - uid: '131304'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '31302'

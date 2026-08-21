@@ -20,9 +20,9 @@ address_list:
     country: Iran
 id_list:
   items:
-  - uid: '138733'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '138682'
     id_type: Website
     id_number: www.wasteelco.com
+  - uid: '138733'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

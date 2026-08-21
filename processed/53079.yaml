@@ -17,9 +17,6 @@ address_list:
     country: Russia
 id_list:
   items:
-  - uid: '192417'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
   - uid: '191559'
     id_type: Organization Established Date
     id_number: '2020'
@@ -29,4 +26,7 @@ id_list:
   - uid: '185372'
     id_type: Website
     id_number: indefibank.com
+  - uid: '192417'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
 remarks: "(Linked To: MENDELEEV, Sergey)"

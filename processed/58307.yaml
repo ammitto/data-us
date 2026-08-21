@@ -1,0 +1,51 @@
+---
+uid: '58307'
+first_name: Mehmet
+last_name: ACUR
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '90217'
+    type: a.k.a.
+    category: strong
+    last_name: AJUR
+    first_name: Mehmet
+address_list:
+  items:
+  - uid: '89619'
+    address1: Kangal Sokak 6 4
+    address2: Fatih Yavuz Sultan Selim Mah.
+    city: Istanbul
+    country: Turkey
+id_list:
+  items:
+  - uid: '52981'
+    id_type: Passport
+    id_number: U28821454
+    id_country: Turkey
+    expiration_date: 29 May 2033
+  - uid: '52985'
+    id_type: National ID No.
+    id_number: '31250176566'
+    id_country: Turkey
+  - uid: '200196'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '200195'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '100192'
+    date_of_birth: 19 Aug 1982
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '100194'
+    place_of_birth: Midyat, Turkey
+    main_entry: 'true'
+remarks: "(Linked To: HIZBALLAH)"

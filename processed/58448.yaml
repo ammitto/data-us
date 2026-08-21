@@ -1,0 +1,33 @@
+---
+uid: '58448'
+last_name: EMPRESA IMPORTADORA EXPORTADORA Y COMERCIALIZADORA DE METALES
+sdn_type: Entity
+program_list:
+  programs:
+  - CUBA-EO14404
+aka_list:
+  items:
+  - uid: '90432'
+    type: a.k.a.
+    category: strong
+    last_name: METALCUBA
+address_list:
+  items:
+  - uid: '89902'
+    city: Havana
+    country: Cuba
+id_list:
+  items:
+  - uid: '53192'
+    id_type: Entity Code
+    id_number: '12591'
+    id_country: Cuba
+  - uid: '200639'
+    id_type: Organization Established Date
+    id_number: 15 Jan 2002
+  - uid: '200640'
+    id_type: 'Organization Type:'
+    id_number: Wholesale of metals and metal ores
+  - uid: '200641'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

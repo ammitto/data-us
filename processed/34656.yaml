@@ -62,9 +62,6 @@ id_list:
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
       589.209
-  - uid: '146028'
-    id_type: BIK (RU)
-    id_number: '044525555'
   - uid: '172693'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
@@ -77,3 +74,6 @@ id_list:
   - uid: '146030'
     id_type: Organization Established Date
     id_number: '2001'
+  - uid: '146028'
+    id_type: BIK (RU)
+    id_number: '044525555'

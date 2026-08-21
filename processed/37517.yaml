@@ -34,6 +34,9 @@ id_list:
     id_type: Legal Entity Number
     id_number: 253400YGH90JM0RMLU50
     id_country: Russia
+  - uid: '152415'
+    id_type: BIK (RU)
+    id_number: '040507705'
   - uid: '152416'
     id_type: 'Secondary sanctions risk:'
     id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
@@ -44,6 +47,3 @@ id_list:
   - uid: '152418'
     id_type: SWIFT/BIC
     id_number: FAEBRU8V
-  - uid: '152415'
-    id_type: BIK (RU)
-    id_number: '040507705'

@@ -52,6 +52,12 @@ id_list:
   - uid: '12584'
     id_type: Identification Number
     id_number: 'ISIN: RU0009177331'
+  - uid: '120509'
+    id_type: Website
+    id_number: www.mostro.ru
+  - uid: '120507'
+    id_type: Email Address
+    id_number: pressa@mostro.ru
   - uid: '120899'
     id_type: MICEX Code
     id_number: MSTT
@@ -59,9 +65,3 @@ id_list:
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
       589.209
-  - uid: '120509'
-    id_type: Website
-    id_number: www.mostro.ru
-  - uid: '120507'
-    id_type: Email Address
-    id_number: pressa@mostro.ru

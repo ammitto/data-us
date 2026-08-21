@@ -30,6 +30,15 @@ id_list:
     id_type: National ID No.
     id_number: '4220104113771'
     id_country: Pakistan
+  - uid: '138282'
+    id_type: Email Address
+    id_number: threatcc@gmail.com
+  - uid: '138283'
+    id_type: Email Address
+    id_number: mujtaba@forwarderz.com
+  - uid: '139906'
+    id_type: Gender
+    id_number: Male
   - uid: '138285'
     id_type: Digital Currency Address - XBT
     id_number: 1KSAbh5trMCTZwhiNsuUQvfTtSSTT8zqRk
@@ -39,18 +48,9 @@ id_list:
   - uid: '154598'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
-  - uid: '138282'
-    id_type: Email Address
-    id_number: threatcc@gmail.com
-  - uid: '138283'
-    id_type: Email Address
-    id_number: mujtaba@forwarderz.com
   - uid: '138287'
     id_type: Digital Currency Address - LTC
     id_number: LeKvNdNEzgQkzVVnRdV3fAu2DSF1nLsNw6
-  - uid: '139906'
-    id_type: Gender
-    id_number: Male
   - uid: '138294'
     id_type: Digital Currency Address - XVG
     id_number: DFFJhnQNZf8rf67tYnesPu7MuGUpYtzv7Z

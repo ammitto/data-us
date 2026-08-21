@@ -38,9 +38,6 @@ address_list:
     country: Russia
 id_list:
   items:
-  - uid: '152945'
-    id_type: Target Type
-    id_number: Government Entity
   - uid: '173927'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
@@ -50,3 +47,6 @@ id_list:
   - uid: '152944'
     id_type: Organization Established Date
     id_number: '1994'
+  - uid: '152945'
+    id_type: Target Type
+    id_number: Government Entity

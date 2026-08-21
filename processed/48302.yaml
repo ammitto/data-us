@@ -29,9 +29,6 @@ id_list:
     id_type: Passport
     id_number: N013053807
     id_country: Syria
-  - uid: '170468'
-    id_type: Digital Currency Address - USDT
-    id_number: TWBAPzpPiZarfVsY2BLXeaLhNHurn4wkWG
   - uid: '170456'
     id_type: Gender
     id_number: Male
@@ -39,6 +36,9 @@ id_list:
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
+  - uid: '170468'
+    id_type: Digital Currency Address - USDT
+    id_number: TWBAPzpPiZarfVsY2BLXeaLhNHurn4wkWG
 date_of_birth_list:
   items:
   - uid: '70455'

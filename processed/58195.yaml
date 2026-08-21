@@ -24,13 +24,13 @@ id_list:
     id_number: J0436609
     id_country: Austria
     expiration_date: '08 May 2013'
-  - uid: '199782'
-    id_type: Gender
-    id_number: Male
   - uid: '199785'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
+  - uid: '199782'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '99784'

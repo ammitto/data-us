@@ -23,12 +23,12 @@ id_list:
     id_type: Passport
     id_number: E90597546
     id_country: China
-  - uid: '184344'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '184349'
     id_type: Gender
     id_number: Male
+  - uid: '184344'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 date_of_birth_list:
   items:
   - uid: '84345'

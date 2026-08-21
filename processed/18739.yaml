@@ -45,6 +45,18 @@ id_list:
     id_type: Tax ID No.
     id_number: '7709378229'
     id_country: Russia
+  - uid: '118177'
+    id_type: Website
+    id_number: www.vtb-leasing.ru
+  - uid: '173895'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '157166'
+    id_type: Organization Established Date
+    id_number: 13 Jun 2002
+  - uid: '157167'
+    id_type: 'Organization Type:'
+    id_number: Financial leasing
   - uid: '118212'
     id_type: Executive Order 13662 Directive Determination -
     id_number: Subject to Directive 1
@@ -52,17 +64,5 @@ id_list:
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
       589.209
-  - uid: '157167'
-    id_type: 'Organization Type:'
-    id_number: Financial leasing
-  - uid: '157166'
-    id_type: Organization Established Date
-    id_number: 13 Jun 2002
-  - uid: '173895'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
-  - uid: '118177'
-    id_type: Website
-    id_number: www.vtb-leasing.ru
 remarks: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
   (Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)'

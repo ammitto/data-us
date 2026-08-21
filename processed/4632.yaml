@@ -39,6 +39,9 @@ address_list:
     country: Iran
 id_list:
   items:
+  - uid: '130012'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
   - uid: '197667'
     id_type: Digital Currency Address - TRX
     id_number: TNiq9AXBp9EjUqhDhrwrfvAA8U3GUQZH81
@@ -57,9 +60,6 @@ id_list:
   - uid: '199673'
     id_type: Digital Currency Address - TRX
     id_number: TFQbqaNbmq2xsVor2NbufLkYZvxFC9wC7k
-  - uid: '130012'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '185825'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order

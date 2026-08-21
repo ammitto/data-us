@@ -33,13 +33,13 @@ id_list:
     id_type: National ID No.
     id_number: '55735353242'
     id_country: Turkey
-  - uid: '149361'
-    id_type: Gender
-    id_number: Male
   - uid: '149365'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
+  - uid: '149361'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '49363'

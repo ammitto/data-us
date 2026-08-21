@@ -28,6 +28,9 @@ id_list:
   - uid: '146661'
     id_type: Target Type
     id_number: Financial Institution
+  - uid: '118217'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 1
   - uid: '118826'
     id_type: SWIFT/BIC
     id_number: ARMJAM22
@@ -38,9 +41,6 @@ id_list:
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
       589.209
-  - uid: '118217'
-    id_type: Executive Order 13662 Directive Determination -
-    id_number: Subject to Directive 1
   - uid: '173883'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.

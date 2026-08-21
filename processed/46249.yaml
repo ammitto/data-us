@@ -26,12 +26,12 @@ id_list:
     id_number: U01292672
     id_country: Turkey
     expiration_date: 01 Feb 2021
-  - uid: '167934'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '166975'
     id_type: Gender
     id_number: Male
+  - uid: '167934'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '66976'

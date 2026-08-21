@@ -22,6 +22,22 @@ address_list:
     address2: Vedado
     city: Havana
     country: Cuba
+  - uid: '89925'
+    address1: Casa De La Amistad
+    address2: Paseo e/ 17 y 19
+    address3: Vedado
+    city: Havana
+    country: Cuba
+  - uid: '89926'
+    address1: Casa Memorial Salvador Allende
+    address2: Calle 13 Entre D y E
+    address3: Vedado
+    city: Havana
+    country: Cuba
+  - uid: '89927'
+    address1: Campamento Internacional Julio Antonio Mella Caimito
+    state_or_province: Artemisa Province
+    country: Cuba
 id_list:
   items:
   - uid: '52422'

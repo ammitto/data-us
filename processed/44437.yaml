@@ -26,13 +26,6 @@ id_list:
   - uid: '164251'
     id_type: Email Address
     id_number: adv@sinbad.io
-  - uid: '164478'
-    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
-      Institutions:'
-    id_number: North Korea Sanctions Regulations section 510.214
-  - uid: '164249'
-    id_type: Organization Established Date
-    id_number: 29 Sep 2022
   - uid: '164252'
     id_type: Digital Currency Address - XBT
     id_number: bc1qq7p0es3dv5hcynjjf40f2xjjr6qp5py47d2f6n847vduuq9gvnyq7y9ecd
@@ -42,3 +35,10 @@ id_list:
   - uid: '164477'
     id_type: 'Secondary sanctions risk:'
     id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '164478'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '164249'
+    id_type: Organization Established Date
+    id_number: 29 Sep 2022

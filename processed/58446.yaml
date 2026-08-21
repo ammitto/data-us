@@ -1,0 +1,37 @@
+---
+uid: '58446'
+first_name: Noemi Ramona
+last_name: RABAZA FERNANDEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - CUBA-EO14404
+address_list:
+  items:
+  - uid: '89898'
+    city: Havana
+    country: Cuba
+id_list:
+  items:
+  - uid: '53190'
+    id_type: National ID No.
+    id_number: '65011321470'
+    id_country: Cuba
+  - uid: '53191'
+    id_type: Passport
+    id_number: A015779
+    id_country: Cuba
+  - uid: '200635'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '100632'
+    date_of_birth: 13 Jan 1965
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '100633'
+    place_of_birth: Bayamo, Granma, Cuba
+    main_entry: 'true'
+remarks: "(Linked To: CUBAN INSTITUTE OF FRIENDSHIP WITH THE PEOPLES)"

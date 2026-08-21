@@ -1,0 +1,37 @@
+---
+uid: '58444'
+first_name: Leima
+last_name: MARTINEZ FREIRE
+sdn_type: Individual
+program_list:
+  programs:
+  - CUBA-EO14404
+address_list:
+  items:
+  - uid: '89894'
+    city: Havana
+    country: Cuba
+id_list:
+  items:
+  - uid: '53188'
+    id_type: National ID No.
+    id_number: '80122305756'
+    id_country: Cuba
+  - uid: '53189'
+    id_type: Passport
+    id_number: A008893
+    id_country: Cuba
+  - uid: '200629'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '100626'
+    date_of_birth: 23 Dec 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '100627'
+    place_of_birth: Guanabacoa, Havana, Cuba
+    main_entry: 'true'
+remarks: "(Linked To: CUBAN INSTITUTE OF FRIENDSHIP WITH THE PEOPLES)"

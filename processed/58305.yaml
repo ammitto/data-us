@@ -1,0 +1,44 @@
+---
+uid: '58305'
+first_name: Halil Ibrahim
+last_name: KACMAZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+  - IFSR
+aka_list:
+  items:
+  - uid: '90214'
+    type: a.k.a.
+    category: strong
+    last_name: KACHMAZ
+    first_name: Halil
+address_list:
+  items:
+  - uid: '89615'
+    country: Turkey
+id_list:
+  items:
+  - uid: '52978'
+    id_type: National ID No.
+    id_number: '62719131246'
+    id_country: Turkey
+  - uid: '200186'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '200185'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '100181'
+    date_of_birth: 02 Mar 1971
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '100184'
+    place_of_birth: Mardin, Turkey
+    main_entry: 'true'
+remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS (IRGC)-QODS FORCE)"

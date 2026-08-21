@@ -28,13 +28,13 @@ id_list:
     id_type: Tax ID No.
     id_number: '5025021509'
     id_country: Russia
-  - uid: '139993'
-    id_type: 'Organization Type:'
-    id_number: News agency activities
   - uid: '153825'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
   - uid: '139599'
     id_type: Website
     id_number: inforos.ru
+  - uid: '139993'
+    id_type: 'Organization Type:'
+    id_number: News agency activities
 remarks: "(Linked To: MAIN INTELLIGENCE DIRECTORATE)"

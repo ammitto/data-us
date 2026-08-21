@@ -1,0 +1,32 @@
+---
+uid: '58375'
+first_name: Byron Aladino
+last_name: MERO BERMELLO
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '89742'
+    state_or_province: Manabi
+    country: Ecuador
+id_list:
+  items:
+  - uid: '53086'
+    id_type: Cedula No.
+    id_number: '1310415516'
+    id_country: Ecuador
+  - uid: '200406'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '100404'
+    date_of_birth: 15 Jul 1983
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '100405'
+    place_of_birth: Manabi, Ecuador
+    main_entry: 'true'

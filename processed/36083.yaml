@@ -23,15 +23,15 @@ id_list:
     id_type: License
     id_number: '1802294'
     id_country: Lebanon
-  - uid: '149493'
-    id_type: Organization Established Date
-    id_number: 10 Jan 2008
-  - uid: '149496'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
-      Sanctions Regulations
   - uid: '149851'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
+  - uid: '149496'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
+      Sanctions Regulations
+  - uid: '149493'
+    id_type: Organization Established Date
+    id_number: 10 Jan 2008
 remarks: "(Linked To: HIZBALLAH)"

@@ -29,21 +29,21 @@ id_list:
     id_type: Registration Number
     id_number: '1159800030409'
     id_country: Russia
-  - uid: '178985'
-    id_type: 'Secondary sanctions risk:'
-    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
-  - uid: '179189'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
-  - uid: '178934'
-    id_type: Website
-    id_number: https://mrb-bank.ru/
   - uid: '178935'
     id_type: Organization Established Date
     id_number: 15 May 2015
   - uid: '178942'
     id_type: Target Type
     id_number: Financial Institution
+  - uid: '178934'
+    id_type: Website
+    id_number: https://mrb-bank.ru/
+  - uid: '178985'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '179189'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
   - uid: '178984'
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'

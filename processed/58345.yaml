@@ -1,0 +1,31 @@
+---
+uid: '58345'
+first_name: Alfonso
+last_name: MERO MERO
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '89690'
+    country: Ecuador
+id_list:
+  items:
+  - uid: '53044'
+    id_type: Identification Number
+    id_number: '1300092499'
+    id_country: Ecuador
+  - uid: '200312'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '100310'
+    date_of_birth: 27 May 1945
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '100313'
+    place_of_birth: Montecristi, Ecuador
+    main_entry: 'true'

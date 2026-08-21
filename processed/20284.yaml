@@ -25,10 +25,6 @@ address_list:
     country: Russia
 id_list:
   items:
-  - uid: '143876'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
-      589.209
   - uid: '120773'
     id_type: Website
     id_number: http://comitet.su/about/
@@ -38,4 +34,8 @@ id_list:
   - uid: '120772'
     id_type: Email Address
     id_number: komitet_2015@yahoo.com
+  - uid: '143876'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
 remarks: "(Linked To: AZAROV, Mykola Yanovych)"

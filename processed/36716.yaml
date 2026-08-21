@@ -16,10 +16,10 @@ id_list:
   - uid: '26196'
     id_type: Vessel Registration Identification
     id_number: IMO 9617923
-  - uid: '151518'
-    id_type: Other Vessel Type
-    id_number: Passenger
   - uid: '174259'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '151518'
+    id_type: Other Vessel Type
+    id_number: Passenger
 remarks: "(Linked To: OBORONLOGISTIKA OOO)"

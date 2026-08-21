@@ -1,0 +1,44 @@
+---
+uid: '58306'
+first_name: Mehmet
+last_name: AKYUZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '89617'
+    address1: Oksuzler Sokak 10 2
+    address2: Fatih Iskenderpasha Mah.
+    city: Istanbul
+    country: Turkey
+id_list:
+  items:
+  - uid: '52979'
+    id_type: Passport
+    id_number: U36466313
+    id_country: Turkey
+    expiration_date: 25 Jun 2034
+  - uid: '52980'
+    id_type: National ID No.
+    id_number: '29537233644'
+    id_country: Turkey
+  - uid: '200191'
+    id_type: Gender
+    id_number: Male
+  - uid: '200189'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '100187'
+    date_of_birth: 01 Jan 1983
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '100190'
+    place_of_birth: Midyat, Turkey
+    main_entry: 'true'
+remarks: "(Linked To: HIZBALLAH)"

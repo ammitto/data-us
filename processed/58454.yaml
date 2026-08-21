@@ -1,0 +1,29 @@
+---
+uid: '58454'
+first_name: Fernando
+last_name: GONZALEZ LLORT
+sdn_type: Individual
+program_list:
+  programs:
+  - CUBA-EO14404
+address_list:
+  items:
+  - uid: '89914'
+    city: Santiago de Cuba
+    country: Cuba
+id_list:
+  items:
+  - uid: '200656'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '100653'
+    date_of_birth: 18 Aug 1963
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '100654'
+    place_of_birth: Havana, Cuba
+    main_entry: 'true'
+remarks: "(Linked To: CUBAN INSTITUTE OF FRIENDSHIP WITH THE PEOPLES)"

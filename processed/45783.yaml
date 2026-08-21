@@ -52,12 +52,12 @@ id_list:
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
       589.209
-  - uid: '166758'
-    id_type: Target Type
-    id_number: Financial Institution
   - uid: '166356'
     id_type: Organization Established Date
     id_number: 21 Jan 2009
+  - uid: '166758'
+    id_type: Target Type
+    id_number: Financial Institution
   - uid: '166358'
     id_type: SWIFT/BIC
     id_number: XPETRU21

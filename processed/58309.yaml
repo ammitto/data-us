@@ -1,0 +1,39 @@
+---
+uid: '58309'
+first_name: Emrah
+last_name: AYAZ
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '89623'
+    address1: Genclik Sokak 5 2
+    address2: Bahchelievler Fevzichakmak Mah.
+    city: Istanbul
+    country: Turkey
+id_list:
+  items:
+  - uid: '52987'
+    id_type: National ID No.
+    id_number: '54121688050'
+    id_country: Turkey
+  - uid: '200202'
+    id_type: Gender
+    id_number: Male
+  - uid: '200206'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '100205'
+    date_of_birth: 02 Oct 1984
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '100203'
+    place_of_birth: Adana, Turkey
+    main_entry: 'true'
+remarks: "(Linked To: HIZBALLAH)"

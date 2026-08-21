@@ -72,9 +72,6 @@ id_list:
   - uid: '185352'
     id_type: Digital Currency Address - ETH
     id_number: '0x7CEd75026204aC29C34bEA98905D4C949F27361e'
-  - uid: '173328'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '192415'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
@@ -93,3 +90,6 @@ id_list:
   - uid: '189506'
     id_type: Digital Currency Address - TRX
     id_number: TNDjh6WGLYyWmkh8vfu42bXVHUqFNQ3rDq
+  - uid: '173328'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

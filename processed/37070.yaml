@@ -25,9 +25,6 @@ aka_list:
     last_name: "@BLENDERIO_ENGLISH"
 id_list:
   items:
-  - uid: '151396'
-    id_type: Organization Established Date
-    id_number: '2017'
   - uid: '151492'
     id_type: Website
     id_number: https://blender.io
@@ -43,6 +40,9 @@ id_list:
   - uid: '151496'
     id_type: Email Address
     id_number: adblenderio@tuta.io
+  - uid: '151396'
+    id_type: Organization Established Date
+    id_number: '2017'
   - uid: '151497'
     id_type: Digital Currency Address - XBT
     id_number: 3K35dyL85fR9ht7UgzPfd1gLRRXQtNTqE3

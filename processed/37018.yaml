@@ -32,13 +32,13 @@ id_list:
     id_type: Tax ID No.
     id_number: '3306009951'
     id_country: Russia
-  - uid: '174431'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
-  - uid: '151270'
-    id_type: Organization Established Date
-    id_number: 04 Jul 1994
   - uid: '151400'
     id_type: 'Organization Type:'
     id_number: Mixed farming
+  - uid: '151270'
+    id_type: Organization Established Date
+    id_number: 04 Jul 1994
+  - uid: '174431'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 remarks: "(Linked To: JOINT STOCK COMPANY MOSCOW INDUSTRIAL BANK)"

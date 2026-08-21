@@ -39,9 +39,6 @@ id_list:
   - uid: '133687'
     id_type: Email Address
     id_number: 417136259@qq.com
-  - uid: '134385'
-    id_type: Gender
-    id_number: Male
   - uid: '133689'
     id_type: Digital Currency Address - XBT
     id_number: 134r8iHv69xdT6p5qVKTsHrcUEuBVZAYak
@@ -69,6 +66,9 @@ id_list:
   - uid: '134265'
     id_type: 'Secondary sanctions risk:'
     id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '134385'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '33685'

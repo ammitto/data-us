@@ -50,12 +50,6 @@ id_list:
   - uid: '158323'
     id_type: Target Type
     id_number: Financial Institution
-  - uid: '158322'
-    id_type: SWIFT/BIC
-    id_number: ZENIRUMM
-  - uid: '158324'
-    id_type: Website
-    id_number: www.zenit.ru
   - uid: '174145'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
@@ -63,3 +57,9 @@ id_list:
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
       589.209
+  - uid: '158322'
+    id_type: SWIFT/BIC
+    id_number: ZENIRUMM
+  - uid: '158324'
+    id_type: Website
+    id_number: www.zenit.ru

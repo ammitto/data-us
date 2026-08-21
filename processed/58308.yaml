@@ -1,0 +1,46 @@
+---
+uid: '58308'
+first_name: Gulay Kaya
+last_name: SAVCI
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '90219'
+    type: a.k.a.
+    category: strong
+    last_name: SAVJI
+    first_name: Gulay Kaya
+address_list:
+  items:
+  - uid: '89621'
+    address1: Merkez Mah. Deste Sokak 18 8
+    address2: Kagithane
+    city: Istanbul
+    country: Turkey
+id_list:
+  items:
+  - uid: '52986'
+    id_type: National ID No.
+    id_number: '34088200656'
+    id_country: Turkey
+  - uid: '200198'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '200199'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '100197'
+    date_of_birth: 14 Nov 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '100200'
+    place_of_birth: Istanbul, Turkey
+    main_entry: 'true'
+remarks: "(Linked To: HIZBALLAH)"

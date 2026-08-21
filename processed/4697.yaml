@@ -6,6 +6,8 @@ program_list:
   programs:
   - FTO
   - SDGT
+  - IFSR
+  - IRGC
 aka_list:
   items:
   - uid: '3915'
@@ -106,3 +108,7 @@ id_list:
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
       Sanctions Regulations
+  - uid: '200661'
+    id_type: 'Organization Type:'
+    id_number: Transnational Terrorist Group
+remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS (IRGC)-QODS FORCE)"

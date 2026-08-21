@@ -28,6 +28,9 @@ id_list:
     id_type: National ID No.
     id_number: '32010619312060000'
     id_country: China
+  - uid: '118114'
+    id_type: Gender
+    id_number: Male
   - uid: '118115'
     id_type: Email Address
     id_number: kevinpengtech@gmail.com
@@ -40,9 +43,6 @@ id_list:
   - uid: '118118'
     id_type: Email Address
     id_number: pengbochem@hotmail.com
-  - uid: '118114'
-    id_type: Gender
-    id_number: Male
 date_of_birth_list:
   items:
   - uid: '18111'

@@ -17,13 +17,13 @@ id_list:
     id_type: Business Registration Number
     id_number: 202003540C
     id_country: Singapore
-  - uid: '158248'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '158232'
     id_type: Organization Established Date
     id_number: 30 Jan 2020
   - uid: '158233'
     id_type: Website
     id_number: asiafuel.net
+  - uid: '158248'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 remarks: "(Linked To: TRILIANCE PETROCHEMICAL CO. LTD.)"

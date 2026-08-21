@@ -35,9 +35,6 @@ id_list:
     id_type: National ID No.
     id_number: '14006486022'
     id_country: Iran
-  - uid: '158697'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '158696'
     id_type: Organization Established Date
     id_number: 11 Jan 2017
@@ -45,4 +42,7 @@ id_list:
     id_type: 'Organization Type:'
     id_number: Other financial service activities, except insurance and pension funding
       activities, n.e.c.
+  - uid: '158697'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 remarks: "(Linked To: PERSIAN GULF PETROCHEMICAL INDUSTRY COMMERCIAL CO.)"

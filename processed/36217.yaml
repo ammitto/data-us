@@ -26,9 +26,6 @@ id_list:
     id_type: Registration Number
     id_number: '1197746161711'
     id_country: Russia
-  - uid: '149672'
-    id_type: 'Secondary sanctions risk:'
-    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '149673'
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'
@@ -36,4 +33,7 @@ id_list:
   - uid: '149671'
     id_type: Organization Established Date
     id_number: 04 Mar 2019
+  - uid: '149672'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
 remarks: "(Linked To: KOZLOV, Sergey Mikhaylovich)"

@@ -25,6 +25,9 @@ id_list:
     id_number: '836210080'
     id_country: Korea, North
     expiration_date: 14 May 2021
+  - uid: '157125'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '157126'
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'
@@ -32,9 +35,6 @@ id_list:
   - uid: '157110'
     id_type: Gender
     id_number: Male
-  - uid: '157125'
-    id_type: 'Secondary sanctions risk:'
-    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
 date_of_birth_list:
   items:
   - uid: '57109'

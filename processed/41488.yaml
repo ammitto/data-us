@@ -55,12 +55,12 @@ id_list:
     id_country: Cyprus
     issue_date: 13 Feb 2013
     expiration_date: 13 Feb 2023
-  - uid: '159586'
-    id_type: Gender
-    id_number: Male
   - uid: '173674'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '159586'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '59587'

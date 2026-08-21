@@ -43,6 +43,9 @@ id_list:
     id_type: Government Gazette Number
     id_number: '39727818'
     id_country: Russia
+  - uid: '173436'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
   - uid: '158299'
     id_type: 'Organization Type:'
     id_number: Wholesale of other machinery and equipment
@@ -52,6 +55,3 @@ id_list:
   - uid: '152521'
     id_type: Organization Established Date
     id_number: 27 May 2019
-  - uid: '173436'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.

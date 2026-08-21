@@ -23,6 +23,9 @@ id_list:
     id_type: Registration Number
     id_number: CH-1550.1.105.045-4
     id_country: Switzerland
+  - uid: '154411'
+    id_type: Organization Established Date
+    id_number: 10 Feb 2012
   - uid: '174712'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
@@ -32,7 +35,4 @@ id_list:
   - uid: '154413'
     id_type: 'Organization Type:'
     id_number: Wholesale of other machinery and equipment
-  - uid: '154411'
-    id_type: Organization Established Date
-    id_number: 10 Feb 2012
 remarks: "(Linked To: MILUR ELECTRONICS LLC)"

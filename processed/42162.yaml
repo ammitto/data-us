@@ -46,13 +46,13 @@ id_list:
     id_type: Passport
     id_number: E1277888
     id_country: Belgium
-  - uid: '160411'
-    id_type: Gender
-    id_number: Female
   - uid: '160413'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
+  - uid: '160411'
+    id_type: Gender
+    id_number: Female
 date_of_birth_list:
   items:
   - uid: '60408'

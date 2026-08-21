@@ -41,12 +41,6 @@ id_list:
     id_type: Government Gazette Number
     id_number: '03561816'
     id_country: Russia
-  - uid: '148797'
-    id_type: 'Secondary sanctions risk:'
-    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
-  - uid: '148826'
-    id_type: 'Organization Type:'
-    id_number: Processing and preserving of fish, crustaceans and molluscs
   - uid: '148798'
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'
@@ -54,4 +48,10 @@ id_list:
   - uid: '148790'
     id_type: Organization Established Date
     id_number: 18 Jul 2016
+  - uid: '148826'
+    id_type: 'Organization Type:'
+    id_number: Processing and preserving of fish, crustaceans and molluscs
+  - uid: '148797'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
 remarks: "(Linked To: CHASOVNIKOV, Aleksandr Aleksandrovich)"

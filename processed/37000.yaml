@@ -63,15 +63,15 @@ id_list:
   - uid: '174422'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
-  - uid: '151162'
-    id_type: Target Type
-    id_number: Financial Institution
-  - uid: '151158'
-    id_type: SWIFT/BIC
-    id_number: MINNRUMM
   - uid: '151141'
     id_type: Organization Established Date
     id_number: 22 Nov 1990
+  - uid: '151158'
+    id_type: SWIFT/BIC
+    id_number: MINNRUMM
+  - uid: '151162'
+    id_type: Target Type
+    id_number: Financial Institution
   - uid: '151156'
     id_type: BIK (RU)
     id_number: '044525600'

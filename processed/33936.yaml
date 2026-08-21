@@ -29,16 +29,16 @@ address_list:
     country: Korea, North
 id_list:
   items:
-  - uid: '144911'
-    id_type: Gender
-    id_number: Male
+  - uid: '145214'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '145215'
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'
     id_number: North Korea Sanctions Regulations section 510.214
-  - uid: '145214'
-    id_type: 'Secondary sanctions risk:'
-    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '144911'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '44910'

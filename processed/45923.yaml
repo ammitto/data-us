@@ -31,13 +31,13 @@ id_list:
     id_number: D100009693
     id_country: Iran
     expiration_date: 12 Apr 2027
+  - uid: '166596'
+    id_type: Gender
+    id_number: Male
   - uid: '166730'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
-  - uid: '166596'
-    id_type: Gender
-    id_number: Male
 date_of_birth_list:
   items:
   - uid: '66620'

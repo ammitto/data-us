@@ -1,0 +1,34 @@
+---
+uid: '58452'
+last_name: CORATUR S.A.
+sdn_type: Entity
+program_list:
+  programs:
+  - CUBA-EO14404
+aka_list:
+  items:
+  - uid: '90440'
+    type: a.k.a.
+    category: strong
+    last_name: CORPORACION DE ABASTECIMIENTO AL TURISMO S.A.
+address_list:
+  items:
+  - uid: '89910'
+    city: Miramar
+    country: Cuba
+id_list:
+  items:
+  - uid: '53195'
+    id_type: Entity Code
+    id_number: '60418'
+    id_country: Cuba
+  - uid: '200649'
+    id_type: Organization Established Date
+    id_number: 01 Jan 1998
+  - uid: '200650'
+    id_type: 'Organization Type:'
+    id_number: Non-specialized wholesale trade
+  - uid: '200697'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
+remarks: "(Linked To: GRUPO EMPRESARIAL DEL COMERCIO EXTERIOR)"

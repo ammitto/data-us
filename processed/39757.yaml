@@ -36,12 +36,6 @@ id_list:
     id_type: Business Registration Number
     id_number: '11612822'
     id_country: United Arab Emirates
-  - uid: '156156'
-    id_type: 'Organization Type:'
-    id_number: Passenger air transport
-  - uid: '156155'
-    id_type: Target Type
-    id_number: Private Company
   - uid: '156153'
     id_type: Organization Established Date
     id_number: Jan 2008
@@ -51,4 +45,10 @@ id_list:
   - uid: '156158'
     id_type: Website
     id_number: http://www.kratol-aviation.ae
+  - uid: '156156'
+    id_type: 'Organization Type:'
+    id_number: Passenger air transport
+  - uid: '156155'
+    id_type: Target Type
+    id_number: Private Company
 remarks: "(Linked To: PRIVATE MILITARY COMPANY 'WAGNER')"

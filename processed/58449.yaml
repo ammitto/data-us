@@ -1,0 +1,34 @@
+---
+uid: '58449'
+last_name: EMPRESA COMERCIALIZADORA DE ARTICULOS EN GENERAL
+sdn_type: Entity
+program_list:
+  programs:
+  - CUBA-EO14404
+aka_list:
+  items:
+  - uid: '90434'
+    type: a.k.a.
+    category: strong
+    last_name: CONSUMIMPORT
+address_list:
+  items:
+  - uid: '89904'
+    city: Havana
+    country: Cuba
+id_list:
+  items:
+  - uid: '53193'
+    id_type: Entity Code
+    id_number: '4967'
+    id_country: Cuba
+  - uid: '200642'
+    id_type: Organization Established Date
+    id_number: 01 Jan 1962
+  - uid: '200643'
+    id_type: 'Organization Type:'
+    id_number: Non-specialized wholesale trade
+  - uid: '200698'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
+remarks: "(Linked To: GRUPO EMPRESARIAL DEL COMERCIO EXTERIOR)"

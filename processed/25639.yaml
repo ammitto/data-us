@@ -47,9 +47,6 @@ id_list:
     id_type: Registration Number
     id_number: '86936'
     id_country: Iran
-  - uid: '129574'
-    id_type: Website
-    id_number: www.edbi.ir
   - uid: '129573'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
@@ -57,4 +54,7 @@ id_list:
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
+  - uid: '129574'
+    id_type: Website
+    id_number: www.edbi.ir
 remarks: "(Linked To: MB BANK)"

@@ -9,9 +9,6 @@ program_list:
   - IFSR
 id_list:
   items:
-  - uid: '133516'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '112485'
     id_type: Aircraft Construction Number (also called L/N or S/N or F/N)
     id_number: '129'
@@ -27,6 +24,9 @@ id_list:
   - uid: '112487'
     id_type: Aircraft Manufacturer's Serial Number (MSN)
     id_number: '3129'
+  - uid: '133516'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
   - uid: '186158'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order

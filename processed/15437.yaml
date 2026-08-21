@@ -12,6 +12,10 @@ id_list:
   - uid: '133542'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '186124'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
   - uid: '112314'
     id_type: Aircraft Construction Number (also called L/N or S/N or F/N)
     id_number: '524'
@@ -24,8 +28,4 @@ id_list:
   - uid: '112317'
     id_type: Aircraft Operator
     id_number: MAHAN AIR
-  - uid: '186124'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
 remarks: "(Linked To: MAHAN AIR)"

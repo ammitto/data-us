@@ -1,0 +1,32 @@
+---
+uid: '58369'
+first_name: Edwar Alexis
+last_name: MERO ARCENTALES
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+address_list:
+  items:
+  - uid: '89733'
+    state_or_province: Manabi
+    country: Ecuador
+id_list:
+  items:
+  - uid: '53083'
+    id_type: Cedula No.
+    id_number: '1309153755'
+    id_country: Ecuador
+  - uid: '200395'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '100385'
+    date_of_birth: 01 Jul 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '100393'
+    place_of_birth: Manta, Manabi, Ecuador
+    main_entry: 'true'

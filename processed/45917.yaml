@@ -23,13 +23,13 @@ id_list:
     id_type: National ID No.
     id_number: '980335608'
     id_country: 'Region: Gaza'
+  - uid: '166724'
+    id_type: Gender
+    id_number: Male
   - uid: '166726'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
-  - uid: '166724'
-    id_type: Gender
-    id_number: Male
 date_of_birth_list:
   items:
   - uid: '66688'

@@ -24,9 +24,6 @@ id_list:
   - uid: '159457'
     id_type: Gender
     id_number: Female
-  - uid: '159462'
-    id_type: Email Address
-    id_number: iscan2009@live.cn
   - uid: '159459'
     id_type: Phone Number
     id_number: '8615815351839'
@@ -36,6 +33,9 @@ id_list:
   - uid: '159461'
     id_type: Phone Number
     id_number: '867623218162'
+  - uid: '159462'
+    id_type: Email Address
+    id_number: iscan2009@live.cn
 date_of_birth_list:
   items:
   - uid: '59456'

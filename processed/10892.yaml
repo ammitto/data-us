@@ -72,10 +72,6 @@ id_list:
     id_type: National ID No.
     id_number: V-6.919.272
     id_country: Venezuela
-  - uid: '120150'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
-      Sanctions Regulations
   - uid: '186365'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
@@ -83,6 +79,10 @@ id_list:
   - uid: '198475'
     id_type: Gender
     id_number: Male
+  - uid: '120150'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
+      Sanctions Regulations
 date_of_birth_list:
   items:
   - uid: '6301'

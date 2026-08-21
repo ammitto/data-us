@@ -34,13 +34,13 @@ address_list:
     country: Iran
 id_list:
   items:
-  - uid: '137294'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '137332'
     id_type: Website
     id_number: www.bankrefah.ir
   - uid: '137333'
     id_type: Website
     id_number: www.refah-bank.ir
+  - uid: '137294'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 remarks: all offices worldwide
