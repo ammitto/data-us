@@ -41,12 +41,12 @@ id_list:
     id_type: Residency Number
     id_number: YAB 253356
     id_country: Turkey
-  - uid: '198146'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '198111'
     id_type: Gender
     id_number: Male
+  - uid: '198146'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '98109'

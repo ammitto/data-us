@@ -8,6 +8,7 @@ program_list:
   - IFSR
   - NPWMD
   - IRGC
+  - IRAN-CON-ARMS-EO
 aka_list:
   items:
   - uid: '80406'
@@ -15,6 +16,16 @@ aka_list:
     category: strong
     last_name: IFTIKHARI
     first_name: Sayyid Husayn Musawi
+  - uid: '90375'
+    type: a.k.a.
+    category: strong
+    last_name: MOUSAVI
+    first_name: Sayid Majid
+  - uid: '90376'
+    type: a.k.a.
+    category: strong
+    last_name: MOUSAVI
+    first_name: Majid
 address_list:
   items:
   - uid: '78072'

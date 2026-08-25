@@ -8,12 +8,12 @@ program_list:
   - IRAN
 id_list:
   items:
-  - uid: '129951'
-    id_type: Gender
-    id_number: Male
   - uid: '129112'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '129951'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '29113'

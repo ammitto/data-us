@@ -26,10 +26,6 @@ address_list:
     country: Iran
 id_list:
   items:
-  - uid: '186796'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
   - uid: '129001'
     id_type: SWIFT/BIC
     id_number: MELIGB2L
@@ -42,4 +38,8 @@ id_list:
   - uid: '128999'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '186796'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
 remarks: 'All Offices Worldwide; (Linked To: BANK MELLI IRAN)'

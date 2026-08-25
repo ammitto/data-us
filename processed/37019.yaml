@@ -22,12 +22,12 @@ id_list:
     id_type: Tax ID No.
     id_number: '3016051334'
     id_country: Russia
-  - uid: '174432'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '151412'
     id_type: 'Organization Type:'
     id_number: Post-harvest crop activities
+  - uid: '174432'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
   - uid: '151271'
     id_type: Organization Established Date
     id_number: 06 Dec 2006

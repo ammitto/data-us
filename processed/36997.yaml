@@ -15,12 +15,12 @@ address_list:
     country: Bulgaria
 id_list:
   items:
-  - uid: '151109'
-    id_type: Gender
-    id_number: Female
   - uid: '174420'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '151109'
+    id_type: Gender
+    id_number: Female
 date_of_birth_list:
   items:
   - uid: '51110'

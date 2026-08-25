@@ -16,13 +16,13 @@ address_list:
     country: Mexico
 id_list:
   items:
-  - uid: '163296'
-    id_type: 'Organization Type:'
-    id_number: Short term accommodation activities
-  - uid: '157930'
-    id_type: Phone Number
-    id_number: "+52 686-383-6864"
   - uid: '157929'
     id_type: Website
     id_number: https://hotel-plaza-mexicali.negocio.site/
+  - uid: '157930'
+    id_type: Phone Number
+    id_number: "+52 686-383-6864"
+  - uid: '163296'
+    id_type: 'Organization Type:'
+    id_number: Short term accommodation activities
 remarks: "(Linked To: HERNANDEZ SALAS TRANSNATIONAL CRIMINAL ORGANIZATION)"

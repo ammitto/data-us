@@ -29,12 +29,12 @@ id_list:
     id_type: Tax ID No.
     id_number: '5027271906'
     id_country: Russia
-  - uid: '153364'
-    id_type: 'Organization Type:'
-    id_number: Real estate activities with own or leased property
   - uid: '176890'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '153364'
+    id_type: 'Organization Type:'
+    id_number: Real estate activities with own or leased property
   - uid: '153363'
     id_type: Organization Established Date
     id_number: 28 Dec 2018

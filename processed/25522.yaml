@@ -7,9 +7,6 @@ program_list:
   - IRAN
 id_list:
   items:
-  - uid: '129458'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '129230'
     id_type: Aircraft Manufacture Date
     id_number: 02 Dec 1992
@@ -22,4 +19,7 @@ id_list:
   - uid: '129231'
     id_type: Aircraft Manufacturer's Serial Number (MSN)
     id_number: '11429'
+  - uid: '129458'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 remarks: "(Linked To: IRAN AIR)"

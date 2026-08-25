@@ -35,6 +35,9 @@ id_list:
     id_country: China
     issue_date: 24 Oct 2008
     expiration_date: 23 Oct 2018
+  - uid: '130683'
+    id_type: Gender
+    id_number: Male
   - uid: '130685'
     id_type: Email Address
     id_number: goldenchemical@live.com
@@ -59,9 +62,6 @@ id_list:
   - uid: '131762'
     id_type: Digital Currency Address - XBT
     id_number: 1DH2xDH7TngrDU6LXciprKCBKNcPA1xX8A
-  - uid: '130683'
-    id_type: Gender
-    id_number: Male
 date_of_birth_list:
   items:
   - uid: '30680'

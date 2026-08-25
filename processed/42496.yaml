@@ -31,9 +31,6 @@ id_list:
     id_type: Identification Number
     id_number: '371326198812157611'
     id_country: China
-  - uid: '160967'
-    id_type: Gender
-    id_number: Male
   - uid: '161067'
     id_type: Digital Currency Address - XBT
     id_number: 1986rYHckYbJpGQJy6ornuMyD2N5MTqwDt
@@ -88,6 +85,9 @@ id_list:
   - uid: '160972'
     id_type: 'Secondary sanctions risk:'
     id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '160967'
+    id_type: Gender
+    id_number: Male
   - uid: '160971'
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'

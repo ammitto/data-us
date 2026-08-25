@@ -24,12 +24,12 @@ id_list:
     id_type: Unified Social Credit Code (USCC)
     id_number: '911100001000090614'
     id_country: China
-  - uid: '166453'
-    id_type: Target Type
-    id_number: State-Owned Enterprise
   - uid: '176066'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
   - uid: '166452'
     id_type: Organization Established Date
     id_number: 24 Oct 1988
+  - uid: '166453'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

@@ -32,12 +32,12 @@ address_list:
     country: Cyprus
 id_list:
   items:
-  - uid: '162046'
-    id_type: Organization Established Date
-    id_number: '2018'
   - uid: '175513'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '162046'
+    id_type: Organization Established Date
+    id_number: '2018'
   - uid: '162667'
     id_type: 'Organization Type:'
     id_number: Other financial service activities, except insurance and pension funding

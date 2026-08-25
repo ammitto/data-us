@@ -6,12 +6,18 @@ sdn_type: Individual
 program_list:
   programs:
   - IRAN-EO13876
+  - IRAN-CON-ARMS-EO
 aka_list:
   items:
   - uid: '43922'
     type: a.k.a.
     category: strong
     last_name: ABDOLLAHI ALIABADI
+    first_name: Ali
+  - uid: '90377'
+    type: a.k.a.
+    category: strong
+    last_name: ABDOLLAHI ALI ABADI
     first_name: Ali
 address_list:
   items:
@@ -29,4 +35,9 @@ date_of_birth_list:
   items:
   - uid: '33124'
     date_of_birth: '1959'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '100492'
+    place_of_birth: Aliabad, Rudbar County, Iran
     main_entry: 'true'

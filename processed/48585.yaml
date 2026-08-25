@@ -29,11 +29,11 @@ id_list:
     id_type: Tax ID No.
     id_number: '193156727'
     id_country: Belarus
-  - uid: '170858'
-    id_type: Target Type
-    id_number: State-Owned Enterprise
   - uid: '170857'
     id_type: Organization Established Date
     id_number: Oct 2018
+  - uid: '170858'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
 remarks: "(Linked To: OJSC AGAT-CONTROL SYSTEM-MANAGING COMPANY OF GEOINFORMATION
   CONTROL SYSTEMS HOLDING)"

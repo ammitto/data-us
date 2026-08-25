@@ -35,9 +35,6 @@ id_list:
     id_type: Tax ID No.
     id_number: '7730067441'
     id_country: Russia
-  - uid: '181939'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '181940'
     id_type: Target Type
     id_number: Financial Institution
@@ -47,3 +44,6 @@ id_list:
   - uid: '181941'
     id_type: Website
     id_number: www.russitabank.ru
+  - uid: '181939'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

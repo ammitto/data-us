@@ -23,14 +23,14 @@ id_list:
     id_type: Tax ID No.
     id_number: '7703226533'
     id_country: Russia
+  - uid: '149918'
+    id_type: Organization Established Date
+    id_number: 17 Mar 2015
+  - uid: '173990'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
   - uid: '150203'
     id_type: 'Organization Type:'
     id_number: Other financial service activities, except insurance and pension funding
       activities, n.e.c.
-  - uid: '173990'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
-  - uid: '149918'
-    id_type: Organization Established Date
-    id_number: 17 Mar 2015
 remarks: "(Linked To: MALOFEYEV, Konstantin)"

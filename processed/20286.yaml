@@ -29,6 +29,10 @@ id_list:
     id_type: Registration ID
     id_number: '1097847009215'
     id_country: Russia
+  - uid: '143871'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
   - uid: '120778'
     id_type: Website
     id_number: http://www.stg-eco.ru/
@@ -38,7 +42,3 @@ id_list:
   - uid: '120777'
     id_type: Email Address
     id_number: info.rb@stg-eco.ru
-  - uid: '143871'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
-      589.209

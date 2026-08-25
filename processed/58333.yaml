@@ -1,0 +1,49 @@
+---
+uid: '58333'
+first_name: Jianbai
+last_name: TIAN
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '90250'
+    type: a.k.a.
+    category: weak
+    last_name: TIAN, Danny
+address_list:
+  items:
+  - uid: '89665'
+    city: Shenzhen
+    state_or_province: Guangdong
+    country: China
+id_list:
+  items:
+  - uid: '53030'
+    id_type: National ID No.
+    id_number: '430111197904123334'
+    id_country: China
+  - uid: '53031'
+    id_type: Passport
+    id_number: ED5502534
+    id_country: China
+    expiration_date: 18 Jun 2028
+  - uid: '200281'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '200279'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '100277'
+    date_of_birth: 12 Apr 1979
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '100278'
+    place_of_birth: Zhangsha, Hunan, China
+    main_entry: 'true'
+remarks: "(Linked To: SWEET OCEAN INDUSTRIAL LIMITED)"

@@ -41,12 +41,12 @@ id_list:
   - uid: '181832'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
-  - uid: '181833'
-    id_type: Target Type
-    id_number: Financial Institution
   - uid: '181835'
     id_type: SWIFT/BIC
     id_number: SVIBRUMM
   - uid: '181834'
     id_type: Website
     id_number: www.round.ru
+  - uid: '181833'
+    id_type: Target Type
+    id_number: Financial Institution

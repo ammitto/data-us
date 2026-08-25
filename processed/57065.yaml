@@ -1,0 +1,45 @@
+---
+uid: '57065'
+first_name: Arman
+last_name: KAHZADIAN
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER4
+address_list:
+  items:
+  - uid: '87338'
+    address1: 11 KH Ashrafi Eshfahani KH Eskandarzadeh Golestan, Falakeh Dovom Sadehgieh
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '51259'
+    id_type: National ID No.
+    id_number: '4490181450'
+    id_country: Iran
+  - uid: '196482'
+    id_type: Gender
+    id_number: Male
+  - uid: '196484'
+    id_type: Digital Currency Address - XBT
+    id_number: 1JGPiQGK78xTxAVoxA1MjK3Z15M84Rj6BL
+  - uid: '196491'
+    id_type: Digital Currency Address - ETH
+    id_number: '0xeb507efa9ee692a4c774ad1de9f3cb26fc459da3'
+  - uid: '196492'
+    id_type: Digital Currency Address - ETH
+    id_number: '0xef85a6fafa5942a964dc618e94e230881d29ce2a'
+  - uid: '196617'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '96480'
+    date_of_birth: 11 Feb 1992
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '96481'
+    place_of_birth: Iran
+    main_entry: 'true'

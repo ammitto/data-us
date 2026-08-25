@@ -25,10 +25,6 @@ id_list:
     id_type: Registration ID
     id_number: '1036906000922'
     id_country: Russia
-  - uid: '143872'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
-      589.209
   - uid: '120779'
     id_type: Website
     id_number: http://dorstroycom.ru
@@ -38,3 +34,7 @@ id_list:
   - uid: '120781'
     id_type: Email Address
     id_number: secretar@dorstroycom.ru
+  - uid: '143872'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

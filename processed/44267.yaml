@@ -30,15 +30,15 @@ id_list:
     id_type: Identification Number
     id_number: 3QL4V4.99999.SL.643
     id_country: Russia
+  - uid: '163939'
+    id_type: Target Type
+    id_number: Financial Institution
   - uid: '163937'
     id_type: SWIFT/BIC
     id_number: CLOKRUMM
   - uid: '163938'
     id_type: Website
     id_number: http://www.lockobank.ru
-  - uid: '163939'
-    id_type: Target Type
-    id_number: Financial Institution
   - uid: '163936'
     id_type: Organization Established Date
     id_number: '1994'

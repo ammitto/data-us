@@ -1,0 +1,46 @@
+---
+uid: '58344'
+last_name: SHENZHEN BOSITONG LOGISTICS CO LTD
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '90278'
+    type: a.k.a.
+    category: strong
+    last_name: SHENZHEN PERSIAN LOGISTICS CO LTD
+address_list:
+  items:
+  - uid: '89687'
+    address1: 101, Building 35, Cuigang Industrial Zone 5
+    address2: Huaide Community, Fuyong Street
+    address3: Bao'an District
+    city: Shenzhen
+    state_or_province: Guangdong
+    postal_code: '518000'
+    country: China
+  - uid: '89688'
+    address1: No. 72, Huaidefu Middle Road, Fuyong
+    address2: Bao'an District
+    city: Shenzhen
+    country: China
+id_list:
+  items:
+  - uid: '53042'
+    id_type: Unified Social Credit Code (USCC)
+    id_number: 91440300342827438E
+    id_country: China
+  - uid: '53043'
+    id_type: Registration Number
+    id_number: '440306113174026'
+    id_country: China
+  - uid: '200308'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '200309'
+    id_type: Organization Established Date
+    id_number: 19 Jun 2015
+remarks: "(Linked To: QIU, Xingyu)"

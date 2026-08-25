@@ -18,9 +18,6 @@ id_list:
   - uid: '194835'
     id_type: Vessel Year of Build
     id_number: '2004'
-  - uid: '194834'
-    id_type: Former Vessel Flag
-    id_number: Vietnam
   - uid: '181208'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
@@ -28,4 +25,7 @@ id_list:
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
       589.209
+  - uid: '194834'
+    id_type: Former Vessel Flag
+    id_number: Vietnam
 remarks: "(Linked To: SAO VIET PETROL TRANSPORTATION COMPANY LIMITED)"

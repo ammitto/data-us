@@ -56,6 +56,16 @@ id_list:
     id_type: Tax ID No.
     id_number: '2902060361'
     id_country: Russia
+  - uid: '143920'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '199151'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '199150'
+    id_type: Organization Established Date
+    id_number: 12 Nov 2008
   - uid: '120668'
     id_type: Website
     id_number: http://starsmz.ru/
@@ -74,14 +84,4 @@ id_list:
   - uid: '120819'
     id_type: Email Address
     id_number: info@star.ru
-  - uid: '199151'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
-  - uid: '199150'
-    id_type: Organization Established Date
-    id_number: 12 Nov 2008
-  - uid: '143920'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
-      589.209
 remarks: "(Linked To: JOINT STOCK COMPANY UNITED SHIPBUILDING CORPORATION)"

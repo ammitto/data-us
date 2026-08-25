@@ -20,9 +20,9 @@ id_list:
     id_type: Business Registration Number
     id_number: '77151111'
     id_country: Hong Kong
-  - uid: '197926'
-    id_type: Organization Established Date
-    id_number: '08 Oct 2024'
   - uid: '197925'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '197926'
+    id_type: Organization Established Date
+    id_number: '08 Oct 2024'

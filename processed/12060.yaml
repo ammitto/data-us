@@ -8,6 +8,7 @@ program_list:
   - NPWMD
   - IFSR
   - IRAN-HR
+  - IRAN-CON-ARMS-EO
 aka_list:
   items:
   - uid: '61513'
@@ -18,17 +19,16 @@ aka_list:
 address_list:
   items:
   - uid: '18368'
-    address1: c/o MODAFL
     city: Tehran
     country: Iran
 id_list:
   items:
-  - uid: '113955'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '155520'
     id_type: Gender
     id_number: Male
+  - uid: '113955'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '7810'

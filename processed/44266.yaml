@@ -38,12 +38,12 @@ id_list:
   - uid: '175820'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
-  - uid: '163935'
-    id_type: Target Type
-    id_number: Financial Institution
   - uid: '163933'
     id_type: SWIFT/BIC
     id_number: UMTNRUMM
   - uid: '163934'
     id_type: Website
     id_number: www.unistream.ru
+  - uid: '163935'
+    id_type: Target Type
+    id_number: Financial Institution

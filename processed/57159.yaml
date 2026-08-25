@@ -36,12 +36,12 @@ id_list:
     id_number: U31440834
     id_country: Turkey
     expiration_date: 01 Jun 2033
-  - uid: '197492'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '196833'
     id_type: Gender
     id_number: Male
+  - uid: '197492'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '96831'

@@ -50,9 +50,6 @@ id_list:
     id_type: Government Gazette Number
     id_number: '00035837'
     id_country: Russia
-  - uid: '161507'
-    id_type: Organization Established Date
-    id_number: '09 Oct 2003'
   - uid: '161508'
     id_type: Target Type
     id_number: Government Entity
@@ -63,3 +60,6 @@ id_list:
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
       589.209
+  - uid: '161507'
+    id_type: Organization Established Date
+    id_number: '09 Oct 2003'

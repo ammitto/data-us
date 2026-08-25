@@ -28,12 +28,12 @@ address_list:
     country: Korea, North
 id_list:
   items:
-  - uid: '112908'
-    id_type: SWIFT/BIC
-    id_number: FTBDKPPY
   - uid: '127948'
     id_type: 'Secondary sanctions risk:'
     id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '112908'
+    id_type: SWIFT/BIC
+    id_number: FTBDKPPY
   - uid: '135204'
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'

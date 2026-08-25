@@ -1,0 +1,42 @@
+---
+uid: '58414'
+first_name: Mohammad Baqer
+last_name: ZOLQADR
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-CON-ARMS-EO
+aka_list:
+  items:
+  - uid: '90379'
+    type: a.k.a.
+    category: strong
+    last_name: ZULQADER
+    first_name: Mohammad Baqer
+  - uid: '90380'
+    type: a.k.a.
+    category: strong
+    last_name: ZOLGHADR
+    first_name: Mohammad Bagher
+address_list:
+  items:
+  - uid: '89827'
+    country: Iran
+id_list:
+  items:
+  - uid: '200496'
+    id_type: Gender
+    id_number: Male
+  - uid: '200497'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '100493'
+    date_of_birth: '1954'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '100494'
+    place_of_birth: Faisa, Iran
+    main_entry: 'true'

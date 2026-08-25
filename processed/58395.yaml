@@ -1,0 +1,40 @@
+---
+uid: '58395'
+first_name: Prashant
+last_name: GARG
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13846
+address_list:
+  items:
+  - uid: '89782'
+    address1: House No 1187
+    address2: Sector 15
+    city: Faridabad
+    state_or_province: Haryana
+    postal_code: '121007'
+    country: India
+id_list:
+  items:
+  - uid: '53114'
+    id_type: Identification Number
+    id_number: '02291396'
+    id_country: India
+  - uid: '200441'
+    id_type: 'Executive Order 13846 information:'
+    id_number: BLOCKING PROPERTY AND INTERESTS IN PROPERTY.  Sec. 5(a)(iv)
+  - uid: '200622'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '100442'
+    date_of_birth: 21 Mar 1981
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '100621'
+    place_of_birth: Faridabad, Haryana, India
+    main_entry: 'true'
+remarks: "(Linked To: PP SOFTTECH PRIVATE LIMITED)"

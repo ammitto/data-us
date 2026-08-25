@@ -1,0 +1,30 @@
+---
+uid: '58412'
+first_name: Reza
+last_name: TALAEI NIK
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-CON-ARMS-EO
+address_list:
+  items:
+  - uid: '89823'
+    country: Iran
+id_list:
+  items:
+  - uid: '200481'
+    id_type: Gender
+    id_number: Male
+  - uid: '200482'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '100478'
+    date_of_birth: '1963'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '100479'
+    place_of_birth: Hamadan, Iran
+    main_entry: 'true'

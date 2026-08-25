@@ -1,12 +1,13 @@
 ---
 uid: '19230'
-first_name: Sayyad Medhi
+first_name: Seyyed Mahdi
 last_name: FARAHI
 sdn_type: Individual
 program_list:
   programs:
   - NPWMD
   - IFSR
+  - IRAN-CON-ARMS-EO
 aka_list:
   items:
   - uid: '30282'
@@ -14,6 +15,11 @@ aka_list:
     category: strong
     last_name: FARAJZADEH
     first_name: Seyyed Hadi
+  - uid: '90454'
+    type: a.k.a.
+    category: strong
+    last_name: FARAHI
+    first_name: Seyyed Mehdi
 address_list:
   items:
   - uid: '29319'
@@ -28,9 +34,20 @@ id_list:
   - uid: '118920'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '200702'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '18853'
     date_of_birth: 30 Sep 1960
+    main_entry: 'false'
+  - uid: '100699'
+    date_of_birth: 21 Mar 1962
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '100700'
+    place_of_birth: Qom, Iran
     main_entry: 'true'
 remarks: "(Linked To: MINISTRY OF DEFENSE AND ARMED FORCES LOGISTICS)"

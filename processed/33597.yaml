@@ -17,9 +17,9 @@ address_list:
     country: Eritrea
 id_list:
   items:
-  - uid: '144715'
-    id_type: Organization Established Date
-    id_number: '1993'
   - uid: '144412'
     id_type: Target Type
     id_number: Government Entity
+  - uid: '144715'
+    id_type: Organization Established Date
+    id_number: '1993'

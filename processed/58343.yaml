@@ -1,0 +1,36 @@
+---
+uid: '58343'
+first_name: Xingyu
+last_name: QIU
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+address_list:
+  items:
+  - uid: '89685'
+    country: China
+id_list:
+  items:
+  - uid: '53041'
+    id_type: National ID No.
+    id_number: '450722198505062036'
+    id_country: China
+  - uid: '200303'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '200307'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '100304'
+    date_of_birth: 06 May 1985
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '100305'
+    place_of_birth: Guangxi Province, China
+    main_entry: 'true'
+remarks: "(Linked To: BRE INTERNATIONAL LOGISTICS CORPORATION HK LIMITED)"

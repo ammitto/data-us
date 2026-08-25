@@ -37,12 +37,12 @@ id_list:
     id_type: Tax ID No.
     id_number: '3329101270'
     id_country: Russia
-  - uid: '153388'
-    id_type: 'Organization Type:'
-    id_number: Wholesale of other machinery and equipment
   - uid: '174629'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '153388'
+    id_type: 'Organization Type:'
+    id_number: Wholesale of other machinery and equipment
   - uid: '154527'
     id_type: Organization Established Date
     id_number: 22 Apr 2022

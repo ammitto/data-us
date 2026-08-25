@@ -118,10 +118,6 @@ address_list:
     country: United Kingdom
 id_list:
   items:
-  - uid: '132265'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
-      Sanctions Regulations
   - uid: '186923'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
@@ -129,4 +125,8 @@ id_list:
   - uid: '132197'
     id_type: SWIFT/BIC
     id_number: JTBKLBBE
+  - uid: '132265'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
+      Sanctions Regulations
 remarks: 'All Branches Worldwide; (Linked To: HIZBALLAH)'

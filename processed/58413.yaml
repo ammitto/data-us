@@ -1,0 +1,30 @@
+---
+uid: '58413'
+first_name: Amir
+last_name: HATAMI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-CON-ARMS-EO
+address_list:
+  items:
+  - uid: '89825'
+    country: Iran
+id_list:
+  items:
+  - uid: '200491'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '200490'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '100487'
+    date_of_birth: '1966'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '100488'
+    place_of_birth: Zanjan, Iran
+    main_entry: 'true'

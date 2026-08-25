@@ -32,15 +32,15 @@ id_list:
     id_type: Tax ID No.
     id_number: '4501008142'
     id_country: Russia
-  - uid: '147624'
-    id_type: Website
-    id_number: www.kurganmash.ru
   - uid: '176734'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
-  - uid: '147625'
-    id_type: Organization Established Date
-    id_number: 23 Mar 1992
+  - uid: '147624'
+    id_type: Website
+    id_number: www.kurganmash.ru
   - uid: '147627'
     id_type: Target Type
     id_number: State-Owned Enterprise
+  - uid: '147625'
+    id_type: Organization Established Date
+    id_number: 23 Mar 1992

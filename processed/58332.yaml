@@ -1,0 +1,52 @@
+---
+uid: '58332'
+first_name: Na
+last_name: LI
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '90246'
+    type: a.k.a.
+    category: weak
+    last_name: LI, Ivy
+  - uid: '90247'
+    type: a.k.a.
+    category: weak
+    last_name: LEE, Lina
+  - uid: '90248'
+    type: a.k.a.
+    category: weak
+    last_name: LI, Lena
+address_list:
+  items:
+  - uid: '89663'
+    city: Shenzhen
+    state_or_province: Guangdong
+    country: China
+id_list:
+  items:
+  - uid: '53029'
+    id_type: National ID No.
+    id_number: 43011119800913332X
+    id_country: China
+  - uid: '200273'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '200274'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '100271'
+    date_of_birth: 13 Sep 1980
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '100272'
+    place_of_birth: Zhangsha, Hunan, China
+    main_entry: 'true'
+remarks: "(Linked To: SWEET OCEAN INDUSTRIAL LIMITED)"

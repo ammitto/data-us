@@ -16,12 +16,12 @@ id_list:
     id_type: Passport
     id_number: LT8338945
     id_country: Ireland
-  - uid: '162654'
-    id_type: Digital Currency Address - USDT
-    id_number: '0x38735f03b30FbC022DdD06ABED01F0Ca823C6a94'
   - uid: '162653'
     id_type: Gender
     id_number: Male
+  - uid: '162654'
+    id_type: Digital Currency Address - USDT
+    id_number: '0x38735f03b30FbC022DdD06ABED01F0Ca823C6a94'
   - uid: '175514'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.

@@ -28,9 +28,9 @@ address_list:
     country: Belarus
 id_list:
   items:
-  - uid: '142360'
-    id_type: Organization Established Date
-    id_number: 12 Sep 2011
   - uid: '142361'
     id_type: Target Type
     id_number: Government Entity
+  - uid: '142360'
+    id_type: Organization Established Date
+    id_number: 12 Sep 2011

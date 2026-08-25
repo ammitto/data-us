@@ -32,6 +32,9 @@ address_list:
     country: Singapore
 id_list:
   items:
+  - uid: '177416'
+    id_type: Website
+    id_number: ascentgeneralinsurance.com
   - uid: '177276'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
@@ -39,7 +42,4 @@ id_list:
   - uid: '177415'
     id_type: 'Organization Type:'
     id_number: Financial and Insurance Activities
-  - uid: '177416'
-    id_type: Website
-    id_number: ascentgeneralinsurance.com
 remarks: "(Linked To: AL-JAMAL, Sa'id Ahmad Muhammad)"

@@ -1,0 +1,51 @@
+---
+uid: '58435'
+first_name: Mohsen
+last_name: FARAHI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13846
+aka_list:
+  items:
+  - uid: '90413'
+    type: a.k.a.
+    category: strong
+    last_name: FARAHI
+    first_name: Mohsen Mohammad
+address_list:
+  items:
+  - uid: '89873'
+    city: Istanbul
+    country: Turkey
+  - uid: '89874'
+    country: Iran
+id_list:
+  items:
+  - uid: '53171'
+    id_type: National ID No.
+    id_number: '0932262309'
+    id_country: Iran
+  - uid: '200547'
+    id_type: Gender
+    id_number: Male
+  - uid: '200549'
+    id_type: 'Executive Order 13846 information:'
+    id_number: BLOCKING PROPERTY AND INTERESTS IN PROPERTY.  Sec. 5(a)(iv)
+  - uid: '200550'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '100545'
+    date_of_birth: 16 Nov 1978
+    main_entry: 'true'
+  - uid: '100546'
+    date_of_birth: 16 Nov 1987
+    main_entry: 'false'
+place_of_birth_list:
+  items:
+  - uid: '100544'
+    place_of_birth: Mashhad, Khorasan, Iran
+    main_entry: 'true'
+remarks: "(Linked To: OSHIDA PETROKIMYA URUNLERI SANAYI VE TICARET ANONIM SIRKETI)"

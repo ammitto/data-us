@@ -29,12 +29,12 @@ id_list:
     id_type: Identification Number
     id_number: BE8HW8.99999.SL.643
     id_country: Russia
-  - uid: '163925'
-    id_type: Target Type
-    id_number: Financial Institution
   - uid: '175818'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '163925'
+    id_type: Target Type
+    id_number: Financial Institution
   - uid: '163922'
     id_type: SWIFT/BIC
     id_number: SLDRRU3S

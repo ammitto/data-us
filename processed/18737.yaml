@@ -37,10 +37,9 @@ id_list:
     id_type: Registration Number
     id_number: '1045605469744'
     id_country: Russia
-  - uid: '151135'
+  - uid: '173894'
     id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
-      589.209
+    id_number: See Section 11 of Executive Order 14024.
   - uid: '118175'
     id_type: Website
     id_number: www.vtbreg.ru
@@ -50,8 +49,9 @@ id_list:
   - uid: '118222'
     id_type: Executive Order 13662 Directive Determination -
     id_number: Subject to Directive 1
-  - uid: '173894'
+  - uid: '151135'
     id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
 remarks: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
   (Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)'

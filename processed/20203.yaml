@@ -35,6 +35,10 @@ id_list:
   - uid: '12463'
     id_type: Tax ID No.
     id_number: '9201001120'
+  - uid: '143922'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
   - uid: '120675'
     id_type: Website
     id_number: www.uranis.net
@@ -47,7 +51,3 @@ id_list:
   - uid: '120674'
     id_type: Email Address
     id_number: vlad_k@uranis.net
-  - uid: '143922'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
-      589.209

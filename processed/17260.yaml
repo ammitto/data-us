@@ -39,12 +39,6 @@ id_list:
     id_type: Government Gazette Number
     id_number: '94137372'
     id_country: Russia
-  - uid: '173863'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
-  - uid: '116150'
-    id_type: Executive Order 13662 Directive Determination -
-    id_number: Subject to Directive 3
   - uid: '143716'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
@@ -52,4 +46,10 @@ id_list:
   - uid: '152816'
     id_type: Organization Established Date
     id_number: 03 Dec 2007
+  - uid: '173863'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '116150'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 3
 remarks: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.'

@@ -37,12 +37,12 @@ id_list:
     id_type: Passport
     id_number: '1213007'
     id_country: Israel
-  - uid: '154565'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
   - uid: '131312'
     id_type: Gender
     id_number: Male
+  - uid: '154565'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
 date_of_birth_list:
   items:
   - uid: '31314'

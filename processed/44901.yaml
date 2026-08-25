@@ -26,6 +26,9 @@ address_list:
     country: Russia
 id_list:
   items:
+  - uid: '165155'
+    id_type: Gender
+    id_number: Male
   - uid: '165153'
     id_type: Email Address
     id_number: megaprof@gmail.com
@@ -35,9 +38,6 @@ id_list:
   - uid: '165283'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
-  - uid: '165155'
-    id_type: Gender
-    id_number: Male
 date_of_birth_list:
   items:
   - uid: '65152'

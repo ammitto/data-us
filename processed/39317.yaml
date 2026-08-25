@@ -52,6 +52,10 @@ id_list:
   - uid: '30095'
     id_type: Legal Entity Number
     id_number: 253400HYBTF10T9XBR98
+  - uid: '184106'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
   - uid: '158390'
     id_type: Organization Established Date
     id_number: 27 Jan 1993
@@ -64,10 +68,6 @@ id_list:
   - uid: '174776'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
-  - uid: '184106'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
-      589.209
   - uid: '158393'
     id_type: Target Type
     id_number: Financial Institution
