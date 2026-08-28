@@ -24,12 +24,12 @@ id_list:
     id_type: National ID No.
     id_number: '0440054621'
     id_country: Iran
-  - uid: '198627'
-    id_type: Gender
-    id_number: Female
   - uid: '198628'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '198627'
+    id_type: Gender
+    id_number: Female
 date_of_birth_list:
   items:
   - uid: '98626'

@@ -37,10 +37,10 @@ id_list:
     id_type: Registration Number
     id_number: '440306113174026'
     id_country: China
-  - uid: '200308'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '200309'
     id_type: Organization Established Date
     id_number: 19 Jun 2015
+  - uid: '200308'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 remarks: "(Linked To: QIU, Xingyu)"

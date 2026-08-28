@@ -20,10 +20,10 @@ id_list:
     id_type: Business Registration Number
     id_number: '77790062'
     id_country: Hong Kong
-  - uid: '200323'
-    id_type: Organization Established Date
-    id_number: 04 Mar 2025
   - uid: '200322'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '200323'
+    id_type: Organization Established Date
+    id_number: 04 Mar 2025
 remarks: "(Linked To: LI, Na)"
