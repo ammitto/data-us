@@ -19,6 +19,15 @@ address_list:
     country: Pakistan
 id_list:
   items:
+  - uid: '138269'
+    id_type: Digital Currency Address - LTC
+    id_number: LQAhYwwK5AR1JQiQPr7vu8Pu4b6qcxxvNB
+  - uid: '138270'
+    id_type: Digital Currency Address - LTC
+    id_number: LgwmgYnraU2uBWHVFUDgAmFCPYj5Yw8C9L
+  - uid: '138271'
+    id_type: Digital Currency Address - LTC
+    id_number: LeKvNdNEzgQkzVVnRdV3fAu2DSF1nLsNw6
   - uid: '138213'
     id_type: Digital Currency Address - XBT
     id_number: 1NE2NiGhhbkFPSEyNWwj7hKGhGDedBtSrQ
@@ -67,6 +76,9 @@ id_list:
   - uid: '154601'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+  - uid: '138238'
+    id_type: Digital Currency Address - BCH
+    id_number: 18M8bJWMzWHDBMxoLqjHHAffdRy4SrzkfB
   - uid: '138199'
     id_type: Website
     id_number: secondeyesolution.su
@@ -103,16 +115,4 @@ id_list:
   - uid: '138212'
     id_type: Email Address
     id_number: support@secondeyehost.com
-  - uid: '138238'
-    id_type: Digital Currency Address - BCH
-    id_number: 18M8bJWMzWHDBMxoLqjHHAffdRy4SrzkfB
-  - uid: '138269'
-    id_type: Digital Currency Address - LTC
-    id_number: LQAhYwwK5AR1JQiQPr7vu8Pu4b6qcxxvNB
-  - uid: '138270'
-    id_type: Digital Currency Address - LTC
-    id_number: LgwmgYnraU2uBWHVFUDgAmFCPYj5Yw8C9L
-  - uid: '138271'
-    id_type: Digital Currency Address - LTC
-    id_number: LeKvNdNEzgQkzVVnRdV3fAu2DSF1nLsNw6
 remarks: "(Linked To: INTERNET RESEARCH AGENCY LLC)"

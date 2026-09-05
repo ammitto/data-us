@@ -36,18 +36,18 @@ id_list:
     id_type: Government Gazette Number
     id_number: '04897659'
     id_country: Russia
-  - uid: '176696'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '151689'
     id_type: 'Organization Type:'
     id_number: Other information technology and computer service activities
   - uid: '158481'
     id_type: Target Type
     id_number: Private Company
-  - uid: '158482'
-    id_type: Website
-    id_number: www.lavinapuls.ru
   - uid: '147421'
     id_type: Organization Established Date
     id_number: 04 Oct 2016
+  - uid: '158482'
+    id_type: Website
+    id_number: www.lavinapuls.ru
+  - uid: '176696'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

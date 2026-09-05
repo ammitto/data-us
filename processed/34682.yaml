@@ -46,28 +46,6 @@ id_list:
     id_type: Tax ID No.
     id_number: '7728168971'
     id_country: Russia
-  - uid: '146079'
-    id_type: SWIFT/BIC
-    id_number: ALFARUMM
-  - uid: '146076'
-    id_type: Website
-    id_number: alfabank.ru
-  - uid: '146077'
-    id_type: Website
-    id_number: alfabank.com
-  - uid: '175177'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
-  - uid: '147128'
-    id_type: BIK (RU)
-    id_number: '044525593'
-  - uid: '184255'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
-      589.209
-  - uid: '146078'
-    id_type: Organization Established Date
-    id_number: '1990'
   - uid: '147116'
     id_type: Target Type
     id_number: Financial Institution
@@ -87,3 +65,25 @@ id_list:
   - uid: '147249'
     id_type: 'Effective Date (EO 14024 Directive 3):'
     id_number: 26 Mar 2022
+  - uid: '184255'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '146078'
+    id_type: Organization Established Date
+    id_number: '1990'
+  - uid: '175177'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '147128'
+    id_type: BIK (RU)
+    id_number: '044525593'
+  - uid: '146079'
+    id_type: SWIFT/BIC
+    id_number: ALFARUMM
+  - uid: '146076'
+    id_type: Website
+    id_number: alfabank.ru
+  - uid: '146077'
+    id_type: Website
+    id_number: alfabank.com

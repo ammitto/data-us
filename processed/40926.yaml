@@ -22,12 +22,12 @@ id_list:
     id_country: India
     issue_date: 26 Apr 2011
     expiration_date: 25 Apr 2021
-  - uid: '158534'
-    id_type: Gender
-    id_number: Male
   - uid: '176921'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '158534'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '58535'

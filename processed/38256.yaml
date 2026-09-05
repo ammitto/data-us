@@ -31,12 +31,12 @@ id_list:
     id_country: Saint Kitts and Nevis
     issue_date: 19 Feb 2015
     expiration_date: 18 Feb 2025
-  - uid: '153533'
-    id_type: Gender
-    id_number: Male
   - uid: '174663'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '153533'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '53531'

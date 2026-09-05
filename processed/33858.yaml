@@ -45,6 +45,12 @@ id_list:
     id_type: Driver's License No.
     id_number: '2202811729'
     id_country: Russia
+  - uid: '144749'
+    id_type: Digital Currency Address - USDT
+    id_number: '0xfec8a60023265364d066a1212fde3930f6ae8da7'
+  - uid: '144800'
+    id_type: Gender
+    id_number: Male
   - uid: '144748'
     id_type: Digital Currency Address - XBT
     id_number: 158treVZBGMBThoaympxccPdZPtqUfYrT9
@@ -66,12 +72,6 @@ id_list:
   - uid: '154594'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
-  - uid: '144749'
-    id_type: Digital Currency Address - USDT
-    id_number: '0xfec8a60023265364d066a1212fde3930f6ae8da7'
-  - uid: '144800'
-    id_type: Gender
-    id_number: Male
 date_of_birth_list:
   items:
   - uid: '44765'

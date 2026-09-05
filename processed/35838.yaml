@@ -32,13 +32,13 @@ id_list:
     id_type: National ID No.
     id_number: '103903351'
     id_country: Burma
-  - uid: '148977'
-    id_type: 'Organization Type:'
-    id_number: Other financial service activities, except insurance and pension funding
-      activities, n.e.c.
   - uid: '148971'
     id_type: SWIFT/BIC
     id_number: AGDBMMMY
   - uid: '148972'
     id_type: Website
     id_number: http://www.agdbank.com
+  - uid: '148977'
+    id_type: 'Organization Type:'
+    id_number: Other financial service activities, except insurance and pension funding
+      activities, n.e.c.

@@ -33,9 +33,6 @@ id_list:
     id_type: Registration Number
     id_number: '1152540004253'
     id_country: Russia
-  - uid: '148791'
-    id_type: 'Secondary sanctions risk:'
-    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '148825'
     id_type: 'Organization Type:'
     id_number: Wholesale of food, beverages and tobacco
@@ -46,4 +43,7 @@ id_list:
   - uid: '148777'
     id_type: Organization Established Date
     id_number: 29 Jun 2015
+  - uid: '148791'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
 remarks: "(Linked To: PAK, Kwang Hun)"

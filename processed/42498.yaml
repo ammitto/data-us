@@ -29,30 +29,6 @@ id_list:
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'
     id_number: North Korea Sanctions Regulations section 510.214
-  - uid: '160979'
-    id_type: Gender
-    id_number: Male
-  - uid: '160982'
-    id_type: Digital Currency Address - ETH
-    id_number: '0x4f47bc496083c727c5fbe3ce9cdf2b0f6496270c'
-  - uid: '196604'
-    id_type: Digital Currency Address - ETH
-    id_number: '0xd04E33461FEA8302c5E1e13895b60cEe8AEfda7F'
-  - uid: '196605'
-    id_type: Digital Currency Address - ETH
-    id_number: '0x76EA76CA4Eb727f18956aB93445a94c5280412B9'
-  - uid: '196606'
-    id_type: Digital Currency Address - ETH
-    id_number: '0xFb3eFf152ea55D1BfA04Dbdd509A80fD7b72cdEB'
-  - uid: '196607'
-    id_type: Digital Currency Address - ETH
-    id_number: '0xFda1Ec4A6178d4916b001a065422D31EBE5F62FF'
-  - uid: '196608'
-    id_type: Digital Currency Address - ETH
-    id_number: '0x747AFB5c7A7fc34B547cD0FDEbf9b91759C5a52b'
-  - uid: '161249'
-    id_type: 'Secondary sanctions risk:'
-    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '196597'
     id_type: Digital Currency Address - TRX
     id_number: TGXE9dGWawjfd3xqFSho1h1bRbRv9wUGrF
@@ -77,6 +53,30 @@ id_list:
   - uid: '161089'
     id_type: Digital Currency Address - BSC
     id_number: '0x4f47bc496083c727c5fbe3ce9cdf2b0f6496270c'
+  - uid: '160979'
+    id_type: Gender
+    id_number: Male
+  - uid: '160982'
+    id_type: Digital Currency Address - ETH
+    id_number: '0x4f47bc496083c727c5fbe3ce9cdf2b0f6496270c'
+  - uid: '196604'
+    id_type: Digital Currency Address - ETH
+    id_number: '0xd04E33461FEA8302c5E1e13895b60cEe8AEfda7F'
+  - uid: '196605'
+    id_type: Digital Currency Address - ETH
+    id_number: '0x76EA76CA4Eb727f18956aB93445a94c5280412B9'
+  - uid: '196606'
+    id_type: Digital Currency Address - ETH
+    id_number: '0xFb3eFf152ea55D1BfA04Dbdd509A80fD7b72cdEB'
+  - uid: '196607'
+    id_type: Digital Currency Address - ETH
+    id_number: '0xFda1Ec4A6178d4916b001a065422D31EBE5F62FF'
+  - uid: '196608'
+    id_type: Digital Currency Address - ETH
+    id_number: '0x747AFB5c7A7fc34B547cD0FDEbf9b91759C5a52b'
+  - uid: '161249'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
 date_of_birth_list:
   items:
   - uid: '60978'

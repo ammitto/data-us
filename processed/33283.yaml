@@ -43,9 +43,9 @@ id_list:
     id_type: Tax ID No.
     id_number: '101463246'
     id_country: Belarus
-  - uid: '143407'
-    id_type: Organization Established Date
-    id_number: 14 Apr 1998
   - uid: '143419'
     id_type: Target Type
     id_number: Government Entity
+  - uid: '143407'
+    id_type: Organization Established Date
+    id_number: 14 Apr 1998

@@ -20,12 +20,12 @@ id_list:
     id_type: Company Number
     id_number: '13808616'
     id_country: United Kingdom
-  - uid: '170201'
-    id_type: 'Organization Type:'
-    id_number: Other business support service activities n.e.c.
   - uid: '170200'
     id_type: Organization Established Date
     id_number: 20 Dec 2021
+  - uid: '170201'
+    id_type: 'Organization Type:'
+    id_number: Other business support service activities n.e.c.
   - uid: '170602'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order

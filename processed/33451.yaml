@@ -11,9 +11,9 @@ address_list:
     country: Eritrea
 id_list:
   items:
-  - uid: '144711'
-    id_type: 'Organization Type:'
-    id_number: Activities of political organizations
   - uid: '144712'
     id_type: Organization Established Date
     id_number: '1993'
+  - uid: '144711'
+    id_type: 'Organization Type:'
+    id_number: Activities of political organizations

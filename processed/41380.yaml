@@ -24,6 +24,12 @@ id_list:
     id_type: Company Number
     id_number: '1311429'
     id_country: Hong Kong
+  - uid: '162709'
+    id_type: Phone Number
+    id_number: '8675523442169'
+  - uid: '159828'
+    id_type: Organization Established Date
+    id_number: 04 Mar 2009
   - uid: '159826'
     id_type: Website
     id_number: www.med-obd.com
@@ -33,9 +39,3 @@ id_list:
   - uid: '162710'
     id_type: Email Address
     id_number: med-obd@outlook.com
-  - uid: '162709'
-    id_type: Phone Number
-    id_number: '8675523442169'
-  - uid: '159828'
-    id_type: Organization Established Date
-    id_number: 04 Mar 2009

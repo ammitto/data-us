@@ -39,9 +39,6 @@ id_list:
     id_type: Passport
     id_number: EB617700
     id_country: Pakistan
-  - uid: '139904'
-    id_type: Gender
-    id_number: Male
   - uid: '138314'
     id_type: Email Address
     id_number: khizarh11@yahoo.com
@@ -60,6 +57,9 @@ id_list:
   - uid: '138378'
     id_type: Email Address
     id_number: muhammadkhizarhayatjaffri@yahoo.com
+  - uid: '139904'
+    id_type: Gender
+    id_number: Male
   - uid: '154567'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201

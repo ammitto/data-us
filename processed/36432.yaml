@@ -52,12 +52,12 @@ id_list:
     id_type: Registration Number
     id_number: '1026102571065'
     id_country: Russia
-  - uid: '150137'
-    id_type: Target Type
-    id_number: State-Owned Enterprise
   - uid: '150117'
     id_type: Organization Established Date
     id_number: 13 Jul 1994
+  - uid: '150137'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
   - uid: '174212'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.

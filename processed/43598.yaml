@@ -25,16 +25,16 @@ id_list:
     id_number: '108410050'
     id_country: Korea, North
     expiration_date: 19 Oct 2023
+  - uid: '163137'
+    id_type: Gender
+    id_number: Male
+  - uid: '163139'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '163138'
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'
     id_number: North Korea Sanctions Regulations section 510.214
-  - uid: '163139'
-    id_type: 'Secondary sanctions risk:'
-    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
-  - uid: '163137'
-    id_type: Gender
-    id_number: Male
 date_of_birth_list:
   items:
   - uid: '63135'

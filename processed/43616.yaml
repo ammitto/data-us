@@ -29,13 +29,13 @@ id_list:
     id_type: Passport
     id_number: '108410051'
     id_country: Korea, North
-  - uid: '163141'
-    id_type: Gender
-    id_number: Female
   - uid: '163143'
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'
     id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '163141'
+    id_type: Gender
+    id_number: Female
   - uid: '163144'
     id_type: 'Secondary sanctions risk:'
     id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210

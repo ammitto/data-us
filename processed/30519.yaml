@@ -25,12 +25,6 @@ id_list:
     id_type: National ID No.
     id_number: '4220198261523'
     id_country: Pakistan
-  - uid: '154597'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
-  - uid: '139905'
-    id_type: Gender
-    id_number: Male
   - uid: '138273'
     id_type: Email Address
     id_number: alimohsin228@gmail.com
@@ -49,6 +43,12 @@ id_list:
   - uid: '138278'
     id_type: Email Address
     id_number: great_guy1102002@yahoo.com
+  - uid: '139905'
+    id_type: Gender
+    id_number: Male
+  - uid: '154597'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
 date_of_birth_list:
   items:
   - uid: '38272'

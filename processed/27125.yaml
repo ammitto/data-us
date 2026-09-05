@@ -25,9 +25,6 @@ address_list:
     country: Turkey
 id_list:
   items:
-  - uid: '132097'
-    id_type: Gender
-    id_number: Male
   - uid: '186913'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
@@ -41,6 +38,9 @@ id_list:
   - uid: '132101'
     id_type: Email Address
     id_number: anasraq1000@mail.ru
+  - uid: '132097'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '32095'

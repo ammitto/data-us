@@ -38,9 +38,6 @@ id_list:
     id_type: Tax ID No.
     id_number: '2511092929'
     id_country: Russia
-  - uid: '183008'
-    id_type: Organization Established Date
-    id_number: 30 Apr 2015
   - uid: '183011'
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'
@@ -51,3 +48,6 @@ id_list:
   - uid: '183010'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '183008'
+    id_type: Organization Established Date
+    id_number: 30 Apr 2015

@@ -51,12 +51,12 @@ id_list:
     id_type: Registration Number
     id_number: '9979'
     id_country: Iran
-  - uid: '162097'
-    id_type: Organization Established Date
-    id_number: 17 Apr 2012
   - uid: '175537'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '162097'
+    id_type: Organization Established Date
+    id_number: 17 Apr 2012
   - uid: '162553'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions

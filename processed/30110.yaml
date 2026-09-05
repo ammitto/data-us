@@ -32,6 +32,9 @@ id_list:
     id_type: Passport
     id_number: G30884221
     id_country: China
+  - uid: '137422'
+    id_type: Gender
+    id_number: Male
   - uid: '137469'
     id_type: 'Executive Order 13846 information:'
     id_number: LOANS FROM UNITED STATES FINANCIAL INSTITUTIONS.  Sec. 5(a)(i)
@@ -50,9 +53,6 @@ id_list:
   - uid: '137534'
     id_type: 'Executive Order 13846 information:'
     id_number: EXCLUSION OF CORPORATE OFFICERS.  Sec. 4(e)
-  - uid: '137422'
-    id_type: Gender
-    id_number: Male
 date_of_birth_list:
   items:
   - uid: '37420'

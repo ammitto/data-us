@@ -28,6 +28,9 @@ id_list:
   - uid: '156553'
     id_type: Digital Currency Address - BCH
     id_number: qz9f2vz3033sg5vc5mf7m7xshmj0jugy4ummf05jk8
+  - uid: '156471'
+    id_type: Gender
+    id_number: Male
   - uid: '156475'
     id_type: Digital Currency Address - XBT
     id_number: 1LpYKb3SXZPve9hsH2QEJZFX279wJVGowi
@@ -142,9 +145,6 @@ id_list:
   - uid: '156551'
     id_type: Digital Currency Address - ETH
     id_number: '0x1967d8af5bd86a497fb3dd7899a020e47560daaf'
-  - uid: '156471'
-    id_type: Gender
-    id_number: Male
 date_of_birth_list:
   items:
   - uid: '56467'

@@ -33,9 +33,6 @@ id_list:
     id_type: Tax ID No.
     id_number: '9718168599'
     id_country: Russia
-  - uid: '174792'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '156149'
     id_type: 'Organization Type:'
     id_number: Private security activities
@@ -45,6 +42,9 @@ id_list:
   - uid: '156150'
     id_type: Target Type
     id_number: Private Company
+  - uid: '174792'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
   - uid: '156152'
     id_type: Organization Established Date
     id_number: 03 Feb 2021

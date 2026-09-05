@@ -45,10 +45,10 @@ id_list:
     id_type: Tax ID No.
     id_number: '3900000111'
     id_country: Russia
-  - uid: '149449'
-    id_type: Organization Established Date
-    id_number: 07 Sep 1993
   - uid: '173969'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '149449'
+    id_type: Organization Established Date
+    id_number: 07 Sep 1993
 remarks: "(Linked To: JOINT STOCK COMPANY UNITED SHIPBUILDING CORPORATION)"

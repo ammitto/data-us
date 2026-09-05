@@ -35,6 +35,12 @@ id_list:
     id_type: Passport
     id_number: '563220082'
     id_country: Korea, North
+  - uid: '162812'
+    id_type: Digital Currency Address - USDT
+    id_number: '0xb6f5ec1a0a9cd1526536d3f0426c429529471f40'
+  - uid: '162813'
+    id_type: Digital Currency Address - USDC
+    id_number: '0xb6f5ec1a0a9cd1526536d3f0426c429529471f40'
   - uid: '162809'
     id_type: Digital Currency Address - XBT
     id_number: 1D6gG9iKEhPitTcWRJiniuj1jYM2hNeAfJ
@@ -50,19 +56,13 @@ id_list:
   - uid: '162743'
     id_type: 'Secondary sanctions risk:'
     id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
-  - uid: '162740'
-    id_type: Gender
-    id_number: Male
   - uid: '162742'
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'
     id_number: North Korea Sanctions Regulations section 510.214
-  - uid: '162812'
-    id_type: Digital Currency Address - USDT
-    id_number: '0xb6f5ec1a0a9cd1526536d3f0426c429529471f40'
-  - uid: '162813'
-    id_type: Digital Currency Address - USDC
-    id_number: '0xb6f5ec1a0a9cd1526536d3f0426c429529471f40'
+  - uid: '162740'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '62739'

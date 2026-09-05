@@ -37,12 +37,6 @@ id_list:
     id_number: '1117799005587'
     id_country: Russia
     issue_date: '2010'
-  - uid: '149676'
-    id_type: Website
-    id_number: picreadi.ru
-  - uid: '149677'
-    id_type: Website
-    id_number: picreadi.com
   - uid: '175138'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
@@ -52,4 +46,10 @@ id_list:
   - uid: '149675'
     id_type: Target Type
     id_number: Charity or Nonprofit Organization
+  - uid: '149676'
+    id_type: Website
+    id_number: picreadi.ru
+  - uid: '149677'
+    id_type: Website
+    id_number: picreadi.com
 remarks: "(Linked To: BURLINOVA, Natalya Valeryevna)"

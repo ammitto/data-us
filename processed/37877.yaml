@@ -33,12 +33,12 @@ id_list:
     id_type: Registration ID
     id_number: '36157'
     id_country: Iran
-  - uid: '154387'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '153081'
     id_type: 'Organization Type:'
     id_number: Other information technology and computer service activities
   - uid: '153082'
     id_type: Target Type
     id_number: Private Company
+  - uid: '154387'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

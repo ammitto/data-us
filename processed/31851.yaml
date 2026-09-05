@@ -20,9 +20,9 @@ address_list:
     country: Belarus
 id_list:
   items:
-  - uid: '141720'
-    id_type: Target Type
-    id_number: Government Entity
   - uid: '140417'
     id_type: Organization Established Date
     id_number: 28 Mar 1991
+  - uid: '141720'
+    id_type: Target Type
+    id_number: Government Entity

@@ -53,9 +53,6 @@ id_list:
   - uid: '161508'
     id_type: Target Type
     id_number: Government Entity
-  - uid: '175448'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '184309'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
@@ -63,3 +60,6 @@ id_list:
   - uid: '161507'
     id_type: Organization Established Date
     id_number: '09 Oct 2003'
+  - uid: '175448'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

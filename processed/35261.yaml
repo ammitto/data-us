@@ -37,18 +37,18 @@ id_list:
     id_type: Government Gazette Number
     id_number: '51037789'
     id_country: Russia
-  - uid: '147422'
-    id_type: Organization Established Date
-    id_number: 27 Apr 1999
-  - uid: '158468'
-    id_type: 'Organization Type:'
-    id_number: Wired telecommunications activities
-  - uid: '158483'
-    id_type: Target Type
-    id_number: Private Company
   - uid: '176697'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
   - uid: '158484'
     id_type: Website
     id_number: www.iteranet.ru
+  - uid: '158468'
+    id_type: 'Organization Type:'
+    id_number: Wired telecommunications activities
+  - uid: '158483'
+    id_type: Target Type
+    id_number: Private Company
+  - uid: '147422'
+    id_type: Organization Established Date
+    id_number: 27 Apr 1999

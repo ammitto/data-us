@@ -51,9 +51,6 @@ id_list:
     id_type: Commercial Registry Number
     id_number: '2012021'
     id_country: Lebanon
-  - uid: '178600'
-    id_type: Website
-    id_number: www.hiflb.com
   - uid: '178589'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
@@ -68,4 +65,7 @@ id_list:
   - uid: '178599'
     id_type: 'Organization Type:'
     id_number: Wholesale of solid, liquid and gaseous fuels and related products
+  - uid: '178600'
+    id_type: Website
+    id_number: www.hiflb.com
 remarks: "(Linked To: HIZBALLAH)"

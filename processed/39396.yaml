@@ -36,12 +36,6 @@ id_list:
   - uid: '28578'
     id_type: Legal Entity Number
     id_number: 25340008GF2H0T8HKN44
-  - uid: '155470'
-    id_type: Target Type
-    id_number: Financial Institution
-  - uid: '176903'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '184267'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
@@ -49,9 +43,15 @@ id_list:
   - uid: '155467'
     id_type: Organization Established Date
     id_number: 17 Sep 1991
+  - uid: '176903'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
   - uid: '155468'
     id_type: SWIFT/BIC
     id_number: SJSCRUMM
   - uid: '155469'
     id_type: Website
     id_number: www.sdm.ru
+  - uid: '155470'
+    id_type: Target Type
+    id_number: Financial Institution
