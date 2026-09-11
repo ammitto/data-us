@@ -16,12 +16,6 @@ id_list:
     id_type: National ID No.
     id_number: '2162049082'
     id_country: Iran
-  - uid: '137732'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
-  - uid: '137712'
-    id_type: Gender
-    id_number: Male
   - uid: '137713'
     id_type: 'Executive Order 13846 information:'
     id_number: FOREIGN EXCHANGE.  Sec. 5(a)(ii)
@@ -34,6 +28,12 @@ id_list:
   - uid: '137716'
     id_type: 'Executive Order 13846 information:'
     id_number: IMPORT SANCTIONS.  Sec. 5(a)(vi)
+  - uid: '137732'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '137712'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '37710'

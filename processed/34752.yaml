@@ -33,6 +33,9 @@ id_list:
     id_type: Registration Number
     id_number: '807000028'
     id_country: Belarus
+  - uid: '146212'
+    id_type: Organization Established Date
+    id_number: '09 Jan 2001'
   - uid: '146210'
     id_type: SWIFT/BIC
     id_number: BLBBBY2X
@@ -42,6 +45,3 @@ id_list:
   - uid: '146207'
     id_type: Target Type
     id_number: Financial Institution
-  - uid: '146212'
-    id_type: Organization Established Date
-    id_number: '09 Jan 2001'

@@ -17,13 +17,13 @@ id_list:
     id_number: X4818118
     id_country: Switzerland
     expiration_date: 15 Jul 2020
-  - uid: '156041'
-    id_type: Gender
-    id_number: Male
   - uid: '156237'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
+  - uid: '156041'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '56038'

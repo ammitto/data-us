@@ -7,9 +7,10 @@ program_list:
   - DPRK3
 id_list:
   items:
-  - uid: '127190'
-    id_type: 'Secondary sanctions risk:'
-    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '134884'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
   - uid: '121119'
     id_type: Aircraft Manufacture Date
     id_number: '1979'
@@ -19,7 +20,6 @@ id_list:
   - uid: '121117'
     id_type: Aircraft Operator
     id_number: Air Koryo
-  - uid: '134884'
-    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
-      Institutions:'
-    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '127190'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210

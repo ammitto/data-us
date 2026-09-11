@@ -30,12 +30,6 @@ id_list:
     id_type: National ID No.
     id_number: '4480046429'
     id_country: Iran
-  - uid: '154395'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
-  - uid: '153727'
-    id_type: Gender
-    id_number: Male
   - uid: '153731'
     id_type: Digital Currency Address - XBT
     id_number: 1H939dom7i4WDLCKyGbXUp3fs9CSTNRzgL
@@ -48,6 +42,12 @@ id_list:
   - uid: '153734'
     id_type: Digital Currency Address - XBT
     id_number: bc1qpaly5nm7pfka9v92d6qvl4fc2l9xzee8a6ys3s
+  - uid: '154395'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '153727'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '53726'

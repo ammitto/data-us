@@ -25,10 +25,6 @@ id_list:
     id_number: '109484100'
     id_country: Korea, North
     expiration_date: 24 Dec 2024
-  - uid: '161248'
-    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
-      Institutions:'
-    id_number: North Korea Sanctions Regulations section 510.214
   - uid: '196597'
     id_type: Digital Currency Address - TRX
     id_number: TGXE9dGWawjfd3xqFSho1h1bRbRv9wUGrF
@@ -56,6 +52,10 @@ id_list:
   - uid: '160979'
     id_type: Gender
     id_number: Male
+  - uid: '161248'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
   - uid: '160982'
     id_type: Digital Currency Address - ETH
     id_number: '0x4f47bc496083c727c5fbe3ce9cdf2b0f6496270c'

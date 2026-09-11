@@ -30,12 +30,12 @@ id_list:
     id_type: Passport
     id_number: KB1586184
     id_country: Belarus
-  - uid: '172616'
-    id_type: Gender
-    id_number: Male
   - uid: '172753'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '172616'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '72613'

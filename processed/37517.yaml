@@ -41,9 +41,9 @@ id_list:
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'
     id_number: North Korea Sanctions Regulations section 510.214
-  - uid: '152415'
-    id_type: BIK (RU)
-    id_number: '040507705'
   - uid: '152418'
     id_type: SWIFT/BIC
     id_number: FAEBRU8V
+  - uid: '152415'
+    id_type: BIK (RU)
+    id_number: '040507705'

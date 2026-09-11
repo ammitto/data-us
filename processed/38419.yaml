@@ -29,6 +29,12 @@ id_list:
     id_type: Passport
     id_number: K30843288
     id_country: Iran
+  - uid: '154393'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '153720'
+    id_type: Gender
+    id_number: Male
   - uid: '153723'
     id_type: Digital Currency Address - XBT
     id_number: 1H939dom7i4WDLCKyGbXUp3fs9CSTNRzgL
@@ -38,12 +44,6 @@ id_list:
   - uid: '153725'
     id_type: Digital Currency Address - XBT
     id_number: bc1qx3e2axj3wsfn0ndtvlwmkghmmgm4583nqg8ngk
-  - uid: '154393'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
-  - uid: '153720'
-    id_type: Gender
-    id_number: Male
 date_of_birth_list:
   items:
   - uid: '53719'

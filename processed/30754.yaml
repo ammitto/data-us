@@ -53,6 +53,9 @@ id_list:
   - uid: '138674'
     id_type: Website
     id_number: www.kfcc.com.cn
+  - uid: '138673'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
   - uid: '138746'
     id_type: 'Executive Order 13846 information:'
     id_number: LOANS FROM UNITED STATES FINANCIAL INSTITUTIONS.  Sec. 5(a)(i)
@@ -68,7 +71,4 @@ id_list:
   - uid: '138750'
     id_type: 'Executive Order 13846 information:'
     id_number: BAN ON INVESTMENT IN EQUITY OR DEBT OF SANCTIONED PERSON.  Sec. 5(a)(v)
-  - uid: '138673'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
 remarks: "(Linked To: PASARGAD STEEL COMPLEX)"

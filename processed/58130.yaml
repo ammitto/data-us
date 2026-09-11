@@ -33,6 +33,9 @@ id_list:
     id_type: Registration Number
     id_number: '485863'
     id_country: Iran
+  - uid: '199602'
+    id_type: Website
+    id_number: http://nikajet.com
   - uid: '199646'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
@@ -42,7 +45,4 @@ id_list:
   - uid: '199681'
     id_type: 'Organization Type:'
     id_number: Manufacture of air and spacecraft and related machinery
-  - uid: '199602'
-    id_type: Website
-    id_number: http://nikajet.com
 remarks: "(Linked To: NAMAZI, Behrouz)"

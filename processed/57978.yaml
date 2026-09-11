@@ -56,21 +56,6 @@ id_list:
   - uid: '198899'
     id_type: Digital Currency Address - LTC
     id_number: LbPAqHvemZBv3pvAqiAtDnZ3U1t6EziaL1
-  - uid: '198889'
-    id_type: Gender
-    id_number: Male
-  - uid: '198890'
-    id_type: Digital Currency Address - XBT
-    id_number: 1MTndG4K51RRMvkzyvguaHnQpiMLnxFGzM
-  - uid: '198895'
-    id_type: Digital Currency Address - XBT
-    id_number: 1DfyWkiXVVqWfcSduj23qTDis9kb2qvRDa
-  - uid: '198891'
-    id_type: Digital Currency Address - ETH
-    id_number: '0x1d19b52b54e7ef5ea1a4b40b616165e798eac9f8'
-  - uid: '198903'
-    id_type: Digital Currency Address - ETH
-    id_number: '0x2C7DcD774b33e10367F7d6385479e04F97d179dc'
   - uid: '198898'
     id_type: Digital Currency Address - ZEC
     id_number: t1LHesgnkapziGQCJtrfZWYXhyjfTVo1dvh
@@ -98,6 +83,21 @@ id_list:
   - uid: '198904'
     id_type: Digital Currency Address - SOL
     id_number: FuCC7GoYwt5TsNTjWL23Xx9UKCvC18chjMEFPL3vJDCC
+  - uid: '198889'
+    id_type: Gender
+    id_number: Male
+  - uid: '198890'
+    id_type: Digital Currency Address - XBT
+    id_number: 1MTndG4K51RRMvkzyvguaHnQpiMLnxFGzM
+  - uid: '198895'
+    id_type: Digital Currency Address - XBT
+    id_number: 1DfyWkiXVVqWfcSduj23qTDis9kb2qvRDa
+  - uid: '198891'
+    id_type: Digital Currency Address - ETH
+    id_number: '0x1d19b52b54e7ef5ea1a4b40b616165e798eac9f8'
+  - uid: '198903'
+    id_type: Digital Currency Address - ETH
+    id_number: '0x2C7DcD774b33e10367F7d6385479e04F97d179dc'
 date_of_birth_list:
   items:
   - uid: '98887'

@@ -20,12 +20,12 @@ id_list:
     id_number: E51007873
     id_country: Iran
     expiration_date: 30 Sep 2024
-  - uid: '165234'
-    id_type: Gender
-    id_number: Male
   - uid: '165493'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '165234'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '65532'

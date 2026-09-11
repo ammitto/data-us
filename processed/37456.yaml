@@ -8,13 +8,6 @@ program_list:
   - UKRAINE-EO13661
 id_list:
   items:
-  - uid: '173410'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
-  - uid: '152314'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
-      589.209
   - uid: '152240'
     id_type: Aircraft Model
     id_number: AS365 Dauphin
@@ -24,4 +17,11 @@ id_list:
   - uid: '152242'
     id_type: Aircraft Tail Number
     id_number: 3A-MGU
+  - uid: '173410'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '152314'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
 remarks: "(Linked To: SKOCH, Andrei Vladimirovich)"

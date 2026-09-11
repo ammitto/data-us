@@ -1,0 +1,46 @@
+---
+uid: '58525'
+first_name: Hussein
+last_name: IBRAHIM
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '90127'
+    city: Baalbek-Hermel Province
+    country: Lebanon
+id_list:
+  items:
+  - uid: '53324'
+    id_type: National ID No.
+    id_number: '000033040500'
+    id_country: Lebanon
+  - uid: '53325'
+    id_type: Passport
+    id_number: LR3713545
+    id_country: Lebanon
+    expiration_date: 27 Sep 2033
+  - uid: '201041'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
+      Sanctions Regulations
+  - uid: '201043'
+    id_type: Gender
+    id_number: Male
+  - uid: '201042'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '101046'
+    date_of_birth: '08 May 1986'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '101044'
+    place_of_birth: Nabi Chit, Lebanon
+    main_entry: 'true'
+remarks: "(Linked To: HIZBALLAH)"

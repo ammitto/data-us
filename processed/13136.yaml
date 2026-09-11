@@ -34,9 +34,9 @@ address_list:
     country: Iran
 id_list:
   items:
-  - uid: '137340'
-    id_type: Website
-    id_number: www.sbank.ir
   - uid: '137302'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '137340'
+    id_type: Website
+    id_number: www.sbank.ir

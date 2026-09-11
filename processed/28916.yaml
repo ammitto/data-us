@@ -18,6 +18,10 @@ address_list:
     country: China
 id_list:
   items:
+  - uid: '187058'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
   - uid: '135427'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
@@ -27,8 +31,4 @@ id_list:
   - uid: '135429'
     id_type: Email Address
     id_number: res@shsaintlog.com
-  - uid: '187058'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
 remarks: "(Linked To: MAHAN AIR)"
