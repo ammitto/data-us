@@ -19,12 +19,12 @@ address_list:
     country: China
 id_list:
   items:
-  - uid: '166279'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '166264'
     id_type: Gender
     id_number: Female
+  - uid: '166279'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '66263'

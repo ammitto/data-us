@@ -28,12 +28,12 @@ id_list:
   - uid: '181718'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
-  - uid: '181719'
-    id_type: Target Type
-    id_number: Financial Institution
   - uid: '181721'
     id_type: SWIFT/BIC
     id_number: BRATRU6B
   - uid: '181720'
     id_type: Website
     id_number: www.ankb.ru
+  - uid: '181719'
+    id_type: Target Type
+    id_number: Financial Institution

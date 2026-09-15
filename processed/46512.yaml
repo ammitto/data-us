@@ -53,10 +53,10 @@ id_list:
   - uid: '171824'
     id_type: Target Type
     id_number: Financial Institution
-  - uid: '171826'
-    id_type: SWIFT/BIC
-    id_number: NCCBRUMM
   - uid: '184250'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
       589.209
+  - uid: '171826'
+    id_type: SWIFT/BIC
+    id_number: NCCBRUMM

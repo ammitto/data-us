@@ -6,38 +6,39 @@ program_list:
   programs:
   - UKRAINE-EO13662
   - RUSSIA-EO14024
+  - IRAN-EO13902
 aka_list:
   items:
   - uid: '26072'
-    type: f.k.a.
+    type: a.k.a.
     category: strong
     last_name: JSC VTB BANK
   - uid: '26073'
-    type: f.k.a.
+    type: a.k.a.
     category: strong
     last_name: BANK VTB OPEN JOINT STOCK COMPANY
   - uid: '26075'
-    type: f.k.a.
+    type: a.k.a.
     category: strong
     last_name: BANK VNESHNEY TORGOVLI OPEN JOINT STOCK COMPANY
   - uid: '26076'
-    type: f.k.a.
+    type: a.k.a.
     category: strong
     last_name: BANK VNESHNEY TORGOVLI JOINT STOCK COMPANY
   - uid: '26077'
-    type: f.k.a.
+    type: a.k.a.
     category: strong
     last_name: BANK VNESHNEI TORGOVLI RSFSR
   - uid: '26078'
-    type: f.k.a.
+    type: a.k.a.
     category: strong
     last_name: BANK VNESHNEY TORGOVLI ROSSIYSKOY FEDERATSII CLOSED JOINT STOCK COMPANY
   - uid: '26079'
-    type: f.k.a.
+    type: a.k.a.
     category: strong
     last_name: VNESHTORGBANK ROSSII CLOSED JOINT STOCK COMPANY
   - uid: '26081'
-    type: f.k.a.
+    type: a.k.a.
     category: strong
     last_name: BANK VTB OAO
   - uid: '54895'
@@ -45,7 +46,7 @@ aka_list:
     category: strong
     last_name: VTB BANK PAO
   - uid: '54896'
-    type: f.k.a.
+    type: a.k.a.
     category: strong
     last_name: VTB BANK OAO
   - uid: '54900'
@@ -61,52 +62,52 @@ aka_list:
     category: strong
     last_name: VTB BANK
   - uid: '54907'
-    type: f.k.a.
+    type: a.k.a.
     category: strong
     last_name: OAO BANK VTB
   - uid: '54908'
-    type: f.k.a.
+    type: a.k.a.
     category: strong
     last_name: VTB BANK OPEN JOINT STOCK COMPANY
   - uid: '54909'
-    type: f.k.a.
+    type: a.k.a.
     category: strong
     last_name: BANK VNESHEI TORGOVLI OAO
   - uid: '54912'
-    type: f.k.a.
+    type: a.k.a.
     category: strong
     last_name: BANK VNESHNEI TORGOVLI ROSSISKOI FEDERATSII AS A PRIVATE JOINT STOCK
       COMPANY
   - uid: '54914'
-    type: f.k.a.
+    type: a.k.a.
     category: strong
     last_name: OAO VNESHTORGBANK
   - uid: '54940'
-    type: f.k.a.
+    type: a.k.a.
     category: strong
     last_name: BANK OF FOREIGN TRADE OF THE RUSSIAN FEDERATION
   - uid: '54941'
-    type: f.k.a.
+    type: a.k.a.
     category: strong
     last_name: BANK FOR FOREIGN TRADE OF RSFSR
   - uid: '54942'
-    type: f.k.a.
+    type: a.k.a.
     category: strong
     last_name: VNESHTORGBANK OF RSFSR
   - uid: '54943'
-    type: f.k.a.
+    type: a.k.a.
     category: strong
     last_name: CJSC BANK FOR FOREIGN TRADE OF THE RUSSIAN FEDERATION
   - uid: '54944'
-    type: f.k.a.
+    type: a.k.a.
     category: strong
     last_name: RUSSIAN VNESHTORGBANK
   - uid: '54945'
-    type: f.k.a.
+    type: a.k.a.
     category: strong
     last_name: VNESHTORGBANK
   - uid: '54946'
-    type: f.k.a.
+    type: a.k.a.
     category: strong
     last_name: OJSC CJSC BANK FOR FOREIGN TRADE
   - uid: '55124'
@@ -183,6 +184,9 @@ address_list:
     city: Beijing
     postal_code: '100004'
     country: China
+  - uid: '90120'
+    city: Tehran
+    country: Iran
 id_list:
   items:
   - uid: '9477'
@@ -223,6 +227,9 @@ id_list:
   - uid: '172703'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '201028'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
   - uid: '146548'
     id_type: BIK (RU)
     id_number: '044030707'

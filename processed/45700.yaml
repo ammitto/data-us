@@ -24,12 +24,12 @@ id_list:
     id_type: Identification Number
     id_number: C536975
     id_country: Hong Kong
-  - uid: '166280'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '166266'
     id_type: Gender
     id_number: Male
+  - uid: '166280'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '66265'

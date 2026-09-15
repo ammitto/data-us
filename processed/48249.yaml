@@ -39,10 +39,10 @@ id_list:
     id_type: Chamber of Commerce Number
     id_number: '132255'
     id_country: Iran
-  - uid: '170307'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '170297'
     id_type: Organization Established Date
     id_number: 21 Aug 2002
+  - uid: '170307'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 remarks: "(Linked To: ATOMIC ENERGY ORGANIZATION OF IRAN)"

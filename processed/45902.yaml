@@ -18,9 +18,6 @@ address_list:
     country: Sudan
 id_list:
   items:
-  - uid: '166619'
-    id_type: Organization Established Date
-    id_number: '2002'
   - uid: '166611'
     id_type: 'Organization Type:'
     id_number: Activities of holding companies
@@ -31,4 +28,7 @@ id_list:
   - uid: '166569'
     id_type: Website
     id_number: www.larrycom-invest.com
+  - uid: '166619'
+    id_type: Organization Established Date
+    id_number: '2002'
 remarks: "(Linked To: KHAIR, Abdelbasit Hamza Elhassan Mohamed)"

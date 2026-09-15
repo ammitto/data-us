@@ -21,12 +21,12 @@ id_list:
     id_type: National ID No.
     id_number: '130531198307060233'
     id_country: China
-  - uid: '165803'
-    id_type: Phone Number
-    id_number: '8613091279601'
   - uid: '165804'
     id_type: Email Address
     id_number: wang1126250742@163.com
+  - uid: '165803'
+    id_type: Phone Number
+    id_number: '8613091279601'
   - uid: '165802'
     id_type: Gender
     id_number: Male
