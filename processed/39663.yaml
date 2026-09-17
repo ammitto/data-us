@@ -33,13 +33,13 @@ id_list:
     id_number: '3090014'
     id_country: Lebanon
     expiration_date: '09 Mar 2020'
-  - uid: '155975'
-    id_type: Gender
-    id_number: Male
   - uid: '156220'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
+  - uid: '155975'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '55974'

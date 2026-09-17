@@ -46,12 +46,12 @@ id_list:
     id_country: Mexico
 date_of_birth_list:
   items:
-  - uid: '4305'
-    date_of_birth: 27 Sep 1950
-    main_entry: 'true'
   - uid: '18510'
     date_of_birth: 27 Oct 1950
     main_entry: 'false'
+  - uid: '4305'
+    date_of_birth: 27 Sep 1950
+    main_entry: 'true'
 place_of_birth_list:
   items:
   - uid: '4306'

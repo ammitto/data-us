@@ -14,12 +14,12 @@ address_list:
     country: Russia
 id_list:
   items:
-  - uid: '147066'
-    id_type: Gender
-    id_number: Female
   - uid: '153808'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+  - uid: '147066'
+    id_type: Gender
+    id_number: Female
 date_of_birth_list:
   items:
   - uid: '47065'

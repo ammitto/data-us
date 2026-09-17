@@ -29,9 +29,6 @@ address_list:
     country: Afghanistan
 id_list:
   items:
-  - uid: '128992'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '186793'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
@@ -42,4 +39,7 @@ id_list:
   - uid: '128993'
     id_type: Website
     id_number: www.arian-bank.com.af
+  - uid: '128992'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 remarks: 'All Offices Worldwide; (Linked To: BANK MELLI IRAN)'

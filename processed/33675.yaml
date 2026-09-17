@@ -16,9 +16,6 @@ address_list:
     country: China
 id_list:
   items:
-  - uid: '155059'
-    id_type: Organization Established Date
-    id_number: 18 Jan 2010
   - uid: '155058'
     id_type: 'Organization Type:'
     id_number: Marine Fishing
@@ -28,4 +25,7 @@ id_list:
   - uid: '144532'
     id_type: ISIN
     id_number: KYG7114V1023
+  - uid: '155059'
+    id_type: Organization Established Date
+    id_number: 18 Jan 2010
 remarks: "(Linked To: ZHUO, Xinrong)"

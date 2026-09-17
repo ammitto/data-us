@@ -33,13 +33,13 @@ id_list:
     id_type: Tax ID No.
     id_number: '9710007769'
     id_country: Russia
-  - uid: '150193'
-    id_type: 'Organization Type:'
-    id_number: Management consultancy activities
-  - uid: '149909'
-    id_type: Organization Established Date
-    id_number: 11 Feb 2016
   - uid: '173991'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '149909'
+    id_type: Organization Established Date
+    id_number: 11 Feb 2016
+  - uid: '150193'
+    id_type: 'Organization Type:'
+    id_number: Management consultancy activities
 remarks: "(Linked To: TSARGRAD OOO)"

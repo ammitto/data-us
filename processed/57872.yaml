@@ -24,12 +24,12 @@ id_list:
     id_number: EF3549228
     id_country: China
     expiration_date: 10 Feb 2029
-  - uid: '198563'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '198558'
     id_type: Gender
     id_number: Male
+  - uid: '198563'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '98557'

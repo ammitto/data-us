@@ -29,13 +29,13 @@ id_list:
     id_type: Tax ID No.
     id_number: '7728330720'
     id_country: Russia
-  - uid: '174148'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '158331'
     id_type: Target Type
     id_number: Financial Institution
   - uid: '158330'
     id_type: Organization Established Date
     id_number: 15 Feb 2016
+  - uid: '174148'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 remarks: "(Linked To: BANK ZENIT PUBLIC JOINT STOCK COMPANY)"

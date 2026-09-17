@@ -29,6 +29,9 @@ id_list:
     id_type: Identification Number
     id_number: '210302198701102136'
     id_country: China
+  - uid: '134307'
+    id_type: Gender
+    id_number: Male
   - uid: '134325'
     id_type: Phone Number
     id_number: '8613314257947'
@@ -78,9 +81,6 @@ id_list:
   - uid: '134267'
     id_type: 'Secondary sanctions risk:'
     id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
-  - uid: '134307'
-    id_type: Gender
-    id_number: Male
 date_of_birth_list:
   items:
   - uid: '33697'

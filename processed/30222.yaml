@@ -23,9 +23,6 @@ id_list:
     id_type: Registration Number
     id_number: 200512056R
     id_country: Singapore
-  - uid: '137653'
-    id_type: Website
-    id_number: www.straitship.com
   - uid: '137654'
     id_type: 'Executive Order 13846 information:'
     id_number: LOANS FROM UNITED STATES FINANCIAL INSTITUTIONS.  Sec. 5(a)(i)
@@ -47,3 +44,6 @@ id_list:
   - uid: '137660'
     id_type: 'Executive Order 13846 information:'
     id_number: SANCTIONS ON PRINCIPAL EXECUTIVE OFFICERS. Sec. 5(a)(vii)
+  - uid: '137653'
+    id_type: Website
+    id_number: www.straitship.com

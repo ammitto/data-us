@@ -29,12 +29,12 @@ id_list:
     id_type: Passport
     id_number: MR4193252
     id_country: Belarus
-  - uid: '197963'
-    id_type: Gender
-    id_number: Male
   - uid: '197961'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '197963'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '97960'

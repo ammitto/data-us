@@ -41,9 +41,6 @@ address_list:
     country: Belgium
 id_list:
   items:
-  - uid: '131383'
-    id_type: Gender
-    id_number: Male
   - uid: '186881'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
@@ -51,6 +48,9 @@ id_list:
   - uid: '131384'
     id_type: Phone Number
     id_number: '905537471039'
+  - uid: '131383'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '31381'
