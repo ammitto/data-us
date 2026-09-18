@@ -1,4 +1,3 @@
----
 uid: '22505'
 last_name: JOINT STOCK COMMERCIAL BANK RUBLEV
 sdn_type: Entity
@@ -54,13 +53,12 @@ id_list:
     id_type: Tax ID No.
     id_number: '7744001151'
     id_country: Russia
+  - uid: '144035'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
   - uid: '124016'
     id_type: BIK (RU)
     id_number: '044525253'
-  - uid: '144035'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
-      589.209
   - uid: '123946'
     id_type: SWIFT/BIC
     id_number: COUERUMM

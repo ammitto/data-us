@@ -1,4 +1,3 @@
----
 uid: '46880'
 last_name: HODROJ EXCHANGE S.A.R.L
 sdn_type: Entity
@@ -21,11 +20,10 @@ id_list:
     id_type: Business Registration Number
     id_number: '2017574'
     id_country: Lebanon
+  - uid: '167816'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order 13886
   - uid: '167815'
     id_type: Organization Established Date
     id_number: 01 Sep 2009
-  - uid: '167816'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
 remarks: "(Linked To: HUDROJ, Bilal)"

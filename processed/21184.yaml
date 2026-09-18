@@ -1,4 +1,3 @@
----
 uid: '21184'
 first_name: Andrey Konstantinovich
 last_name: LUGOVOY
@@ -20,12 +19,12 @@ address_list:
     country: Russia
 id_list:
   items:
-  - uid: '122041'
-    id_type: Gender
-    id_number: Male
   - uid: '173925'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '122041'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '22034'

@@ -1,4 +1,3 @@
----
 uid: '17255'
 last_name: MYTISHCHI MACHINE BUILDING PLANT
 sdn_type: Entity
@@ -11,8 +10,7 @@ aka_list:
   - uid: '26565'
     type: a.k.a.
     category: strong
-    last_name: OTKRYTOE AKTSIONERNOE OBSHCHESTVO 'MYTISHCHINSKI MASHINOSTROITELNY
-      ZAVOD'
+    last_name: OTKRYTOE AKTSIONERNOE OBSHCHESTVO 'MYTISHCHINSKI MASHINOSTROITELNY ZAVOD'
   - uid: '26566'
     type: a.k.a.
     category: strong
@@ -57,10 +55,9 @@ id_list:
     id_type: Tax ID No.
     id_number: '5029126076'
     id_country: Russia
-  - uid: '143521'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
-      589.209
   - uid: '173862'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '143521'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209

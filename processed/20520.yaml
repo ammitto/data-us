@@ -1,4 +1,3 @@
----
 uid: '20520'
 last_name: AIR KORYO
 sdn_type: Entity
@@ -72,10 +71,9 @@ address_list:
     country: Kuwait
 id_list:
   items:
-  - uid: '134822'
-    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
-      Institutions:'
-    id_number: North Korea Sanctions Regulations section 510.214
   - uid: '127065'
     id_type: 'Secondary sanctions risk:'
     id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '134822'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214

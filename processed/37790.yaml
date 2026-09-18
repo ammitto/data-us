@@ -1,4 +1,3 @@
----
 uid: '37790'
 last_name: RT-CAPITAL LIMITED LIABILITY COMPANY
 sdn_type: Entity
@@ -28,13 +27,13 @@ id_list:
     id_type: Tax ID No.
     id_number: '7704770859'
     id_country: Russia
-  - uid: '152794'
-    id_type: Organization Established Date
-    id_number: 03 Dec 2010
-  - uid: '152795'
-    id_type: Target Type
-    id_number: State-Owned Enterprise
   - uid: '173518'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '152795'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
+  - uid: '152794'
+    id_type: Organization Established Date
+    id_number: 03 Dec 2010
 remarks: "(Linked To: STATE CORPORATION ROSTEC)"

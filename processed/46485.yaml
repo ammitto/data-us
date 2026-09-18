@@ -1,4 +1,3 @@
----
 uid: '46485'
 last_name: SOLISE ENERGY FZE
 sdn_type: Entity
@@ -29,6 +28,9 @@ id_list:
     id_type: Business Registration Number
     id_number: '22474'
     id_country: United Arab Emirates
+  - uid: '167394'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order 13886
   - uid: '167315'
     id_type: Organization Established Date
     id_number: 20 Oct 2019
@@ -38,8 +40,4 @@ id_list:
   - uid: '167317'
     id_type: Organization Established Date
     id_number: 13 Jun 2021
-  - uid: '167394'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
 remarks: "(Linked To: PALIKANDY, Mehboob Thachankandy)"

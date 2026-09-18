@@ -1,4 +1,3 @@
----
 uid: '51663'
 last_name: INTERSTATE BANK
 sdn_type: Entity
@@ -31,12 +30,6 @@ id_list:
   - uid: '44181'
     id_type: Legal Entity Number
     id_number: 253400RP1GTPC8W8AT76
-  - uid: '181608'
-    id_type: Target Type
-    id_number: Financial Institution
-  - uid: '181609'
-    id_type: Target Type
-    id_number: State-Owned Enterprise
   - uid: '181612'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
@@ -46,3 +39,9 @@ id_list:
   - uid: '181611'
     id_type: Website
     id_number: www.isbnk.org
+  - uid: '181608'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '181609'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

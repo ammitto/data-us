@@ -1,4 +1,3 @@
----
 uid: '36027'
 first_name: Alireza
 last_name: KASHANIMEHR
@@ -35,13 +34,12 @@ id_list:
     id_number: X15243089
     id_country: Iran
     expiration_date: 05 Feb 2014
-  - uid: '149354'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
   - uid: '149498'
     id_type: Gender
     id_number: Male
+  - uid: '149354'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order 13886
 date_of_birth_list:
   items:
   - uid: '49497'

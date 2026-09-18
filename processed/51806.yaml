@@ -1,4 +1,3 @@
----
 uid: '51806'
 last_name: COMMERCIAL BANK KHLYNOV JOINT STOCK COMPANY
 sdn_type: Entity
@@ -25,9 +24,6 @@ id_list:
     id_type: Tax ID No.
     id_number: '4346013603'
     id_country: Russia
-  - uid: '182085'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '182086'
     id_type: Target Type
     id_number: Financial Institution
@@ -37,3 +33,6 @@ id_list:
   - uid: '182083'
     id_type: Website
     id_number: www.bank-hlynov.ru
+  - uid: '182085'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

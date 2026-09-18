@@ -1,4 +1,3 @@
----
 uid: '51792'
 last_name: AKTSIONERNOE OBSHCHESTVO BANK AGROROS
 sdn_type: Entity
@@ -22,12 +21,12 @@ id_list:
     id_type: Tax ID No.
     id_number: '6453033870'
     id_country: Russia
-  - uid: '182040'
-    id_type: Target Type
-    id_number: Financial Institution
   - uid: '182039'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '182040'
+    id_type: Target Type
+    id_number: Financial Institution
   - uid: '182038'
     id_type: SWIFT/BIC
     id_number: AGZARUM1

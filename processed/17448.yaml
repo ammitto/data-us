@@ -1,4 +1,3 @@
----
 uid: '17448'
 first_name: Konstantin
 last_name: MALOFEYEV
@@ -37,13 +36,12 @@ id_list:
     id_type: National ID No.
     id_number: '4604189321'
     id_country: Russia
+  - uid: '151208'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
   - uid: '173864'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
-  - uid: '151208'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
-      589.209
   - uid: '150259'
     id_type: Gender
     id_number: Male

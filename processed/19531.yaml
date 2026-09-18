@@ -1,4 +1,3 @@
----
 uid: '19531'
 first_name: Song Chol
 last_name: KIM
@@ -25,13 +24,12 @@ id_list:
     id_number: '381420565'
     id_country: Korea, North
     expiration_date: 23 Nov 2016
-  - uid: '135046'
-    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
-      Institutions:'
-    id_number: North Korea Sanctions Regulations section 510.214
   - uid: '127663'
     id_type: 'Secondary sanctions risk:'
     id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '135046'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
 date_of_birth_list:
   items:
   - uid: '19753'

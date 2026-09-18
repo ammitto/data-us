@@ -1,4 +1,3 @@
----
 uid: '40180'
 first_name: Andrey Aleksandrovich
 last_name: UGLOV
@@ -20,12 +19,12 @@ address_list:
     country: Russia
 id_list:
   items:
-  - uid: '157043'
-    id_type: Gender
-    id_number: Male
   - uid: '174012'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '157043'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '57041'
@@ -36,5 +35,4 @@ place_of_birth_list:
   - uid: '57042'
     place_of_birth: St. Petersburg, Russia
     main_entry: 'true'
-remarks: "(Linked To: OPEN JOINT STOCK COMPANY ILYENKO ELARA RESEARCH AND PRODUCTION
-  COMPLEX)"
+remarks: "(Linked To: OPEN JOINT STOCK COMPANY ILYENKO ELARA RESEARCH AND PRODUCTION COMPLEX)"

@@ -1,4 +1,3 @@
----
 uid: '39518'
 first_name: Yusuf Ahmed Hajji
 last_name: NUROW
@@ -24,13 +23,12 @@ address_list:
     country: Somalia
 id_list:
   items:
-  - uid: '155637'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
   - uid: '155636'
     id_type: Gender
     id_number: Male
+  - uid: '155637'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order 13886
 date_of_birth_list:
   items:
   - uid: '55630'

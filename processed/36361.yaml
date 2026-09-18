@@ -1,4 +1,3 @@
----
 uid: '36361'
 first_name: Nikita
 last_name: MELIKOV
@@ -12,17 +11,15 @@ address_list:
     country: Russia
 id_list:
   items:
-  - uid: '174006'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '149935'
     id_type: Gender
     id_number: Male
+  - uid: '174006'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 date_of_birth_list:
   items:
   - uid: '49936'
     date_of_birth: 30 Mar 1994
     main_entry: 'true'
-remarks: "(Linked To: AUTONOMOUS NONCOMMERCIAL ORGANIZATION FOR THE STUDY AND DEVELOPMENT
-  OF INTERNATIONAL COOPERATION IN THE ECONOMIC SPHERE INTERNATIONAL AGENCY OF SOVEREIGN
-  DEVELOPMENT)"
+remarks: "(Linked To: AUTONOMOUS NONCOMMERCIAL ORGANIZATION FOR THE STUDY AND DEVELOPMENT OF INTERNATIONAL COOPERATION IN THE ECONOMIC SPHERE INTERNATIONAL AGENCY OF SOVEREIGN DEVELOPMENT)"

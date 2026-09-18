@@ -1,4 +1,3 @@
----
 uid: '48636'
 last_name: PSI DMCC
 sdn_type: Entity
@@ -8,8 +7,7 @@ program_list:
 address_list:
   items:
   - uid: '73040'
-    address1: 'Unit No: AU-30-A, Gold Tower (AU), Plot No: JLT-PH1-I3A, Jumeirah Lakes
-      Towers'
+    address1: 'Unit No: AU-30-A, Gold Tower (AU), Plot No: JLT-PH1-I3A, Jumeirah Lakes Towers'
     city: Dubai
     country: United Arab Emirates
 id_list:
@@ -26,10 +24,10 @@ id_list:
     id_type: Economic Register Number (CBLS)
     id_number: '11459277'
     id_country: United Arab Emirates
-  - uid: '170956'
-    id_type: Organization Established Date
-    id_number: 18 Jun 2005
   - uid: '170996'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '170956'
+    id_type: Organization Established Date
+    id_number: 18 Jun 2005
 remarks: "(Linked To: KHOUZESTAN STEEL COMPANY)"

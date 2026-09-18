@@ -1,4 +1,3 @@
----
 uid: '22488'
 last_name: TSMRBANK, OOO
 sdn_type: Entity
@@ -52,16 +51,14 @@ id_list:
     id_type: BIK (RU)
     id_number: '044525059'
   - uid: '179102'
-    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
-      Institutions:'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial Institutions:'
     id_number: North Korea Sanctions Regulations section 510.214
-  - uid: '144028'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
-      589.209
   - uid: '179101'
     id_type: 'Secondary sanctions risk:'
     id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '179193'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '144028'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209

@@ -1,0 +1,26 @@
+uid: '58652'
+first_name: Julio
+last_name: HURTADO BETANCOURT
+sdn_type: Individual
+program_list:
+  programs:
+  - CUBA-EO14404
+address_list:
+  items:
+  - uid: '90336'
+    country: Cuba
+id_list:
+  items:
+  - uid: '53453'
+    id_type: Passport
+    id_number: E459994
+    id_country: Cuba
+    expiration_date: 29 Apr 2031
+  - uid: '201385'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '101395'
+    date_of_birth: 04 Nov 1962
+    main_entry: 'true'

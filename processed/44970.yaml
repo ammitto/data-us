@@ -1,4 +1,3 @@
----
 uid: '44970'
 last_name: JOINT STOCK COMPANY HMS GROUP
 sdn_type: Entity
@@ -22,8 +21,7 @@ aka_list:
   - uid: '69601'
     type: f.k.a.
     category: strong
-    last_name: INVESTITSIONNO PROMYSHLENNAYA GRUPPA GIDRAVLICHESKIE MASHINY I SISTEMY
-      OOO
+    last_name: INVESTITSIONNO PROMYSHLENNAYA GRUPPA GIDRAVLICHESKIE MASHINY I SISTEMY OOO
 address_list:
   items:
   - uid: '66920'
@@ -45,9 +43,9 @@ id_list:
     id_type: Registration ID
     id_number: '5087746036483'
     id_country: Russia
-  - uid: '165304'
-    id_type: Organization Established Date
-    id_number: 02 Mar 2004
   - uid: '175854'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '165304'
+    id_type: Organization Established Date
+    id_number: 02 Mar 2004

@@ -1,4 +1,3 @@
----
 uid: '22410'
 first_name: Natalya Ivanovna
 last_name: KHORSHEVA
@@ -25,13 +24,12 @@ address_list:
     country: Ukraine
 id_list:
   items:
-  - uid: '143837'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
-      589.209
   - uid: '123868'
     id_type: Gender
     id_number: Female
+  - uid: '143837'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
 date_of_birth_list:
   items:
   - uid: '23867'

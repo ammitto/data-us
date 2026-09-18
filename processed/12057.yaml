@@ -1,4 +1,3 @@
----
 uid: '12057'
 first_name: Mohammad Reza
 last_name: NAQDI
@@ -54,16 +53,15 @@ address_list:
     country: Iran
 id_list:
   items:
-  - uid: '185971'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
-  - uid: '133128'
-    id_type: Gender
-    id_number: Male
   - uid: '114294'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '185971'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order 13886
+  - uid: '133128'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '7804'
@@ -87,6 +85,4 @@ place_of_birth_list:
     place_of_birth: Tehran, Iran
     main_entry: 'false'
 remarks: Head of the Basij
-title: Brigadier General and Commander of the IRGC Basij Resistance Force; President
-  of the Organization of the Basij of the Oppressed; Chief of the Mobilization of
-  the Oppressed Organization
+title: Brigadier General and Commander of the IRGC Basij Resistance Force; President of the Organization of the Basij of the Oppressed; Chief of the Mobilization of the Oppressed Organization

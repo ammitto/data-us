@@ -1,4 +1,3 @@
----
 uid: '37729'
 first_name: Nadezhda Vitalyevna
 last_name: LASHKARYOVA
@@ -28,12 +27,12 @@ address_list:
     country: Ukraine
 id_list:
   items:
-  - uid: '152685'
-    id_type: Gender
-    id_number: Female
   - uid: '173482'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '152685'
+    id_type: Gender
+    id_number: Female
 date_of_birth_list:
   items:
   - uid: '52686'

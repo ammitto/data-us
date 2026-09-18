@@ -1,4 +1,3 @@
----
 uid: '36040'
 last_name: JOINT STOCK COMPANY RESEARCH DESIGN AND TECHNOLOGICAL BUREAU ONEGA
 sdn_type: Entity
@@ -22,8 +21,7 @@ aka_list:
   - uid: '56750'
     type: a.k.a.
     category: strong
-    last_name: AKTSIONERNOE OBSHCHESTVO NAUCHNO-ISSLEDOVATELSKOE PROEKTNO-TEKHNOLOGICHESKO
-      BYURO ONEGA
+    last_name: AKTSIONERNOE OBSHCHESTVO NAUCHNO-ISSLEDOVATELSKOE PROEKTNO-TEKHNOLOGICHESKO BYURO ONEGA
 address_list:
   items:
   - uid: '54164'
@@ -42,10 +40,10 @@ id_list:
   - uid: '149389'
     id_type: Website
     id_number: WWW.ONEGASTAR.RU
-  - uid: '173336'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '149388'
     id_type: Organization Established Date
     id_number: 30 Jan 2008
+  - uid: '173336'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 remarks: "(Linked To: JOINT STOCK COMPANY UNITED SHIPBUILDING CORPORATION)"

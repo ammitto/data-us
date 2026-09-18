@@ -1,4 +1,3 @@
----
 uid: '48989'
 last_name: TEKHNOLOGIYA, OOO
 sdn_type: Entity
@@ -31,8 +30,7 @@ address_list:
     postal_code: '115487'
     country: Russia
   - uid: '73681'
-    address1: Part of Room 453, Letter A, Housing 2, Building 11, Staroderevenskaya
-      Street
+    address1: Part of Room 453, Letter A, Housing 2, Building 11, Staroderevenskaya Street
     city: Saint Petersburg
     postal_code: '197374'
     country: Russia
@@ -61,14 +59,13 @@ id_list:
     id_type: Government Gazette Number
     id_number: '87375823'
     id_country: Russia
-  - uid: '171815'
-    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
-      Institutions:'
-    id_number: North Korea Sanctions Regulations section 510.214
   - uid: '171814'
     id_type: 'Secondary sanctions risk:'
     id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '171843'
     id_type: Organization Established Date
     id_number: 14 Aug 2008
+  - uid: '171815'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
 remarks: "(Linked To: BUDNEV, Aleksey)"

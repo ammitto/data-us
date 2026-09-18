@@ -1,4 +1,3 @@
----
 uid: '40076'
 first_name: Osama
 last_name: MEHMOOD
@@ -31,13 +30,12 @@ address_list:
     country: Afghanistan
 id_list:
   items:
+  - uid: '156867'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order 13886
   - uid: '156847'
     id_type: Gender
     id_number: Male
-  - uid: '156867'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
 date_of_birth_list:
   items:
   - uid: '56849'

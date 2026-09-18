@@ -1,4 +1,3 @@
----
 uid: '49689'
 last_name: TENGLAN LIMITED
 sdn_type: Entity
@@ -22,11 +21,10 @@ id_list:
     id_type: Registration Number
     id_number: '73764990'
     id_country: Hong Kong
-  - uid: '173025'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
   - uid: '173026'
     id_type: Organization Established Date
     id_number: 27 Jan 2022
+  - uid: '173025'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order 13886
 remarks: "(Linked To: MINISTRY OF DEFENSE AND ARMED FORCES LOGISTICS)"

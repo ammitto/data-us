@@ -1,4 +1,3 @@
----
 uid: '37788'
 last_name: JOINT STOCK COMPANY RT-TEKHPRIEMKA
 sdn_type: Entity
@@ -36,10 +35,10 @@ id_list:
   - uid: '152788'
     id_type: Organization Established Date
     id_number: 12 Jul 1991
-  - uid: '173516'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '152789'
     id_type: Target Type
     id_number: State-Owned Enterprise
+  - uid: '173516'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 remarks: "(Linked To: STATE CORPORATION ROSTEC)"

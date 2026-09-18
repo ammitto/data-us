@@ -1,4 +1,3 @@
----
 uid: '49369'
 last_name: NINGBO BEILUN SAIGE MACHINE CO., LTD.
 sdn_type: Entity
@@ -23,14 +22,13 @@ id_list:
     id_type: Registration Number
     id_number: '330206000106175'
     id_country: China
-  - uid: '172435'
-    id_type: Organization Established Date
-    id_number: 14 Dec 2010
+  - uid: '172931'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order 13886
   - uid: '172439'
     id_type: Website
     id_number: www.nbsaige.com
-  - uid: '172931'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
+  - uid: '172435'
+    id_type: Organization Established Date
+    id_number: 14 Dec 2010
 remarks: "(Linked To: ANSARALLAH)"

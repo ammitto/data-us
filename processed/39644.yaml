@@ -1,4 +1,3 @@
----
 uid: '39644'
 first_name: Mohamed Ahmed
 last_name: QAHIYE
@@ -15,13 +14,12 @@ address_list:
     country: Somalia
 id_list:
   items:
+  - uid: '155924'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order 13886
   - uid: '155919'
     id_type: Gender
     id_number: Male
-  - uid: '155924'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
 date_of_birth_list:
   items:
   - uid: '55921'

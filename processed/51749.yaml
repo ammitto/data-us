@@ -1,4 +1,3 @@
----
 uid: '51749'
 last_name: JOINT STOCK COMMERCIAL BANK SLAVIA JOINT STOCK COMPANY
 sdn_type: Entity
@@ -35,12 +34,12 @@ id_list:
     id_type: Tax ID No.
     id_number: '7726000596'
     id_country: Russia
-  - uid: '181902'
-    id_type: Target Type
-    id_number: Financial Institution
   - uid: '181905'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '181902'
+    id_type: Target Type
+    id_number: Financial Institution
   - uid: '181903'
     id_type: SWIFT/BIC
     id_number: SJSMRUMM

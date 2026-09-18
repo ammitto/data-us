@@ -1,4 +1,3 @@
----
 uid: '51563'
 last_name: PETRO WELT TECHNOLOGIES
 sdn_type: Entity
@@ -24,13 +23,12 @@ id_list:
     id_type: Tax ID No.
     id_number: '7706425914'
     id_country: Russia
-  - uid: '181244'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '183501'
     id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
-      589.209
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
   - uid: '182852'
     id_type: Organization Established Date
     id_number: 31 Aug 2015
+  - uid: '181244'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

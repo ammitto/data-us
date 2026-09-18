@@ -1,4 +1,3 @@
----
 uid: '51164'
 last_name: SINNO GROUP LIMITED
 sdn_type: Entity
@@ -8,8 +7,7 @@ program_list:
 address_list:
   items:
   - uid: '77793'
-    address1: Room 13, 27/F, Ho King Commercial Centre, 2-16 Fa Yuen Street, Mongkok,
-      Kowloon
+    address1: Room 13, 27/F, Ho King Commercial Centre, 2-16 Fa Yuen Street, Mongkok, Kowloon
     city: Hong Kong
     country: China
   - uid: '77795'
@@ -30,12 +28,12 @@ id_list:
   - uid: '180260'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
-  - uid: '180259'
-    id_type: Organization Established Date
-    id_number: 24 Dec 2021
   - uid: '180256'
     id_type: Website
     id_number: https://sinnogroup.ru/
   - uid: '180257'
     id_type: Email Address
     id_number: russia@sinnoelec.com
+  - uid: '180259'
+    id_type: Organization Established Date
+    id_number: 24 Dec 2021

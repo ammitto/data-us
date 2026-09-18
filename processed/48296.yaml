@@ -1,4 +1,3 @@
----
 uid: '48296'
 last_name: TIT ULUSLARARASI NAKLIYAT DERI TEKSTIL GIDA SANAYI VE TICARET LIMITED SIRKETI
 sdn_type: Entity
@@ -23,11 +22,10 @@ id_list:
     id_type: Chamber of Commerce Number
     id_number: '490835'
     id_country: Turkey
-  - uid: '170444'
-    id_type: Organization Established Date
-    id_number: 13 Jan 2005
   - uid: '170443'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
-remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS AEROSPACE FORCE SELF SUFFICIENCY
-  JIHAD ORGANIZATION)"
+  - uid: '170444'
+    id_type: Organization Established Date
+    id_number: 13 Jan 2005
+remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS AEROSPACE FORCE SELF SUFFICIENCY JIHAD ORGANIZATION)"

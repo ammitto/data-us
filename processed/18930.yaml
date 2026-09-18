@@ -1,4 +1,3 @@
----
 uid: '18930'
 first_name: Adel Mohamad
 last_name: CHERRI
@@ -49,15 +48,13 @@ id_list:
     expiration_date: 03 Jul 2018
   - uid: '120166'
     id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
-      Sanctions Regulations
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial Sanctions Regulations
+  - uid: '186508'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order 13886
   - uid: '118472'
     id_type: Gender
     id_number: Male
-  - uid: '186508'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
 date_of_birth_list:
   items:
   - uid: '18470'

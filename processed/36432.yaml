@@ -1,7 +1,5 @@
----
 uid: '36432'
-last_name: PUBLIC JOINT STOCK COMPANY TAGANROG AVIATION SCIENTIFIC-TECHNICAL COMPLEX
-  N.A. G.M. BERIEV
+last_name: PUBLIC JOINT STOCK COMPANY TAGANROG AVIATION SCIENTIFIC-TECHNICAL COMPLEX N.A. G.M. BERIEV
 sdn_type: Entity
 program_list:
   programs:
@@ -11,8 +9,7 @@ aka_list:
   - uid: '57423'
     type: a.k.a.
     category: strong
-    last_name: PUBLICHNOE AKTSIONERNOE OBSHCHESTVO TAGANROGSKI AVIATSIONNY NAUCHNO
-      TEKHNICHESKI KOMPLEKS IM. G.M. BERIEVA
+    last_name: PUBLICHNOE AKTSIONERNOE OBSHCHESTVO TAGANROGSKI AVIATSIONNY NAUCHNO TEKHNICHESKI KOMPLEKS IM. G.M. BERIEVA
   - uid: '57424'
     type: a.k.a.
     category: strong
@@ -32,8 +29,7 @@ aka_list:
   - uid: '57428'
     type: f.k.a.
     category: strong
-    last_name: TAGANROGSKI AVIATSIONNY NAUCHNO-TEKHNICHESKI KOMPLEKS IM. G.M. BERIEVA
-      PAO
+    last_name: TAGANROGSKI AVIATSIONNY NAUCHNO-TEKHNICHESKI KOMPLEKS IM. G.M. BERIEVA PAO
 address_list:
   items:
   - uid: '54744'
@@ -55,9 +51,9 @@ id_list:
   - uid: '150117'
     id_type: Organization Established Date
     id_number: 13 Jul 1994
-  - uid: '150137'
-    id_type: Target Type
-    id_number: State-Owned Enterprise
   - uid: '174212'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '150137'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

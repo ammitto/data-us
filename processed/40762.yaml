@@ -1,4 +1,3 @@
----
 uid: '40762'
 last_name: LALEH PETROCHEMICAL COMPANY
 sdn_type: Entity
@@ -27,13 +26,13 @@ id_list:
     id_type: Business Registration Number
     id_number: '192133'
     id_country: Iran
+  - uid: '158241'
+    id_type: Website
+    id_number: www.lapc.ir
   - uid: '158240'
     id_type: Organization Established Date
     id_number: 11 Sep 2002
   - uid: '158239'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
-  - uid: '158241'
-    id_type: Website
-    id_number: www.lapc.ir
 remarks: "(Linked To: MARUN PETROCHEMICAL COMPANY)"

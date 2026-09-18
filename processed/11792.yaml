@@ -1,4 +1,3 @@
----
 uid: '11792'
 last_name: FATER ENGINEERING INSTITUTE
 sdn_type: Entity
@@ -31,10 +30,9 @@ address_list:
     country: Iran
 id_list:
   items:
-  - uid: '185958'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
   - uid: '113772'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '185958'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order 13886

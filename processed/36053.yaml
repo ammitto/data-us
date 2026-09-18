@@ -1,4 +1,3 @@
----
 uid: '36053'
 last_name: JOINT STOCK COMPANY 10 ORDENA TRUDOVOGO KRASNOGO ZNAMENI DOCKYARD
 sdn_type: Entity
@@ -30,8 +29,7 @@ aka_list:
   - uid: '56808'
     type: a.k.a.
     category: strong
-    last_name: JOINT STOCK COMPANY 10TH AWARDS OF THE LABOR RED BANNER A SHIP REPAIR
-      FACTORY
+    last_name: JOINT STOCK COMPANY 10TH AWARDS OF THE LABOR RED BANNER A SHIP REPAIR FACTORY
 address_list:
   items:
   - uid: '54201'
@@ -48,10 +46,10 @@ id_list:
     id_type: Tax ID No.
     id_number: '5116001041'
     id_country: Russia
-  - uid: '149425'
-    id_type: Organization Established Date
-    id_number: 03 Jun 2010
   - uid: '173347'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '149425'
+    id_type: Organization Established Date
+    id_number: 03 Jun 2010
 remarks: "(Linked To: JOINT STOCK COMPANY UNITED SHIPBUILDING CORPORATION)"

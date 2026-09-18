@@ -1,4 +1,3 @@
----
 uid: '51662'
 last_name: BBR BANK JOINT STOCK COMPANY
 sdn_type: Entity
@@ -35,9 +34,6 @@ id_list:
   - uid: '44178'
     id_type: Legal Entity Number
     id_number: 253400MF70R9W1E92E58
-  - uid: '181605'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '181607'
     id_type: SWIFT/BIC
     id_number: BADJRUMM
@@ -47,3 +43,6 @@ id_list:
   - uid: '181604'
     id_type: Target Type
     id_number: Financial Institution
+  - uid: '181605'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

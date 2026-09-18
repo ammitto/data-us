@@ -1,4 +1,3 @@
----
 uid: '22986'
 last_name: HANA BANKING CORPORATION LTD
 sdn_type: Entity
@@ -35,13 +34,12 @@ address_list:
     country: China
 id_list:
   items:
+  - uid: '135150'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
   - uid: '124529'
     id_type: SWIFT/BIC
     id_number: BRBKKPP1
   - uid: '127946'
     id_type: 'Secondary sanctions risk:'
     id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
-  - uid: '135150'
-    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
-      Institutions:'
-    id_number: North Korea Sanctions Regulations section 510.214

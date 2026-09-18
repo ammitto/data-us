@@ -1,4 +1,3 @@
----
 uid: '40927'
 first_name: Sharda
 last_name: SUBRAMANIAM
@@ -28,12 +27,12 @@ id_list:
     id_country: India
     issue_date: 19 Dec 2014
     expiration_date: 18 Dec 2024
-  - uid: '175317'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '159564'
     id_type: Gender
     id_number: Female
+  - uid: '175317'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 date_of_birth_list:
   items:
   - uid: '59565'

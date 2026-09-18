@@ -1,4 +1,3 @@
----
 uid: '51173'
 last_name: POLAR BEAR ELECTRONICS CO., LIMITED
 sdn_type: Entity
@@ -21,10 +20,10 @@ id_list:
     id_type: Business Registration Number
     id_number: '75896458'
     id_country: Hong Kong
-  - uid: '180330'
-    id_type: Organization Established Date
-    id_number: '09 Nov 2023'
   - uid: '180331'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '180330'
+    id_type: Organization Established Date
+    id_number: '09 Nov 2023'
 remarks: "(Linked To: CHIPS RESOURCES LIMITED)"

@@ -1,4 +1,3 @@
----
 uid: '50691'
 first_name: Dmitry Konstantinovich
 last_name: KISELEV
@@ -24,12 +23,12 @@ id_list:
     id_type: Tax ID No.
     id_number: '771911447529'
     id_country: Russia
-  - uid: '179222'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '179220'
     id_type: Gender
     id_number: Male
+  - uid: '179222'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 date_of_birth_list:
   items:
   - uid: '79218'
@@ -40,5 +39,4 @@ place_of_birth_list:
   - uid: '79219'
     place_of_birth: Moscow, Russia
     main_entry: 'true'
-remarks: "(Linked To: FEDERAL STATE UNITARY ENTERPRISE INTERNATIONAL INFORMATION AGENCY
-  ROSSIYA SEGODNYA)"
+remarks: "(Linked To: FEDERAL STATE UNITARY ENTERPRISE INTERNATIONAL INFORMATION AGENCY ROSSIYA SEGODNYA)"

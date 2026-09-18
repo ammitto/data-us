@@ -1,4 +1,3 @@
----
 uid: '39679'
 last_name: BLUE BERRI SHIPPING INC.
 sdn_type: Entity
@@ -19,11 +18,10 @@ id_list:
     id_type: Business Number
     id_number: '108160'
     id_country: Marshall Islands
+  - uid: '156215'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order 13886
   - uid: '156013'
     id_type: Organization Established Date
     id_number: 04 Mar 2021
-  - uid: '156215'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
 remarks: "(Linked To: ARTEMOV, Viktor Sergiyovich)"

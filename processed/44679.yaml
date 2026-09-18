@@ -1,4 +1,3 @@
----
 uid: '44679'
 first_name: Zamid Alievich
 last_name: CHALAEV
@@ -27,12 +26,12 @@ address_list:
     country: Russia
 id_list:
   items:
-  - uid: '173780'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '164808'
     id_type: Gender
     id_number: Male
+  - uid: '173780'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 date_of_birth_list:
   items:
   - uid: '64806'

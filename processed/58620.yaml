@@ -1,0 +1,42 @@
+uid: '58620'
+first_name: Hossein Ali
+last_name: ZAKER HOSSEIN
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+  - IRAN
+address_list:
+  items:
+  - uid: '90249'
+    address1: Kish Sadaf Fazyek Kh Hananeh Shiday Yakom
+    city: Kish Island
+    country: Iran
+id_list:
+  items:
+  - uid: '53411'
+    id_type: National ID No.
+    id_number: '2296622909'
+    id_country: Iran
+  - uid: '53412'
+    id_type: Passport
+    id_number: B61766700
+    id_country: Iran
+    expiration_date: 20 Feb 2028
+  - uid: '201361'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '201273'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '101270'
+    date_of_birth: 23 May 1957
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '101271'
+    place_of_birth: Shiraz, Iran
+    main_entry: 'true'
+remarks: "(Linked To: ZANJANI, Babak Morteza)"

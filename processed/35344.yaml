@@ -1,4 +1,3 @@
----
 uid: '35344'
 last_name: MAKEYEV STATE MISSILE CENTER
 sdn_type: Entity
@@ -22,8 +21,7 @@ aka_list:
   - uid: '55667'
     type: a.k.a.
     category: strong
-    last_name: JOINT STOCK COMPANY GOSUDARSTVENNY RAKETNY CENTER NAMED AFTER AKADEMIKA
-      V. P. MAKEYEVA
+    last_name: JOINT STOCK COMPANY GOSUDARSTVENNY RAKETNY CENTER NAMED AFTER AKADEMIKA V. P. MAKEYEVA
 address_list:
   items:
   - uid: '53186'
@@ -38,9 +36,9 @@ id_list:
     id_type: Tax ID No.
     id_number: '7415061109'
     id_country: Russia
-  - uid: '147623'
-    id_type: Website
-    id_number: http://makeyev.ru
   - uid: '176733'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '147623'
+    id_type: Website
+    id_number: http://makeyev.ru

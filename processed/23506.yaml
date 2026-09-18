@@ -1,4 +1,3 @@
----
 uid: '23506'
 first_name: Kyong Hak
 last_name: KIM
@@ -23,13 +22,12 @@ id_list:
   - uid: '14976'
     id_type: Passport
     id_number: '654231856'
-  - uid: '135179'
-    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
-      Institutions:'
-    id_number: North Korea Sanctions Regulations section 510.214
   - uid: '127341'
     id_type: 'Secondary sanctions risk:'
     id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '135179'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
 date_of_birth_list:
   items:
   - uid: '25339'

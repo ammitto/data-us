@@ -1,4 +1,3 @@
----
 uid: '45592'
 last_name: SCIENTIFIC AND TECHNICAL CENTER PRIVODNAYA TEHNIKA LIMITED LIABILITY COMPANY
 sdn_type: Entity
@@ -36,9 +35,9 @@ id_list:
     id_type: Tax ID No.
     id_number: '7453060480'
     id_country: Russia
-  - uid: '166135'
-    id_type: Organization Established Date
-    id_number: 28 Feb 2000
   - uid: '175984'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '166135'
+    id_type: Organization Established Date
+    id_number: 28 Feb 2000

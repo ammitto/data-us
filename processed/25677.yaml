@@ -1,4 +1,3 @@
----
 uid: '25677'
 last_name: BANK TEJARAT
 sdn_type: Entity
@@ -47,14 +46,12 @@ address_list:
     postal_code: '734001'
     country: Tajikistan
   - uid: '38843'
-    address1: Office C208, Beijing Lufthansa Center No 50, Liangmaqiao Rd, Chaoyang
-      District
+    address1: Office C208, Beijing Lufthansa Center No 50, Liangmaqiao Rd, Chaoyang District
     city: Beijing
     postal_code: '100016'
     country: China
   - uid: '38844'
-    address1: PO Box 119871, 4th Floor, c/o Persia International Bank PLC, The Gate
-      Bldg
+    address1: PO Box 119871, 4th Floor, c/o Persia International Bank PLC, The Gate Bldg
     city: Dubai
     country: United Arab Emirates
   - uid: '38845'
@@ -80,6 +77,5 @@ id_list:
     id_number: www.tejaratbank.ir
   - uid: '186828'
     id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order 13886
 remarks: 'All Offices Worldwide; (Linked To: MAHAN AIR; Linked To: BANK SEPAH)'

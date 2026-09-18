@@ -1,4 +1,3 @@
----
 uid: '50544'
 last_name: AUTONOMOUS NON-PROFIT ORGANIZATION DIALOG REGIONS
 sdn_type: Entity
@@ -10,8 +9,7 @@ aka_list:
   - uid: '79025'
     type: a.k.a.
     category: strong
-    last_name: AUTONOMOUS NON-PROFIT ORGANIZATION FOR THE DEVELOPMENT OF DIGITAL PROJECTS
-      IN THE FIELD OF PUBLIC RELATIONS AND COMMUNICATIONS DIALOG REGIONS
+    last_name: AUTONOMOUS NON-PROFIT ORGANIZATION FOR THE DEVELOPMENT OF DIGITAL PROJECTS IN THE FIELD OF PUBLIC RELATIONS AND COMMUNICATIONS DIALOG REGIONS
   - uid: '79026'
     type: a.k.a.
     category: strong
@@ -31,8 +29,7 @@ aka_list:
   - uid: '79030'
     type: a.k.a.
     category: strong
-    last_name: AVTONOMNAYA NEKOMMERCHESKAYA ORGANIZATSIYA PO RAZVITIYU TSIFROVYKH
-      PROEKTOV V SFERE OBSHCHESTEVENNYKH SVYAZEI I KOMMUNIKATSII DIALOG REGIONY
+    last_name: AVTONOMNAYA NEKOMMERCHESKAYA ORGANIZATSIYA PO RAZVITIYU TSIFROVYKH PROEKTOV V SFERE OBSHCHESTEVENNYKH SVYAZEI I KOMMUNIKATSII DIALOG REGIONY
 address_list:
   items:
   - uid: '76634'
@@ -57,10 +54,10 @@ id_list:
   - uid: '178701'
     id_type: Website
     id_number: www.dialog-regions.ru
-  - uid: '178699'
-    id_type: Organization Established Date
-    id_number: 21 Jul 2020
   - uid: '178698'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '178699'
+    id_type: Organization Established Date
+    id_number: 21 Jul 2020
 remarks: "(Linked To: AUTONOMOUS NON-PROFIT ORGANIZATION DIALOG)"

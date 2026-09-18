@@ -1,4 +1,3 @@
----
 uid: '15603'
 last_name: FOREIGN TRADE BANK OF THE DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA
 sdn_type: Entity
@@ -28,13 +27,12 @@ address_list:
     country: Korea, North
 id_list:
   items:
+  - uid: '135204'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
   - uid: '112908'
     id_type: SWIFT/BIC
     id_number: FTBDKPPY
-  - uid: '135204'
-    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
-      Institutions:'
-    id_number: North Korea Sanctions Regulations section 510.214
   - uid: '127948'
     id_type: 'Secondary sanctions risk:'
     id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210

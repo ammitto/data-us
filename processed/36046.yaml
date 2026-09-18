@@ -1,7 +1,5 @@
----
 uid: '36046'
-last_name: JOINT STOCK COMPANY THE ST. PETERSBURG'S SEA BUREAU OF MECHANICAL ENGINEERING
-  MALACHITE
+last_name: JOINT STOCK COMPANY THE ST. PETERSBURG'S SEA BUREAU OF MECHANICAL ENGINEERING MALACHITE
 sdn_type: Entity
 program_list:
   programs:
@@ -23,8 +21,7 @@ aka_list:
   - uid: '56773'
     type: a.k.a.
     category: strong
-    last_name: JOINT-STOCK COMPANY SAINT PETERSBURG CITY SEA OFFICE MECHANICAL ENGINEERING
-      MALAKHIT
+    last_name: JOINT-STOCK COMPANY SAINT PETERSBURG CITY SEA OFFICE MECHANICAL ENGINEERING MALAKHIT
   - uid: '56777'
     type: a.k.a.
     category: strong
@@ -46,10 +43,10 @@ id_list:
     id_type: Tax ID No.
     id_number: '7810537540'
     id_country: Russia
-  - uid: '173341'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '149412'
     id_type: Organization Established Date
     id_number: 18 Nov 2008
+  - uid: '173341'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 remarks: "(Linked To: JOINT STOCK COMPANY UNITED SHIPBUILDING CORPORATION)"

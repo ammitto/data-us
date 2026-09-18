@@ -1,4 +1,3 @@
----
 uid: '40176'
 last_name: LLC RESEARCH & PRODUCTION ENTERPRISE PRIMA
 sdn_type: Entity
@@ -41,9 +40,9 @@ id_list:
     id_type: Tax ID No.
     id_number: '5257013402'
     id_country: Russia
-  - uid: '157037'
-    id_type: Organization Established Date
-    id_number: 30 Jan 1992
   - uid: '174812'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '157037'
+    id_type: Organization Established Date
+    id_number: 30 Jan 1992

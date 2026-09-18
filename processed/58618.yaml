@@ -1,0 +1,45 @@
+uid: '58618'
+last_name: PISHTAZ SIMORGH ELECTRONIC TRADE COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+  - IRAN
+aka_list:
+  items:
+  - uid: '90715'
+    type: a.k.a.
+    category: strong
+    last_name: PISHTAZ SIMORGH COMPANY
+  - uid: '90716'
+    type: a.k.a.
+    category: strong
+    last_name: TEJARAT ELECTRONIC PISHTAZ SIMORGH
+address_list:
+  items:
+  - uid: '90246'
+    address1: No. 2, 35th Street, Alvand Street, Argentina Square
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '53409'
+    id_type: National ID No.
+    id_number: '14012169913'
+    id_country: Iran
+  - uid: '53410'
+    id_type: Registration Number
+    id_number: '611800'
+    id_country: Iran
+  - uid: '201262'
+    id_type: Organization Established Date
+    id_number: '2024'
+  - uid: '201264'
+    id_type: 'Organization Type:'
+    id_number: Financial and Insurance Activities
+  - uid: '201265'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '201263'
+    id_type: Website
+    id_number: www.pishtazsimorgh.com

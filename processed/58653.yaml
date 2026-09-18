@@ -1,0 +1,57 @@
+uid: '58653'
+last_name: CENTRO DE INVESTIGACION, DESARROLLO Y PRODUCCION GRITO DE BAIRE
+sdn_type: Entity
+program_list:
+  programs:
+  - CUBA-EO14404
+aka_list:
+  items:
+  - uid: '90771'
+    type: a.k.a.
+    category: weak
+    last_name: CIDP-GB
+  - uid: '90772'
+    type: a.k.a.
+    category: strong
+    last_name: CENTRO DE INVESTIGACION Y DESARROLLO GRITO DE BAIRE
+  - uid: '90773'
+    type: a.k.a.
+    category: strong
+    last_name: GRITO DE BAIRE CENTER FOR RESEARCH AND DEVELOPMENT AND PRODUCTION
+  - uid: '90774'
+    type: a.k.a.
+    category: weak
+    last_name: GRUPO DE LA ELECTRONICA DE COMUNICACIONES
+  - uid: '90775'
+    type: a.k.a.
+    category: weak
+    last_name: GELCOM
+  - uid: '90776'
+    type: a.k.a.
+    category: strong
+    last_name: CIDP GRITO DE BAIRE
+address_list:
+  items:
+  - uid: '90338'
+    address1: Santa Ana S/N, Entre 47 Y Reforma
+    address2: Nuevo Vedado, Plaza De La Revolucion
+    city: Havana
+    country: Cuba
+id_list:
+  items:
+  - uid: '53449'
+    id_type: Entity Code
+    id_number: '14123'
+    id_country: Cuba
+  - uid: '201387'
+    id_type: Organization Established Date
+    id_number: 11 Apr 2010
+  - uid: '201388'
+    id_type: 'Organization Type:'
+    id_number: Research and experimental development on natural sciences and engineering
+  - uid: '201389'
+    id_type: 'Organization Type:'
+    id_number: Defense activities
+  - uid: '201390'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

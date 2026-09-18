@@ -1,4 +1,3 @@
----
 uid: '34665'
 last_name: PSB INNOVATIONS AND INVESTMENTS LIMITED LIABILITY COMPANY
 sdn_type: Entity
@@ -30,8 +29,7 @@ aka_list:
 address_list:
   items:
   - uid: '51888'
-    address1: vn.ter.g. munitsipalny okrug Sokolniki, ul Strommnyka d. 18 str. 27,
-      kom.
+    address1: vn.ter.g. munitsipalny okrug Sokolniki, ul Strommnyka d. 18 str. 27, kom.
     city: Moscow
     postal_code: '107076'
     country: Russia
@@ -45,10 +43,10 @@ id_list:
     id_type: Tax ID No.
     id_number: '7731290146'
     id_country: Russia
-  - uid: '146046'
-    id_type: Organization Established Date
-    id_number: 19 Aug 2015
   - uid: '175163'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '146046'
+    id_type: Organization Established Date
+    id_number: 19 Aug 2015
 remarks: "(Linked To: PROMSVYAZBANK PUBLIC JOINT STOCK COMPANY)"

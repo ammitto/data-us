@@ -1,4 +1,3 @@
----
 uid: '47702'
 last_name: SHENZHEN BIGUANG TRADING CO., LTD
 sdn_type: Entity
@@ -8,8 +7,7 @@ program_list:
 address_list:
   items:
   - uid: '71321'
-    address1: 18E, Block B, World Trade Square, No. 9 Fuhong Road, Funnan Community,
-      Futian Street, Futian District
+    address1: 18E, Block B, World Trade Square, No. 9 Fuhong Road, Funnan Community, Futian Street, Futian District
     city: Shenzhen
     state_or_province: Guangdong
     country: China
@@ -19,9 +17,9 @@ id_list:
     id_type: Unified Social Credit Code (USCC)
     id_number: 91440300MA5GH3DL64
     id_country: China
-  - uid: '169818'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '169195'
     id_type: Organization Established Date
     id_number: 01 Dec 2020
+  - uid: '169818'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

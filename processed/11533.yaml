@@ -1,4 +1,3 @@
----
 uid: '11533'
 last_name: HONG KONG ELECTRONICS
 sdn_type: Entity
@@ -19,10 +18,9 @@ address_list:
     country: Iran
 id_list:
   items:
+  - uid: '134915'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
   - uid: '127635'
     id_type: 'Secondary sanctions risk:'
     id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
-  - uid: '134915'
-    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
-      Institutions:'
-    id_number: North Korea Sanctions Regulations section 510.214

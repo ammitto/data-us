@@ -1,4 +1,3 @@
----
 uid: '19274'
 first_name: Ali Youssef
 last_name: CHARARA
@@ -39,14 +38,12 @@ address_list:
     country: Lebanon
 id_list:
   items:
-  - uid: '120160'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
-      Sanctions Regulations
   - uid: '186513'
     id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order 13886
+  - uid: '120160'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial Sanctions Regulations
   - uid: '118929'
     id_type: Gender
     id_number: Male

@@ -1,4 +1,3 @@
----
 uid: '35553'
 first_name: Bekkhan Abdulkhamidovich
 last_name: BARAKHOYEV
@@ -12,12 +11,12 @@ address_list:
     country: Russia
 id_list:
   items:
-  - uid: '176167'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '148168'
     id_type: Gender
     id_number: Male
+  - uid: '176167'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 date_of_birth_list:
   items:
   - uid: '48167'

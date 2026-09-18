@@ -1,4 +1,3 @@
----
 uid: '48678'
 first_name: Mehdi Ghaffari
 last_name: NAGHNEH
@@ -28,14 +27,13 @@ id_list:
     id_country: Iran
   - uid: '187257'
     id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
-  - uid: '171056'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order 13886
   - uid: '171036'
     id_type: Gender
     id_number: Male
+  - uid: '171056'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '71029'

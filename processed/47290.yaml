@@ -1,4 +1,3 @@
----
 uid: '47290'
 first_name: Sergey Sergeyevich
 last_name: ALEKSEYEV
@@ -28,16 +27,15 @@ id_list:
     id_number: '720371125'
     id_country: Russia
     expiration_date: 24 Jul 2022
-  - uid: '176382'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '168636'
     id_type: Gender
     id_number: Male
+  - uid: '176382'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 date_of_birth_list:
   items:
   - uid: '68635'
     date_of_birth: 26 Mar 1983
     main_entry: 'true'
-remarks: "(Linked To: JOINT STOCK COMPANY SPECIAL ECONOMIC ZONE OF INDUSTRIAL PRODUCTION
-  ALABUGA)"
+remarks: "(Linked To: JOINT STOCK COMPANY SPECIAL ECONOMIC ZONE OF INDUSTRIAL PRODUCTION ALABUGA)"

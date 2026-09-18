@@ -1,4 +1,3 @@
----
 uid: '58559'
 first_name: Abdullah Nadhim Luaibi
 last_name: AL AMERI
@@ -24,13 +23,12 @@ id_list:
     id_number: A19542583
     id_country: Iraq
     expiration_date: 22 Mar 2030
-  - uid: '201186'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
   - uid: '201112'
     id_type: Gender
     id_number: Male
+  - uid: '201186'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order 13886
 date_of_birth_list:
   items:
   - uid: '101111'

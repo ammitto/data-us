@@ -1,4 +1,3 @@
----
 uid: '11790'
 last_name: MAKIN INSTITUTE
 sdn_type: Entity
@@ -17,16 +16,14 @@ aka_list:
 address_list:
   items:
   - uid: '17820'
-    address1: No. 2 Iravan St. - Tishfoon St. - Khaje Abdol ah Ansari St. - Shariati
-      St.
+    address1: No. 2 Iravan St. - Tishfoon St. - Khaje Abdol ah Ansari St. - Shariati St.
     city: Tehran
     country: Iran
 id_list:
   items:
-  - uid: '185956'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
   - uid: '114366'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '185956'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order 13886

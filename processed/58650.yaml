@@ -1,0 +1,31 @@
+uid: '58650'
+first_name: Dioglis
+last_name: PEDRERA ARGUELLO
+sdn_type: Individual
+program_list:
+  programs:
+  - CUBA-EO14404
+address_list:
+  items:
+  - uid: '90332'
+    country: Cuba
+  - uid: '90339'
+    address1: Calle 186 No 311531 Y 33
+    address2: Playa
+    city: Havana
+    country: Cuba
+id_list:
+  items:
+  - uid: '53452'
+    id_type: Passport
+    id_number: A010659
+    id_country: Cuba
+    expiration_date: 13 Aug 2030
+  - uid: '201379'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '101394'
+    date_of_birth: 13 Jun 1963
+    main_entry: 'true'

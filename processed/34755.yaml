@@ -1,4 +1,3 @@
----
 uid: '34755'
 last_name: SOLLERS-FINANCE LIMITED LIABILITY COMPANY
 sdn_type: Entity
@@ -32,10 +31,10 @@ id_list:
     id_type: Registration Number
     id_number: '1087746253781'
     id_country: Russia
-  - uid: '146213'
-    id_type: Website
-    id_number: sovcombank-leasing.ru
   - uid: '175200'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '146213'
+    id_type: Website
+    id_number: sovcombank-leasing.ru
 remarks: "(Linked To: SOVCOMBANK OPEN JOINT STOCK COMPANY)"

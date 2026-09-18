@@ -1,4 +1,3 @@
----
 uid: '36433'
 last_name: JOINT STOCK COMPANY FLIGHT RESEARCH INSTITUTE N.A. M.M. GROMOV
 sdn_type: Entity
@@ -10,8 +9,7 @@ aka_list:
   - uid: '57430'
     type: a.k.a.
     category: strong
-    last_name: AKTSIONERNOE OBSHCHESTVO LETNO-ISSLEDOVATELSKI INSTITUT IMENI M.M.
-      GROMOVA
+    last_name: AKTSIONERNOE OBSHCHESTVO LETNO-ISSLEDOVATELSKI INSTITUT IMENI M.M. GROMOVA
   - uid: '57431'
     type: a.k.a.
     category: strong
@@ -46,12 +44,12 @@ id_list:
     id_type: Tax ID No.
     id_number: '5040114973'
     id_country: Russia
-  - uid: '174213'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '150136'
     id_type: Target Type
     id_number: State-Owned Enterprise
   - uid: '150118'
     id_type: Organization Established Date
     id_number: '1993'
+  - uid: '174213'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

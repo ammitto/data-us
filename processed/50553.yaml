@@ -1,4 +1,3 @@
----
 uid: '50553'
 last_name: TALIEH SABZ JEHAN GROUP COMPANY
 sdn_type: Entity
@@ -33,11 +32,10 @@ id_list:
     id_type: Business Registration Number
     id_number: '244700'
     id_country: Iran
+  - uid: '178771'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order 13886
   - uid: '178736'
     id_type: Organization Established Date
     id_number: 23 Aug 2007
-  - uid: '178771'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
 remarks: "(Linked To: AZADEGAN TRANSPORTATION COMPANY)"

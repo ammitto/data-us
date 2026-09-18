@@ -1,4 +1,3 @@
----
 uid: '38657'
 first_name: Yuliya Sergeyevna
 last_name: SHOIGU
@@ -13,12 +12,12 @@ address_list:
     country: Russia
 id_list:
   items:
-  - uid: '154157'
-    id_type: Gender
-    id_number: Female
   - uid: '174693'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '154157'
+    id_type: Gender
+    id_number: Female
 date_of_birth_list:
   items:
   - uid: '54155'

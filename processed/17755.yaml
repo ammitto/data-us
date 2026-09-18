@@ -1,4 +1,3 @@
----
 uid: '17755'
 last_name: RUSSIAN NATIONAL COMMERCIAL BANK
 sdn_type: Entity
@@ -40,10 +39,12 @@ id_list:
     id_type: Tax ID No.
     id_number: '7701105460'
     id_country: Russia
+  - uid: '116868'
+    id_type: BIK (RU)
+    id_number: '044525607'
   - uid: '143720'
     id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
-      589.209
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
   - uid: '116867'
     id_type: SWIFT/BIC
     id_number: RNCORUMM
@@ -53,6 +54,3 @@ id_list:
   - uid: '116865'
     id_type: Email Address
     id_number: rncb@rncb.ru
-  - uid: '116868'
-    id_type: BIK (RU)
-    id_number: '044525607'

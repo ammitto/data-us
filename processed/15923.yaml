@@ -1,4 +1,3 @@
----
 uid: '15923'
 first_name: Wen-Fu
 last_name: CHANG
@@ -24,13 +23,12 @@ id_list:
     id_type: Passport
     id_number: '211606395'
     id_country: Taiwan
+  - uid: '134951'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
   - uid: '127646'
     id_type: 'Secondary sanctions risk:'
     id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
-  - uid: '134951'
-    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
-      Institutions:'
-    id_number: North Korea Sanctions Regulations section 510.214
 date_of_birth_list:
   items:
   - uid: '13506'

@@ -1,4 +1,3 @@
----
 uid: '19040'
 last_name: OAO VOLGOGRADNEFTEMASH
 sdn_type: Entity
@@ -18,8 +17,7 @@ aka_list:
   - uid: '30052'
     type: f.k.a.
     category: strong
-    last_name: DOCHERNEE AKTSIONERNOE OBSHCHESTVO OTKRYTOGO TIPA VOLGOGRADNEFTEMASH
-      ROSSIISKOGO AKTSIONERNOGO OBSHCHESTVA GAZPROM
+    last_name: DOCHERNEE AKTSIONERNOE OBSHCHESTVO OTKRYTOGO TIPA VOLGOGRADNEFTEMASH ROSSIISKOGO AKTSIONERNOGO OBSHCHESTVA GAZPROM
 address_list:
   items:
   - uid: '28976'
@@ -32,6 +30,5 @@ id_list:
   items:
   - uid: '143656'
     id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
-      589.209
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
 remarks: "(Linked To: STROYGAZMONTAZH)"

@@ -1,4 +1,3 @@
----
 uid: '37657'
 first_name: Sung Il
 last_name: RI
@@ -23,13 +22,12 @@ id_list:
   - uid: '152590'
     id_type: 'Secondary sanctions risk:'
     id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '152591'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
   - uid: '152588'
     id_type: Gender
     id_number: Male
-  - uid: '152591'
-    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
-      Institutions:'
-    id_number: North Korea Sanctions Regulations section 510.214
 date_of_birth_list:
   items:
   - uid: '52587'

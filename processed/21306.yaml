@@ -1,4 +1,3 @@
----
 uid: '21306'
 first_name: Hwi
 last_name: CHOE
@@ -12,13 +11,12 @@ address_list:
     country: Korea, North
 id_list:
   items:
+  - uid: '135031'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
   - uid: '127212'
     id_type: 'Secondary sanctions risk:'
     id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
-  - uid: '135031'
-    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
-      Institutions:'
-    id_number: North Korea Sanctions Regulations section 510.214
   - uid: '122198'
     id_type: Gender
     id_number: Male
@@ -27,5 +25,4 @@ date_of_birth_list:
   - uid: '22134'
     date_of_birth: 01 Jan 1954 to 31 Dec 1955
     main_entry: 'true'
-title: First Vice Director of the Workers' Party of Korea Propaganda and Agitation
-  Department
+title: First Vice Director of the Workers' Party of Korea Propaganda and Agitation Department

@@ -1,4 +1,3 @@
----
 uid: '40497'
 last_name: ASIA TRADING & CONSTRUCTION PTE LTD
 sdn_type: Entity
@@ -28,12 +27,12 @@ id_list:
     id_type: Registration Number
     id_number: 201401923D
     id_country: Singapore
-  - uid: '157708'
-    id_type: Organization Established Date
-    id_number: 18 Jan 2014
   - uid: '174105'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '157708'
+    id_type: Organization Established Date
+    id_number: 18 Jan 2014
   - uid: '157709'
     id_type: 'Organization Type:'
     id_number: Construction of buildings

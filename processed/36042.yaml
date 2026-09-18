@@ -1,4 +1,3 @@
----
 uid: '36042'
 first_name: Vitaliy Anatolyevich
 last_name: MARKELOV
@@ -23,12 +22,12 @@ address_list:
     country: Russia
 id_list:
   items:
-  - uid: '173338'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '149398'
     id_type: Gender
     id_number: Male
+  - uid: '173338'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 date_of_birth_list:
   items:
   - uid: '49396'

@@ -1,4 +1,3 @@
----
 uid: '40946'
 last_name: TAMYNA AG
 sdn_type: Entity
@@ -50,13 +49,13 @@ id_list:
     id_type: Company Number
     id_number: CH-316.162.555
     id_country: Switzerland
+  - uid: '175326'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
   - uid: '158596'
     id_type: Organization Established Date
     id_number: 06 Apr 2011
   - uid: '158597'
     id_type: Organization Established Date
     id_number: 04 Apr 2012
-  - uid: '175326'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
 remarks: "(Linked To: MORETTI, Walter)"

@@ -1,4 +1,3 @@
----
 uid: '27123'
 last_name: REDIN EXCHANGE
 sdn_type: Entity
@@ -64,8 +63,7 @@ address_list:
     postal_code: '34093'
     country: Turkey
   - uid: '41178'
-    address1: 'Incili Pinar Mahallesi, Nisantasi Sk. No: 13, Cazibe Is Merkezi, Kat:
-      8D:801, Sehitkamil'
+    address1: 'Incili Pinar Mahallesi, Nisantasi Sk. No: 13, Cazibe Is Merkezi, Kat: 8D:801, Sehitkamil'
     city: Gaziantep
     postal_code: '27090'
     country: Turkey
@@ -91,6 +89,5 @@ id_list:
     id_number: redin.ist@gmail.com
   - uid: '186911'
     id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order 13886
 remarks: "(Linked To: HAMAS)"

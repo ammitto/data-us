@@ -1,4 +1,3 @@
----
 uid: '50176'
 first_name: Yevgeniya
 last_name: KLIMINA
@@ -43,12 +42,12 @@ id_list:
     id_number: '713169679'
     id_country: Russia
     expiration_date: 03 Feb 2021
-  - uid: '178131'
-    id_type: Gender
-    id_number: Female
   - uid: '178494'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '178131'
+    id_type: Gender
+    id_number: Female
 date_of_birth_list:
   items:
   - uid: '78130'

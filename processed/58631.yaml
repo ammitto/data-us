@@ -1,0 +1,37 @@
+uid: '58631'
+first_name: Seyed Adel
+last_name: HEIDARI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '90278'
+    address1: KH Shari'ati KH Va'zi P40 Vahda 3
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '53424'
+    id_type: National ID No.
+    id_number: '4621551825'
+    id_country: Iran
+  - uid: '201323'
+    id_type: Gender
+    id_number: Male
+  - uid: '201360'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '101321'
+    date_of_birth: 22 Nov 1974
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '101322'
+    place_of_birth: Shahrekord, Iran
+    main_entry: 'true'
+remarks: "(Linked To: DOT ONE VALUE CREATION GROUP)"

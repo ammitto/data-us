@@ -1,4 +1,3 @@
----
 uid: '35653'
 first_name: Natalya Vasilyevna
 last_name: KOSTENKO
@@ -12,12 +11,12 @@ address_list:
     country: Russia
 id_list:
   items:
-  - uid: '148468'
-    id_type: Gender
-    id_number: Female
   - uid: '173158'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '148468'
+    id_type: Gender
+    id_number: Female
 date_of_birth_list:
   items:
   - uid: '48467'

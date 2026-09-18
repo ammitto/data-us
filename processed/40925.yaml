@@ -1,4 +1,3 @@
----
 uid: '40925'
 last_name: NOVOSIBIRSK SOCIAL COMMERCIAL BANK LEVOBEREZHNY PUBLIC JOINT STOCK COMPANY
 sdn_type: Entity
@@ -37,18 +36,18 @@ id_list:
   - uid: '30215'
     id_type: Legal Entity Number
     id_number: 2534000M10JE1UCFJ111
+  - uid: '158531'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '175316'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '158528'
+    id_type: Organization Established Date
+    id_number: '1991'
   - uid: '158529'
     id_type: SWIFT/BIC
     id_number: LEVBRU55
   - uid: '158530'
     id_type: Website
     id_number: www.nskbl.ru
-  - uid: '158531'
-    id_type: Target Type
-    id_number: Financial Institution
-  - uid: '158528'
-    id_type: Organization Established Date
-    id_number: '1991'
-  - uid: '175316'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.

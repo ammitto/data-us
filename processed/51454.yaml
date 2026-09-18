@@ -1,4 +1,3 @@
----
 uid: '51454'
 last_name: CENTROCREDIT BANK
 sdn_type: Entity
@@ -28,12 +27,12 @@ id_list:
   - uid: '180979'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '181548'
+    id_type: Target Type
+    id_number: Financial Institution
   - uid: '180984'
     id_type: SWIFT/BIC
     id_number: CKBBRUMM
   - uid: '180980'
     id_type: Website
     id_number: www.ccb.ru
-  - uid: '181548'
-    id_type: Target Type
-    id_number: Financial Institution

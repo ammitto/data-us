@@ -1,4 +1,3 @@
----
 uid: '21749'
 first_name: Jang Su
 last_name: HAN
@@ -24,13 +23,12 @@ id_list:
     id_type: Passport
     id_number: '745420176'
     expiration_date: 19 Oct 2020
-  - uid: '135070'
-    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
-      Institutions:'
-    id_number: North Korea Sanctions Regulations section 510.214
   - uid: '122806'
     id_type: Gender
     id_number: Male
+  - uid: '135070'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
   - uid: '127700'
     id_type: 'Secondary sanctions risk:'
     id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210

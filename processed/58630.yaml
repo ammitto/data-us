@@ -1,0 +1,44 @@
+uid: '58630'
+first_name: Mohammad Mahdi
+last_name: ZAKER HOSSEIN
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '90734'
+    type: a.k.a.
+    category: strong
+    last_name: ZAKER HOSSEIN
+    first_name: Hamed
+address_list:
+  items:
+  - uid: '90276'
+    address1: Unit 7, Building 20, Esmail, Zarafshan Southern, Veranda East, Town West
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '53422'
+    id_type: National ID No.
+    id_number: '2298706875'
+    id_country: Iran
+  - uid: '53423'
+    id_type: Passport
+    id_number: K61893781
+    id_country: Iran
+    expiration_date: 24 Feb 2028
+  - uid: '201362'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '201319'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '101318'
+    date_of_birth: '09 Sep 1981'
+    main_entry: 'true'
+remarks: "(Linked To: PISHTAZ SIMORGH ELECTRONIC TRADE COMPANY)"

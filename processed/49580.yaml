@@ -1,4 +1,3 @@
----
 uid: '49580'
 last_name: HARAKAT ANSAR ALLAH AL-AWFIYA
 sdn_type: Entity
@@ -44,13 +43,12 @@ address_list:
     country: Syria
 id_list:
   items:
-  - uid: '172863'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
   - uid: '192961'
     id_type: Organization Established Date
     id_number: '2013'
   - uid: '192962'
     id_type: 'Organization Type:'
     id_number: Transnational Terrorist Group
+  - uid: '172863'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order 13886

@@ -1,4 +1,3 @@
----
 uid: '58412'
 first_name: Reza
 last_name: TALAEI NIK
@@ -12,12 +11,12 @@ address_list:
     country: Iran
 id_list:
   items:
-  - uid: '200482'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '200481'
     id_type: Gender
     id_number: Male
+  - uid: '200482'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '100478'

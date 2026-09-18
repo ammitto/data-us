@@ -1,4 +1,3 @@
----
 uid: '49725'
 last_name: AUTONOMOUS NON-PROFIT ORGANIZATION DIALOG
 sdn_type: Entity
@@ -10,13 +9,11 @@ aka_list:
   - uid: '77523'
     type: a.k.a.
     category: strong
-    last_name: NON-PROFIT ORGANIZATION FOR THE DEVELOPMENT OF DIGITAL PROJECTS IN
-      THE FIELD OF PUBLIC RELATIONS AND COMMUNICATIONS DIALOG
+    last_name: NON-PROFIT ORGANIZATION FOR THE DEVELOPMENT OF DIGITAL PROJECTS IN THE FIELD OF PUBLIC RELATIONS AND COMMUNICATIONS DIALOG
   - uid: '77524'
     type: a.k.a.
     category: strong
-    last_name: AVTONOMNAYA NEKOMMERCHESKAYA ORGANIZATSIYA PO RAZVITIYU TSIFROVYKH
-      PROEKTOV V SFERE OBSHCHESTVENNYKH SVYAZEI I KOMMUNIKATSII DIALOG
+    last_name: AVTONOMNAYA NEKOMMERCHESKAYA ORGANIZATSIYA PO RAZVITIYU TSIFROVYKH PROEKTOV V SFERE OBSHCHESTVENNYKH SVYAZEI I KOMMUNIKATSII DIALOG
   - uid: '77525'
     type: a.k.a.
     category: strong
@@ -47,12 +44,12 @@ id_list:
     id_type: Business Registration Number
     id_number: '1197700016414'
     id_country: Russia
+  - uid: '173143'
+    id_type: Organization Established Date
+    id_number: 13 Nov 2019
   - uid: '178697'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
   - uid: '173142'
     id_type: Website
     id_number: www.anodialog.ru
-  - uid: '173143'
-    id_type: Organization Established Date
-    id_number: 13 Nov 2019

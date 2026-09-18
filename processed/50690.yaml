@@ -1,7 +1,5 @@
----
 uid: '50690'
-last_name: FEDERAL STATE UNITARY ENTERPRISE INTERNATIONAL INFORMATION AGENCY ROSSIYA
-  SEGODNYA
+last_name: FEDERAL STATE UNITARY ENTERPRISE INTERNATIONAL INFORMATION AGENCY ROSSIYA SEGODNYA
 sdn_type: Entity
 program_list:
   programs:
@@ -11,8 +9,7 @@ aka_list:
   - uid: '79302'
     type: a.k.a.
     category: strong
-    last_name: FEDERAL STATE UNITARY ENTERPRISE INTERNATIONAL INFORMATION AGENCY RUSSIA
-      TODAY
+    last_name: FEDERAL STATE UNITARY ENTERPRISE INTERNATIONAL INFORMATION AGENCY RUSSIA TODAY
   - uid: '79303'
     type: a.k.a.
     category: strong
@@ -37,9 +34,9 @@ id_list:
   - uid: '42536'
     id_type: Tax ID No.
     id_number: '7704853840'
-  - uid: '179216'
-    id_type: Organization Established Date
-    id_number: 26 Dec 2013
   - uid: '179217'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '179216'
+    id_type: Organization Established Date
+    id_number: 26 Dec 2013

@@ -1,4 +1,3 @@
----
 uid: '52487'
 first_name: Noah
 last_name: LICUL
@@ -19,13 +18,12 @@ address_list:
     country: Croatia
 id_list:
   items:
-  - uid: '184139'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
   - uid: '184138'
     id_type: Gender
     id_number: Male
+  - uid: '184139'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order 13886
 date_of_birth_list:
   items:
   - uid: '84135'

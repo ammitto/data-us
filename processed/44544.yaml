@@ -1,4 +1,3 @@
----
 uid: '44544'
 last_name: LIMITED LIABILITY COMPANY VERUS
 sdn_type: Entity
@@ -23,8 +22,7 @@ address_list:
     postal_code: '105082'
     country: Russia
   - uid: '66356'
-    address1: Office 45, Room 1, Facility 309, Floor 3, Building 23, Balakirevskiy
-      Lane, Basmanny Municipal District Federal Intracity Territory
+    address1: Office 45, Room 1, Facility 309, Floor 3, Building 23, Balakirevskiy Lane, Basmanny Municipal District Federal Intracity Territory
     city: Moscow
     postal_code: '105082'
     country: Russia
@@ -38,14 +36,13 @@ id_list:
     id_type: Tax ID No.
     id_number: '9701170663'
     id_country: Russia
+  - uid: '164537'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '164538'
-    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
-      Institutions:'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial Institutions:'
     id_number: North Korea Sanctions Regulations section 510.214
   - uid: '164569'
     id_type: Organization Established Date
     id_number: 10 Feb 2021
-  - uid: '164537'
-    id_type: 'Secondary sanctions risk:'
-    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
 remarks: "(Linked To: MKRTYCHEV, Ashot)"

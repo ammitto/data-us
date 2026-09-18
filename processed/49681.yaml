@@ -1,4 +1,3 @@
----
 uid: '49681'
 last_name: OMID SEPAH EXCHANGE COMPANY
 sdn_type: Entity
@@ -9,8 +8,7 @@ program_list:
 address_list:
   items:
   - uid: '75041'
-    address1: 1st Floor, No. 2, Emad Khorasani Dead End, Derakhti Street, Derakhti
-      - (West) Qods Town
+    address1: 1st Floor, No. 2, Emad Khorasani Dead End, Derakhti Street, Derakhti - (West) Qods Town
     city: Tehran
     postal_code: '1468813111'
     country: Iran
@@ -28,11 +26,10 @@ id_list:
     id_type: Registration Number
     id_number: '411111396931'
     id_country: Iran
+  - uid: '173055'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order 13886
   - uid: '173058'
     id_type: Organization Established Date
     id_number: 14 May 2005
-  - uid: '173055'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
 remarks: "(Linked To: MINISTRY OF DEFENSE AND ARMED FORCES LOGISTICS)"

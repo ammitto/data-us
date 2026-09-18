@@ -1,4 +1,3 @@
----
 uid: '35420'
 first_name: Mikhail Yuryevich
 last_name: AVDEYEV
@@ -12,12 +11,12 @@ address_list:
     country: Russia
 id_list:
   items:
-  - uid: '147769'
-    id_type: Gender
-    id_number: Male
   - uid: '176773'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '147769'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '47768'

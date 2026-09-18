@@ -1,4 +1,3 @@
----
 uid: '45590'
 last_name: GAZPROMNEFT CATALYTIC SYSTEM LIMITED LIABILITY COMPANY
 sdn_type: Entity
@@ -22,9 +21,9 @@ id_list:
     id_type: Tax ID No.
     id_number: '5501177142'
     id_country: Russia
-  - uid: '166133'
-    id_type: Organization Established Date
-    id_number: 16 Sep 2016
   - uid: '175983'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '166133'
+    id_type: Organization Established Date
+    id_number: 16 Sep 2016

@@ -1,4 +1,3 @@
----
 uid: '35541'
 first_name: Andrey Gennadyevich
 last_name: ALSHEVSKIH
@@ -12,12 +11,12 @@ address_list:
     country: Russia
 id_list:
   items:
-  - uid: '176155'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '148132'
     id_type: Gender
     id_number: Male
+  - uid: '176155'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 date_of_birth_list:
   items:
   - uid: '48131'

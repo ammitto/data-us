@@ -1,4 +1,3 @@
----
 uid: '44683'
 first_name: Konstantin Albertovich
 last_name: FEDORENKO
@@ -15,12 +14,12 @@ address_list:
     country: Russia
 id_list:
   items:
-  - uid: '173784'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '164820'
     id_type: Gender
     id_number: Male
+  - uid: '173784'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 date_of_birth_list:
   items:
   - uid: '64819'
@@ -31,5 +30,4 @@ place_of_birth_list:
   - uid: '64822'
     place_of_birth: Belorechensk, Russia
     main_entry: 'true'
-remarks: "(Linked To: FEDERAL STATE BUDGETARY EDUCATIONAL INSTITUTE INTERNATIONAL
-  CHILDREN CENTER ARTEK)"
+remarks: "(Linked To: FEDERAL STATE BUDGETARY EDUCATIONAL INSTITUTE INTERNATIONAL CHILDREN CENTER ARTEK)"

@@ -1,4 +1,3 @@
----
 uid: '35646'
 first_name: Alfia Gumarovna
 last_name: KOGOGINA
@@ -12,12 +11,12 @@ address_list:
     country: Russia
 id_list:
   items:
-  - uid: '173151'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '148447'
     id_type: Gender
     id_number: Female
+  - uid: '173151'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 date_of_birth_list:
   items:
   - uid: '48446'

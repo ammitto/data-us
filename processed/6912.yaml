@@ -1,4 +1,3 @@
----
 uid: '6912'
 last_name: AL RASHID TRUST
 sdn_type: Entity
@@ -66,8 +65,7 @@ address_list:
     city: Karachi
     country: Pakistan
   - uid: '4942'
-    address1: Office Dha'rb-i-M'unin, Room no. 3, Third Floor, Moti Plaza, near Liaquat
-      Bagh, Murree Road
+    address1: Office Dha'rb-i-M'unin, Room no. 3, Third Floor, Moti Plaza, near Liaquat Bagh, Murree Road
     city: Rawalpindi
     country: Pakistan
   - uid: '4943'
@@ -79,8 +77,7 @@ address_list:
     city: Peshawar
     country: Pakistan
   - uid: '4945'
-    address1: Office Dha'rb-i-M'unin, Top Floor, Dr. Dawa Khan Dental Clinic Surgeon,
-      Main Baxar, Mingora
+    address1: Office Dha'rb-i-M'unin, Top Floor, Dr. Dawa Khan Dental Clinic Surgeon, Main Baxar, Mingora
     city: Swat
     country: Pakistan
   - uid: '4946'
@@ -103,7 +100,5 @@ id_list:
   items:
   - uid: '185867'
     id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
-remarks: 'Operations in Afghanistan: Herat, Jalalabad, Kabul, Kandahar, Mazar Sharif.  Also
-  operations in: Kosovo, Chechnya'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order 13886
+remarks: 'Operations in Afghanistan: Herat, Jalalabad, Kabul, Kandahar, Mazar Sharif.  Also operations in: Kosovo, Chechnya'

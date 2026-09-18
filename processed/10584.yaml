@@ -1,4 +1,3 @@
----
 uid: '10584'
 first_name: Hosein
 last_name: SALIMI
@@ -40,13 +39,12 @@ id_list:
   - uid: '114223'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
-  - uid: '186341'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
   - uid: '143362'
     id_type: Gender
     id_number: Male
+  - uid: '186341'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order 13886
 date_of_birth_list:
   items:
   - uid: '43361'

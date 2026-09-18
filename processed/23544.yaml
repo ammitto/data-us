@@ -1,4 +1,3 @@
----
 uid: '23544'
 first_name: Bogdan Valeryevich
 last_name: KOLOSOV
@@ -24,13 +23,12 @@ address_list:
     country: Russia
 id_list:
   items:
+  - uid: '144018'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
   - uid: '125376'
     id_type: Gender
     id_number: Male
-  - uid: '144018'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
-      589.209
 date_of_birth_list:
   items:
   - uid: '25371'

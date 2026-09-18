@@ -1,4 +1,3 @@
----
 uid: '40969'
 first_name: Ivan Aleksandrovich
 last_name: MASLOV
@@ -28,12 +27,12 @@ id_list:
     id_type: Passport
     id_number: '731849424'
     id_country: Russia
-  - uid: '158643'
-    id_type: Gender
-    id_number: Male
   - uid: '175335'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '158643'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '58638'

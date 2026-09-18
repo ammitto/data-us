@@ -1,4 +1,3 @@
----
 uid: '23043'
 first_name: Adil Abduh Fari Uthman
 last_name: AL-DHUBHANI
@@ -102,13 +101,12 @@ id_list:
     id_type: National ID No.
     id_number: '01010013602'
     id_country: Yemen
+  - uid: '186652'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order 13886
   - uid: '124591'
     id_type: Gender
     id_number: Male
-  - uid: '186652'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
 date_of_birth_list:
   items:
   - uid: '24592'

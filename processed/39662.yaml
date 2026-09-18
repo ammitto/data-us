@@ -1,4 +1,3 @@
----
 uid: '39662'
 first_name: Edman
 last_name: NAFRIEH
@@ -21,13 +20,12 @@ id_list:
     id_number: RE0061544
     id_country: Saint Kitts and Nevis
     expiration_date: '09 Jul 2027'
-  - uid: '156227'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
   - uid: '155973'
     id_type: Gender
     id_number: Male
+  - uid: '156227'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order 13886
 date_of_birth_list:
   items:
   - uid: '55970'
@@ -38,5 +36,4 @@ place_of_birth_list:
   - uid: '55971'
     place_of_birth: Tehran, Iran
     main_entry: 'true'
-remarks: "(Linked To: HIZBALLAH; Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS (IRGC)-QODS
-  FORCE)"
+remarks: "(Linked To: HIZBALLAH; Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS (IRGC)-QODS FORCE)"

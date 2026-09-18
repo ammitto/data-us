@@ -1,4 +1,3 @@
----
 uid: '39818'
 last_name: HIGHLINE LOGISTIC HK LIMITED
 sdn_type: Entity
@@ -8,8 +7,7 @@ program_list:
 address_list:
   items:
   - uid: '59390'
-    address1: Unit No A222 3F Hang Fung Industrial Building Phase 2 No 2G Hok Yuen
-      Street Hunghom
+    address1: Unit No A222 3F Hang Fung Industrial Building Phase 2 No 2G Hok Yuen Street Hunghom
     city: Hong Kong
     country: China
 id_list:
@@ -18,10 +16,10 @@ id_list:
     id_type: C.R. No.
     id_number: '3013326'
     id_country: Hong Kong
-  - uid: '156589'
-    id_type: Organization Established Date
-    id_number: 20 Jan 2021
   - uid: '156616'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '156589'
+    id_type: Organization Established Date
+    id_number: 20 Jan 2021
 remarks: "(Linked To: PERSIAN GULF PETROCHEMICAL INDUSTRY COMMERCIAL CO.)"

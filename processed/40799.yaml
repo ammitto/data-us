@@ -1,7 +1,5 @@
----
 uid: '40799'
-last_name: PUBLIC JOINT STOCK COMPANY STOCK COMMERCIAL BANK METALLURGICAL INVESTMENT
-  BANK
+last_name: PUBLIC JOINT STOCK COMPANY STOCK COMMERCIAL BANK METALLURGICAL INVESTMENT BANK
 sdn_type: Entity
 program_list:
   programs:
@@ -19,8 +17,7 @@ aka_list:
   - uid: '63460'
     type: f.k.a.
     category: strong
-    last_name: OPEN JOINT STOCK COMPANY STOCK COMMERCIAL BANK METALLURGICAL INVESTMENT
-      BANK
+    last_name: OPEN JOINT STOCK COMPANY STOCK COMMERCIAL BANK METALLURGICAL INVESTMENT BANK
 address_list:
   items:
   - uid: '60819'
@@ -44,15 +41,15 @@ id_list:
   - uid: '158314'
     id_type: Target Type
     id_number: Financial Institution
-  - uid: '158313'
-    id_type: Organization Established Date
-    id_number: 02 Aug 1993
-  - uid: '174144'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '158315'
     id_type: SWIFT/BIC
     id_number: SCBMRUMM
   - uid: '158316'
     id_type: Website
     id_number: www.metallinvestbank.ru
+  - uid: '158313'
+    id_type: Organization Established Date
+    id_number: 02 Aug 1993
+  - uid: '174144'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

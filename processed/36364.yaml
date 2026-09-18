@@ -1,7 +1,5 @@
----
 uid: '36364'
-last_name: ALL-RUSSIAN PUBLIC ORGANIZATION SOCIETY FOR THE PROMOTION OF RUSSIAN HISTORICAL
-  DEVELOPMENT TSARGRAD
+last_name: ALL-RUSSIAN PUBLIC ORGANIZATION SOCIETY FOR THE PROMOTION OF RUSSIAN HISTORICAL DEVELOPMENT TSARGRAD
 sdn_type: Entity
 program_list:
   programs:
@@ -19,8 +17,7 @@ aka_list:
   - uid: '57245'
     type: f.k.a.
     category: strong
-    last_name: SOCIETY OF THE DOUBLE-HEADED EAGLE FOR THE PROPAGATION OF RUSSIAN HISTORICAL
-      ENLIGHTENMENT
+    last_name: SOCIETY OF THE DOUBLE-HEADED EAGLE FOR THE PROPAGATION OF RUSSIAN HISTORICAL ENLIGHTENMENT
   - uid: '57246'
     type: f.k.a.
     category: strong
@@ -28,8 +25,7 @@ aka_list:
   - uid: '57247'
     type: f.k.a.
     category: strong
-    last_name: ALL-RUSSIAN PUBLIC ORGANIZATION SOCIETY FOR THE DEVELOPMENT OF RUSSIAN
-      HISTORICAL EDUCATION DOUBLE-HEADED EAGLE
+    last_name: ALL-RUSSIAN PUBLIC ORGANIZATION SOCIETY FOR THE DEVELOPMENT OF RUSSIAN HISTORICAL EDUCATION DOUBLE-HEADED EAGLE
 address_list:
   items:
   - uid: '54601'
@@ -54,10 +50,10 @@ id_list:
     id_type: Tax ID No.
     id_number: '7743141413'
     id_country: Russia
-  - uid: '174008'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '149944'
     id_type: Organization Established Date
     id_number: 01 Nov 2015
+  - uid: '174008'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 remarks: "(Linked To: MALOFEYEV, Konstantin)"

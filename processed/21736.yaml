@@ -1,4 +1,3 @@
----
 uid: '21736'
 first_name: Sung Nam
 last_name: JANG
@@ -20,15 +19,14 @@ id_list:
     issue_date: 22 Mar 2013
     expiration_date: 22 Mar 2018
   - uid: '135088'
-    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
-      Institutions:'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial Institutions:'
     id_number: North Korea Sanctions Regulations section 510.214
-  - uid: '122766'
-    id_type: Gender
-    id_number: Male
   - uid: '127656'
     id_type: 'Secondary sanctions risk:'
     id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '122766'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '22765'

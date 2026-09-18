@@ -1,4 +1,3 @@
----
 uid: '11648'
 first_name: Tong-Myo'ng
 last_name: KIM
@@ -36,15 +35,14 @@ id_list:
     id_type: 'Secondary sanctions risk:'
     id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '134859'
-    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
-      Institutions:'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial Institutions:'
     id_number: North Korea Sanctions Regulations section 510.214
 date_of_birth_list:
   items:
-  - uid: '17671'
-    date_of_birth: 28 Aug 1962
-    main_entry: 'false'
   - uid: '7095'
     date_of_birth: '1964'
     main_entry: 'true'
+  - uid: '17671'
+    date_of_birth: 28 Aug 1962
+    main_entry: 'false'
 remarks: "(Linked To: TANCHON COMMERCIAL BANK)"

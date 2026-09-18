@@ -1,4 +1,3 @@
----
 uid: '35487'
 first_name: Alexey Yuryevich
 last_name: CHERNYAK
@@ -12,12 +11,12 @@ address_list:
     country: Russia
 id_list:
   items:
-  - uid: '147970'
-    id_type: Gender
-    id_number: Male
   - uid: '176839'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '147970'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '47969'

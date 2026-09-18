@@ -1,4 +1,3 @@
----
 uid: '11495'
 first_name: Abd-al-Munim
 last_name: AL-QUBAYSI
@@ -44,14 +43,12 @@ id_list:
     id_type: Passport
     id_number: RL 1622378
     id_country: Lebanon
-  - uid: '120147'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
-      Sanctions Regulations
   - uid: '185948'
     id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order 13886
+  - uid: '120147'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial Sanctions Regulations
 date_of_birth_list:
   items:
   - uid: '6906'

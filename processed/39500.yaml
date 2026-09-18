@@ -1,4 +1,3 @@
----
 uid: '39500'
 last_name: CHILSONG TRADING CORPORATION
 sdn_type: Entity
@@ -35,12 +34,11 @@ address_list:
 id_list:
   items:
   - uid: '158582'
-    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
-      Institutions:'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial Institutions:'
     id_number: North Korea Sanctions Regulations section 510.214
-  - uid: '159167'
-    id_type: Target Type
-    id_number: Government Entity
   - uid: '158583'
     id_type: 'Secondary sanctions risk:'
     id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '159167'
+    id_type: Target Type
+    id_number: Government Entity

@@ -1,4 +1,3 @@
----
 uid: '21164'
 first_name: Kirill Mikhailovich
 last_name: KOVALCHUK
@@ -34,16 +33,15 @@ id_list:
     id_type: Passport
     id_number: '643267034'
     id_country: Russia
-  - uid: '122015'
-    id_type: Gender
-    id_number: Male
-  - uid: '151175'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
-      589.209
   - uid: '173922'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '151175'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
+  - uid: '122015'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '22014'

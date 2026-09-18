@@ -1,4 +1,3 @@
----
 uid: '50554'
 last_name: SANJESH GOSTAR DANA ENGINEERING AND QUALITY CONTROL INSPECTION COMPANY
 sdn_type: Entity
@@ -12,8 +11,7 @@ aka_list:
   - uid: '79047'
     type: a.k.a.
     category: strong
-    last_name: GOSTAR DANA ENGINEERING INSPECTION AND MEASUREMENT QUALITY CONTROL
-      COMPANY
+    last_name: GOSTAR DANA ENGINEERING INSPECTION AND MEASUREMENT QUALITY CONTROL COMPANY
 address_list:
   items:
   - uid: '76655'
@@ -33,11 +31,10 @@ id_list:
     id_type: Business Registration Number
     id_number: '196566'
     id_country: Iran
-  - uid: '178769'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
   - uid: '178735'
     id_type: Organization Established Date
     id_number: 23 Dec 2002
+  - uid: '178769'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order 13886
 remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS)"

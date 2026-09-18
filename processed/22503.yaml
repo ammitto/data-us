@@ -1,4 +1,3 @@
----
 uid: '22503'
 last_name: TAATTA, AO
 sdn_type: Entity
@@ -65,13 +64,12 @@ id_list:
     id_type: License
     id_number: '1249'
     id_country: Russia
-  - uid: '124014'
-    id_type: BIK (RU)
-    id_number: '049805709'
+  - uid: '143989'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
   - uid: '123945'
     id_type: SWIFT/BIC
     id_number: TAAARU8Y
-  - uid: '143989'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
-      589.209
+  - uid: '124014'
+    id_type: BIK (RU)
+    id_number: '049805709'

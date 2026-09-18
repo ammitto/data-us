@@ -1,4 +1,3 @@
----
 uid: '22612'
 first_name: Yupeng
 last_name: CHI
@@ -26,15 +25,14 @@ id_list:
     id_number: '210602196905220510'
     id_country: China
   - uid: '135102'
-    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
-      Institutions:'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial Institutions:'
     id_number: North Korea Sanctions Regulations section 510.214
-  - uid: '127240'
-    id_type: 'Secondary sanctions risk:'
-    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '124081'
     id_type: Gender
     id_number: Male
+  - uid: '127240'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
 date_of_birth_list:
   items:
   - uid: '24080'

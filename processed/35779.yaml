@@ -1,4 +1,3 @@
----
 uid: '35779'
 first_name: Elena Aleksandrovna
 last_name: GEORGIEVA
@@ -17,12 +16,12 @@ id_list:
     id_type: Tax ID No.
     id_number: '771988299175'
     id_country: Russia
-  - uid: '148863'
-    id_type: Gender
-    id_number: Female
   - uid: '173235'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '148863'
+    id_type: Gender
+    id_number: Female
 date_of_birth_list:
   items:
   - uid: '48861'

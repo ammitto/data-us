@@ -1,4 +1,3 @@
----
 uid: '35257'
 first_name: Sergei Alekseevich
 last_name: BOBKOV
@@ -23,12 +22,12 @@ id_list:
     id_type: Tax ID No.
     id_number: '7726000947136'
     id_country: Russia
-  - uid: '149235'
-    id_type: Gender
-    id_number: Male
   - uid: '153792'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+  - uid: '149235'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '49233'
@@ -39,5 +38,4 @@ place_of_birth_list:
   - uid: '49234'
     place_of_birth: Moscow, Russia
     main_entry: 'true'
-remarks: "(Linked To: STATE RESEARCH CENTER OF THE RUSSIAN FEDERATION FGUP CENTRAL
-  SCIENTIFIC RESEARCH INSTITUTE OF CHEMISTRY AND MECHANICS)"
+remarks: "(Linked To: STATE RESEARCH CENTER OF THE RUSSIAN FEDERATION FGUP CENTRAL SCIENTIFIC RESEARCH INSTITUTE OF CHEMISTRY AND MECHANICS)"

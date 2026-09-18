@@ -1,4 +1,3 @@
----
 uid: '52074'
 first_name: Elena
 last_name: CHIRKINYAN
@@ -28,12 +27,12 @@ id_list:
     id_type: Passport
     id_number: '724664629'
     id_country: Russia
-  - uid: '182914'
-    id_type: Digital Currency Address - USDT
-    id_number: TDdbRFoBTEmE3qiR69Y6rKRSG1hoF65QaE
   - uid: '182898'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '182914'
+    id_type: Digital Currency Address - USDT
+    id_number: TDdbRFoBTEmE3qiR69Y6rKRSG1hoF65QaE
   - uid: '182896'
     id_type: Gender
     id_number: Female

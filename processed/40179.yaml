@@ -1,4 +1,3 @@
----
 uid: '40179'
 last_name: OPEN JOINT STOCK COMPANY ILYENKO ELARA RESEARCH AND PRODUCTION COMPLEX
 sdn_type: Entity
@@ -14,8 +13,7 @@ aka_list:
   - uid: '62406'
     type: a.k.a.
     category: strong
-    last_name: AKTSIONERNOE OBSHCHESTVO NAUCHNO PROIZVODSTVENNYI KOMPLEKS ELARA IMENI
-      G.A. ILYENKO
+    last_name: AKTSIONERNOE OBSHCHESTVO NAUCHNO PROIZVODSTVENNYI KOMPLEKS ELARA IMENI G.A. ILYENKO
   - uid: '62407'
     type: a.k.a.
     category: strong
@@ -38,9 +36,9 @@ id_list:
     id_type: Tax ID No.
     id_number: '2129017646'
     id_country: Russia
-  - uid: '174815'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '157040'
     id_type: Organization Established Date
     id_number: '1970'
+  - uid: '174815'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

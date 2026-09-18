@@ -1,4 +1,3 @@
----
 uid: '51657'
 last_name: PSKOV
 sdn_type: Vessel
@@ -14,11 +13,10 @@ id_list:
   - uid: '44171'
     id_type: MMSI
     id_number: '314930000'
+  - uid: '183558'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
   - uid: '181588'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
-  - uid: '183558'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
-      589.209
 remarks: "(Linked To: JOINT STOCK COMPANY SOVCOMFLOT)"

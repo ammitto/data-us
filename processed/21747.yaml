@@ -1,4 +1,3 @@
----
 uid: '21747'
 first_name: Chun Yong
 last_name: CHOE
@@ -25,14 +24,13 @@ id_list:
     id_number: '654410078'
     id_country: Korea, North
   - uid: '135033'
-    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
-      Institutions:'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial Institutions:'
     id_number: North Korea Sanctions Regulations section 510.214
-  - uid: '127222'
-    id_type: 'Secondary sanctions risk:'
-    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '122801'
     id_type: Gender
     id_number: Male
+  - uid: '127222'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
 remarks: "(Linked To: ILSIM INTERNATIONAL BANK)"
 title: Ilsim International Bank representative

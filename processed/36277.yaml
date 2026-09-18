@@ -1,4 +1,3 @@
----
 uid: '36277'
 last_name: MGI PTE LTD
 sdn_type: Entity
@@ -28,12 +27,10 @@ id_list:
     id_type: Registration Number
     id_number: 201505110K
     id_country: Singapore
-  - uid: '173987'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '149852'
     id_type: Organization Established Date
     id_number: 26 Feb 2015
-remarks: "(Linked To: AUTONOMOUS NONCOMMERCIAL ORGANIZATION FOR THE STUDY AND DEVELOPMENT
-  OF INTERNATIONAL COOPERATION IN THE ECONOMIC SPHERE INTERNATIONAL AGENCY OF SOVEREIGN
-  DEVELOPMENT)"
+  - uid: '173987'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+remarks: "(Linked To: AUTONOMOUS NONCOMMERCIAL ORGANIZATION FOR THE STUDY AND DEVELOPMENT OF INTERNATIONAL COOPERATION IN THE ECONOMIC SPHERE INTERNATIONAL AGENCY OF SOVEREIGN DEVELOPMENT)"

@@ -1,4 +1,3 @@
----
 uid: '24545'
 last_name: AL-BILAD ISLAMIC BANK FOR INVESTMENT AND FINANCE P.S.C.
 sdn_type: Entity
@@ -40,8 +39,7 @@ address_list:
     city: Baghdad
     country: Iraq
   - uid: '37062'
-    address1: Al Masbah Branch, Baghdad Al Masbah Intersection, 929 Street 17 Bldg.
-      40, Previously the German Embassy
+    address1: Al Masbah Branch, Baghdad Al Masbah Intersection, 929 Street 17 Bldg. 40, Previously the German Embassy
     city: Baghdad
     country: Iraq
   - uid: '37063'
@@ -49,13 +47,11 @@ address_list:
     city: Erbil
     country: Iraq
   - uid: '37064'
-    address1: Al Mawarid Branch, Baghdad - Street 62 Neighboring the Department of
-      Electricity
+    address1: Al Mawarid Branch, Baghdad - Street 62 Neighboring the Department of Electricity
     city: Baghdad
     country: Iraq
   - uid: '37065'
-    address1: Al Nasiryah Branch, Zi Kar Province El Saray, Bldg. 2/239 Janat Al Janoub
-      Hotel Building
+    address1: Al Nasiryah Branch, Zi Kar Province El Saray, Bldg. 2/239 Janat Al Janoub Hotel Building
     city: Nasiryah
     country: Iraq
   - uid: '37066'
@@ -67,8 +63,7 @@ address_list:
     city: Sadr City
     country: Iraq
   - uid: '37068'
-    address1: Al Jaderya Branch Baghdad, Al Jaderya - Versus Baghdad University, 906
-      Street 28 - Dar 3
+    address1: Al Jaderya Branch Baghdad, Al Jaderya - Versus Baghdad University, 906 Street 28 - Dar 3
     city: Baghdad
     country: Iraq
   - uid: '37069'
@@ -92,16 +87,14 @@ address_list:
     city: Babel
     country: Iraq
   - uid: '37074'
-    address1: Beirut Branch Lebanon, Beirut - Hamra Street, Broadway Center - Versus
-      Costa Caf, Lebanon
+    address1: Beirut Branch Lebanon, Beirut - Hamra Street, Broadway Center - Versus Costa Caf, Lebanon
     city: Beirut
     country: Lebanon
 id_list:
   items:
   - uid: '187192'
     id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order 13886
   - uid: '127467'
     id_type: SWIFT/BIC
     id_number: AIIFIQBA

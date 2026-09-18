@@ -1,4 +1,3 @@
----
 uid: '22504'
 last_name: JOINT STOCK COMPANY BLACK SEA BANK OF DEVELOPMENT AND RECONSTRUCTION
 sdn_type: Entity
@@ -26,8 +25,7 @@ aka_list:
   - uid: '35465'
     type: a.k.a.
     category: strong
-    last_name: "'CHERNOMORSKI BANK RAZVITIYA I REKONSTRUKTSII, OTKRYTOE AKTSIONERNOE
-      OBSHCHESTVO'"
+    last_name: "'CHERNOMORSKI BANK RAZVITIYA I REKONSTRUKTSII, OTKRYTOE AKTSIONERNOE OBSHCHESTVO'"
   - uid: '35574'
     type: a.k.a.
     category: strong
@@ -58,10 +56,9 @@ id_list:
     id_type: License
     id_number: '3527'
     id_country: Russia
-  - uid: '144034'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
-      589.209
   - uid: '124015'
     id_type: BIK (RU)
     id_number: '043510101'
+  - uid: '144034'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209

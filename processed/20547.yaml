@@ -1,4 +1,3 @@
----
 uid: '20547'
 last_name: P-671
 sdn_type: Aircraft
@@ -7,13 +6,12 @@ program_list:
   - DPRK3
 id_list:
   items:
-  - uid: '135066'
-    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
-      Institutions:'
-    id_number: North Korea Sanctions Regulations section 510.214
   - uid: '127185'
     id_type: 'Secondary sanctions risk:'
     id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '135066'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
   - uid: '121104'
     id_type: Aircraft Manufacture Date
     id_number: '2012'

@@ -1,4 +1,3 @@
----
 uid: '23552'
 last_name: LENGIPRONEFTEKHIM OOO
 sdn_type: Entity
@@ -15,18 +14,15 @@ aka_list:
   - uid: '37106'
     type: a.k.a.
     category: strong
-    last_name: LIMITED LIABILITY COMPANY OIL REFINING AND PETROCHEMICAL FACILITIES
-      DESIGN INSTITUTE
+    last_name: LIMITED LIABILITY COMPANY OIL REFINING AND PETROCHEMICAL FACILITIES DESIGN INSTITUTE
   - uid: '37107'
     type: a.k.a.
     category: strong
-    last_name: INSTITUT PO PROEKTIROVANIYU PREDPRIYATY NEFTEPERERABATYVAYUSCHEY I
-      NEFTEKHIMICHESKOY PROMYSHLENNOSTI, LIMITED LIABILITY COMPANY
+    last_name: INSTITUT PO PROEKTIROVANIYU PREDPRIYATY NEFTEPERERABATYVAYUSCHEY I NEFTEKHIMICHESKOY PROMYSHLENNOSTI, LIMITED LIABILITY COMPANY
   - uid: '82053'
     type: a.k.a.
     category: strong
-    last_name: LIMITED LIABILITY COMPANY DESIGN AND ENGINEERING INSTITUTE FOR OIL
-      REFINING AND PETROCHEMICAL ENTERPRISES
+    last_name: LIMITED LIABILITY COMPANY DESIGN AND ENGINEERING INSTITUTE FOR OIL REFINING AND PETROCHEMICAL ENTERPRISES
 address_list:
   items:
   - uid: '35606'
@@ -44,6 +40,12 @@ id_list:
     id_type: Tax ID No.
     id_number: '7810327462'
     id_country: Russia
+  - uid: '125412'
+    id_type: Nationality of Registration
+    id_number: Russia
+  - uid: '143980'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
   - uid: '183031'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
@@ -53,12 +55,4 @@ id_list:
   - uid: '125595'
     id_type: Executive Order 13662 Directive Determination -
     id_number: Subject to Directive 4
-  - uid: '125412'
-    id_type: Nationality of Registration
-    id_number: Russia
-  - uid: '143980'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
-      589.209
-remarks: 'For more information, please reference the following link: http://www.treasury.gov/resource-center/sanctions/OFAC-Enforcement/Pages/OFAC-Recent-Actions.aspx;
-  (Linked To: SURGUTNEFTEGAS)'
+remarks: 'For more information, please reference the following link: http://www.treasury.gov/resource-center/sanctions/OFAC-Enforcement/Pages/OFAC-Recent-Actions.aspx; (Linked To: SURGUTNEFTEGAS)'

@@ -1,4 +1,3 @@
----
 uid: '40124'
 first_name: Liudmila Leonidovna
 last_name: MARKINA
@@ -20,12 +19,12 @@ address_list:
     country: Russia
 id_list:
   items:
-  - uid: '174803'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '156917'
     id_type: Gender
     id_number: Female
+  - uid: '174803'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 date_of_birth_list:
   items:
   - uid: '56915'

@@ -1,4 +1,3 @@
----
 uid: '24103'
 first_name: Alexander Porfiryevich
 last_name: TORSHIN
@@ -18,8 +17,7 @@ id_list:
     id_number: Male
   - uid: '143961'
     id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
-      589.209
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
 date_of_birth_list:
   items:
   - uid: '26232'
@@ -28,6 +26,5 @@ date_of_birth_list:
 place_of_birth_list:
   items:
   - uid: '26252'
-    place_of_birth: Mitoga village, Ust-Bolsheretsky district, Kamchatka region, Russian
-      Federation
+    place_of_birth: Mitoga village, Ust-Bolsheretsky district, Kamchatka region, Russian Federation
     main_entry: 'true'

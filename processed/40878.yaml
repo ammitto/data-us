@@ -1,4 +1,3 @@
----
 uid: '40878'
 last_name: INDEPENDENT INSURANCE GROUP LTD
 sdn_type: Entity
@@ -10,8 +9,7 @@ aka_list:
   - uid: '63634'
     type: a.k.a.
     category: strong
-    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU STRAKHOVAYA KOMPANIYA
-      NEZAVISIMAYA STRAKHOVAYA GRUPPA
+    last_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU STRAKHOVAYA KOMPANIYA NEZAVISIMAYA STRAKHOVAYA GRUPPA
   - uid: '63636'
     type: a.k.a.
     category: weak
@@ -41,9 +39,9 @@ id_list:
   - uid: '159140'
     id_type: Website
     id_number: www.nsg-ins.ru
-  - uid: '175305'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '158411'
     id_type: Organization Established Date
     id_number: 03 Mar 2003
+  - uid: '175305'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

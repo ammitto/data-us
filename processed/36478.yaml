@@ -1,4 +1,3 @@
----
 uid: '36478'
 first_name: Alexey Anatolyevich
 last_name: SUBBOTIN
@@ -23,12 +22,12 @@ id_list:
     id_type: National ID No.
     id_number: '1100109762'
     id_country: Russia
-  - uid: '150237'
-    id_type: Gender
-    id_number: Male
   - uid: '174231'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '150237'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '50235'
@@ -39,6 +38,4 @@ place_of_birth_list:
   - uid: '50236'
     place_of_birth: Nyandoma, Russia
     main_entry: 'true'
-remarks: "(Linked To: AUTONOMOUS NONCOMMERCIAL ORGANIZATION FOR THE STUDY AND DEVELOPMENT
-  OF INTERNATIONAL COOPERATION IN THE ECONOMIC SPHERE INTERNATIONAL AGENCY OF SOVEREIGN
-  DEVELOPMENT)"
+remarks: "(Linked To: AUTONOMOUS NONCOMMERCIAL ORGANIZATION FOR THE STUDY AND DEVELOPMENT OF INTERNATIONAL COOPERATION IN THE ECONOMIC SPHERE INTERNATIONAL AGENCY OF SOVEREIGN DEVELOPMENT)"

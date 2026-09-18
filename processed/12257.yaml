@@ -1,4 +1,3 @@
----
 uid: '12257'
 first_name: Hossein
 last_name: TAEB
@@ -27,13 +26,12 @@ aka_list:
     first_name: Hassan
 id_list:
   items:
+  - uid: '185993'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order 13886
   - uid: '114062'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
-  - uid: '185993'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
 date_of_birth_list:
   items:
   - uid: '7990'
@@ -44,5 +42,4 @@ place_of_birth_list:
   - uid: '7991'
     place_of_birth: Tehran, Iran
     main_entry: 'false'
-title: Deputy Commander for Intelligence, Islamic Revolutionary Guard Corps; Hojjatoleslam;
-  Former Commander of the Basij Forces
+title: Deputy Commander for Intelligence, Islamic Revolutionary Guard Corps; Hojjatoleslam; Former Commander of the Basij Forces

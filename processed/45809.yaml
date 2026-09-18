@@ -1,4 +1,3 @@
----
 uid: '45809'
 last_name: BLANC BANK LIMITED LIABILITY COMPANY
 sdn_type: Entity
@@ -42,9 +41,9 @@ id_list:
   - uid: '166412'
     id_type: SWIFT/BIC
     id_number: VSTARUMM
-  - uid: '166767'
-    id_type: Target Type
-    id_number: Financial Institution
   - uid: '176063'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '166767'
+    id_type: Target Type
+    id_number: Financial Institution

@@ -1,4 +1,3 @@
----
 uid: '23145'
 last_name: FORENT TECHNIK GMBH
 sdn_type: Entity
@@ -25,10 +24,9 @@ id_list:
     id_type: Registration ID
     id_number: HRB102980
     id_country: Germany
+  - uid: '186663'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order 13886
   - uid: '124800'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
-  - uid: '186663'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886

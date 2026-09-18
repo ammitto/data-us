@@ -1,4 +1,3 @@
----
 uid: '18888'
 last_name: STATE ENTERPRISE MAGARACH OF THE NATIONAL INSTITUTE OF WINE
 sdn_type: Entity
@@ -10,28 +9,23 @@ aka_list:
   - uid: '29785'
     type: a.k.a.
     category: strong
-    last_name: STATE ENTERPRISE AGRICULTURAL COMPANY MAGARACH NATIONAL INSTITUTE OF
-      VINE AND WINE MAGARACH
+    last_name: STATE ENTERPRISE AGRICULTURAL COMPANY MAGARACH NATIONAL INSTITUTE OF VINE AND WINE MAGARACH
   - uid: '29786'
     type: a.k.a.
     category: strong
-    last_name: GOSUDARSTVENOYE PREDPRIYATIYE AGRO-FIRMA MAGARACH NACIONALNOGO INSTITUTA
-      VINOGRADA I VINA MAGARACH
+    last_name: GOSUDARSTVENOYE PREDPRIYATIYE AGRO-FIRMA MAGARACH NACIONALNOGO INSTITUTA VINOGRADA I VINA MAGARACH
   - uid: '29787'
     type: a.k.a.
     category: strong
-    last_name: MAGARACH AGRICULTURAL COMPANY OF NATIONAL INSTITUTE OF WINE AND GRAPES
-      MAGARACH
+    last_name: MAGARACH AGRICULTURAL COMPANY OF NATIONAL INSTITUTE OF WINE AND GRAPES MAGARACH
   - uid: '29788'
     type: a.k.a.
     category: strong
-    last_name: DERZHAVNE PIDPRYEMSTVO AGROFIRMA MAGARACH NATSIONALNOGO INSTYTUTU VYNOGRADU
-      I VYNA MAGARACH
+    last_name: DERZHAVNE PIDPRYEMSTVO AGROFIRMA MAGARACH NATSIONALNOGO INSTYTUTU VYNOGRADU I VYNA MAGARACH
   - uid: '29789'
     type: a.k.a.
     category: strong
-    last_name: AGROFIRMA MAGARACH NATSIONALNOGO INSTYTUTU VYNOGRADU I VYNA MAGARACH,
-      DP
+    last_name: AGROFIRMA MAGARACH NATSIONALNOGO INSTYTUTU VYNOGRADU I VYNA MAGARACH, DP
 address_list:
   items:
   - uid: '28730'
@@ -68,13 +62,12 @@ id_list:
     id_type: Government Gazette Number
     id_number: '31332064'
     id_country: Ukraine
-  - uid: '143685'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
-      589.209
   - uid: '118539'
     id_type: Website
     id_number: http://magarach-institut.ru/
   - uid: '118538'
     id_type: Email Address
     id_number: magar@ukr.net
+  - uid: '143685'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209

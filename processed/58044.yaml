@@ -1,4 +1,3 @@
----
 uid: '58044'
 first_name: Cesar Alejandro
 last_name: VILLASENOR OLIVARES
@@ -23,13 +22,12 @@ id_list:
     id_type: C.U.R.P.
     id_number: VIOC801203HJCLLS08
     id_country: Mexico
+  - uid: '199332'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order 13886
   - uid: '199329'
     id_type: Gender
     id_number: Male
-  - uid: '199332'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
 date_of_birth_list:
   items:
   - uid: '99328'

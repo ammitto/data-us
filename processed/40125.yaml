@@ -1,4 +1,3 @@
----
 uid: '40125'
 first_name: Elmira Abdulbarievna
 last_name: KHAIMOURZINA
@@ -20,12 +19,12 @@ address_list:
     country: Russia
 id_list:
   items:
-  - uid: '156921'
-    id_type: Gender
-    id_number: Female
   - uid: '174804'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '156921'
+    id_type: Gender
+    id_number: Female
 date_of_birth_list:
   items:
   - uid: '56919'

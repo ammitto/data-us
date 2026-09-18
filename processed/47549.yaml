@@ -1,4 +1,3 @@
----
 uid: '47549'
 last_name: PUBLIC JOINT STOCK COMPANY SPB BANK
 sdn_type: Entity
@@ -32,6 +31,9 @@ id_list:
   - uid: '176407'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '184110'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
   - uid: '169058'
     id_type: Target Type
     id_number: Financial Institution
@@ -41,7 +43,3 @@ id_list:
   - uid: '169059'
     id_type: Website
     id_number: www.spbbank.com
-  - uid: '184110'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
-      589.209

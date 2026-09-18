@@ -1,4 +1,3 @@
----
 uid: '18868'
 last_name: STATE CONCERN NATIONAL PRODUCTION AND AGRICULTURAL ASSOCIATION MASSANDRA
 sdn_type: Entity
@@ -53,13 +52,12 @@ id_list:
     id_type: Registration ID
     id_number: '00411890'
     id_country: Ukraine
+  - uid: '143561'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
   - uid: '118390'
     id_type: Website
     id_number: http://www.massandra.net.ua/
   - uid: '118389'
     id_type: Email Address
     id_number: impex@massandra.ua
-  - uid: '143561'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
-      589.209
