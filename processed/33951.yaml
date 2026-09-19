@@ -21,9 +21,9 @@ address_list:
     country: Bangladesh
 id_list:
   items:
-  - uid: '145491'
-    id_type: Organization Established Date
-    id_number: 26 Mar 2004
   - uid: '145492'
     id_type: Target Type
     id_number: Government Entity
+  - uid: '145491'
+    id_type: Organization Established Date
+    id_number: 26 Mar 2004

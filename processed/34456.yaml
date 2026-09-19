@@ -18,12 +18,12 @@ id_list:
     id_country: Korea, North
     issue_date: 13 Oct 2018
     expiration_date: 13 Oct 2023
-  - uid: '145787'
-    id_type: 'Secondary sanctions risk:'
-    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '145768'
     id_type: Gender
     id_number: Male
+  - uid: '145787'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '145788'
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial Institutions:'
     id_number: North Korea Sanctions Regulations section 510.214

@@ -66,12 +66,6 @@ id_list:
   - uid: '10269'
     id_type: Registration ID
     id_number: '01125554'
-  - uid: '117625'
-    id_type: UN/LOCODE
-    id_number: UA KEH
-  - uid: '143641'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
   - uid: '117180'
     id_type: Website
     id_number: http://www.kerchport.com
@@ -87,3 +81,9 @@ id_list:
   - uid: '117179'
     id_type: Email Address
     id_number: kmtp@trport.kerch.crimea.com
+  - uid: '117625'
+    id_type: UN/LOCODE
+    id_number: UA KEH
+  - uid: '143641'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209

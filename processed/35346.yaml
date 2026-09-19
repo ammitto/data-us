@@ -35,12 +35,12 @@ id_list:
     id_type: Tax ID No.
     id_number: '7715900066'
     id_country: Russia
-  - uid: '147628'
-    id_type: Organization Established Date
-    id_number: 23 Jan 2012
   - uid: '147626'
     id_type: Website
     id_number: https://cniiag.ru
   - uid: '176735'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '147628'
+    id_type: Organization Established Date
+    id_number: 23 Jan 2012

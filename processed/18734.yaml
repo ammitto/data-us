@@ -44,15 +44,15 @@ id_list:
     id_type: Registration ID
     id_number: '1147799014692'
     id_country: Russia
-  - uid: '118210'
-    id_type: Executive Order 13662 Directive Determination -
-    id_number: Subject to Directive 1
-  - uid: '146667'
-    id_type: Target Type
-    id_number: Financial Institution
   - uid: '151213'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
+  - uid: '146667'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '118210'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 1
   - uid: '173891'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.

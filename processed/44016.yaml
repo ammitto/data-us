@@ -17,12 +17,12 @@ id_list:
     id_country: China
     issue_date: 23 Aug 2012
     expiration_date: 22 Aug 2022
-  - uid: '163576'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '163575'
     id_type: Gender
     id_number: Male
+  - uid: '163576'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '63572'

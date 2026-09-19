@@ -31,9 +31,6 @@ id_list:
     id_type: Tax ID No.
     id_number: '7736317458'
     id_country: Russia
-  - uid: '175150'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '146724'
     id_type: Executive Order 14024 Directive Information -
     id_number: 'For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives'
@@ -43,4 +40,7 @@ id_list:
   - uid: '146897'
     id_type: 'Effective Date (EO 14024 Directive 2):'
     id_number: 26 Mar 2022
+  - uid: '175150'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 remarks: "(Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)"

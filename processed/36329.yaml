@@ -28,13 +28,13 @@ id_list:
     id_type: Tax ID No.
     id_number: '9725058950'
     id_country: Russia
-  - uid: '150205'
-    id_type: 'Organization Type:'
-    id_number: Other amusement and recreation activities
-  - uid: '149920'
-    id_type: Organization Established Date
-    id_number: 07 Sep 2021
   - uid: '174001'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '149920'
+    id_type: Organization Established Date
+    id_number: 07 Sep 2021
+  - uid: '150205'
+    id_type: 'Organization Type:'
+    id_number: Other amusement and recreation activities
 remarks: "(Linked To: TSARGRAD-MEDIA OOO)"

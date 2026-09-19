@@ -15,9 +15,6 @@ id_list:
     id_type: National ID No.
     id_number: 13053119911202021X
     id_country: China
-  - uid: '159337'
-    id_type: Email Address
-    id_number: shuokangw@163.com
   - uid: '159336'
     id_type: Gender
     id_number: Male
@@ -33,6 +30,9 @@ id_list:
   - uid: '160834'
     id_type: Phone Number
     id_number: '8615030111720'
+  - uid: '159337'
+    id_type: Email Address
+    id_number: shuokangw@163.com
 date_of_birth_list:
   items:
   - uid: '59335'

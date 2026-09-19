@@ -28,15 +28,15 @@ address_list:
     country: Ukraine
 id_list:
   items:
+  - uid: '145780'
+    id_type: Website
+    id_number: www.oleinik.win
   - uid: '145812'
     id_type: Gender
     id_number: Male
   - uid: '175122'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
-  - uid: '145780'
-    id_type: Website
-    id_number: www.oleinik.win
 date_of_birth_list:
   items:
   - uid: '45777'

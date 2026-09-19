@@ -30,9 +30,6 @@ id_list:
   - uid: '156410'
     id_type: Gender
     id_number: Male
-  - uid: '156436'
-    id_type: Digital Currency Address - BCH
-    id_number: qpusmp64rajses77x95g9ah825mtyyv74smwwkxhx3
   - uid: '156413'
     id_type: Digital Currency Address - XBT
     id_number: 1DbvK8P6imBuLcwh2Vruis4xsUb8YAwJQF
@@ -108,6 +105,9 @@ id_list:
   - uid: '156444'
     id_type: Digital Currency Address - ETH
     id_number: '0xEFE301d259F525cA1ba74A7977b80D5b060B3ccA'
+  - uid: '156436'
+    id_type: Digital Currency Address - BCH
+    id_number: qpusmp64rajses77x95g9ah825mtyyv74smwwkxhx3
   - uid: '156411'
     id_type: Website
     id_number: therealrc.com
