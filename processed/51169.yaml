@@ -1,3 +1,4 @@
+---
 uid: '51169'
 last_name: AVTEX SEMICONDUCTOR LIMITED
 sdn_type: Entity
@@ -7,13 +8,15 @@ program_list:
 address_list:
   items:
   - uid: '77855'
-    address1: 1703A, Block C, CEC Building, 2070 Shennan Middle Road, Huaqiang North, Futian District
+    address1: 1703A, Block C, CEC Building, 2070 Shennan Middle Road, Huaqiang North,
+      Futian District
     city: Shenzhen
     state_or_province: Guangdong
     postal_code: '518031'
     country: China
   - uid: '77856'
-    address1: Room 1003A, Fortune Harbor International Center, No. 1084 Baoyuan Road, Xixiang Street, Baoan District
+    address1: Room 1003A, Fortune Harbor International Center, No. 1084 Baoyuan Road,
+      Xixiang Street, Baoan District
     city: Shenzhen
     state_or_province: Guangdong
     postal_code: '518102'
@@ -24,12 +27,14 @@ address_list:
     state_or_province: Guangdong
     country: China
   - uid: '77863'
-    address1: Building A, Minsheng 2nd Road, Liukeng New Village, Shiyan Street, Baoan District
+    address1: Building A, Minsheng 2nd Road, Liukeng New Village, Shiyan Street, Baoan
+      District
     city: Shenzhen
     state_or_province: Guangdong
     country: China
   - uid: '77865'
-    address1: Room 836, 8/F Bailey Commercial Centre, 87-105 Chatham Road South, Tsim Sha Tsui, Kowloon
+    address1: Room 836, 8/F Bailey Commercial Centre, 87-105 Chatham Road South, Tsim
+      Sha Tsui, Kowloon
     city: Hong Kong
     country: China
 id_list:

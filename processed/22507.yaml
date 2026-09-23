@@ -1,3 +1,4 @@
+---
 uid: '22507'
 last_name: IS BANK, AO
 sdn_type: Entity
@@ -21,7 +22,8 @@ aka_list:
   - uid: '35572'
     type: a.k.a.
     category: strong
-    last_name: AKTSIONERNOE OBSHCHESTVO KOMMERCHESKI BANK INDUSTRIALNY SBEREGATELNY BANK
+    last_name: AKTSIONERNOE OBSHCHESTVO KOMMERCHESKI BANK INDUSTRIALNY SBEREGATELNY
+      BANK
 address_list:
   items:
   - uid: '34047'
@@ -66,7 +68,8 @@ id_list:
     id_number: '044525349'
   - uid: '144037'
     id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
   - uid: '123948'
     id_type: SWIFT/BIC
     id_number: RISBRUMM

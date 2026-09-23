@@ -1,3 +1,4 @@
+---
 uid: '51172'
 last_name: MEGACHIPS LIMITED
 sdn_type: Entity
@@ -7,16 +8,19 @@ program_list:
 address_list:
   items:
   - uid: '77889'
-    address1: Room 13, 27/F, Ho King Commercial Centre, 2-16 Fa Yuen Street, Mongkok, Kowloon
+    address1: Room 13, 27/F, Ho King Commercial Centre, 2-16 Fa Yuen Street, Mongkok,
+      Kowloon
     city: Hong Kong
     country: China
   - uid: '77891'
-    address1: Room 1206, Yishang Creative Technology Building, No. 22 Jia'an South Road, Haibin Community, Xin'an Street, Bao'an District
+    address1: Room 1206, Yishang Creative Technology Building, No. 22 Jia'an South
+      Road, Haibin Community, Xin'an Street, Bao'an District
     city: Shenzhen
     state_or_province: Guangdong
     country: China
   - uid: '77892'
-    address1: 2901B, Bank of Communications Building, Shennan Middle Road, Huaqiang North Street, Futian District
+    address1: 2901B, Bank of Communications Building, Shennan Middle Road, Huaqiang
+      North Street, Futian District
     city: Shenzhen
     country: China
 id_list:

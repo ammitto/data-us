@@ -1,3 +1,4 @@
+---
 uid: '27183'
 last_name: PENTA OCEAN SHIP MANAGEMENT AND OPERATION LLC
 sdn_type: Entity
@@ -31,7 +32,8 @@ address_list:
     city: Dubai
     country: United Arab Emirates
   - uid: '41275'
-    address1: Office 2905, 29th Floor, Al-Attar Tower, Sheikh Zayed Road, Al Barsha 1
+    address1: Office 2905, 29th Floor, Al-Attar Tower, Sheikh Zayed Road, Al Barsha
+      1
     city: Dubai
     country: United Arab Emirates
 id_list:
@@ -49,5 +51,6 @@ id_list:
     id_number: Subject to Secondary Sanctions
   - uid: '186917'
     id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order 13886
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
 remarks: "(Linked To: MEHDI GROUP)"

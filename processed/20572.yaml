@@ -1,3 +1,4 @@
+---
 uid: '20572'
 last_name: KORYO BANK
 sdn_type: Entity
@@ -16,7 +17,8 @@ id_list:
     id_type: SWIFT/BIC
     id_number: KORBKPPY
   - uid: '134896'
-    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial Institutions:'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
     id_number: North Korea Sanctions Regulations section 510.214
   - uid: '127198'
     id_type: 'Secondary sanctions risk:'

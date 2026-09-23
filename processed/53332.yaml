@@ -1,3 +1,4 @@
+---
 uid: '53332'
 last_name: LLC EDISON
 sdn_type: Entity
@@ -13,7 +14,8 @@ aka_list:
 address_list:
   items:
   - uid: '81359'
-    address1: 125367, Vn. Ter. G. Municipal District Pokrovskoe-Streshnevo, Pr-d polesskiy, d. 16, Str. I, Pomeshch. 36/1/2
+    address1: 125367, Vn. Ter. G. Municipal District Pokrovskoe-Streshnevo, Pr-d polesskiy,
+      d. 16, Str. I, Pomeshch. 36/1/2
     city: Moscow
     country: Russia
 id_list:
@@ -31,5 +33,6 @@ id_list:
     id_number: 04 Jun 2024
   - uid: '187624'
     id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order 13886
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
 remarks: "(Linked To: GHAIRAT, Sohrab)"

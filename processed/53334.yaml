@@ -1,3 +1,4 @@
+---
 uid: '53334'
 last_name: LLC SKY FRAME
 sdn_type: Entity
@@ -13,7 +14,8 @@ aka_list:
 address_list:
   items:
   - uid: '81362'
-    address1: 129327, Vn. Ter. G. Municipal District, Babushkinskiy, UI Menzhinskogo, D. 3, Pomeshch. I, Kom. 25
+    address1: 129327, Vn. Ter. G. Municipal District, Babushkinskiy, UI Menzhinskogo,
+      D. 3, Pomeshch. I, Kom. 25
     city: Moscow
     country: Russia
 id_list:
@@ -28,7 +30,8 @@ id_list:
     id_country: Russia
   - uid: '187629'
     id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order 13886
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
   - uid: '187626'
     id_type: Organization Established Date
     id_number: 20 Mar 2019

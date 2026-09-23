@@ -1,3 +1,4 @@
+---
 uid: '23524'
 last_name: CK INTERNATIONAL LTD
 sdn_type: Entity
@@ -11,7 +12,8 @@ address_list:
     city: Pyongyang
     country: Korea, North
   - uid: '35688'
-    address1: Room 9, Unit A, 3rd Floor, Cheong Sun Tower, 116-118, Wing Lok Street, Sheung Wan
+    address1: Room 9, Unit A, 3rd Floor, Cheong Sun Tower, 116-118, Wing Lok Street,
+      Sheung Wan
     country: Hong Kong
 id_list:
   items:
@@ -22,5 +24,6 @@ id_list:
     id_type: 'Secondary sanctions risk:'
     id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '135275'
-    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial Institutions:'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
     id_number: North Korea Sanctions Regulations section 510.214

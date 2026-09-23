@@ -1,3 +1,4 @@
+---
 uid: '25580'
 last_name: BANK SEPAH
 sdn_type: Entity
@@ -9,11 +10,13 @@ program_list:
 address_list:
   items:
   - uid: '38706'
-    address1: Negin Sepah Building, Head Office of Bank Sepah, Nowrouz Street, Africa Hwy, Argentina Square
+    address1: Negin Sepah Building, Head Office of Bank Sepah, Nowrouz Street, Africa
+      Hwy, Argentina Square
     city: Tehran
     country: Iran
   - uid: '38707'
-    address1: 6th Floor, Negin Sepah Building, Nowrouz St., Africa Hwy., Argentina Sq.
+    address1: 6th Floor, Negin Sepah Building, Nowrouz St., Africa Hwy., Argentina
+      Sq.
     city: Tehran
     postal_code: '1519662840'
     country: Iran
@@ -58,4 +61,5 @@ id_list:
   - uid: '129495'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
-remarks: 'All Offices Worldwide; (Linked To: MINISTRY OF DEFENSE AND ARMED FORCES LOGISTICS)'
+remarks: 'All Offices Worldwide; (Linked To: MINISTRY OF DEFENSE AND ARMED FORCES
+  LOGISTICS)'

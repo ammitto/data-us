@@ -1,3 +1,4 @@
+---
 uid: '17016'
 last_name: GAZPROMBANK JOINT STOCK COMPANY
 sdn_type: Entity
@@ -43,7 +44,8 @@ address_list:
     postal_code: '110021'
     country: India
   - uid: '79152'
-    address1: Central International Trade Center, Suite No. 1205, Tower C, No. 6A Jianguomenwai Avenue, Chaoyang
+    address1: Central International Trade Center, Suite No. 1205, Tower C, No. 6A
+      Jianguomenwai Avenue, Chaoyang
     city: Liaoning
     postal_code: '100022'
     country: China
@@ -68,7 +70,8 @@ id_list:
     id_number: See Section 11 of Executive Order 14024.
   - uid: '151146'
     id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
   - uid: '115749'
     id_type: SWIFT/BIC
     id_number: GAZPRUMM
@@ -86,10 +89,14 @@ id_list:
     id_number: State-Owned Enterprise
   - uid: '146689'
     id_type: Executive Order 14024 Directive Information -
-    id_number: 'For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives'
+    id_number: 'For more information on directives, please visit the following link:
+      https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives'
   - uid: '146709'
     id_type: Executive Order 14024 Directive Information
-    id_number: Subject to Directive 3 - All transactions in, provision of financing for, and other dealings in new debt of longer than 14 days maturity or new equity where such new debt or new equity is issued on or after the 'Effective Date (EO 14024 Directive)' associated with this name are prohibited.
+    id_number: Subject to Directive 3 - All transactions in, provision of financing
+      for, and other dealings in new debt of longer than 14 days maturity or new equity
+      where such new debt or new equity is issued on or after the 'Effective Date
+      (EO 14024 Directive)' associated with this name are prohibited.
   - uid: '146849'
     id_type: 'Listing Date (EO 14024 Directive 3):'
     id_number: 24 Feb 2022
