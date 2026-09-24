@@ -23,10 +23,6 @@ address_list:
     country: Lebanon
 id_list:
   items:
-  - uid: '187170'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
   - uid: '127019'
     id_type: Gender
     id_number: Male
@@ -34,6 +30,10 @@ id_list:
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
       Sanctions Regulations
+  - uid: '187170'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
 date_of_birth_list:
   items:
   - uid: '26972'

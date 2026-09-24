@@ -60,22 +60,22 @@ id_list:
   - uid: '117570'
     id_type: Executive Order 13662 Directive Determination -
     id_number: Subject to Directive 1
-  - uid: '146532'
-    id_type: Organization Established Date
-    id_number: 24 May 1994
   - uid: '117518'
     id_type: SWIFT/BIC
     id_number: EXIRRUMM
   - uid: '117519'
     id_type: Website
     id_number: eximbank.ru
+  - uid: '173866'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '146532'
+    id_type: Organization Established Date
+    id_number: 24 May 1994
   - uid: '151144'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
       589.209
-  - uid: '173866'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '146786'
     id_type: Target Type
     id_number: Financial Institution

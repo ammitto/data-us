@@ -208,18 +208,6 @@ id_list:
   - uid: '24641'
     id_type: Legal Entity Number
     id_number: 253400V1H6ART1UQ0N98
-  - uid: '115744'
-    id_type: SWIFT/BIC
-    id_number: VTBRRUMM
-  - uid: '115745'
-    id_type: Website
-    id_number: www.vtb.com
-  - uid: '146547'
-    id_type: Website
-    id_number: www.vtb.ru
-  - uid: '146669'
-    id_type: Target Type
-    id_number: Financial Institution
   - uid: '201028'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
@@ -232,6 +220,18 @@ id_list:
   - uid: '116142'
     id_type: Executive Order 13662 Directive Determination -
     id_number: Subject to Directive 1
+  - uid: '146669'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '115744'
+    id_type: SWIFT/BIC
+    id_number: VTBRRUMM
+  - uid: '115745'
+    id_type: Website
+    id_number: www.vtb.com
+  - uid: '146547'
+    id_type: Website
+    id_number: www.vtb.ru
   - uid: '146553'
     id_type: Organization Established Date
     id_number: 17 Oct 1990

@@ -45,12 +45,6 @@ id_list:
     id_type: Passport
     id_number: '2006801524'
     id_country: Russia
-  - uid: '171710'
-    id_type: Email Address
-    id_number: khoroshev1@icloud.com
-  - uid: '171711'
-    id_type: Email Address
-    id_number: sitedev5@yandex.ru
   - uid: '170893'
     id_type: Gender
     id_number: Male
@@ -60,6 +54,12 @@ id_list:
   - uid: '170897'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+  - uid: '171710'
+    id_type: Email Address
+    id_number: khoroshev1@icloud.com
+  - uid: '171711'
+    id_type: Email Address
+    id_number: sitedev5@yandex.ru
 date_of_birth_list:
   items:
   - uid: '71709'

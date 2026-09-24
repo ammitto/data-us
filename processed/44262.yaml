@@ -29,18 +29,18 @@ id_list:
     id_type: Identification Number
     id_number: BE8HW8.99999.SL.643
     id_country: Russia
+  - uid: '175818'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
   - uid: '163925'
     id_type: Target Type
     id_number: Financial Institution
+  - uid: '163921'
+    id_type: Organization Established Date
+    id_number: 23 Oct 1990
   - uid: '163922'
     id_type: SWIFT/BIC
     id_number: SLDRRU3S
   - uid: '163923'
     id_type: Website
     id_number: www.solid.ru
-  - uid: '175818'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
-  - uid: '163921'
-    id_type: Organization Established Date
-    id_number: 23 Oct 1990

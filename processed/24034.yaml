@@ -8,12 +8,12 @@ program_list:
   - CYBER2
 id_list:
   items:
-  - uid: '126177'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '126139'
     id_type: Gender
     id_number: Male
+  - uid: '126177'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '26135'

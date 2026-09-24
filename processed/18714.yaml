@@ -33,9 +33,10 @@ id_list:
     id_type: Tax ID No.
     id_number: '100219673'
     id_country: Belarus
-  - uid: '118417'
-    id_type: Executive Order 13662 Directive Determination -
-    id_number: Subject to Directive 1
+  - uid: '151225'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
   - uid: '118821'
     id_type: SWIFT/BIC
     id_number: BPSBBY2X
@@ -48,10 +49,9 @@ id_list:
   - uid: '173880'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
-  - uid: '151225'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
-      589.209
+  - uid: '118417'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 1
   - uid: '146739'
     id_type: Executive Order 14024 Directive Information -
     id_number: 'For more information on directives, please visit the following link:

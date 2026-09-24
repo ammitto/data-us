@@ -24,13 +24,13 @@ id_list:
     id_type: Passport
     id_number: '654234735'
     id_country: Korea, North
-  - uid: '127231'
-    id_type: 'Secondary sanctions risk:'
-    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '135044'
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'
     id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '127231'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '123731'
     id_type: Gender
     id_number: Male

@@ -28,12 +28,12 @@ id_list:
     id_type: Passport
     id_number: YA1867648
     id_country: Italy
-  - uid: '125142'
-    id_type: Gender
-    id_number: Male
   - uid: '125141'
     id_type: Website
     id_number: www.miguelleone.com
+  - uid: '125142'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '25138'
