@@ -34,12 +34,12 @@ id_list:
     id_type: Business Registration Number
     id_number: '101444'
     id_country: Marshall Islands
-  - uid: '156593'
-    id_type: Organization Established Date
-    id_number: 12 Jun 2019
   - uid: '156615'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '156593'
+    id_type: Organization Established Date
+    id_number: 12 Jun 2019
   - uid: '156569'
     id_type: Website
     id_number: https://www.eastasiatrading.net/

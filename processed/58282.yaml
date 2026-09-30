@@ -1,0 +1,44 @@
+---
+uid: '58282'
+first_name: Fen
+last_name: LI
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '90161'
+    type: a.k.a.
+    category: weak
+    last_name: LEE, Kirah
+address_list:
+  items:
+  - uid: '89566'
+    city: Foshan
+    state_or_province: Guangdong
+    country: China
+id_list:
+  items:
+  - uid: '52950'
+    id_type: National ID No.
+    id_number: '362523198704231627'
+    id_country: China
+  - uid: '200073'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '200077'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '100074'
+    date_of_birth: 23 Apr 1987
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '100075'
+    place_of_birth: Xian, China
+    main_entry: 'true'
+remarks: "(Linked To: KAVOSHCOM ASIA R AND D GROUP)"

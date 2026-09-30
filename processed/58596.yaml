@@ -1,0 +1,43 @@
+---
+uid: '58596'
+first_name: Waseem Pasha
+last_name: TAJAMMAL
+sdn_type: Individual
+program_list:
+  programs:
+  - NPWMD
+  - IFSR
+address_list:
+  items:
+  - uid: '90199'
+    city: Rawalpindi
+    state_or_province: Punjab
+    country: Pakistan
+id_list:
+  items:
+  - uid: '53368'
+    id_type: National ID No.
+    id_number: '3740563500191'
+    id_country: Pakistan
+  - uid: '53370'
+    id_type: Passport
+    id_number: AA7550196
+    id_country: Pakistan
+    expiration_date: 23 May 2027
+  - uid: '201174'
+    id_type: Gender
+    id_number: Male
+  - uid: '201194'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '101173'
+    date_of_birth: 22 Dec 1967
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '101176'
+    place_of_birth: Chakwal, Pakistan
+    main_entry: 'true'
+remarks: "(Linked To: MINISTRY OF DEFENSE AND ARMED FORCES LOGISTICS)"

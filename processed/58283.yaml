@@ -1,0 +1,59 @@
+---
+uid: '58283'
+first_name: Ali Fotowat
+last_name: AHMADY
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '90163'
+    type: a.k.a.
+    category: strong
+    last_name: AHMADI
+    first_name: Ali Fotowat
+  - uid: '90164'
+    type: a.k.a.
+    category: strong
+    last_name: AHMADI
+    first_name: Ali Fotovat
+address_list:
+  items:
+  - uid: '89568'
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '52951'
+    id_type: National ID No.
+    id_number: '0451991923'
+    id_country: Iran
+  - uid: '52952'
+    id_type: Passport
+    id_number: '642906027'
+    id_country: United States
+    expiration_date: 17 Dec 2028
+  - uid: '52953'
+    id_type: Passport
+    id_number: F42549387
+    id_country: Iran
+    expiration_date: 12 Aug 2022
+  - uid: '200081'
+    id_type: Gender
+    id_number: Male
+  - uid: '200078'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '100079'
+    date_of_birth: 22 Sep 1958
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '100080'
+    place_of_birth: Shemiran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: KAVOSHCOM ASIA R AND D GROUP)"

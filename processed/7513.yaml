@@ -51,12 +51,12 @@ id_list:
     id_number: Male
 date_of_birth_list:
   items:
-  - uid: '70150'
-    date_of_birth: 15 Sep 1942
-    main_entry: 'false'
   - uid: '1633'
     date_of_birth: 15 Sep 1946
     main_entry: 'true'
+  - uid: '70150'
+    date_of_birth: 15 Sep 1942
+    main_entry: 'false'
 place_of_birth_list:
   items:
   - uid: '70121'

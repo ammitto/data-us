@@ -23,12 +23,6 @@ address_list:
     country: Russia
 id_list:
   items:
-  - uid: '139644'
-    id_type: Website
-    id_number: southfront.org
-  - uid: '144775'
-    id_type: Website
-    id_number: maps.southfront.org
   - uid: '139645'
     id_type: Digital Currency Address - XBT
     id_number: 3Gbs4rjcVUtQd8p3CiFUCxPLZwRqurezRZ
@@ -53,6 +47,12 @@ id_list:
   - uid: '154622'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+  - uid: '139644'
+    id_type: Website
+    id_number: southfront.org
+  - uid: '144775'
+    id_type: Website
+    id_number: maps.southfront.org
   - uid: '139990'
     id_type: 'Organization Type:'
     id_number: News agency activities

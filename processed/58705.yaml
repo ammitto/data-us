@@ -1,0 +1,39 @@
+---
+uid: '58705'
+first_name: Luis Alfonso
+last_name: TORRES TORRES
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+address_list:
+  items:
+  - uid: '90435'
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+id_list:
+  items:
+  - uid: '53517'
+    id_type: C.U.R.P.
+    id_number: TOTL600907HBCRRS00
+    id_country: Mexico
+  - uid: '201529'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '201526'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '101524'
+    date_of_birth: 07 Sep 1960
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '101525'
+    place_of_birth: Baja California, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: SINALOA CARTEL)"

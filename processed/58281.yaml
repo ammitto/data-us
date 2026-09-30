@@ -1,0 +1,54 @@
+---
+uid: '58281'
+first_name: Parisa
+last_name: LALI
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - NPWMD
+aka_list:
+  items:
+  - uid: '90158'
+    type: a.k.a.
+    category: strong
+    last_name: LAALI
+    first_name: Parisa
+  - uid: '90159'
+    type: a.k.a.
+    category: strong
+    last_name: LA'LI
+    first_name: Parisa
+address_list:
+  items:
+  - uid: '89564'
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '52948'
+    id_type: Passport
+    id_number: U48889102
+    id_country: Iran
+    expiration_date: 28 May 2024
+  - uid: '52949'
+    id_type: National ID No.
+    id_number: '0013751425'
+    id_country: Iran
+  - uid: '200070'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '200072'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '100068'
+    date_of_birth: 31 Aug 1991
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '100069'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: KAVOSHCOM ASIA R AND D GROUP)"

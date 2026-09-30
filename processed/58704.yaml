@@ -1,0 +1,39 @@
+---
+uid: '58704'
+first_name: Carlos Alberto
+last_name: TORRES TORRES
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+address_list:
+  items:
+  - uid: '90433'
+    city: Tijuana
+    state_or_province: Baja California
+    country: Mexico
+id_list:
+  items:
+  - uid: '53516'
+    id_type: C.U.R.P.
+    id_number: TOTC751118HBCRRR06
+    id_country: Mexico
+  - uid: '201521'
+    id_type: Gender
+    id_number: Male
+  - uid: '201523'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '101519'
+    date_of_birth: 18 Nov 1975
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '101520'
+    place_of_birth: Baja California, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: SINALOA CARTEL)"

@@ -1,0 +1,37 @@
+---
+uid: '58697'
+first_name: Lorenzo
+last_name: CASTILLO MALDONADO
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+address_list:
+  items:
+  - uid: '90420'
+    country: Mexico
+id_list:
+  items:
+  - uid: '53510'
+    id_type: C.U.R.P.
+    id_number: CAML751213HCHSLR08
+    id_country: Mexico
+  - uid: '201490'
+    id_type: Gender
+    id_number: Male
+  - uid: '201492'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '101488'
+    date_of_birth: 13 Dec 1975
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '101489'
+    place_of_birth: Chihuahua, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: SINALOA CARTEL)"

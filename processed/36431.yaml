@@ -61,6 +61,9 @@ id_list:
   - uid: '174211'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '150135'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
   - uid: '184308'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
@@ -68,6 +71,3 @@ id_list:
   - uid: '150115'
     id_type: Organization Established Date
     id_number: '2006'
-  - uid: '150135'
-    id_type: Target Type
-    id_number: State-Owned Enterprise

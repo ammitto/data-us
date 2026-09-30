@@ -12,6 +12,9 @@ id_list:
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
       589.209
+  - uid: '173409'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
   - uid: '152239'
     id_type: Aircraft Manufacture Date
     id_number: 18 Feb 2013
@@ -24,7 +27,4 @@ id_list:
   - uid: '152238'
     id_type: Aircraft Tail Number
     id_number: P4-MGU
-  - uid: '173409'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
 remarks: "(Linked To: SKOCH, Andrei Vladimirovich)"

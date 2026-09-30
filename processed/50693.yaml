@@ -33,10 +33,10 @@ id_list:
     id_type: Tax ID No.
     id_number: '9707028663'
     id_country: Russia
-  - uid: '179235'
-    id_type: Organization Established Date
-    id_number: 04 Apr 2024
   - uid: '179225'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '179235'
+    id_type: Organization Established Date
+    id_number: 04 Apr 2024
 remarks: "(Linked To: PROMSVYAZBANK PUBLIC JOINT STOCK COMPANY)"

@@ -20,12 +20,12 @@ id_list:
     id_type: Registration Number
     id_number: '2138580'
     id_country: Hong Kong
-  - uid: '166278'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '166268'
     id_type: Website
     id_number: www.icgoo.net
+  - uid: '166278'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
   - uid: '166267'
     id_type: Organization Established Date
     id_number: 28 Aug 2014

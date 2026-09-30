@@ -6,6 +6,7 @@ sdn_type: Individual
 program_list:
   programs:
   - ILLICIT-DRUGS-EO14059
+  - SDGT
 aka_list:
   items:
   - uid: '61076'
@@ -22,6 +23,10 @@ id_list:
     id_type: C.U.R.P.
     id_number: AAGA731202HBCRRL05
     id_country: Mexico
+  - uid: '200706'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
   - uid: '154915'
     id_type: Gender
     id_number: Male
@@ -35,3 +40,4 @@ place_of_birth_list:
   - uid: '54913'
     place_of_birth: Baja California, Mexico
     main_entry: 'true'
+remarks: "(Linked To: SINALOA CARTEL)"

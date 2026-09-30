@@ -33,15 +33,6 @@ id_list:
     id_number: Male
 date_of_birth_list:
   items:
-  - uid: '6496'
-    date_of_birth: '1961'
-    main_entry: 'true'
-  - uid: '6497'
-    date_of_birth: '1963'
-    main_entry: 'false'
-  - uid: '6504'
-    date_of_birth: '1965'
-    main_entry: 'false'
   - uid: '18671'
     date_of_birth: '1959'
     main_entry: 'false'
@@ -50,6 +41,15 @@ date_of_birth_list:
     main_entry: 'false'
   - uid: '18673'
     date_of_birth: 18 Sep 1964
+    main_entry: 'false'
+  - uid: '6496'
+    date_of_birth: '1961'
+    main_entry: 'true'
+  - uid: '6497'
+    date_of_birth: '1963'
+    main_entry: 'false'
+  - uid: '6504'
+    date_of_birth: '1965'
     main_entry: 'false'
 place_of_birth_list:
   items:
