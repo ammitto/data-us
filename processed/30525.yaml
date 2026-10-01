@@ -25,18 +25,18 @@ id_list:
     id_type: National ID No.
     id_number: '3420204688179'
     id_country: Pakistan
-  - uid: '138302'
-    id_type: Email Address
-    id_number: shy4angels@gmail.com
-  - uid: '138303'
-    id_type: Email Address
-    id_number: shahzadsmb@gmail.com
   - uid: '154529'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
   - uid: '139902'
     id_type: Gender
     id_number: Male
+  - uid: '138302'
+    id_type: Email Address
+    id_number: shy4angels@gmail.com
+  - uid: '138303'
+    id_type: Email Address
+    id_number: shahzadsmb@gmail.com
 date_of_birth_list:
   items:
   - uid: '38301'

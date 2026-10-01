@@ -29,12 +29,12 @@ id_list:
   - uid: '200547'
     id_type: Gender
     id_number: Male
-  - uid: '200550'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '200549'
     id_type: 'Executive Order 13846 information:'
     id_number: BLOCKING PROPERTY AND INTERESTS IN PROPERTY.  Sec. 5(a)(iv)
+  - uid: '200550'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '100545'

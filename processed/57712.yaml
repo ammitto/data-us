@@ -17,13 +17,13 @@ id_list:
     id_type: National ID No.
     id_number: 51449229T
     id_country: Spain
+  - uid: '198163'
+    id_type: Gender
+    id_number: Female
   - uid: '198227'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
-  - uid: '198163'
-    id_type: Gender
-    id_number: Female
 date_of_birth_list:
   items:
   - uid: '98165'

@@ -13,9 +13,9 @@ id_list:
     id_number: Male
 date_of_birth_list:
   items:
-  - uid: '22055'
-    date_of_birth: 05 Aug 1964
-    main_entry: 'true'
   - uid: '90859'
     date_of_birth: '1958'
     main_entry: 'false'
+  - uid: '22055'
+    date_of_birth: 05 Aug 1964
+    main_entry: 'true'

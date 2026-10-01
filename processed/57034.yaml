@@ -24,13 +24,6 @@ id_list:
     id_type: Passport
     id_number: '180131469'
     id_country: Korea, North
-  - uid: '196394'
-    id_type: 'Secondary sanctions risk:'
-    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
-  - uid: '196395'
-    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
-      Institutions:'
-    id_number: North Korea Sanctions Regulations section 510.214
   - uid: '196306'
     id_type: Gender
     id_number: Male
@@ -40,6 +33,13 @@ id_list:
   - uid: '196305'
     id_type: Digital Currency Address - ETH
     id_number: '0x95584C303FCd48AF5c6B9873015f2AD0ca84EaE3'
+  - uid: '196394'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '196395'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
 date_of_birth_list:
   items:
   - uid: '96303'

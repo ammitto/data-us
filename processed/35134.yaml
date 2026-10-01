@@ -17,12 +17,12 @@ id_list:
     id_type: National ID No.
     id_number: '3203817519'
     id_country: Ukraine
-  - uid: '154563'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
   - uid: '147079'
     id_type: Gender
     id_number: Male
+  - uid: '154563'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
 date_of_birth_list:
   items:
   - uid: '47078'

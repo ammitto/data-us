@@ -1,0 +1,37 @@
+---
+uid: '58260'
+first_name: Oscar Leonardo
+last_name: MARTINEZ PIRONA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+  - TCO
+address_list:
+  items:
+  - uid: '89506'
+    country: Venezuela
+  - uid: '89507'
+    country: Mexico
+id_list:
+  items:
+  - uid: '52913'
+    id_type: Cedula No.
+    id_number: V-17531390
+    id_country: Venezuela
+  - uid: '200267'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '201207'
+    id_type: Digital Currency Address - TRX
+    id_number: TDxZ1XTZCmqkJJW2eJT362z6omRchJyGBX
+  - uid: '199992'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '99990'
+    date_of_birth: 26 Oct 1984
+    main_entry: 'true'
+remarks: "(Linked To: TREN DE ARAGUA)"

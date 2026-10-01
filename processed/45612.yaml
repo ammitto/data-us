@@ -27,9 +27,9 @@ id_list:
   - uid: '166164'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
-  - uid: '166165'
-    id_type: Target Type
-    id_number: Government Entity
   - uid: '166166'
     id_type: Website
     id_number: https://nahaja.aja.ir
+  - uid: '166165'
+    id_type: Target Type
+    id_number: Government Entity

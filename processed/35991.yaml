@@ -19,6 +19,9 @@ address_list:
     country: Russia
 id_list:
   items:
+  - uid: '149273'
+    id_type: Gender
+    id_number: Male
   - uid: '158081'
     id_type: Email Address
     id_number: pleshevskiy@gmail.com
@@ -31,9 +34,6 @@ id_list:
   - uid: '158084'
     id_type: Email Address
     id_number: pleshevskie@gmail.com
-  - uid: '149273'
-    id_type: Gender
-    id_number: Male
 date_of_birth_list:
   items:
   - uid: '49272'

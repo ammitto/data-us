@@ -20,6 +20,9 @@ address_list:
     country: Lebanon
 id_list:
   items:
+  - uid: '197800'
+    id_type: Website
+    id_number: https://www.globe-co.com
   - uid: '197799'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
@@ -34,7 +37,4 @@ id_list:
   - uid: '198788'
     id_type: 'Organization Type:'
     id_number: Other information technology and computer service activities
-  - uid: '197800'
-    id_type: Website
-    id_number: https://www.globe-co.com
 remarks: "(Linked To: HAMIEH, Alaa Hassan; Linked To: HASHEM, Bahaa Addin)"

@@ -18,6 +18,9 @@ id_list:
     id_type: National ID No.
     id_number: '4490181450'
     id_country: Iran
+  - uid: '196617'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
   - uid: '196482'
     id_type: Gender
     id_number: Male
@@ -30,9 +33,6 @@ id_list:
   - uid: '196492'
     id_type: Digital Currency Address - ETH
     id_number: '0xef85a6fafa5942a964dc618e94e230881d29ce2a'
-  - uid: '196617'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '96480'

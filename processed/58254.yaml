@@ -1,0 +1,40 @@
+---
+uid: '58254'
+first_name: Carlos Javier
+last_name: MARTINEZ ARMENTA
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+  - TCO
+address_list:
+  items:
+  - uid: '89494'
+    country: Mexico
+id_list:
+  items:
+  - uid: '52907'
+    id_type: C.U.R.P.
+    id_number: MAAC910331HDFRRR00
+    id_country: Mexico
+  - uid: '199972'
+    id_type: Gender
+    id_number: Male
+  - uid: '200266'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '201201'
+    id_type: Digital Currency Address - TRX
+    id_number: TCifMAMwst3oEJx8GaNfqZw75dkFUa8vjG
+date_of_birth_list:
+  items:
+  - uid: '99969'
+    date_of_birth: 31 Mar 1991
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '99970'
+    place_of_birth: Mexico City, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: TREN DE ARAGUA)"

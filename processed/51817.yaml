@@ -18,6 +18,12 @@ id_list:
   - uid: '44483'
     id_type: Identification Number
     id_number: IMO 6371374
+  - uid: '182121'
+    id_type: Organization Established Date
+    id_number: '2022'
+  - uid: '182849'
+    id_type: 'Organization Type:'
+    id_number: Transportation and storage
   - uid: '182122'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
@@ -25,9 +31,3 @@ id_list:
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
       589.209
-  - uid: '182121'
-    id_type: Organization Established Date
-    id_number: '2022'
-  - uid: '182849'
-    id_type: 'Organization Type:'
-    id_number: Transportation and storage

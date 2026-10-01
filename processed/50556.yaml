@@ -19,12 +19,12 @@ address_list:
     country: Iran
 id_list:
   items:
-  - uid: '178740'
-    id_type: Gender
-    id_number: Female
   - uid: '179347'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '178740'
+    id_type: Gender
+    id_number: Female
 date_of_birth_list:
   items:
   - uid: '78739'

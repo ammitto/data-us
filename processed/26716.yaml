@@ -42,9 +42,6 @@ id_list:
   - uid: '17373'
     id_type: Passport
     id_number: A11071541
-  - uid: '131444'
-    id_type: Email Address
-    id_number: waleed198811@gmail.com
   - uid: '131442'
     id_type: Gender
     id_number: Male
@@ -61,6 +58,9 @@ id_list:
   - uid: '131447'
     id_type: Phone Number
     id_number: '9647720364973'
+  - uid: '131444'
+    id_type: Email Address
+    id_number: waleed198811@gmail.com
 date_of_birth_list:
   items:
   - uid: '31441'

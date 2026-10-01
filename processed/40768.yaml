@@ -24,12 +24,12 @@ address_list:
     country: Russia
 id_list:
   items:
-  - uid: '158254'
-    id_type: Email Address
-    id_number: ivanalert@mail.ru
   - uid: '158255'
     id_type: Gender
     id_number: Male
+  - uid: '158254'
+    id_type: Email Address
+    id_number: ivanalert@mail.ru
 date_of_birth_list:
   items:
   - uid: '58257'

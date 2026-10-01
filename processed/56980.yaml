@@ -1,0 +1,52 @@
+---
+uid: '56980'
+first_name: Juan Gabriel
+last_name: RIVAS NUNEZ
+sdn_type: Individual
+program_list:
+  programs:
+  - TCO
+  - SDGT
+aka_list:
+  items:
+  - uid: '88283'
+    type: a.k.a.
+    category: strong
+    last_name: APONTE RODRIGUEZ
+    first_name: Wilson Starling
+  - uid: '88284'
+    type: a.k.a.
+    category: weak
+    last_name: Negro Juancho
+  - uid: '88285'
+    type: a.k.a.
+    category: weak
+    last_name: Juancho
+  - uid: '90725'
+    type: a.k.a.
+    category: strong
+    last_name: APONTE RODRIGUEZ
+    first_name: Wilson Stalyn
+address_list:
+  items:
+  - uid: '87186'
+    country: Venezuela
+id_list:
+  items:
+  - uid: '51146'
+    id_type: Cedula No.
+    id_number: '15962862'
+    id_country: Venezuela
+  - uid: '196135'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '196139'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '96136'
+    date_of_birth: 02 Oct 1981
+    main_entry: 'true'
+remarks: "(Linked To: TREN DE ARAGUA)"

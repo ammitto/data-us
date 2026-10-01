@@ -19,12 +19,12 @@ id_list:
     id_type: Passport
     id_number: X8346052
     id_country: Switzerland
-  - uid: '175322'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '158608'
     id_type: Gender
     id_number: Male
+  - uid: '175322'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 date_of_birth_list:
   items:
   - uid: '58607'

@@ -32,12 +32,12 @@ id_list:
     id_number: K61893781
     id_country: Iran
     expiration_date: 24 Feb 2028
-  - uid: '201319'
-    id_type: Gender
-    id_number: Male
   - uid: '201362'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '201319'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '101318'

@@ -44,6 +44,9 @@ id_list:
   - uid: '29372'
     id_type: Business Registration Number
     id_number: '1047796451658'
+  - uid: '157139'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '157140'
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'
@@ -51,7 +54,4 @@ id_list:
   - uid: '157104'
     id_type: Organization Established Date
     id_number: 23 Jun 2004
-  - uid: '157139'
-    id_type: 'Secondary sanctions risk:'
-    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
 remarks: "(Linked To: SEK STUDIO)"

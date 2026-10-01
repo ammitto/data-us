@@ -24,12 +24,12 @@ id_list:
     id_type: Tax ID No.
     id_number: '470305596440'
     id_country: Russia
-  - uid: '147520'
-    id_type: Gender
-    id_number: Male
   - uid: '173832'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '147520'
+    id_type: Gender
+    id_number: Male
   - uid: '151204'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or

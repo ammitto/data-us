@@ -25,6 +25,9 @@ id_list:
   - uid: '196478'
     id_type: Digital Currency Address - ETH
     id_number: '0x1b8579cf6ab12ea6b74ac5fa41f3829a3cb61e6e'
+  - uid: '196615'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
   - uid: '196458'
     id_type: Email Address
     id_number: amandalekhaym@gmail.com
@@ -49,9 +52,6 @@ id_list:
   - uid: '196465'
     id_type: Email Address
     id_number: mojtabaurmia@yahoo.com
-  - uid: '196615'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '96454'

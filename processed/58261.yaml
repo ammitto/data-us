@@ -1,0 +1,37 @@
+---
+uid: '58261'
+first_name: Aslhy Javier
+last_name: GALEANO BASURTO
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+  - TCO
+address_list:
+  items:
+  - uid: '89509'
+    country: Venezuela
+id_list:
+  items:
+  - uid: '52914'
+    id_type: Cedula No.
+    id_number: V-17599710
+    id_country: Venezuela
+  - uid: '200264'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '199996'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '99994'
+    date_of_birth: '09 May 1984'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '101209'
+    place_of_birth: Barinas, Barinas, Venezuela
+    main_entry: 'true'
+remarks: "(Linked To: TREN DE ARAGUA)"

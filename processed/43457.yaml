@@ -27,9 +27,9 @@ id_list:
     id_type: Business Registration Number
     id_number: '818826'
     id_country: United Arab Emirates
-  - uid: '162950'
-    id_type: Organization Established Date
-    id_number: 11 Nov 2018
   - uid: '162951'
     id_type: 'Organization Type:'
     id_number: Non-specialized wholesale trade
+  - uid: '162950'
+    id_type: Organization Established Date
+    id_number: 11 Nov 2018

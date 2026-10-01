@@ -32,13 +32,13 @@ id_list:
     id_type: Government Gazette Number
     id_number: '46260686'
     id_country: Russia
-  - uid: '175372'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
-  - uid: '160253'
-    id_type: Organization Established Date
-    id_number: 02 Nov 2020
   - uid: '160254'
     id_type: 'Organization Type:'
     id_number: Activities of holding companies
+  - uid: '160253'
+    id_type: Organization Established Date
+    id_number: 02 Nov 2020
+  - uid: '175372'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 remarks: "(Linked To: LIMITED LIABILITY COMPANY USM TELECOM)"

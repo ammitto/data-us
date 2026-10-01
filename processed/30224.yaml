@@ -26,6 +26,9 @@ id_list:
     id_type: National ID No.
     id_number: '520103198011285623'
     id_country: China
+  - uid: '137685'
+    id_type: Gender
+    id_number: Female
   - uid: '137688'
     id_type: 'Executive Order 13846 information:'
     id_number: FOREIGN EXCHANGE.  Sec. 5(a)(ii)
@@ -38,9 +41,6 @@ id_list:
   - uid: '137691'
     id_type: 'Executive Order 13846 information:'
     id_number: IMPORT SANCTIONS.  Sec. 5(a)(vi)
-  - uid: '137685'
-    id_type: Gender
-    id_number: Female
 date_of_birth_list:
   items:
   - uid: '37686'

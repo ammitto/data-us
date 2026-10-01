@@ -32,10 +32,6 @@ id_list:
     id_type: National ID No.
     id_number: '288030510000000'
     id_country: Lebanon
-  - uid: '156976'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
   - uid: '156823'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
@@ -43,6 +39,10 @@ id_list:
   - uid: '156769'
     id_type: Gender
     id_number: Male
+  - uid: '156976'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
 date_of_birth_list:
   items:
   - uid: '56767'
