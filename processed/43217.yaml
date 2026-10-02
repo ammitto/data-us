@@ -7,9 +7,6 @@ program_list:
   - RUSSIA-EO14024
 id_list:
   items:
-  - uid: '175637'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '162319'
     id_type: Aircraft Model
     id_number: IL-76
@@ -19,5 +16,8 @@ id_list:
   - uid: '162636'
     id_type: Aircraft Tail Number
     id_number: RA-78850
+  - uid: '175637'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 remarks: "(Linked To: FEDERAL STATE GOVERNMENTAL INSTITUTION 223 FLIGHT UNIT STATE
   AIRLINES OF THE MINISTRY OF DEFENSE OF THE RUSSIAN FEDERATION)"

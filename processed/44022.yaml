@@ -34,9 +34,6 @@ id_list:
     id_type: Tax ID No.
     id_number: '5904100329'
     id_country: Russia
-  - uid: '163594'
-    id_type: Website
-    id_number: www.ao-star.ru
   - uid: '163596'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
@@ -46,4 +43,7 @@ id_list:
   - uid: '175736'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '163594'
+    id_type: Website
+    id_number: www.ao-star.ru
 remarks: "(Linked To: IRAN AIRCRAFT MANUFACTURING INDUSTRIAL COMPANY)"

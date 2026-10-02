@@ -29,10 +29,10 @@ id_list:
     id_type: Tax ID No.
     id_number: '9701058069'
     id_country: Russia
-  - uid: '160169'
-    id_type: Organization Established Date
-    id_number: '2016'
   - uid: '173700'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '160169'
+    id_type: Organization Established Date
+    id_number: '2016'
 remarks: "(Linked To: NEXIGN JOINT STOCK COMPANY)"

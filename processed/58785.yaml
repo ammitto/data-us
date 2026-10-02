@@ -1,0 +1,38 @@
+---
+uid: '58785'
+last_name: PT GOLDEN MOTORCYCLE INTERNATIONAL
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '90932'
+    type: a.k.a.
+    category: strong
+    last_name: GOLDEN MOTORCYCLE INTERNATIONAL LTD
+address_list:
+  items:
+  - uid: '90600'
+    address1: GKM Green Tower Lantai 20
+    address2: Jalan TB Simatupang Kav. 89G
+    address3: Kota Admin. Jakarta Selatan
+    state_or_province: DKI Jakarta
+    postal_code: '12520'
+    country: Indonesia
+  - uid: '90601'
+    address1: J1. Raya Narogong No. 22
+    address2: Tlajung Udik, Kec. Klapanunggal
+    city: Kabupaten Bogar
+    state_or_province: Jawa Barat
+    postal_code: '16710'
+    country: Indonesia
+id_list:
+  items:
+  - uid: '53632'
+    id_type: Tax ID No.
+    id_number: '0626345219017000'
+    id_country: Indonesia
+  - uid: '201758'
+    id_type: Website
+    id_number: https://goldenmotorcycle.id

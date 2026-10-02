@@ -1,0 +1,40 @@
+---
+uid: '58767'
+last_name: SHERKAT-E RAH AHAN-E KHAMLE-O-NAGHLE
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '90979'
+    type: a.k.a.
+    category: weak
+    last_name: RAILWAY TRANSPORTATION COMPANY
+address_list:
+  items:
+  - uid: '90560'
+    address1: No. 124, Nosrat Street
+    address2: North Kargar Street, District 6
+    city: Tehran
+    state_or_province: Tehran Province
+    country: Iran
+id_list:
+  items:
+  - uid: '53600'
+    id_type: Registration Number
+    id_number: '96201'
+    id_country: Iran
+  - uid: '53601'
+    id_type: Company Number
+    id_number: '10101402621'
+    id_country: Iran
+  - uid: '201729'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '201728'
+    id_type: Website
+    id_number: http://rwt.ir/
+  - uid: '201730'
+    id_type: Organization Established Date
+    id_number: 16 Mar 1993

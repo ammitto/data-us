@@ -41,6 +41,9 @@ id_list:
     id_type: Registration Number
     id_number: '1026600000350'
     id_country: Russia
+  - uid: '145947'
+    id_type: Organization Established Date
+    id_number: 01 Sep 1990 to 30 Sep 1990
   - uid: '175137'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
@@ -50,6 +53,3 @@ id_list:
   - uid: '145948'
     id_type: Website
     id_number: www.ubrr.ru
-  - uid: '145947'
-    id_type: Organization Established Date
-    id_number: 01 Sep 1990 to 30 Sep 1990

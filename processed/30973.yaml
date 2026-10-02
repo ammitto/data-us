@@ -14,9 +14,6 @@ address_list:
     country: Iran
 id_list:
   items:
-  - uid: '139192'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '139168'
     id_type: 'Executive Order 13846 information:'
     id_number: LOANS FROM UNITED STATES FINANCIAL INSTITUTIONS.  Sec. 5(a)(i)
@@ -32,3 +29,6 @@ id_list:
   - uid: '139172'
     id_type: 'Executive Order 13846 information:'
     id_number: BAN ON INVESTMENT IN EQUITY OR DEBT OF SANCTIONED PERSON.  Sec. 5(a)(v)
+  - uid: '139192'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

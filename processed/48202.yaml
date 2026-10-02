@@ -21,12 +21,12 @@ id_list:
     id_number: A05050112
     id_country: South Africa
     expiration_date: 17 Nov 2025
-  - uid: '170221'
-    id_type: Gender
-    id_number: Male
   - uid: '172724'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '170221'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '70220'

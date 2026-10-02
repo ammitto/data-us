@@ -11,11 +11,11 @@ id_list:
   - uid: '18575'
     id_type: Vessel Registration Identification
     id_number: IMO 9776523
-  - uid: '133468'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '186989'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
+  - uid: '133468'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 remarks: "(Linked To: KHEDRI JAHAN DARYA CO)"

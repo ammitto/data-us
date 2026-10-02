@@ -1,0 +1,42 @@
+---
+uid: '58762'
+last_name: PARS KHODRO COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '90897'
+    type: a.k.a.
+    category: strong
+    last_name: PARS KHODRO PUBLIC JOINT STOCK COMPANY
+address_list:
+  items:
+  - uid: '90548'
+    address1: Pars Khodro Complex, KM 9 Special Road, Tehran-Karaj Special Road, District
+      21
+    city: Tehran
+    state_or_province: Tehran
+    country: Iran
+  - uid: '90549'
+    address1: PO Box 13445 377
+    city: Tehran
+    state_or_province: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '53590'
+    id_type: Registration Number
+    id_number: '16832'
+    id_country: Iran
+  - uid: '53591'
+    id_type: National ID No.
+    id_number: '10100599444'
+    id_country: Iran
+  - uid: '201862'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '201715'
+    id_type: Organization Established Date
+    id_number: 21 Mar 1956

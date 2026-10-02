@@ -38,10 +38,10 @@ id_list:
     id_type: Legal Entity Number
     id_number: 655600CBSJ4ZQ7UW6B35
     id_country: China
-  - uid: '161790'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '161789'
     id_type: Organization Established Date
     id_number: 18 Mar 2019
+  - uid: '161790'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 remarks: "(Linked To: P.B. SADR CO.)"

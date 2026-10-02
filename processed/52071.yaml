@@ -41,15 +41,15 @@ id_list:
     id_type: National ID No.
     id_number: '4512894535'
     id_country: Russia
+  - uid: '182883'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
   - uid: '182882'
     id_type: Gender
     id_number: Male
   - uid: '182880'
     id_type: Digital Currency Address - ETH
     id_number: '0x1999ef52700c34de7ec2b68a28aafb37db0c5ade'
-  - uid: '182883'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
 date_of_birth_list:
   items:
   - uid: '82881'

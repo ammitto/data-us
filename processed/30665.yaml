@@ -26,10 +26,10 @@ id_list:
     id_type: Registration Number
     id_number: '12427'
     id_country: Syria
-  - uid: '138530'
-    id_type: Organization Established Date
-    id_number: 04 Nov 2019
   - uid: '138531'
     id_type: 'Organization Type:'
     id_number: Manufacture of plastics products
+  - uid: '138530'
+    id_type: Organization Established Date
+    id_number: 04 Nov 2019
 remarks: "(Linked To: KHITI, Amer Taysir)"

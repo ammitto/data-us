@@ -54,12 +54,12 @@ id_list:
     id_type: Government Gazette Number
     id_number: '45267841'
     id_country: Russia
-  - uid: '161488'
-    id_type: 'Organization Type:'
-    id_number: Higher education
-  - uid: '175447'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '161487'
     id_type: Organization Established Date
     id_number: 02 Jun 2000
+  - uid: '175447'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '161488'
+    id_type: 'Organization Type:'
+    id_number: Higher education

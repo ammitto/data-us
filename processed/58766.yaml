@@ -1,0 +1,39 @@
+---
+uid: '58766'
+last_name: RAJA PASSENGER TRAINS COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '90904'
+    type: a.k.a.
+    category: strong
+    last_name: RAJA RAIL TRANSPORTATION COMPANY
+address_list:
+  items:
+  - uid: '90558'
+    address1: No. 159, Karim Khan Zand St.
+    address2: Sanaee St. Intersection
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '53598'
+    id_type: Registration Number
+    id_number: '128209'
+    id_country: Iran
+  - uid: '53599'
+    id_type: Company Number
+    id_number: '10100029590'
+    id_country: Iran
+  - uid: '201725'
+    id_type: Website
+    id_number: www.raja.ir
+  - uid: '201727'
+    id_type: Organization Established Date
+    id_number: '1996'
+  - uid: '201724'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

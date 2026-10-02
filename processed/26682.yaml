@@ -17,12 +17,12 @@ id_list:
     id_type: National ID No.
     id_number: '7201105'
     id_country: Israel
-  - uid: '131339'
-    id_type: Gender
-    id_number: Male
   - uid: '154564'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+  - uid: '131339'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '31338'

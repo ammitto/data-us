@@ -1,0 +1,40 @@
+---
+uid: '58769'
+first_name: Ramin
+last_name: KESHVARDOUST
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13871
+address_list:
+  items:
+  - uid: '90565'
+    city: Hong Kong
+    country: China
+id_list:
+  items:
+  - uid: '53604'
+    id_type: National ID No.
+    id_number: '0063416611'
+    id_country: Iran
+  - uid: '53728'
+    id_type: Passport
+    id_number: W55497664
+    id_country: Iran
+    expiration_date: 27 Dec 2026
+  - uid: '201866'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '201736'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '101942'
+    date_of_birth: 20 May 1983
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '101941'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'

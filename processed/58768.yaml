@@ -1,0 +1,49 @@
+---
+uid: '58768'
+last_name: SAIPA IRANIAN AUTOMOBILE MANUFACTURING COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '90907'
+    type: a.k.a.
+    category: strong
+    last_name: SAIPA HOLDING COMPANY
+  - uid: '90908'
+    type: a.k.a.
+    category: strong
+    last_name: IRANIAN AUTOMOBILE MANUFACTURING COMPANY SAIPA PUBLIC JOINT STOCK
+address_list:
+  items:
+  - uid: '90562'
+    address1: Ground Floor, No 0, 53rd Street (Tehran Expressway - Karaj Shahid Famideh),
+      Vila Shahr, District 12
+    city: Tehran
+    state_or_province: Tehran
+    country: Iran
+  - uid: '90563'
+    address1: PO Box address 13445-1554
+    city: Tehran
+    state_or_province: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '53602'
+    id_type: Registration Number
+    id_number: '11331'
+    id_country: Iran
+  - uid: '53603'
+    id_type: National ID No.
+    id_number: '10100448712'
+    id_country: Iran
+  - uid: '201732'
+    id_type: Organization Established Date
+    id_number: 06 Mar 1967
+  - uid: '201733'
+    id_type: Organization Established Date
+    id_number: '1965'
+  - uid: '201863'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

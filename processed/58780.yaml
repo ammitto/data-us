@@ -1,0 +1,49 @@
+---
+uid: '58780'
+last_name: HEAVY EQUIPMENT PRODUCTION COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '90923'
+    type: a.k.a.
+    category: weak
+    last_name: HEPCO
+address_list:
+  items:
+  - uid: '90587'
+    address1: Ground Floor
+    address2: No. 102 Somayyeh Street, Ramsar Street
+    address3: Government Gate
+    city: Tehran
+    state_or_province: Tehran
+    postal_code: '1581875513'
+    country: Iran
+  - uid: '90588'
+    address1: HEPCO Manufacturing Complex
+    address2: Shahid Bakhtiari Boulevard
+    address3: San'at Square
+    city: Arak
+    state_or_province: Markazi
+    country: Iran
+id_list:
+  items:
+  - uid: '53623'
+    id_type: Company Number
+    id_number: '10100594509'
+    id_country: Iran
+  - uid: '53624'
+    id_type: Registration Number
+    id_number: '16584'
+    id_country: Iran
+  - uid: '201752'
+    id_type: Website
+    id_number: https://hepcoir.com
+  - uid: '201751'
+    id_type: Organization Established Date
+    id_number: 22 Feb 1973
+  - uid: '201840'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

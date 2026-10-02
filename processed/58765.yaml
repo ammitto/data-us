@@ -1,0 +1,41 @@
+---
+uid: '58765'
+last_name: ISLAMIC REPUBLIC OF IRAN RAILWAY COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '90902'
+    type: a.k.a.
+    category: strong
+    last_name: THE RAILWAYS OF ISLAMIC REPUBLIC OF IRAN COMPANY
+address_list:
+  items:
+  - uid: '90556'
+    address1: Ground Floor, Railway Central Building
+    address2: No. 0, Dadman Boulevard
+    address3: Argentina Square, District 6
+    city: Tehran
+    state_or_province: Tehran Province
+    country: Iran
+id_list:
+  items:
+  - uid: '53596'
+    id_type: Registration Number
+    id_number: '70644'
+    id_country: Iran
+  - uid: '53597'
+    id_type: Company Number
+    id_number: '10101155744'
+    id_country: Iran
+  - uid: '201722'
+    id_type: Organization Established Date
+    id_number: 31 Jul 1988
+  - uid: '201723'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '201721'
+    id_type: Website
+    id_number: www.rai.ir

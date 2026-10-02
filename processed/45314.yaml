@@ -19,6 +19,9 @@ id_list:
     id_type: Company Number
     id_number: '755260288'
     id_country: Canada
+  - uid: '166051'
+    id_type: Website
+    id_number: www.valerianlabs.com
   - uid: '165750'
     id_type: Digital Currency Address - XBT
     id_number: bc1qardcxz845jw83vgfvcmewhuxa0ag9gchjwmcfd
@@ -31,6 +34,3 @@ id_list:
   - uid: '165753'
     id_type: Digital Currency Address - USDC
     id_number: '0x983a81ca6FB1e441266D2FbcB7D8E530AC2E05A2'
-  - uid: '166051'
-    id_type: Website
-    id_number: www.valerianlabs.com
