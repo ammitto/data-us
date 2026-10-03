@@ -31,6 +31,9 @@ id_list:
   - uid: '181726'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '181725'
+    id_type: Target Type
+    id_number: Financial Institution
   - uid: '181732'
     id_type: SWIFT/BIC
     id_number: ENGORU2K
@@ -40,6 +43,3 @@ id_list:
   - uid: '181730'
     id_type: Website
     id_number: www.etbank.ru
-  - uid: '181725'
-    id_type: Target Type
-    id_number: Financial Institution

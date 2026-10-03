@@ -22,12 +22,12 @@ id_list:
     id_country: Serbia
     issue_date: 20 Mar 2020
     expiration_date: 20 Mar 2025
-  - uid: '175958'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '165660'
     id_type: Gender
     id_number: Male
+  - uid: '175958'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 date_of_birth_list:
   items:
   - uid: '65658'

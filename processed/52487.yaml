@@ -28,10 +28,10 @@ id_list:
     id_number: Male
 date_of_birth_list:
   items:
-  - uid: '84135'
-    date_of_birth: '2002'
-    main_entry: 'true'
   - uid: '84136'
     date_of_birth: '2003'
     main_entry: 'false'
+  - uid: '84135'
+    date_of_birth: '2002'
+    main_entry: 'true'
 remarks: "(Linked To: THE TERRORGRAM COLLECTIVE)"

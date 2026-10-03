@@ -29,9 +29,6 @@ id_list:
     id_type: Tax ID No.
     id_number: '9725093383'
     id_country: Russia
-  - uid: '184579'
-    id_type: Organization Established Date
-    id_number: 24 Aug 2022
   - uid: '184577'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
@@ -39,3 +36,6 @@ id_list:
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
       589.209
+  - uid: '184579'
+    id_type: Organization Established Date
+    id_number: 24 Aug 2022

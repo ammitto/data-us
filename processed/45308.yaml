@@ -32,6 +32,9 @@ id_list:
     id_type: Unified Social Credit Code (USCC)
     id_number: '913208310676114392'
     id_country: China
+  - uid: '165731'
+    id_type: Phone Number
+    id_number: '8651786800153'
   - uid: '165734'
     id_type: Organization Established Date
     id_number: 26 Apr 2013
@@ -41,6 +44,3 @@ id_list:
   - uid: '165733'
     id_type: Email Address
     id_number: mike@jhminshengpm.com
-  - uid: '165731'
-    id_type: Phone Number
-    id_number: '8651786800153'
