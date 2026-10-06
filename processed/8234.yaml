@@ -1,18 +1,24 @@
 ---
 uid: '8234'
-first_name: Eduardo Ramon
+first_name: Eduardo
 last_name: ARELLANO FELIX
 sdn_type: Individual
 program_list:
   programs:
   - SDNTK
-aka_list:
+address_list:
   items:
-  - uid: '6439'
-    type: a.k.a.
-    category: strong
-    last_name: ARELLANO FELIX
-    first_name: Javier Eduardo
+  - uid: '90259'
+    country: Mexico
+id_list:
+  items:
+  - uid: '53378'
+    id_type: C.U.R.P.
+    id_number: AEFE561110HSLRLD03
+    id_country: Mexico
+  - uid: '201198'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '2621'
@@ -21,5 +27,5 @@ date_of_birth_list:
 place_of_birth_list:
   items:
   - uid: '2622'
-    place_of_birth: Mexico
+    place_of_birth: Sinaloa, Mexico
     main_entry: 'true'

@@ -44,9 +44,6 @@ id_list:
   - uid: '198853'
     id_type: Email Address
     id_number: support@1vpns.com
-  - uid: '198860'
-    id_type: Digital Currency Address - LTC
-    id_number: ltc1qr8ntsedq8tv0svmxqhzvdcdl5k7kntdmnhwep7
   - uid: '198857'
     id_type: Digital Currency Address - XBT
     id_number: bc1qdnr88f4d2yqunnc4mjsguezm6g3mlwe44z5dw8
@@ -65,3 +62,6 @@ id_list:
   - uid: '198856'
     id_type: Digital Currency Address - TRX
     id_number: TUuaxBAWfA5nmsqNfycxYrzEvz4a5GJMGY
+  - uid: '198860'
+    id_type: Digital Currency Address - LTC
+    id_number: ltc1qr8ntsedq8tv0svmxqhzvdcdl5k7kntdmnhwep7

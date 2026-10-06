@@ -8,17 +8,17 @@ program_list:
   - SDNTK
 address_list:
   items:
-  - uid: '5381'
-    address1: Avenida Los Reyes 18108-D, Fraccionamiento Villa de Baja California
-      22684
-    city: Tijuana
-    state_or_province: Baja California
+  - uid: '90295'
     country: Mexico
-  - uid: '5382'
-    address1: c/o Farmacia Vida Suprema, S.A. DE C.V.
-    city: Tijuana
-    state_or_province: Baja California
-    country: Mexico
+id_list:
+  items:
+  - uid: '53381'
+    id_type: C.U.R.P.
+    id_number: OOMF680223HCLRDR09
+    id_country: Mexico
+  - uid: '201213'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '1342'
@@ -29,3 +29,5 @@ place_of_birth_list:
   - uid: '1343'
     place_of_birth: Coahuila, Mexico
     main_entry: 'true'
+remarks: "(Linked To: ARELLANO FELIX, Benjamin Alberto; Linked To: FARMACIA VIDA SUPREMA,
+  S.A. DE C.V.)"

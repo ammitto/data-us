@@ -52,6 +52,9 @@ id_list:
   - uid: '123926'
     id_type: Email Address
     id_number: cmr@cmrbank.ru
+  - uid: '124012'
+    id_type: BIK (RU)
+    id_number: '044525059'
   - uid: '179102'
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'
@@ -62,6 +65,3 @@ id_list:
   - uid: '179193'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
-  - uid: '124012'
-    id_type: BIK (RU)
-    id_number: '044525059'

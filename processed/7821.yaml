@@ -1,6 +1,6 @@
 ---
 uid: '7821'
-first_name: Hector Luis
+first_name: Jesus Hector
 last_name: PALMA SALAZAR
 sdn_type: Individual
 program_list:
@@ -12,18 +12,25 @@ aka_list:
     type: a.k.a.
     category: strong
     last_name: PALMA SALAZAR
-    first_name: Jesus Hector
+    first_name: Hector Luis
+address_list:
+  items:
+  - uid: '90268'
+    country: Mexico
+id_list:
+  items:
+  - uid: '53392'
+    id_type: C.U.R.P.
+    id_number: PASJ620825HSLLLS09
+    id_country: Mexico
+  - uid: '201227'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
-  - uid: '2022'
-    date_of_birth: 29 Apr 1960
-    main_entry: 'true'
   - uid: '2024'
     date_of_birth: 25 Aug 1962
-    main_entry: 'false'
-  - uid: '2025'
-    date_of_birth: 26 Aug 1962
-    main_entry: 'false'
+    main_entry: 'true'
 place_of_birth_list:
   items:
   - uid: '2023'

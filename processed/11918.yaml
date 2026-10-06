@@ -12,6 +12,15 @@ address_list:
     city: Miguel Aleman
     state_or_province: Tamaulipas
     country: Mexico
+id_list:
+  items:
+  - uid: '53391'
+    id_type: C.U.R.P.
+    id_number: MEGJ751118HTSJNN01
+    id_country: Mexico
+  - uid: '201226'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '7660'

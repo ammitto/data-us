@@ -23,14 +23,14 @@ address_list:
     country: Sudan
 id_list:
   items:
-  - uid: '196744'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
   - uid: '192852'
     id_type: Organization Established Date
     id_number: 07 Jan 2020
   - uid: '192853'
     id_type: Target Type
     id_number: Armed Group
+  - uid: '196744'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
 remarks: "(Linked To: SUDANESE MUSLIM BROTHERHOOD)"

@@ -41,6 +41,9 @@ address_list:
     country: Russia
 id_list:
   items:
+  - uid: '126117'
+    id_type: SWIFT/BIC
+    id_number: RFCBRUMM
   - uid: '126672'
     id_type: BIK (RU)
     id_number: '044525257'
@@ -54,6 +57,3 @@ id_list:
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'
     id_number: North Korea Sanctions Regulations section 510.214
-  - uid: '126117'
-    id_type: SWIFT/BIC
-    id_number: RFCBRUMM

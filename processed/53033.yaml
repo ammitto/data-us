@@ -39,6 +39,9 @@ id_list:
   - uid: '185044'
     id_type: Phone Number
     id_number: '989334445690'
+  - uid: '185306'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
   - uid: '185326'
     id_type: Gender
     id_number: Male
@@ -204,9 +207,6 @@ id_list:
   - uid: '185041'
     id_type: Email Address
     id_number: behrouz.p1985@gmail.com
-  - uid: '185306'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '85034'

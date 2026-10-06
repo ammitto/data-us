@@ -36,12 +36,12 @@ id_list:
       13886
 date_of_birth_list:
   items:
-  - uid: '2499'
-    date_of_birth: 06 Jun 1955
-    main_entry: 'true'
   - uid: '45112'
     date_of_birth: 16 Jun 1955
     main_entry: 'false'
+  - uid: '2499'
+    date_of_birth: 06 Jun 1955
+    main_entry: 'true'
 place_of_birth_list:
   items:
   - uid: '2500'

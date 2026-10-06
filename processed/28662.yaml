@@ -33,6 +33,9 @@ id_list:
     id_type: National ID No.
     id_number: '0941786821'
     id_country: Iran
+  - uid: '134466'
+    id_type: Gender
+    id_number: Male
   - uid: '134472'
     id_type: 'Executive Order 13846 information:'
     id_number: FOREIGN EXCHANGE.  Sec. 5(a)(ii)
@@ -45,9 +48,6 @@ id_list:
   - uid: '134475'
     id_type: 'Executive Order 13846 information:'
     id_number: IMPORT SANCTIONS.  Sec. 5(a)(vi)
-  - uid: '134466'
-    id_type: Gender
-    id_number: Male
 date_of_birth_list:
   items:
   - uid: '34464'

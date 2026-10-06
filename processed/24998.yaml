@@ -24,12 +24,12 @@ id_list:
     id_country: Turkey
     issue_date: 12 Aug 2010
     expiration_date: 11 Aug 2020
-  - uid: '128492'
-    id_type: 'Secondary sanctions risk:'
-    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '128197'
     id_type: Gender
     id_number: Male
+  - uid: '128492'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '135297'
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'

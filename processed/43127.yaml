@@ -26,13 +26,13 @@ id_list:
     id_type: Registration Number
     id_number: '1222400012218'
     id_country: Russia
-  - uid: '162110'
-    id_type: 'Organization Type:'
-    id_number: Sea and coastal freight water transport
-  - uid: '162109'
-    id_type: Organization Established Date
-    id_number: 19 May 2022
   - uid: '175548'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '162109'
+    id_type: Organization Established Date
+    id_number: 19 May 2022
+  - uid: '162110'
+    id_type: 'Organization Type:'
+    id_number: Sea and coastal freight water transport
 remarks: "(Linked To: ARCTIC ENERGY GROUP LIMITED LIABILITY COMPANY)"

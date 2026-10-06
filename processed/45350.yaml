@@ -21,6 +21,9 @@ id_list:
     id_type: National ID No.
     id_number: '130531198609030216'
     id_country: China
+  - uid: '165812'
+    id_type: Digital Currency Address - TRX
+    id_number: TTKnV2S1295UrPr7N67Tp9ykNL7xX2Z4Uj
   - uid: '165809'
     id_type: Gender
     id_number: Male
@@ -30,9 +33,6 @@ id_list:
   - uid: '165811'
     id_type: Digital Currency Address - XBT
     id_number: bc1qkfqh5p2qsakseg5gnwen6zh5xf3elmku2xaup29mw3l0wnncy3es880dss
-  - uid: '165812'
-    id_type: Digital Currency Address - TRX
-    id_number: TTKnV2S1295UrPr7N67Tp9ykNL7xX2Z4Uj
 date_of_birth_list:
   items:
   - uid: '65807'

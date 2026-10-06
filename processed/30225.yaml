@@ -25,9 +25,6 @@ id_list:
     id_type: National ID No.
     id_number: S7160185D
     id_country: Singapore
-  - uid: '137693'
-    id_type: Gender
-    id_number: Male
   - uid: '137697'
     id_type: 'Executive Order 13846 information:'
     id_number: FOREIGN EXCHANGE.  Sec. 5(a)(ii)
@@ -40,6 +37,9 @@ id_list:
   - uid: '137700'
     id_type: 'Executive Order 13846 information:'
     id_number: IMPORT SANCTIONS.  Sec. 5(a)(vi)
+  - uid: '137693'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '37694'

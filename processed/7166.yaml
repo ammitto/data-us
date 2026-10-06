@@ -15,13 +15,25 @@ aka_list:
     first_name: Enedina
 address_list:
   items:
-  - uid: '5344'
-    address1: c/o Farmacia Vida Suprema, S.A. DE C.V.
-    city: Tijuana
-    state_or_province: Baja California
+  - uid: '90260'
     country: Mexico
+id_list:
+  items:
+  - uid: '53379'
+    id_type: C.U.R.P.
+    id_number: AEFE610412MSLRLN05
+    id_country: Mexico
+  - uid: '201202'
+    id_type: Gender
+    id_number: Female
 date_of_birth_list:
   items:
   - uid: '1328'
     date_of_birth: 12 Apr 1961
     main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '101343'
+    place_of_birth: Sinaloa, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: ARELLANO FELIX, Benjamin Alberto)"

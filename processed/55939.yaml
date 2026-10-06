@@ -24,16 +24,16 @@ id_list:
     id_type: Registration Number
     id_number: '00014627'
     id_country: Cambodia
-  - uid: '194007'
-    id_type: SWIFT/BIC
-    id_number: PINCKHPPXXX
-  - uid: '194008'
-    id_type: Website
-    id_number: https://princebank.com.kh
   - uid: '194006'
     id_type: Organization Established Date
     id_number: 28 Apr 2015
   - uid: '194111'
     id_type: Target Type
     id_number: Financial Institution
+  - uid: '194007'
+    id_type: SWIFT/BIC
+    id_number: PINCKHPPXXX
+  - uid: '194008'
+    id_type: Website
+    id_number: https://princebank.com.kh
 remarks: "(Linked To: CHEN, Zhi)"

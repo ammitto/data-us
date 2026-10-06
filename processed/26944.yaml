@@ -23,9 +23,6 @@ id_list:
     id_number: '745220480'
     id_country: Korea, North
     expiration_date: 02 Jun 2020
-  - uid: '131799'
-    id_type: Gender
-    id_number: Male
   - uid: '135261'
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'
@@ -33,6 +30,9 @@ id_list:
   - uid: '131800'
     id_type: 'Secondary sanctions risk:'
     id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '131799'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '31798'

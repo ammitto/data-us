@@ -30,9 +30,6 @@ id_list:
   - uid: '192414'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
-  - uid: '191898'
-    id_type: Digital Currency Address - ETH
-    id_number: '0x12de548F79a50D2bd05481C8515C1eF5183666a9'
   - uid: '191900'
     id_type: Organization Established Date
     id_number: 13 Dec 2024
@@ -42,4 +39,7 @@ id_list:
   - uid: '191899'
     id_type: Digital Currency Address - TRX
     id_number: TCFD8N3vM5b4Gr5f1kkajQsodRVNyyAq1d
+  - uid: '191898'
+    id_type: Digital Currency Address - ETH
+    id_number: '0x12de548F79a50D2bd05481C8515C1eF5183666a9'
 remarks: "(Linked To: A7 LIMITED LIABILITY COMPANY)"

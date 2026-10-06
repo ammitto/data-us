@@ -220,13 +220,13 @@ id_list:
   - uid: '172703'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
-  - uid: '146669'
-    id_type: Target Type
-    id_number: Financial Institution
   - uid: '151145'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
       589.209
+  - uid: '146669'
+    id_type: Target Type
+    id_number: Financial Institution
   - uid: '201028'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions

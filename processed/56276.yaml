@@ -9,9 +9,6 @@ program_list:
 address_list:
   items:
   - uid: '86098'
-    address1: Unit 04-05, 16th Floor, The Broadway
-    address2: No. 54-62 Lockhart Road
-    address3: Wanchai
     city: Hong Kong
     country: China
 id_list:
@@ -24,10 +21,10 @@ id_list:
     id_type: Company Number
     id_number: '3161638'
     id_country: Hong Kong
-  - uid: '194349'
-    id_type: Organization Established Date
-    id_number: 10 Jun 2022
   - uid: '194348'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '194349'
+    id_type: Organization Established Date
+    id_number: 10 Jun 2022
 remarks: "(Linked To: MA, Jie)"

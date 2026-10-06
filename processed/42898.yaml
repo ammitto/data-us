@@ -24,12 +24,12 @@ id_list:
     id_country: China
     issue_date: 13 Jun 2007
     expiration_date: 12 Jun 2017
-  - uid: '161758'
-    id_type: Gender
-    id_number: Male
   - uid: '161759'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '161758'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '61755'

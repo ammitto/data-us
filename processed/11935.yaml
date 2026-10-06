@@ -13,21 +13,19 @@ aka_list:
     category: strong
     last_name: HERNANDEZ LECHUGA
     first_name: Raul Lucio
-  - uid: '12686'
-    type: a.k.a.
-    category: strong
-    last_name: HERNANDEZ LECHUGA
-    first_name: Luciano
 address_list:
   items:
   - uid: '18160'
     country: Mexico
-  - uid: '18161'
-    address1: Calle Astros 7
-    address2: Col. Praxedis Balboa
-    city: Matamoros
-    state_or_province: Tamaulipas
-    country: Mexico
+id_list:
+  items:
+  - uid: '53390'
+    id_type: C.U.R.P.
+    id_number: HELL760208HHGRCCO0
+    id_country: Mexico
+  - uid: '201225'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '7586'
@@ -38,6 +36,3 @@ place_of_birth_list:
   - uid: '7587'
     place_of_birth: Hidalgo, Mexico
     main_entry: 'true'
-  - uid: '7588'
-    place_of_birth: Piedras Negras, Coahuila, Mexico
-    main_entry: 'false'

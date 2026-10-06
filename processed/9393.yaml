@@ -15,15 +15,17 @@ aka_list:
     first_name: Abigail
 address_list:
   items:
-  - uid: '11676'
-    address1: c/o GASOLINERAS SAN FERNANDO S.A. DE C.V.
-    city: Saucillo
+  - uid: '90297'
     country: Mexico
-  - uid: '11677'
-    address1: Avenida Novena No. 47
-    city: Saucillo
-    state_or_province: Chihuahua
-    country: Mexico
+id_list:
+  items:
+  - uid: '53385'
+    id_type: C.U.R.P.
+    id_number: TAOA740923MDFPRB02
+    id_country: Mexico
+  - uid: '201219'
+    id_type: Gender
+    id_number: Female
 date_of_birth_list:
   items:
   - uid: '4368'
@@ -34,3 +36,4 @@ place_of_birth_list:
   - uid: '4369'
     place_of_birth: Mexico City, Mexico
     main_entry: 'true'
+remarks: "(Linked To: ARRIOLA MARQUEZ ORGANIZATION)"

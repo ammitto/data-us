@@ -6,18 +6,21 @@ sdn_type: Individual
 program_list:
   programs:
   - SDNTK
-aka_list:
-  items:
-  - uid: '12710'
-    type: a.k.a.
-    category: weak
-    last_name: GILBERTO BARRAGAN
 address_list:
   items:
   - uid: '18198'
     city: Miguel Aleman
     state_or_province: Tamaulipas
     country: Mexico
+id_list:
+  items:
+  - uid: '53388'
+    id_type: C.U.R.P.
+    id_number: BABG700519HTSRLL05
+    id_country: Mexico
+  - uid: '201223'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '7664'

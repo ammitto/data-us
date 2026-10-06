@@ -30,10 +30,10 @@ id_list:
     id_type: Trade License No.
     id_number: HRB 30334
     id_country: Germany
-  - uid: '194430'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '194429'
     id_type: Organization Established Date
     id_number: 29 Jul 2021
+  - uid: '194430'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 remarks: "(Linked To: KLINGE, Marco)"

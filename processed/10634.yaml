@@ -8,16 +8,17 @@ program_list:
   - SDNTK
 address_list:
   items:
-  - uid: '14876'
-    address1: Calle Sierra Madre del Sur No. 1525-A, Infonavit Canadas
-    city: Culiacan
-    state_or_province: Sinaloa
+  - uid: '90293'
     country: Mexico
-  - uid: '14877'
-    address1: c/o COMERCIALIZADORA BRIMAR'S, S.A. DE. C.V.
-    city: Culiacan
-    state_or_province: Sinaloa
-    country: Mexico
+id_list:
+  items:
+  - uid: '53386'
+    id_type: C.U.R.P.
+    id_number: OIOJ650314HSLLJN06
+    id_country: Mexico
+  - uid: '201220'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '6033'
@@ -28,3 +29,5 @@ place_of_birth_list:
   - uid: '6034'
     place_of_birth: Navolato, Sinaloa, Mexico
     main_entry: 'true'
+remarks: "(Linked To: ZAMBADA GARCIA, Ismael; Linked To: CAZAREZ SALAZAR, Victor Emilio;
+  Linked To: CAZARES SALAZAR, Blanca Margarita)"
