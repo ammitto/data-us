@@ -31,12 +31,12 @@ id_list:
     id_number: B97499327
     id_country: Iran
     expiration_date: 29 Feb 2028
-  - uid: '199604'
-    id_type: Gender
-    id_number: Male
   - uid: '199675'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '199604'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '99614'

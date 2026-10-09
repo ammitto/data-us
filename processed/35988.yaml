@@ -19,6 +19,9 @@ address_list:
     country: Russia
 id_list:
   items:
+  - uid: '149264'
+    id_type: Gender
+    id_number: Male
   - uid: '158085'
     id_type: Email Address
     id_number: valentin.karyagin@gmail.com
@@ -31,9 +34,6 @@ id_list:
   - uid: '158088'
     id_type: Email Address
     id_number: v.karyagin@neovox.ru
-  - uid: '149264'
-    id_type: Gender
-    id_number: Male
 date_of_birth_list:
   items:
   - uid: '49263'

@@ -48,9 +48,6 @@ id_list:
     id_type: Registration Number
     id_number: '100726604'
     id_country: Belarus
-  - uid: '143010'
-    id_type: Organization Established Date
-    id_number: 19 Jul 2000
   - uid: '143013'
     id_type: 'Organization Type:'
     id_number: Tour operator activities
@@ -60,3 +57,6 @@ id_list:
   - uid: '143012'
     id_type: Target Type
     id_number: State-Owned Enterprise
+  - uid: '143010'
+    id_type: Organization Established Date
+    id_number: 19 Jul 2000

@@ -44,15 +44,15 @@ id_list:
     id_type: Government Gazette Number
     id_number: '51643627'
     id_country: Russia
-  - uid: '153389'
-    id_type: Target Type
-    id_number: Financial Institution
-  - uid: '153390'
-    id_type: Target Type
-    id_number: State-Owned Enterprise
   - uid: '153391'
     id_type: Organization Established Date
     id_number: '09 Aug 2021'
   - uid: '174630'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '153389'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '153390'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

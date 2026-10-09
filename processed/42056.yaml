@@ -22,14 +22,14 @@ id_list:
     id_type: Tax ID No.
     id_number: '9731087765'
     id_country: Russia
-  - uid: '160268'
-    id_type: 'Organization Type:'
-    id_number: Activities of holding companies
-  - uid: '175376'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '160267'
     id_type: Organization Established Date
     id_number: 17 Jan 2022
+  - uid: '175376'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '160268'
+    id_type: 'Organization Type:'
+    id_number: Activities of holding companies
 remarks: "(Linked To: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU KHOLDINGOVAYA KOMPANIYA
   YUESEM)"

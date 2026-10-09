@@ -20,12 +20,12 @@ id_list:
     id_type: National ID No.
     id_number: '360481198409093811'
     id_country: China
-  - uid: '159471'
-    id_type: Gender
-    id_number: Male
   - uid: '159829'
     id_type: Email Address
     id_number: yasonne@hotmail.com
+  - uid: '159471'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '59472'

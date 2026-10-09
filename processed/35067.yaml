@@ -19,13 +19,13 @@ id_list:
     id_type: National ID No.
     id_number: '7709285116082'
     id_country: South Africa
-  - uid: '146975'
-    id_type: Gender
-    id_number: Male
   - uid: '147119'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
+  - uid: '146975'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '46974'

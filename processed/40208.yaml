@@ -28,6 +28,9 @@ id_list:
     id_type: Tax ID No.
     id_number: '7710907460'
     id_country: Russia
+  - uid: '174033'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
   - uid: '157114'
     id_type: Organization Established Date
     id_number: 22 Feb 2012
@@ -37,7 +40,4 @@ id_list:
   - uid: '157116'
     id_type: 'Organization Type:'
     id_number: Real estate activities on a fee or contract basis
-  - uid: '174033'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
 remarks: "(Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)"

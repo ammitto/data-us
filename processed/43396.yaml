@@ -23,9 +23,9 @@ address_list:
     country: Burma
 id_list:
   items:
-  - uid: '163429'
-    id_type: Organization Established Date
-    id_number: 01 Aug 1937
   - uid: '163447'
     id_type: Target Type
     id_number: Government Entity
+  - uid: '163429'
+    id_type: Organization Established Date
+    id_number: 01 Aug 1937

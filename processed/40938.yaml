@@ -18,9 +18,6 @@ id_list:
     id_type: Commercial Registry Number
     id_number: CD/LSH/RCCM/18-B-00029
     id_country: Congo, Democratic Republic of the
-  - uid: '158577'
-    id_type: 'Secondary sanctions risk:'
-    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '158576'
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'
@@ -28,4 +25,7 @@ id_list:
   - uid: '158578'
     id_type: Organization Established Date
     id_number: 26 Feb 2018
+  - uid: '158577'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
 remarks: "(Linked To: PAK, Hwa Song)"
