@@ -28,16 +28,16 @@ id_list:
     id_type: Business Registration Number
     id_number: '10469466'
     id_country: United Arab Emirates
-  - uid: '173752'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
-  - uid: '160227'
-    id_type: Organization Established Date
-    id_number: 21 Sep 2010
-  - uid: '160226'
-    id_type: Website
-    id_number: www.iruae.ae
   - uid: '160229'
     id_type: 'Organization Type:'
     id_number: Non-specialized wholesale trade
+  - uid: '160226'
+    id_type: Website
+    id_number: www.iruae.ae
+  - uid: '160227'
+    id_type: Organization Established Date
+    id_number: 21 Sep 2010
+  - uid: '173752'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 remarks: "(Linked To: PRIGOZHIN, Yevgeniy Viktorovich)"

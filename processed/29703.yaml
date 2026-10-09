@@ -19,27 +19,6 @@ id_list:
     id_type: Passport
     id_number: '4005504207'
     id_country: Russia
-  - uid: '136632'
-    id_type: Digital Currency Address - ZEC
-    id_number: t1WSKwCDL1QYRRUrCCknEs5tDLhtGVYu9KM
-  - uid: '136690'
-    id_type: Digital Currency Address - BSV
-    id_number: 12sjrrhoFEsedNRhtgwvvRqjFTh8fZTDX9
-  - uid: '136624'
-    id_type: Gender
-    id_number: Male
-  - uid: '136677'
-    id_type: Email Address
-    id_number: antonandreyv@gmail.com
-  - uid: '136682'
-    id_type: Phone Number
-    id_number: '79315403678'
-  - uid: '136627'
-    id_type: Digital Currency Address - LTC
-    id_number: LWnbjLYUfqeokfbWM4FcU7uk2FP2DSxuWS
-  - uid: '136629'
-    id_type: Digital Currency Address - LTC
-    id_number: LaYUy1DGfVSuSF5KbPhbLrm8kRotqiwUJn
   - uid: '136626'
     id_type: Digital Currency Address - XBT
     id_number: 1Fz29BQp82pE3vXXcsZoMNQ3KSHfMzfMe3
@@ -82,6 +61,27 @@ id_list:
   - uid: '154531'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+  - uid: '136632'
+    id_type: Digital Currency Address - ZEC
+    id_number: t1WSKwCDL1QYRRUrCCknEs5tDLhtGVYu9KM
+  - uid: '136690'
+    id_type: Digital Currency Address - BSV
+    id_number: 12sjrrhoFEsedNRhtgwvvRqjFTh8fZTDX9
+  - uid: '136682'
+    id_type: Phone Number
+    id_number: '79315403678'
+  - uid: '136627'
+    id_type: Digital Currency Address - LTC
+    id_number: LWnbjLYUfqeokfbWM4FcU7uk2FP2DSxuWS
+  - uid: '136629'
+    id_type: Digital Currency Address - LTC
+    id_number: LaYUy1DGfVSuSF5KbPhbLrm8kRotqiwUJn
+  - uid: '136624'
+    id_type: Gender
+    id_number: Male
+  - uid: '136677'
+    id_type: Email Address
+    id_number: antonandreyv@gmail.com
 date_of_birth_list:
   items:
   - uid: '36672'

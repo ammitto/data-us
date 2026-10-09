@@ -1,0 +1,44 @@
+---
+uid: '58745'
+first_name: Said Ahmad
+last_name: NOORZAD
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13846
+address_list:
+  items:
+  - uid: '90518'
+    address1: Bahcesehir 2 Kisim Papatya Sokak 8 Cad Ev No 3k Bizimtepevillalari
+    address2: Bahcesehir
+    state_or_province: Istanbul
+    postal_code: '34100'
+    country: Turkey
+id_list:
+  items:
+  - uid: '53564'
+    id_type: National ID No.
+    id_number: '73690125452'
+    id_country: Turkey
+  - uid: '53565'
+    id_type: Passport
+    id_number: U22376912
+    id_country: Turkey
+  - uid: '201659'
+    id_type: 'Executive Order 13846 information:'
+    id_number: BLOCKING PROPERTY AND INTERESTS IN PROPERTY.  Sec. 5(a)(iv)
+  - uid: '201664'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '101662'
+    date_of_birth: 01 Dec 1989
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '101663'
+    place_of_birth: Nimroz, Afghanistan
+    main_entry: 'true'
+remarks: "(Linked To: NOORZAD PETROKIMYA URUNLERI NAKLIYE SANAYI VE TICARET LIMITED
+  SIRKETI)"

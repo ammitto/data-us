@@ -1,0 +1,33 @@
+---
+uid: '58819'
+last_name: STANDWILL SHIPPING LIMITED
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '90674'
+    address1: Room P, 4th Floor, Lladro Centre
+    address2: 72 Hoi Yuen Road, Kwun Tong
+    address3: Kowloon
+    city: Hong Kong
+    country: China
+  - uid: '90675'
+    address1: UG-11 UG/F Soho West
+    address2: 76-82 Castle Peak Rd, Cheung Sha Wan
+    address3: Kowloon
+    city: Hong Kong
+    country: China
+id_list:
+  items:
+  - uid: '53683'
+    id_type: Identification Number
+    id_number: IMO 0275552
+  - uid: '53684'
+    id_type: Business Registration Number
+    id_number: '74188737'
+    id_country: Hong Kong
+  - uid: '201869'
+    id_type: Organization Established Date
+    id_number: 29 Jun 2022

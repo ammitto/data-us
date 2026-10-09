@@ -34,9 +34,6 @@ id_list:
     id_type: Tax ID No.
     id_number: '5039441'
     id_country: Russia
-  - uid: '118414'
-    id_type: Executive Order 13662 Directive Determination -
-    id_number: Subject to Directive 1
   - uid: '173877'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
@@ -54,5 +51,8 @@ id_list:
   - uid: '146870'
     id_type: 'Effective Date (EO 14024 Directive 2):'
     id_number: 26 Mar 2022
+  - uid: '118414'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 1
 remarks: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
   (Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)'

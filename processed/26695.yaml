@@ -45,6 +45,9 @@ id_list:
   - uid: '131373'
     id_type: Gender
     id_number: Male
+  - uid: '131376'
+    id_type: Email Address
+    id_number: mohand.alrawii@gmail.com
   - uid: '186880'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
@@ -52,9 +55,6 @@ id_list:
   - uid: '131379'
     id_type: Phone Number
     id_number: '9647821757598'
-  - uid: '131376'
-    id_type: Email Address
-    id_number: mohand.alrawii@gmail.com
 date_of_birth_list:
   items:
   - uid: '31374'

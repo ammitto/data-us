@@ -64,12 +64,6 @@ id_list:
   - uid: '146028'
     id_type: BIK (RU)
     id_number: '044525555'
-  - uid: '146027'
-    id_type: SWIFT/BIC
-    id_number: PRMSRUMM
-  - uid: '146029'
-    id_type: Website
-    id_number: www.psbank.ru
   - uid: '184272'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
@@ -77,3 +71,9 @@ id_list:
   - uid: '146030'
     id_type: Organization Established Date
     id_number: '2001'
+  - uid: '146027'
+    id_type: SWIFT/BIC
+    id_number: PRMSRUMM
+  - uid: '146029'
+    id_type: Website
+    id_number: www.psbank.ru

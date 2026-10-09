@@ -43,12 +43,6 @@ id_list:
     id_type: Registration ID
     id_number: '1107746723776'
     id_country: Russia
-  - uid: '147088'
-    id_type: Website
-    id_number: novilabmobile.com
-  - uid: '158296'
-    id_type: Website
-    id_number: novilabmobile.ru
   - uid: '158295'
     id_type: 'Organization Type:'
     id_number: Other information technology and computer service activities
@@ -58,6 +52,12 @@ id_list:
   - uid: '147087'
     id_type: Organization Established Date
     id_number: 06 Sep 2010
+  - uid: '147088'
+    id_type: Website
+    id_number: novilabmobile.com
+  - uid: '158296'
+    id_type: Website
+    id_number: novilabmobile.ru
   - uid: '175272'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.

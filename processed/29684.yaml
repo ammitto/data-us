@@ -26,9 +26,6 @@ address_list:
     country: Nicaragua
 id_list:
   items:
-  - uid: '136579'
-    id_type: Website
-    id_number: www.caruna.com.ni
   - uid: '137373'
     id_type: 'Organization Type:'
     id_number: Other financial service activities, except insurance and pension funding
@@ -36,6 +33,9 @@ id_list:
   - uid: '136578'
     id_type: D-U-N-S Number
     id_number: 85-244-5670
+  - uid: '136579'
+    id_type: Website
+    id_number: www.caruna.com.ni
   - uid: '137372'
     id_type: Organization Established Date
     id_number: 13 Oct 1993

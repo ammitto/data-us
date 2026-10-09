@@ -46,9 +46,6 @@ id_list:
     id_type: Government Gazette Number
     id_number: '00231515'
     id_country: Russia
-  - uid: '173489'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '184442'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
@@ -56,3 +53,6 @@ id_list:
   - uid: '152736'
     id_type: Organization Established Date
     id_number: '1969'
+  - uid: '173489'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

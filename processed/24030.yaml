@@ -32,12 +32,12 @@ id_list:
   - uid: '15400'
     id_type: Birth Certificate Number
     id_number: '455'
-  - uid: '126174'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '126132'
     id_type: Gender
     id_number: Male
+  - uid: '126174'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '26125'

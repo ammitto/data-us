@@ -1,0 +1,45 @@
+---
+uid: '58735'
+first_name: Nisarg Samir
+last_name: VORA
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13846
+address_list:
+  items:
+  - uid: '90499'
+    address1: 1301, Building No.5
+    address2: Juhu Prarthana, NS Road No. 5
+    address3: JVPD Scheme, Vile Parle W
+    city: Mumbai
+    state_or_province: Maharashtra
+    postal_code: '400049'
+    country: India
+id_list:
+  items:
+  - uid: '53555'
+    id_type: Passport
+    id_number: Z6466975
+    id_country: India
+  - uid: '53663'
+    id_type: Identification Number
+    id_number: '03556673'
+    id_country: India
+  - uid: '201640'
+    id_type: Gender
+    id_number: Male
+  - uid: '201650'
+    id_type: 'Executive Order 13846 information:'
+    id_number: BLOCKING PROPERTY AND INTERESTS IN PROPERTY.  Sec. 5(a)(iv)
+date_of_birth_list:
+  items:
+  - uid: '101643'
+    date_of_birth: 25 Jul 1988
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '101637'
+    place_of_birth: Mumbai, Maharashtra, India
+    main_entry: 'true'
+remarks: "(Linked To: SSPL SOLUTIONS PRIVATE LIMITED)"

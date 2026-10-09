@@ -20,12 +20,12 @@ id_list:
     id_type: National ID No.
     id_number: S8276308B
     id_country: Singapore
-  - uid: '200561'
-    id_type: Gender
-    id_number: Female
   - uid: '200560'
     id_type: 'Executive Order 13846 information:'
     id_number: BLOCKING PROPERTY AND INTERESTS IN PROPERTY.  Sec. 5(a)(iv)
+  - uid: '200561'
+    id_type: Gender
+    id_number: Female
 date_of_birth_list:
   items:
   - uid: '100564'

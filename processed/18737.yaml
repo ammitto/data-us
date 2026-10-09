@@ -37,13 +37,13 @@ id_list:
     id_type: Registration Number
     id_number: '1045605469744'
     id_country: Russia
-  - uid: '173894'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '151135'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
       589.209
+  - uid: '173894'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
   - uid: '146609'
     id_type: BIK (RU)
     id_number: '044525745'

@@ -39,12 +39,6 @@ id_list:
     id_type: United Social Credit Code Certificate (USCCC)
     id_number: 91210244759941797W
     id_country: China
-  - uid: '134452'
-    id_type: Website
-    id_number: kersino.com
-  - uid: '134453'
-    id_type: Website
-    id_number: dmdschina.com
   - uid: '134512'
     id_type: 'Executive Order 13846 information:'
     id_number: LOANS FROM UNITED STATES FINANCIAL INSTITUTIONS.  Sec. 5(a)(i)
@@ -66,3 +60,9 @@ id_list:
   - uid: '134518'
     id_type: 'Executive Order 13846 information:'
     id_number: SANCTIONS ON PRINCIPAL EXECUTIVE OFFICERS. Sec. 5(a)(vii)
+  - uid: '134452'
+    id_type: Website
+    id_number: kersino.com
+  - uid: '134453'
+    id_type: Website
+    id_number: dmdschina.com

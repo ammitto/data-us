@@ -19,9 +19,6 @@ id_list:
     id_type: Registration Number
     id_number: DMCC-895200
     id_country: United Arab Emirates
-  - uid: '182327'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '183326'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
@@ -29,3 +26,6 @@ id_list:
   - uid: '182332'
     id_type: Organization Established Date
     id_number: 20 Jul 2023
+  - uid: '182327'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

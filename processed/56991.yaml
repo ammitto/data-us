@@ -47,9 +47,6 @@ id_list:
     id_type: Registration Number
     id_number: '1217800148609'
     id_country: Russia
-  - uid: '196167'
-    id_type: Website
-    id_number: opzero.ru
   - uid: '196150'
     id_type: Organization Established Date
     id_number: 27 Sep 2021
@@ -86,3 +83,6 @@ id_list:
   - uid: '196257'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+  - uid: '196167'
+    id_type: Website
+    id_number: opzero.ru

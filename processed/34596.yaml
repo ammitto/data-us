@@ -28,12 +28,12 @@ id_list:
     id_country: Russia
     issue_date: 06 Sep 2013
     expiration_date: 17 Feb 2022
-  - uid: '146013'
-    id_type: Gender
-    id_number: Male
   - uid: '175146'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '146013'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '46011'

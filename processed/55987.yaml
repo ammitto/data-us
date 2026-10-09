@@ -22,10 +22,6 @@ address_list:
     country: 'Region: Gaza'
 id_list:
   items:
-  - uid: '194089'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
   - uid: '194088'
     id_type: Organization Established Date
     id_number: '2006'
@@ -35,4 +31,8 @@ id_list:
   - uid: '194090'
     id_type: Target Type
     id_number: Charity or Nonprofit Organization
+  - uid: '194089'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
 remarks: "(Linked To: HAMAS)"
