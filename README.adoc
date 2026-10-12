@@ -1,7 +1,7 @@
 = United States OFAC Sanctions Lists
 
 image:https://img.shields.io/github/license/ammitto/data-us.svg[License]
-image:https://github.com/ammitto/data-us/actions/workflows/update.yml/badge.svg["Update Status", link="https://github.com/ammitto/data-us/actions/workflows/update.yml"]
+image:https://github.com/ammitto/data-us/actions/workflows/fetch.yml/badge.svg["Update Status", link="https://github.com/ammitto/data-us/actions/workflows/fetch.yml"]
 
 == Purpose
 
@@ -266,31 +266,7 @@ Organization:: Legal entities, companies, and organizations
 Vessel:: Ships and maritime vessels
 Aircraft:: Aircraft subject to sanctions
 
-== Validation and Generation
-
-=== Rake Tasks
-
-The repository provides rake tasks for managing the knowledge graph generation:
-
-[source,shell]
-----
-# Clean all generated API files
-bundle exec rake clean
-
-# Validate source YAML files against schemas
-bundle exec rake validate
-
-# Generate API files from source YAML
-bundle exec rake generate
-
-# Validate and generate in one step
-bundle exec rake build
-
-# Clean and regenerate (recommended for updates)
-bundle exec rake regenerate
-----
-
-=== Validation
+== Validation
 
 The validation process checks all YAML files against their corresponding schemas:
 
@@ -370,54 +346,16 @@ https://www.ammitto.org/authority/us
 
 == Knowledge Graph Integration
 
-This repository's source YAML data feeds into the Ammitto knowledge graph
-using a normalized structure.
+This repository's YAML data feeds into the Ammitto knowledge graph.
 
-=== Data Flow Architecture
-
-The harmonization process transforms source YAML data into JSON-LD knowledge graph nodes:
-
-....
-┌─────────────────────┐     ┌─────────────────────┐     ┌─────────────────────┐
-│   Source YAML       │     │   Ammitto Gem       │     │   JSON-LD Output    │
-│   (sources/)        │────▶│   Transformer       │────▶│   (api/)            │
-│                     │     │                     │     │                     │
-│ • Announcement      │     │ • UsAnnouncement    │     │ • Entity nodes      │
-│ • Sanction details  │     │ • UsEntity          │     │ • Entry nodes       │
-│ • Legal instruments │     │ • UsMeasure         │     │ • Regime nodes      │
-└─────────────────────┘     └─────────────────────┘     └─────────────────────┘
-....
-
-=== Output Directory Structure
-
-The `api/` directory contains the generated JSON-LD knowledge graph:
-
-....
-api/
-├── node/
-│   ├── entity/
-│   │   └── us/
-│   │       └── {local_id}.jsonld         # Entity identity data
-│   ├── entry/
-│   │   └── us/
-│   │       ├── sdn-list/
-│   │       │   └── {local_id}.jsonld     # SDN entries
-│   │       └── consolidated-list/
-│   │           └── {local_id}.jsonld     # Non-SDN entries
-│   ├── regime/
-│   │   ├── us_russia.jsonld
-│   │   ├── us_iran.jsonld
-│   │   └── ...
-│   └── authority/
-│       └── us.jsonld
-├── search-index.json                      # Search index
-└── stats.json                             # Statistics
-....
+Harmonized JSON-LD for this source:
+https://www.ammitto.org/api/v1/sources/us.jsonld
 
 == Directory Structure
 
 ```
 .
+├── processed/              # One YAML file per entity, plus _index.yaml
 ├── sources/                # Source YAML data
 │   ├── sanction-lists/     # Sanction announcements
 │   ├── legal-instruments/  # Legal instruments
@@ -431,8 +369,7 @@ api/
 │   └── ammitto/
 │       └── data_us/
 │           └── validator.rb
-├── api/                    # Generated JSON-LD output
-├── Rakefile                # Build tasks
+├── Rakefile                # Validation task
 └── README.adoc             # This file
 ```
 
@@ -444,8 +381,8 @@ To manually update:
 
 [source,shell]
 ----
-# From the ammitto gem directory
-bundle exec ruby exe/ammitto fetch us --format yaml --output-dir ./sources/sanction-lists/sdn-list
+# From the root of this repository
+bundle exec ammitto fetch us --format yaml --output-dir processed --verbose --prune
 ----
 
 == Related Repositories
