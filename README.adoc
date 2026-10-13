@@ -1,401 +1,125 @@
-= United States OFAC Sanctions Lists
+= Ammitto US OFAC SDN data
 
-image:https://img.shields.io/github/license/ammitto/data-us.svg[License]
-image:https://github.com/ammitto/data-us/actions/workflows/fetch.yml/badge.svg["Update Status", link="https://github.com/ammitto/data-us/actions/workflows/fetch.yml"]
+image:https://github.com/ammitto/data-us/actions/workflows/fetch.yml/badge.svg["Fetch Data", link="https://github.com/ammitto/data-us/actions/workflows/fetch.yml"]
 
-== Purpose
-
-This repository contains sanctioned individuals, entities, and vessels from the
-United States Office of Foreign Assets Control (OFAC) sanctions lists.
+This repository stores the Specially Designated Nationals and Blocked
+Persons List (SDN List) as YAML for Ammitto. The US Treasury's Office of
+Foreign Assets Control (OFAC) publishes the official list; Ammitto generates
+one file per listed individual, entity, vessel or aircraft in `processed/`.
 
 == Source
 
-* **Authority**: United States Department of the Treasury, OFAC
-* **URL**: https://ofac.treasury.gov/sanctions-lists
-* **SDN List**: https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/SDN_ADVANCED.ZIP
-* **Consolidated (Non-SDN)**: https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/CONS_ADVANCED.ZIP
-* **Format**: XML (in ZIP archives)
-* **Update Frequency**: As updated by OFAC
-* **Country Code**: US
+* Publisher: Office of Foreign Assets Control (OFAC), US Department of the Treasury
+* List page: https://ofac.treasury.gov/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists
+* File downloaded (XML): https://www.treasury.gov/ofac/downloads/sdn.xml
 
-== Legal Basis
+OFAC lists individuals and companies owned or controlled by, or acting for or
+on behalf of, targeted countries, and individuals, groups and entities, such as
+terrorists and narcotics traffickers, designated under programs that are not
+country specific. Their assets are blocked.
 
-OFAC administers sanctions under multiple legal authorities:
+== Contents
 
-* *International Emergency Economic Powers Act (IEEPA)*
-* *Trading with the Enemy Act (TWEA)*
-* *Foreign Assistance Act*
-* Various Executive Orders
-* Specific legislation (e.g., CAATSA)
+`processed/` holds one file per SDN entry, named after its OFAC UID:
+`processed/10001.yaml` is UID 10001.
 
-== Lists Included
+`processed/_index.yaml` lists every file, with the time of the last fetch.
 
-* **SDN (Specially Designated Nationals)**: Entities whose assets are blocked
-* **Consolidated Sanctions List**: Non-SDN lists including:
-  * FSE (Foreign Sanctions Evaders)
-  * NS-PLC (Non-SDN Palestinian Legislative Council)
-  * SSI (Sectoral Sanctions Identifications)
-  * etc.
-
-== Source Data Structure
-
-The `sources/` directory contains source data organized by type:
-
-```
-sources/
-├── sanction-lists/                    # Sanction list announcements
-│   ├── sdn-list/                      # SDN List entries
-│   │   ├── entry-001.yml
-│   │   └── ...
-│   └── consolidated-list/             # Consolidated (non-SDN) entries
-│       └── ...
-├── legal-instruments/                 # Legal instruments
-│   ├── executive-orders/
-│   │   ├── eo-14024.yml
-│   │   └── ...
-│   └── statutes/
-│       └── ...
-└── supporting/                        # Reference data
-    ├── document-types.yml             # Document type definitions
-    └── organizations.yml              # Organization definitions
-```
-
-=== Schema Types
-
-Each YAML file follows one of the schema types:
-
-. **Announcement Schema** - Standard sanction announcements with `sanction_details`
-. **Legal Instrument Schema** - Executive orders, statutes, regulations
-
-Schema files are located in `schemas/`:
-
-* `schemas/us-announcement.yml` - For sanction list announcements
-* `schemas/us-legal-instrument.yml` - For legal instruments
-* `schemas/document-types.yml` - Supporting schema for document types
-* `schemas/organizations.yml` - Supporting schema for organizations
-
-=== Supporting Data
-
-The `sources/supporting/` directory contains reference data used across the repository:
-
-==== Document Types (`document-types.yml`)
-
-[cols="1,2,2"]
+[cols="1,1,3"]
 |===
-| ID | Name (English) | Name (Chinese)
+| Key | Type | Meaning
 
-| `us/executive-order`
-| Executive Order
-| 行政命令
-
-| `us/federal-register-notice`
-| Federal Register Notice
-| 联邦公报通知
-
-| `us/public-law`
-| Public Law
-| 公法
-
-| `us/regulation`
-| Regulation
-| 法规
-
-| `us/determination`
-| Determination
-| 认定
-
-| `us/designation`
-| Designation
-| 指定
-
+| `uid` | string | OFAC UID of the entry
+| `sdn_type` | string | `Individual`, `Entity`, `Vessel` or `Aircraft`
+| `last_name` | string | Family name, or the whole name for entities, vessels and aircraft
+| `first_name` | string | Individuals: given names
+| `title` | string | Title or position, where given
+| `program_list.programs` | list | Sanctions program codes, such as `SDNT`
+| `aka_list.items` | list | Other names: `last_name`, `first_name`, `type` and `category`
+| `address_list.items` | list | `address1` to `address3`, `city`, `state_or_province`, `postal_code`, `country`
+| `id_list.items` | list | Identifiers: `id_type`, `id_number`, `id_country`, `issue_date`, `expiration_date`
+| `date_of_birth_list.items` | list | `date_of_birth` and `main_entry`
+| `place_of_birth_list.items` | list | `place_of_birth` and `main_entry`
+| `remarks` | string | Remarks published with the entry
 |===
 
-==== Organizations (`organizations.yml`)
+Items in these lists also carry their own OFAC `uid`.
 
-[cols="1,2,2"]
-|===
-| ID | Name | Type
+`sources/` holds a hand-curated sample entry and supporting reference data,
+with their schemas in `schemas/`; the daily fetch does not update it.
+`downloaded/us-govt-data.xml` is an empty file and `update.log` an older log;
+the daily fetch updates neither. `processed/` is the list.
 
-| `us/treasury`
-| Department of the Treasury
-| ministry
+== Using the data
 
-| `us/ofac`
-| Office of Foreign Assets Control
-| agency
+Clone or download this repository and run either example from its root
+directory. The Python example requires PyYAML
+(`python3 -m pip install PyYAML`).
 
-| `us/state`
-| Department of State
-| ministry
+Ruby:
 
-| `us/commerce`
-| Department of Commerce
-| ministry
-
-| `us/bis`
-| Bureau of Industry and Security
-| agency
-
-| `us/whitehouse`
-| The White House
-| authority
-
-|===
-
-== Source Data Format
-
-=== Sanction Announcement Schema
-
-[source,yaml]
+[source,ruby]
 ----
-# yaml-language-server: $schema=../../schemas/us-announcement.yml
----
-id: us/sdn-2024-001
-announcement:
-  title: "Treasury Sanctions Russian Entities"
-  url: "https://home.treasury.gov/news/press-releases/..."
-  publish_date: "2024-01-15"
-  document_id: "FR Doc. 2024-12345"
-  document_type: us/designation
-  authority: us/ofac
-  publisher: us/treasury
-  lang: en
-  content: |
-    The Department of the Treasury's Office of Foreign Assets Control...
+require "yaml"
 
-sanction_details:
-  - entity:
-      type: organization
-      uid: "12345"
-      name:
-        full_name: "EXAMPLE CORPORATION LTD"
-        script: Latn
-      aliases:
-        - name: "Example Corp"
-          type: aka
-          category: strong
-      identifiers:
-        - type: Registration Number
-          number: "12345678"
-          issuing_country: RU
-      addresses:
-        - street: "123 Main Street"
-          city: "Moscow"
-          country: "Russia"
-          country_code: RU
-      remarks: "For additional information on..."
-
-    measures:
-      - type: asset_freeze
-        description:
-          en: "All property and interests in property are blocked"
-      - type: trade_restriction
-        description:
-          en: "Trade restrictions apply"
-
-    programs:
-      - UKRAINE
-      - RUS
-
-    reasons:
-      - category: "national_security"
-        description:
-          en: "Operating in the defense sector of the Russian Federation economy"
-
-    period:
-      effective_date: "2024-01-15"
-      is_indefinite: true
-
-legal_citations:
-  - legal_instrument_id: us/eo-14024
-    citation_type: legal_basis
-
-group_id: us/russia-sanctions-2024-01
+Dir.glob("processed/[0-9]*.yaml").sort.each do |path|
+  record = YAML.safe_load_file(path)
+  name = [record["first_name"], record["last_name"]].compact.join(" ")
+  programs = record["program_list"]["programs"].join(",")
+  puts [record["uid"], record["sdn_type"], programs, name].join("\t")
+end
 ----
 
-=== US Program Codes
+Python:
 
-[cols="1,3"]
-|===
-| Code | Description
-
-| `SDGT`
-| Specially Designated Global Terrorist
-
-| `SDT`
-| Specially Designated Terrorist
-
-| `SDNTK`
-| Specially Designated Narcotics Trafficker
-
-| `SDNT`
-| Specially Designated Nationals (Drug Trafficking)
-
-| `CUBA`
-| Cuba Sanctions
-
-| `IRAN`
-| Iran Sanctions
-
-| `IRAQ2`
-| Iraq Sanctions
-
-| `CYBER2`
-| Cyber-related Sanctions
-
-| `RUS`
-| Russia-related Sanctions
-
-| `UKRAINE`
-| Ukraine-related Sanctions
-
-| `SRF`
-| Syria-Related Sanctions
-
-| `NKRK`
-| North Korea Sanctions
-
-|===
-
-=== Entity Types
-
-The US sanctions list contains the following entity types:
-
-Person:: Individual persons subject to sanctions
-Organization:: Legal entities, companies, and organizations
-Vessel:: Ships and maritime vessels
-Aircraft:: Aircraft subject to sanctions
-
-== Validation
-
-The validation process checks all YAML files against their corresponding schemas:
-
-[source,shell]
+[source,python]
 ----
-bundle exec rake validate
+import glob
+import yaml
+
+for path in sorted(glob.glob("processed/[0-9]*.yaml")):
+    with open(path, encoding="utf-8") as f:
+        record = yaml.safe_load(f)
+    name = " ".join(p for p in (record.get("first_name"), record["last_name"]) if p)
+    programs = ",".join(record["program_list"]["programs"])
+    print(record["uid"], record["sdn_type"], programs, name, sep="\t")
 ----
 
-== Harmonized Data Format
-
-After harmonization, entities are transformed into JSON-LD format using the
-Ammitto gem's harmonized models.
-
-=== Entity (JSON-LD)
-
-[source,json]
-----
-{
-  "@context": "https://www.ammitto.org/schema/v1/context.jsonld",
-  "@id": "https://www.ammitto.org/entity/us/36",
-  "@type": "OrganizationEntity",
-  "entityType": "organization",
-  "names": [
-    {
-      "@type": "NameVariant",
-      "fullName": "AEROCARIBBEAN AIRLINES",
-      "script": "Latn",
-      "isPrimary": true
-    }
-  ],
-  "sanctionEntryIds": [
-    "https://www.ammitto.org/entry/us/sdn-list/36"
-  ]
-}
-----
-
-=== IRI Structure
-
-All resources use normalized IRIs:
-
-```
-# Entity (list-agnostic)
-https://www.ammitto.org/entity/us/{local_id}
-
-# Entry (list-specific)
-https://www.ammitto.org/entry/us/{list_type}/{local_id}
-
-# List
-https://www.ammitto.org/list/us/{list_type}
-
-# Legal Instrument
-https://www.ammitto.org/legal-instrument/us/{instrument_id}
-
-# Authority
-https://www.ammitto.org/authority/us
-```
-
-=== Available List Types
-
-[cols="1,2"]
-|===
-| List Type | Description
-
-| `sdn-list`
-| Specially Designated Nationals and Blocked Persons
-
-| `consolidated-list`
-| Consolidated Sanctions List (Non-SDN)
-
-| `fse-list`
-| Foreign Sanctions Evaders List
-
-| `ssi-list`
-| Sectoral Sanctions Identifications List
-
-|===
-
-== Knowledge Graph Integration
-
-This repository's YAML data feeds into the Ammitto knowledge graph.
-
-Harmonized JSON-LD for this source:
+The same list, harmonized with the other sources into JSON-LD:
 https://www.ammitto.org/api/v1/sources/us.jsonld
 
-== Directory Structure
+== Updates
 
-```
-.
-├── processed/              # One YAML file per entity, plus _index.yaml
-├── sources/                # Source YAML data
-│   ├── sanction-lists/     # Sanction announcements
-│   ├── legal-instruments/  # Legal instruments
-│   └── supporting/         # Reference data
-├── schemas/                # JSON Schema definitions
-│   ├── us-announcement.yml
-│   ├── us-legal-instrument.yml
-│   ├── document-types.yml
-│   └── organizations.yml
-├── lib/                    # Ruby libraries
-│   └── ammitto/
-│       └── data_us/
-│           └── validator.rb
-├── Rakefile                # Validation task
-└── README.adoc             # This file
-```
+The `Fetch Data` workflow (`.github/workflows/fetch.yml`) downloads the list
+every day at 06:45 UTC and commits any change to `processed/`. It runs with
+`--prune`, so an entry OFAC has removed is deleted here on the next fetch.
 
-== Updating Data
+== Maintaining the data
 
-Data is automatically updated via GitHub Actions when OFAC publishes new data.
-
-To manually update:
+The link:.github/workflows/fetch.yml[fetch workflow] uses Ruby 3.3 and Bundler.
+To refresh `processed/` locally, install the link:Gemfile[Gemfile] dependencies
+and run the same command from the repository root:
 
 [source,shell]
 ----
-# From the root of this repository
+bundle install
 bundle exec ammitto fetch us --format yaml --output-dir processed --verbose --prune
 ----
 
-== Related Repositories
+This regenerates `processed/` and removes entries absent from the fetched
+list. Fetching and parsing are implemented in the
+https://github.com/ammitto/ammitto[Ammitto gem].
 
-* https://github.com/ammitto/ammitto[ammitto] - Main Ruby gem with harmonization
-* https://github.com/ammitto/data[data] - Harmonized knowledge graph output
-* https://github.com/ammitto/ammitto.github.io[ammitto.github.io] - Website with search
-* https://github.com/ammitto/data-cn[data-cn] - China sanctions data
-* https://github.com/ammitto/data-eu[data-eu] - EU sanctions data
-* https://github.com/ammitto/data-un[data-un] - UN sanctions data
-* https://github.com/ammitto/data-uk[data-uk] - UK sanctions data
+For edits to the curated samples and reference data in `sources/`, run
+`bundle exec rake validate`. The link:Rakefile[Rakefile] checks only those
+source files against `schemas/`.
 
 == License
 
 Data is sourced from official U.S. government publications (public domain).
 Repository structure and processing code are under the MIT License.
+
+== Related
+
+* https://www.ammitto.org[ammitto.org]: search across all sources
+* https://github.com/ammitto/ammitto[ammitto]: the Ruby gem that fetches and harmonizes this data
