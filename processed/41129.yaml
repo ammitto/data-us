@@ -31,10 +31,10 @@ address_list:
     country: China
 id_list:
   items:
-  - uid: '159309'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '159094'
     id_type: Registration Country
     id_number: China
+  - uid: '159309'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 remarks: "(Linked To: IRAN AIRCRAFT MANUFACTURING INDUSTRIAL COMPANY)"

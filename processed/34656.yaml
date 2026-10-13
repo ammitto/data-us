@@ -55,12 +55,12 @@ id_list:
     id_type: Government Gazette Number
     id_number: '40148343'
     id_country: Russia
-  - uid: '172693'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '146031'
     id_type: Target Type
     id_number: Financial Institution
+  - uid: '172693'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
   - uid: '146028'
     id_type: BIK (RU)
     id_number: '044525555'

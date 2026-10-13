@@ -39,9 +39,6 @@ id_list:
   - uid: '196283'
     id_type: Gender
     id_number: Male
-  - uid: '196315'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '198458'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
@@ -49,6 +46,9 @@ id_list:
   - uid: '196301'
     id_type: Phone Number
     id_number: '989121810513'
+  - uid: '196315'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '96285'

@@ -23,9 +23,6 @@ address_list:
     country: 'Region: Commonwealth of Independent States'
 id_list:
   items:
-  - uid: '149669'
-    id_type: Organization Established Date
-    id_number: '2015'
   - uid: '149687'
     id_type: Digital Currency Address - XBT
     id_number: 3K4rjdh8A5yi6LWvft2rbmyZvqEbPSSSX4
@@ -380,6 +377,9 @@ id_list:
   - uid: '154568'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+  - uid: '149669'
+    id_type: Organization Established Date
+    id_number: '2015'
   - uid: '149667'
     id_type: Website
     id_number: http://hydram6esdjf6otepmr5c3vjyndsoddz22afphbbjznwb5ln2c6op7ad.onion/

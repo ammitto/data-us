@@ -32,12 +32,12 @@ id_list:
     id_type: Passport
     id_number: NNJ8FR670
     id_country: Netherlands
-  - uid: '156447'
-    id_type: Gender
-    id_number: Male
   - uid: '156448'
     id_type: Email Address
     id_number: mdk1987@hotmail.nl
+  - uid: '156447'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '56445'

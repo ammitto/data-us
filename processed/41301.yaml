@@ -30,6 +30,12 @@ id_list:
     id_country: China
     issue_date: 18 Mar 2016
     expiration_date: 18 Mar 2036
+  - uid: '161367'
+    id_type: Website
+    id_number: www.yolimachine.com
+  - uid: '159450'
+    id_type: Email Address
+    id_number: guoruiguang2016@126.com
   - uid: '159449'
     id_type: Gender
     id_number: Female
@@ -39,12 +45,6 @@ id_list:
   - uid: '162767'
     id_type: Phone Number
     id_number: '867523323959'
-  - uid: '161367'
-    id_type: Website
-    id_number: www.yolimachine.com
-  - uid: '159450'
-    id_type: Email Address
-    id_number: guoruiguang2016@126.com
 date_of_birth_list:
   items:
   - uid: '59448'

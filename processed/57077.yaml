@@ -27,6 +27,10 @@ id_list:
     id_type: Trade License No.
     id_number: '55876625'
     id_country: Netherlands
+  - uid: '196590'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
+      Sanctions Regulations
   - uid: '196591'
     id_type: Organization Established Date
     id_number: 16 Aug 2012
@@ -37,8 +41,4 @@ id_list:
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
-  - uid: '196590'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
-      Sanctions Regulations
 remarks: "(Linked To: MOOSAVI, Seyed Naiemaei Badroddin)"

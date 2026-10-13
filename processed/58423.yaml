@@ -1,0 +1,37 @@
+---
+uid: '58423'
+last_name: CLUB LA MOLIENDA
+sdn_type: Entity
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+aka_list:
+  items:
+  - uid: '90395'
+    type: a.k.a.
+    category: strong
+    last_name: LA MOLIENDA RACE TRACK
+  - uid: '90396'
+    type: a.k.a.
+    category: strong
+    last_name: RESTAURANT BAR LA MOLIENDA
+address_list:
+  items:
+  - uid: '89846'
+    city: Nuevo Laredo
+    state_or_province: Tamaulipas
+    country: Mexico
+id_list:
+  items:
+  - uid: '200584'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '200519'
+    id_type: 'Organization Type:'
+    id_number: Operation of sports facilities
+  - uid: '200520'
+    id_type: 'Organization Type:'
+    id_number: Restaurants and mobile food service activities
+remarks: "(Linked To: CARTEL DEL NORESTE)"

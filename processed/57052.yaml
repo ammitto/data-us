@@ -20,12 +20,12 @@ id_list:
     id_type: Passport
     id_number: A65005073
     id_country: Iran
-  - uid: '196334'
-    id_type: Gender
-    id_number: Male
   - uid: '196357'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '196334'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '96333'

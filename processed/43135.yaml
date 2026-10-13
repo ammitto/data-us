@@ -7,9 +7,6 @@ program_list:
   - RUSSIA-EO14024
 id_list:
   items:
-  - uid: '175556'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '162120'
     id_type: Aircraft Manufacture Date
     id_number: 30 Jan 1986
@@ -22,4 +19,7 @@ id_list:
   - uid: '162561'
     id_type: Aircraft Tail Number
     id_number: RA-76669
+  - uid: '175556'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 remarks: "(Linked To: JOINT STOCK COMPANY THE 224TH FLIGHT UNIT STATE AIRLINES)"

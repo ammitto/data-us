@@ -1,0 +1,42 @@
+---
+uid: '58417'
+first_name: Francisco Javier
+last_name: INZUNZA PARTIDA
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '90385'
+    type: a.k.a.
+    category: strong
+    last_name: AMADOR INZUNZA
+    first_name: Francisco
+  - uid: '90386'
+    type: a.k.a.
+    category: weak
+    last_name: Pancho Amador
+address_list:
+  items:
+  - uid: '89834'
+    country: Mexico
+id_list:
+  items:
+  - uid: '53154'
+    id_type: C.U.R.P.
+    id_number: IUPF861121HCLNRR09
+    id_country: Mexico
+  - uid: '200505'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '100502'
+    date_of_birth: 21 Nov 1986
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '100503'
+    place_of_birth: Coahuila, Mexico
+    main_entry: 'true'

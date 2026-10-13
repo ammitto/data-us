@@ -1,0 +1,41 @@
+---
+uid: '58421'
+last_name: CONSTRUCCIONES Y EDIFICACIONES GARZA ELIAS, S.A. DE C.V.
+sdn_type: Entity
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+aka_list:
+  items:
+  - uid: '90391'
+    type: a.k.a.
+    category: strong
+    last_name: CEGESA S.A. DE C.V.
+  - uid: '90392'
+    type: a.k.a.
+    category: strong
+    last_name: CEGESA
+address_list:
+  items:
+  - uid: '89842'
+    city: Anahuac
+    state_or_province: Nuevo Leon
+    country: Mexico
+id_list:
+  items:
+  - uid: '53158'
+    id_type: Folio Mercantil No.
+    id_number: '5576'
+    id_country: Mexico
+  - uid: '200586'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '200517'
+    id_type: Organization Established Date
+    id_number: '09 Mar 2016'
+  - uid: '200516'
+    id_type: 'Organization Type:'
+    id_number: Construction of buildings
+remarks: "(Linked To: GARZA GARCIA, Gamaliel)"

@@ -31,6 +31,9 @@ id_list:
     id_type: Tax ID No.
     id_number: '7744003007'
     id_country: Russia
+  - uid: '181676'
+    id_type: Target Type
+    id_number: Financial Institution
   - uid: '181677'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
@@ -40,6 +43,3 @@ id_list:
   - uid: '181678'
     id_type: Website
     id_number: waybank.ru
-  - uid: '181676'
-    id_type: Target Type
-    id_number: Financial Institution

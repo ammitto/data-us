@@ -35,6 +35,10 @@ id_list:
     id_type: Company Number
     id_number: '38676649'
     id_country: Iraq
+  - uid: '197767'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
   - uid: '197759'
     id_type: Organization Established Date
     id_number: 12 Apr 2010
@@ -47,8 +51,4 @@ id_list:
   - uid: '197761'
     id_type: Website
     id_number: gulfenergy.info
-  - uid: '197767'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
 remarks: "(Linked To: AL-BEHADILI, Mustafa Hashim Lazim)"

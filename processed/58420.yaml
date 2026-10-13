@@ -1,0 +1,39 @@
+---
+uid: '58420'
+first_name: Gamaliel
+last_name: GARZA ELIAS
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+address_list:
+  items:
+  - uid: '89840'
+    city: Anahuac
+    state_or_province: Nuevo Leon
+    country: Mexico
+id_list:
+  items:
+  - uid: '53157'
+    id_type: C.U.R.P.
+    id_number: GAEG970710HTSRLM04
+    id_country: Mexico
+  - uid: '200588'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '200515'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '100512'
+    date_of_birth: 10 Jul 1997
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '100513'
+    place_of_birth: Nuevo Laredo, Tamaulipas, Mexico
+    main_entry: 'true'
+remarks: "(Linked To: CONSTRUCCIONES Y EDIFICACIONES GARZA ELIAS, S.A. DE C.V.)"

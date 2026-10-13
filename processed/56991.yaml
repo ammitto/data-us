@@ -47,28 +47,6 @@ id_list:
     id_type: Registration Number
     id_number: '1217800148609'
     id_country: Russia
-  - uid: '196150'
-    id_type: Organization Established Date
-    id_number: 27 Sep 2021
-  - uid: '196151'
-    id_type: 'Organization Type:'
-    id_number: Computer programming activities
-  - uid: '196261'
-    id_type: 'PAIPA Section 2 Information:'
-    id_number: BLOCKING OF PROPERTY (entity). Sec.2(b)(1)(A) - All property and interests
-      in property of this entity are blocked, and all transactions with this entity
-      are prohibited, except for the importation of goods.
-  - uid: '196262'
-    id_type: 'PAIPA Section 2 Information:'
-    id_number: LOANS FROM UNITED STATES FINANCIAL INSTITUTIONS. Sec.2(b)(1)(D) - United
-      States financial institutions are prohibited from making loans or providing
-      credits to this entity totaling more than $10,000,000 in any 12-month period,
-      subject to the exception set forth in PAIPA Section 2(b)(1)(D).
-  - uid: '196263'
-    id_type: 'PAIPA Section 2 Information:'
-    id_number: FOREIGN EXCHANGE. Sec.2(b)(1)(H) - Transactions in foreign exchange
-      that are subject to the jurisdiction of the United States and in which this
-      entity has any interest are prohibited.
   - uid: '196264'
     id_type: 'PAIPA Section 2 Information:'
     id_number: BANKING TRANSACTIONS. Sec.2(b)(1)(I) - Any transfers of credit or payments
@@ -80,6 +58,28 @@ id_list:
     id_number: BAN ON INVESTMENT IN EQUITY OR DEBT OF SANCTIONED PERSON. Sec.2(b)(1)(J)
       - Any United States person is prohibited from investing in or purchasing significant
       amounts of equity or debt instruments of this entity.
+  - uid: '196263'
+    id_type: 'PAIPA Section 2 Information:'
+    id_number: FOREIGN EXCHANGE. Sec.2(b)(1)(H) - Transactions in foreign exchange
+      that are subject to the jurisdiction of the United States and in which this
+      entity has any interest are prohibited.
+  - uid: '196262'
+    id_type: 'PAIPA Section 2 Information:'
+    id_number: LOANS FROM UNITED STATES FINANCIAL INSTITUTIONS. Sec.2(b)(1)(D) - United
+      States financial institutions are prohibited from making loans or providing
+      credits to this entity totaling more than $10,000,000 in any 12-month period,
+      subject to the exception set forth in PAIPA Section 2(b)(1)(D).
+  - uid: '196261'
+    id_type: 'PAIPA Section 2 Information:'
+    id_number: BLOCKING OF PROPERTY (entity). Sec.2(b)(1)(A) - All property and interests
+      in property of this entity are blocked, and all transactions with this entity
+      are prohibited, except for the importation of goods.
+  - uid: '196150'
+    id_type: Organization Established Date
+    id_number: 27 Sep 2021
+  - uid: '196151'
+    id_type: 'Organization Type:'
+    id_number: Computer programming activities
   - uid: '196257'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201

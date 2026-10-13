@@ -1,0 +1,34 @@
+---
+uid: '58416'
+last_name: TAMEX LOGISTICS
+sdn_type: Entity
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '90383'
+    type: a.k.a.
+    category: strong
+    last_name: TAMEX LEASING
+address_list:
+  items:
+  - uid: '89832'
+    address1: Villa de Hidalgo 239
+    address2: Granjas Guzman
+    city: Nuevo Laredo
+    state_or_province: Tamaulipas
+    postal_code: '88293'
+    country: Mexico
+id_list:
+  items:
+  - uid: '53152'
+    id_type: Codigo Alfanumerico Armonizado del Transportista (CAAT)
+    id_number: '7547'
+    id_country: Mexico
+  - uid: '53153'
+    id_type: Standard Carrier Alpha Code (SCAC)
+    id_number: TLOJ
+  - uid: '200501'
+    id_type: 'Organization Type:'
+    id_number: Transportation and storage

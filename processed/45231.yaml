@@ -37,9 +37,6 @@ id_list:
     id_type: Registration Number
     id_number: '5177746315588'
     id_country: Russia
-  - uid: '175955'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '165644'
     id_type: Website
     id_number: structura.pro
@@ -49,3 +46,6 @@ id_list:
   - uid: '165646'
     id_type: 'Organization Type:'
     id_number: Other information technology and computer service activities
+  - uid: '175955'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

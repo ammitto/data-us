@@ -27,12 +27,12 @@ address_list:
     country: Mexico
 id_list:
   items:
-  - uid: '161588'
-    id_type: 'Organization Type:'
-    id_number: Wholesale of other machinery and equipment
   - uid: '160233'
     id_type: Website
     id_number: https://mexpackingsolutions.com
   - uid: '160234'
     id_type: Website
     id_number: www.mexpacking.com
+  - uid: '161588'
+    id_type: 'Organization Type:'
+    id_number: Wholesale of other machinery and equipment

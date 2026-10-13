@@ -23,12 +23,12 @@ address_list:
     country: Russia
 id_list:
   items:
-  - uid: '158080'
-    id_type: Email Address
-    id_number: wet-dhg@rambler.ru
   - uid: '149270'
     id_type: Gender
     id_number: Male
+  - uid: '158080'
+    id_type: Email Address
+    id_number: wet-dhg@rambler.ru
 date_of_birth_list:
   items:
   - uid: '49269'

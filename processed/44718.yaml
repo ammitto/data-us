@@ -27,10 +27,6 @@ id_list:
     id_type: Passport
     id_number: '731969851'
     id_country: Russia
-  - uid: '164899'
-    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
-      Institutions:'
-    id_number: North Korea Sanctions Regulations section 510.214
   - uid: '164893'
     id_type: Email Address
     id_number: semenov.roma@gmail.com
@@ -43,6 +39,10 @@ id_list:
   - uid: '164896'
     id_type: Email Address
     id_number: poma@tornado.cash
+  - uid: '164899'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
   - uid: '164891'
     id_type: Gender
     id_number: Male
