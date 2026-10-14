@@ -38,3 +38,8 @@ place_of_birth_list:
   - uid: '33288'
     place_of_birth: China
     main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '33287'
+    country: China
+    main_entry: 'true'

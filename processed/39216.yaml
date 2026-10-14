@@ -42,3 +42,8 @@ date_of_birth_list:
   - uid: '55221'
     date_of_birth: 28 Sep 1969
     main_entry: 'false'
+nationality_list:
+  items:
+  - uid: '55222'
+    country: Burma
+    main_entry: 'true'

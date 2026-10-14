@@ -33,3 +33,8 @@ date_of_birth_list:
   - uid: '51091'
     date_of_birth: '1969'
     main_entry: 'false'
+nationality_list:
+  items:
+  - uid: '51088'
+    country: Russia
+    main_entry: 'true'

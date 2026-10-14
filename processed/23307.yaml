@@ -46,3 +46,13 @@ place_of_birth_list:
   - uid: '25013'
     place_of_birth: Fergana, Uzbekistan
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '25015'
+    country: Uzbekistan
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '25014'
+    country: Uzbekistan
+    main_entry: 'true'

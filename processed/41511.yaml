@@ -56,3 +56,13 @@ place_of_birth_list:
   - uid: '59627'
     place_of_birth: Tashkent, Uzbekistan
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '59629'
+    country: Germany
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '59630'
+    country: Russia
+    main_entry: 'true'

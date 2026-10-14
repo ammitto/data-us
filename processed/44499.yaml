@@ -47,3 +47,11 @@ date_of_birth_list:
     date_of_birth: 10 Dec 1967
     main_entry: 'false'
 remarks: "(Linked To: HIZBALLAH)"
+nationality_list:
+  items:
+  - uid: '64923'
+    country: Colombia
+    main_entry: 'false'
+  - uid: '65519'
+    country: Lebanon
+    main_entry: 'true'

@@ -74,3 +74,13 @@ place_of_birth_list:
   - uid: '7454'
     place_of_birth: San Rafael, Tabasco, Mexico
     main_entry: 'false'
+nationality_list:
+  items:
+  - uid: '7456'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '7455'
+    country: Mexico
+    main_entry: 'true'

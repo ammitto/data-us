@@ -42,3 +42,13 @@ place_of_birth_list:
   - uid: '6149'
     place_of_birth: Syria
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '90780'
+    country: Syria
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '6150'
+    country: Syria
+    main_entry: 'true'

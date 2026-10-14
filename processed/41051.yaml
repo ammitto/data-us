@@ -29,3 +29,13 @@ place_of_birth_list:
   - uid: '58900'
     place_of_birth: Krutolozhnoe, Tomsk Region, Russia
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '58903'
+    country: Russia
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '58902'
+    country: Russia
+    main_entry: 'true'

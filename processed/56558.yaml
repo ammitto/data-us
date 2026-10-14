@@ -36,3 +36,8 @@ place_of_birth_list:
   - uid: '95011'
     place_of_birth: Kafr El Sheikh, Egypt
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '95010'
+    country: Egypt
+    main_entry: 'true'

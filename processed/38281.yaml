@@ -38,3 +38,11 @@ date_of_birth_list:
   - uid: '53564'
     date_of_birth: 26 Dec 1976
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '53561'
+    country: Ukraine
+    main_entry: 'true'
+  - uid: '53562'
+    country: Russia
+    main_entry: 'false'

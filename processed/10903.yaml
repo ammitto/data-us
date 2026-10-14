@@ -31,3 +31,13 @@ place_of_birth_list:
   - uid: '6333'
     place_of_birth: Turkey
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '6335'
+    country: Turkey
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '6334'
+    country: Turkey
+    main_entry: 'true'

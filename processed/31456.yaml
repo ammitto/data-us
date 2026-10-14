@@ -45,3 +45,11 @@ place_of_birth_list:
   - uid: '39920'
     place_of_birth: Russia
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '39922'
+    country: Russia
+    main_entry: 'true'
+  - uid: '39923'
+    country: Ukraine
+    main_entry: 'false'

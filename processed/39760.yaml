@@ -34,3 +34,16 @@ date_of_birth_list:
     date_of_birth: 12 Jan 1970
     main_entry: 'true'
 remarks: "(Linked To: PRIVATE MILITARY COMPANY 'WAGNER')"
+nationality_list:
+  items:
+  - uid: '57793'
+    country: Russia
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '56164'
+    country: Russia
+    main_entry: 'true'
+  - uid: '56165'
+    country: Central African Republic
+    main_entry: 'false'

@@ -155,3 +155,13 @@ place_of_birth_list:
   - uid: '56468'
     place_of_birth: Southmead, England
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '56470'
+    country: United Kingdom
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '56469'
+    country: United Kingdom
+    main_entry: 'true'

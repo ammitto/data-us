@@ -54,3 +54,16 @@ place_of_birth_list:
     place_of_birth: Potsdam, Germany
     main_entry: 'true'
 remarks: "(Linked To: MALBERG LIMITED)"
+nationality_list:
+  items:
+  - uid: '46953'
+    country: Russia
+    main_entry: 'true'
+  - uid: '46954'
+    country: Malta
+    main_entry: 'false'
+citizenship_list:
+  items:
+  - uid: '46952'
+    country: Russia
+    main_entry: 'true'

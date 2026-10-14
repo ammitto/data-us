@@ -47,3 +47,11 @@ place_of_birth_list:
   - uid: '5189'
     place_of_birth: Taibe, Lebanon
     main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '5190'
+    country: Lebanon
+    main_entry: 'false'
+  - uid: '5191'
+    country: Paraguay
+    main_entry: 'false'

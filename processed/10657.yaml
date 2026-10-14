@@ -116,3 +116,13 @@ place_of_birth_list:
   - uid: '6049'
     place_of_birth: Ninwa, Iraq
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '6046'
+    country: Iraq
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '6047'
+    country: Syria
+    main_entry: 'true'

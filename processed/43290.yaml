@@ -40,3 +40,11 @@ place_of_birth_list:
   - uid: '62506'
     place_of_birth: Chutove, Ukraine
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '62508'
+    country: Russia
+    main_entry: 'true'
+  - uid: '62509'
+    country: Ukraine
+    main_entry: 'false'

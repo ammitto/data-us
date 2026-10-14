@@ -66,3 +66,8 @@ place_of_birth_list:
   - uid: '39085'
     place_of_birth: Idlib, Syria
     main_entry: 'false'
+nationality_list:
+  items:
+  - uid: '39099'
+    country: Egypt
+    main_entry: 'true'

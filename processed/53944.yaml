@@ -30,3 +30,8 @@ place_of_birth_list:
   - uid: '89110'
     place_of_birth: Colima, Mexico
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '89111'
+    country: Mexico
+    main_entry: 'true'

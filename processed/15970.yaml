@@ -22,3 +22,8 @@ place_of_birth_list:
   - uid: '13551'
     place_of_birth: San Salvador, El Salvador
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '13550'
+    country: El Salvador
+    main_entry: 'true'

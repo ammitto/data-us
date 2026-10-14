@@ -54,3 +54,13 @@ place_of_birth_list:
   - uid: '7465'
     place_of_birth: Mexico
     main_entry: 'false'
+nationality_list:
+  items:
+  - uid: '7467'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '7466'
+    country: Mexico
+    main_entry: 'true'

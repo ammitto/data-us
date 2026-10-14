@@ -35,3 +35,8 @@ place_of_birth_list:
   - uid: '32008'
     place_of_birth: Jilin, China
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '32009'
+    country: China
+    main_entry: 'true'

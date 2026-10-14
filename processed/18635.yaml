@@ -61,3 +61,11 @@ place_of_birth_list:
   - uid: '18062'
     place_of_birth: Paris, France
     main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '18059'
+    country: Tunisia
+    main_entry: 'true'
+  - uid: '18060'
+    country: France
+    main_entry: 'false'

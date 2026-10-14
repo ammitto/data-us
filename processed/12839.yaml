@@ -42,3 +42,8 @@ date_of_birth_list:
   - uid: '8589'
     date_of_birth: '1978'
     main_entry: 'false'
+nationality_list:
+  items:
+  - uid: '8590'
+    country: Qatar
+    main_entry: 'true'

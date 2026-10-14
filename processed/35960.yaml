@@ -46,3 +46,11 @@ place_of_birth_list:
     place_of_birth: Russia
     main_entry: 'true'
 remarks: "(Linked To: TIMCHENKO, Gennady Nikolayevich)"
+nationality_list:
+  items:
+  - uid: '49149'
+    country: Russia
+    main_entry: 'true'
+  - uid: '49150'
+    country: Finland
+    main_entry: 'false'

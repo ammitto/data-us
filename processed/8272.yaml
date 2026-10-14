@@ -43,3 +43,8 @@ place_of_birth_list:
   - uid: '4431'
     place_of_birth: Menzel Temime, Tunisia
     main_entry: 'false'
+nationality_list:
+  items:
+  - uid: '4432'
+    country: Tunisia
+    main_entry: 'true'

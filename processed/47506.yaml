@@ -45,3 +45,13 @@ place_of_birth_list:
   - uid: '69067'
     place_of_birth: Nicaragua
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '69066'
+    country: Nicaragua
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '69031'
+    country: Nicaragua
+    main_entry: 'true'

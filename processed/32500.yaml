@@ -43,3 +43,8 @@ place_of_birth_list:
   - uid: '42114'
     place_of_birth: Nogales, Sonora, Mexico
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '42115'
+    country: Mexico
+    main_entry: 'true'

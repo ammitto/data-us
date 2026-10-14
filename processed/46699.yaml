@@ -33,3 +33,11 @@ place_of_birth_list:
   - uid: '67506'
     place_of_birth: Krasnaya Sloboda, Azerbaijan
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '67508'
+    country: Russia
+    main_entry: 'true'
+  - uid: '67509'
+    country: Azerbaijan
+    main_entry: 'false'

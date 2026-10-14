@@ -32,3 +32,11 @@ date_of_birth_list:
     date_of_birth: 20 Oct 1982
     main_entry: 'true'
 remarks: "(Linked To: ALT CAPITAL PTE. LTD)"
+nationality_list:
+  items:
+  - uid: '100562'
+    country: Azerbaijan
+    main_entry: 'true'
+  - uid: '100563'
+    country: Singapore
+    main_entry: 'false'

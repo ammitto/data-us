@@ -56,3 +56,11 @@ place_of_birth_list:
     place_of_birth: Maku, Iran
     main_entry: 'true'
 remarks: "(Linked To: ANSAR EXCHANGE)"
+nationality_list:
+  items:
+  - uid: '90418'
+    country: Turkey
+    main_entry: 'true'
+  - uid: '90419'
+    country: Iran
+    main_entry: 'false'

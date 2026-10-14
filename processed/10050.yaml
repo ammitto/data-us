@@ -30,3 +30,11 @@ place_of_birth_list:
   - uid: '5184'
     place_of_birth: Rubtlatine, Lebanon
     main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '5186'
+    country: Lebanon
+    main_entry: 'false'
+  - uid: '5187'
+    country: Paraguay
+    main_entry: 'false'

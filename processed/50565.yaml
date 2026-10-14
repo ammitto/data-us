@@ -45,3 +45,13 @@ place_of_birth_list:
   - uid: '78773'
     place_of_birth: Krasnodar, Russia
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '78775'
+    country: Russia
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '78776'
+    country: Russia
+    main_entry: 'true'

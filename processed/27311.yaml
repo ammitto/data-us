@@ -35,3 +35,11 @@ date_of_birth_list:
   - uid: '32454'
     date_of_birth: 25 Oct 1955
     main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '32455'
+    country: Palestinian
+    main_entry: 'true'
+  - uid: '32456'
+    country: Syria
+    main_entry: 'false'

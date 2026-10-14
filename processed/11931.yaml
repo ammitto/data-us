@@ -26,3 +26,13 @@ place_of_birth_list:
   - uid: '7606'
     place_of_birth: San Bartolo Tutotepec, Hidalgo, Mexico
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '7608'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '7607'
+    country: Mexico
+    main_entry: 'true'

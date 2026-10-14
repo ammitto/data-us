@@ -35,3 +35,11 @@ place_of_birth_list:
   - uid: '58609'
     place_of_birth: Altdorf, Switzerland
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '58610'
+    country: Switzerland
+    main_entry: 'true'
+  - uid: '58611'
+    country: Italy
+    main_entry: 'false'

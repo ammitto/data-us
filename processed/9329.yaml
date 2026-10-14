@@ -64,3 +64,8 @@ place_of_birth_list:
   - uid: '4262'
     place_of_birth: Baghdad, Iraq
     main_entry: 'false'
+nationality_list:
+  items:
+  - uid: '4260'
+    country: Iraq
+    main_entry: 'true'

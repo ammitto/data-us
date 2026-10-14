@@ -42,3 +42,8 @@ date_of_birth_list:
   - uid: '6921'
     date_of_birth: '1946'
     main_entry: 'false'
+nationality_list:
+  items:
+  - uid: '6917'
+    country: Pakistan
+    main_entry: 'true'

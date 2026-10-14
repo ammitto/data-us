@@ -43,3 +43,13 @@ place_of_birth_list:
   - uid: '24713'
     place_of_birth: Ipiales, Narino, Colombia
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '24715'
+    country: Colombia
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '24714'
+    country: Colombia
+    main_entry: 'true'

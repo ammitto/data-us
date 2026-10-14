@@ -90,3 +90,11 @@ place_of_birth_list:
     place_of_birth: Hamedan, Iran
     main_entry: 'true'
 remarks: "(Linked To: HODA TRADING)"
+nationality_list:
+  items:
+  - uid: '37795'
+    country: Iran
+    main_entry: 'true'
+  - uid: '37796'
+    country: United Kingdom
+    main_entry: 'false'

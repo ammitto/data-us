@@ -48,3 +48,11 @@ place_of_birth_list:
   - uid: '5199'
     place_of_birth: Khalia, Lebanon
     main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '5200'
+    country: Lebanon
+    main_entry: 'true'
+  - uid: '5201'
+    country: Paraguay
+    main_entry: 'false'

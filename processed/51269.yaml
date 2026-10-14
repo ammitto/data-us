@@ -29,3 +29,8 @@ place_of_birth_list:
   - uid: '80601'
     place_of_birth: Caracas, Venezuela
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '80602'
+    country: Venezuela
+    main_entry: 'true'

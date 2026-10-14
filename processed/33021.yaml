@@ -30,3 +30,8 @@ place_of_birth_list:
     place_of_birth: Barajagua, Cienfuegos, Cuba
     main_entry: 'false'
 title: Chief, Central Army
+nationality_list:
+  items:
+  - uid: '42800'
+    country: Cuba
+    main_entry: 'true'

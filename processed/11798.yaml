@@ -105,3 +105,8 @@ place_of_birth_list:
   - uid: '7310'
     place_of_birth: Acapulco de Juarez, Guerrero
     main_entry: 'false'
+nationality_list:
+  items:
+  - uid: '7311'
+    country: Mexico
+    main_entry: 'true'

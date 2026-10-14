@@ -21,3 +21,13 @@ date_of_birth_list:
   - uid: '7622'
     date_of_birth: 04 Feb 1974
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '7624'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '7623'
+    country: Mexico
+    main_entry: 'true'

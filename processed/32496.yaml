@@ -33,3 +33,8 @@ place_of_birth_list:
   - uid: '42099'
     place_of_birth: Naco, Sonora, Mexico
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '42097'
+    country: Mexico
+    main_entry: 'true'

@@ -28,3 +28,11 @@ place_of_birth_list:
   - uid: '84000'
     place_of_birth: Chorvila, Georgia
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '84001'
+    country: Georgia
+    main_entry: 'true'
+  - uid: '84002'
+    country: France
+    main_entry: 'false'

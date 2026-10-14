@@ -68,3 +68,13 @@ place_of_birth_list:
   - uid: '6009'
     place_of_birth: Navolato, Sinaloa, Mexico
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '6010'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '6011'
+    country: Mexico
+    main_entry: 'true'

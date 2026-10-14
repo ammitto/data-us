@@ -20,3 +20,13 @@ place_of_birth_list:
   - uid: '7626'
     place_of_birth: Iguala, Guerrero, Mexico
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '7628'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '7627'
+    country: Mexico
+    main_entry: 'true'

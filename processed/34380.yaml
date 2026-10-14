@@ -52,3 +52,11 @@ place_of_birth_list:
     place_of_birth: Avdeevka, Ukraine
     main_entry: 'true'
 remarks: "(Linked To: SOLOVIEV, Yuriy Alekseyevich)"
+nationality_list:
+  items:
+  - uid: '45661'
+    country: Russia
+    main_entry: 'true'
+  - uid: '45662'
+    country: Bulgaria
+    main_entry: 'false'

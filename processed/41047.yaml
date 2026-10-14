@@ -33,3 +33,13 @@ place_of_birth_list:
   - uid: '58885'
     place_of_birth: Saratov, Saratov Region, Russia
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '58888'
+    country: Russia
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '58887'
+    country: Russia
+    main_entry: 'true'

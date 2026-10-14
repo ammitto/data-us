@@ -42,3 +42,13 @@ place_of_birth_list:
   - uid: '61892'
     place_of_birth: Kampala, Uganda
     main_entry: 'false'
+nationality_list:
+  items:
+  - uid: '61890'
+    country: Rwanda
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '61888'
+    country: Rwanda
+    main_entry: 'true'

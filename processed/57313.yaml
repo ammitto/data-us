@@ -49,3 +49,11 @@ place_of_birth_list:
     place_of_birth: Qom, Iran
     main_entry: 'true'
 remarks: "(Linked To: FARAB SOROUSH AFAGH QESHM COMPANY)"
+nationality_list:
+  items:
+  - uid: '97207'
+    country: Iran
+    main_entry: 'true'
+  - uid: '97264'
+    country: Dominica
+    main_entry: 'false'

@@ -60,3 +60,11 @@ place_of_birth_list:
     place_of_birth: St. Petersburg, Russia
     main_entry: 'true'
 remarks: "(Linked To: OOO TRANSOIL)"
+nationality_list:
+  items:
+  - uid: '49128'
+    country: Russia
+    main_entry: 'true'
+  - uid: '49129'
+    country: Finland
+    main_entry: 'false'

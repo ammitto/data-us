@@ -43,3 +43,13 @@ place_of_birth_list:
   - uid: '59130'
     place_of_birth: Bendery, Moldova
     main_entry: 'false'
+nationality_list:
+  items:
+  - uid: '59123'
+    country: Russia
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '59122'
+    country: Russia
+    main_entry: 'true'

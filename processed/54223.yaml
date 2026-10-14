@@ -47,3 +47,11 @@ place_of_birth_list:
     place_of_birth: Tehran, Iran
     main_entry: 'true'
 remarks: "(Linked To: SEPEHR, Ali Majd)"
+nationality_list:
+  items:
+  - uid: '89934'
+    country: Iran
+    main_entry: 'true'
+  - uid: '89935'
+    country: Italy
+    main_entry: 'false'

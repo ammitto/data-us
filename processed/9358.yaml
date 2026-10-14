@@ -32,3 +32,8 @@ place_of_birth_list:
   - uid: '4333'
     place_of_birth: Casablanca, Morocco
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '4334'
+    country: Morocco
+    main_entry: 'true'

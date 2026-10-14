@@ -76,3 +76,11 @@ place_of_birth_list:
   - uid: '8665'
     place_of_birth: Sangrar, Sindh Province, Pakistan
     main_entry: 'false'
+nationality_list:
+  items:
+  - uid: '8666'
+    country: Pakistan
+    main_entry: 'true'
+  - uid: '8667'
+    country: Saudi Arabia
+    main_entry: 'false'

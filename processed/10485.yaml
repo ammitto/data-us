@@ -66,3 +66,11 @@ place_of_birth_list:
   - uid: '5748'
     place_of_birth: Nasiriyah, Iraq
     main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '6066'
+    country: Iraq
+    main_entry: 'false'
+  - uid: '6067'
+    country: Iran
+    main_entry: 'true'

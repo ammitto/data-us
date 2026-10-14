@@ -24,3 +24,13 @@ date_of_birth_list:
   - uid: '7768'
     date_of_birth: '09 Sep 1963'
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '7770'
+    country: Guinea
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '7769'
+    country: Guinea
+    main_entry: 'true'

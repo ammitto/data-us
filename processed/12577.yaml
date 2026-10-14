@@ -35,3 +35,8 @@ place_of_birth_list:
   - uid: '8315'
     place_of_birth: Derik, Turkey
     main_entry: 'false'
+citizenship_list:
+  items:
+  - uid: '8311'
+    country: Turkey
+    main_entry: 'true'

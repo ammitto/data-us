@@ -26,3 +26,13 @@ place_of_birth_list:
   - uid: '5069'
     place_of_birth: Cartago, Valle, Colombia
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '5071'
+    country: Colombia
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '5070'
+    country: Colombia
+    main_entry: 'true'

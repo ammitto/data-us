@@ -35,3 +35,8 @@ place_of_birth_list:
   - uid: '42104'
     place_of_birth: Guaymas, Sonora, Mexico
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '42101'
+    country: Mexico
+    main_entry: 'true'

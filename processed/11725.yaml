@@ -27,3 +27,13 @@ place_of_birth_list:
   - uid: '7152'
     place_of_birth: La Palma, Badiraguato, Sinaloa, Mexico
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '7154'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '7153'
+    country: Mexico
+    main_entry: 'true'

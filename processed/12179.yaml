@@ -57,3 +57,13 @@ place_of_birth_list:
   - uid: '7913'
     place_of_birth: Cali, Valle del Cauca, Colombia
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '7915'
+    country: Colombia
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '7914'
+    country: Colombia
+    main_entry: 'true'

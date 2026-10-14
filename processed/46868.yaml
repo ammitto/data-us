@@ -48,3 +48,11 @@ place_of_birth_list:
     place_of_birth: Aleppo, Syria
     main_entry: 'true'
 remarks: "(Linked To: AL-JAMAL, Sa'id Ahmad Muhammad)"
+nationality_list:
+  items:
+  - uid: '67774'
+    country: Turkey
+    main_entry: 'true'
+  - uid: '67775'
+    country: Syria
+    main_entry: 'false'

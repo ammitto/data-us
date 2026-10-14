@@ -84,3 +84,13 @@ place_of_birth_list:
   - uid: '19613'
     place_of_birth: Dar es Salaam, Tanzania
     main_entry: 'false'
+nationality_list:
+  items:
+  - uid: '19615'
+    country: Tanzania
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '19616'
+    country: Tanzania
+    main_entry: 'true'

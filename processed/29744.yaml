@@ -37,3 +37,11 @@ place_of_birth_list:
   - uid: '36689'
     place_of_birth: Rabat, Morocco
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '36687'
+    country: Equatorial Guinea
+    main_entry: 'true'
+  - uid: '36688'
+    country: Morocco
+    main_entry: 'false'

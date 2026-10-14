@@ -33,3 +33,11 @@ place_of_birth_list:
     place_of_birth: Qom, Iran
     main_entry: 'true'
 remarks: "(Linked To: SHANGHAI RUIMI IMPORT AND EXPORT TRADE CO., LTD.)"
+nationality_list:
+  items:
+  - uid: '101744'
+    country: Iran
+    main_entry: 'true'
+  - uid: '101745'
+    country: Dominica
+    main_entry: 'false'

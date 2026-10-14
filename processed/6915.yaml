@@ -41,3 +41,8 @@ place_of_birth_list:
   - uid: '1218'
     place_of_birth: Egypt
     main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '1219'
+    country: Egypt
+    main_entry: 'true'

@@ -49,3 +49,11 @@ date_of_birth_list:
   - uid: '38652'
     date_of_birth: Nov 1949
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '38654'
+    country: United Kingdom
+    main_entry: 'true'
+  - uid: '38655'
+    country: Syria
+    main_entry: 'false'

@@ -32,3 +32,16 @@ place_of_birth_list:
   - uid: '4314'
     place_of_birth: Italy
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '4317'
+    country: Italy
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '4315'
+    country: Italy
+    main_entry: 'true'
+  - uid: '4316'
+    country: Bolivia
+    main_entry: 'false'

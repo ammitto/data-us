@@ -37,3 +37,11 @@ place_of_birth_list:
   - uid: '72484'
     place_of_birth: Khomenky, Vinnytsia Region, Ukraine
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '72486'
+    country: Ukraine
+    main_entry: 'true'
+  - uid: '72488'
+    country: Russia
+    main_entry: 'false'

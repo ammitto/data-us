@@ -47,3 +47,11 @@ place_of_birth_list:
   - uid: '65477'
     place_of_birth: Tbilisi, Georgia
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '65479'
+    country: Georgia
+    main_entry: 'true'
+  - uid: '65480'
+    country: Russia
+    main_entry: 'false'

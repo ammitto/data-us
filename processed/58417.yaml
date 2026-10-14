@@ -40,3 +40,8 @@ place_of_birth_list:
   - uid: '100503'
     place_of_birth: Coahuila, Mexico
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '100504'
+    country: Mexico
+    main_entry: 'true'

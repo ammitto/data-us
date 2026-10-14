@@ -32,3 +32,13 @@ place_of_birth_list:
   - uid: '7147'
     place_of_birth: Mexico
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '7149'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '7148'
+    country: Mexico
+    main_entry: 'true'

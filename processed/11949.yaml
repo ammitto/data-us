@@ -41,3 +41,13 @@ place_of_birth_list:
   - uid: '7522'
     place_of_birth: Puebla, Puebla
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '7524'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '7523'
+    country: Mexico
+    main_entry: 'true'

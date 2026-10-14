@@ -28,3 +28,8 @@ place_of_birth_list:
   - uid: '15801'
     place_of_birth: La Merced, Caldas, Colombia
     main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '15802'
+    country: Colombia
+    main_entry: 'true'

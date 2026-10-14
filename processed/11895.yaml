@@ -26,3 +26,13 @@ place_of_birth_list:
   - uid: '7411'
     place_of_birth: Lorica, Cordoba, Colombia
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '7413'
+    country: Colombia
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '7412'
+    country: Colombia
+    main_entry: 'true'

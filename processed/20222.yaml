@@ -44,3 +44,16 @@ place_of_birth_list:
   - uid: '20700'
     place_of_birth: Ain el-Karm, Syria
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '90764'
+    country: Syria
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '20701'
+    country: France
+    main_entry: 'true'
+  - uid: '20702'
+    country: Syria
+    main_entry: 'false'

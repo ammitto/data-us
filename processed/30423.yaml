@@ -47,3 +47,11 @@ place_of_birth_list:
     place_of_birth: Argentina
     main_entry: 'true'
 remarks: "(Linked To: EX-CLE SOLUCIONES BIOMETRICAS C.A.)"
+nationality_list:
+  items:
+  - uid: '38075'
+    country: Argentina
+    main_entry: 'true'
+  - uid: '38076'
+    country: Italy
+    main_entry: 'false'

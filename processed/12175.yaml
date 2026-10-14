@@ -36,3 +36,13 @@ place_of_birth_list:
   - uid: '7932'
     place_of_birth: Mexico
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '7934'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '7933'
+    country: Mexico
+    main_entry: 'true'

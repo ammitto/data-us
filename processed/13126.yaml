@@ -22,3 +22,8 @@ place_of_birth_list:
   - uid: '9014'
     place_of_birth: Nawzad District of Helmand Province
     main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '9013'
+    country: Afghanistan
+    main_entry: 'true'

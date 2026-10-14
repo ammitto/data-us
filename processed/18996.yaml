@@ -67,3 +67,11 @@ place_of_birth_list:
   - uid: '18600'
     place_of_birth: Yabrud, Syria
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '18602'
+    country: Syria
+    main_entry: 'true'
+  - uid: '18603'
+    country: Russia
+    main_entry: 'false'

@@ -39,3 +39,13 @@ place_of_birth_list:
   - uid: '65892'
     place_of_birth: Hubei, China
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '65894'
+    country: China
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '65893'
+    country: China
+    main_entry: 'true'

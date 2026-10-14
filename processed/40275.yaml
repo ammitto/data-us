@@ -39,3 +39,13 @@ place_of_birth_list:
   - uid: '57357'
     place_of_birth: Yamalo-Nenets Autonomous Area, Russia
     main_entry: 'false'
+nationality_list:
+  items:
+  - uid: '57360'
+    country: Russia
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '57359'
+    country: Russia
+    main_entry: 'true'

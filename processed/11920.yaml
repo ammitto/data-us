@@ -55,3 +55,13 @@ date_of_birth_list:
   - uid: '7651'
     date_of_birth: '1970'
     main_entry: 'false'
+nationality_list:
+  items:
+  - uid: '7653'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '7652'
+    country: Mexico
+    main_entry: 'true'

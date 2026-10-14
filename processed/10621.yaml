@@ -43,3 +43,13 @@ place_of_birth_list:
   - uid: '5981'
     place_of_birth: Tijuana, Baja California, Mexico
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '5982'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '5983'
+    country: Mexico
+    main_entry: 'true'

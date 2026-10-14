@@ -20,3 +20,8 @@ date_of_birth_list:
     date_of_birth: 01 Jan 1956 to 31 Dec 1956
     main_entry: 'true'
 remarks: "(Linked To: MAIN INTELLIGENCE DIRECTORATE)"
+citizenship_list:
+  items:
+  - uid: '25950'
+    country: Russia
+    main_entry: 'true'

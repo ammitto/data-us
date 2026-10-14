@@ -90,3 +90,19 @@ place_of_birth_list:
     place_of_birth: Lattakia, Syria
     main_entry: 'true'
 remarks: "(Linked To: FOZ, Samer)"
+nationality_list:
+  items:
+  - uid: '31719'
+    country: Syria
+    main_entry: 'true'
+  - uid: '31720'
+    country: Saint Kitts and Nevis
+    main_entry: 'false'
+citizenship_list:
+  items:
+  - uid: '31717'
+    country: Turkey
+    main_entry: 'true'
+  - uid: '31718'
+    country: Syria
+    main_entry: 'false'

@@ -34,3 +34,13 @@ date_of_birth_list:
     date_of_birth: 15 Dec 1978
     main_entry: 'true'
 remarks: "(Linked To: T-RUBBER CO., LTD)"
+nationality_list:
+  items:
+  - uid: '90766'
+    country: China
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '20706'
+    country: China
+    main_entry: 'true'

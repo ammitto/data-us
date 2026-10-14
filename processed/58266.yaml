@@ -32,3 +32,8 @@ place_of_birth_list:
   - uid: '100031'
     place_of_birth: Tehran, Iran
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '100029'
+    country: Iran
+    main_entry: 'true'

@@ -52,3 +52,16 @@ date_of_birth_list:
     date_of_birth: 24 Jan 1976
     main_entry: 'true'
 remarks: "(Linked To: QUIANA TRADING LIMITED)"
+nationality_list:
+  items:
+  - uid: '28349'
+    country: Spain
+    main_entry: 'true'
+  - uid: '28350'
+    country: Venezuela
+    main_entry: 'false'
+citizenship_list:
+  items:
+  - uid: '28351'
+    country: Venezuela
+    main_entry: 'true'

@@ -36,3 +36,11 @@ place_of_birth_list:
   - uid: '58148'
     place_of_birth: Bosnia and Herzegovina
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '58150'
+    country: Bosnia and Herzegovina
+    main_entry: 'true'
+  - uid: '58151'
+    country: Netherlands
+    main_entry: 'false'

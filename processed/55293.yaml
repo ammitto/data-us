@@ -56,3 +56,13 @@ place_of_birth_list:
     place_of_birth: Ab-Al-Nadirah, Yemen
     main_entry: 'false'
 remarks: "(Linked To: ANSARALLAH)"
+nationality_list:
+  items:
+  - uid: '92564'
+    country: Yemen
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '92565'
+    country: Yemen
+    main_entry: 'true'

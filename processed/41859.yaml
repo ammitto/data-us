@@ -46,3 +46,16 @@ place_of_birth_list:
     place_of_birth: Tashkent, Uzbekistan
     main_entry: 'true'
 remarks: "(Linked To: ALMENOR HOLDINGS LIMITED)"
+nationality_list:
+  items:
+  - uid: '60110'
+    country: Russia
+    main_entry: 'true'
+  - uid: '60111'
+    country: Cyprus
+    main_entry: 'false'
+citizenship_list:
+  items:
+  - uid: '60112'
+    country: Uzbekistan
+    main_entry: 'true'

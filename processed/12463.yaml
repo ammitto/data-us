@@ -56,3 +56,13 @@ date_of_birth_list:
   - uid: '8165'
     date_of_birth: '08 Jul 1970'
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '8166'
+    country: Lebanon
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '8164'
+    country: Lebanon
+    main_entry: 'true'

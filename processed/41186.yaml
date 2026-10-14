@@ -24,3 +24,13 @@ date_of_birth_list:
   - uid: '59193'
     date_of_birth: 12 May 1977
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '59196'
+    country: Russia
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '59195'
+    country: Russia
+    main_entry: 'true'

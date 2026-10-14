@@ -62,3 +62,11 @@ place_of_birth_list:
     place_of_birth: Jwaya, Lebanon
     main_entry: 'true'
 remarks: "(Linked To: HIZBALLAH)"
+nationality_list:
+  items:
+  - uid: '46475'
+    country: Lebanon
+    main_entry: 'true'
+  - uid: '46476'
+    country: United Kingdom
+    main_entry: 'false'

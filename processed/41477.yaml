@@ -43,3 +43,11 @@ place_of_birth_list:
     place_of_birth: Liechtenstein
     main_entry: 'true'
 remarks: "(Linked To: SEQUOIA TREUHAND TRUST REG)"
+nationality_list:
+  items:
+  - uid: '59551'
+    country: Liechtenstein
+    main_entry: 'true'
+  - uid: '59552'
+    country: Switzerland
+    main_entry: 'false'

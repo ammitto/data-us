@@ -42,3 +42,13 @@ place_of_birth_list:
     place_of_birth: Nigeria
     main_entry: 'true'
 remarks: "(Linked To: BOKO HARAM)"
+nationality_list:
+  items:
+  - uid: '49009'
+    country: Nigeria
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '49008'
+    country: Nigeria
+    main_entry: 'true'

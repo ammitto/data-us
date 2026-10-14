@@ -38,3 +38,11 @@ place_of_birth_list:
   - uid: '92110'
     place_of_birth: Baghdad, Iraq
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '92107'
+    country: Iraq
+    main_entry: 'true'
+  - uid: '92108'
+    country: Saint Kitts and Nevis
+    main_entry: 'false'

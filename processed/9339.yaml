@@ -68,3 +68,13 @@ place_of_birth_list:
   - uid: '4292'
     place_of_birth: Chihuahua, Mexico
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '4294'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '4293'
+    country: Mexico
+    main_entry: 'true'

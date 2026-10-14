@@ -41,3 +41,11 @@ place_of_birth_list:
   - uid: '94955'
     place_of_birth: Bogota, Colombia
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '94953'
+    country: Colombia
+    main_entry: 'true'
+  - uid: '94954'
+    country: Italy
+    main_entry: 'false'

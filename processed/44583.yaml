@@ -43,3 +43,14 @@ place_of_birth_list:
   - uid: '64574'
     place_of_birth: Neuilly-Sur-Seine, France
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '64575'
+    country: Lebanon
+    main_entry: 'true'
+  - uid: '64587'
+    country: France
+    main_entry: 'false'
+  - uid: '64588'
+    country: United Kingdom
+    main_entry: 'false'

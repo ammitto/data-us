@@ -97,3 +97,11 @@ date_of_birth_list:
   - uid: '7258'
     date_of_birth: circa 1966
     main_entry: 'false'
+nationality_list:
+  items:
+  - uid: '7259'
+    country: Somalia
+    main_entry: 'true'
+  - uid: '7260'
+    country: Sweden
+    main_entry: 'false'

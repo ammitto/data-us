@@ -42,3 +42,8 @@ place_of_birth_list:
   - uid: '5168'
     place_of_birth: Beirut, Lebanon
     main_entry: 'false'
+citizenship_list:
+  items:
+  - uid: '5169'
+    country: Lebanon
+    main_entry: 'true'

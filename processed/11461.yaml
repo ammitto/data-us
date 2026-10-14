@@ -132,3 +132,16 @@ place_of_birth_list:
   - uid: '6867'
     place_of_birth: Ma'ghal, Basrah, Iraq
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '6865'
+    country: Iraq
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '6863'
+    country: Iran
+    main_entry: 'true'
+  - uid: '6864'
+    country: Iraq
+    main_entry: 'false'

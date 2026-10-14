@@ -38,3 +38,13 @@ place_of_birth_list:
   - uid: '7535'
     place_of_birth: Torreon, Coahuila
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '7537'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '7536'
+    country: Mexico
+    main_entry: 'true'

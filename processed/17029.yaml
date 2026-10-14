@@ -28,3 +28,8 @@ place_of_birth_list:
   - uid: '15999'
     place_of_birth: Medellin, Colombia
     main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '15881'
+    country: Colombia
+    main_entry: 'true'

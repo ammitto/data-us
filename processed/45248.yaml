@@ -35,3 +35,13 @@ place_of_birth_list:
   - uid: '65653'
     place_of_birth: Belgrade, Serbia
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '65656'
+    country: Serbia
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '65655'
+    country: Serbia
+    main_entry: 'true'

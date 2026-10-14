@@ -16,3 +16,11 @@ place_of_birth_list:
   - uid: '9066'
     place_of_birth: Herat, Afghanistan
     main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '9067'
+    country: Afghanistan
+    main_entry: 'true'
+  - uid: '9068'
+    country: Germany
+    main_entry: 'false'

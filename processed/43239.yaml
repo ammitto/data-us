@@ -40,3 +40,13 @@ place_of_birth_list:
     place_of_birth: Krasnoyarsk, Russia
     main_entry: 'true'
 remarks: "(Linked To: PUBLIC JOINT STOCK COMPANY POLYUS)"
+nationality_list:
+  items:
+  - uid: '62413'
+    country: Russia
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '62412'
+    country: Russia
+    main_entry: 'true'

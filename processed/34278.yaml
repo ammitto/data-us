@@ -60,3 +60,11 @@ place_of_birth_list:
   - uid: '58008'
     place_of_birth: Majdal Anjar, Lebanon
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '45617'
+    country: Egypt
+    main_entry: 'true'
+  - uid: '45618'
+    country: Lebanon
+    main_entry: 'false'

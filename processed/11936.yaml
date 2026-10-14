@@ -64,3 +64,13 @@ place_of_birth_list:
   - uid: '7583'
     place_of_birth: Tamaulipas, Mexico
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '7585'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '7584'
+    country: Mexico
+    main_entry: 'true'

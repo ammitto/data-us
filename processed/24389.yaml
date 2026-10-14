@@ -90,3 +90,11 @@ place_of_birth_list:
     place_of_birth: Bent Jbeil, Lebanon
     main_entry: 'true'
 remarks: "(Linked To: HIZBALLAH)"
+nationality_list:
+  items:
+  - uid: '26692'
+    country: Lebanon
+    main_entry: 'true'
+  - uid: '26693'
+    country: Belgium
+    main_entry: 'false'

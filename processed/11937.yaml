@@ -47,3 +47,13 @@ place_of_birth_list:
   - uid: '7577'
     place_of_birth: Matamoros, Tamaulipas, Mexico
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '7579'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '7578'
+    country: Mexico
+    main_entry: 'true'

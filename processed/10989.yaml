@@ -68,3 +68,13 @@ place_of_birth_list:
   - uid: '6445'
     place_of_birth: Arizpe, Sonora, Mexico
     main_entry: 'false'
+nationality_list:
+  items:
+  - uid: '6447'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '6446'
+    country: Mexico
+    main_entry: 'true'

@@ -44,3 +44,11 @@ place_of_birth_list:
   - uid: '55240'
     place_of_birth: Ventspils, Latvia
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '55242'
+    country: Russia
+    main_entry: 'true'
+  - uid: '55243'
+    country: Latvia
+    main_entry: 'false'

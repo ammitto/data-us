@@ -33,3 +33,13 @@ place_of_birth_list:
   - uid: '58801'
     place_of_birth: Sablinskoe, Stavropol Region, Russia
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '58804'
+    country: Russia
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '58803'
+    country: Russia
+    main_entry: 'true'

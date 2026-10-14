@@ -31,3 +31,13 @@ place_of_birth_list:
   - uid: '12581'
     place_of_birth: Durango, Mexico
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '12582'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '12583'
+    country: Mexico
+    main_entry: 'true'

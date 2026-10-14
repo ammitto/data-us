@@ -27,3 +27,13 @@ date_of_birth_list:
   - uid: '38949'
     date_of_birth: 03 Aug 1953
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '38951'
+    country: China
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '38950'
+    country: China
+    main_entry: 'true'

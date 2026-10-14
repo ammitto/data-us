@@ -47,3 +47,16 @@ place_of_birth_list:
   - uid: '69588'
     place_of_birth: Israel
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '69590'
+    country: Israel
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '69591'
+    country: Israel
+    main_entry: 'true'
+  - uid: '69592'
+    country: Malta
+    main_entry: 'false'

@@ -38,3 +38,13 @@ place_of_birth_list:
   - uid: '63622'
     place_of_birth: Sinaloa, Mexico
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '63620'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '63618'
+    country: Mexico
+    main_entry: 'true'

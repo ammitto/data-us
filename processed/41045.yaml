@@ -29,3 +29,13 @@ place_of_birth_list:
   - uid: '58878'
     place_of_birth: Okhotsk, Khabarovsk Region, Russia
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '58876'
+    country: Russia
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '58875'
+    country: Russia
+    main_entry: 'true'

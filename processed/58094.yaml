@@ -35,3 +35,11 @@ place_of_birth_list:
     place_of_birth: Tehran, Iran
     main_entry: 'true'
 remarks: "(Linked To: SHAMKHANI, Mohammad Hossein)"
+nationality_list:
+  items:
+  - uid: '99452'
+    country: Iran
+    main_entry: 'true'
+  - uid: '99454'
+    country: Dominica
+    main_entry: 'false'

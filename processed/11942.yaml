@@ -42,3 +42,13 @@ place_of_birth_list:
   - uid: '7552'
     place_of_birth: Tecpan de Galeana,Guerrero
     main_entry: 'false'
+nationality_list:
+  items:
+  - uid: '7554'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '7553'
+    country: Mexico
+    main_entry: 'true'

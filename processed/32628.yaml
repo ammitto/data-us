@@ -26,3 +26,8 @@ place_of_birth_list:
   - uid: '42282'
     place_of_birth: Havana, Cuba
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '42283'
+    country: Cuba
+    main_entry: 'true'

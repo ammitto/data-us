@@ -34,3 +34,11 @@ place_of_birth_list:
   - uid: '17596'
     place_of_birth: Lebedyn, Ukraine
     main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '17597'
+    country: Ukraine
+    main_entry: 'true'
+  - uid: '17598'
+    country: Israel
+    main_entry: 'false'

@@ -53,3 +53,8 @@ date_of_birth_list:
   - uid: '5112'
     date_of_birth: 01 Oct 1961
     main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '5111'
+    country: Kuwait
+    main_entry: 'true'

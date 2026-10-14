@@ -39,3 +39,8 @@ place_of_birth_list:
   - uid: '53018'
     place_of_birth: Russia
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '53017'
+    country: Russia
+    main_entry: 'true'

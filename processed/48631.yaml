@@ -60,3 +60,11 @@ place_of_birth_list:
     place_of_birth: Bethlehem, West Bank, Palestinian Territories
     main_entry: 'true'
 remarks: "(Linked To: HAMAS)"
+nationality_list:
+  items:
+  - uid: '79327'
+    country: United Kingdom
+    main_entry: 'true'
+  - uid: '79328'
+    country: Jordan
+    main_entry: 'false'

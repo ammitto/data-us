@@ -36,3 +36,8 @@ place_of_birth_list:
   - uid: '54968'
     place_of_birth: Volgograd, Russia
     main_entry: 'false'
+nationality_list:
+  items:
+  - uid: '54970'
+    country: Ukraine
+    main_entry: 'true'

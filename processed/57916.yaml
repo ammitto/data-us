@@ -39,3 +39,11 @@ date_of_birth_list:
     date_of_birth: 20 Jul 1972
     main_entry: 'true'
 remarks: "(Linked To: SHAMS AND BAHR TRADING COMPANY L.L.C.)"
+nationality_list:
+  items:
+  - uid: '98685'
+    country: Iraq
+    main_entry: 'true'
+  - uid: '101184'
+    country: Turkey
+    main_entry: 'false'

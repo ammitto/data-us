@@ -52,3 +52,13 @@ place_of_birth_list:
   - uid: '79513'
     place_of_birth: Port-au-Prince, Haiti
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '79511'
+    country: Haiti
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '79515'
+    country: Haiti
+    main_entry: 'true'

@@ -50,3 +50,13 @@ place_of_birth_list:
     place_of_birth: Leningrad, Russia
     main_entry: 'true'
 title: President of the Russian Federation
+nationality_list:
+  items:
+  - uid: '47009'
+    country: Russia
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '47010'
+    country: Russia
+    main_entry: 'true'

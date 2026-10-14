@@ -31,3 +31,8 @@ date_of_birth_list:
   - uid: '24951'
     date_of_birth: 01 Dec 1980
     main_entry: 'false'
+nationality_list:
+  items:
+  - uid: '25004'
+    country: Russia
+    main_entry: 'true'

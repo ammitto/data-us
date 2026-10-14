@@ -53,3 +53,11 @@ place_of_birth_list:
     place_of_birth: Tehran, Iran
     main_entry: 'true'
 remarks: "(Linked To: MEHRDAD GERAMIAN NIK AND PARTNERS COMPANY)"
+nationality_list:
+  items:
+  - uid: '98624'
+    country: Iran
+    main_entry: 'true'
+  - uid: '98625'
+    country: Dominica
+    main_entry: 'false'

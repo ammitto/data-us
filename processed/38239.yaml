@@ -47,3 +47,11 @@ place_of_birth_list:
   - uid: '53502'
     place_of_birth: Belogorsk, Ukraine
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '53500'
+    country: Russia
+    main_entry: 'true'
+  - uid: '53501'
+    country: Cyprus
+    main_entry: 'false'

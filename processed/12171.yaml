@@ -45,3 +45,13 @@ place_of_birth_list:
   - uid: '7948'
     place_of_birth: Real del Castillo, Ensenada, Baja California Norte
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '7950'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '7949'
+    country: Mexico
+    main_entry: 'true'

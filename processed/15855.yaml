@@ -46,3 +46,13 @@ place_of_birth_list:
     place_of_birth: Coahuila, Mexico
     main_entry: 'true'
 remarks: "(Linked To: COMPANIA GANADERA 5 MANANTIALES S. DE P.R. DE R.L.)"
+nationality_list:
+  items:
+  - uid: '13333'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '13334'
+    country: Mexico
+    main_entry: 'true'

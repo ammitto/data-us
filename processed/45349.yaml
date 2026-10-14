@@ -46,3 +46,13 @@ place_of_birth_list:
   - uid: '65841'
     place_of_birth: Hebei, China
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '65801'
+    country: China
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '65800'
+    country: China
+    main_entry: 'true'

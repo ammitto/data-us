@@ -46,3 +46,11 @@ place_of_birth_list:
     place_of_birth: Iran
     main_entry: 'true'
 remarks: "(Linked To: ARSA GAS COMPANY)"
+nationality_list:
+  items:
+  - uid: '84159'
+    country: Iran
+    main_entry: 'true'
+  - uid: '84160'
+    country: United Kingdom
+    main_entry: 'false'

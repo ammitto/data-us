@@ -52,3 +52,13 @@ place_of_birth_list:
   - uid: '5571'
     place_of_birth: Morazan, El Progreso, Guatemala
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '5573'
+    country: Guatemala
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '5572'
+    country: Guatemala
+    main_entry: 'true'

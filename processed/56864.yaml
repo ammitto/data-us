@@ -28,3 +28,11 @@ place_of_birth_list:
   - uid: '95852'
     place_of_birth: Tehran, Iran
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '95853'
+    country: Iran
+    main_entry: 'true'
+  - uid: '95854'
+    country: United Arab Emirates
+    main_entry: 'false'

@@ -43,3 +43,8 @@ place_of_birth_list:
   - uid: '42118'
     place_of_birth: Los Mochis, Sinaloa, Mexico
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '42119'
+    country: Mexico
+    main_entry: 'true'

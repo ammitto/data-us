@@ -107,3 +107,13 @@ place_of_birth_list:
   - uid: '8210'
     place_of_birth: Culiacan, Sinaloa, Mexico
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '8212'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '8211'
+    country: Mexico
+    main_entry: 'true'

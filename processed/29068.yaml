@@ -53,3 +53,11 @@ place_of_birth_list:
   - uid: '35680'
     place_of_birth: Acton, United Kingdom
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '35687'
+    country: Syria
+    main_entry: 'true'
+  - uid: '35690'
+    country: United Kingdom
+    main_entry: 'false'

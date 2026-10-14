@@ -71,3 +71,14 @@ place_of_birth_list:
   - uid: '100085'
     place_of_birth: Iran
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '100087'
+    country: Iran
+    main_entry: 'true'
+  - uid: '100088'
+    country: Dominica
+    main_entry: 'false'
+  - uid: '100089'
+    country: Afghanistan
+    main_entry: 'false'

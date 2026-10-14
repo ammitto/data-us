@@ -44,3 +44,13 @@ place_of_birth_list:
   - uid: '16860'
     place_of_birth: Vinnytsia Region, Ukraine
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '16244'
+    country: Ukraine
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '16245'
+    country: Russia
+    main_entry: 'true'

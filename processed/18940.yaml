@@ -52,3 +52,14 @@ place_of_birth_list:
     place_of_birth: Barranquilla, Colombia
     main_entry: 'true'
 remarks: "(Linked To: WAKED MONEY LAUNDERING ORGANIZATION)"
+citizenship_list:
+  items:
+  - uid: '18493'
+    country: Spain
+    main_entry: 'true'
+  - uid: '18494'
+    country: Colombia
+    main_entry: 'false'
+  - uid: '18495'
+    country: Panama
+    main_entry: 'false'

@@ -65,3 +65,14 @@ place_of_birth_list:
     place_of_birth: Gyumri, Armenia
     main_entry: 'false'
 remarks: "(Linked To: OOO VOLGA GROUP)"
+nationality_list:
+  items:
+  - uid: '15160'
+    country: Finland
+    main_entry: 'true'
+  - uid: '15162'
+    country: Russia
+    main_entry: 'false'
+  - uid: '15188'
+    country: Armenia
+    main_entry: 'false'

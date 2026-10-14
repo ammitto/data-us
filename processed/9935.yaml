@@ -93,3 +93,11 @@ place_of_birth_list:
   - uid: '4963'
     place_of_birth: Al-Bawgah, Sudan
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '4961'
+    country: Canada
+    main_entry: 'true'
+  - uid: '4964'
+    country: Sudan
+    main_entry: 'false'

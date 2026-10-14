@@ -49,3 +49,13 @@ place_of_birth_list:
   - uid: '6438'
     place_of_birth: Panuco, Concordia, Sinaloa, Mexico
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '6440'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '6439'
+    country: Mexico
+    main_entry: 'true'

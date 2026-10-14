@@ -45,3 +45,13 @@ date_of_birth_list:
   - uid: '70093'
     date_of_birth: 03 Aug 1978
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '70095'
+    country: Russia
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '70094'
+    country: Russia
+    main_entry: 'true'

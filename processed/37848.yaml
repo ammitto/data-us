@@ -43,3 +43,11 @@ place_of_birth_list:
     place_of_birth: Tblisi, Georgia
     main_entry: 'true'
 remarks: "(Linked To: BROVKO, Vasily Yuryevich)"
+nationality_list:
+  items:
+  - uid: '52994'
+    country: Russia
+    main_entry: 'true'
+  - uid: '53083'
+    country: Georgia
+    main_entry: 'false'

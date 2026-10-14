@@ -36,3 +36,16 @@ date_of_birth_list:
     date_of_birth: 21 Aug 1963
     main_entry: 'true'
 remarks: "(Linked To: SEQUOIA TREUHAND TRUST REG)"
+nationality_list:
+  items:
+  - uid: '59561'
+    country: Switzerland
+    main_entry: 'false'
+  - uid: '59562'
+    country: Austria
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '59563'
+    country: Austria
+    main_entry: 'true'

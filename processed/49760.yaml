@@ -54,3 +54,11 @@ place_of_birth_list:
     place_of_birth: Kinshasa, Congo, Democratic Republic of the
     main_entry: 'true'
 remarks: "(Linked To: M23)"
+nationality_list:
+  items:
+  - uid: '77079'
+    country: Congo, Democratic Republic of the
+    main_entry: 'true'
+  - uid: '77080'
+    country: United Kingdom
+    main_entry: 'false'

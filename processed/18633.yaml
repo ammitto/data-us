@@ -32,3 +32,8 @@ date_of_birth_list:
   - uid: '18043'
     date_of_birth: 01 Jan 1982 to 31 Dec 1982
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '18042'
+    country: France
+    main_entry: 'true'

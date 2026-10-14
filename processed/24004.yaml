@@ -32,3 +32,13 @@ place_of_birth_list:
   - uid: '26653'
     place_of_birth: Addis Ababa, Ethiopia
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '26474'
+    country: Ethiopia
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '26475'
+    country: Eritrea
+    main_entry: 'true'

@@ -33,3 +33,13 @@ place_of_birth_list:
   - uid: '49141'
     place_of_birth: Durres, Albania
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '49142'
+    country: Albania
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '49143'
+    country: Albania
+    main_entry: 'true'

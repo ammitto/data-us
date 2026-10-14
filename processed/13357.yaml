@@ -60,3 +60,8 @@ place_of_birth_list:
   - uid: '9412'
     place_of_birth: Lamu Island, Kenya
     main_entry: 'false'
+citizenship_list:
+  items:
+  - uid: '9413'
+    country: Kenya
+    main_entry: 'true'

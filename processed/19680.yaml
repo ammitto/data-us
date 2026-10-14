@@ -149,3 +149,11 @@ place_of_birth_list:
     place_of_birth: Dundee, Scotland, United Kingdom
     main_entry: 'false'
 remarks: "(Linked To: LASHKAR E-TAYYIBA; Linked To: TALIBAN; Linked To: AL QA'IDA)"
+nationality_list:
+  items:
+  - uid: '20029'
+    country: United Kingdom
+    main_entry: 'true'
+  - uid: '20030'
+    country: Pakistan
+    main_entry: 'false'

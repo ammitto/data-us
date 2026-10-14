@@ -26,3 +26,13 @@ place_of_birth_list:
   - uid: '7940'
     place_of_birth: Mexico City, Distrito Federal, Mexico
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '7942'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '7941'
+    country: Mexico
+    main_entry: 'true'

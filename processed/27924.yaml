@@ -24,3 +24,8 @@ date_of_birth_list:
   - uid: '33225'
     date_of_birth: 11 Oct 1954
     main_entry: 'false'
+nationality_list:
+  items:
+  - uid: '33210'
+    country: China
+    main_entry: 'true'

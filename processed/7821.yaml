@@ -36,3 +36,8 @@ place_of_birth_list:
   - uid: '2023'
     place_of_birth: Sinaloa, Mexico
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '101228'
+    country: Mexico
+    main_entry: 'true'

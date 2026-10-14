@@ -29,3 +29,8 @@ place_of_birth_list:
   - uid: '4505'
     place_of_birth: Kafr al-Shaykh
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '4504'
+    country: Egypt
+    main_entry: 'true'

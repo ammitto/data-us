@@ -44,3 +44,11 @@ date_of_birth_list:
     date_of_birth: 26 Oct 1961
     main_entry: 'true'
 remarks: "(Linked To: ZIMENKOV, Igor Vladimirovich)"
+nationality_list:
+  items:
+  - uid: '57650'
+    country: Cyprus
+    main_entry: 'true'
+  - uid: '57651'
+    country: Israel
+    main_entry: 'false'

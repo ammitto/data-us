@@ -11,3 +11,8 @@ date_of_birth_list:
   - uid: '9015'
     date_of_birth: 12 Mar 1964
     main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '9016'
+    country: Afghanistan
+    main_entry: 'true'

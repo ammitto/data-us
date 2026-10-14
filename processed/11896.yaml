@@ -29,3 +29,13 @@ place_of_birth_list:
   - uid: '7407'
     place_of_birth: Santa Fe, Colombia
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '7409'
+    country: Colombia
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '7408'
+    country: Colombia
+    main_entry: 'true'

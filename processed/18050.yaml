@@ -28,3 +28,11 @@ date_of_birth_list:
   - uid: '17204'
     date_of_birth: 22 Mar 1988
     main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '17205'
+    country: Canada
+    main_entry: 'true'
+  - uid: '17206'
+    country: Lebanon
+    main_entry: 'false'

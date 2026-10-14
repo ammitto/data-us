@@ -60,3 +60,11 @@ place_of_birth_list:
   - uid: '39925'
     place_of_birth: Kharkiv, Ukraine
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '39927'
+    country: Russia
+    main_entry: 'true'
+  - uid: '39928'
+    country: Ukraine
+    main_entry: 'false'

@@ -38,3 +38,11 @@ place_of_birth_list:
   - uid: '37513'
     place_of_birth: Douma, Syria
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '37515'
+    country: Syria
+    main_entry: 'true'
+  - uid: '37516'
+    country: Sudan
+    main_entry: 'false'

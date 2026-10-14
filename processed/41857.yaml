@@ -35,3 +35,11 @@ place_of_birth_list:
   - uid: '60095'
     place_of_birth: Baku, Azerbaijan
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '60097'
+    country: Russia
+    main_entry: 'true'
+  - uid: '60098'
+    country: Cyprus
+    main_entry: 'false'

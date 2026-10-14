@@ -78,3 +78,19 @@ place_of_birth_list:
   - uid: '8224'
     place_of_birth: Barranquilla, Colombia
     main_entry: 'false'
+nationality_list:
+  items:
+  - uid: '8227'
+    country: Lebanon
+    main_entry: 'true'
+  - uid: '8228'
+    country: Colombia
+    main_entry: 'false'
+citizenship_list:
+  items:
+  - uid: '8225'
+    country: Lebanon
+    main_entry: 'true'
+  - uid: '8226'
+    country: Colombia
+    main_entry: 'false'

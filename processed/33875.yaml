@@ -45,3 +45,11 @@ place_of_birth_list:
     place_of_birth: Zvecan, Kosovo
     main_entry: 'true'
 remarks: "(Linked To: VESELINOVIC, Zvonko)"
+nationality_list:
+  items:
+  - uid: '44879'
+    country: Kosovo
+    main_entry: 'true'
+  - uid: '44880'
+    country: Serbia
+    main_entry: 'false'

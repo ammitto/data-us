@@ -44,3 +44,11 @@ place_of_birth_list:
   - uid: '26433'
     place_of_birth: Dzerzhinsk, Nizhny Novgorod Region, Russia
     main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '26435'
+    country: Russia
+    main_entry: 'true'
+  - uid: '26436'
+    country: Cyprus
+    main_entry: 'false'

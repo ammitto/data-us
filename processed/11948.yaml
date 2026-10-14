@@ -29,3 +29,13 @@ place_of_birth_list:
   - uid: '7527'
     place_of_birth: Molango de Escamilla, Hidalgo
     main_entry: 'false'
+nationality_list:
+  items:
+  - uid: '7529'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '7528'
+    country: Mexico
+    main_entry: 'true'

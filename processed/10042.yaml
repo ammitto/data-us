@@ -68,3 +68,11 @@ place_of_birth_list:
   - uid: '5163'
     place_of_birth: Mousaitbe, Lebanon
     main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '5164'
+    country: Lebanon
+    main_entry: 'false'
+  - uid: '5165'
+    country: Paraguay
+    main_entry: 'false'

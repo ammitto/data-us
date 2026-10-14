@@ -40,3 +40,13 @@ place_of_birth_list:
   - uid: '13322'
     place_of_birth: Zacapa, Guatemala
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '13321'
+    country: Guatemala
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '13320'
+    country: Guatemala
+    main_entry: 'true'

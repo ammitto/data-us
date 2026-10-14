@@ -165,3 +165,16 @@ place_of_birth_list:
   - uid: '4301'
     place_of_birth: China
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '4304'
+    country: China
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '4302'
+    country: China
+    main_entry: 'true'
+  - uid: '4303'
+    country: Cambodia
+    main_entry: 'false'

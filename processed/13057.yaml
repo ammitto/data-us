@@ -65,3 +65,11 @@ place_of_birth_list:
     place_of_birth: Bonn, Germany
     main_entry: 'true'
 remarks: Associated with Islamic Movement of Uzbekistan
+nationality_list:
+  items:
+  - uid: '8827'
+    country: Germany
+    main_entry: 'true'
+  - uid: '8828'
+    country: Morocco
+    main_entry: 'false'

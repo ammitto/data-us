@@ -44,3 +44,11 @@ place_of_birth_list:
     place_of_birth: Cuba
     main_entry: 'true'
 remarks: "(Linked To: SINALOA CARTEL)"
+nationality_list:
+  items:
+  - uid: '101467'
+    country: Mexico
+    main_entry: 'true'
+  - uid: '101468'
+    country: Cuba
+    main_entry: 'false'

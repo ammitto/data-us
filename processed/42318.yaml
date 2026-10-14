@@ -61,3 +61,11 @@ place_of_birth_list:
   - uid: '60654'
     place_of_birth: Kismayo, Somalia
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '60655'
+    country: Djibouti
+    main_entry: 'true'
+  - uid: '60656'
+    country: Somalia
+    main_entry: 'false'

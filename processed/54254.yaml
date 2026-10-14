@@ -33,3 +33,11 @@ place_of_birth_list:
   - uid: '89988'
     place_of_birth: Damghan, Iran
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '89986'
+    country: United Kingdom
+    main_entry: 'true'
+  - uid: '89987'
+    country: Iran
+    main_entry: 'false'

@@ -26,3 +26,8 @@ place_of_birth_list:
   - uid: '16231'
     place_of_birth: Bourg la Reine, France
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '16230'
+    country: France
+    main_entry: 'true'

@@ -29,3 +29,11 @@ place_of_birth_list:
   - uid: '63998'
     place_of_birth: Kyiv, Ukraine
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '64000'
+    country: Russia
+    main_entry: 'true'
+  - uid: '64001'
+    country: Israel
+    main_entry: 'false'

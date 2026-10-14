@@ -38,3 +38,13 @@ place_of_birth_list:
   - uid: '7909'
     place_of_birth: Delicias, Chihuahua, Mexico
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '7911'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '7910'
+    country: Mexico
+    main_entry: 'true'

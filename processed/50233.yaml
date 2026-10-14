@@ -25,3 +25,13 @@ date_of_birth_list:
     date_of_birth: 12 Feb 1980
     main_entry: 'true'
 remarks: "(Linked To: LLC MOT)"
+nationality_list:
+  items:
+  - uid: '77867'
+    country: Ukraine
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '77866'
+    country: Ukraine
+    main_entry: 'true'

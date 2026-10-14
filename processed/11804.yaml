@@ -79,3 +79,8 @@ place_of_birth_list:
   - uid: '7333'
     place_of_birth: Michoacan, Mexico
     main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '7334'
+    country: Mexico
+    main_entry: 'true'

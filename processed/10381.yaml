@@ -56,3 +56,16 @@ place_of_birth_list:
   - uid: '5566'
     place_of_birth: Guasavito, Guasave, Sinaloa, Mexico
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '5569'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '5567'
+    country: Mexico
+    main_entry: 'true'
+  - uid: '5568'
+    country: United States
+    main_entry: 'false'

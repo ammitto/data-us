@@ -35,3 +35,13 @@ place_of_birth_list:
   - uid: '4384'
     place_of_birth: Saucillo, Chihuahua, Mexico
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '4386'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '4385'
+    country: Mexico
+    main_entry: 'true'

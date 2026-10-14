@@ -44,3 +44,13 @@ date_of_birth_list:
   - uid: '8984'
     date_of_birth: 31 Jul 1968
     main_entry: 'false'
+nationality_list:
+  items:
+  - uid: '8986'
+    country: Guatemala
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '8985'
+    country: Guatemala
+    main_entry: 'true'

@@ -39,3 +39,8 @@ place_of_birth_list:
   - uid: '42110'
     place_of_birth: Hermosillo, Sonora, Mexico
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '42111'
+    country: Mexico
+    main_entry: 'true'

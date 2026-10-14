@@ -39,3 +39,13 @@ place_of_birth_list:
   - uid: '7507'
     place_of_birth: Tuxpam, Veracruz
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '7509'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '7508'
+    country: Mexico
+    main_entry: 'true'

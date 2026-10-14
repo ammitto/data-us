@@ -50,3 +50,16 @@ place_of_birth_list:
   - uid: '64708'
     place_of_birth: Jossa, Hayalin District, Hama Governate, Syria
     main_entry: 'false'
+nationality_list:
+  items:
+  - uid: '64799'
+    country: Syria
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '64704'
+    country: Syria
+    main_entry: 'true'
+  - uid: '64705'
+    country: Turkey
+    main_entry: 'false'

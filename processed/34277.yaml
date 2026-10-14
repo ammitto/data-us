@@ -44,3 +44,11 @@ date_of_birth_list:
   - uid: '45611'
     date_of_birth: '08 Jul 1973'
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '45612'
+    country: Egypt
+    main_entry: 'true'
+  - uid: '45613'
+    country: Syria
+    main_entry: 'false'

@@ -47,3 +47,11 @@ date_of_birth_list:
     date_of_birth: '1978'
     main_entry: 'false'
 remarks: "(Linked To: SHAMS AND BAHR TRADING COMPANY L.L.C.)"
+nationality_list:
+  items:
+  - uid: '98689'
+    country: Iraq
+    main_entry: 'true'
+  - uid: '98690'
+    country: Canada
+    main_entry: 'false'

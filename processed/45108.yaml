@@ -24,3 +24,8 @@ date_of_birth_list:
   - uid: '65536'
     date_of_birth: 15 Dec 1978
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '65538'
+    country: Russia
+    main_entry: 'true'

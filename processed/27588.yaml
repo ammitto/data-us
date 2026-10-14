@@ -43,3 +43,8 @@ place_of_birth_list:
   - uid: '32766'
     place_of_birth: South Sudan
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '32768'
+    country: South Sudan
+    main_entry: 'true'

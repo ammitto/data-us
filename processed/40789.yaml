@@ -61,3 +61,11 @@ place_of_birth_list:
   - uid: '58292'
     place_of_birth: Kizilyurt, Republic of Dagestan, Russia
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '58332'
+    country: Russia
+    main_entry: 'true'
+  - uid: '58333'
+    country: Czech Republic
+    main_entry: 'false'

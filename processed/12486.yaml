@@ -56,3 +56,13 @@ place_of_birth_list:
   - uid: '8185'
     place_of_birth: Tecalitlan, Jalisco, Mexico
     main_entry: 'false'
+nationality_list:
+  items:
+  - uid: '8187'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '8186'
+    country: Mexico
+    main_entry: 'true'

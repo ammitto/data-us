@@ -48,3 +48,11 @@ place_of_birth_list:
     place_of_birth: La Vega, Dominican Republic
     main_entry: 'true'
 remarks: "(Linked To: YUN, Song Guk)"
+nationality_list:
+  items:
+  - uid: '96339'
+    country: Dominican Republic
+    main_entry: 'true'
+  - uid: '96340'
+    country: Spain
+    main_entry: 'false'

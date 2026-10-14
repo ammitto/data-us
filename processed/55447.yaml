@@ -38,3 +38,13 @@ place_of_birth_list:
   - uid: '92882'
     place_of_birth: India
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '92880'
+    country: India
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '92879'
+    country: India
+    main_entry: 'true'

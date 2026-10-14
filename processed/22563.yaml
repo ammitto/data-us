@@ -91,3 +91,16 @@ place_of_birth_list:
   - uid: '24032'
     place_of_birth: Soibug, Budgam, Kashmir, Jammu and Kashmir, India
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '24034'
+    country: India
+    main_entry: 'true'
+  - uid: '24036'
+    country: Pakistan
+    main_entry: 'false'
+citizenship_list:
+  items:
+  - uid: '24035'
+    country: India
+    main_entry: 'true'

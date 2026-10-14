@@ -91,3 +91,11 @@ place_of_birth_list:
   - uid: '39863'
     place_of_birth: Somalia
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '7252'
+    country: Somalia
+    main_entry: 'true'
+  - uid: '7253'
+    country: Sweden
+    main_entry: 'false'

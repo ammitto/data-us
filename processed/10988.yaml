@@ -53,3 +53,13 @@ place_of_birth_list:
   - uid: '6449'
     place_of_birth: Hermosillo, Sonora, Mexico
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '6451'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '6450'
+    country: Mexico
+    main_entry: 'true'

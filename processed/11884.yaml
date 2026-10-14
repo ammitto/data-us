@@ -114,3 +114,13 @@ place_of_birth_list:
   - uid: '7381'
     place_of_birth: al-Fallujah, Iraq
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '7382'
+    country: Iraq
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '7383'
+    country: United Kingdom
+    main_entry: 'true'

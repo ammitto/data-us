@@ -27,3 +27,11 @@ place_of_birth_list:
   - uid: '45357'
     place_of_birth: Dolane Village, Zvecan, Kosovo
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '45358'
+    country: Kosovo
+    main_entry: 'true'
+  - uid: '45359'
+    country: Serbia
+    main_entry: 'false'

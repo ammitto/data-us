@@ -43,3 +43,13 @@ place_of_birth_list:
   - uid: '58728'
     place_of_birth: Samara, Samara region, Russia
     main_entry: 'false'
+nationality_list:
+  items:
+  - uid: '58731'
+    country: Russia
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '58730'
+    country: Russia
+    main_entry: 'true'

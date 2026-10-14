@@ -65,3 +65,13 @@ place_of_birth_list:
   - uid: '6862'
     place_of_birth: Faisalabad, Pakistan
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '6860'
+    country: Pakistan
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '6861'
+    country: Pakistan
+    main_entry: 'true'

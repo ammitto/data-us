@@ -36,3 +36,13 @@ place_of_birth_list:
   - uid: '6461'
     place_of_birth: Mocorito, Sinaloa, Mexico
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '6463'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '6462'
+    country: Mexico
+    main_entry: 'true'

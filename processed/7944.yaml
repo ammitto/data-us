@@ -76,3 +76,8 @@ place_of_birth_list:
   - uid: '2321'
     place_of_birth: Morocco
     main_entry: 'false'
+nationality_list:
+  items:
+  - uid: '2320'
+    country: Algeria
+    main_entry: 'true'

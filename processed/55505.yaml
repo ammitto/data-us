@@ -130,3 +130,19 @@ place_of_birth_list:
     place_of_birth: Fujian, China
     main_entry: 'true'
 remarks: "(Linked To: PRINCE GROUP TRANSNATIONAL CRIMINAL ORGANIZATION)"
+nationality_list:
+  items:
+  - uid: '92984'
+    country: China
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '92985'
+    country: Cambodia
+    main_entry: 'true'
+  - uid: '92986'
+    country: Vanuatu
+    main_entry: 'false'
+  - uid: '92987'
+    country: Cyprus
+    main_entry: 'false'

@@ -65,3 +65,8 @@ place_of_birth_list:
   - uid: '1473'
     place_of_birth: Khartoum Sudan
     main_entry: 'false'
+nationality_list:
+  items:
+  - uid: '1472'
+    country: Yemen
+    main_entry: 'true'

@@ -44,3 +44,11 @@ place_of_birth_list:
   - uid: '18033'
     place_of_birth: Glasgow, United Kingdom
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '18034'
+    country: United Kingdom
+    main_entry: 'true'
+  - uid: '18035'
+    country: Pakistan
+    main_entry: 'false'

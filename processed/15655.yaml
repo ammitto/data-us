@@ -40,3 +40,13 @@ place_of_birth_list:
     place_of_birth: Nuevo Laredo, Tamaulipas, Mexico
     main_entry: 'true'
 remarks: "(Linked To: CARTEL DEL NORESTE)"
+nationality_list:
+  items:
+  - uid: '12936'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '12935'
+    country: Mexico
+    main_entry: 'true'

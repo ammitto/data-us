@@ -59,3 +59,13 @@ place_of_birth_list:
   - uid: '6013'
     place_of_birth: Tamazula, Durango, Mexico
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '6014'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '6015'
+    country: Mexico
+    main_entry: 'true'

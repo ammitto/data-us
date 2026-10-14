@@ -49,3 +49,13 @@ place_of_birth_list:
     main_entry: 'true'
 remarks: "(Linked To: JSC MINSK MECHANICAL PLANT NAMED AFTER S.I. VAVILOV MANAGEMENT
   COMPANY OF BELOMO HOLDING)"
+nationality_list:
+  items:
+  - uid: '70899'
+    country: Belarus
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '70892'
+    country: Belarus
+    main_entry: 'true'

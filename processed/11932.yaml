@@ -46,3 +46,13 @@ place_of_birth_list:
   - uid: '7602'
     place_of_birth: Tlalnepantla De Baz, Mexico, Mexico
     main_entry: 'false'
+nationality_list:
+  items:
+  - uid: '7604'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '7603'
+    country: Mexico
+    main_entry: 'true'

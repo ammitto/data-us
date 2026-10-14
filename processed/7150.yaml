@@ -68,3 +68,8 @@ date_of_birth_list:
   - uid: '4968'
     date_of_birth: 27 Oct 1969
     main_entry: 'false'
+nationality_list:
+  items:
+  - uid: '4969'
+    country: Libya
+    main_entry: 'true'

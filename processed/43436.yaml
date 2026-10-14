@@ -64,3 +64,11 @@ place_of_birth_list:
   - uid: '62899'
     place_of_birth: Hunan, China
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '70499'
+    country: China
+    main_entry: 'true'
+  - uid: '70920'
+    country: Saint Kitts and Nevis
+    main_entry: 'false'

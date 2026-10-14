@@ -68,3 +68,11 @@ place_of_birth_list:
     place_of_birth: Safais (Sfax), Tunisia
     main_entry: 'true'
 remarks: "(Linked To: AL QA'IDA)"
+nationality_list:
+  items:
+  - uid: '98325'
+    country: Tunisia
+    main_entry: 'true'
+  - uid: '98326'
+    country: Ireland
+    main_entry: 'false'

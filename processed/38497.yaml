@@ -24,3 +24,13 @@ date_of_birth_list:
   - uid: '53799'
     date_of_birth: 20 Aug 1970
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '53801'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '53800'
+    country: Mexico
+    main_entry: 'true'

@@ -76,3 +76,16 @@ place_of_birth_list:
     place_of_birth: Dublin, Ireland
     main_entry: 'true'
 remarks: "(Linked To: KINAHAN ORGANIZED CRIME GROUP)"
+nationality_list:
+  items:
+  - uid: '46567'
+    country: Ireland
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '46565'
+    country: Ireland
+    main_entry: 'true'
+  - uid: '46566'
+    country: United Kingdom
+    main_entry: 'false'

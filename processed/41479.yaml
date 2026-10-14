@@ -43,3 +43,11 @@ place_of_birth_list:
     place_of_birth: St. Gallen, Switzerland
     main_entry: 'true'
 remarks: "(Linked To: SEQUOIA TREUHAND TRUST REG)"
+nationality_list:
+  items:
+  - uid: '59557'
+    country: Switzerland
+    main_entry: 'true'
+  - uid: '59558'
+    country: United Kingdom
+    main_entry: 'false'

@@ -67,3 +67,11 @@ place_of_birth_list:
     place_of_birth: Port Said, Egypt
     main_entry: 'true'
 remarks: "(Linked To: ISLAMIC STATE OF IRAQ AND THE LEVANT)"
+nationality_list:
+  items:
+  - uid: '55770'
+    country: Egypt
+    main_entry: 'true'
+  - uid: '55813'
+    country: Brazil
+    main_entry: 'false'

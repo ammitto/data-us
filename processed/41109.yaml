@@ -33,3 +33,13 @@ place_of_birth_list:
   - uid: '59076'
     place_of_birth: St. Petersburg, Russia
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '59079'
+    country: Russia
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '59078'
+    country: Russia
+    main_entry: 'true'

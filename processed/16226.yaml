@@ -54,3 +54,11 @@ place_of_birth_list:
   - uid: '14556'
     place_of_birth: Najaf, Iraq
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '14551'
+    country: Lebanon
+    main_entry: 'true'
+  - uid: '14552'
+    country: Iraq
+    main_entry: 'false'

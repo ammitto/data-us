@@ -47,3 +47,11 @@ place_of_birth_list:
     place_of_birth: Moscow, Russia
     main_entry: 'true'
 remarks: "(Linked To: SKOCH, Andrei Vladimirovich)"
+citizenship_list:
+  items:
+  - uid: '60177'
+    country: Russia
+    main_entry: 'true'
+  - uid: '60178'
+    country: Cyprus
+    main_entry: 'false'

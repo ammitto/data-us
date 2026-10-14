@@ -80,3 +80,11 @@ date_of_birth_list:
     date_of_birth: '1965'
     main_entry: 'false'
 remarks: "(Linked To: HIZBALLAH)"
+nationality_list:
+  items:
+  - uid: '31977'
+    country: Colombia
+    main_entry: 'true'
+  - uid: '31978'
+    country: Lebanon
+    main_entry: 'false'

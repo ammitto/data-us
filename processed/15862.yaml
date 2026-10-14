@@ -42,3 +42,13 @@ place_of_birth_list:
   - uid: '13354'
     place_of_birth: Nuevo Leon, Mexico
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '13356'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '13355'
+    country: Mexico
+    main_entry: 'true'

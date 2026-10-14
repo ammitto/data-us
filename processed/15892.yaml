@@ -34,3 +34,19 @@ place_of_birth_list:
   - uid: '13413'
     place_of_birth: Vinnitsa, Ukraine
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '57800'
+    country: Russia
+    main_entry: 'true'
+  - uid: '57801'
+    country: Ukraine
+    main_entry: 'false'
+citizenship_list:
+  items:
+  - uid: '57802'
+    country: Russia
+    main_entry: 'true'
+  - uid: '57803'
+    country: Ukraine
+    main_entry: 'false'

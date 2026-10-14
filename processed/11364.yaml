@@ -35,3 +35,8 @@ place_of_birth_list:
   - uid: '6749'
     place_of_birth: Germany
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '6750'
+    country: Germany
+    main_entry: 'true'

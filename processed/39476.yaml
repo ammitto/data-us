@@ -37,3 +37,11 @@ place_of_birth_list:
   - uid: '55554'
     place_of_birth: Moldova
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '55555'
+    country: Moldova
+    main_entry: 'true'
+  - uid: '55556'
+    country: Romania
+    main_entry: 'false'

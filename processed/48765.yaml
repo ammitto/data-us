@@ -24,3 +24,11 @@ date_of_birth_list:
   - uid: '71388'
     date_of_birth: 02 May 1959
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '71386'
+    country: Russia
+    main_entry: 'true'
+  - uid: '71387'
+    country: Azerbaijan
+    main_entry: 'false'

@@ -55,3 +55,11 @@ place_of_birth_list:
     place_of_birth: St. Petersburg, Russia
     main_entry: 'false'
 remarks: "(Linked To: ROTENBERG, Boris Romanovich)"
+citizenship_list:
+  items:
+  - uid: '17602'
+    country: Russia
+    main_entry: 'true'
+  - uid: '17658'
+    country: Finland
+    main_entry: 'false'

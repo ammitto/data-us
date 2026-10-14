@@ -117,3 +117,11 @@ place_of_birth_list:
   - uid: '1259'
     place_of_birth: Moroni, Comoros Islands
     main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '1260'
+    country: Comoros
+    main_entry: 'true'
+  - uid: '1261'
+    country: Kenya
+    main_entry: 'false'

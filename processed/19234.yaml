@@ -29,3 +29,8 @@ place_of_birth_list:
   - uid: '18864'
     place_of_birth: Mexico City, D.F., Mexico
     main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '18865'
+    country: Mexico
+    main_entry: 'true'

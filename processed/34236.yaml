@@ -40,3 +40,13 @@ place_of_birth_list:
   - uid: '45671'
     place_of_birth: Chacras, Arenillas, El Oro, Ecuador
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '45670'
+    country: Ecuador
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '45669'
+    country: Ecuador
+    main_entry: 'true'

@@ -79,3 +79,11 @@ place_of_birth_list:
     place_of_birth: Abiem, Aweil East County, Northern Bahr al Ghazal, South Sudan
     main_entry: 'false'
 title: President of ABMC Thai-South Sudan Construction Company
+nationality_list:
+  items:
+  - uid: '25042'
+    country: South Sudan
+    main_entry: 'true'
+  - uid: '25043'
+    country: Sudan
+    main_entry: 'false'

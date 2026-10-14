@@ -29,3 +29,8 @@ place_of_birth_list:
   - uid: '35502'
     place_of_birth: Guanajuato, Mexico
     main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '35501'
+    country: Mexico
+    main_entry: 'true'

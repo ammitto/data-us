@@ -29,3 +29,8 @@ place_of_birth_list:
   - uid: '80072'
     place_of_birth: Venezuela
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '80071'
+    country: Venezuela
+    main_entry: 'true'

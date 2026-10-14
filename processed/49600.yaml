@@ -33,3 +33,13 @@ date_of_birth_list:
   - uid: '72875'
     date_of_birth: '09 Oct 1989'
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '72869'
+    country: Russia
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '72870'
+    country: Russia
+    main_entry: 'true'

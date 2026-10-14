@@ -39,3 +39,13 @@ date_of_birth_list:
   - uid: '6587'
     date_of_birth: 14 Jan 1953
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '6589'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '6588'
+    country: Mexico
+    main_entry: 'true'

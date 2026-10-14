@@ -28,3 +28,8 @@ place_of_birth_list:
   - uid: '16004'
     place_of_birth: Itagui, Antioquia, Colombia
     main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '16005'
+    country: Colombia
+    main_entry: 'true'

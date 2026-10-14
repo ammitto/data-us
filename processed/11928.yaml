@@ -42,3 +42,13 @@ place_of_birth_list:
   - uid: '7619'
     place_of_birth: Acatlan, Hidalgo
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '7621'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '7620'
+    country: Mexico
+    main_entry: 'true'

@@ -27,3 +27,8 @@ place_of_birth_list:
   - uid: '4404'
     place_of_birth: Al-Mohamedia, Tunisia
     main_entry: 'false'
+nationality_list:
+  items:
+  - uid: '4405'
+    country: Tunisia
+    main_entry: 'true'

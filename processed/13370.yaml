@@ -49,3 +49,13 @@ place_of_birth_list:
   - uid: '9441'
     place_of_birth: Sinaloa, Mexico
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '9440'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '9439'
+    country: Mexico
+    main_entry: 'true'

@@ -96,3 +96,14 @@ place_of_birth_list:
   - uid: '64609'
     place_of_birth: Bagram District, Parwan Province, Afghanistan
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '64610'
+    country: Afghanistan
+    main_entry: 'true'
+  - uid: '64611'
+    country: Cyprus
+    main_entry: 'false'
+  - uid: '64612'
+    country: Saint Kitts and Nevis
+    main_entry: 'false'

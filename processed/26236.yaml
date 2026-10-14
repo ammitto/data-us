@@ -72,3 +72,13 @@ place_of_birth_list:
   - uid: '30684'
     place_of_birth: China
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '30681'
+    country: China
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '30682'
+    country: China
+    main_entry: 'true'

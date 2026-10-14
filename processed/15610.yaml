@@ -53,3 +53,11 @@ place_of_birth_list:
   - uid: '12815'
     place_of_birth: Nouakchott, Mauritania
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '12816'
+    country: Mauritania
+    main_entry: 'true'
+  - uid: '12817'
+    country: Mali
+    main_entry: 'false'

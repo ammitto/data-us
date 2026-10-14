@@ -47,3 +47,8 @@ place_of_birth_list:
   - uid: '12241'
     place_of_birth: Lahore, Pakistan
     main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '12242'
+    country: Pakistan
+    main_entry: 'true'

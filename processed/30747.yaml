@@ -38,3 +38,11 @@ place_of_birth_list:
   - uid: '38635'
     place_of_birth: London, United Kingdom
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '38638'
+    country: United Kingdom
+    main_entry: 'true'
+  - uid: '38639'
+    country: Syria
+    main_entry: 'false'

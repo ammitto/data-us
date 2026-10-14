@@ -63,3 +63,19 @@ place_of_birth_list:
   - uid: '31712'
     place_of_birth: Latakia, Syria
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '31709'
+    country: Syria
+    main_entry: 'true'
+  - uid: '31710'
+    country: Turkey
+    main_entry: 'false'
+  - uid: '31711'
+    country: Saint Kitts and Nevis
+    main_entry: 'false'
+citizenship_list:
+  items:
+  - uid: '31707'
+    country: Saint Kitts and Nevis
+    main_entry: 'true'

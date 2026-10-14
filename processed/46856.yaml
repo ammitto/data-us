@@ -38,3 +38,11 @@ place_of_birth_list:
     place_of_birth: Kinigi, Rwanda
     main_entry: 'true'
 remarks: "(Linked To: M23)"
+nationality_list:
+  items:
+  - uid: '67738'
+    country: Rwanda
+    main_entry: 'true'
+  - uid: '67739'
+    country: Congo, Democratic Republic of the
+    main_entry: 'false'

@@ -30,3 +30,8 @@ place_of_birth_list:
   - uid: '99840'
     place_of_birth: Cuba
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '99841'
+    country: Cuba
+    main_entry: 'true'

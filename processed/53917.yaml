@@ -51,3 +51,13 @@ date_of_birth_list:
     date_of_birth: 02 May 1985
     main_entry: 'false'
 remarks: "(Linked To: AL WEAM CHARITABLE SOCIETY)"
+nationality_list:
+  items:
+  - uid: '90337'
+    country: Palestinian
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '90336'
+    country: Palestinian
+    main_entry: 'true'

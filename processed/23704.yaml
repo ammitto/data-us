@@ -55,3 +55,11 @@ place_of_birth_list:
     place_of_birth: Bruhl, Germany
     main_entry: 'true'
 remarks: "(Linked To: ISLAMIC STATE OF IRAQ AND THE LEVANT)"
+citizenship_list:
+  items:
+  - uid: '25717'
+    country: Germany
+    main_entry: 'true'
+  - uid: '25718'
+    country: Turkey
+    main_entry: 'false'

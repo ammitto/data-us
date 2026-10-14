@@ -47,3 +47,8 @@ date_of_birth_list:
   - uid: '42085'
     date_of_birth: '1985'
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '42086'
+    country: Syria
+    main_entry: 'true'

@@ -35,3 +35,13 @@ place_of_birth_list:
   - uid: '89233'
     place_of_birth: Georgetown, Guyana
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '89230'
+    country: Guyana
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '89231'
+    country: Guyana
+    main_entry: 'true'

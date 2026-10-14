@@ -25,3 +25,13 @@ place_of_birth_list:
   - uid: '8866'
     place_of_birth: Mardin, Turkey
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '8868'
+    country: Turkey
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '8867'
+    country: Turkey
+    main_entry: 'true'

@@ -65,3 +65,11 @@ date_of_birth_list:
     date_of_birth: 01 Feb 1985
     main_entry: 'true'
 remarks: "(Linked To: HIZBALLAH)"
+nationality_list:
+  items:
+  - uid: '59928'
+    country: Syria
+    main_entry: 'true'
+  - uid: '59929'
+    country: Lebanon
+    main_entry: 'false'

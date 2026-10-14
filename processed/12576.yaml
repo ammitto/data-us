@@ -31,3 +31,8 @@ place_of_birth_list:
   - uid: '8378'
     place_of_birth: Hazar, Elazig, Turkey
     main_entry: 'false'
+citizenship_list:
+  items:
+  - uid: '8309'
+    country: Turkey
+    main_entry: 'true'

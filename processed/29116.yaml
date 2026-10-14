@@ -50,3 +50,11 @@ place_of_birth_list:
     place_of_birth: Russia
     main_entry: 'true'
 remarks: "(Linked To: PRIGOZHIN, Yevgeniy Viktorovich)"
+nationality_list:
+  items:
+  - uid: '35845'
+    country: Saint Kitts and Nevis
+    main_entry: 'true'
+  - uid: '35846'
+    country: Russia
+    main_entry: 'false'

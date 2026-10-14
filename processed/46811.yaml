@@ -41,3 +41,11 @@ place_of_birth_list:
   - uid: '67617'
     place_of_birth: Perm, Russia
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '67618'
+    country: Sweden
+    main_entry: 'true'
+  - uid: '67653'
+    country: Russia
+    main_entry: 'false'

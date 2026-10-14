@@ -75,3 +75,13 @@ place_of_birth_list:
   - uid: '6573'
     place_of_birth: Las Avilas, Guerrero, Mexico
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '6575'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '6574'
+    country: Mexico
+    main_entry: 'true'

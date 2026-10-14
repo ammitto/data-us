@@ -52,3 +52,11 @@ place_of_birth_list:
   - uid: '6769'
     place_of_birth: Alexandria, Egypt
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '6770'
+    country: Egypt
+    main_entry: 'true'
+  - uid: '6771'
+    country: Pakistan
+    main_entry: 'false'

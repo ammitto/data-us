@@ -46,3 +46,11 @@ date_of_birth_list:
     date_of_birth: 26 Nov 1988
     main_entry: 'true'
 remarks: "(Linked To: HIZBALLAH)"
+nationality_list:
+  items:
+  - uid: '45852'
+    country: Germany
+    main_entry: 'true'
+  - uid: '45853'
+    country: Lebanon
+    main_entry: 'false'

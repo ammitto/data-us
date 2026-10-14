@@ -35,3 +35,13 @@ date_of_birth_list:
   - uid: '4391'
     date_of_birth: 17 May 1974
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '4393'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '4392'
+    country: Mexico
+    main_entry: 'true'

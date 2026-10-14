@@ -33,3 +33,11 @@ date_of_birth_list:
     date_of_birth: 04 Jul 1967
     main_entry: 'true'
 remarks: "(Linked To: ISLAMIC STATE OF IRAQ AND THE LEVANT)"
+citizenship_list:
+  items:
+  - uid: '28264'
+    country: United States
+    main_entry: 'false'
+  - uid: '28265'
+    country: Trinidad and Tobago
+    main_entry: 'true'

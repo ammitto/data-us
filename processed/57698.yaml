@@ -48,3 +48,11 @@ place_of_birth_list:
     place_of_birth: Iran
     main_entry: 'true'
 remarks: "(Linked To: EBRAHIMI AND ASSOCIATES PARTNERSHIP COMPANY)"
+nationality_list:
+  items:
+  - uid: '98117'
+    country: Iran
+    main_entry: 'true'
+  - uid: '98118'
+    country: Turkey
+    main_entry: 'false'

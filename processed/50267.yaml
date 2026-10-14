@@ -42,3 +42,11 @@ place_of_birth_list:
   - uid: '77961'
     place_of_birth: Savichi, Belarus
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '77962'
+    country: Russia
+    main_entry: 'true'
+  - uid: '77963'
+    country: Cyprus
+    main_entry: 'false'

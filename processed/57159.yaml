@@ -53,3 +53,11 @@ place_of_birth_list:
     place_of_birth: Shahre Ray, Iran
     main_entry: 'true'
 remarks: "(Linked To: TEJARAT SARIR AFROOZ KISH COMPANY)"
+nationality_list:
+  items:
+  - uid: '96834'
+    country: Iran
+    main_entry: 'true'
+  - uid: '97527'
+    country: Turkey
+    main_entry: 'false'

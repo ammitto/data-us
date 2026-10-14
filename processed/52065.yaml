@@ -30,3 +30,11 @@ place_of_birth_list:
   - uid: '82865'
     place_of_birth: Mombasa, Kenya
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '82864'
+    country: Kenya
+    main_entry: 'true'
+  - uid: '83102'
+    country: United Kingdom
+    main_entry: 'false'

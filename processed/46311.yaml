@@ -32,3 +32,16 @@ place_of_birth_list:
   - uid: '67105'
     place_of_birth: Bangui, Central African Republic
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '67104'
+    country: Central African Republic
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '67100'
+    country: Central African Republic
+    main_entry: 'true'
+  - uid: '67101'
+    country: France
+    main_entry: 'false'

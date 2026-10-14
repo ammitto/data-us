@@ -25,3 +25,13 @@ place_of_birth_list:
   - uid: '63294'
     place_of_birth: Novi Sad, Serbia
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '63292'
+    country: Serbia
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '63293'
+    country: Serbia
+    main_entry: 'true'

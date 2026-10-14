@@ -60,3 +60,13 @@ place_of_birth_list:
   - uid: '7562'
     place_of_birth: Moyuta, Guanajuato, Mexico
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '7564'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '7563'
+    country: Mexico
+    main_entry: 'true'

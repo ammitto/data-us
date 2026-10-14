@@ -115,3 +115,14 @@ place_of_birth_list:
     place_of_birth: Koidu Town, Sierra Leone
     main_entry: 'false'
 remarks: "(Linked To: HIZBALLAH)"
+citizenship_list:
+  items:
+  - uid: '16884'
+    country: Lebanon
+    main_entry: 'true'
+  - uid: '16885'
+    country: Nigeria
+    main_entry: 'false'
+  - uid: '16918'
+    country: Sierra Leone
+    main_entry: 'false'

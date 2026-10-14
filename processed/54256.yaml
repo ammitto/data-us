@@ -40,3 +40,11 @@ place_of_birth_list:
   - uid: '89980'
     place_of_birth: Damghan, Iran
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '89981'
+    country: Saint Kitts and Nevis
+    main_entry: 'true'
+  - uid: '89982'
+    country: Iran
+    main_entry: 'false'

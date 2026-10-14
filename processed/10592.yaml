@@ -31,3 +31,13 @@ date_of_birth_list:
   - uid: '40158'
     date_of_birth: Feb 1968
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '40160'
+    country: United Kingdom
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '5923'
+    country: United Kingdom
+    main_entry: 'true'

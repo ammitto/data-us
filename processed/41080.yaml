@@ -40,3 +40,13 @@ place_of_birth_list:
   - uid: '58998'
     place_of_birth: Yazvo, Pskov Region, Russia
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '59001'
+    country: Russia
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '59000'
+    country: Russia
+    main_entry: 'true'

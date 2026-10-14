@@ -61,3 +61,11 @@ place_of_birth_list:
   - uid: '4473'
     place_of_birth: Baghdad, Iraq
     main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '4470'
+    country: Jordan
+    main_entry: 'false'
+  - uid: '4471'
+    country: Albania
+    main_entry: 'false'

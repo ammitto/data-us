@@ -43,3 +43,13 @@ place_of_birth_list:
   - uid: '7597'
     place_of_birth: Sonora, Mexico
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '7599'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '7598'
+    country: Mexico
+    main_entry: 'true'

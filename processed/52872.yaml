@@ -42,3 +42,8 @@ place_of_birth_list:
   - uid: '84836'
     place_of_birth: Uganda
     main_entry: 'false'
+nationality_list:
+  items:
+  - uid: '84838'
+    country: Rwanda
+    main_entry: 'true'

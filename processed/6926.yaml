@@ -45,3 +45,8 @@ place_of_birth_list:
   - uid: '1256'
     place_of_birth: Lebanon
     main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '1257'
+    country: Lebanon
+    main_entry: 'true'

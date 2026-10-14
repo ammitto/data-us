@@ -48,3 +48,8 @@ date_of_birth_list:
   - uid: '6161'
     date_of_birth: '1956'
     main_entry: 'false'
+citizenship_list:
+  items:
+  - uid: '6162'
+    country: Syria
+    main_entry: 'true'

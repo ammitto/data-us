@@ -73,3 +73,8 @@ place_of_birth_list:
     place_of_birth: Dir, Pakistan
     main_entry: 'true'
 remarks: "(Linked To: LASHKAR E-TAYYIBA)"
+nationality_list:
+  items:
+  - uid: '25700'
+    country: Pakistan
+    main_entry: 'true'

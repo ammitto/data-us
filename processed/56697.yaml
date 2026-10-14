@@ -39,3 +39,11 @@ place_of_birth_list:
     place_of_birth: Lahore, Pakistan
     main_entry: 'true'
 remarks: "(Linked To: ARKAN MARS PETROLEUM DMCC)"
+nationality_list:
+  items:
+  - uid: '95410'
+    country: Pakistan
+    main_entry: 'true'
+  - uid: '95411'
+    country: Iran
+    main_entry: 'false'

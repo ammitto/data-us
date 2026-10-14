@@ -62,3 +62,13 @@ place_of_birth_list:
     place_of_birth: Kyiv, Ukraine
     main_entry: 'true'
 remarks: "(Linked To: SOCIAL DESIGN AGENCY)"
+nationality_list:
+  items:
+  - uid: '65619'
+    country: Russia
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '65617'
+    country: Russia
+    main_entry: 'true'

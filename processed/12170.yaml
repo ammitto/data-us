@@ -45,3 +45,13 @@ place_of_birth_list:
   - uid: '7952'
     place_of_birth: San Antonio Ameca, Jalisco, Mexico
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '7954'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '7953'
+    country: Mexico
+    main_entry: 'true'

@@ -64,3 +64,11 @@ place_of_birth_list:
     place_of_birth: Beirut, Lebanon
     main_entry: 'true'
 remarks: "(Linked To: AHMAD, Nazem Said)"
+nationality_list:
+  items:
+  - uid: '60410'
+    country: Lebanon
+    main_entry: 'true'
+  - uid: '60748'
+    country: Belgium
+    main_entry: 'false'

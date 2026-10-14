@@ -42,3 +42,13 @@ place_of_birth_list:
   - uid: '7615'
     place_of_birth: Durango
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '7617'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '7616'
+    country: Mexico
+    main_entry: 'true'

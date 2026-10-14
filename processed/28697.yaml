@@ -61,3 +61,11 @@ date_of_birth_list:
     date_of_birth: 17 Sep 1987
     main_entry: 'false'
 remarks: "(Linked To: FADAKAR, Alireza)"
+nationality_list:
+  items:
+  - uid: '34727'
+    country: Iran
+    main_entry: 'true'
+  - uid: '34728'
+    country: Iraq
+    main_entry: 'false'

@@ -36,3 +36,13 @@ place_of_birth_list:
   - uid: '9028'
     place_of_birth: Badiraguato, Sinaloa, Mexico
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '9029'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '9030'
+    country: Mexico
+    main_entry: 'true'

@@ -29,3 +29,8 @@ place_of_birth_list:
   - uid: '16011'
     place_of_birth: Ayacucho, Peru
     main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '16010'
+    country: Peru
+    main_entry: 'true'

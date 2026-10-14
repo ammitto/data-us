@@ -47,3 +47,11 @@ place_of_birth_list:
   - uid: '54998'
     place_of_birth: Simferopol, Crimea, Ukraine
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '55000'
+    country: Ukraine
+    main_entry: 'true'
+  - uid: '55001'
+    country: Russia
+    main_entry: 'false'

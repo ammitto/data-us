@@ -29,3 +29,13 @@ place_of_birth_list:
   - uid: '7611'
     place_of_birth: Pachuca De Soto, Hidalgo, Mexico
     main_entry: 'false'
+nationality_list:
+  items:
+  - uid: '7613'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '7612'
+    country: Mexico
+    main_entry: 'true'

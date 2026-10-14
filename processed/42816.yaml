@@ -62,3 +62,11 @@ date_of_birth_list:
     date_of_birth: 23 Aug 1969
     main_entry: 'true'
 remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS (IRGC)-QODS FORCE)"
+nationality_list:
+  items:
+  - uid: '61628'
+    country: Iran
+    main_entry: 'true'
+  - uid: '61629'
+    country: Turkey
+    main_entry: 'false'

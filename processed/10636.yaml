@@ -29,3 +29,13 @@ date_of_birth_list:
   - uid: '6040'
     date_of_birth: 25 Oct 1955
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '6041'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '6042'
+    country: Mexico
+    main_entry: 'true'

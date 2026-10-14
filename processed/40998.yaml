@@ -33,3 +33,13 @@ place_of_birth_list:
   - uid: '58722'
     place_of_birth: Voronezh, Voronezh Region, Russia
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '58725'
+    country: Russia
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '58724'
+    country: Russia
+    main_entry: 'true'

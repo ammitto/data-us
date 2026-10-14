@@ -85,3 +85,13 @@ place_of_birth_list:
   - uid: '5953'
     place_of_birth: Jacola, Culiacan, Sinaloa, Mexico
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '5955'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '5954'
+    country: Mexico
+    main_entry: 'true'

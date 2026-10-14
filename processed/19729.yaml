@@ -22,3 +22,8 @@ place_of_birth_list:
   - uid: '20107'
     place_of_birth: Brussels, Belgium
     main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '20109'
+    country: France
+    main_entry: 'true'

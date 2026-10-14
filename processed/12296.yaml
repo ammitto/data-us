@@ -75,3 +75,16 @@ place_of_birth_list:
   - uid: '8013'
     place_of_birth: Cali, Colombia
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '8016'
+    country: Italy
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '8014'
+    country: Colombia
+    main_entry: 'true'
+  - uid: '8015'
+    country: Mexico
+    main_entry: 'false'

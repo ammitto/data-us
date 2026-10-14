@@ -65,3 +65,17 @@ place_of_birth_list:
   - uid: '22219'
     place_of_birth: Paddington, London, United Kingdom
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '22193'
+    country: Ghana
+    main_entry: 'true'
+  - uid: '22194'
+    country: Greece
+    main_entry: 'false'
+  - uid: '22195'
+    country: Cyprus
+    main_entry: 'false'
+  - uid: '22218'
+    country: United Kingdom
+    main_entry: 'false'

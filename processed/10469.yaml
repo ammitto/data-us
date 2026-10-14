@@ -40,3 +40,13 @@ place_of_birth_list:
   - uid: '5705'
     place_of_birth: Yacopi, Cundinamarca, Colombia
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '5707'
+    country: Colombia
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '5706'
+    country: Colombia
+    main_entry: 'true'

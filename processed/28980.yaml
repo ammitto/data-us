@@ -66,3 +66,14 @@ place_of_birth_list:
   - uid: '35781'
     place_of_birth: Bocaranga, Ouham-Pende prefecture, Central African Republic
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '35783'
+    country: Central African Republic
+    main_entry: 'true'
+  - uid: '35784'
+    country: Chad
+    main_entry: 'false'
+  - uid: '35785'
+    country: Cameroon
+    main_entry: 'false'

@@ -60,3 +60,8 @@ place_of_birth_list:
   - uid: '2064'
     place_of_birth: Marrakech, Morocco
     main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '2065'
+    country: Morocco
+    main_entry: 'true'

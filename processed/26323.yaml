@@ -52,3 +52,13 @@ place_of_birth_list:
   - uid: '31761'
     place_of_birth: Shanghai, China
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '30735'
+    country: China
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '30733'
+    country: China
+    main_entry: 'true'

@@ -45,3 +45,13 @@ place_of_birth_list:
   - uid: '67858'
     place_of_birth: Haiti
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '67772'
+    country: Haiti
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '67485'
+    country: Haiti
+    main_entry: 'true'

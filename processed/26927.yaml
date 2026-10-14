@@ -44,3 +44,8 @@ date_of_birth_list:
   - uid: '32010'
     date_of_birth: 18 Jul 1960
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '32011'
+    country: Taiwan
+    main_entry: 'true'

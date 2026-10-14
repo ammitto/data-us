@@ -35,3 +35,13 @@ place_of_birth_list:
   - uid: '7713'
     place_of_birth: Guatemala
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '7715'
+    country: Guatemala
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '7714'
+    country: Guatemala
+    main_entry: 'true'

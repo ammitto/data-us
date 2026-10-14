@@ -20,3 +20,13 @@ place_of_birth_list:
   - uid: '7422'
     place_of_birth: Casanare, Colombia
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '7424'
+    country: Colombia
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '7423'
+    country: Colombia
+    main_entry: 'true'

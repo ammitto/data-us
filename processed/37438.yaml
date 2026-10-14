@@ -61,3 +61,11 @@ place_of_birth_list:
     place_of_birth: Balkh Province, Afghanistan
     main_entry: 'false'
 remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS (IRGC)-QODS FORCE)"
+nationality_list:
+  items:
+  - uid: '52296'
+    country: Afghanistan
+    main_entry: 'true'
+  - uid: '52297'
+    country: Russia
+    main_entry: 'false'

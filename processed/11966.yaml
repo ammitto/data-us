@@ -42,3 +42,13 @@ place_of_birth_list:
   - uid: '7447'
     place_of_birth: San Luis Potosi, Mexico
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '7449'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '7448'
+    country: Mexico
+    main_entry: 'true'

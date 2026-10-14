@@ -56,3 +56,8 @@ place_of_birth_list:
   - uid: '7330'
     place_of_birth: Paracuaro, Mexico
     main_entry: 'false'
+nationality_list:
+  items:
+  - uid: '7331'
+    country: Mexico
+    main_entry: 'true'

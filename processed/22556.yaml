@@ -48,3 +48,8 @@ place_of_birth_list:
   - uid: '23999'
     place_of_birth: Omsk, Siberia, Russia
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '24000'
+    country: Russia
+    main_entry: 'true'

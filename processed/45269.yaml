@@ -37,3 +37,13 @@ place_of_birth_list:
   - uid: '65672'
     place_of_birth: San Pedro de Uraba, Antioquia, Colombia
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '65771'
+    country: Colombia
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '65673'
+    country: Colombia
+    main_entry: 'true'

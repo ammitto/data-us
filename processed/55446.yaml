@@ -25,3 +25,13 @@ place_of_birth_list:
   - uid: '92874'
     place_of_birth: Mumbai, India
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '92876'
+    country: India
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '92875'
+    country: India
+    main_entry: 'true'

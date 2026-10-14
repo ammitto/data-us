@@ -46,3 +46,11 @@ place_of_birth_list:
   - uid: '97689'
     place_of_birth: Iran
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '97691'
+    country: Iran
+    main_entry: 'true'
+  - uid: '97692'
+    country: Dominica
+    main_entry: 'false'

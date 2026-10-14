@@ -71,3 +71,13 @@ place_of_birth_list:
   - uid: '5062'
     place_of_birth: La Virginia, Risaralda, Colombia
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '5064'
+    country: Colombia
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '5063'
+    country: Colombia
+    main_entry: 'true'

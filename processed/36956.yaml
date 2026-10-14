@@ -31,3 +31,11 @@ date_of_birth_list:
   - uid: '51077'
     date_of_birth: 14 Jul 1958
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '51079'
+    country: Russia
+    main_entry: 'true'
+  - uid: '51080'
+    country: Armenia
+    main_entry: 'false'

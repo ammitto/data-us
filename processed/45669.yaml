@@ -61,3 +61,11 @@ place_of_birth_list:
     place_of_birth: Kuwait
     main_entry: 'true'
 remarks: "(Linked To: HAMAS)"
+nationality_list:
+  items:
+  - uid: '66196'
+    country: Turkey
+    main_entry: 'true'
+  - uid: '66219'
+    country: Jordan
+    main_entry: 'false'

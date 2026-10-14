@@ -31,3 +31,8 @@ place_of_birth_list:
   - uid: '4407'
     place_of_birth: Ghar el-dimaa, Tunisia
     main_entry: 'false'
+nationality_list:
+  items:
+  - uid: '4408'
+    country: Tunisia
+    main_entry: 'true'

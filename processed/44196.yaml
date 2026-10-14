@@ -91,3 +91,20 @@ date_of_birth_list:
   - uid: '64598'
     date_of_birth: 01 Jan 1982
     main_entry: 'false'
+nationality_list:
+  items:
+  - uid: '64599'
+    country: Hungary
+    main_entry: 'false'
+  - uid: '64600'
+    country: Belgium
+    main_entry: 'false'
+  - uid: '64601'
+    country: Afghanistan
+    main_entry: 'true'
+  - uid: '64602'
+    country: Cyprus
+    main_entry: 'false'
+  - uid: '64603'
+    country: Saint Kitts and Nevis
+    main_entry: 'false'

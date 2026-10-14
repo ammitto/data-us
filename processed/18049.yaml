@@ -31,3 +31,11 @@ date_of_birth_list:
   - uid: '17201'
     date_of_birth: 05 Nov 1980
     main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '17202'
+    country: Australia
+    main_entry: 'true'
+  - uid: '17203'
+    country: Lebanon
+    main_entry: 'false'

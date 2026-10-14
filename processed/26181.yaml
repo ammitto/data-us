@@ -31,3 +31,8 @@ place_of_birth_list:
   - uid: '30599'
     place_of_birth: Jalisco, Mexico
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '30601'
+    country: Mexico
+    main_entry: 'true'

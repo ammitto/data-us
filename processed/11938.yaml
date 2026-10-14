@@ -37,3 +37,13 @@ place_of_birth_list:
   - uid: '7573'
     place_of_birth: Tepalcatepec, Michoacan
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '7575'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '7574'
+    country: Mexico
+    main_entry: 'true'

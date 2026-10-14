@@ -82,3 +82,19 @@ place_of_birth_list:
     place_of_birth: Palestine
     main_entry: 'true'
 remarks: "(Linked To: HAMAS)"
+nationality_list:
+  items:
+  - uid: '52269'
+    country: Palestinian
+    main_entry: 'true'
+  - uid: '52276'
+    country: Lebanon
+    main_entry: 'false'
+citizenship_list:
+  items:
+  - uid: '52270'
+    country: Lebanon
+    main_entry: 'true'
+  - uid: '52294'
+    country: Canada
+    main_entry: 'false'

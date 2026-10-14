@@ -29,3 +29,8 @@ place_of_birth_list:
   - uid: '53002'
     place_of_birth: Yuzhno-Sakhalinsk, Russia
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '53001'
+    country: Russia
+    main_entry: 'true'

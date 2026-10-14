@@ -55,3 +55,11 @@ place_of_birth_list:
   - uid: '39911'
     place_of_birth: Kyrgyzstan
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '39913'
+    country: Russia
+    main_entry: 'true'
+  - uid: '39914'
+    country: Ukraine
+    main_entry: 'false'

@@ -46,3 +46,11 @@ place_of_birth_list:
     place_of_birth: Chiapas, Mexico
     main_entry: 'false'
 remarks: "(Linked To: SINALOA CARTEL)"
+nationality_list:
+  items:
+  - uid: '101485'
+    country: Mexico
+    main_entry: 'true'
+  - uid: '101486'
+    country: El Salvador
+    main_entry: 'false'

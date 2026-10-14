@@ -21,3 +21,13 @@ date_of_birth_list:
   - uid: '7538'
     date_of_birth: '08 Oct 1972'
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '7540'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '7539'
+    country: Mexico
+    main_entry: 'true'

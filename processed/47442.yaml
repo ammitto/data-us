@@ -43,3 +43,11 @@ place_of_birth_list:
     place_of_birth: Mombasa, Kenya
     main_entry: 'true'
 remarks: "(Linked To: AL-SHABAAB)"
+nationality_list:
+  items:
+  - uid: '68952'
+    country: Somalia
+    main_entry: 'true'
+  - uid: '68953'
+    country: Kenya
+    main_entry: 'false'

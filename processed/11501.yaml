@@ -37,3 +37,13 @@ place_of_birth_list:
   - uid: '6927'
     place_of_birth: Amalfi, Antioquia
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '6929'
+    country: Colombia
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '6928'
+    country: Colombia
+    main_entry: 'true'

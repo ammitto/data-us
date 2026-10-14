@@ -87,3 +87,11 @@ place_of_birth_list:
   - uid: '16201'
     place_of_birth: Duisi, Akhmeta District, Georgia
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '16199'
+    country: Georgia
+    main_entry: 'true'
+  - uid: '16200'
+    country: Russia
+    main_entry: 'false'

@@ -31,3 +31,13 @@ place_of_birth_list:
   - uid: '7661'
     place_of_birth: Mier, Tamaulipas, Mexico
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '7663'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '7662'
+    country: Mexico
+    main_entry: 'true'

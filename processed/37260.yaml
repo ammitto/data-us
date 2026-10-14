@@ -37,3 +37,8 @@ place_of_birth_list:
   - uid: '51750'
     place_of_birth: Mexico
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '51751'
+    country: Mexico
+    main_entry: 'true'

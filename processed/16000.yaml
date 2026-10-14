@@ -93,3 +93,8 @@ place_of_birth_list:
   - uid: '13671'
     place_of_birth: Danar, Libya
     main_entry: 'false'
+nationality_list:
+  items:
+  - uid: '13672'
+    country: Libya
+    main_entry: 'true'

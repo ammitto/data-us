@@ -59,3 +59,14 @@ place_of_birth_list:
     place_of_birth: Ahar, Iran
     main_entry: 'true'
 remarks: "(Linked To: EBRAHIMI AND ASSOCIATES PARTNERSHIP COMPANY)"
+nationality_list:
+  items:
+  - uid: '98107'
+    country: Iran
+    main_entry: 'true'
+  - uid: '98108'
+    country: Turkey
+    main_entry: 'false'
+  - uid: '98279'
+    country: Dominica
+    main_entry: 'false'

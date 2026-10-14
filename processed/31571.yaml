@@ -38,3 +38,11 @@ place_of_birth_list:
   - uid: '40064'
     place_of_birth: Ostapovka, Mirgorod District, Poltava Oblast, Ukraine
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '40076'
+    country: Ukraine
+    main_entry: 'true'
+  - uid: '40077'
+    country: Russia
+    main_entry: 'false'

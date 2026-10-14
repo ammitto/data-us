@@ -43,3 +43,11 @@ place_of_birth_list:
   - uid: '12904'
     place_of_birth: Jouar, Lebanon
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '12906'
+    country: Lebanon
+    main_entry: 'true'
+  - uid: '12907'
+    country: Canada
+    main_entry: 'false'

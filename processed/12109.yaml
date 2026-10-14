@@ -52,3 +52,11 @@ place_of_birth_list:
   - uid: '7847'
     place_of_birth: Las Cruces, New Mexico
     main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '7843'
+    country: United States
+    main_entry: 'false'
+  - uid: '7844'
+    country: Yemen
+    main_entry: 'false'

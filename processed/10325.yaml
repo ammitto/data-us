@@ -19,3 +19,13 @@ place_of_birth_list:
   - uid: '5401'
     place_of_birth: Mugambazi, Kigali
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '5402'
+    country: Rwanda
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '5398'
+    country: Rwanda
+    main_entry: 'true'

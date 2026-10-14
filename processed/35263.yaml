@@ -32,3 +32,13 @@ place_of_birth_list:
   - uid: '48749'
     place_of_birth: Novosibirsk, Russia
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '48747'
+    country: Russia
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '48746'
+    country: Russia
+    main_entry: 'true'

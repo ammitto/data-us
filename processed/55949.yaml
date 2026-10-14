@@ -49,3 +49,11 @@ date_of_birth_list:
     date_of_birth: 24 Mar 1991
     main_entry: 'true'
 remarks: "(Linked To: GRAND LEGEND INTERNATIONAL ASSET MANAGEMENT GROUP CO. LTD.)"
+nationality_list:
+  items:
+  - uid: '94016'
+    country: Cambodia
+    main_entry: 'true'
+  - uid: '94017'
+    country: Vanuatu
+    main_entry: 'false'

@@ -30,3 +30,13 @@ date_of_birth_list:
   - uid: '65878'
     date_of_birth: 28 Oct 1992
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '65880'
+    country: China
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '65879'
+    country: China
+    main_entry: 'true'

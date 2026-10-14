@@ -36,3 +36,11 @@ place_of_birth_list:
   - uid: '97675'
     place_of_birth: Silvaneh, Orumiyeh, Iran
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '97676'
+    country: Iran
+    main_entry: 'true'
+  - uid: '97677'
+    country: Saint Kitts and Nevis
+    main_entry: 'false'

@@ -45,3 +45,13 @@ place_of_birth_list:
   - uid: '58862'
     place_of_birth: Mariupol, Donetsk Region, Ukraine
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '58869'
+    country: Russia
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '58867'
+    country: Russia
+    main_entry: 'true'

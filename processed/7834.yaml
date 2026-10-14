@@ -37,3 +37,8 @@ place_of_birth_list:
   - uid: '4416'
     place_of_birth: Koubellat, Tunisia
     main_entry: 'false'
+nationality_list:
+  items:
+  - uid: '4415'
+    country: Tunisia
+    main_entry: 'true'

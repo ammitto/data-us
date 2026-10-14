@@ -144,3 +144,11 @@ place_of_birth_list:
     place_of_birth: Tbilisi, Georgia
     main_entry: 'true'
 remarks: "(Linked To: THIEVES-IN-LAW)"
+nationality_list:
+  items:
+  - uid: '24914'
+    country: Georgia
+    main_entry: 'true'
+  - uid: '24915'
+    country: Russia
+    main_entry: 'false'

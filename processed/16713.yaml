@@ -46,3 +46,16 @@ place_of_birth_list:
   - uid: '15256'
     place_of_birth: Praia, Cabo Verde
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '15255'
+    country: Cabo Verde
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '15257'
+    country: Cabo Verde
+    main_entry: 'true'
+  - uid: '15258'
+    country: Guinea-Bissau
+    main_entry: 'false'

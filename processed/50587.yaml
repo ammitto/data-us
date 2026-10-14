@@ -58,3 +58,11 @@ place_of_birth_list:
   - uid: '78844'
     place_of_birth: Trat, Thailand
     main_entry: 'false'
+nationality_list:
+  items:
+  - uid: '78846'
+    country: Thailand
+    main_entry: 'false'
+  - uid: '78847'
+    country: Cambodia
+    main_entry: 'true'

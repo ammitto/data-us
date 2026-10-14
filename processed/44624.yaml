@@ -44,3 +44,16 @@ place_of_birth_list:
     place_of_birth: Bza'ah, al-Bab District, Syria
     main_entry: 'true'
 remarks: "(Linked To: HAMZA DIVISION)"
+nationality_list:
+  items:
+  - uid: '64800'
+    country: Syria
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '64717'
+    country: Syria
+    main_entry: 'true'
+  - uid: '64718'
+    country: Turkey
+    main_entry: 'false'

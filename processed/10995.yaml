@@ -144,3 +144,13 @@ place_of_birth_list:
   - uid: '6421'
     place_of_birth: CULIACAN, SINALOA, MEXICO
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '6423'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '6422'
+    country: Mexico
+    main_entry: 'true'

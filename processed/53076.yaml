@@ -57,3 +57,11 @@ place_of_birth_list:
     place_of_birth: Saint Petersburg, Russia
     main_entry: 'true'
 remarks: "(Linked To: GARANTEX EUROPE OU)"
+nationality_list:
+  items:
+  - uid: '85363'
+    country: Russia
+    main_entry: 'true'
+  - uid: '85364'
+    country: Ghana
+    main_entry: 'false'

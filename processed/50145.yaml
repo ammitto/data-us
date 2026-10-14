@@ -35,3 +35,8 @@ place_of_birth_list:
   - uid: '77702'
     place_of_birth: Maracay, Aragua, Venezuela
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '77701'
+    country: Venezuela
+    main_entry: 'true'

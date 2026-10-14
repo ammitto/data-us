@@ -26,3 +26,13 @@ place_of_birth_list:
   - uid: '7156'
     place_of_birth: Agua Prieta, Sonora, Mexico
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '7158'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '7157'
+    country: Mexico
+    main_entry: 'true'

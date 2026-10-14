@@ -39,3 +39,13 @@ place_of_birth_list:
   - uid: '57847'
     place_of_birth: Rostov-on-Don, Rostov Region, Russia
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '57850'
+    country: Russia
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '57849'
+    country: Russia
+    main_entry: 'true'

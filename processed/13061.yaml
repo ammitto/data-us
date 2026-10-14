@@ -61,3 +61,8 @@ place_of_birth_list:
   - uid: '8873'
     place_of_birth: Deric, Turkey
     main_entry: 'false'
+citizenship_list:
+  items:
+  - uid: '8872'
+    country: Turkey
+    main_entry: 'true'

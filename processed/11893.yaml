@@ -34,3 +34,13 @@ place_of_birth_list:
   - uid: '7418'
     place_of_birth: Colombia
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '7420'
+    country: Colombia
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '7419'
+    country: Colombia
+    main_entry: 'true'

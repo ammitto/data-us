@@ -99,3 +99,11 @@ place_of_birth_list:
     place_of_birth: Ludwigshafen, Germany
     main_entry: 'true'
 remarks: Associated with Islamic Jihad Group
+nationality_list:
+  items:
+  - uid: '8835'
+    country: Germany
+    main_entry: 'true'
+  - uid: '8836'
+    country: Turkey
+    main_entry: 'false'

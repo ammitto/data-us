@@ -31,3 +31,8 @@ place_of_birth_list:
   - uid: '70008'
     place_of_birth: Baja California, Mexico
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '70009'
+    country: Mexico
+    main_entry: 'true'

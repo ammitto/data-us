@@ -40,3 +40,8 @@ place_of_birth_list:
     main_entry: 'true'
 remarks: Passport and National ID were issued in Ulm, Germany.  Currently incarcerated
   at JVA Bruchsal prison.
+nationality_list:
+  items:
+  - uid: '7683'
+    country: Germany
+    main_entry: 'true'

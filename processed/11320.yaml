@@ -79,3 +79,8 @@ place_of_birth_list:
     place_of_birth: Liege, Belgium
     main_entry: 'false'
 remarks: currently incarcerated at Stuttgart-Stammheim, Germany
+citizenship_list:
+  items:
+  - uid: '6666'
+    country: Germany
+    main_entry: 'true'

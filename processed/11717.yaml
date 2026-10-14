@@ -36,3 +36,13 @@ place_of_birth_list:
   - uid: '7184'
     place_of_birth: Xochimilco, Distrito Federal, Mexico
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '7186'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '7185'
+    country: Mexico
+    main_entry: 'true'

@@ -39,3 +39,19 @@ place_of_birth_list:
   - uid: '57668'
     place_of_birth: Tashkent, Uzbekistan
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '57671'
+    country: Russia
+    main_entry: 'true'
+  - uid: '57672'
+    country: Israel
+    main_entry: 'false'
+citizenship_list:
+  items:
+  - uid: '57669'
+    country: Russia
+    main_entry: 'true'
+  - uid: '57670'
+    country: Cyprus
+    main_entry: 'false'

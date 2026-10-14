@@ -41,3 +41,13 @@ place_of_birth_list:
   - uid: '4352'
     place_of_birth: Hidalgo Del Parral, Chihuaua, Mexico
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '4354'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '4353'
+    country: Mexico
+    main_entry: 'true'

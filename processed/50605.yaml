@@ -31,3 +31,19 @@ date_of_birth_list:
   - uid: '78936'
     date_of_birth: 06 Aug 1978
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '78939'
+    country: Congo, Democratic Republic of the
+    main_entry: 'true'
+  - uid: '78941'
+    country: Rwanda
+    main_entry: 'false'
+citizenship_list:
+  items:
+  - uid: '78938'
+    country: Congo, Democratic Republic of the
+    main_entry: 'true'
+  - uid: '78940'
+    country: Rwanda
+    main_entry: 'false'

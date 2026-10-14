@@ -50,3 +50,13 @@ place_of_birth_list:
   - uid: '12537'
     place_of_birth: Sojad, Lebanon
     main_entry: 'false'
+nationality_list:
+  items:
+  - uid: '12539'
+    country: Lebanon
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '12538'
+    country: Lebanon
+    main_entry: 'true'

@@ -56,3 +56,11 @@ place_of_birth_list:
     place_of_birth: Lviv, Lviv Oblast, Ukraine
     main_entry: 'true'
 remarks: "(Linked To: LIMITED LIABILITY COMPANY KALEIDOSKOP)"
+nationality_list:
+  items:
+  - uid: '57808'
+    country: Russia
+    main_entry: 'true'
+  - uid: '57809'
+    country: Israel
+    main_entry: 'false'

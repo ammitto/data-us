@@ -16,3 +16,13 @@ date_of_birth_list:
   - uid: '20739'
     date_of_birth: 03 Oct 1964
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '20744'
+    country: Syria
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '20743'
+    country: Russia
+    main_entry: 'true'

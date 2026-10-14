@@ -20,3 +20,8 @@ id_list:
   - uid: '22133'
     id_type: Vessel Registration Identification
     id_number: IMO 7406784
+vessel_info:
+  vessel_type: General Cargo
+  vessel_flag: Panama
+  tonnage: '2595'
+  gross_registered_tonnage: '1865'

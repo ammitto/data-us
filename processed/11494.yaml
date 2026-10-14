@@ -52,3 +52,11 @@ place_of_birth_list:
   - uid: '6902'
     place_of_birth: Sierra Leone
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '6903'
+    country: Lebanon
+    main_entry: 'false'
+  - uid: '6904'
+    country: Sierra Leone
+    main_entry: 'true'

@@ -30,3 +30,16 @@ place_of_birth_list:
   - uid: '94259'
     place_of_birth: Zipaquira, Colombia
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '94261'
+    country: Colombia
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '94272'
+    country: Colombia
+    main_entry: 'true'
+  - uid: '94273'
+    country: Italy
+    main_entry: 'false'

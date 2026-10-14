@@ -47,3 +47,11 @@ date_of_birth_list:
     date_of_birth: 05 Nov 1968
     main_entry: 'true'
 remarks: "(Linked To: AL-JAMAL, Sa'id Ahmad Muhammad)"
+citizenship_list:
+  items:
+  - uid: '77259'
+    country: Singapore
+    main_entry: 'true'
+  - uid: '77260'
+    country: Malaysia
+    main_entry: 'false'

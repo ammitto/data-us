@@ -49,3 +49,8 @@ date_of_birth_list:
   - uid: '15025'
     date_of_birth: 01 Jan 1977 to 31 Dec 1985
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '15006'
+    country: Uzbekistan
+    main_entry: 'true'

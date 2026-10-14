@@ -43,3 +43,11 @@ place_of_birth_list:
   - uid: '24966'
     place_of_birth: Malaya Mochulka, Vinnitska, Ukraine
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '24968'
+    country: Ukraine
+    main_entry: 'true'
+  - uid: '24969'
+    country: Russia
+    main_entry: 'false'

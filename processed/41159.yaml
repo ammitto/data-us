@@ -40,3 +40,13 @@ place_of_birth_list:
   - uid: '59329'
     place_of_birth: Voronezh, Russia
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '59331'
+    country: Russia
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '59330'
+    country: Russia
+    main_entry: 'true'

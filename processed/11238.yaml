@@ -46,3 +46,13 @@ date_of_birth_list:
   - uid: '6579'
     date_of_birth: 18 Mar 1967
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '6581'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '6580'
+    country: Mexico
+    main_entry: 'true'

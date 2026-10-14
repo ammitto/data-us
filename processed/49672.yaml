@@ -61,3 +61,11 @@ date_of_birth_list:
     date_of_birth: 11 Sep 1974
     main_entry: 'true'
 remarks: "(Linked To: MINISTRY OF DEFENSE AND ARMED FORCES LOGISTICS)"
+nationality_list:
+  items:
+  - uid: '72985'
+    country: Iran
+    main_entry: 'true'
+  - uid: '72986'
+    country: Turkey
+    main_entry: 'false'

@@ -48,3 +48,11 @@ place_of_birth_list:
     place_of_birth: Cali, Valle, Colombia
     main_entry: 'true'
 remarks: "(Linked To: CARTEL DE JALISCO NUEVA GENERACION)"
+nationality_list:
+  items:
+  - uid: '39560'
+    country: Mexico
+    main_entry: 'false'
+  - uid: '39561'
+    country: Colombia
+    main_entry: 'true'

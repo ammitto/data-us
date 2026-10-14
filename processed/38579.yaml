@@ -42,3 +42,8 @@ place_of_birth_list:
   - uid: '54041'
     place_of_birth: Moscow, Russia
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '54040'
+    country: Russia
+    main_entry: 'true'

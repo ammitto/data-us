@@ -34,3 +34,13 @@ place_of_birth_list:
     place_of_birth: Gorky, Russia
     main_entry: 'true'
 remarks: "(Linked To: JSC ARGUMENT)"
+nationality_list:
+  items:
+  - uid: '52204'
+    country: Russia
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '52201'
+    country: Russia
+    main_entry: 'true'

@@ -32,3 +32,13 @@ date_of_birth_list:
   - uid: '63020'
     date_of_birth: 16 Feb 1985
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '63091'
+    country: Russia
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '63022'
+    country: Russia
+    main_entry: 'true'

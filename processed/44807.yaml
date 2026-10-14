@@ -37,3 +37,13 @@ date_of_birth_list:
   - uid: '65064'
     date_of_birth: 01 Jan 1972
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '65063'
+    country: Sudan
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '65062'
+    country: Sudan
+    main_entry: 'true'

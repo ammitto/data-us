@@ -24,3 +24,8 @@ id_list:
     id_type: Passport
     id_number: '035667'
     id_country: Iraq
+nationality_list:
+  items:
+  - uid: '2600'
+    country: Iraq
+    main_entry: 'true'

@@ -178,3 +178,19 @@ place_of_birth_list:
   - uid: '4797'
     place_of_birth: Ratnagiri, Maharashtra, India
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '4801'
+    country: India
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '4798'
+    country: India
+    main_entry: 'true'
+  - uid: '4799'
+    country: Pakistan
+    main_entry: 'false'
+  - uid: '4800'
+    country: United Arab Emirates
+    main_entry: 'false'

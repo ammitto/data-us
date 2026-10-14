@@ -44,3 +44,11 @@ place_of_birth_list:
   - uid: '72664'
     place_of_birth: Penza, Russia
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '72636'
+    country: Russia
+    main_entry: 'true'
+  - uid: '72638'
+    country: Cyprus
+    main_entry: 'false'

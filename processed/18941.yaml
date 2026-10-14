@@ -30,3 +30,14 @@ place_of_birth_list:
     place_of_birth: Kamed El Louz, Lebanon
     main_entry: 'true'
 remarks: "(Linked To: WAKED MONEY LAUNDERING ORGANIZATION)"
+citizenship_list:
+  items:
+  - uid: '18499'
+    country: Panama
+    main_entry: 'true'
+  - uid: '18500'
+    country: Lebanon
+    main_entry: 'false'
+  - uid: '18501'
+    country: Colombia
+    main_entry: 'false'

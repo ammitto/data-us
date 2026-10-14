@@ -30,3 +30,13 @@ place_of_birth_list:
   - uid: '6469'
     place_of_birth: La Huacana, Michoacan De Ocampo, Mexico
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '6471'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '6470'
+    country: Mexico
+    main_entry: 'true'

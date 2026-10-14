@@ -79,3 +79,11 @@ place_of_birth_list:
   - uid: '58370'
     place_of_birth: Grozny, Russia
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '58270'
+    country: Russia
+    main_entry: 'true'
+  - uid: '58371'
+    country: Israel
+    main_entry: 'false'

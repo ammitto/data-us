@@ -47,3 +47,11 @@ place_of_birth_list:
   - uid: '23955'
     place_of_birth: Belgium
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '23956'
+    country: Belgium
+    main_entry: 'true'
+  - uid: '23957'
+    country: Morocco
+    main_entry: 'false'

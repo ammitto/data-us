@@ -38,3 +38,16 @@ place_of_birth_list:
     place_of_birth: Dnepropetrovsk, Ukraine
     main_entry: 'true'
 remarks: "(Linked To: VFC SOLUTIONS LTD)"
+nationality_list:
+  items:
+  - uid: '57691'
+    country: Cyprus
+    main_entry: 'true'
+  - uid: '57692'
+    country: Israel
+    main_entry: 'false'
+citizenship_list:
+  items:
+  - uid: '57688'
+    country: Cyprus
+    main_entry: 'true'

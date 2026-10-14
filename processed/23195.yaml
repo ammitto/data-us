@@ -57,3 +57,16 @@ place_of_birth_list:
   - uid: '24865'
     place_of_birth: Egypt
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '24868'
+    country: Egypt
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '24866'
+    country: Malta
+    main_entry: 'false'
+  - uid: '24867'
+    country: Egypt
+    main_entry: 'true'

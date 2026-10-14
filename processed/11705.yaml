@@ -33,3 +33,13 @@ place_of_birth_list:
   - uid: '7232'
     place_of_birth: Tapachula, Chiapas, Mexico
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '7234'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '7233'
+    country: Mexico
+    main_entry: 'true'

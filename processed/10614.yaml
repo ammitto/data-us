@@ -163,3 +163,16 @@ place_of_birth_list:
   - uid: '5948'
     place_of_birth: Guayabito, Pericos, Morocito, Sinaloa, Mexico
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '5951'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '5949'
+    country: Mexico
+    main_entry: 'true'
+  - uid: '5950'
+    country: United States
+    main_entry: 'false'

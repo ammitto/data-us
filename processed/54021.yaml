@@ -38,3 +38,13 @@ date_of_birth_list:
   - uid: '89249'
     date_of_birth: 31 Dec 1966
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '89251'
+    country: Colombia
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '89250'
+    country: Colombia
+    main_entry: 'true'

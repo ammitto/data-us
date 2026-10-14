@@ -72,3 +72,14 @@ place_of_birth_list:
     place_of_birth: Sierra Leone
     main_entry: 'false'
 remarks: "(Linked To: HIZBALLAH)"
+citizenship_list:
+  items:
+  - uid: '16920'
+    country: Lebanon
+    main_entry: 'true'
+  - uid: '16921'
+    country: Nigeria
+    main_entry: 'false'
+  - uid: '16922'
+    country: Sierra Leone
+    main_entry: 'false'

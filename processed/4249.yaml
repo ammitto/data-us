@@ -10,3 +10,8 @@ id_list:
   - uid: '22033'
     id_type: Vessel Registration Identification
     id_number: IMO 7206512
+vessel_info:
+  call_sign: CL2059
+  vessel_type: Tug
+  vessel_flag: Cuba
+  gross_registered_tonnage: '189'

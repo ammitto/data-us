@@ -89,3 +89,19 @@ place_of_birth_list:
   - uid: '6327'
     place_of_birth: Maicao, Guajira, Colombia
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '6330'
+    country: Venezuela
+    main_entry: 'true'
+  - uid: '6331'
+    country: Colombia
+    main_entry: 'false'
+citizenship_list:
+  items:
+  - uid: '6328'
+    country: Venezuela
+    main_entry: 'true'
+  - uid: '6329'
+    country: Colombia
+    main_entry: 'false'

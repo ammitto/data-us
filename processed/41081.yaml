@@ -33,3 +33,13 @@ place_of_birth_list:
   - uid: '59003'
     place_of_birth: Kostroma, Kostroma Region, Russia
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '59006'
+    country: Russia
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '59005'
+    country: Russia
+    main_entry: 'true'

@@ -56,3 +56,14 @@ place_of_birth_list:
   - uid: '5179'
     place_of_birth: Asuncion, Paraguay
     main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '5180'
+    country: Lebanon
+    main_entry: 'false'
+  - uid: '5181'
+    country: Brazil
+    main_entry: 'false'
+  - uid: '5182'
+    country: Paraguay
+    main_entry: 'false'

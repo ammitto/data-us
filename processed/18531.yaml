@@ -81,3 +81,11 @@ date_of_birth_list:
     date_of_birth: 22 Oct 1957
     main_entry: 'true'
 remarks: "(Linked To: HAMAS)"
+nationality_list:
+  items:
+  - uid: '17886'
+    country: United Kingdom
+    main_entry: 'false'
+  - uid: '17887'
+    country: Jordan
+    main_entry: 'false'

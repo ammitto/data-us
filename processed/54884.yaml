@@ -35,3 +35,11 @@ place_of_birth_list:
     place_of_birth: Aberdeen, United Kingdom
     main_entry: 'true'
 remarks: "(Linked To: PROGWIN SHIPPING SA)"
+nationality_list:
+  items:
+  - uid: '91372'
+    country: United Kingdom
+    main_entry: 'true'
+  - uid: '91757'
+    country: France
+    main_entry: 'false'

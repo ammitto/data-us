@@ -79,3 +79,11 @@ place_of_birth_list:
   - uid: '2049'
     place_of_birth: Sreka, ex-Yugoslavia
     main_entry: 'false'
+nationality_list:
+  items:
+  - uid: '4417'
+    country: Tunisia
+    main_entry: 'true'
+  - uid: '4544'
+    country: Bosnia and Herzegovina
+    main_entry: 'false'

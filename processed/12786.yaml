@@ -75,3 +75,13 @@ place_of_birth_list:
   - uid: '8515'
     place_of_birth: Jalisco, Mexico
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '8517'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '8516'
+    country: Mexico
+    main_entry: 'true'

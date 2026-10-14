@@ -46,3 +46,11 @@ place_of_birth_list:
     place_of_birth: New Delhi, India
     main_entry: 'true'
 remarks: "(Linked To: BHARDWAJ, Vikrant)"
+nationality_list:
+  items:
+  - uid: '94216'
+    country: India
+    main_entry: 'true'
+  - uid: '94217'
+    country: Mexico
+    main_entry: 'false'

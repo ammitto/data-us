@@ -26,3 +26,11 @@ date_of_birth_list:
   - uid: '51110'
     date_of_birth: '1969'
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '51107'
+    country: Russia
+    main_entry: 'true'
+  - uid: '51108'
+    country: Bulgaria
+    main_entry: 'false'

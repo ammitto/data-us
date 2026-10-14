@@ -45,3 +45,8 @@ place_of_birth_list:
   - uid: '50111'
     place_of_birth: Leningrad, Russia
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '50112'
+    country: Russia
+    main_entry: 'true'

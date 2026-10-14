@@ -48,3 +48,13 @@ place_of_birth_list:
   - uid: '6425'
     place_of_birth: Mazatlan, Sinaloa, Mexico
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '6427'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '6426'
+    country: Mexico
+    main_entry: 'true'

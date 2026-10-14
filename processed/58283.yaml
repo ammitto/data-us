@@ -57,3 +57,16 @@ place_of_birth_list:
     place_of_birth: Shemiran, Iran
     main_entry: 'true'
 remarks: "(Linked To: KAVOSHCOM ASIA R AND D GROUP)"
+nationality_list:
+  items:
+  - uid: '100082'
+    country: Iran
+    main_entry: 'true'
+  - uid: '100083'
+    country: United States
+    main_entry: 'false'
+citizenship_list:
+  items:
+  - uid: '100207'
+    country: United States
+    main_entry: 'true'

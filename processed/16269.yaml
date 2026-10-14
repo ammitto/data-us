@@ -61,3 +61,8 @@ date_of_birth_list:
   - uid: '14628'
     date_of_birth: '08 Aug 1950'
     main_entry: 'false'
+citizenship_list:
+  items:
+  - uid: '14626'
+    country: Israel
+    main_entry: 'true'

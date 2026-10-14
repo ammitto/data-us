@@ -43,3 +43,13 @@ place_of_birth_list:
   - uid: '7518'
     place_of_birth: Reynosa, Tamaulipas
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '7520'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '7519'
+    country: Mexico
+    main_entry: 'true'

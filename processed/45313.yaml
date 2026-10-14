@@ -33,3 +33,13 @@ date_of_birth_list:
   - uid: '65746'
     date_of_birth: 19 Jul 1982
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '65748'
+    country: Canada
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '65747'
+    country: Canada
+    main_entry: 'true'

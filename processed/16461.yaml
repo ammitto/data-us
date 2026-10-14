@@ -28,3 +28,8 @@ place_of_birth_list:
   - uid: '14882'
     place_of_birth: Valencia, Cordoba, Colombia
     main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '14883'
+    country: Colombia
+    main_entry: 'true'

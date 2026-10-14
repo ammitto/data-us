@@ -48,3 +48,11 @@ place_of_birth_list:
     place_of_birth: Tiraspol, Moldova
     main_entry: 'true'
 remarks: "(Linked To: INTERREGIONAL SOCIAL ORGANIZATION UNION OF DONBAS VOLUNTEERS)"
+nationality_list:
+  items:
+  - uid: '52620'
+    country: Russia
+    main_entry: 'true'
+  - uid: '52621'
+    country: Ukraine
+    main_entry: 'false'

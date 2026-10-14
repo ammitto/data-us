@@ -155,3 +155,13 @@ place_of_birth_list:
   - uid: '7893'
     place_of_birth: Guadalajara, Jalisco, Mexico
     main_entry: 'false'
+nationality_list:
+  items:
+  - uid: '7895'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '7894'
+    country: Mexico
+    main_entry: 'true'

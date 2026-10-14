@@ -76,3 +76,13 @@ place_of_birth_list:
   - uid: '7796'
     place_of_birth: Mugica, Michoacan, Mexico
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '7795'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '7794'
+    country: Mexico
+    main_entry: 'true'

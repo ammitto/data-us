@@ -39,3 +39,11 @@ date_of_birth_list:
     date_of_birth: 04 Jul 1966
     main_entry: 'true'
 remarks: "(Linked To: AHMAD, Firas Nazem)"
+nationality_list:
+  items:
+  - uid: '60686'
+    country: Lebanon
+    main_entry: 'true'
+  - uid: '60687'
+    country: United Kingdom
+    main_entry: 'false'

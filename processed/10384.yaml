@@ -55,3 +55,8 @@ place_of_birth_list:
   - uid: '5580'
     place_of_birth: Kabul City, Afghanistan
     main_entry: 'false'
+citizenship_list:
+  items:
+  - uid: '5581'
+    country: Afghanistan
+    main_entry: 'true'

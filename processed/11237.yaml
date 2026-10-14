@@ -60,3 +60,13 @@ date_of_birth_list:
   - uid: '6584'
     date_of_birth: 13 Nov 1964
     main_entry: 'false'
+nationality_list:
+  items:
+  - uid: '6586'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '6585'
+    country: Mexico
+    main_entry: 'true'

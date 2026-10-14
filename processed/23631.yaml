@@ -55,3 +55,11 @@ place_of_birth_list:
     place_of_birth: Band-e-Temor, Maiwand District, Kandahar Province, Afghanistan
     main_entry: 'true'
 remarks: "(Linked To: TALIBAN)"
+nationality_list:
+  items:
+  - uid: '25545'
+    country: Afghanistan
+    main_entry: 'true'
+  - uid: '25547'
+    country: Pakistan
+    main_entry: 'false'

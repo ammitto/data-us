@@ -49,3 +49,8 @@ place_of_birth_list:
   - uid: '7775'
     place_of_birth: Helmand, Afghanistan
     main_entry: 'false'
+nationality_list:
+  items:
+  - uid: '7776'
+    country: Afghanistan
+    main_entry: 'true'

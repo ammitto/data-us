@@ -38,3 +38,11 @@ place_of_birth_list:
   - uid: '101941'
     place_of_birth: Tehran, Iran
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '101737'
+    country: Iran
+    main_entry: 'true'
+  - uid: '101738'
+    country: Dominica
+    main_entry: 'false'

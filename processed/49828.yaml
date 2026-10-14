@@ -54,3 +54,11 @@ place_of_birth_list:
   - uid: '77675'
     place_of_birth: Lausanne, Switzerland
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '77233'
+    country: Switzerland
+    main_entry: 'true'
+  - uid: '77677'
+    country: Russia
+    main_entry: 'false'

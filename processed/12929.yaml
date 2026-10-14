@@ -65,3 +65,8 @@ place_of_birth_list:
     place_of_birth: Iran
     main_entry: 'true'
 remarks: Driver's License is issued by the State of Texas
+citizenship_list:
+  items:
+  - uid: '8731'
+    country: United States
+    main_entry: 'true'

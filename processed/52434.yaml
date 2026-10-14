@@ -40,3 +40,16 @@ place_of_birth_list:
     place_of_birth: Kermanshah, Iran
     main_entry: 'true'
 remarks: "(Linked To: FOXTROT NETWORK)"
+nationality_list:
+  items:
+  - uid: '84041'
+    country: Sweden
+    main_entry: 'true'
+  - uid: '84042'
+    country: Iraq
+    main_entry: 'false'
+citizenship_list:
+  items:
+  - uid: '84044'
+    country: Sweden
+    main_entry: 'true'

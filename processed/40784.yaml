@@ -68,3 +68,11 @@ place_of_birth_list:
   - uid: '58339'
     place_of_birth: Moscow, Russia
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '58282'
+    country: Russia
+    main_entry: 'true'
+  - uid: '58340'
+    country: Cyprus
+    main_entry: 'false'

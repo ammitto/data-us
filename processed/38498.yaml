@@ -25,3 +25,13 @@ place_of_birth_list:
   - uid: '53807'
     place_of_birth: Mazatenango, Guatemala
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '53806'
+    country: Guatemala
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '53804'
+    country: Guatemala
+    main_entry: 'true'

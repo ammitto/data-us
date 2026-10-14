@@ -45,3 +45,11 @@ place_of_birth_list:
     place_of_birth: St. Petersburg, Russia
     main_entry: 'true'
 remarks: "(Linked To: SMP BANK)"
+nationality_list:
+  items:
+  - uid: '47522'
+    country: Russia
+    main_entry: 'true'
+  - uid: '47525'
+    country: Finland
+    main_entry: 'false'

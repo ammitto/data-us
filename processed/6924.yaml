@@ -91,3 +91,11 @@ place_of_birth_list:
   - uid: '1246'
     place_of_birth: Cairo, Egypt
     main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '1247'
+    country: Egypt
+    main_entry: 'true'
+  - uid: '1248'
+    country: Kenya
+    main_entry: 'false'

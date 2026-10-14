@@ -23,3 +23,14 @@ date_of_birth_list:
   - uid: '51102'
     date_of_birth: Nov 1975
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '51103'
+    country: Russia
+    main_entry: 'true'
+  - uid: '51104'
+    country: United Kingdom
+    main_entry: 'false'
+  - uid: '51105'
+    country: South Africa
+    main_entry: 'false'

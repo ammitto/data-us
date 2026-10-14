@@ -32,3 +32,8 @@ date_of_birth_list:
   - uid: '1319'
     date_of_birth: '1938'
     main_entry: 'false'
+nationality_list:
+  items:
+  - uid: '1318'
+    country: Pakistan
+    main_entry: 'true'

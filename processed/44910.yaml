@@ -29,3 +29,13 @@ date_of_birth_list:
   - uid: '65189'
     date_of_birth: 26 Jan 1986
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '65191'
+    country: Russia
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '65192'
+    country: Russia
+    main_entry: 'true'

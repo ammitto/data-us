@@ -55,3 +55,14 @@ place_of_birth_list:
     place_of_birth: Haifa, Israel
     main_entry: 'true'
 remarks: "(Linked To: ZIMENKOV, Igor Vladimirovich; Linked To: ROSOBORONEKSPORT OAO)"
+nationality_list:
+  items:
+  - uid: '57677'
+    country: Russia
+    main_entry: 'true'
+  - uid: '57678'
+    country: Italy
+    main_entry: 'false'
+  - uid: '57679'
+    country: Israel
+    main_entry: 'false'

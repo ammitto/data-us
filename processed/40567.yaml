@@ -36,3 +36,11 @@ place_of_birth_list:
     place_of_birth: St. Petersburg, Russia
     main_entry: 'true'
 remarks: "(Linked To: ADONEV, Sergei Nikolaevich)"
+nationality_list:
+  items:
+  - uid: '57839'
+    country: Bulgaria
+    main_entry: 'true'
+  - uid: '57840'
+    country: Russia
+    main_entry: 'false'

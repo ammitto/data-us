@@ -56,3 +56,16 @@ place_of_birth_list:
   - uid: '42921'
     place_of_birth: Bousso, Chad
     main_entry: 'false'
+nationality_list:
+  items:
+  - uid: '42923'
+    country: Central African Republic
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '42924'
+    country: Niger
+    main_entry: 'true'
+  - uid: '42925'
+    country: Chad
+    main_entry: 'false'

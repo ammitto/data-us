@@ -35,3 +35,13 @@ place_of_birth_list:
   - uid: '7473'
     place_of_birth: Tabasco, Zacatecas
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '7475'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '7474'
+    country: Mexico
+    main_entry: 'true'

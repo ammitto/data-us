@@ -47,3 +47,13 @@ place_of_birth_list:
   - uid: '89248'
     place_of_birth: Puerto Salgar, Colombia
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '89242'
+    country: Colombia
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '89241'
+    country: Colombia
+    main_entry: 'true'

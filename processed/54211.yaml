@@ -26,3 +26,8 @@ place_of_birth_list:
   - uid: '89894'
     place_of_birth: Vannes, France
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '89896'
+    country: France
+    main_entry: 'true'

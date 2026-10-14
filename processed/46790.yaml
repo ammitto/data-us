@@ -49,3 +49,19 @@ place_of_birth_list:
   - uid: '67584'
     place_of_birth: Kabushiya, Sudan
     main_entry: 'false'
+nationality_list:
+  items:
+  - uid: '67589'
+    country: Sudan
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '67586'
+    country: Sudan
+    main_entry: 'true'
+  - uid: '67587'
+    country: Saudi Arabia
+    main_entry: 'false'
+  - uid: '67588'
+    country: Congo, Democratic Republic of the
+    main_entry: 'false'

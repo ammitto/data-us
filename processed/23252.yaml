@@ -58,3 +58,11 @@ place_of_birth_list:
   - uid: '24957'
     place_of_birth: Tel Aviv, Israel
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '24959'
+    country: Israel
+    main_entry: 'true'
+  - uid: '24960'
+    country: Congo, Democratic Republic of the
+    main_entry: 'false'

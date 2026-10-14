@@ -60,3 +60,11 @@ place_of_birth_list:
   - uid: '46233'
     place_of_birth: Russia
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '46235'
+    country: Belarus
+    main_entry: 'true'
+  - uid: '46236'
+    country: Russia
+    main_entry: 'false'

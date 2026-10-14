@@ -31,3 +31,13 @@ place_of_birth_list:
   - uid: '7665'
     place_of_birth: Miguel Aleman, Tamaulipas, Mexico
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '7667'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '7666'
+    country: Mexico
+    main_entry: 'true'

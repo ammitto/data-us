@@ -75,3 +75,13 @@ place_of_birth_list:
   - uid: '5907'
     place_of_birth: Qom, Iran
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '5739'
+    country: Iran
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '5740'
+    country: Iran
+    main_entry: 'true'

@@ -40,3 +40,11 @@ date_of_birth_list:
   - uid: '84557'
     date_of_birth: 24 Jan 1948
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '84330'
+    country: Russia
+    main_entry: 'true'
+  - uid: '84331'
+    country: Germany
+    main_entry: 'false'

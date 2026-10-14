@@ -70,3 +70,8 @@ id_list:
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
+nationality_list:
+  items:
+  - uid: '8989'
+    country: Iran
+    main_entry: 'true'

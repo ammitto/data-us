@@ -225,3 +225,11 @@ place_of_birth_list:
   - uid: '62842'
     place_of_birth: Beijing, China
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '70502'
+    country: China
+    main_entry: 'true'
+  - uid: '70921'
+    country: Saint Kitts and Nevis
+    main_entry: 'false'

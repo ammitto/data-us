@@ -62,3 +62,11 @@ date_of_birth_list:
     date_of_birth: 01 Jan 1963
     main_entry: 'false'
 remarks: "(Linked To: HIZBALLAH)"
+nationality_list:
+  items:
+  - uid: '45855'
+    country: Lebanon
+    main_entry: 'true'
+  - uid: '45856'
+    country: Germany
+    main_entry: 'false'

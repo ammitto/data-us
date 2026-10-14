@@ -83,3 +83,8 @@ place_of_birth_list:
   - uid: '8970'
     place_of_birth: Algeria
     main_entry: 'false'
+nationality_list:
+  items:
+  - uid: '4411'
+    country: Tunisia
+    main_entry: 'true'

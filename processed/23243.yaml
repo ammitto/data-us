@@ -156,3 +156,11 @@ place_of_birth_list:
     place_of_birth: Bratsk, Russia
     main_entry: 'false'
 remarks: "(Linked To: THIEVES-IN-LAW)"
+citizenship_list:
+  items:
+  - uid: '24944'
+    country: Russia
+    main_entry: 'true'
+  - uid: '24945'
+    country: Kazakhstan
+    main_entry: 'false'

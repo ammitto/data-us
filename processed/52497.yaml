@@ -53,3 +53,11 @@ place_of_birth_list:
   - uid: '84154'
     place_of_birth: Golpayegan, Iran
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '84155'
+    country: Iran
+    main_entry: 'true'
+  - uid: '84156'
+    country: Dominica
+    main_entry: 'false'

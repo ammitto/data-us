@@ -38,3 +38,11 @@ date_of_birth_list:
 remarks: "(Linked To: AUTONOMOUS NONCOMMERCIAL ORGANIZATION FOR THE STUDY AND DEVELOPMENT
   OF INTERNATIONAL COOPERATION IN THE ECONOMIC SPHERE INTERNATIONAL AGENCY OF SOVEREIGN
   DEVELOPMENT)"
+nationality_list:
+  items:
+  - uid: '49942'
+    country: Russia
+    main_entry: 'true'
+  - uid: '49943'
+    country: Moldova
+    main_entry: 'false'

@@ -50,3 +50,11 @@ place_of_birth_list:
   - uid: '45653'
     place_of_birth: Ulanbataar, Mongolia
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '45654'
+    country: Russia
+    main_entry: 'true'
+  - uid: '45655'
+    country: United Kingdom
+    main_entry: 'false'

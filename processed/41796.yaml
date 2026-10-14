@@ -54,3 +54,8 @@ place_of_birth_list:
   - uid: '60009'
     place_of_birth: Tashkent, Uzbekistan
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '60007'
+    country: Uzbekistan
+    main_entry: 'true'

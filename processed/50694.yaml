@@ -39,3 +39,11 @@ date_of_birth_list:
   - uid: '79226'
     date_of_birth: 21 Mar 1962
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '79228'
+    country: Russia
+    main_entry: 'true'
+  - uid: '79229'
+    country: Moldova
+    main_entry: 'false'

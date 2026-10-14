@@ -33,3 +33,11 @@ date_of_birth_list:
   - uid: '20919'
     date_of_birth: 27 Dec 1984
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '20920'
+    country: Belgium
+    main_entry: 'true'
+  - uid: '20921'
+    country: Morocco
+    main_entry: 'false'

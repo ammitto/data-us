@@ -64,3 +64,11 @@ place_of_birth_list:
     place_of_birth: Bonn, Germany
     main_entry: 'true'
 remarks: "(Linked To: ISLAMIC STATE OF IRAQ AND THE LEVANT)"
+citizenship_list:
+  items:
+  - uid: '22594'
+    country: Germany
+    main_entry: 'true'
+  - uid: '22595'
+    country: Algeria
+    main_entry: 'false'

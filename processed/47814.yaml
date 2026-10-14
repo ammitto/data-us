@@ -30,3 +30,13 @@ place_of_birth_list:
   - uid: '70260'
     place_of_birth: Jingzhou Municipality, China
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '70258'
+    country: China
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '69300'
+    country: China
+    main_entry: 'true'

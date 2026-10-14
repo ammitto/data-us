@@ -77,3 +77,22 @@ place_of_birth_list:
     place_of_birth: Jordan
     main_entry: 'true'
 remarks: "(Linked To: HAMAS)"
+nationality_list:
+  items:
+  - uid: '52260'
+    country: Jordan
+    main_entry: 'true'
+  - uid: '52261'
+    country: Saudi Arabia
+    main_entry: 'false'
+citizenship_list:
+  items:
+  - uid: '52253'
+    country: Jordan
+    main_entry: 'true'
+  - uid: '52254'
+    country: Palestinian
+    main_entry: 'false'
+  - uid: '52255'
+    country: Turkey
+    main_entry: 'false'

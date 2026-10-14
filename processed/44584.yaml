@@ -64,3 +64,11 @@ place_of_birth_list:
   - uid: '64586'
     place_of_birth: Antelias, Lebanon
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '64581'
+    country: Lebanon
+    main_entry: 'true'
+  - uid: '64589'
+    country: France
+    main_entry: 'false'

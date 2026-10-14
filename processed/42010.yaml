@@ -37,3 +37,8 @@ date_of_birth_list:
   - uid: '60190'
     date_of_birth: '08 Aug 1975'
     main_entry: 'false'
+nationality_list:
+  items:
+  - uid: '60188'
+    country: Russia
+    main_entry: 'true'

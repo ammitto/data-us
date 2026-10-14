@@ -29,3 +29,13 @@ place_of_birth_list:
   - uid: '7428'
     place_of_birth: Unguia, Choco, Colombia
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '7430'
+    country: Colombia
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '7429'
+    country: Colombia
+    main_entry: 'true'

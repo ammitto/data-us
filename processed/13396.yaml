@@ -55,3 +55,11 @@ place_of_birth_list:
   - uid: '12637'
     place_of_birth: Kuntair, The Gambia
     main_entry: 'false'
+nationality_list:
+  items:
+  - uid: '12638'
+    country: Lebanon
+    main_entry: 'true'
+  - uid: '12639'
+    country: The Gambia
+    main_entry: 'false'

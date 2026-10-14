@@ -28,3 +28,11 @@ place_of_birth_list:
   - uid: '55840'
     place_of_birth: Tel Aviv, Israel
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '55837'
+    country: Moldova
+    main_entry: 'true'
+  - uid: '55838'
+    country: Israel
+    main_entry: 'false'

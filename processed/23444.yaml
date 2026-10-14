@@ -26,3 +26,11 @@ place_of_birth_list:
   - uid: '25252'
     place_of_birth: Belgium
     main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '25253'
+    country: Belgium
+    main_entry: 'true'
+  - uid: '25254'
+    country: Morocco
+    main_entry: 'false'

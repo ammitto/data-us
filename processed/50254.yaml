@@ -39,3 +39,11 @@ place_of_birth_list:
   - uid: '77927'
     place_of_birth: Starobelsk, Luhansk Region, Ukraine
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '77929'
+    country: Russia
+    main_entry: 'true'
+  - uid: '77933'
+    country: Germany
+    main_entry: 'false'

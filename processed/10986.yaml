@@ -30,3 +30,13 @@ place_of_birth_list:
   - uid: '6457'
     place_of_birth: Nuevo Leon, Monterrey, Mexico
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '6459'
+    country: Mexico
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '6458'
+    country: Mexico
+    main_entry: 'true'

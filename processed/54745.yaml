@@ -51,3 +51,11 @@ place_of_birth_list:
   - uid: '91132'
     place_of_birth: Shaodong, Hunan Province, China
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '91699'
+    country: Burma
+    main_entry: 'true'
+  - uid: '91700'
+    country: Cambodia
+    main_entry: 'false'

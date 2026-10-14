@@ -29,3 +29,13 @@ place_of_birth_list:
   - uid: '13402'
     place_of_birth: Caracas, Venezuela
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '13403'
+    country: Venezuela
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '13404'
+    country: Venezuela
+    main_entry: 'true'

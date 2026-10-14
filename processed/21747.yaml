@@ -36,3 +36,8 @@ id_list:
     id_number: Male
 remarks: "(Linked To: ILSIM INTERNATIONAL BANK)"
 title: Ilsim International Bank representative
+nationality_list:
+  items:
+  - uid: '22800'
+    country: Korea, North
+    main_entry: 'true'

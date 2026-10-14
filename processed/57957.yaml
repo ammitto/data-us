@@ -65,3 +65,14 @@ place_of_birth_list:
     place_of_birth: Ghazvin, Iran
     main_entry: 'true'
 remarks: "(Linked To: KHAMENEI, Mojtaba; Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS)"
+nationality_list:
+  items:
+  - uid: '98773'
+    country: Iran
+    main_entry: 'true'
+  - uid: '98774'
+    country: Saint Kitts and Nevis
+    main_entry: 'false'
+  - uid: '98775'
+    country: Cyprus
+    main_entry: 'false'

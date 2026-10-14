@@ -40,3 +40,11 @@ date_of_birth_list:
     date_of_birth: 16 May 1980
     main_entry: 'true'
 remarks: "(Linked To: LOS CUINIS)"
+citizenship_list:
+  items:
+  - uid: '25139'
+    country: Italy
+    main_entry: 'true'
+  - uid: '25140'
+    country: Venezuela
+    main_entry: 'false'

@@ -22,3 +22,11 @@ place_of_birth_list:
   - uid: '2373'
     place_of_birth: Tunis, Tunisia
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '4421'
+    country: Algeria
+    main_entry: 'true'
+  - uid: '4422'
+    country: Germany
+    main_entry: 'false'

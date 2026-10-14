@@ -45,3 +45,11 @@ place_of_birth_list:
   - uid: '36170'
     place_of_birth: Shurugwi, Midlands, Zimbabwe
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '36169'
+    country: Zimbabwe
+    main_entry: 'true'
+  - uid: '36171'
+    country: South Africa
+    main_entry: 'false'

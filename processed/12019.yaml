@@ -16,3 +16,13 @@ place_of_birth_list:
   - uid: '7778'
     place_of_birth: Afghanistan
     main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '7780'
+    country: Afghanistan
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '7779'
+    country: Afghanistan
+    main_entry: 'true'
