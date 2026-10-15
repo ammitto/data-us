@@ -34,12 +34,12 @@ id_list:
     id_type: Passport
     id_number: MP1853515
     id_country: Belarus
-  - uid: '172452'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '172455'
     id_type: Gender
     id_number: Male
+  - uid: '172452'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 date_of_birth_list:
   items:
   - uid: '72454'

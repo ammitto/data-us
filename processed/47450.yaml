@@ -18,11 +18,11 @@ id_list:
     id_type: Trade License No.
     id_number: PVTAAABNC3
     id_country: Kenya
-  - uid: '169036'
-    id_type: Organization Established Date
-    id_number: 30 Jan 2017
   - uid: '169000'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
+  - uid: '169036'
+    id_type: Organization Established Date
+    id_number: 30 Jan 2017
 remarks: "(Linked To: AWALE, Mohamed Jumale Ali)"

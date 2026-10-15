@@ -29,12 +29,12 @@ id_list:
     id_type: Passport
     id_number: QG963705
     id_country: Canada
-  - uid: '167827'
-    id_type: Gender
-    id_number: Male
   - uid: '167936'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '167827'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '67822'

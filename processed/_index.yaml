@@ -1,9 +1,9 @@
 ---
 source: us
-count: 19431
-fetched_at: '2026-10-14T12:23:24Z'
+count: 19430
+fetched_at: '2026-10-15T12:07:17Z'
 schema: ammitto:sources:us:v1
-pruned: 0
+pruned: 1
 files:
 - 10001.yaml
 - 10002.yaml
@@ -4048,7 +4048,6 @@ files:
 - 25067.yaml
 - 25068.yaml
 - 25069.yaml
-- 25078.yaml
 - 25079.yaml
 - 25080.yaml
 - 25097.yaml

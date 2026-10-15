@@ -41,9 +41,6 @@ id_list:
   - uid: '181865'
     id_type: Target Type
     id_number: Financial Institution
-  - uid: '181869'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '181868'
     id_type: SWIFT/BIC
     id_number: ITEHRU2P
@@ -53,3 +50,6 @@ id_list:
   - uid: '181867'
     id_type: Website
     id_number: www.abank.ru
+  - uid: '181869'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

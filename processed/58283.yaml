@@ -40,12 +40,12 @@ id_list:
     id_number: F42549387
     id_country: Iran
     expiration_date: 12 Aug 2022
-  - uid: '200078'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '200081'
     id_type: Gender
     id_number: Male
+  - uid: '200078'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '100079'

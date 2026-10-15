@@ -43,17 +43,17 @@ id_list:
     id_type: Registration Number
     id_number: '807000163'
     id_country: Belarus
-  - uid: '186829'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
-  - uid: '129639'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '129640'
     id_type: SWIFT/BIC
     id_number: BBTKBY2X
   - uid: '129641'
     id_type: Website
     id_number: www.tcbank.by
+  - uid: '129639'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '186829'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
 remarks: "(Linked To: BANK TEJARAT)"

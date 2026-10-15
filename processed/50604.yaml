@@ -29,6 +29,9 @@ id_list:
     id_type: Registration Number
     id_number: '1159800030409'
     id_country: Russia
+  - uid: '178934'
+    id_type: Website
+    id_number: https://mrb-bank.ru/
   - uid: '178984'
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'
@@ -45,6 +48,3 @@ id_list:
   - uid: '178942'
     id_type: Target Type
     id_number: Financial Institution
-  - uid: '178934'
-    id_type: Website
-    id_number: https://mrb-bank.ru/
