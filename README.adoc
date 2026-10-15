@@ -88,6 +88,56 @@ for path in sorted(glob.glob("processed/[0-9]*.yaml")):
 The same list, harmonized with the other sources into JSON-LD:
 https://www.ammitto.org/api/v1/sources/us.jsonld
 
+== Harmonized field mapping
+
+The https://github.com/ammitto/ammitto/blob/main/lib/ammitto/sources/us/transformer.rb[us transformer]
+maps the processed source fields below to canonical Ruby attributes.
+Entity classes are in `Ammitto::Ontology::Entities`, entry/regime classes in
+`Ammitto::Ontology::Sanction`, and nested values in
+`Ammitto::Ontology::ValueObjects`. JSON-LD serialization can use different keys.
+
+[cols="2,2,4",options="header"]
+|===
+| Source fields | Canonical target | Transformation
+
+| `uid`, `sdn_type`, `entity_type`
+| `Entity.id`, concrete entity class; `SanctionEntry.reference_number`
+| Use the UID for source-scoped IDs. Explicit entity type takes precedence over SDN type when selecting person, organization, vessel or aircraft.
+
+| `first_name`, `last_name`, `aka_list`
+| `Entity.names` (`NameVariant`)
+| Build the primary name from the name parts and add non-primary aliases with detected scripts.
+
+| `address_list`, `id_list`
+| `PersonEntity.addresses`, `identifications`; `OrganizationEntity.addresses`
+| Join address lines into street text. For persons, normalize identification types and retain document number/country and notes.
+
+| `date_of_birth_list`, `place_of_birth_list`
+| `PersonEntity.birth_info` (`BirthInfo`)
+| Pair dates with places by position; preserve parsed date/year/range precision and circa markers. Place-only records are retained when no dates exist.
+
+| `nationality_list`, `citizenship_list`
+| `PersonEntity.nationalities`
+| Combine and deduplicate countries; retain the separate source lists in entry source metadata.
+
+| `id_list`, `vessel_info`
+| `VesselEntity.imo_number`, `flag_state`, `vessel_type`, `call_sign`
+| Read the IMO identification; prefer the stated vessel flag and fall back to an address country.
+
+| `vessel_info.gross_registered_tonnage`, `vessel_info.vessel_owner`
+| `VesselEntity.tonnage.grt` (`Tonnage`), `owner_link` (`EntityLink`)
+| Accept digit-only gross registered tonnage; preserve other stated tonnage text in source metadata. Link an owner name with `relationship_type` set to `owned_by`.
+
+| `id_list`, `address_list`
+| `AircraftEntity.registration`, `registration_country`
+| Use a registration identification and the first stated address country for the aircraft flag.
+
+| `program_list`, `remarks`, `title`
+| `SanctionEntry.regime`, `remarks`, `raw_source_detail.source_specific_fields`
+| The first programme selects the regime; retain all programmes and additional source fields under `us:` metadata keys.
+
+|===
+
 == Updates
 
 The `Fetch Data` workflow (`.github/workflows/fetch.yml`) downloads the list
