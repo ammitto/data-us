@@ -18,6 +18,10 @@ id_list:
     id_type: Folio Mercantil No.
     id_number: '38102'
     id_country: Mexico
+  - uid: '201303'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
   - uid: '201302'
     id_type: Organization Established Date
     id_number: 15 Nov 2011
@@ -25,8 +29,4 @@ id_list:
     id_type: 'Organization Type:'
     id_number: Other financial service activities, except insurance and pension funding
       activities, n.e.c.
-  - uid: '201303'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
 remarks: "(Linked To: RIVERA ZAZUETA, Jose Angel)"

@@ -24,16 +24,16 @@ id_list:
     id_type: National ID No.
     id_number: 31010619740406283X
     id_country: China
+  - uid: '145201'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
   - uid: '145200'
     id_type: 'Secondary sanctions risk:'
     id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '145093'
     id_type: Gender
     id_number: Male
-  - uid: '145201'
-    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
-      Institutions:'
-    id_number: North Korea Sanctions Regulations section 510.214
 date_of_birth_list:
   items:
   - uid: '45092'

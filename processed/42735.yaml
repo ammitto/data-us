@@ -37,12 +37,12 @@ id_list:
     id_type: Passport
     id_number: X7594510
     id_country: Switzerland
-  - uid: '175461'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '161540'
     id_type: Gender
     id_number: Male
+  - uid: '175461'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 date_of_birth_list:
   items:
   - uid: '61541'

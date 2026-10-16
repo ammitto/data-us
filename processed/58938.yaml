@@ -1,0 +1,49 @@
+---
+uid: '58938'
+first_name: Sadegh
+last_name: BAVI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '90834'
+    city: Dubai
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '53814'
+    id_type: Passport
+    id_number: N97128850
+    id_country: Iran
+    expiration_date: 11 May 2027
+  - uid: '53815'
+    id_type: Passport
+    id_number: RA045652
+    id_country: Dominica
+    expiration_date: 26 Sep 2032
+  - uid: '204594'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '204332'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '104333'
+    date_of_birth: 21 Mar 1964
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '104334'
+    place_of_birth: Ahvaz, Iran
+    main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '104335'
+    country: Iran
+    main_entry: 'true'
+  - uid: '104608'
+    country: Dominica
+    main_entry: 'false'

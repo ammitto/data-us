@@ -1,0 +1,40 @@
+---
+uid: '58943'
+first_name: Amir
+last_name: SABETI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '90847'
+    country: Iran
+id_list:
+  items:
+  - uid: '53823'
+    id_type: National ID No.
+    id_number: '0451397711'
+    id_country: Iran
+  - uid: '204584'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '204356'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '104357'
+    date_of_birth: 30 Aug 1981
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '104358'
+    place_of_birth: Shemiran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: FARAB SOROUSH AFAGH QESHM COMPANY)"
+nationality_list:
+  items:
+  - uid: '104354'
+    country: Iran
+    main_entry: 'true'

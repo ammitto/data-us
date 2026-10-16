@@ -26,12 +26,12 @@ id_list:
     id_number: I67689026
     id_country: Iran
     expiration_date: '09 Mar 2029'
-  - uid: '197965'
-    id_type: Gender
-    id_number: Male
   - uid: '197978'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '197965'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '97964'

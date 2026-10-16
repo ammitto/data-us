@@ -1,0 +1,46 @@
+---
+uid: '58950'
+first_name: Sorush
+last_name: NAJAFZADEH
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '91142'
+    type: a.k.a.
+    category: strong
+    last_name: NAJAFZADEH
+    first_name: Sorosh
+address_list:
+  items:
+  - uid: '90859'
+    country: Iran
+id_list:
+  items:
+  - uid: '53831'
+    id_type: National ID No.
+    id_number: '0069940177'
+    id_country: Iran
+  - uid: '204386'
+    id_type: Gender
+    id_number: Male
+  - uid: '204588'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '104384'
+    date_of_birth: 27 Aug 1982
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '104385'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '104395'
+    country: Iran
+    main_entry: 'true'

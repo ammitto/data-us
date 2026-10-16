@@ -7,6 +7,9 @@ program_list:
   - IRAN
 id_list:
   items:
+  - uid: '129466'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
   - uid: '129262'
     id_type: Aircraft Manufacture Date
     id_number: 19 Jun 2018
@@ -19,7 +22,4 @@ id_list:
   - uid: '129264'
     id_type: Aircraft Manufacturer's Serial Number (MSN)
     id_number: '1503'
-  - uid: '129466'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
 remarks: "(Linked To: IRAN AIR)"

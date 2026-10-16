@@ -1,0 +1,45 @@
+---
+uid: '58571'
+last_name: INTERNATIONAL DEVELOPMENT BANK FOR INVESTMENT AND FINANCE
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '90656'
+    type: a.k.a.
+    category: weak
+    last_name: INTERNATIONAL DEVELOPMENT BANK
+  - uid: '90657'
+    type: a.k.a.
+    category: strong
+    last_name: IRAQ DEVELOPMENT BANK
+address_list:
+  items:
+  - uid: '90169'
+    address1: Arasat Ave, Karada
+    city: Baghdad
+    country: Iraq
+  - uid: '90170'
+    address1: Karrada, Hay Babil Dist. 929, Arasat Ave., St No. 21, Building 1
+    city: Baghdad
+    postal_code: '10069'
+    country: Iraq
+id_list:
+  items:
+  - uid: '53355'
+    id_type: Legal Entity Number
+    id_number: 2549001T72VRU0W37E62
+  - uid: '201137'
+    id_type: Organization Established Date
+    id_number: 11 Jan 2011
+  - uid: '204607'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '201139'
+    id_type: SWIFT/BIC
+    id_number: IDBQIQBA
+  - uid: '201138'
+    id_type: Website
+    id_number: https://www.idb.iq

@@ -48,9 +48,9 @@ id_list:
     id_type: Registration Number
     id_number: '100093400'
     id_country: Belarus
-  - uid: '144161'
-    id_type: Target Type
-    id_number: State-Owned Enterprise
   - uid: '144162'
     id_type: Organization Established Date
     id_number: 23 Feb 1993
+  - uid: '144161'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

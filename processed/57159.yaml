@@ -36,12 +36,12 @@ id_list:
     id_number: U31440834
     id_country: Turkey
     expiration_date: 01 Jun 2033
-  - uid: '197492'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '196833'
     id_type: Gender
     id_number: Male
+  - uid: '197492'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '96831'
@@ -55,9 +55,9 @@ place_of_birth_list:
 remarks: "(Linked To: TEJARAT SARIR AFROOZ KISH COMPANY)"
 nationality_list:
   items:
-  - uid: '96834'
-    country: Iran
-    main_entry: 'true'
   - uid: '97527'
     country: Turkey
     main_entry: 'false'
+  - uid: '96834'
+    country: Iran
+    main_entry: 'true'

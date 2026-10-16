@@ -1,0 +1,39 @@
+---
+uid: '58944'
+first_name: Ensiyeh
+last_name: MULLAH MOHAMMADI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '90846'
+    country: Iran
+id_list:
+  items:
+  - uid: '53825'
+    id_type: National ID No.
+    id_number: '0381750760'
+    id_country: Iran
+  - uid: '204353'
+    id_type: Gender
+    id_number: Female
+  - uid: '204590'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '104368'
+    date_of_birth: 18 May 1976
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '104355'
+    place_of_birth: Qom, Iran
+    main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '104352'
+    country: Iran
+    main_entry: 'true'

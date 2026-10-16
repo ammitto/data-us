@@ -14,13 +14,13 @@ id_list:
   - uid: '44298'
     id_type: MMSI
     id_number: '314975000'
-  - uid: '181820'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '183364'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
       589.209
+  - uid: '181820'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 remarks: "(Linked To: CUBE VENTURES SHIPPING SA)"
 vessel_info:
   call_sign: 8P2479

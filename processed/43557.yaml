@@ -28,12 +28,12 @@ address_list:
     country: Burma
 id_list:
   items:
-  - uid: '163449'
-    id_type: Target Type
-    id_number: Financial Institution
   - uid: '163087'
     id_type: SWIFT/BIC
     id_number: MICBMMMY
   - uid: '163088'
     id_type: Organization Established Date
     id_number: '1990'
+  - uid: '163449'
+    id_type: Target Type
+    id_number: Financial Institution

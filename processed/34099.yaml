@@ -33,10 +33,10 @@ address_list:
     country: Iran
 id_list:
   items:
-  - uid: '145407'
-    id_type: Target Type
-    id_number: Government Entity
   - uid: '145177'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '145407'
+    id_type: Target Type
+    id_number: Government Entity
 remarks: "(Linked To: LAW ENFORCEMENT FORCES OF THE ISLAMIC REPUBLIC OF IRAN)"

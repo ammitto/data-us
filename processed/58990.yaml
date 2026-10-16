@@ -1,0 +1,67 @@
+---
+uid: '58990'
+first_name: Sayyed Ruhollah
+last_name: RAZAVI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '91166'
+    type: a.k.a.
+    category: strong
+    last_name: ROOHULLAH RAZAVI
+    first_name: Seyed
+  - uid: '91167'
+    type: a.k.a.
+    category: strong
+    last_name: RAZAVI
+    first_name: Rouhollah
+  - uid: '91168'
+    type: a.k.a.
+    category: strong
+    last_name: RAZAVI
+    first_name: Ruhollah
+address_list:
+  items:
+  - uid: '90894'
+    country: Iran
+  - uid: '90895'
+    city: Dubai
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '53886'
+    id_type: National ID No.
+    id_number: '0381818969'
+    id_country: Iran
+  - uid: '204458'
+    id_type: Gender
+    id_number: Male
+  - uid: '204604'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '104457'
+    date_of_birth: 19 Sep 1981
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '104605'
+    place_of_birth: Qom, Iran
+    main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '104461'
+    country: Iran
+    main_entry: 'true'
+citizenship_list:
+  items:
+  - uid: '104459'
+    country: Dominica
+    main_entry: 'true'
+  - uid: '104460'
+    country: Turkey
+    main_entry: 'false'

@@ -39,15 +39,6 @@ id_list:
     id_type: Identification Number
     id_number: '008-046347-9'
     id_country: Iran
-  - uid: '130475'
-    id_type: Website
-    id_number: www.enexchanger.com
-  - uid: '130477'
-    id_type: Email Address
-    id_number: EnExchanger@gmail.com
-  - uid: '130478'
-    id_type: Email Address
-    id_number: Ensaniyat1365@gmail.com
   - uid: '130476'
     id_type: Digital Currency Address - XBT
     id_number: 1AjZPMsnmpdK2Rv9KQNfMurTXinscVro9V
@@ -57,6 +48,15 @@ id_list:
   - uid: '130474'
     id_type: Gender
     id_number: Male
+  - uid: '130475'
+    id_type: Website
+    id_number: www.enexchanger.com
+  - uid: '130477'
+    id_type: Email Address
+    id_number: EnExchanger@gmail.com
+  - uid: '130478'
+    id_type: Email Address
+    id_number: Ensaniyat1365@gmail.com
 date_of_birth_list:
   items:
   - uid: '30472'

@@ -1,0 +1,40 @@
+---
+uid: '58945'
+first_name: Nazanin
+last_name: BORJI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '90849'
+    country: Iran
+id_list:
+  items:
+  - uid: '53824'
+    id_type: National ID No.
+    id_number: '0019123337'
+    id_country: Iran
+  - uid: '204363'
+    id_type: Gender
+    id_number: Female
+  - uid: '204581'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '104364'
+    date_of_birth: 10 Jun 1996
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '104365'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: FARAB SOROUSH AFAGH QESHM COMPANY)"
+nationality_list:
+  items:
+  - uid: '104366'
+    country: Iran
+    main_entry: 'true'

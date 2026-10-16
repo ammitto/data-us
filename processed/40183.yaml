@@ -7,6 +7,9 @@ program_list:
   - RUSSIA-EO14024
 id_list:
   items:
+  - uid: '174015'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
   - uid: '157054'
     id_type: Aircraft Manufacture Date
     id_number: '1990'
@@ -19,7 +22,4 @@ id_list:
   - uid: '157051'
     id_type: Aircraft Tail Number
     id_number: RA-76502
-  - uid: '174015'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
 remarks: "(Linked To: JSC AVIACON ZITOTRANS)"

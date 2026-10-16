@@ -44,12 +44,6 @@ id_list:
   - uid: '126672'
     id_type: BIK (RU)
     id_number: '044525257'
-  - uid: '179027'
-    id_type: 'Secondary sanctions risk:'
-    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
-  - uid: '179190'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '179028'
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'
@@ -57,3 +51,9 @@ id_list:
   - uid: '126117'
     id_type: SWIFT/BIC
     id_number: RFCBRUMM
+  - uid: '179027'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '179190'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

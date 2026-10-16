@@ -24,6 +24,9 @@ id_list:
   - uid: '200356'
     id_type: Target Type
     id_number: Criminal Organization
+  - uid: '200359'
+    id_type: Website
+    id_number: https://xinbi.com
   - uid: '200596'
     id_type: Digital Currency Address - TRX
     id_number: TW5tokvhEfrb77z98Rc8HqbkzQJ6sxYtGX
@@ -180,6 +183,3 @@ id_list:
   - uid: '201114'
     id_type: Digital Currency Address - TRX
     id_number: TZ42sU5kQ2n5rLZ6PhEGkmfLtmHjoi2vpr
-  - uid: '200359'
-    id_type: Website
-    id_number: https://xinbi.com

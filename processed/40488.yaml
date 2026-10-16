@@ -35,15 +35,15 @@ id_list:
   - uid: '157676'
     id_type: Gender
     id_number: Male
+  - uid: '174097'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
   - uid: '157928'
     id_type: Digital Currency Address - XBT
     id_number: bc1qfg4gfg0y6t6xjnpmlhuwx5k0wlw6nmfzxn2psc
   - uid: '157927'
     id_type: Digital Currency Address - ETH
     id_number: '0x39D908dac893CBCB53Cc86e0ECc369aA4DeF1A29'
-  - uid: '174097'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
 date_of_birth_list:
   items:
   - uid: '57675'

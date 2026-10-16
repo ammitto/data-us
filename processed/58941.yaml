@@ -1,0 +1,39 @@
+---
+uid: '58941'
+first_name: Abolhasan
+last_name: JALALI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '90843'
+    country: Iran
+id_list:
+  items:
+  - uid: '53821'
+    id_type: National ID No.
+    id_number: '1550929674'
+    id_country: Iran
+  - uid: '204589'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '204351'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '104348'
+    date_of_birth: 01 Sep 1966
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '104350'
+    place_of_birth: Maragheh, Iran
+    main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '104344'
+    country: Iran
+    main_entry: 'true'

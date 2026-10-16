@@ -21,12 +21,12 @@ id_list:
     id_number: K54424834
     id_country: Iran
     expiration_date: 06 Sep 2026
-  - uid: '198910'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '198871'
     id_type: Gender
     id_number: Male
+  - uid: '198910'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '98872'

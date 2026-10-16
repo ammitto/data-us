@@ -19,12 +19,12 @@ id_list:
     id_number: D10008116
     id_country: Iran
     expiration_date: 24 May 2026
-  - uid: '161450'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '161274'
     id_type: Gender
     id_number: Male
+  - uid: '161450'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '61272'

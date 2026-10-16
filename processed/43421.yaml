@@ -65,12 +65,12 @@ id_list:
     id_country: Saint Kitts and Nevis
     issue_date: 10 Nov 2017
     expiration_date: '09 Nov 2027'
-  - uid: '162904'
-    id_type: Digital Currency Address - LTC
-    id_number: LNf2JDiuunBz7GMDKFYHN4rq5meXWxiwfb
   - uid: '162905'
     id_type: Digital Currency Address - TRX
     id_number: TBHTJqAy4DhHhmT3dNceJYNRz4SdLofLre
+  - uid: '162904'
+    id_type: Digital Currency Address - LTC
+    id_number: LNf2JDiuunBz7GMDKFYHN4rq5meXWxiwfb
   - uid: '162843'
     id_type: Gender
     id_number: Male

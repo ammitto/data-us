@@ -19,9 +19,6 @@ id_list:
   - uid: '160831'
     id_type: Phone Number
     id_number: '8615623932350'
-  - uid: '159346'
-    id_type: Gender
-    id_number: Female
   - uid: '159347'
     id_type: Email Address
     id_number: lilywu921206@gmail.com
@@ -31,6 +28,9 @@ id_list:
   - uid: '159349'
     id_type: Email Address
     id_number: 2390864901@qq.com
+  - uid: '159346'
+    id_type: Gender
+    id_number: Female
 date_of_birth_list:
   items:
   - uid: '59344'
