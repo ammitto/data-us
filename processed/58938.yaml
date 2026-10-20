@@ -23,12 +23,12 @@ id_list:
     id_number: RA045652
     id_country: Dominica
     expiration_date: 26 Sep 2032
-  - uid: '204594'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '204332'
     id_type: Gender
     id_number: Male
+  - uid: '204594'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '104333'

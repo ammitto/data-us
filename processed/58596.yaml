@@ -24,12 +24,12 @@ id_list:
     id_number: AA7550196
     id_country: Pakistan
     expiration_date: 23 May 2027
-  - uid: '201174'
-    id_type: Gender
-    id_number: Male
   - uid: '201194'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '201174'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '101173'
