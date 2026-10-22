@@ -27,12 +27,6 @@ id_list:
     id_type: Unified Social Credit Code (USCC)
     id_number: 91130105MA0FRNGTXX
     id_country: China
-  - uid: '165901'
-    id_type: Phone Number
-    id_number: '8615531133331'
-  - uid: '165902'
-    id_type: Phone Number
-    id_number: '8613102808677'
   - uid: '165905'
     id_type: Organization Established Date
     id_number: 26 Nov 2020
@@ -42,4 +36,10 @@ id_list:
   - uid: '165904'
     id_type: Email Address
     id_number: Service1@Xiunashangmao.com
+  - uid: '165901'
+    id_type: Phone Number
+    id_number: '8615531133331'
+  - uid: '165902'
+    id_type: Phone Number
+    id_number: '8613102808677'
 remarks: "(Linked To: DU, Changgen)"

@@ -1,0 +1,38 @@
+---
+uid: '58961'
+first_name: Pedro
+last_name: ORTEGA JONES
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '90880'
+    city: Panama City
+    country: Panama
+id_list:
+  items:
+  - uid: '53850'
+    id_type: Cedula No.
+    id_number: 8-505-139
+    id_country: Panama
+  - uid: '53851'
+    id_type: Passport
+    id_number: PA0865191
+    id_country: Panama
+    expiration_date: 10 Mar 2027
+  - uid: '204426'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '104425'
+    date_of_birth: 31 Jan 1976
+    main_entry: 'true'
+remarks: "(Linked To: KARNAKIS AND KARNAKIS)"
+nationality_list:
+  items:
+  - uid: '104427'
+    country: Panama
+    main_entry: 'true'

@@ -32,12 +32,12 @@ id_list:
     id_type: Tax ID No.
     id_number: '770509857842'
     id_country: Russia
-  - uid: '157676'
-    id_type: Gender
-    id_number: Male
   - uid: '174097'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '157676'
+    id_type: Gender
+    id_number: Male
   - uid: '157928'
     id_type: Digital Currency Address - XBT
     id_number: bc1qfg4gfg0y6t6xjnpmlhuwx5k0wlw6nmfzxn2psc

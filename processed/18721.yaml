@@ -40,6 +40,9 @@ id_list:
   - uid: '118216'
     id_type: Executive Order 13662 Directive Determination -
     id_number: Subject to Directive 1
+  - uid: '146663'
+    id_type: Target Type
+    id_number: Financial Institution
   - uid: '118825'
     id_type: SWIFT/BIC
     id_number: SLANBY22
@@ -49,8 +52,5 @@ id_list:
   - uid: '173882'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
-  - uid: '146663'
-    id_type: Target Type
-    id_number: Financial Institution
 remarks: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
   (Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)'

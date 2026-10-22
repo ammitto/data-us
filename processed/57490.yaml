@@ -37,9 +37,9 @@ id_list:
     id_type: Registration Number
     id_number: '341695'
     id_country: Iran
-  - uid: '197680'
-    id_type: Organization Established Date
-    id_number: 13 Apr 2009
   - uid: '197681'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '197680'
+    id_type: Organization Established Date
+    id_number: 13 Apr 2009

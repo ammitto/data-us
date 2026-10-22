@@ -22,12 +22,12 @@ id_list:
     id_number: W55497664
     id_country: Iran
     expiration_date: 27 Dec 2026
-  - uid: '201736'
-    id_type: Gender
-    id_number: Male
   - uid: '201866'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '201736'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '101942'

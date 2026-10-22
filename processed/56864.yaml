@@ -12,12 +12,12 @@ address_list:
     country: United Arab Emirates
 id_list:
   items:
-  - uid: '195851'
-    id_type: Gender
-    id_number: Male
   - uid: '195876'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '195851'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '95850'

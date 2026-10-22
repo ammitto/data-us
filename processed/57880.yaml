@@ -23,12 +23,12 @@ id_list:
     id_number: PE3086952
     id_country: China
     expiration_date: 20 Feb 2029
-  - uid: '198579'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '198581'
     id_type: Gender
     id_number: Male
+  - uid: '198579'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '98580'

@@ -46,6 +46,12 @@ id_list:
   - uid: '126172'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '196556'
+    id_type: Digital Currency Address - TRX
+    id_number: TAbbVaBKgH4VBLXgWqACuwoKF4cH1HinQh
+  - uid: '196558'
+    id_type: Digital Currency Address - TRX
+    id_number: TEsxMcVocweTM82Mdmc5diKC6qyCWqSpPv
   - uid: '196516'
     id_type: Digital Currency Address - XBT
     id_number: 12aNKp2iDKuhEde2YfPdd4DFGenRUTKupL
@@ -85,12 +91,6 @@ id_list:
   - uid: '196548'
     id_type: Digital Currency Address - ETH
     id_number: '0xF45Ecc3a59C7911181C659cE9115854c6175Be91'
-  - uid: '196556'
-    id_type: Digital Currency Address - TRX
-    id_number: TAbbVaBKgH4VBLXgWqACuwoKF4cH1HinQh
-  - uid: '196558'
-    id_type: Digital Currency Address - TRX
-    id_number: TEsxMcVocweTM82Mdmc5diKC6qyCWqSpPv
 date_of_birth_list:
   items:
   - uid: '26091'

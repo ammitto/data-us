@@ -39,21 +39,9 @@ id_list:
   - uid: '185044'
     id_type: Phone Number
     id_number: '989334445690'
-  - uid: '185036'
-    id_type: Email Address
-    id_number: hernes@tutanota.com
-  - uid: '185037'
-    id_type: Email Address
-    id_number: m3vda@protonmail.com
-  - uid: '185038'
-    id_type: Email Address
-    id_number: lazyyytrader@gmail.com
-  - uid: '185040'
-    id_type: Email Address
-    id_number: mvc64200@gmail.com
-  - uid: '185041'
-    id_type: Email Address
-    id_number: behrouz.p1985@gmail.com
+  - uid: '185306'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
   - uid: '185326'
     id_type: Gender
     id_number: Male
@@ -204,9 +192,21 @@ id_list:
   - uid: '185114'
     id_type: Digital Currency Address - XMR
     id_number: 86ze8c9oUftDSTxzFBhfSJYpjvw6GYkqjeEaggy3hBVL1ou2tk79DfSj5YiZ3wjDHp541tizcQ8bVCxCtVHQncuc3asa8wz
-  - uid: '185306'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
+  - uid: '185036'
+    id_type: Email Address
+    id_number: hernes@tutanota.com
+  - uid: '185037'
+    id_type: Email Address
+    id_number: m3vda@protonmail.com
+  - uid: '185038'
+    id_type: Email Address
+    id_number: lazyyytrader@gmail.com
+  - uid: '185040'
+    id_type: Email Address
+    id_number: mvc64200@gmail.com
+  - uid: '185041'
+    id_type: Email Address
+    id_number: behrouz.p1985@gmail.com
 date_of_birth_list:
   items:
   - uid: '85034'

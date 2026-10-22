@@ -1,0 +1,39 @@
+---
+uid: '58960'
+first_name: Ioanis
+last_name: KARNAKIS KOSMAS
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '90878'
+    city: Panama City
+    country: Panama
+id_list:
+  items:
+  - uid: '53849'
+    id_type: Passport
+    id_number: PA1335855
+    id_country: Panama
+    expiration_date: 05 Feb 2030
+  - uid: '204422'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '104420'
+    date_of_birth: 20 Aug 1982
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '104421'
+    place_of_birth: Panama
+    main_entry: 'true'
+remarks: "(Linked To: KARNAKIS AND KARNAKIS)"
+nationality_list:
+  items:
+  - uid: '104424'
+    country: Panama
+    main_entry: 'true'

@@ -1,0 +1,33 @@
+---
+uid: '58962'
+first_name: Roberto
+last_name: ORTEGA JONES
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '90882'
+    city: Panama City
+    country: Panama
+id_list:
+  items:
+  - uid: '53852'
+    id_type: Identification Number
+    id_number: PE-7-925
+    id_country: Panama
+  - uid: '204429'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '104428'
+    date_of_birth: 24 Dec 1972
+    main_entry: 'true'
+remarks: "(Linked To: KARNAKIS AND KARNAKIS)"
+nationality_list:
+  items:
+  - uid: '104430'
+    country: Panama
+    main_entry: 'true'

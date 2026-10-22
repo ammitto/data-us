@@ -36,6 +36,9 @@ address_list:
     country: Ukraine
 id_list:
   items:
+  - uid: '174701'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
   - uid: '154509'
     id_type: Digital Currency Address - USDT
     id_number: TX5GV4DyfxNB3rPkzZJhmqZ1efVmL4rEqG
@@ -51,6 +54,3 @@ id_list:
   - uid: '155029'
     id_type: Digital Currency Address - ETH
     id_number: '0x3AD9dB589d201A710Ed237c829c7860Ba86510Fc'
-  - uid: '174701'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.

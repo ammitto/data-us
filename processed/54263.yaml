@@ -22,12 +22,12 @@ id_list:
     id_number: V56586955
     id_country: Iran
     expiration_date: 26 Apr 2027
-  - uid: '190028'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '190019'
     id_type: Gender
     id_number: Male
+  - uid: '190028'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '90020'

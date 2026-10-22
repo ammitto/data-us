@@ -53,13 +53,6 @@ id_list:
     id_type: Registration ID
     id_number: '01125591'
     id_country: Ukraine
-  - uid: '117614'
-    id_type: UN/LOCODE
-    id_number: UA YAL
-  - uid: '143765'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
-      589.209
   - uid: '117612'
     id_type: Website
     id_number: yaltaport.com.ua
@@ -69,3 +62,10 @@ id_list:
   - uid: '117610'
     id_type: Email Address
     id_number: yasco@mail.ylt.crimea.com
+  - uid: '117614'
+    id_type: UN/LOCODE
+    id_number: UA YAL
+  - uid: '143765'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

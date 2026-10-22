@@ -18,12 +18,12 @@ id_list:
     id_type: National ID No.
     id_number: '22054198168'
     id_country: Turkey
-  - uid: '163609'
-    id_type: Gender
-    id_number: Male
   - uid: '163610'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '163609'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '63606'

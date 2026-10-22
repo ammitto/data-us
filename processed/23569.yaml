@@ -43,6 +43,9 @@ id_list:
   - uid: '125599'
     id_type: Executive Order 13662 Directive Determination -
     id_number: Subject to Directive 4
+  - uid: '125441'
+    id_type: Email Address
+    id_number: knp@baltnet.ru
   - uid: '125442'
     id_type: Nationality of Registration
     id_number: Russia
@@ -50,8 +53,5 @@ id_list:
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
       589.209
-  - uid: '125441'
-    id_type: Email Address
-    id_number: knp@baltnet.ru
 remarks: 'For more information, please reference the following link: http://www.treasury.gov/resource-center/sanctions/OFAC-Enforcement/Pages/OFAC-Recent-Actions.aspx;
   (Linked To: SURGUTNEFTEGAS)'

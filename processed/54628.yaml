@@ -36,6 +36,9 @@ id_list:
     id_type: Tax ID No.
     id_number: '9710137165'
     id_country: Russia
+  - uid: '192411'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
   - uid: '190826'
     id_type: Organization Established Date
     id_number: 02 Sep 2024
@@ -43,7 +46,4 @@ id_list:
     id_type: 'Organization Type:'
     id_number: Other financial service activities, except insurance and pension funding
       activities, n.e.c.
-  - uid: '192411'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
 remarks: "(Linked To: GARANTEX EUROPE OU)"

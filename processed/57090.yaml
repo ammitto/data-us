@@ -28,9 +28,6 @@ id_list:
     id_type: Company Number
     id_number: '14009960142'
     id_country: Iran
-  - uid: '196630'
-    id_type: Website
-    id_number: bitpin.ir
   - uid: '196632'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
@@ -40,3 +37,6 @@ id_list:
   - uid: '196640'
     id_type: 'Organization Type:'
     id_number: Financial and Insurance Activities
+  - uid: '196630'
+    id_type: Website
+    id_number: bitpin.ir

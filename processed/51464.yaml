@@ -28,12 +28,12 @@ id_list:
   - uid: '181554'
     id_type: Target Type
     id_number: Financial Institution
+  - uid: '180999'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
   - uid: '181001'
     id_type: SWIFT/BIC
     id_number: NEWMRUMM
   - uid: '181000'
     id_type: Website
     id_number: www.nmbank.ru
-  - uid: '180999'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.

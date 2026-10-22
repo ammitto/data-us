@@ -1,0 +1,35 @@
+---
+uid: '58932'
+last_name: KARNAKIS AND KARNAKIS
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '90821'
+    address1: Global Plaza Building
+    address2: Calle 50
+    address3: Floor 21
+    city: Panama City
+    country: Panama
+  - uid: '90822'
+    address1: 158 II Merachias and Alkiviadou
+    city: Piraeus
+    postal_code: 185 35
+    country: Greece
+id_list:
+  items:
+  - uid: '53808'
+    id_type: 'RUC #'
+    id_number: 921299-2-23411
+    id_country: Panama
+  - uid: '204322'
+    id_type: Organization Established Date
+    id_number: 13 Mar 2006
+  - uid: '204659'
+    id_type: 'Organization Type:'
+    id_number: Legal activities
+  - uid: '204323'
+    id_type: Website
+    id_number: karnakiskarnakis.com

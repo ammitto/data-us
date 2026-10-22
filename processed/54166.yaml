@@ -31,12 +31,12 @@ id_list:
     id_type: Unified Social Credit Code (USCC)
     id_number: 91310115MA1HA2AN6U
     id_country: China
-  - uid: '189766'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '189767'
     id_type: Organization Established Date
     id_number: 06 Jun 2018
+  - uid: '189766'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
   - uid: '189768'
     id_type: Website
     id_number: https://www.tchaintech.com

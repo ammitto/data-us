@@ -14,13 +14,13 @@ id_list:
   - uid: '44558'
     id_type: MMSI
     id_number: '352002139'
-  - uid: '182226'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '183323'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
       589.209
+  - uid: '182226'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 remarks: "(Linked To: HUIHAI HONG KONG SHIPPING CO LIMITED)"
 vessel_info:
   call_sign: 3E3814

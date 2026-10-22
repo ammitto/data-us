@@ -12,11 +12,11 @@ id_list:
     id_type: Passport
     id_number: Z4984865
     expiration_date: 19 Jan 2029
-  - uid: '134745'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '186940'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
+  - uid: '134745'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 remarks: "(Linked To: MEHDI GROUP)"

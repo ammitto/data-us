@@ -1,0 +1,45 @@
+---
+uid: '58959'
+first_name: Konstantinos
+last_name: KARNAKIS KOSMAS
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '90876'
+    country: Panama
+id_list:
+  items:
+  - uid: '53847'
+    id_type: Cedula No.
+    id_number: 8-744-805
+    id_country: Panama
+  - uid: '53848'
+    id_type: Passport
+    id_number: PA1035491
+    id_country: Panama
+    expiration_date: 04 Apr 2028
+  - uid: '204417'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '104415'
+    date_of_birth: 22 Feb 1981
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '104416'
+    place_of_birth: Panama
+    main_entry: 'true'
+remarks: "(Linked To: KARNAKIS AND KARNAKIS)"
+nationality_list:
+  items:
+  - uid: '104418'
+    country: Panama
+    main_entry: 'true'
+  - uid: '104419'
+    country: Greece
+    main_entry: 'false'

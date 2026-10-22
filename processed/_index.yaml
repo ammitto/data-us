@@ -1,9 +1,9 @@
 ---
 source: us
-count: 19457
-fetched_at: '2026-10-21T12:24:07Z'
+count: 19471
+fetched_at: '2026-10-22T12:24:58Z'
 schema: ammitto:sources:us:v1
-pruned: 0
+pruned: 4
 files:
 - 10001.yaml
 - 10002.yaml
@@ -6122,7 +6122,6 @@ files:
 - 31003.yaml
 - 31004.yaml
 - 31005.yaml
-- 31042.yaml
 - 31082.yaml
 - 31122.yaml
 - 31123.yaml
@@ -6445,7 +6444,6 @@ files:
 - 32691.yaml
 - 32692.yaml
 - 32696.yaml
-- 32711.yaml
 - 32712.yaml
 - 32713.yaml
 - 32714.yaml
@@ -6859,8 +6857,6 @@ files:
 - 34021.yaml
 - 34022.yaml
 - 34023.yaml
-- 34024.yaml
-- 34025.yaml
 - 34036.yaml
 - 34056.yaml
 - 34057.yaml
@@ -18551,6 +18547,8 @@ files:
 - 58788.yaml
 - 58789.yaml
 - 58790.yaml
+- 58810.yaml
+- 58811.yaml
 - 58812.yaml
 - 58813.yaml
 - 58814.yaml
@@ -18569,8 +18567,12 @@ files:
 - 58831.yaml
 - 58832.yaml
 - 58834.yaml
+- 58873.yaml
+- 58874.yaml
 - 589.yaml
 - 58930.yaml
+- 58931.yaml
+- 58932.yaml
 - 58934.yaml
 - 58935.yaml
 - 58936.yaml
@@ -18592,6 +18594,18 @@ files:
 - 58952.yaml
 - 58953.yaml
 - 58954.yaml
+- 58955.yaml
+- 58956.yaml
+- 58957.yaml
+- 58958.yaml
+- 58959.yaml
+- 58960.yaml
+- 58961.yaml
+- 58962.yaml
+- 58963.yaml
+- 58964.yaml
+- 58965.yaml
+- 58966.yaml
 - 58990.yaml
 - 58991.yaml
 - 58992.yaml

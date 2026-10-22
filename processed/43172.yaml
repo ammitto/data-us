@@ -7,6 +7,9 @@ program_list:
   - RUSSIA-EO14024
 id_list:
   items:
+  - uid: '175593'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
   - uid: '162206'
     id_type: Aircraft Model
     id_number: AN-124
@@ -16,7 +19,4 @@ id_list:
   - uid: '162593'
     id_type: Aircraft Tail Number
     id_number: RA-78846
-  - uid: '175593'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
 remarks: "(Linked To: JOINT STOCK COMPANY THE 224TH FLIGHT UNIT STATE AIRLINES)"

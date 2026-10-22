@@ -25,12 +25,12 @@ id_list:
     id_number: RE0025767
     id_country: Saint Kitts and Nevis
     expiration_date: 11 Jan 2025
-  - uid: '190017'
-    id_type: Gender
-    id_number: Male
   - uid: '190033'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '190017'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '90013'

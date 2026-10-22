@@ -33,12 +33,12 @@ id_list:
     id_type: Passport
     id_number: E56456884
     id_country: Iran
-  - uid: '195705'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '195623'
     id_type: Gender
     id_number: Male
+  - uid: '195705'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '95622'

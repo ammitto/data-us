@@ -23,10 +23,6 @@ id_list:
     id_type: Tax ID No.
     id_number: '63055872'
     id_country: Slovenia
-  - uid: '196925'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
-      Sanctions Regulations
   - uid: '196924'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
@@ -34,4 +30,8 @@ id_list:
   - uid: '196966'
     id_type: Organization Established Date
     id_number: 05 Nov 2021
+  - uid: '196925'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
+      Sanctions Regulations
 remarks: "(Linked To: HASHEM, Bahaa Addin)"

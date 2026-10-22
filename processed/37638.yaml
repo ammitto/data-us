@@ -51,9 +51,6 @@ id_list:
   - uid: '152571'
     id_type: Organization Established Date
     id_number: 27 Jun 1996
-  - uid: '172726'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '152569'
     id_type: SWIFT/BIC
     id_number: MICURUMM
@@ -63,3 +60,6 @@ id_list:
   - uid: '152572'
     id_type: Website
     id_number: www.nsd.ru
+  - uid: '172726'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

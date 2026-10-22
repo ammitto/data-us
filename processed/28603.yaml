@@ -23,15 +23,15 @@ id_list:
     id_type: Business Registration Number
     id_number: CH-660.0.559.011-2
     id_country: Switzerland
-  - uid: '144127'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
-      589.209
   - uid: '134566'
     id_type: Executive Order 13662 Directive Determination -
     id_number: Subject to Directive 2
   - uid: '134567'
     id_type: Executive Order 13662 Directive Determination -
     id_number: Subject to Directive 4
+  - uid: '144127'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
 remarks: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
   (Linked To: OPEN JOINT-STOCK COMPANY ROSNEFT OIL COMPANY)'

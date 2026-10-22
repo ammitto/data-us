@@ -26,9 +26,6 @@ id_list:
   - uid: '136443'
     id_type: Gender
     id_number: Male
-  - uid: '136444'
-    id_type: Email Address
-    id_number: potekhinl4@bk.ru
   - uid: '136445'
     id_type: Digital Currency Address - XBT
     id_number: 1Q9UAQbcDezmyouFrzt94t4dSMxgsUfW1X
@@ -41,6 +38,9 @@ id_list:
   - uid: '154595'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+  - uid: '136444'
+    id_type: Email Address
+    id_number: potekhinl4@bk.ru
 date_of_birth_list:
   items:
   - uid: '36440'

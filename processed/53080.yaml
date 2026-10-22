@@ -11,9 +11,6 @@ address_list:
     country: Russia
 id_list:
   items:
-  - uid: '185374'
-    id_type: Website
-    id_number: exved.com
   - uid: '192416'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
@@ -23,4 +20,7 @@ id_list:
   - uid: '185373'
     id_type: 'Organization Type:'
     id_number: Financial and Insurance Activities
+  - uid: '185374'
+    id_type: Website
+    id_number: exved.com
 remarks: "(Linked To: MENDELEEV, Sergey)"

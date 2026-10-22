@@ -1,0 +1,46 @@
+---
+uid: '58958'
+first_name: Sofianos
+last_name: KARNAKIS KOSMAS
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '90874'
+    city: Panama City
+    country: Panama
+id_list:
+  items:
+  - uid: '53845'
+    id_type: Cedula No.
+    id_number: 8-708-550
+    id_country: Panama
+  - uid: '53846'
+    id_type: Passport
+    id_number: PA1335856
+    id_country: Panama
+    expiration_date: 05 Feb 2030
+  - uid: '204412'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '104410'
+    date_of_birth: 06 Jan 1975
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '104411'
+    place_of_birth: Panama
+    main_entry: 'true'
+remarks: "(Linked To: KARNAKIS AND KARNAKIS)"
+nationality_list:
+  items:
+  - uid: '104413'
+    country: Panama
+    main_entry: 'true'
+  - uid: '104414'
+    country: Greece
+    main_entry: 'false'

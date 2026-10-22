@@ -58,6 +58,10 @@ id_list:
   - uid: '13057'
     id_type: Tax ID No.
     id_number: '7826688390'
+  - uid: '143861'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
   - uid: '121773'
     id_type: Website
     id_number: http://www.stpr.ru
@@ -67,7 +71,3 @@ id_list:
   - uid: '121772'
     id_type: Email Address
     id_number: Murina@stpr.ru
-  - uid: '143861'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
-      589.209

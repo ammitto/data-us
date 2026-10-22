@@ -47,12 +47,12 @@ id_list:
   - uid: '169049'
     id_type: Target Type
     id_number: Financial Institution
-  - uid: '176404'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '169050'
     id_type: SWIFT/BIC
     id_number: ROSFRU2A
   - uid: '169048'
     id_type: Website
     id_number: www.rostfinance.ru
+  - uid: '176404'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
