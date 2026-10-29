@@ -47,12 +47,12 @@ id_list:
     id_type: Passport
     id_number: Z52116903
     id_country: Iran
-  - uid: '194425'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '194426'
     id_type: Gender
     id_number: Male
+  - uid: '194425'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '94422'

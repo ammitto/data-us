@@ -18,12 +18,12 @@ id_list:
     id_country: Uzbekistan
     issue_date: '08 May 2013'
     expiration_date: 07 May 2023
-  - uid: '173692'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '160018'
     id_type: Gender
     id_number: Female
+  - uid: '173692'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 date_of_birth_list:
   items:
   - uid: '60015'

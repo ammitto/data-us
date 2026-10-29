@@ -32,10 +32,10 @@ address_list:
     country: Iran
 id_list:
   items:
-  - uid: '159568'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '159657'
     id_type: Target Type
     id_number: Government Entity
+  - uid: '159568'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 remarks: "(Linked To: MINISTRY OF DEFENSE AND ARMED FORCES LOGISTICS)"

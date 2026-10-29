@@ -1,0 +1,42 @@
+---
+uid: '58407'
+last_name: ZIGAMA CREDIT AND SAVINGS SOCIETY
+sdn_type: Entity
+program_list:
+  programs:
+  - DRCONGO
+aka_list:
+  items:
+  - uid: '90361'
+    type: a.k.a.
+    category: strong
+    last_name: ZIGAMA CREDIT AND SAVINGS BANK
+  - uid: '90362'
+    type: a.k.a.
+    category: weak
+    last_name: ZIGAMA CSS
+address_list:
+  items:
+  - uid: '89812'
+    address1: KG 178 Street 3
+    address2: P.O. Box 4772
+    city: Kigali
+    country: Rwanda
+id_list:
+  items:
+  - uid: '53976'
+    id_type: Business Registration Number
+    id_number: RCA/546/2010
+    id_country: Rwanda
+  - uid: '200460'
+    id_type: Organization Established Date
+    id_number: '1997'
+  - uid: '200461'
+    id_type: Organization Established Date
+    id_number: 19 Apr 2010
+  - uid: '200459'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '200462'
+    id_type: Website
+    id_number: https://zigamacss.rw

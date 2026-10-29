@@ -1,0 +1,53 @@
+---
+uid: '58885'
+first_name: Se Il
+last_name: HYON
+sdn_type: Individual
+program_list:
+  programs:
+  - DPRK3
+aka_list:
+  items:
+  - uid: '91078'
+    type: a.k.a.
+    category: strong
+    last_name: HYO'N
+    first_name: Se-il
+address_list:
+  items:
+  - uid: '90767'
+    country: Russia
+id_list:
+  items:
+  - uid: '53768'
+    id_type: Passport
+    id_number: '845349266'
+    id_country: Korea, North
+    issue_date: 01 Sep 2025
+    expiration_date: 01 Sep 2030
+  - uid: '204303'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '204304'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '202019'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '102017'
+    date_of_birth: '08 Sep 2002'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '102020'
+    place_of_birth: Pyongyang, North Korea
+    main_entry: 'true'
+remarks: "(Linked To: FIRST FINANCIAL AND TECHNICAL DEVELOPMENT CENTER)"
+nationality_list:
+  items:
+  - uid: '102021'
+    country: Korea, North
+    main_entry: 'true'

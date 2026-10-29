@@ -31,13 +31,13 @@ id_list:
     id_type: Registration Number
     id_number: '440300201508973'
     id_country: China
-  - uid: '189262'
-    id_type: Website
-    id_number: amorlogis.com
-  - uid: '189261'
-    id_type: Organization Established Date
-    id_number: 20 Jun 2017
   - uid: '189305'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '189261'
+    id_type: Organization Established Date
+    id_number: 20 Jun 2017
+  - uid: '189262'
+    id_type: Website
+    id_number: amorlogis.com
 remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS)"

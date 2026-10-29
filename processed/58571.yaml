@@ -31,15 +31,15 @@ id_list:
   - uid: '53355'
     id_type: Legal Entity Number
     id_number: 2549001T72VRU0W37E62
-  - uid: '201139'
-    id_type: SWIFT/BIC
-    id_number: IDBQIQBA
-  - uid: '201138'
-    id_type: Website
-    id_number: https://www.idb.iq
   - uid: '201137'
     id_type: Organization Established Date
     id_number: 11 Jan 2011
   - uid: '204607'
     id_type: Target Type
     id_number: Financial Institution
+  - uid: '201139'
+    id_type: SWIFT/BIC
+    id_number: IDBQIQBA
+  - uid: '201138'
+    id_type: Website
+    id_number: https://www.idb.iq

@@ -21,13 +21,13 @@ address_list:
     country: Russia
 id_list:
   items:
-  - uid: '143939'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
-      589.209
   - uid: '120676'
     id_type: Website
     id_number: http://fkutaman.ru/
   - uid: '120677'
     id_type: Email Address
     id_number: office@fkutaman.ru
+  - uid: '143939'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

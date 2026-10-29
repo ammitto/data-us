@@ -40,15 +40,15 @@ id_list:
     id_type: Tax ID No.
     id_number: '7706092528'
     id_country: Russia
-  - uid: '145888'
-    id_type: SWIFT/BIC
-    id_number: JSNMRUMM
-  - uid: '145889'
-    id_type: Website
-    id_number: http://www.open.ru
   - uid: '145890'
     id_type: Organization Established Date
     id_number: 15 Dec 1992
   - uid: '175124'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '145888'
+    id_type: SWIFT/BIC
+    id_number: JSNMRUMM
+  - uid: '145889'
+    id_type: Website
+    id_number: http://www.open.ru

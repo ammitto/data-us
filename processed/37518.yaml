@@ -14,9 +14,6 @@ address_list:
     country: Korea, North
 id_list:
   items:
-  - uid: '152420'
-    id_type: 'Secondary sanctions risk:'
-    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '152419'
     id_type: Target Type
     id_number: State-Owned Enterprise
@@ -24,3 +21,6 @@ id_list:
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'
     id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '152420'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210

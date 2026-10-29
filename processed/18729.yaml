@@ -58,6 +58,9 @@ id_list:
     id_type: Registration ID
     id_number: '1097746344596'
     id_country: Russia
+  - uid: '118227'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 1
   - uid: '118172'
     id_type: Website
     id_number: http://vtbcapital.com
@@ -68,9 +71,6 @@ id_list:
   - uid: '172705'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
-  - uid: '118227'
-    id_type: Executive Order 13662 Directive Determination -
-    id_number: Subject to Directive 1
   - uid: '146668'
     id_type: Target Type
     id_number: Financial Institution

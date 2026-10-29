@@ -28,13 +28,13 @@ id_list:
     id_type: Registration Number
     id_number: '2008980'
     id_country: Lebanon
-  - uid: '190717'
-    id_type: Organization Established Date
-    id_number: 18 Oct 2006
   - uid: '190735'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
       Sanctions Regulations
+  - uid: '190717'
+    id_type: Organization Established Date
+    id_number: 18 Oct 2006
   - uid: '190718'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order

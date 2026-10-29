@@ -50,9 +50,6 @@ id_list:
     id_type: Tax ID No.
     id_number: '410211742522406'
     id_country: China
-  - uid: '138674'
-    id_type: Website
-    id_number: www.kfcc.com.cn
   - uid: '138673'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
@@ -71,4 +68,7 @@ id_list:
   - uid: '138750'
     id_type: 'Executive Order 13846 information:'
     id_number: BAN ON INVESTMENT IN EQUITY OR DEBT OF SANCTIONED PERSON.  Sec. 5(a)(v)
+  - uid: '138674'
+    id_type: Website
+    id_number: www.kfcc.com.cn
 remarks: "(Linked To: PASARGAD STEEL COMPLEX)"

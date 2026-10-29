@@ -32,6 +32,9 @@ id_list:
     id_type: Tax ID No.
     id_number: '9710138137'
     id_country: Russia
+  - uid: '192412'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
   - uid: '190828'
     id_type: Organization Established Date
     id_number: 26 Sep 2024
@@ -39,7 +42,4 @@ id_list:
     id_type: 'Organization Type:'
     id_number: Other financial service activities, except insurance and pension funding
       activities, n.e.c.
-  - uid: '192412'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
 remarks: "(Linked To: A7 LIMITED LIABILITY COMPANY)"

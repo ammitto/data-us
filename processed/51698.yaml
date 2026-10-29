@@ -28,9 +28,6 @@ id_list:
     id_type: Tax ID No.
     id_number: '3906098008'
     id_country: Russia
-  - uid: '181725'
-    id_type: Target Type
-    id_number: Financial Institution
   - uid: '181726'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
@@ -43,3 +40,6 @@ id_list:
   - uid: '181730'
     id_type: Website
     id_number: www.etbank.ru
+  - uid: '181725'
+    id_type: Target Type
+    id_number: Financial Institution

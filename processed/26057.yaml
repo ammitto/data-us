@@ -45,6 +45,10 @@ address_list:
     country: Iraq
 id_list:
   items:
+  - uid: '187274'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
   - uid: '130295'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
@@ -55,10 +59,6 @@ id_list:
   - uid: '130404'
     id_type: Gender
     id_number: Male
-  - uid: '187274'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
 date_of_birth_list:
   items:
   - uid: '30289'

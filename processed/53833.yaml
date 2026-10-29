@@ -36,12 +36,12 @@ id_list:
     id_type: Chamber of Commerce Number
     id_number: '184048'
     id_country: United Arab Emirates
-  - uid: '188905'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '188896'
     id_type: Website
     id_number: www.infracommunication.com
+  - uid: '188905'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
   - uid: '188897'
     id_type: Organization Established Date
     id_number: '08 Nov 2009'

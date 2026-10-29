@@ -31,12 +31,12 @@ id_list:
     id_type: National ID No.
     id_number: AD3927969
     id_country: Uzbekistan
-  - uid: '196158'
-    id_type: Gender
-    id_number: Male
   - uid: '196258'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+  - uid: '196158'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '96157'

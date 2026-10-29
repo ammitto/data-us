@@ -1,0 +1,53 @@
+---
+uid: '58883'
+first_name: Yu Song
+last_name: HAN
+sdn_type: Individual
+program_list:
+  programs:
+  - DPRK3
+aka_list:
+  items:
+  - uid: '91074'
+    type: a.k.a.
+    category: strong
+    last_name: HAN
+    first_name: Yu-so'ng
+address_list:
+  items:
+  - uid: '90763'
+    country: Russia
+id_list:
+  items:
+  - uid: '53766'
+    id_type: Passport
+    id_number: '845349261'
+    id_country: Korea, North
+    issue_date: 01 Sep 2025
+    expiration_date: 30 Sep 2030
+  - uid: '202011'
+    id_type: Gender
+    id_number: Male
+  - uid: '204301'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '204302'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+date_of_birth_list:
+  items:
+  - uid: '102009'
+    date_of_birth: 20 May 2000
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '102012'
+    place_of_birth: Pyongyang, North Korea
+    main_entry: 'true'
+remarks: "(Linked To: FIRST FINANCIAL AND TECHNICAL DEVELOPMENT CENTER)"
+nationality_list:
+  items:
+  - uid: '102010'
+    country: Korea, North
+    main_entry: 'true'

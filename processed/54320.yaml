@@ -23,12 +23,12 @@ id_list:
   - uid: '190100'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
-  - uid: '190360'
-    id_type: Vessel Year of Build
-    id_number: '1999'
   - uid: '192746'
     id_type: Former Vessel Flag
     id_number: Panama
+  - uid: '190360'
+    id_type: Vessel Year of Build
+    id_number: '1999'
 remarks: "(Linked To: UNICO SHIPPING CO LTD)"
 vessel_info:
   call_sign: 3E5884

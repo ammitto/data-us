@@ -1,0 +1,42 @@
+---
+uid: '59069'
+last_name: MINISTRY OF DEFENCE OF THE REPUBLIC OF RWANDA
+sdn_type: Entity
+program_list:
+  programs:
+  - DRCONGO
+aka_list:
+  items:
+  - uid: '91263'
+    type: a.k.a.
+    category: strong
+    last_name: RWANDAN MINISTRY OF DEFENCE
+  - uid: '91264'
+    type: a.k.a.
+    category: strong
+    last_name: MOD OF THE REPUBLIC OF RWANDA
+  - uid: '91265'
+    type: a.k.a.
+    category: strong
+    last_name: MINADEF OF THE REPUBLIC OF RWANDA
+address_list:
+  items:
+  - uid: '91037'
+    address1: Ministry of Defence
+    address2: KG 1 Roundabout
+    city: Kigali
+    country: Rwanda
+id_list:
+  items:
+  - uid: '204740'
+    id_type: Website
+    id_number: https://www.mod.gov.rw
+  - uid: '204743'
+    id_type: Organization Established Date
+    id_number: '1962'
+  - uid: '204741'
+    id_type: 'Organization Type:'
+    id_number: Defense activities
+  - uid: '204742'
+    id_type: Target Type
+    id_number: Government Entity

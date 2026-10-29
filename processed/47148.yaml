@@ -26,10 +26,6 @@ address_list:
     country: Korea, North
 id_list:
   items:
-  - uid: '180677'
-    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
-      Institutions:'
-    id_number: North Korea Sanctions Regulations section 510.214
   - uid: '183846'
     id_type: Organization Established Date
     id_number: Feb 1995
@@ -42,3 +38,7 @@ id_list:
   - uid: '183845'
     id_type: SWIFT/BIC
     id_number: KGTBKPP1
+  - uid: '180677'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214

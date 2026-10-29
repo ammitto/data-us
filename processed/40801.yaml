@@ -51,15 +51,15 @@ id_list:
   - uid: '158321'
     id_type: Organization Established Date
     id_number: 01 Jan 1995
-  - uid: '174145'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
+  - uid: '158323'
+    id_type: Target Type
+    id_number: Financial Institution
   - uid: '158322'
     id_type: SWIFT/BIC
     id_number: ZENIRUMM
   - uid: '158324'
     id_type: Website
     id_number: www.zenit.ru
-  - uid: '158323'
-    id_type: Target Type
-    id_number: Financial Institution
+  - uid: '174145'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

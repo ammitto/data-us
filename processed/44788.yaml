@@ -33,12 +33,12 @@ id_list:
     id_country: China
     issue_date: 02 Jul 2017
     expiration_date: 02 Jul 2027
-  - uid: '165028'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '165032'
     id_type: Gender
     id_number: Female
+  - uid: '165028'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '65029'

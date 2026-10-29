@@ -24,12 +24,12 @@ id_list:
     id_number: L00019196
     id_country: Cyprus
     expiration_date: 19 Apr 2031
-  - uid: '174103'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '157697'
     id_type: Gender
     id_number: Male
+  - uid: '174103'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 date_of_birth_list:
   items:
   - uid: '57696'

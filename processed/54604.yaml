@@ -32,6 +32,13 @@ id_list:
     id_type: R.F.C.
     id_number: STO2104068Q1
     id_country: Mexico
+  - uid: '193933'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '190782'
+    id_type: Website
+    id_number: https://storelab.mx
   - uid: '190783'
     id_type: Organization Established Date
     id_number: 06 Apr 2021
@@ -39,12 +46,5 @@ id_list:
     id_type: 'Organization Type:'
     id_number: Retail sale of pharmaceutical and medical goods, cosmetic and toilet
       articles in specialized stores
-  - uid: '190782'
-    id_type: Website
-    id_number: https://storelab.mx
-  - uid: '193933'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
 remarks: "(Linked To: FAVELA LOPEZ, Jorge Luis; Linked To: FAVELA LOPEZ, Maria Gabriela;
   Linked To: VERDUGO ARAUJO, Jairo)"

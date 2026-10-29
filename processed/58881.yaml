@@ -1,0 +1,53 @@
+---
+uid: '58881'
+first_name: Thae Chol
+last_name: RI
+sdn_type: Individual
+program_list:
+  programs:
+  - DPRK3
+aka_list:
+  items:
+  - uid: '91070'
+    type: a.k.a.
+    category: strong
+    last_name: RI
+    first_name: T'ae-ch'o'l
+address_list:
+  items:
+  - uid: '90758'
+    country: Russia
+id_list:
+  items:
+  - uid: '53764'
+    id_type: Passport
+    id_number: '845349262'
+    id_country: Korea, North
+    issue_date: 01 Sep 2025
+    expiration_date: 01 Sep 2030
+  - uid: '204309'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '204310'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '202004'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '102003'
+    date_of_birth: 24 Feb 1999
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '102007'
+    place_of_birth: Pyongyang, North Korea
+    main_entry: 'true'
+remarks: "(Linked To: FIRST FINANCIAL AND TECHNICAL DEVELOPMENT CENTER)"
+nationality_list:
+  items:
+  - uid: '102002'
+    country: Korea, North
+    main_entry: 'true'

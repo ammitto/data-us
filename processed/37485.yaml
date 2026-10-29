@@ -71,6 +71,9 @@ id_list:
     id_type: Tax ID No.
     id_number: Sisli TA/0690472808
     id_country: Turkey
+  - uid: '152280'
+    id_type: Website
+    id_number: www.trendgyo.com.tr
   - uid: '152281'
     id_type: ISIN
     id_number: TRETGYO00023
@@ -78,7 +81,4 @@ id_list:
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
-  - uid: '152280'
-    id_type: Website
-    id_number: www.trendgyo.com.tr
 remarks: "(Linked To: HAMAS)"

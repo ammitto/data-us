@@ -30,9 +30,6 @@ id_list:
     id_type: Tax ID No.
     id_number: '02312202410120'
     id_country: Kyrgyzstan
-  - uid: '192413'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
   - uid: '191896'
     id_type: Organization Established Date
     id_number: 23 Dec 2024
@@ -60,4 +57,7 @@ id_list:
   - uid: '191895'
     id_type: Digital Currency Address - TRX
     id_number: TGckaiamj5NzaYx6Qp6Zu7kahuHArzUo99
+  - uid: '192413'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
 remarks: "(Linked To: GARANTEX EUROPE OU)"

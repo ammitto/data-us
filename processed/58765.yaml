@@ -30,12 +30,12 @@ id_list:
     id_type: Company Number
     id_number: '10101155744'
     id_country: Iran
-  - uid: '201722'
-    id_type: Organization Established Date
-    id_number: 31 Jul 1988
   - uid: '201723'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '201722'
+    id_type: Organization Established Date
+    id_number: 31 Jul 1988
   - uid: '201721'
     id_type: Website
     id_number: www.rai.ir

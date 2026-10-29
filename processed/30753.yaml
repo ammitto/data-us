@@ -28,9 +28,9 @@ address_list:
     country: Iran
 id_list:
   items:
-  - uid: '138671'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '138672'
     id_type: Website
     id_number: www.viansteel.com
+  - uid: '138671'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

@@ -1,0 +1,53 @@
+---
+uid: '58880'
+first_name: Kyong Ju
+last_name: KIM
+sdn_type: Individual
+program_list:
+  programs:
+  - DPRK3
+aka_list:
+  items:
+  - uid: '91297'
+    type: a.k.a.
+    category: strong
+    last_name: KIM
+    first_name: Kyo'ng-chu
+address_list:
+  items:
+  - uid: '90759'
+    country: Russia
+id_list:
+  items:
+  - uid: '53763'
+    id_type: Passport
+    id_number: '845349260'
+    id_country: Korea, North
+    issue_date: 01 Sep 2025
+    expiration_date: 01 Sep 2030
+  - uid: '204305'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '204306'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '202001'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '101999'
+    date_of_birth: 02 Jan 2001
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '104779'
+    place_of_birth: Pyongyang, North Korea
+    main_entry: 'true'
+remarks: "(Linked To: FIRST FINANCIAL AND TECHNICAL DEVELOPMENT CENTER)"
+nationality_list:
+  items:
+  - uid: '102000'
+    country: Korea, North
+    main_entry: 'true'

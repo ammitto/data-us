@@ -25,6 +25,34 @@ id_list:
     id_number: '109484100'
     id_country: Korea, North
     expiration_date: 24 Dec 2024
+  - uid: '161248'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '196597'
+    id_type: Digital Currency Address - TRX
+    id_number: TGXE9dGWawjfd3xqFSho1h1bRbRv9wUGrF
+  - uid: '196598'
+    id_type: Digital Currency Address - TRX
+    id_number: TPDLpXxPcaSsupEZ3yrVksmNkYP5SLeKxu
+  - uid: '196599'
+    id_type: Digital Currency Address - TRX
+    id_number: TNTFhgFoKH4srBMiWbfrVFqP2AThSmdwf1
+  - uid: '196600'
+    id_type: Digital Currency Address - TRX
+    id_number: TXhf9nU9bjo1j9z5qEesHdr6gtdndfnA4T
+  - uid: '196601'
+    id_type: Digital Currency Address - TRX
+    id_number: TK17wfSPp32RWrnzZPrGpv7TxdNFvvvE2s
+  - uid: '196602'
+    id_type: Digital Currency Address - TRX
+    id_number: TYeQD2VddTZ9NkFkAnT9DD8cUGetGUQZB2
+  - uid: '161088'
+    id_type: Digital Currency Address - ARB
+    id_number: '0x4f47bc496083c727c5fbe3ce9cdf2b0f6496270c'
+  - uid: '161089'
+    id_type: Digital Currency Address - BSC
+    id_number: '0x4f47bc496083c727c5fbe3ce9cdf2b0f6496270c'
   - uid: '160979'
     id_type: Gender
     id_number: Male
@@ -49,34 +77,6 @@ id_list:
   - uid: '161249'
     id_type: 'Secondary sanctions risk:'
     id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
-  - uid: '196597'
-    id_type: Digital Currency Address - TRX
-    id_number: TGXE9dGWawjfd3xqFSho1h1bRbRv9wUGrF
-  - uid: '196598'
-    id_type: Digital Currency Address - TRX
-    id_number: TPDLpXxPcaSsupEZ3yrVksmNkYP5SLeKxu
-  - uid: '196599'
-    id_type: Digital Currency Address - TRX
-    id_number: TNTFhgFoKH4srBMiWbfrVFqP2AThSmdwf1
-  - uid: '196600'
-    id_type: Digital Currency Address - TRX
-    id_number: TXhf9nU9bjo1j9z5qEesHdr6gtdndfnA4T
-  - uid: '196601'
-    id_type: Digital Currency Address - TRX
-    id_number: TK17wfSPp32RWrnzZPrGpv7TxdNFvvvE2s
-  - uid: '196602'
-    id_type: Digital Currency Address - TRX
-    id_number: TYeQD2VddTZ9NkFkAnT9DD8cUGetGUQZB2
-  - uid: '161248'
-    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
-      Institutions:'
-    id_number: North Korea Sanctions Regulations section 510.214
-  - uid: '161088'
-    id_type: Digital Currency Address - ARB
-    id_number: '0x4f47bc496083c727c5fbe3ce9cdf2b0f6496270c'
-  - uid: '161089'
-    id_type: Digital Currency Address - BSC
-    id_number: '0x4f47bc496083c727c5fbe3ce9cdf2b0f6496270c'
 date_of_birth_list:
   items:
   - uid: '60978'

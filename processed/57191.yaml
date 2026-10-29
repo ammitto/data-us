@@ -24,10 +24,6 @@ id_list:
     id_number: LR2152231
     id_country: Lebanon
     expiration_date: 07 Jul 2031
-  - uid: '196910'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
   - uid: '196913'
     id_type: Gender
     id_number: Female
@@ -35,6 +31,10 @@ id_list:
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
       Sanctions Regulations
+  - uid: '196910'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
 date_of_birth_list:
   items:
   - uid: '96912'

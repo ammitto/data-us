@@ -36,6 +36,9 @@ id_list:
     id_type: National ID No.
     id_number: '10101402182'
     id_country: Iran
+  - uid: '200978'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
   - uid: '200841'
     id_type: Website
     id_number: www.karunair.ir
@@ -45,6 +48,3 @@ id_list:
   - uid: '200839'
     id_type: 'Organization Type:'
     id_number: Passenger air transport
-  - uid: '200978'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions

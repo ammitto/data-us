@@ -1,0 +1,53 @@
+---
+uid: '58884'
+first_name: Sung Gwan
+last_name: KIM
+sdn_type: Individual
+program_list:
+  programs:
+  - DPRK3
+aka_list:
+  items:
+  - uid: '91076'
+    type: a.k.a.
+    category: strong
+    last_name: KIM
+    first_name: Su'ng-kwan
+address_list:
+  items:
+  - uid: '90765'
+    country: Russia
+id_list:
+  items:
+  - uid: '53767'
+    id_type: Passport
+    id_number: '845136774'
+    id_country: Korea, North
+    issue_date: 18 Feb 2025
+    expiration_date: 18 Feb 2030
+  - uid: '202015'
+    id_type: Gender
+    id_number: Male
+  - uid: '204307'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '204308'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+date_of_birth_list:
+  items:
+  - uid: '102013'
+    date_of_birth: 07 Jan 1999
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '102016'
+    place_of_birth: Pyongyang, North Korea
+    main_entry: 'true'
+remarks: "(Linked To: FIRST FINANCIAL AND TECHNICAL DEVELOPMENT CENTER)"
+nationality_list:
+  items:
+  - uid: '102014'
+    country: Korea, North
+    main_entry: 'true'

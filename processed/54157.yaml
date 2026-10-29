@@ -23,13 +23,13 @@ id_list:
     id_type: Registration Number
     id_number: '310115002400449'
     id_country: China
-  - uid: '189732'
-    id_type: Website
-    id_number: www.reso-sh.com
   - uid: '189730'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
   - uid: '189731'
     id_type: Organization Established Date
     id_number: '08 Jul 2014'
+  - uid: '189732'
+    id_type: Website
+    id_number: www.reso-sh.com
 remarks: "(Linked To: WANG, Chao)"

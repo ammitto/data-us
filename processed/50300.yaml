@@ -24,9 +24,9 @@ id_list:
     id_type: Tax ID No.
     id_number: '810727040'
     id_country: France
-  - uid: '178213'
-    id_type: Organization Established Date
-    id_number: 06 Mar 2015
   - uid: '178214'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '178213'
+    id_type: Organization Established Date
+    id_number: 06 Mar 2015

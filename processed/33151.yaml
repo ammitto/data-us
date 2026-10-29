@@ -35,27 +35,6 @@ id_list:
     id_type: Company Number
     id_number: '07486049'
     id_country: Czech Republic
-  - uid: '143100'
-    id_type: Digital Currency Address - USDT
-    id_number: '0x2f389ce8bd8ff92de3402ffce4691d17fc4f6535'
-  - uid: '143101'
-    id_type: Digital Currency Address - USDT
-    id_number: '0x19aa5fe80d33a56d56c78e82ea5e50e5d80b4dff'
-  - uid: '143102'
-    id_type: Digital Currency Address - USDT
-    id_number: 1KUUJPkyDhamZXgpsyXqNGc3x1QPXtdhgz
-  - uid: '143103'
-    id_type: Digital Currency Address - USDT
-    id_number: 1CF46Rfbp97absrs7zb7dFfZS6qBXUm9EP
-  - uid: '143104'
-    id_type: Digital Currency Address - USDT
-    id_number: 1LrxsRd7zNuxPJcL5rttnoeJFy1y4AffYY
-  - uid: '143105'
-    id_type: Digital Currency Address - USDT
-    id_number: 1Df883c96LVauVsx9FEgnsourD8DELwCUQ
-  - uid: '143107'
-    id_type: Digital Currency Address - USDT
-    id_number: 16iWn2J1McqjToYLHSsAyS6En3QA8YQ91H
   - uid: '143050'
     id_type: Organization Established Date
     id_number: 25 Sep 2018
@@ -116,6 +95,27 @@ id_list:
   - uid: '154602'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+  - uid: '143100'
+    id_type: Digital Currency Address - USDT
+    id_number: '0x2f389ce8bd8ff92de3402ffce4691d17fc4f6535'
+  - uid: '143101'
+    id_type: Digital Currency Address - USDT
+    id_number: '0x19aa5fe80d33a56d56c78e82ea5e50e5d80b4dff'
+  - uid: '143102'
+    id_type: Digital Currency Address - USDT
+    id_number: 1KUUJPkyDhamZXgpsyXqNGc3x1QPXtdhgz
+  - uid: '143103'
+    id_type: Digital Currency Address - USDT
+    id_number: 1CF46Rfbp97absrs7zb7dFfZS6qBXUm9EP
+  - uid: '143104'
+    id_type: Digital Currency Address - USDT
+    id_number: 1LrxsRd7zNuxPJcL5rttnoeJFy1y4AffYY
+  - uid: '143105'
+    id_type: Digital Currency Address - USDT
+    id_number: 1Df883c96LVauVsx9FEgnsourD8DELwCUQ
+  - uid: '143107'
+    id_type: Digital Currency Address - USDT
+    id_number: 16iWn2J1McqjToYLHSsAyS6En3QA8YQ91H
   - uid: '142960'
     id_type: Website
     id_number: suex.io

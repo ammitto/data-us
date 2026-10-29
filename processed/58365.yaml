@@ -11,16 +11,16 @@ address_list:
     country: Singapore
 id_list:
   items:
-  - uid: '200371'
-    id_type: Website
-    id_number: https://www.safew-app.org
-  - uid: '200408'
-    id_type: Website
-    id_number: https://safew.org
   - uid: '200370'
     id_type: Organization Established Date
     id_number: '2018'
   - uid: '200369'
     id_type: 'Organization Type:'
     id_number: Computer programming activities
+  - uid: '200371'
+    id_type: Website
+    id_number: https://www.safew-app.org
+  - uid: '200408'
+    id_type: Website
+    id_number: https://safew.org
 remarks: "(Linked To: XINBI GUARANTEE)"
