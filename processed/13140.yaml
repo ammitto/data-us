@@ -34,10 +34,10 @@ address_list:
     country: Iran
 id_list:
   items:
-  - uid: '137232'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '137306'
     id_type: Website
     id_number: www.hibank24.ir
+  - uid: '137232'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 remarks: "(Linked To: BANK SEPAH)"

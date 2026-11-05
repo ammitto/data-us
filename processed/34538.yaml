@@ -30,9 +30,6 @@ id_list:
     id_type: Registration Number
     id_number: '0102100878'
     id_country: Vietnam
-  - uid: '177047'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '146699'
     id_type: Target Type
     id_number: Financial Institution
@@ -42,4 +39,7 @@ id_list:
   - uid: '145971'
     id_type: Website
     id_number: vrbank.com.vn/en
+  - uid: '177047'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 remarks: "(Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)"

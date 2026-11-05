@@ -1,0 +1,51 @@
+---
+uid: '59090'
+first_name: Alisher
+last_name: DOMULLODZHANOV
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-CON-ARMS-EO
+aka_list:
+  items:
+  - uid: '91318'
+    type: a.k.a.
+    category: strong
+    last_name: DOMULLODZHANOV
+    first_name: Alisher Hairulloevich
+address_list:
+  items:
+  - uid: '91078'
+    address1: Str. 5, Bld. 6
+    address2: Khripan Village
+    address3: Ramenskiy Rayon
+    state_or_province: Moscow Oblast
+    postal_code: '140163'
+    country: Russia
+id_list:
+  items:
+  - uid: '54046'
+    id_type: Passport
+    id_number: '769612269'
+    id_country: Russia
+  - uid: '204843'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '104839'
+    date_of_birth: 29 Nov 1989
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '104840'
+    place_of_birth: Dushanbe, Tajikistan
+    main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '104841'
+    country: Russia
+    main_entry: 'true'
+  - uid: '104842'
+    country: Tajikistan
+    main_entry: 'false'

@@ -25,9 +25,6 @@ id_list:
     id_type: Tax ID No.
     id_number: HLM140508NU5
     id_country: Mexico
-  - uid: '158309'
-    id_type: Phone Number
-    id_number: "+52 686 555 5920"
   - uid: '158311'
     id_type: Organization Established Date
     id_number: '08 May 2014'
@@ -37,4 +34,7 @@ id_list:
   - uid: '158310'
     id_type: Website
     id_number: https://hotelastorres.com/home.html
+  - uid: '158309'
+    id_type: Phone Number
+    id_number: "+52 686 555 5920"
 remarks: "(Linked To: HERNANDEZ SALAS TRANSNATIONAL CRIMINAL ORGANIZATION)"

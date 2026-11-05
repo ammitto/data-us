@@ -18,12 +18,12 @@ id_list:
     id_type: Passport
     id_number: C6XTLL1T9
     id_country: Germany
-  - uid: '193069'
-    id_type: Gender
-    id_number: Male
   - uid: '193070'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '193069'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '93066'

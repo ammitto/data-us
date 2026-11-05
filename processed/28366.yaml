@@ -22,9 +22,6 @@ address_list:
     country: China
 id_list:
   items:
-  - uid: '133926'
-    id_type: Gender
-    id_number: Male
   - uid: '133937'
     id_type: 'Executive Order 13846 information:'
     id_number: BLOCKING PROPERTY AND INTERESTS IN PROPERTY.  Sec. 5(a)(iv)
@@ -37,6 +34,9 @@ id_list:
   - uid: '133979'
     id_type: 'Executive Order 13846 information:'
     id_number: IMPORT SANCTIONS.  Sec. 5(a)(vi)
+  - uid: '133926'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '33925'

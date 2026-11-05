@@ -26,9 +26,6 @@ id_list:
     id_country: Korea, North
     issue_date: '09 Jan 2020'
     expiration_date: '09 Jan 2025'
-  - uid: '191167'
-    id_type: Gender
-    id_number: Male
   - uid: '191654'
     id_type: 'Secondary sanctions risk:'
     id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
@@ -36,6 +33,9 @@ id_list:
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'
     id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '191167'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '91166'

@@ -71,9 +71,9 @@ id_list:
   - uid: '114238'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
-  - uid: '197661'
-    id_type: Organization Established Date
-    id_number: 01 Jan 1983 to 31 Dec 1984
   - uid: '197979'
     id_type: Target Type
     id_number: Government Entity
+  - uid: '197661'
+    id_type: Organization Established Date
+    id_number: 01 Jan 1983 to 31 Dec 1984

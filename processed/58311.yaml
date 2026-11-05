@@ -10,12 +10,15 @@ id_list:
   - uid: '52991'
     id_type: Vessel Registration Identification
     id_number: IMO 9185346
-  - uid: '200211'
-    id_type: Vessel Year of Build
-    id_number: '1999'
+  - uid: '202850'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 2 of E.O. 13902
   - uid: '200617'
     id_type: Former Vessel Flag
     id_number: Comoros
+  - uid: '200211'
+    id_type: Vessel Year of Build
+    id_number: '1999'
 remarks: "(Linked To: SIFRA SHIPPING COMPANY)"
 vessel_info:
   vessel_type: LPG Tanker

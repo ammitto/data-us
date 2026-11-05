@@ -17,13 +17,13 @@ id_list:
     id_number: '763380800'
     id_country: Russia
     expiration_date: 05 Sep 2030
-  - uid: '195483'
-    id_type: Gender
-    id_number: Male
   - uid: '195493'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
+  - uid: '195483'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '95482'

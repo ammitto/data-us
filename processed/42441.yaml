@@ -13,9 +13,9 @@ address_list:
     country: Mexico
 id_list:
   items:
-  - uid: '160920'
-    id_type: 'Organization Type:'
-    id_number: Real estate activities on a fee or contract basis
   - uid: '160919'
     id_type: Organization Established Date
     id_number: 19 Jun 2019
+  - uid: '160920'
+    id_type: 'Organization Type:'
+    id_number: Real estate activities on a fee or contract basis

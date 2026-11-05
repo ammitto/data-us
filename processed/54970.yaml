@@ -21,12 +21,15 @@ id_list:
     id_number: H53445904
     id_country: Iran
     expiration_date: 05 Jan 2026
-  - uid: '192152'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '191622'
     id_type: Gender
     id_number: Male
+  - uid: '202391'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 2 of E.O. 13902
+  - uid: '192152'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '91623'

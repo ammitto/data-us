@@ -35,9 +35,9 @@ id_list:
     id_type: National ID No.
     id_number: '14012482516'
     id_country: Iran
-  - uid: '193730'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '193152'
     id_type: Organization Established Date
     id_number: 13 Aug 2023
+  - uid: '193730'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

@@ -1,0 +1,47 @@
+---
+uid: '59050'
+last_name: FUGO GROUND SERVICES INC
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '91238'
+    type: a.k.a.
+    category: strong
+    last_name: FUGO AVIATION
+address_list:
+  items:
+  - uid: '90998'
+    address1: 'Gayrettepe Mh. Vefabey Sk. No: 16 Inner Door No: 4'
+    address2: Besiktas
+    city: Istanbul
+    country: Turkey
+id_list:
+  items:
+  - uid: '53946'
+    id_type: Tax ID No.
+    id_number: '3881357595'
+    id_country: Turkey
+  - uid: '53947'
+    id_type: Registration Number
+    id_number: 220631-5
+    id_country: Turkey
+  - uid: '53948'
+    id_type: Chamber of Commerce Number
+    id_number: '1210423'
+    id_country: Turkey
+  - uid: '53949'
+    id_type: Central Registration System Number
+    id_number: '0388135759500001'
+    id_country: Turkey
+  - uid: '204683'
+    id_type: Website
+    id_number: https://www.fugoaviation.com
+  - uid: '204684'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 2 of E.O. 13902
+  - uid: '204682'
+    id_type: Organization Established Date
+    id_number: 28 Nov 2019

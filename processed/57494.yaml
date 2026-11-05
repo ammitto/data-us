@@ -33,12 +33,15 @@ id_list:
     id_type: Passport
     id_number: RA021882
     id_country: Dominica
-  - uid: '197763'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '197695'
     id_type: Gender
     id_number: Male
+  - uid: '202772'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 2 of E.O. 13902
+  - uid: '197763'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '97693'

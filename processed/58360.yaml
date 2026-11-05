@@ -20,10 +20,10 @@ id_list:
     id_type: Business Registration Number
     id_number: '51391181'
     id_country: Hong Kong
-  - uid: '200354'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '200355'
     id_type: Organization Established Date
     id_number: 10 Nov 2009
+  - uid: '200354'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 remarks: "(Linked To: SWEET OCEAN INDUSTRIAL LIMITED)"

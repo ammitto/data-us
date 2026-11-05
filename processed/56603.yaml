@@ -32,9 +32,12 @@ id_list:
     id_type: Company Number
     id_number: 98450007AWFB9BFC6A06
     id_country: India
-  - uid: '195102'
-    id_type: Organization Established Date
-    id_number: 16 Nov 2017
+  - uid: '202339'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 2 of E.O. 13902
   - uid: '195103'
     id_type: Website
     id_number: www.daryashipping.in
+  - uid: '195102'
+    id_type: Organization Established Date
+    id_number: 16 Nov 2017

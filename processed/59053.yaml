@@ -1,0 +1,76 @@
+---
+uid: '59053'
+first_name: Suniel Kumar
+last_name: SHARMA
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '91243'
+    type: a.k.a.
+    category: strong
+    last_name: SHARMA
+    first_name: Suniel
+  - uid: '91244'
+    type: a.k.a.
+    category: weak
+    last_name: KUMAR, Suniel
+address_list:
+  items:
+  - uid: '91005'
+    city: Chandigarh
+    country: India
+id_list:
+  items:
+  - uid: '54067'
+    id_type: Passport
+    id_number: Z5925452
+    id_country: India
+    expiration_date: 27 Jul 2030
+  - uid: '204721'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 2 of E.O. 13902
+  - uid: '204823'
+    id_type: Website
+    id_number: https://amaocr.org/
+  - uid: '204824'
+    id_type: Website
+    id_number: https://epnicaragua.org
+  - uid: '204825'
+    id_type: Website
+    id_number: ema.org.sz
+  - uid: '204826'
+    id_type: Website
+    id_number: msta-registry.com
+  - uid: '204827'
+    id_type: Website
+    id_number: mstaregistry.com
+  - uid: '204828'
+    id_type: Website
+    id_number: https://imsagregistry.wordpress.com/
+  - uid: '204829'
+    id_type: Website
+    id_number: https://smmrm.com
+  - uid: '204830'
+    id_type: Website
+    id_number: https://www.timorleste-registry.org
+  - uid: '204695'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '104693'
+    date_of_birth: 07 Oct 1979
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '104694'
+    place_of_birth: Lucknow, Uttar Pradesh, India
+    main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '104696'
+    country: India
+    main_entry: 'true'

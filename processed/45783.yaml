@@ -54,13 +54,13 @@ id_list:
   - uid: '166758'
     id_type: Target Type
     id_number: Financial Institution
-  - uid: '184111'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
-      589.209
   - uid: '166358'
     id_type: SWIFT/BIC
     id_number: XPETRU21
   - uid: '166357'
     id_type: Website
     id_number: spbexchange.ru
+  - uid: '184111'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

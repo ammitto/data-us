@@ -38,13 +38,13 @@ id_list:
   - uid: '197107'
     id_type: Organization Established Date
     id_number: 10 May 2022
-  - uid: '197108'
-    id_type: Target Type
-    id_number: Financial Institution
   - uid: '197109'
     id_type: SWIFT/BIC
     id_number: HEFBKHPP
   - uid: '197110'
     id_type: Website
     id_number: hfcommercialbank.com
+  - uid: '197108'
+    id_type: Target Type
+    id_number: Financial Institution
 remarks: "(Linked To: SAI, Aung Linn)"

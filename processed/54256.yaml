@@ -24,12 +24,15 @@ id_list:
     id_type: National ID No.
     id_number: '4579850531'
     id_country: Iran
-  - uid: '190038'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '189983'
     id_type: Gender
     id_number: Male
+  - uid: '203014'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 2 of E.O. 13902
+  - uid: '190038'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '89979'

@@ -26,9 +26,9 @@ id_list:
   - uid: '195998'
     id_type: 'Organization Type:'
     id_number: Defense activities
-  - uid: '196017'
-    id_type: Target Type
-    id_number: Government Entity
   - uid: '195995'
     id_type: Website
     id_number: https://www.mod.gov.rw/rdf/overview
+  - uid: '196017'
+    id_type: Target Type
+    id_number: Government Entity

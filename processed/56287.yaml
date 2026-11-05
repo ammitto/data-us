@@ -24,10 +24,10 @@ id_list:
     id_type: Tax ID No.
     id_number: '0850089838'
     id_country: Turkey
-  - uid: '194384'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '194385'
     id_type: Organization Established Date
     id_number: '08 Sep 1998'
+  - uid: '194384'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 remarks: "(Linked To: HIN YUN TRADING COMPANY LIMITED)"

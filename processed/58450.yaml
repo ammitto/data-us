@@ -18,12 +18,12 @@ address_list:
     country: Cuba
 id_list:
   items:
+  - uid: '200645'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
   - uid: '200644'
     id_type: Organization Established Date
     id_number: '1990'
   - uid: '200704'
     id_type: 'Organization Type:'
     id_number: Manufacture of basic iron and steel
-  - uid: '200645'
-    id_type: Target Type
-    id_number: State-Owned Enterprise

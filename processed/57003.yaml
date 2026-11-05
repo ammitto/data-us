@@ -22,9 +22,12 @@ id_list:
   - uid: '51171'
     id_type: Identification Number
     id_number: IMO 0334947
-  - uid: '196186'
-    id_type: Organization Established Date
-    id_number: '2025'
+  - uid: '202529'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 2 of E.O. 13902
   - uid: '196185'
     id_type: Nationality of Registration
     id_number: Virgin Islands, British
+  - uid: '196186'
+    id_type: Organization Established Date
+    id_number: '2025'

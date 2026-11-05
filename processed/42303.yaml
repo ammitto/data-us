@@ -34,12 +34,12 @@ id_list:
   - uid: '31811'
     id_type: Passport
     id_number: T19665422
-  - uid: '160924'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '160658'
     id_type: Gender
     id_number: Male
+  - uid: '160924'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '60651'

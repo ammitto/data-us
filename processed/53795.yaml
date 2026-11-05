@@ -18,12 +18,12 @@ id_list:
     id_number: H66074406
     id_country: Iran
     expiration_date: 27 Oct 2028
-  - uid: '188799'
-    id_type: Gender
-    id_number: Male
   - uid: '188798'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '188799'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '88795'

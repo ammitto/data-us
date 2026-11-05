@@ -34,12 +34,12 @@ id_list:
     id_number: PE0475719
     id_country: China
     expiration_date: 14 Nov 2019
-  - uid: '125306'
-    id_type: Gender
-    id_number: Male
   - uid: '125280'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '125306'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '25281'

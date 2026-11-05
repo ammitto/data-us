@@ -45,13 +45,13 @@ id_list:
     id_type: Registration Number
     id_number: '10845'
     id_country: Syria
-  - uid: '138525'
-    id_type: 'Organization Type:'
-    id_number: Wholesale of food, beverages and tobacco
   - uid: '138620'
     id_type: Organization Established Date
     id_number: '1995'
   - uid: '138621'
     id_type: Organization Established Date
     id_number: '2016'
+  - uid: '138525'
+    id_type: 'Organization Type:'
+    id_number: Wholesale of food, beverages and tobacco
 remarks: "(Linked To: KHITI, Amer Taysir)"

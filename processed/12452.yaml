@@ -63,10 +63,6 @@ address_list:
     country: Sierra Leone
 id_list:
   items:
-  - uid: '186006'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
   - uid: '110141'
     id_type: Website
     id_number: www.tajco-ltd.com
@@ -77,5 +73,9 @@ id_list:
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
       Sanctions Regulations
+  - uid: '186006'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
 remarks: "(Tradex Co. is a subsidiary of Tajco Company and operates from the same
   business address in Freetown, Sierra Leone as Tajco Company.)"

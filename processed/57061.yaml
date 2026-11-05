@@ -16,6 +16,9 @@ id_list:
     id_type: National ID No.
     id_number: '1520054157'
     id_country: Iran
+  - uid: '196614'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
   - uid: '196398'
     id_type: Gender
     id_number: Male
@@ -82,9 +85,6 @@ id_list:
   - uid: '196409'
     id_type: Email Address
     id_number: aahid@bk.ru
-  - uid: '196614'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '96396'

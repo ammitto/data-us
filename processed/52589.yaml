@@ -13,6 +13,9 @@ id_list:
   - uid: '45629'
     id_type: MMSI
     id_number: '370207000'
+  - uid: '202937'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 2 of E.O. 13902
 remarks: "(Linked To: NYCITY SHIPMANAGEMENT CO LTD)"
 vessel_info:
   call_sign: 3FUU7

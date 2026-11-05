@@ -29,9 +29,12 @@ address_list:
     country: Iran
 id_list:
   items:
-  - uid: '137342'
-    id_type: Website
-    id_number: www.tourismbank.ir
   - uid: '137304'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '204680'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 2 of E.O. 13902
+  - uid: '137342'
+    id_type: Website
+    id_number: www.tourismbank.ir

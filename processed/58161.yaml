@@ -27,9 +27,6 @@ id_list:
     id_type: Cedula No.
     id_number: V-13126628
     id_country: Venezuela
-  - uid: '199642'
-    id_type: Gender
-    id_number: Male
   - uid: '200261'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
@@ -37,6 +34,9 @@ id_list:
   - uid: '201200'
     id_type: Digital Currency Address - TRX
     id_number: TJjRAn9kLiyh8h6gjBjaYjkfDkskgZfyW9
+  - uid: '199642'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '99641'

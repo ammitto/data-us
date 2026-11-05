@@ -22,12 +22,12 @@ address_list:
     country: Cuba
 id_list:
   items:
+  - uid: '200141'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
   - uid: '200139'
     id_type: Organization Established Date
     id_number: 10 May 1966
   - uid: '200140'
     id_type: 'Organization Type:'
     id_number: Maintenance and repair of motor vehicles
-  - uid: '200141'
-    id_type: Target Type
-    id_number: State-Owned Enterprise

@@ -30,12 +30,12 @@ address_list:
     country: Cuba
 id_list:
   items:
+  - uid: '200127'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
   - uid: '200129'
     id_type: Organization Established Date
     id_number: 01 Jan 1995
   - uid: '200128'
     id_type: 'Organization Type:'
     id_number: Wholesale of other machinery and equipment
-  - uid: '200127'
-    id_type: Target Type
-    id_number: State-Owned Enterprise

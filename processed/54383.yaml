@@ -19,6 +19,9 @@ id_list:
     id_type: RFC
     id_number: UIVS940314J20
     id_country: Mexico
+  - uid: '190221'
+    id_type: 'Organization Type:'
+    id_number: Hairdressing and other beauty treatment
   - uid: '190324'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
@@ -26,7 +29,4 @@ id_list:
   - uid: '190220'
     id_type: Phone Number
     id_number: '6692122948'
-  - uid: '190221'
-    id_type: 'Organization Type:'
-    id_number: Hairdressing and other beauty treatment
 remarks: "(Linked To: NUNEZ RIOS, Jose Raul)"

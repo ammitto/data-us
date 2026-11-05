@@ -28,9 +28,6 @@ address_list:
     country: Rwanda
 id_list:
   items:
-  - uid: '204740'
-    id_type: Website
-    id_number: https://www.mod.gov.rw
   - uid: '204743'
     id_type: Organization Established Date
     id_number: '1962'
@@ -40,3 +37,6 @@ id_list:
   - uid: '204742'
     id_type: Target Type
     id_number: Government Entity
+  - uid: '204740'
+    id_type: Website
+    id_number: https://www.mod.gov.rw

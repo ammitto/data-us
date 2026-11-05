@@ -20,12 +20,12 @@ id_list:
     id_country: China
     issue_date: 24 Aug 2018
     expiration_date: 23 Aug 2028
-  - uid: '161754'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '161753'
     id_type: Gender
     id_number: Male
+  - uid: '161754'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '61750'

@@ -60,12 +60,12 @@ id_list:
     id_type: Passport
     id_number: K00463863
     id_country: Cyprus
-  - uid: '160271'
-    id_type: Gender
-    id_number: Male
   - uid: '175377'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '160271'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '60269'

@@ -16,11 +16,11 @@ address_list:
     country: Iran
 id_list:
   items:
-  - uid: '168031'
-    id_type: 'Organization Type:'
-    id_number: Defense activities
   - uid: '167975'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '168031'
+    id_type: 'Organization Type:'
+    id_number: Defense activities
 remarks: "(Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS AEROSPACE FORCE SELF SUFFICIENCY
   JIHAD ORGANIZATION)"

@@ -14,12 +14,12 @@ address_list:
     country: Mexico
 id_list:
   items:
-  - uid: '171503'
-    id_type: Gender
-    id_number: Male
   - uid: '171508'
     id_type: Phone Number
     id_number: '23275356626'
+  - uid: '171503'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '71504'

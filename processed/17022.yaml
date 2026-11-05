@@ -49,10 +49,6 @@ id_list:
     id_type: Tax ID No.
     id_number: '7706107510'
     id_country: Russia
-  - uid: '143715'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
-      589.209
   - uid: '115776'
     id_type: Website
     id_number: www.rosneft.com
@@ -71,4 +67,8 @@ id_list:
   - uid: '116149'
     id_type: Executive Order 13662 Directive Determination -
     id_number: Subject to Directive 4
+  - uid: '143715'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
 remarks: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.'

@@ -14,9 +14,9 @@ address_list:
     country: 'Region: Gaza'
 id_list:
   items:
-  - uid: '192808'
-    id_type: Organization Established Date
-    id_number: '1999'
   - uid: '192809'
     id_type: Target Type
     id_number: Charity or Nonprofit Organization
+  - uid: '192808'
+    id_type: Organization Established Date
+    id_number: '1999'

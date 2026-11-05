@@ -18,6 +18,9 @@ address_list:
     country: Mexico
 id_list:
   items:
+  - uid: '194552'
+    id_type: Gender
+    id_number: Male
   - uid: '194554'
     id_type: Digital Currency Address - TRX
     id_number: TAoLw5yD5XUoHWeBZRSZ1ExK9HMv2CiPvP
@@ -27,9 +30,6 @@ id_list:
   - uid: '194556'
     id_type: Digital Currency Address - TRX
     id_number: TPJ1JNX98MJpHueBJeF5SVSg85z8mYg1P1
-  - uid: '194552'
-    id_type: Gender
-    id_number: Male
 date_of_birth_list:
   items:
   - uid: '94551'

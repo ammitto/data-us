@@ -28,12 +28,12 @@ id_list:
     id_number: '442521195403202412'
     id_country: China
     issue_date: 14 Dec 2006
-  - uid: '159454'
-    id_type: Phone Number
-    id_number: '8615815351839'
   - uid: '159455'
     id_type: Email Address
     id_number: guoruiguang2016@126.com
+  - uid: '159454'
+    id_type: Phone Number
+    id_number: '8615815351839'
   - uid: '159453'
     id_type: Gender
     id_number: Male

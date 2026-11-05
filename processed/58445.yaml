@@ -22,9 +22,9 @@ address_list:
     country: Cuba
 id_list:
   items:
-  - uid: '200630'
-    id_type: Organization Established Date
-    id_number: 23 May 1963
   - uid: '200631'
     id_type: Target Type
     id_number: Government Entity
+  - uid: '200630'
+    id_type: Organization Established Date
+    id_number: 23 May 1963

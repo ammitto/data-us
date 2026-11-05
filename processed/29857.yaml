@@ -12,6 +12,9 @@ address_list:
     country: Syria
 id_list:
   items:
+  - uid: '136928'
+    id_type: Organization Established Date
+    id_number: 19 Jan 2017
   - uid: '136963'
     id_type: 'Organization Type:'
     id_number: Postal activities
@@ -19,7 +22,4 @@ id_list:
     id_type: 'Organization Type:'
     id_number: Other financial service activities, except insurance and pension funding
       activities, n.e.c.
-  - uid: '136928'
-    id_type: Organization Established Date
-    id_number: 19 Jan 2017
 remarks: 'Only locations in Syria; (Linked To: BIN ALI, Khodr Taher)'

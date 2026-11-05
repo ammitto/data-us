@@ -31,12 +31,12 @@ id_list:
     id_type: Identification Number
     id_number: '165837990002'
     id_country: United Kingdom
-  - uid: '159311'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '159102'
     id_type: Gender
     id_number: Female
+  - uid: '159311'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '59096'

@@ -44,12 +44,12 @@ id_list:
   - uid: '196448'
     id_type: Email Address
     id_number: alfakhaym@gmail.com
-  - uid: '196438'
-    id_type: Gender
-    id_number: Male
   - uid: '196613'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '196438'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '96436'

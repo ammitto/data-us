@@ -13,12 +13,15 @@ id_list:
   - uid: '51107'
     id_type: MMSI
     id_number: '650000181'
-  - uid: '196082'
-    id_type: Vessel Year of Build
-    id_number: '2003'
+  - uid: '202145'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 2 of E.O. 13902
   - uid: '197400'
     id_type: Former Vessel Flag
     id_number: Palau
+  - uid: '196082'
+    id_type: Vessel Year of Build
+    id_number: '2003'
 remarks: "(Linked To: AURA LINES INC.)"
 vessel_info:
   call_sign: C9NA63

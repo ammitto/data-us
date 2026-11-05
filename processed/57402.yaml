@@ -13,12 +13,15 @@ id_list:
   - uid: '51721'
     id_type: MMSI
     id_number: '477156400'
-  - uid: '197415'
-    id_type: Vessel Year of Build
-    id_number: '2007'
+  - uid: '202568'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 2 of E.O. 13902
   - uid: '197651'
     id_type: Other Vessel Flag
     id_number: China
+  - uid: '197415'
+    id_type: Vessel Year of Build
+    id_number: '2007'
 remarks: "(Linked To: TING TAO COMPANY LIMITED)"
 vessel_info:
   call_sign: VRWZ6

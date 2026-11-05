@@ -10,12 +10,15 @@ id_list:
   - uid: '50730'
     id_type: Vessel Registration Identification
     id_number: IMO 9140451
-  - uid: '195215'
-    id_type: Vessel Year of Build
-    id_number: '1996'
+  - uid: '202813'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 2 of E.O. 13902
   - uid: '195332'
     id_type: Former Vessel Flag
     id_number: Palau
+  - uid: '195215'
+    id_type: Vessel Year of Build
+    id_number: '1996'
 remarks: "(Linked To: QATRAT ALNADA ALMASI SHIP MANAGEMENT L.L.C)"
 vessel_info:
   vessel_type: Products Tanker

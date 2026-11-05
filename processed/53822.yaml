@@ -33,9 +33,6 @@ id_list:
     id_type: Registration Number
     id_number: '1232500011149'
     id_country: Russia
-  - uid: '188854'
-    id_type: 'Secondary sanctions risk:'
-    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '188855'
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'
@@ -43,4 +40,7 @@ id_list:
   - uid: '188856'
     id_type: Organization Established Date
     id_number: 21 Apr 2023
+  - uid: '188854'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
 remarks: "(Linked To: ASATRYAN, Gayk)"

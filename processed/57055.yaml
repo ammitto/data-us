@@ -22,12 +22,12 @@ id_list:
     id_type: National ID No.
     id_number: '013564395'
     id_country: Vietnam
-  - uid: '196352'
-    id_type: Gender
-    id_number: Male
   - uid: '196354'
     id_type: 'Secondary sanctions risk:'
     id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '196352'
+    id_type: Gender
+    id_number: Male
   - uid: '196355'
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'

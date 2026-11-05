@@ -36,6 +36,9 @@ id_list:
     id_type: Entity Code
     id_number: '14032'
     id_country: Cuba
+  - uid: '201372'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
   - uid: '201369'
     id_type: Organization Established Date
     id_number: '09 Jul 2009'
@@ -45,6 +48,3 @@ id_list:
   - uid: '201371'
     id_type: 'Organization Type:'
     id_number: Defense activities
-  - uid: '201372'
-    id_type: Target Type
-    id_number: State-Owned Enterprise

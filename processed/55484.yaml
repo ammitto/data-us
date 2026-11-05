@@ -35,13 +35,13 @@ id_list:
   - uid: '193072'
     id_type: Digital Currency Address - ETH
     id_number: '0xdb2720ebad55399117ddb4c4a4afd9a4ccada8fe'
-  - uid: '193071'
-    id_type: Digital Currency Address - TRX
-    id_number: TSxAAo67VTDgKT537EVXxdogkJtk9c6ojz
   - uid: '193080'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
+  - uid: '193071'
+    id_type: Digital Currency Address - TRX
+    id_number: TSxAAo67VTDgKT537EVXxdogkJtk9c6ojz
 date_of_birth_list:
   items:
   - uid: '92955'

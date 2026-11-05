@@ -19,12 +19,12 @@ id_list:
     id_type: National ID No.
     id_number: '371327199508144614'
     id_country: China
-  - uid: '159480'
-    id_type: Gender
-    id_number: Male
   - uid: '159482'
     id_type: Email Address
     id_number: panhao1995@hotmail.com
+  - uid: '159480'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '59479'

@@ -37,10 +37,10 @@ id_list:
     id_type: Economic Register Number (CBLS)
     id_number: '11533152'
     id_country: United Arab Emirates
-  - uid: '155148'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '155127'
     id_type: Website
     id_number: http://www.clarashipping.com
+  - uid: '155148'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 remarks: "(Linked To: TRILIANCE PETROCHEMICAL CO. LTD.)"

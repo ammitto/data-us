@@ -20,10 +20,10 @@ id_list:
     id_type: Business Registration Number
     id_number: '68485587'
     id_country: Hong Kong
-  - uid: '192792'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '192793'
     id_type: Organization Established Date
     id_number: 15 Nov 2017
+  - uid: '192792'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 remarks: "(Linked To: LIU, Baojuan)"
