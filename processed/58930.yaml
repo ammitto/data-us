@@ -31,12 +31,12 @@ id_list:
   - uid: '204583'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
-  - uid: '204342'
-    id_type: Gender
-    id_number: Female
   - uid: '204641'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 2 of E.O. 13902
+  - uid: '204342'
+    id_type: Gender
+    id_number: Female
 date_of_birth_list:
   items:
   - uid: '104340'

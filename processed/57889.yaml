@@ -21,13 +21,13 @@ id_list:
     id_type: Tax ID No.
     id_number: L001-902100065
     id_country: Cambodia
-  - uid: '198886'
-    id_type: Target Type
-    id_number: Financial Institution
   - uid: '198607'
     id_type: Organization Established Date
     id_number: 24 Dec 2020
   - uid: '198608'
     id_type: SWIFT/BIC
     id_number: CLMCKHPPXXX
+  - uid: '198886'
+    id_type: Target Type
+    id_number: Financial Institution
 remarks: "(Linked To: CHEN, Bo)"

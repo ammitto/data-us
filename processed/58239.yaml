@@ -28,6 +28,12 @@ id_list:
     id_type: National ID No.
     id_number: '14009392670'
     id_country: Iran
+  - uid: '202075'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 2 of E.O. 13902
+  - uid: '200114'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
   - uid: '199930'
     id_type: Organization Established Date
     id_number: 26 Aug 2020
@@ -37,9 +43,3 @@ id_list:
   - uid: '199932'
     id_type: Website
     id_number: abantether.com
-  - uid: '200114'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
-  - uid: '202075'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 2 of E.O. 13902

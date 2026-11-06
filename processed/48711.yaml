@@ -26,11 +26,11 @@ id_list:
     id_type: Economic Register Number (CBLS)
     id_number: '11907262'
     id_country: United Arab Emirates
-  - uid: '171131'
-    id_type: Organization Established Date
-    id_number: 15 Jul 2022
   - uid: '171185'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
+  - uid: '171131'
+    id_type: Organization Established Date
+    id_number: 15 Jul 2022
 remarks: "(Linked To: SAHARA THUNDER)"

@@ -29,9 +29,6 @@ id_list:
     id_number: Z5925452
     id_country: India
     expiration_date: 27 Jul 2030
-  - uid: '204721'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 2 of E.O. 13902
   - uid: '204823'
     id_type: Website
     id_number: https://amaocr.org/
@@ -59,6 +56,9 @@ id_list:
   - uid: '204695'
     id_type: Gender
     id_number: Male
+  - uid: '204721'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 2 of E.O. 13902
 date_of_birth_list:
   items:
   - uid: '104693'

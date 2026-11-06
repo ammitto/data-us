@@ -28,12 +28,12 @@ id_list:
   - uid: '182104'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
-  - uid: '182105'
-    id_type: Target Type
-    id_number: Financial Institution
   - uid: '182101'
     id_type: SWIFT/BIC
     id_number: VITARU2P
   - uid: '182103'
     id_type: Website
     id_number: www.vitabank.ru
+  - uid: '182105'
+    id_type: Target Type
+    id_number: Financial Institution

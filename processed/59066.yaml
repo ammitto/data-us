@@ -1,0 +1,28 @@
+---
+uid: '59066'
+last_name: INTERNACIONAL MARITIMA SA
+sdn_type: Entity
+program_list:
+  programs:
+  - CUBA-EO14404
+address_list:
+  items:
+  - uid: '91032'
+    city: Miramar
+    state_or_province: Havana
+    country: Cuba
+id_list:
+  items:
+  - uid: '53969'
+    id_type: Identification Number
+    id_number: IMO 6100721
+  - uid: '53970'
+    id_type: Entity Code
+    id_number: '60393'
+    id_country: Cuba
+  - uid: '204732'
+    id_type: Organization Established Date
+    id_number: 24 May 1974
+  - uid: '204733'
+    id_type: 'Organization Type:'
+    id_number: Sea and coastal freight water transport

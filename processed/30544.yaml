@@ -56,16 +56,16 @@ id_list:
     id_type: National ID No.
     id_number: '0089886348'
     id_country: Iran
+  - uid: '187303'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
   - uid: '138234'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
   - uid: '138231'
     id_type: Gender
     id_number: Male
-  - uid: '187303'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
 date_of_birth_list:
   items:
   - uid: '38233'

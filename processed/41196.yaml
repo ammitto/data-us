@@ -32,12 +32,12 @@ id_list:
     id_number: G10520995
     id_country: Iran
     expiration_date: 29 Sep 2026
-  - uid: '159316'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '159210'
     id_type: Gender
     id_number: Male
+  - uid: '159316'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '59207'

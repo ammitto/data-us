@@ -26,12 +26,12 @@ id_list:
     id_type: Identification Number
     id_number: '03556673'
     id_country: India
-  - uid: '201640'
-    id_type: Gender
-    id_number: Male
   - uid: '201650'
     id_type: 'Executive Order 13846 information:'
     id_number: BLOCKING PROPERTY AND INTERESTS IN PROPERTY.  Sec. 5(a)(iv)
+  - uid: '201640'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '101643'

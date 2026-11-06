@@ -28,15 +28,15 @@ id_list:
     id_number: A68688871
     id_country: Iran
     expiration_date: 01 Jun 2029
-  - uid: '197496'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
-  - uid: '196880'
-    id_type: Gender
-    id_number: Female
   - uid: '202490'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 2 of E.O. 13902
+  - uid: '196880'
+    id_type: Gender
+    id_number: Female
+  - uid: '197496'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '96878'

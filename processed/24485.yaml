@@ -8,6 +8,13 @@ program_list:
   - SDGT
 id_list:
   items:
+  - uid: '126844'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '187148'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
   - uid: '126845'
     id_type: Aircraft Manufacture Date
     id_number: Aug 1994
@@ -20,11 +27,4 @@ id_list:
   - uid: '126846'
     id_type: Aircraft Manufacturer's Serial Number (MSN)
     id_number: '53464'
-  - uid: '126844'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
-  - uid: '187148'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
 remarks: "(Linked To: CASPIAN AIRLINES)"

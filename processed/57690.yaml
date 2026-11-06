@@ -20,9 +20,9 @@ id_list:
     id_type: 'RUC #'
     id_number: 155774364-2-2025
     id_country: Panama
-  - uid: '198086'
-    id_type: Organization Established Date
-    id_number: '2025'
   - uid: '202946'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 2 of E.O. 13902
+  - uid: '198086'
+    id_type: Organization Established Date
+    id_number: '2025'

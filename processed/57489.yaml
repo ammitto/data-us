@@ -20,15 +20,15 @@ id_list:
     id_type: National ID No.
     id_number: '6389562950'
     id_country: Iran
-  - uid: '197679'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
-  - uid: '197678'
-    id_type: Gender
-    id_number: Male
   - uid: '202439'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 2 of E.O. 13902
+  - uid: '197678'
+    id_type: Gender
+    id_number: Male
+  - uid: '197679'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '97674'

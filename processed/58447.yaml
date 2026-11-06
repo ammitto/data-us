@@ -19,12 +19,12 @@ address_list:
     country: Cuba
 id_list:
   items:
+  - uid: '200638'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
   - uid: '200636'
     id_type: Organization Established Date
     id_number: 30 Apr 1990
   - uid: '200637'
     id_type: 'Organization Type:'
     id_number: Mining of other non-ferrous metal ores
-  - uid: '200638'
-    id_type: Target Type
-    id_number: State-Owned Enterprise

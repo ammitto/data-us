@@ -1,0 +1,37 @@
+---
+uid: '59052'
+first_name: Kok Wa
+last_name: CHUI
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER4
+address_list:
+  items:
+  - uid: '91057'
+    state_or_province: Antananarivo
+    country: Madagascar
+id_list:
+  items:
+  - uid: '54006'
+    id_type: National ID No.
+    id_number: '760112055295'
+    id_country: Malaysia
+  - uid: '204782'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '104781'
+    date_of_birth: 12 Jan 1976
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '104783'
+    place_of_birth: Negeri Sembilan, Malaysia
+    main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '104780'
+    country: Malaysia
+    main_entry: 'true'

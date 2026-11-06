@@ -17,16 +17,6 @@ id_list:
     id_number: '4613339474'
     id_country: Russia
     issue_date: 20 Jan 2013
-  - uid: '204318'
-    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
-      Institutions:'
-    id_number: North Korea Sanctions Regulations section 510.214
-  - uid: '202041'
-    id_type: Gender
-    id_number: Male
-  - uid: '202039'
-    id_type: Digital Currency Address - ETH
-    id_number: '0x761edd5e4546229a0bd35ae99b4d3d01cf4a3510'
   - uid: '204317'
     id_type: 'Secondary sanctions risk:'
     id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
@@ -39,6 +29,16 @@ id_list:
   - uid: '202038'
     id_type: Digital Currency Address - TRX
     id_number: TFksjBcHPYqgAax2USheQuaT1ydRKyZRdg
+  - uid: '204318'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '202041'
+    id_type: Gender
+    id_number: Male
+  - uid: '202039'
+    id_type: Digital Currency Address - ETH
+    id_number: '0x761edd5e4546229a0bd35ae99b4d3d01cf4a3510'
 date_of_birth_list:
   items:
   - uid: '102040'

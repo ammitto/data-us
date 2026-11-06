@@ -16,12 +16,12 @@ id_list:
     id_type: Passport
     id_number: '124013929'
     id_country: United Kingdom
-  - uid: '202928'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 2 of E.O. 13902
   - uid: '199545'
     id_type: Gender
     id_number: Male
+  - uid: '202928'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 2 of E.O. 13902
 date_of_birth_list:
   items:
   - uid: '99546'

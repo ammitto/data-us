@@ -18,13 +18,13 @@ address_list:
     country: Rwanda
 id_list:
   items:
-  - uid: '198743'
-    id_type: Website
-    id_number: www.bugambiramines.rw
   - uid: '198738'
     id_type: Organization Established Date
     id_number: 20 Jun 2006
   - uid: '198737'
     id_type: 'Organization Type:'
     id_number: Mining and Quarrying
+  - uid: '198743'
+    id_type: Website
+    id_number: www.bugambiramines.rw
 remarks: "(Linked To: KALIMA KAREKEZI, Jean Malic)"

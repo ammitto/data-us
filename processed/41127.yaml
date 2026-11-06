@@ -74,6 +74,9 @@ id_list:
     id_type: Organization Code
     id_number: '791301394'
     id_country: China
+  - uid: '159307'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
   - uid: '159091'
     id_type: Website
     id_number: www.alpha06.com
@@ -83,7 +86,4 @@ id_list:
   - uid: '159093'
     id_type: Website
     id_number: www.alphaindustry.cn
-  - uid: '159307'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
 remarks: "(Linked To: IRAN AIRCRAFT MANUFACTURING INDUSTRIAL COMPANY)"

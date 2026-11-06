@@ -28,12 +28,12 @@ id_list:
   - uid: '182134'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
-  - uid: '182132'
-    id_type: Target Type
-    id_number: Financial Institution
   - uid: '182129'
     id_type: SWIFT/BIC
     id_number: EUJKRU55
   - uid: '182130'
     id_type: Website
     id_number: www.united.ru
+  - uid: '182132'
+    id_type: Target Type
+    id_number: Financial Institution

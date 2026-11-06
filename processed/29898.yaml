@@ -26,13 +26,13 @@ id_list:
     id_number: '723668000'
     id_country: Russia
     expiration_date: 18 Mar 2023
+  - uid: '137135'
+    id_type: Gender
+    id_number: Male
   - uid: '144098'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
       589.209
-  - uid: '137135'
-    id_type: Gender
-    id_number: Male
 date_of_birth_list:
   items:
   - uid: '37134'

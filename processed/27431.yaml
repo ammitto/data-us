@@ -1,16 +1,24 @@
 ---
 uid: '27431'
-last_name: CARLOTA C
+last_name: MARIA CRISTINA
 sdn_type: Vessel
 program_list:
   programs:
   - VENEZUELA-EO13850
+  - CUBA-EO14404
 id_list:
   items:
   - uid: '18064'
     id_type: Vessel Registration Identification
     id_number: IMO 9502453
+  - uid: '53799'
+    id_type: MMSI
+    id_number: '323147000'
+  - uid: '203054'
+    id_type: Vessel Year of Build
+    id_number: '2010'
 remarks: "(Linked To: CAROIL TRANSPORT MARINE LTD)"
 vessel_info:
+  call_sign: CLBN
   vessel_type: Chemical/Products Tanker
-  vessel_flag: Panama
+  vessel_flag: Cuba

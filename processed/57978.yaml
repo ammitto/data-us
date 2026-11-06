@@ -50,6 +50,12 @@ id_list:
     id_type: Passport
     id_number: FG819665
     id_country: Ukraine
+  - uid: '198894'
+    id_type: Digital Currency Address - LTC
+    id_number: LcP1DumXkNJbBtSYD3XxAfsJ2nZR5hLdpM
+  - uid: '198899'
+    id_type: Digital Currency Address - LTC
+    id_number: LbPAqHvemZBv3pvAqiAtDnZ3U1t6EziaL1
   - uid: '198898'
     id_type: Digital Currency Address - ZEC
     id_number: t1LHesgnkapziGQCJtrfZWYXhyjfTVo1dvh
@@ -59,12 +65,6 @@ id_list:
   - uid: '198901'
     id_type: Digital Currency Address - DASH
     id_number: XowUeMFa1FkEUnAHL78E5oqpezMfSB6xP1
-  - uid: '198894'
-    id_type: Digital Currency Address - LTC
-    id_number: LcP1DumXkNJbBtSYD3XxAfsJ2nZR5hLdpM
-  - uid: '198899'
-    id_type: Digital Currency Address - LTC
-    id_number: LbPAqHvemZBv3pvAqiAtDnZ3U1t6EziaL1
   - uid: '198889'
     id_type: Gender
     id_number: Male

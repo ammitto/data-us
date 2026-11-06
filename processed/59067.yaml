@@ -1,0 +1,33 @@
+---
+uid: '59067'
+last_name: PETROLEOS MARITIMOS DEL CARIBE S.A.
+sdn_type: Entity
+program_list:
+  programs:
+  - CUBA-EO14404
+aka_list:
+  items:
+  - uid: '91260'
+    type: a.k.a.
+    category: strong
+    last_name: PETROMARCA S.A.
+address_list:
+  items:
+  - uid: '91034'
+    state_or_province: Havana
+    country: Cuba
+id_list:
+  items:
+  - uid: '53971'
+    id_type: Identification Number
+    id_number: IMO 6140351
+  - uid: '53972'
+    id_type: Entity Code
+    id_number: '60633'
+    id_country: Cuba
+  - uid: '204734'
+    id_type: Organization Established Date
+    id_number: 15 Jan 2020
+  - uid: '204735'
+    id_type: 'Organization Type:'
+    id_number: Sea and coastal freight water transport

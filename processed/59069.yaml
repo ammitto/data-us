@@ -28,15 +28,15 @@ address_list:
     country: Rwanda
 id_list:
   items:
+  - uid: '204742'
+    id_type: Target Type
+    id_number: Government Entity
   - uid: '204743'
     id_type: Organization Established Date
     id_number: '1962'
   - uid: '204741'
     id_type: 'Organization Type:'
     id_number: Defense activities
-  - uid: '204742'
-    id_type: Target Type
-    id_number: Government Entity
   - uid: '204740'
     id_type: Website
     id_number: https://www.mod.gov.rw

@@ -17,12 +17,12 @@ id_list:
     id_type: Identification Number
     id_number: PE-7-925
     id_country: Panama
-  - uid: '204429'
-    id_type: Gender
-    id_number: Male
   - uid: '204789'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 2 of E.O. 13902
+  - uid: '204429'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '104428'

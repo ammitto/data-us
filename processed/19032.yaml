@@ -45,6 +45,10 @@ id_list:
     id_type: Registration ID
     id_number: '1022300000029'
     id_country: Russia
+  - uid: '143649'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
   - uid: '118805'
     id_type: SWIFT/BIC
     id_number: KRRIRU22
@@ -54,8 +58,4 @@ id_list:
   - uid: '118802'
     id_type: Email Address
     id_number: mail@kibank.ru
-  - uid: '143649'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
-      589.209
 remarks: All offices worldwide

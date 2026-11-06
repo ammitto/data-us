@@ -30,12 +30,12 @@ id_list:
     id_number: B08552683
     id_country: Iraq
     expiration_date: 14 Feb 2032
-  - uid: '198684'
-    id_type: Gender
-    id_number: Male
   - uid: '202099'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 2 of E.O. 13902
+  - uid: '198684'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '98683'

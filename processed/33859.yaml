@@ -12,9 +12,6 @@ address_list:
     country: Ukraine
 id_list:
   items:
-  - uid: '144802'
-    id_type: Gender
-    id_number: Male
   - uid: '144761'
     id_type: Digital Currency Address - XBT
     id_number: 35QpLWYkvD3ALhjbge5bK2kd7HfHYcDMu3
@@ -27,6 +24,9 @@ id_list:
   - uid: '144764'
     id_type: Digital Currency Address - XBT
     id_number: 372Wk9NLrMkJzKgqJdatWJy4bYRfxFjgat
+  - uid: '144802'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '44758'

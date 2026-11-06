@@ -1,0 +1,50 @@
+---
+uid: '58655'
+first_name: Mengyao
+last_name: ZHAO
+sdn_type: Individual
+program_list:
+  programs:
+  - TCO
+aka_list:
+  items:
+  - uid: '90780'
+    type: a.k.a.
+    category: weak
+    last_name: ZHAO, Amy
+address_list:
+  items:
+  - uid: '90343'
+    city: Hong Kong
+    country: China
+id_list:
+  items:
+  - uid: '53458'
+    id_type: Passport
+    id_number: HJ2100621
+    id_country: Hong Kong
+    issue_date: 27 Mar 2021
+    expiration_date: 27 Mar 2031
+  - uid: '53459'
+    id_type: National ID No.
+    id_number: M2640517
+    id_country: Hong Kong
+  - uid: '201406'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '101405'
+    date_of_birth: 26 May 1991
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '101407'
+    place_of_birth: Guiyang, Guizhou, China
+    main_entry: 'true'
+remarks: "(Linked To: QIU, Yong)"
+nationality_list:
+  items:
+  - uid: '101408'
+    country: Hong Kong
+    main_entry: 'true'

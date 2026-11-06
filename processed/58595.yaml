@@ -1,0 +1,50 @@
+---
+uid: '58595'
+first_name: Yujing
+last_name: HE
+sdn_type: Individual
+program_list:
+  programs:
+  - TCO
+address_list:
+  items:
+  - uid: '90195'
+    country: Cambodia
+id_list:
+  items:
+  - uid: '53365'
+    id_type: National ID No.
+    id_number: '511302199207112546'
+    id_country: China
+  - uid: '53366'
+    id_type: Passport
+    id_number: RV102799
+    id_country: Vanuatu
+  - uid: '53367'
+    id_type: Passport
+    id_number: ED1721149
+    id_country: China
+    issue_date: 16 May 2018
+    expiration_date: 15 May 2028
+  - uid: '201169'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '101168'
+    date_of_birth: 11 Jul 1992
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '101170'
+    place_of_birth: Sichuan, China
+    main_entry: 'true'
+remarks: "(Linked To: PRINCE GROUP TRANSNATIONAL CRIMINAL ORGANIZATION)"
+nationality_list:
+  items:
+  - uid: '101166'
+    country: China
+    main_entry: 'true'
+  - uid: '101167'
+    country: Vanuatu
+    main_entry: 'false'

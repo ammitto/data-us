@@ -5,21 +5,20 @@ sdn_type: Vessel
 program_list:
   programs:
   - VENEZUELA-EO13850
-aka_list:
-  items:
-  - uid: '44136'
-    type: f.k.a.
-    category: strong
-    last_name: NEDAS
+  - CUBA-EO14404
 id_list:
   items:
   - uid: '17358'
     id_type: Vessel Registration Identification
     id_number: IMO 9289166
-  - uid: '133337'
-    id_type: Former Vessel Flag
-    id_number: Greece
+  - uid: '53800'
+    id_type: MMSI
+    id_number: '323142000'
+  - uid: '204688'
+    id_type: Vessel Year of Build
+    id_number: '2005'
 remarks: "(Linked To: CAROIL TRANSPORT MARINE LTD)"
 vessel_info:
+  call_sign: CLBM
   vessel_type: Crude Oil Tanker
   vessel_flag: Cuba

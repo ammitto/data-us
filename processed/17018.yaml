@@ -102,9 +102,6 @@ id_list:
   - uid: '116151'
     id_type: Executive Order 13662 Directive Determination -
     id_number: Subject to Directive 1
-  - uid: '172817'
-    id_type: Target Type
-    id_number: Financial Institution
   - uid: '116134'
     id_type: SWIFT/BIC
     id_number: SABRRUMM
@@ -114,6 +111,9 @@ id_list:
   - uid: '146546'
     id_type: Website
     id_number: www.sberbank.com
+  - uid: '172817'
+    id_type: Target Type
+    id_number: Financial Institution
   - uid: '146714'
     id_type: Executive Order 14024 Directive Information -
     id_number: 'For more information on directives, please visit the following link:

@@ -20,10 +20,10 @@ id_list:
     id_type: Company Number
     id_number: '3251687'
     id_country: Hong Kong
-  - uid: '168819'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '168813'
     id_type: Organization Established Date
     id_number: 22 Mar 2023
+  - uid: '168819'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 remarks: "(Linked To: PISHTAZAN KAVOSH GOSTAR BOSHRA LLC)"

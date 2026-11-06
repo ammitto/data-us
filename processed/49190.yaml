@@ -45,6 +45,9 @@ id_list:
     id_type: Government Gazette Number
     id_number: '07507666'
     id_country: Russia
+  - uid: '172154'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
   - uid: '172142'
     id_type: Organization Established Date
     id_number: 16 Nov 2004
@@ -54,6 +57,3 @@ id_list:
   - uid: '172144'
     id_type: 'Organization Type:'
     id_number: Research and experimental development on natural sciences and engineering
-  - uid: '172154'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.

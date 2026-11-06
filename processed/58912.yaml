@@ -1,0 +1,43 @@
+---
+uid: '58912'
+first_name: Any
+last_name: RODRIGUEZ LASTRES
+sdn_type: Individual
+program_list:
+  programs:
+  - CUBA-EO14404
+address_list:
+  items:
+  - uid: '90813'
+    city: Panama City
+    country: Panama
+id_list:
+  items:
+  - uid: '53789'
+    id_type: Passport
+    id_number: L930596
+    id_country: Cuba
+    expiration_date: 01 Apr 2028
+  - uid: '53790'
+    id_type: National ID No.
+    id_number: '91100730013'
+    id_country: Cuba
+  - uid: '202065'
+    id_type: Gender
+    id_number: Female
+date_of_birth_list:
+  items:
+  - uid: '102063'
+    date_of_birth: 07 Oct 1991
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '104731'
+    place_of_birth: Havana, Cuba
+    main_entry: 'true'
+remarks: "(Linked To: LASTRES MORERA, Ania Guillermina)"
+nationality_list:
+  items:
+  - uid: '102064'
+    country: Cuba
+    main_entry: 'true'

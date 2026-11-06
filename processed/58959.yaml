@@ -21,12 +21,12 @@ id_list:
     id_number: PA1035491
     id_country: Panama
     expiration_date: 04 Apr 2028
-  - uid: '204417'
-    id_type: Gender
-    id_number: Male
   - uid: '204786'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 2 of E.O. 13902
+  - uid: '204417'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '104415'

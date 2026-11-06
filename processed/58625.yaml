@@ -1,0 +1,57 @@
+---
+uid: '58625'
+first_name: Visal
+last_name: PANG
+sdn_type: Individual
+program_list:
+  programs:
+  - TCO
+aka_list:
+  items:
+  - uid: '90727'
+    type: a.k.a.
+    category: strong
+    last_name: PANG
+    first_name: Weizhi
+  - uid: '90728'
+    type: a.k.a.
+    category: weak
+    last_name: PANG, Wei Zei
+address_list:
+  items:
+  - uid: '90262'
+    country: Cambodia
+id_list:
+  items:
+  - uid: '53414'
+    id_type: Passport
+    id_number: E31455389
+    id_country: China
+  - uid: '53415'
+    id_type: Passport
+    id_number: N01124709
+    id_country: Cambodia
+    issue_date: 26 Jan 2018
+    expiration_date: 26 Jan 2028
+  - uid: '201307'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '101306'
+    date_of_birth: 20 Feb 1978
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '101308'
+    place_of_birth: Taizhou, Zhejiang, China
+    main_entry: 'true'
+remarks: "(Linked To: PRINCE GROUP TRANSNATIONAL CRIMINAL ORGANIZATION)"
+nationality_list:
+  items:
+  - uid: '101304'
+    country: Cambodia
+    main_entry: 'true'
+  - uid: '101305'
+    country: China
+    main_entry: 'false'

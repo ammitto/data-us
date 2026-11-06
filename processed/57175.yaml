@@ -13,12 +13,12 @@ address_list:
     country: United Arab Emirates
 id_list:
   items:
-  - uid: '196873'
-    id_type: Gender
-    id_number: Female
   - uid: '202520'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 2 of E.O. 13902
+  - uid: '196873'
+    id_type: Gender
+    id_number: Female
 date_of_birth_list:
   items:
   - uid: '96872'

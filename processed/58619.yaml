@@ -20,9 +20,12 @@ address_list:
     country: Iran
 id_list:
   items:
-  - uid: '202185'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 2 of E.O. 13902
+  - uid: '201267'
+    id_type: Website
+    id_number: www.bitbank3.com
+  - uid: '201268'
+    id_type: Website
+    id_number: www.bitbank.com
   - uid: '201359'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
@@ -32,9 +35,6 @@ id_list:
   - uid: '201269'
     id_type: 'Organization Type:'
     id_number: Financial and Insurance Activities
-  - uid: '201267'
-    id_type: Website
-    id_number: www.bitbank3.com
-  - uid: '201268'
-    id_type: Website
-    id_number: www.bitbank.com
+  - uid: '202185'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 2 of E.O. 13902

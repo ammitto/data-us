@@ -21,12 +21,12 @@ id_list:
     id_type: National ID No.
     id_number: '14004757110'
     id_country: Iran
-  - uid: '204606'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '204651'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 2 of E.O. 13902
+  - uid: '204606'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
   - uid: '204463'
     id_type: Organization Established Date
     id_number: 24 Feb 2015

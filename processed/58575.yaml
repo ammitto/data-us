@@ -1,0 +1,53 @@
+---
+uid: '58575'
+first_name: Yong
+last_name: QIU
+sdn_type: Individual
+program_list:
+  programs:
+  - TCO
+address_list:
+  items:
+  - uid: '90341'
+    country: Cambodia
+id_list:
+  items:
+  - uid: '53455'
+    id_type: Passport
+    id_number: N01612777
+    id_country: Cambodia
+    issue_date: '08 May 2019'
+    expiration_date: '08 May 2029'
+  - uid: '53456'
+    id_type: Passport
+    id_number: R229687
+    id_country: Saint Lucia
+  - uid: '53457'
+    id_type: Passport
+    id_number: U24268399
+    id_country: Turkey
+  - uid: '201400'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '101399'
+    date_of_birth: '09 Oct 1987'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '101401'
+    place_of_birth: Fujian, China
+    main_entry: 'true'
+remarks: "(Linked To: PRINCE GROUP TRANSNATIONAL CRIMINAL ORGANIZATION)"
+nationality_list:
+  items:
+  - uid: '101404'
+    country: Cambodia
+    main_entry: 'true'
+  - uid: '101425'
+    country: Turkey
+    main_entry: 'false'
+  - uid: '101426'
+    country: Saint Lucia
+    main_entry: 'false'

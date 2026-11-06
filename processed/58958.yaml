@@ -22,12 +22,12 @@ id_list:
     id_number: PA1335856
     id_country: Panama
     expiration_date: 05 Feb 2030
-  - uid: '204787'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 2 of E.O. 13902
   - uid: '204412'
     id_type: Gender
     id_number: Male
+  - uid: '204787'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 2 of E.O. 13902
 date_of_birth_list:
   items:
   - uid: '104410'

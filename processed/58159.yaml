@@ -13,12 +13,12 @@ id_list:
   - uid: '52741'
     id_type: MMSI
     id_number: '305003400'
-  - uid: '199634'
-    id_type: Vessel Year of Build
-    id_number: '1997'
   - uid: '202711'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 2 of E.O. 13902
+  - uid: '199634'
+    id_type: Vessel Year of Build
+    id_number: '1997'
 remarks: "(Linked To: SEA LEAD SHIPPING PTE. LTD.)"
 vessel_info:
   call_sign: V2C2003

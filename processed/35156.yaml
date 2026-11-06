@@ -33,9 +33,6 @@ id_list:
     id_type: Trade License No.
     id_number: '1117847020400'
     id_country: Russia
-  - uid: '147107'
-    id_type: Organization Established Date
-    id_number: '1908'
   - uid: '175274'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
@@ -45,3 +42,6 @@ id_list:
   - uid: '147349'
     id_type: Email Address
     id_number: nii@nii-vektor.ru
+  - uid: '147107'
+    id_type: Organization Established Date
+    id_number: '1908'

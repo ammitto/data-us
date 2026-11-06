@@ -53,10 +53,6 @@ id_list:
     id_type: Registration ID
     id_number: '1027600000185'
     id_country: Russia
-  - uid: '143650'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
-      589.209
   - uid: '118806'
     id_type: SWIFT/BIC
     id_number: VECARU21
@@ -69,3 +65,7 @@ id_list:
   - uid: '118800'
     id_type: Email Address
     id_number: vbank@yaroslavl.ru
+  - uid: '143650'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

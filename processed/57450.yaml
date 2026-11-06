@@ -25,9 +25,9 @@ id_list:
     id_type: Company Number
     id_number: '3058463'
     id_country: Hong Kong
-  - uid: '197588'
-    id_type: Organization Established Date
-    id_number: 16 Jun 2021
   - uid: '202988'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 2 of E.O. 13902
+  - uid: '197588'
+    id_type: Organization Established Date
+    id_number: 16 Jun 2021

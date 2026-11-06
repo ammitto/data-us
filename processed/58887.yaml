@@ -19,6 +19,12 @@ address_list:
     country: Russia
 id_list:
   items:
+  - uid: '202030'
+    id_type: Gender
+    id_number: Male
+  - uid: '202031'
+    id_type: Digital Currency Address - ETH
+    id_number: '0xE4C9a7F68B1EbA4508f54f07f7378847318dD1A3'
   - uid: '204689'
     id_type: 'Secondary sanctions risk:'
     id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
@@ -26,12 +32,6 @@ id_list:
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'
     id_number: North Korea Sanctions Regulations section 510.214
-  - uid: '202030'
-    id_type: Gender
-    id_number: Male
-  - uid: '202031'
-    id_type: Digital Currency Address - ETH
-    id_number: '0xE4C9a7F68B1EbA4508f54f07f7378847318dD1A3'
 date_of_birth_list:
   items:
   - uid: '102029'

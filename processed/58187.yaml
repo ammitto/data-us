@@ -26,12 +26,12 @@ id_list:
     id_number: '402383646'
     id_country: Tajikistan
     expiration_date: 21 Nov 2028
-  - uid: '202687'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 2 of E.O. 13902
   - uid: '199756'
     id_type: Gender
     id_number: Male
+  - uid: '202687'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 2 of E.O. 13902
 date_of_birth_list:
   items:
   - uid: '99754'

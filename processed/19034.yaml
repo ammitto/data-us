@@ -38,6 +38,10 @@ id_list:
   - uid: '11517'
     id_type: Registration ID
     id_number: '1149204013397'
+  - uid: '143651'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
   - uid: '118811'
     id_type: SWIFT/BIC
     id_number: MORKUAUK
@@ -47,7 +51,3 @@ id_list:
   - uid: '118793'
     id_type: Email Address
     id_number: root@morskoybank.com
-  - uid: '143651'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
-      589.209

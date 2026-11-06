@@ -19,9 +19,9 @@ id_list:
     id_type: Business Registration Number
     id_number: 201414464Z
     id_country: Singapore
-  - uid: '200328'
-    id_type: Organization Established Date
-    id_number: 20 May 2014
   - uid: '202154'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 2 of E.O. 13902
+  - uid: '200328'
+    id_type: Organization Established Date
+    id_number: 20 May 2014

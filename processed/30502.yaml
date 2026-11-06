@@ -5,6 +5,7 @@ sdn_type: Entity
 program_list:
   programs:
   - VENEZUELA
+  - CUBA-EO14404
 aka_list:
   items:
   - uid: '47908'
@@ -31,6 +32,13 @@ address_list:
     city: Caracas
     postal_code: '1060'
     country: Venezuela
+  - uid: '90810'
+    address1: Room 1706, 17th Floor, Building 3, No. 17
+    address2: Zhongguancun South Street
+    address3: Haidian District
+    city: Beijing
+    postal_code: '100089'
+    country: China
 id_list:
   items:
   - uid: '20627'
@@ -41,6 +49,16 @@ id_list:
     id_type: Unified Social Credit Code (USCC)
     id_number: 9111000010000106X1
     id_country: China
+  - uid: '53796'
+    id_type: Business Registration Number
+    id_number: '100000000001068'
+    id_country: China
+  - uid: '204712'
+    id_type: Organization Established Date
+    id_number: 15 Apr 1980
   - uid: '138119'
     id_type: Website
     id_number: https://www.ceiec.com
+  - uid: '204713'
+    id_type: Target Type
+    id_number: State-Owned Enterprise
