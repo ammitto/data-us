@@ -23,12 +23,12 @@ id_list:
     id_type: Diplomatic Passport
     id_number: '211102490'
     id_country: Russia
-  - uid: '174602'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '153016'
     id_type: Gender
     id_number: Female
+  - uid: '174602'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 date_of_birth_list:
   items:
   - uid: '53015'

@@ -84,9 +84,6 @@ id_list:
   - uid: '137525'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
-  - uid: '137662'
-    id_type: Website
-    id_number: www.aryasasol.com
   - uid: '137663'
     id_type: 'Executive Order 13846 information:'
     id_number: LOANS FROM UNITED STATES FINANCIAL INSTITUTIONS.  Sec. 5(a)(i)
@@ -108,4 +105,7 @@ id_list:
   - uid: '137669'
     id_type: 'Executive Order 13846 information:'
     id_number: SANCTIONS ON PRINCIPAL EXECUTIVE OFFICERS. Sec. 5(a)(vii)
+  - uid: '137662'
+    id_type: Website
+    id_number: www.aryasasol.com
 remarks: "(Linked To: TRILIANCE PETROCHEMICAL CO. LTD.)"

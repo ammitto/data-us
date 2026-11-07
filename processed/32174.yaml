@@ -23,16 +23,16 @@ id_list:
     id_type: Passport
     id_number: '60358533'
     id_country: Oman
-  - uid: '187332'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
   - uid: '141425'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
   - uid: '141422'
     id_type: Gender
     id_number: Male
+  - uid: '187332'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
 date_of_birth_list:
   items:
   - uid: '41421'

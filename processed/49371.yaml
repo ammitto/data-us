@@ -40,6 +40,9 @@ id_list:
     id_type: Unified Social Credit Code (USCC)
     id_number: 91441900MA4WN7NF7W
     id_country: China
+  - uid: '172441'
+    id_type: Website
+    id_number: www.yuzemachinery.com
   - uid: '172928'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
@@ -47,7 +50,4 @@ id_list:
   - uid: '172440'
     id_type: Organization Established Date
     id_number: '08 Jun 2017'
-  - uid: '172441'
-    id_type: Website
-    id_number: www.yuzemachinery.com
 remarks: "(Linked To: ANSARALLAH)"

@@ -1,0 +1,73 @@
+---
+uid: '59093'
+last_name: CCC INC
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '91328'
+    type: a.k.a.
+    category: strong
+    last_name: CCURRENCY EXCHANGE
+  - uid: '91329'
+    type: a.k.a.
+    category: strong
+    last_name: SARAFI C
+  - uid: '91330'
+    type: a.k.a.
+    category: weak
+    last_name: C EXCHANGE
+  - uid: '91331'
+    type: a.k.a.
+    category: strong
+    last_name: CRYPTOYAL
+  - uid: '91332'
+    type: a.k.a.
+    category: weak
+    last_name: PARSIS EXCHANGE
+  - uid: '91333'
+    type: a.k.a.
+    category: weak
+    last_name: SALAM EXCHANGE
+  - uid: '91344'
+    type: a.k.a.
+    category: weak
+    last_name: SARAFI CAPITAL
+address_list:
+  items:
+  - uid: '91088'
+    address1: 6118 Yonge Street, Unit B
+    city: North York
+    state_or_province: Ontario
+    postal_code: M2M 3W7
+    country: Canada
+id_list:
+  items:
+  - uid: '54053'
+    id_type: Registration Number
+    id_number: '2756992'
+    id_country: Canada
+  - uid: '54054'
+    id_type: MSB Registration Number
+    id_number: N300000785
+    id_country: Canada
+  - uid: '204852'
+    id_type: Organization Established Date
+    id_number: 22 May 2020
+  - uid: '204876'
+    id_type: 'Organization Type:'
+    id_number: Other monetary intermediation
+  - uid: '204902'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 2 of E.O. 13902
+  - uid: '204855'
+    id_type: Digital Currency Address - TRX
+    id_number: TCreRMzGspdHNEkqkasejS6xTzqXNkYJJZ
+  - uid: '204853'
+    id_type: Website
+    id_number: sarafic.com
+  - uid: '204854'
+    id_type: Website
+    id_number: cryptoyal.net

@@ -1,0 +1,63 @@
+---
+uid: '59094'
+last_name: B GALAXY INC
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '91335'
+    type: a.k.a.
+    category: weak
+    last_name: C EXCHANGE
+  - uid: '91336'
+    type: a.k.a.
+    category: strong
+    last_name: C EXCHANEG
+  - uid: '91337'
+    type: a.k.a.
+    category: strong
+    last_name: CRYPTOYAL
+address_list:
+  items:
+  - uid: '91090'
+    address1: 6118 Yonge Street, Unit B
+    city: North York
+    state_or_province: Ontario
+    postal_code: M2M 3W7
+    country: Canada
+  - uid: '91091'
+    address1: 3118 Yonge Street, Unit B
+    city: North York
+    state_or_province: Ontario
+    postal_code: M2M 3W7
+    country: Canada
+  - uid: '91092'
+    address1: 7181 Yonge Street, Unit 4
+    city: Thornhill
+    state_or_province: Ontario
+    postal_code: L3T 0C7
+    country: Canada
+id_list:
+  items:
+  - uid: '54055'
+    id_type: Registration Number
+    id_number: '2711268'
+    id_country: Canada
+  - uid: '54056'
+    id_type: MSB Registration Number
+    id_number: N300001022
+    id_country: Canada
+  - uid: '204858'
+    id_type: Website
+    id_number: cryptoyal.net
+  - uid: '204901'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 2 of E.O. 13902
+  - uid: '204857'
+    id_type: Organization Established Date
+    id_number: 13 Aug 2019
+  - uid: '204875'
+    id_type: 'Organization Type:'
+    id_number: Other monetary intermediation

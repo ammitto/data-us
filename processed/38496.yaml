@@ -49,12 +49,12 @@ date_of_birth_list:
     main_entry: 'false'
 place_of_birth_list:
   items:
-  - uid: '53798'
-    place_of_birth: Sinaloa, Mexico
-    main_entry: 'true'
   - uid: '101735'
     place_of_birth: Estado de Mexico, Mexico
     main_entry: 'false'
+  - uid: '53798'
+    place_of_birth: Sinaloa, Mexico
+    main_entry: 'true'
 remarks: "(Linked To: SINALOA CARTEL)"
 nationality_list:
   items:

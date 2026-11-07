@@ -44,6 +44,9 @@ id_list:
     id_type: Registration Number
     id_number: '1022300003021'
     id_country: Russia
+  - uid: '176404'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
   - uid: '169049'
     id_type: Target Type
     id_number: Financial Institution
@@ -53,6 +56,3 @@ id_list:
   - uid: '169048'
     id_type: Website
     id_number: www.rostfinance.ru
-  - uid: '176404'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.

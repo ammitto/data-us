@@ -47,12 +47,12 @@ id_list:
     id_type: Identification Number
     id_number: ADQ9VQ.00005.ME.643
     id_country: Russia
-  - uid: '166765'
-    id_type: Target Type
-    id_number: Financial Institution
   - uid: '176062'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '166765'
+    id_type: Target Type
+    id_number: Financial Institution
   - uid: '166411'
     id_type: SWIFT/BIC
     id_number: HCFBRUMM

@@ -28,6 +28,9 @@ id_list:
   - uid: '139907'
     id_type: Gender
     id_number: Male
+  - uid: '154599'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
   - uid: '138307'
     id_type: Email Address
     id_number: syedaliraza940@gmail.com
@@ -40,9 +43,6 @@ id_list:
   - uid: '138310'
     id_type: Email Address
     id_number: s.alirz92@gmail.com
-  - uid: '154599'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
 date_of_birth_list:
   items:
   - uid: '38305'

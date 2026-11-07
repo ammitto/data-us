@@ -39,13 +39,13 @@ id_list:
     id_type: Passport
     id_number: IVG678677
     id_country: Russia
-  - uid: '134614'
-    id_type: Gender
-    id_number: Male
   - uid: '187051'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
+  - uid: '134614'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '34612'

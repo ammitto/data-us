@@ -50,11 +50,11 @@ address_list:
     country: Sudan
 id_list:
   items:
-  - uid: '135934'
-    id_type: 'Organization Type:'
-    id_number: Mining of other non-ferrous metal ores
   - uid: '144096'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
       589.209
+  - uid: '135934'
+    id_type: 'Organization Type:'
+    id_number: Mining of other non-ferrous metal ores
 remarks: "(Linked To: M INVEST, OOO)"

@@ -46,6 +46,12 @@ id_list:
   - uid: '31298'
     id_type: Legal Entity Number
     id_number: 2534000PHLD27VN98Y03
+  - uid: '160155'
+    id_type: SWIFT/BIC
+    id_number: IIBMHU22
+  - uid: '160154'
+    id_type: Website
+    id_number: www.iib.int
   - uid: '184127'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
@@ -59,9 +65,3 @@ id_list:
   - uid: '160156'
     id_type: Target Type
     id_number: Financial Institution
-  - uid: '160155'
-    id_type: SWIFT/BIC
-    id_number: IIBMHU22
-  - uid: '160154'
-    id_type: Website
-    id_number: www.iib.int

@@ -53,9 +53,6 @@ id_list:
   - uid: '27541'
     id_type: Legal Entity Number
     id_number: HOXMZG026UQNRK6J0C60
-  - uid: '174237'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '153537'
     id_type: SWIFT/BIC
     id_number: RSBNRUMM
@@ -66,6 +63,9 @@ id_list:
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
       589.209
+  - uid: '174237'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
   - uid: '153536'
     id_type: Organization Established Date
     id_number: 02 Mar 1993

@@ -55,9 +55,9 @@ address_list:
     country: Iran
 id_list:
   items:
-  - uid: '125304'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '125305'
     id_type: Website
     id_number: http://www.pasnaindustry.com
+  - uid: '125304'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

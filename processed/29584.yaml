@@ -23,9 +23,6 @@ address_list:
     country: Russia
 id_list:
   items:
-  - uid: '136443'
-    id_type: Gender
-    id_number: Male
   - uid: '136445'
     id_type: Digital Currency Address - XBT
     id_number: 1Q9UAQbcDezmyouFrzt94t4dSMxgsUfW1X
@@ -41,6 +38,9 @@ id_list:
   - uid: '136444'
     id_type: Email Address
     id_number: potekhinl4@bk.ru
+  - uid: '136443'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '36440'

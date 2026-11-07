@@ -43,15 +43,15 @@ id_list:
     id_type: Passport
     id_number: DA 1790252
     id_country: Pakistan
+  - uid: '139459'
+    id_type: Gender
+    id_number: Male
   - uid: '139461'
     id_type: Email Address
     id_number: pakistancopy@gmail.com
   - uid: '139462'
     id_type: Email Address
     id_number: thakurabid@gmail.com
-  - uid: '139459'
-    id_type: Gender
-    id_number: Male
 date_of_birth_list:
   items:
   - uid: '37520'

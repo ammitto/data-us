@@ -18,12 +18,12 @@ id_list:
     id_number: E54687879
     id_country: Iran
     expiration_date: 28 Sep 2026
-  - uid: '179250'
-    id_type: Gender
-    id_number: Male
   - uid: '179286'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '179250'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '79249'

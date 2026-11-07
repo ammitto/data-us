@@ -1,0 +1,57 @@
+---
+uid: '59099'
+last_name: DARVISH EXCHANGE
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '91352'
+    type: a.k.a.
+    category: weak
+    last_name: CANADA EXCHANGE
+  - uid: '91353'
+    type: a.k.a.
+    category: strong
+    last_name: KANATA MD INC
+address_list:
+  items:
+  - uid: '91103'
+    address1: 10144 Yonge Street
+    city: Richmond Hill
+    state_or_province: Ontario
+    postal_code: L4C 1T6
+    country: Canada
+  - uid: '91104'
+    address1: 6093 Yonge Street
+    city: North York
+    state_or_province: Ontario
+    postal_code: M2M 3W2
+    country: Canada
+id_list:
+  items:
+  - uid: '54064'
+    id_type: Business Registration Number
+    id_number: '729493502'
+    id_country: Canada
+  - uid: '54065'
+    id_type: Registration Number
+    id_number: 1400801-4
+    id_country: Canada
+  - uid: '54066'
+    id_type: MSB Registration Number
+    id_number: N300000169
+    id_country: Canada
+  - uid: '204870'
+    id_type: Organization Established Date
+    id_number: 03 May 2022
+  - uid: '204880'
+    id_type: 'Organization Type:'
+    id_number: Other monetary intermediation
+  - uid: '204906'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 2 of E.O. 13902
+  - uid: '204871'
+    id_type: Website
+    id_number: darvishexchange.com

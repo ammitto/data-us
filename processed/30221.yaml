@@ -74,9 +74,6 @@ id_list:
     id_type: Registration Number
     id_number: '255100'
     id_country: Iran
-  - uid: '137729'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '137635'
     id_type: Website
     id_number: www.petrokavian.com
@@ -101,3 +98,6 @@ id_list:
   - uid: '137642'
     id_type: 'Executive Order 13846 information:'
     id_number: SANCTIONS ON PRINCIPAL EXECUTIVE OFFICERS. Sec. 5(a)(vii)
+  - uid: '137729'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

@@ -59,6 +59,10 @@ address_list:
     country: Korea, North
 id_list:
   items:
+  - uid: '135306'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
   - uid: '150215'
     id_type: Digital Currency Address - ETH
     id_number: '0x098B716B8Aaf21512996dC57EB0615e2383E2f96'
@@ -86,7 +90,3 @@ id_list:
   - uid: '132507'
     id_type: 'Secondary sanctions risk:'
     id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
-  - uid: '135306'
-    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
-      Institutions:'
-    id_number: North Korea Sanctions Regulations section 510.214
