@@ -16,12 +16,12 @@ address_list:
     country: Iran
 id_list:
   items:
-  - uid: '165502'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '165221'
     id_type: Gender
     id_number: Male
+  - uid: '165502'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '65291'

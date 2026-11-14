@@ -49,12 +49,12 @@ id_list:
     id_type: MSB Registration Number
     id_number: N300001022
     id_country: Canada
-  - uid: '204858'
-    id_type: Website
-    id_number: cryptoyal.net
   - uid: '204901'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 2 of E.O. 13902
+  - uid: '204858'
+    id_type: Website
+    id_number: cryptoyal.net
   - uid: '204857'
     id_type: Organization Established Date
     id_number: 13 Aug 2019

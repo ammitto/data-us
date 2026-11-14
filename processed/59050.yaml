@@ -36,12 +36,12 @@ id_list:
     id_type: Central Registration System Number
     id_number: '0388135759500001'
     id_country: Turkey
-  - uid: '204683'
-    id_type: Website
-    id_number: https://www.fugoaviation.com
   - uid: '204684'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 2 of E.O. 13902
+  - uid: '204683'
+    id_type: Website
+    id_number: https://www.fugoaviation.com
   - uid: '204682'
     id_type: Organization Established Date
     id_number: 28 Nov 2019

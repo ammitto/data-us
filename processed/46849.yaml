@@ -54,12 +54,12 @@ id_list:
     id_number: U13927927
     id_country: Turkey
     expiration_date: 25 Jan 2027
-  - uid: '167867'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '167699'
     id_type: Gender
     id_number: Male
+  - uid: '167867'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '67695'

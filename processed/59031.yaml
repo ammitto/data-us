@@ -1,0 +1,26 @@
+---
+uid: '59031'
+last_name: LOS MENDOZA DRUG TRAFFICKING ORGANIZATION
+sdn_type: Entity
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+  - SDGT
+address_list:
+  items:
+  - uid: '90980'
+    country: Guatemala
+  - uid: '90999'
+    country: Honduras
+  - uid: '91000'
+    country: Belize
+id_list:
+  items:
+  - uid: '204624'
+    id_type: Target Type
+    id_number: Criminal Organization
+  - uid: '204686'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: "(Linked To: SINALOA CARTEL)"

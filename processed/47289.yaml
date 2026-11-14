@@ -31,15 +31,15 @@ address_list:
     country: Russia
 id_list:
   items:
-  - uid: '168630'
-    id_type: Email Address
-    id_number: ae.ermak@yandex.ru
   - uid: '168628'
     id_type: Gender
     id_number: Male
   - uid: '168658'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+  - uid: '168630'
+    id_type: Email Address
+    id_number: ae.ermak@yandex.ru
 date_of_birth_list:
   items:
   - uid: '68629'

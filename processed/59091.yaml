@@ -53,18 +53,18 @@ id_list:
     id_type: MSB Registration Number
     id_number: M19315656
     id_country: Canada
+  - uid: '204903'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 2 of E.O. 13902
   - uid: '204847'
     id_type: Digital Currency Address - TRX
     id_number: TJHZswisiMgjioAVpmpMSWXCeQGCPjcTMK
-  - uid: '204845'
-    id_type: Website
-    id_number: millionex.ca
   - uid: '204846'
     id_type: Organization Established Date
     id_number: 07 May 2018
   - uid: '204877'
     id_type: 'Organization Type:'
     id_number: Other monetary intermediation
-  - uid: '204903'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 2 of E.O. 13902
+  - uid: '204845'
+    id_type: Website
+    id_number: millionex.ca

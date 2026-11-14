@@ -5,12 +5,7 @@ sdn_type: Entity
 program_list:
   programs:
   - ILLICIT-DRUGS-EO14059
-aka_list:
-  items:
-  - uid: '56267'
-    type: a.k.a.
-    category: weak
-    last_name: LOS HUISTAS DTO
+  - SDGT
 address_list:
   items:
   - uid: '48844'
@@ -30,3 +25,8 @@ id_list:
   - uid: '148947'
     id_type: Target Type
     id_number: Criminal Organization
+  - uid: '204662'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: "(Linked To: SINALOA CARTEL; Linked To: CARTEL DE JALISCO NUEVA GENERACION)"

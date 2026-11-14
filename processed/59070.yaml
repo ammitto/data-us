@@ -1,0 +1,38 @@
+---
+uid: '59070'
+last_name: LOS LORENZANAS
+sdn_type: Entity
+program_list:
+  programs:
+  - FTO
+  - SDGT
+aka_list:
+  items:
+  - uid: '91278'
+    type: a.k.a.
+    category: strong
+    last_name: LORENZANA DRUG TRAFFICKING ORGANIZATION
+  - uid: '91279'
+    type: a.k.a.
+    category: weak
+    last_name: THE LORENZANA FAMILY
+  - uid: '91280'
+    type: a.k.a.
+    category: weak
+    last_name: THE LORENZANA CLAN
+address_list:
+  items:
+  - uid: '91039'
+    country: Guatemala
+id_list:
+  items:
+  - uid: '204760'
+    id_type: 'Organization Type:'
+    id_number: Transnational Terrorist Group
+  - uid: '204759'
+    id_type: Target Type
+    id_number: Criminal Organization
+  - uid: '204761'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
