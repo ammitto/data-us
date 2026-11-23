@@ -1,0 +1,41 @@
+---
+uid: '59250'
+first_name: Mojtaba
+last_name: ARABNEJAD
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+  - IFSR
+address_list:
+  items:
+  - uid: '91299'
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '54246'
+    id_type: National ID No.
+    id_number: '2991809205'
+    id_country: Iran
+  - uid: '205229'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '205209'
+    id_type: Gender
+    id_number: Male
+  - uid: '205220'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+date_of_birth_list:
+  items:
+  - uid: '105211'
+    date_of_birth: 04 Jun 1984
+    main_entry: 'true'
+remarks: "(Linked To: MAHAN AIR)"
+nationality_list:
+  items:
+  - uid: '105210'
+    country: Iran
+    main_entry: 'true'

@@ -40,10 +40,6 @@ id_list:
     id_type: Registration ID
     id_number: '1027800000084'
     id_country: Russia
-  - uid: '143714'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
-      589.209
   - uid: '115218'
     id_type: SWIFT/BIC
     id_number: ROSYRU2P
@@ -53,3 +49,7 @@ id_list:
   - uid: '115191'
     id_type: Email Address
     id_number: bank@abr.ru
+  - uid: '143714'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

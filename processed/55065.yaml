@@ -16,12 +16,6 @@ id_list:
     id_type: Tax ID No.
     id_number: '253908966176'
     id_country: Russia
-  - uid: '192077'
-    id_type: Gender
-    id_number: Male
-  - uid: '192620'
-    id_type: Digital Currency Address - XBT
-    id_number: 1HmqvgSXUVES1jn4TQPzk9dxo1NE8wim2T
   - uid: '192083'
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'
@@ -29,6 +23,12 @@ id_list:
   - uid: '192082'
     id_type: 'Secondary sanctions risk:'
     id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '192077'
+    id_type: Gender
+    id_number: Male
+  - uid: '192620'
+    id_type: Digital Currency Address - XBT
+    id_number: 1HmqvgSXUVES1jn4TQPzk9dxo1NE8wim2T
 date_of_birth_list:
   items:
   - uid: '92081'

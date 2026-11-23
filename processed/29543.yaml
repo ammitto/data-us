@@ -24,6 +24,9 @@ id_list:
     id_type: Residency Number
     id_number: '332623197504107459'
     id_country: China
+  - uid: '136364'
+    id_type: Gender
+    id_number: Male
   - uid: '136407'
     id_type: 'Executive Order 13846 information:'
     id_number: FOREIGN EXCHANGE.  Sec. 5(a)(ii)
@@ -36,9 +39,6 @@ id_list:
   - uid: '136410'
     id_type: 'Executive Order 13846 information:'
     id_number: IMPORT SANCTIONS.  Sec. 5(a)(vi)
-  - uid: '136364'
-    id_type: Gender
-    id_number: Male
 date_of_birth_list:
   items:
   - uid: '36562'

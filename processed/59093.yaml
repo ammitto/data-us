@@ -53,6 +53,12 @@ id_list:
     id_type: MSB Registration Number
     id_number: N300000785
     id_country: Canada
+  - uid: '204902'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 2 of E.O. 13902
+  - uid: '204855'
+    id_type: Digital Currency Address - TRX
+    id_number: TCreRMzGspdHNEkqkasejS6xTzqXNkYJJZ
   - uid: '204852'
     id_type: Organization Established Date
     id_number: 22 May 2020
@@ -65,9 +71,3 @@ id_list:
   - uid: '204854'
     id_type: Website
     id_number: cryptoyal.net
-  - uid: '204855'
-    id_type: Digital Currency Address - TRX
-    id_number: TCreRMzGspdHNEkqkasejS6xTzqXNkYJJZ
-  - uid: '204902'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 2 of E.O. 13902

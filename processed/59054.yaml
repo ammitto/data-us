@@ -24,12 +24,12 @@ id_list:
     id_type: Registration Number
     id_number: '03563403'
     id_country: India
-  - uid: '204720'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 2 of E.O. 13902
   - uid: '204699'
     id_type: Gender
     id_number: Female
+  - uid: '204720'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 2 of E.O. 13902
 date_of_birth_list:
   items:
   - uid: '104697'

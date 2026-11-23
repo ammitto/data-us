@@ -1,0 +1,57 @@
+---
+uid: '59173'
+first_name: Hassan
+last_name: KHECHEN
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+aka_list:
+  items:
+  - uid: '91423'
+    type: a.k.a.
+    category: strong
+    last_name: KHASHAN
+    first_name: Hassan Muhammad
+  - uid: '91441'
+    type: a.k.a.
+    category: strong
+    last_name: KHASHAN
+    first_name: Hassan
+address_list:
+  items:
+  - uid: '91205'
+    country: Lebanon
+id_list:
+  items:
+  - uid: '54153'
+    id_type: Passport
+    id_number: LR3765421
+    id_country: Lebanon
+    expiration_date: 29 Jul 2034
+  - uid: '54181'
+    id_type: National ID No.
+    id_number: '000050415869'
+    id_country: Lebanon
+  - uid: '204994'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '204996'
+    id_type: Gender
+    id_number: Male
+  - uid: '205023'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
+      Sanctions Regulations
+date_of_birth_list:
+  items:
+  - uid: '104995'
+    date_of_birth: 19 Jul 1986
+    main_entry: 'true'
+remarks: "(Linked To: HIZBALLAH)"
+nationality_list:
+  items:
+  - uid: '104997'
+    country: Lebanon
+    main_entry: 'true'

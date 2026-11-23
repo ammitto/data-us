@@ -27,9 +27,6 @@ address_list:
     country: Korea, North
 id_list:
   items:
-  - uid: '192070'
-    id_type: 'Secondary sanctions risk:'
-    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '192069'
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'
@@ -37,3 +34,6 @@ id_list:
   - uid: '192606'
     id_type: 'Organization Type:'
     id_number: Wholesale and retail trade
+  - uid: '192070'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210

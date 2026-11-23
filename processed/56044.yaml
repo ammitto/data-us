@@ -22,9 +22,6 @@ address_list:
     country: Korea, North
 id_list:
   items:
-  - uid: '194205'
-    id_type: 'Secondary sanctions risk:'
-    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '194206'
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'
@@ -32,3 +29,6 @@ id_list:
   - uid: '194199'
     id_type: 'Organization Type:'
     id_number: Other information technology and computer service activities
+  - uid: '194205'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210

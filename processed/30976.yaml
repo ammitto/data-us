@@ -24,9 +24,9 @@ address_list:
     country: Cuba
 id_list:
   items:
-  - uid: '139195'
-    id_type: Organization Established Date
-    id_number: Jun 1961
   - uid: '198219'
     id_type: Target Type
     id_number: Government Entity
+  - uid: '139195'
+    id_type: Organization Established Date
+    id_number: Jun 1961

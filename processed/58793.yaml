@@ -1,0 +1,44 @@
+---
+uid: '58793'
+first_name: Francesco
+last_name: COMMISSO
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '90947'
+    type: a.k.a.
+    category: weak
+    last_name: U Scelto
+address_list:
+  items:
+  - uid: '90618'
+    state_or_province: Ontario
+    country: Canada
+  - uid: '90619'
+    city: Siderno
+    state_or_province: Calabria
+    country: Italy
+id_list:
+  items:
+  - uid: '201776'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '101774'
+    date_of_birth: 03 Oct 1956
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '101775'
+    place_of_birth: Siderno, Calabria, Italy
+    main_entry: 'true'
+remarks: "(Linked To: 'NDRANGHETA)"
+nationality_list:
+  items:
+  - uid: '101777'
+    country: Italy
+    main_entry: 'true'

@@ -45,6 +45,9 @@ id_list:
   - uid: '131442'
     id_type: Gender
     id_number: Male
+  - uid: '131444'
+    id_type: Email Address
+    id_number: waleed198811@gmail.com
   - uid: '186887'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
@@ -58,9 +61,6 @@ id_list:
   - uid: '131447'
     id_type: Phone Number
     id_number: '9647720364973'
-  - uid: '131444'
-    id_type: Email Address
-    id_number: waleed198811@gmail.com
 date_of_birth_list:
   items:
   - uid: '31441'

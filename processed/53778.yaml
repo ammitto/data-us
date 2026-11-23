@@ -27,9 +27,9 @@ address_list:
     country: Burma
 id_list:
   items:
-  - uid: '189615'
-    id_type: Organization Established Date
-    id_number: Apr 2009
   - uid: '188767'
     id_type: Target Type
     id_number: Criminal Organization
+  - uid: '189615'
+    id_type: Organization Established Date
+    id_number: Apr 2009

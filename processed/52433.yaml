@@ -11,9 +11,9 @@ address_list:
     country: Sweden
 id_list:
   items:
-  - uid: '185552'
-    id_type: Organization Established Date
-    id_number: 2015 to 2019
   - uid: '184038'
     id_type: Target Type
     id_number: Criminal Organization
+  - uid: '185552'
+    id_type: Organization Established Date
+    id_number: 2015 to 2019

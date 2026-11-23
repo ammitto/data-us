@@ -33,12 +33,12 @@ id_list:
     id_country: China
     issue_date: 25 Feb 2013
     expiration_date: 24 Feb 2023
-  - uid: '178560'
-    id_type: Gender
-    id_number: Male
   - uid: '178557'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '178560'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '78558'

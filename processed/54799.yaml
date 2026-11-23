@@ -23,15 +23,15 @@ id_list:
   - uid: '48558'
     id_type: Vessel Registration Identification
     id_number: IMO 9248485
-  - uid: '202936'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 2 of E.O. 13902
   - uid: '191393'
     id_type: Vessel Year of Build
     id_number: '2002'
   - uid: '191227'
     id_type: Other Vessel Flag
     id_number: Liberia
+  - uid: '202936'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 2 of E.O. 13902
 remarks: "(Linked To: SHAMKHANI, Mohammad Hossein)"
 vessel_info:
   call_sign: D5YQ2

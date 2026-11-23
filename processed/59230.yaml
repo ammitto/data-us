@@ -1,0 +1,33 @@
+---
+uid: '59230'
+last_name: MELLAT EXCHANGE COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '91287'
+    address1: No. 54, Corner of 19th Alley, Nelson Mandela Boulevard (Africa Street)
+    city: Tehran
+    state_or_province: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '54214'
+    id_type: National ID No.
+    id_number: '10103581206'
+    id_country: Iran
+  - uid: '54215'
+    id_type: Registration Number
+    id_number: '321010'
+    id_country: Iran
+  - uid: '205230'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '205153'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 2 of E.O. 13902
+  - uid: '205152'
+    id_type: Organization Established Date
+    id_number: 16 Mar 2008

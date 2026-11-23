@@ -19,10 +19,6 @@ address_list:
     country: Ukraine
 id_list:
   items:
-  - uid: '143579'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
-      589.209
   - uid: '116451'
     id_type: Email Address
     id_number: voenkom.dnr@mail.ru
@@ -32,3 +28,7 @@ id_list:
   - uid: '116453'
     id_type: Email Address
     id_number: novoross24@mail.ru
+  - uid: '143579'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

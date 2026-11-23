@@ -32,12 +32,12 @@ id_list:
     id_number: K96797853
     id_country: Iran
     expiration_date: 05 Aug 2028
-  - uid: '184162'
-    id_type: Gender
-    id_number: Male
   - uid: '202373'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 2 of E.O. 13902
+  - uid: '184162'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '84158'

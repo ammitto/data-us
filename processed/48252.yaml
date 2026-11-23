@@ -13,12 +13,12 @@ address_list:
     country: Turkey
 id_list:
   items:
-  - uid: '170305'
-    id_type: Gender
-    id_number: Male
   - uid: '170310'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '170305'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '70302'

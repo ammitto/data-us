@@ -1,11 +1,17 @@
 ---
 uid: '10902'
-last_name: "'NDRANGHETA ORGANIZATION"
+last_name: "'NDRANGHETA"
 sdn_type: Entity
 program_list:
   programs:
   - SDNTK
+  - ILLICIT-DRUGS-EO14059
 address_list:
   items:
   - uid: '15709'
     country: Italy
+id_list:
+  items:
+  - uid: '201765'
+    id_type: Target Type
+    id_number: Criminal Organization

@@ -34,12 +34,12 @@ id_list:
     id_type: Passport
     id_number: K1668916N
     id_country: Singapore
-  - uid: '194790'
-    id_type: 'Executive Order 13846 information:'
-    id_number: BLOCKING PROPERTY AND INTERESTS IN PROPERTY.  Sec. 5(a)(iv)
   - uid: '194651'
     id_type: Gender
     id_number: Male
+  - uid: '194790'
+    id_type: 'Executive Order 13846 information:'
+    id_number: BLOCKING PROPERTY AND INTERESTS IN PROPERTY.  Sec. 5(a)(iv)
 date_of_birth_list:
   items:
   - uid: '94648'

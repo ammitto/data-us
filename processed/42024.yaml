@@ -22,11 +22,11 @@ id_list:
     id_type: Tax ID No.
     id_number: '7536097029'
     id_country: Russia
-  - uid: '160230'
-    id_type: Organization Established Date
-    id_number: '2008'
   - uid: '175366'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '160230'
+    id_type: Organization Established Date
+    id_number: '2008'
 remarks: "(Linked To: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU KHOLDINGOVAYA KOMPANIYA
   YUESEM)"

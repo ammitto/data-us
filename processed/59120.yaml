@@ -1,0 +1,43 @@
+---
+uid: '59120'
+first_name: Ali
+last_name: KALHOR
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '91140'
+    country: Iran
+id_list:
+  items:
+  - uid: '54104'
+    id_type: National ID No.
+    id_number: '0045764190'
+    id_country: Iran
+  - uid: '204933'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 2 of E.O. 13902
+  - uid: '204932'
+    id_type: Gender
+    id_number: Male
+  - uid: '205239'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '105173'
+    date_of_birth: '08 Oct 1963'
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '105174'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: RAHBAR BAZARGANI NESIM BAHARAN QESHM COMPANY)"
+nationality_list:
+  items:
+  - uid: '104935'
+    country: Iran
+    main_entry: 'true'

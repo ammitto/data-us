@@ -14,12 +14,12 @@ address_list:
     country: Iran
 id_list:
   items:
-  - uid: '180856'
-    id_type: 'Organization Type:'
-    id_number: Defense activities
   - uid: '180855'
     id_type: Target Type
     id_number: Government Entity
+  - uid: '180856'
+    id_type: 'Organization Type:'
+    id_number: Defense activities
   - uid: '180854'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
