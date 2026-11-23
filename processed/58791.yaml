@@ -1,0 +1,41 @@
+---
+uid: '58791'
+first_name: Angelo
+last_name: FIGLIOMENI
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '90942'
+    type: a.k.a.
+    category: weak
+    last_name: Don Angelino
+address_list:
+  items:
+  - uid: '90614'
+    city: Vaughan
+    state_or_province: Ontario
+    country: Canada
+id_list:
+  items:
+  - uid: '201769'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '101766'
+    date_of_birth: 30 Sep 1962
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '101767'
+    place_of_birth: Siderno, Calabria, Italy
+    main_entry: 'true'
+remarks: "(Linked To: 'NDRANGHETA)"
+nationality_list:
+  items:
+  - uid: '101768'
+    country: Italy
+    main_entry: 'true'

@@ -1,0 +1,43 @@
+---
+uid: '59231'
+first_name: Mahmoud
+last_name: AKHLAGHI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '91289'
+    country: Iran
+id_list:
+  items:
+  - uid: '54216'
+    id_type: National ID No.
+    id_number: '4569381731'
+    id_country: Iran
+  - uid: '205154'
+    id_type: Gender
+    id_number: Male
+  - uid: '205232'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '205156'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 2 of E.O. 13902
+date_of_birth_list:
+  items:
+  - uid: '105163'
+    date_of_birth: 24 Sep 1967
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '105164'
+    place_of_birth: Semnan, Iran
+    main_entry: 'true'
+remarks: "(Linked To: MELLAT EXCHANGE COMPANY)"
+nationality_list:
+  items:
+  - uid: '105155'
+    country: Iran
+    main_entry: 'true'

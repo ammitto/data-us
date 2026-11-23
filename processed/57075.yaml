@@ -90,6 +90,10 @@ id_list:
     id_number: P96600587
     id_country: Iran
     expiration_date: 12 Jul 2023
+  - uid: '196573'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
+      Sanctions Regulations
   - uid: '196609'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
@@ -97,10 +101,6 @@ id_list:
   - uid: '196577'
     id_type: Gender
     id_number: Male
-  - uid: '196573'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
-      Sanctions Regulations
 date_of_birth_list:
   items:
   - uid: '96576'

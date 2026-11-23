@@ -30,12 +30,12 @@ id_list:
     id_number: I45845086
     id_country: Iran
     expiration_date: 25 Jun 2023
-  - uid: '194397'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '194393'
     id_type: Gender
     id_number: Male
+  - uid: '194397'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '94395'

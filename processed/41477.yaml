@@ -26,12 +26,12 @@ id_list:
     id_number: R 41277
     id_country: Liechtenstein
     expiration_date: 23 Mar 2030
-  - uid: '176928'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '159549'
     id_type: Gender
     id_number: Male
+  - uid: '176928'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 date_of_birth_list:
   items:
   - uid: '59550'

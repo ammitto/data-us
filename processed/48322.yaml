@@ -28,9 +28,9 @@ id_list:
     id_type: Tax ID No.
     id_number: '400085002'
     id_country: Belarus
-  - uid: '170543'
-    id_type: Organization Established Date
-    id_number: 07 Dec 1995
   - uid: '170536'
     id_type: Target Type
     id_number: State-Owned Enterprise
+  - uid: '170543'
+    id_type: Organization Established Date
+    id_number: 07 Dec 1995

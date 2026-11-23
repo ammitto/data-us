@@ -17,13 +17,13 @@ id_list:
     id_country: Turkey
     issue_date: 12 Sep 2014
     expiration_date: 12 Sep 2024
-  - uid: '128489'
-    id_type: 'Secondary sanctions risk:'
-    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '135298'
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'
     id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '128489'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '128203'
     id_type: Gender
     id_number: Male

@@ -37,13 +37,13 @@ id_list:
     id_type: Tax ID No.
     id_number: '4704012874'
     id_country: Russia
-  - uid: '173337'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
-  - uid: '149394'
-    id_type: Organization Established Date
-    id_number: 23 Jul 1997
   - uid: '149391'
     id_type: Website
     id_number: www.vyborgshipyard.ru
+  - uid: '149394'
+    id_type: Organization Established Date
+    id_number: 23 Jul 1997
+  - uid: '173337'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 remarks: "(Linked To: JOINT STOCK COMPANY UNITED SHIPBUILDING CORPORATION)"

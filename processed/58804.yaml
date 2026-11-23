@@ -1,0 +1,37 @@
+---
+uid: '58804'
+last_name: COMANCHERO OUTLAW MOTORCYCLE GANG
+sdn_type: Entity
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '90964'
+    type: a.k.a.
+    category: strong
+    last_name: COMANCHERO MOTORCYCLE CLUB
+  - uid: '90965'
+    type: a.k.a.
+    category: weak
+    last_name: COMANCHERO MC
+address_list:
+  items:
+  - uid: '90641'
+    country: Australia
+  - uid: '90642'
+    country: New Zealand
+  - uid: '90643'
+    country: Spain
+  - uid: '90644'
+    country: Bosnia and Herzegovina
+  - uid: '90645'
+    country: Germany
+id_list:
+  items:
+  - uid: '201808'
+    id_type: Organization Established Date
+    id_number: 15 Apr 1966
+  - uid: '201807'
+    id_type: Target Type
+    id_number: Criminal Organization

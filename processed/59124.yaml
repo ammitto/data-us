@@ -1,0 +1,43 @@
+---
+uid: '59124'
+first_name: Sayyed Mohammad
+last_name: JALALI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '91146'
+    country: Iran
+id_list:
+  items:
+  - uid: '54109'
+    id_type: National ID No.
+    id_number: '0049070614'
+    id_country: Iran
+  - uid: '204940'
+    id_type: Gender
+    id_number: Male
+  - uid: '204942'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 2 of E.O. 13902
+  - uid: '205238'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '105177'
+    date_of_birth: 28 Sep 1966
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '105178'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: RAHBAR BAZARGANI NESIM BAHARAN QESHM COMPANY)"
+nationality_list:
+  items:
+  - uid: '104941'
+    country: Iran
+    main_entry: 'true'

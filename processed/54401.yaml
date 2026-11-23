@@ -55,12 +55,12 @@ id_list:
     id_number: '556957176'
     id_country: United Kingdom
     expiration_date: 28 Jan 2029
-  - uid: '190253'
-    id_type: Gender
-    id_number: Male
   - uid: '202791'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 2 of E.O. 13902
+  - uid: '190253'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '90252'

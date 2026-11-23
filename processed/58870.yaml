@@ -1,0 +1,46 @@
+---
+uid: '58870'
+first_name: Hui
+last_name: ZHAO
+sdn_type: Individual
+program_list:
+  programs:
+  - CYBER4
+address_list:
+  items:
+  - uid: '90738'
+    city: Tokyo
+    country: Japan
+id_list:
+  items:
+  - uid: '53746'
+    id_type: National ID No.
+    id_number: 23210119910425461X
+    id_country: China
+  - uid: '53747'
+    id_type: Passport
+    id_number: N01749414
+    id_country: Cambodia
+    issue_date: 17 Sep 2019
+    expiration_date: 17 Sep 2029
+  - uid: '201962'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '101961'
+    date_of_birth: 25 Apr 1991
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '101963'
+    place_of_birth: Harbin, Heilongjiang, China
+    main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '101959'
+    country: Cambodia
+    main_entry: 'true'
+  - uid: '101960'
+    country: China
+    main_entry: 'false'

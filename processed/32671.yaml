@@ -21,10 +21,10 @@ address_list:
     country: Cuba
 id_list:
   items:
-  - uid: '198220'
-    id_type: Organization Established Date
-    id_number: 05 Jan 1959
   - uid: '142423'
     id_type: Target Type
     id_number: Government Entity
+  - uid: '198220'
+    id_type: Organization Established Date
+    id_number: 05 Jan 1959
 remarks: "(Linked To: MINISTRY OF INTERIOR OF CUBA)"

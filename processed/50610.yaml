@@ -69,6 +69,9 @@ id_list:
   - uid: '179192'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '178955'
+    id_type: Target Type
+    id_number: Financial Institution
   - uid: '178954'
     id_type: SWIFT/BIC
     id_number: TIMERU2K
@@ -82,7 +85,4 @@ id_list:
   - uid: '178956'
     id_type: Organization Established Date
     id_number: 03 Oct 1991
-  - uid: '178955'
-    id_type: Target Type
-    id_number: Financial Institution
 remarks: "(Linked To: RUSSIAN FINANCIAL CORPORATION)"

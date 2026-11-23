@@ -24,15 +24,15 @@ id_list:
     id_type: 'RUC #'
     id_number: 921299-2-23411
     id_country: Panama
-  - uid: '204322'
-    id_type: Organization Established Date
-    id_number: 13 Mar 2006
-  - uid: '204659'
-    id_type: 'Organization Type:'
-    id_number: Legal activities
   - uid: '204791'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 2 of E.O. 13902
   - uid: '204323'
     id_type: Website
     id_number: karnakiskarnakis.com
+  - uid: '204322'
+    id_type: Organization Established Date
+    id_number: 13 Mar 2006
+  - uid: '204659'
+    id_type: 'Organization Type:'
+    id_number: Legal activities

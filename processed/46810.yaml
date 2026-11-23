@@ -39,10 +39,10 @@ id_list:
     id_type: Enterprise Number
     id_number: 0677.702.574
     id_country: Belgium
-  - uid: '167616'
-    id_type: Target Type
-    id_number: Private Company
   - uid: '177013'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '167616'
+    id_type: Target Type
+    id_number: Private Company
 remarks: "(Linked To: DE GEETERE, Hans)"

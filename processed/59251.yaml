@@ -1,0 +1,42 @@
+---
+uid: '59251'
+first_name: Mohammad Javad
+last_name: BAVAND
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '91301'
+    country: Iran
+id_list:
+  items:
+  - uid: '54247'
+    id_type: Passport
+    id_number: D10009993
+    id_country: Iran
+    expiration_date: 15 Jun 2027
+  - uid: '54253'
+    id_type: National ID No.
+    id_number: '0074909959'
+    id_country: Iran
+  - uid: '205226'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '205212'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 2 of E.O. 13902
+  - uid: '205214'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '105213'
+    date_of_birth: '08 May 1984'
+    main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '105215'
+    country: Iran
+    main_entry: 'true'

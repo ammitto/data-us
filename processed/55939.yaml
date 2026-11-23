@@ -24,6 +24,9 @@ id_list:
     id_type: Registration Number
     id_number: '00014627'
     id_country: Cambodia
+  - uid: '194006'
+    id_type: Organization Established Date
+    id_number: 28 Apr 2015
   - uid: '194007'
     id_type: SWIFT/BIC
     id_number: PINCKHPPXXX
@@ -33,7 +36,4 @@ id_list:
   - uid: '194111'
     id_type: Target Type
     id_number: Financial Institution
-  - uid: '194006'
-    id_type: Organization Established Date
-    id_number: 28 Apr 2015
 remarks: "(Linked To: CHEN, Zhi)"

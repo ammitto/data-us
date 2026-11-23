@@ -24,12 +24,12 @@ id_list:
     id_type: Passport
     id_number: YB3263805
     id_country: Italy
-  - uid: '178238'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '178237'
     id_type: Gender
     id_number: Male
+  - uid: '178238'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 date_of_birth_list:
   items:
   - uid: '78236'

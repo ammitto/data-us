@@ -1,0 +1,42 @@
+---
+uid: '59252'
+first_name: Majid
+last_name: TAJ
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '91303'
+    country: Iran
+id_list:
+  items:
+  - uid: '54251'
+    id_type: National ID No.
+    id_number: '1286822904'
+    id_country: Iran
+  - uid: '54252'
+    id_type: Passport
+    id_number: X62252383
+    id_country: Iran
+    expiration_date: 25 Apr 2028
+  - uid: '205217'
+    id_type: Gender
+    id_number: Male
+  - uid: '205216'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 2 of E.O. 13902
+  - uid: '205227'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '105218'
+    date_of_birth: 22 Mar 1969
+    main_entry: 'true'
+nationality_list:
+  items:
+  - uid: '105219'
+    country: Iran
+    main_entry: 'true'

@@ -38,6 +38,9 @@ id_list:
     id_type: Tax ID No.
     id_number: '4708007089'
     id_country: Russia
+  - uid: '125601'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 4
   - uid: '125440'
     id_type: Nationality of Registration
     id_number: Russia
@@ -54,8 +57,5 @@ id_list:
   - uid: '183037'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
-  - uid: '125601'
-    id_type: Executive Order 13662 Directive Determination -
-    id_number: Subject to Directive 4
 remarks: 'For more information, please reference the following link: http://www.treasury.gov/resource-center/sanctions/OFAC-Enforcement/Pages/OFAC-Recent-Actions.aspx;
   (Linked To: SURGUTNEFTEGAS)'

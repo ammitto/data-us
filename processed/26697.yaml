@@ -46,9 +46,6 @@ address_list:
     country: Turkey
 id_list:
   items:
-  - uid: '131388'
-    id_type: Gender
-    id_number: Male
   - uid: '186882'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
@@ -59,6 +56,9 @@ id_list:
   - uid: '131387'
     id_type: Phone Number
     id_number: '9647734097694'
+  - uid: '131388'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '31390'

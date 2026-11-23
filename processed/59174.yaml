@@ -1,0 +1,45 @@
+---
+uid: '59174'
+first_name: Ibrahim
+last_name: KHECHEN
+sdn_type: Individual
+program_list:
+  programs:
+  - SDGT
+address_list:
+  items:
+  - uid: '91207'
+    country: Lebanon
+id_list:
+  items:
+  - uid: '54154'
+    id_type: Passport
+    id_number: '1352745'
+    id_country: Lebanon
+    expiration_date: 25 Jul 2009
+  - uid: '54226'
+    id_type: National ID No.
+    id_number: '000040505200'
+    id_country: Lebanon
+  - uid: '205022'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
+      Sanctions Regulations
+  - uid: '204998'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '205000'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '104999'
+    date_of_birth: 10 Jun 1992
+    main_entry: 'true'
+remarks: "(Linked To: HIZBALLAH)"
+nationality_list:
+  items:
+  - uid: '105001'
+    country: Lebanon
+    main_entry: 'true'

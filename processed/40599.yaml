@@ -19,12 +19,12 @@ id_list:
     id_number: F49973222
     id_country: Iran
     expiration_date: 27 Aug 2024
-  - uid: '157914'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '157878'
     id_type: Gender
     id_number: Male
+  - uid: '157914'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '57915'

@@ -1,0 +1,43 @@
+---
+uid: '59233'
+first_name: Mohammad Hossein
+last_name: ABBASI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '91293'
+    country: Iran
+id_list:
+  items:
+  - uid: '54218'
+    id_type: National ID No.
+    id_number: '0058581758'
+    id_country: Iran
+  - uid: '205160'
+    id_type: Gender
+    id_number: Male
+  - uid: '205162'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 2 of E.O. 13902
+  - uid: '205233'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '105167'
+    date_of_birth: 23 Aug 1977
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '105168'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: MELLAT EXCHANGE COMPANY)"
+nationality_list:
+  items:
+  - uid: '105161'
+    country: Iran
+    main_entry: 'true'

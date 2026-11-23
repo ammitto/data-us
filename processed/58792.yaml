@@ -1,0 +1,44 @@
+---
+uid: '58792'
+first_name: Cosimo
+last_name: FIGLIOMENI
+sdn_type: Individual
+program_list:
+  programs:
+  - ILLICIT-DRUGS-EO14059
+aka_list:
+  items:
+  - uid: '90944'
+    type: a.k.a.
+    category: weak
+    last_name: Mino
+  - uid: '90945'
+    type: a.k.a.
+    category: weak
+    last_name: Cosimino
+address_list:
+  items:
+  - uid: '90616'
+    state_or_province: Ontario
+    country: Canada
+id_list:
+  items:
+  - uid: '201772'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '101770'
+    date_of_birth: 06 Feb 1965
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '101771'
+    place_of_birth: Siderno, Calabria, Italy
+    main_entry: 'true'
+remarks: "(Linked To: 'NDRANGHETA)"
+nationality_list:
+  items:
+  - uid: '101773'
+    country: Italy
+    main_entry: 'true'

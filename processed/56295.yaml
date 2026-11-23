@@ -48,10 +48,10 @@ id_list:
     id_type: Tax ID No.
     id_number: '40760885'
     id_country: Ukraine
-  - uid: '194409'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '194410'
     id_type: Organization Established Date
     id_number: 19 Aug 2016
+  - uid: '194409'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 remarks: "(Linked To: IRAN AIRCRAFT MANUFACTURING INDUSTRIAL COMPANY)"

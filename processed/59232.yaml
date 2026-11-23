@@ -1,0 +1,43 @@
+---
+uid: '59232'
+first_name: Parviz
+last_name: FAZLJU
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '91291'
+    country: Iran
+id_list:
+  items:
+  - uid: '54217'
+    id_type: National ID No.
+    id_number: '2850187267'
+    id_country: Iran
+  - uid: '205157'
+    id_type: Gender
+    id_number: Male
+  - uid: '205231'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '205159'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 2 of E.O. 13902
+date_of_birth_list:
+  items:
+  - uid: '105165'
+    date_of_birth: 16 Mar 1979
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '105166'
+    place_of_birth: Salmas, Iran
+    main_entry: 'true'
+remarks: "(Linked To: MELLAT EXCHANGE COMPANY)"
+nationality_list:
+  items:
+  - uid: '105158'
+    country: Iran
+    main_entry: 'true'

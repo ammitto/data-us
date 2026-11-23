@@ -25,6 +25,9 @@ address_list:
     country: Iran
 id_list:
   items:
+  - uid: '137292'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
   - uid: '204656'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 2 of E.O. 13902
@@ -34,7 +37,4 @@ id_list:
   - uid: '137346'
     id_type: Website
     id_number: www.bki.ir
-  - uid: '137292'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
 remarks: all offices worldwide

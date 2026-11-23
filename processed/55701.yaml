@@ -13,15 +13,15 @@ id_list:
   - uid: '49758'
     id_type: MMSI
     id_number: '477957100'
+  - uid: '202414'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 2 of E.O. 13902
   - uid: '193381'
     id_type: Vessel Year of Build
     id_number: '2005'
   - uid: '194035'
     id_type: Former Vessel Flag
     id_number: Hong Kong
-  - uid: '202414'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 2 of E.O. 13902
 remarks: "(Linked To: ABGO TRADING LIMITED)"
 vessel_info:
   call_sign: VRWC5

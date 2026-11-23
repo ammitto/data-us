@@ -13,12 +13,12 @@ id_list:
   - uid: '45243'
     id_type: MMSI
     id_number: '374128000'
-  - uid: '183766'
-    id_type: Other Vessel Flag
-    id_number: Djibouti
   - uid: '202625'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 2 of E.O. 13902
+  - uid: '183766'
+    id_type: Other Vessel Flag
+    id_number: Djibouti
 remarks: "(Linked To: ROSE SHIPPING LIMITED)"
 vessel_info:
   call_sign: 3FSO7

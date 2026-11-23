@@ -18,12 +18,12 @@ id_list:
     id_number: F57122360
     id_country: Iran
     expiration_date: 15 Jun 2027
-  - uid: '179253'
-    id_type: Gender
-    id_number: Male
   - uid: '179285'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '179253'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '79252'

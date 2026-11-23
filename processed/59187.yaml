@@ -1,0 +1,37 @@
+---
+uid: '59187'
+last_name: IRAN CENTER FOR EXCHANGE OF CURRENCY AND GOLD
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '91231'
+    address1: Floor 2, No. 70, Shahid Khaled Islambouli Street
+    address2: 30th Alley, Argentina-Saei
+    city: Tehran
+    state_or_province: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '54179'
+    id_type: National ID No.
+    id_number: '14012122602'
+    id_country: Iran
+  - uid: '54180'
+    id_type: Registration Number
+    id_number: '611059'
+    id_country: Iran
+  - uid: '205021'
+    id_type: Organization Established Date
+    id_number: 04 Apr 2023
+  - uid: '205196'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 2 of E.O. 13902
+  - uid: '205234'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '205019'
+    id_type: Website
+    id_number: www.ice.ir

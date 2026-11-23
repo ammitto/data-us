@@ -30,13 +30,13 @@ id_list:
     id_number: N57471789
     id_country: Iran
     expiration_date: 04 Jul 2027
+  - uid: '194142'
+    id_type: Gender
+    id_number: Male
   - uid: '194144'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
-  - uid: '194142'
-    id_type: Gender
-    id_number: Male
 date_of_birth_list:
   items:
   - uid: '94141'

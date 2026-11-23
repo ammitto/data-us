@@ -1,0 +1,50 @@
+---
+uid: '59126'
+first_name: Farzad
+last_name: FASHKI
+sdn_type: Individual
+program_list:
+  programs:
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '91492'
+    type: a.k.a.
+    category: strong
+    last_name: FESHKI
+    first_name: Farzad
+address_list:
+  items:
+  - uid: '91150'
+    country: Iran
+id_list:
+  items:
+  - uid: '54110'
+    id_type: National ID No.
+    id_number: '0012841870'
+    id_country: Iran
+  - uid: '204946'
+    id_type: Gender
+    id_number: Male
+  - uid: '204948'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 2 of E.O. 13902
+  - uid: '205235'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+date_of_birth_list:
+  items:
+  - uid: '105169'
+    date_of_birth: 10 Dec 1990
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '105170'
+    place_of_birth: Tehran, Iran
+    main_entry: 'true'
+remarks: "(Linked To: MINA FASHKI AND PARTNERS EXCHANGE COMPANY)"
+nationality_list:
+  items:
+  - uid: '104947'
+    country: Iran
+    main_entry: 'true'

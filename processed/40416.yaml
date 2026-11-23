@@ -30,12 +30,12 @@ id_list:
     id_number: G9336_77
     id_country: Iran
     expiration_date: 27 Oct 2019
-  - uid: '157572'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '157571'
     id_type: Gender
     id_number: Male
+  - uid: '157572'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '57569'

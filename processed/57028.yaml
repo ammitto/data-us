@@ -30,6 +30,12 @@ id_list:
     id_type: National ID No.
     id_number: '4324461872'
     id_country: Iran
+  - uid: '196299'
+    id_type: Email Address
+    id_number: radamir@gmail.com
+  - uid: '196300'
+    id_type: Email Address
+    id_number: arad@nobitex.ir
   - uid: '198458'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
@@ -46,12 +52,6 @@ id_list:
   - uid: '196315'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
-  - uid: '196299'
-    id_type: Email Address
-    id_number: radamir@gmail.com
-  - uid: '196300'
-    id_type: Email Address
-    id_number: arad@nobitex.ir
 date_of_birth_list:
   items:
   - uid: '96285'

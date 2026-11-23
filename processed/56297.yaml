@@ -18,12 +18,12 @@ id_list:
     id_type: Identification Number
     id_number: '02667099'
     id_country: India
-  - uid: '194417'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '194416'
     id_type: Gender
     id_number: Male
+  - uid: '194417'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '94413'
